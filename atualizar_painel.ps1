@@ -11,8 +11,17 @@ $logPath = Join-Path $root 'atualizar_painel.log'
 
 $ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
 
+# O horário do sistema varia conforme onde o script roda (PC local em horário
+# de Brasília, mas o runner do GitHub Actions usa UTC) — por isso convertemos
+# explicitamente pra Brasília em vez de confiar no relógio local da máquina.
+function Get-AgoraBrasilia(){
+  try{ $tz = [System.TimeZoneInfo]::FindSystemTimeZoneById('America/Sao_Paulo') }
+  catch{ $tz = [System.TimeZoneInfo]::FindSystemTimeZoneById('E. South America Standard Time') }
+  return [System.TimeZoneInfo]::ConvertTimeFromUtc([DateTime]::UtcNow, $tz)
+}
+
 function Write-Log($msg){
-  $line = "[{0}] {1}" -f (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'), $msg
+  $line = "[{0}] {1}" -f (Get-AgoraBrasilia).ToString('yyyy-MM-dd HH:mm:ss'), $msg
   Add-Content -Path $logPath -Value $line -Encoding UTF8
 }
 
@@ -32,7 +41,8 @@ if(Test-Path $dadosJsonPath){
 }
 
 $avisos = New-Object System.Collections.Generic.List[string]
-$hojeISO = Get-Date -Format 'yyyy-MM-dd'
+$agoraBrasilia = Get-AgoraBrasilia
+$hojeISO = $agoraBrasilia.ToString('yyyy-MM-dd')
 
 # ---------- 1) Futebol na TV (futebolnatv.com.br) — hoje e amanhã ----------
 function Get-FutebolDoDia($url, $dataISO, $ua){
@@ -72,7 +82,7 @@ function Get-FutebolDoDia($url, $dataISO, $ua){
 }
 
 $jogosFutebol = @()
-$amanhaISO = (Get-Date).AddDays(1).ToString('yyyy-MM-dd')
+$amanhaISO = $agoraBrasilia.AddDays(1).ToString('yyyy-MM-dd')
 try{
   $jogosFutebol += Get-FutebolDoDia 'https://www.futebolnatv.com.br/' $hojeISO $ua
   try{
@@ -225,7 +235,7 @@ try{
 
 # ---------- Grava dados.json e dados.js ----------
 $painelData = [PSCustomObject]@{
-  atualizado_em = Get-Date -Format 'dd/MM/yyyy HH:mm'
+  atualizado_em = $agoraBrasilia.ToString('dd/MM/yyyy HH:mm')
   jogos         = $jogos
   clima         = $clima
   noticias      = $noticias

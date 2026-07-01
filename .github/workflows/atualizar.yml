@@ -1,0 +1,28 @@
+name: Atualizar Painel da Bola
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rodar atualizacao
+        shell: pwsh
+        run: ./atualizar_painel.ps1 -NoOpen
+
+      - name: Commitar dados novos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados.json dados.js
+          git diff --staged --quiet || git commit -m "Atualiza dados automaticamente"
+          git push
