@@ -389,6 +389,37 @@
     text-align: center;
     line-height: 1.6;
   }
+
+  @media (max-width: 480px){
+    .wrap{ padding: 16px 12px 40px; }
+    .title-row{ gap: 8px; }
+    .escudo{ height: 42px; }
+    h1{ font-size: 30px; }
+    .subtitle{ font-size: 11px; }
+    .clock{ font-size: 17px; }
+
+    .tabs{
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      max-width: 100%;
+    }
+    .tabs::-webkit-scrollbar{ display: none; }
+    .tab{ flex-shrink: 0; padding: 6px 11px; font-size: 12px; }
+    .refresh-btn{ font-size: 12px; padding: 8px 12px; }
+
+    .flu-hero{ flex-direction: column; align-items: flex-start; }
+    .flu-hero .channels{ justify-content: flex-start; }
+    .flu-hero .match{ font-size: 24px; }
+
+    .row{ grid-template-columns: 60px 1fr auto; gap: 8px; padding: 12px 10px; }
+    .channel-badge{ font-size: 10px; padding: 2px 6px; }
+    .info .match{ font-size: 14px; }
+
+    .link-form{ flex-direction: column; }
+    .link-form button{ width: 100%; }
+  }
 </style>
 </head>
 <body>
