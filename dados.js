@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/07/2026 07:19",
+  "atualizado_em": "02/07/2026 14:13",
   "jogos": [
     {
       "sport": "futebol",
@@ -70,6 +70,18 @@ window.PAINEL_DATA = {
         "SPORTV",
         "CAZÉTV",
         "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "River Plate x Flamengo",
+      "channels": [
+        "SPORTV 2",
+        "PREMIERE",
+        "GE TV"
       ]
     },
     {
@@ -163,22 +175,22 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.2,
-      "temp_min": 20.1,
+      "temp_max": 27.1,
+      "temp_min": 19.0,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.0,
+      "temp_max": 27.3,
       "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.7,
-      "temp_min": 14.6,
+      "temp_max": 24.8,
+      "temp_min": 14.4,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
@@ -190,27 +202,25 @@ window.PAINEL_DATA = {
       "data": "01/07 05:00"
     },
     {
-      "titulo": "De férias no RJ, atacante do Chelsea realiza sonho de conhecer ídolo do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMUsxSzAzOHBwM3lUU3BuYjRKN3lWVDg0RTZpQzRhOVFpdWl3X0U2Q2tzZXFuNzlQRzJIVlluZndzTEZUZHhic3NGVXpBbndhZ1V1RWRNUHd1VFNMTjluaEpDUGphZlNHTV9iOXk0clRuSWp6dXRnWVBQUUxYY19NVEVteWY5WFNydHlGWnN4elJMT2pRS2dack9KTmQxMUNPTjd2RVZvTUVhT1Jya0tGSTQ2aDBBODBWaEQ1RFVUTmZTb1huc1lzSXMzMUYxOGpZS0lsQmJLOWNpVGdQNHFIUk9VQWIzdTJCM3ZFSkgzdG1YcVMyUWhxZkd5UHdwdXYzWlE?oc=5",
-      "data": "01/07 21:21"
+      "titulo": "Bastidores: atitude de Thiago Silva na chegada ao Fluminense deixa recado - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0xlaXJRME5lbG5KUmFwWERadjgyYk5xUFlrZmxyMGFsamdPNkFNOWNaQlZqWG5qMWxncmdaeWJ3LTQ5dy1rVlc0UVVrT2dPZDI5NGE5ZGw3N1JNLW40NGpCYTBKeEg5dWVtQXZjRmJNZjhNOFVMMzlGSVVfbS1ZTlhPSVRkVlJvUlVrV0kwajQzbmRXOF9uYm9kTmxob2Z4c3czT1VyRG5wWlU1MTVkMHU0WQ?oc=5",
+      "data": "02/07 07:00"
     },
     {
-      "titulo": "Fluminense abre venda de ingressos para amistosos no Maracanã - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObXRfbXpocW5JQmEtRlRQN0F2dk45X0FpMzY0ZFVXcXVSOXcwWTFXWFJuVlJPMG44NXYtVUlNTFctRE9DX0txWWNqeEhSRlZ6WF9FRXVKc2xwN0hhVHp5d2pZUktCaFJDQnZBNWt5bXVic0thMTZaMXdLOUd5RGRkNXI3QzFoZHhxYzZodlI1N190SlNEOVFtRllRTkJWckNxRWM1dlV2SnZ1RDYzLTd2RUk4Tmp6NFNsVGs4VmhBajExemJzY1BNMGIzd9IB0AFBVV95cUxOSF94TFNrS01LdHBQaTFtOEdhdTRfWGYyME1wUnZkTEl4LVBhbUFGNko3ZjNfOU5ocVVDbGlGZHg5M04waDFkUVJnbUxHTE1FbjdnNjRzdmk2M19PeVlfaGlXOGdFc0c3SVNvaUFyZ0RDeGd1R3lGMWlqZjJlZDcyNjNoZHFjaV84V2dDSzhCdFRad3ZYZjlZdDJhZGlJMmZzdm5Ocm9OYlh1TEhzYk1ERFNFQ014czk4NjdkZl9RY2NPX0lweXZoSjhKLVNtcnBC?oc=5",
-      "data": "01/07 20:15"
+      "titulo": "Faltam 15 dias: como está o Fluminense para a volta do Brasileirão? - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejFLdjBhM0o5Z093dXIzMk1KOGdJalJDWFFKQ0tDeEw4WFhydTByNWJMTDU1QVgtWXk1dTdyR0ZVOU9tV1BUaVA1VnJDc055V2E3WjIwWElBQnN4cUJ6d25wWW9BRDVYUk9VNmRsZWsxcmhSbUJxOVNrVFpJR0lsYUdCaWRBMTI2clhBOTd0VXIzWVhpSkxRREw4YjVxQlBuNVZ5dFhuN2FvckNfODB5aHZ0aVJjdzVvanRURDVZeUV2VlVsRnAzYUhLRzNkdVFR0gHWAUFVX3lxTE1XbURtZVVBa29hU1pTVVRuMzFPMXM5SjNpeWlDRFUwQy16RHY4aDNoNU95X3F4cjViX1pvU005VmcxUVBfWUVHLUxoa29OdFAtLUtzbmtNbVBKZXZPU2dxb3lKT2tCVDlsZG45SXJfUjF0c3g2OEhXWmRlQkM5djYycVZQV2h0MzhnZmFEckcyNGx1OGNoRzBWZjVMVmF5Q1ZJcnVLOHhQRXNzQkIzb0pjOFdMSFpidzF6SlZPOWJ6SVBXMFF3WVJXT19RNXVmaHdDVDVmdXc?oc=5",
+      "data": "02/07 16:03"
     },
     {
-      "titulo": "Quem foi Preguinho, artilheiro do Fluminense e primeiro capitão da Seleção em uma Copa do Mundo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMGIzcTROMkRuWVlkTE5BaVQ5Skx2bXZ2NDZlelNVYjVLU3BPNlhGM21PQ0NGcnQ4eUF4cVRVeEdVbEdKQmlPeURGR1NRdHkxSmFSTURyYWhHNEctRTZNc1dPVHFmZ3hpLU9aX2xqZ3BBMU50Sm1zTGNn?oc=5",
-      "data": "01/07 23:06"
+      "titulo": "Informações de ingressos para amistosos contra Nova Iguaçu e Bahia no Maracanã - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbF9MVVpVRUJHcFVhbVA5blVaOGdSRm9sNmVtUk9OeUsyZHJabjlSOUpuLVNTRVlqQ1pPWUpRMXJhbHotQ3JYaXFGQldIcE9uYzFFSWdBaXp0elNtRGtUdzhNZTg4bmM4QU9WTmgteVBLX294YUpQblhaZ3JRUFhKaFhlNUNBZXdVMkZpMk8xVnhsYWpla2xuN2dVdlNPeE9rZ1dTWG5TQmN2LWd0THN6d2J3blVIRjQ?oc=5",
+      "data": "30/06 23:56"
     },
     {
-      "titulo": "Thiago Silva celebra retorno ao Fluminense e indica 'última dança' - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdW9qT2hmcnp2U01nR1dtNVk5WnJuWlNTcjMyc2tQOGlTSTdSYmlVUmh6d3N5U1UyUHBfMVl0U3JoRGhjMDlyNVFCcURib3o5YmxaanZiemU3Rks3b0pxSFd4VGlSbHl3N0lnQ3o3SWdBZk9DU0dNenJiWjB1UFVBc0xvZU5nYmtacmpQZ3dsVzR2bUpQdlpsX3ZvWXpaT3pqVUxLVXpsdXZYd0NqNjU0anpaU05VV19aT1ZwVXE0TTZPUGlmMm5USTFod2Zrc0hKa1E?oc=5",
-      "data": "01/07 12:30"
+      "titulo": "Zenit fecha as portas para Palmeiras e Fluminense, e Nino pode acabar em outro clube europeu - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT01sNlk4dFVhUmxHa2ROcEZOR3NBR0tNYmNxcUM4aGRXRVF1ZmZvUmdzSVU4YnVBT2xHazRVUEl1RHVvcUpacjJQSEVIQkI5MWVVNWprNkhQMlBFMW02dVlWUDZNTkItdnRUMW9ObTdvdm5DdTduY3lYZVp6eVlrWUlvcG9lb2V2YW9MM0ZuWVNya2ZMM3NYVktXYk9yMDBEY3doVWJBTzVVM0xQd2tRVWp6dUZ4aGZQd3RGaXpOYnJGMVRYV2FjWQ?oc=5",
+      "data": "30/06 15:19"
     }
   ],
-  "avisos": [
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
