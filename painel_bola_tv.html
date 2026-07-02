@@ -426,7 +426,7 @@
       <button class="tab" data-sport="aovivo">Ao Vivo</button>
       <button class="tab" data-sport="links">Links</button>
     </div>
-    <button class="refresh-btn" id="refresh-btn" title="Recarrega a página com os últimos dados já salvos — não busca dados novos na internet.">Recarregar página</button>
+    <button class="refresh-btn" id="refresh-btn" title="Busca os dados mais recentes publicados (a atualização automática roda a cada hora).">Verificar atualização</button>
   </div>
 
   <div class="board" id="board">
@@ -729,10 +729,8 @@ function checkStale(data){
   banner.textContent = `⚠ Estes dados são de ${escapeHtml(data.atualizado_em || '?')} — a atualização automática pode não ter rodado hoje. Use o atalho "Atualizar Painel Agora" na área de trabalho.`;
 }
 
-function boot(){
+function applyData(data){
   const statusLine = document.getElementById('status-line');
-  const data = window.PAINEL_DATA;
-
   if(!data){
     statusLine.textContent = 'dados ainda não foram gerados — rode "atualizar_painel.ps1" uma vez';
     document.getElementById('board').innerHTML = '<div class="error-box">Nenhum dado encontrado (dados.js ausente). A atualização automática roda sozinha ao ligar o computador — se é a primeira vez, rode o script manualmente.</div>';
@@ -744,16 +742,59 @@ function boot(){
   statusLine.textContent = `atualizado em ${data.atualizado_em || '?'}` + (Array.isArray(data.avisos) && data.avisos.length ? ` · ${data.avisos.length} aviso(s)` : '');
   checkStale(data);
   allMatches = Array.isArray(data.jogos) ? data.jogos.filter(m => m && m.match) : [];
-  renderGames();
+
+  const linksVisible = document.getElementById('links-panel').style.display === 'block';
+  if(!linksVisible) renderGames();
   renderFluHero();
   renderWeather(data.clima);
   renderNews(data.noticias);
+}
+
+// No arquivo local (file://) não dá pra buscar dados.json via fetch por causa
+// de restrição de CORS do navegador — só funciona hospedado em http(s), que é
+// o caso do link do GitHub Pages.
+const isHosted = location.protocol.indexOf('http') === 0;
+
+async function fetchLatestData(){
+  if(!isHosted) return false;
+  try{
+    const resp = await fetch('dados.json?t=' + Date.now(), { cache: 'no-store' });
+    if(!resp.ok) return false;
+    const data = await resp.json();
+    window.PAINEL_DATA = data;
+    applyData(data);
+    return true;
+  }catch(e){ return false; }
+}
+
+document.getElementById('refresh-btn').addEventListener('click', async () => {
+  const btn = document.getElementById('refresh-btn');
+  if(!isHosted){
+    location.reload();
+    return;
+  }
+  const original = btn.textContent;
+  btn.disabled = true;
+  btn.textContent = 'Verificando...';
+  const ok = await fetchLatestData();
+  btn.textContent = ok ? 'Atualizado!' : 'Falhou, tente de novo';
+  btn.disabled = false;
+  setTimeout(() => { btn.textContent = original; }, 2500);
+});
+
+function boot(){
+  applyData(window.PAINEL_DATA);
 
   // recalcula quem está "ao vivo" a cada minuto, sem precisar recarregar a página
   setInterval(() => {
     renderGames();
     renderFluHero();
   }, 60000);
+
+  // no link hospedado, confere sozinho por dados novos a cada 5 minutos
+  if(isHosted){
+    setInterval(fetchLatestData, 5 * 60 * 1000);
+  }
 }
 
 boot();
