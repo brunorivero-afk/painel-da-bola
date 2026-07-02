@@ -1,44 +1,6 @@
 {
-  "atualizado_em": "01/07/2026 20:44",
+  "atualizado_em": "02/07/2026 07:19",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-01",
-      "time": "21:00",
-      "competition": "Copa do Mundo",
-      "match": "Estados Unidos x Bósnia e Herzegovina",
-      "channels": [
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-01",
-      "time": "13:00",
-      "competition": "Copa do Mundo",
-      "match": "Inglaterra x Congo DR",
-      "channels": [
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-01",
-      "time": "17:00",
-      "competition": "Copa do Mundo",
-      "match": "Bélgica x Senegal",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "NSPORTS",
-        "GE TV",
-        "PRIME VIDEO"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-02",
@@ -87,8 +49,69 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "00:00",
+      "competition": "Copa do Mundo",
+      "match": "Suíça x Argélia",
+      "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "15:00",
+      "competition": "Copa do Mundo",
+      "match": "Austrália x Egito",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "19:00",
+      "competition": "Copa do Mundo",
+      "match": "Argentina x Cabo verde",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "NSPORTS",
+        "GE TV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "22:30",
+      "competition": "NWSL Feminina",
+      "match": "Denver Summit (F) x Kansas City (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "22:30",
+      "competition": "Copa do Mundo",
+      "match": "Colômbia x Gana",
+      "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "11:45",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Japão",
@@ -98,7 +121,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "15:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Eslovênia x Brasil",
@@ -108,7 +131,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Irã x Cuba",
@@ -118,7 +141,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "11:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Canadá x Brasil",
@@ -128,7 +151,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "15:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Eslovênia x Itália",
@@ -140,24 +163,24 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.2,
-      "temp_min": 20.6,
-      "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 29.8,
-      "temp_min": 19.9,
+      "temp_max": 27.2,
+      "temp_min": 20.1,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.4,
-      "temp_min": 15.2,
+      "cidade": "Araruama",
+      "temp_max": 28.0,
+      "temp_min": 17.8,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
+    },
+    {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 24.7,
+      "temp_min": 14.6,
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     }
   ],
   "noticias": [
@@ -187,5 +210,7 @@
       "data": "01/07 12:30"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 }
