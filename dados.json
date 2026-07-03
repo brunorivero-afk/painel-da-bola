@@ -1,64 +1,6 @@
 {
-  "atualizado_em": "02/07/2026 18:53",
+  "atualizado_em": "03/07/2026 06:45",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-02",
-      "time": "20:00",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x América-MG",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-02",
-      "time": "20:00",
-      "competition": "Copa do Mundo",
-      "match": "Portugal x Croácia",
-      "channels": [
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-02",
-      "time": "21:00",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Ponte Preta",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-02",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Espanha x Áustria",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "GE TV",
-        "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-03",
-      "time": "00:00",
-      "competition": "Copa do Mundo",
-      "match": "Suíça x Argélia",
-      "channels": [
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-03",
@@ -122,51 +64,280 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "00:00",
+      "competition": "Copa do Mundo",
+      "match": "Suíça x Argélia",
+      "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "14:00",
+      "competition": "Copa do Mundo",
+      "match": "Canadá x Marrocos",
+      "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Ponte Preta Sub-20 x Santos Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x XV de Piracicaba Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Sport Recife",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x CRB",
+      "channels": [
+        "REDETV!",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x Atlético GO",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maranhão x Inter De Limeira",
+      "channels": [
+        "BAND",
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "18:00",
+      "competition": "Copa do Mundo",
+      "match": "Paraguai x França",
+      "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "19:00",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Barra",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "19:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Volta Redonda",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Ituano",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "20:00",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Ceará",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Toronto II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "20:30",
+      "competition": "Brasileirão Série C",
+      "match": "Guarani x Floresta",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "20:30",
+      "competition": "Brasileirão Série C",
+      "match": "Ferroviária x Caxias",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "21:45",
+      "competition": "MLS Next Pro",
+      "match": "North Texas x St. Louis City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-02",
-      "time": "11:45",
+      "date": "2026-07-03",
+      "time": "21:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "EUA x Japão",
+      "match": "Vôlei de Praia - Quartas de Final - Gstaad, Suíça",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-02",
-      "time": "15:10",
+      "date": "2026-07-03",
+      "time": "22:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Eslovênia x Brasil",
+      "match": "Vôlei de Praia - Quartas de Final - Gstaad, Suíça",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-02",
-      "time": "08:15",
+      "date": "2026-07-03",
+      "time": "23:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Irã x Cuba",
+      "match": "Vôlei de Praia - Quartas de Final - Gstaad, Suíça",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-02",
-      "time": "11:10",
+      "date": "2026-07-03",
+      "time": "13:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Canadá x Brasil",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-02",
-      "time": "15:15",
+      "date": "2026-07-03",
+      "time": "14:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Eslovênia x Itália",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-03",
+      "time": "05:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-03",
+      "time": "06:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-03",
+      "time": "08:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-03",
+      "time": "09:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-03",
+      "time": "23:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Turquia x Polônia",
       "channels": [
         "SporTV2"
       ]
@@ -175,51 +346,51 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.7,
-      "temp_min": 20.0,
+      "temp_max": 26.5,
+      "temp_min": 19.6,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.7,
-      "temp_min": 17.8,
+      "temp_max": 25.9,
+      "temp_min": 18.0,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.6,
-      "temp_min": 14.4,
-      "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "temp_max": 25.1,
+      "temp_min": 14.7,
+      "chance_chuva": 57,
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense disputará amistoso de intertemporada contra São Cristóvão - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPem5yUFE5djFMU00tTGZxMVFINUpNS0FjVWx6d0dkSW5uT1lUQ2FUel80RjlUU1JubFlMLVp2Z1hqek95Q0w1MnItRHV5dE1SRGpveE01endibENaY2luMldwbWZON0RGMzNmNjd6eksxYXo2UGoyRjcwQ3BTQnMwU3d1azkxbHE1Y3N3ZDJRQngxbk1odW91T3ktQWJPaDR4MTljNWRuYlVESld5eEQ2Sm9XODRscmFoZy12SE5NZGpwb2hrXzc0NnhlOVBZWXY5V1h1QtIB4wFBVV95cUxORzV6QzR2NHVaWnpIZE5GY3BvR1BlT0o4ZVF4SHhSQi1WQWFBdjZtVGpHOXZTMlpKUlBhU1BaSEFYWGNHem5ZU0NIUHA0ZmJBbWFYTERpNjUyQ1BsODl0azU3amVncHhxaXgwWlNRdnRuMkxNdTZJU0tKeTh6QU9xQTNRX0pBT0lVVEZwSDh3YnlrVVZVTXl2VVkyQzRlVUVjZHUzd09iRGFlRmh5RlNFUHU1V1A2UXFLODZZMlRiWDM1LWNuY3M1Yk5fMGZLWTVyZUVtOElBWU1MNkFtN3h1QUo4MA?oc=5",
-      "data": "02/07 19:21"
+      "titulo": "Faltam 18: Cano tem missão final de tornar Fluminense como clube com mais gols na carreira; veja corrida - GE",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1ZBOENoT2Q4M255ckdrV08tY3Nqa2VfeF9KYVZNMk5UYkNqalhPYnExM2NaVHppZS0yX1RvZ3ZGTWh3Yl9KbnozTWpibjBRcFpDalZwMjU0YzRvemRJZkdLdHNBOTN0SjdWS0RrV0o3emVpZldTaF9LY0NpdlVaN01tbFhhTW56RW1wU2FIYzRPWDBrSWtXalkwSy1qd1pmMHo4SnpINm53SGlNZDdaVmdBdzRQS0JVWV90bW1DaGMwUWpEM2JZaFdLYUxHckFSamd4b2xENG81d19zcWNpa29QR1N6b19hY3locnRGMkQwWWk3ODJFbjM3TC1RYWh1aVR30gGSAkFVX3lxTE1UNUlWUVVvcjJUamlPMkVfaTEwOWYzemRiLTRrdDRHVzJCZ2RUTGplMVNnVFlIcnJ4YlBnZXJqWHl4XzVPb3RoWDYyN09lQ1RXVU12elhuX1p3M0lPY0ZCd1AtQktJUGNHVTZiTTd4em1LX3lsaFNWdDBZTUQxNFU1YmRpTktLd3F3OVZOOW9EZ00xd1h2SGVocHp0V2dWbVZUZnhlUjVwem4ybF9MZXNYUVhkeEJkRnQyNUpKVF92ekxOZ0dGWDUyMWYtR2VoQWF6NUhITDk4ZHN4VWZLbm1Ra2xYaDFYOTVwSDhpVi1oZnpQQmlnLWJlYnJPcEZnRl9HTmlkY3IwRmcwYUo4WlAzT0E?oc=5",
+      "data": "03/07 07:01"
     },
     {
-      "titulo": "Informações de ingressos para amistosos contra Nova Iguaçu e Bahia no Maracanã - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbF9MVVpVRUJHcFVhbVA5blVaOGdSRm9sNmVtUk9OeUsyZHJabjlSOUpuLVNTRVlqQ1pPWUpRMXJhbHotQ3JYaXFGQldIcE9uYzFFSWdBaXp0elNtRGtUdzhNZTg4bmM4QU9WTmgteVBLX294YUpQblhaZ3JRUFhKaFhlNUNBZXdVMkZpMk8xVnhsYWpla2xuN2dVdlNPeE9rZ1dTWG5TQmN2LWd0THN6d2J3blVIRjQ?oc=5",
-      "data": "30/06 23:56"
+      "titulo": "Sorriso Maroto, Filipe Ret, Jota Quest e mais: confira as atrações da Flu Fest 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZYNzZqS2hGRUlzc2QwZV9SOUFkcFVERldxRDRwajFEWlFrOXk0QmNWZU9uaTZkeGpObTBXQURfQ3V1TmJtMVdxZWFZdkJlWWxaX3Fxa0s4cF9Gb01odjdKRWhoU0FWbHlWMG9kSHFVSG1GTDJOMFhGYVpMeVplYWZ2a2dnX3ZHMHJlUFFDS3haN3RJYUdjekVBRGVuSXc1SlJUcGZtaWN3SVd4U0RjMTlkRzlwckZaV3c?oc=5",
+      "data": "02/07 15:02"
     },
     {
-      "titulo": "Fluminense abre venda de ingressos para amistosos no Maracanã - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcUlCZUhUcE0wdXZ5dmNwRlFIYWR5Q0MyWUwzMm9XcEpxOEt1SmxPQmFySVp2YTJlRE9xTDR1dkFOZ0ZxX1FKc25oUFhHd01iV09sUjBqbXVYOWFmNjM1MDZLWXhYaUpkVmlubXNOd3REcWlZLUJIdHZYQWJNb3lsNmhQamplN3FzM3BaTVJpY2lBTmpzcnp3a3JKNlFwY2ZhcV9tMQ?oc=5",
-      "data": "01/07 20:03"
+      "titulo": "Fluminense x Deportivo La Guaira ao vivo pela Libertadores; acompanhe - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYUh2YUhiUlVPTE1jeDdzclJYamd4WG1wdGgwaGpSUUNGZkxJRVFCNmJTQ201U0dhQmZZTGtDTklLYWlaRWJ5RTJZVDlOUzFPd1FSb2ZSU2p4X1FVV2NILTdaN2d4ZjhiaDRzZGhad3JQanJBbEw5VXp1aTFkZjRmVzlKSFk1OERxaWRFcVJVTjFubU9IYy1GOUo3bXNSclVKak8ycUdnWWIxdURiemhoRHlGeDVyM1d5ZVVsOHBST2RVNDlzNndkNC1OcHFNTFdYU3RSZ0JoekkxWFZjOTc2ZGNBcU9YNjNmeGk5TWdMMmQ4NXI1THA5TDRFdVVNQQ?oc=5",
+      "data": "27/05 07:00"
     },
     {
-      "titulo": "Fluminense possui três jogadores que já podem assinar pré-contrato a partir deste mês - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMHRoa0V1eVZMZXFuTTIzNHVqY2tEV0ZUaDdtQnBJVmNFdkZnNWVLTG13dEJXNDkycUJfTTl0YnhGY1VyU2RkRUFFaTRaS19JODBDWUxLTXQ0Z3ZBMVJUcTF1T1d0S2hLMjRuLVNNODkyWmRoREJmZWhVaHlic0ZuZVc4TjJKaFVkTTFBT2ZTX3c4UUtDM1U1NFN6aHVOV0daTTZMRS1RY1BsSjJDeTkwb0NJUU9MYmhpSUQwOW5SamVTZDkyREk1UEpkUWlaWFNEdTY3cXZVa0NVYmhJeVo5ZEVWall3WWJHLVNmbWE5S2VVMDV3cXhsRnBMMWpMV0N1MjB3d0lHTQ?oc=5",
-      "data": "02/07 18:20"
+      "titulo": "Bastidores: atitude de Thiago Silva na chegada ao Fluminense deixa recado - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0xlaXJRME5lbG5KUmFwWERadjgyYk5xUFlrZmxyMGFsamdPNkFNOWNaQlZqWG5qMWxncmdaeWJ3LTQ5dy1rVlc0UVVrT2dPZDI5NGE5ZGw3N1JNLW40NGpCYTBKeEg5dWVtQXZjRmJNZjhNOFVMMzlGSVVfbS1ZTlhPSVRkVlJvUlVrV0kwajQzbmRXOF9uYm9kTmxob2Z4c3czT1VyRG5wWlU1MTVkMHU0WQ?oc=5",
+      "data": "02/07 07:00"
     },
     {
-      "titulo": "Formado em Xerém, ex-Fluminense é anunciado por clube do Chipre - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnJOcnRDUERFODdJZlhIa210dnlBd1V2Ul90MWd1dDJTdWRta1RIc3NGMFVKQXBaT1RnODNDdEJPSWFLWEJ6MkR1NlVTeW1WZWNycS15OXNicjlpZTRWUTZfX2pFa2xlWi1xOC15RURHbmxkUV91Zy00MENvUVpZOTB3b1E1b2FEbHk5MERyOHU5MHc?oc=5",
-      "data": "02/07 19:35"
+      "titulo": "Três jogadores podem deixar o Fluminense de graça - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWw0WkFvWDZCbUltbUFPM2hMTTdEZTNubzlqRFBvUkM0UDBsSWRzSnVOMVZNeEtfSkVMNjBoTjZ3TGI1ZVJqOHk1Y1BLNE5FYXB3RlM2MG9xNkhrR3E4R09FajB5N0U4TUNIXzR1TjIxVFhmYy1Ma19EUmh2S3AyZk9NTE1OOEIxaDlQQzQ1VFhzUXE3Vy1RRmlIbXo5UFl5QkFpSW1pQXVRdzY4bjYwMFpLQkh6X2dtdlU2YXdvdF9EX3VhSzNjZHFQVkxCSUNvZTA4TU9mWQ?oc=5",
+      "data": "01/07 12:54"
     }
   ],
   "avisos": []
