@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/07/2026 13:06",
+  "atualizado_em": "03/07/2026 17:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -12,18 +12,6 @@
         "SPORTV",
         "CAZÉTV",
         "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-03",
-      "time": "15:30",
-      "competition": "Amistosos",
-      "match": "River Plate x Flamengo",
-      "channels": [
-        "SPORTV 2",
-        "PREMIERE",
-        "GE TV"
       ]
     },
     {
@@ -72,6 +60,18 @@
       "channels": [
         "CAZÉTV",
         "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-03",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "River Plate x Flamengo",
+      "channels": [
+        "SPORTV 2",
+        "PREMIERE",
+        "GE TV"
       ]
     },
     {
@@ -349,18 +349,18 @@
       "temp_max": 26.8,
       "temp_min": 19.6,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.6,
+      "temp_max": 26.0,
       "temp_min": 18.0,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.9,
+      "temp_max": 24.5,
       "temp_min": 14.4,
       "chance_chuva": 75,
       "condicao": "Parcialmente nublado"
@@ -368,17 +368,17 @@
   ],
   "noticias": [
     {
-      "titulo": "Faltam 18: Cano tem missão final de tornar Fluminense como clube com mais gols na carreira; veja corrida - ge",
+      "titulo": "Faltam 18: Cano tem missão final de tornar Fluminense como clube com mais gols na carreira; veja corrida - GE",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1ZBOENoT2Q4M255ckdrV08tY3Nqa2VfeF9KYVZNMk5UYkNqalhPYnExM2NaVHppZS0yX1RvZ3ZGTWh3Yl9KbnozTWpibjBRcFpDalZwMjU0YzRvemRJZkdLdHNBOTN0SjdWS0RrV0o3emVpZldTaF9LY0NpdlVaN01tbFhhTW56RW1wU2FIYzRPWDBrSWtXalkwSy1qd1pmMHo4SnpINm53SGlNZDdaVmdBdzRQS0JVWV90bW1DaGMwUWpEM2JZaFdLYUxHckFSamd4b2xENG81d19zcWNpa29QR1N6b19hY3locnRGMkQwWWk3ODJFbjM3TC1RYWh1aVR30gGSAkFVX3lxTE1UNUlWUVVvcjJUamlPMkVfaTEwOWYzemRiLTRrdDRHVzJCZ2RUTGplMVNnVFlIcnJ4YlBnZXJqWHl4XzVPb3RoWDYyN09lQ1RXVU12elhuX1p3M0lPY0ZCd1AtQktJUGNHVTZiTTd4em1LX3lsaFNWdDBZTUQxNFU1YmRpTktLd3F3OVZOOW9EZ00xd1h2SGVocHp0V2dWbVZUZnhlUjVwem4ybF9MZXNYUVhkeEJkRnQyNUpKVF92ekxOZ0dGWDUyMWYtR2VoQWF6NUhITDk4ZHN4VWZLbm1Ra2xYaDFYOTVwSDhpVi1oZnpQQmlnLWJlYnJPcEZnRl9HTmlkY3IwRmcwYUo4WlAzT0E?oc=5",
       "data": "03/07 07:01"
     },
     {
-      "titulo": "John Kennedy está no Top-3 de artilheiros do Fluminense na Libertadores e persegue Fred e Cano - ge",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUDZqZF9vUk9BNkF3S1VhMjFjbWtTN242MVR2U19WMGJpRGxKRVBDX2NzMEw1SXRYU2d2SDIxeXFqYVRYbExyYktfcjJjbU1DbloydzRtLU5uVzFCdHI2Q1V1MUgzNGE0dVgwSVpMelVaeTBCajdUMXZuSTdHREQ2WFZENkRJSTU1RkhxNGdobUhRR0ZjWUVuYkVsd2J1M3FaNWdRRmVoM0g0UzAzTEozdkFLWUVwYWJhRmZ1TF9uQ3NEOUdQRkJBRUNLVUpDb3hIYk9JUUVyXzZzY1M1QkYzR2xTUGhHQlZ0VVJ0a2FTTEFlQTBocUxKVGtmdUFVaWE2OVo1OHFRUdIBlgJBVV95cUxOcDdTNk9JU2J2SWt3WEtrWE1TUnVuMUdhOFY4TklPZEp4REhINWNOSW5PemRGYklRWDBhazhtQk0zbE9OVmtzckFYbnRnZU0yOS13N25UQWpjOG5VS1VJVUV0dlpBVFllR3JrLU5VYks5ai1Cbjh4MjBIc1NPSE45bXF2Z201dDdoM1JISzJQQVJPd3VMMjAwV0RZeDhFVXVqblY1YzdoNGZnb3RvY0ZvaXhzSzFoeFkySVQzU3FMckoyZXhOSS00WWVTRTlTbWRtWFgtSzAycDVFWGZGRi1ZRkUtemNPWXRERDBwV094TG9Sc0ltdXk4czB5aHctUlZoX05yVWRkTFVvSXE3bHA0UFI5bWpGdw?oc=5",
-      "data": "03/07 15:48"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Red Bull Bragantino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGJyYUdjWnQ0Z1VPbHVVNF9udUdRRFFUNDk3UTRjdW1aY3ZyeU9PT1dlQVJ2S1RkbDVkQnF5dHpsMlJKMkFzSDRTMkNDeEREMEFZM2pnZmNHM0M0N1RQQ1B1Sm1IelBxRExDYzVVT3dYYTY3SFBWeF9oY2R1Q0RZUi05ckplZlhjRkgyT1RrX3dRNWNfNVVtSFl6WGlzTWpkRG1tRHh5d1FhZzVfZk5WMVFNQUNaV2o3?oc=5",
+      "data": "02/07 21:53"
     },
     {
-      "titulo": "sportv, Premiere e ge tv transmitem amistosos do Fluminense de intertemporada - ge",
+      "titulo": "sportv, Premiere e ge tv transmitem amistosos do Fluminense de intertemporada - GE",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOamdCWEgyLWJTOTFKU0tpM1FUX3h2VDc5aWs5WDRxajR2NzE4UXpTSFd0ajJzazR5SGxDMm5xQ0h5U20wZGMySXB3OTV0b29IZlZpbmQtd0RDdUpRVVRUdTBOOXB0M2ZpSFNfOUdpV2Z6OXN3bDhaNmxOZkowX2F1NDRoOWstS2NHcl9JeGt5SVFhZU43Z3ltUWtRWi1IeC1JOHRnWFR0UUM0NnFxNC1OVjdhS2VzbVptcUdraVQ1enFFSzNzOFBhTVRjUFJyT2VEd241ZXRtNlhnbFhKR1JpTdIB7wFBVV95cUxQb0tVV1B0XzZwV0dFcUhGbVNVY003X3VIX3dObHI2NGozY24zb091cEU5aTg2WkFQeGNwcWZZUkFiOGVJVTNVZktTdUJJNGp3TTRlX1ZTWmE1em5IZTFDWmM3S1hqQmZWWW1NU01HY2VtQlRaN0xRRDRmdHVkclBQZllVUk92N3k3LVc4SUNWTDBBMjAxRUFQcTM1NU9hanRNSk9GS1pvcHd0Um9rWGdTLW1YMEREYlpWdzNxcnJfakNOOE5QVkpoejFnZHlHeHV5cW1RNEw1LUFKTFVDWGtkTEViWWQxWGp5VFE3a0hJbw?oc=5",
       "data": "02/07 16:56"
     },
@@ -388,9 +388,9 @@
       "data": "30/06 23:56"
     },
     {
-      "titulo": "Fluminense confirma novo amistoso intertemporada contra equipe carioca - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1lpUzNTWVgzM0JNTU9IemlMWkJZMWtjNk4tVjV0RW1qaER6NWJ0Z1Q1MFgyUTRfZ2JvNHpZVXJnUVlJSmJmRUpHaEcwa2YtZDIySlVrcWVCWjdHYnU0V1o1SzBDcEVjWTZ2UWNEckVJMVU2S21PcGQ0WjhISUtsQkl4NmNuS1h3NHBzNG5VZ0NadDE3cmFtemhST1FvYmV6cV9uWkhySWx4YWthZEdTTFctUVJUWnc0TDJtME93QmVwMHhTTEtjb3ZOOUFDb2dvbU1nU2h2Z9IB3AFBVV95cUxQZ2h6U2xWb1c3OERYUE5FUWpLSDh2NnpGWFBCRDUtdXZ3Vm9tUjFtOGNwTW5sTFlvRmxzdlQwWVlKYndCUGNHMDgtaXJGcnJBV2x4cDNRVU5USVdWdlVlUmNRWGd1VXhWRzQ3WnBULWcxODYyeURPdDJXUkQtODZQRVR0WEwzOU1hN1pqSlBQOXpSdDFtV3oxenJjQ2JkdGNENm1pcDUtTVJwbWxKVUNDQUNWVW5MNjdxWWxIdE94LXNCbUMxNG1sQjNCQkFHMWNsc3FPaDhvWE85NkdL?oc=5",
-      "data": "02/07 23:01"
+      "titulo": "Agenda de amistosos do Fluminense na intertemporada - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmNweVBHdFdsUTljZDhTWEk3VWNKdnZWcUdtU3ZhXzhFcXhfT00waFNIZFpMUGJZTS1IUTNxN0JVSkQxS2JDbjRkY19sSEFreThhUE81blpRVHBJX05qUkdmNFBfUUJNNVhEbkVmMkVfRmZ5b2dIQm14azltblNhZFNaWUlXRXVMNTZweWI1b181NFNJZ3p3?oc=5",
+      "data": "03/07 16:23"
     }
   ],
   "avisos": []
