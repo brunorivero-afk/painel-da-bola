@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/07/2026 06:45",
+  "atualizado_em": "03/07/2026 13:06",
   "jogos": [
     {
       "sport": "futebol",
@@ -346,51 +346,51 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.5,
+      "temp_max": 26.8,
       "temp_min": 19.6,
       "chance_chuva": 0,
-      "condicao": "Garoa fraca"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.9,
+      "temp_max": 25.6,
       "temp_min": 18.0,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.1,
-      "temp_min": 14.7,
-      "chance_chuva": 57,
-      "condicao": "Nublado"
+      "temp_max": 24.9,
+      "temp_min": 14.4,
+      "chance_chuva": 75,
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Faltam 18: Cano tem missão final de tornar Fluminense como clube com mais gols na carreira; veja corrida - GE",
+      "titulo": "Faltam 18: Cano tem missão final de tornar Fluminense como clube com mais gols na carreira; veja corrida - ge",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1ZBOENoT2Q4M255ckdrV08tY3Nqa2VfeF9KYVZNMk5UYkNqalhPYnExM2NaVHppZS0yX1RvZ3ZGTWh3Yl9KbnozTWpibjBRcFpDalZwMjU0YzRvemRJZkdLdHNBOTN0SjdWS0RrV0o3emVpZldTaF9LY0NpdlVaN01tbFhhTW56RW1wU2FIYzRPWDBrSWtXalkwSy1qd1pmMHo4SnpINm53SGlNZDdaVmdBdzRQS0JVWV90bW1DaGMwUWpEM2JZaFdLYUxHckFSamd4b2xENG81d19zcWNpa29QR1N6b19hY3locnRGMkQwWWk3ODJFbjM3TC1RYWh1aVR30gGSAkFVX3lxTE1UNUlWUVVvcjJUamlPMkVfaTEwOWYzemRiLTRrdDRHVzJCZ2RUTGplMVNnVFlIcnJ4YlBnZXJqWHl4XzVPb3RoWDYyN09lQ1RXVU12elhuX1p3M0lPY0ZCd1AtQktJUGNHVTZiTTd4em1LX3lsaFNWdDBZTUQxNFU1YmRpTktLd3F3OVZOOW9EZ00xd1h2SGVocHp0V2dWbVZUZnhlUjVwem4ybF9MZXNYUVhkeEJkRnQyNUpKVF92ekxOZ0dGWDUyMWYtR2VoQWF6NUhITDk4ZHN4VWZLbm1Ra2xYaDFYOTVwSDhpVi1oZnpQQmlnLWJlYnJPcEZnRl9HTmlkY3IwRmcwYUo4WlAzT0E?oc=5",
       "data": "03/07 07:01"
     },
     {
-      "titulo": "Sorriso Maroto, Filipe Ret, Jota Quest e mais: confira as atrações da Flu Fest 2026 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3ZYNzZqS2hGRUlzc2QwZV9SOUFkcFVERldxRDRwajFEWlFrOXk0QmNWZU9uaTZkeGpObTBXQURfQ3V1TmJtMVdxZWFZdkJlWWxaX3Fxa0s4cF9Gb01odjdKRWhoU0FWbHlWMG9kSHFVSG1GTDJOMFhGYVpMeVplYWZ2a2dnX3ZHMHJlUFFDS3haN3RJYUdjekVBRGVuSXc1SlJUcGZtaWN3SVd4U0RjMTlkRzlwckZaV3c?oc=5",
-      "data": "02/07 15:02"
+      "titulo": "John Kennedy está no Top-3 de artilheiros do Fluminense na Libertadores e persegue Fred e Cano - ge",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUDZqZF9vUk9BNkF3S1VhMjFjbWtTN242MVR2U19WMGJpRGxKRVBDX2NzMEw1SXRYU2d2SDIxeXFqYVRYbExyYktfcjJjbU1DbloydzRtLU5uVzFCdHI2Q1V1MUgzNGE0dVgwSVpMelVaeTBCajdUMXZuSTdHREQ2WFZENkRJSTU1RkhxNGdobUhRR0ZjWUVuYkVsd2J1M3FaNWdRRmVoM0g0UzAzTEozdkFLWUVwYWJhRmZ1TF9uQ3NEOUdQRkJBRUNLVUpDb3hIYk9JUUVyXzZzY1M1QkYzR2xTUGhHQlZ0VVJ0a2FTTEFlQTBocUxKVGtmdUFVaWE2OVo1OHFRUdIBlgJBVV95cUxOcDdTNk9JU2J2SWt3WEtrWE1TUnVuMUdhOFY4TklPZEp4REhINWNOSW5PemRGYklRWDBhazhtQk0zbE9OVmtzckFYbnRnZU0yOS13N25UQWpjOG5VS1VJVUV0dlpBVFllR3JrLU5VYks5ai1Cbjh4MjBIc1NPSE45bXF2Z201dDdoM1JISzJQQVJPd3VMMjAwV0RZeDhFVXVqblY1YzdoNGZnb3RvY0ZvaXhzSzFoeFkySVQzU3FMckoyZXhOSS00WWVTRTlTbWRtWFgtSzAycDVFWGZGRi1ZRkUtemNPWXRERDBwV094TG9Sc0ltdXk4czB5aHctUlZoX05yVWRkTFVvSXE3bHA0UFI5bWpGdw?oc=5",
+      "data": "03/07 15:48"
     },
     {
-      "titulo": "Fluminense x Deportivo La Guaira ao vivo pela Libertadores; acompanhe - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYUh2YUhiUlVPTE1jeDdzclJYamd4WG1wdGgwaGpSUUNGZkxJRVFCNmJTQ201U0dhQmZZTGtDTklLYWlaRWJ5RTJZVDlOUzFPd1FSb2ZSU2p4X1FVV2NILTdaN2d4ZjhiaDRzZGhad3JQanJBbEw5VXp1aTFkZjRmVzlKSFk1OERxaWRFcVJVTjFubU9IYy1GOUo3bXNSclVKak8ycUdnWWIxdURiemhoRHlGeDVyM1d5ZVVsOHBST2RVNDlzNndkNC1OcHFNTFdYU3RSZ0JoekkxWFZjOTc2ZGNBcU9YNjNmeGk5TWdMMmQ4NXI1THA5TDRFdVVNQQ?oc=5",
-      "data": "27/05 07:00"
+      "titulo": "sportv, Premiere e ge tv transmitem amistosos do Fluminense de intertemporada - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOamdCWEgyLWJTOTFKU0tpM1FUX3h2VDc5aWs5WDRxajR2NzE4UXpTSFd0ajJzazR5SGxDMm5xQ0h5U20wZGMySXB3OTV0b29IZlZpbmQtd0RDdUpRVVRUdTBOOXB0M2ZpSFNfOUdpV2Z6OXN3bDhaNmxOZkowX2F1NDRoOWstS2NHcl9JeGt5SVFhZU43Z3ltUWtRWi1IeC1JOHRnWFR0UUM0NnFxNC1OVjdhS2VzbVptcUdraVQ1enFFSzNzOFBhTVRjUFJyT2VEd241ZXRtNlhnbFhKR1JpTdIB7wFBVV95cUxQb0tVV1B0XzZwV0dFcUhGbVNVY003X3VIX3dObHI2NGozY24zb091cEU5aTg2WkFQeGNwcWZZUkFiOGVJVTNVZktTdUJJNGp3TTRlX1ZTWmE1em5IZTFDWmM3S1hqQmZWWW1NU01HY2VtQlRaN0xRRDRmdHVkclBQZllVUk92N3k3LVc4SUNWTDBBMjAxRUFQcTM1NU9hanRNSk9GS1pvcHd0Um9rWGdTLW1YMEREYlpWdzNxcnJfakNOOE5QVkpoejFnZHlHeHV5cW1RNEw1LUFKTFVDWGtkTEViWWQxWGp5VFE3a0hJbw?oc=5",
+      "data": "02/07 16:56"
     },
     {
-      "titulo": "Bastidores: atitude de Thiago Silva na chegada ao Fluminense deixa recado - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0xlaXJRME5lbG5KUmFwWERadjgyYk5xUFlrZmxyMGFsamdPNkFNOWNaQlZqWG5qMWxncmdaeWJ3LTQ5dy1rVlc0UVVrT2dPZDI5NGE5ZGw3N1JNLW40NGpCYTBKeEg5dWVtQXZjRmJNZjhNOFVMMzlGSVVfbS1ZTlhPSVRkVlJvUlVrV0kwajQzbmRXOF9uYm9kTmxob2Z4c3czT1VyRG5wWlU1MTVkMHU0WQ?oc=5",
-      "data": "02/07 07:00"
+      "titulo": "Informações de ingressos para amistosos contra Nova Iguaçu e Bahia no Maracanã - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbF9MVVpVRUJHcFVhbVA5blVaOGdSRm9sNmVtUk9OeUsyZHJabjlSOUpuLVNTRVlqQ1pPWUpRMXJhbHotQ3JYaXFGQldIcE9uYzFFSWdBaXp0elNtRGtUdzhNZTg4bmM4QU9WTmgteVBLX294YUpQblhaZ3JRUFhKaFhlNUNBZXdVMkZpMk8xVnhsYWpla2xuN2dVdlNPeE9rZ1dTWG5TQmN2LWd0THN6d2J3blVIRjQ?oc=5",
+      "data": "30/06 23:56"
     },
     {
-      "titulo": "Três jogadores podem deixar o Fluminense de graça - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWw0WkFvWDZCbUltbUFPM2hMTTdEZTNubzlqRFBvUkM0UDBsSWRzSnVOMVZNeEtfSkVMNjBoTjZ3TGI1ZVJqOHk1Y1BLNE5FYXB3RlM2MG9xNkhrR3E4R09FajB5N0U4TUNIXzR1TjIxVFhmYy1Ma19EUmh2S3AyZk9NTE1OOEIxaDlQQzQ1VFhzUXE3Vy1RRmlIbXo5UFl5QkFpSW1pQXVRdzY4bjYwMFpLQkh6X2dtdlU2YXdvdF9EX3VhSzNjZHFQVkxCSUNvZTA4TU9mWQ?oc=5",
-      "data": "01/07 12:54"
+      "titulo": "Fluminense confirma novo amistoso intertemporada contra equipe carioca - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV1lpUzNTWVgzM0JNTU9IemlMWkJZMWtjNk4tVjV0RW1qaER6NWJ0Z1Q1MFgyUTRfZ2JvNHpZVXJnUVlJSmJmRUpHaEcwa2YtZDIySlVrcWVCWjdHYnU0V1o1SzBDcEVjWTZ2UWNEckVJMVU2S21PcGQ0WjhISUtsQkl4NmNuS1h3NHBzNG5VZ0NadDE3cmFtemhST1FvYmV6cV9uWkhySWx4YWthZEdTTFctUVJUWnc0TDJtME93QmVwMHhTTEtjb3ZOOUFDb2dvbU1nU2h2Z9IB3AFBVV95cUxQZ2h6U2xWb1c3OERYUE5FUWpLSDh2NnpGWFBCRDUtdXZ3Vm9tUjFtOGNwTW5sTFlvRmxzdlQwWVlKYndCUGNHMDgtaXJGcnJBV2x4cDNRVU5USVdWdlVlUmNRWGd1VXhWRzQ3WnBULWcxODYyeURPdDJXUkQtODZQRVR0WEwzOU1hN1pqSlBQOXpSdDFtV3oxenJjQ2JkdGNENm1pcDUtTVJwbWxKVUNDQUNWVW5MNjdxWWxIdE94LXNCbUMxNG1sQjNCQkFHMWNsc3FPaDhvWE85NkdL?oc=5",
+      "data": "02/07 23:01"
     }
   ],
   "avisos": []
