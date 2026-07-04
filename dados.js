@@ -1,52 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/07/2026 12:47",
+  "atualizado_em": "04/07/2026 17:15",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Cruzeiro x Defensor Sporting",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "14:00",
-      "competition": "Copa do Mundo",
-      "match": "Canadá x Marrocos",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "GE TV",
-        "NSPORTS",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Ponte Preta Sub-20 x Santos Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x XV de Piracicaba Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-04",
@@ -135,6 +89,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-04",
       "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Toronto II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "20:00",
       "competition": "Brasileirão Série B",
       "match": "Goiás x Ceará",
       "channels": [
@@ -146,11 +110,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-04",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Toronto II",
+      "time": "20:30",
+      "competition": "Brasileirão Série C",
+      "match": "Ferroviária x Caxias",
       "channels": [
-        "ONEFOOTBALL"
+        "SPORTYNET"
       ]
     },
     {
@@ -167,21 +131,57 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-04",
-      "time": "20:30",
-      "competition": "Brasileirão Série C",
-      "match": "Ferroviária x Caxias",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
       "time": "21:45",
       "competition": "MLS Next Pro",
       "match": "North Texas x St. Louis City II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Cruzeiro x Defensor Sporting",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "14:00",
+      "competition": "Copa do Mundo",
+      "match": "Canadá x Marrocos",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "GE TV",
+        "NSPORTS",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x XV de Piracicaba Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Ponte Preta Sub-20 x Santos Sub-20",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -355,26 +355,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-04",
-      "time": "13:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-04",
-      "time": "14:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-04",
       "time": "05:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -421,6 +401,26 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-04",
+      "time": "13:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-04",
+      "time": "14:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -429,14 +429,14 @@ window.PAINEL_DATA = {
       "temp_max": 22.2,
       "temp_min": 19.7,
       "chance_chuva": 73,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 24.3,
       "temp_min": 20.2,
       "chance_chuva": 94,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
@@ -453,24 +453,24 @@ window.PAINEL_DATA = {
       "data": "03/07 07:01"
     },
     {
+      "titulo": "Um ano: relembre a vitória do Fluminense contra o Al-Hilal - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2hvSzJZRTVJdl80OXI4SlVFVTBFOWV4TUZRYXJiLUp5LU9DTTZqTkhNSFAyQloxR25QdE5pTkQ0OTVUcjNUZXl4RDA0T05vc29hbjN5TnlETHBxeG9uQlFJU3paelVfZTlpYk5mdzNMMFJ4RXFITWtLakdNZGdPcmFkNzVFTVc0S3gxNF9YeUhhbERmSmI5aU9Na1Q5MkU?oc=5",
+      "data": "04/07 17:08"
+    },
+    {
       "titulo": "Fluminense exerce opção de compra do volante Andrey, do time Sub-17 - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFNzSktYWmNZT24xbkpzdk9TREt2UjBCRE9OaDB3NkY0Q0xnUDFMMnhBYUI1WXRFUFczRXFmTDRuN2M2TVEwUDdVRVkwYjdtNGs0eS1xNEpUcVZ2d2hWdklQc3RNZE9CTTRoZFYtOWhsel9xZDRXM0t5akRnNzBJTl9LNGRqdHFicjB0V25jejlQY0dhX2d5cnVxZTNUdXZMTThKZXBvYw?oc=5",
       "data": "04/07 15:30"
     },
     {
-      "titulo": "Confira fotos do treino do Fluminense deste sábado (4) - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2JkZ3JMQkhCQXM4QTdmV0ZnZGVJOWV6dGRLby0yRkFSLTlzbzZiUlJlYzBOOHNzc3JzLUlDaEdESlVBZTgyWWxISzFGM25pUkJyaFUxenZUMm9VdEFBcURJUV8tRnQ3OEVKNmxmdk50MWpWMlotWXR1MHNtMk5MSVlDc21QTGg1OUF5ZlF0MTNzQQ?oc=5",
-      "data": "04/07 15:21"
-    },
-    {
-      "titulo": "Fluminense diminui em final contra o Vasco e decide título carioca Sub-15 em Xerém - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1h4OEEyYi1IUjdkb1Fwd2x4dE14Z29aZHdJdGk3cnZocXZ0RnJEX1lLWmZpaEhidU9HUFFERzQyNGticnR6akpkTllvdERIVDU5SUlPbkV4UFB5NHR2dlZCNTNqT3BfdElSQ1VKNlgtb1I5OU1SdkdfSTNibGdxREM1NHFHV0loSVVmSzQzNmstY3lWX1lnLWZlam5Ic2YyZjhTUDJIY1hKVS0xWGhmM1J6N0lOOUhzSkl2LQ?oc=5",
-      "data": "04/07 13:45"
-    },
-    {
       "titulo": "Joia do Fluminense assina primeiro contrato profissional - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlRkX013SlhheUFwdVdRQ1V5QTF1M1JHQkdUN3k4dVFaVllpak5EVnRLeEpXOUVNR2pWWFhZYXVBV0RxaHctcnRsRWxqNG5UdVUyQ2tBX1RUR05iZnA3ajNIRnhHRVNKOU1FMmgyWEpYeHRvMlNhUzBZLXBwNWpCM3BVd0xKQk1taHpSWG5iTXFMMEFBcnB0WW1lZjdOeFJzVm5LMWJBMVZZaHlaUnpoZFlhRFMyMVJYU05z0gHAAUFVX3lxTE1jZnRwSzNsUEJvYU12b2NOdEpwZnRIVHlpcW0wb1FJc1FzRU55ZEhUTEY5eVg1eElMaVRzQWFRN1o1eHY3N2FyOXlZU29ieE5uUFdFQkdQWE1HS1p2NFl1VzhCZFFQSUlkMVNZQXhVc2ZnZ3F0ZDk5RjQzaENHalhZRmgydXExVlFIRXlpU0hHSXY4UnJTNXhDcFlkTXhFTTFYdDFPMGZLRU1GUHZ4VmNzM1NMbURaZmtMX0xDSVF1Sg?oc=5",
       "data": "03/07 22:00"
+    },
+    {
+      "titulo": "Fluminense se aproxima de vender craque para clube europeu - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdDBRRDYySlhrQUI4OFF4eDlsMmJrcVA3RC1NVnNBRVJpcWxSNkxQNmFtcFg1X2UzejZCWTdCbDV5aEFfYlA1QkJGa3FYTlBiUl9oWmxtWV9fQkJHemxzZHVKV21RUEZrelZCLV9xcXhDNlhCcmNmbUpiRTNZeG5OWUJBbU9Kckcxc09oNk5QaVRRMjQ4Y2JXWkVnSUExR3JfY3M4ZTZSMy1jakNKV2puc1NuTHRBcnF5eTl2a1pGVVNOT0RtT2w4d01ESTN1RjhOLTdWa1dxRXRIbFhRVXZKdFdaWQ?oc=5",
+      "data": "03/07 23:10"
     }
   ],
   "avisos": []
