@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/07/2026 04:31",
+  "atualizado_em": "04/07/2026 08:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -400,21 +400,21 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.0,
-      "temp_min": 19.6,
-      "chance_chuva": 90,
+      "temp_max": 21.6,
+      "temp_min": 19.4,
+      "chance_chuva": 92,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.9,
-      "temp_min": 20.2,
-      "chance_chuva": 100,
-      "condicao": "Garoa"
+      "temp_max": 23.7,
+      "temp_min": 20.3,
+      "chance_chuva": 88,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.3,
+      "temp_max": 21.8,
       "temp_min": 14.0,
       "chance_chuva": 100,
       "condicao": "Nublado"
@@ -422,7 +422,17 @@
   ],
   "noticias": [
     {
-      "titulo": "sportv, Premiere e ge tv transmitem amistosos do Fluminense de intertemporada - GE",
+      "titulo": "Joia do Fluminense, Jean Carlos assina primeiro contrato profissional; veja detalhes - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFF4dnB3MDJXdmlTMlZ6OXlXSWw0MktxdjlJdFRMVnltdFhFUVQ0RHc3cnQzZGdFM2VkQnVKV1MxeHFVYXp4RkUxMExWdzZRVnM2REVDakx0YkE0MU9jUmdsTFNpa0dOTmROQWtKbVBKRzU0X2FTRDBma1I3Tm45UWNGSE4xRTFTdTBXckM2RkpvYXk3ZHZDN253QkdkcTVPN2ZyUmFfZHhabkFCOHJKZ0YtSG12akVWbkIxTk90SHBobEgwVm9LTHpWWTFPcWxsbmt4QjFR0gHkAUFVX3lxTE1qU240Mm9acUZPdzdiUWNJX2czcUFJWkF3WHBneE9raXQ1aUZteVU2MU5KLXRoTUIta3F4M0puc0Y4NVRnUnV3Mk14ZTRzOEhxTHJpdmdZQTQyZ1pZd3haTlhCRk9pY2FEMThNTkJsMmFVNVhJSHRmLWRIRVlqY3lYdlVHUmhwOHVyRlNkRS10RkFPZ2s5eUNrYXlyay1reUF6bEd1SlE1cExTWnN4WVFENDZUTDAyWFBaWU9keVNFb29ZU1NhNlRuSWlmdHBoX1VsZ0wyNXRvdjVOMEZ6S3NhQ21Qag?oc=5",
+      "data": "03/07 20:00"
+    },
+    {
+      "titulo": "Fluminense se aproxima de vender craque para clube europeu - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdDBRRDYySlhrQUI4OFF4eDlsMmJrcVA3RC1NVnNBRVJpcWxSNkxQNmFtcFg1X2UzejZCWTdCbDV5aEFfYlA1QkJGa3FYTlBiUl9oWmxtWV9fQkJHemxzZHVKV21RUEZrelZCLV9xcXhDNlhCcmNmbUpiRTNZeG5OWUJBbU9Kckcxc09oNk5QaVRRMjQ4Y2JXWkVnSUExR3JfY3M4ZTZSMy1jakNKV2puc1NuTHRBcnF5eTl2a1pGVVNOT0RtT2w4d01ESTN1RjhOLTdWa1dxRXRIbFhRVXZKdFdaWQ?oc=5",
+      "data": "03/07 23:10"
+    },
+    {
+      "titulo": "sportv, Premiere e ge tv transmitem amistosos do Fluminense de intertemporada - ge",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOamdCWEgyLWJTOTFKU0tpM1FUX3h2VDc5aWs5WDRxajR2NzE4UXpTSFd0ajJzazR5SGxDMm5xQ0h5U20wZGMySXB3OTV0b29IZlZpbmQtd0RDdUpRVVRUdTBOOXB0M2ZpSFNfOUdpV2Z6OXN3bDhaNmxOZkowX2F1NDRoOWstS2NHcl9JeGt5SVFhZU43Z3ltUWtRWi1IeC1JOHRnWFR0UUM0NnFxNC1OVjdhS2VzbVptcUdraVQ1enFFSzNzOFBhTVRjUFJyT2VEd241ZXRtNlhnbFhKR1JpTdIB7wFBVV95cUxQb0tVV1B0XzZwV0dFcUhGbVNVY003X3VIX3dObHI2NGozY24zb091cEU5aTg2WkFQeGNwcWZZUkFiOGVJVTNVZktTdUJJNGp3TTRlX1ZTWmE1em5IZTFDWmM3S1hqQmZWWW1NU01HY2VtQlRaN0xRRDRmdHVkclBQZllVUk92N3k3LVc4SUNWTDBBMjAxRUFQcTM1NU9hanRNSk9GS1pvcHd0Um9rWGdTLW1YMEREYlpWdzNxcnJfakNOOE5QVkpoejFnZHlHeHV5cW1RNEw1LUFKTFVDWGtkTEViWWQxWGp5VFE3a0hJbw?oc=5",
       "data": "02/07 16:56"
     },
@@ -432,19 +442,9 @@
       "data": "03/07 16:23"
     },
     {
-      "titulo": "Informações de ingressos para amistosos contra Nova Iguaçu e Bahia no Maracanã - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbF9MVVpVRUJHcFVhbVA5blVaOGdSRm9sNmVtUk9OeUsyZHJabjlSOUpuLVNTRVlqQ1pPWUpRMXJhbHotQ3JYaXFGQldIcE9uYzFFSWdBaXp0elNtRGtUdzhNZTg4bmM4QU9WTmgteVBLX294YUpQblhaZ3JRUFhKaFhlNUNBZXdVMkZpMk8xVnhsYWpla2xuN2dVdlNPeE9rZ1dTWG5TQmN2LWd0THN6d2J3blVIRjQ?oc=5",
-      "data": "30/06 23:56"
-    },
-    {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Red Bull Bragantino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGJyYUdjWnQ0Z1VPbHVVNF9udUdRRFFUNDk3UTRjdW1aY3ZyeU9PT1dlQVJ2S1RkbDVkQnF5dHpsMlJKMkFzSDRTMkNDeEREMEFZM2pnZmNHM0M0N1RQQ1B1Sm1IelBxRExDYzVVT3dYYTY3SFBWeF9oY2R1Q0RZUi05ckplZlhjRkgyT1RrX3dRNWNfNVVtSFl6WGlzTWpkRG1tRHh5d1FhZzVfZk5WMVFNQUNaV2o3?oc=5",
-      "data": "02/07 21:53"
-    },
-    {
-      "titulo": "Joia do Fluminense assina primeiro contrato profissional - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlRkX013SlhheUFwdVdRQ1V5QTF1M1JHQkdUN3k4dVFaVllpak5EVnRLeEpXOUVNR2pWWFhZYXVBV0RxaHctcnRsRWxqNG5UdVUyQ2tBX1RUR05iZnA3ajNIRnhHRVNKOU1FMmgyWEpYeHRvMlNhUzBZLXBwNWpCM3BVd0xKQk1taHpSWG5iTXFMMEFBcnB0WW1lZjdOeFJzVm5LMWJBMVZZaHlaUnpoZFlhRFMyMVJYU05z0gHAAUFVX3lxTE1jZnRwSzNsUEJvYU12b2NOdEpwZnRIVHlpcW0wb1FJc1FzRU55ZEhUTEY5eVg1eElMaVRzQWFRN1o1eHY3N2FyOXlZU29ieE5uUFdFQkdQWE1HS1p2NFl1VzhCZFFQSUlkMVNZQXhVc2ZnZ3F0ZDk5RjQzaENHalhZRmgydXExVlFIRXlpU0hHSXY4UnJTNXhDcFlkTXhFTTFYdDFPMGZLRU1GUHZ4VmNzM1NMbURaZmtMX0xDSVF1Sg?oc=5",
-      "data": "03/07 22:00"
+      "titulo": "Fluminense disputará amistoso de intertemporada contra São Cristóvão - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPem5yUFE5djFMU00tTGZxMVFINUpNS0FjVWx6d0dkSW5uT1lUQ2FUel80RjlUU1JubFlMLVp2Z1hqek95Q0w1MnItRHV5dE1SRGpveE01endibENaY2luMldwbWZON0RGMzNmNjd6eksxYXo2UGoyRjcwQ3BTQnMwU3d1azkxbHE1Y3N3ZDJRQngxbk1odW91T3ktQWJPaDR4MTljNWRuYlVESld5eEQ2Sm9XODRscmFoZy12SE5NZGpwb2hrXzc0NnhlOVBZWXY5V1h1QtIB4wFBVV95cUxORzV6QzR2NHVaWnpIZE5GY3BvR1BlT0o4ZVF4SHhSQi1WQWFBdjZtVGpHOXZTMlpKUlBhU1BaSEFYWGNHem5ZU0NIUHA0ZmJBbWFYTERpNjUyQ1BsODl0azU3amVncHhxaXgwWlNRdnRuMkxNdTZJU0tKeTh6QU9xQTNRX0pBT0lVVEZwSDh3YnlrVVZVTXl2VVkyQzRlVUVjZHUzd09iRGFlRmh5RlNFUHU1V1A2UXFLODZZMlRiWDM1LWNuY3M1Yk5fMGZLWTVyZUVtOElBWU1MNkFtN3h1QUo4MA?oc=5",
+      "data": "02/07 19:21"
     }
   ],
   "avisos": []
