@@ -1,6 +1,16 @@
 {
-  "atualizado_em": "04/07/2026 08:58",
+  "atualizado_em": "04/07/2026 12:47",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-07-04",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Cruzeiro x Defensor Sporting",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-07-04",
@@ -8,7 +18,12 @@
       "competition": "Copa do Mundo",
       "match": "Canadá x Marrocos",
       "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
         "CAZÉTV",
+        "GE TV",
+        "NSPORTS",
         "PRIME VIDEO"
       ]
     },
@@ -299,6 +314,17 @@
     {
       "sport": "futebol",
       "date": "2026-07-05",
+      "time": "21:00",
+      "competition": "Copa do Mundo",
+      "match": "México x Inglaterra",
+      "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-05",
       "time": "21:30",
       "competition": "MLS Next Pro",
       "match": "Austin II x Colorado Rapids II",
@@ -400,51 +426,51 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.6,
-      "temp_min": 19.4,
-      "chance_chuva": 92,
-      "condicao": "Garoa"
+      "temp_max": 22.2,
+      "temp_min": 19.7,
+      "chance_chuva": 73,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.7,
-      "temp_min": 20.3,
-      "chance_chuva": 88,
+      "temp_max": 24.3,
+      "temp_min": 20.2,
+      "chance_chuva": 94,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.8,
-      "temp_min": 14.0,
+      "temp_max": 21.6,
+      "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Joia do Fluminense, Jean Carlos assina primeiro contrato profissional; veja detalhes - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbFF4dnB3MDJXdmlTMlZ6OXlXSWw0MktxdjlJdFRMVnltdFhFUVQ0RHc3cnQzZGdFM2VkQnVKV1MxeHFVYXp4RkUxMExWdzZRVnM2REVDakx0YkE0MU9jUmdsTFNpa0dOTmROQWtKbVBKRzU0X2FTRDBma1I3Tm45UWNGSE4xRTFTdTBXckM2RkpvYXk3ZHZDN253QkdkcTVPN2ZyUmFfZHhabkFCOHJKZ0YtSG12akVWbkIxTk90SHBobEgwVm9LTHpWWTFPcWxsbmt4QjFR0gHkAUFVX3lxTE1qU240Mm9acUZPdzdiUWNJX2czcUFJWkF3WHBneE9raXQ1aUZteVU2MU5KLXRoTUIta3F4M0puc0Y4NVRnUnV3Mk14ZTRzOEhxTHJpdmdZQTQyZ1pZd3haTlhCRk9pY2FEMThNTkJsMmFVNVhJSHRmLWRIRVlqY3lYdlVHUmhwOHVyRlNkRS10RkFPZ2s5eUNrYXlyay1reUF6bEd1SlE1cExTWnN4WVFENDZUTDAyWFBaWU9keVNFb29ZU1NhNlRuSWlmdHBoX1VsZ0wyNXRvdjVOMEZ6S3NhQ21Qag?oc=5",
-      "data": "03/07 20:00"
+      "titulo": "Faltam 18: Cano tem missão final de tornar Fluminense como clube com mais gols na carreira; veja corrida - GE",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1ZBOENoT2Q4M255ckdrV08tY3Nqa2VfeF9KYVZNMk5UYkNqalhPYnExM2NaVHppZS0yX1RvZ3ZGTWh3Yl9KbnozTWpibjBRcFpDalZwMjU0YzRvemRJZkdLdHNBOTN0SjdWS0RrV0o3emVpZldTaF9LY0NpdlVaN01tbFhhTW56RW1wU2FIYzRPWDBrSWtXalkwSy1qd1pmMHo4SnpINm53SGlNZDdaVmdBdzRQS0JVWV90bW1DaGMwUWpEM2JZaFdLYUxHckFSamd4b2xENG81d19zcWNpa29QR1N6b19hY3locnRGMkQwWWk3ODJFbjM3TC1RYWh1aVR30gGSAkFVX3lxTE1UNUlWUVVvcjJUamlPMkVfaTEwOWYzemRiLTRrdDRHVzJCZ2RUTGplMVNnVFlIcnJ4YlBnZXJqWHl4XzVPb3RoWDYyN09lQ1RXVU12elhuX1p3M0lPY0ZCd1AtQktJUGNHVTZiTTd4em1LX3lsaFNWdDBZTUQxNFU1YmRpTktLd3F3OVZOOW9EZ00xd1h2SGVocHp0V2dWbVZUZnhlUjVwem4ybF9MZXNYUVhkeEJkRnQyNUpKVF92ekxOZ0dGWDUyMWYtR2VoQWF6NUhITDk4ZHN4VWZLbm1Ra2xYaDFYOTVwSDhpVi1oZnpQQmlnLWJlYnJPcEZnRl9HTmlkY3IwRmcwYUo4WlAzT0E?oc=5",
+      "data": "03/07 07:01"
     },
     {
-      "titulo": "Fluminense se aproxima de vender craque para clube europeu - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdDBRRDYySlhrQUI4OFF4eDlsMmJrcVA3RC1NVnNBRVJpcWxSNkxQNmFtcFg1X2UzejZCWTdCbDV5aEFfYlA1QkJGa3FYTlBiUl9oWmxtWV9fQkJHemxzZHVKV21RUEZrelZCLV9xcXhDNlhCcmNmbUpiRTNZeG5OWUJBbU9Kckcxc09oNk5QaVRRMjQ4Y2JXWkVnSUExR3JfY3M4ZTZSMy1jakNKV2puc1NuTHRBcnF5eTl2a1pGVVNOT0RtT2w4d01ESTN1RjhOLTdWa1dxRXRIbFhRVXZKdFdaWQ?oc=5",
-      "data": "03/07 23:10"
+      "titulo": "Fluminense exerce opção de compra do volante Andrey, do time Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFNzSktYWmNZT24xbkpzdk9TREt2UjBCRE9OaDB3NkY0Q0xnUDFMMnhBYUI1WXRFUFczRXFmTDRuN2M2TVEwUDdVRVkwYjdtNGs0eS1xNEpUcVZ2d2hWdklQc3RNZE9CTTRoZFYtOWhsel9xZDRXM0t5akRnNzBJTl9LNGRqdHFicjB0V25jejlQY0dhX2d5cnVxZTNUdXZMTThKZXBvYw?oc=5",
+      "data": "04/07 15:30"
     },
     {
-      "titulo": "sportv, Premiere e ge tv transmitem amistosos do Fluminense de intertemporada - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOamdCWEgyLWJTOTFKU0tpM1FUX3h2VDc5aWs5WDRxajR2NzE4UXpTSFd0ajJzazR5SGxDMm5xQ0h5U20wZGMySXB3OTV0b29IZlZpbmQtd0RDdUpRVVRUdTBOOXB0M2ZpSFNfOUdpV2Z6OXN3bDhaNmxOZkowX2F1NDRoOWstS2NHcl9JeGt5SVFhZU43Z3ltUWtRWi1IeC1JOHRnWFR0UUM0NnFxNC1OVjdhS2VzbVptcUdraVQ1enFFSzNzOFBhTVRjUFJyT2VEd241ZXRtNlhnbFhKR1JpTdIB7wFBVV95cUxQb0tVV1B0XzZwV0dFcUhGbVNVY003X3VIX3dObHI2NGozY24zb091cEU5aTg2WkFQeGNwcWZZUkFiOGVJVTNVZktTdUJJNGp3TTRlX1ZTWmE1em5IZTFDWmM3S1hqQmZWWW1NU01HY2VtQlRaN0xRRDRmdHVkclBQZllVUk92N3k3LVc4SUNWTDBBMjAxRUFQcTM1NU9hanRNSk9GS1pvcHd0Um9rWGdTLW1YMEREYlpWdzNxcnJfakNOOE5QVkpoejFnZHlHeHV5cW1RNEw1LUFKTFVDWGtkTEViWWQxWGp5VFE3a0hJbw?oc=5",
-      "data": "02/07 16:56"
+      "titulo": "Confira fotos do treino do Fluminense deste sábado (4) - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM2JkZ3JMQkhCQXM4QTdmV0ZnZGVJOWV6dGRLby0yRkFSLTlzbzZiUlJlYzBOOHNzc3JzLUlDaEdESlVBZTgyWWxISzFGM25pUkJyaFUxenZUMm9VdEFBcURJUV8tRnQ3OEVKNmxmdk50MWpWMlotWXR1MHNtMk5MSVlDc21QTGg1OUF5ZlF0MTNzQQ?oc=5",
+      "data": "04/07 15:21"
     },
     {
-      "titulo": "Agenda de amistosos do Fluminense na intertemporada - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmNweVBHdFdsUTljZDhTWEk3VWNKdnZWcUdtU3ZhXzhFcXhfT00waFNIZFpMUGJZTS1IUTNxN0JVSkQxS2JDbjRkY19sSEFreThhUE81blpRVHBJX05qUkdmNFBfUUJNNVhEbkVmMkVfRmZ5b2dIQm14azltblNhZFNaWUlXRXVMNTZweWI1b181NFNJZ3p3?oc=5",
-      "data": "03/07 16:23"
+      "titulo": "Fluminense diminui em final contra o Vasco e decide título carioca Sub-15 em Xerém - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1h4OEEyYi1IUjdkb1Fwd2x4dE14Z29aZHdJdGk3cnZocXZ0RnJEX1lLWmZpaEhidU9HUFFERzQyNGticnR6akpkTllvdERIVDU5SUlPbkV4UFB5NHR2dlZCNTNqT3BfdElSQ1VKNlgtb1I5OU1SdkdfSTNibGdxREM1NHFHV0loSVVmSzQzNmstY3lWX1lnLWZlam5Ic2YyZjhTUDJIY1hKVS0xWGhmM1J6N0lOOUhzSkl2LQ?oc=5",
+      "data": "04/07 13:45"
     },
     {
-      "titulo": "Fluminense disputará amistoso de intertemporada contra São Cristóvão - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPem5yUFE5djFMU00tTGZxMVFINUpNS0FjVWx6d0dkSW5uT1lUQ2FUel80RjlUU1JubFlMLVp2Z1hqek95Q0w1MnItRHV5dE1SRGpveE01endibENaY2luMldwbWZON0RGMzNmNjd6eksxYXo2UGoyRjcwQ3BTQnMwU3d1azkxbHE1Y3N3ZDJRQngxbk1odW91T3ktQWJPaDR4MTljNWRuYlVESld5eEQ2Sm9XODRscmFoZy12SE5NZGpwb2hrXzc0NnhlOVBZWXY5V1h1QtIB4wFBVV95cUxORzV6QzR2NHVaWnpIZE5GY3BvR1BlT0o4ZVF4SHhSQi1WQWFBdjZtVGpHOXZTMlpKUlBhU1BaSEFYWGNHem5ZU0NIUHA0ZmJBbWFYTERpNjUyQ1BsODl0azU3amVncHhxaXgwWlNRdnRuMkxNdTZJU0tKeTh6QU9xQTNRX0pBT0lVVEZwSDh3YnlrVVZVTXl2VVkyQzRlVUVjZHUzd09iRGFlRmh5RlNFUHU1V1A2UXFLODZZMlRiWDM1LWNuY3M1Yk5fMGZLWTVyZUVtOElBWU1MNkFtN3h1QUo4MA?oc=5",
-      "data": "02/07 19:21"
+      "titulo": "Joia do Fluminense assina primeiro contrato profissional - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlRkX013SlhheUFwdVdRQ1V5QTF1M1JHQkdUN3k4dVFaVllpak5EVnRLeEpXOUVNR2pWWFhZYXVBV0RxaHctcnRsRWxqNG5UdVUyQ2tBX1RUR05iZnA3ajNIRnhHRVNKOU1FMmgyWEpYeHRvMlNhUzBZLXBwNWpCM3BVd0xKQk1taHpSWG5iTXFMMEFBcnB0WW1lZjdOeFJzVm5LMWJBMVZZaHlaUnpoZFlhRFMyMVJYU05z0gHAAUFVX3lxTE1jZnRwSzNsUEJvYU12b2NOdEpwZnRIVHlpcW0wb1FJc1FzRU55ZEhUTEY5eVg1eElMaVRzQWFRN1o1eHY3N2FyOXlZU29ieE5uUFdFQkdQWE1HS1p2NFl1VzhCZFFQSUlkMVNZQXhVc2ZnZ3F0ZDk5RjQzaENHalhZRmgydXExVlFIRXlpU0hHSXY4UnJTNXhDcFlkTXhFTTFYdDFPMGZLRU1GUHZ4VmNzM1NMbURaZmtMX0xDSVF1Sg?oc=5",
+      "data": "03/07 22:00"
     }
   ],
   "avisos": []
