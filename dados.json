@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/07/2026 05:24",
+  "atualizado_em": "05/07/2026 09:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -45,6 +45,16 @@
     {
       "sport": "futebol",
       "date": "2026-07-05",
+      "time": "14:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Juventud",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-05",
       "time": "17:00",
       "competition": "Copa do Mundo",
       "match": "Brasil x Noruega",
@@ -72,7 +82,7 @@
       "date": "2026-07-05",
       "time": "19:00",
       "competition": "MLS Next Pro",
-      "match": "FC Cincinnati II x New York RB II",
+      "match": "Connecticut FC x Carolina Core",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -82,7 +92,7 @@
       "date": "2026-07-05",
       "time": "19:00",
       "competition": "MLS Next Pro",
-      "match": "Connecticut FC x Carolina Core",
+      "match": "FC Cincinnati II x New York RB II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -105,7 +115,8 @@
       "match": "Náutico x Juventude",
       "channels": [
         "SPORTV",
-        "PREMIERE"
+        "PREMIERE",
+        "GE TV"
       ]
     },
     {
@@ -243,36 +254,6 @@
     {
       "sport": "volei",
       "date": "2026-07-05",
-      "time": "05:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-05",
-      "time": "06:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-05",
-      "time": "08:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-05",
       "time": "09:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
@@ -309,29 +290,59 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-05",
+      "time": "05:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-05",
+      "time": "06:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-05",
+      "time": "08:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.9,
-      "temp_min": 18.7,
-      "chance_chuva": 47,
+      "temp_max": 20.7,
+      "temp_min": 18.6,
+      "chance_chuva": 53,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.2,
-      "temp_min": 19.0,
-      "chance_chuva": 88,
+      "temp_max": 21.8,
+      "temp_min": 18.7,
+      "chance_chuva": 92,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.9,
-      "temp_min": 14.8,
+      "temp_max": 21.6,
+      "temp_min": 15.0,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
@@ -341,24 +352,24 @@
       "data": "04/07 20:46"
     },
     {
-      "titulo": "Fluminense vai ao mercado para repor saída de Facundo Bernal - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0RhOXRXN09PSHhNWnhqbUpKX2Q3RnUxUlNRQ0VYV2dieElmTzIyTmVQT1g1cXNrYWZ0MzJsRFVMQTg1MDl5aGJqM0JMMmQxeGhaejRObjdmVGJiZWVQNDE5azlwNXBBT0U4UUJQR3JmT0tXT3R4NEFCSVc4TndWUWRlLWhOTW1iWWZBVjFNMEs5eXV4X1J6cjdISEUxblBUaEZV?oc=5",
-      "data": "05/07 06:40"
-    },
-    {
       "titulo": "Fluminense acerta venda de Facundo Bernal para clube espanhol - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTNEUXdkUWctTmVVdTdaa0dSazdmWl9FNVlzRDVTaldNQlhLUWNqdG13eU1STEhfUTczU1BMRmJLRnFSZnBZQ045dWpUTndKMVdOSlRQeHdkVVd2c01HWlNfbnZiSjloRmNkSkdsV3VZR0ltVnFSWW85bTBuNVhCdzg3NWdvYU5TM1htS3lTbVNoVGJidEhzR0pzNmlhbTFFaVp0TjhNYVFyS3M2eGZ6cDdyNFN3dlFvZlRQbS1jYzNlUdIBxwFBVV95cUxPMnEwWkd2NUJHMFV6WFc1RzNRYmQxZklHbmNXNVJHNURON1ZISm5KN1RDSmVWSjgtYkJzWjZINkN6MTlLWWFIWHl0Nm9RVno2SXFoSzlPV3NQN0tUOVNFNGZmN3BnQ3RINVY1QnFTdFRUZkt3RXIwQzJaVnU1VFMyM0hnRHF5a3JlWWwwX2RCeVloVU91RWdiQjNBNTYwQnZVRmdzVXQwUHFYYV9ES3JJODBQaXdtaDRWLXVDV2tOcWluV205dkxZ?oc=5",
       "data": "04/07 23:42"
     },
     {
-      "titulo": "Hulk marca, e Fluminense goleia São Cristóvão em amistoso de intertemporada - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlJVUWU3S3JwNkhBZnh6R1IwbWNqNDZXcW1fYTRJSzU0RkZHeFRqRTVkN2g2UXM0VzlMNHBIUTVyOW8zbzE1MHhyanViSHZfZkFOd2JTRmZmMWlhWFhqOXJOYjJFVTF3bFlwNmVYc05TNmRWQnNLc2dvX2lUYjdMTGhjYzJTVXZhNGNhMEpZQm9pdU5PWmUtdWVoRXowNVVpS0VDZ3FOdnVvbFhIOGlHRUJtSHNWTkFvbE9jZjFmdDhkSTF1YUduT3V6dnhrMG1DS2NLNzd4UF9SYUFIZUHSAewBQVVfeXFMTkNha0VrZm1pSC1kYTM0aFprNzFhY2RvS2kwcHZTN2hWc1Rad1lTd3NBSThudktFUDJVYVNYNktyR05iQnQ4UGNJendJSjU0bHdKcUNWNlV1R0dMeXZ3UnZER2tvZGhDVW03MnJuNUU1RXB3V0ZheTBKa3ZUNFdJcG5OUjczeFRnTUhvSDV4OG1KdUdjWkI1ZDN4WVp4YWpGdG5hdUlnU25ZNnB3aHVPUS12MkdyMmswT2h2R1pSU3dTaXlDSGVlaVY5Rm95TElPR3N4bHZ6X0p5WHBQNlpfVzVnSjh3bFd5OUZlelQ?oc=5",
-      "data": "04/07 16:57"
+      "titulo": "Fluminense vai ao mercado para repor saída de Facundo Bernal - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0RhOXRXN09PSHhNWnhqbUpKX2Q3RnUxUlNRQ0VYV2dieElmTzIyTmVQT1g1cXNrYWZ0MzJsRFVMQTg1MDl5aGJqM0JMMmQxeGhaejRObjdmVGJiZWVQNDE5azlwNXBBT0U4UUJQR3JmT0tXT3R4NEFCSVc4TndWUWRlLWhOTW1iWWZBVjFNMEs5eXV4X1J6cjdISEUxblBUaEZV?oc=5",
+      "data": "05/07 06:40"
     },
     {
-      "titulo": "Joia do Fluminense assina primeiro contrato profissional - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlRkX013SlhheUFwdVdRQ1V5QTF1M1JHQkdUN3k4dVFaVllpak5EVnRLeEpXOUVNR2pWWFhZYXVBV0RxaHctcnRsRWxqNG5UdVUyQ2tBX1RUR05iZnA3ajNIRnhHRVNKOU1FMmgyWEpYeHRvMlNhUzBZLXBwNWpCM3BVd0xKQk1taHpSWG5iTXFMMEFBcnB0WW1lZjdOeFJzVm5LMWJBMVZZaHlaUnpoZFlhRFMyMVJYU05z0gHAAUFVX3lxTE1jZnRwSzNsUEJvYU12b2NOdEpwZnRIVHlpcW0wb1FJc1FzRU55ZEhUTEY5eVg1eElMaVRzQWFRN1o1eHY3N2FyOXlZU29ieE5uUFdFQkdQWE1HS1p2NFl1VzhCZFFQSUlkMVNZQXhVc2ZnZ3F0ZDk5RjQzaENHalhZRmgydXExVlFIRXlpU0hHSXY4UnJTNXhDcFlkTXhFTTFYdDFPMGZLRU1GUHZ4VmNzM1NMbURaZmtMX0xDSVF1Sg?oc=5",
-      "data": "03/07 22:00"
+      "titulo": "Um ano: relembre a vitória do Fluminense contra o Al-Hilal - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2hvSzJZRTVJdl80OXI4SlVFVTBFOWV4TUZRYXJiLUp5LU9DTTZqTkhNSFAyQloxR25QdE5pTkQ0OTVUcjNUZXl4RDA0T05vc29hbjN5TnlETHBxeG9uQlFJU3paelVfZTlpYk5mdzNMMFJ4RXFITWtLakdNZGdPcmFkNzVFTVc0S3gxNF9YeUhhbERmSmI5aU9Na1Q5MkU?oc=5",
+      "data": "04/07 17:08"
+    },
+    {
+      "titulo": "Ex-Fluminense assina com clube da segunda divisão dos Emirados Árabes - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDdNM2pEZnpLSWlnTThxenVfR0tJTlRNaVpKY2RwTTFvaGhsMmN6QUhjZnZjNUoyQThGV1Q2OWwyOWUtdlJNN0JfV3ZhV0swZW5YN1pQSkFlZy1ZX095NVZidzVsR3F1c0RBa2NjeFl0Q25LLXNRaTZXNTlnczFKblU5bHhTcEUwTFNxOElB?oc=5",
+      "data": "05/07 02:04"
     }
   ],
   "avisos": []
