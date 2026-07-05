@@ -1,37 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "05/07/2026 09:58",
+  "atualizado_em": "05/07/2026 13:43",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-05",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Porto Football U20 x Palmeiras Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-05",
-      "time": "11:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Paysandu",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-05",
-      "time": "11:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Sertaozinho U20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-05",
@@ -82,7 +51,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-05",
       "time": "19:00",
       "competition": "MLS Next Pro",
-      "match": "Connecticut FC x Carolina Core",
+      "match": "FC Cincinnati II x New York RB II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -92,7 +61,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-05",
       "time": "19:00",
       "competition": "MLS Next Pro",
-      "match": "FC Cincinnati II x New York RB II",
+      "match": "Connecticut FC x Carolina Core",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -182,6 +151,37 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-07-05",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Porto Football U20 x Palmeiras Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-05",
+      "time": "11:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Sertaozinho U20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-05",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Paysandu",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-07-06",
       "time": "16:00",
       "competition": "Copa do Mundo",
@@ -254,16 +254,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-05",
-      "time": "09:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-05",
       "time": "23:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Turquia x Polônia",
@@ -320,29 +310,39 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-05",
+      "time": "09:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 20.7,
-      "temp_min": 18.6,
-      "chance_chuva": 53,
+      "temp_min": 18.4,
+      "chance_chuva": 61,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 21.8,
       "temp_min": 18.7,
-      "chance_chuva": 92,
+      "chance_chuva": 94,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.6,
-      "temp_min": 15.0,
+      "temp_max": 21.8,
+      "temp_min": 14.8,
       "chance_chuva": 100,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -362,14 +362,14 @@ window.PAINEL_DATA = {
       "data": "05/07 06:40"
     },
     {
+      "titulo": "Quem chega e quem sai: veja as movimentações do Fluminense no mercado durante a Copa - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQmc3NHJfdVdaV0lLV2Z1NjVzNnR3LVN1NEpKQi1UQlRWbUFiY1Vobi1mMWFmR1h2azNkUDF5SXVYeUwzbnNSSUdabzctVUg4XzZrOG1lc3NUQ0VpdGgwZ3QzTlkxemZDSTBJY1B2UFFDWml0N1hXNVFqVTItQmRpZ1RLRW1zUGpsY1hMU0FsUWY4VkhmeC1iMnZsbVhZV0x3MW0ybE43S1l3N1R2WElRdUsxM1d3MWRjLXBnUFdGVjIwTkVrWlBrTFkwVEtRT09vTkw5VVZJTk44Wk5HbXNvTWRpdEcyRUlEMUJocFVNN3UyQ0FUN2fSAYQCQVVfeXFMTU1xWU5DRUdPamRkcTBfZFdwaTRKOVlZU0x2N1hjdDcxd0Iyd2FhNVNNTHI0TGtUazBYb2ZrR3p4S1FfOF95cTY1NEtSZUFPSGFqcTAweF9ORVFBU2lXZngwUTUzN0FZT21nV2lIa3kxOWF4MW95MTBpZDQ1WXVGSWhnWVo2VmMtT2wta0lsQ2hKb2pMWVhhbkZ0dTJYQWJZYVF3SDhtWlBQQjRtWWVuX1h4N01NaFdXN2NUMHd0Um1ZdnlNRVdwQ0F4VHF6dm5MTk4wOEdwcW9tQlJRVTJldkpxWVhsd2FHTUxDX25KVXg0LXdkczJkRmR0SUV4WjBPX01RZTQ?oc=5",
+      "data": "05/07 16:34"
+    },
+    {
       "titulo": "Um ano: relembre a vitória do Fluminense contra o Al-Hilal - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2hvSzJZRTVJdl80OXI4SlVFVTBFOWV4TUZRYXJiLUp5LU9DTTZqTkhNSFAyQloxR25QdE5pTkQ0OTVUcjNUZXl4RDA0T05vc29hbjN5TnlETHBxeG9uQlFJU3paelVfZTlpYk5mdzNMMFJ4RXFITWtLakdNZGdPcmFkNzVFTVc0S3gxNF9YeUhhbERmSmI5aU9Na1Q5MkU?oc=5",
       "data": "04/07 17:08"
-    },
-    {
-      "titulo": "Ex-Fluminense assina com clube da segunda divisão dos Emirados Árabes - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDdNM2pEZnpLSWlnTThxenVfR0tJTlRNaVpKY2RwTTFvaGhsMmN6QUhjZnZjNUoyQThGV1Q2OWwyOWUtdlJNN0JfV3ZhV0swZW5YN1pQSkFlZy1ZX095NVZidzVsR3F1c0RBa2NjeFl0Q25LLXNRaTZXNTlnczFKblU5bHhTcEUwTFNxOElB?oc=5",
-      "data": "05/07 02:04"
     }
   ],
   "avisos": []
