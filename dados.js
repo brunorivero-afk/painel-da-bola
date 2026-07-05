@@ -1,189 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/07/2026 17:15",
+  "atualizado_em": "05/07/2026 05:24",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Sport Recife",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x CRB",
-      "channels": [
-        "REDETV!",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Atlético GO",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maranhão x Inter De Limeira",
-      "channels": [
-        "BAND",
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "18:00",
-      "competition": "Copa do Mundo",
-      "match": "Paraguai x França",
-      "channels": [
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "19:00",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Barra",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "19:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Volta Redonda",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Ituano",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Toronto II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "20:00",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Ceará",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "20:30",
-      "competition": "Brasileirão Série C",
-      "match": "Ferroviária x Caxias",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "20:30",
-      "competition": "Brasileirão Série C",
-      "match": "Guarani x Floresta",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "21:45",
-      "competition": "MLS Next Pro",
-      "match": "North Texas x St. Louis City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Cruzeiro x Defensor Sporting",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "14:00",
-      "competition": "Copa do Mundo",
-      "match": "Canadá x Marrocos",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "GE TV",
-        "NSPORTS",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x XV de Piracicaba Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-04",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Ponte Preta Sub-20 x Santos Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-05",
@@ -243,6 +60,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-05",
+      "time": "17:30",
+      "competition": "MLS Next Pro",
+      "match": "Houston Dynamo FC II x Minnesota United II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-05",
       "time": "19:00",
       "competition": "MLS Next Pro",
       "match": "FC Cincinnati II x New York RB II",
@@ -266,16 +93,6 @@ window.PAINEL_DATA = {
       "time": "20:00",
       "competition": "MLS Next Pro",
       "match": "Crown Legacy x Orlando City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-05",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Houston Dynamo FC II x Minnesota United II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -353,8 +170,79 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-06",
+      "time": "16:00",
+      "competition": "Copa do Mundo",
+      "match": "Portugal x Espanha",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "NSPORTS",
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-06",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Avai",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-06",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "Vila Nova x São Bernardo",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-06",
+      "time": "19:00",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Figueirense",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-06",
+      "time": "21:00",
+      "competition": "Brasileirão Série C",
+      "match": "Amazonas x Itabaiana",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-06",
+      "time": "21:00",
+      "competition": "Copa do Mundo",
+      "match": "Estados Unidos x Bélgica",
+      "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "05:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -364,7 +252,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "06:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -374,7 +262,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
@@ -384,7 +272,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "09:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
@@ -394,7 +282,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "23:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Turquia x Polônia",
@@ -404,7 +292,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -414,7 +302,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "14:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -426,51 +314,51 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.2,
-      "temp_min": 19.7,
-      "chance_chuva": 73,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 20.9,
+      "temp_min": 18.7,
+      "chance_chuva": 47,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.3,
-      "temp_min": 20.2,
-      "chance_chuva": 94,
+      "temp_max": 22.2,
+      "temp_min": 19.0,
+      "chance_chuva": 88,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.6,
-      "temp_min": 13.1,
+      "temp_max": 20.9,
+      "temp_min": 14.8,
       "chance_chuva": 100,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Faltam 18: Cano tem missão final de tornar Fluminense como clube com mais gols na carreira; veja corrida - GE",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1ZBOENoT2Q4M255ckdrV08tY3Nqa2VfeF9KYVZNMk5UYkNqalhPYnExM2NaVHppZS0yX1RvZ3ZGTWh3Yl9KbnozTWpibjBRcFpDalZwMjU0YzRvemRJZkdLdHNBOTN0SjdWS0RrV0o3emVpZldTaF9LY0NpdlVaN01tbFhhTW56RW1wU2FIYzRPWDBrSWtXalkwSy1qd1pmMHo4SnpINm53SGlNZDdaVmdBdzRQS0JVWV90bW1DaGMwUWpEM2JZaFdLYUxHckFSamd4b2xENG81d19zcWNpa29QR1N6b19hY3locnRGMkQwWWk3ODJFbjM3TC1RYWh1aVR30gGSAkFVX3lxTE1UNUlWUVVvcjJUamlPMkVfaTEwOWYzemRiLTRrdDRHVzJCZ2RUTGplMVNnVFlIcnJ4YlBnZXJqWHl4XzVPb3RoWDYyN09lQ1RXVU12elhuX1p3M0lPY0ZCd1AtQktJUGNHVTZiTTd4em1LX3lsaFNWdDBZTUQxNFU1YmRpTktLd3F3OVZOOW9EZ00xd1h2SGVocHp0V2dWbVZUZnhlUjVwem4ybF9MZXNYUVhkeEJkRnQyNUpKVF92ekxOZ0dGWDUyMWYtR2VoQWF6NUhITDk4ZHN4VWZLbm1Ra2xYaDFYOTVwSDhpVi1oZnpQQmlnLWJlYnJPcEZnRl9HTmlkY3IwRmcwYUo4WlAzT0E?oc=5",
-      "data": "03/07 07:01"
+      "titulo": "Fluminense acerta venda de Bernal para o Betis - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNnNBdmdIYm9UZWgyclVnazNsbEloYk5rMExyQ3ZBMGFmUHpZbXNjc0hiZDVFZm1UejhvR2F5QTBiNXZDNER5UlN5djctYXZLemItdG1GNkoxR2ktQS04SVY4Ukt1WnlIOXpWalNWYm5abm1WZTEzTlVUX3UtZjh5ZENmUDlrZUNCRXQ0ZGhGX1dVYXg3Q1Njc2JjcDg4aW1VMDMwc1NwWVkzVWtGdU8wSnVpZzVpaml6TllEcGpGQXNhVFpaNkFiWUE3ZzVqeWl1UFFZaHAySS1ZVTlaWlHSAewBQVVfeXFMTk8tSDhKdWlxUkF4cUdmYzAwSl9sY3RXRkJrakpNVi02bXMtZkZYbkxTZWxneFBwTWdEUEdMeXcyNVAyM0tZdlExV3ZNdkZWeG1KY3pnWmNZaGxlTzI0cERJRlUtTHg3Vl93c3BuSUg4WXV6ck11cVNDR3FNUW1Od1BRZHVpTEswWUlvRlAxYWlrTnI0U0c2bFZuekxmUzR3ZW42djE5cnhtQ1pjTmxFNUt0aW1oUjQ1Q0pTZVJoNHZBalBEd1BrN0M0aTB4NW4zWVVKdVBVZGlwazNCR2JXdW40TDRycGpfd3JxeDY?oc=5",
+      "data": "04/07 20:46"
     },
     {
-      "titulo": "Um ano: relembre a vitória do Fluminense contra o Al-Hilal - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2hvSzJZRTVJdl80OXI4SlVFVTBFOWV4TUZRYXJiLUp5LU9DTTZqTkhNSFAyQloxR25QdE5pTkQ0OTVUcjNUZXl4RDA0T05vc29hbjN5TnlETHBxeG9uQlFJU3paelVfZTlpYk5mdzNMMFJ4RXFITWtLakdNZGdPcmFkNzVFTVc0S3gxNF9YeUhhbERmSmI5aU9Na1Q5MkU?oc=5",
-      "data": "04/07 17:08"
+      "titulo": "Fluminense vai ao mercado para repor saída de Facundo Bernal - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0RhOXRXN09PSHhNWnhqbUpKX2Q3RnUxUlNRQ0VYV2dieElmTzIyTmVQT1g1cXNrYWZ0MzJsRFVMQTg1MDl5aGJqM0JMMmQxeGhaejRObjdmVGJiZWVQNDE5azlwNXBBT0U4UUJQR3JmT0tXT3R4NEFCSVc4TndWUWRlLWhOTW1iWWZBVjFNMEs5eXV4X1J6cjdISEUxblBUaEZV?oc=5",
+      "data": "05/07 06:40"
     },
     {
-      "titulo": "Fluminense exerce opção de compra do volante Andrey, do time Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFNzSktYWmNZT24xbkpzdk9TREt2UjBCRE9OaDB3NkY0Q0xnUDFMMnhBYUI1WXRFUFczRXFmTDRuN2M2TVEwUDdVRVkwYjdtNGs0eS1xNEpUcVZ2d2hWdklQc3RNZE9CTTRoZFYtOWhsel9xZDRXM0t5akRnNzBJTl9LNGRqdHFicjB0V25jejlQY0dhX2d5cnVxZTNUdXZMTThKZXBvYw?oc=5",
-      "data": "04/07 15:30"
+      "titulo": "Fluminense acerta venda de Facundo Bernal para clube espanhol - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTNEUXdkUWctTmVVdTdaa0dSazdmWl9FNVlzRDVTaldNQlhLUWNqdG13eU1STEhfUTczU1BMRmJLRnFSZnBZQ045dWpUTndKMVdOSlRQeHdkVVd2c01HWlNfbnZiSjloRmNkSkdsV3VZR0ltVnFSWW85bTBuNVhCdzg3NWdvYU5TM1htS3lTbVNoVGJidEhzR0pzNmlhbTFFaVp0TjhNYVFyS3M2eGZ6cDdyNFN3dlFvZlRQbS1jYzNlUdIBxwFBVV95cUxPMnEwWkd2NUJHMFV6WFc1RzNRYmQxZklHbmNXNVJHNURON1ZISm5KN1RDSmVWSjgtYkJzWjZINkN6MTlLWWFIWHl0Nm9RVno2SXFoSzlPV3NQN0tUOVNFNGZmN3BnQ3RINVY1QnFTdFRUZkt3RXIwQzJaVnU1VFMyM0hnRHF5a3JlWWwwX2RCeVloVU91RWdiQjNBNTYwQnZVRmdzVXQwUHFYYV9ES3JJODBQaXdtaDRWLXVDV2tOcWluV205dkxZ?oc=5",
+      "data": "04/07 23:42"
+    },
+    {
+      "titulo": "Hulk marca, e Fluminense goleia São Cristóvão em amistoso de intertemporada - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlJVUWU3S3JwNkhBZnh6R1IwbWNqNDZXcW1fYTRJSzU0RkZHeFRqRTVkN2g2UXM0VzlMNHBIUTVyOW8zbzE1MHhyanViSHZfZkFOd2JTRmZmMWlhWFhqOXJOYjJFVTF3bFlwNmVYc05TNmRWQnNLc2dvX2lUYjdMTGhjYzJTVXZhNGNhMEpZQm9pdU5PWmUtdWVoRXowNVVpS0VDZ3FOdnVvbFhIOGlHRUJtSHNWTkFvbE9jZjFmdDhkSTF1YUduT3V6dnhrMG1DS2NLNzd4UF9SYUFIZUHSAewBQVVfeXFMTkNha0VrZm1pSC1kYTM0aFprNzFhY2RvS2kwcHZTN2hWc1Rad1lTd3NBSThudktFUDJVYVNYNktyR05iQnQ4UGNJendJSjU0bHdKcUNWNlV1R0dMeXZ3UnZER2tvZGhDVW03MnJuNUU1RXB3V0ZheTBKa3ZUNFdJcG5OUjczeFRnTUhvSDV4OG1KdUdjWkI1ZDN4WVp4YWpGdG5hdUlnU25ZNnB3aHVPUS12MkdyMmswT2h2R1pSU3dTaXlDSGVlaVY5Rm95TElPR3N4bHZ6X0p5WHBQNlpfVzVnSjh3bFd5OUZlelQ?oc=5",
+      "data": "04/07 16:57"
     },
     {
       "titulo": "Joia do Fluminense assina primeiro contrato profissional - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlRkX013SlhheUFwdVdRQ1V5QTF1M1JHQkdUN3k4dVFaVllpak5EVnRLeEpXOUVNR2pWWFhZYXVBV0RxaHctcnRsRWxqNG5UdVUyQ2tBX1RUR05iZnA3ajNIRnhHRVNKOU1FMmgyWEpYeHRvMlNhUzBZLXBwNWpCM3BVd0xKQk1taHpSWG5iTXFMMEFBcnB0WW1lZjdOeFJzVm5LMWJBMVZZaHlaUnpoZFlhRFMyMVJYU05z0gHAAUFVX3lxTE1jZnRwSzNsUEJvYU12b2NOdEpwZnRIVHlpcW0wb1FJc1FzRU55ZEhUTEY5eVg1eElMaVRzQWFRN1o1eHY3N2FyOXlZU29ieE5uUFdFQkdQWE1HS1p2NFl1VzhCZFFQSUlkMVNZQXhVc2ZnZ3F0ZDk5RjQzaENHalhZRmgydXExVlFIRXlpU0hHSXY4UnJTNXhDcFlkTXhFTTFYdDFPMGZLRU1GUHZ4VmNzM1NMbURaZmtMX0xDSVF1Sg?oc=5",
       "data": "03/07 22:00"
-    },
-    {
-      "titulo": "Fluminense se aproxima de vender craque para clube europeu - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdDBRRDYySlhrQUI4OFF4eDlsMmJrcVA3RC1NVnNBRVJpcWxSNkxQNmFtcFg1X2UzejZCWTdCbDV5aEFfYlA1QkJGa3FYTlBiUl9oWmxtWV9fQkJHemxzZHVKV21RUEZrelZCLV9xcXhDNlhCcmNmbUpiRTNZeG5OWUJBbU9Kckcxc09oNk5QaVRRMjQ4Y2JXWkVnSUExR3JfY3M4ZTZSMy1jakNKV2puc1NuTHRBcnF5eTl2a1pGVVNOT0RtT2w4d01ESTN1RjhOLTdWa1dxRXRIbFhRVXZKdFdaWQ?oc=5",
-      "data": "03/07 23:10"
     }
   ],
   "avisos": []
