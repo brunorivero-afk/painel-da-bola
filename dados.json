@@ -1,22 +1,6 @@
 {
-  "atualizado_em": "06/07/2026 16:22",
+  "atualizado_em": "06/07/2026 20:44",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-06",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Portugal x Espanha",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "NSPORTS",
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-06",
@@ -68,6 +52,22 @@
       "competition": "Copa do Mundo",
       "match": "Estados Unidos x Bélgica",
       "channels": [
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-06",
+      "time": "16:00",
+      "competition": "Copa do Mundo",
+      "match": "Portugal x Espanha",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "NSPORTS",
         "CAZÉTV",
         "PRIME VIDEO"
       ]
@@ -184,23 +184,23 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.3,
+      "temp_max": 23.0,
       "temp_min": 16.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.2,
+      "temp_max": 22.7,
       "temp_min": 17.1,
-      "chance_chuva": 4,
+      "chance_chuva": 13,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.8,
+      "temp_max": 19.1,
       "temp_min": 12.3,
-      "chance_chuva": 20,
+      "chance_chuva": 59,
       "condicao": "Nublado"
     }
   ],
@@ -216,19 +216,19 @@
       "data": "05/07 19:55"
     },
     {
+      "titulo": "Marcão participa de experiência com sócios no Museu Fluminense FC - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXRFdDd1UmlnZFhlakxsWmozUm9aRDY3RXNsTGZsZXBJQmZHZ3FULXEyS0FOTGt4QkJySjdNZGM3SV81WE1sRDZfNU10aE5ldUd0RzBXZWhsSnhrMDZpamJVWW5LbFl1RWV0YldjV1VQTVppQmRTTUNzSThQS0pMaUZxM2ZWd1VVM1JtY3dGSVNxMXl6VFNhdzRzUnBxYVlwUzB2TWNR?oc=5",
+      "data": "06/07 20:36"
+    },
+    {
+      "titulo": "ídolo do Fluminense participa de projeto no Museu e conversa com torcedores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeEk3OFFDT1pHRFQyMzB2elFwbnA3blBFUWFLTHVpQS1RVVZnTzRUblMtdy1Hb0ZHdzBwcDlmSTYyRUpmcm1tYVlNLS11bUhCOVNVb1hBOWwzNVA3Q0xRRV90ZnVsUGZSZlZ1OFY3Z054aHZObDJKOEY4dkt3aUU1Z1dR?oc=5",
+      "data": "06/07 22:14"
+    },
+    {
       "titulo": "Fluminense anuncia venda de Bernal para o Betis - GE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmt4NFU5SUVZVVFHRVpGQXU2Z2sxMWJZb09BcXk0R01peFlKTnhUaERMeGlpUlNkd1N4SzJMQXdmYVE0X3F0Tjh2UmxRT013ejd3M2FFZUpUdWcyZlZkRDEyLXQ0WTl3M281NDc3WUxxTURYV2lmb1FQZVRvUjctbjFUbjAzSFphTnNYWW9rSm1NbnNyem8talJNUjVqa2FMZTlNazR1dmtEalpwOXJGMWpOUE1PRm5LTUHSAcgBQVVfeXFMTUNGRzJ0WUpvQVFNeVJhRjJBbEdHaWNPZ21fRnVjTTRMM2wtOFA5dFpCTmE0WjNZazZoSzM4U0dIVWluMmdSUC0xYUJPeUZpbU92dVlhYkgzREk1MGl1QVBlTEtuVWhmTzRuaC16eHRLMVR2ak45djl2T2x2eVJRd2tjY2ZwSlJBdUkwb0owUEJDQmZma0dCTjBJUnpJaUswX29KWm1RWFVZVHdqU0tIUUl6OFljaGNGS2hEMjQyN2hCM3J2Vm5OMjg?oc=5",
       "data": "06/07 17:39"
-    },
-    {
-      "titulo": "Comissão técnica do Fluminense vai definir o futuro do volante Lima - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV0VCT1NNS2ZQc3hLRW1BVGEzZFpGaGhBN0hRMjVhemd3TmlrM01SbGpwZjhvS1lSZzZlVl82RnFXaDFFdEVKLWk3SUtvaTRmVThBVG1KcWQ5dzdZYzF3Uk1hWHJhMU1RS2NEbUlxekdYQUVSRzlHMm1aZVludkNscTRBQ3ZCUmpKNHlZM3NwQW93NnhUX2JlMmJ5Snp6bHZuR09MU0FtYnFmUElLaVNHXzZ1LVNOa1lTaTh5ZDdMdnNYWEdsOXd1TmNkazVMNUdFcFh1b3hVS0VxNFhPUGZLYmJvc2ZRUDlUTC1jNkxobw?oc=5",
-      "data": "06/07 16:43"
-    },
-    {
-      "titulo": "Fluminense x Deportivo La Guaira ao vivo pela Libertadores; acompanhe - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYUh2YUhiUlVPTE1jeDdzclJYamd4WG1wdGgwaGpSUUNGZkxJRVFCNmJTQ201U0dhQmZZTGtDTklLYWlaRWJ5RTJZVDlOUzFPd1FSb2ZSU2p4X1FVV2NILTdaN2d4ZjhiaDRzZGhad3JQanJBbEw5VXp1aTFkZjRmVzlKSFk1OERxaWRFcVJVTjFubU9IYy1GOUo3bXNSclVKak8ycUdnWWIxdURiemhoRHlGeDVyM1d5ZVVsOHBST2RVNDlzNndkNC1OcHFNTFdYU3RSZ0JoekkxWFZjOTc2ZGNBcU9YNjNmeGk5TWdMMmQ4NXI1THA5TDRFdVVNQQ?oc=5",
-      "data": "27/05 07:00"
     }
   ],
   "avisos": []
