@@ -1,21 +1,6 @@
 {
-  "atualizado_em": "07/07/2026 08:22",
+  "atualizado_em": "07/07/2026 16:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-07",
-      "time": "13:00",
-      "competition": "Copa do Mundo",
-      "match": "Argentina x Egito",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "NSPORTS",
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-07",
@@ -37,6 +22,21 @@
       "match": "Athletic Club x Operário-PR",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-07",
+      "time": "13:00",
+      "competition": "Copa do Mundo",
+      "match": "Argentina x Egito",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "NSPORTS",
+        "CAZÉTV",
+        "PRIME VIDEO"
       ]
     },
     {
@@ -246,46 +246,46 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.2,
-      "temp_min": 18.2,
-      "chance_chuva": 94,
+      "temp_max": 26.4,
+      "temp_min": 18.4,
+      "chance_chuva": 90,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.3,
-      "temp_min": 18.9,
-      "chance_chuva": 77,
-      "condicao": "Garoa"
+      "temp_max": 27.9,
+      "temp_min": 19.6,
+      "chance_chuva": 73,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.9,
-      "temp_min": 13.4,
+      "temp_max": 22.5,
+      "temp_min": 13.7,
       "chance_chuva": 100,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Scarpa no Fluminense? Veja o que o Lance! apurou - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEgzdGo0VGZ3ZUM5b0Y5MUhwSnFUNmk2MEpoVTg4bjVaUTlJbGVwek1ubVl3eVpSUTBFSHpUX2xwZjBCR3U1eHlNVlVvd2tUb3ZyZXU4R0MybmIxRC1fa0tQU0tVblBiTWpLWUFGYTBTcU81S1JoM0dtNTdIb1VyREhaQ2VSMmVaOGwyTE1GdWRvOVpuY3RjVg?oc=5",
-      "data": "05/07 19:55"
-    },
-    {
-      "titulo": "Hulk marca, e Fluminense goleia São Cristóvão em amistoso de intertemporada - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlJVUWU3S3JwNkhBZnh6R1IwbWNqNDZXcW1fYTRJSzU0RkZHeFRqRTVkN2g2UXM0VzlMNHBIUTVyOW8zbzE1MHhyanViSHZfZkFOd2JTRmZmMWlhWFhqOXJOYjJFVTF3bFlwNmVYc05TNmRWQnNLc2dvX2lUYjdMTGhjYzJTVXZhNGNhMEpZQm9pdU5PWmUtdWVoRXowNVVpS0VDZ3FOdnVvbFhIOGlHRUJtSHNWTkFvbE9jZjFmdDhkSTF1YUduT3V6dnhrMG1DS2NLNzd4UF9SYUFIZUHSAewBQVVfeXFMTkNha0VrZm1pSC1kYTM0aFprNzFhY2RvS2kwcHZTN2hWc1Rad1lTd3NBSThudktFUDJVYVNYNktyR05iQnQ4UGNJendJSjU0bHdKcUNWNlV1R0dMeXZ3UnZER2tvZGhDVW03MnJuNUU1RXB3V0ZheTBKa3ZUNFdJcG5OUjczeFRnTUhvSDV4OG1KdUdjWkI1ZDN4WVp4YWpGdG5hdUlnU25ZNnB3aHVPUS12MkdyMmswT2h2R1pSU3dTaXlDSGVlaVY5Rm95TElPR3N4bHZ6X0p5WHBQNlpfVzVnSjh3bFd5OUZlelQ?oc=5",
-      "data": "04/07 16:57"
-    },
     {
       "titulo": "Fluminense anuncia venda de Bernal para o Betis - GE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmt4NFU5SUVZVVFHRVpGQXU2Z2sxMWJZb09BcXk0R01peFlKTnhUaERMeGlpUlNkd1N4SzJMQXdmYVE0X3F0Tjh2UmxRT013ejd3M2FFZUpUdWcyZlZkRDEyLXQ0WTl3M281NDc3WUxxTURYV2lmb1FQZVRvUjctbjFUbjAzSFphTnNYWW9rSm1NbnNyem8talJNUjVqa2FMZTlNazR1dmtEalpwOXJGMWpOUE1PRm5LTUHSAcgBQVVfeXFMTUNGRzJ0WUpvQVFNeVJhRjJBbEdHaWNPZ21fRnVjTTRMM2wtOFA5dFpCTmE0WjNZazZoSzM4U0dIVWluMmdSUC0xYUJPeUZpbU92dVlhYkgzREk1MGl1QVBlTEtuVWhmTzRuaC16eHRLMVR2ak45djl2T2x2eVJRd2tjY2ZwSlJBdUkwb0owUEJDQmZma0dCTjBJUnpJaUswX29KWm1RWFVZVHdqU0tIUUl6OFljaGNGS2hEMjQyN2hCM3J2Vm5OMjg?oc=5",
       "data": "06/07 17:39"
     },
     {
+      "titulo": "Lateral emprestado pelo Fluminense rescinde com a Ponte Preta e retorna - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDZKUWJGWDY2X0gzZ3NBckpGZ0Jub2hOVzlRWWZpSi1fYmZNQnRGMmItalpSR1Y5a3RpYWV5MmdxcDlkM09SamRGY1VpR2xTY3paYUxxbktkX0NQaFB6MC1Ud1Z1UzlSRGdsUzE0b2xmaUQ2endwTnRiS3ZfeUgzTVJZU1VFUzhHcnk5YklFLXNsUVJieTI0cTNudlhnUGVTWGxhSE9sYV84OGJHY1d1OElQWlNBYUZHTk40dmZoTlBONlM3LVdtc29UUW5waUcwbHJBLW9yV3pfSjh3YlhHcGl3QWxQdHByQk11ZHEtT0hxUVk?oc=5",
+      "data": "07/07 15:37"
+    },
+    {
       "titulo": "Marcão participa de experiência com sócios no Museu Fluminense FC - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXRFdDd1UmlnZFhlakxsWmozUm9aRDY3RXNsTGZsZXBJQmZHZ3FULXEyS0FOTGt4QkJySjdNZGM3SV81WE1sRDZfNU10aE5ldUd0RzBXZWhsSnhrMDZpamJVWW5LbFl1RWV0YldjV1VQTVppQmRTTUNzSThQS0pMaUZxM2ZWd1VVM1JtY3dGSVNxMXl6VFNhdzRzUnBxYVlwUzB2TWNR?oc=5",
       "data": "06/07 20:36"
+    },
+    {
+      "titulo": "Scarpa no Fluminense? Veja o que o Lance! apurou - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEgzdGo0VGZ3ZUM5b0Y5MUhwSnFUNmk2MEpoVTg4bjVaUTlJbGVwek1ubVl3eVpSUTBFSHpUX2xwZjBCR3U1eHlNVlVvd2tUb3ZyZXU4R0MybmIxRC1fa0tQU0tVblBiTWpLWUFGYTBTcU81S1JoM0dtNTdIb1VyREhaQ2VSMmVaOGwyTE1GdWRvOVpuY3RjVg?oc=5",
+      "data": "05/07 19:55"
     },
     {
       "titulo": "Fluminense faz contato com o Atlético-MG pela contratação de Gustavo Scarpa - UOL",
