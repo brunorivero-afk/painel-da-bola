@@ -1,19 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/07/2026 16:16",
+  "atualizado_em": "07/07/2026 20:31",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-07",
-      "time": "17:00",
-      "competition": "Copa do Mundo",
-      "match": "Suíça x Colômbia",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "CAZÉTV",
-        "PRIME VIDEO"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-07",
@@ -35,6 +22,19 @@ window.PAINEL_DATA = {
         "SBT",
         "SPORTV",
         "NSPORTS",
+        "CAZÉTV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-07",
+      "time": "17:00",
+      "competition": "Copa do Mundo",
+      "match": "Suíça x Colômbia",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
         "CAZÉTV",
         "PRIME VIDEO"
       ]
@@ -268,29 +268,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Torcedores reagem à publicação do Fluminense: 'Não precisava' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRMVS1WNHFkaC1jWEI2UG51aHVCZ2RYX21ndjRBSVFCZlVGcjZ4UG9LYWNVWTR0QjFwYzd4RVoyUWNJU1B1TVQ2VkZYTERSY1FibEhENVJPN0d5QjZTblZaM24wVHN6alMwTEtZX2dIUkJob1dBUXRYRUVISG83U0J3ZzVLM0xxRHU2ZTZmS1cwSmsxS0FydnE5UUUyNXBhZ0NNNA?oc=5",
+      "data": "07/07 21:02"
+    },
+    {
+      "titulo": "Fluminense x Nova Iguaçu: onde assistir ao vivo, horário, palpite e prováveis escalações do amistoso - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeU05aFh5Mi1ZeTJOMVlqaFFEYmRQUGwwa0FzMDdKUXJ0T0xZWDBROVJaZ1dWWEtzUktYVVJRby03RXZsWmJfMzZmZzk3Y0JVNTF1T1U0YzNIYnBwTEliWkw0RGZJSktEQjRIMkdfS2tQaGJ4MllVakNyR0VuMUYtcE16cktMUmNoak1UVDVYLVRUVzNRZkxuWjJGcVRUVFlBZk1hRTdwYlM3aExiR0JxWlR3bTA5SFM4VnNPOWRvWnFvQUozdDk3cnlFZGRrY29fWnJmSHhDMjAwS20yMy1hZXlhSVZpT1IwY3c?oc=5",
+      "data": "07/07 20:23"
+    },
+    {
       "titulo": "Fluminense anuncia venda de Bernal para o Betis - GE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmt4NFU5SUVZVVFHRVpGQXU2Z2sxMWJZb09BcXk0R01peFlKTnhUaERMeGlpUlNkd1N4SzJMQXdmYVE0X3F0Tjh2UmxRT013ejd3M2FFZUpUdWcyZlZkRDEyLXQ0WTl3M281NDc3WUxxTURYV2lmb1FQZVRvUjctbjFUbjAzSFphTnNYWW9rSm1NbnNyem8talJNUjVqa2FMZTlNazR1dmtEalpwOXJGMWpOUE1PRm5LTUHSAcgBQVVfeXFMTUNGRzJ0WUpvQVFNeVJhRjJBbEdHaWNPZ21fRnVjTTRMM2wtOFA5dFpCTmE0WjNZazZoSzM4U0dIVWluMmdSUC0xYUJPeUZpbU92dVlhYkgzREk1MGl1QVBlTEtuVWhmTzRuaC16eHRLMVR2ak45djl2T2x2eVJRd2tjY2ZwSlJBdUkwb0owUEJDQmZma0dCTjBJUnpJaUswX29KWm1RWFVZVHdqU0tIUUl6OFljaGNGS2hEMjQyN2hCM3J2Vm5OMjg?oc=5",
       "data": "06/07 17:39"
     },
     {
-      "titulo": "Lateral emprestado pelo Fluminense rescinde com a Ponte Preta e retorna - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDZKUWJGWDY2X0gzZ3NBckpGZ0Jub2hOVzlRWWZpSi1fYmZNQnRGMmItalpSR1Y5a3RpYWV5MmdxcDlkM09SamRGY1VpR2xTY3paYUxxbktkX0NQaFB6MC1Ud1Z1UzlSRGdsUzE0b2xmaUQ2endwTnRiS3ZfeUgzTVJZU1VFUzhHcnk5YklFLXNsUVJieTI0cTNudlhnUGVTWGxhSE9sYV84OGJHY1d1OElQWlNBYUZHTk40dmZoTlBONlM3LVdtc29UUW5waUcwbHJBLW9yV3pfSjh3YlhHcGl3QWxQdHByQk11ZHEtT0hxUVk?oc=5",
-      "data": "07/07 15:37"
+      "titulo": "Quem chega e quem sai: veja as movimentações do Fluminense no mercado durante a Copa - GE",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQmc3NHJfdVdaV0lLV2Z1NjVzNnR3LVN1NEpKQi1UQlRWbUFiY1Vobi1mMWFmR1h2azNkUDF5SXVYeUwzbnNSSUdabzctVUg4XzZrOG1lc3NUQ0VpdGgwZ3QzTlkxemZDSTBJY1B2UFFDWml0N1hXNVFqVTItQmRpZ1RLRW1zUGpsY1hMU0FsUWY4VkhmeC1iMnZsbVhZV0x3MW0ybE43S1l3N1R2WElRdUsxM1d3MWRjLXBnUFdGVjIwTkVrWlBrTFkwVEtRT09vTkw5VVZJTk44Wk5HbXNvTWRpdEcyRUlEMUJocFVNN3UyQ0FUN2fSAYQCQVVfeXFMTU1xWU5DRUdPamRkcTBfZFdwaTRKOVlZU0x2N1hjdDcxd0Iyd2FhNVNNTHI0TGtUazBYb2ZrR3p4S1FfOF95cTY1NEtSZUFPSGFqcTAweF9ORVFBU2lXZngwUTUzN0FZT21nV2lIa3kxOWF4MW95MTBpZDQ1WXVGSWhnWVo2VmMtT2wta0lsQ2hKb2pMWVhhbkZ0dTJYQWJZYVF3SDhtWlBQQjRtWWVuX1h4N01NaFdXN2NUMHd0Um1ZdnlNRVdwQ0F4VHF6dm5MTk4wOEdwcW9tQlJRVTJldkpxWVhsd2FHTUxDX25KVXg0LXdkczJkRmR0SUV4WjBPX01RZTQ?oc=5",
+      "data": "05/07 16:34"
     },
     {
       "titulo": "Marcão participa de experiência com sócios no Museu Fluminense FC - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXRFdDd1UmlnZFhlakxsWmozUm9aRDY3RXNsTGZsZXBJQmZHZ3FULXEyS0FOTGt4QkJySjdNZGM3SV81WE1sRDZfNU10aE5ldUd0RzBXZWhsSnhrMDZpamJVWW5LbFl1RWV0YldjV1VQTVppQmRTTUNzSThQS0pMaUZxM2ZWd1VVM1JtY3dGSVNxMXl6VFNhdzRzUnBxYVlwUzB2TWNR?oc=5",
       "data": "06/07 20:36"
-    },
-    {
-      "titulo": "Scarpa no Fluminense? Veja o que o Lance! apurou - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEgzdGo0VGZ3ZUM5b0Y5MUhwSnFUNmk2MEpoVTg4bjVaUTlJbGVwek1ubVl3eVpSUTBFSHpUX2xwZjBCR3U1eHlNVlVvd2tUb3ZyZXU4R0MybmIxRC1fa0tQU0tVblBiTWpLWUFGYTBTcU81S1JoM0dtNTdIb1VyREhaQ2VSMmVaOGwyTE1GdWRvOVpuY3RjVg?oc=5",
-      "data": "05/07 19:55"
-    },
-    {
-      "titulo": "Fluminense faz contato com o Atlético-MG pela contratação de Gustavo Scarpa - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUkh1bHdjbmJoWnhndFdDaHhfeEFkUFdHbExmMGtCX001MlRTQW9YUW9aRlpYX3hMWXZDU1RMS29xTXNqUXVXRTBZcmlzNGxWNlEyYktOU3BVSy1lWTVHaW1rdWVicjlrZFpkOVprczRPcFIxbnRQZzZmOXQySDdIZ2xfTHdTcXBlVjdDT2Rfb2c4VC1aRS1HSlpJT2prQWY4bElyNlA2Q2lVLTYxMndWNnF2NXViV0xUVUplYU5vbVVqVjRCOUJzbUlLWEF4Q1ZUUjFzVlF5TENnWkJuNnRnWA?oc=5",
-      "data": "05/07 19:32"
     }
   ],
   "avisos": []
