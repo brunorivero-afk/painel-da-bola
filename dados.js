@@ -1,12 +1,12 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/07/2026 06:15",
+  "atualizado_em": "08/07/2026 13:16",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-07-08",
       "time": "16:30",
       "competition": "Amistosos",
-      "match": "Lausanne x Flamengo",
+      "match": "Flamengo x Lausanne",
       "channels": [
         "SPORTV",
         "PREMIERE",
@@ -37,26 +37,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-08",
-      "time": "07:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Japão x Brasil",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-08",
-      "time": "09:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "China x Canadá",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-08",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Tchéquia x Alemanha",
@@ -70,6 +50,16 @@ window.PAINEL_DATA = {
       "time": "14:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Bulgária",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-08",
+      "time": "07:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Japão x Brasil",
       "channels": [
         "SporTV2"
       ]
@@ -213,56 +203,66 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-08",
+      "time": "09:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "China x Canadá",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.7,
+      "temp_max": 20.5,
       "temp_min": 18.6,
-      "chance_chuva": 100,
+      "chance_chuva": 99,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.3,
-      "temp_min": 18.6,
-      "chance_chuva": 98,
+      "temp_max": 21.2,
+      "temp_min": 18.7,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.2,
-      "temp_min": 12.9,
-      "chance_chuva": 100,
-      "condicao": "Nublado"
+      "temp_min": 13.4,
+      "chance_chuva": 97,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Quando o Fluminense volta a jogar? Veja o calendário para os próximos meses - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGVTaUQ2RHJWQzVGLU1kaE5pQ0tRakhOYkNUTktfcUJrSU5IbWlTSlg0VUhOZWxIZHMtdkhLdW5ydVFORktEb2kwMTBUdU1fOEF2a1gwcWtfZzBPOUhTUFVnNW85TWRCVktxMFFnRVVFc19zb3RyS0dBdXhlZm5jeWg3YjlPV2tBb1RQQnNwTWlBZndQLVZEd3lOU3BoUjlrOHdfb2EweVc0amoyWk8xaEFKY0s2TFg5R2xlMlZTSlZXT3k5SGZ5d3Zkdzl3TUpGbF9SZXJHRDZ6bDRTdGfSAewBQVVfeXFMTThRTWJoTjMyRHBwaTA4eHRWT1dxYlkwMTg4cFZWc1hkUjdUcHJ0cHBVa0VCM1lBdnNzcXlINHIxTlM5ak1oQk5WcTF0b0c1em5GNzJPY3o4ZjZ4ZnBqVHlmeUVJMVA4Z0phUWhHaXdwX3FzenRPSG91ZUYwU0VtbUR2akYyTmQ1M1I5a2Y4cUxOdURkZTMxMTlSaXpWYXFLS2dRRHRMLVVXNjViVHg4SGVvXzVvd2lLem1sb1VvT2FRMDBCM1ZKREE4N0FTcWluN3BoaUNnd3ZpUDRISjRFUlVHa3F3MXdMTmJQRV8?oc=5",
-      "data": "06/07 07:00"
+      "titulo": "Fluminense x Nova Iguaçu: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQmFyN2tPR1l3N1FfcGNfd3NBRnVmNVlRS0VBTFJ3Y1RaMVhsYVdQYzNFaVZsT041eElfSE10S3RjRUVXQWxhbGV4ZFlFS1A3Sk1UYXJkTWRSRnBqN3M5MGRzN2pjTWNBZjVDVHV4WUpZUVpJTFhYWmh2QTlWX1M0NWN3UWJrUC10REl0OE1YZVlQZzdNWW90c1dyQ2FVR0p3S3FDWWo3MktVQmpQOWdvM3lHQjZjWkg5VVlOc3BpNXZYSXZBZ2dqdEw0Wk11c2lBOGRTc9IB4wFBVV95cUxNSGZrN0ctLS1lM0EyM0xRMTNiVkRMNXhzQzRoNmNUeThoVE9XX3ZiVUQ2RHJncmx3YW9pbUljSzI1LXY4NUJIeEdVUTl4X1B0dWRRbXJ2b19BNUlzMi1KRXMxOEVfdUJOYm1xeU1HdzNrdTBwWE1kb3MzZGhVWkNscUVsUmZnZTcxdW5pUVFsNzRSQ3BLeUhfYXBhMTVNeFhIczNiQTlUUlducWQ5dnZoNmlTRFRnenNyYzJGT3EtSl9nX0VrbWEtVUpqd25aNEJ4ampkLTRQeXFjbGUwOTRDU3NvTQ?oc=5",
+      "data": "08/07 07:00"
     },
     {
-      "titulo": "Fluminense reencontra torcida com estreia de Hulk em amistoso contra o Nova Iguaçu, no Maracanã - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMFI2dUEtb2xaRGdSeXpwMUJjZTdqUFpzU1hpdzdjTGVlMkVRanBIdDJCdVFSU1JyRHBOUmV0amxsNTZ2Yl9kTC1NUG9lRjFfMWluX0pXX0N4RXFQc0pnNXBlbTN5T3Ytb1VNRFo3LU02Z0JULWdOVE9ibXpLZHBja2I0aG8wMF9BR0FDZkp3LV84S0lXclZ2SmNOTEsxd0ZuRUNiX3dVclpIRzRDY2swTHQ1enJtOFhnX1JmT2F5a04tR3I1eTJ6bzNKY1RuNmJnUGNzOHVyVTNuWmVOTDExTDJFcDFsdEJYWTI0ZjVjanlMSURpTlp2azJDZWpGUVFmd1HSAZACQVVfeXFMTTZURnRrTUtEaWRxd2x3WFFsd2tDTkZkSjE5U3ZsQ2VuOU9GdXNJUHEzbnJWVGhyOUhZUkpTRTVzS3RIZWFJSlVobExidjR1ano3eW83ckpfYXV2bVh0dnI0eUdtMmE2TjVoaDdGMWxGRDFieDAzSVh0OFJJdFFFWUpGTGlNZ2lSRlRZRnRxdjYyZFUyTElMVlpMbVctRWhIQWFqVHNtVmV1ZEhRZ3V1XzBwb1ctY0h6V0RfaGNjbFh6ZDJmMk52U0thcXFlN2NjZlJRLUg3MUJLZUlnazdzQklmYmxJRUdkY2lBbERVTXlsWlhUam1MRnBMZHY1UTFGdHdWTmM0ODBpWF9IWEJuYVM?oc=5",
-      "data": "08/07 08:30"
+      "titulo": "Goleada, dores e até gol de falta: veja como foram as outras estreias de Hulk antes do Fluminense - GE",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNW9Ha2JhNnFSN3hPWW9XTjA4WUFNbGkyeVJubG9ZbG81Nl9SbXFQX256RjM4aTdPRUtrSnJhOE9yM0IwamxibUo5dGFNNzZ2ZGpjd2NIOGhHQlJiaEFobDh3MUo4TW5vdWRpenE1ZnJDd0w0MVhrY2xYeEwzTnZlN2w0dEpUVHlpcC16Z0FCd3FtZ0tQVkZ2ZGNac1AtMG9FNXV1OXlxQ29saGZzTVF4QURaYmZaZU1JaW1HakthZENFYktob3JzVVYyZDR4RmlrZ3JrZ2M3bjh0bWFIOGVCOEc2cUllZGZDamJCOE9GQWFya0tFMjg2Z2tn0gGIAkFVX3lxTE9neGVCWTF5SXpfVzJHalRPOVZXUUhDWGM4cnVjMWhPX3FiT1JhTXV6Vm0wY3M4MkhJYllpNUJrUVFMWWFvN2h2dWJ1WlZsMEFoSG9wd2xJZjBGVWNleU8xeGZsamVyWUlDY3VTNU9PWFZSd3lzQ0UwZUdCdWkzZm1JZzR2X3p0R2J2NVg3dU1kNG1VV0FoT3QwY1E1MU1LZXM3QnJYMnVIX2dhY1g3Vm0ycjZPb3ktV2wwd2hFNzFSYlhOSnI4Z18xc3dCck5uSWQ1ZW55RmZGWFdMQWd6S2RxX1UwVVN6bG1ocEh3V0dEUWFDZTJ0Z2pKeUYySW4zbjI0QkEwdHVDdQ?oc=5",
+      "data": "08/07 15:00"
     },
     {
-      "titulo": "Fluminense x Nova Iguaçu: onde assistir, escalações e arbitragem - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQi1Ed2ZMdU5WbmpPMVJ3dHkwZlI4d1F6NzlmdVktT0U0ZHZVWDhLdzA0bjFla0txbk5kbTVicXpKbXlac1RSX1JoV2JwNUVxQm41Mmk2U1RxSVJCNE52eG1KdHYzMUFPYjJoams0TGN6bDRDVmRmcUMtdXlnN3Rwc3hDNERhTnYxaWJGUXhNNW5PUjE2Vk4xblpJZEpGaWFtR2hiM0pQNnp5ckpOS1hMMDZCQW10M3UwM3l1WElUWHgxREpFZU1ZTUJqeTlmMHhqVHROZFc0OE5WazhLQWdkOFVBMl9tbjYw?oc=5",
-      "data": "07/07 19:25"
+      "titulo": "Chegadas de Hulk e Thiago Silva devem abrir disputa em time titular - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2dVUXpLdm1UclFTaGxpV3N2dEtHSXkxMTJqbE5pempaSEdzd2ZFRmgxbk5LSXJ2Rk4zMEJhSWV6UlhvTXl1Vjdrc25LX0tPN01PckhHR2QxQXpLN1dOQXJnejJTdlFjMjV6RDZEaDZqZU9xeTE4dnk1OW4yNEh6aGhTZk1tSjBmblF6VDRIZ1M5TjNfSG1VU2J4MWxKUVRzUUJTTkFHVDRGdjNOeVZDWlVWeTFfX08wTU5OV24ySEZzQWhXdDZOOEpB0gHPAUFVX3lxTE9WMFdnZGtHcVNNRlFSWGRNSzE5NndPZVRyQ2JMd0xtZGxmN19UdHpsRnFKV0QySWc0V05JckEtVnpkNVUzS0VTMGE2RHI4VGp0QkFQZU5CYm5icnFMcDQ1MG80dm1UZm1sODkzWHlfSjFULUpsSE11UjJabzZIbW54RGo4SFlKbUJfQndfX096X3MyUjNnaHcxZHZBdnMwSjRnLTRzLTNhMWc5YXZTSWlyYzYzYXpzN0tua2xOUjE2NzktdFBiN2R0X1Z0cUxyQQ?oc=5",
+      "data": "08/07 15:12"
     },
     {
-      "titulo": "Torcedores reagem à publicação do Fluminense: 'Não precisava' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRMVS1WNHFkaC1jWEI2UG51aHVCZ2RYX21ndjRBSVFCZlVGcjZ4UG9LYWNVWTR0QjFwYzd4RVoyUWNJU1B1TVQ2VkZYTERSY1FibEhENVJPN0d5QjZTblZaM24wVHN6alMwTEtZX2dIUkJob1dBUXRYRUVISG83U0J3ZzVLM0xxRHU2ZTZmS1cwSmsxS0FydnE5UUUyNXBhZ0NNNA?oc=5",
-      "data": "07/07 21:02"
+      "titulo": "Jornalista aponta que o Fluminense fará mais uma contratação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHJTMURKMDJ0LVhrSXFnMjI4R3ZybUYxUEpoRWpwRkpRUzFUZ2lfc3BIb3B4NHpqRUh6VG5KTEtWaVNsazk1MzNVT2ZpZDlvRl9lcEUteVR5MnhqRmJDVGpVc21mYlJEbU1CaU1pZU9FdGQ0SERuRmNzTUw5ZnJGdHpMeU5tRTFkUEhxSENiOW1Uc29zd25iSUVPRWNTbEEwMWRpWnU1Z2txeXVPVUFuSDIxdFdKZFcxdXRsc0U1VHpMZ3VrOXBxN0hReDVfdXJFaE4xZmg3SVF6WmxyRFQ2Tk5LdHdMQQ?oc=5",
+      "data": "07/07 22:00"
     },
     {
-      "titulo": "Fluminense oficializa venda de Bernal para o Real Betis - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1lKd2pCWnJLZFk3Uzc2RkkwNkJYSUhYU0lsTjloMlRHQWRoUzJIN2Q5dEVnYlctOU94WjdBVDNNbEMyV1ZKMTU0VmdBam0xRk9RaDhKekJxcmtUdTV4ZDdmWk5MeXEtU3NpbDRoYU1uVG41YkVHMmdnODZVcEN1R1QzdVI1aFVWNVZCdjZhTEs1RGFYU1VKbFdLdHRoMXVUM3JZWU12UElwMFdZX2haRjRhbzZ0YnI3SmfSAb8BQVVfeXFMT2lLVE5WcHdQUXZGZkFlbmhfNUdzVEM2QnhCenlnVHRFWEFSLVVucXh0Z0RtN0lBQXNQVkVUUDlzQ0FBeGNZanVaVnRuWFFRcnY3OWg2SUp3MlFRbkZ5MTY4Mi1Mb0VzelphLTRrVENaUkhxNWpKeGlFcTNvNm9TWF9zYzJMX001ZVZuTGZ1YlF1Z3NvcmJYVDdYMWZKWEF2QTRTNmU4VnY0aTFHRWFaaFdrWVA3Q2NFUzlJU1JzcjA?oc=5",
-      "data": "06/07 17:43"
+      "titulo": "Lateral emprestado pelo Fluminense rescinde com a Ponte Preta e retorna - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDZKUWJGWDY2X0gzZ3NBckpGZ0Jub2hOVzlRWWZpSi1fYmZNQnRGMmItalpSR1Y5a3RpYWV5MmdxcDlkM09SamRGY1VpR2xTY3paYUxxbktkX0NQaFB6MC1Ud1Z1UzlSRGdsUzE0b2xmaUQ2endwTnRiS3ZfeUgzTVJZU1VFUzhHcnk5YklFLXNsUVJieTI0cTNudlhnUGVTWGxhSE9sYV84OGJHY1d1OElQWlNBYUZHTk40dmZoTlBONlM3LVdtc29UUW5waUcwbHJBLW9yV3pfSjh3YlhHcGl3QWxQdHByQk11ZHEtT0hxUVk?oc=5",
+      "data": "07/07 15:37"
     }
   ],
   "avisos": []
