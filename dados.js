@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/07/2026 13:16",
+  "atualizado_em": "08/07/2026 17:47",
   "jogos": [
     {
       "sport": "futebol",
@@ -32,26 +32,6 @@ window.PAINEL_DATA = {
       "match": "França x Marrocos",
       "channels": [
         "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-08",
-      "time": "11:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Tchéquia x Alemanha",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-08",
-      "time": "14:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sérvia x Bulgária",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -213,27 +193,47 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-08",
+      "time": "11:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Tchéquia x Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-08",
+      "time": "14:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sérvia x Bulgária",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.5,
+      "temp_max": 20.6,
       "temp_min": 18.6,
       "chance_chuva": 99,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.2,
+      "temp_max": 21.4,
       "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.2,
-      "temp_min": 13.4,
+      "temp_max": 20.7,
+      "temp_min": 13.0,
       "chance_chuva": 97,
       "condicao": "Garoa fraca"
     }
@@ -245,24 +245,24 @@ window.PAINEL_DATA = {
       "data": "08/07 07:00"
     },
     {
-      "titulo": "Goleada, dores e até gol de falta: veja como foram as outras estreias de Hulk antes do Fluminense - GE",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNW9Ha2JhNnFSN3hPWW9XTjA4WUFNbGkyeVJubG9ZbG81Nl9SbXFQX256RjM4aTdPRUtrSnJhOE9yM0IwamxibUo5dGFNNzZ2ZGpjd2NIOGhHQlJiaEFobDh3MUo4TW5vdWRpenE1ZnJDd0w0MVhrY2xYeEwzTnZlN2w0dEpUVHlpcC16Z0FCd3FtZ0tQVkZ2ZGNac1AtMG9FNXV1OXlxQ29saGZzTVF4QURaYmZaZU1JaW1HakthZENFYktob3JzVVYyZDR4RmlrZ3JrZ2M3bjh0bWFIOGVCOEc2cUllZGZDamJCOE9GQWFya0tFMjg2Z2tn0gGIAkFVX3lxTE9neGVCWTF5SXpfVzJHalRPOVZXUUhDWGM4cnVjMWhPX3FiT1JhTXV6Vm0wY3M4MkhJYllpNUJrUVFMWWFvN2h2dWJ1WlZsMEFoSG9wd2xJZjBGVWNleU8xeGZsamVyWUlDY3VTNU9PWFZSd3lzQ0UwZUdCdWkzZm1JZzR2X3p0R2J2NVg3dU1kNG1VV0FoT3QwY1E1MU1LZXM3QnJYMnVIX2dhY1g3Vm0ycjZPb3ktV2wwd2hFNzFSYlhOSnI4Z18xc3dCck5uSWQ1ZW55RmZGWFdMQWd6S2RxX1UwVVN6bG1ocEh3V0dEUWFDZTJ0Z2pKeUYySW4zbjI0QkEwdHVDdQ?oc=5",
-      "data": "08/07 15:00"
+      "titulo": "Fluminense acerta venda de jovem de Xerém com clube dos Emirados Árabes Unidos - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVW9HSlBlcm91LWdGRXRqTE94UHpJcHQtVWp4N2ZMTEJMdnB2OGhVanQwd3BQRWp6LVF6WWo4WmJFQjF2TzhHblJlZlJVNHRTNDB6UTlfN0dJWDBTaFZJcTdzMmtPc0N2d05UcnJvcXZ4cEdJZ1pmZEw4cjBCWXJFVkM1N2JrRkF5UkQteWJuUnZNQ25BOVVUY3JfekxnYldqa3MxUzhEWHU?oc=5",
+      "data": "08/07 19:32"
     },
     {
-      "titulo": "Chegadas de Hulk e Thiago Silva devem abrir disputa em time titular - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2dVUXpLdm1UclFTaGxpV3N2dEtHSXkxMTJqbE5pempaSEdzd2ZFRmgxbk5LSXJ2Rk4zMEJhSWV6UlhvTXl1Vjdrc25LX0tPN01PckhHR2QxQXpLN1dOQXJnejJTdlFjMjV6RDZEaDZqZU9xeTE4dnk1OW4yNEh6aGhTZk1tSjBmblF6VDRIZ1M5TjNfSG1VU2J4MWxKUVRzUUJTTkFHVDRGdjNOeVZDWlVWeTFfX08wTU5OV24ySEZzQWhXdDZOOEpB0gHPAUFVX3lxTE9WMFdnZGtHcVNNRlFSWGRNSzE5NndPZVRyQ2JMd0xtZGxmN19UdHpsRnFKV0QySWc0V05JckEtVnpkNVUzS0VTMGE2RHI4VGp0QkFQZU5CYm5icnFMcDQ1MG80dm1UZm1sODkzWHlfSjFULUpsSE11UjJabzZIbW54RGo4SFlKbUJfQndfX096X3MyUjNnaHcxZHZBdnMwSjRnLTRzLTNhMWc5YXZTSWlyYzYzYXpzN0tua2xOUjE2NzktdFBiN2R0X1Z0cUxyQQ?oc=5",
-      "data": "08/07 15:12"
+      "titulo": "Futebol na TV: sem Copa, Flamengo e Flu com Hulk são as atrações - iG Esportes",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMC1zNDRDc1FYOXF6X1pFai11dUR5b2tERjBWc0Zrc0locjN3SDNIdERlajJGNWpYNVpkQnExOXJvT2c0SVZqOW5Id0U0OWZlbS0wdldyamE3X1ZpZUtHRjJQUVVlT2hyaHhmd3VEd01sZ092Ykt2OHpsTkxQTDRYaEhKWFl0R19EbWh6eUZVaXpVQy1YYlp4YkhIOVpjRUN4MmZjTTVlejFGREVsRlNpdkRMWTExTDBiTlBmLUpzS25weTJDVVd5djZTcVo2YzA0QzRGcEh6MUN5elJqejFJVVJiQjTSAeoBQVVfeXFMTTJQWTBZWk14NkxfdXQwRmJ6TVFXaUtuZktSWW9rSlpZdGpCMWE0M1VQTEM2M2h0S2FFRTJ2UThlZV9EYUgyZmpHeDFnSk5XZ2c2bHFmb0k2Y3lwb3dpd2pleDhjM0tCa1ZDeng1d2VCWHdpTVRTTlhlS2lmYTRCRVZRLXZxMjJRMTZ5R280NHpRMGtPN3hhZFY0MmxGUkxHdFpoLVJtSE9YamplWVpIY3BYY1c1Mm1yNFhtVW5tSVRUeGhqY09rTlNFMFphUUNCblBTb0k4WmFmcnpOOF9vLW5LcGM0NnpyS3ZB?oc=5",
+      "data": "08/07 15:53"
     },
     {
-      "titulo": "Jornalista aponta que o Fluminense fará mais uma contratação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHJTMURKMDJ0LVhrSXFnMjI4R3ZybUYxUEpoRWpwRkpRUzFUZ2lfc3BIb3B4NHpqRUh6VG5KTEtWaVNsazk1MzNVT2ZpZDlvRl9lcEUteVR5MnhqRmJDVGpVc21mYlJEbU1CaU1pZU9FdGQ0SERuRmNzTUw5ZnJGdHpMeU5tRTFkUEhxSENiOW1Uc29zd25iSUVPRWNTbEEwMWRpWnU1Z2txeXVPVUFuSDIxdFdKZFcxdXRsc0U1VHpMZ3VrOXBxN0hReDVfdXJFaE4xZmg3SVF6WmxyRFQ2Tk5LdHdMQQ?oc=5",
-      "data": "07/07 22:00"
+      "titulo": "Fluminense oficializa venda de Bernal para o Real Betis - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1lKd2pCWnJLZFk3Uzc2RkkwNkJYSUhYU0lsTjloMlRHQWRoUzJIN2Q5dEVnYlctOU94WjdBVDNNbEMyV1ZKMTU0VmdBam0xRk9RaDhKekJxcmtUdTV4ZDdmWk5MeXEtU3NpbDRoYU1uVG41YkVHMmdnODZVcEN1R1QzdVI1aFVWNVZCdjZhTEs1RGFYU1VKbFdLdHRoMXVUM3JZWU12UElwMFdZX2haRjRhbzZ0YnI3SmfSAb8BQVVfeXFMT2lLVE5WcHdQUXZGZkFlbmhfNUdzVEM2QnhCenlnVHRFWEFSLVVucXh0Z0RtN0lBQXNQVkVUUDlzQ0FBeGNZanVaVnRuWFFRcnY3OWg2SUp3MlFRbkZ5MTY4Mi1Mb0VzelphLTRrVENaUkhxNWpKeGlFcTNvNm9TWF9zYzJMX001ZVZuTGZ1YlF1Z3NvcmJYVDdYMWZKWEF2QTRTNmU4VnY0aTFHRWFaaFdrWVA3Q2NFUzlJU1JzcjA?oc=5",
+      "data": "06/07 17:43"
     },
     {
-      "titulo": "Lateral emprestado pelo Fluminense rescinde com a Ponte Preta e retorna - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZDZKUWJGWDY2X0gzZ3NBckpGZ0Jub2hOVzlRWWZpSi1fYmZNQnRGMmItalpSR1Y5a3RpYWV5MmdxcDlkM09SamRGY1VpR2xTY3paYUxxbktkX0NQaFB6MC1Ud1Z1UzlSRGdsUzE0b2xmaUQ2endwTnRiS3ZfeUgzTVJZU1VFUzhHcnk5YklFLXNsUVJieTI0cTNudlhnUGVTWGxhSE9sYV84OGJHY1d1OElQWlNBYUZHTk40dmZoTlBONlM3LVdtc29UUW5waUcwbHJBLW9yV3pfSjh3YlhHcGl3QWxQdHByQk11ZHEtT0hxUVk?oc=5",
-      "data": "07/07 15:37"
+      "titulo": "Fluminense anuncia venda de Bernal para o Betis - GE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmt4NFU5SUVZVVFHRVpGQXU2Z2sxMWJZb09BcXk0R01peFlKTnhUaERMeGlpUlNkd1N4SzJMQXdmYVE0X3F0Tjh2UmxRT013ejd3M2FFZUpUdWcyZlZkRDEyLXQ0WTl3M281NDc3WUxxTURYV2lmb1FQZVRvUjctbjFUbjAzSFphTnNYWW9rSm1NbnNyem8talJNUjVqa2FMZTlNazR1dmtEalpwOXJGMWpOUE1PRm5LTUHSAcgBQVVfeXFMTUNGRzJ0WUpvQVFNeVJhRjJBbEdHaWNPZ21fRnVjTTRMM2wtOFA5dFpCTmE0WjNZazZoSzM4U0dIVWluMmdSUC0xYUJPeUZpbU92dVlhYkgzREk1MGl1QVBlTEtuVWhmTzRuaC16eHRLMVR2ak45djl2T2x2eVJRd2tjY2ZwSlJBdUkwb0owUEJDQmZma0dCTjBJUnpJaUswX29KWm1RWFVZVHdqU0tIUUl6OFljaGNGS2hEMjQyN2hCM3J2Vm5OMjg?oc=5",
+      "data": "06/07 17:39"
     }
   ],
   "avisos": []
