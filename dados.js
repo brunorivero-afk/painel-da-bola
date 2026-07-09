@@ -1,29 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/07/2026 17:47",
+  "atualizado_em": "09/07/2026 05:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-08",
-      "time": "16:30",
-      "competition": "Amistosos",
-      "match": "Flamengo x Lausanne",
-      "channels": [
-        "SPORTV",
-        "PREMIERE",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-08",
-      "time": "20:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Criciúma",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-09",
@@ -35,8 +12,45 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "16:00",
+      "competition": "Copa do Mundo",
+      "match": "Espanha x Bélgica",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "NSPORTS",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x Vila Nova",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "20:00",
+      "competition": "Brasileirão Série B",
+      "match": "Sport Recife x Botafogo SP",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Japão x Brasil",
@@ -46,7 +60,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Ucrânia",
@@ -56,7 +70,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Tchéquia x Holanda",
@@ -66,7 +80,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "14:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x França",
@@ -76,7 +90,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Polônia x Brasil",
@@ -86,7 +100,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Bélgica x Itália",
@@ -96,7 +110,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Bulgária x Tchéquia",
@@ -106,7 +120,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "14:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Alemanha x Holanda",
@@ -116,7 +130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -126,7 +140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "14:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -136,7 +150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "05:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -146,7 +160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "06:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -156,7 +170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
@@ -166,7 +180,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "09:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
@@ -176,7 +190,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "23:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Turquia x Polônia",
@@ -186,7 +200,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Canadá",
@@ -196,7 +210,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Tchéquia x Alemanha",
@@ -206,7 +220,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "time": "14:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Bulgária",
@@ -218,51 +232,51 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.6,
-      "temp_min": 18.6,
-      "chance_chuva": 99,
-      "condicao": "Garoa"
+      "temp_max": 21.9,
+      "temp_min": 17.6,
+      "chance_chuva": 0,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.4,
-      "temp_min": 18.7,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 21.5,
+      "temp_min": 16.7,
+      "chance_chuva": 0,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.7,
-      "temp_min": 13.0,
-      "chance_chuva": 97,
-      "condicao": "Garoa fraca"
+      "temp_max": 20.1,
+      "temp_min": 10.9,
+      "chance_chuva": 2,
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Nova Iguaçu: onde assistir ao vivo, horário e escalações - GE",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQmFyN2tPR1l3N1FfcGNfd3NBRnVmNVlRS0VBTFJ3Y1RaMVhsYVdQYzNFaVZsT041eElfSE10S3RjRUVXQWxhbGV4ZFlFS1A3Sk1UYXJkTWRSRnBqN3M5MGRzN2pjTWNBZjVDVHV4WUpZUVpJTFhYWmh2QTlWX1M0NWN3UWJrUC10REl0OE1YZVlQZzdNWW90c1dyQ2FVR0p3S3FDWWo3MktVQmpQOWdvM3lHQjZjWkg5VVlOc3BpNXZYSXZBZ2dqdEw0Wk11c2lBOGRTc9IB4wFBVV95cUxNSGZrN0ctLS1lM0EyM0xRMTNiVkRMNXhzQzRoNmNUeThoVE9XX3ZiVUQ2RHJncmx3YW9pbUljSzI1LXY4NUJIeEdVUTl4X1B0dWRRbXJ2b19BNUlzMi1KRXMxOEVfdUJOYm1xeU1HdzNrdTBwWE1kb3MzZGhVWkNscUVsUmZnZTcxdW5pUVFsNzRSQ3BLeUhfYXBhMTVNeFhIczNiQTlUUlducWQ5dnZoNmlTRFRnenNyYzJGT3EtSl9nX0VrbWEtVUpqd25aNEJ4ampkLTRQeXFjbGUwOTRDU3NvTQ?oc=5",
-      "data": "08/07 07:00"
+      "titulo": "Flu vira e goleia Nova Iguaçu com 2 de Savarino e chances perdidas de Hulk - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2ZsMUU3T1J0b3FUbmt4TEJ4Ti1icWF1aHNZQ0Q0bzJNSEdhb2dobEU1dXhxdzRXN2YtbjFNZkk1dl9VdnJsdGJTeFFCaFhIcDRkdmx5b1pfaEtOQXRfeDVsclFaQURUa1FOSGlFNDNHd25HZmhEbmJSb3ptamZRZWlvLWJ0X3VxNjBNdjJ4dXBRN01Wc09qb2pVUVRFYjJxYVlucjUydE9LRjg?oc=5",
+      "data": "09/07 01:27"
     },
     {
-      "titulo": "Fluminense acerta venda de jovem de Xerém com clube dos Emirados Árabes Unidos - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVW9HSlBlcm91LWdGRXRqTE94UHpJcHQtVWp4N2ZMTEJMdnB2OGhVanQwd3BQRWp6LVF6WWo4WmJFQjF2TzhHblJlZlJVNHRTNDB6UTlfN0dJWDBTaFZJcTdzMmtPc0N2d05UcnJvcXZ4cEdJZ1pmZEw4cjBCWXJFVkM1N2JrRkF5UkQteWJuUnZNQ25BOVVUY3JfekxnYldqa3MxUzhEWHU?oc=5",
-      "data": "08/07 19:32"
+      "titulo": "Torcedores reagem à publicação do Fluminense: 'Não precisava' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRMVS1WNHFkaC1jWEI2UG51aHVCZ2RYX21ndjRBSVFCZlVGcjZ4UG9LYWNVWTR0QjFwYzd4RVoyUWNJU1B1TVQ2VkZYTERSY1FibEhENVJPN0d5QjZTblZaM24wVHN6alMwTEtZX2dIUkJob1dBUXRYRUVISG83U0J3ZzVLM0xxRHU2ZTZmS1cwSmsxS0FydnE5UUUyNXBhZ0NNNA?oc=5",
+      "data": "07/07 21:02"
     },
     {
-      "titulo": "Futebol na TV: sem Copa, Flamengo e Flu com Hulk são as atrações - iG Esportes",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMC1zNDRDc1FYOXF6X1pFai11dUR5b2tERjBWc0Zrc0locjN3SDNIdERlajJGNWpYNVpkQnExOXJvT2c0SVZqOW5Id0U0OWZlbS0wdldyamE3X1ZpZUtHRjJQUVVlT2hyaHhmd3VEd01sZ092Ykt2OHpsTkxQTDRYaEhKWFl0R19EbWh6eUZVaXpVQy1YYlp4YkhIOVpjRUN4MmZjTTVlejFGREVsRlNpdkRMWTExTDBiTlBmLUpzS25weTJDVVd5djZTcVo2YzA0QzRGcEh6MUN5elJqejFJVVJiQjTSAeoBQVVfeXFMTTJQWTBZWk14NkxfdXQwRmJ6TVFXaUtuZktSWW9rSlpZdGpCMWE0M1VQTEM2M2h0S2FFRTJ2UThlZV9EYUgyZmpHeDFnSk5XZ2c2bHFmb0k2Y3lwb3dpd2pleDhjM0tCa1ZDeng1d2VCWHdpTVRTTlhlS2lmYTRCRVZRLXZxMjJRMTZ5R280NHpRMGtPN3hhZFY0MmxGUkxHdFpoLVJtSE9YamplWVpIY3BYY1c1Mm1yNFhtVW5tSVRUeGhqY09rTlNFMFphUUNCblBTb0k4WmFmcnpOOF9vLW5LcGM0NnpyS3ZB?oc=5",
-      "data": "08/07 15:53"
+      "titulo": "Zubeldía aponta dois jogadores do Fluminense como inegociáveis no mercado - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV2lFY2xTOVYzREJfT2N2MUNiVWttbll4aU5SemJaeWhyeExqT2JVTmZrcGcya3FPeVltSk1CTnhlTk11bkNsQ0ZEYlBZVnRnVGllNDBlN1RLdEt2M2FGanU5Z05lbG9RUmxGbWdoV09DVnY0Q1Y4TWV4cFJUVFNTNlAwNU1LZEF3LTRTSGhXdW1USkxfT2FmOHVfa1hfQjEtWkFmMzhmNmVEQzZnVHJ4YVByOGdVT29PcmNBekJUUVVrMnEwaE5xSnlzdWRzMUNzaU56YkZIMjBuRk3SAeABQVVfeXFMT3BqdkhDMUhTUnpodzl4Wm91TVNEVE9jS0VfMzg4UEphWF9PWUpWN0VDQ3lKYVB2dkR1eUJpMDFHYXBlX1Y3NHUwanpkN2pSejdocWV5X1prQTdCT2hGUDFSYVBCcUNDYjRNQVlfRmpjMnJnYmZkNUhEZ1dVcV9OUThWeG01OUxWQXVUZ0JiY3NEUXdUaWFYOHg4SXZOWkxwTFJpT1lDcWtEaWFlRjlNb2k1amptazg1RktuZ3ZwLTVOamdkNG5yT0JFNTZUS0x0WmRFUTl2ODRCSUpyc2cwcWk?oc=5",
+      "data": "09/07 08:44"
     },
     {
-      "titulo": "Fluminense oficializa venda de Bernal para o Real Betis - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1lKd2pCWnJLZFk3Uzc2RkkwNkJYSUhYU0lsTjloMlRHQWRoUzJIN2Q5dEVnYlctOU94WjdBVDNNbEMyV1ZKMTU0VmdBam0xRk9RaDhKekJxcmtUdTV4ZDdmWk5MeXEtU3NpbDRoYU1uVG41YkVHMmdnODZVcEN1R1QzdVI1aFVWNVZCdjZhTEs1RGFYU1VKbFdLdHRoMXVUM3JZWU12UElwMFdZX2haRjRhbzZ0YnI3SmfSAb8BQVVfeXFMT2lLVE5WcHdQUXZGZkFlbmhfNUdzVEM2QnhCenlnVHRFWEFSLVVucXh0Z0RtN0lBQXNQVkVUUDlzQ0FBeGNZanVaVnRuWFFRcnY3OWg2SUp3MlFRbkZ5MTY4Mi1Mb0VzelphLTRrVENaUkhxNWpKeGlFcTNvNm9TWF9zYzJMX001ZVZuTGZ1YlF1Z3NvcmJYVDdYMWZKWEF2QTRTNmU4VnY0aTFHRWFaaFdrWVA3Q2NFUzlJU1JzcjA?oc=5",
-      "data": "06/07 17:43"
+      "titulo": "Zubeldía considera Martinelli e Hércules 'inegociáveis' no Fluminense: 'Trabalho incrível' - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSDl4aEFOMDNoeDkwUWJsTlI0dDgzOHdUdndBZEFwUW55amozYVNmNXlhd01adGlNSGhSSkFfb1BnbjJrSmFCSXk2MHBadk5yZFhUTVNTYXM4REVHS3d2VjRvc1ppbE15MV9fWHFUVVJhcEJZSkg4S2o3WVR4MnRXR2tPMnBRdkVPTUlfTkhQSy1hc3V4enE5TjBpTTVhbFJmSWUtRV9IazU0anZKQjh2YmM1aW1vTFBIRG1QUGZNWHlrajZwcVV2amVBRFFTdGJ4RHFIU2NoYkxIZS1Ba0E4eTFPaTVTMUl2NmhXM3BodUFrRk1MaHfSAYQCQVVfeXFMTnM0RTZIaTlTZ2xqcXhmRVVmWmZCQ3lEbEZtWk02ZkU0LTJ6NFNuX0xLYjdndDNxWkRvNzJSM3VKb3NxR2hZdkNqSkVFV2d5LTcyM0N2TGNKc1p6SjlrTXFnZS12N1MxUmZfdGhqTkgwaGF6ZzZkSXlfT2I4YUZpT1l2MmJOeUJnSmlZZ05oOVJtaDVRaDh0STFMRGxqRjkyTUltX1lZdnoyZTIxNm9qbWRyZkZsd1RxMGJNZHFwZk9lSjZYYnNveld0TmllWU1kNXA0UXFSS25xdGozMUtSR0RfVXRQOXhhWm5zV0pwYzg5Z005ZDdnV3JST1lYcFVsdHlRdi0?oc=5",
+      "data": "09/07 04:45"
     },
     {
-      "titulo": "Fluminense anuncia venda de Bernal para o Betis - GE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmt4NFU5SUVZVVFHRVpGQXU2Z2sxMWJZb09BcXk0R01peFlKTnhUaERMeGlpUlNkd1N4SzJMQXdmYVE0X3F0Tjh2UmxRT013ejd3M2FFZUpUdWcyZlZkRDEyLXQ0WTl3M281NDc3WUxxTURYV2lmb1FQZVRvUjctbjFUbjAzSFphTnNYWW9rSm1NbnNyem8talJNUjVqa2FMZTlNazR1dmtEalpwOXJGMWpOUE1PRm5LTUHSAcgBQVVfeXFMTUNGRzJ0WUpvQVFNeVJhRjJBbEdHaWNPZ21fRnVjTTRMM2wtOFA5dFpCTmE0WjNZazZoSzM4U0dIVWluMmdSUC0xYUJPeUZpbU92dVlhYkgzREk1MGl1QVBlTEtuVWhmTzRuaC16eHRLMVR2ak45djl2T2x2eVJRd2tjY2ZwSlJBdUkwb0owUEJDQmZma0dCTjBJUnpJaUswX29KWm1RWFVZVHdqU0tIUUl6OFljaGNGS2hEMjQyN2hCM3J2Vm5OMjg?oc=5",
-      "data": "06/07 17:39"
+      "titulo": "Jornalista aponta que o Fluminense fará mais uma contratação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHJTMURKMDJ0LVhrSXFnMjI4R3ZybUYxUEpoRWpwRkpRUzFUZ2lfc3BIb3B4NHpqRUh6VG5KTEtWaVNsazk1MzNVT2ZpZDlvRl9lcEUteVR5MnhqRmJDVGpVc21mYlJEbU1CaU1pZU9FdGQ0SERuRmNzTUw5ZnJGdHpMeU5tRTFkUEhxSENiOW1Uc29zd25iSUVPRWNTbEEwMWRpWnU1Z2txeXVPVUFuSDIxdFdKZFcxdXRsc0U1VHpMZ3VrOXBxN0hReDVfdXJFaE4xZmg3SVF6WmxyRFQ2Tk5LdHdMQQ?oc=5",
+      "data": "07/07 22:00"
     }
   ],
   "avisos": []
