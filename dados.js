@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/07/2026 05:56",
+  "atualizado_em": "09/07/2026 14:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -8,7 +8,12 @@ window.PAINEL_DATA = {
       "competition": "Copa do Mundo",
       "match": "França x Marrocos",
       "channels": [
-        "CAZÉTV"
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "GE TV",
+        "NSPORTS"
       ]
     },
     {
@@ -46,36 +51,6 @@ window.PAINEL_DATA = {
         "ESPN",
         "SPORTYNET",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-09",
-      "time": "07:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Japão x Brasil",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-09",
-      "time": "09:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "China x Ucrânia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-09",
-      "time": "11:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Tchéquia x Holanda",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -201,6 +176,16 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-09",
+      "time": "07:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Japão x Brasil",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-09",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Canadá",
@@ -227,56 +212,76 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-09",
+      "time": "09:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "China x Ucrânia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-09",
+      "time": "11:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Tchéquia x Holanda",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.9,
-      "temp_min": 17.6,
+      "temp_max": 21.7,
+      "temp_min": 17.5,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.5,
+      "temp_max": 21.6,
       "temp_min": 16.7,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.1,
-      "temp_min": 10.9,
+      "temp_max": 20.4,
+      "temp_min": 11.4,
       "chance_chuva": 2,
       "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Flu vira e goleia Nova Iguaçu com 2 de Savarino e chances perdidas de Hulk - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2ZsMUU3T1J0b3FUbmt4TEJ4Ti1icWF1aHNZQ0Q0bzJNSEdhb2dobEU1dXhxdzRXN2YtbjFNZkk1dl9VdnJsdGJTeFFCaFhIcDRkdmx5b1pfaEtOQXRfeDVsclFaQURUa1FOSGlFNDNHd25HZmhEbmJSb3ptamZRZWlvLWJ0X3VxNjBNdjJ4dXBRN01Wc09qb2pVUVRFYjJxYVlucjUydE9LRjg?oc=5",
-      "data": "09/07 01:27"
+      "titulo": "Análise: Fluminense goleia em amistoso, tem boa atuação ofensiva e estreia promissora de Hulk - GE",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHBhdE5NV3BXcGhZWFBtOGJndVkzdjFlUHA5RWlVbkJuTjc1eEFvQXFFWnpaU09XSnBNdktOX3UyS0F1OElHVVYyZDlQX3lSNGg3cExRMzJSNm1vTEc5ZDQ0QWhNS0p4YlZuQ3V3ZktMN1B5aHh5Ym1DVVNmWUpab242SkRaTjEzYkdsMElkNTJtZHJFZUlYMTdGTi15Q1lnN19oSF9XdElOZU1nZmpSSHFtNUQ1OEtZWFQxUDFqUVB2Q3VtbkFFZDhteG84NEVYZTgyRUJ1c1h5V2xhWFNzNnpCMU1kMjlGZ1g3NElUTWZaMU5Y0gGDAkFVX3lxTFB1aUd5eTVrMWhPN1pEa3FtZlpvSDNiNXhQZzVwV0gxUWJ5Skx5N1V0aldVbTJCT2V0aWR5eWRkOFhaM1VFMlRLMGNvT2JVWEl2NVNhNEZUV1pETDJPWEUtc2F2Yzd0SERObmRhd1IyWTFBT09HYkJVVHJQV09kRGpVZENkbnI1NXNPNVNURGVBSlNLUlVoakdpb3RPM2x5Wk91S1c1a0IzZ05iNlhNcVg0dEhDUXQwaEpZOWhJNHEydHhZbDY3THcwNGhxYWdEVUpHdEZ5U2lURFR2UE14SjZVSEhaemluUUJLWWdxVU55RTFjUFpmVXVWclZfV2g0V19falE?oc=5",
+      "data": "09/07 07:00"
     },
     {
-      "titulo": "Torcedores reagem à publicação do Fluminense: 'Não precisava' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRMVS1WNHFkaC1jWEI2UG51aHVCZ2RYX21ndjRBSVFCZlVGcjZ4UG9LYWNVWTR0QjFwYzd4RVoyUWNJU1B1TVQ2VkZYTERSY1FibEhENVJPN0d5QjZTblZaM24wVHN6alMwTEtZX2dIUkJob1dBUXRYRUVISG83U0J3ZzVLM0xxRHU2ZTZmS1cwSmsxS0FydnE5UUUyNXBhZ0NNNA?oc=5",
-      "data": "07/07 21:02"
+      "titulo": "Sport avança na contratação de Kayky Almeida, do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMXA5ejdlaE10di1sMi1VUkpjVlJ6ZGxtQ2hqRHpFYkdOVDNSRVhlS1lhc3VxeXZZeWpPQkRPNUtxbEw2V1J0ZVNPZTZ5cnpCSTdkelFzNEMxUnhJb21qd0s3bkxYa1kwODNVUDlqbXpvblFnVEU1NEhiSDdMYmx1VXlRV3dyUVBKWkF3?oc=5",
+      "data": "09/07 17:01"
     },
     {
-      "titulo": "Zubeldía aponta dois jogadores do Fluminense como inegociáveis no mercado - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV2lFY2xTOVYzREJfT2N2MUNiVWttbll4aU5SemJaeWhyeExqT2JVTmZrcGcya3FPeVltSk1CTnhlTk11bkNsQ0ZEYlBZVnRnVGllNDBlN1RLdEt2M2FGanU5Z05lbG9RUmxGbWdoV09DVnY0Q1Y4TWV4cFJUVFNTNlAwNU1LZEF3LTRTSGhXdW1USkxfT2FmOHVfa1hfQjEtWkFmMzhmNmVEQzZnVHJ4YVByOGdVT29PcmNBekJUUVVrMnEwaE5xSnlzdWRzMUNzaU56YkZIMjBuRk3SAeABQVVfeXFMT3BqdkhDMUhTUnpodzl4Wm91TVNEVE9jS0VfMzg4UEphWF9PWUpWN0VDQ3lKYVB2dkR1eUJpMDFHYXBlX1Y3NHUwanpkN2pSejdocWV5X1prQTdCT2hGUDFSYVBCcUNDYjRNQVlfRmpjMnJnYmZkNUhEZ1dVcV9OUThWeG01OUxWQXVUZ0JiY3NEUXdUaWFYOHg4SXZOWkxwTFJpT1lDcWtEaWFlRjlNb2k1amptazg1RktuZ3ZwLTVOamdkNG5yT0JFNTZUS0x0WmRFUTl2ODRCSUpyc2cwcWk?oc=5",
-      "data": "09/07 08:44"
+      "titulo": "Zubeldía revela promessa de Bittencourt e Montenegro a Bernal no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDd1RGN6RTJqd3JVd2w0RHBaLXFZZ0hsWFdORl9kakg2WDhXajNDZ2puanBrWE5sOGJSMjZlTlE4S21DYUhUdjNmcTdISmZFU1hKQlEzOF84SXNwX0c3SWtwRTdGdHlvc0k5VjFKbndGZXdlRkFSNllGVEV1aTJIYXJqRWplc0p4SkRJTUxtd3N6aC12TzFVSE5HaHlvQ0V2cmM5cg?oc=5",
+      "data": "09/07 12:30"
     },
     {
-      "titulo": "Zubeldía considera Martinelli e Hércules 'inegociáveis' no Fluminense: 'Trabalho incrível' - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSDl4aEFOMDNoeDkwUWJsTlI0dDgzOHdUdndBZEFwUW55amozYVNmNXlhd01adGlNSGhSSkFfb1BnbjJrSmFCSXk2MHBadk5yZFhUTVNTYXM4REVHS3d2VjRvc1ppbE15MV9fWHFUVVJhcEJZSkg4S2o3WVR4MnRXR2tPMnBRdkVPTUlfTkhQSy1hc3V4enE5TjBpTTVhbFJmSWUtRV9IazU0anZKQjh2YmM1aW1vTFBIRG1QUGZNWHlrajZwcVV2amVBRFFTdGJ4RHFIU2NoYkxIZS1Ba0E4eTFPaTVTMUl2NmhXM3BodUFrRk1MaHfSAYQCQVVfeXFMTnM0RTZIaTlTZ2xqcXhmRVVmWmZCQ3lEbEZtWk02ZkU0LTJ6NFNuX0xLYjdndDNxWkRvNzJSM3VKb3NxR2hZdkNqSkVFV2d5LTcyM0N2TGNKc1p6SjlrTXFnZS12N1MxUmZfdGhqTkgwaGF6ZzZkSXlfT2I4YUZpT1l2MmJOeUJnSmlZZ05oOVJtaDVRaDh0STFMRGxqRjkyTUltX1lZdnoyZTIxNm9qbWRyZkZsd1RxMGJNZHFwZk9lSjZYYnNveld0TmllWU1kNXA0UXFSS25xdGozMUtSR0RfVXRQOXhhWm5zV0pwYzg5Z005ZDdnV3JST1lYcFVsdHlRdi0?oc=5",
-      "data": "09/07 04:45"
+      "titulo": "Fluminense anuncia venda de Bernal para o Betis - GE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmt4NFU5SUVZVVFHRVpGQXU2Z2sxMWJZb09BcXk0R01peFlKTnhUaERMeGlpUlNkd1N4SzJMQXdmYVE0X3F0Tjh2UmxRT013ejd3M2FFZUpUdWcyZlZkRDEyLXQ0WTl3M281NDc3WUxxTURYV2lmb1FQZVRvUjctbjFUbjAzSFphTnNYWW9rSm1NbnNyem8talJNUjVqa2FMZTlNazR1dmtEalpwOXJGMWpOUE1PRm5LTUHSAcgBQVVfeXFMTUNGRzJ0WUpvQVFNeVJhRjJBbEdHaWNPZ21fRnVjTTRMM2wtOFA5dFpCTmE0WjNZazZoSzM4U0dIVWluMmdSUC0xYUJPeUZpbU92dVlhYkgzREk1MGl1QVBlTEtuVWhmTzRuaC16eHRLMVR2ak45djl2T2x2eVJRd2tjY2ZwSlJBdUkwb0owUEJDQmZma0dCTjBJUnpJaUswX29KWm1RWFVZVHdqU0tIUUl6OFljaGNGS2hEMjQyN2hCM3J2Vm5OMjg?oc=5",
+      "data": "06/07 17:39"
     },
     {
-      "titulo": "Jornalista aponta que o Fluminense fará mais uma contratação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHJTMURKMDJ0LVhrSXFnMjI4R3ZybUYxUEpoRWpwRkpRUzFUZ2lfc3BIb3B4NHpqRUh6VG5KTEtWaVNsazk1MzNVT2ZpZDlvRl9lcEUteVR5MnhqRmJDVGpVc21mYlJEbU1CaU1pZU9FdGQ0SERuRmNzTUw5ZnJGdHpMeU5tRTFkUEhxSENiOW1Uc29zd25iSUVPRWNTbEEwMWRpWnU1Z2txeXVPVUFuSDIxdFdKZFcxdXRsc0U1VHpMZ3VrOXBxN0hReDVfdXJFaE4xZmg3SVF6WmxyRFQ2Tk5LdHdMQQ?oc=5",
-      "data": "07/07 22:00"
+      "titulo": "Técnico do Fluminense explica promessa da diretoria após saída de Facundo Bernal - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYlhFckYtdXFXX1BHNkkwVi1yWlN3azA5VVQwU1FQMFVmT29RSU1vd1JOV0RmMVNaV051Z01xaGVWMUVxRUU5X203X3ROdFg1ZEtwU0p6ZFVEQzVRa21xY0p4dE9EMl9ORUhCM2pYSW1wUFJBTWVKclBLYjlzVFBrMUoyYlJKN0k3TWcya0Ixc19YOFJJczVXRTZCZVFoT1FYZDF5U29YTjJTc1poMEtLc25xRGkzR1NvdEdKUTFqQ0hGdXlVbkxlTFVKVDB0SjFybFNHOWQ4MFl6UHpXc0o2Z0JXeFFUdlNJVWs5c1NHMkN3WnRaUHd0Vm5tNUhfZW8?oc=5",
+      "data": "09/07 15:16"
     }
   ],
   "avisos": []
