@@ -1,6 +1,16 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/07/2026 07:36",
+  "atualizado_em": "10/07/2026 14:29",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "13:00",
+      "competition": "Amistosos",
+      "match": "Ajax x AEK Larnaca",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-07-10",
@@ -11,8 +21,8 @@ window.PAINEL_DATA = {
         "GLOBO",
         "SBT",
         "SPORTV",
-        "NSPORTS",
-        "CAZÉTV"
+        "CAZÉTV",
+        "NSPORTS"
       ]
     },
     {
@@ -45,7 +55,38 @@ window.PAINEL_DATA = {
         "XSPORTS",
         "ESPN",
         "SPORTYNET",
+        "YOUTUBE",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "21:00",
+      "competition": "NWSL Feminina",
+      "match": "Orlando Pride (F) x Kansas City (F)",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "23:00",
+      "competition": "NWSL Feminina",
+      "match": "Utah Royals (F) x NJ/NY Gotham FC (F)",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "07:00",
+      "competition": "Amistosos",
+      "match": "Feyenoord x Club Brugge KV",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -101,6 +142,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-11",
+      "time": "13:30",
+      "competition": "Uruguai 2ª divisão",
+      "match": "River Plate URU x Plaza Colonia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
       "time": "15:00",
       "competition": "Campeonato Uruguaio",
       "match": "Danubio x Club Nacional",
@@ -115,9 +166,20 @@ window.PAINEL_DATA = {
       "competition": "Amistosos",
       "match": "Benfica x Flamengo",
       "channels": [
+        "BAND",
         "SPORTV",
         "PREMIERE",
         "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Portuguesa x Marcílio Dias",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -208,36 +270,6 @@ window.PAINEL_DATA = {
       "match": "Los Angeles II x Portland Timbers II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-10",
-      "time": "07:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Polônia x Brasil",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-10",
-      "time": "09:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bélgica x Itália",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-10",
-      "time": "11:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bulgária x Tchéquia",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -389,27 +421,57 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-10",
+      "time": "07:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Polônia x Brasil",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-10",
+      "time": "09:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bélgica x Itália",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-10",
+      "time": "11:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bulgária x Tchéquia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.6,
-      "temp_min": 16.5,
+      "temp_max": 25.4,
+      "temp_min": 16.3,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.6,
-      "temp_min": 15.5,
+      "temp_max": 23.9,
+      "temp_min": 15.2,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.4,
-      "temp_min": 12.5,
+      "temp_max": 23.0,
+      "temp_min": 12.1,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
@@ -421,24 +483,24 @@ window.PAINEL_DATA = {
       "data": "09/07 20:22"
     },
     {
+      "titulo": "Análise: Fluminense goleia em amistoso, tem boa atuação ofensiva e estreia promissora de Hulk - GE",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHBhdE5NV3BXcGhZWFBtOGJndVkzdjFlUHA5RWlVbkJuTjc1eEFvQXFFWnpaU09XSnBNdktOX3UyS0F1OElHVVYyZDlQX3lSNGg3cExRMzJSNm1vTEc5ZDQ0QWhNS0p4YlZuQ3V3ZktMN1B5aHh5Ym1DVVNmWUpab242SkRaTjEzYkdsMElkNTJtZHJFZUlYMTdGTi15Q1lnN19oSF9XdElOZU1nZmpSSHFtNUQ1OEtZWFQxUDFqUVB2Q3VtbkFFZDhteG84NEVYZTgyRUJ1c1h5V2xhWFNzNnpCMU1kMjlGZ1g3NElUTWZaMU5Y0gGDAkFVX3lxTFB1aUd5eTVrMWhPN1pEa3FtZlpvSDNiNXhQZzVwV0gxUWJ5Skx5N1V0aldVbTJCT2V0aWR5eWRkOFhaM1VFMlRLMGNvT2JVWEl2NVNhNEZUV1pETDJPWEUtc2F2Yzd0SERObmRhd1IyWTFBT09HYkJVVHJQV09kRGpVZENkbnI1NXNPNVNURGVBSlNLUlVoakdpb3RPM2x5Wk91S1c1a0IzZ05iNlhNcVg0dEhDUXQwaEpZOWhJNHEydHhZbDY3THcwNGhxYWdEVUpHdEZ5U2lURFR2UE14SjZVSEhaemluUUJLWWdxVU55RTFjUFpmVXVWclZfV2g0V19falE?oc=5",
+      "data": "09/07 07:00"
+    },
+    {
+      "titulo": "Fluminense conquista dez medalhas no 8º SP Open de Nado Artístico - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGh0azgxZWZETk9kUGFqS3VqRl9PbWl5LU1oRkVoMFF1OHpta3czVER1VENyXy05alltbDZrLUNUNTcxR3ZMT3lsZ1V0NWZyWWtyLXU5SkUtamZiWnhlZko0OE1NbGgzRVc3aXNGMklJQVpOZ2Y5R3RjWjlDcm5SX3hwOHZIUUdrMFhFaHhtbXlVVVhZNFIyQVpwb0N2TDdfeTJKTg?oc=5",
+      "data": "10/07 15:42"
+    },
+    {
+      "titulo": "Com verde escuro predominante, Conselho do Fluminense aprova terceiro uniforme - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZUhBMFBTaUNUVnNNelF3dkpkNnRfcnZzTWswbE9VdGEzVlQxVzJpbzhkNktBd1JPOWw5Z0NlSjRNRHJwTFFjd0RyWC1wLVhFTXBjU3VRMmM2ZEVRR1MxTE5LeXhadFNMUGxRVFQyRVRhVXVZMUtINUJCLVhTamhXWTVmc0lIN1QtRUg5TDUyUEY0dWg2TmJPMlg2MkJjdVpTWm1MZEJTM2tJNmFzNzAzbXZRbjJ2VFJhM240YUdQeWxaV040Rzh3ZHN3Y2tjUFJMVG8xWDNzQk5JUnRubFJJcmlVbUJLaGFMb056d3lFZlNWU1pTUXItX2c0OA?oc=5",
+      "data": "10/07 14:27"
+    },
+    {
       "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
       "data": "10/07 07:01"
-    },
-    {
-      "titulo": "Entenda o planejamento do Fluminense na janela e bastidores da saída de Bernal - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZE5kWmhqUEdkOE5zdHVfWGRzTmh6b3VYeEpjR1A3RUdSdmlobDN6d1M0M0Zad25KUUQ2dUNlVDZkbXh5TjRJYVd6MC05YmNqLXdsQk8xNnVnOFR1SXZOQWxxMEh3aEJOdlliU0VuZVNxZjNSY1E1ZkRLcEZGYTB0WEtzOVJnSkU4ZzVneTh4MjZ1d3FJS0ZqTGRoOGYtWkNKTXItMXpJZEo3NFc4dEJIeUJaM2xmQjVCYTk4?oc=5",
-      "data": "10/07 08:00"
-    },
-    {
-      "titulo": "Zubeldía considera Martinelli e Hércules 'inegociáveis' no Fluminense: 'Trabalho incrível' - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSDl4aEFOMDNoeDkwUWJsTlI0dDgzOHdUdndBZEFwUW55amozYVNmNXlhd01adGlNSGhSSkFfb1BnbjJrSmFCSXk2MHBadk5yZFhUTVNTYXM4REVHS3d2VjRvc1ppbE15MV9fWHFUVVJhcEJZSkg4S2o3WVR4MnRXR2tPMnBRdkVPTUlfTkhQSy1hc3V4enE5TjBpTTVhbFJmSWUtRV9IazU0anZKQjh2YmM1aW1vTFBIRG1QUGZNWHlrajZwcVV2amVBRFFTdGJ4RHFIU2NoYkxIZS1Ba0E4eTFPaTVTMUl2NmhXM3BodUFrRk1MaHfSAYQCQVVfeXFMTnM0RTZIaTlTZ2xqcXhmRVVmWmZCQ3lEbEZtWk02ZkU0LTJ6NFNuX0xLYjdndDNxWkRvNzJSM3VKb3NxR2hZdkNqSkVFV2d5LTcyM0N2TGNKc1p6SjlrTXFnZS12N1MxUmZfdGhqTkgwaGF6ZzZkSXlfT2I4YUZpT1l2MmJOeUJnSmlZZ05oOVJtaDVRaDh0STFMRGxqRjkyTUltX1lZdnoyZTIxNm9qbWRyZkZsd1RxMGJNZHFwZk9lSjZYYnNveld0TmllWU1kNXA0UXFSS25xdGozMUtSR0RfVXRQOXhhWm5zV0pwYzg5Z005ZDdnV3JST1lYcFVsdHlRdi0?oc=5",
-      "data": "09/07 04:45"
-    },
-    {
-      "titulo": "Zubeldía revela promessa de Bittencourt e Montenegro a Bernal no Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDd1RGN6RTJqd3JVd2w0RHBaLXFZZ0hsWFdORl9kakg2WDhXajNDZ2puanBrWE5sOGJSMjZlTlE4S21DYUhUdjNmcTdISmZFU1hKQlEzOF84SXNwX0c3SWtwRTdGdHlvc0k5VjFKbndGZXdlRkFSNllGVEV1aTJIYXJqRWplc0p4SkRJTUxtd3N6aC12TzFVSE5HaHlvQ0V2cmM5cg?oc=5",
-      "data": "09/07 12:30"
     }
   ],
   "avisos": []
