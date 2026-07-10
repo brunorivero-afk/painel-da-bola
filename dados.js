@@ -1,30 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/07/2026 14:29",
+  "atualizado_em": "10/07/2026 18:38",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "13:00",
-      "competition": "Amistosos",
-      "match": "Ajax x AEK Larnaca",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Espanha x Bélgica",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "NSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-10",
@@ -77,6 +53,30 @@ window.PAINEL_DATA = {
       "match": "Utah Royals (F) x NJ/NY Gotham FC (F)",
       "channels": [
         "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "13:00",
+      "competition": "Amistosos",
+      "match": "Ajax x AEK Larnaca",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
+      "time": "16:00",
+      "competition": "Copa do Mundo",
+      "match": "Espanha x Bélgica",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "NSPORTS"
       ]
     },
     {
@@ -275,16 +275,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-10",
-      "time": "14:50",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Alemanha x Holanda",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-10",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -451,19 +441,29 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-10",
+      "time": "14:50",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Alemanha x Holanda",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.4,
+      "temp_max": 26.4,
       "temp_min": 16.3,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.9,
+      "temp_max": 24.9,
       "temp_min": 15.2,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
@@ -483,24 +483,24 @@ window.PAINEL_DATA = {
       "data": "09/07 20:22"
     },
     {
-      "titulo": "Análise: Fluminense goleia em amistoso, tem boa atuação ofensiva e estreia promissora de Hulk - GE",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHBhdE5NV3BXcGhZWFBtOGJndVkzdjFlUHA5RWlVbkJuTjc1eEFvQXFFWnpaU09XSnBNdktOX3UyS0F1OElHVVYyZDlQX3lSNGg3cExRMzJSNm1vTEc5ZDQ0QWhNS0p4YlZuQ3V3ZktMN1B5aHh5Ym1DVVNmWUpab242SkRaTjEzYkdsMElkNTJtZHJFZUlYMTdGTi15Q1lnN19oSF9XdElOZU1nZmpSSHFtNUQ1OEtZWFQxUDFqUVB2Q3VtbkFFZDhteG84NEVYZTgyRUJ1c1h5V2xhWFNzNnpCMU1kMjlGZ1g3NElUTWZaMU5Y0gGDAkFVX3lxTFB1aUd5eTVrMWhPN1pEa3FtZlpvSDNiNXhQZzVwV0gxUWJ5Skx5N1V0aldVbTJCT2V0aWR5eWRkOFhaM1VFMlRLMGNvT2JVWEl2NVNhNEZUV1pETDJPWEUtc2F2Yzd0SERObmRhd1IyWTFBT09HYkJVVHJQV09kRGpVZENkbnI1NXNPNVNURGVBSlNLUlVoakdpb3RPM2x5Wk91S1c1a0IzZ05iNlhNcVg0dEhDUXQwaEpZOWhJNHEydHhZbDY3THcwNGhxYWdEVUpHdEZ5U2lURFR2UE14SjZVSEhaemluUUJLWWdxVU55RTFjUFpmVXVWclZfV2g0V19falE?oc=5",
-      "data": "09/07 07:00"
+      "titulo": "Fluminense: Millán e Riquelme atuaram em dois jogos no mesmo dia - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2hPV3Qtbk8zeV9uQXFrUUQzaXltNy1PcE5lSGJlRzZkVnZqajZZRkxyT2ZobHM0TC1CdF9pNmtvelJROE54RGVKX2ZXQmZSaV9GeDlYa3Q0cnFIY1FTTl9Mb0RYdE9qR2tnQmRReldGcUVJd19ob3JGV0hPdkpURm00UGUzWTV3RVVlbloydnZkdDVLMjV2dUtpaUxibUNvSXlUUjRQVQ?oc=5",
+      "data": "10/07 18:36"
     },
     {
-      "titulo": "Fluminense conquista dez medalhas no 8º SP Open de Nado Artístico - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGh0azgxZWZETk9kUGFqS3VqRl9PbWl5LU1oRkVoMFF1OHpta3czVER1VENyXy05alltbDZrLUNUNTcxR3ZMT3lsZ1V0NWZyWWtyLXU5SkUtamZiWnhlZko0OE1NbGgzRVc3aXNGMklJQVpOZ2Y5R3RjWjlDcm5SX3hwOHZIUUdrMFhFaHhtbXlVVVhZNFIyQVpwb0N2TDdfeTJKTg?oc=5",
-      "data": "10/07 15:42"
+      "titulo": "Canobbio celebra retorno ao Fluminense após a Copa do Mundo - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEJrYzRMZk9wblc5TzN0NFZpeFdsZ1NzbGpBRV9yV05OU0dUSGFmWUdTVUFocnhhUnpQMzFNM3dwaWh4TndOcG1FUWR0UnFyWXMwRENaN2hvQ2Fxd1N6clFMWWlVMXhadjNKbk4xMVEtQXU1RlYyOHNVa2hhQVowWUJNZEFKejRNdVhXRXVQMA?oc=5",
+      "data": "10/07 18:40"
     },
     {
-      "titulo": "Com verde escuro predominante, Conselho do Fluminense aprova terceiro uniforme - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZUhBMFBTaUNUVnNNelF3dkpkNnRfcnZzTWswbE9VdGEzVlQxVzJpbzhkNktBd1JPOWw5Z0NlSjRNRHJwTFFjd0RyWC1wLVhFTXBjU3VRMmM2ZEVRR1MxTE5LeXhadFNMUGxRVFQyRVRhVXVZMUtINUJCLVhTamhXWTVmc0lIN1QtRUg5TDUyUEY0dWg2TmJPMlg2MkJjdVpTWm1MZEJTM2tJNmFzNzAzbXZRbjJ2VFJhM240YUdQeWxaV040Rzh3ZHN3Y2tjUFJMVG8xWDNzQk5JUnRubFJJcmlVbUJLaGFMb056d3lFZlNWU1pTUXItX2c0OA?oc=5",
-      "data": "10/07 14:27"
+      "titulo": "Fluminense divide grupos e fará jogo-treino no CT antes de amistoso no Maracanã - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVBjYzRleXZRVEJKdE9wM2ZoZXNRVTk2d21tNHN5N21sM2U1Z2NuSlZJd1hCZ0UzRXpyTnRKcnFpOFlZX3NuTFBDSkJsVVZHVi1VZmZvWjBUSFNEbWN3Slp6MDE0clQ0bUdGMGlFMGt4Y1dNbElJM0VHU0RwQmUyS0IwYTJPQWY0THpXOFgtU1BpOXhjWmk4S18zUXlLVEFRYXRTakJSOFNwN3VyXzZIOXdxU1JVdFdJSEEwVWxUSVFEWExCejRFWE1mb0dYY1NxRlZpOTRYNVliaEk5WGwyTTBnT2vSAfMBQVVfeXFMT1BqeTFtTEROaXhlbVVsY1l2dU1JYk9ucGctT0ZlNVAwYTV2VGl2UHlUcG95WkV0b1YyaWplVENtcTJoY2tuNldDNmM4ZjRQWG1uNjhhcHA0RzktVUhJUjdQYi1zOGNBVng2Ykt2RnZPYTR4WnVWaDZVVmlabHEtOUt3WXRRcEhHX3RzMGF4UjdsQ2RReWpacFRvczBJRWdfdFJyNnZrSGJvMjBzcjZmTlItZ0lrODlTTWdlMldDd01DNE55WUlaWWx6Yk5XWmRfc3pWSzdIaHNiTHJGY2pRbHV5SHdKTnNPWkhwLUVXZU5fTkg4?oc=5",
+      "data": "08/07 02:08"
     },
     {
-      "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
-      "data": "10/07 07:01"
+      "titulo": "Mercado da bola: veja todas as contratações e saídas dos clubes da Série A - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHoxZGcydF9aNTV5aHNHSFZFMFhqcnFlb2RUSGNCZlpvOFNTMXIybEtUN3F6R0xzenhYS09HeHlpQ0JJZnVZSmhmQ3NzWTN5Mm5ieExMZnBOX3hxUnlVeXV5ZURCdlJSRXBVTEpNUDZ4MTBwYkhENmNqNGdBRzlhWlp4Wk5YRFFYaE1pTGdEUWFlQkxHZ05zRElIWUdocXJ0eDdmS005YnpfQ3ppRUZ6NWhpYWdBRlV2dmJj?oc=5",
+      "data": "10/07 17:14"
     }
   ],
   "avisos": []
