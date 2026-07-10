@@ -1,21 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/07/2026 19:51",
+  "atualizado_em": "10/07/2026 07:36",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-09",
-      "time": "17:00",
-      "competition": "Copa do Mundo",
-      "match": "França x Marrocos",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "GE TV",
-        "NSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-10",
@@ -43,6 +28,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-10",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Albion FC",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-10",
       "time": "20:00",
       "competition": "Brasileirão Série B",
       "match": "Sport Recife x Botafogo SP",
@@ -54,8 +49,170 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "EC São Bernardo Sub-20 x São Paulo U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x Capivariano Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x Uniao Suzano Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Juventud x Atletico Torque",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Caxias x Floresta",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Club Nacional",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "Benfica x Flamengo",
+      "channels": [
+        "SPORTV",
+        "PREMIERE",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "competition": "Brasileirão Série D",
+      "match": "XV de Piracicaba x Cianorte",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Wanderers x Progreso",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "18:00",
+      "competition": "Copa do Mundo",
+      "match": "Noruega x Inglaterra",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Crown Legacy x New York City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Houston Dynamo FC II x St. Louis City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "Colorado Rapids II x North Texas",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "22:00",
+      "competition": "Copa do Mundo",
+      "match": "Argentina x Suíça",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "23:00",
+      "competition": "MLS Next Pro",
+      "match": "Real Monarchs x Whitecaps II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "23:00",
+      "competition": "MLS Next Pro",
+      "match": "Los Angeles II x Portland Timbers II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Polônia x Brasil",
@@ -65,7 +222,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Bélgica x Itália",
@@ -75,7 +232,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Bulgária x Tchéquia",
@@ -85,7 +242,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "14:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Alemanha x Holanda",
@@ -95,7 +252,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -105,7 +262,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "14:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -115,7 +272,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "05:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -125,7 +282,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "06:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
@@ -135,7 +292,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
@@ -145,7 +302,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "09:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
@@ -155,7 +312,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "23:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Turquia x Polônia",
@@ -165,7 +322,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Japão x Brasil",
@@ -175,7 +332,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Canadá",
@@ -185,7 +342,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Tchéquia x Alemanha",
@@ -195,7 +352,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "14:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Bulgária",
@@ -205,7 +362,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Ucrânia",
@@ -215,7 +372,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Tchéquia x Holanda",
@@ -225,7 +382,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-09",
+      "date": "2026-07-10",
       "time": "14:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x França",
@@ -237,54 +394,52 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.7,
-      "temp_min": 17.5,
+      "temp_max": 25.6,
+      "temp_min": 16.5,
       "chance_chuva": 0,
-      "condicao": "Garoa fraca"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.7,
-      "temp_min": 17.0,
-      "chance_chuva": 6,
-      "condicao": "Nublado"
+      "temp_max": 24.6,
+      "temp_min": 15.5,
+      "chance_chuva": 0,
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.8,
-      "temp_min": 11.4,
-      "chance_chuva": 2,
-      "condicao": "Nublado"
+      "temp_max": 23.4,
+      "temp_min": 12.5,
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Fluminense anuncia renovação de contrato com Keven Samuel até 2029 - GE",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamlGbUhoUG1YWTFzbnBuODQwLVhhc0t5eVdpZkMzS2ZPWUYtM2dWY1NLeXV5LU9zMVpzTmFTSUp5a25XOHVPemx4UDczTGdsaFhDTlAwN283dVJLbjl6SmFUYVQ0ZmFtVW9tb2g5RmkwSmVpZjEyMEJmbF9zNXlzTko1WEVVaWI3SHAzVDM0ZG1aQXQ0V3F0ejNhblNRcjliU3NRVWJrUU8zcEJtRE81Q0hVLWhEOGpSWFRQeUNESEw0Yjh4ZDRNVTVnUXdDYlNZN0ww0gHiAUFVX3lxTE9RTDNWWFdqUmhHeXdwY0xfRkFvUUZ5R3V6TURrYmFxMkE5ODBYSGYxakFFR2JFTkNiaENkR1k1VDJZeDhIR19iTl9BMHI4Z3poVGpMdk52NXBoRWlncWVRN0o1UW9OV2NvUC1XTEhKekhsOW5fZzVtMVJyVjhMa3c4VktwUEJVdGhEN3R0QXM5Zkl3WTd6dGlGZU5TcVRMbDZmaDg2VzNBWHBxUTNNTllwdTVSZllVYXNxVFl0aXd3REhNSnVqYVZYRUtnTXlQLTlaZm5KZUhOd0hXX19Eci1vNFE?oc=5",
-      "data": "09/07 21:19"
-    },
     {
       "titulo": "Ex-Fluminense é anunciado por novo clube na MLS - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZ2k5Y2x1N2U5TUhOYWFNVG82OERxTDhjbldoV0NiSVNQMjNhWF8zRmlKbnF0U0V6MW9qNDhBLTNza3Nmc05NcHVJVng4VldaNnFQMWpMVnlSNzU5ZjdlSUp5cjd4RWhpR2tvNTRySnlNeG15eDVTME1UbUpRc2c?oc=5",
       "data": "09/07 20:22"
     },
     {
-      "titulo": "Análise: Fluminense goleia em amistoso, tem boa atuação ofensiva e estreia promissora de Hulk - GE",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHBhdE5NV3BXcGhZWFBtOGJndVkzdjFlUHA5RWlVbkJuTjc1eEFvQXFFWnpaU09XSnBNdktOX3UyS0F1OElHVVYyZDlQX3lSNGg3cExRMzJSNm1vTEc5ZDQ0QWhNS0p4YlZuQ3V3ZktMN1B5aHh5Ym1DVVNmWUpab242SkRaTjEzYkdsMElkNTJtZHJFZUlYMTdGTi15Q1lnN19oSF9XdElOZU1nZmpSSHFtNUQ1OEtZWFQxUDFqUVB2Q3VtbkFFZDhteG84NEVYZTgyRUJ1c1h5V2xhWFNzNnpCMU1kMjlGZ1g3NElUTWZaMU5Y0gGDAkFVX3lxTFB1aUd5eTVrMWhPN1pEa3FtZlpvSDNiNXhQZzVwV0gxUWJ5Skx5N1V0aldVbTJCT2V0aWR5eWRkOFhaM1VFMlRLMGNvT2JVWEl2NVNhNEZUV1pETDJPWEUtc2F2Yzd0SERObmRhd1IyWTFBT09HYkJVVHJQV09kRGpVZENkbnI1NXNPNVNURGVBSlNLUlVoakdpb3RPM2x5Wk91S1c1a0IzZ05iNlhNcVg0dEhDUXQwaEpZOWhJNHEydHhZbDY3THcwNGhxYWdEVUpHdEZ5U2lURFR2UE14SjZVSEhaemluUUJLWWdxVU55RTFjUFpmVXVWclZfV2g0V19falE?oc=5",
-      "data": "09/07 07:00"
+      "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
+      "data": "10/07 07:01"
     },
     {
-      "titulo": "CBF fará teste de impedimento semiautomático em Fluminense x Bahia - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnRiNFl1S1lIbkRyUXFUalB4VnE1VnpSWlRORnFSeGJEdzVLb3N4cFFEWW8wQlpUOXRwQVdkVWg4RmxqT2dRNnRkM3BDTGg0M1M4RUdaMmEwWXBhTTg0MFB6ZjlpcFZad3dpU0FINTQxZFl4OFd5akJWTVNiOHN0LWx4MVZZZHRFaUJEN1JGdUFHUS1hT0pqRGhFUzgzYk1hdzZhTWRzY1lVWmtYVFgxMHh5V3hVMUdlLVItLVQ5Sld2bW_SAcgBQVVfeXFMTWttSTMyUGpNRFBqanEzUkZCSGpfTy1VUzk4U1RfNmY4WUxvdzNIa1VDRkFDN1FsWmpWWDhjOS1ETktJNjRaSW1PN1lhMEpGcHZCdDlhczY1dXpGeFpFYVNYTmxIXzVOdmVEWU1IVWlvbjJ5OTZUdC1pMWQtbmc0d1I0QTNsUlhnbXFnZFg3QVBwRmhtN0pudTl1YnpXS2taNks5b0gwTWo0LVQ2MmRkUGVtODZLMF95QmhjSmNnZFF0Wmxqd0xVTEo?oc=5",
-      "data": "09/07 00:00"
+      "titulo": "Entenda o planejamento do Fluminense na janela e bastidores da saída de Bernal - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZE5kWmhqUEdkOE5zdHVfWGRzTmh6b3VYeEpjR1A3RUdSdmlobDN6d1M0M0Zad25KUUQ2dUNlVDZkbXh5TjRJYVd6MC05YmNqLXdsQk8xNnVnOFR1SXZOQWxxMEh3aEJOdlliU0VuZVNxZjNSY1E1ZkRLcEZGYTB0WEtzOVJnSkU4ZzVneTh4MjZ1d3FJS0ZqTGRoOGYtWkNKTXItMXpJZEo3NFc4dEJIeUJaM2xmQjVCYTk4?oc=5",
+      "data": "10/07 08:00"
     },
     {
-      "titulo": "Ex-Fluminense é anunciado como reforço de time dos Estados Unidos - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjdya2NvNGEzWDFFV3YzbDBsNHRSUkJPMHlyOU16cHFSMmY4SlBkNm5oTGYxSUN2TjM4WkdYWk5HR1NNcHVVU1lSN3BTUnQtdWQ1LUQ1U0w2UUFnaVZNVTRUSFNCRjY5MjEtUnRwZ2VtRHd6d1MzUGRrTkpBQ2FMQWxPQWVaUTRodTZQOExZaE9FOF9IWTV3eVJaUU8zeDAzcXA4WlhpY09sLUp4TXgzWHg0Wk5ESGQ30gG-AUFVX3lxTE1vQVh4X2pxcWl2UVFjd1FWdGx1RUVmdVJObzlVZ3NnSFM4SkZCdzd5bVlEQXJXeG5WVXIzUURGQkpZdlJlcjBJQldEUi1NQW05SjFZUFFtZ3d1MUFFYVVxazZIb2haZUNNam5rZWpOTkRPWV9PM25Fam44cFhJeE5fbjZCZ3NzeDV4NmFSeml0V2NxeExLV0pxaHlyYWNJS280ZFFzcFphY080VXpQSFp2R3ZhMzV1eVZOTTVPQ3c?oc=5",
-      "data": "09/07 20:10"
+      "titulo": "Zubeldía considera Martinelli e Hércules 'inegociáveis' no Fluminense: 'Trabalho incrível' - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSDl4aEFOMDNoeDkwUWJsTlI0dDgzOHdUdndBZEFwUW55amozYVNmNXlhd01adGlNSGhSSkFfb1BnbjJrSmFCSXk2MHBadk5yZFhUTVNTYXM4REVHS3d2VjRvc1ppbE15MV9fWHFUVVJhcEJZSkg4S2o3WVR4MnRXR2tPMnBRdkVPTUlfTkhQSy1hc3V4enE5TjBpTTVhbFJmSWUtRV9IazU0anZKQjh2YmM1aW1vTFBIRG1QUGZNWHlrajZwcVV2amVBRFFTdGJ4RHFIU2NoYkxIZS1Ba0E4eTFPaTVTMUl2NmhXM3BodUFrRk1MaHfSAYQCQVVfeXFMTnM0RTZIaTlTZ2xqcXhmRVVmWmZCQ3lEbEZtWk02ZkU0LTJ6NFNuX0xLYjdndDNxWkRvNzJSM3VKb3NxR2hZdkNqSkVFV2d5LTcyM0N2TGNKc1p6SjlrTXFnZS12N1MxUmZfdGhqTkgwaGF6ZzZkSXlfT2I4YUZpT1l2MmJOeUJnSmlZZ05oOVJtaDVRaDh0STFMRGxqRjkyTUltX1lZdnoyZTIxNm9qbWRyZkZsd1RxMGJNZHFwZk9lSjZYYnNveld0TmllWU1kNXA0UXFSS25xdGozMUtSR0RfVXRQOXhhWm5zV0pwYzg5Z005ZDdnV3JST1lYcFVsdHlRdi0?oc=5",
+      "data": "09/07 04:45"
+    },
+    {
+      "titulo": "Zubeldía revela promessa de Bittencourt e Montenegro a Bernal no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDd1RGN6RTJqd3JVd2w0RHBaLXFZZ0hsWFdORl9kakg2WDhXajNDZ2puanBrWE5sOGJSMjZlTlE4S21DYUhUdjNmcTdISmZFU1hKQlEzOF84SXNwX0c3SWtwRTdGdHlvc0k5VjFKbndGZXdlRkFSNllGVEV1aTJIYXJqRWplc0p4SkRJTUxtd3N6aC12TzFVSE5HaHlvQ0V2cmM5cg?oc=5",
+      "data": "09/07 12:30"
     }
   ],
-  "avisos": [
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-  ]
+  "avisos": []
 };
