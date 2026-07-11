@@ -1,67 +1,14 @@
 {
-  "atualizado_em": "11/07/2026 15:06",
+  "atualizado_em": "11/07/2026 18:35",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-07-11",
-      "time": "13:30",
-      "competition": "Uruguai 2ª divisão",
-      "match": "River Plate URU x Plaza Colonia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Club Nacional",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "15:30",
-      "competition": "Amistosos",
-      "match": "Benfica x Flamengo",
-      "channels": [
-        "BAND",
-        "SPORTV 2",
-        "PREMIERE",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Portuguesa x Marcílio Dias",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Sevilla x Juventud Torremolinos",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
       "time": "18:00",
-      "competition": "Brasileirão Série D",
-      "match": "XV de Piracicaba x Cianorte",
+      "competition": "Copa do Mundo",
+      "match": "Noruega x Inglaterra",
       "channels": [
-        "YOUTUBE"
+        "CAZÉTV"
       ]
     },
     {
@@ -78,10 +25,10 @@
       "sport": "futebol",
       "date": "2026-07-11",
       "time": "18:00",
-      "competition": "Copa do Mundo",
-      "match": "Noruega x Inglaterra",
+      "competition": "Brasileirão Série D",
+      "match": "XV de Piracicaba x Cianorte",
       "channels": [
-        "CAZÉTV"
+        "YOUTUBE"
       ]
     },
     {
@@ -158,6 +105,16 @@
       "sport": "futebol",
       "date": "2026-07-11",
       "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "EC São Bernardo Sub-20 x São Paulo U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
       "competition": "Campeonato Uruguaio",
       "match": "Juventud x Atletico Torque",
       "channels": [
@@ -187,21 +144,64 @@
     {
       "sport": "futebol",
       "date": "2026-07-11",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "EC São Bernardo Sub-20 x São Paulo U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
       "time": "11:00",
       "competition": "Brasileirão Série C",
       "match": "Caxias x Floresta",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "13:30",
+      "competition": "Uruguai 2ª divisão",
+      "match": "River Plate URU x Plaza Colonia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Club Nacional",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "Benfica x Flamengo",
+      "channels": [
+        "BAND",
+        "SPORTV 2",
+        "PREMIERE",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Sevilla x Juventud Torremolinos",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Portuguesa x Marcílio Dias",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -583,16 +583,6 @@
     {
       "sport": "volei",
       "date": "2026-07-11",
-      "time": "14:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sérvia x Alemanha",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-11",
       "time": "23:40",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Brasil",
@@ -789,29 +779,39 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
+      "time": "14:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sérvia x Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.5,
+      "temp_max": 25.3,
       "temp_min": 16.8,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.6,
+      "temp_max": 24.1,
       "temp_min": 17.9,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.7,
+      "temp_max": 23.5,
       "temp_min": 13.5,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
@@ -821,24 +821,24 @@
       "data": "10/07 18:36"
     },
     {
+      "titulo": "Thiago Silva passa em teste e fará reestreia pelo Fluminense em amistoso contra Bahia - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdjdycDFuQktFUVZyeEpDNzEwSjNIWkp1NHU5cjlCQ0FRZUlPU3ptMzliUV82R0xYR0ZvQVNpaWpiSlFRX09LUnVEeDFnT3NtdjZOVmozV1dmT3huMFVTT0RDUWZKR2F2ZFFqN1NqUjhXUS0xZk1tNWVOTmI4T2d4eW9DaXVBbnhkNW9aMEFpUlRxendjSXhXNzZ5bjNPNDJhNmJXeXdWS1p2N1lEcW9zVjNPYjFNdndCdXM4VW93OHdWWFljVWF5Vmx4d2htVWpDeDVkYlVsYUJjajlHRXJvZzllWmlLWm12MFN2Z2d1ZV9vbmdpeV9tS3dDNmF2SW5tNGJZZUhR0gGUAkFVX3lxTE9aXzVSemh6Z19VUHFFYVZ1RlBxVTdyeWh2bm5meXp3ZWxqUUFNNzU3Mnl4TFd5Tzh2Vk5tQXlucHR0UWFld1ppT21EVWJJeUdCOFRMQ1EzRlh3aldZOWs3U28yY0NpQU5IZ294UUJtV0huWm5aQWtScWZvWXhET0ktRjJibzFYYi1sSVFGai1Bd2szb3RPRElxWWJMd3p6YVlycVd0QXM2S3VGQmh4cHZfbUM0NGh4d05NVjgzOHB2aHNpWDhkWVc1TjBrTm9yUTJYMVlseUhIelRuT3Vjc0dwSFEweWpfUzBqN1M0ZUlnbVM1bTRKcDVHODZJSkxjLTZjZzBDYnJmQ18wVHZNcG5lVWotSg?oc=5",
+      "data": "11/07 18:08"
+    },
+    {
+      "titulo": "Fluminense divulga fotos do treino deste sábado (11); veja - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObW82SGRPOWM0eXV5YlJLZkdEN2FNcWN0UGlLdVN3dlNXNmhMdGxleTJwcDdUV19HTWpVbmdKSHVPLU1oRER6eEJfdTBmeC1wTmJ4WUM0Zmk1NE9qVFFZUU5XZC1tcEZKWFNVbDRMa0tjTEJTdTZyaDRVc19ndEVtblZrbkNmMlFnS1E?oc=5",
+      "data": "11/07 18:00"
+    },
+    {
       "titulo": "Morre Jayden Adams, que disputou a Copa do Mundo pela África do Sul e encarou Fluminense no Mundial de Clubes - ESPN Brasil",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdzlyY2lHalpYdFhPQW9ucHdiWVZwbnhXbWlmUlktU2lyREhfdkpqUm1Ia0NCcGFIUVo0ZDVZLUZIa2d0Q2xUM3diTE5CQjcwWEgyUWh2dFVnemhvcHZ2MEN2bWZiWFJqRmpmRmQ0R3BETnlVaTlGblJsbG50R3l2T2o2OWhkLU9XekpqOVdSODJTenViS054Y0U1UzJIYTk3RG1YZGVWM0RwNnpZNnMzMGl2eU9FZ0o4WTRyZzJOYkVRZlQ0U1lOMnhwY0lsaF9wNHZhbkd4bF9Ud25Mc2c?oc=5",
       "data": "11/07 14:12"
     },
     {
       "titulo": "Fluminense x Bahia: onde assistir, escalações e arbitragem - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1hKUGdUTGVQUkdYMW93ODRIWjRYR2tpd0Q1VmR5UXlZa1hYN010dlZZMkxEZ192UmJkLTlnTzBmTGhUR1RpallMcHhtZjl6TWtSY1ZoWEg0dTFtVlp5RURJQS1TMkhLYkR6NGtLZS1jZzBYbmpyQkVNNFBsNG9YazBsY2dLRGUtQjVYTHNZemJ2UHdpOHpvNFNYNHh4YnpIQzVjOXViOVlxM3FMaXJ6cC0ycHptTmVUWEppMzF4Z0NTTlpHTGJzLTBHVEtwZmhpeHd5T3Y0UjVJbEtTMmNlcHQ3R0FlZ9IB5gFBVV95cUxNQ1hKUGdUTGVQUkdYMW93ODRIWjRYR2tpd0Q1VmR5UXlZa1hYN010dlZZMkxEZ192UmJkLTlnTzBmTGhUR1RpallMcHhtZjl6TWtSY1ZoWEg0dTFtVlp5RURJQS1TMkhLYkR6NGtLZS1jZzBYbmpyQkVNNFBsNG9YazBsY2dLRGUtQjVYTHNZemJ2UHdpOHpvNFNYNHh4YnpIQzVjOXViOVlxM3FMaXJ6cC0ycHptTmVUWEppMzF4Z0NTTlpHTGJzLTBHVEtwZmhpeHd5T3Y0UjVJbEtTMmNlcHQ3R0FlZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcGpIQlU2ZXZGckQwdDl5a3V5UkxKeVIzYTlQVVl1dy1Ia1VVdDlXQllyaVlHOGF1UjJXRkhxdkxGZXBxR0RRUzNsT0pEM2syVS1QVUx2M3ppMEd0RnVvRnlBbU55TExIbWxEVkpfcnZhMHUwTm1LTlpXMUhVcF9Lb28ySTJrREJLOEVKMHhPSXNpR0xGTjZMY1ltWEs3UFBDX1FZSHdaT3RnSmtFZk5qemhZNjFpcmV4LU5EeWhYU0RnREhpZmlXR0stRzRDY09BcF9NZExob1R0MkYwREwwWg?oc=5",
       "data": "11/07 15:19"
-    },
-    {
-      "titulo": "Presidente do Fluminense detalha funções de Mário Bittencourt no clube - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlpDVHd4d0RNQWd0bDAxaW03NURGR3FPT0dMVXB6cTMycHlNbjctVnIzak5pSGVsX2dVRmNiTkFnVkNYc3lDUjExcTB5MHRrTVhVTmRuUnU5dUJTbm4wLVhabTMyd2xQeGM2WEtQbWFmTXdUcHNPYmVrSU5TZFlJZXRkSnZyUzkyUjR0WUtOTUlDcnhDU3JwS0IxLXJZdw?oc=5",
-      "data": "11/07 14:30"
-    },
-    {
-      "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
-      "data": "10/07 07:01"
     }
   ],
   "avisos": []
