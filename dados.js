@@ -1,84 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/07/2026 18:38",
+  "atualizado_em": "11/07/2026 03:26",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "19:00",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x Vila Nova",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Albion FC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "20:00",
-      "competition": "Brasileirão Série B",
-      "match": "Sport Recife x Botafogo SP",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "21:00",
-      "competition": "NWSL Feminina",
-      "match": "Orlando Pride (F) x Kansas City (F)",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "23:00",
-      "competition": "NWSL Feminina",
-      "match": "Utah Royals (F) x NJ/NY Gotham FC (F)",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "13:00",
-      "competition": "Amistosos",
-      "match": "Ajax x AEK Larnaca",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-10",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Espanha x Bélgica",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "NSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-11",
@@ -273,148 +195,541 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Portuguesa Sub-20 x Corinthians Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Novorizontino",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Amazonas",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Barra x Santa Cruz",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "12:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Cerro",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Central Espanol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Manauara x Goiatuba EC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Fluminense x Bahia",
+      "channels": [
+        "BAND",
+        "SPORTV 2",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Cascavel x Corinthians",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Iguatu x Maguary PE",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Portuguesa RJ x São José",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x Porto Velho",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x Serra Branca",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Anápolis x Maringá",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maranhão x Ypiranga-RS",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ituano x Ferroviária",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Paysandu x Guarani",
+      "channels": [
+        "BAND",
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Cuiabá",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Náutico",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "ABC x Águia de Marabá",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Capital Brasilia x Nacional AM",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Amistosos",
+      "match": "Grêmio x Cruzeiro",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Ivinhema",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Treze x CRAC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Ferroviário x Imperatriz",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x New York RB II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "NWSL Feminina",
+      "match": "OL Reign (F) x Portland Thorns (F)",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Fortaleza",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "Carolina Core x Chattanooga",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Penãrol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Goiás",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "FC Cincinnati II x Orlando City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "Connecticut FC x Toronto II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Confiança",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "21:30",
+      "competition": "MLS Next Pro",
+      "match": "Austin II x Minnesota United II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "13:00",
+      "date": "2026-07-11",
+      "time": "03:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "match": "Tailândia x Brasil",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "14:00",
+      "date": "2026-07-11",
+      "time": "08:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "match": "China x Rep Dominicana",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "05:00",
+      "date": "2026-07-11",
+      "time": "11:15",
       "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "match": "Bulgária x França",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "06:00",
+      "date": "2026-07-11",
+      "time": "14:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Gstaad, Suíça",
+      "match": "Sérvia x Alemanha",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "08:00",
+      "date": "2026-07-11",
+      "time": "23:40",
       "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
+      "match": "EUA x Brasil",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "09:00",
+      "date": "2026-07-11",
+      "time": "07:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Gstaad, Suíça",
+      "match": "França x Tchéquia",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
+      "time": "11:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bulgária x Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
       "time": "23:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Turquia x Polônia",
+      "match": "Canadá x Argentina",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
+      "time": "11:20",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Ucrânia x Irã",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
+      "time": "14:50",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sérvia x Turquia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
+      "time": "17:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "França x Brasil",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
+      "time": "21:50",
+      "competition": "Vôlei (SporTV2)",
+      "match": "EUA x China",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Japão x Brasil",
+      "match": "Japão x Canadá",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "09:30",
+      "date": "2026-07-11",
+      "time": "11:20",
       "competition": "Vôlei (SporTV2)",
-      "match": "China x Canadá",
+      "match": "Irã x Alemanha",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "11:30",
+      "date": "2026-07-11",
+      "time": "17:50",
       "competition": "Vôlei (SporTV2)",
-      "match": "Tchéquia x Alemanha",
+      "match": "China x França",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "14:30",
+      "date": "2026-07-11",
+      "time": "21:40",
       "competition": "Vôlei (SporTV2)",
-      "match": "Sérvia x Bulgária",
+      "match": "EUA x Brasil",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "09:30",
+      "date": "2026-07-11",
+      "time": "00:50",
       "competition": "Vôlei (SporTV2)",
-      "match": "China x Ucrânia",
+      "match": "Cuba x Argentina",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "11:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Tchéquia x Holanda",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-10",
-      "time": "14:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sérvia x França",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Polônia x Brasil",
@@ -424,7 +739,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "time": "09:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Bélgica x Itália",
@@ -434,7 +749,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Bulgária x Tchéquia",
@@ -444,8 +759,8 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-10",
-      "time": "14:50",
+      "date": "2026-07-11",
+      "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Alemanha x Holanda",
       "channels": [
@@ -456,31 +771,41 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.4,
-      "temp_min": 16.3,
+      "temp_max": 24.2,
+      "temp_min": 17.6,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.9,
-      "temp_min": 15.2,
+      "temp_max": 24.0,
+      "temp_min": 17.1,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.0,
-      "temp_min": 12.1,
+      "temp_max": 24.8,
+      "temp_min": 14.8,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Ex-Fluminense é anunciado por novo clube na MLS - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZ2k5Y2x1N2U5TUhOYWFNVG82OERxTDhjbldoV0NiSVNQMjNhWF8zRmlKbnF0U0V6MW9qNDhBLTNza3Nmc05NcHVJVng4VldaNnFQMWpMVnlSNzU5ZjdlSUp5cjd4RWhpR2tvNTRySnlNeG15eDVTME1UbUpRc2c?oc=5",
-      "data": "09/07 20:22"
+      "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
+      "data": "10/07 07:01"
+    },
+    {
+      "titulo": "Em noite de estreia do Hulk, Fluminense vence amistoso contra o Nova Iguaçu no Maracanã - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTk1ETEdWbWlxcGxDZkEwZ3E3U1NHMC11dGJsVTBBRmdHVGs4VmNVMm55NktSNnpSdXhRSHBPQi1iZTR6Uzk3aXZ6a2t0eEtHSTB5M0ZVZEpSeVlsaXJnNGNieGphcWNqa0Iya0VjVWpwNDktVm1PM28yMXRwTDBKNi0yeTE2S09xODV6dmVSZmliSzFRS0hrZkxwQWFlX3pSZ3VBelE0U0dqVTZuV2I2SENZZ25wOS1kQTNEbHdHeGZoQQ?oc=5",
+      "data": "09/07 01:41"
+    },
+    {
+      "titulo": "Fluminense x Bahia: onde assistir, horário, escalações e arbitragem - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2ptaC1FZW9yMlBCdVhvUldYNXcyOU5aa2hjS3pkTmpla3FtNzhEZjlzVTFybnB6WlRUcFlBT2xCd1pRSHhpS3VMb1BSMlZ5a05GdlhaOW1fMjZkQnlTRmFoVnBQbzEteVdOQU81Q1NmTmZjcG4wUmlaLVFJWlAtWlAzZnVrMl9fS080ajNtMksxNEVoSHhUQWdzTVozOTJ5WkVId1JRTndLbFpuTkdxYdIBuAFBVV95cUxOeTJvZ09VTW90UVR0X2tnbG43QVpGNEFtZjM1YngyaUJEUFpJcktrVFVEM0J6Rko5QkNUUnNkOXFxX1JsQTBEdDdwQ1VzQ3BTdGFZT2NlS3Y5UzdlSGhYZ3BscGVGM21zMnZraTRkREV0VVVrWHJrQi1QWk1DdGdHS1RPTVpkY1JFNGZHOGNHRnpYODk5eFpMak03eVhxU1VwQjRMcktUQVBrNDRZMHlxQ3VCYlktVGtX?oc=5",
+      "data": "10/07 18:36"
     },
     {
       "titulo": "Fluminense: Millán e Riquelme atuaram em dois jogos no mesmo dia - LANCE!",
@@ -491,16 +816,6 @@ window.PAINEL_DATA = {
       "titulo": "Canobbio celebra retorno ao Fluminense após a Copa do Mundo - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEJrYzRMZk9wblc5TzN0NFZpeFdsZ1NzbGpBRV9yV05OU0dUSGFmWUdTVUFocnhhUnpQMzFNM3dwaWh4TndOcG1FUWR0UnFyWXMwRENaN2hvQ2Fxd1N6clFMWWlVMXhadjNKbk4xMVEtQXU1RlYyOHNVa2hhQVowWUJNZEFKejRNdVhXRXVQMA?oc=5",
       "data": "10/07 18:40"
-    },
-    {
-      "titulo": "Fluminense divide grupos e fará jogo-treino no CT antes de amistoso no Maracanã - GE",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVBjYzRleXZRVEJKdE9wM2ZoZXNRVTk2d21tNHN5N21sM2U1Z2NuSlZJd1hCZ0UzRXpyTnRKcnFpOFlZX3NuTFBDSkJsVVZHVi1VZmZvWjBUSFNEbWN3Slp6MDE0clQ0bUdGMGlFMGt4Y1dNbElJM0VHU0RwQmUyS0IwYTJPQWY0THpXOFgtU1BpOXhjWmk4S18zUXlLVEFRYXRTakJSOFNwN3VyXzZIOXdxU1JVdFdJSEEwVWxUSVFEWExCejRFWE1mb0dYY1NxRlZpOTRYNVliaEk5WGwyTTBnT2vSAfMBQVVfeXFMT1BqeTFtTEROaXhlbVVsY1l2dU1JYk9ucGctT0ZlNVAwYTV2VGl2UHlUcG95WkV0b1YyaWplVENtcTJoY2tuNldDNmM4ZjRQWG1uNjhhcHA0RzktVUhJUjdQYi1zOGNBVng2Ykt2RnZPYTR4WnVWaDZVVmlabHEtOUt3WXRRcEhHX3RzMGF4UjdsQ2RReWpacFRvczBJRWdfdFJyNnZrSGJvMjBzcjZmTlItZ0lrODlTTWdlMldDd01DNE55WUlaWWx6Yk5XWmRfc3pWSzdIaHNiTHJGY2pRbHV5SHdKTnNPWkhwLUVXZU5fTkg4?oc=5",
-      "data": "08/07 02:08"
-    },
-    {
-      "titulo": "Mercado da bola: veja todas as contratações e saídas dos clubes da Série A - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcHoxZGcydF9aNTV5aHNHSFZFMFhqcnFlb2RUSGNCZlpvOFNTMXIybEtUN3F6R0xzenhYS09HeHlpQ0JJZnVZSmhmQ3NzWTN5Mm5ieExMZnBOX3hxUnlVeXV5ZURCdlJSRXBVTEpNUDZ4MTBwYkhENmNqNGdBRzlhWlp4Wk5YRFFYaE1pTGdEUWFlQkxHZ05zRElIWUdocXJ0eDdmS005YnpfQ3ppRUZ6NWhpYWdBRlV2dmJj?oc=5",
-      "data": "10/07 17:14"
     }
   ],
   "avisos": []
