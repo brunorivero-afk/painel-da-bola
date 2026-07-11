@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/07/2026 07:44",
+  "atualizado_em": "11/07/2026 11:37",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "07:00",
-      "competition": "Amistosos",
-      "match": "Feyenoord x Club Brugge KV",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-11",
@@ -192,6 +182,16 @@ window.PAINEL_DATA = {
       "match": "Los Angeles II x Portland Timbers II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "07:00",
+      "competition": "Amistosos",
+      "match": "Feyenoord x Club Brugge KV",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -550,16 +550,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-11",
-      "time": "08:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "China x Rep Dominicana",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-11",
       "time": "11:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Bulgária x França",
@@ -756,27 +746,37 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
+      "time": "08:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "China x Rep Dominicana",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.8,
+      "temp_max": 24.5,
       "temp_min": 16.8,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.5,
+      "temp_max": 23.6,
       "temp_min": 17.9,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.3,
-      "temp_min": 14.4,
+      "temp_max": 23.7,
+      "temp_min": 13.5,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     }
@@ -793,19 +793,19 @@ window.PAINEL_DATA = {
       "data": "10/07 18:36"
     },
     {
-      "titulo": "Canobbio celebra retorno ao Fluminense após a Copa do Mundo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEJrYzRMZk9wblc5TzN0NFZpeFdsZ1NzbGpBRV9yV05OU0dUSGFmWUdTVUFocnhhUnpQMzFNM3dwaWh4TndOcG1FUWR0UnFyWXMwRENaN2hvQ2Fxd1N6clFMWWlVMXhadjNKbk4xMVEtQXU1RlYyOHNVa2hhQVowWUJNZEFKejRNdVhXRXVQMA?oc=5",
-      "data": "10/07 18:40"
+      "titulo": "Ex-Santos e Fluminense troca de clube na MLS em transação milionária - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1dWRUw4ZHVHdXRKMkZMcEEwcEhEQUVOcnFCcTVwRkpLZ2NFcFE2eGpOa3M1ck44d2JaaVVIeHduX0w1RW82SzI2U3FqRTFIOXRCQnBtSV9mUEtYSkNLbGttdEpZY3NQTDJqeThhdGVKR2RJMGNVajNFS3p6UF9fWnZ2SGlrME5hQVN5X2FYYS1WczVLUW1XOVpFOWYyajVUcUU5UGhPU2EtMmxsTVczRkNvcC1xX0NmQURmSk5qVFpZTnd6Zkhia21BQWc1QdIB0wFBVV95cUxOMV9FX2M5Rl9fT2pCaVhfa29teWdHX2VtNzFzUzQ4UEc3b3UtV0lSaUJoNVhRcC1pOEJGcUtYNzNHVlFGanRKU2xudVpYNlhlN1BUalk4QURDazh0c3BJUWV5SUY5QlhhUzROX3JpLUtIVElEM3E0d09RVVRkbGpaUV9pSjVEa2Z5YUlyOTJ6cldfNThyOW92aVMyMzFTN0NYYW0wNnZzWjhSRmx4b0NLVDY5RmVLOWs5T1RoQmZUTFMtX3paRzJISXpzMTNHQTdLMVFJ?oc=5",
+      "data": "11/07 13:15"
     },
     {
-      "titulo": "Fluminense anuncia renovação com centroavante da Esquadrilha 07 - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHJCQ0RnTmtCbUp2dkxZa0s5UFE1MlhMd2p6ampLX1FsVXE3Y3U3aDIxQ2h2M19HRHZ3aGI5bHFqelJSREo0RF9wU2RWdkhydUp1X2twQ3hVTnBtVExTbTRVa2pIdUEzYjEzZ0dTNldQSl9RNlduOGkyaEZ4VDBleTY1UHZ4b3hQdklINTV3REVwVVBDZEM0aDR6QzdkUG03Tk96NjhXSQ?oc=5",
-      "data": "09/07 20:56"
+      "titulo": "CBF vai testar novidade em Fluminense x Bahia; entenda - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU8zd2dXQ1dWblZnU3BIbUdDbGFIWlBrb3ZfdVNlVXV3YkJ4RUk3T3BLdXRINE9ldTczQjlXRnhoRFdVLU9ERE9heFQta3NCVlFDU25fLTNnX2Jtby1PdHNEeUdESGRKRThKYUdLY3JrSktoTkh6M291TElBbGhFVV9ZdTZ1dnc?oc=5",
+      "data": "11/07 13:30"
     },
     {
-      "titulo": "Thiago Silva reestreia pelo Fluminense contra o Bahia? Entenda - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2VHYmFmNWI1RXFnZTBFN3Rlc3pxM2FsNHpJRXFGemlYLTZlZEh5RjBGaTd0Z01ucDhlZ3BHOTVVOHhlbEZBM0JaMEc5ai0zOFE0eGZ3bEJYVlJpVjZ3Zy1kNlJ5NG1sMjlmeHg2dW1kWnB1T1NmSzVfUGR3TFV2X1VyVnYtVE4zVGVDbjdOTkkzQkJISlhaMTZSdGVMX2U4X0tkM1Y3Z2txM2E0Ylh0SlFOOU9WM0ZRSUtvU3RvTlRzLU4yNmtvVGlLZ27SAdIBQVVfeXFMUHg2RDhTakhEMU0zSV9pR01RTlEzdzhTZG5oODA1NkZIWnRsalZDbGNmdkY4RzU2UEVCRWxTYmctZEVJbEplcDltZEQxRTJ6Q3pROFJuazBfOTIwdXF6R3hBSm9MYTRxZmo1TFFHU1R0M2FjblpLTDctZUtYV0g3X2EzMml5bzBTb3Z3eXpwbkJWMHlhNDhoUkxSVk5Lc0NTaXFMRWNtRmExZFlHM29maUxsbVpzZDd4TEYyOFQ0Z2RFNlFsNjd4SlI3VmNUbF82UEh3?oc=5",
-      "data": "11/07 08:59"
+      "titulo": "Flu fica com vice-campeonato carioca Sub-15 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFNiNUY1dWZKREN1MmhJbjZVYzF6dXVTblJTRmwyWVZ0LXM0eWVXYXZFdm1VQ0Vtc29uMDhiU0ZkaVBXMk5fRDZvNUgyV0liaF9EVDRDRHdmLS1FcXVObHRURGpfQmx2WVJuVnd4ZmFSTW9FcjByZ0VYei1ReUl5czN4N3IzTndQ?oc=5",
+      "data": "11/07 14:10"
     }
   ],
   "avisos": []
