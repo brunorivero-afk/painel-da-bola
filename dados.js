@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/07/2026 03:26",
+  "atualizado_em": "11/07/2026 07:44",
   "jogos": [
     {
       "sport": "futebol",
@@ -259,10 +259,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-12",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Manauara x Goiatuba EC",
+      "competition": "Amistosos",
+      "match": "Cascavel x Corinthians",
       "channels": [
-        "YOUTUBE"
+        "SPORTV",
+        "PREMIERE 4"
       ]
     },
     {
@@ -281,11 +282,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-12",
       "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Cascavel x Corinthians",
+      "competition": "Brasileirão Série D",
+      "match": "Manauara x Goiatuba EC",
       "channels": [
-        "SPORTV",
-        "PREMIERE 4"
+        "YOUTUBE"
       ]
     },
     {
@@ -323,7 +323,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série D",
-      "match": "Uberlandia x Serra Branca",
+      "match": "ABC x Águia de Marabá",
       "channels": [
         "YOUTUBE"
       ]
@@ -375,16 +375,6 @@ window.PAINEL_DATA = {
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Cuiabá",
-      "channels": [
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
       "match": "Avai x Náutico",
       "channels": [
         "REDETV!",
@@ -397,7 +387,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série D",
-      "match": "ABC x Águia de Marabá",
+      "match": "Uberlandia x Serra Branca",
       "channels": [
         "YOUTUBE"
       ]
@@ -555,16 +545,6 @@ window.PAINEL_DATA = {
       "match": "Austin II x Minnesota United II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-11",
-      "time": "03:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Tailândia x Brasil",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -766,29 +746,39 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
+      "time": "03:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Tailândia x Brasil",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.2,
-      "temp_min": 17.6,
+      "temp_max": 23.8,
+      "temp_min": 16.8,
+      "chance_chuva": 0,
+      "condicao": "Nublado"
+    },
+    {
+      "cidade": "Araruama",
+      "temp_max": 23.5,
+      "temp_min": 17.9,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
-      "cidade": "Araruama",
-      "temp_max": 24.0,
-      "temp_min": 17.1,
-      "chance_chuva": 0,
-      "condicao": "Céu limpo"
-    },
-    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.8,
-      "temp_min": 14.8,
+      "temp_max": 24.3,
+      "temp_min": 14.4,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
@@ -796,16 +786,6 @@ window.PAINEL_DATA = {
       "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
       "data": "10/07 07:01"
-    },
-    {
-      "titulo": "Em noite de estreia do Hulk, Fluminense vence amistoso contra o Nova Iguaçu no Maracanã - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTk1ETEdWbWlxcGxDZkEwZ3E3U1NHMC11dGJsVTBBRmdHVGs4VmNVMm55NktSNnpSdXhRSHBPQi1iZTR6Uzk3aXZ6a2t0eEtHSTB5M0ZVZEpSeVlsaXJnNGNieGphcWNqa0Iya0VjVWpwNDktVm1PM28yMXRwTDBKNi0yeTE2S09xODV6dmVSZmliSzFRS0hrZkxwQWFlX3pSZ3VBelE0U0dqVTZuV2I2SENZZ25wOS1kQTNEbHdHeGZoQQ?oc=5",
-      "data": "09/07 01:41"
-    },
-    {
-      "titulo": "Fluminense x Bahia: onde assistir, horário, escalações e arbitragem - A TARDE",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2ptaC1FZW9yMlBCdVhvUldYNXcyOU5aa2hjS3pkTmpla3FtNzhEZjlzVTFybnB6WlRUcFlBT2xCd1pRSHhpS3VMb1BSMlZ5a05GdlhaOW1fMjZkQnlTRmFoVnBQbzEteVdOQU81Q1NmTmZjcG4wUmlaLVFJWlAtWlAzZnVrMl9fS080ajNtMksxNEVoSHhUQWdzTVozOTJ5WkVId1JRTndLbFpuTkdxYdIBuAFBVV95cUxOeTJvZ09VTW90UVR0X2tnbG43QVpGNEFtZjM1YngyaUJEUFpJcktrVFVEM0J6Rko5QkNUUnNkOXFxX1JsQTBEdDdwQ1VzQ3BTdGFZT2NlS3Y5UzdlSGhYZ3BscGVGM21zMnZraTRkREV0VVVrWHJrQi1QWk1DdGdHS1RPTVpkY1JFNGZHOGNHRnpYODk5eFpMak03eVhxU1VwQjRMcktUQVBrNDRZMHlxQ3VCYlktVGtX?oc=5",
-      "data": "10/07 18:36"
     },
     {
       "titulo": "Fluminense: Millán e Riquelme atuaram em dois jogos no mesmo dia - LANCE!",
@@ -816,6 +796,16 @@ window.PAINEL_DATA = {
       "titulo": "Canobbio celebra retorno ao Fluminense após a Copa do Mundo - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEJrYzRMZk9wblc5TzN0NFZpeFdsZ1NzbGpBRV9yV05OU0dUSGFmWUdTVUFocnhhUnpQMzFNM3dwaWh4TndOcG1FUWR0UnFyWXMwRENaN2hvQ2Fxd1N6clFMWWlVMXhadjNKbk4xMVEtQXU1RlYyOHNVa2hhQVowWUJNZEFKejRNdVhXRXVQMA?oc=5",
       "data": "10/07 18:40"
+    },
+    {
+      "titulo": "Fluminense anuncia renovação com centroavante da Esquadrilha 07 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHJCQ0RnTmtCbUp2dkxZa0s5UFE1MlhMd2p6ampLX1FsVXE3Y3U3aDIxQ2h2M19HRHZ3aGI5bHFqelJSREo0RF9wU2RWdkhydUp1X2twQ3hVTnBtVExTbTRVa2pIdUEzYjEzZ0dTNldQSl9RNlduOGkyaEZ4VDBleTY1UHZ4b3hQdklINTV3REVwVVBDZEM0aDR6QzdkUG03Tk96NjhXSQ?oc=5",
+      "data": "09/07 20:56"
+    },
+    {
+      "titulo": "Thiago Silva reestreia pelo Fluminense contra o Bahia? Entenda - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2VHYmFmNWI1RXFnZTBFN3Rlc3pxM2FsNHpJRXFGemlYLTZlZEh5RjBGaTd0Z01ucDhlZ3BHOTVVOHhlbEZBM0JaMEc5ai0zOFE0eGZ3bEJYVlJpVjZ3Zy1kNlJ5NG1sMjlmeHg2dW1kWnB1T1NmSzVfUGR3TFV2X1VyVnYtVE4zVGVDbjdOTkkzQkJISlhaMTZSdGVMX2U4X0tkM1Y3Z2txM2E0Ylh0SlFOOU9WM0ZRSUtvU3RvTlRzLU4yNmtvVGlLZ27SAdIBQVVfeXFMUHg2RDhTakhEMU0zSV9pR01RTlEzdzhTZG5oODA1NkZIWnRsalZDbGNmdkY4RzU2UEVCRWxTYmctZEVJbEplcDltZEQxRTJ6Q3pROFJuazBfOTIwdXF6R3hBSm9MYTRxZmo1TFFHU1R0M2FjblpLTDctZUtYV0g3X2EzMml5bzBTb3Z3eXpwbkJWMHlhNDhoUkxSVk5Lc0NTaXFMRWNtRmExZFlHM29maUxsbVpzZDd4TEYyOFQ0Z2RFNlFsNjd4SlI3VmNUbF82UEh3?oc=5",
+      "data": "11/07 08:59"
     }
   ],
   "avisos": []
