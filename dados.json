@@ -1,56 +1,6 @@
 {
-  "atualizado_em": "11/07/2026 11:37",
+  "atualizado_em": "11/07/2026 15:06",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "EC São Bernardo Sub-20 x São Paulo U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x Capivariano Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x Uniao Suzano Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Juventud x Atletico Torque",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-11",
-      "time": "11:00",
-      "competition": "Brasileirão Série C",
-      "match": "Caxias x Floresta",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-11",
@@ -79,7 +29,7 @@
       "match": "Benfica x Flamengo",
       "channels": [
         "BAND",
-        "SPORTV",
+        "SPORTV 2",
         "PREMIERE",
         "GE TV"
       ]
@@ -92,6 +42,16 @@
       "match": "Portuguesa x Marcílio Dias",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Sevilla x Juventud Torremolinos",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -129,7 +89,7 @@
       "date": "2026-07-11",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Crown Legacy x New York City II",
+      "match": "Houston Dynamo FC II x St. Louis City II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -139,7 +99,7 @@
       "date": "2026-07-11",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Houston Dynamo FC II x St. Louis City II",
+      "match": "Crown Legacy x New York City II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -169,7 +129,7 @@
       "date": "2026-07-11",
       "time": "23:00",
       "competition": "MLS Next Pro",
-      "match": "Real Monarchs x Whitecaps II",
+      "match": "Los Angeles II x Portland Timbers II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -179,7 +139,7 @@
       "date": "2026-07-11",
       "time": "23:00",
       "competition": "MLS Next Pro",
-      "match": "Los Angeles II x Portland Timbers II",
+      "match": "Real Monarchs x Whitecaps II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -192,6 +152,56 @@
       "match": "Feyenoord x Club Brugge KV",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Juventud x Atletico Torque",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x Uniao Suzano Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x Capivariano Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "EC São Bernardo Sub-20 x São Paulo U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-11",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Caxias x Floresta",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -258,12 +268,21 @@
     {
       "sport": "futebol",
       "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Cascavel x Corinthians",
+      "time": "15:30",
+      "competition": "Brasileirão Série D",
+      "match": "São Luiz x Velo Clube",
       "channels": [
-        "SPORTV",
-        "PREMIERE 4"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Manauara x Goiatuba EC",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -275,17 +294,19 @@
       "channels": [
         "BAND",
         "SPORTV 2",
-        "PREMIERE FC"
+        "PREMIERE FC",
+        "GE TV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-12",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Manauara x Goiatuba EC",
+      "competition": "Amistosos",
+      "match": "Cascavel x Corinthians",
       "channels": [
-        "YOUTUBE"
+        "SPORTV",
+        "PREMIERE 4"
       ]
     },
     {
@@ -323,7 +344,7 @@
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série D",
-      "match": "ABC x Águia de Marabá",
+      "match": "Uberlandia x Serra Branca",
       "channels": [
         "YOUTUBE"
       ]
@@ -375,6 +396,16 @@
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Cuiabá",
+      "channels": [
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
       "match": "Avai x Náutico",
       "channels": [
         "REDETV!",
@@ -387,7 +418,7 @@
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série D",
-      "match": "Uberlandia x Serra Branca",
+      "match": "ABC x Águia de Marabá",
       "channels": [
         "YOUTUBE"
       ]
@@ -461,7 +492,8 @@
       "competition": "NWSL Feminina",
       "match": "OL Reign (F) x Portland Thorns (F)",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -502,6 +534,7 @@
       "match": "CRB x Goiás",
       "channels": [
         "XSPORTS",
+        "ESPN",
         "SPORTYNET",
         "DISNEY+"
       ]
@@ -545,16 +578,6 @@
       "match": "Austin II x Minnesota United II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-11",
-      "time": "11:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bulgária x França",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -756,6 +779,16 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-11",
+      "time": "11:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bulgária x França",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -783,29 +816,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
-      "data": "10/07 07:01"
-    },
-    {
       "titulo": "Fluminense: Millán e Riquelme atuaram em dois jogos no mesmo dia - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2hPV3Qtbk8zeV9uQXFrUUQzaXltNy1PcE5lSGJlRzZkVnZqajZZRkxyT2ZobHM0TC1CdF9pNmtvelJROE54RGVKX2ZXQmZSaV9GeDlYa3Q0cnFIY1FTTl9Mb0RYdE9qR2tnQmRReldGcUVJd19ob3JGV0hPdkpURm00UGUzWTV3RVVlbloydnZkdDVLMjV2dUtpaUxibUNvSXlUUjRQVQ?oc=5",
       "data": "10/07 18:36"
     },
     {
-      "titulo": "Ex-Santos e Fluminense troca de clube na MLS em transação milionária - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1dWRUw4ZHVHdXRKMkZMcEEwcEhEQUVOcnFCcTVwRkpLZ2NFcFE2eGpOa3M1ck44d2JaaVVIeHduX0w1RW82SzI2U3FqRTFIOXRCQnBtSV9mUEtYSkNLbGttdEpZY3NQTDJqeThhdGVKR2RJMGNVajNFS3p6UF9fWnZ2SGlrME5hQVN5X2FYYS1WczVLUW1XOVpFOWYyajVUcUU5UGhPU2EtMmxsTVczRkNvcC1xX0NmQURmSk5qVFpZTnd6Zkhia21BQWc1QdIB0wFBVV95cUxOMV9FX2M5Rl9fT2pCaVhfa29teWdHX2VtNzFzUzQ4UEc3b3UtV0lSaUJoNVhRcC1pOEJGcUtYNzNHVlFGanRKU2xudVpYNlhlN1BUalk4QURDazh0c3BJUWV5SUY5QlhhUzROX3JpLUtIVElEM3E0d09RVVRkbGpaUV9pSjVEa2Z5YUlyOTJ6cldfNThyOW92aVMyMzFTN0NYYW0wNnZzWjhSRmx4b0NLVDY5RmVLOWs5T1RoQmZUTFMtX3paRzJISXpzMTNHQTdLMVFJ?oc=5",
-      "data": "11/07 13:15"
+      "titulo": "Morre Jayden Adams, que disputou a Copa do Mundo pela África do Sul e encarou Fluminense no Mundial de Clubes - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdzlyY2lHalpYdFhPQW9ucHdiWVZwbnhXbWlmUlktU2lyREhfdkpqUm1Ia0NCcGFIUVo0ZDVZLUZIa2d0Q2xUM3diTE5CQjcwWEgyUWh2dFVnemhvcHZ2MEN2bWZiWFJqRmpmRmQ0R3BETnlVaTlGblJsbG50R3l2T2o2OWhkLU9XekpqOVdSODJTenViS054Y0U1UzJIYTk3RG1YZGVWM0RwNnpZNnMzMGl2eU9FZ0o4WTRyZzJOYkVRZlQ0U1lOMnhwY0lsaF9wNHZhbkd4bF9Ud25Mc2c?oc=5",
+      "data": "11/07 14:12"
     },
     {
-      "titulo": "CBF vai testar novidade em Fluminense x Bahia; entenda - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU8zd2dXQ1dWblZnU3BIbUdDbGFIWlBrb3ZfdVNlVXV3YkJ4RUk3T3BLdXRINE9ldTczQjlXRnhoRFdVLU9ERE9heFQta3NCVlFDU25fLTNnX2Jtby1PdHNEeUdESGRKRThKYUdLY3JrSktoTkh6M291TElBbGhFVV9ZdTZ1dnc?oc=5",
-      "data": "11/07 13:30"
+      "titulo": "Fluminense x Bahia: onde assistir, escalações e arbitragem - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ1hKUGdUTGVQUkdYMW93ODRIWjRYR2tpd0Q1VmR5UXlZa1hYN010dlZZMkxEZ192UmJkLTlnTzBmTGhUR1RpallMcHhtZjl6TWtSY1ZoWEg0dTFtVlp5RURJQS1TMkhLYkR6NGtLZS1jZzBYbmpyQkVNNFBsNG9YazBsY2dLRGUtQjVYTHNZemJ2UHdpOHpvNFNYNHh4YnpIQzVjOXViOVlxM3FMaXJ6cC0ycHptTmVUWEppMzF4Z0NTTlpHTGJzLTBHVEtwZmhpeHd5T3Y0UjVJbEtTMmNlcHQ3R0FlZ9IB5gFBVV95cUxNQ1hKUGdUTGVQUkdYMW93ODRIWjRYR2tpd0Q1VmR5UXlZa1hYN010dlZZMkxEZ192UmJkLTlnTzBmTGhUR1RpallMcHhtZjl6TWtSY1ZoWEg0dTFtVlp5RURJQS1TMkhLYkR6NGtLZS1jZzBYbmpyQkVNNFBsNG9YazBsY2dLRGUtQjVYTHNZemJ2UHdpOHpvNFNYNHh4YnpIQzVjOXViOVlxM3FMaXJ6cC0ycHptTmVUWEppMzF4Z0NTTlpHTGJzLTBHVEtwZmhpeHd5T3Y0UjVJbEtTMmNlcHQ3R0FlZw?oc=5",
+      "data": "11/07 15:19"
     },
     {
-      "titulo": "Flu fica com vice-campeonato carioca Sub-15 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFNiNUY1dWZKREN1MmhJbjZVYzF6dXVTblJTRmwyWVZ0LXM0eWVXYXZFdm1VQ0Vtc29uMDhiU0ZkaVBXMk5fRDZvNUgyV0liaF9EVDRDRHdmLS1FcXVObHRURGpfQmx2WVJuVnd4ZmFSTW9FcjByZ0VYei1ReUl5czN4N3IzTndQ?oc=5",
-      "data": "11/07 14:10"
+      "titulo": "Presidente do Fluminense detalha funções de Mário Bittencourt no clube - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlpDVHd4d0RNQWd0bDAxaW03NURGR3FPT0dMVXB6cTMycHlNbjctVnIzak5pSGVsX2dVRmNiTkFnVkNYc3lDUjExcTB5MHRrTVhVTmRuUnU5dUJTbm4wLVhabTMyd2xQeGM2WEtQbWFmTXdUcHNPYmVrSU5TZFlJZXRkSnZyUzkyUjR0WUtOTUlDcnhDU3JwS0IxLXJZdw?oc=5",
+      "data": "11/07 14:30"
+    },
+    {
+      "titulo": "Conheça Ruan Sales, joia que se destacou contra Nova Iguaçu e é observada por Zubeldía no Fluminense - GE",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM3pDLTJRV3BkYmEtdnZMaUxiT18wbUZycFYyYjlTcEx4QU1oRGx2aHBkX0xYTnRBMkY1em1YUVluUkh2alVnRnlLTnA1eUhBMktRbFhhWHl1N1lqQjdfekxSMFZJTkNhZ01hdXRTUWJfbjk5NjdMQ1hlRG9wcDYzQk1rV2ttWi1udWhyaVJUcU5xYlUzOGp0OUN1NDRZY21XNnJOSzRGTGIxVG9DVzV4dkQtc2NEVWtyb09oUmpuX0VwSG1rYmdHVm42Sms0NW1QX29TMndiUTU2MU0ydHZrTHlKZlRYMlo1dVo1dXIxSXBNSEl6Q1NGcFJtRlFCckHSAY4CQVVfeXFMTWJpYWg1eTJKY0pTQUZkN0RaT3dxM184Z3hGdVVDQXYtWkhOaWxqN1Q2elVFTHZYTVRNQk0xVlRXNEhGS1Y1TTVFaUlMcWlybWZBWF8xTHMzU3VHbEY5RDVMNnhGcWlZRlRsWmZPX0YtbmhDd1ZKd3huUDdTMlVLamREd0tfU0hycVRwVnQ5ZUZwN1MzNXhpeW1SREZsLWxYSW1oSGVWQmk1ZFhpSUR2NEdIcU0yOWNLLU45eDliMkR4T3V1Uk9Pa3FfVUJMT1Z5R1FjTERKMFVKNnl6WGp3a2lBSTc1eTB2U05ia2pkTjFSVXRaN0E4MGkyeUM3S1BzWmNpcXh5b1lJZ2hSTXBB?oc=5",
+      "data": "10/07 07:01"
     }
   ],
   "avisos": []
