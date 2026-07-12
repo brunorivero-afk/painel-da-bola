@@ -1,6 +1,163 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/07/2026 16:57",
+  "atualizado_em": "12/07/2026 19:33",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Amistosos",
+      "match": "Grêmio x Cruzeiro",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "Carolina Core x Chattanooga",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Fortaleza",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Penãrol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "Connecticut FC x Toronto II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "FC Cincinnati II x Orlando City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Goiás",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Confiança",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "21:30",
+      "competition": "MLS Next Pro",
+      "match": "Austin II x Minnesota United II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Portuguesa Sub-20 x Corinthians Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Novorizontino",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Amazonas",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Barra x Santa Cruz",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "12:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Cerro",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Central Espanol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-07-12",
@@ -16,10 +173,87 @@ window.PAINEL_DATA = {
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série C",
+      "match": "Anápolis x Maringá",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Náutico",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Cuiabá",
+      "channels": [
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
       "match": "Paysandu x Guarani",
       "channels": [
         "BAND",
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ituano x Ferroviária",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Fluminense x Bahia",
+      "channels": [
+        "BAND",
+        "SPORTV 2",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Cascavel x Corinthians",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Manauara x Goiatuba EC",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -77,96 +311,9 @@ window.PAINEL_DATA = {
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série C",
-      "match": "Anápolis x Maringá",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
       "match": "Maranhão x Ypiranga-RS",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ituano x Ferroviária",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Cuiabá",
-      "channels": [
-        "PREMIERE 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Náutico",
-      "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Manauara x Goiatuba EC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Cascavel x Corinthians",
-      "channels": [
-        "SPORTV",
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Fluminense x Bahia",
-      "channels": [
-        "BAND",
-        "SPORTV 2",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Ferroviário x Imperatriz",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -188,6 +335,16 @@ window.PAINEL_DATA = {
       "match": "Chicago FC United x New York RB II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Ferroviário x Imperatriz",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -218,163 +375,6 @@ window.PAINEL_DATA = {
       "match": "ASA x Ivinhema",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "17:00",
-      "competition": "Amistosos",
-      "match": "Grêmio x Cruzeiro",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Fortaleza",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "Carolina Core x Chattanooga",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "19:00",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x Goiás",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "FC Cincinnati II x Orlando City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Connecticut FC x Toronto II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Confiança",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "21:30",
-      "competition": "MLS Next Pro",
-      "match": "Austin II x Minnesota United II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Portuguesa Sub-20 x Corinthians Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "11:00",
-      "competition": "Brasileirão Série C",
-      "match": "Barra x Santa Cruz",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "11:00",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Amazonas",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Novorizontino",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "12:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Cerro",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Central Espanol",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -661,7 +661,7 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 27.5,
       "temp_min": 18.6,
-      "chance_chuva": 37,
+      "chance_chuva": 33,
       "condicao": "Garoa fraca"
     },
     {
@@ -674,29 +674,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bahia: onde assistir, horário e escalações do amistoso no Maracanã - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDBELWJpV1QxTE5xRy1JOXdnV2VfSF9lNkM0REkwYXdLYWdGRGF4dFdXU3BOLWVPeUhuRkhXbGpTamRpMTh4NUVDYjEzSVpmMk1MSkxKU2luR2pzaFEwUWZoWkFlZ1EtbmFCN3RzQXpRMkVFcFZHWjEyaUg1Q2F3MHZiNUhuX2NJWWlTWVZoRk04dW9KR0dlOVZlMnV3c240b1dUbFFDYw?oc=5",
-      "data": "12/07 10:00"
+      "titulo": "Hulk desencanta em volta de Thiago Silva, e Flu bate Bahia em amistoso - UOL",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlY5cXR0S0M1VXd0MkFRYnN3aEYxaXgycFViNGpMTElCdlpBS2F1ZFB5cU41NW5FWlZrUU1weTZGbWhhRmM0ZDQzSFVxWnhTdTZCUEE0b0FwM0hpMGJNWFBKdWk3WVgxTmhRS21qUHoxQUJpbm90R0tYWkFDZFlTY2RJS2pqN2pvNGItVzhPbF96bGRsb3pFRURIdWhNVXRr?oc=5",
+      "data": "12/07 21:15"
     },
     {
-      "titulo": "Futebol na TV: Corinthians, Fluminense e Cruzeiro agitam o dia - iG Esportes",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN0JIa29Jd190cy1NY29RcU5tSDQ3c1dHYnhrQVRjbnR1TEJyN0J6QlFUUDY4MDBTb2JPLUxpS3hLT2RneGNKRW11NG1RVnFXanQyTnpiTGZQSmpyQ0J6Skc2cmtleG1jMFlmWlVZMVhDbzBoNk9BNDYtNmNGaXFHMXpZbEpqUkozU2ZnZllQUkJEU0dPU2R1V1pCY3VINm4zSl9keEY5RjRyQ3ZfclQ5Qnp5Zjk5dTVEVjA4UVNXRFZ2TU9xX2xwNEJmUWR2SVBwSmpmNUV2MnZkTFpHUjVNQlRGVDh5d9IB6wFBVV95cUxPWTBCMDktcWs2Wm9RNlRkN1VlWFlWd1hYY21vUTdiTnlyeEZRU3RHLWNfVDlzQ1R4aEJfUHczbTdTYTF3cXVLbHRfUS01RjBpT3huSmhqZjlMaGYwQm0tWVgzNEt2X05EMTNibXFiMHdsLTdYX1NSM1NiM2Ywb0dwa045SGVxYURWcjBEWURseTlURzFfU1BBaW9IeHk2d0dBSUgxRlpWdmxnT3E5d0ZtUnNmN3RaX3VmcXlKaTFEcC1jU1d5d2lqLVd3UlV6bVpGTDh3SGNxbmdOOE9oaVZNSGt6UmZuZTl3NEhv?oc=5",
-      "data": "12/07 14:25"
+      "titulo": "Jogos de hoje: quem joga no futebol e onde assistir ao vivo – domingo (12/07/2026) - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZMVzAzMDVqVmVCMFJEb01iOHhMVDI1WU1zVk1NZWJnX2FaeWVKeVVmd24zYWNKSVgxVG5CUFBFM0gtTmZHU0lxQzIxaU9NRUF5eUk1ZFNsbndhTXJjQXpFYmthdHo5bVA3eUpxN1gwREhVRHlDMk1wR282STVxZ05ESC1vUnAyM0ZYb0EwcGwtSWlmVHhrWUVpQS1ZV0tMUEpwbFFBUGJ0WGN4QVNVNzZrbXhiTXZFc2I1dnhn?oc=5",
+      "data": "12/07 10:30"
     },
     {
-      "titulo": "Fluminense define escalação com Millán titular e Thiago Silva no banco - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXlIN3p1eXV2RTcwUXI3SDUwN3FaZWxxOVR0ZWw5d3pFN1BHbERqcDU2cVF0S1VZd0hxd3BZNlM2WHM5WG9ZNEFfOUprenBUQUluTWpKdGE1czhIdGl3QkJhWi1yNEl1N2k2NEs4OXhpb0oyNGZyNzVwV2JhaFNuc0RxLTcxVGhnQVJyNWFISzMyUTNYVTJUUF9tZGZlRUY1VDBRWWt3bVdkOHdwem5jYQ?oc=5",
-      "data": "12/07 18:04"
+      "titulo": "O Bahia foi derrotado pelo Fluminense por 2 a 0, neste domingo (12), em amistoso realizado no Maracanã, no Rio de Janeiro. Os gols da partida foram marcados por Hulk e Germán Cano. A partida marcou o 18º confronto amistoso entre Bahia e Fluminense. - instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhYndoelFEcTRiMVBjdUxwMDMtci1JRUN5VGhJckpDR3dJVW51Zk12aVlxYjgtd3hNd1B5V3pMQW8xZ1NTUm9lcEFaVEU3c2sxdFE?oc=5",
+      "data": "12/07 20:59"
     },
     {
-      "titulo": "Em noite de estreia do Hulk, Fluminense vence amistoso contra o Nova Iguaçu no Maracanã - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTk1ETEdWbWlxcGxDZkEwZ3E3U1NHMC11dGJsVTBBRmdHVGs4VmNVMm55NktSNnpSdXhRSHBPQi1iZTR6Uzk3aXZ6a2t0eEtHSTB5M0ZVZEpSeVlsaXJnNGNieGphcWNqa0Iya0VjVWpwNDktVm1PM28yMXRwTDBKNi0yeTE2S09xODV6dmVSZmliSzFRS0hrZkxwQWFlX3pSZ3VBelE0U0dqVTZuV2I2SENZZ25wOS1kQTNEbHdHeGZoQQ?oc=5",
-      "data": "09/07 01:41"
+      "titulo": "Thiago Silva diz entender torcida do Fluminense: \"Também ficaria muito triste com a saída de um ídolo\" - GE",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYmhLY0FmU0NJREVUWXdDOU5WcXpXV0xCeElVcHdrZ1kxUGNpQ1plSkV0YndwR19wQ0VTUUtpU09RSGhaMUFmbm1iQWQ1R3liNVB3QzgzVktyLVJfYTNsR2ZkbDkzS2taYjFxVEotWm5TSXVJRHRjakxIOUJ2TF9vZ1hIM3l2cFJ3THVaVVVaS05Bc1NrR0YyeVdCT2NXcllGN09aWWRKWlE0YzI2VHkwWnlibW1GTjlzUUkyX1NHbGFHWXotVUI4R0hEY2d1amlXc3RzY1JqM0RrOTZPbXlkRUtNZHZsWUdHcF90dUtTSkU1dnhnd0xEMjFSNnNTZ1HSAY4CQVVfeXFMUEUwQm1UTUJSTG1SVkVmOHU5cGNWSmt6SGZ1d1k0OEkwem1QTFRGMnNpcUNHeXU3U09DLV9GT0lFS21WQm5yR01LX1AzRHhxR1JqcENrT3BaTVN6cVhXbm5IalNNY0JBeUozQnc1RGZETS1pdmVxVG11Z2VraFFTdXZSR2dRNk1HN0NrcGhqWDhxelFMTEwwTDd3NElLSkw0TGE4ZjlZbVRtMVBBdC1yTF8wUEcwMlUtZVJick5DNS1sa3pNVXh3cFp3QklLcEI3Q25RamdYOTdpRVl2TzdXMUhadGFkdHRQR0UzUm5BUXppZEk3d2NoR01wY3ZfTHl5ekxaUEZNMTVqeDdMSHFR?oc=5",
+      "data": "12/07 21:32"
     },
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações do amistoso - 365Scores",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGdlLU5QYTAweVNyNXhTc0Y1VDVuWUgwUEpsRXVmZXYwSkVsM09WYzNCcU42d2hORXppVG5RZWVEZFh2MVJ6ZVV6Rm5idkV3RVdGN0dHejh4YU1EX1gwNWszLW5jS3hGSGFpT1E4SmRlNWpIRjc5b014RDY3a2x1Z1d4T1R5THoteW81Sk12Z1VhQ242cU1yUGtIeExUZw?oc=5",
-      "data": "12/07 17:18"
+      "titulo": "Feira FC e Fluminense empatam sem gols e deixam decisão do acesso para o Joia da Princesa - Folha do Estado da Bahia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1cyODNQN1UtQkNrVTlzZmt4UmVURGY1ZFlBZHpheXFCRHA3WEF3RmJORHhMeDBVeTJpUnZUMU5sbHFNSHl3X2pmNlFsb3JkSzRlNGhRUVluR3V3UGduaUJXNk1KTGRnSS1EbE1Va1RfLUZDZ1RDZkRqZ19ELW9DZXlmVUYyWTc1aTl5bTdwY3Y1WXVnaUR5dUdsNzhqZzlYaDlWVk9SM18yMDltZmZNRW1HYnlVajdqcGZaNWxzdmlkRmdmNExYelg5ak9uYzFH?oc=5",
+      "data": "12/07 19:58"
     }
   ],
   "avisos": []
