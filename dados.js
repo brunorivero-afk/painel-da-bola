@@ -1,56 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/07/2026 12:39",
+  "atualizado_em": "12/07/2026 16:57",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Novorizontino",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "11:00",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Amazonas",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "11:00",
-      "competition": "Brasileirão Série C",
-      "match": "Barra x Santa Cruz",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "12:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Cerro",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Central Espanol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-12",
@@ -65,34 +15,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-12",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Manauara x Goiatuba EC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Fluminense x Bahia",
+      "competition": "Brasileirão Série C",
+      "match": "Paysandu x Guarani",
       "channels": [
         "BAND",
-        "SPORTV 2",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Cascavel x Corinthians",
-      "channels": [
-        "SPORTV",
-        "PREMIERE 4"
+        "SPORTYNET"
       ]
     },
     {
@@ -139,6 +66,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-12",
       "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "ABC x Águia de Marabá",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
       "competition": "Brasileirão Série C",
       "match": "Anápolis x Maringá",
       "channels": [
@@ -170,17 +107,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-12",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Paysandu x Guarani",
-      "channels": [
-        "BAND",
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "16:00",
       "competition": "Brasileirão Série B",
       "match": "São Bernardo x Cuiabá",
       "channels": [
@@ -204,9 +130,64 @@ window.PAINEL_DATA = {
       "date": "2026-07-12",
       "time": "16:00",
       "competition": "Brasileirão Série D",
-      "match": "ABC x Águia de Marabá",
+      "match": "Manauara x Goiatuba EC",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Cascavel x Corinthians",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Fluminense x Bahia",
+      "channels": [
+        "BAND",
+        "SPORTV 2",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Ferroviário x Imperatriz",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "NWSL Feminina",
+      "match": "OL Reign (F) x Portland Thorns (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x New York RB II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -215,28 +196,6 @@ window.PAINEL_DATA = {
       "time": "17:00",
       "competition": "Brasileirão Série D",
       "match": "Treze x CRAC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "17:00",
-      "competition": "Amistosos",
-      "match": "Grêmio x Cruzeiro",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Ivinhema",
       "channels": [
         "YOUTUBE"
       ]
@@ -256,7 +215,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-12",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "Ferroviário x Imperatriz",
+      "match": "ASA x Ivinhema",
       "channels": [
         "YOUTUBE"
       ]
@@ -265,21 +224,12 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-12",
       "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Chicago FC United x New York RB II",
+      "competition": "Amistosos",
+      "match": "Grêmio x Cruzeiro",
       "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "17:00",
-      "competition": "NWSL Feminina",
-      "match": "OL Reign (F) x Portland Thorns (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "YOUTUBE",
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -379,6 +329,56 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Barra x Santa Cruz",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Amazonas",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Novorizontino",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "12:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Cerro",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Central Espanol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-07-13",
       "time": "19:00",
       "competition": "Brasileirão Série B",
@@ -436,16 +436,6 @@ window.PAINEL_DATA = {
       "match": "Figueirense x Volta Redonda",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-12",
-      "time": "11:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bulgária x Alemanha",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -647,19 +637,29 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-12",
+      "time": "11:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bulgária x Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.4,
+      "temp_max": 28.7,
       "temp_min": 20.3,
       "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.4,
+      "temp_max": 27.5,
       "temp_min": 18.6,
       "chance_chuva": 37,
       "condicao": "Garoa fraca"
@@ -667,36 +667,36 @@ window.PAINEL_DATA = {
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 24.0,
-      "temp_min": 14.9,
+      "temp_min": 14.7,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense: Millán e Riquelme atuaram em dois jogos no mesmo dia - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2hPV3Qtbk8zeV9uQXFrUUQzaXltNy1PcE5lSGJlRzZkVnZqajZZRkxyT2ZobHM0TC1CdF9pNmtvelJROE54RGVKX2ZXQmZSaV9GeDlYa3Q0cnFIY1FTTl9Mb0RYdE9qR2tnQmRReldGcUVJd19ob3JGV0hPdkpURm00UGUzWTV3RVVlbloydnZkdDVLMjV2dUtpaUxibUNvSXlUUjRQVQ?oc=5",
-      "data": "10/07 18:36"
-    },
-    {
       "titulo": "Fluminense x Bahia: onde assistir, horário e escalações do amistoso no Maracanã - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDBELWJpV1QxTE5xRy1JOXdnV2VfSF9lNkM0REkwYXdLYWdGRGF4dFdXU3BOLWVPeUhuRkhXbGpTamRpMTh4NUVDYjEzSVpmMk1MSkxKU2luR2pzaFEwUWZoWkFlZ1EtbmFCN3RzQXpRMkVFcFZHWjEyaUg1Q2F3MHZiNUhuX2NJWWlTWVZoRk04dW9KR0dlOVZlMnV3c240b1dUbFFDYw?oc=5",
       "data": "12/07 10:00"
     },
     {
-      "titulo": "Fluminense x Bahia: Escale o Fluzão ideal para o amistoso deste domingo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXllR0xWOXJhN1Z1MEFLOGtiQlM4RzhfWFNrSTljNGxJQW12ZzJpQmpQMzFnb3c3OEhld2lWY0EzSkx0OGJ1US1UdWZsanVOci1ZdGZ3ck94TE5adFpVdmcxZnBxcXdQVms3TEp1eDJsZFNaRzRuYXRGVFNmdG1TMDQzZTZOck1ud0dyNThoT2dlN2hHZHRRU2FCMUtlZw?oc=5",
-      "data": "12/07 01:49"
+      "titulo": "Futebol na TV: Corinthians, Fluminense e Cruzeiro agitam o dia - iG Esportes",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQN0JIa29Jd190cy1NY29RcU5tSDQ3c1dHYnhrQVRjbnR1TEJyN0J6QlFUUDY4MDBTb2JPLUxpS3hLT2RneGNKRW11NG1RVnFXanQyTnpiTGZQSmpyQ0J6Skc2cmtleG1jMFlmWlVZMVhDbzBoNk9BNDYtNmNGaXFHMXpZbEpqUkozU2ZnZllQUkJEU0dPU2R1V1pCY3VINm4zSl9keEY5RjRyQ3ZfclQ5Qnp5Zjk5dTVEVjA4UVNXRFZ2TU9xX2xwNEJmUWR2SVBwSmpmNUV2MnZkTFpHUjVNQlRGVDh5d9IB6wFBVV95cUxPWTBCMDktcWs2Wm9RNlRkN1VlWFlWd1hYY21vUTdiTnlyeEZRU3RHLWNfVDlzQ1R4aEJfUHczbTdTYTF3cXVLbHRfUS01RjBpT3huSmhqZjlMaGYwQm0tWVgzNEt2X05EMTNibXFiMHdsLTdYX1NSM1NiM2Ywb0dwa045SGVxYURWcjBEWURseTlURzFfU1BBaW9IeHk2d0dBSUgxRlpWdmxnT3E5d0ZtUnNmN3RaX3VmcXlKaTFEcC1jU1d5d2lqLVd3UlV6bVpGTDh3SGNxbmdOOE9oaVZNSGt6UmZuZTl3NEhv?oc=5",
+      "data": "12/07 14:25"
     },
     {
-      "titulo": "Thiago Silva, Hulk de novo e dúvidas: o que observar no último teste do Fluminense antes da volta aos jogos - ge",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcVBSVmR1aHlhT3NyTmNvZWNvT24yMlUxWEgwNWVreFlkZmMwUkFaS0RIU1VJWFJGOFRsdkFaQm1WVkx1NmVzQjdzb0RvSTBlby1rUy05enZUYWhiaTV2eWFCTDlnWHlDNlJWT19wZDlYRy0tQTZDRVhIYndNUnJxdHROc0hQcHlYZHdhWWhLRWJodW1CelMtUjAwanRNY3NQX2pJcUNjV3pTY2k2VXVjVWZqWWlxWmdsLU02ci1tbGRaSGZIVXg1VkN3QjJBUmo1YXFBMXpCRk1icURKcllnaDZ6RXYxWklTcl9RYVl5LXhDVkdia0gyczFXelV1SGRrN0RpREh2UdIBlgJBVV95cUxPeGV2RmNzaVExV2txcXQzVVdoQ09EaE05YndXdnkxd3IxWHhfTks2M0ltYWtEb0xQcXpoWG5vM3VJemJPb3lsTkd6YlNBS0NKNU1Bdk5LMnFLOTRla2t2Sk5BUlAydEFheFhXdjR2ZkFqZ2xtT0dJTG90NERxc3VCdnk5ZVJmMEdhaDRCN0FjaHJCN0lQWmJoRzFPZk50ZlRmUlBCWE1PeFZvWjNNZi1XdGZtbGtibC1XWVN1eHYxZkUtQ0pqMDJIRzBISlBmRE91ZnZBRm9HWUtIRTlmeWYzZ3dFNDlUWUl2YjBuMEc1S05FdHJHcWk4aFROQTBFZWp0cTdMbDhxZlJKZXRhcGVUYXVyYno1Zw?oc=5",
-      "data": "12/07 11:00"
+      "titulo": "Fluminense define escalação com Millán titular e Thiago Silva no banco - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXlIN3p1eXV2RTcwUXI3SDUwN3FaZWxxOVR0ZWw5d3pFN1BHbERqcDU2cVF0S1VZd0hxd3BZNlM2WHM5WG9ZNEFfOUprenBUQUluTWpKdGE1czhIdGl3QkJhWi1yNEl1N2k2NEs4OXhpb0oyNGZyNzVwV2JhaFNuc0RxLTcxVGhnQVJyNWFISzMyUTNYVTJUUF9tZGZlRUY1VDBRWWt3bVdkOHdwem5jYQ?oc=5",
+      "data": "12/07 18:04"
     },
     {
-      "titulo": "Ex-Santos e Fluminense troca de clube na MLS em transação milionária - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1dWRUw4ZHVHdXRKMkZMcEEwcEhEQUVOcnFCcTVwRkpLZ2NFcFE2eGpOa3M1ck44d2JaaVVIeHduX0w1RW82SzI2U3FqRTFIOXRCQnBtSV9mUEtYSkNLbGttdEpZY3NQTDJqeThhdGVKR2RJMGNVajNFS3p6UF9fWnZ2SGlrME5hQVN5X2FYYS1WczVLUW1XOVpFOWYyajVUcUU5UGhPU2EtMmxsTVczRkNvcC1xX0NmQURmSk5qVFpZTnd6Zkhia21BQWc1QdIB0wFBVV95cUxOMV9FX2M5Rl9fT2pCaVhfa29teWdHX2VtNzFzUzQ4UEc3b3UtV0lSaUJoNVhRcC1pOEJGcUtYNzNHVlFGanRKU2xudVpYNlhlN1BUalk4QURDazh0c3BJUWV5SUY5QlhhUzROX3JpLUtIVElEM3E0d09RVVRkbGpaUV9pSjVEa2Z5YUlyOTJ6cldfNThyOW92aVMyMzFTN0NYYW0wNnZzWjhSRmx4b0NLVDY5RmVLOWs5T1RoQmZUTFMtX3paRzJISXpzMTNHQTdLMVFJ?oc=5",
-      "data": "11/07 13:15"
+      "titulo": "Em noite de estreia do Hulk, Fluminense vence amistoso contra o Nova Iguaçu no Maracanã - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTk1ETEdWbWlxcGxDZkEwZ3E3U1NHMC11dGJsVTBBRmdHVGs4VmNVMm55NktSNnpSdXhRSHBPQi1iZTR6Uzk3aXZ6a2t0eEtHSTB5M0ZVZEpSeVlsaXJnNGNieGphcWNqa0Iya0VjVWpwNDktVm1PM28yMXRwTDBKNi0yeTE2S09xODV6dmVSZmliSzFRS0hrZkxwQWFlX3pSZ3VBelE0U0dqVTZuV2I2SENZZ25wOS1kQTNEbHdHeGZoQQ?oc=5",
+      "data": "09/07 01:41"
+    },
+    {
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações do amistoso - 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGdlLU5QYTAweVNyNXhTc0Y1VDVuWUgwUEpsRXVmZXYwSkVsM09WYzNCcU42d2hORXppVG5RZWVEZFh2MVJ6ZVV6Rm5idkV3RVdGN0dHejh4YU1EX1gwNWszLW5jS3hGSGFpT1E4SmRlNWpIRjc5b014RDY3a2x1Z1d4T1R5THoteW81Sk12Z1VhQ242cU1yUGtIeExUZw?oc=5",
+      "data": "12/07 17:18"
     }
   ],
   "avisos": []
