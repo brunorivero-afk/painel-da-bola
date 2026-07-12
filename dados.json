@@ -1,17 +1,6 @@
 {
-  "atualizado_em": "12/07/2026 08:44",
+  "atualizado_em": "12/07/2026 12:39",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-12",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Portuguesa Sub-20 x Corinthians Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-12",
@@ -225,7 +214,7 @@
       "date": "2026-07-12",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "Capital Brasilia x Nacional AM",
+      "match": "Treze x CRAC",
       "channels": [
         "YOUTUBE"
       ]
@@ -257,7 +246,7 @@
       "date": "2026-07-12",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "Treze x CRAC",
+      "match": "Capital Brasilia x Nacional AM",
       "channels": [
         "YOUTUBE"
       ]
@@ -379,6 +368,17 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-07-12",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Portuguesa Sub-20 x Corinthians Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-07-13",
       "time": "19:00",
       "competition": "Brasileirão Série B",
@@ -436,16 +436,6 @@
       "match": "Figueirense x Volta Redonda",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-12",
-      "time": "07:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "França x Tchéquia",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -647,27 +637,37 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-12",
+      "time": "07:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "França x Tchéquia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.3,
-      "temp_min": 20.1,
-      "chance_chuva": 39,
+      "temp_max": 28.4,
+      "temp_min": 20.3,
+      "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.4,
+      "temp_max": 27.4,
       "temp_min": 18.6,
-      "chance_chuva": 21,
+      "chance_chuva": 37,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.9,
-      "temp_min": 14.8,
+      "temp_max": 24.0,
+      "temp_min": 14.9,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
@@ -679,24 +679,24 @@
       "data": "10/07 18:36"
     },
     {
-      "titulo": "Jogos de hoje: quem joga no futebol e onde assistir ao vivo – domingo (12/07/2026) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjZMVzAzMDVqVmVCMFJEb01iOHhMVDI1WU1zVk1NZWJnX2FaeWVKeVVmd24zYWNKSVgxVG5CUFBFM0gtTmZHU0lxQzIxaU9NRUF5eUk1ZFNsbndhTXJjQXpFYmthdHo5bVA3eUpxN1gwREhVRHlDMk1wR282STVxZ05ESC1vUnAyM0ZYb0EwcGwtSWlmVHhrWUVpQS1ZV0tMUEpwbFFBUGJ0WGN4QVNVNzZrbXhiTXZFc2I1dnhn?oc=5",
-      "data": "12/07 10:30"
-    },
-    {
-      "titulo": "Thiago Silva passa em teste e fará reestreia pelo Fluminense em amistoso contra Bahia - ge",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdjdycDFuQktFUVZyeEpDNzEwSjNIWkp1NHU5cjlCQ0FRZUlPU3ptMzliUV82R0xYR0ZvQVNpaWpiSlFRX09LUnVEeDFnT3NtdjZOVmozV1dmT3huMFVTT0RDUWZKR2F2ZFFqN1NqUjhXUS0xZk1tNWVOTmI4T2d4eW9DaXVBbnhkNW9aMEFpUlRxendjSXhXNzZ5bjNPNDJhNmJXeXdWS1p2N1lEcW9zVjNPYjFNdndCdXM4VW93OHdWWFljVWF5Vmx4d2htVWpDeDVkYlVsYUJjajlHRXJvZzllWmlLWm12MFN2Z2d1ZV9vbmdpeV9tS3dDNmF2SW5tNGJZZUhR0gGUAkFVX3lxTE9aXzVSemh6Z19VUHFFYVZ1RlBxVTdyeWh2bm5meXp3ZWxqUUFNNzU3Mnl4TFd5Tzh2Vk5tQXlucHR0UWFld1ppT21EVWJJeUdCOFRMQ1EzRlh3aldZOWs3U28yY0NpQU5IZ294UUJtV0huWm5aQWtScWZvWXhET0ktRjJibzFYYi1sSVFGai1Bd2szb3RPRElxWWJMd3p6YVlycVd0QXM2S3VGQmh4cHZfbUM0NGh4d05NVjgzOHB2aHNpWDhkWVc1TjBrTm9yUTJYMVlseUhIelRuT3Vjc0dwSFEweWpfUzBqN1M0ZUlnbVM1bTRKcDVHODZJSkxjLTZjZzBDYnJmQ18wVHZNcG5lVWotSg?oc=5",
-      "data": "11/07 18:08"
-    },
-    {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do amistoso - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdEJxOTdCSTdubnl3Ql9GQm9SdGk4YV9YbU53WG8tYlVMVlVzMHMxWGJrTkhIcWF5VzlCNS1WbkIxTmRnTFhpRmdXSUN0X1I1R1Vjbnd3UHJaQnlDdkQ3UFQtcFFEODdiM3JxWnRJX0lRNm9Ic19MRnFvQ28xSFZkc2wwVWhJVHdhdWpRLXRieVFVTEdZVnRRNy1ad2VxUVBlMGpIQS1TTTc2RjlveXBsNVFDV2M3SkYzZU05T2NQUkVZd0d6LU80SzhZZHpjUDhoZUo4dUpCdDdnZw?oc=5",
-      "data": "10/07 23:24"
-    },
-    {
       "titulo": "Fluminense x Bahia: onde assistir, horário e escalações do amistoso no Maracanã - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcDBELWJpV1QxTE5xRy1JOXdnV2VfSF9lNkM0REkwYXdLYWdGRGF4dFdXU3BOLWVPeUhuRkhXbGpTamRpMTh4NUVDYjEzSVpmMk1MSkxKU2luR2pzaFEwUWZoWkFlZ1EtbmFCN3RzQXpRMkVFcFZHWjEyaUg1Q2F3MHZiNUhuX2NJWWlTWVZoRk04dW9KR0dlOVZlMnV3c240b1dUbFFDYw?oc=5",
       "data": "12/07 10:00"
+    },
+    {
+      "titulo": "Fluminense x Bahia: Escale o Fluzão ideal para o amistoso deste domingo - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXllR0xWOXJhN1Z1MEFLOGtiQlM4RzhfWFNrSTljNGxJQW12ZzJpQmpQMzFnb3c3OEhld2lWY0EzSkx0OGJ1US1UdWZsanVOci1ZdGZ3ck94TE5adFpVdmcxZnBxcXdQVms3TEp1eDJsZFNaRzRuYXRGVFNmdG1TMDQzZTZOck1ud0dyNThoT2dlN2hHZHRRU2FCMUtlZw?oc=5",
+      "data": "12/07 01:49"
+    },
+    {
+      "titulo": "Thiago Silva, Hulk de novo e dúvidas: o que observar no último teste do Fluminense antes da volta aos jogos - ge",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcVBSVmR1aHlhT3NyTmNvZWNvT24yMlUxWEgwNWVreFlkZmMwUkFaS0RIU1VJWFJGOFRsdkFaQm1WVkx1NmVzQjdzb0RvSTBlby1rUy05enZUYWhiaTV2eWFCTDlnWHlDNlJWT19wZDlYRy0tQTZDRVhIYndNUnJxdHROc0hQcHlYZHdhWWhLRWJodW1CelMtUjAwanRNY3NQX2pJcUNjV3pTY2k2VXVjVWZqWWlxWmdsLU02ci1tbGRaSGZIVXg1VkN3QjJBUmo1YXFBMXpCRk1icURKcllnaDZ6RXYxWklTcl9RYVl5LXhDVkdia0gyczFXelV1SGRrN0RpREh2UdIBlgJBVV95cUxPeGV2RmNzaVExV2txcXQzVVdoQ09EaE05YndXdnkxd3IxWHhfTks2M0ltYWtEb0xQcXpoWG5vM3VJemJPb3lsTkd6YlNBS0NKNU1Bdk5LMnFLOTRla2t2Sk5BUlAydEFheFhXdjR2ZkFqZ2xtT0dJTG90NERxc3VCdnk5ZVJmMEdhaDRCN0FjaHJCN0lQWmJoRzFPZk50ZlRmUlBCWE1PeFZvWjNNZi1XdGZtbGtibC1XWVN1eHYxZkUtQ0pqMDJIRzBISlBmRE91ZnZBRm9HWUtIRTlmeWYzZ3dFNDlUWUl2YjBuMEc1S05FdHJHcWk4aFROQTBFZWp0cTdMbDhxZlJKZXRhcGVUYXVyYno1Zw?oc=5",
+      "data": "12/07 11:00"
+    },
+    {
+      "titulo": "Ex-Santos e Fluminense troca de clube na MLS em transação milionária - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa1dWRUw4ZHVHdXRKMkZMcEEwcEhEQUVOcnFCcTVwRkpLZ2NFcFE2eGpOa3M1ck44d2JaaVVIeHduX0w1RW82SzI2U3FqRTFIOXRCQnBtSV9mUEtYSkNLbGttdEpZY3NQTDJqeThhdGVKR2RJMGNVajNFS3p6UF9fWnZ2SGlrME5hQVN5X2FYYS1WczVLUW1XOVpFOWYyajVUcUU5UGhPU2EtMmxsTVczRkNvcC1xX0NmQURmSk5qVFpZTnd6Zkhia21BQWc1QdIB0wFBVV95cUxOMV9FX2M5Rl9fT2pCaVhfa29teWdHX2VtNzFzUzQ4UEc3b3UtV0lSaUJoNVhRcC1pOEJGcUtYNzNHVlFGanRKU2xudVpYNlhlN1BUalk4QURDazh0c3BJUWV5SUY5QlhhUzROX3JpLUtIVElEM3E0d09RVVRkbGpaUV9pSjVEa2Z5YUlyOTJ6cldfNThyOW92aVMyMzFTN0NYYW0wNnZzWjhSRmx4b0NLVDY5RmVLOWs5T1RoQmZUTFMtX3paRzJISXpzMTNHQTdLMVFJ?oc=5",
+      "data": "11/07 13:15"
     }
   ],
   "avisos": []
