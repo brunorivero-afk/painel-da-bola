@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/07/2026 07:42",
+  "atualizado_em": "13/07/2026 15:06",
   "jogos": [
     {
       "sport": "futebol",
@@ -286,23 +286,23 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.3,
-      "temp_min": 18.6,
-      "chance_chuva": 78,
+      "temp_max": 20.5,
+      "temp_min": 18.7,
+      "chance_chuva": 94,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.7,
-      "temp_min": 17.3,
-      "chance_chuva": 78,
+      "temp_max": 21.6,
+      "temp_min": 17.4,
+      "chance_chuva": 88,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.1,
-      "temp_min": 11.6,
-      "chance_chuva": 99,
+      "temp_max": 17.8,
+      "temp_min": 11.7,
+      "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
   ],
@@ -313,24 +313,24 @@ window.PAINEL_DATA = {
       "data": "13/07 00:59"
     },
     {
-      "titulo": "Cano comenta torcida pela Argentina na Copa do Mundo e inspiração para o Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWhsdzM2YWE2dGRyYzlXcDVOUUlwS1NuMkZSQmJ5cG4xUzhONVgyLV8yMEpCZWZMZ2U3TXlvSi1LbGpZUXZkbXp3dGNPZU9EdmpGQWE4MnFKS0VUb1VQbzduRktoNk5WV2tMMWxXNGpTQTZ0dzM4a3BqUFd5bTBPbGcxMmZjTmdYY2h1Ymd1TFlQdW5QQlBWd2tRWU1EMWFCWllRT24tSHZKNmM1NVhpWHNmY1NPSkJYeG9ST1RRX0tNQQ?oc=5",
-      "data": "13/07 08:20"
+      "titulo": "Jornalista revela bastidores sobre Arana após ‘sumiço’ em amistosos do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUtIeGZINjZiWEI4d0p4XzhBeE84aWh3ajIxV1ZiUEQxRHZrcEVLbVBvLVZ5LWxGaVowWDZmSWg1MEs4eU9hV1c3ZVdQOVVOelFmVjJta2QzbEJsRi04Q0RfVXpFVTljS05jQW9wd2RpYWgxTGM2TGRMc1V0dUtacHFIYnlkT1NUeEpwX0lPc1NuNmxveFpzTXBEbGtnSTMzNmlVSFl1LWg0Zw?oc=5",
+      "data": "13/07 16:00"
     },
     {
-      "titulo": "O Bahia foi derrotado pelo Fluminense por 2 a 0, neste domingo (12), em amistoso realizado no Maracanã, no Rio de Janeiro. Os gols da partida foram marcados por Hulk e Germán Cano. A partida marcou o 18º confronto amistoso entre Bahia e Fluminense. - instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhYndoelFEcTRiMVBjdUxwMDMtci1JRUN5VGhJckpDR3dJVW51Zk12aVlxYjgtd3hNd1B5V3pMQW8xZ1NTUm9lcEFaVEU3c2sxdFE?oc=5",
-      "data": "12/07 20:59"
+      "titulo": "Cano revela o diferencial do Fluminense para brigar por títulos na sequência de 2026 - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzk4VENScGJoS0lFWkxNYzJlUzY5Y0VCUDRDVVZlV0FwNlNyV0lfb3gwTFVaaUtHVkFMT04xLUJWZ0pmeFNlMHpYQ2ZpbnJON0NLZmJBU2RxaGd5SnBEZlJxellzQ05WNm5HTkJXaUxKbUdZRFhiZkt0V2hhWGY2dzE3aUFRRlEtcC1mTHFkVjJOa25CdHhFcjZ5U0JQNzJHRTJ1YkVLY1RwcWtieElDSQ?oc=5",
+      "data": "13/07 14:00"
     },
     {
-      "titulo": "Veja os gols de Hulk e Cano na vitória do Fluminense sobre o Bahia - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNG1ZRGEwRHBURG80emNIWi1zRjdIWHBzbWNqczVYaEs4Nkc0S3FRWVRSSFR6aE9JbmpUMl90Y1FvVlhTYUctX1NvMU1sSnkxTEF1Q0w3b21mSDhYQ1JDWmFrZkdzODlWZ0kyU3FWSnRRSmlFSkVydFFDRXJaUG5YczI4UlN5N1pER2d0a0ZITGRWajBmYTEzOWxCM29zUWR3QzlJb0VmSW81S09oYmpLZzFpUHRSNmdZ?oc=5",
-      "data": "12/07 20:36"
+      "titulo": "Thiago Silva explica 'problema' com Fábio sobre faixa de capitão do Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSWVST1VzUC1NdDdRMnE4YVpEMDhtTldrTDdRMk1xQzh2Q2ZNcjB6SGExUG0xX1RENkM0QmJzQ0Y2dV82eGN3Ujl2YlVLekNmVHF0NWVsTVlUc1paQ3FCdDVGS1d3MnRPTlhPREJndzFsb0lsLWsxVnAtZ0JYLVdwNThNUjFLVWJTdDhOUUxRSHhjOE80dEJweXFSREpia3hIaFQ3al9ncUFBRUpWUGZrNDhyUlJrQ1F3?oc=5",
+      "data": "12/07 23:09"
     },
     {
-      "titulo": "Thiago Silva diz entender torcida do Fluminense: \"Também ficaria muito triste com a saída de um ídolo\" - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYmhLY0FmU0NJREVUWXdDOU5WcXpXV0xCeElVcHdrZ1kxUGNpQ1plSkV0YndwR19wQ0VTUUtpU09RSGhaMUFmbm1iQWQ1R3liNVB3QzgzVktyLVJfYTNsR2ZkbDkzS2taYjFxVEotWm5TSXVJRHRjakxIOUJ2TF9vZ1hIM3l2cFJ3THVaVVVaS05Bc1NrR0YyeVdCT2NXcllGN09aWWRKWlE0YzI2VHkwWnlibW1GTjlzUUkyX1NHbGFHWXotVUI4R0hEY2d1amlXc3RzY1JqM0RrOTZPbXlkRUtNZHZsWUdHcF90dUtTSkU1dnhnd0xEMjFSNnNTZ1HSAY4CQVVfeXFMUEUwQm1UTUJSTG1SVkVmOHU5cGNWSmt6SGZ1d1k0OEkwem1QTFRGMnNpcUNHeXU3U09DLV9GT0lFS21WQm5yR01LX1AzRHhxR1JqcENrT3BaTVN6cVhXbm5IalNNY0JBeUozQnc1RGZETS1pdmVxVG11Z2VraFFTdXZSR2dRNk1HN0NrcGhqWDhxelFMTEwwTDd3NElLSkw0TGE4ZjlZbVRtMVBBdC1yTF8wUEcwMlUtZVJick5DNS1sa3pNVXh3cFp3QklLcEI3Q25RamdYOTdpRVl2TzdXMUhadGFkdHRQR0UzUm5BUXppZEk3d2NoR01wY3ZfTHl5ekxaUEZNMTVqeDdMSHFR?oc=5",
-      "data": "12/07 21:32"
+      "titulo": "Feira FC e Fluminense empatam sem gols e deixam decisão do acesso para o Joia da Princesa - Folha do Estado da Bahia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1cyODNQN1UtQkNrVTlzZmt4UmVURGY1ZFlBZHpheXFCRHA3WEF3RmJORHhMeDBVeTJpUnZUMU5sbHFNSHl3X2pmNlFsb3JkSzRlNGhRUVluR3V3UGduaUJXNk1KTGRnSS1EbE1Va1RfLUZDZ1RDZkRqZ19ELW9DZXlmVUYyWTc1aTl5bTdwY3Y1WXVnaUR5dUdsNzhqZzlYaDlWVk9SM18yMDltZmZNRW1HYnlVajdqcGZaNWxzdmlkRmdmNExYelg5ak9uYzFH?oc=5",
+      "data": "12/07 19:58"
     }
   ],
   "avisos": []
