@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/07/2026 15:06",
+  "atualizado_em": "13/07/2026 19:14",
   "jogos": [
     {
       "sport": "futebol",
@@ -286,8 +286,8 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.5,
-      "temp_min": 18.7,
+      "temp_max": 20.8,
+      "temp_min": 18.6,
       "chance_chuva": 94,
       "condicao": "Garoa"
     },
@@ -300,8 +300,8 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.8,
-      "temp_min": 11.7,
+      "temp_max": 17.3,
+      "temp_min": 11.1,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
@@ -310,22 +310,22 @@ window.PAINEL_DATA = {
     {
       "titulo": "Hulk desencanta em volta de Thiago Silva, e Flu bate Bahia em amistoso - UOL",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlY5cXR0S0M1VXd0MkFRYnN3aEYxaXgycFViNGpMTElCdlpBS2F1ZFB5cU41NW5FWlZrUU1weTZGbWhhRmM0ZDQzSFVxWnhTdTZCUEE0b0FwM0hpMGJNWFBKdWk3WVgxTmhRS21qUHoxQUJpbm90R0tYWkFDZFlTY2RJS2pqN2pvNGItVzhPbF96bGRsb3pFRURIdWhNVXRr?oc=5",
-      "data": "13/07 00:59"
+      "data": "12/07 20:59"
+    },
+    {
+      "titulo": "Aposta do Setorista: Samuell pode ser o próximo nome do Fluminense a sonhar com a Copa do Mundo de 2030 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWV9qR0hvcXo3YWMtSUJyTF9EY0VNVkoyME1vbUQ2U2pvazg1VV9Fek9hbFFlU29UNm9oSVJZVC1tOGRNUHFTMDI0MndGaE1yNHNkOEpibU9BTDlra3dxWUkzODlrTkpjTW8weFNLM0Vla1djaEt6bWFJY2d2bG1CbktLd3otSWQ2WnI3elZmTnh4aTB4M2U4bkFxeldVUWpKcWJQVThPTTVsT1hKWGtjMm50RHQ?oc=5",
+      "data": "13/07 18:11"
+    },
+    {
+      "titulo": "Confira a programação completa da Flu Fest 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVy11bVhxUzAyQUo0WXJCRWtIUTYxT19GNkRqbVBfcjJyZnZKZnM1WExkT0JScEd1TTVSWVdYZHVnWWRTSDhKbDhZNHZYeGc4eGZmcEFnZkJ0SDBJdWNBb19IeEZkTDRIV2dQTW1tbXBNOV9nQUltbWV4enpVQmVZX3RJUHhYNzZjX1VCclp3?oc=5",
+      "data": "13/07 20:48"
     },
     {
       "titulo": "Jornalista revela bastidores sobre Arana após ‘sumiço’ em amistosos do Fluminense - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUtIeGZINjZiWEI4d0p4XzhBeE84aWh3ajIxV1ZiUEQxRHZrcEVLbVBvLVZ5LWxGaVowWDZmSWg1MEs4eU9hV1c3ZVdQOVVOelFmVjJta2QzbEJsRi04Q0RfVXpFVTljS05jQW9wd2RpYWgxTGM2TGRMc1V0dUtacHFIYnlkT1NUeEpwX0lPc1NuNmxveFpzTXBEbGtnSTMzNmlVSFl1LWg0Zw?oc=5",
       "data": "13/07 16:00"
-    },
-    {
-      "titulo": "Cano revela o diferencial do Fluminense para brigar por títulos na sequência de 2026 - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzk4VENScGJoS0lFWkxNYzJlUzY5Y0VCUDRDVVZlV0FwNlNyV0lfb3gwTFVaaUtHVkFMT04xLUJWZ0pmeFNlMHpYQ2ZpbnJON0NLZmJBU2RxaGd5SnBEZlJxellzQ05WNm5HTkJXaUxKbUdZRFhiZkt0V2hhWGY2dzE3aUFRRlEtcC1mTHFkVjJOa25CdHhFcjZ5U0JQNzJHRTJ1YkVLY1RwcWtieElDSQ?oc=5",
-      "data": "13/07 14:00"
-    },
-    {
-      "titulo": "Thiago Silva explica 'problema' com Fábio sobre faixa de capitão do Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSWVST1VzUC1NdDdRMnE4YVpEMDhtTldrTDdRMk1xQzh2Q2ZNcjB6SGExUG0xX1RENkM0QmJzQ0Y2dV82eGN3Ujl2YlVLekNmVHF0NWVsTVlUc1paQ3FCdDVGS1d3MnRPTlhPREJndzFsb0lsLWsxVnAtZ0JYLVdwNThNUjFLVWJTdDhOUUxRSHhjOE80dEJweXFSREpia3hIaFQ3al9ncUFBRUpWUGZrNDhyUlJrQ1F3?oc=5",
-      "data": "12/07 23:09"
     },
     {
       "titulo": "Feira FC e Fluminense empatam sem gols e deixam decisão do acesso para o Joia da Princesa - Folha do Estado da Bahia",
