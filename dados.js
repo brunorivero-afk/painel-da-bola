@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/07/2026 17:42",
+  "atualizado_em": "14/07/2026 20:38",
   "jogos": [
     {
       "sport": "futebol",
@@ -262,14 +262,14 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 20.9,
       "temp_min": 16.2,
-      "chance_chuva": 51,
+      "chance_chuva": 42,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
       "temp_max": 21.3,
       "temp_min": 15.2,
-      "chance_chuva": 69,
+      "chance_chuva": 65,
       "condicao": "Garoa"
     },
     {
@@ -289,9 +289,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Problema com faixa de capitão citado por Thiago aconteceu na Seleção Brasileira - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUHJucm1UNzRLWTl6MmNRVUJrUW12d0NQY2FJR0VvNFk4Q2ItSmdPZU1YcUhpaVJJeUtBb1JzMndfcXVXcEZxNTVIUGxLcEVtUFlzOFBOTUR1bXJQYlRleE9OaEhLVFg1MjBQY0oyTHBhNUFqV1VhVVBTbzdVNmR1enpWTXlaQ3RaOGdvUlJoTjY1Wi1uSTkxdFVjZ1R3MUx1R2Utb0pYNUhCOVl2eERpaHNZY0tRdjBFMS12Sk1Kb1BDLVRTZHV4dzF6ZzN0QUcwS1ZOWjkxckdMWXJqWEQxWDF4UjVyNVNUNDU4?oc=5",
-      "data": "14/07 17:45"
+      "titulo": "Arana volta a treinar no Fluminense e deve jogar contra o Bragantino - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkhEbEZtU2ZRZDJJdmotbU9veG1tZkxVN24wUS1nM0VrWkVvUEJsSTFJUGFXUVpZMElsT05acVNvNXk5eWFHcURjSExvMVRqazZaVm5wYjhPMG9SRURjU2d1YnNxbkl2UXpjamM4VkVLOTRhdERPMHk4cG4waWNZUVRyaFVaa0ZLdWFwVTZCQXJKQ3BTU01vQlVoTnlDQTNZMWtSSUh0V1Q2WnBCXzJQaFdMX1JiV21GOGhoQ0E4N3ZiNElZc1c4emh2MG5SUGNPaFBKNmh30gHkAUFVX3lxTE1LbTFPZFdqdEZpYlg4RjlNMExBb1lsdnpWUU1yeklybWY0NWNOV3RLLVJXNTBJUFpIem8tUTRCcU4tTUstWTdUUDFuYTJGX3ZtR1JucmZ5YzlROWtKc0VQcVMxek1KQlpwNTNhZFUzRVh4ZnZGRTFDZ3c1UkNKbXdORm9ZdHlCcktIWGZJMHpVeGJIZWlycGxXVWVRMUZ3OGhSVVFkSjR6ZE5IWkkwSGp6SlhQenJlMDNiRTdyM2pMV3lTdkpRVVcwWUdseTd3NzIxTzhNWG0tVzRQN1V0enFOTUE4Uw?oc=5",
+      "data": "14/07 16:21"
+    },
+    {
+      "titulo": "Aposta do Setorista: Samuell pode ser o próximo nome do Fluminense a sonhar com a Copa do Mundo de 2030 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWV9qR0hvcXo3YWMtSUJyTF9EY0VNVkoyME1vbUQ2U2pvazg1VV9Fek9hbFFlU29UNm9oSVJZVC1tOGRNUHFTMDI0MndGaE1yNHNkOEpibU9BTDlra3dxWUkzODlrTkpjTW8weFNLM0Vla1djaEt6bWFJY2d2bG1CbktLd3otSWQ2WnI3elZmTnh4aTB4M2U4bkFxeldVUWpKcWJQVThPTTVsT1hKWGtjMm50RHQ?oc=5",
+      "data": "13/07 18:11"
+    },
+    {
+      "titulo": "Fluminense x Deportivo La Guaira ao vivo pela Libertadores; acompanhe - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYUh2YUhiUlVPTE1jeDdzclJYamd4WG1wdGgwaGpSUUNGZkxJRVFCNmJTQ201U0dhQmZZTGtDTklLYWlaRWJ5RTJZVDlOUzFPd1FSb2ZSU2p4X1FVV2NILTdaN2d4ZjhiaDRzZGhad3JQanJBbEw5VXp1aTFkZjRmVzlKSFk1OERxaWRFcVJVTjFubU9IYy1GOUo3bXNSclVKak8ycUdnWWIxdURiemhoRHlGeDVyM1d5ZVVsOHBST2RVNDlzNndkNC1OcHFNTFdYU3RSZ0JoekkxWFZjOTc2ZGNBcU9YNjNmeGk5TWdMMmQ4NXI1THA5TDRFdVVNQQ?oc=5",
+      "data": "27/05 07:00"
     },
     {
       "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
@@ -299,19 +309,9 @@ window.PAINEL_DATA = {
       "data": "14/07 18:42"
     },
     {
-      "titulo": "Colegas no Fluminense, Cano e Hulk já foram artilheiros do Brasileirão; relembre - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFRVVTgwaWZaQTRSZENjT3F0bVlGWVZaRHhSSmJCREREYWJ1anlhMFBHdjZ4d0xtYURmbmFibWZxSHlya0JWQTdWNGRmeldFUnlyRkJYY2gzU1VMSGVGQUVfWTQ3bm1jaWtfTUdrRGotZEUwd0tyUV9xMk91QmN5ck5OTUJtQjhsQXZ6THFR?oc=5",
-      "data": "14/07 00:20"
-    },
-    {
-      "titulo": "Cano atinge marca que impressiona no Fluminense; veja quais times ainda escaparam - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUk1Y241NHhyY0c1ZDB6UmVvUFBFYU5meWhtQXlMZzBBbFh4QV9QQUhDMk5tMWpBTHpwUDQ1UzB2RXVBQ2FHMnFacVlLb3FreUc3NFotdzZwV0VKbDNpTk42eU96Q3QySkdkQjdOdlZvMDVuQU1tZ3VaRmQxd0h5OExLRGRIbEQ0T19uVEQzMGloYTl6QnhEYXE4czduS1l4NjdzN2hpM19OMDg?oc=5",
-      "data": "14/07 16:15"
-    },
-    {
-      "titulo": "Cano volta a marcar em jogos seguidos pelo Fluminense após mais de um ano - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzhPTE5lVWhIM3FvTzI1Rm9fQThISk5lSGhsZDNwcXRLLUdLWkpTNkdiOXM0bi1rMGxHMkRPMm1yUHFYU0NYMUc1SXY3NlEzX0dMZ3ZaWlBSMkl3anhmLVlwUDdLa3NUOFZYVnFHcGZwd2VNbWJWZm5Vb1FVcnFSVkFaS2ZyUlBZeXhnQ2xkS1VhZ1ZhOEx3dVd5THFDMVp3cS0xU0hSZktRR3ZYT2RPT01RNmo?oc=5",
-      "data": "14/07 09:20"
+      "titulo": "Confira a programação completa da Flu Fest 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVy11bVhxUzAyQUo0WXJCRWtIUTYxT19GNkRqbVBfcjJyZnZKZnM1WExkT0JScEd1TTVSWVdYZHVnWWRTSDhKbDhZNHZYeGc4eGZmcEFnZkJ0SDBJdWNBb19IeEZkTDRIV2dQTW1tbXBNOV9nQUltbWV4enpVQmVZX3RJUHhYNzZjX1VCclp3?oc=5",
+      "data": "13/07 20:48"
     }
   ],
   "avisos": []
