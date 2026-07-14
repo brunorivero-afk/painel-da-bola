@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/07/2026 09:00",
+  "atualizado_em": "14/07/2026 13:50",
   "jogos": [
     {
       "sport": "futebol",
@@ -260,51 +260,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.7,
-      "temp_min": 16.6,
-      "chance_chuva": 71,
-      "condicao": "Garoa"
+      "temp_max": 20.3,
+      "temp_min": 16.2,
+      "chance_chuva": 51,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.0,
+      "temp_max": 21.1,
       "temp_min": 15.2,
-      "chance_chuva": 92,
+      "chance_chuva": 69,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 18.5,
       "temp_min": 10.7,
-      "chance_chuva": 78,
+      "chance_chuva": 73,
       "condicao": "Nublado"
+    },
+    {
+      "cidade": "Teresópolis",
+      "temp_max": 15.1,
+      "temp_min": 8.6,
+      "chance_chuva": 90,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Cano comenta torcida pela Argentina na Copa do Mundo e inspiração para o Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUWhsdzM2YWE2dGRyYzlXcDVOUUlwS1NuMkZSQmJ5cG4xUzhONVgyLV8yMEpCZWZMZ2U3TXlvSi1LbGpZUXZkbXp3dGNPZU9EdmpGQWE4MnFKS0VUb1VQbzduRktoNk5WV2tMMWxXNGpTQTZ0dzM4a3BqUFd5bTBPbGcxMmZjTmdYY2h1Ymd1TFlQdW5QQlBWd2tRWU1EMWFCWllRT24tSHZKNmM1NVhpWHNmY1NPSkJYeG9ST1RRX0tNQQ?oc=5",
-      "data": "13/07 08:20"
-    },
-    {
-      "titulo": "Cano volta a marcar em jogos seguidos pelo Fluminense após mais de um ano - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3BQSkhiN1NOSHFUUjFoLWJ2ZUk0QUUxQ3hWUUN6RmxtTHBBdUMyaXFUcktXUWc4X1UyR1dGeXpVc1QxN1QyQm5oVkt3bjV0b0VRQ3ZkbFM0akN5RkdSazUyd1pQTk82VHhJZ3JZRWMyTWwxNkJ5N1Vyd2tyMFlMa3FFbW5wWUF6N1RJLVVlT1VscUJpV1QyVXJiYTk5aGNNT0pPUGZCMTNCY3Z1UVM3cXFLRFc1REpOejZzcXRrNlM2N01MX0xZcV9GV0dDRFhDalZnSnBUY3had2lh0gHiAUFVX3lxTE9qWWdKWXR5RVNtOFZBWWtBVE44algycmRiaEpyTWhzQ3ZTdlZzclVvd3BNZ3FKdmZFMnl2NHEwUlQ5Nk9TTVNkaTBRS20tNnhYZmdxT0MtTmFNSlhLQW90ZC1vTTA0QmllWFpFU3dQc3pnWGFnWkwzSGhNRnF6dmRuVlVHMTJLVVloVWR2czctZ0ZOUGFhak1janlpS1FTZDhrSld5RFZlNFdwOUQyRjlWUFlZSmFWMERoeGlCNFVPdnRidFhFMGU1dm0zeHVocG51MVdjdDBYUHBWcDdsMjJPaEE?oc=5",
-      "data": "14/07 09:29"
-    },
     {
       "titulo": "Colegas no Fluminense, Cano e Hulk já foram artilheiros do Brasileirão; relembre - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFRVVTgwaWZaQTRSZENjT3F0bVlGWVZaRHhSSmJCREREYWJ1anlhMFBHdjZ4d0xtYURmbmFibWZxSHlya0JWQTdWNGRmeldFUnlyRkJYY2gzU1VMSGVGQUVfWTQ3bm1jaWtfTUdrRGotZEUwd0tyUV9xMk91QmN5ck5OTUJtQjhsQXZ6THFR?oc=5",
       "data": "14/07 00:20"
     },
     {
-      "titulo": "Quando Castilho venceu duelo com Yashin e o Fluminense ouviu apelos para maneirar na pancadaria - ge",
+      "titulo": "Cano atinge marca que impressiona no Fluminense; veja quais times ainda escaparam - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUk1Y241NHhyY0c1ZDB6UmVvUFBFYU5meWhtQXlMZzBBbFh4QV9QQUhDMk5tMWpBTHpwUDQ1UzB2RXVBQ2FHMnFacVlLb3FreUc3NFotdzZwV0VKbDNpTk42eU96Q3QySkdkQjdOdlZvMDVuQU1tZ3VaRmQxd0h5OExLRGRIbEQ0T19uVEQzMGloYTl6QnhEYXE4czduS1l4NjdzN2hpM19OMDg?oc=5",
+      "data": "14/07 16:15"
+    },
+    {
+      "titulo": "Cano volta a marcar em jogos seguidos pelo Fluminense após mais de um ano - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzhPTE5lVWhIM3FvTzI1Rm9fQThISk5lSGhsZDNwcXRLLUdLWkpTNkdiOXM0bi1rMGxHMkRPMm1yUHFYU0NYMUc1SXY3NlEzX0dMZ3ZaWlBSMkl3anhmLVlwUDdLa3NUOFZYVnFHcGZwd2VNbWJWZm5Vb1FVcnFSVkFaS2ZyUlBZeXhnQ2xkS1VhZ1ZhOEx3dVd5THFDMVp3cS0xU0hSZktRR3ZYT2RPT01RNmo?oc=5",
+      "data": "14/07 09:20"
+    },
+    {
+      "titulo": "Quando Castilho venceu duelo com Yashin e o Fluminense ouviu apelos para maneirar na pancadaria - GE",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZXhSOGJobEs3RWs5MlpydkYxVGdwSjdvNzYxYlB4WV83S3RaVTVGWS04V2dsazNtaXdVUEUyVkI3S1R1c0VpbnYzYmU5ZW1JWEdPcVNEZXFlSGxPTGJmTnVnNmhEZkJGN0JSVG45bnNpbTFnN3c5ME1vVFQ5Yk5ITFB4UEUzZ2VDUTZ0UFluR1FsQmpGYnlZcWlMNmR2VnhqeGd4b0x2RWlUUmI1M3BHbEtCWXVMbWt5Nnl3MFVzZTZ3cVdmdWR3NXByXzA4WklhVnkyQ01VNXBkYVVUbm9xTndWSVVOTXlfZVVzdUdxaXM3Y1RSTGl5ZU530gGIAkFVX3lxTE1YU01kenQxS1RJYndxd2VWTlhvVmZBVGNYRFcwV2cwWnhSNmkzdW5KTHp4Xzh6UlBhQUpxVGk4dDBhMXRxTWQ0dmpyX1BOX0k3bGo3aEJ3eFRFNEVaazRObjNha1dDc090T1c4R09ieUhlNmxMTkhqVmNqeTFiVXNILXI2X3pwQVVZWkxUUWFYT0U0TklwTU43ZFZTUG9ONkI0TUF5b2Z2RFIxdUFUWjJaY1lNYXlNZGwzWXZ0ZlItRkJVUWJzdmRnbUI1YmlFclRmZ055azBWYVN2TmJmX0J0ZXBPanZPM0J6RURQN25lN0Nndy16OWJyOTFPSWxWUzZ3NU9XeXlRcQ?oc=5",
       "data": "14/07 07:00"
     },
     {
-      "titulo": "Análise: Fluminense domina o Bahia em novo teste e ganha boas notícias na intertemporada - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbzVTV1U0NDhYRkN4ZlNuY0pHS1Mwb2NOLTJKNnJCNzVjbFlGenNtQVBNYWpHbEUxTF9TOEZJQk45bUNGVGlQVXozV0xJSTVCWFNCSjZjdWxZUUJlNC1RNEVQbVhiQW9oel9oMkxQRTR1dTN4amRhQ1NzMENsQzNQSW52RHhCNVJ0bnUxTFU2NEFoM1hpT0h1TU5aeUw0UEVIYjdoYmlxZVJqUjZfbW1zNWtWUFBweVh4R1QxSVBTQ0p1SnBXU2lPX0JuYnhCR3IyYmNNUWVNdjdleUJXc25HTG53VndjMFVuTWZuNmFIa9IB_gFBVV95cUxPU1dBX254MWJYMngyamZRajRkalJSU2plXzM5YlcwUWRwSHh5WDBnOE1kLWVEZHhHY0lhVXdnM2FuZTBmaU5TU04yMUZfbFV6dWRmaTI2QTg4UzFob2gzTlZMVlc0WWo1cGhOTUtKVm5XbDZUN0p5MWRCRlBaNlgxMlE3OEZIc0N4ZFFRMFIzT2RGUUtVbmRVSEMwOWl5UDMzNHYyVDZQT043VW14Nk52VER6WmpZTkRFREE3MU5HMG4tV18wZGhTQnRQNWpQaVptdjVMX1JMTkpVZUJxVWxCdV9PQWtiQnloeEJHYm1aUXd3WEFTYWsxZWhTaEMzZw?oc=5",
-      "data": "13/07 07:00"
+      "titulo": "Aposta do Setorista: Samuell pode ser o próximo nome do Fluminense a sonhar com a Copa do Mundo de 2030 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWV9qR0hvcXo3YWMtSUJyTF9EY0VNVkoyME1vbUQ2U2pvazg1VV9Fek9hbFFlU29UNm9oSVJZVC1tOGRNUHFTMDI0MndGaE1yNHNkOEpibU9BTDlra3dxWUkzODlrTkpjTW8weFNLM0Vla1djaEt6bWFJY2d2bG1CbktLd3otSWQ2WnI3elZmTnh4aTB4M2U4bkFxeldVUWpKcWJQVThPTTVsT1hKWGtjMm50RHQ?oc=5",
+      "data": "13/07 18:11"
     }
   ],
   "avisos": []
