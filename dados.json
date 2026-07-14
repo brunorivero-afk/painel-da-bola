@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/07/2026 13:55",
+  "atualizado_em": "14/07/2026 17:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -260,21 +260,21 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.3,
+      "temp_max": 20.9,
       "temp_min": 16.2,
       "chance_chuva": 51,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.1,
+      "temp_max": 21.3,
       "temp_min": 15.2,
       "chance_chuva": 69,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.5,
+      "temp_max": 18.8,
       "temp_min": 10.7,
       "chance_chuva": 73,
       "condicao": "Nublado"
@@ -289,6 +289,16 @@
   ],
   "noticias": [
     {
+      "titulo": "Problema com faixa de capitão citado por Thiago aconteceu na Seleção Brasileira - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUHJucm1UNzRLWTl6MmNRVUJrUW12d0NQY2FJR0VvNFk4Q2ItSmdPZU1YcUhpaVJJeUtBb1JzMndfcXVXcEZxNTVIUGxLcEVtUFlzOFBOTUR1bXJQYlRleE9OaEhLVFg1MjBQY0oyTHBhNUFqV1VhVVBTbzdVNmR1enpWTXlaQ3RaOGdvUlJoTjY1Wi1uSTkxdFVjZ1R3MUx1R2Utb0pYNUhCOVl2eERpaHNZY0tRdjBFMS12Sk1Kb1BDLVRTZHV4dzF6ZzN0QUcwS1ZOWjkxckdMWXJqWEQxWDF4UjVyNVNUNDU4?oc=5",
+      "data": "14/07 17:45"
+    },
+    {
+      "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnNLb3VwTW95R2pIZWN6Tld5NkxsNk5uVkQtYzdDQmJJWmZEX3A0Q2ZDWUlETW1kRXp4XzduelFhdXBJZ2tPdFJGMDdBM0dSUVNaUlBhcXc0Y3hzWERsem9XYW1lNDVncXJmSWtCY3NTLUNzSHFvN044WW1yN0NWRVMwa3Y4U0dOUlhEdmR0eG5vZmJlcktCcGdtNE1OR1VKeGtHYlRfdGJjUEM3NUE?oc=5",
+      "data": "14/07 18:42"
+    },
+    {
       "titulo": "Colegas no Fluminense, Cano e Hulk já foram artilheiros do Brasileirão; relembre - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZFRVVTgwaWZaQTRSZENjT3F0bVlGWVZaRHhSSmJCREREYWJ1anlhMFBHdjZ4d0xtYURmbmFibWZxSHlya0JWQTdWNGRmeldFUnlyRkJYY2gzU1VMSGVGQUVfWTQ3bm1jaWtfTUdrRGotZEUwd0tyUV9xMk91QmN5ck5OTUJtQjhsQXZ6THFR?oc=5",
       "data": "14/07 00:20"
@@ -302,16 +312,6 @@
       "titulo": "Cano volta a marcar em jogos seguidos pelo Fluminense após mais de um ano - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzhPTE5lVWhIM3FvTzI1Rm9fQThISk5lSGhsZDNwcXRLLUdLWkpTNkdiOXM0bi1rMGxHMkRPMm1yUHFYU0NYMUc1SXY3NlEzX0dMZ3ZaWlBSMkl3anhmLVlwUDdLa3NUOFZYVnFHcGZwd2VNbWJWZm5Vb1FVcnFSVkFaS2ZyUlBZeXhnQ2xkS1VhZ1ZhOEx3dVd5THFDMVp3cS0xU0hSZktRR3ZYT2RPT01RNmo?oc=5",
       "data": "14/07 09:20"
-    },
-    {
-      "titulo": "Quando Castilho venceu duelo com Yashin e o Fluminense ouviu apelos para maneirar na pancadaria - GE",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZXhSOGJobEs3RWs5MlpydkYxVGdwSjdvNzYxYlB4WV83S3RaVTVGWS04V2dsazNtaXdVUEUyVkI3S1R1c0VpbnYzYmU5ZW1JWEdPcVNEZXFlSGxPTGJmTnVnNmhEZkJGN0JSVG45bnNpbTFnN3c5ME1vVFQ5Yk5ITFB4UEUzZ2VDUTZ0UFluR1FsQmpGYnlZcWlMNmR2VnhqeGd4b0x2RWlUUmI1M3BHbEtCWXVMbWt5Nnl3MFVzZTZ3cVdmdWR3NXByXzA4WklhVnkyQ01VNXBkYVVUbm9xTndWSVVOTXlfZVVzdUdxaXM3Y1RSTGl5ZU530gGIAkFVX3lxTE1YU01kenQxS1RJYndxd2VWTlhvVmZBVGNYRFcwV2cwWnhSNmkzdW5KTHp4Xzh6UlBhQUpxVGk4dDBhMXRxTWQ0dmpyX1BOX0k3bGo3aEJ3eFRFNEVaazRObjNha1dDc090T1c4R09ieUhlNmxMTkhqVmNqeTFiVXNILXI2X3pwQVVZWkxUUWFYT0U0TklwTU43ZFZTUG9ONkI0TUF5b2Z2RFIxdUFUWjJaY1lNYXlNZGwzWXZ0ZlItRkJVUWJzdmRnbUI1YmlFclRmZ055azBWYVN2TmJmX0J0ZXBPanZPM0J6RURQN25lN0Nndy16OWJyOTFPSWxWUzZ3NU9XeXlRcQ?oc=5",
-      "data": "14/07 07:00"
-    },
-    {
-      "titulo": "Aposta do Setorista: Samuell pode ser o próximo nome do Fluminense a sonhar com a Copa do Mundo de 2030 - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWV9qR0hvcXo3YWMtSUJyTF9EY0VNVkoyME1vbUQ2U2pvazg1VV9Fek9hbFFlU29UNm9oSVJZVC1tOGRNUHFTMDI0MndGaE1yNHNkOEpibU9BTDlra3dxWUkzODlrTkpjTW8weFNLM0Vla1djaEt6bWFJY2d2bG1CbktLd3otSWQ2WnI3elZmTnh4aTB4M2U4bkFxeldVUWpKcWJQVThPTTVsT1hKWGtjMm50RHQ?oc=5",
-      "data": "13/07 18:11"
     }
   ],
   "avisos": []
