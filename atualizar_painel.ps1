@@ -153,7 +153,8 @@ $jogos = @($jogosFutebol) + @($jogosVolei)
 $cidades = @(
   @{ nome = 'Rio de Janeiro'; lat = -22.9068; lon = -43.1729 },
   @{ nome = 'Araruama';       lat = -22.8725; lon = -42.3428 },
-  @{ nome = 'Itaipava (Petrópolis)'; lat = -22.3808; lon = -43.1486 }
+  @{ nome = 'Itaipava (Petrópolis)'; lat = -22.3808; lon = -43.1486 },
+  @{ nome = 'Teresópolis';    lat = -22.4127; lon = -42.9662 }
 )
 
 function CondicaoDoCodigo($codigo){
