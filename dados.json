@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/07/2026 04:29",
+  "atualizado_em": "15/07/2026 09:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -99,6 +99,16 @@
       "match": "St. Louis City x Sporting Kansas City",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "21:45",
+      "competition": "Copa Argentina",
+      "match": "Sarmiento Junin x Boca Juniors",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -326,42 +336,42 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.8,
-      "temp_min": 16.6,
-      "chance_chuva": 0,
+      "temp_min": 16.4,
+      "chance_chuva": 8,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.1,
-      "temp_min": 14.8,
-      "chance_chuva": 0,
+      "temp_max": 22.8,
+      "temp_min": 14.6,
+      "chance_chuva": 6,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.5,
-      "temp_min": 10.4,
-      "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "temp_max": 17.1,
+      "temp_min": 10.3,
+      "chance_chuva": 2,
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.0,
+      "temp_max": 17.8,
       "temp_min": 8.5,
-      "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "chance_chuva": 6,
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Aposta do Setorista: Samuell pode ser o próximo nome do Fluminense a sonhar com a Copa do Mundo de 2030 - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWV9qR0hvcXo3YWMtSUJyTF9EY0VNVkoyME1vbUQ2U2pvazg1VV9Fek9hbFFlU29UNm9oSVJZVC1tOGRNUHFTMDI0MndGaE1yNHNkOEpibU9BTDlra3dxWUkzODlrTkpjTW8weFNLM0Vla1djaEt6bWFJY2d2bG1CbktLd3otSWQ2WnI3elZmTnh4aTB4M2U4bkFxeldVUWpKcWJQVThPTTVsT1hKWGtjMm50RHQ?oc=5",
-      "data": "13/07 18:11"
+      "titulo": "Fábio se aproxima de lendas do Fluminense e caminha ao Top 3 de goleiros com mais jogos sem sofrer gols - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQzBoOUNfN3V5amZrb2VzUnpaV2RXbmlYR3lXT09VLUxJeGZlVkh0Z2w5UXRYNGlDa2lxXy1jNlcycTlqWms1OW95M0ZJYS1MRkk5OE4yemM2cXozVGd4T2tyWGRScmNHM1QycnBWZVExRmdqVGdGbEZBal9uZ1BudWxDLXVCeGZrWVNMandGR3JhRVpWLTNrbzZwb0RaRmJlSy1RYkxPZjhRYmkzWGp5Z3BPZG40U2tkNU8wczltSFV3M0xLZmZSX3V6NnJoSVgxS0dYeWtoREZxcWJOMjN3Q1ZlcndUOHZTNTRCaHdFc3JiZkljZkprRHNhaGNBOHfSAY4CQVVfeXFMTzY3RW45a0ZWRmpPbmNWeWpUQ184YzdKSVRHUkJHWUZrMGNhQTJ4WXZyWDdTcUlhaHlONVdqX19qZDZpaVpySHJJV1QwbVlmUV9Dam5iNl84eVVxSWljeTZxQ0Y1QjcyTWhqMjg0V0ppeUI2c2F0S2xmYlpkOU5yXzkwSGppZ0RiclR1eEU5d29RTWk4ckRsdjNkTjFKem0xSG0zTFBwSzN2LV9JekUtY2o5cnhSVVZjT2Ytek5LWGhWSjdzNXptYVFCZEZaRDQ1R1pFNlBmeXlhNjMzSFhGd1dfMzlheWt3Umg2cjF1MHhuNEVCZkhTM1N5Y0E2V3VoYWk3azZsNmk5VWZIenJR?oc=5",
+      "data": "15/07 07:01"
     },
     {
-      "titulo": "Quando Castilho venceu duelo com Yashin e o Fluminense ouviu apelos para maneirar na pancadaria - GE",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZXhSOGJobEs3RWs5MlpydkYxVGdwSjdvNzYxYlB4WV83S3RaVTVGWS04V2dsazNtaXdVUEUyVkI3S1R1c0VpbnYzYmU5ZW1JWEdPcVNEZXFlSGxPTGJmTnVnNmhEZkJGN0JSVG45bnNpbTFnN3c5ME1vVFQ5Yk5ITFB4UEUzZ2VDUTZ0UFluR1FsQmpGYnlZcWlMNmR2VnhqeGd4b0x2RWlUUmI1M3BHbEtCWXVMbWt5Nnl3MFVzZTZ3cVdmdWR3NXByXzA4WklhVnkyQ01VNXBkYVVUbm9xTndWSVVOTXlfZVVzdUdxaXM3Y1RSTGl5ZU530gGIAkFVX3lxTE1YU01kenQxS1RJYndxd2VWTlhvVmZBVGNYRFcwV2cwWnhSNmkzdW5KTHp4Xzh6UlBhQUpxVGk4dDBhMXRxTWQ0dmpyX1BOX0k3bGo3aEJ3eFRFNEVaazRObjNha1dDc090T1c4R09ieUhlNmxMTkhqVmNqeTFiVXNILXI2X3pwQVVZWkxUUWFYT0U0TklwTU43ZFZTUG9ONkI0TUF5b2Z2RFIxdUFUWjJaY1lNYXlNZGwzWXZ0ZlItRkJVUWJzdmRnbUI1YmlFclRmZ055azBWYVN2TmJmX0J0ZXBPanZPM0J6RURQN25lN0Nndy16OWJyOTFPSWxWUzZ3NU9XeXlRcQ?oc=5",
-      "data": "14/07 07:00"
+      "titulo": "Futuro de Freytes no Fluminense ganha novo capítulo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHAtOXFYM0dCTUlZREtjdVd2M2txZDFySlV0TVpMdm55aXJ1TjFNeEZIRkV3Tk9fZVl1WmRqelEtOV9EVFdZZHVTUXZ0cjF2TjEtaGZPZ2NadmNGZjRMOGdQV3VhSnNlNWpUSmJlV0cyODVJemU5TXFHSDRRdHR3enJwRjhjZW9DVXpYYjRrdEx5X1l1cXkw?oc=5",
+      "data": "15/07 08:00"
     },
     {
       "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
@@ -369,14 +379,14 @@
       "data": "14/07 18:42"
     },
     {
+      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
+      "data": "16/05 07:00"
+    },
+    {
       "titulo": "Hulk marca o primeiro, Thiago Silva reestreia, e Fluminense vence o Bahia em amistoso antes da volta do Brasileirão - ESPN Brasil",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVmVFdjVYaThfM1ZpWDZtUkdVRHdVQ0FqekVCd05uWWFSbkVpS3BySGV5U0JibXpzX1pFdFF4c1FvbC1zaUhreTdsRDVOZ2xWQTJiTno2amwtMDcxNUpIWFpiQUZ1U2hqTDdQLU42MnhtTkstTXNZbWpPNVFSbzJzR3FXZmxxTkhQUWVfWWZkWUpWck1EeXdVa0ZVWWQ3Q0hQX3IzWVJtdUdoRVZ5T0s0N2loSnE4RlBfLW5VUW5MTFk2VkxGdy1uU0ZoZnNiUEY1LVcxWnFvM3V4RmgtQy1JQ3VFQjN4Zw?oc=5",
       "data": "12/07 21:00"
-    },
-    {
-      "titulo": "Confira a programação completa da Flu Fest 2026 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVy11bVhxUzAyQUo0WXJCRWtIUTYxT19GNkRqbVBfcjJyZnZKZnM1WExkT0JScEd1TTVSWVdYZHVnWWRTSDhKbDhZNHZYeGc4eGZmcEFnZkJ0SDBJdWNBb19IeEZkTDRIV2dQTW1tbXBNOV9nQUltbWV4enpVQmVZX3RJUHhYNzZjX1VCclp3?oc=5",
-      "data": "13/07 20:48"
     }
   ],
   "avisos": []
