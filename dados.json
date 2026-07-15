@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/07/2026 09:54",
+  "atualizado_em": "15/07/2026 14:47",
   "jogos": [
     {
       "sport": "futebol",
@@ -119,16 +119,6 @@
       "match": "Seattle Sounders x Portland Timbers",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-15",
-      "time": "11:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Ucrânia x Irã",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -330,6 +320,16 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-15",
+      "time": "11:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Ucrânia x Irã",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -364,7 +364,7 @@
   ],
   "noticias": [
     {
-      "titulo": "Fábio se aproxima de lendas do Fluminense e caminha ao Top 3 de goleiros com mais jogos sem sofrer gols - ge",
+      "titulo": "Fábio se aproxima de lendas do Fluminense e caminha ao Top 3 de goleiros com mais jogos sem sofrer gols - GE",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQzBoOUNfN3V5amZrb2VzUnpaV2RXbmlYR3lXT09VLUxJeGZlVkh0Z2w5UXRYNGlDa2lxXy1jNlcycTlqWms1OW95M0ZJYS1MRkk5OE4yemM2cXozVGd4T2tyWGRScmNHM1QycnBWZVExRmdqVGdGbEZBal9uZ1BudWxDLXVCeGZrWVNMandGR3JhRVpWLTNrbzZwb0RaRmJlSy1RYkxPZjhRYmkzWGp5Z3BPZG40U2tkNU8wczltSFV3M0xLZmZSX3V6NnJoSVgxS0dYeWtoREZxcWJOMjN3Q1ZlcndUOHZTNTRCaHdFc3JiZkljZkprRHNhaGNBOHfSAY4CQVVfeXFMTzY3RW45a0ZWRmpPbmNWeWpUQ184YzdKSVRHUkJHWUZrMGNhQTJ4WXZyWDdTcUlhaHlONVdqX19qZDZpaVpySHJJV1QwbVlmUV9Dam5iNl84eVVxSWljeTZxQ0Y1QjcyTWhqMjg0V0ppeUI2c2F0S2xmYlpkOU5yXzkwSGppZ0RiclR1eEU5d29RTWk4ckRsdjNkTjFKem0xSG0zTFBwSzN2LV9JekUtY2o5cnhSVVZjT2Ytek5LWGhWSjdzNXptYVFCZEZaRDQ1R1pFNlBmeXlhNjMzSFhGd1dfMzlheWt3Umg2cjF1MHhuNEVCZkhTM1N5Y0E2V3VoYWk3azZsNmk5VWZIenJR?oc=5",
       "data": "15/07 07:01"
     },
@@ -372,6 +372,11 @@
       "titulo": "Futuro de Freytes no Fluminense ganha novo capítulo - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHAtOXFYM0dCTUlZREtjdVd2M2txZDFySlV0TVpMdm55aXJ1TjFNeEZIRkV3Tk9fZVl1WmRqelEtOV9EVFdZZHVTUXZ0cjF2TjEtaGZPZ2NadmNGZjRMOGdQV3VhSnNlNWpUSmJlV0cyODVJemU5TXFHSDRRdHR3enJwRjhjZW9DVXpYYjRrdEx5X1l1cXkw?oc=5",
       "data": "15/07 08:00"
+    },
+    {
+      "titulo": "Inter de Milão está interessado em jogador do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdllZbGpNSERwTVpMSnplSE12YU82TmFYSXQ4QzNYRlRWcEJGTGtobDhQcEZpRHdLTHJrQlBYOExydTZlZm91cFhQMW41RUZWcUhIeWxLbGdJWUR1VXBSa0RmYlF1bmkzNW5zcktDVzVNcmpXT3JwNTlMVUQtV3RTWERkeXpIX1BjRkt6QkNQZmxmb3lSb3gtNGl1YlR4Y1FwZGVXVjk3RVQ2bXNEd1ZBQVdDNkVlWFFVdmlzdENHZE9zS3VSeHdDWHVzS3ZuMjBGejNORUVORDIzTkZ5bTBvSg?oc=5",
+      "data": "15/07 12:47"
     },
     {
       "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
@@ -382,11 +387,6 @@
       "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
       "data": "16/05 07:00"
-    },
-    {
-      "titulo": "Hulk marca o primeiro, Thiago Silva reestreia, e Fluminense vence o Bahia em amistoso antes da volta do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVmVFdjVYaThfM1ZpWDZtUkdVRHdVQ0FqekVCd05uWWFSbkVpS3BySGV5U0JibXpzX1pFdFF4c1FvbC1zaUhreTdsRDVOZ2xWQTJiTno2amwtMDcxNUpIWFpiQUZ1U2hqTDdQLU42MnhtTkstTXNZbWpPNVFSbzJzR3FXZmxxTkhQUWVfWWZkWUpWck1EeXdVa0ZVWWQ3Q0hQX3IzWVJtdUdoRVZ5T0s0N2loSnE4RlBfLW5VUW5MTFk2VkxGdy1uU0ZoZnNiUEY1LVcxWnFvM3V4RmgtQy1JQ3VFQjN4Zw?oc=5",
-      "data": "12/07 21:00"
     }
   ],
   "avisos": []
