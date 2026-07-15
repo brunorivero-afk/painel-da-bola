@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "14/07/2026 20:38",
+  "atualizado_em": "15/07/2026 04:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-14",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "França x Espanha",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-15",
@@ -47,19 +37,84 @@
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-07-14",
-      "time": "23:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Canadá x Argentina",
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x Santos",
       "channels": [
-        "SporTV2"
+        "RECORD",
+        "PREMIERE",
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Vasco",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "20:00",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Náutico",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x Toronto FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Chicago Fire x Whitecaps",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "St. Louis City x Sporting Kansas City",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-16",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Seattle Sounders x Portland Timbers",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "11:20",
+      "date": "2026-07-15",
+      "time": "11:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Ucrânia x Irã",
       "channels": [
@@ -68,8 +123,8 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "14:50",
+      "date": "2026-07-15",
+      "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Turquia",
       "channels": [
@@ -78,7 +133,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "17:40",
       "competition": "Vôlei (SporTV2)",
       "match": "França x Brasil",
@@ -88,8 +143,8 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "21:50",
+      "date": "2026-07-15",
+      "time": "21:45",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x China",
       "channels": [
@@ -98,7 +153,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Japão x Canadá",
@@ -108,7 +163,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "11:20",
       "competition": "Vôlei (SporTV2)",
       "match": "Irã x Alemanha",
@@ -118,7 +173,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "17:50",
       "competition": "Vôlei (SporTV2)",
       "match": "China x França",
@@ -128,7 +183,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "21:40",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Brasil",
@@ -138,7 +193,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "00:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Cuba x Argentina",
@@ -148,77 +203,47 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "07:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Polônia x Brasil",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-14",
-      "time": "09:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bélgica x Itália",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-14",
-      "time": "11:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bulgária x Tchéquia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Alemanha x Holanda",
+      "match": "Irã x Eslovênia",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "03:10",
+      "date": "2026-07-15",
+      "time": "17:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Tailândia x Brasil",
+      "match": "China x Bulgária",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "08:45",
+      "date": "2026-07-15",
+      "time": "21:40",
       "competition": "Vôlei (SporTV2)",
-      "match": "China x Rep Dominicana",
+      "match": "Brasil x Polônia",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "11:15",
+      "date": "2026-07-15",
+      "time": "00:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Bulgária x França",
+      "match": "China x Bulgária",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Alemanha",
@@ -228,30 +253,70 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "23:40",
+      "date": "2026-07-15",
+      "time": "17:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "EUA x Brasil",
+      "match": "França x Polônia",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "07:45",
+      "date": "2026-07-15",
+      "time": "21:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "França x Tchéquia",
+      "match": "EUA x Bulgária",
       "channels": [
         "SporTV2"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-14",
-      "time": "11:15",
+      "date": "2026-07-15",
+      "time": "00:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Bulgária x Alemanha",
+      "match": "Bélgica x Canadá",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-15",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "China x Brasil",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-15",
+      "time": "17:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bulgária x França",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-15",
+      "time": "21:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "EUA x Polônia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-15",
+      "time": "23:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Canadá x Argentina",
       "channels": [
         "SporTV2"
       ]
@@ -260,53 +325,53 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.9,
-      "temp_min": 16.2,
-      "chance_chuva": 42,
-      "condicao": "Garoa forte"
+      "temp_max": 22.8,
+      "temp_min": 16.6,
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.3,
-      "temp_min": 15.2,
-      "chance_chuva": 65,
-      "condicao": "Garoa"
+      "temp_max": 23.1,
+      "temp_min": 14.8,
+      "chance_chuva": 0,
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.8,
-      "temp_min": 10.7,
-      "chance_chuva": 73,
-      "condicao": "Nublado"
+      "temp_max": 17.5,
+      "temp_min": 10.4,
+      "chance_chuva": 0,
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 15.1,
-      "temp_min": 8.6,
-      "chance_chuva": 90,
-      "condicao": "Garoa"
+      "temp_max": 18.0,
+      "temp_min": 8.5,
+      "chance_chuva": 0,
+      "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Arana volta a treinar no Fluminense e deve jogar contra o Bragantino - GE",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSkhEbEZtU2ZRZDJJdmotbU9veG1tZkxVN24wUS1nM0VrWkVvUEJsSTFJUGFXUVpZMElsT05acVNvNXk5eWFHcURjSExvMVRqazZaVm5wYjhPMG9SRURjU2d1YnNxbkl2UXpjamM4VkVLOTRhdERPMHk4cG4waWNZUVRyaFVaa0ZLdWFwVTZCQXJKQ3BTU01vQlVoTnlDQTNZMWtSSUh0V1Q2WnBCXzJQaFdMX1JiV21GOGhoQ0E4N3ZiNElZc1c4emh2MG5SUGNPaFBKNmh30gHkAUFVX3lxTE1LbTFPZFdqdEZpYlg4RjlNMExBb1lsdnpWUU1yeklybWY0NWNOV3RLLVJXNTBJUFpIem8tUTRCcU4tTUstWTdUUDFuYTJGX3ZtR1JucmZ5YzlROWtKc0VQcVMxek1KQlpwNTNhZFUzRVh4ZnZGRTFDZ3c1UkNKbXdORm9ZdHlCcktIWGZJMHpVeGJIZWlycGxXVWVRMUZ3OGhSVVFkSjR6ZE5IWkkwSGp6SlhQenJlMDNiRTdyM2pMV3lTdkpRVVcwWUdseTd3NzIxTzhNWG0tVzRQN1V0enFOTUE4Uw?oc=5",
-      "data": "14/07 16:21"
-    },
     {
       "titulo": "Aposta do Setorista: Samuell pode ser o próximo nome do Fluminense a sonhar com a Copa do Mundo de 2030 - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWV9qR0hvcXo3YWMtSUJyTF9EY0VNVkoyME1vbUQ2U2pvazg1VV9Fek9hbFFlU29UNm9oSVJZVC1tOGRNUHFTMDI0MndGaE1yNHNkOEpibU9BTDlra3dxWUkzODlrTkpjTW8weFNLM0Vla1djaEt6bWFJY2d2bG1CbktLd3otSWQ2WnI3elZmTnh4aTB4M2U4bkFxeldVUWpKcWJQVThPTTVsT1hKWGtjMm50RHQ?oc=5",
       "data": "13/07 18:11"
     },
     {
-      "titulo": "Fluminense x Deportivo La Guaira ao vivo pela Libertadores; acompanhe - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYUh2YUhiUlVPTE1jeDdzclJYamd4WG1wdGgwaGpSUUNGZkxJRVFCNmJTQ201U0dhQmZZTGtDTklLYWlaRWJ5RTJZVDlOUzFPd1FSb2ZSU2p4X1FVV2NILTdaN2d4ZjhiaDRzZGhad3JQanJBbEw5VXp1aTFkZjRmVzlKSFk1OERxaWRFcVJVTjFubU9IYy1GOUo3bXNSclVKak8ycUdnWWIxdURiemhoRHlGeDVyM1d5ZVVsOHBST2RVNDlzNndkNC1OcHFNTFdYU3RSZ0JoekkxWFZjOTc2ZGNBcU9YNjNmeGk5TWdMMmQ4NXI1THA5TDRFdVVNQQ?oc=5",
-      "data": "27/05 07:00"
+      "titulo": "Quando Castilho venceu duelo com Yashin e o Fluminense ouviu apelos para maneirar na pancadaria - GE",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZXhSOGJobEs3RWs5MlpydkYxVGdwSjdvNzYxYlB4WV83S3RaVTVGWS04V2dsazNtaXdVUEUyVkI3S1R1c0VpbnYzYmU5ZW1JWEdPcVNEZXFlSGxPTGJmTnVnNmhEZkJGN0JSVG45bnNpbTFnN3c5ME1vVFQ5Yk5ITFB4UEUzZ2VDUTZ0UFluR1FsQmpGYnlZcWlMNmR2VnhqeGd4b0x2RWlUUmI1M3BHbEtCWXVMbWt5Nnl3MFVzZTZ3cVdmdWR3NXByXzA4WklhVnkyQ01VNXBkYVVUbm9xTndWSVVOTXlfZVVzdUdxaXM3Y1RSTGl5ZU530gGIAkFVX3lxTE1YU01kenQxS1RJYndxd2VWTlhvVmZBVGNYRFcwV2cwWnhSNmkzdW5KTHp4Xzh6UlBhQUpxVGk4dDBhMXRxTWQ0dmpyX1BOX0k3bGo3aEJ3eFRFNEVaazRObjNha1dDc090T1c4R09ieUhlNmxMTkhqVmNqeTFiVXNILXI2X3pwQVVZWkxUUWFYT0U0TklwTU43ZFZTUG9ONkI0TUF5b2Z2RFIxdUFUWjJaY1lNYXlNZGwzWXZ0ZlItRkJVUWJzdmRnbUI1YmlFclRmZ055azBWYVN2TmJmX0J0ZXBPanZPM0J6RURQN25lN0Nndy16OWJyOTFPSWxWUzZ3NU9XeXlRcQ?oc=5",
+      "data": "14/07 07:00"
     },
     {
       "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnNLb3VwTW95R2pIZWN6Tld5NkxsNk5uVkQtYzdDQmJJWmZEX3A0Q2ZDWUlETW1kRXp4XzduelFhdXBJZ2tPdFJGMDdBM0dSUVNaUlBhcXc0Y3hzWERsem9XYW1lNDVncXJmSWtCY3NTLUNzSHFvN044WW1yN0NWRVMwa3Y4U0dOUlhEdmR0eG5vZmJlcktCcGdtNE1OR1VKeGtHYlRfdGJjUEM3NUE?oc=5",
       "data": "14/07 18:42"
+    },
+    {
+      "titulo": "Hulk marca o primeiro, Thiago Silva reestreia, e Fluminense vence o Bahia em amistoso antes da volta do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVmVFdjVYaThfM1ZpWDZtUkdVRHdVQ0FqekVCd05uWWFSbkVpS3BySGV5U0JibXpzX1pFdFF4c1FvbC1zaUhreTdsRDVOZ2xWQTJiTno2amwtMDcxNUpIWFpiQUZ1U2hqTDdQLU42MnhtTkstTXNZbWpPNVFSbzJzR3FXZmxxTkhQUWVfWWZkWUpWck1EeXdVa0ZVWWQ3Q0hQX3IzWVJtdUdoRVZ5T0s0N2loSnE4RlBfLW5VUW5MTFk2VkxGdy1uU0ZoZnNiUEY1LVcxWnFvM3V4RmgtQy1JQ3VFQjN4Zw?oc=5",
+      "data": "12/07 21:00"
     },
     {
       "titulo": "Confira a programação completa da Flu Fest 2026 - fluminense.com.br",
