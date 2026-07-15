@@ -1,21 +1,6 @@
 {
-  "atualizado_em": "15/07/2026 14:47",
+  "atualizado_em": "15/07/2026 18:31",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-15",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Inglaterra x Argentina",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "GE TV",
-        "NSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-15",
@@ -34,6 +19,21 @@
       "match": "NJ/NY Gotham FC (F) x Washington Spirit (F)",
       "channels": [
         "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-15",
+      "time": "16:00",
+      "competition": "Copa do Mundo",
+      "match": "Inglaterra x Argentina",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "GE TV",
+        "NSPORTS"
       ]
     },
     {
@@ -119,16 +119,6 @@
       "match": "Seattle Sounders x Portland Timbers",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-15",
-      "time": "14:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sérvia x Turquia",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -330,63 +320,73 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-15",
+      "time": "14:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sérvia x Turquia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.8,
+      "temp_max": 23.4,
       "temp_min": 16.4,
       "chance_chuva": 8,
-      "condicao": "Céu limpo"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.8,
+      "temp_max": 22.9,
       "temp_min": 14.6,
       "chance_chuva": 6,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.1,
+      "temp_max": 17.3,
       "temp_min": 10.3,
       "chance_chuva": 2,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.8,
-      "temp_min": 8.5,
+      "temp_max": 18.0,
+      "temp_min": 8.6,
       "chance_chuva": 6,
       "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
     {
+      "titulo": "Fluminense estipula valor de venda do zagueiro Freytes - explosão tricolor",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1F0QzZQV01vUlBEM2pVWFMtNzZXU1NxUG8xVFc1WlloUHJOMzRRRldGZDYxMUt2eGxTYS1kcFlpb3lXNHUycVhWcUNZMFhMcHRZWGFxaUJXVllFazZIak1wU25TMGxKUmxtaVh6cUJlZ0tLM1dZM1JKMm10dGJub3Bwek1fb2xU?oc=5",
+      "data": "15/07 11:28"
+    },
+    {
+      "titulo": "Perto de renovar com o Fluminense, meia é um dos atletas mais decisivos no ano - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWHI4Um5waURabU5MNndRTFEyZjBZOHZrOEo2UGdQTU1HNjltamZMLW5saC1tT3hYLTh0akRvTERGdzh2MXJWSVdfOU5TQTlmNlI3UUhCTk5hcHdraC1LRWswSFhLaEJBZ3NmZF82QW96Mm9MSmNKQjBRbGZjS1p2dXp1TkVidTRUd0dJdjRIYTZBWEtCbFUwVHFTd3QyZjJhNEphZjgxYw?oc=5",
+      "data": "15/07 19:59"
+    },
+    {
+      "titulo": "Lazio demonstra interesse na contratação de John Kennedy, do Fluminense - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlNKZW5GVURURzBBaFJadWlOeVJjcXdVZW80b3pmczdEV0MtMUJDSk1TRkJsdVNQODJIdFctREMxNnpIVVFOLXkyNXNlMldBdlhmOVp1LVg4cjdFLThqbDBldFpmNFhsaDk2YUdwaTl1MHhSOGM3a3cwQXNuS2sxUkJxOWVCdjhYX2FnRVk0SHdlZ3kzU2R6UlQ4dHdEOFV5bEFlcll0XzlQUFFUbmpmOThnM2JTbjgya3BuYWZsUm1SZ3J0VEtRajNJSTNuNmZZWWNJaXo0a0zSAd4BQVVfeXFMT2RRT2lUd19wU0hPVS1EengyRlBvQzl1SDNMbjBHRUxDXzdsTDRZYmZFalVtLWtsMVI0cnI0aUFnT0l4b2tBWkZQWWFuaGtBZDdGQ2owcUVTeGJtRTlPdzU2bXhtUHc5Y3ZUYlB2dTZLeGxCSWk1SWpqNXFLVG5fZm45emFueUdPUVkwY2swWWVENU50dzFyNXVGWTB0MTM4VmRraGVSS090SVo2SlpMbFFqXzE3eFlLaDZlYndDMUdzNHl6MXhIWm9obl9ZSzhMX250elV0RkxEd09IVkp3?oc=5",
+      "data": "15/07 19:16"
+    },
+    {
+      "titulo": "Martinelli destaca Hulk e Thiago Silva no Fluminense: 'Sabem do peso' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbEtrY0sxQW4wNWdUX2dYM04yRUJMQ0ppT0ZLTkZMbEo0ZVViZHNBSHk2TzlOM0hBN2R0UFpVQlhqYVpkREVwcDREeVRJS3FvMEpSY1dmdDBpZ1RHaEtmT2h4c1hHN3dINDZuaFJ1dXBxS0VFeTNpWXE0UE9MV2VhUXh0MTNEZWJUV0hNRTV5cHE1eDBVdEZyd20xY3JMZWNNbktYLVl1alMtaHVrUVNVaEJqLWhFWlFtaXcw?oc=5",
+      "data": "15/07 19:45"
+    },
+    {
       "titulo": "Fábio se aproxima de lendas do Fluminense e caminha ao Top 3 de goleiros com mais jogos sem sofrer gols - GE",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQzBoOUNfN3V5amZrb2VzUnpaV2RXbmlYR3lXT09VLUxJeGZlVkh0Z2w5UXRYNGlDa2lxXy1jNlcycTlqWms1OW95M0ZJYS1MRkk5OE4yemM2cXozVGd4T2tyWGRScmNHM1QycnBWZVExRmdqVGdGbEZBal9uZ1BudWxDLXVCeGZrWVNMandGR3JhRVpWLTNrbzZwb0RaRmJlSy1RYkxPZjhRYmkzWGp5Z3BPZG40U2tkNU8wczltSFV3M0xLZmZSX3V6NnJoSVgxS0dYeWtoREZxcWJOMjN3Q1ZlcndUOHZTNTRCaHdFc3JiZkljZkprRHNhaGNBOHfSAY4CQVVfeXFMTzY3RW45a0ZWRmpPbmNWeWpUQ184YzdKSVRHUkJHWUZrMGNhQTJ4WXZyWDdTcUlhaHlONVdqX19qZDZpaVpySHJJV1QwbVlmUV9Dam5iNl84eVVxSWljeTZxQ0Y1QjcyTWhqMjg0V0ppeUI2c2F0S2xmYlpkOU5yXzkwSGppZ0RiclR1eEU5d29RTWk4ckRsdjNkTjFKem0xSG0zTFBwSzN2LV9JekUtY2o5cnhSVVZjT2Ytek5LWGhWSjdzNXptYVFCZEZaRDQ1R1pFNlBmeXlhNjMzSFhGd1dfMzlheWt3Umg2cjF1MHhuNEVCZkhTM1N5Y0E2V3VoYWk3azZsNmk5VWZIenJR?oc=5",
       "data": "15/07 07:01"
-    },
-    {
-      "titulo": "Futuro de Freytes no Fluminense ganha novo capítulo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHAtOXFYM0dCTUlZREtjdVd2M2txZDFySlV0TVpMdm55aXJ1TjFNeEZIRkV3Tk9fZVl1WmRqelEtOV9EVFdZZHVTUXZ0cjF2TjEtaGZPZ2NadmNGZjRMOGdQV3VhSnNlNWpUSmJlV0cyODVJemU5TXFHSDRRdHR3enJwRjhjZW9DVXpYYjRrdEx5X1l1cXkw?oc=5",
-      "data": "15/07 08:00"
-    },
-    {
-      "titulo": "Inter de Milão está interessado em jogador do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdllZbGpNSERwTVpMSnplSE12YU82TmFYSXQ4QzNYRlRWcEJGTGtobDhQcEZpRHdLTHJrQlBYOExydTZlZm91cFhQMW41RUZWcUhIeWxLbGdJWUR1VXBSa0RmYlF1bmkzNW5zcktDVzVNcmpXT3JwNTlMVUQtV3RTWERkeXpIX1BjRkt6QkNQZmxmb3lSb3gtNGl1YlR4Y1FwZGVXVjk3RVQ2bXNEd1ZBQVdDNkVlWFFVdmlzdENHZE9zS3VSeHdDWHVzS3ZuMjBGejNORUVORDIzTkZ5bTBvSg?oc=5",
-      "data": "15/07 12:47"
-    },
-    {
-      "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnNLb3VwTW95R2pIZWN6Tld5NkxsNk5uVkQtYzdDQmJJWmZEX3A0Q2ZDWUlETW1kRXp4XzduelFhdXBJZ2tPdFJGMDdBM0dSUVNaUlBhcXc0Y3hzWERsem9XYW1lNDVncXJmSWtCY3NTLUNzSHFvN044WW1yN0NWRVMwa3Y4U0dOUlhEdmR0eG5vZmJlcktCcGdtNE1OR1VKeGtHYlRfdGJjUEM3NUE?oc=5",
-      "data": "14/07 18:42"
-    },
-    {
-      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
-      "data": "16/05 07:00"
     }
   ],
   "avisos": []
