@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/07/2026 09:10",
+  "atualizado_em": "16/07/2026 13:56",
   "jogos": [
     {
       "sport": "futebol",
@@ -265,26 +265,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-16",
-      "time": "07:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Japão x Canadá",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-16",
-      "time": "11:20",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Irã x Alemanha",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-16",
       "time": "17:50",
       "competition": "Vôlei (SporTV2)",
       "match": "China x França",
@@ -471,63 +451,83 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-16",
+      "time": "07:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Japão x Canadá",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-16",
+      "time": "11:20",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Irã x Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.8,
-      "temp_min": 15.7,
+      "temp_max": 23.7,
+      "temp_min": 15.1,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.5,
-      "temp_min": 17.7,
+      "temp_min": 17.6,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.6,
-      "temp_min": 9.5,
+      "temp_max": 18.1,
+      "temp_min": 9.3,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.9,
-      "temp_min": 8.0,
+      "temp_max": 18.6,
+      "temp_min": 7.7,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Futuro de Freytes no Fluminense ganha novo capítulo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHAtOXFYM0dCTUlZREtjdVd2M2txZDFySlV0TVpMdm55aXJ1TjFNeEZIRkV3Tk9fZVl1WmRqelEtOV9EVFdZZHVTUXZ0cjF2TjEtaGZPZ2NadmNGZjRMOGdQV3VhSnNlNWpUSmJlV0cyODVJemU5TXFHSDRRdHR3enJwRjhjZW9DVXpYYjRrdEx5X1l1cXkw?oc=5",
-      "data": "15/07 08:00"
+      "titulo": "Fluminense inicia obras para transformar estádio em espaço para shows - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3JIQTNSTmtuSWpVTWsyV2ttUGl4UzJLcHJkMEM5elI3WUhsVzhmcVVNTkh5WkhCc3RubVg2eHJvTnYwcGt1TVFaMEQzckp4VVRDdEdkNTVuVUV6MmhwbmRDME9vSUVHNDJxZFVXellCRC1TYVdVa2VDV1N1UGh1M1pEQ3M3VXZnVWdHVXNzamlxRzZucUVkdG9lZm9oSGtCVTQtcTRrYmdsUQ?oc=5",
+      "data": "16/07 15:19"
     },
     {
-      "titulo": "Com mercado de olho, Hércules e Martinelli viram peças-chave do Fluminense de Zubeldía - GE",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT1BhQ1FPSjZDaGhMcEZRaUlhRVg3TEJ5Vk9pdXdKdVlkMUJRNnJvdVdnWHhLNVB5a0pCakw5R0J5cS01eTRpS2lvaDNWZnRNdjFkcEZkMkFQR2ljS2FzQm5Na1FQQnB2RVhtTm1WSXgzeGVNYVlHWmJKbzlOZHR4Mi1FcHJYVmpudFI4Zi1pcHRSdFBwVHNjVE5FUW9JQTVwS1BLX1hBYnZibGI3OHQ0dG5QWXA4NXZTTmNYN3FOQnhLU3pQQ3cwTGNCTFY0akFQV1MwYloycXZ5cVRfMGFDY0ppcWJEcmlnOU9jTNIB-wFBVV95cUxOaXVzbmNrdHlnS2FEVl9semt0VGJEVnZ2RHlqQ19lWW9zenJ0R1c5RDdlY1QtTU1fNnRhWkZjS1BlWEp1X09lTnBxVjRsUGdQcGFCWE1XazJWN3VnZTNvdG1udFdiV2ZwS0thZElIaXZkZGZ6WEZVS1gtODhOUndTRTRYQmRpLVVSaFVuTEktSENjRWl1cTVUcmFrTFBHQ3psdU0tc2ZCdktvX2I3OG9IcUlwVmRQV1VHN2FDblpwWG85SHY1QU0tRGNxMUpUNjJpbDBLR21FXzRBOVI4UmhqQ0w3ZE1QNlBwblBhZ0pYc2lNX3lHWlRSaEgtYw?oc=5",
-      "data": "16/07 11:09"
+      "titulo": "Fluminense conhece tabela do Carioca Feminino Sub-20 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmFiQjYycHdlSkgxRjY2YmZUU0ZlcVNXU2F1cnRnNEZ0OHdxNi1UZEMyam5EM1dMZmdESTVYQXZ4NDVrU0hybkRUUFRHWnlOd0ZVRnpxRFhfeVpGSnRDc0ZhX095Sk0zbFoyS0JQWUVGSWVWTk1IZkJBWWI1XzdRUVpUNU1Xd193QmNXcXQzTlo0QTMydHFLanMwbw?oc=5",
+      "data": "16/07 14:55"
+    },
+    {
+      "titulo": "Fluminense toma decisão sobre dois titulares após interesse do mercado europeu - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXVJNnpzZW1ONk92U0Z1SjRMemwtMW1odVVPZ3FPUS1CTllHUWRWaFBHNTR6N0JYYkJ1RWEzYm1OeFl2NDRmTG5XMkJJc3luVXVIU2JQQ0tUZmctbmtldjRFbEkxdm5nSWdPeTRuMm5HU2hPZGFnVWdfc3pUQXhhNVd5OFFvTVdrRjhJS2hpM0l3RGRzaWVSZDUyWXZTUlRRcXR3MVpwMWw?oc=5",
+      "data": "16/07 13:00"
+    },
+    {
+      "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 19ª rodada - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTURQN091VnE2dEhQYzJfcWI5b2tQVVZjTzB4aG10U25lSENqU19FMnFNcjNHcXpoUXl4Z3k2b1VsUW9VVFk5bmhlX19rX3dVV0lYZ0twZFB6VmtRcGJQVjRyT1A5Vm1lU1lPWVZDcnNSYjNycUh4NHRMOWQteW9mRk1VM0xVSUpVRlBVLVV6d1B4OTdOaGZUbzY5c0s2ZDg5YnZ0S3B1ZUZTckJ4ZjBCVTRMUVBRLWo5UTlXUlRyZ1M5T1owQlpFTVNLUlpCUWFlQVgwcjlveG44dm5h0gHrAUFVX3lxTE4wMVVDTlJSZU1HR29wcXE0dEhqRWNQSWY4V0Q4eFYtaDRCajVLSXQ2T2ZaMnBOdzRRMFZlRWdTVkVBWE04S1pQLTRmU3NEZE9KZUwzZTJqU0haamZHZi1ES1UxeS1XenZOS0FxOWpURG1WUWp4VjhWOEtfRmktR1ZrTER3WjlNZ0tFbG04c0ItdmZQQ0EtTm44eXN4TXlaemd1VEc2S3REMS02LUd2blNIckp2X09GYnJwVzdTb0N6QWM4S0p3QU83WE0tZlEycEdHb09jQ1dLU0NkRGFraWY4YlRtUERIeDdlcE0?oc=5",
+      "data": "16/07 05:00"
     },
     {
       "titulo": "Fluminense aguarda propostas por John Kennedy e Canobbio com abertura da janela internacional - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbk9FaTVFVDE4bGpsRUl0YndnRzJQZkRQQUlUZXVDb2Z4M3NfQmVPSDhKY053X3hwYUhnTkdfSmdBN0NUYmpVTUY1Y19NLWVFQlN1NHhoMmhwWFFmYUozWDg2VkNnZ1hhdzdua1pabE1KcENEbjcwS2JOYmRreGVOaWVBY2dyd3dfRmpCaE9sZ2NzSGNwanNKYjM3UTBmVkZ3cVFhdlhzNTd5aF96RC0xbndzVnJQVzNPdEI3M0xyYWl4b1NhZzBlR2ZrUkg0Q3RuZHZ0WTd1T0Jyd2c2cFFlTC1kamIzUFZYU0oyUV8teFlfdkQzbWs0SEdyaDNWSnRZ0gGPAkFVX3lxTFBNMHJtZV9GazhSSVNsSWRVT2JJTG4wcmR4SDF0UDNmc2xEeHdIaGpJX29fREtFX1JzSTl6NFpZZ0gtZ0VDUXdveXRTREtqWHl3MnNIaVNoRlA5UzVSLWc0UUF0ZElQTGJvUnN6WkY5eVZFY2ZsVGEtamlFcFVlX1AwMnY0dXpxcTN3eEZzQ21sOVh5STczbGlvamc2WnpuVWxtRkRjM2lFcnFCaUlGSEl0R0tRUU5teTNCVDBtOXk5LXpRWGtEVmlYN2p3M1Q0X3FvWi1qMXQzVi1FMDQ4WVZwUWRLbXRHMm45UHA1ODRQREVNMTdaZzlSTHVNcjR5c1pIWEY3eGVtYW4xNkJHa1E?oc=5",
       "data": "16/07 07:30"
-    },
-    {
-      "titulo": "Inter de Milão está interessado em jogador do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdllZbGpNSERwTVpMSnplSE12YU82TmFYSXQ4QzNYRlRWcEJGTGtobDhQcEZpRHdLTHJrQlBYOExydTZlZm91cFhQMW41RUZWcUhIeWxLbGdJWUR1VXBSa0RmYlF1bmkzNW5zcktDVzVNcmpXT3JwNTlMVUQtV3RTWERkeXpIX1BjRkt6QkNQZmxmb3lSb3gtNGl1YlR4Y1FwZGVXVjk3RVQ2bXNEd1ZBQVdDNkVlWFFVdmlzdENHZE9zS3VSeHdDWHVzS3ZuMjBGejNORUVORDIzTkZ5bTBvSg?oc=5",
-      "data": "15/07 12:47"
-    },
-    {
-      "titulo": "Polêmica sobre horário do clássico ganha novo capítulo após nota oficial do Feira FC - Folha do Estado da Bahia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0FjalNNRjlTUS12aENSSlBBR0prVzdQQlZhV2o1TkxBT0FYYnBkVmZvZngxaS1Vb0cwRWZVNW5DTGladHNqYjBOa3VBM0x2YmdmZm1YV0hjdHpQSUZ3OVRBVENiV2JVbXhuRVEzakE2RnNWNWtLTGc3c0NLZVJUMVVVTnVhUjd0d0pwZ29jNHh5UGsycnhjQkhOWFNpYXlxWC16b3NYV0NWLU8yWFJIeDItNjFFNi1vd00tWDFjMlcwRnBZMHkzYWF3?oc=5",
-      "data": "15/07 20:02"
     }
   ],
   "avisos": []
