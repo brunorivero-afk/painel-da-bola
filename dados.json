@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "16/07/2026 03:36",
+  "atualizado_em": "16/07/2026 09:10",
   "jogos": [
     {
       "sport": "futebol",
@@ -476,29 +476,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.9,
+      "temp_max": 23.8,
       "temp_min": 15.7,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.3,
-      "temp_min": 17.9,
+      "temp_max": 25.5,
+      "temp_min": 17.7,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.8,
-      "temp_min": 9.7,
+      "temp_max": 18.6,
+      "temp_min": 9.5,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.2,
-      "temp_min": 8.1,
+      "temp_max": 18.9,
+      "temp_min": 8.0,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
@@ -510,9 +510,14 @@
       "data": "15/07 08:00"
     },
     {
-      "titulo": "Lazio demonstra interesse em John Kennedy, do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDFEZDlkMTF2emE1VGxfVzdpUlVwaEI5UGhwbGNvVGp2dUtocllydnFnRFpOeUFQN0xHRzRqMnY2Nk9WaGVzNklRU2sxYkFFYjBZNkFwS0xXd2tTeE1MT01oRGJBbTZ1VmYwUTdkS3o3MGgyX1E5eS1DYVNLQmpQUkduZzV3NEpHc29iRFpJZ0ZrbVZvWnpaYnUyV0E3MG1SUHFDczduQ0MtVVltU3BJbHQ5NXRYS2xXZVpMbllaMGM4ZXhH0gHTAUFVX3lxTFBWaVY3T2t2ZGhhV29uWlF5dWt5Z1BuX2liSFB6OHdoOHVBSUpYQlhxYVNHdS14ZWVJMVlEMEc0RWZoR0w4d19KY0ZQd01ad0xnQ3lUSFRRbGhZNUJ5LUZYX0JMQk4xbE9GUDlRZXdwUHR6SUJoM0dueDVtZlg2T2VtaFg5ZjJmclpKd29YYWRROF8ycF91eDZzX0xzM0VjcXRqSDVHTk1wUnBubWt3TWp5NDhJX1JxUUhUVVowSmRRRXFZa3Voa2dlZGNJYk43Zmc4VlE?oc=5",
-      "data": "15/07 15:56"
+      "titulo": "Com mercado de olho, Hércules e Martinelli viram peças-chave do Fluminense de Zubeldía - GE",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNT1BhQ1FPSjZDaGhMcEZRaUlhRVg3TEJ5Vk9pdXdKdVlkMUJRNnJvdVdnWHhLNVB5a0pCakw5R0J5cS01eTRpS2lvaDNWZnRNdjFkcEZkMkFQR2ljS2FzQm5Na1FQQnB2RVhtTm1WSXgzeGVNYVlHWmJKbzlOZHR4Mi1FcHJYVmpudFI4Zi1pcHRSdFBwVHNjVE5FUW9JQTVwS1BLX1hBYnZibGI3OHQ0dG5QWXA4NXZTTmNYN3FOQnhLU3pQQ3cwTGNCTFY0akFQV1MwYloycXZ5cVRfMGFDY0ppcWJEcmlnOU9jTNIB-wFBVV95cUxOaXVzbmNrdHlnS2FEVl9semt0VGJEVnZ2RHlqQ19lWW9zenJ0R1c5RDdlY1QtTU1fNnRhWkZjS1BlWEp1X09lTnBxVjRsUGdQcGFCWE1XazJWN3VnZTNvdG1udFdiV2ZwS0thZElIaXZkZGZ6WEZVS1gtODhOUndTRTRYQmRpLVVSaFVuTEktSENjRWl1cTVUcmFrTFBHQ3psdU0tc2ZCdktvX2I3OG9IcUlwVmRQV1VHN2FDblpwWG85SHY1QU0tRGNxMUpUNjJpbDBLR21FXzRBOVI4UmhqQ0w3ZE1QNlBwblBhZ0pYc2lNX3lHWlRSaEgtYw?oc=5",
+      "data": "16/07 11:09"
+    },
+    {
+      "titulo": "Fluminense aguarda propostas por John Kennedy e Canobbio com abertura da janela internacional - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbk9FaTVFVDE4bGpsRUl0YndnRzJQZkRQQUlUZXVDb2Z4M3NfQmVPSDhKY053X3hwYUhnTkdfSmdBN0NUYmpVTUY1Y19NLWVFQlN1NHhoMmhwWFFmYUozWDg2VkNnZ1hhdzdua1pabE1KcENEbjcwS2JOYmRreGVOaWVBY2dyd3dfRmpCaE9sZ2NzSGNwanNKYjM3UTBmVkZ3cVFhdlhzNTd5aF96RC0xbndzVnJQVzNPdEI3M0xyYWl4b1NhZzBlR2ZrUkg0Q3RuZHZ0WTd1T0Jyd2c2cFFlTC1kamIzUFZYU0oyUV8teFlfdkQzbWs0SEdyaDNWSnRZ0gGPAkFVX3lxTFBNMHJtZV9GazhSSVNsSWRVT2JJTG4wcmR4SDF0UDNmc2xEeHdIaGpJX29fREtFX1JzSTl6NFpZZ0gtZ0VDUXdveXRTREtqWHl3MnNIaVNoRlA5UzVSLWc0UUF0ZElQTGJvUnN6WkY5eVZFY2ZsVGEtamlFcFVlX1AwMnY0dXpxcTN3eEZzQ21sOVh5STczbGlvamc2WnpuVWxtRkRjM2lFcnFCaUlGSEl0R0tRUU5teTNCVDBtOXk5LXpRWGtEVmlYN2p3M1Q0X3FvWi1qMXQzVi1FMDQ4WVZwUWRLbXRHMm45UHA1ODRQREVNMTdaZzlSTHVNcjR5c1pIWEY3eGVtYW4xNkJHa1E?oc=5",
+      "data": "16/07 07:30"
     },
     {
       "titulo": "Inter de Milão está interessado em jogador do Fluminense - Terra",
@@ -523,11 +528,6 @@
       "titulo": "Polêmica sobre horário do clássico ganha novo capítulo após nota oficial do Feira FC - Folha do Estado da Bahia",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0FjalNNRjlTUS12aENSSlBBR0prVzdQQlZhV2o1TkxBT0FYYnBkVmZvZngxaS1Vb0cwRWZVNW5DTGladHNqYjBOa3VBM0x2YmdmZm1YV0hjdHpQSUZ3OVRBVENiV2JVbXhuRVEzakE2RnNWNWtLTGc3c0NLZVJUMVVVTnVhUjd0d0pwZ29jNHh5UGsycnhjQkhOWFNpYXlxWC16b3NYV0NWLU8yWFJIeDItNjFFNi1vd00tWDFjMlcwRnBZMHkzYWF3?oc=5",
       "data": "15/07 20:02"
-    },
-    {
-      "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnNLb3VwTW95R2pIZWN6Tld5NkxsNk5uVkQtYzdDQmJJWmZEX3A0Q2ZDWUlETW1kRXp4XzduelFhdXBJZ2tPdFJGMDdBM0dSUVNaUlBhcXc0Y3hzWERsem9XYW1lNDVncXJmSWtCY3NTLUNzSHFvN044WW1yN0NWRVMwa3Y4U0dOUlhEdmR0eG5vZmJlcktCcGdtNE1OR1VKeGtHYlRfdGJjUEM3NUE?oc=5",
-      "data": "14/07 18:42"
     }
   ],
   "avisos": []
