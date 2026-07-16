@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/07/2026 13:56",
+  "atualizado_em": "16/07/2026 17:14",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,9 +9,8 @@ window.PAINEL_DATA = {
       "match": "Botafogo x Santos",
       "channels": [
         "RECORD",
-        "PREMIERE",
-        "CAZÉTV",
-        "YOUTUBE"
+        "PREMIERE 2",
+        "CAZÉTV"
       ]
     },
     {
@@ -21,7 +20,7 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Vitória x Vasco",
       "channels": [
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -32,6 +31,7 @@ window.PAINEL_DATA = {
       "match": "CRB x Náutico",
       "channels": [
         "XSPORTS",
+        "ESPN",
         "SPORTYNET",
         "DISNEY+"
       ]
@@ -113,7 +113,6 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Feminino",
       "match": "Vitoria BA W x Botafogo (F)",
       "channels": [
-        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -184,7 +183,7 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Fluminense x RB Bragantino",
       "channels": [
-        "PREMIERE",
+        "SPORTV",
         "PREMIERE FC"
       ]
     },
@@ -195,7 +194,6 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Mirassol x Grêmio",
       "channels": [
-        "PREMIERE",
         "PREMIERE 3"
       ]
     },
@@ -217,8 +215,8 @@ window.PAINEL_DATA = {
       "match": "Fortaleza x Novorizontino",
       "channels": [
         "XSPORTS",
-        "SPORTYNET",
         "ESPN",
+        "SPORTYNET",
         "DISNEY+"
       ]
     },
@@ -476,21 +474,21 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.7,
+      "temp_max": 24.0,
       "temp_min": 15.1,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.5,
+      "temp_max": 25.6,
       "temp_min": 17.6,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.1,
+      "temp_max": 18.2,
       "temp_min": 9.3,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
@@ -505,19 +503,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense inicia obras para transformar estádio em espaço para shows - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3JIQTNSTmtuSWpVTWsyV2ttUGl4UzJLcHJkMEM5elI3WUhsVzhmcVVNTkh5WkhCc3RubVg2eHJvTnYwcGt1TVFaMEQzckp4VVRDdEdkNTVuVUV6MmhwbmRDME9vSUVHNDJxZFVXellCRC1TYVdVa2VDV1N1UGh1M1pEQ3M3VXZnVWdHVXNzamlxRzZucUVkdG9lZm9oSGtCVTQtcTRrYmdsUQ?oc=5",
-      "data": "16/07 15:19"
+      "titulo": "Fluminense aguarda propostas por John Kennedy e Canobbio com abertura da janela internacional - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbk9FaTVFVDE4bGpsRUl0YndnRzJQZkRQQUlUZXVDb2Z4M3NfQmVPSDhKY053X3hwYUhnTkdfSmdBN0NUYmpVTUY1Y19NLWVFQlN1NHhoMmhwWFFmYUozWDg2VkNnZ1hhdzdua1pabE1KcENEbjcwS2JOYmRreGVOaWVBY2dyd3dfRmpCaE9sZ2NzSGNwanNKYjM3UTBmVkZ3cVFhdlhzNTd5aF96RC0xbndzVnJQVzNPdEI3M0xyYWl4b1NhZzBlR2ZrUkg0Q3RuZHZ0WTd1T0Jyd2c2cFFlTC1kamIzUFZYU0oyUV8teFlfdkQzbWs0SEdyaDNWSnRZ0gGPAkFVX3lxTFBNMHJtZV9GazhSSVNsSWRVT2JJTG4wcmR4SDF0UDNmc2xEeHdIaGpJX29fREtFX1JzSTl6NFpZZ0gtZ0VDUXdveXRTREtqWHl3MnNIaVNoRlA5UzVSLWc0UUF0ZElQTGJvUnN6WkY5eVZFY2ZsVGEtamlFcFVlX1AwMnY0dXpxcTN3eEZzQ21sOVh5STczbGlvamc2WnpuVWxtRkRjM2lFcnFCaUlGSEl0R0tRUU5teTNCVDBtOXk5LXpRWGtEVmlYN2p3M1Q0X3FvWi1qMXQzVi1FMDQ4WVZwUWRLbXRHMm45UHA1ODRQREVNMTdaZzlSTHVNcjR5c1pIWEY3eGVtYW4xNkJHa1E?oc=5",
+      "data": "16/07 07:30"
     },
     {
-      "titulo": "Fluminense conhece tabela do Carioca Feminino Sub-20 2026 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmFiQjYycHdlSkgxRjY2YmZUU0ZlcVNXU2F1cnRnNEZ0OHdxNi1UZEMyam5EM1dMZmdESTVYQXZ4NDVrU0hybkRUUFRHWnlOd0ZVRnpxRFhfeVpGSnRDc0ZhX095Sk0zbFoyS0JQWUVGSWVWTk1IZkJBWWI1XzdRUVpUNU1Xd193QmNXcXQzTlo0QTMydHFLanMwbw?oc=5",
-      "data": "16/07 14:55"
-    },
-    {
-      "titulo": "Fluminense toma decisão sobre dois titulares após interesse do mercado europeu - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXVJNnpzZW1ONk92U0Z1SjRMemwtMW1odVVPZ3FPUS1CTllHUWRWaFBHNTR6N0JYYkJ1RWEzYm1OeFl2NDRmTG5XMkJJc3luVXVIU2JQQ0tUZmctbmtldjRFbEkxdm5nSWdPeTRuMm5HU2hPZGFnVWdfc3pUQXhhNVd5OFFvTVdrRjhJS2hpM0l3RGRzaWVSZDUyWXZTUlRRcXR3MVpwMWw?oc=5",
-      "data": "16/07 13:00"
+      "titulo": "Fluminense x Bragantino: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNajY1S0liUDJ2eTRUdm13VnM5QXM1TVVMMngyVG5xMkVNM0FGUDc1b1pHMVBBTENEVHF5Y1EzUmJ4OXh0T05yRzZYdUdDbkdvZjBZcXRMQjFCal9NSXplTEl1c0xGUHNxRlNEVjFFSlVhMmppSVpVYU5XQjFFRHZGekVXOHBWOGtFakVqQXo3TVRMQnNLYTI2X0UyZDUza29ZSUdkdXk2MUZrYWZDYnV0bElnanNQMW5LLXVOY0VLVTJJREEyNnpNMXloY0xNRmZPdTVoVkJ1M1JXYml6bnZNWFN2WmpVNW14ZE0wTHB3MWc5Q21WZXlV?oc=5",
+      "data": "16/07 15:30"
     },
     {
       "titulo": "Brasileirão 2026: veja onde assistir ao vivo aos jogos da 19ª rodada - ge",
@@ -525,9 +518,14 @@ window.PAINEL_DATA = {
       "data": "16/07 05:00"
     },
     {
-      "titulo": "Fluminense aguarda propostas por John Kennedy e Canobbio com abertura da janela internacional - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbk9FaTVFVDE4bGpsRUl0YndnRzJQZkRQQUlUZXVDb2Z4M3NfQmVPSDhKY053X3hwYUhnTkdfSmdBN0NUYmpVTUY1Y19NLWVFQlN1NHhoMmhwWFFmYUozWDg2VkNnZ1hhdzdua1pabE1KcENEbjcwS2JOYmRreGVOaWVBY2dyd3dfRmpCaE9sZ2NzSGNwanNKYjM3UTBmVkZ3cVFhdlhzNTd5aF96RC0xbndzVnJQVzNPdEI3M0xyYWl4b1NhZzBlR2ZrUkg0Q3RuZHZ0WTd1T0Jyd2c2cFFlTC1kamIzUFZYU0oyUV8teFlfdkQzbWs0SEdyaDNWSnRZ0gGPAkFVX3lxTFBNMHJtZV9GazhSSVNsSWRVT2JJTG4wcmR4SDF0UDNmc2xEeHdIaGpJX29fREtFX1JzSTl6NFpZZ0gtZ0VDUXdveXRTREtqWHl3MnNIaVNoRlA5UzVSLWc0UUF0ZElQTGJvUnN6WkY5eVZFY2ZsVGEtamlFcFVlX1AwMnY0dXpxcTN3eEZzQ21sOVh5STczbGlvamc2WnpuVWxtRkRjM2lFcnFCaUlGSEl0R0tRUU5teTNCVDBtOXk5LXpRWGtEVmlYN2p3M1Q0X3FvWi1qMXQzVi1FMDQ4WVZwUWRLbXRHMm45UHA1ODRQREVNMTdaZzlSTHVNcjR5c1pIWEY3eGVtYW4xNkJHa1E?oc=5",
-      "data": "16/07 07:30"
+      "titulo": "Inter de Milão está interessado em jogador do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdllZbGpNSERwTVpMSnplSE12YU82TmFYSXQ4QzNYRlRWcEJGTGtobDhQcEZpRHdLTHJrQlBYOExydTZlZm91cFhQMW41RUZWcUhIeWxLbGdJWUR1VXBSa0RmYlF1bmkzNW5zcktDVzVNcmpXT3JwNTlMVUQtV3RTWERkeXpIX1BjRkt6QkNQZmxmb3lSb3gtNGl1YlR4Y1FwZGVXVjk3RVQ2bXNEd1ZBQVdDNkVlWFFVdmlzdENHZE9zS3VSeHdDWHVzS3ZuMjBGejNORUVORDIzTkZ5bTBvSg?oc=5",
+      "data": "15/07 12:47"
+    },
+    {
+      "titulo": "Fluminense conhece tabela do Carioca Feminino Sub-20 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmFiQjYycHdlSkgxRjY2YmZUU0ZlcVNXU2F1cnRnNEZ0OHdxNi1UZEMyam5EM1dMZmdESTVYQXZ4NDVrU0hybkRUUFRHWnlOd0ZVRnpxRFhfeVpGSnRDc0ZhX095Sk0zbFoyS0JQWUVGSWVWTk1IZkJBWWI1XzdRUVpUNU1Xd193QmNXcXQzTlo0QTMydHFLanMwbw?oc=5",
+      "data": "16/07 14:55"
     }
   ],
   "avisos": []
