@@ -1,41 +1,6 @@
 {
-  "atualizado_em": "15/07/2026 18:31",
+  "atualizado_em": "16/07/2026 03:36",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-15",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "New England II x Columbus Crew II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-15",
-      "time": "21:00",
-      "competition": "NWSL Feminina",
-      "match": "NJ/NY Gotham FC (F) x Washington Spirit (F)",
-      "channels": [
-        "ESPN 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-15",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Inglaterra x Argentina",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "GE TV",
-        "NSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-16",
@@ -122,28 +87,184 @@
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-07-15",
-      "time": "17:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "França x Brasil",
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x Juan Pablo II College",
       "channels": [
-        "SporTV2"
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Albion FC x Juventud",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "15:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Vitoria BA W x Botafogo (F)",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "17:15",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Deportivo Garcilaso",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Ceará",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x Cuiabá",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Avai",
+      "channels": [
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "19:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Chapecoense-sc",
+      "channels": [
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x RB Bragantino",
+      "channels": [
+        "PREMIERE",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Mirassol x Grêmio",
+      "channels": [
+        "PREMIERE",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Toronto II x FC Cincinnati II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "21:00",
+      "competition": "Brasileirão Série B",
+      "match": "Fortaleza x Novorizontino",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "21:00",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x Botafogo SP",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "21:10",
+      "competition": "MLS",
+      "match": "Nashville SC x Atlanta United FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "22:00",
+      "competition": "Campeonato Peruano",
+      "match": "Cienciano x FBC Melgar",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "23:25",
+      "competition": "MLS",
+      "match": "Los Angeles Galaxy x Los Angeles FC",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
-      "time": "21:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "EUA x China",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Japão x Canadá",
@@ -153,7 +274,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "11:20",
       "competition": "Vôlei (SporTV2)",
       "match": "Irã x Alemanha",
@@ -163,7 +284,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "17:50",
       "competition": "Vôlei (SporTV2)",
       "match": "China x França",
@@ -173,7 +294,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "21:40",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Brasil",
@@ -183,7 +304,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "00:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Cuba x Argentina",
@@ -193,7 +314,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Irã x Eslovênia",
@@ -203,7 +324,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "17:45",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Bulgária",
@@ -213,7 +334,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "21:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Polônia",
@@ -223,7 +344,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "00:00",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Bulgária",
@@ -233,7 +354,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Alemanha",
@@ -243,7 +364,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "17:45",
       "competition": "Vôlei (SporTV2)",
       "match": "França x Polônia",
@@ -253,7 +374,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "21:45",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Bulgária",
@@ -263,7 +384,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "00:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Bélgica x Canadá",
@@ -273,7 +394,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "13:40",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Brasil",
@@ -283,7 +404,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "17:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Bulgária x França",
@@ -293,7 +414,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "21:45",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Polônia",
@@ -303,7 +424,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "23:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Canadá x Argentina",
@@ -313,7 +434,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "11:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Ucrânia x Irã",
@@ -323,10 +444,30 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Turquia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-16",
+      "time": "17:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "França x Brasil",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-16",
+      "time": "21:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "EUA x China",
       "channels": [
         "SporTV2"
       ]
@@ -335,58 +476,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.4,
-      "temp_min": 16.4,
-      "chance_chuva": 8,
-      "condicao": "Poucas nuvens"
+      "temp_max": 23.9,
+      "temp_min": 15.7,
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.9,
-      "temp_min": 14.6,
-      "chance_chuva": 6,
-      "condicao": "Nublado"
+      "temp_max": 25.3,
+      "temp_min": 17.9,
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.3,
-      "temp_min": 10.3,
-      "chance_chuva": 2,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 18.8,
+      "temp_min": 9.7,
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.0,
-      "temp_min": 8.6,
-      "chance_chuva": 6,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 19.2,
+      "temp_min": 8.1,
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense estipula valor de venda do zagueiro Freytes - explosão tricolor",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1F0QzZQV01vUlBEM2pVWFMtNzZXU1NxUG8xVFc1WlloUHJOMzRRRldGZDYxMUt2eGxTYS1kcFlpb3lXNHUycVhWcUNZMFhMcHRZWGFxaUJXVllFazZIak1wU25TMGxKUmxtaVh6cUJlZ0tLM1dZM1JKMm10dGJub3Bwek1fb2xU?oc=5",
-      "data": "15/07 11:28"
+      "titulo": "Futuro de Freytes no Fluminense ganha novo capítulo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHAtOXFYM0dCTUlZREtjdVd2M2txZDFySlV0TVpMdm55aXJ1TjFNeEZIRkV3Tk9fZVl1WmRqelEtOV9EVFdZZHVTUXZ0cjF2TjEtaGZPZ2NadmNGZjRMOGdQV3VhSnNlNWpUSmJlV0cyODVJemU5TXFHSDRRdHR3enJwRjhjZW9DVXpYYjRrdEx5X1l1cXkw?oc=5",
+      "data": "15/07 08:00"
     },
     {
-      "titulo": "Perto de renovar com o Fluminense, meia é um dos atletas mais decisivos no ano - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWHI4Um5waURabU5MNndRTFEyZjBZOHZrOEo2UGdQTU1HNjltamZMLW5saC1tT3hYLTh0akRvTERGdzh2MXJWSVdfOU5TQTlmNlI3UUhCTk5hcHdraC1LRWswSFhLaEJBZ3NmZF82QW96Mm9MSmNKQjBRbGZjS1p2dXp1TkVidTRUd0dJdjRIYTZBWEtCbFUwVHFTd3QyZjJhNEphZjgxYw?oc=5",
-      "data": "15/07 19:59"
+      "titulo": "Lazio demonstra interesse em John Kennedy, do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDFEZDlkMTF2emE1VGxfVzdpUlVwaEI5UGhwbGNvVGp2dUtocllydnFnRFpOeUFQN0xHRzRqMnY2Nk9WaGVzNklRU2sxYkFFYjBZNkFwS0xXd2tTeE1MT01oRGJBbTZ1VmYwUTdkS3o3MGgyX1E5eS1DYVNLQmpQUkduZzV3NEpHc29iRFpJZ0ZrbVZvWnpaYnUyV0E3MG1SUHFDczduQ0MtVVltU3BJbHQ5NXRYS2xXZVpMbllaMGM4ZXhH0gHTAUFVX3lxTFBWaVY3T2t2ZGhhV29uWlF5dWt5Z1BuX2liSFB6OHdoOHVBSUpYQlhxYVNHdS14ZWVJMVlEMEc0RWZoR0w4d19KY0ZQd01ad0xnQ3lUSFRRbGhZNUJ5LUZYX0JMQk4xbE9GUDlRZXdwUHR6SUJoM0dueDVtZlg2T2VtaFg5ZjJmclpKd29YYWRROF8ycF91eDZzX0xzM0VjcXRqSDVHTk1wUnBubWt3TWp5NDhJX1JxUUhUVVowSmRRRXFZa3Voa2dlZGNJYk43Zmc4VlE?oc=5",
+      "data": "15/07 15:56"
     },
     {
-      "titulo": "Lazio demonstra interesse na contratação de John Kennedy, do Fluminense - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlNKZW5GVURURzBBaFJadWlOeVJjcXdVZW80b3pmczdEV0MtMUJDSk1TRkJsdVNQODJIdFctREMxNnpIVVFOLXkyNXNlMldBdlhmOVp1LVg4cjdFLThqbDBldFpmNFhsaDk2YUdwaTl1MHhSOGM3a3cwQXNuS2sxUkJxOWVCdjhYX2FnRVk0SHdlZ3kzU2R6UlQ4dHdEOFV5bEFlcll0XzlQUFFUbmpmOThnM2JTbjgya3BuYWZsUm1SZ3J0VEtRajNJSTNuNmZZWWNJaXo0a0zSAd4BQVVfeXFMT2RRT2lUd19wU0hPVS1EengyRlBvQzl1SDNMbjBHRUxDXzdsTDRZYmZFalVtLWtsMVI0cnI0aUFnT0l4b2tBWkZQWWFuaGtBZDdGQ2owcUVTeGJtRTlPdzU2bXhtUHc5Y3ZUYlB2dTZLeGxCSWk1SWpqNXFLVG5fZm45emFueUdPUVkwY2swWWVENU50dzFyNXVGWTB0MTM4VmRraGVSS090SVo2SlpMbFFqXzE3eFlLaDZlYndDMUdzNHl6MXhIWm9obl9ZSzhMX250elV0RkxEd09IVkp3?oc=5",
-      "data": "15/07 19:16"
+      "titulo": "Inter de Milão está interessado em jogador do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdllZbGpNSERwTVpMSnplSE12YU82TmFYSXQ4QzNYRlRWcEJGTGtobDhQcEZpRHdLTHJrQlBYOExydTZlZm91cFhQMW41RUZWcUhIeWxLbGdJWUR1VXBSa0RmYlF1bmkzNW5zcktDVzVNcmpXT3JwNTlMVUQtV3RTWERkeXpIX1BjRkt6QkNQZmxmb3lSb3gtNGl1YlR4Y1FwZGVXVjk3RVQ2bXNEd1ZBQVdDNkVlWFFVdmlzdENHZE9zS3VSeHdDWHVzS3ZuMjBGejNORUVORDIzTkZ5bTBvSg?oc=5",
+      "data": "15/07 12:47"
     },
     {
-      "titulo": "Martinelli destaca Hulk e Thiago Silva no Fluminense: 'Sabem do peso' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbEtrY0sxQW4wNWdUX2dYM04yRUJMQ0ppT0ZLTkZMbEo0ZVViZHNBSHk2TzlOM0hBN2R0UFpVQlhqYVpkREVwcDREeVRJS3FvMEpSY1dmdDBpZ1RHaEtmT2h4c1hHN3dINDZuaFJ1dXBxS0VFeTNpWXE0UE9MV2VhUXh0MTNEZWJUV0hNRTV5cHE1eDBVdEZyd20xY3JMZWNNbktYLVl1alMtaHVrUVNVaEJqLWhFWlFtaXcw?oc=5",
-      "data": "15/07 19:45"
+      "titulo": "Polêmica sobre horário do clássico ganha novo capítulo após nota oficial do Feira FC - Folha do Estado da Bahia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0FjalNNRjlTUS12aENSSlBBR0prVzdQQlZhV2o1TkxBT0FYYnBkVmZvZngxaS1Vb0cwRWZVNW5DTGladHNqYjBOa3VBM0x2YmdmZm1YV0hjdHpQSUZ3OVRBVENiV2JVbXhuRVEzakE2RnNWNWtLTGc3c0NLZVJUMVVVTnVhUjd0d0pwZ29jNHh5UGsycnhjQkhOWFNpYXlxWC16b3NYV0NWLU8yWFJIeDItNjFFNi1vd00tWDFjMlcwRnBZMHkzYWF3?oc=5",
+      "data": "15/07 20:02"
     },
     {
-      "titulo": "Fábio se aproxima de lendas do Fluminense e caminha ao Top 3 de goleiros com mais jogos sem sofrer gols - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQzBoOUNfN3V5amZrb2VzUnpaV2RXbmlYR3lXT09VLUxJeGZlVkh0Z2w5UXRYNGlDa2lxXy1jNlcycTlqWms1OW95M0ZJYS1MRkk5OE4yemM2cXozVGd4T2tyWGRScmNHM1QycnBWZVExRmdqVGdGbEZBal9uZ1BudWxDLXVCeGZrWVNMandGR3JhRVpWLTNrbzZwb0RaRmJlSy1RYkxPZjhRYmkzWGp5Z3BPZG40U2tkNU8wczltSFV3M0xLZmZSX3V6NnJoSVgxS0dYeWtoREZxcWJOMjN3Q1ZlcndUOHZTNTRCaHdFc3JiZkljZkprRHNhaGNBOHfSAY4CQVVfeXFMTzY3RW45a0ZWRmpPbmNWeWpUQ184YzdKSVRHUkJHWUZrMGNhQTJ4WXZyWDdTcUlhaHlONVdqX19qZDZpaVpySHJJV1QwbVlmUV9Dam5iNl84eVVxSWljeTZxQ0Y1QjcyTWhqMjg0V0ppeUI2c2F0S2xmYlpkOU5yXzkwSGppZ0RiclR1eEU5d29RTWk4ckRsdjNkTjFKem0xSG0zTFBwSzN2LV9JekUtY2o5cnhSVVZjT2Ytek5LWGhWSjdzNXptYVFCZEZaRDQ1R1pFNlBmeXlhNjMzSFhGd1dfMzlheWt3Umg2cjF1MHhuNEVCZkhTM1N5Y0E2V3VoYWk3azZsNmk5VWZIenJR?oc=5",
-      "data": "15/07 07:01"
+      "titulo": "Fluminense proporciona dia especial no Maracanã à crianças que lutam contra o câncer - Diário do Rio",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnNLb3VwTW95R2pIZWN6Tld5NkxsNk5uVkQtYzdDQmJJWmZEX3A0Q2ZDWUlETW1kRXp4XzduelFhdXBJZ2tPdFJGMDdBM0dSUVNaUlBhcXc0Y3hzWERsem9XYW1lNDVncXJmSWtCY3NTLUNzSHFvN044WW1yN0NWRVMwa3Y4U0dOUlhEdmR0eG5vZmJlcktCcGdtNE1OR1VKeGtHYlRfdGJjUEM3NUE?oc=5",
+      "data": "14/07 18:42"
     }
   ],
   "avisos": []
