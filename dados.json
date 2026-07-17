@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/07/2026 06:18",
+  "atualizado_em": "17/07/2026 12:00",
   "jogos": [
     {
       "sport": "futebol",
@@ -612,53 +612,53 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.9,
-      "temp_min": 16.4,
+      "temp_max": 24.0,
+      "temp_min": 16.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.2,
+      "temp_max": 26.9,
       "temp_min": 17.5,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.2,
-      "temp_min": 10.3,
+      "temp_max": 19.0,
+      "temp_min": 9.8,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.3,
-      "temp_min": 9.8,
+      "temp_max": 19.1,
+      "temp_min": 10.5,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense retorna com Hulk e dilema no ataque contra o Bragantino no Brasileiro; Thiago Silva aguarda regularização - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObVJRYXYySVZPc05VT05jLXJNUGNyS3hHdGRpMGVqVVZmWC1VVFlsY0tEMlQyUmYzQ3I3ZGM0QWtxbms3RFB1QkhKbEVwWS0zdlBvd08tU25INGZ0V0kzNEV4RUhsUENSMUxrQ205NDJZcHpYYzFDZ1RjMzQ1czBmS2lWdnpPTWRIazdaNFQ1bXVVWUhxSThWSzdoRktYU2k2dXpjU3l0WF9CVlZ2d0FVeGhnWGZLRzZma1FsemdPQS1Fa1dNdExmUWkxV2VoYlIzdDlMekQwcWZnMVdxM3NXbWVnUW9fbnZYUDdUcjdsOEFYWU8tbmc1RjlDNG1ELWlsaE11WGx3WEM3eWUt0gGbAkFVX3lxTFB5N2VqWkR0aDg0YktHWGQwWGsxMWwxWVJwYjZTZGRRWEptNHM1Y0ZISWN2cFhoOURoMlAzU1ZZbkU2aGF5cWt5THlGZUY5SFI0X25GMFlaUVdJLVJoQlB1cEw4VjZGSWpxVGJ2NjdNR2RCZW5wX1NHMldwdGY2YnJ0bVJBYi1Pd3U3eGtNZ2NnbmtnVE5MT3ZiejdEWlZIWnNiN3JhWVh6djRobnZLNENTTUFCM3diY1pDamlNS3Znc1ExdVJfdFhwRF9iOHpabWpOLURWeVQ2MlNoN1drSEUzTGlxNkxNT1ZhanpmTnEzcE55eUZyMXJwYjVKaUtUaFVTUnQ5dk5kQmwxOHNnQ3VQazhId1FmWlp6V0k?oc=5",
-      "data": "17/07 07:00"
-    },
-    {
-      "titulo": "Fluminense x Red Bull Bragantino: jornalista atualiza nova parcial de ingressos vendidos - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnRtUWh2Qmx1VExGNlBkeFpZS3VhOWY5QXNsZHdrVGxiUkxFM3N1aEJRemFVZDNPYi1SSUFmNWJjNWlJS2M3S0cxbk9nZ0J3enpldEtQbFB4dzRWdEpya3I0S1VZV0tPTFgxTDc4c3h2elVaa0NMODhsUEV1ZERJZFE5NEduQ2VJUEtoR0cweEFmMnZLWWNXY29qSzFyS2JFaG1SM0RXT0dOcGNGQ2c1T1UtcnE?oc=5",
-      "data": "16/07 14:54"
-    },
-    {
-      "titulo": "Como o Fluminense chega para a retomada do Brasileirão contra o Bragantino? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFg5QVJwYkwzVDJ5SWZlTGpUOWdfOFBNVG9LaVU4ZW5UekZvTm92MDl5MVBWTTBpVDZwMy0tdWNYT2t5OHhoSGVITXJVbDhMZ2hpeWNfQkNtTDVJQ1FuUGZyVGVHMEtFOVVzWHhmMEQ5WEdDSzk2VXNYX3daOEpybG5KQVo4VkxUODluRFhBVUpiamJMZHpOdTBFa3IzYUtBYkNjZFB4OEpGOEVSTU5YWTd0Q3E4QQ?oc=5",
-      "data": "17/07 08:55"
+      "titulo": "Escalação do Fluminense: veja o provável time para enfrentar o Bragantino - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbERTNkRNUzBuQ05wQUpTWm5FYXpqNHZXWjdLUFZkSDA3eGdvMTcyY1RfRnZ4alhOLUI4QmZsRzJjMldZYjgxUHdlQWpoMmhZMTNmYjN5TlFrRmtiUkxqRjRaZm9aWVNaV1ZtaVlWbTIzZElabDZwVHkycHl5YVdMdUkwanRSeWtoM0czT3ZYbWI2cFJ5eHRuRFVFZDZ3M2ZVMFYxeFFxUE1SV2VVMW5EUDZoSEcyblQtM2FKbUZfLW1ObjhhNkxLbWZsbS1JMnZpUnVKOThYUUs3RUHSAeoBQVVfeXFMTlJGRWx2RVBZa2d4X2ZKTk13ZTN2SEJ5UWM4T09iTExGbTlqTFVBeUF0SXZmeUhxdEUzb2VqMjBpdTNCYlJqcDBrMHdvTEZBQmxJMXp2ckN0Rm9XYW40eGZmTUViMTdzc1lLVUo5ZnUwUGZDRHl2OUp1VDBtZWMwaU50LUlINjNXcWdPX2tVR0tCME9PRGpzMHM2RUYydXNKdFlTeldrUlR4dXZYakM4QlRReU51T1l6NGNteEIxRG1mRjhGTGtXRnJYYWEzMVI1RUQybmVOd2V6azVNN1ViRUxmVmRpYVZ6T053?oc=5",
+      "data": "17/07 01:55"
     },
     {
       "titulo": "Fluminense aguarda proposta da Lazio por John Kennedy; jogador deseja ficar - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVURXM2prQVNOeTJpaDljd2JIc0pScmVLM09ZQzUyX2lyY3p5NE92SzNaNHNyS1NSTXZ1OFRyRXBsdU1WMEZBMkxsUFp5eWxCMF8xOW9VV05la1VnR3poVGJoNXdrdnp4cS1yeUNmQkhtbFYySUdLdGNsTzBmazlleno2UkdLR3NBMUxxZDlNZEZyNXU1MzY0U0ExSGRhY21YZWVQVXo1eHBnV01WamY1SlZxUmFFZw?oc=5",
       "data": "16/07 17:18"
+    },
+    {
+      "titulo": "Fluminense aguarda propostas por John Kennedy e Canobbio com abertura da janela internacional - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbk9FaTVFVDE4bGpsRUl0YndnRzJQZkRQQUlUZXVDb2Z4M3NfQmVPSDhKY053X3hwYUhnTkdfSmdBN0NUYmpVTUY1Y19NLWVFQlN1NHhoMmhwWFFmYUozWDg2VkNnZ1hhdzdua1pabE1KcENEbjcwS2JOYmRreGVOaWVBY2dyd3dfRmpCaE9sZ2NzSGNwanNKYjM3UTBmVkZ3cVFhdlhzNTd5aF96RC0xbndzVnJQVzNPdEI3M0xyYWl4b1NhZzBlR2ZrUkg0Q3RuZHZ0WTd1T0Jyd2c2cFFlTC1kamIzUFZYU0oyUV8teFlfdkQzbWs0SEdyaDNWSnRZ0gGPAkFVX3lxTFBNMHJtZV9GazhSSVNsSWRVT2JJTG4wcmR4SDF0UDNmc2xEeHdIaGpJX29fREtFX1JzSTl6NFpZZ0gtZ0VDUXdveXRTREtqWHl3MnNIaVNoRlA5UzVSLWc0UUF0ZElQTGJvUnN6WkY5eVZFY2ZsVGEtamlFcFVlX1AwMnY0dXpxcTN3eEZzQ21sOVh5STczbGlvamc2WnpuVWxtRkRjM2lFcnFCaUlGSEl0R0tRUU5teTNCVDBtOXk5LXpRWGtEVmlYN2p3M1Q0X3FvWi1qMXQzVi1FMDQ4WVZwUWRLbXRHMm45UHA1ODRQREVNMTdaZzlSTHVNcjR5c1pIWEY3eGVtYW4xNkJHa1E?oc=5",
+      "data": "16/07 07:30"
+    },
+    {
+      "titulo": "Clube italiano faz sondagem por John Kennedy, e Fluminense estabelece valor - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbWRUdklmanhwcnUyZml4eHRmMlkxVGhpX3pkaFZ0QUpMVVdZakU2YkNpWVNzakdsaFYyQk02TkRhaE94NlIxQ2s5cVhaQVBRYjFrbHN5bnBoLWRjRlE2ZGdVVk40a001VlVRYTY4aU1wUko1clNPUERXYlBRcHB6M3h4SXdJb0V0VHpheDF6Z1hNU1VQdGYyNjhHcTQzWDJzX2xmMExfTVlMSDNSTlFzUnBiOS14WFFoSTdPY085MzF2RDVjZGtWeG1CdlhaWWd3bUZUMW1ZdERvZ0o2b1lNQ3gwYjl5LWV0SFlDWG9xS0ZaRXBlZ1lj?oc=5",
+      "data": "16/07 20:02"
     },
     {
       "titulo": "Fluminense conhece tabela do Carioca Feminino Sub-20 2026 - fluminense.com.br",
