@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/07/2026 16:47",
+  "atualizado_em": "17/07/2026 19:34",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-17",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x Juan Pablo II College",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-17",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Albion FC x Juventud",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-17",
@@ -29,16 +9,6 @@ window.PAINEL_DATA = {
       "match": "Vitoria BA W x Botafogo (F)",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-17",
-      "time": "17:15",
-      "competition": "Campeonato Peruano",
-      "match": "Sporting Cristal x Deportivo Garcilaso",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -75,20 +45,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-17",
       "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Wanderers",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Chapecoense-sc",
       "channels": [
-        "DISNEY+"
+        "PREMIERE 2"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-17",
       "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Chapecoense-sc",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Wanderers",
       "channels": [
-        "PREMIERE 2"
+        "DISNEY+"
       ]
     },
     {
@@ -173,6 +143,36 @@ window.PAINEL_DATA = {
       "match": "Los Angeles Galaxy x Los Angeles FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Albion FC x Juventud",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x Juan Pablo II College",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-17",
+      "time": "17:15",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Deportivo Garcilaso",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -401,16 +401,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-17",
-      "time": "14:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Irã x Eslovênia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-17",
       "time": "17:45",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Bulgária",
@@ -607,6 +597,16 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-17",
+      "time": "14:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Irã x Eslovênia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -641,9 +641,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense estreia série que aprofunda relação da torcida tricolor com o Rio de Janeiro - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONEpFemI1dGVhcG91Vm9tdDVhTVI4ZFRGV3l0QUZzUTFTZk5jdG9NUnhUYTRkM0RpaEFuTXp0TldKLXhvSDBXajBleHpXNHZLOW9ldEQ0dENRSE15X0trQ01VOHZ1SGtkOXkwcGYxX0s0UTBSQmx2VU5BYU9Lcmh3N0dTdmRiXzlvVVg2NHJIZFZXdkdZV0MxWEM3TGFMdHl0OEhzdW5OZlBxZTJTZE5hTXlnOTBOb19OVnVER3NlRGMxT0VPOXJHcEtDRFN2bHR0aWNFVVVTbVd0NTVYdzlCOTk4ZVgtdk5JQ2NENGh5S0xjeUZYajY3RNIBhwJBVV95cUxPQ1R6Qzg4TnNuQU9CUnU2RVEzc1pMbkZqMmtaVVBRa1plMEhkckxLUmZ0OW1HUVpSN3BlNDhrYjBZbFNTWHFuZV9EU1lQeVVDVi1aS3JhdjBwZjVPR2c4M1pHdWpfaGNhbDhFMV9YYVJLMEdMU01kaXd3bXQ4SHc1VS1TRDA0TG5rQ0phVnQzd29RMVdENU5xTU5neVRMbWVpOHV4RGlndGtxaHZzdWJFc3dRY1QxMEtaOGlzLUNlNUF3QTltYU8xMjBpOFlWSnMtWmJCM2RnZEQ4ZGNOYUh0V0cycy1KeFJ2Z0paV05RVFNyTWp0STdVRmlKYkdxakJSWV9qcE9mdw?oc=5",
-      "data": "17/07 17:13"
+      "titulo": "Sem Ganso, Fluminense relaciona Hulk e Canobbio para enfrentar o Bragantino - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWG5qTEF0b0tZTlE3aENBd0RGRHpjM043aHZmYmFQNGJldE91aDRxZ0lqRTFMbEJ4ZkRJWE9hOFp2WnBtaEtzNnN0Q2FDdm1hSDRSZlEwck9tOHM2VmR0Rkp6ZVA3TWhUZlc0MF9VZlpZLW10T2s2dkNXbTJaVXJGLTJfUFRwQW9NSUZqZ012QWdWNS1idGVBbWJ5VHJnRjF5MEdpbjNzSVJEeDd4Y1ZhdDB3eFRtQQ?oc=5",
+      "data": "17/07 20:19"
+    },
+    {
+      "titulo": "Vitor Eudes volta ao Fluminense após três semanas internado - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbW1EVE93aEJudVF6b1kyZERXVEk3VzVxRERVT2YyRnA2Vkg4NVRPZEIzdzdRTFIySlNOT0g3V19CLVpRNkRNSi0yNDB3VFdyeVM1WGhON0RBMXJXXzk5Y3pxRWNqTVJuczdqRmlTakRzcTExSzk2anBqdllfc1Z1N2t5SlFsNE02M3pDV1hoT1hrajh2VDE2d25JTHFEWUpqLXc?oc=5",
+      "data": "17/07 20:32"
     },
     {
       "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
@@ -656,14 +661,9 @@ window.PAINEL_DATA = {
       "data": "17/07 18:38"
     },
     {
-      "titulo": "Fluminense x Bragantino: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNajY1S0liUDJ2eTRUdm13VnM5QXM1TVVMMngyVG5xMkVNM0FGUDc1b1pHMVBBTENEVHF5Y1EzUmJ4OXh0T05yRzZYdUdDbkdvZjBZcXRMQjFCal9NSXplTEl1c0xGUHNxRlNEVjFFSlVhMmppSVpVYU5XQjFFRHZGekVXOHBWOGtFakVqQXo3TVRMQnNLYTI2X0UyZDUza29ZSUdkdXk2MUZrYWZDYnV0bElnanNQMW5LLXVOY0VLVTJJREEyNnpNMXloY0xNRmZPdTVoVkJ1M1JXYml6bnZNWFN2WmpVNW14ZE0wTHB3MWc5Q21WZXlV?oc=5",
-      "data": "16/07 15:30"
-    },
-    {
-      "titulo": "Fluminense retorna com Hulk e dilema no ataque contra o Bragantino no Brasileiro; Thiago Silva aguarda regularização - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObVJRYXYySVZPc05VT05jLXJNUGNyS3hHdGRpMGVqVVZmWC1VVFlsY0tEMlQyUmYzQ3I3ZGM0QWtxbms3RFB1QkhKbEVwWS0zdlBvd08tU25INGZ0V0kzNEV4RUhsUENSMUxrQ205NDJZcHpYYzFDZ1RjMzQ1czBmS2lWdnpPTWRIazdaNFQ1bXVVWUhxSThWSzdoRktYU2k2dXpjU3l0WF9CVlZ2d0FVeGhnWGZLRzZma1FsemdPQS1Fa1dNdExmUWkxV2VoYlIzdDlMekQwcWZnMVdxM3NXbWVnUW9fbnZYUDdUcjdsOEFYWU8tbmc1RjlDNG1ELWlsaE11WGx3WEM3eWUt0gGbAkFVX3lxTFB5N2VqWkR0aDg0YktHWGQwWGsxMWwxWVJwYjZTZGRRWEptNHM1Y0ZISWN2cFhoOURoMlAzU1ZZbkU2aGF5cWt5THlGZUY5SFI0X25GMFlaUVdJLVJoQlB1cEw4VjZGSWpxVGJ2NjdNR2RCZW5wX1NHMldwdGY2YnJ0bVJBYi1Pd3U3eGtNZ2NnbmtnVE5MT3ZiejdEWlZIWnNiN3JhWVh6djRobnZLNENTTUFCM3diY1pDamlNS3Znc1ExdVJfdFhwRF9iOHpabWpOLURWeVQ2MlNoN1drSEUzTGlxNkxNT1ZhanpmTnEzcE55eUZyMXJwYjVKaUtUaFVTUnQ5dk5kQmwxOHNnQ3VQazhId1FmWlp6V0k?oc=5",
-      "data": "17/07 07:00"
+      "titulo": "Fluminense quer R$ 70 milhões de time italiano para vender craque do Brasileirão - RD1",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZsZV9oZjRJWFpaWWRKSHlCbDZiYWtiQjVhQnpCdmxDcmQ3bFRJUjdkbzIyRGZLS1ZSNWIxaU5xRVJ4eDhWcG8tMWxSZk9pa3pqR190OU5YNmNGQjR6N3c4SDNlcW5vQmxwLWJ2dklmczQyRWxvY2tiUXhISjdWQWdOUFRReUROeUN1a0prRGpwcGpZWGluZzAxQlFBVlZv?oc=5",
+      "data": "17/07 19:20"
     }
   ],
   "avisos": []
