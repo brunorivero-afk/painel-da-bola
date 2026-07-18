@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "18/07/2026 07:49",
+  "atualizado_em": "18/07/2026 11:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -8,7 +8,8 @@
       "competition": "Amistosos",
       "match": "Celtic x Middlesbrough",
       "channels": [
-        "SPORTYNET"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -18,7 +19,8 @@
       "competition": "Amistosos",
       "match": "Rot-weiss Oberhausen x Borussia Dortmund",
       "channels": [
-        "SPORTYNET"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -38,7 +40,8 @@
       "competition": "NWSL Feminina",
       "match": "NJ/NY Gotham FC (F) x OL Reign (F)",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -85,10 +88,39 @@
       "sport": "futebol",
       "date": "2026-07-18",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Vila Nova",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x Iguatu",
       "channels": [
-        "ESPN 4",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "São José x Treze",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Cianorte x ASA",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Sport Recife x Operário-PR",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -100,6 +132,7 @@
       "match": "Ponte Preta x Goiás",
       "channels": [
         "REDETV!",
+        "CANAL GOAT",
         "DISNEY+"
       ]
     },
@@ -108,8 +141,9 @@
       "date": "2026-07-18",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Sport Recife x Operário-PR",
+      "match": "Criciúma x Vila Nova",
       "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -130,7 +164,8 @@
       "competition": "Amistosos",
       "match": "Millonarios x Colo Colo",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -157,6 +192,21 @@
       "sport": "futebol",
       "date": "2026-07-18",
       "time": "18:00",
+      "competition": "Copa do Mundo",
+      "match": "França x Inglaterra",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "GE TV",
+        "NSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "18:00",
       "competition": "Brasileirão Série B",
       "match": "Atlético GO x Athletic Club",
       "channels": [
@@ -167,21 +217,21 @@
     {
       "sport": "futebol",
       "date": "2026-07-18",
-      "time": "18:00",
-      "competition": "Copa do Mundo",
-      "match": "França x Inglaterra",
+      "time": "18:30",
+      "competition": "MLS Next Pro",
+      "match": "Crown Legacy x Chicago FC United",
       "channels": [
-        "CAZÉTV"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-18",
       "time": "18:30",
-      "competition": "MLS Next Pro",
-      "match": "Crown Legacy x Chicago FC United",
+      "competition": "Brasileirão Série D",
+      "match": "Goiatuba EC x Ferroviário",
       "channels": [
-        "ONEFOOTBALL"
+        "YOUTUBE"
       ]
     },
     {
@@ -304,7 +354,10 @@
       "channels": [
         "GLOBO",
         "SBT",
-        "CAZÉTV"
+        "SPORTV",
+        "CAZÉTV",
+        "NSPORTS",
+        "GE TV"
       ]
     },
     {
@@ -501,29 +554,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.0,
-      "temp_min": 17.6,
+      "temp_max": 25.9,
+      "temp_min": 17.5,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.6,
+      "temp_max": 28.5,
       "temp_min": 18.5,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.5,
-      "temp_min": 11.3,
+      "temp_max": 20.3,
+      "temp_min": 11.0,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.2,
-      "temp_min": 11.9,
+      "temp_max": 19.9,
+      "temp_min": 12.1,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
@@ -550,9 +603,9 @@
       "data": "16/07 17:18"
     },
     {
-      "titulo": "A declaração de Martinelli direcionada a Hulk e Thiago Silva, do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOE9Ock9qWHp4Znl0dzJ4OHZTNmZaRUZheWVlaUxnVmdFbExPekFtdjF0bDBOWGN6Z0JaTlZGZ1hQTmlKQ1IwQzBERWdJdUQ5aFhPRjVZYkNiVjBPQzY5UTFwMFVKNG0yN0oyd3RUMjl2Y05yVEF3cm1fUDR4UUdFQnpvazZfUlhOV3NUWU92TVVNclpTVUZnUWNhNHNsRmF1dGR0S051TVlaeklRNmFfeV9fTFR6VXZjWnB5dlA1ajVtazFTcDNLVThVWExIM3c3X1ltRHE2c0JmSDNuRUs5c1hOU1ZzQUY4LXVwbVJ6Z2gtLWZhUm0xbTBLX0VEd9IB_gFBVV95cUxNOE9Ock9qWHp4Znl0dzJ4OHZTNmZaRUZheWVlaUxnVmdFbExPekFtdjF0bDBOWGN6Z0JaTlZGZ1hQTmlKQ1IwQzBERWdJdUQ5aFhPRjVZYkNiVjBPQzY5UTFwMFVKNG0yN0oyd3RUMjl2Y05yVEF3cm1fUDR4UUdFQnpvazZfUlhOV3NUWU92TVVNclpTVUZnUWNhNHNsRmF1dGR0S051TVlaeklRNmFfeV9fTFR6VXZjWnB5dlA1ajVtazFTcDNLVThVWExIM3c3X1ltRHE2c0JmSDNuRUs5c1hOU1ZzQUY4LXVwbVJ6Z2gtLWZhUm0xbTBLX0VEdw?oc=5",
-      "data": "18/07 09:02"
+      "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1FZbW1hOXI3bHpuY0tCLTJpMW1JNnVpVjhnMEVocm9WV250cldiQWdrbC03V2JERXhlQ0FXR0l5ZGFZNFZQQzAzalVqdnhsMTczV0duZmtVcjhuUFZRWTQzTVhIZVl1aFRDNDBaZVdTN2ktc3hSY0wxMXpTQkJWYmd4UnA?oc=5",
+      "data": "17/07 18:34"
     }
   ],
   "avisos": []
