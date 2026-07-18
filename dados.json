@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "18/07/2026 03:29",
+  "atualizado_em": "18/07/2026 07:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -501,31 +501,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.8,
-      "temp_min": 17.8,
+      "temp_max": 26.0,
+      "temp_min": 17.6,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.0,
-      "temp_min": 19.0,
+      "temp_max": 28.6,
+      "temp_min": 18.5,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.9,
-      "temp_min": 11.6,
+      "temp_max": 20.5,
+      "temp_min": 11.3,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.5,
-      "temp_min": 12.6,
+      "temp_max": 20.2,
+      "temp_min": 11.9,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Céu limpo"
     }
   ],
   "noticias": [
@@ -535,9 +535,9 @@
       "data": "17/07 07:00"
     },
     {
-      "titulo": "Atacante revelado pelo Fluminense será repatriado por outro clube brasileiro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeG9jN2NuVHdTNWpscnhUeE5wOWYyWUJGYURJYWlzMVZNa3NqQ0xPY3VJVHZ4cGZKTGgwQVotM0lPZXZWRXVZYnBDc21rZEpqS2ZiS21oa0I2V2xCN2JnVExHWFZGcldaWEZ5cDJmTmRCMW9uOEEyOWxNMmZTUnVPR0NwYk1YQUtpN3RlbnV0S0ZSb0lKRVIwMFFNZnF0ODZlcTNuVTA4V25xcG5mZGZmeE41Ym9HVTdKVkhlTks4VVlOZC01VFBhUlc1aEhGRDZGTkRpMEdPUkp6WXpTbk5FVmxsWVJna3hEV2ZhdUhVTmxWQ2RqWktxSzVaWQ?oc=5",
-      "data": "17/07 18:38"
+      "titulo": "Venda de John Kennedy à Lazio não renderá valor integral ao Fluminense; entenda o motivo - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPZEhYci1QRDFIYk1KWHRjR1VmSWxpMERCNzRtOTlWa0t4NHZzWjdhRzRBMzhNNkJhb283T0Y1dHBIT1B6VjVqTTZEd1JWNzdBTG9CYWthbjFsNS05YWVsbk5oNFZMdTFDZlVFcC11dlZiSHJTQ2lDZUEtVS1wcGNCWnJ6YmlUN3lyNXJyRHRTWVgzTmV6TnFBNFpJUnZTZHBhbE9QclRhcE8tOXpSbHplMVhuZVhwOXpzQXRPNWdrZWFWSVBJc2hjZWxvSXB2NzZNM2ZTZ2lUY29JRWFqdGlLaVctcU82YlgzdXFwM2tSdVVnS0U0c1drakhTQThsaHp6Q3pTaDN3?oc=5",
+      "data": "18/07 07:53"
     },
     {
       "titulo": "Fluminense quer R$ 70 milhões de time italiano para vender craque do Brasileirão - RD1",
@@ -550,9 +550,9 @@
       "data": "16/07 17:18"
     },
     {
-      "titulo": "De reserva no Fluminense a peça-chave no Fortaleza: Gabriel Fuentes vive ascensão em 2026 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQlpMVnRXalpzV202NnJGdndycXZFODdXSDVKdmhaeHpvdGxOX211RTdqdHRtbU92LW8ySEt6eXVBYkVfT05XYUJMV0JGbTNESzh3RGV3Z0tnSnFPRTZ2dndEd3lvYWMzU0tSbEktZW5Vd0o4dzJCRHhyQ2E3dlhQcDctVGVQY0FRT3JiRWVPdWdEVGxSNEs4b1YxcUdVSmo0V3ZmZEdIRHVxR2xGcUFGeVF0NDV3NC1ncC1vN3VIWlFyYkFvVGRLa1hJNDMtLURGUnZhdVlHbm5vQ1oxdmtlQko5dVJtUnNESk9nXzRkclRJcFJHbVQwWVRuSWRrMUlxa1ZSdVI0bw?oc=5",
-      "data": "18/07 05:29"
+      "titulo": "A declaração de Martinelli direcionada a Hulk e Thiago Silva, do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOE9Ock9qWHp4Znl0dzJ4OHZTNmZaRUZheWVlaUxnVmdFbExPekFtdjF0bDBOWGN6Z0JaTlZGZ1hQTmlKQ1IwQzBERWdJdUQ5aFhPRjVZYkNiVjBPQzY5UTFwMFVKNG0yN0oyd3RUMjl2Y05yVEF3cm1fUDR4UUdFQnpvazZfUlhOV3NUWU92TVVNclpTVUZnUWNhNHNsRmF1dGR0S051TVlaeklRNmFfeV9fTFR6VXZjWnB5dlA1ajVtazFTcDNLVThVWExIM3c3X1ltRHE2c0JmSDNuRUs5c1hOU1ZzQUY4LXVwbVJ6Z2gtLWZhUm0xbTBLX0VEd9IB_gFBVV95cUxNOE9Ock9qWHp4Znl0dzJ4OHZTNmZaRUZheWVlaUxnVmdFbExPekFtdjF0bDBOWGN6Z0JaTlZGZ1hQTmlKQ1IwQzBERWdJdUQ5aFhPRjVZYkNiVjBPQzY5UTFwMFVKNG0yN0oyd3RUMjl2Y05yVEF3cm1fUDR4UUdFQnpvazZfUlhOV3NUWU92TVVNclpTVUZnUWNhNHNsRmF1dGR0S051TVlaeklRNmFfeV9fTFR6VXZjWnB5dlA1ajVtazFTcDNLVThVWExIM3c3X1ltRHE2c0JmSDNuRUs5c1hOU1ZzQUY4LXVwbVJ6Z2gtLWZhUm0xbTBLX0VEdw?oc=5",
+      "data": "18/07 09:02"
     }
   ],
   "avisos": []
