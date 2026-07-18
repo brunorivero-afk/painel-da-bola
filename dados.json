@@ -1,59 +1,6 @@
 {
-  "atualizado_em": "18/07/2026 11:37",
+  "atualizado_em": "18/07/2026 15:08",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-18",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Celtic x Middlesbrough",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-18",
-      "time": "12:00",
-      "competition": "Amistosos",
-      "match": "Rot-weiss Oberhausen x Borussia Dortmund",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-18",
-      "time": "12:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Deportivo Maldonado",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-18",
-      "time": "13:00",
-      "competition": "NWSL Feminina",
-      "match": "NJ/NY Gotham FC (F) x OL Reign (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-18",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "UCV Moquegua x Comerciantes Unidos",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-18",
@@ -108,19 +55,10 @@
       "sport": "futebol",
       "date": "2026-07-18",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Cianorte x ASA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-18",
-      "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Sport Recife x Operário-PR",
+      "match": "Criciúma x Vila Nova",
       "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -141,9 +79,8 @@
       "date": "2026-07-18",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Criciúma x Vila Nova",
+      "match": "Sport Recife x Operário-PR",
       "channels": [
-        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -160,12 +97,11 @@
     {
       "sport": "futebol",
       "date": "2026-07-18",
-      "time": "17:00",
-      "competition": "Amistosos",
-      "match": "Millonarios x Colo Colo",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Cianorte x ASA",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -176,6 +112,17 @@
       "match": "Uberlandia x Portuguesa",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "17:00",
+      "competition": "Amistosos",
+      "match": "Millonarios x Colo Colo",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -192,6 +139,17 @@
       "sport": "futebol",
       "date": "2026-07-18",
       "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Athletic Club",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "18:00",
       "competition": "Copa do Mundo",
       "match": "França x Inglaterra",
       "channels": [
@@ -201,17 +159,6 @@
         "CAZÉTV",
         "GE TV",
         "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-18",
-      "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Athletic Club",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -292,6 +239,59 @@
       "match": "Huntsville City x Atlanta United II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Celtic x Middlesbrough",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "12:00",
+      "competition": "Amistosos",
+      "match": "Rot-weiss Oberhausen x Borussia Dortmund",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "12:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Deportivo Maldonado",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "UCV Moquegua x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-18",
+      "time": "13:00",
+      "competition": "NWSL Feminina",
+      "match": "NJ/NY Gotham FC (F) x OL Reign (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -583,9 +583,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bragantino: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQWpaOWpfaTFyZy03YmxlQTE2T3F3MVFyMm0wMGhQeERTYm1ZT29QcVlQc19JZDAzckxmNFVZOG5DUk9YVXZQbEFoOWlvTTAxT1d4T0oyY01Hb1lGc2J4MjMtbFpWQ0J3ZGtvNVpINHEwbjF6bEdLYTJxakhyR2FRTll5UjhJRnVyQXlNWXNwV2VwNnZZcHRQUXRWMWY0M2xlSGRCaVlfUklzNUlra1lZZGJITmlsc0F6cnNZYmVpQ0hhUUJaTWlUblBFNXVEVlpEaTNadm5ZcXYycjDSAeoBQVVfeXFMT1ZHeUxncGNmMFVGeW9YQVBkQkEwRHNnS3dkbXdiNEQwSE05Z2twdVBZd3RQd0hpVjliajVZdGNKeXBkVGFoVjJId1k2RGFUYm1jNXFHZTB4RTRBQndaNU1yQ2RmMGZUc2x5c2xqYTJCYVlodFpUX1RpSmY3Rk55eFZEYXNucEZWMGhsX2FRV0ZRdF9LbWJ0M0ZDWGhDUkI3VE1zRm90cGt4alYwS3J1SDUtb1dVbzNsOHBFamZlUzEtN0gtSlJkbUlIdm94c1RUckdMSkY2U3RaTE8wSkF3MjV5TEVLOHJfaGln?oc=5",
-      "data": "17/07 07:00"
+      "titulo": "Ganso volta a ficar fora de jogo do Fluminense e vive indefinição sobre futuro - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLW5ZTkhudDloYmhpNUlvelh0VEZNM052aGJ1bjRsVnhoampuRkQ1MmZWSW1UNVVkMFAzamRPYVZqRUYzd05YMk1HQTZ4bFVBa1RkQ1o0c1NncHRIWG1NcjhSMjNPQm5GRnA5TzBIRVViT0pvTHZRZ3gtTVUxdjBTREtoTGRveWNsYklkQkdhVHJPRzR4eGJQN3hGdks5NkF4SjZ0R0p4dDh3N1BmYjU4WnNQc0tMQ1ZoYk9zUXFBUHlCU1RtMmNUa01nTXlocHVYalhuWDNnM2Y0cno4aXZzWXRTQdIB8gFBVV95cUxPbVlCeVlraHRIejJta05vNV9QVld2b1phSENMN0JKYjY3bG1xSm0yTlJVRFUxNmcyd1FqR3VfSi1ZbTN1ekdMeVExTHRVUWNMY1ZxamktVFVGcDZaUjFBUUNUNlBrVk9RTElteVVJdV9vZzMzaUx0dE5rZ0tGSnVxaW1NZUVIUEQ3WThSWXJqTFpGYzlNdXhhT0FEX2lINTh5aEduUmtYajZNZGpNMG1GQV84WE5GRzU3WXFiSzJGQ0FGdXJnNFdRNEZGaTJaWUlxS3pCZEZ6ZFhrMTdFajY0b3k5MkxQZHZnNE10TlN5Yy1iUQ?oc=5",
+      "data": "18/07 15:00"
+    },
+    {
+      "titulo": "Brasileirão: Flu arranca empate com Bragantino no último minuto em jogo com 3 expulsões - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEhZaEkyWE50Q2wyV2JkXy1YM0FleGhPR1JOeWJvR1hENlIxcXpuaC1OVktFUW41MVpENTVPeVJFWGpfbnNMUlhaQ0RkLVVSeHN4N0FXQ2NLRlQ2bnFZTGh6bGFPMFBsenVPQ2lzX1JRRk1XWmpBaXA5UzdIRG1wQl9vdlhtanpiTjZaYnVBbU1JVU1EVEpvN1NQRmVXQjN6VXluTjB4RXRyNWM?oc=5",
+      "data": "18/07 01:11"
+    },
+    {
+      "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1FZbW1hOXI3bHpuY0tCLTJpMW1JNnVpVjhnMEVocm9WV250cldiQWdrbC03V2JERXhlQ0FXR0l5ZGFZNFZQQzAzalVqdnhsMTczV0duZmtVcjhuUFZRWTQzTVhIZVl1aFRDNDBaZVdTN2ktc3hSY0wxMXpTQkJWYmd4UnA?oc=5",
+      "data": "17/07 18:34"
     },
     {
       "titulo": "Venda de John Kennedy à Lazio não renderá valor integral ao Fluminense; entenda o motivo - Terra",
@@ -596,16 +606,6 @@
       "titulo": "Fluminense quer R$ 70 milhões de time italiano para vender craque do Brasileirão - RD1",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPXzZsZV9oZjRJWFpaWWRKSHlCbDZiYWtiQjVhQnpCdmxDcmQ3bFRJUjdkbzIyRGZLS1ZSNWIxaU5xRVJ4eDhWcG8tMWxSZk9pa3pqR190OU5YNmNGQjR6N3c4SDNlcW5vQmxwLWJ2dklmczQyRWxvY2tiUXhISjdWQWdOUFRReUROeUN1a0prRGpwcGpZWGluZzAxQlFBVlZv?oc=5",
       "data": "17/07 19:20"
-    },
-    {
-      "titulo": "Fluminense aguarda proposta da Lazio por John Kennedy; jogador deseja ficar - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVURXM2prQVNOeTJpaDljd2JIc0pScmVLM09ZQzUyX2lyY3p5NE92SzNaNHNyS1NSTXZ1OFRyRXBsdU1WMEZBMkxsUFp5eWxCMF8xOW9VV05la1VnR3poVGJoNXdrdnp4cS1yeUNmQkhtbFYySUdLdGNsTzBmazlleno2UkdLR3NBMUxxZDlNZEZyNXU1MzY0U0ExSGRhY21YZWVQVXo1eHBnV01WamY1SlZxUmFFZw?oc=5",
-      "data": "16/07 17:18"
-    },
-    {
-      "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1FZbW1hOXI3bHpuY0tCLTJpMW1JNnVpVjhnMEVocm9WV250cldiQWdrbC03V2JERXhlQ0FXR0l5ZGFZNFZQQzAzalVqdnhsMTczV0duZmtVcjhuUFZRWTQzTVhIZVl1aFRDNDBaZVdTN2ktc3hSY0wxMXpTQkJWYmd4UnA?oc=5",
-      "data": "17/07 18:34"
     }
   ],
   "avisos": []
