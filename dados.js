@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/07/2026 04:17",
+  "atualizado_em": "19/07/2026 08:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -310,9 +310,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Ganso volta a ficar fora de jogo do Fluminense e vive indefinição sobre futuro - GE",
+      "titulo": "Ganso volta a ficar fora de jogo do Fluminense e vive indefinição sobre futuro - ge",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLW5ZTkhudDloYmhpNUlvelh0VEZNM052aGJ1bjRsVnhoampuRkQ1MmZWSW1UNVVkMFAzamRPYVZqRUYzd05YMk1HQTZ4bFVBa1RkQ1o0c1NncHRIWG1NcjhSMjNPQm5GRnA5TzBIRVViT0pvTHZRZ3gtTVUxdjBTREtoTGRveWNsYklkQkdhVHJPRzR4eGJQN3hGdks5NkF4SjZ0R0p4dDh3N1BmYjU4WnNQc0tMQ1ZoYk9zUXFBUHlCU1RtMmNUa01nTXlocHVYalhuWDNnM2Y0cno4aXZzWXRTQdIB8gFBVV95cUxPbVlCeVlraHRIejJta05vNV9QVld2b1phSENMN0JKYjY3bG1xSm0yTlJVRFUxNmcyd1FqR3VfSi1ZbTN1ekdMeVExTHRVUWNMY1ZxamktVFVGcDZaUjFBUUNUNlBrVk9RTElteVVJdV9vZzMzaUx0dE5rZ0tGSnVxaW1NZUVIUEQ3WThSWXJqTFpGYzlNdXhhT0FEX2lINTh5aEduUmtYajZNZGpNMG1GQV84WE5GRzU3WXFiSzJGQ0FGdXJnNFdRNEZGaTJaWUlxS3pCZEZ6ZFhrMTdFajY0b3k5MkxQZHZnNE10TlN5Yy1iUQ?oc=5",
       "data": "18/07 15:00"
+    },
+    {
+      "titulo": "Fluminense empresta David Terans ao Atlético-GO - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1F1Mkh3dEJueVNIUFk0VDBQNkJUakhfZjBmMDl0MWc4SE9nQnhYLTFKU2VUa1BDdlhEN3NfWW9OcHBQeW5kNld6WFRnRDRvUTFSZHc5dnJPR1dfTFRpcDR3YkgzUVpTY3h5azlDcjYyT0tzb2JodVZ3TkFoTUNVSndMbUE2c0FsN29zbDdfVmhGVXB3Q2ZEcUt2QkV0aWJWMlA1Qk1lamFGSVpFMEdjOTdfOWdkbG51T091dmR1MjYzSy14NTFsQUFBaXlxQUlZY0R5cllXNVFzV2lxQXJpMU12U2ZxZw?oc=5",
+      "data": "18/07 21:16"
     },
     {
       "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
@@ -325,14 +330,9 @@ window.PAINEL_DATA = {
       "data": "18/07 01:11"
     },
     {
-      "titulo": "Fluminense empresta David Terans ao Atlético-GO - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1F1Mkh3dEJueVNIUFk0VDBQNkJUakhfZjBmMDl0MWc4SE9nQnhYLTFKU2VUa1BDdlhEN3NfWW9OcHBQeW5kNld6WFRnRDRvUTFSZHc5dnJPR1dfTFRpcDR3YkgzUVpTY3h5azlDcjYyT0tzb2JodVZ3TkFoTUNVSndMbUE2c0FsN29zbDdfVmhGVXB3Q2ZEcUt2QkV0aWJWMlA1Qk1lamFGSVpFMEdjOTdfOWdkbG51T091dmR1MjYzSy14NTFsQUFBaXlxQUlZY0R5cllXNVFzV2lxQXJpMU12U2ZxZw?oc=5",
-      "data": "18/07 21:16"
-    },
-    {
-      "titulo": "Fluminense empresta dois Moleques de Xerém para tradicional clube paulista; veja - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWVjZlJxNnkwTERZb0hOeC1vejhpdTFKZURLdndnaElNd1ZSc25DQTg3dlV1ZkpwOU1TcDRUYVhPNkdySFhWS1BTbG1FelpNRnJnZXUzT1hSS0VZZkk5amZDVXliQ2hMWEs1UHJKZktQR1d1WDE0OU9MM0o0bllhejhiV0FEUlZYR1kzYg?oc=5",
-      "data": "18/07 23:49"
+      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
+      "data": "16/05 07:00"
     }
   ],
   "avisos": []
