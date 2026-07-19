@@ -1,37 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/07/2026 08:40",
+  "atualizado_em": "19/07/2026 12:33",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Ponte Preta Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Flamengo SP Sub-20 x Palmeiras Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-19",
@@ -105,6 +74,37 @@ window.PAINEL_DATA = {
       "match": "Real Monarchs x Tacoma Defiance",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-19",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Ponte Preta Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-19",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Flamengo SP Sub-20 x Palmeiras Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-19",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Cerro Largo",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -282,28 +282,28 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 27.3,
-      "temp_min": 18.6,
+      "temp_min": 18.7,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.9,
-      "temp_min": 19.6,
+      "temp_max": 28.7,
+      "temp_min": 19.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.0,
+      "temp_max": 21.1,
       "temp_min": 13.2,
       "chance_chuva": 0,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.6,
-      "temp_min": 12.4,
+      "temp_max": 21.5,
+      "temp_min": 12.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
@@ -315,9 +315,14 @@ window.PAINEL_DATA = {
       "data": "18/07 15:00"
     },
     {
-      "titulo": "Fluminense empresta David Terans ao Atlético-GO - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1F1Mkh3dEJueVNIUFk0VDBQNkJUakhfZjBmMDl0MWc4SE9nQnhYLTFKU2VUa1BDdlhEN3NfWW9OcHBQeW5kNld6WFRnRDRvUTFSZHc5dnJPR1dfTFRpcDR3YkgzUVpTY3h5azlDcjYyT0tzb2JodVZ3TkFoTUNVSndMbUE2c0FsN29zbDdfVmhGVXB3Q2ZEcUt2QkV0aWJWMlA1Qk1lamFGSVpFMEdjOTdfOWdkbG51T091dmR1MjYzSy14NTFsQUFBaXlxQUlZY0R5cllXNVFzV2lxQXJpMU12U2ZxZw?oc=5",
-      "data": "18/07 21:16"
+      "titulo": "Fluminense empresta meia-atacante ao Atlético-GO - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY0tabmd2M0tRTUc5TGItZDNNOVlhVHNBMkVlWFBqSHl0M2RtVFhwWmtaMVc5Wk5NZHNkRkx3T0l1blRNUXAzOTl2Wm1FaWFNUm1IT0s1NTQySm56eUJBMEY1TVExT2dtc0F1YmlIS0hjNXp4SWt3TVgwQ2RHVm4zMw?oc=5",
+      "data": "19/07 12:21"
+    },
+    {
+      "titulo": "Ex-técnico do Fluminense é contratado por clube do Canadá - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORVpjZ3pnak5laVQ3Rm9ENmt6VlE3RTFXS0dTblNCQlRsOFY0M3JOSnRtNWV6VHp3bFFBOEdublBmeWNfamVYMjFDRmtoeDhSOHJSMWtSOXk0T2duY0RWVVRPbmRPd0J6S0tjRjN5NjU1LTMtUFF2VEJCcS1tWjFQSVFYY0ZGOWVKRHdZSFBwcEc5YTQ4NW16X0E4U0sxZW5kYm9qNXZWUEstVVVKajBOWmt3R1dDYVBEZy1KekxlT1dsN2liTVNCR0htZXllMWswZnFmY1VnbERGUGxpd09UeXNRTnYtRXh1Tm1Kck1vRHppVEk?oc=5",
+      "data": "19/07 10:58"
     },
     {
       "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
@@ -325,14 +330,9 @@ window.PAINEL_DATA = {
       "data": "17/07 18:34"
     },
     {
-      "titulo": "Brasileirão: Flu arranca empate com Bragantino no último minuto em jogo com 3 expulsões - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSEhZaEkyWE50Q2wyV2JkXy1YM0FleGhPR1JOeWJvR1hENlIxcXpuaC1OVktFUW41MVpENTVPeVJFWGpfbnNMUlhaQ0RkLVVSeHN4N0FXQ2NLRlQ2bnFZTGh6bGFPMFBsenVPQ2lzX1JRRk1XWmpBaXA5UzdIRG1wQl9vdlhtanpiTjZaYnVBbU1JVU1EVEpvN1NQRmVXQjN6VXluTjB4RXRyNWM?oc=5",
-      "data": "18/07 01:11"
-    },
-    {
-      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
-      "data": "16/05 07:00"
+      "titulo": "Thiago Silva estreia contra o Grêmio e tem planejamento definido pelo Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbElqdHJJX1dXNFZRb0loOFVoN3lvQlN1T3V4ZEE5dUZfUWJORjJqWmNQYnRpTzNWYlgyQU5KTEduZXltMlVscFkzVWZ1aXA5OEhtU3pQQ3gxRjBoNWliX3NmWklGTm8wUXFaVGw5YTM5a3QxVFNOS3hjTWptQXpVazBUYk4yMDFRWFdRTm1neXR3ckNUcUpfNlUyMFA5VjJ3N2N2bVlyY2U?oc=5",
+      "data": "18/07 19:15"
     }
   ],
   "avisos": []
