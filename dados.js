@@ -1,21 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/07/2026 16:58",
+  "atualizado_em": "19/07/2026 19:37",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Espanha x Argentina",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "NSPORTS",
-        "GE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-19",
@@ -105,6 +90,21 @@ window.PAINEL_DATA = {
       "match": "Cerro x Racing Montevideo",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-19",
+      "time": "16:00",
+      "competition": "Copa do Mundo",
+      "match": "Espanha x Argentina",
+      "channels": [
+        "GLOBO",
+        "SBT",
+        "SPORTV",
+        "CAZÉTV",
+        "NSPORTS",
+        "GE TV"
       ]
     },
     {
@@ -315,24 +315,24 @@ window.PAINEL_DATA = {
       "data": "18/07 15:00"
     },
     {
-      "titulo": "Fluminense encaminha empréstimo de meia uruguaio para o Atlético-GO - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT3ZhYTg5UmRlZFYyc0FwWjF4M2N0OTZ3OXQ2Q3h3N1NSXzRfSmEzWTRJQzJ1NDllSFZleUJKOUJKUk91UEtGSWJ4dl93Q1FfWHZVMVc2VWdqYWk0S0dvUng0MVBKakg3Sk9FTDktS0JQWE5nbllKcmRGWnIzMkZOT1cwU3p3emdjMDVwdGlmSjNYVVExQUg5ekFSY0hvU1dyZ3RTMGFPVkRKWFRweG5YS3lBZ3pyVW1nbDNqVXRJVFFpQWNqNE5jdjdtbEg4clY2OW5BSWV6Tnp5ZV9ueUtWdEd3ZnFxNnNEVWYwbEhn?oc=5",
-      "data": "19/07 16:33"
-    },
-    {
       "titulo": "Flu de Feira x Feira FC: melhor ataque e melhor defesa do campeonato decidem neste domingo vaga na final do Baianão - Acorda Cidade",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZDBxYlU3RV91aXA4SHVyVDRSZkZKSVljRnlqbjdScmpvcW1kNk5RMzJtRWZCbW1mT1BfZEpvYm95MnZIb2YyNnRTaTdocFRZaDhRYUdKU2FxdURNbHd6VnNvWmVKM0V5V2VueDlTcHlyWXN4S3R2OEh1eXE1VzBHV01sUXVDMHcyZzR3YXB4UzRoV3RoU3JPUlRIeHlJaGpBdmJ3YTBvMlJIbmxpOWpaSTI3V3gyLTNDNUV4aGtpR0FBaHY3VjJjQ0dqWjFORGl5TkxrcHlfTm5kc3puR0RrVi02aV93SElQM3piNTJvYXd1Q2h0c2Uw?oc=5",
       "data": "19/07 17:53"
     },
     {
-      "titulo": "Desfalque confirmado, recado de Zubeldía para Hulk e revelação assina com rival: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQb2lZOGpHUktkbTdjVnM5c0ZLczA0Q2oyRHhHLU5GNWx6MkZjV25CeW5COVlIVUYxWHNYazVTUnBIMk0tSG1GSXFPVk5ObWRtZHNTUjBFRTQzbVR3WVdOX2FKZWUtOV95RzExSG5zUUVkR0tpYnRpVzJsQmI1ZW1PYlZTY09hbEVQQVJnc0NCaFd1UkgtX1pIUHBFdS1ZNjVBck5nTExDa0NlV1h4cUE5X1g2NVJ5YV9uSmxkeTZsNkRPUFJyTmhLSTJZbF92eGNlRW84ZEJVNGNkX2w5Y3haTTA1eFVxNXVNczM4aGl5dWg0UFJJYVJoc0pZSWV2YjhObVR1YkduamVvZU41WWFoT0pwaFoxS0haMTBLemZhSUYzTEJMYlBFaVVVQQ?oc=5",
-      "data": "19/07 16:20"
+      "titulo": "Após cinco anos, Fluminense de Feira conquista o acesso e retorna à Série A do Baianão ao derrotar o Feira FC - Acorda Cidade",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObndmemdrV0tudlVfZnoybjRxZXU4TUpRelhiS1o1SjRHTWxSMHYyVzk0WWlEdW9kWXZUZFRBdUFXckJpcDNtVV9CcXctczVSQmdFTDRPNkwwYzE1a3dkTHFTa2V4ZTd1cXg0ejVUWTFCMUZRLVhfMFFEbDFyNVh0RDFlREpPaUJZckl1UmpRdVZzaHh1QTkxcDJteml6QXRZRUI4eDZKNm4yN1NTQ0JHVzQ2ZW5scW0yRVZQc1puNGgxMzByN3RCYzBYeWVvejBUMzhWQUloWVp6TDBMLW9kWmluRFlMYWxfNmR3d3VLSQ?oc=5",
+      "data": "19/07 20:17"
     },
     {
-      "titulo": "Fluminense empresta dois Moleques de Xerém para tradicional clube paulista; veja - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWWVjZlJxNnkwTERZb0hOeC1vejhpdTFKZURLdndnaElNd1ZSc25DQTg3dlV1ZkpwOU1TcDRUYVhPNkdySFhWS1BTbG1FelpNRnJnZXUzT1hSS0VZZkk5amZDVXliQ2hMWEs1UHJKZktQR1d1WDE0OU9MM0o0bllhejhiV0FEUlZYR1kzYg?oc=5",
-      "data": "19/07 15:06"
+      "titulo": "Ex-técnico do Fluminense é contratado por clube do Canadá - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORVpjZ3pnak5laVQ3Rm9ENmt6VlE3RTFXS0dTblNCQlRsOFY0M3JOSnRtNWV6VHp3bFFBOEdublBmeWNfamVYMjFDRmtoeDhSOHJSMWtSOXk0T2duY0RWVVRPbmRPd0J6S0tjRjN5NjU1LTMtUFF2VEJCcS1tWjFQSVFYY0ZGOWVKRHdZSFBwcEc5YTQ4NW16X0E4U0sxZW5kYm9qNXZWUEstVVVKajBOWmt3R1dDYVBEZy1KekxlT1dsN2liTVNCR0htZXllMWswZnFmY1VnbERGUGxpd09UeXNRTnYtRXh1Tm1Kck1vRHppVEk?oc=5",
+      "data": "19/07 10:58"
+    },
+    {
+      "titulo": "Thiago Silva estreia contra o Grêmio e tem planejamento definido pelo Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbElqdHJJX1dXNFZRb0loOFVoN3lvQlN1T3V4ZEE5dUZfUWJORjJqWmNQYnRpTzNWYlgyQU5KTEduZXltMlVscFkzVWZ1aXA5OEhtU3pQQ3gxRjBoNWliX3NmWklGTm8wUXFaVGw5YTM5a3QxVFNOS3hjTWptQXpVazBUYk4yMDFRWFdRTm1neXR3ckNUcUpfNlUyMFA5VjJ3N2N2bVlyY2U?oc=5",
+      "data": "18/07 19:15"
     }
   ],
   "avisos": []
