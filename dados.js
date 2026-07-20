@@ -1,110 +1,14 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/07/2026 19:37",
+  "atualizado_em": "20/07/2026 07:24",
   "jogos": [
     {
       "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Connecticut FC x New York RB II",
+      "date": "2026-07-20",
+      "time": "09:00",
+      "competition": "Amistosos",
+      "match": "Sporting CP x Strasbourg",
       "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "19:00",
-      "competition": "Brasileirão Série D",
-      "match": "America-RN x Gama",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "21:00",
-      "competition": "Campeonato Peruano",
-      "match": "Alianza Lima x Sport Huancayo",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "22:30",
-      "competition": "MLS Next Pro",
-      "match": "Real Monarchs x Tacoma Defiance",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Ponte Preta Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Flamengo SP Sub-20 x Palmeiras Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "11:00",
-      "competition": "Brasileirão Série D",
-      "match": "São Luiz x CSA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-19",
-      "time": "16:00",
-      "competition": "Copa do Mundo",
-      "match": "Espanha x Argentina",
-      "channels": [
-        "GLOBO",
-        "SBT",
-        "SPORTV",
-        "CAZÉTV",
-        "NSPORTS",
-        "GE TV"
+        "SPORTYNET"
       ]
     },
     {
@@ -128,28 +32,63 @@ window.PAINEL_DATA = {
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-07-19",
-      "time": "17:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bulgária x França",
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Club Nacional x Tigre",
       "channels": [
-        "SporTV2"
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Bahia",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x América-MG",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x Criciúma",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "21:35",
+      "competition": "Brasileirão Série B",
+      "match": "Vila Nova x Fortaleza",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
-      "time": "21:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "EUA x Polônia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Itália x Holanda",
@@ -159,7 +98,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Japão",
@@ -169,7 +108,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Bolívia",
@@ -179,7 +118,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Turquia x Canadá",
@@ -189,7 +128,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x China",
@@ -199,7 +138,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "19:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Peru",
@@ -209,7 +148,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Chile",
@@ -219,7 +158,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "23:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Shangluo, China",
@@ -229,7 +168,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Alemanha",
@@ -239,7 +178,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "17:45",
       "competition": "Vôlei (SporTV2)",
       "match": "França x Polônia",
@@ -249,7 +188,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "21:45",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Bulgária",
@@ -259,7 +198,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "00:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Bélgica x Canadá",
@@ -269,10 +208,30 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "time": "13:40",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Brasil",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-20",
+      "time": "17:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bulgária x França",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-20",
+      "time": "21:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "EUA x Polônia",
       "channels": [
         "SporTV2"
       ]
@@ -281,58 +240,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.1,
-      "temp_min": 18.7,
+      "temp_max": 27.8,
+      "temp_min": 18.9,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 30.2,
-      "temp_min": 19.2,
+      "temp_min": 18.8,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.5,
-      "temp_min": 13.2,
+      "temp_max": 22.1,
+      "temp_min": 12.7,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.0,
-      "temp_min": 12.5,
+      "temp_max": 21.6,
+      "temp_min": 12.6,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Quem é Kevyn Vinícius? Joia revelada pelo Fluminense entra na mira do Benfica - Terra",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZVU2SS1KY3pMMHd1TUVzUlVBX3dMUlN6U0ZSd2ZqaUlxQVkyTzJCdFVEX09seW1YYzBnc1l2Z3ZQMDVTeThuOGxkYThjUWFLem9hNk54SnVtc1o2eFVRckJoVVdCczFTdndHeTBWdWNQcjVLRmVJRkZnem1EaDR4MlNvUDVCOFRkZk1oYzZqRnEyUUk0LTM3RmNhZVlhU2JoRDFZaUZhYjhYWHBRXzZIaEwzT3QwbDFrUEhRWF92NzNVZ1FKQ0pBM3hnSzlkOVM1dGFuemNrd1dodWFDOGVOT1hCZVNhT3N0dzFzTkdvcF8yc09HXzk0d21VMEx0NFBhdjluYmh0emluc1FJ?oc=5",
+      "data": "20/07 05:01"
+    },
+    {
+      "titulo": "Fluminense de Feira vence Feira FC e volta à elite do Baianão - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXg4VG5GZzRweW1NYU8xTlZoRFdYM3dzV0xLTTI3UXdJRGk4ZExoeld4ZmVaTFBtSUt0Wmd5LThKdGFqOUhKZEtfc3h2bmphOEZKN29naVM0NUE1WmhYdmE4dlpwSERNNXh2STJUa2VpZjFhUF92azU5WVkzeVVsWGZHbjNXVElsSXhvdEdsXzZqcVlMdzRSSE9UUUpQQlVtMHl6dUpudGg?oc=5",
+      "data": "19/07 20:24"
+    },
     {
       "titulo": "Ganso volta a ficar fora de jogo do Fluminense e vive indefinição sobre futuro - ge",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLW5ZTkhudDloYmhpNUlvelh0VEZNM052aGJ1bjRsVnhoampuRkQ1MmZWSW1UNVVkMFAzamRPYVZqRUYzd05YMk1HQTZ4bFVBa1RkQ1o0c1NncHRIWG1NcjhSMjNPQm5GRnA5TzBIRVViT0pvTHZRZ3gtTVUxdjBTREtoTGRveWNsYklkQkdhVHJPRzR4eGJQN3hGdks5NkF4SjZ0R0p4dDh3N1BmYjU4WnNQc0tMQ1ZoYk9zUXFBUHlCU1RtMmNUa01nTXlocHVYalhuWDNnM2Y0cno4aXZzWXRTQdIB8gFBVV95cUxPbVlCeVlraHRIejJta05vNV9QVld2b1phSENMN0JKYjY3bG1xSm0yTlJVRFUxNmcyd1FqR3VfSi1ZbTN1ekdMeVExTHRVUWNMY1ZxamktVFVGcDZaUjFBUUNUNlBrVk9RTElteVVJdV9vZzMzaUx0dE5rZ0tGSnVxaW1NZUVIUEQ3WThSWXJqTFpGYzlNdXhhT0FEX2lINTh5aEduUmtYajZNZGpNMG1GQV84WE5GRzU3WXFiSzJGQ0FGdXJnNFdRNEZGaTJaWUlxS3pCZEZ6ZFhrMTdFajY0b3k5MkxQZHZnNE10TlN5Yy1iUQ?oc=5",
       "data": "18/07 15:00"
     },
     {
-      "titulo": "Flu de Feira x Feira FC: melhor ataque e melhor defesa do campeonato decidem neste domingo vaga na final do Baianão - Acorda Cidade",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZDBxYlU3RV91aXA4SHVyVDRSZkZKSVljRnlqbjdScmpvcW1kNk5RMzJtRWZCbW1mT1BfZEpvYm95MnZIb2YyNnRTaTdocFRZaDhRYUdKU2FxdURNbHd6VnNvWmVKM0V5V2VueDlTcHlyWXN4S3R2OEh1eXE1VzBHV01sUXVDMHcyZzR3YXB4UzRoV3RoU3JPUlRIeHlJaGpBdmJ3YTBvMlJIbmxpOWpaSTI3V3gyLTNDNUV4aGtpR0FBaHY3VjJjQ0dqWjFORGl5TkxrcHlfTm5kc3puR0RrVi02aV93SElQM3piNTJvYXd1Q2h0c2Uw?oc=5",
-      "data": "19/07 17:53"
+      "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1FZbW1hOXI3bHpuY0tCLTJpMW1JNnVpVjhnMEVocm9WV250cldiQWdrbC03V2JERXhlQ0FXR0l5ZGFZNFZQQzAzalVqdnhsMTczV0duZmtVcjhuUFZRWTQzTVhIZVl1aFRDNDBaZVdTN2ktc3hSY0wxMXpTQkJWYmd4UnA?oc=5",
+      "data": "17/07 18:34"
     },
     {
-      "titulo": "Após cinco anos, Fluminense de Feira conquista o acesso e retorna à Série A do Baianão ao derrotar o Feira FC - Acorda Cidade",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObndmemdrV0tudlVfZnoybjRxZXU4TUpRelhiS1o1SjRHTWxSMHYyVzk0WWlEdW9kWXZUZFRBdUFXckJpcDNtVV9CcXctczVSQmdFTDRPNkwwYzE1a3dkTHFTa2V4ZTd1cXg0ejVUWTFCMUZRLVhfMFFEbDFyNVh0RDFlREpPaUJZckl1UmpRdVZzaHh1QTkxcDJteml6QXRZRUI4eDZKNm4yN1NTQ0JHVzQ2ZW5scW0yRVZQc1puNGgxMzByN3RCYzBYeWVvejBUMzhWQUloWVp6TDBMLW9kWmluRFlMYWxfNmR3d3VLSQ?oc=5",
-      "data": "19/07 20:17"
-    },
-    {
-      "titulo": "Ex-técnico do Fluminense é contratado por clube do Canadá - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORVpjZ3pnak5laVQ3Rm9ENmt6VlE3RTFXS0dTblNCQlRsOFY0M3JOSnRtNWV6VHp3bFFBOEdublBmeWNfamVYMjFDRmtoeDhSOHJSMWtSOXk0T2duY0RWVVRPbmRPd0J6S0tjRjN5NjU1LTMtUFF2VEJCcS1tWjFQSVFYY0ZGOWVKRHdZSFBwcEc5YTQ4NW16X0E4U0sxZW5kYm9qNXZWUEstVVVKajBOWmt3R1dDYVBEZy1KekxlT1dsN2liTVNCR0htZXllMWswZnFmY1VnbERGUGxpd09UeXNRTnYtRXh1Tm1Kck1vRHppVEk?oc=5",
-      "data": "19/07 10:58"
-    },
-    {
-      "titulo": "Thiago Silva estreia contra o Grêmio e tem planejamento definido pelo Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbElqdHJJX1dXNFZRb0loOFVoN3lvQlN1T3V4ZEE5dUZfUWJORjJqWmNQYnRpTzNWYlgyQU5KTEduZXltMlVscFkzVWZ1aXA5OEhtU3pQQ3gxRjBoNWliX3NmWklGTm8wUXFaVGw5YTM5a3QxVFNOS3hjTWptQXpVazBUYk4yMDFRWFdRTm1neXR3ckNUcUpfNlUyMFA5VjJ3N2N2bVlyY2U?oc=5",
-      "data": "18/07 19:15"
+      "titulo": "Fluminense encaminha empréstimo de meia uruguaio para o Atlético-GO - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT3ZhYTg5UmRlZFYyc0FwWjF4M2N0OTZ3OXQ2Q3h3N1NSXzRfSmEzWTRJQzJ1NDllSFZleUJKOUJKUk91UEtGSWJ4dl93Q1FfWHZVMVc2VWdqYWk0S0dvUng0MVBKakg3Sk9FTDktS0JQWE5nbllKcmRGWnIzMkZOT1cwU3p3emdjMDVwdGlmSjNYVVExQUg5ekFSY0hvU1dyZ3RTMGFPVkRKWFRweG5YS3lBZ3pyVW1nbDNqVXRJVFFpQWNqNE5jdjdtbEg4clY2OW5BSWV6Tnp5ZV9ueUtWdEd3ZnFxNnNEVWYwbEhn?oc=5",
+      "data": "19/07 16:33"
     }
   ],
   "avisos": []
