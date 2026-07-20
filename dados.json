@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "20/07/2026 07:24",
+  "atualizado_em": "20/07/2026 13:16",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-07-20",
-      "time": "09:00",
+      "time": "16:15",
       "competition": "Amistosos",
       "match": "Sporting CP x Strasbourg",
       "channels": [
@@ -50,7 +50,7 @@
       "match": "Atlético-MG x Bahia",
       "channels": [
         "SPORTV",
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -82,6 +82,7 @@
       "match": "Vila Nova x Fortaleza",
       "channels": [
         "REDETV!",
+        "ESPN 4",
         "CANAL GOAT",
         "DISNEY+"
       ]
@@ -240,58 +241,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.8,
-      "temp_min": 18.9,
+      "temp_max": 27.7,
+      "temp_min": 18.7,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.2,
-      "temp_min": 18.8,
+      "temp_max": 29.6,
+      "temp_min": 18.7,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.1,
-      "temp_min": 12.7,
+      "temp_max": 22.0,
+      "temp_min": 12.5,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.6,
-      "temp_min": 12.6,
+      "temp_max": 21.7,
+      "temp_min": 12.4,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Quem é Kevyn Vinícius? Joia revelada pelo Fluminense entra na mira do Benfica - Terra",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZVU2SS1KY3pMMHd1TUVzUlVBX3dMUlN6U0ZSd2ZqaUlxQVkyTzJCdFVEX09seW1YYzBnc1l2Z3ZQMDVTeThuOGxkYThjUWFLem9hNk54SnVtc1o2eFVRckJoVVdCczFTdndHeTBWdWNQcjVLRmVJRkZnem1EaDR4MlNvUDVCOFRkZk1oYzZqRnEyUUk0LTM3RmNhZVlhU2JoRDFZaUZhYjhYWHBRXzZIaEwzT3QwbDFrUEhRWF92NzNVZ1FKQ0pBM3hnSzlkOVM1dGFuemNrd1dodWFDOGVOT1hCZVNhT3N0dzFzTkdvcF8yc09HXzk0d21VMEx0NFBhdjluYmh0emluc1FJ?oc=5",
-      "data": "20/07 05:01"
+      "titulo": "Fluminense comemora Dia do Amigo com clube argentino - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHJwOXF1YzBhaEh4U1RhX1pQekd0RFZNZ0F4SUc3dDM1cEVPLXlzSGtqVGFNZXNBWVRNUmo2cUxSLXgxSFF5bFhTcUpGUklhYnk1ajJENExzNHBPZWtFWExWVUFsSmF4MGN5WFZkS0xXdXJQelBxVnQ2VTBBS0ctY3NtMEdidWo5Sk9WdEc0alZqSHRNSlM1Nw?oc=5",
+      "data": "20/07 15:29"
     },
     {
-      "titulo": "Fluminense de Feira vence Feira FC e volta à elite do Baianão - A TARDE",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXg4VG5GZzRweW1NYU8xTlZoRFdYM3dzV0xLTTI3UXdJRGk4ZExoeld4ZmVaTFBtSUt0Wmd5LThKdGFqOUhKZEtfc3h2bmphOEZKN29naVM0NUE1WmhYdmE4dlpwSERNNXh2STJUa2VpZjFhUF92azU5WVkzeVVsWGZHbjNXVElsSXhvdEdsXzZqcVlMdzRSSE9UUUpQQlVtMHl6dUpudGg?oc=5",
-      "data": "19/07 20:24"
+      "titulo": "Thiago Silva tem nome publicado no BID e está apto a jogar pelo Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeHJFUHNBUFBZbFo5cU4zODYyMkphRWY0Q2RKRXJzbG9ZaG80emdfQzUzMjhjOXZvZUh1TTVmZHhuUGdmM1oyVGk0YTlXUy13NEtkUDgwdGhBM3Vwd0d6cEIybnF1VFZsUU90ZmFGWjA0Z2o3bzZfQ0EzbnBxOHJHd2lWUzllazkxVVFZNnlhazh4TzlNVl9WWTMwa204X1VSd01scGMwb2duak9kX3VoR0dDNmlOYS1FT29zMzVBOW9TT2pIa2NlV29SUGtVN3pXQVNaaXhKZU5XRWNqbHfSAewBQVVfeXFMTV9aWXhwQVMtRERmWGp4V1ZWRVA0WGQtdWtfQVkwend2ZjF4bnVxSUFoNFgxejN2YWphNHh1YktHVk1ORVU3Y2hmSXVfY0lHOHRvMl9rcGFFeWxFS0kzc1hCR1hrTlR3OW14VUpXb3BrMXZqVEdGbEdKSmpPTjY5UThyZm00TUsyMnRMd3JHT3dqc29ocGVlQ1ZPcG9kZmZibkR1Q1E4ZVEydGxFUzhteUhnNXlnaGhmaHlKV3IwS0swY0FfSWFFOEo0T3ZhVUpNZnFmWXM3QWFiQkdMZUlCTzdWV1o2VjJKOGdKTzc?oc=5",
+      "data": "20/07 16:02"
     },
     {
-      "titulo": "Ganso volta a ficar fora de jogo do Fluminense e vive indefinição sobre futuro - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLW5ZTkhudDloYmhpNUlvelh0VEZNM052aGJ1bjRsVnhoampuRkQ1MmZWSW1UNVVkMFAzamRPYVZqRUYzd05YMk1HQTZ4bFVBa1RkQ1o0c1NncHRIWG1NcjhSMjNPQm5GRnA5TzBIRVViT0pvTHZRZ3gtTVUxdjBTREtoTGRveWNsYklkQkdhVHJPRzR4eGJQN3hGdks5NkF4SjZ0R0p4dDh3N1BmYjU4WnNQc0tMQ1ZoYk9zUXFBUHlCU1RtMmNUa01nTXlocHVYalhuWDNnM2Y0cno4aXZzWXRTQdIB8gFBVV95cUxPbVlCeVlraHRIejJta05vNV9QVld2b1phSENMN0JKYjY3bG1xSm0yTlJVRFUxNmcyd1FqR3VfSi1ZbTN1ekdMeVExTHRVUWNMY1ZxamktVFVGcDZaUjFBUUNUNlBrVk9RTElteVVJdV9vZzMzaUx0dE5rZ0tGSnVxaW1NZUVIUEQ3WThSWXJqTFpGYzlNdXhhT0FEX2lINTh5aEduUmtYajZNZGpNMG1GQV84WE5GRzU3WXFiSzJGQ0FGdXJnNFdRNEZGaTJaWUlxS3pCZEZ6ZFhrMTdFajY0b3k5MkxQZHZnNE10TlN5Yy1iUQ?oc=5",
-      "data": "18/07 15:00"
+      "titulo": "Zubeldía ganha reforço de peso no Fluminense contra o Grêmio - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnFwblIxbEdjcWozSWZoMkdEWnZqZlFoQThqdXNpTU1ZMlpJUmMzYTdUaThPSVBacFItakZDSzRKUTg2b3YwTmI1X05YUGJ4b3F6a21VUnZOMThRLVQxaTBwb2stYkRNMzBfZGhUcFNSYW4zWm5DbzZPVnBXajBFdWV0cGtkTDNhU1VyYkFQVWI?oc=5",
+      "data": "20/07 11:30"
     },
     {
-      "titulo": "Informações gerais sobre a Flu Fest 2026 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1FZbW1hOXI3bHpuY0tCLTJpMW1JNnVpVjhnMEVocm9WV250cldiQWdrbC03V2JERXhlQ0FXR0l5ZGFZNFZQQzAzalVqdnhsMTczV0duZmtVcjhuUFZRWTQzTVhIZVl1aFRDNDBaZVdTN2ktc3hSY0wxMXpTQkJWYmd4UnA?oc=5",
-      "data": "17/07 18:34"
+      "titulo": "Thiago Silva é registrado no BID e pode fazer reestreia pelo Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWUZBYk1OdUpqVVQ3ZXJzQ2Z0NmFJQ0VXbHd2c3BDLVFDLTcxYV92dkttVW9rUnktUzVFWEhYVnA3NHdMNDk5ZjdlQ2hCdzJaMHBUaXdvZTZ3Q3VrU0dLWVhwRS1zRWVYQjhiekxBaXBHNzNEbEo0LTZ2Q0tmQnpkX1ZqYUpqbUwzSWxGXy1QbmZfMU5qWkRlTUJEQ3RMcXZTQUlmeE8zOHIzWk1COW50cWNnUlR3WWZRZ3hKSXFqRDRWejc5ODBtYXk1b3JzMm9ueGpBdXhUSmczYzhmUmFNX2NNR0xfeGd6di1FV2t4aXA?oc=5",
+      "data": "20/07 16:02"
     },
     {
-      "titulo": "Fluminense encaminha empréstimo de meia uruguaio para o Atlético-GO - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT3ZhYTg5UmRlZFYyc0FwWjF4M2N0OTZ3OXQ2Q3h3N1NSXzRfSmEzWTRJQzJ1NDllSFZleUJKOUJKUk91UEtGSWJ4dl93Q1FfWHZVMVc2VWdqYWk0S0dvUng0MVBKakg3Sk9FTDktS0JQWE5nbllKcmRGWnIzMkZOT1cwU3p3emdjMDVwdGlmSjNYVVExQUg5ekFSY0hvU1dyZ3RTMGFPVkRKWFRweG5YS3lBZ3pyVW1nbDNqVXRJVFFpQWNqNE5jdjdtbEg4clY2OW5BSWV6Tnp5ZV9ueUtWdEd3ZnFxNnNEVWYwbEhn?oc=5",
-      "data": "19/07 16:33"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Bahia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlBnVlhQRFBnVGhhOUdWWkFBVXBnYVJZV213azE3X3lFU1pLejdlbnF2RW1HbFBVZ3hnZ093NHdhWUNVMGhGN3N0Wm5PZTZLWTZhT1lta1p3ckNlcWJTVnNpWTQyUDFIWDMtRm1UY2ZuWWpDSGQzTFNRSVZZc2JkVGEtQVR6N3d0SmxFNUJUc1FJNmFIMzdPUDNPUEJwMFRBcUtvVmtB?oc=5",
+      "data": "20/07 15:32"
     }
   ],
   "avisos": []
