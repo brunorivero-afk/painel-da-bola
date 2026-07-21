@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/07/2026 07:08",
+  "atualizado_em": "21/07/2026 13:06",
   "jogos": [
     {
       "sport": "futebol",
@@ -490,58 +490,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.2,
-      "temp_min": 19.5,
+      "temp_max": 29.4,
+      "temp_min": 19.3,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.7,
-      "temp_min": 17.9,
+      "temp_max": 30.4,
+      "temp_min": 17.5,
+      "chance_chuva": 0,
+      "condicao": "Nublado"
+    },
+    {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 23.2,
+      "temp_min": 13.2,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.9,
-      "temp_min": 13.6,
-      "chance_chuva": 0,
-      "condicao": "Céu limpo"
-    },
-    {
       "cidade": "Teresópolis",
       "temp_max": 22.3,
-      "temp_min": 12.3,
+      "temp_min": 12.0,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
+      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
+      "data": "21/07 11:00"
+    },
+    {
+      "titulo": "Clube da Premier League parabeniza Fluminense pelos 124 anos; veja - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxbzQ2Mk5uN21vQklZZkJhVzFSNVBwTXVuTFRac3V0cENuaHppVnM0a3R0V0lCNlFaYVg5RWlKTWZxNlVXQlpCS2FPNE9xQVNZNkRtUXgyb1V5SGYxclFCVXQxM1RjWjhROW9DcUpxaUFLNTRMdU82Um4yOXo?oc=5",
+      "data": "21/07 15:34"
+    },
+    {
+      "titulo": "Fluminense completa 124 anos e celebra história - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNTBHUVR6YVVHcmNiWjh1MlJUM1lCMnE0XzVPVUl3QUIwZkNyaWVPdVRpY2NKWXprWnBTTXhjM0NNWkc5NW51WG9PY0NyNG5fTkU4T083YlhzVXRXM0JrU0JLQkJzelV4MXpEODJXVDkwcFZUWXpDMGVGaE5GYXY2cmVBSnJkQmJnaTRLcGtnX1JpR0xmZWt6TFpsMmtHZnBYTFY4b1B6b3FKMVhzRUVKMS1GYkdadW1TS0JXVHJLc2d1bzVOSS1SbndFd0lnZWhMMGpiQw?oc=5",
+      "data": "21/07 13:07"
+    },
+    {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Bahia - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlBnVlhQRFBnVGhhOUdWWkFBVXBnYVJZV213azE3X3lFU1pLejdlbnF2RW1HbFBVZ3hnZ093NHdhWUNVMGhGN3N0Wm5PZTZLWTZhT1lta1p3ckNlcWJTVnNpWTQyUDFIWDMtRm1UY2ZuWWpDSGQzTFNRSVZZc2JkVGEtQVR6N3d0SmxFNUJUc1FJNmFIMzdPUDNPUEJwMFRBcUtvVmtB?oc=5",
       "data": "20/07 15:32"
     },
     {
-      "titulo": "Zubeldía ganha reforço de peso no Fluminense contra o Grêmio - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnFwblIxbEdjcWozSWZoMkdEWnZqZlFoQThqdXNpTU1ZMlpJUmMzYTdUaThPSVBacFItakZDSzRKUTg2b3YwTmI1X05YUGJ4b3F6a21VUnZOMThRLVQxaTBwb2stYkRNMzBfZGhUcFNSYW4zWm5DbzZPVnBXajBFdWV0cGtkTDNhU1VyYkFQVWI?oc=5",
-      "data": "20/07 16:23"
-    },
-    {
-      "titulo": "Thiago Silva resolve o problema do Fluminense na bola aérea? Números respondem - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHh1WnN6Z3NjWnppdW1uTmVhMWZTc2FBQmh2di1qQjVsWGt1WmM4U1RnWmNsWDh3MUdXQkRNT19fcEdBRGFnZ1FMOWtPVkdYREM1bzE0TGZpV203cHB6MHUyZ3Zpb081bzJRSHRzcWUzT2hRc2VELUNsUTI1b0luRGFrUHlDdGRVNXpoLUhkaWp1UmRnT3Y2ZnhhYXpFM0hYT2VwMmwwWl8tVGk1UlNrTXJnU3puYk5sUUlB?oc=5",
-      "data": "21/07 08:10"
-    },
-    {
-      "titulo": "Thiago Silva tem nome publicado no BID e está apto a jogar pelo Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeHJFUHNBUFBZbFo5cU4zODYyMkphRWY0Q2RKRXJzbG9ZaG80emdfQzUzMjhjOXZvZUh1TTVmZHhuUGdmM1oyVGk0YTlXUy13NEtkUDgwdGhBM3Vwd0d6cEIybnF1VFZsUU90ZmFGWjA0Z2o3bzZfQ0EzbnBxOHJHd2lWUzllazkxVVFZNnlhazh4TzlNVl9WWTMwa204X1VSd01scGMwb2duak9kX3VoR0dDNmlOYS1FT29zMzVBOW9TT2pIa2NlV29SUGtVN3pXQVNaaXhKZU5XRWNqbHfSAewBQVVfeXFMTV9aWXhwQVMtRERmWGp4V1ZWRVA0WGQtdWtfQVkwend2ZjF4bnVxSUFoNFgxejN2YWphNHh1YktHVk1ORVU3Y2hmSXVfY0lHOHRvMl9rcGFFeWxFS0kzc1hCR1hrTlR3OW14VUpXb3BrMXZqVEdGbEdKSmpPTjY5UThyZm00TUsyMnRMd3JHT3dqc29ocGVlQ1ZPcG9kZmZibkR1Q1E4ZVEydGxFUzhteUhnNXlnaGhmaHlKV3IwS0swY0FfSWFFOEo0T3ZhVUpNZnFmWXM3QWFiQkdMZUlCTzdWV1o2VjJKOGdKTzc?oc=5",
-      "data": "20/07 16:02"
-    },
-    {
-      "titulo": "Fluminense de Feira vence Feira FC e sobe para a elite do Campeonato Baiano - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaDRaRUlkMm1RNFZBMXdIaGNIdnNEczZvWmtobklaVGFDeXh6eTR5aUQ5SFZ2N21yV0o1M0J1YUhzdTJ3Q3YtbE1hQVVYcldyd0VlWW41dnhMaEJ3SUxqX2NEZzR6S29VemxMajhuQnc0dEI4YWFnc0lsRnZaV2NpQnJtOUhISWFlZ2FhWVB0ZC1BekJWV1ByLS1NX3Rrd2Vfa2RHWGRqd293WmJIcDBMeS1hRVBBUm9tUXY1WUdPSGpzZ2RrOHZSa2diVVc1LWdvaXhuUGxKbWtha1BOZWltZ3lZeDhOMUNnbVRYU3U2RWM3UktpTUtHZNIBhwJBVV95cUxOT0NSM2RPTUlkN293Z25Gak5YSXRHbWRvNzlkdHZJb0tJRHE5ZzJvMjNPZXNkMzhFYm1reG5vVTlfbGpGaWx0QXo0WGNqblNfZnI2bzBBOEZ3UmNhQXBZaVBRV1didDBrOUJ6bm50bnVJUEJlS2dFQ1l3cGN1MGlDNDNycmtjcUtlSHpScUdDXzV0cHgzYVB4QXEtZGUxNS1MZ0Y3cUUwdUNhbHpBRWlpOEo5YnRtY1FCSENIVVdTWndFaUgzTnR3S1VyRHNCVlNDT2VUR1k0M2oyWmtDTzRJVE03dUx4OUM4dTY1TlRWYURtYjQzalNvSnVuZGlyV2hJV2ZZdHlORQ?oc=5",
-      "data": "20/07 00:49"
+      "titulo": "Fluminense perde Millán e Jemmes por lesão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbW00N2xhbjJqejRhb25mRGlsRl9ZeXczbDFtVEhXODZPeTBTcGhGdnBseXZlOXNzNk1BeVRJNkJnZFJUdVBYNlplSGFpMTlTYjlzU3lSZ2luNTVWRmlnYjJ2UWFXQ29wX1dqLU5BSjh6WldfWThTYWtBdEg0ZUVyNG5VZnVfLWtsWTdR?oc=5",
+      "data": "21/07 15:42"
     }
   ],
   "avisos": []
