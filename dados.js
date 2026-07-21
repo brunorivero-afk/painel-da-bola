@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/07/2026 13:06",
+  "atualizado_em": "21/07/2026 17:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -47,6 +47,18 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-21",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "UCV x Santos",
+      "channels": [
+        "SBT",
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
       "time": "21:35",
       "competition": "Brasileirão Série B",
       "match": "Vila Nova x Fortaleza",
@@ -55,6 +67,26 @@ window.PAINEL_DATA = {
         "ESPN 4",
         "CANAL GOAT",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "13:00",
+      "competition": "Champions League",
+      "match": "Ararat-Armenia x Shamrock Rovers",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "15:30",
+      "competition": "Champions League",
+      "match": "Sturm Graz x Heart OF Midlothian",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -490,28 +522,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.4,
+      "temp_max": 30.2,
       "temp_min": 19.3,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
       "temp_max": 30.4,
       "temp_min": 17.5,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.2,
+      "temp_max": 23.6,
       "temp_min": 13.2,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.3,
+      "temp_max": 22.4,
       "temp_min": 12.0,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
@@ -519,19 +551,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
+      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores | Ge - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB?oc=5",
       "data": "21/07 11:00"
-    },
-    {
-      "titulo": "Clube da Premier League parabeniza Fluminense pelos 124 anos; veja - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxbzQ2Mk5uN21vQklZZkJhVzFSNVBwTXVuTFRac3V0cENuaHppVnM0a3R0V0lCNlFaYVg5RWlKTWZxNlVXQlpCS2FPNE9xQVNZNkRtUXgyb1V5SGYxclFCVXQxM1RjWjhROW9DcUpxaUFLNTRMdU82Um4yOXo?oc=5",
-      "data": "21/07 15:34"
-    },
-    {
-      "titulo": "Fluminense completa 124 anos e celebra história - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNTBHUVR6YVVHcmNiWjh1MlJUM1lCMnE0XzVPVUl3QUIwZkNyaWVPdVRpY2NKWXprWnBTTXhjM0NNWkc5NW51WG9PY0NyNG5fTkU4T083YlhzVXRXM0JrU0JLQkJzelV4MXpEODJXVDkwcFZUWXpDMGVGaE5GYXY2cmVBSnJkQmJnaTRLcGtnX1JpR0xmZWt6TFpsMmtHZnBYTFY4b1B6b3FKMVhzRUVKMS1GYkdadW1TS0JXVHJLc2d1bzVOSS1SbndFd0lnZWhMMGpiQw?oc=5",
-      "data": "21/07 13:07"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Bahia - fluminense.com.br",
@@ -539,9 +561,19 @@ window.PAINEL_DATA = {
       "data": "20/07 15:32"
     },
     {
-      "titulo": "Fluminense perde Millán e Jemmes por lesão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbW00N2xhbjJqejRhb25mRGlsRl9ZeXczbDFtVEhXODZPeTBTcGhGdnBseXZlOXNzNk1BeVRJNkJnZFJUdVBYNlplSGFpMTlTYjlzU3lSZ2luNTVWRmlnYjJ2UWFXQ29wX1dqLU5BSjh6WldfWThTYWtBdEg0ZUVyNG5VZnVfLWtsWTdR?oc=5",
-      "data": "21/07 15:42"
+      "titulo": "Volta de Fred ao Fluminense como treinador do sub-20 repercute: 'Precisamos' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWFBZ1FiUVRfQUlCQ0hjbDZiQTBBX2dvZHphMC1oM1NLYnRtSHJKVUdsVThtY2hlNXJXNld3SnU4Rl9JNXBmaWxSRExTVThZRFFwOHc3d1FDMWRUeHRUcVBfQ0JnSzNqVTJydGktY0g3Um9BRW13MVluR1ZlMFVPSzhRSGh2aW1SdE5iS29KTWJJVEx5cTY3R3NYVV94bGZjRlpkLXFhdkJaT3l0WWdCOUVQdzU1dTZL?oc=5",
+      "data": "21/07 17:20"
+    },
+    {
+      "titulo": "Chelsea parabeniza Fluminense pelos 124 anos: 'Grande ideia' - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlZvM05aNnpVQnBveExGdW9hVU41RTZHMnVUSUtuVUloQkRQV3ZSdU5lekJydC1ZbnNTeTNsVEx4MTNXOWVtUEJVeS1US1RrU25GM2syZll6ZXpqU3g5OEo5T3JuNzNOSUYweDhwS3cxQ3VvVENwenVqOEp0amNES1pNQXVTTUd2b2NnaEpaYWFJOFRMZWhDem54S0RkVWY3aklJZGt0WWZkUU1zNE1ON1lSR3QtVUdWTnpGeWpTUlN3MGQzQXlN0gHMAUFVX3lxTFB3QWM4Ni1JY0VsWE50MmZicjVMbTd1UzdkVlNfZWZFU3FNMUR2ank0Y3g1Q3EtaUJIZVd5QWhVUjlLeGZUZHZ0N1cxd205a3NiUGttdEhzanVSZ24takFSWVpyMzI5aTFBWGpkcS1VZmRIZnBpcGc5cEJBb29HU0QzZmtIQWNBNXBsVEVYd3lEcTdCMThQbmFBQ2k4aXVlYWwwT0V5NlMtR3J6RkZqZnlSQU5PMEhXMzUzMlNZWTI5N3AwMXJtYWgtdHN6LQ?oc=5",
+      "data": "21/07 20:14"
+    },
+    {
+      "titulo": "Entidade máxima do futebol sul-americano parabeniza o Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0F5U0N2RGtacXN2WThjUTRzd2VodkpxeVpGYzJPVXdnZU0zbFB0SG5fdXJMcC05RlVobklJN0pYZWU0TG1KcTZlVTVtOEItbDdMMGZwOG1XdWJoUVZjWHBtakdWTGwyM2UybHkwREVRcDRmMFdHa3ZjNm5qdlYydWxpRGNRWkloNkRadkVKY0RsZHd4eGc?oc=5",
+      "data": "21/07 20:21"
     }
   ],
   "avisos": []
