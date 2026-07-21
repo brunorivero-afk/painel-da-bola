@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/07/2026 17:55",
+  "atualizado_em": "20/07/2026 21:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -248,14 +248,14 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.0,
+      "temp_max": 29.9,
       "temp_min": 18.7,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.2,
+      "temp_max": 22.4,
       "temp_min": 12.5,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
@@ -275,24 +275,24 @@ window.PAINEL_DATA = {
       "data": "20/07 15:32"
     },
     {
-      "titulo": "Meia uruguaio David Terans troca o Fluminense por time da Série B - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjlqLVVCUVpjSjBqVFdHRFNta1RvYzhJa1hoU25oNmYtOTlRaVBGeHFJUlB4Q28yV1lXWWJEXzczZ3NZZi1aMjREaHBGSjV1T1NhcF9OVTFLc2dSUWhQdXNFdU9qWURNR1E1VlFNQnJPYm8tVDdXS3hCSUxFaUlfVFhjVDVodm5FcjQzbFM5SzN2clhPQWJVUEh4MGR4djllb3pBSA?oc=5",
-      "data": "20/07 16:20"
+      "titulo": "Thiago Silva tem nome publicado no BID e está apto a jogar pelo Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeHJFUHNBUFBZbFo5cU4zODYyMkphRWY0Q2RKRXJzbG9ZaG80emdfQzUzMjhjOXZvZUh1TTVmZHhuUGdmM1oyVGk0YTlXUy13NEtkUDgwdGhBM3Vwd0d6cEIybnF1VFZsUU90ZmFGWjA0Z2o3bzZfQ0EzbnBxOHJHd2lWUzllazkxVVFZNnlhazh4TzlNVl9WWTMwa204X1VSd01scGMwb2duak9kX3VoR0dDNmlOYS1FT29zMzVBOW9TT2pIa2NlV29SUGtVN3pXQVNaaXhKZU5XRWNqbHfSAewBQVVfeXFMTV9aWXhwQVMtRERmWGp4V1ZWRVA0WGQtdWtfQVkwend2ZjF4bnVxSUFoNFgxejN2YWphNHh1YktHVk1ORVU3Y2hmSXVfY0lHOHRvMl9rcGFFeWxFS0kzc1hCR1hrTlR3OW14VUpXb3BrMXZqVEdGbEdKSmpPTjY5UThyZm00TUsyMnRMd3JHT3dqc29ocGVlQ1ZPcG9kZmZibkR1Q1E4ZVEydGxFUzhteUhnNXlnaGhmaHlKV3IwS0swY0FfSWFFOEo0T3ZhVUpNZnFmWXM3QWFiQkdMZUlCTzdWV1o2VjJKOGdKTzc?oc=5",
+      "data": "20/07 16:02"
     },
     {
-      "titulo": "Fluminense encaminha empréstimo de meia uruguaio para o Atlético-GO - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT3ZhYTg5UmRlZFYyc0FwWjF4M2N0OTZ3OXQ2Q3h3N1NSXzRfSmEzWTRJQzJ1NDllSFZleUJKOUJKUk91UEtGSWJ4dl93Q1FfWHZVMVc2VWdqYWk0S0dvUng0MVBKakg3Sk9FTDktS0JQWE5nbllKcmRGWnIzMkZOT1cwU3p3emdjMDVwdGlmSjNYVVExQUg5ekFSY0hvU1dyZ3RTMGFPVkRKWFRweG5YS3lBZ3pyVW1nbDNqVXRJVFFpQWNqNE5jdjdtbEg4clY2OW5BSWV6Tnp5ZV9ueUtWdEd3ZnFxNnNEVWYwbEhn?oc=5",
-      "data": "19/07 16:33"
+      "titulo": "Thiago Silva é regularizado no BID e pode reforçar o Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPekI0SnY5TnFZN2R3eXM5NUdhSENlSHBwamVGN3NUdEFKdnVod1pTaF9PTHoyZUY4NFd1WU85RWF1aWlURDRLU2FvQy11b25NSGhzNDRfcC1qREQtUkpTTGZqZ0N1NnFnUEdIdmlQR20zeHJDUTNqMzkxR3lJVGpWMU9WRlpYRkhybGIwRGtMa1RWMEot?oc=5",
+      "data": "20/07 17:51"
     },
     {
-      "titulo": "Fluminense empresta David Terans ao Atlético-GO - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ1F1Mkh3dEJueVNIUFk0VDBQNkJUakhfZjBmMDl0MWc4SE9nQnhYLTFKU2VUa1BDdlhEN3NfWW9OcHBQeW5kNld6WFRnRDRvUTFSZHc5dnJPR1dfTFRpcDR3YkgzUVpTY3h5azlDcjYyT0tzb2JodVZ3TkFoTUNVSndMbUE2c0FsN29zbDdfVmhGVXB3Q2ZEcUt2QkV0aWJWMlA1Qk1lamFGSVpFMEdjOTdfOWdkbG51T091dmR1MjYzSy14NTFsQUFBaXlxQUlZY0R5cllXNVFzV2lxQXJpMU12U2ZxZw?oc=5",
-      "data": "18/07 21:16"
+      "titulo": "Thiago Silva é registrado no BID e pode reestrear pelo Fluminense - Gazeta Esportiva",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUkVlclZJT2tlQWMyWHB2Nk5rQ19WVEtBcWh5dmtNd29xTmR1X3BTUTZ3OUI4ZVFLeThJR015ZkcxMGF3UUJlVmRwVlhRQzF4UUgyUzhpSlJVMXQxUDV2ME5FWW4zXzhaQzJGMG9vWVVweU1wLVk2ZmhzcVlfSWFXT09VR3BSN1JoZjNTU3RGdXN6SUNrdVRjd2ZIcldGc01mcVN6LXpDZ3BqMTRFczdUdVk0dkUwUdIBuwFBVV95cUxOOHNESHlHdnFYZ2NOVVRtZ0JlcEIyQ2UwVGhYbk1uSUdQeXlwRGxoVnNUZ3dzRlc5UE0zYVkzbTJSSlBhTW1CTFJPcUNXNFdZRC04dHVYUXE1dWMtT2VOU1ZWT3ZEazV6Qnk0Qkl2cjk4VHJMdnlhZGk5ajZSUFNkRGRJZUFFcHhnTXJaZjllRGhKdm9EX2EzWTAxOTZEcUo5VEtpVmRtckFiTV9UNFZJSFBXTjJiNHMxaUdR?oc=5",
+      "data": "20/07 21:52"
     },
     {
-      "titulo": "Informações de ingressos para Fluminense x Bahia pelo Brasileirão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2FtM1pMakFUY0t2bmlmR2NPRkw4VTR5SzdUQlhMNEYzM0lyTlVPTjZkb1QxWHhPYm95bTFpcE9jNDd6RHFuNTM2ampkQjFqaTRlX1h0Y3hYcmxhQlkyTHd0TTVLdlZCajNCeXQ4N1dTNm5SdzR4c3g5WXUzUDA4NzRJTTM0ZDU1eEc3QUZoaHJHVXk5eExNUGgxdXRNWXFoUGlHbmtMalhFQQ?oc=5",
-      "data": "20/07 17:48"
+      "titulo": "Após cinco anos, Fluminense de Feira conquista o acesso e retorna à Série A do Baianão ao derrotar o Feira FC - Acorda Cidade",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObndmemdrV0tudlVfZnoybjRxZXU4TUpRelhiS1o1SjRHTWxSMHYyVzk0WWlEdW9kWXZUZFRBdUFXckJpcDNtVV9CcXctczVSQmdFTDRPNkwwYzE1a3dkTHFTa2V4ZTd1cXg0ejVUWTFCMUZRLVhfMFFEbDFyNVh0RDFlREpPaUJZckl1UmpRdVZzaHh1QTkxcDJteml6QXRZRUI4eDZKNm4yN1NTQ0JHVzQ2ZW5scW0yRVZQc1puNGgxMzByN3RCYzBYeWVvejBUMzhWQUloWVp6TDBMLW9kWmluRFlMYWxfNmR3d3VLSQ?oc=5",
+      "data": "19/07 20:17"
     }
   ],
   "avisos": []
