@@ -1,17 +1,6 @@
 {
-  "atualizado_em": "21/07/2026 17:49",
+  "atualizado_em": "21/07/2026 21:08",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Club Nacional x Tigre",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-21",
@@ -87,6 +76,17 @@
       "match": "Sturm Graz x Heart OF Midlothian",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-21",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Club Nacional x Tigre",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -551,29 +551,29 @@
   ],
   "noticias": [
     {
-      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores | Ge - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB?oc=5",
+      "titulo": "Copa do Brasil 2026: Informações de ingressos para Fluminense x Vasco - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEFZRHNJdlJ2V1h3XzI2UUpVVmRDSHVrU1lfYmtqNmlLRGJ3bXVaRXYyR0J5czZRUkgzY0lBczNIRlhBMXVGTUJldUlHVU13RThEQXBCS3hSOHFsWWRycVZRVk9OVldJUXQ0eGh6cEw1WTRza25VV0dYZVRVblFQSm1UTldJREotbzlCSFpjNjFoaG0yXzg2dW5LbnhLQmk4RGhjdDZQQnE3UQ?oc=5",
+      "data": "21/07 23:01"
+    },
+    {
+      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
       "data": "21/07 11:00"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Bahia - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlBnVlhQRFBnVGhhOUdWWkFBVXBnYVJZV213azE3X3lFU1pLejdlbnF2RW1HbFBVZ3hnZ093NHdhWUNVMGhGN3N0Wm5PZTZLWTZhT1lta1p3ckNlcWJTVnNpWTQyUDFIWDMtRm1UY2ZuWWpDSGQzTFNRSVZZc2JkVGEtQVR6N3d0SmxFNUJUc1FJNmFIMzdPUDNPUEJwMFRBcUtvVmtB?oc=5",
-      "data": "20/07 15:32"
+      "titulo": "Atacante do Fluminense entra na mira de clube russo - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHg0SVYzbGg2cXRPcGRzOW0td1NrcVBacE0zMDhTVzljdHowSTYxVjhEa2FYMHU4alpTemhQdTF4Uy03U2ZKLUo0eFNjOGl3eW5lUFdxb1gxTGt6TDQ2MlgtUmVXTkY2bVZiVFVEQUY0RVJjZE5WbjR6SXhfekNvY21BeXI?oc=5",
+      "data": "21/07 23:02"
     },
     {
-      "titulo": "Volta de Fred ao Fluminense como treinador do sub-20 repercute: 'Precisamos' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWFBZ1FiUVRfQUlCQ0hjbDZiQTBBX2dvZHphMC1oM1NLYnRtSHJKVUdsVThtY2hlNXJXNld3SnU4Rl9JNXBmaWxSRExTVThZRFFwOHc3d1FDMWRUeHRUcVBfQ0JnSzNqVTJydGktY0g3Um9BRW13MVluR1ZlMFVPSzhRSGh2aW1SdE5iS29KTWJJVEx5cTY3R3NYVV94bGZjRlpkLXFhdkJaT3l0WWdCOUVQdzU1dTZL?oc=5",
-      "data": "21/07 17:20"
+      "titulo": "Oficial! Fluminense confirma retorno de ídolo ao clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWp4UlVNelgwa05DdzFjdUcyRmhRSEVxajlyMFNCUUhjZ0Z1dS1xTkE3ZHJGaXJsTVRGd0tLRDNJempJM0FHLVdsd252U1g5SzdxNGI2MXgwZ2QtYlc1TkNqMFZuaXI2c3VBY2hKckpla0h5VHJVb3dvdjZvWkE2Ri1HVEtKNGhrWUdzcTFHcDBBYkFUeTNQOHBHRlB4MElsVzBNNjNWUGJIWmZ6NDNlb0xvZmVOcVp4U2tGcUNtSDdqejliSWtVUW5BRWxRQjRTWXZLQlhrYi1GZ2RH?oc=5",
+      "data": "21/07 19:41"
     },
     {
-      "titulo": "Chelsea parabeniza Fluminense pelos 124 anos: 'Grande ideia' - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlZvM05aNnpVQnBveExGdW9hVU41RTZHMnVUSUtuVUloQkRQV3ZSdU5lekJydC1ZbnNTeTNsVEx4MTNXOWVtUEJVeS1US1RrU25GM2syZll6ZXpqU3g5OEo5T3JuNzNOSUYweDhwS3cxQ3VvVENwenVqOEp0amNES1pNQXVTTUd2b2NnaEpaYWFJOFRMZWhDem54S0RkVWY3aklJZGt0WWZkUU1zNE1ON1lSR3QtVUdWTnpGeWpTUlN3MGQzQXlN0gHMAUFVX3lxTFB3QWM4Ni1JY0VsWE50MmZicjVMbTd1UzdkVlNfZWZFU3FNMUR2ank0Y3g1Q3EtaUJIZVd5QWhVUjlLeGZUZHZ0N1cxd205a3NiUGttdEhzanVSZ24takFSWVpyMzI5aTFBWGpkcS1VZmRIZnBpcGc5cEJBb29HU0QzZmtIQWNBNXBsVEVYd3lEcTdCMThQbmFBQ2k4aXVlYWwwT0V5NlMtR3J6RkZqZnlSQU5PMEhXMzUzMlNZWTI5N3AwMXJtYWgtdHN6LQ?oc=5",
-      "data": "21/07 20:14"
-    },
-    {
-      "titulo": "Entidade máxima do futebol sul-americano parabeniza o Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0F5U0N2RGtacXN2WThjUTRzd2VodkpxeVpGYzJPVXdnZU0zbFB0SG5fdXJMcC05RlVobklJN0pYZWU0TG1KcTZlVTVtOEItbDdMMGZwOG1XdWJoUVZjWHBtakdWTGwyM2UybHkwREVRcDRmMFdHa3ZjNm5qdlYydWxpRGNRWkloNkRadkVKY0RsZHd4eGc?oc=5",
-      "data": "21/07 20:21"
+      "titulo": "Flamengo faz post brincando com Fluminense após falha de rede social - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3VlY2ptcHRmNi1OUG41TlhkYzBBVUdIbENreXVjdnk2X09MXzNDZTA2dW90TVFRa1plYWlSRG8wRWU3cVhtU0Q2RmVVNWREYnhMU1owVlRpQjFWUUZJSDFnTTZtYnUwQUt4WWlxNkZBV2YyS09Fa0xkMVgxUkdzVXBpU0ZudWFFOFRKNmk0OXN3OVRRWHB3ZS1xZjBKOU5ud1Y0b29kVE41M1daYTB4RmZPX1Fxa01xenlfetIBwgFBVV95cUxPcEp5TkkwSFBrN2dMSGhYVGp1RnZiTXV3OUk2MnJNYWh6cUtpYldWcTJfdTZJS3ZNYnpXWGlHcVFobzBBeXlSc0F0bGloRGVqNExwNFdGelNCdS1weHFpOTVsNFNfeWRqR25NcVNfTjhoSzdwcXV3M3paWFJZZzM4R2ZaUjlOQUV4N1g2S1BnTWdsRGNFYjVWQUpDdmgzTEJhMHgzeGxBcjlzZzhHZlNNdHQtUkN6MmlmNkVQejhPVnVTZw?oc=5",
+      "data": "21/07 21:11"
     }
   ],
   "avisos": []
