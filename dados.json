@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/07/2026 07:07",
+  "atualizado_em": "22/07/2026 13:07",
   "jogos": [
     {
       "sport": "futebol",
@@ -378,16 +378,6 @@
     {
       "sport": "volei",
       "date": "2026-07-22",
-      "time": "08:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Japão",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-22",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Bolívia",
@@ -524,34 +514,44 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-22",
+      "time": "08:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Japão",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.5,
-      "temp_min": 20.6,
+      "temp_max": 31.4,
+      "temp_min": 20.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.5,
-      "temp_min": 19.3,
+      "temp_max": 31.6,
+      "temp_min": 19.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.4,
+      "temp_max": 24.7,
       "temp_min": 15.1,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.0,
-      "temp_min": 14.8,
+      "temp_max": 23.3,
+      "temp_min": 14.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
@@ -563,24 +563,24 @@
       "data": "21/07 23:01"
     },
     {
+      "titulo": "Fluminense celebra 124 anos da 'melhor ideia do mundo' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmFuLUlTV052V05Ma1BfSU9GMFRyNFVfa2U2bjlwbjBzTHY5Mk04UVR5LTdTcm1VU0xndHZHbEJrRmI0bVBjQzU0N3VSaUktMDRscWtMM0N0OTBhVnRaME5BNW9rQm5PTVZhWjFlVUVLRTV4aGg5a2JWalRxNDdKVi1zbkU5YWxRcWVHYnRCSVZmSUVfUjhzQg?oc=5",
+      "data": "21/07 16:27"
+    },
+    {
       "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - ge",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
       "data": "21/07 11:00"
     },
     {
-      "titulo": "Fred assume sub-20 do Fluminense após início ruim no ano, mas com chance de taça - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaWJNYjgwSWVPOWFpNGUzTkJUVGEyVGFEVXVkRkx1bUtLbElHUnlmRTZzM0VzNWZUR2ZUMERlTThxWkNlUFlFVTFRRGw0UzZhaTV2MERyUEl5M0Q0R2JSV0VOajk1ZmN3UlJPTkFvNXdZYm1faFhSUDFEMHU2czJNRENrOWV5Q1dpZW0tX1RPNHhLeVZaMmNpOWoyNjI1SW4xSzVXTDN2VVBfVkt2emFxYVVOTG51NmN1RlA4R2tySDR0ZFBxVHhIdnNpYzBsMmVneVRwN3gxLTN2Tk1mV2xUdk83WEnSAfMBQVVfeXFMT0pZbzZVX1ZTeFlmclpOc2hGOURJeTdkLWNaOEFmekxWLWVueHd2b1ZvRDQtblZ0RlBkNjAyeVdva0p4cFlVcHdTc3lIWWMzV1pCb3pJaUFNbWhzM0dsaFVCclAxVWM0SDVfRG1iN0tvZUxSbXZFZHBSRWFYQnd5RlBxdzZvX2dfZVY3d1dGenRHVWxVdGFpV0kyRmpwaDlkS0ZOVlVTSTVvSlU1aTVCOHozbXVGdE54dFpycjJUNWl2SFk3YXNraHVNSlFJR1BwTUxTQU1MaWRXQXd5M1RFUzdkX1NIV0FfVWRyTUlMUTVnYmdv?oc=5",
-      "data": "22/07 07:01"
+      "titulo": "Fluminense completa 124 anos de história - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkJuMWVLeUJBMlhDS1V1ZGZpOXFKYWR5ODc5Q0otYVJRRUpoUnNvb2E4T2QzQkFjemFGeUR5Y09GM2pDSzE0ZzRXVnVzUnZ1SGRGLS1iMXVSZDFueG9OZjRVUDN2VThIT3k4RVdFZmdrSFBzYWdROEduT2g1eTYwbkd4Wmw?oc=5",
+      "data": "21/07 13:44"
     },
     {
-      "titulo": "\"A gente precisa revelar mais jogadores\", diz Ricardo Rocha em chegada ao Flu - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1JaWmRRV0dPMXJmRkxVbXItTmtrVTFRM0w4ZmJpUGNXUHdxUXJkUWN5cjZhMnh6a3FrSXN3c1Jvb3FGZDV1RHltaGVRMi1xaVJMTFZuYVQ4V180ZExvM1hmdlVYLVB1WDhLUWlHRzhVTXBUazJLbDE2Z1BXRlJPdmMyRk5nUzVQOEx2d1lacGJYS2VkY1NYLXNPYm9JSjVKLVluZV9sSWtnUm1HUWM5LXJ0dw?oc=5",
-      "data": "03/06 07:00"
-    },
-    {
-      "titulo": "Fluminense perde Millán e Jemmes por lesão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbW00N2xhbjJqejRhb25mRGlsRl9ZeXczbDFtVEhXODZPeTBTcGhGdnBseXZlOXNzNk1BeVRJNkJnZFJUdVBYNlplSGFpMTlTYjlzU3lSZ2luNTVWRmlnYjJ2UWFXQ29wX1dqLU5BSjh6WldfWThTYWtBdEg0ZUVyNG5VZnVfLWtsWTdR?oc=5",
-      "data": "21/07 15:42"
+      "titulo": "Atacante do Fluminense recebe sondagem da Europa mas deseja permanecer no clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPa0dta0lIQTExZEhwelBhVExsVlotNjkyeE1rdGZXaTV5ZU1GTXUyMmNGTndIMkFKM1B0dGk4QTdaWlJnaXFFTkJ6U2VMZ3hQUThER3RSd1lxc2JZMzU4V1AxVXluX2xUajhxUUIxNnlVcGNCQ1ktY3o3SFkyeE96aHlpekZ2Wm5uTEpxWkRuZFZZMi1oZXJKRDBnNUZhM3kzOEpMWUNNX2p1MFhtRFg0anh1VzlJRlRLdVEza1g3eWZvMU1GU3dHbkhqZ1cxbkdNNi1Fd1ZDMTB1NHNJN081eXZhaklUazI4WklhUkM2MmtTNVNOQWljd0ZKUmgtQlk?oc=5",
+      "data": "22/07 11:48"
     }
   ],
   "avisos": []
