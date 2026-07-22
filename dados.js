@@ -1,94 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/07/2026 21:08",
+  "atualizado_em": "22/07/2026 07:07",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Bahia",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x América-MG",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Criciúma",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "UCV x Santos",
-      "channels": [
-        "SBT",
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "21:35",
-      "competition": "Brasileirão Série B",
-      "match": "Vila Nova x Fortaleza",
-      "channels": [
-        "REDETV!",
-        "ESPN 4",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "13:00",
-      "competition": "Champions League",
-      "match": "Ararat-Armenia x Shamrock Rovers",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "15:30",
-      "competition": "Champions League",
-      "match": "Sturm Graz x Heart OF Midlothian",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-21",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Club Nacional x Tigre",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-22",
@@ -269,16 +181,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-22",
       "time": "21:30",
-      "competition": "MLS",
-      "match": "Austin x Seattle Sounders",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-22",
-      "time": "21:30",
       "competition": "Brasileirão Série B",
       "match": "Náutico x Londrina",
       "channels": [
@@ -316,6 +218,16 @@ window.PAINEL_DATA = {
       "match": "Whitecaps II x Austin II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-22",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "Austin x Seattle Sounders",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -369,18 +281,103 @@ window.PAINEL_DATA = {
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-07-21",
-      "time": "04:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Itália x Holanda",
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "12:00",
+      "competition": "MLS Next Pro",
+      "match": "New England II x New York City II",
       "channels": [
-        "SporTV2"
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Bolívar x Grêmio",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x Vitória",
+      "channels": [
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Remo",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x São Bernardo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Atlético GO",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Juventude",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Boca Juniors x O&#39;Higgins",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Santa Fe x Caracas FC",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Japão",
@@ -390,7 +387,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Bolívia",
@@ -400,7 +397,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Turquia x Canadá",
@@ -410,7 +407,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x China",
@@ -420,7 +417,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "19:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Peru",
@@ -430,7 +427,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Chile",
@@ -440,7 +437,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "23:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Shangluo, China",
@@ -450,7 +447,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "14:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Sérvia x Alemanha",
@@ -460,7 +457,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "17:45",
       "competition": "Vôlei (SporTV2)",
       "match": "França x Polônia",
@@ -470,7 +467,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "21:45",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Bulgária",
@@ -480,7 +477,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "00:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Bélgica x Canadá",
@@ -490,7 +487,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "13:40",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Brasil",
@@ -500,7 +497,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "17:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Bulgária x França",
@@ -510,10 +507,20 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "time": "21:45",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x Polônia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-22",
+      "time": "04:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Itália x Holanda",
       "channels": [
         "SporTV2"
       ]
@@ -522,31 +529,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.2,
-      "temp_min": 19.3,
+      "temp_max": 31.5,
+      "temp_min": 20.6,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.4,
-      "temp_min": 17.5,
+      "temp_max": 31.5,
+      "temp_min": 19.3,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.6,
-      "temp_min": 13.2,
+      "temp_max": 24.4,
+      "temp_min": 15.1,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.4,
-      "temp_min": 12.0,
+      "temp_max": 23.0,
+      "temp_min": 14.8,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
@@ -556,24 +563,24 @@ window.PAINEL_DATA = {
       "data": "21/07 23:01"
     },
     {
-      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - GE",
+      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - ge",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
       "data": "21/07 11:00"
     },
     {
-      "titulo": "Atacante do Fluminense entra na mira de clube russo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHg0SVYzbGg2cXRPcGRzOW0td1NrcVBacE0zMDhTVzljdHowSTYxVjhEa2FYMHU4alpTemhQdTF4Uy03U2ZKLUo0eFNjOGl3eW5lUFdxb1gxTGt6TDQ2MlgtUmVXTkY2bVZiVFVEQUY0RVJjZE5WbjR6SXhfekNvY21BeXI?oc=5",
-      "data": "21/07 23:02"
+      "titulo": "Fred assume sub-20 do Fluminense após início ruim no ano, mas com chance de taça - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaWJNYjgwSWVPOWFpNGUzTkJUVGEyVGFEVXVkRkx1bUtLbElHUnlmRTZzM0VzNWZUR2ZUMERlTThxWkNlUFlFVTFRRGw0UzZhaTV2MERyUEl5M0Q0R2JSV0VOajk1ZmN3UlJPTkFvNXdZYm1faFhSUDFEMHU2czJNRENrOWV5Q1dpZW0tX1RPNHhLeVZaMmNpOWoyNjI1SW4xSzVXTDN2VVBfVkt2emFxYVVOTG51NmN1RlA4R2tySDR0ZFBxVHhIdnNpYzBsMmVneVRwN3gxLTN2Tk1mV2xUdk83WEnSAfMBQVVfeXFMT0pZbzZVX1ZTeFlmclpOc2hGOURJeTdkLWNaOEFmekxWLWVueHd2b1ZvRDQtblZ0RlBkNjAyeVdva0p4cFlVcHdTc3lIWWMzV1pCb3pJaUFNbWhzM0dsaFVCclAxVWM0SDVfRG1iN0tvZUxSbXZFZHBSRWFYQnd5RlBxdzZvX2dfZVY3d1dGenRHVWxVdGFpV0kyRmpwaDlkS0ZOVlVTSTVvSlU1aTVCOHozbXVGdE54dFpycjJUNWl2SFk3YXNraHVNSlFJR1BwTUxTQU1MaWRXQXd5M1RFUzdkX1NIV0FfVWRyTUlMUTVnYmdv?oc=5",
+      "data": "22/07 07:01"
     },
     {
-      "titulo": "Oficial! Fluminense confirma retorno de ídolo ao clube - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWp4UlVNelgwa05DdzFjdUcyRmhRSEVxajlyMFNCUUhjZ0Z1dS1xTkE3ZHJGaXJsTVRGd0tLRDNJempJM0FHLVdsd252U1g5SzdxNGI2MXgwZ2QtYlc1TkNqMFZuaXI2c3VBY2hKckpla0h5VHJVb3dvdjZvWkE2Ri1HVEtKNGhrWUdzcTFHcDBBYkFUeTNQOHBHRlB4MElsVzBNNjNWUGJIWmZ6NDNlb0xvZmVOcVp4U2tGcUNtSDdqejliSWtVUW5BRWxRQjRTWXZLQlhrYi1GZ2RH?oc=5",
-      "data": "21/07 19:41"
+      "titulo": "\"A gente precisa revelar mais jogadores\", diz Ricardo Rocha em chegada ao Flu - CidadeVerde.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1JaWmRRV0dPMXJmRkxVbXItTmtrVTFRM0w4ZmJpUGNXUHdxUXJkUWN5cjZhMnh6a3FrSXN3c1Jvb3FGZDV1RHltaGVRMi1xaVJMTFZuYVQ4V180ZExvM1hmdlVYLVB1WDhLUWlHRzhVTXBUazJLbDE2Z1BXRlJPdmMyRk5nUzVQOEx2d1lacGJYS2VkY1NYLXNPYm9JSjVKLVluZV9sSWtnUm1HUWM5LXJ0dw?oc=5",
+      "data": "03/06 07:00"
     },
     {
-      "titulo": "Flamengo faz post brincando com Fluminense após falha de rede social - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3VlY2ptcHRmNi1OUG41TlhkYzBBVUdIbENreXVjdnk2X09MXzNDZTA2dW90TVFRa1plYWlSRG8wRWU3cVhtU0Q2RmVVNWREYnhMU1owVlRpQjFWUUZJSDFnTTZtYnUwQUt4WWlxNkZBV2YyS09Fa0xkMVgxUkdzVXBpU0ZudWFFOFRKNmk0OXN3OVRRWHB3ZS1xZjBKOU5ud1Y0b29kVE41M1daYTB4RmZPX1Fxa01xenlfetIBwgFBVV95cUxPcEp5TkkwSFBrN2dMSGhYVGp1RnZiTXV3OUk2MnJNYWh6cUtpYldWcTJfdTZJS3ZNYnpXWGlHcVFobzBBeXlSc0F0bGloRGVqNExwNFdGelNCdS1weHFpOTVsNFNfeWRqR25NcVNfTjhoSzdwcXV3M3paWFJZZzM4R2ZaUjlOQUV4N1g2S1BnTWdsRGNFYjVWQUpDdmgzTEJhMHgzeGxBcjlzZzhHZlNNdHQtUkN6MmlmNkVQejhPVnVTZw?oc=5",
-      "data": "21/07 21:11"
+      "titulo": "Fluminense perde Millán e Jemmes por lesão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbW00N2xhbjJqejRhb25mRGlsRl9ZeXczbDFtVEhXODZPeTBTcGhGdnBseXZlOXNzNk1BeVRJNkJnZFJUdVBYNlplSGFpMTlTYjlzU3lSZ2luNTVWRmlnYjJ2UWFXQ29wX1dqLU5BSjh6WldfWThTYWtBdEg0ZUVyNG5VZnVfLWtsWTdR?oc=5",
+      "data": "21/07 15:42"
     }
   ],
   "avisos": []
