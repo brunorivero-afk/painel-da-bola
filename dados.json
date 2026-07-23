@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/07/2026 19:01",
+  "atualizado_em": "23/07/2026 20:56",
   "jogos": [
     {
       "sport": "futebol",
@@ -345,46 +345,36 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 24.5,
       "temp_min": 18.7,
-      "chance_chuva": 0,
+      "chance_chuva": 2,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.2,
       "temp_min": 18.1,
-      "chance_chuva": 2,
+      "chance_chuva": 16,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 25.3,
       "temp_min": 15.8,
-      "chance_chuva": 18,
+      "chance_chuva": 63,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 24.7,
       "temp_min": 14.0,
-      "chance_chuva": 45,
+      "chance_chuva": 99,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
+      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - GE",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWUtck0xU0Z1Q1JNc2VpMVhLQWFOX0JGSFRnQ2ZUUUNNRlFPaURXbi1wYXdQYW1sYmRTUWp2emNVdFVOTHBTa3Y0OHRPLV9yY3JXcWdxTDBiNXFCSVlTbFJrYnI1RUp2azV2OGcta1NGVl9UMW5KQW5SdGtLV0x2U2l5d0thWjNSSFl1UUZPUHYzNS1VZWR3MG9GRy1jbVRYWnpyVjdXMXhKTmQ2Yk11MkZsRlZNc3ZyYVQ2ZXBKWnFZX3FmV1ZubUkyaC1Dd9IB3AFBVV95cUxOMHBYVGxnME5YdzBTS2hoWjRSX0VBaF92TjBaZncyRTg4Y2pZZ2QtVGFDWUtJVjFJOXdFS0MxWTNHZUhzelplbGt4UF9aM0FORk9PUmZJV2lJWUthZmJWeENvblpiUEdRT0JLWkNMRHlpNUlHaGxmMkJ1aDcyWGRTX0phUVBHMnJ4ZDd5M2JERUgwbmhHOUJCVWwtMGdDS29wWVp2VEk4ZVFSWExpeVptVE5pUDg1VldsRFBhOUdoSFJMOVdBVmpsWFJYaU5KYmtRX0VpSXR0VkV2MUpC?oc=5",
       "data": "23/07 15:13"
-    },
-    {
-      "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
-      "data": "23/07 16:56"
-    },
-    {
-      "titulo": "Nova camisa do Fluminense custa 11 dias de trabalho para quem recebe salário mínimo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXhpWmVyRm93RzRKQWY0azZYQjFEQjB5eDRXOXZqMUVwYkxGTUExanE1VFM1RWRodDM2STNacU9hVTc3T1FMU3hhM0RmSzZVMVBuc1A3b01meno1aC1vNEpTTC1SLUl1V1BmZ2NFd3VtbXFtODVjOExqWk5ZQjR5OGlrT3lHVVktWS0tM1pJS1RSbDJjLVpiYVBSb3RpNzBqV2sxekJIa3ZwLTRieHQzWXNoM1Q5VURQV193S29jSHF2dw?oc=5",
-      "data": "23/07 20:10"
     },
     {
       "titulo": "Copa do Brasil 2026: Informações de ingressos para Vasco x Fluminense - fluminense.com.br",
@@ -395,6 +385,16 @@
       "titulo": "Zubeldía define futuro no Fluminense após sondagem do Equador - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1VaSG1OU0hFT2tlVF9TTW12WEhsc010U3c3Zi1Zb3FXTUhBcEhtTmkwT0QzalNrN1JPMS1JR2lNTGxsdV9zdFR5WW1jX0lHSmdxLUN2UDdBTjd4dzIxQXZyNUMyUUdBczFncHZyMWtWY2pDU3otaXkzcl95c29CckJIRlpJaERZbG9sUzV5VXFmSU16MlU3YWw1RVRSRkhQVzBWRw?oc=5",
       "data": "23/07 20:26"
+    },
+    {
+      "titulo": "Equador considera técnico Luis Zubeldía, do Fluminense, para assumir seleção, diz jornal - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXV6YndRaFA5czkwd3N5NFotNjdnNEpXQllVQmNJV3VRSjlqQ1FzR25pY0V4VXlsNmd2WkNlckJIWk1ZS3BkME94Y2FTUGQxM1hWMkNJV0JNeWNCdmtaQTRtQVhCV1NaZUN1NzNJX05WWFZRcHlpVkJUOGtBbTVuVTlmREhLTDZ2azA0VlJuLVhQdk01MDZtS1I5eVc5SmZLXzJ2SmUxSkotVWl4UFVPUW1GYUZDaHRVanJkeUZvVVIta0ExXzAwTThsTDVNZG5zcVNzQ3oxbTZaYktseXJzRFRFSDRrMl9yRXBzcHVVQmlkMDduOWfSAYQCQVVfeXFMUDVyeTJaT0QyQnR2WUs5cVNFUkJ0bEh2MnczNGwzNDNOTXc5SEVTRDFwTUNHOWljYTdCcTRONXM5VnUyVmhGUDF0TXlMZ2wzSV9lamswLUZFb3ZfSXpIWVFpbkZwVWdsQUoycmtMOXdMZnVxSlE2TnZyRVBwUWpCYjJFNF9uemhQMTk1UE8xNEVwLXF3S0s2Y3F4WmtwUF90RzM3TlV3ZUtGZjloUnpjZ0pkUVZ2OFJJQzZja1I5cGZLbnFIbnpfbTVVYkJaZU83VTRLd2hNQ1hDOE54dWlmZF96MlhLVXE2cWw5SS1IMHQ0ZUE1QzBycmR1OGJxNTlrNHc4d0g?oc=5",
+      "data": "23/07 16:14"
+    },
+    {
+      "titulo": "Zubeldía, do Fluminense, entra no radar da Seleção do Equador, diz jornal - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGhlZ0JWdXY4NzY2WnptTWhzeW9zYW9QQ2t4bmdNTWl4WHpCWGQzWm9BT25nNVU2dlZPLVJHdmMwSE1XRURQQVR2Rkl6YnN5MG1IclUwaU02VFd6X0RGR1VpZWdDX3RMQVUyU2duSzU3T0FlWDgyQ0V0OF9MT3FCSzBjZTl2cFQ2WEFwZ0ZnR2tIOWJRbEowRXRESGlqeHZsRzcteXF5VDI?oc=5",
+      "data": "23/07 19:36"
     }
   ],
   "avisos": []
