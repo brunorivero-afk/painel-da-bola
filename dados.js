@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/07/2026 15:09",
+  "atualizado_em": "23/07/2026 17:09",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "15:00",
-      "competition": "UEFA Europa League",
-      "match": "Twente x Ferencvarosi TC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-23",
@@ -116,6 +106,16 @@ window.PAINEL_DATA = {
       "match": "New England II x New York City II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "15:00",
+      "competition": "UEFA Europa League",
+      "match": "Twente x Ferencvarosi TC",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -343,43 +343,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.1,
+      "temp_max": 24.5,
       "temp_min": 18.7,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.9,
+      "temp_max": 25.2,
       "temp_min": 18.1,
       "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.4,
+      "temp_max": 25.3,
       "temp_min": 15.8,
       "chance_chuva": 18,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.6,
+      "temp_max": 24.7,
       "temp_min": 14.0,
       "chance_chuva": 45,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Copa do Brasil 2026: Informações de ingressos para Vasco x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0o0cGVqcmhZVEZkc2dZQXgxa0pjNmZxakFEc0Z5X2xLa2hpQmVVS3BkYVYwbVNvQ0xIVmJXWXlRZzUyd24yd2FWRjR5SkpqcEJ5QXBHVjlLcFJGVlRzTGVTSVMycFRfUEJnS3NQbTVfTHNvQXBFRk1NQWZZVFZfSzdsbVhqOGxxUnJvckt4NzZNVGh2VTNyM0dCdUNmcTkzeFpsU3AzcEcyQQ?oc=5",
-      "data": "22/07 23:09"
-    },
-    {
-      "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
-      "data": "23/07 16:56"
+      "titulo": "Fluminense lança nova camisa 3, verde com homenagem ao bairro de Laranjeiras; estreia é contra o Bahia, dia 29 - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTm52di1WTmZVdVRXWGNNa2YxdnZLTnNVYXZjSTl2bzhOODBkQ0w2UlpUWTdWSllZTEhaTVNIVmJXNHptYnF3REYteGM0TFp0YWo3NklNOWVOUUJLTm50WHJvTjdKS0dFUjlYdTJ1RnFZUWxLSG8yM2FpbUNGSWVRRzk0M2R0MjdVNjdkSk9mMUtqX0VkVXA5UTN3aTZIUVlYc1RWM3NlTXRuNkpLeENlMXVVcmMxUWwzUEdkY0pOQ1JhQ25rMHBxUVZjNkQ4czdJY0FWbUhxWdIB5gFBVV95cUxOS3JqRWoxMm1XX0xiYk9MNEhSanZYYmd3T0szaEc1Yy0xNUhRak1ZTFVsQjAxTGpwNTV3aEVETmVLb1dJaXNObTF0c1VDZThfWExsblF3azE1dTcySzY0c1R3TG9rMGNZeUMwWXJ3SV8xOU9FNHdVck55aVJuSjJwSU5jdGxWTWdKWFVvYlBudERNdzNVUlNjemFkdUhyRUhlR1pJc0gya01Lb3RWUWU1Z2FTclN2UlBySTlyNy00Mjg2Z0dCdVJoT1N5SVhwOHRwbmlTQWtfZTRWUnRtYXE2YkhyRHo5dw?oc=5",
+      "data": "23/07 15:13"
     },
     {
       "titulo": "Puma divulga nova terceira camisa do Fluminense para 2026; veja - netflu.com.br",
@@ -387,14 +382,19 @@ window.PAINEL_DATA = {
       "data": "23/07 15:38"
     },
     {
-      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWUtck0xU0Z1Q1JNc2VpMVhLQWFOX0JGSFRnQ2ZUUUNNRlFPaURXbi1wYXdQYW1sYmRTUWp2emNVdFVOTHBTa3Y0OHRPLV9yY3JXcWdxTDBiNXFCSVlTbFJrYnI1RUp2azV2OGcta1NGVl9UMW5KQW5SdGtLV0x2U2l5d0thWjNSSFl1UUZPUHYzNS1VZWR3MG9GRy1jbVRYWnpyVjdXMXhKTmQ2Yk11MkZsRlZNc3ZyYVQ2ZXBKWnFZX3FmV1ZubUkyaC1Dd9IB3AFBVV95cUxOMHBYVGxnME5YdzBTS2hoWjRSX0VBaF92TjBaZncyRTg4Y2pZZ2QtVGFDWUtJVjFJOXdFS0MxWTNHZUhzelplbGt4UF9aM0FORk9PUmZJV2lJWUthZmJWeENvblpiUEdRT0JLWkNMRHlpNUlHaGxmMkJ1aDcyWGRTX0phUVBHMnJ4ZDd5M2JERUgwbmhHOUJCVWwtMGdDS29wWVp2VEk4ZVFSWExpeVptVE5pUDg1VldsRFBhOUdoSFJMOVdBVmpsWFJYaU5KYmtRX0VpSXR0VkV2MUpC?oc=5",
-      "data": "23/07 15:13"
+      "titulo": "Fluminense e PUMA lançam nova terceira camisa 2026-2027 com homenagem às origens em Laranjeiras - Mantos do Futebol",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUG1PMkRqX0ozcXdDN1JsLTcyV0xDbUt3cjZvdTFSUGhQdHZRMlg2LVBvTTdoS25WTXFFZUlrbEwtVEIwakQtVTlGbUpLdnY4aTNsU0RVcnpXVThkUUdBdG9icmp6dzctQjhldVluTGp2bjU3ZE9CYjFzUm1oYUc2UTRLcEFDN0pOTWx5UHJMZw?oc=5",
+      "data": "23/07 15:54"
     },
     {
-      "titulo": "Jogadores do Fluminense recebem treinamento da CBF; entenda - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjdwTWQ3a21rMlg3dkJrQjFNMFJQMno1ZVFrQWFXRFpsb3FCbmUyRTYxOUdzNzBqTS1XX1dNUmF4OTFrR00tRVN3RklmZ0JXVDZ1OTFtdWszOS02am50TEdFQVJfMDVwd1JjM3BZa0xKZjNZUl9QY2RqQ3JPZHhzdnd5T19iU29FU0tldjMwTEh5aVRUMVB0bW8ycUdKbDlM?oc=5",
-      "data": "22/07 23:11"
+      "titulo": "Copa do Brasil 2026: Informações de ingressos para Vasco x Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0o0cGVqcmhZVEZkc2dZQXgxa0pjNmZxakFEc0Z5X2xLa2hpQmVVS3BkYVYwbVNvQ0xIVmJXWXlRZzUyd24yd2FWRjR5SkpqcEJ5QXBHVjlLcFJGVlRzTGVTSVMycFRfUEJnS3NQbTVfTHNvQXBFRk1NQWZZVFZfSzdsbVhqOGxxUnJvckt4NzZNVGh2VTNyM0dCdUNmcTkzeFpsU3AzcEcyQQ?oc=5",
+      "data": "22/07 23:09"
+    },
+    {
+      "titulo": "Lucho Acosta tem novo contrato com o Fluminense publicado no BID da CBF - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTjRGUHBkUExDOWpoQWc1c0NGZnJyX0xZMllvOVBCNG9xd2xqdFhqYkJIOGR0YVRFMmltVmw2SHp3ZDBQa1BpZ0FPM0dSWXZtdTFXSi1RTy1aVE9NcUlDWWg0UUFrQkV3ZDJsNmU1NXhJcm5JRExlMTFSaFNlS0dndGF3UHpFTlhjc1U5REZ4UUxiV3BYT3R1N2xxNnk1c2VVQ3REVXFudUxEajFSbmxGYW1SbTd4X00zRFRsZ2ROV3RSTE94cnVEZjctU2ZnRWZNeEdacktwekdKT0p6d3BtVlAxMFNpbVpjV0ZsejlPNjZJbDlI?oc=5",
+      "data": "23/07 18:52"
     }
   ],
   "avisos": []
