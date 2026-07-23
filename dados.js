@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/07/2026 17:44",
+  "atualizado_em": "22/07/2026 21:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-22",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Independiente Medellin x Vasco",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-22",
@@ -282,6 +271,17 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-07-22",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Independiente Medellin x Vasco",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-07-23",
       "time": "12:00",
       "competition": "MLS Next Pro",
@@ -307,7 +307,9 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Botafogo x Vitória",
       "channels": [
-        "PREMIERE 2"
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
       ]
     },
     {
@@ -530,7 +532,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 31.7,
-      "temp_min": 20.5,
+      "temp_min": 20.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
@@ -552,13 +554,13 @@ window.PAINEL_DATA = {
       "cidade": "Teresópolis",
       "temp_max": 23.4,
       "temp_min": 14.6,
-      "chance_chuva": 0,
-      "condicao": "Nublado"
+      "chance_chuva": 10,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Terceiro uniforme do Fluminense será lançado nesta quinta; estreia será contra o Bahia - GE",
+      "titulo": "Terceiro uniforme do Fluminense será lançado nesta quinta; estreia será contra o Bahia - ge",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQb0xFQk1QQVZmVXllRkxEd0VrNExNQmtUTDdjV1BVR0hFeUxFZ1FRdXhTSndQMV9Lc2xnem43QTROSkVzcVN0dlBRT0NYU2lNTzNKNnBPRkVLd0ZBUjBaT3FKQk1YcUJIR0dmVVNMX1ZKZU9Udm1BZUtYdWZkNEhOWWJPQzRsM05IUl84TDhhdTJQVjlmTGZuNjU1VkFaYzBNSlBrRHE0NTY0N3F4ODZIcmtIcV9rb2hjOFdXTHRlX0hLUEZfUjY1STVudWIwRGs2VW80ZlpBaUZocnJESDlwdXFsTTVKY3J5LW81cnNrYVJEQUNiSmxVcHpTYmNONWhhUG0wNFRpa2ZSRVNRWXfSAZwCQVVfeXFMTlYwNFJVUi1BSmp6blN2ZEpJQXpPNEVsUTJTY1F2bGVmSU1KN1V4SERXb0V4Z001aVVTU0UtZjVSc0dtZXFXcWhLMHpoM3pldTE3UHVqSG9MMTh2R3p2VHQ3V3MtdjB0MnZlRU1fT1RuNkwtZ29RRmNOSDF0ODFpZW0tczdDVFpZXzNiNFVZdjZNQ3dxd0FxTkdDckl1RGZLdnJ6M2lvU0dWQ1hIMjVmbmNvZDFpMl9oM1dWRTBabEpJSHd1aGt4VTJzbXk4N0dRNHpYMWFwXzlKQmtEeldkTWYtVzF4TFdudHJDN0g3S3MwSzlJZ3BnRGtyMUxvd3FuYjNRekpUaEdrZjZKbURiQU5xWFZMMUlZSTJLNXE?oc=5",
       "data": "21/07 21:11"
     },
@@ -568,19 +570,19 @@ window.PAINEL_DATA = {
       "data": "22/07 09:15"
     },
     {
-      "titulo": "Fluminense lança clube de vantagens com descontos, cashback e sorteios - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSG0yVnJFWlRpdGg2czdYdjVZUUhLemdoZl9rRUNMYWlPWGtJS0RTN09IeDNBTW84ZXpmb1VUcEgtb2RyZXFJMXoxcnNxMWxCZHRxYThEaENRek5BVTF6Q3dHWTcxNENaZTc3Umg3WDZscUZBWVlkNDZ0T0g1T3Q2UFJZY2JLREFhTlFIVXVHM3pIT29CNmU0MjBn?oc=5",
-      "data": "22/07 19:54"
+      "titulo": "Proposta vinda do exterior, recado de Fred e publicação de time da Europa: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVGdSSThfNm9CRGRsWHBJY01HUmktYUdyOFJTQVlvQVlDd2R1c3NvZElqWVJTS0xwY3RTeGh0Z244UzYxaEtnaXgtS21jTklMUDQ2VmV4ZkRZd21KV2JteC1hdTdIV3NoXzdNUk5Zd0x2MXVwZktnTlVDTkNBbWxKMF9zdGg0aWp0MmlxRkxYU09fa01iQ1ZWcEpDdzlDSVZMaTltU1RiOVEyVS01WlI4X2E4X3BYRkxlcUt3eGFqaTdORlRWcGJCWmJXcnQ2S3l5dHUwb3ZyelVLdU1SWU43NVVwaXdKb2tTUy1BTGNEV3ZlYk5IUEs5YURzVThvMmdVcGF3NlVRd2RIUWtYQUs0MEwweTJ2OWhHQ25Bc2d6dm1IZUk?oc=5",
+      "data": "22/07 21:08"
     },
     {
-      "titulo": "Internacional contrata capitão da base do Fluminense e fecha contrato de formação até 2029 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYlJ2S1FGVXFLOGYwSWtqNUhIMTZoSkJkdHlpYzYtNmJFb01SNnBOYWMxa3pzMWVDQXV6TEx5amdlczgwRVp3QnBCdFlZZXBpNVp5RmdvY3FQdG56QUk1ZS1mRFVvc1AyV3lkdVpwQkZYNElpYkI3N3haWGw4bm92Ni02bm9yOFdxOTI1MGRUUnQ3dW1PNTdvX3Jham1QQWFIeXZXblA3MVBhT1d2bjZiOGpGMkQ2T0ItdjA5bFhkdW9fNmhuOXR5XzdOeFBTbUhuTzk4dDVnNk4teEEyNklxZ291N3RvNTRTek9uVG9OU2VWMGFfeWx1TTVqeVRYQWUzc25qQy16Y2xnQQ?oc=5",
-      "data": "22/07 19:11"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Grêmio x Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDM1UGMwcms3SUgzTTMwaFNBaDZKSDRfN3NwVkJySDdVc0c0MEw1Q1FKVTNtYmU5RzB3Y2k1eEI0NEgxSEpkZUdDdXg0R2h0YlZWMjl5WmFVOW1fRlFHSzRjN2Zna0ZtSkUwRW56eWVEMFYtSGtpUHFfS0tINEluaVJTR1hVY0VFa3h1cGRvZnpfbnNROE12aFZsczlyQkt5X2dGTmdJaw?oc=5",
+      "data": "22/07 21:11"
     },
     {
-      "titulo": "Sub-15 do Fluminense é campeão invicto do Torneio Internacional de Basquete de Franca - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2VaWEEta2ZJU3Y1SEZPTTRsU2NlVGJRMjZfWE5STUJlaXJ4WVVvOW9MVmhjOThRc200enN2RmgyTjRjdFBGbXNFakpUUXB1YjRkOW5mLXplU3loeTM0VktRdHdKaDNXUEdYTGVSYWEweGVtMlg1Tl9peUViUVVKYVhjOWpCZDMxemtFSk9uWkwwZUdCYkoyc2VBS0pnUlJPZmRTVy1CSldMTlRKeEVPY0VFR1VqTEhzNG8xcjhEOXA?oc=5",
-      "data": "22/07 16:04"
+      "titulo": "Fluminense segue vivo em todas as frentes da temporada; veja números - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc0tXeVdGUlR4aUtieVlOUWVhRXhfNkVlTlllcFhxZ1dtYnc3blp6VVZPVl9QVHpDNDQ3d1B4czRuZThNMnNVVk14UWpyVlJUWl92T24yVjlGODNXQVE1RXJ1MC1LMjdYeDVpM0RMZl9NMXVWUWFESTVrWnNpWUo5NHNPRUhWUTZXZU93TUR2cUM2NzRXLWEwdkFoQ2pmNEN5cEM0ejdEaGUzMHhCb2owQVJSMkdub0ZFRE1CZGtXeUtpaGdlTTBBdGlWY0pqS0FrMlQxUWxmM3RBOFdwLW0wakd1QzZLMUtqZEk0VEhB?oc=5",
+      "data": "22/07 20:35"
     }
   ],
   "avisos": []
