@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "23/07/2026 13:15",
+  "atualizado_em": "23/07/2026 15:09",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "12:00",
-      "competition": "MLS Next Pro",
-      "match": "New England II x New York City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-23",
@@ -116,6 +106,16 @@
       "match": "Santa Fe x Caracas FC",
       "channels": [
         "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "12:00",
+      "competition": "MLS Next Pro",
+      "match": "New England II x New York City II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -377,9 +377,14 @@
       "data": "22/07 23:09"
     },
     {
-      "titulo": "Terceiro uniforme do Fluminense será lançado nesta quinta; estreia será contra o Bahia - ge",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQb0xFQk1QQVZmVXllRkxEd0VrNExNQmtUTDdjV1BVR0hFeUxFZ1FRdXhTSndQMV9Lc2xnem43QTROSkVzcVN0dlBRT0NYU2lNTzNKNnBPRkVLd0ZBUjBaT3FKQk1YcUJIR0dmVVNMX1ZKZU9Udm1BZUtYdWZkNEhOWWJPQzRsM05IUl84TDhhdTJQVjlmTGZuNjU1VkFaYzBNSlBrRHE0NTY0N3F4ODZIcmtIcV9rb2hjOFdXTHRlX0hLUEZfUjY1STVudWIwRGs2VW80ZlpBaUZocnJESDlwdXFsTTVKY3J5LW81cnNrYVJEQUNiSmxVcHpTYmNONWhhUG0wNFRpa2ZSRVNRWXfSAZwCQVVfeXFMTlYwNFJVUi1BSmp6blN2ZEpJQXpPNEVsUTJTY1F2bGVmSU1KN1V4SERXb0V4Z001aVVTU0UtZjVSc0dtZXFXcWhLMHpoM3pldTE3UHVqSG9MMTh2R3p2VHQ3V3MtdjB0MnZlRU1fT1RuNkwtZ29RRmNOSDF0ODFpZW0tczdDVFpZXzNiNFVZdjZNQ3dxd0FxTkdDckl1RGZLdnJ6M2lvU0dWQ1hIMjVmbmNvZDFpMl9oM1dWRTBabEpJSHd1aGt4VTJzbXk4N0dRNHpYMWFwXzlKQmtEeldkTWYtVzF4TFdudHJDN0g3S3MwSzlJZ3BnRGtyMUxvd3FuYjNRekpUaEdrZjZKbURiQU5xWFZMMUlZSTJLNXE?oc=5",
-      "data": "21/07 21:11"
+      "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
+      "data": "23/07 16:56"
+    },
+    {
+      "titulo": "Puma divulga nova terceira camisa do Fluminense para 2026; veja - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkdaQ2dodUZBR0g2TTZfWGxOb2FlY0hFMjEyY0dEeGR1bFYwRVNES3RWWWNEcWhXVEZBa1JNWmdhY3BtMGtpS3haSHVETWJZalFOdXdpWGJ0aW9GMWNWVUNmNF9qQUxTd0d0alhPX21fTUJfajhaY3kyS2xtTDBwVG9OS1JZRi1vYTFNN3lBdllRT2M?oc=5",
+      "data": "23/07 15:38"
     },
     {
       "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
@@ -387,14 +392,9 @@
       "data": "23/07 15:13"
     },
     {
-      "titulo": "Fluminense e PUMA apresentam nova terceira camisa em homenagem às raízes do clube em Laranjeiras - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUERLNF9yZGRsaHlqWmpHSExRWjYwTWluZmF1TGhsRXVxS0lyTW5iNEhjeWpUWEJyTWpTSmZVckZpQ0Z5NldwQkxqUDB2akd2UGQ4MUlRdHV5N2I1dEJIZ1NVQkY1NXpFaXJXQzFUYjlvcW05UlFPZTVzdGY4WmMwM3VPLVh4bGhGcHFyeGZkalUzLXQtQzZUUWl6dUdPNlAxREZHZk94amhCSnhGQkZIWW5YcDBwMG5vWGthM3l4OWtydC1kNHViTFZZS3l5dEE?oc=5",
-      "data": "23/07 15:10"
-    },
-    {
-      "titulo": "Fluminense lança nova camisa 3, verde com homenagem ao bairro de Laranjeiras; estreia é contra o Bahia, dia 29 - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTm52di1WTmZVdVRXWGNNa2YxdnZLTnNVYXZjSTl2bzhOODBkQ0w2UlpUWTdWSllZTEhaTVNIVmJXNHptYnF3REYteGM0TFp0YWo3NklNOWVOUUJLTm50WHJvTjdKS0dFUjlYdTJ1RnFZUWxLSG8yM2FpbUNGSWVRRzk0M2R0MjdVNjdkSk9mMUtqX0VkVXA5UTN3aTZIUVlYc1RWM3NlTXRuNkpLeENlMXVVcmMxUWwzUEdkY0pOQ1JhQ25rMHBxUVZjNkQ4czdJY0FWbUhxWdIB5gFBVV95cUxOS3JqRWoxMm1XX0xiYk9MNEhSanZYYmd3T0szaEc1Yy0xNUhRak1ZTFVsQjAxTGpwNTV3aEVETmVLb1dJaXNObTF0c1VDZThfWExsblF3azE1dTcySzY0c1R3TG9rMGNZeUMwWXJ3SV8xOU9FNHdVck55aVJuSjJwSU5jdGxWTWdKWFVvYlBudERNdzNVUlNjemFkdUhyRUhlR1pJc0gya01Lb3RWUWU1Z2FTclN2UlBySTlyNy00Mjg2Z0dCdVJoT1N5SVhwOHRwbmlTQWtfZTRWUnRtYXE2YkhyRHo5dw?oc=5",
-      "data": "23/07 15:13"
+      "titulo": "Jogadores do Fluminense recebem treinamento da CBF; entenda - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjdwTWQ3a21rMlg3dkJrQjFNMFJQMno1ZVFrQWFXRFpsb3FCbmUyRTYxOUdzNzBqTS1XX1dNUmF4OTFrR00tRVN3RklmZ0JXVDZ1OTFtdWszOS02am50TEdFQVJfMDVwd1JjM3BZa0xKZjNZUl9QY2RqQ3JPZHhzdnd5T19iU29FU0tldjMwTEh5aVRUMVB0bW8ycUdKbDlM?oc=5",
+      "data": "22/07 23:11"
     }
   ],
   "avisos": []
