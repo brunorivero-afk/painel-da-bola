@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "23/07/2026 20:56",
+  "atualizado_em": "23/07/2026 23:35",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "12:00",
+      "competition": "MLS Next Pro",
+      "match": "New England II x New York City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "15:00",
+      "competition": "UEFA Europa League",
+      "match": "Twente x Ferencvarosi TC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-23",
+      "time": "16:00",
+      "competition": "Brasileiro Sub-20",
+      "match": "RB Bragantino Sub-20 x Palmeiras Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-07-23",
@@ -90,32 +120,12 @@
     },
     {
       "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "12:00",
-      "competition": "MLS Next Pro",
-      "match": "New England II x New York City II",
+      "date": "2026-07-24",
+      "time": "19:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Flamengo (F) x Grêmio (F)",
       "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "15:00",
-      "competition": "UEFA Europa League",
-      "match": "Twente x Ferencvarosi TC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "16:00",
-      "competition": "Brasileiro Sub-20",
-      "match": "RB Bragantino Sub-20 x Palmeiras Sub-20",
-      "channels": [
-        "YOUTUBE"
+        "SPORTV"
       ]
     },
     {
@@ -123,7 +133,7 @@
       "date": "2026-07-24",
       "time": "19:00",
       "competition": "Brasileirão Feminino",
-      "match": "Flamengo (F) x Grêmio (F)",
+      "match": "América MG (F) x Santos (F)",
       "channels": [
         "SPORTV"
       ]
@@ -136,6 +146,16 @@
       "match": "Club Nacional x Progreso",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-24",
+      "time": "20:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Internacional (F) x Fluminense (F)",
+      "channels": [
+        "SPORTV"
       ]
     },
     {
@@ -177,16 +197,6 @@
       "match": "Universitario x Cusco",
       "channels": [
         "FANATIZ"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-23",
-      "time": "20:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Peru",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -345,28 +355,28 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 24.5,
       "temp_min": 18.7,
-      "chance_chuva": 2,
+      "chance_chuva": 0,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.2,
       "temp_min": 18.1,
-      "chance_chuva": 16,
+      "chance_chuva": 10,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.3,
+      "temp_max": 25.7,
       "temp_min": 15.8,
-      "chance_chuva": 63,
+      "chance_chuva": 10,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 24.7,
       "temp_min": 14.0,
-      "chance_chuva": 99,
+      "chance_chuva": 71,
       "condicao": "Garoa"
     }
   ],
@@ -377,24 +387,24 @@
       "data": "23/07 15:13"
     },
     {
-      "titulo": "Copa do Brasil 2026: Informações de ingressos para Vasco x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0o0cGVqcmhZVEZkc2dZQXgxa0pjNmZxakFEc0Z5X2xLa2hpQmVVS3BkYVYwbVNvQ0xIVmJXWXlRZzUyd24yd2FWRjR5SkpqcEJ5QXBHVjlLcFJGVlRzTGVTSVMycFRfUEJnS3NQbTVfTHNvQXBFRk1NQWZZVFZfSzdsbVhqOGxxUnJvckt4NzZNVGh2VTNyM0dCdUNmcTkzeFpsU3AzcEcyQQ?oc=5",
-      "data": "22/07 23:09"
+      "titulo": "Grêmio anuncia reforço de Copa do Mundo que pode estrear contra o Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHh6OHIyMk94U3BQMVhpMmx0enB6X2pia1pPa3VmbEF1VUNpaEZsQm9MZHdwODlWMTlfUUswRThoTjRWNE54THJtWGZNWk91YmpXMnEyN2x4YU9tUzlxUWFNNjBWTWdSOUJ1X3JFSWRsZ01GNC10RUIxOG1TS3htRG5YeXRfY2JEekdvY0NVQm9qbjdIYmw1TkpMQXotT0JqX3dkS3pR?oc=5",
+      "data": "23/07 23:38"
     },
     {
-      "titulo": "Zubeldía define futuro no Fluminense após sondagem do Equador - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1VaSG1OU0hFT2tlVF9TTW12WEhsc010U3c3Zi1Zb3FXTUhBcEhtTmkwT0QzalNrN1JPMS1JR2lNTGxsdV9zdFR5WW1jX0lHSmdxLUN2UDdBTjd4dzIxQXZyNUMyUUdBczFncHZyMWtWY2pDU3otaXkzcl95c29CckJIRlpJaERZbG9sUzV5VXFmSU16MlU3YWw1RVRSRkhQVzBWRw?oc=5",
-      "data": "23/07 20:26"
+      "titulo": "Copa do Brasil 2026: Informações de ingressos para Fluminense x Vasco - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEFZRHNJdlJ2V1h3XzI2UUpVVmRDSHVrU1lfYmtqNmlLRGJ3bXVaRXYyR0J5czZRUkgzY0lBczNIRlhBMXVGTUJldUlHVU13RThEQXBCS3hSOHFsWWRycVZRVk9OVldJUXQ0eGh6cEw1WTRza25VV0dYZVRVblFQSm1UTldJREotbzlCSFpjNjFoaG0yXzg2dW5LbnhLQmk4RGhjdDZQQnE3UQ?oc=5",
+      "data": "21/07 23:01"
     },
     {
-      "titulo": "Equador considera técnico Luis Zubeldía, do Fluminense, para assumir seleção, diz jornal - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXV6YndRaFA5czkwd3N5NFotNjdnNEpXQllVQmNJV3VRSjlqQ1FzR25pY0V4VXlsNmd2WkNlckJIWk1ZS3BkME94Y2FTUGQxM1hWMkNJV0JNeWNCdmtaQTRtQVhCV1NaZUN1NzNJX05WWFZRcHlpVkJUOGtBbTVuVTlmREhLTDZ2azA0VlJuLVhQdk01MDZtS1I5eVc5SmZLXzJ2SmUxSkotVWl4UFVPUW1GYUZDaHRVanJkeUZvVVIta0ExXzAwTThsTDVNZG5zcVNzQ3oxbTZaYktseXJzRFRFSDRrMl9yRXBzcHVVQmlkMDduOWfSAYQCQVVfeXFMUDVyeTJaT0QyQnR2WUs5cVNFUkJ0bEh2MnczNGwzNDNOTXc5SEVTRDFwTUNHOWljYTdCcTRONXM5VnUyVmhGUDF0TXlMZ2wzSV9lamswLUZFb3ZfSXpIWVFpbkZwVWdsQUoycmtMOXdMZnVxSlE2TnZyRVBwUWpCYjJFNF9uemhQMTk1UE8xNEVwLXF3S0s2Y3F4WmtwUF90RzM3TlV3ZUtGZjloUnpjZ0pkUVZ2OFJJQzZja1I5cGZLbnFIbnpfbTVVYkJaZU83VTRLd2hNQ1hDOE54dWlmZF96MlhLVXE2cWw5SS1IMHQ0ZUE1QzBycmR1OGJxNTlrNHc4d0g?oc=5",
-      "data": "23/07 16:14"
+      "titulo": "Proposta vinda do exterior, recado de Fred e publicação de time da Europa: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVGdSSThfNm9CRGRsWHBJY01HUmktYUdyOFJTQVlvQVlDd2R1c3NvZElqWVJTS0xwY3RTeGh0Z244UzYxaEtnaXgtS21jTklMUDQ2VmV4ZkRZd21KV2JteC1hdTdIV3NoXzdNUk5Zd0x2MXVwZktnTlVDTkNBbWxKMF9zdGg0aWp0MmlxRkxYU09fa01iQ1ZWcEpDdzlDSVZMaTltU1RiOVEyVS01WlI4X2E4X3BYRkxlcUt3eGFqaTdORlRWcGJCWmJXcnQ2S3l5dHUwb3ZyelVLdU1SWU43NVVwaXdKb2tTUy1BTGNEV3ZlYk5IUEs5YURzVThvMmdVcGF3NlVRd2RIUWtYQUs0MEwweTJ2OWhHQ25Bc2d6dm1IZUk?oc=5",
+      "data": "22/07 21:08"
     },
     {
-      "titulo": "Zubeldía, do Fluminense, entra no radar da Seleção do Equador, diz jornal - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGhlZ0JWdXY4NzY2WnptTWhzeW9zYW9QQ2t4bmdNTWl4WHpCWGQzWm9BT25nNVU2dlZPLVJHdmMwSE1XRURQQVR2Rkl6YnN5MG1IclUwaU02VFd6X0RGR1VpZWdDX3RMQVUyU2duSzU3T0FlWDgyQ0V0OF9MT3FCSzBjZTl2cFQ2WEFwZ0ZnR2tIOWJRbEowRXRESGlqeHZsRzcteXF5VDI?oc=5",
-      "data": "23/07 19:36"
+      "titulo": "Meia do Fluminense tem novo contrato até 2029 publicado no BID da CBF - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZWluekNFTmlKMlNpTGh6Q3AyLTJ5NEo2ckJxa1dyRldDSWQ2Z3dycjFQTlhJcVMxX05NM2ZKbGl2UG1TTjZWZHZKVTdxaG9tZHpUZ2Z1WGRvVlQwTUx0NHF0TlMtdUltQ0FXTzB0d2c1MTZRLTFXV29BeU01Q1ZqUWQ5VWh0aUdYX2ZTYk5HOTE1THhrOTVXN2xiYzY2MUExVFpmRFM4Wko1X2NmOTJjWHN4TElJeDBnLTIxOG00bHNtRTVFU2RKY3FzbFdzN1JQdXhWMVEyd1lTY3gtTE9nLWotWVV4RVpQM3pNaVA2Rk8?oc=5",
+      "data": "23/07 18:56"
     }
   ],
   "avisos": []
