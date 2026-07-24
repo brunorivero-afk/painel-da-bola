@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/07/2026 15:15",
+  "atualizado_em": "24/07/2026 17:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -483,16 +483,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-24",
-      "time": "15:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Chile",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-24",
       "time": "23:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -629,26 +619,36 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-24",
+      "time": "15:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Chile",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.8,
-      "temp_min": 19.7,
+      "temp_max": 22.2,
+      "temp_min": 20.0,
       "chance_chuva": 88,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.7,
+      "temp_max": 23.8,
       "temp_min": 20.4,
       "chance_chuva": 78,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.9,
+      "temp_max": 21.0,
       "temp_min": 15.3,
       "chance_chuva": 96,
       "condicao": "Garoa"
@@ -663,9 +663,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
-      "data": "23/07 16:56"
+      "titulo": "Fluminense e PUMA apresentam nova terceira camisa em homenagem às raízes do clube em Laranjeiras - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUERLNF9yZGRsaHlqWmpHSExRWjYwTWluZmF1TGhsRXVxS0lyTW5iNEhjeWpUWEJyTWpTSmZVckZpQ0Z5NldwQkxqUDB2akd2UGQ4MUlRdHV5N2I1dEJIZ1NVQkY1NXpFaXJXQzFUYjlvcW05UlFPZTVzdGY4WmMwM3VPLVh4bGhGcHFyeGZkalUzLXQtQzZUUWl6dUdPNlAxREZHZk94amhCSnhGQkZIWW5YcDBwMG5vWGthM3l4OWtydC1kNHViTFZZS3l5dEE?oc=5",
+      "data": "23/07 15:10"
     },
     {
       "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
@@ -678,14 +678,14 @@ window.PAINEL_DATA = {
       "data": "23/07 20:10"
     },
     {
-      "titulo": "Fluminense anuncia transferência de Davi Schuindt para o AVS, de Portugal - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTDhnQlQwNTZjT2lvc1NuSGxIM010NFNUWlhjV3F0eEpkLS05SEp2ZkdpQlpYTlY4a0tUd0FZX2NVTExNSWZaZmFFTWJ3dzBYbnA2Tk9xUG5vSFlHdjB2VzRoV3d3cUNKSS0yY1F2azQzc1lISTJaYVI1MXdtMkJDdXpBT25KbTBmaV8zWXpBejdsdWQtNTRWMkhvUHd3bHhFbThIcFNvTnc3UnBBQjlvNGp4SktYMnNaWjVQaDJjZUQtN1ZaLTl3N09ubTg4TDBR0gHfAUFVX3lxTE1idXdTd2tYVmJ2cEVSUkNQWmZTMnJxcENHNUlLeGphUlNheDVBZmxXT09IY2JKTWtBM2ZyTlpUT2J6RTlQaHphc1hWclJBd29yUnBDZkQzWDdoWWd0TzZVbWV4MU9Tc2NqUFduMFVxTHFLRWo5TVpPNWtJUjhxNmt6UWEyd09NMzBzbHpiNzVkVmthV0FLVVZiWERBaGEzTkFsZ3M0TENmb3ZVVFJrMlM0WWl3OUVCN3VXRjBFRUQ0cjRvWlRuWnhuRlN4RTlOWnhwSmZkdWRVTE9MSU5USUU?oc=5",
-      "data": "24/07 12:34"
+      "titulo": "Fifa visita Botafogo, Fluminense e Vasco para treinos da Copa 2027; Flamengo não libera Ninho - ge",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcVFON1JxZHcxbEZDUUJ4RElNU1lwX1FQUElPcUdvZ1ltRS10dURaaklXZWtyNl9Id3VRRWdKRXQ5Q3gwSV82Zm52TXVpNTU3RHVkYzhNMWhadTQxZFU3YUJfMkdPRDNrQnhwSmlqZlY2MjNySURRNHZGcmhseW1kcXBBSVIxUmNaazkzMWRfYnd3Y3dtM1RZbkE4QzMwMml3UkgwWHhvZG5fU1k0VXc4d0JnaTRoQW53OS1hanFnalcyU0NCZVV2QjA1c0VuV0d4ZE9DeUtNRVByakRCTUg4LUs3aExUU2I4c2NUeXBEdXV3NjlDTmp4dTZpRWtGcWVNOHdJbEVqMmxYU0nSAZoCQVVfeXFMT2dCalF4ZU9OdFdMLWRwSF9ETC1FR2VqRVF3bl9yN0Y1UUxUMzRUTl84WVp6NEVfVzBGQ2Y3SHZMTDVpQklGS2VtaTJDV1NyalpNaU9USmtiMnAxYTdsLVNKX0RZNC02RVlINlhnSjJnYlR0VkVuZmZkaUQ2N3cxaHpjNGdfa29YRThZNWhraWVMTFlyN3pMU1piZmZPeXkwa0NyRkpyQlg0d0Z6SDI2ZG1JclpZempDa2VMdUpMVnZVRXRFM0R5ajlqMVhSemRlWkZ3MVpaOVBibVBuUDhpUGlSaE9MSGZaSjIwRGstdy0xVmJUeHpSZV9XYUpVOXVPSXEzQ3JXMGJmYmFOLTV6a3NjOFMtYjNVdEFn?oc=5",
+      "data": "24/07 19:09"
     },
     {
-      "titulo": "Fluminense anuncia saída de zagueiro Davi Schuindt para o futebol europeu - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSjhFNG5iZkFrT3Vmd01TOVllS2tEUS0yaUxOQ3RWb3ZXbjlZLUJ2aVlGbmFsWTdhekR0ckpOQnZvZ2lXRDNxaHRPRkplVEJHZmtFV3VCRlBIcFctM0Z5QWIwbVpPNm1rNk9Lc3Znc1E1ODJLY09CMHFXRFBTa3h0NC1NQnoxSlVHbHNQQi1BMDZMekJJaG5jMGNiUEhlRmdkNlNvMUhVU1M4aUFEd1dsYnc4OXM?oc=5",
-      "data": "24/07 15:19"
+      "titulo": "Zubeldía define futuro no Fluminense após sondagem do Equador - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1VaSG1OU0hFT2tlVF9TTW12WEhsc010U3c3Zi1Zb3FXTUhBcEhtTmkwT0QzalNrN1JPMS1JR2lNTGxsdV9zdFR5WW1jX0lHSmdxLUN2UDdBTjd4dzIxQXZyNUMyUUdBczFncHZyMWtWY2pDU3otaXkzcl95c29CckJIRlpJaERZbG9sUzV5VXFmSU16MlU3YWw1RVRSRkhQVzBWRw?oc=5",
+      "data": "23/07 20:26"
     }
   ],
   "avisos": []
