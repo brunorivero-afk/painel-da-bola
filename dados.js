@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/07/2026 05:19",
+  "atualizado_em": "24/07/2026 07:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -170,7 +170,8 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Argentino",
       "match": "Newells Old Boys x Talleres Cordoba",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -242,7 +243,7 @@ window.PAINEL_DATA = {
       "match": "Santos x Chapecoense-sc",
       "channels": [
         "SPORTV",
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -284,7 +285,8 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Argentino",
       "match": "River Plate x Barracas Central",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -395,7 +397,7 @@ window.PAINEL_DATA = {
       "match": "Vasco x Mirassol",
       "channels": [
         "RECORD",
-        "PREMIERE",
+        "PREMIERE 2",
         "CAZÉTV"
       ]
     },
@@ -645,14 +647,14 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.4,
       "temp_min": 19.7,
-      "chance_chuva": 83,
+      "chance_chuva": 90,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
       "temp_max": 24.1,
       "temp_min": 20.7,
-      "chance_chuva": 74,
+      "chance_chuva": 92,
       "condicao": "Garoa fraca"
     },
     {
@@ -687,14 +689,14 @@ window.PAINEL_DATA = {
       "data": "23/07 20:10"
     },
     {
-      "titulo": "Fluminense aproveita semana livre e ganha opções para duelo contra o Grêmio - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbk4teUo5czhYWnBNWGdVQl82NkJCUGIwbDh5NEdfd3hoaGVzRUpTNG9ZOENGRTdNMmFHVmE0b1kxcDgtNDJtSEZjdXM5d0IyQU9qX1J4QXcxYllrMGxnQ1RzZW1oX2QwMy1vZjhkY0hhN01RdXhtaHJTcmd6Y3F4UXhmY05mOW5OWUUtdzJfVUs2UEQ1Y3gyUGkzdm1xd3hZRTFwUlIweFpvLVVKZVN4N2s4NVN2Y05OWEV1M1RPaGZwMUduVDBSbFN4YUNBV2k2TUpTeGdxcUhkR2hRWklZ0gHuAUFVX3lxTE1vaEg4bVEtT1Jaa1M5Mm80UlR0SzZhSjdSMVc1MUMyZ1ZDUXY5MTNnbEMzcVF4M01xb3FRRDRmLWhjcmI4ei0wMGtPajZnMW1PSVNjQnRsRVJGSF9JR2hSUUFFU3FEcEhIY3BBQ040N25DSlJ5NUVBVENuelZMYi1NWlRtQ3VxNHFKU1FlVFEtbGV5YWNERF8zQm5jd0ZhYnpmUkJfYncyVy1Oa0NOT1Q4NlhKRkRXYmVBeEZCcW5IcWJ0b1I2TTFyZXpCU0FZRkMwaEVQaF85OGlIa1huZXhnd0MybU1scy03Y0hxYUE?oc=5",
-      "data": "23/07 07:00"
+      "titulo": "Do auge às lesões: Cano tenta abrir novo capítulo no Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmc1ZVdpdnJfajZUamtKX2FaMmRUWGhGYUZLM3REVlZiWlJYU0xZTHJzU0o3bFFHV3JvU1ZYaEJYWkdjUGhYQkRJYXNza2lpeTRWZ2RDWHdpZVp0TmZmbUdlSUl0UTRvem81TWRTWnVvbFA2X3VOUW8xUVN5eUQ1NXlMd09pZnhQd0VyZzV3UDVTT2pMemhsMDk3UmRUUWN2V3NwNW1n?oc=5",
+      "data": "24/07 08:10"
     },
     {
-      "titulo": "Grêmio anuncia reforço de Copa do Mundo que pode estrear contra o Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHh6OHIyMk94U3BQMVhpMmx0enB6X2pia1pPa3VmbEF1VUNpaEZsQm9MZHdwODlWMTlfUUswRThoTjRWNE54THJtWGZNWk91YmpXMnEyN2x4YU9tUzlxUWFNNjBWTWdSOUJ1X3JFSWRsZ01GNC10RUIxOG1TS3htRG5YeXRfY2JEekdvY0NVQm9qbjdIYmw1TkpMQXotT0JqX3dkS3pR?oc=5",
-      "data": "23/07 23:38"
+      "titulo": "Zubeldía, do Fluminense, entra no radar da Seleção do Equador, diz jornal - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGhlZ0JWdXY4NzY2WnptTWhzeW9zYW9QQ2t4bmdNTWl4WHpCWGQzWm9BT25nNVU2dlZPLVJHdmMwSE1XRURQQVR2Rkl6YnN5MG1IclUwaU02VFd6X0RGR1VpZWdDX3RMQVUyU2duSzU3T0FlWDgyQ0V0OF9MT3FCSzBjZTl2cFQ2WEFwZ0ZnR2tIOWJRbEowRXRESGlqeHZsRzcteXF5VDI?oc=5",
+      "data": "23/07 19:36"
     }
   ],
   "avisos": []
