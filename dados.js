@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/07/2026 07:59",
+  "atualizado_em": "24/07/2026 09:24",
   "jogos": [
     {
       "sport": "futebol",
@@ -662,14 +662,14 @@ window.PAINEL_DATA = {
       "temp_max": 21.5,
       "temp_min": 14.9,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 18.7,
       "temp_min": 13.8,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -689,14 +689,14 @@ window.PAINEL_DATA = {
       "data": "23/07 20:10"
     },
     {
-      "titulo": "Do auge às lesões: Cano tenta abrir novo capítulo no Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmc1ZVdpdnJfajZUamtKX2FaMmRUWGhGYUZLM3REVlZiWlJYU0xZTHJzU0o3bFFHV3JvU1ZYaEJYWkdjUGhYQkRJYXNza2lpeTRWZ2RDWHdpZVp0TmZmbUdlSUl0UTRvem81TWRTWnVvbFA2X3VOUW8xUVN5eUQ1NXlMd09pZnhQd0VyZzV3UDVTT2pMemhsMDk3UmRUUWN2V3NwNW1n?oc=5",
-      "data": "24/07 08:10"
+      "titulo": "Equador considera técnico Luis Zubeldía, do Fluminense, para assumir seleção, diz jornal - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVXV6YndRaFA5czkwd3N5NFotNjdnNEpXQllVQmNJV3VRSjlqQ1FzR25pY0V4VXlsNmd2WkNlckJIWk1ZS3BkME94Y2FTUGQxM1hWMkNJV0JNeWNCdmtaQTRtQVhCV1NaZUN1NzNJX05WWFZRcHlpVkJUOGtBbTVuVTlmREhLTDZ2azA0VlJuLVhQdk01MDZtS1I5eVc5SmZLXzJ2SmUxSkotVWl4UFVPUW1GYUZDaHRVanJkeUZvVVIta0ExXzAwTThsTDVNZG5zcVNzQ3oxbTZaYktseXJzRFRFSDRrMl9yRXBzcHVVQmlkMDduOWfSAYQCQVVfeXFMUDVyeTJaT0QyQnR2WUs5cVNFUkJ0bEh2MnczNGwzNDNOTXc5SEVTRDFwTUNHOWljYTdCcTRONXM5VnUyVmhGUDF0TXlMZ2wzSV9lamswLUZFb3ZfSXpIWVFpbkZwVWdsQUoycmtMOXdMZnVxSlE2TnZyRVBwUWpCYjJFNF9uemhQMTk1UE8xNEVwLXF3S0s2Y3F4WmtwUF90RzM3TlV3ZUtGZjloUnpjZ0pkUVZ2OFJJQzZja1I5cGZLbnFIbnpfbTVVYkJaZU83VTRLd2hNQ1hDOE54dWlmZF96MlhLVXE2cWw5SS1IMHQ0ZUE1QzBycmR1OGJxNTlrNHc4d0g?oc=5",
+      "data": "23/07 16:14"
     },
     {
-      "titulo": "Zubeldía, do Fluminense, entra no radar da Seleção do Equador, diz jornal - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGhlZ0JWdXY4NzY2WnptTWhzeW9zYW9QQ2t4bmdNTWl4WHpCWGQzWm9BT25nNVU2dlZPLVJHdmMwSE1XRURQQVR2Rkl6YnN5MG1IclUwaU02VFd6X0RGR1VpZWdDX3RMQVUyU2duSzU3T0FlWDgyQ0V0OF9MT3FCSzBjZTl2cFQ2WEFwZ0ZnR2tIOWJRbEowRXRESGlqeHZsRzcteXF5VDI?oc=5",
-      "data": "23/07 19:36"
+      "titulo": "Zubeldía responde ao Equador e define futuro no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeEZCUXhvZlUtXzU4d1BDM1lOMlJ1QWxrbTNpTTQ2V0EyYTdBNnhaN09RMDlxazNqZUxtS0VLTExVdnZtamdueUpCdnBZQ2NzRUZfV3pTVTQtbDZOMzdhdzUyV0ctWGF3Q1JxU1NSQkkxRTJidlNoMmNSM3lUblV1RmJ2NEhDZHpYdVFiaC1B?oc=5",
+      "data": "24/07 12:00"
     }
   ],
   "avisos": []
