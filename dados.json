@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 17:16",
+  "atualizado_em": "24/07/2026 19:01",
   "jogos": [
     {
       "sport": "futebol",
@@ -663,9 +663,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense e PUMA apresentam nova terceira camisa em homenagem às raízes do clube em Laranjeiras - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUERLNF9yZGRsaHlqWmpHSExRWjYwTWluZmF1TGhsRXVxS0lyTW5iNEhjeWpUWEJyTWpTSmZVckZpQ0Z5NldwQkxqUDB2akd2UGQ4MUlRdHV5N2I1dEJIZ1NVQkY1NXpFaXJXQzFUYjlvcW05UlFPZTVzdGY4WmMwM3VPLVh4bGhGcHFyeGZkalUzLXQtQzZUUWl6dUdPNlAxREZHZk94amhCSnhGQkZIWW5YcDBwMG5vWGthM3l4OWtydC1kNHViTFZZS3l5dEE?oc=5",
-      "data": "23/07 15:10"
+      "titulo": "Yago Ferreira volta ao Fluminense após empréstimo ao Majd FC, dos Emirados Árabes - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnFJamJpOUlJX3JsVWhCa1hkaEltNmwwTlI4b1BRbURkei05MWU2aFVLWWd6S2NnYUxSRTNtOXFZMEFCRFhLMExnOFM5aWhuUlRyc1VjSzdXa0dkRUVsb0ZCM0pXMXVJTXNTYTdHTU5UWXF2ajJZYnlNbkdDOUxod2tudHE1ZG1hYzBqbVV5NmFNV1RUTjRkbmh2VmFkZVhya20zcGFTQ3NlZXd1T0hDcm1yeXFPVUdUaGwwSi0wUGcxZTBxRVlld2pJSkIzNHhsQ2Jjd0lXYkEzcHFUQVdfRzM4UEdtd9IB9AFBVV95cUxQd3Fzcy1SOWJNYnhvTkN1TURadHplZXNmdkxQNE5nVUczN3FSRFhYSlYyQUxpQjh2Mlp2eU5zcDFTQTdHd3hpSjJJLUpLTVNNTDNRQXhuVlBMRUIwcE42RGNMdDFxT1dyclI5UjhJX0VGNmVwYUNvRlYzS1gyd2xjelRPT2R6MktWaVNMcmhiTFpWdVloa2M5bWI2ZERFbjZjZFBvV3c5cGZVR1h5MFVVZEU4LU5pS05iLUpBMEpsV3BQZDJ3b19qajNZaGg3YTBScFhyNmlHd1NQUXp2bzNRblBTejRiRzJWNEotRG16ZEIwQTBF?oc=5",
+      "data": "24/07 16:19"
+    },
+    {
+      "titulo": "Fluminense e Puma lançam novo terceiro uniforme inspirado nas raízes de Laranjeiras - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZkNXRFF3THVYMHI2dUJ6eWRFaXVTQTRPWDlqMnE1OVRCVVpKZU1hX1ZLaDdPdDFWWC1ObjBHa3RpQ2dsREdXS29YekhtM2ZTM0VnQU52cWtjcDRldUVYekM2S2oyX3VCZjJwSFRQR3RVNngwUGt5cVJ3NURJOTdrT1B2MmpsSHB4dGlIOW9jT2xUaGJRbnFRX01SSVFRSzZlY2pzdHQ0b3BDUmV2RHRIREZCZkJFTTVFbEdRTlBvalNtLWVZajZnZ0lFWTBNWVhsZ2JuUnZTSDlkcWtDTW96LXNudnFlMmJzb0hydlVCcFVZYzdmV1pqamc0b0gwLVI1Zm5Z?oc=5",
+      "data": "23/07 16:25"
     },
     {
       "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
@@ -678,14 +683,9 @@
       "data": "23/07 20:10"
     },
     {
-      "titulo": "Fifa visita Botafogo, Fluminense e Vasco para treinos da Copa 2027; Flamengo não libera Ninho - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcVFON1JxZHcxbEZDUUJ4RElNU1lwX1FQUElPcUdvZ1ltRS10dURaaklXZWtyNl9Id3VRRWdKRXQ5Q3gwSV82Zm52TXVpNTU3RHVkYzhNMWhadTQxZFU3YUJfMkdPRDNrQnhwSmlqZlY2MjNySURRNHZGcmhseW1kcXBBSVIxUmNaazkzMWRfYnd3Y3dtM1RZbkE4QzMwMml3UkgwWHhvZG5fU1k0VXc4d0JnaTRoQW53OS1hanFnalcyU0NCZVV2QjA1c0VuV0d4ZE9DeUtNRVByakRCTUg4LUs3aExUU2I4c2NUeXBEdXV3NjlDTmp4dTZpRWtGcWVNOHdJbEVqMmxYU0nSAZoCQVVfeXFMT2dCalF4ZU9OdFdMLWRwSF9ETC1FR2VqRVF3bl9yN0Y1UUxUMzRUTl84WVp6NEVfVzBGQ2Y3SHZMTDVpQklGS2VtaTJDV1NyalpNaU9USmtiMnAxYTdsLVNKX0RZNC02RVlINlhnSjJnYlR0VkVuZmZkaUQ2N3cxaHpjNGdfa29YRThZNWhraWVMTFlyN3pMU1piZmZPeXkwa0NyRkpyQlg0d0Z6SDI2ZG1JclpZempDa2VMdUpMVnZVRXRFM0R5ajlqMVhSemRlWkZ3MVpaOVBibVBuUDhpUGlSaE9MSGZaSjIwRGstdy0xVmJUeHpSZV9XYUpVOXVPSXEzQ3JXMGJmYmFOLTV6a3NjOFMtYjNVdEFn?oc=5",
-      "data": "24/07 19:09"
-    },
-    {
-      "titulo": "Zubeldía define futuro no Fluminense após sondagem do Equador - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1VaSG1OU0hFT2tlVF9TTW12WEhsc010U3c3Zi1Zb3FXTUhBcEhtTmkwT0QzalNrN1JPMS1JR2lNTGxsdV9zdFR5WW1jX0lHSmdxLUN2UDdBTjd4dzIxQXZyNUMyUUdBczFncHZyMWtWY2pDU3otaXkzcl95c29CckJIRlpJaERZbG9sUzV5VXFmSU16MlU3YWw1RVRSRkhQVzBWRw?oc=5",
-      "data": "23/07 20:26"
+      "titulo": "Fluminense oficializa saída de zagueiro para o futebol português - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNTlnWlRhSV9PMWFEMnFZajZTRnM5VnZYQzMwRC04a2FQOTVQRzFCU1JJakVralZNaXhJei1yQUU2N1hIdUpLR0NsQThvTGF5a2tYQUdBSHhEUlN4SE16eVZleVptaVozRVd1WTUzb21NTVBPWHFvT050eFBXZGI5STliOXp1bHZIRGpXVHg2VVBlWUhFdzRvOGxvRWZzVmJ0U0MtX3RGQlNLenRqbHIyLThrYWtTa0VYekttQkh4ZzREM2hiS3FIYmxfQUl2a0NUckh3QWd2akhxQkhWZDN5QTVVMDVLSUJLbEkw?oc=5",
+      "data": "24/07 16:52"
     }
   ],
   "avisos": []
