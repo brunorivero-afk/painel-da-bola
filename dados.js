@@ -1,123 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/07/2026 23:35",
+  "atualizado_em": "24/07/2026 02:46",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "12:00",
-      "competition": "MLS Next Pro",
-      "match": "New England II x New York City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "15:00",
-      "competition": "UEFA Europa League",
-      "match": "Twente x Ferencvarosi TC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "16:00",
-      "competition": "Brasileiro Sub-20",
-      "match": "RB Bragantino Sub-20 x Palmeiras Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Bolívar x Grêmio",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Vitória",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Remo",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x São Bernardo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Atlético GO",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Juventude",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Boca Juniors x O&#39;Higgins",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-23",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Santa Fe x Caracas FC",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-24",
@@ -200,8 +83,384 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "12:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Huancayo x Atletico Grau",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Cerro",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Standard Liege x Juventus",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Portuguesa x Uberlandia",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Iguatu x Nacional AM",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Talleres Cordoba",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Figueirense",
+      "channels": [
+        "BAND",
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ferroviária x Maranhão",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:15",
+      "competition": "Campeonato Peruano",
+      "match": "Juan Pablo II College x Cienciano",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Juventud",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Athletico PR x Internacional",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Santos x Chapecoense-sc",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Itabaiana",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:00",
+      "competition": "Brasileirão Série C",
+      "match": "Volta Redonda x Anápolis",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Itapirense U20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:15",
+      "competition": "Campeonato Argentino",
+      "match": "River Plate x Barracas Central",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:30",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x ADT",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Charlotte",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:15",
+      "competition": "MLS",
+      "match": "Columbus Crew x FC Cincinnati",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS Next Pro",
+      "match": "Carolina Core x Chicago FC United",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "DC United x Toronto FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New England x Atlanta United FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York City FC x Chicago Fire",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Orlando City SC x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Philadelphia Union x Seattle Sounders",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x Inter Miami",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Mirassol",
+      "channels": [
+        "RECORD",
+        "PREMIERE",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Minnesota United FC x Whitecaps",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Houston Dynamo x Austin",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "St. Louis City x Colorado Rapids",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "21:45",
+      "competition": "MLS Next Pro",
+      "match": "North Texas x Los Angeles II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "22:00",
+      "competition": "Campeonato Peruano",
+      "match": "FBC Melgar x Sporting Cristal",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "San Diego x FC Dallas",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Los Angeles FC x Sporting Kansas City",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "San Jose Earthquakes x Los Angeles Galaxy",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Portland Timbers x Real Salt Lake",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "15:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Chile",
@@ -211,7 +470,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "23:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -221,7 +480,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "00:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -231,7 +490,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Feminina de Vôlei",
@@ -241,7 +500,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Feminina de Vôlei",
@@ -251,7 +510,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "16:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Brasileiro de Vôlei de Praia",
@@ -261,7 +520,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "17:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Brasileiro de Vôlei de Praia",
@@ -271,7 +530,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -281,7 +540,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "20:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -291,7 +550,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "04:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Feminina de Vôlei",
@@ -301,7 +560,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Feminina de Vôlei",
@@ -311,7 +570,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "10:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -321,7 +580,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -331,7 +590,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "17:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -341,7 +600,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "time": "19:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -353,31 +612,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.5,
-      "temp_min": 18.7,
-      "chance_chuva": 0,
+      "temp_max": 22.0,
+      "temp_min": 19.6,
+      "chance_chuva": 83,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.2,
-      "temp_min": 18.1,
-      "chance_chuva": 10,
-      "condicao": "Nublado"
+      "temp_max": 24.3,
+      "temp_min": 20.4,
+      "chance_chuva": 74,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.7,
-      "temp_min": 15.8,
-      "chance_chuva": 10,
-      "condicao": "Nublado"
+      "temp_max": 22.2,
+      "temp_min": 14.9,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.7,
-      "temp_min": 14.0,
-      "chance_chuva": 71,
-      "condicao": "Garoa"
+      "temp_max": 18.0,
+      "temp_min": 13.9,
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -387,9 +646,14 @@ window.PAINEL_DATA = {
       "data": "23/07 15:13"
     },
     {
-      "titulo": "Grêmio anuncia reforço de Copa do Mundo que pode estrear contra o Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHh6OHIyMk94U3BQMVhpMmx0enB6X2pia1pPa3VmbEF1VUNpaEZsQm9MZHdwODlWMTlfUUswRThoTjRWNE54THJtWGZNWk91YmpXMnEyN2x4YU9tUzlxUWFNNjBWTWdSOUJ1X3JFSWRsZ01GNC10RUIxOG1TS3htRG5YeXRfY2JEekdvY0NVQm9qbjdIYmw1TkpMQXotT0JqX3dkS3pR?oc=5",
-      "data": "23/07 23:38"
+      "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
+      "data": "23/07 16:56"
+    },
+    {
+      "titulo": "Fluminense mergulha no verde de Laranjeiras em nova camisa - Galáticos Online",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lLbUlGbmRwelNreXJBeXhVTlFVLXVXZUFHMGNNc0MxLWZoeVpjZEh5RW1QR0dPU19xQ2ROcTZYLXlGcmM3ZjBpS3RFaEhiMVRMWnI4VWY5QTBtd3E1YTV1d0xLQXlzcjBDeWhSbnhjaEUzNnJRUVY1OGdDZ0h5aE9GbG5aMjVoVGlDc3BnczRxUEcxenlKX1h6bk5uTGtORFFzbGJsN1VrbVZmQlZfVGpuelBvSzQ?oc=5",
+      "data": "24/07 02:04"
     },
     {
       "titulo": "Copa do Brasil 2026: Informações de ingressos para Fluminense x Vasco - fluminense.com.br",
@@ -397,14 +661,9 @@ window.PAINEL_DATA = {
       "data": "21/07 23:01"
     },
     {
-      "titulo": "Proposta vinda do exterior, recado de Fred e publicação de time da Europa: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVGdSSThfNm9CRGRsWHBJY01HUmktYUdyOFJTQVlvQVlDd2R1c3NvZElqWVJTS0xwY3RTeGh0Z244UzYxaEtnaXgtS21jTklMUDQ2VmV4ZkRZd21KV2JteC1hdTdIV3NoXzdNUk5Zd0x2MXVwZktnTlVDTkNBbWxKMF9zdGg0aWp0MmlxRkxYU09fa01iQ1ZWcEpDdzlDSVZMaTltU1RiOVEyVS01WlI4X2E4X3BYRkxlcUt3eGFqaTdORlRWcGJCWmJXcnQ2S3l5dHUwb3ZyelVLdU1SWU43NVVwaXdKb2tTUy1BTGNEV3ZlYk5IUEs5YURzVThvMmdVcGF3NlVRd2RIUWtYQUs0MEwweTJ2OWhHQ25Bc2d6dm1IZUk?oc=5",
-      "data": "22/07 21:08"
-    },
-    {
-      "titulo": "Meia do Fluminense tem novo contrato até 2029 publicado no BID da CBF - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZWluekNFTmlKMlNpTGh6Q3AyLTJ5NEo2ckJxa1dyRldDSWQ2Z3dycjFQTlhJcVMxX05NM2ZKbGl2UG1TTjZWZHZKVTdxaG9tZHpUZ2Z1WGRvVlQwTUx0NHF0TlMtdUltQ0FXTzB0d2c1MTZRLTFXV29BeU01Q1ZqUWQ5VWh0aUdYX2ZTYk5HOTE1THhrOTVXN2xiYzY2MUExVFpmRFM4Wko1X2NmOTJjWHN4TElJeDBnLTIxOG00bHNtRTVFU2RKY3FzbFdzN1JQdXhWMVEyd1lTY3gtTE9nLWotWVV4RVpQM3pNaVA2Rk8?oc=5",
-      "data": "23/07 18:56"
+      "titulo": "Lucho Acosta tem novo contrato com o Fluminense publicado no BID da CBF - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTjRGUHBkUExDOWpoQWc1c0NGZnJyX0xZMllvOVBCNG9xd2xqdFhqYkJIOGR0YVRFMmltVmw2SHp3ZDBQa1BpZ0FPM0dSWXZtdTFXSi1RTy1aVE9NcUlDWWg0UUFrQkV3ZDJsNmU1NXhJcm5JRExlMTFSaFNlS0dndGF3UHpFTlhjc1U5REZ4UUxiV3BYT3R1N2xxNnk1c2VVQ3REVXFudUxEajFSbmxGYW1SbTd4X00zRFRsZ2ROV3RSTE94cnVEZjctU2ZnRWZNeEdacktwekdKT0p6d3BtVlAxMFNpbVpjV0ZsejlPNjZJbDlI?oc=5",
+      "data": "23/07 18:52"
     }
   ],
   "avisos": []
