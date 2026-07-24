@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 02:46",
+  "atualizado_em": "24/07/2026 05:19",
   "jogos": [
     {
       "sport": "futebol",
@@ -24,6 +24,16 @@
     {
       "sport": "futebol",
       "date": "2026-07-24",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Danubio",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-24",
       "time": "19:30",
       "competition": "Campeonato Uruguaio",
       "match": "Club Nacional x Progreso",
@@ -38,7 +48,8 @@
       "competition": "Brasileirão Feminino",
       "match": "Internacional (F) x Fluminense (F)",
       "channels": [
-        "SPORTV"
+        "SPORTV",
+        "NSPORTS"
       ]
     },
     {
@@ -125,6 +136,16 @@
     {
       "sport": "futebol",
       "date": "2026-07-25",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Cerro Largo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
       "time": "16:00",
       "competition": "Brasileirão Série D",
       "match": "Portuguesa x Uberlandia",
@@ -181,6 +202,16 @@
       "match": "Juan Pablo II College x Cienciano",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -260,20 +291,20 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "19:30",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x ADT",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Charlotte",
       "channels": [
-        "FANATIZ"
+        "APPLE TV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "19:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Charlotte",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x ADT",
       "channels": [
-        "APPLE TV"
+        "FANATIZ"
       ]
     },
     {
@@ -612,58 +643,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.0,
-      "temp_min": 19.6,
+      "temp_max": 22.4,
+      "temp_min": 19.7,
       "chance_chuva": 83,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.3,
-      "temp_min": 20.4,
+      "temp_max": 24.1,
+      "temp_min": 20.7,
       "chance_chuva": 74,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.2,
+      "temp_max": 21.5,
       "temp_min": 14.9,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.0,
-      "temp_min": 13.9,
+      "temp_max": 18.7,
+      "temp_min": 13.8,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - GE",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWUtck0xU0Z1Q1JNc2VpMVhLQWFOX0JGSFRnQ2ZUUUNNRlFPaURXbi1wYXdQYW1sYmRTUWp2emNVdFVOTHBTa3Y0OHRPLV9yY3JXcWdxTDBiNXFCSVlTbFJrYnI1RUp2azV2OGcta1NGVl9UMW5KQW5SdGtLV0x2U2l5d0thWjNSSFl1UUZPUHYzNS1VZWR3MG9GRy1jbVRYWnpyVjdXMXhKTmQ2Yk11MkZsRlZNc3ZyYVQ2ZXBKWnFZX3FmV1ZubUkyaC1Dd9IB3AFBVV95cUxOMHBYVGxnME5YdzBTS2hoWjRSX0VBaF92TjBaZncyRTg4Y2pZZ2QtVGFDWUtJVjFJOXdFS0MxWTNHZUhzelplbGt4UF9aM0FORk9PUmZJV2lJWUthZmJWeENvblpiUEdRT0JLWkNMRHlpNUlHaGxmMkJ1aDcyWGRTX0phUVBHMnJ4ZDd5M2JERUgwbmhHOUJCVWwtMGdDS29wWVp2VEk4ZVFSWExpeVptVE5pUDg1VldsRFBhOUdoSFJMOVdBVmpsWFJYaU5KYmtRX0VpSXR0VkV2MUpC?oc=5",
-      "data": "23/07 15:13"
-    },
     {
       "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
       "data": "23/07 16:56"
     },
     {
-      "titulo": "Fluminense mergulha no verde de Laranjeiras em nova camisa - Galáticos Online",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lLbUlGbmRwelNreXJBeXhVTlFVLXVXZUFHMGNNc0MxLWZoeVpjZEh5RW1QR0dPU19xQ2ROcTZYLXlGcmM3ZjBpS3RFaEhiMVRMWnI4VWY5QTBtd3E1YTV1d0xLQXlzcjBDeWhSbnhjaEUzNnJRUVY1OGdDZ0h5aE9GbG5aMjVoVGlDc3BnczRxUEcxenlKX1h6bk5uTGtORFFzbGJsN1VrbVZmQlZfVGpuelBvSzQ?oc=5",
-      "data": "24/07 02:04"
+      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWUtck0xU0Z1Q1JNc2VpMVhLQWFOX0JGSFRnQ2ZUUUNNRlFPaURXbi1wYXdQYW1sYmRTUWp2emNVdFVOTHBTa3Y0OHRPLV9yY3JXcWdxTDBiNXFCSVlTbFJrYnI1RUp2azV2OGcta1NGVl9UMW5KQW5SdGtLV0x2U2l5d0thWjNSSFl1UUZPUHYzNS1VZWR3MG9GRy1jbVRYWnpyVjdXMXhKTmQ2Yk11MkZsRlZNc3ZyYVQ2ZXBKWnFZX3FmV1ZubUkyaC1Dd9IB3AFBVV95cUxOMHBYVGxnME5YdzBTS2hoWjRSX0VBaF92TjBaZncyRTg4Y2pZZ2QtVGFDWUtJVjFJOXdFS0MxWTNHZUhzelplbGt4UF9aM0FORk9PUmZJV2lJWUthZmJWeENvblpiUEdRT0JLWkNMRHlpNUlHaGxmMkJ1aDcyWGRTX0phUVBHMnJ4ZDd5M2JERUgwbmhHOUJCVWwtMGdDS29wWVp2VEk4ZVFSWExpeVptVE5pUDg1VldsRFBhOUdoSFJMOVdBVmpsWFJYaU5KYmtRX0VpSXR0VkV2MUpC?oc=5",
+      "data": "23/07 15:13"
     },
     {
-      "titulo": "Copa do Brasil 2026: Informações de ingressos para Fluminense x Vasco - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTEFZRHNJdlJ2V1h3XzI2UUpVVmRDSHVrU1lfYmtqNmlLRGJ3bXVaRXYyR0J5czZRUkgzY0lBczNIRlhBMXVGTUJldUlHVU13RThEQXBCS3hSOHFsWWRycVZRVk9OVldJUXQ0eGh6cEw1WTRza25VV0dYZVRVblFQSm1UTldJREotbzlCSFpjNjFoaG0yXzg2dW5LbnhLQmk4RGhjdDZQQnE3UQ?oc=5",
-      "data": "21/07 23:01"
+      "titulo": "Nova camisa do Fluminense custa 11 dias de trabalho para quem recebe salário mínimo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXhpWmVyRm93RzRKQWY0azZYQjFEQjB5eDRXOXZqMUVwYkxGTUExanE1VFM1RWRodDM2STNacU9hVTc3T1FMU3hhM0RmSzZVMVBuc1A3b01meno1aC1vNEpTTC1SLUl1V1BmZ2NFd3VtbXFtODVjOExqWk5ZQjR5OGlrT3lHVVktWS0tM1pJS1RSbDJjLVpiYVBSb3RpNzBqV2sxekJIa3ZwLTRieHQzWXNoM1Q5VURQV193S29jSHF2dw?oc=5",
+      "data": "23/07 20:10"
     },
     {
-      "titulo": "Lucho Acosta tem novo contrato com o Fluminense publicado no BID da CBF - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTjRGUHBkUExDOWpoQWc1c0NGZnJyX0xZMllvOVBCNG9xd2xqdFhqYkJIOGR0YVRFMmltVmw2SHp3ZDBQa1BpZ0FPM0dSWXZtdTFXSi1RTy1aVE9NcUlDWWg0UUFrQkV3ZDJsNmU1NXhJcm5JRExlMTFSaFNlS0dndGF3UHpFTlhjc1U5REZ4UUxiV3BYT3R1N2xxNnk1c2VVQ3REVXFudUxEajFSbmxGYW1SbTd4X00zRFRsZ2ROV3RSTE94cnVEZjctU2ZnRWZNeEdacktwekdKT0p6d3BtVlAxMFNpbVpjV0ZsejlPNjZJbDlI?oc=5",
-      "data": "23/07 18:52"
+      "titulo": "Fluminense aproveita semana livre e ganha opções para duelo contra o Grêmio - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbk4teUo5czhYWnBNWGdVQl82NkJCUGIwbDh5NEdfd3hoaGVzRUpTNG9ZOENGRTdNMmFHVmE0b1kxcDgtNDJtSEZjdXM5d0IyQU9qX1J4QXcxYllrMGxnQ1RzZW1oX2QwMy1vZjhkY0hhN01RdXhtaHJTcmd6Y3F4UXhmY05mOW5OWUUtdzJfVUs2UEQ1Y3gyUGkzdm1xd3hZRTFwUlIweFpvLVVKZVN4N2s4NVN2Y05OWEV1M1RPaGZwMUduVDBSbFN4YUNBV2k2TUpTeGdxcUhkR2hRWklZ0gHuAUFVX3lxTE1vaEg4bVEtT1Jaa1M5Mm80UlR0SzZhSjdSMVc1MUMyZ1ZDUXY5MTNnbEMzcVF4M01xb3FRRDRmLWhjcmI4ei0wMGtPajZnMW1PSVNjQnRsRVJGSF9JR2hSUUFFU3FEcEhIY3BBQ040N25DSlJ5NUVBVENuelZMYi1NWlRtQ3VxNHFKU1FlVFEtbGV5YWNERF8zQm5jd0ZhYnpmUkJfYncyVy1Oa0NOT1Q4NlhKRkRXYmVBeEZCcW5IcWJ0b1I2TTFyZXpCU0FZRkMwaEVQaF85OGlIa1huZXhnd0MybU1scy03Y0hxYUE?oc=5",
+      "data": "23/07 07:00"
+    },
+    {
+      "titulo": "Grêmio anuncia reforço de Copa do Mundo que pode estrear contra o Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHh6OHIyMk94U3BQMVhpMmx0enB6X2pia1pPa3VmbEF1VUNpaEZsQm9MZHdwODlWMTlfUUswRThoTjRWNE54THJtWGZNWk91YmpXMnEyN2x4YU9tUzlxUWFNNjBWTWdSOUJ1X3JFSWRsZ01GNC10RUIxOG1TS3htRG5YeXRfY2JEekdvY0NVQm9qbjdIYmw1TkpMQXotT0JqX3dkS3pR?oc=5",
+      "data": "23/07 23:38"
     }
   ],
   "avisos": []
