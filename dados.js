@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/07/2026 19:01",
+  "atualizado_em": "24/07/2026 20:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,16 +9,6 @@ window.PAINEL_DATA = {
       "match": "Flamengo (F) x Grêmio (F)",
       "channels": [
         "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-24",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Danubio",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -80,6 +70,16 @@ window.PAINEL_DATA = {
       "match": "Universitario x Cusco",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-24",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Danubio",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -636,36 +636,46 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.2,
       "temp_min": 20.0,
-      "chance_chuva": 88,
+      "chance_chuva": 99,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.8,
       "temp_min": 20.4,
-      "chance_chuva": 78,
+      "chance_chuva": 59,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.0,
       "temp_min": 15.3,
-      "chance_chuva": 96,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 18.8,
       "temp_min": 14.1,
-      "chance_chuva": 98,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Yago Ferreira volta ao Fluminense após empréstimo ao Majd FC, dos Emirados Árabes - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnFJamJpOUlJX3JsVWhCa1hkaEltNmwwTlI4b1BRbURkei05MWU2aFVLWWd6S2NnYUxSRTNtOXFZMEFCRFhLMExnOFM5aWhuUlRyc1VjSzdXa0dkRUVsb0ZCM0pXMXVJTXNTYTdHTU5UWXF2ajJZYnlNbkdDOUxod2tudHE1ZG1hYzBqbVV5NmFNV1RUTjRkbmh2VmFkZVhya20zcGFTQ3NlZXd1T0hDcm1yeXFPVUdUaGwwSi0wUGcxZTBxRVlld2pJSkIzNHhsQ2Jjd0lXYkEzcHFUQVdfRzM4UEdtd9IB9AFBVV95cUxQd3Fzcy1SOWJNYnhvTkN1TURadHplZXNmdkxQNE5nVUczN3FSRFhYSlYyQUxpQjh2Mlp2eU5zcDFTQTdHd3hpSjJJLUpLTVNNTDNRQXhuVlBMRUIwcE42RGNMdDFxT1dyclI5UjhJX0VGNmVwYUNvRlYzS1gyd2xjelRPT2R6MktWaVNMcmhiTFpWdVloa2M5bWI2ZERFbjZjZFBvV3c5cGZVR1h5MFVVZEU4LU5pS05iLUpBMEpsV3BQZDJ3b19qajNZaGg3YTBScFhyNmlHd1NQUXp2bzNRblBTejRiRzJWNEotRG16ZEIwQTBF?oc=5",
-      "data": "24/07 16:19"
+      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
+      "data": "24/07 19:23"
+    },
+    {
+      "titulo": "Grêmio anuncia reforço de Copa do Mundo que pode estrear contra o Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHh6OHIyMk94U3BQMVhpMmx0enB6X2pia1pPa3VmbEF1VUNpaEZsQm9MZHdwODlWMTlfUUswRThoTjRWNE54THJtWGZNWk91YmpXMnEyN2x4YU9tUzlxUWFNNjBWTWdSOUJ1X3JFSWRsZ01GNC10RUIxOG1TS3htRG5YeXRfY2JEekdvY0NVQm9qbjdIYmw1TkpMQXotT0JqX3dkS3pR?oc=5",
+      "data": "23/07 23:38"
+    },
+    {
+      "titulo": "Do auge às lesões: Cano tenta abrir novo capítulo no Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmc1ZVdpdnJfajZUamtKX2FaMmRUWGhGYUZLM3REVlZiWlJYU0xZTHJzU0o3bFFHV3JvU1ZYaEJYWkdjUGhYQkRJYXNza2lpeTRWZ2RDWHdpZVp0TmZmbUdlSUl0UTRvem81TWRTWnVvbFA2X3VOUW8xUVN5eUQ1NXlMd09pZnhQd0VyZzV3UDVTT2pMemhsMDk3UmRUUWN2V3NwNW1n?oc=5",
+      "data": "24/07 08:10"
     },
     {
       "titulo": "Fluminense e Puma lançam novo terceiro uniforme inspirado nas raízes de Laranjeiras - Rádio Itatiaia",
@@ -676,16 +686,6 @@ window.PAINEL_DATA = {
       "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWUtck0xU0Z1Q1JNc2VpMVhLQWFOX0JGSFRnQ2ZUUUNNRlFPaURXbi1wYXdQYW1sYmRTUWp2emNVdFVOTHBTa3Y0OHRPLV9yY3JXcWdxTDBiNXFCSVlTbFJrYnI1RUp2azV2OGcta1NGVl9UMW5KQW5SdGtLV0x2U2l5d0thWjNSSFl1UUZPUHYzNS1VZWR3MG9GRy1jbVRYWnpyVjdXMXhKTmQ2Yk11MkZsRlZNc3ZyYVQ2ZXBKWnFZX3FmV1ZubUkyaC1Dd9IB3AFBVV95cUxOMHBYVGxnME5YdzBTS2hoWjRSX0VBaF92TjBaZncyRTg4Y2pZZ2QtVGFDWUtJVjFJOXdFS0MxWTNHZUhzelplbGt4UF9aM0FORk9PUmZJV2lJWUthZmJWeENvblpiUEdRT0JLWkNMRHlpNUlHaGxmMkJ1aDcyWGRTX0phUVBHMnJ4ZDd5M2JERUgwbmhHOUJCVWwtMGdDS29wWVp2VEk4ZVFSWExpeVptVE5pUDg1VldsRFBhOUdoSFJMOVdBVmpsWFJYaU5KYmtRX0VpSXR0VkV2MUpC?oc=5",
       "data": "23/07 15:13"
-    },
-    {
-      "titulo": "Nova camisa do Fluminense custa 11 dias de trabalho para quem recebe salário mínimo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXhpWmVyRm93RzRKQWY0azZYQjFEQjB5eDRXOXZqMUVwYkxGTUExanE1VFM1RWRodDM2STNacU9hVTc3T1FMU3hhM0RmSzZVMVBuc1A3b01meno1aC1vNEpTTC1SLUl1V1BmZ2NFd3VtbXFtODVjOExqWk5ZQjR5OGlrT3lHVVktWS0tM1pJS1RSbDJjLVpiYVBSb3RpNzBqV2sxekJIa3ZwLTRieHQzWXNoM1Q5VURQV193S29jSHF2dw?oc=5",
-      "data": "23/07 20:10"
-    },
-    {
-      "titulo": "Fluminense oficializa saída de zagueiro para o futebol português - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNTlnWlRhSV9PMWFEMnFZajZTRnM5VnZYQzMwRC04a2FQOTVQRzFCU1JJakVralZNaXhJei1yQUU2N1hIdUpLR0NsQThvTGF5a2tYQUdBSHhEUlN4SE16eVZleVptaVozRVd1WTUzb21NTVBPWHFvT050eFBXZGI5STliOXp1bHZIRGpXVHg2VVBlWUhFdzRvOGxvRWZzVmJ0U0MtX3RGQlNLenRqbHIyLThrYWtTa0VYekttQkh4ZzREM2hiS3FIYmxfQUl2a0NUckh3QWd2akhxQkhWZDN5QTVVMDVLSUJLbEkw?oc=5",
-      "data": "24/07 16:52"
     }
   ],
   "avisos": []
