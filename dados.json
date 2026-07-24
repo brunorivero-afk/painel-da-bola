@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/07/2026 09:24",
+  "atualizado_em": "24/07/2026 11:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -7,16 +7,6 @@
       "time": "19:00",
       "competition": "Brasileirão Feminino",
       "match": "Flamengo (F) x Grêmio (F)",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-24",
-      "time": "19:00",
-      "competition": "Brasileirão Feminino",
-      "match": "América MG (F) x Santos (F)",
       "channels": [
         "SPORTV"
       ]
@@ -48,7 +38,6 @@
       "competition": "Brasileirão Feminino",
       "match": "Internacional (F) x Fluminense (F)",
       "channels": [
-        "SPORTV",
         "NSPORTS"
       ]
     },
@@ -645,30 +634,30 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.4,
+      "temp_max": 21.8,
       "temp_min": 19.7,
-      "chance_chuva": 90,
+      "chance_chuva": 88,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.1,
-      "temp_min": 20.7,
-      "chance_chuva": 92,
+      "temp_max": 23.7,
+      "temp_min": 20.4,
+      "chance_chuva": 78,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.5,
-      "temp_min": 14.9,
-      "chance_chuva": 100,
+      "temp_max": 21.9,
+      "temp_min": 15.3,
+      "chance_chuva": 96,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.7,
-      "temp_min": 13.8,
-      "chance_chuva": 100,
+      "temp_max": 18.8,
+      "temp_min": 14.1,
+      "chance_chuva": 98,
       "condicao": "Garoa"
     }
   ],
