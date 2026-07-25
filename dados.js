@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/07/2026 13:07",
+  "atualizado_em": "25/07/2026 14:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "12:30",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x ADT",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-25",
@@ -25,20 +15,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Cerro Largo",
+      "competition": "Amistosos",
+      "match": "Standard Liege x Juventus",
       "channels": [
-        "DISNEY+"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Standard Liege x Juventus",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Cerro Largo",
       "channels": [
-        "SPORTYNET"
+        "DISNEY+"
       ]
     },
     {
@@ -201,6 +191,18 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "20:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Mirassol",
+      "channels": [
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
       "competition": "MLS",
       "match": "Montreal Impact x Inter Miami",
       "channels": [
@@ -265,18 +267,6 @@ window.PAINEL_DATA = {
       "match": "Carolina Core x Chicago FC United",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Mirassol",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
       ]
     },
     {
@@ -367,6 +357,16 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers x Real Salt Lake",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "12:30",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x ADT",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -605,7 +605,6 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Flamengo x São Paulo",
       "channels": [
-        "PREMIERE",
         "PREMIERE FC"
       ]
     },
@@ -976,13 +975,13 @@ window.PAINEL_DATA = {
   "noticias": [
     {
       "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ30gH8AUFVX3lxTE9xWThKQTQ0aVU2ZUFTM1plbDF5QnVuckJPWkl5MEQ0Vm9WN204LW9qSGNKRk42Y0lkNmxvckVSdEFZdjJTWnZOalBlVHVqWFVqZF9EN0FzanQtQjFnYU5QRkNGZXhtcFNVWFdJYlRDYzFaWTF0R1BfVEI1SkRRT181dU1TNW1IYnpfaDhvN2ptS2tTdWgxZXB5TTFqNWVDTWpRdm1BSllpM0sySERQVHJaNG11dmFRUEJvNVhsR3JiV3U1ZmdKc0ZxWHcxaDFya2FoSUhWNkFxSFR4MS1BRzFVQmx0MWVMQ0RPSkVuTHNMbU5CODdPWUZDTWxjLQ?oc=5",
       "data": "25/07 07:00"
     },
     {
-      "titulo": "Fluminense mergulha no verde de Laranjeiras em nova camisa - Galáticos Online",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3lLbUlGbmRwelNreXJBeXhVTlFVLXVXZUFHMGNNc0MxLWZoeVpjZEh5RW1QR0dPU19xQ2ROcTZYLXlGcmM3ZjBpS3RFaEhiMVRMWnI4VWY5QTBtd3E1YTV1d0xLQXlzcjBDeWhSbnhjaEUzNnJRUVY1OGdDZ0h5aE9GbG5aMjVoVGlDc3BnczRxUEcxenlKX1h6bk5uTGtORFFzbGJsN1VrbVZmQlZfVGpuelBvSzQ?oc=5",
-      "data": "24/07 02:04"
+      "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
+      "data": "23/07 16:56"
     },
     {
       "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
@@ -995,9 +994,9 @@ window.PAINEL_DATA = {
       "data": "23/07 20:10"
     },
     {
-      "titulo": "Fluminense decide vaga na final do Torneio OPG Sub-20 em casa e com reforços - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUlqQVhZbElqMTFrZFVyWmExbGhTQXdLMW85YkYzQURHai1rc3ZMMlBsRjltUkxrdE9tY2ZSVGFydEs3dW9yZF83YTJCUlZOX3ZxS1BDSTA3NDlISk4tRzVkcC1uSjN3dy1XdFZUMG81TGdKVXVGTElmTW5QaHdReHg4VkwtekZoWmF6U2VrV25UVkZ3Z1lNX2w4S2t2dmVlRTBnZFBETVI5dzAxYU5mUmVKSHE?oc=5",
-      "data": "25/07 13:00"
+      "titulo": "Fim de ciclo! Jogador se despede do Fluminense pelas redes sociais - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGlQUlluTlltc2lMeUIzSC1wd1hNYlEwOU1wNEdhM0tfc2FlZE53NUM5NTc1UzNFMVBGcHpjcnFhYldDa1c1U3VBaTlHMzc1Z2E2a0x3RVlFVGY4b2VHcldGYktmN0NUZHB4SzRoRktqT3NrN3B4QnNxTTJkQ0Q5Ukk4Y2kwX1QxbWc4bUhQRkhEOFA0MUZBd20xa0RMV3h6Tk1oRTRkdlg1TUdDOEpqR0xoTlhOenE4RVZWemg0YW9WNnZmazJ1clY4N1lXQWFRSTI5UHFxZ1dnVXRoRDJMRXViU0RFUzQ2Y2FJTQ?oc=5",
+      "data": "24/07 17:28"
     }
   ],
   "avisos": []
