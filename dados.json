@@ -1,26 +1,6 @@
 {
-  "atualizado_em": "25/07/2026 17:44",
+  "atualizado_em": "25/07/2026 18:51",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Portuguesa x Uberlandia",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Iguatu x Nacional AM",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-25",
@@ -77,10 +57,11 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Athletico PR x Internacional",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Itabaiana",
       "channels": [
-        "PRIME VIDEO"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -98,11 +79,10 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Itabaiana",
+      "competition": "Brasileirão Série A",
+      "match": "Athletico PR x Internacional",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -161,6 +141,18 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "20:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Mirassol",
+      "channels": [
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
       "competition": "MLS",
       "match": "Montreal Impact x Inter Miami",
       "channels": [
@@ -195,18 +187,6 @@
       "match": "New York City FC x Chicago Fire",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Mirassol",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
       ]
     },
     {
@@ -367,6 +347,26 @@
       "match": "Sport Huancayo x Atletico Grau",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Iguatu x Nacional AM",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Portuguesa x Uberlandia",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -773,16 +773,6 @@
     {
       "sport": "volei",
       "date": "2026-07-25",
-      "time": "17:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Circuito Mundial De Vôlei De Praia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-25",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -939,6 +929,16 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-25",
+      "time": "17:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Circuito Mundial De Vôlei De Praia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -988,14 +988,14 @@
       "data": "25/07 15:00"
     },
     {
-      "titulo": "Vaga na Libertadores e show de Soteldo: a última visita do Fluminense ao Grêmio pelo Brasileirão - Terra",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPb3FDQ0lrTWtVRDZ6UmJfWUhTd245SGtiREFCWW5HSDlTVVF5WG5rYXVJMWtJdnhxRFpKdkJsN1kyWVZfcHBmUGQ4VWJybGNnNE1SNGFheFdZR1RyV3JfeHRsa1Z2Mm9iOE9SZ04yMHZZV29lSFF2ZWxWdFRGamxiRjRJaHR1ZFRFaTEtUDhPVURqanFSckF4eFE1dmdFOVdReDduTV9STUJsR3kzajdKcnkyN2UybzJGSGZRRlRuSnYydlFPdG1vejRqTnB5U2tGX2huZ1cyN1NyWi1RWlFzQ056cDh5MHFWd2FMdDVyU01laTMwZG1uWi0tSkFxcG8zak8wTXRaQmxKUHNqSmpFUlhXZDc?oc=5",
-      "data": "25/07 11:01"
+      "titulo": "Escalação do Fluminense: Zubeldía faz mudanças na defesa para jogo contra o Grêmio - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVdlLXp5cGtGYzhsT0E5eGpmSk5VcnU5RW55Qk5KQzU1SFlPVEhWd1N2QzlOOTJMOHVwYllTcHczV2k0UGZfem9UMVNlQjBRaFFSbGdqQ3YyY1NEWWROdmw3SGZYQVRNWnhtV1ZlX0RBSEZDSkpDTzA0MUlhaXlleE1NVnlXQUZPMmdsT3NDcHlZR2dyaFFSbkQ3a2FqOU54VXFrdThvQzZmWVdzSlk3VWlFNFl5aUFYbFZzeURDYnVvYV9RdURQYm9UX2JlREtlNWtBajFfbS1peVh0Y2ZvOEpieDZ5R2s?oc=5",
+      "data": "25/07 21:26"
     },
     {
-      "titulo": "Fluminense blinda joia de Xerém com multa superior a R$ 350 milhões - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnFvWTUzcVJYOUpDNEhBdHJWSUlpQ25TYnhWbGFiaDlrOFpWSk03bmZJakUyOTdDQWU1eHFSZ3V0WlNLOTlDaEQ4MGozNk9GajJHeU1WTm0tUndPTDhabXl0YS02Uk91VmNESkpiamhscjd5WHBoMlhzSzhZdkF1NkFZenFtelFiS1ZpOHpKU0lrOXI4cDg2eg?oc=5",
-      "data": "25/07 18:40"
+      "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
+      "data": "25/07 20:35"
     }
   ],
   "avisos": []
