@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/07/2026 03:12",
+  "atualizado_em": "25/07/2026 05:57",
   "jogos": [
     {
       "sport": "futebol",
@@ -946,48 +946,48 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.3,
-      "temp_min": 18.6,
+      "temp_max": 23.1,
+      "temp_min": 19.4,
       "chance_chuva": 78,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.2,
-      "temp_min": 17.8,
+      "temp_max": 23.8,
+      "temp_min": 18.5,
       "chance_chuva": 76,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.5,
-      "temp_min": 15.5,
+      "temp_max": 22.1,
+      "temp_min": 15.2,
       "chance_chuva": 88,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.6,
-      "temp_min": 14.2,
+      "temp_max": 21.9,
+      "temp_min": 14.5,
       "chance_chuva": 94,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Grêmio x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDM1UGMwcms3SUgzTTMwaFNBaDZKSDRfN3NwVkJySDdVc0c0MEw1Q1FKVTNtYmU5RzB3Y2k1eEI0NEgxSEpkZUdDdXg0R2h0YlZWMjl5WmFVOW1fRlFHSzRjN2Zna0ZtSkUwRW56eWVEMFYtSGtpUHFfS0tINEluaVJTR1hVY0VFa3h1cGRvZnpfbnNROE12aFZsczlyQkt5X2dGTmdJaw?oc=5",
-      "data": "22/07 21:11"
+      "titulo": "Grêmio x Fluminense Palpite – Análise e notícias (26/07) - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZW1zNkh1U3ZlWmctTVRVOUREVWNxUjlRS3RPZk5mWVdkX0FpR0Yza0RpQVhXd1BWYmdVclNYaWhyQXdsQ19MY0p5aFRSTWhQZENmMjBmQmE2WVlndW5ySUZzSVhBT0FpUG1rTjlyQ1hVdjJmZUVvQUZWNUlxRXg3aU5wVWpTM244ZlVFUmppQQ?oc=5",
+      "data": "25/07 04:06"
     },
     {
-      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - GE",
+      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
       "data": "24/07 19:23"
     },
     {
-      "titulo": "Grêmio x Fluminense Palpite – Análise e notícias (26/07) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZW1zNkh1U3ZlWmctTVRVOUREVWNxUjlRS3RPZk5mWVdkX0FpR0Yza0RpQVhXd1BWYmdVclNYaWhyQXdsQ19MY0p5aFRSTWhQZENmMjBmQmE2WVlndW5ySUZzSVhBT0FpUG1rTjlyQ1hVdjJmZUVvQUZWNUlxRXg3aU5wVWpTM244ZlVFUmppQQ?oc=5",
-      "data": "25/07 04:06"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Grêmio x Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDM1UGMwcms3SUgzTTMwaFNBaDZKSDRfN3NwVkJySDdVc0c0MEw1Q1FKVTNtYmU5RzB3Y2k1eEI0NEgxSEpkZUdDdXg0R2h0YlZWMjl5WmFVOW1fRlFHSzRjN2Zna0ZtSkUwRW56eWVEMFYtSGtpUHFfS0tINEluaVJTR1hVY0VFa3h1cGRvZnpfbnNROE12aFZsczlyQkt5X2dGTmdJaw?oc=5",
+      "data": "22/07 21:11"
     },
     {
       "titulo": "Fluminense mergulha no verde de Laranjeiras em nova camisa - Galáticos Online",
@@ -995,7 +995,7 @@
       "data": "24/07 02:04"
     },
     {
-      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - GE",
+      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWUtck0xU0Z1Q1JNc2VpMVhLQWFOX0JGSFRnQ2ZUUUNNRlFPaURXbi1wYXdQYW1sYmRTUWp2emNVdFVOTHBTa3Y0OHRPLV9yY3JXcWdxTDBiNXFCSVlTbFJrYnI1RUp2azV2OGcta1NGVl9UMW5KQW5SdGtLV0x2U2l5d0thWjNSSFl1UUZPUHYzNS1VZWR3MG9GRy1jbVRYWnpyVjdXMXhKTmQ2Yk11MkZsRlZNc3ZyYVQ2ZXBKWnFZX3FmV1ZubUkyaC1Dd9IB3AFBVV95cUxOMHBYVGxnME5YdzBTS2hoWjRSX0VBaF92TjBaZncyRTg4Y2pZZ2QtVGFDWUtJVjFJOXdFS0MxWTNHZUhzelplbGt4UF9aM0FORk9PUmZJV2lJWUthZmJWeENvblpiUEdRT0JLWkNMRHlpNUlHaGxmMkJ1aDcyWGRTX0phUVBHMnJ4ZDd5M2JERUgwbmhHOUJCVWwtMGdDS29wWVp2VEk4ZVFSWExpeVptVE5pUDg1VldsRFBhOUdoSFJMOVdBVmpsWFJYaU5KYmtRX0VpSXR0VkV2MUpC?oc=5",
       "data": "23/07 15:13"
     }
