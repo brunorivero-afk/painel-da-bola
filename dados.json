@@ -1,36 +1,6 @@
 {
-  "atualizado_em": "25/07/2026 16:01",
+  "atualizado_em": "25/07/2026 17:44",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Huancayo x Atletico Grau",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Standard Liege x Juventus",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-25",
@@ -139,21 +109,21 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "19:00",
-      "competition": "Brasileirão Série C",
-      "match": "Volta Redonda x Anápolis",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Itapirense U20",
       "channels": [
-        "SPORTYNET"
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "19:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Itapirense U20",
+      "competition": "Brasileirão Série C",
+      "match": "Volta Redonda x Anápolis",
       "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
+        "SPORTYNET"
       ]
     },
     {
@@ -185,18 +155,6 @@
       "match": "Columbus Crew x FC Cincinnati",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Mirassol",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
       ]
     },
     {
@@ -237,6 +195,18 @@
       "match": "New York City FC x Chicago Fire",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Mirassol",
+      "channels": [
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
       ]
     },
     {
@@ -284,7 +254,7 @@
       "date": "2026-07-25",
       "time": "21:30",
       "competition": "MLS",
-      "match": "St. Louis City x Colorado Rapids",
+      "match": "Houston Dynamo x Austin",
       "channels": [
         "APPLE TV"
       ]
@@ -294,7 +264,7 @@
       "date": "2026-07-25",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Houston Dynamo x Austin",
+      "match": "St. Louis City x Colorado Rapids",
       "channels": [
         "APPLE TV"
       ]
@@ -365,6 +335,36 @@
       "time": "12:30",
       "competition": "Campeonato Peruano",
       "match": "Sport Boys x ADT",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Cerro Largo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Standard Liege x Juventus",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Huancayo x Atletico Grau",
       "channels": [
         "FANATIZ"
       ]
@@ -773,16 +773,6 @@
     {
       "sport": "volei",
       "date": "2026-07-25",
-      "time": "16:50",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Circuito Mundial De Vôlei De Praia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-25",
       "time": "17:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -939,6 +929,16 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-25",
+      "time": "16:50",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Circuito Mundial De Vôlei De Praia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -978,19 +978,19 @@
       "data": "25/07 07:00"
     },
     {
-      "titulo": "Fim de ciclo! Jogador se despede do Fluminense pelas redes sociais - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGlQUlluTlltc2lMeUIzSC1wd1hNYlEwOU1wNEdhM0tfc2FlZE53NUM5NTc1UzNFMVBGcHpjcnFhYldDa1c1U3VBaTlHMzc1Z2E2a0x3RVlFVGY4b2VHcldGYktmN0NUZHB4SzRoRktqT3NrN3B4QnNxTTJkQ0Q5Ukk4Y2kwX1QxbWc4bUhQRkhEOFA0MUZBd20xa0RMV3h6Tk1oRTRkdlg1TUdDOEpqR0xoTlhOenE4RVZWemg0YW9WNnZmazJ1clY4N1lXQWFRSTI5UHFxZ1dnVXRoRDJMRXViU0RFUzQ2Y2FJTQ?oc=5",
-      "data": "24/07 17:28"
+      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
+      "data": "24/07 19:23"
     },
     {
-      "titulo": "Ex-Fluminense, Davi Schuindt se manifesta após ser anunciado em Portugal - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2hJaVNlekIyWnBNRkJkQXgySmRsd3V5YnJuR2ttei05N2k2MFdEZjJFaG8xSm1wU3M2Zm5OQjcxR3VXQ0hYSGlUUWhUNmp5NzJUME5BNTQzdUUtUHlUOWNDZDdEV09JUmdGUTJfTlZoUjFNRk1tUGRFX0l4ckdhWWppTzlyTU05ckdEMjRiWEVjdGtSWk90a3R5RjdpdDdLSkwzNVlzTG9GZmM1blMtQWdn?oc=5",
+      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTE5LQlRJNFAxYkdlT0x5SVBBRmltelVpMngwV3FtYjRuczVuN05IaElyR2VSeGUwa0ZiNWJVVG1zaTg0Z0pFTHBWSTFfanZaMV9rTWRjN2RVQTNka05rVjlRS2piQ3BJdmJvZXhlWERjZ2RMZDl0N1R0cEhDVVctSzB5d0ltQWxCdTV3ZkVHNU4ycy1HSUhGSURVdC1scF9KLVZLeDUwS3VRMFF5YWl5OGlJRU0ta05jdmxhSGFJc1ZfOVJTaFNiSHZ4cERYNDhHY0NrS01ZdkEtUF92NE9rN0dOUWxZM20tV2p0YjlJdkotUQ?oc=5",
       "data": "25/07 15:00"
     },
     {
-      "titulo": "Depois de Bernal, Fluminense acerta nova venda para o futebol europeu - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFcxQ0dyanlqdzNKYTdNTlJQU3hibHpwWFU0bGJUOFF4cHZ5aUgwU3NaNTA3WnJnck9BWDAtaV9PT0I0WVFfWFlrZjd5cnhWb3lSYU1IY2Noa1ZsVnZzTmxib2I3ZHlZdGlXYzR5bklyRGVwc2lSNnBmMk9TS0lqUmhZMzVKSEZrZjExQndUVi16SDRqQlNHd2FoeFJ4anN4V0VKdjdPTWY?oc=5",
-      "data": "24/07 17:42"
+      "titulo": "Vaga na Libertadores e show de Soteldo: a última visita do Fluminense ao Grêmio pelo Brasileirão - Terra",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPb3FDQ0lrTWtVRDZ6UmJfWUhTd245SGtiREFCWW5HSDlTVVF5WG5rYXVJMWtJdnhxRFpKdkJsN1kyWVZfcHBmUGQ4VWJybGNnNE1SNGFheFdZR1RyV3JfeHRsa1Z2Mm9iOE9SZ04yMHZZV29lSFF2ZWxWdFRGamxiRjRJaHR1ZFRFaTEtUDhPVURqanFSckF4eFE1dmdFOVdReDduTV9STUJsR3kzajdKcnkyN2UybzJGSGZRRlRuSnYydlFPdG1vejRqTnB5U2tGX2huZ1cyN1NyWi1RWlFzQ056cDh5MHFWd2FMdDVyU01laTMwZG1uWi0tSkFxcG8zak8wTXRaQmxKUHNqSmpFUlhXZDc?oc=5",
+      "data": "25/07 11:01"
     },
     {
       "titulo": "Fluminense blinda joia de Xerém com multa superior a R$ 350 milhões - netflu.com.br",
