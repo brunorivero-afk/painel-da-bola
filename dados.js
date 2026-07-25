@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/07/2026 14:56",
+  "atualizado_em": "25/07/2026 16:01",
   "jogos": [
     {
       "sport": "futebol",
@@ -438,7 +438,7 @@ window.PAINEL_DATA = {
       "match": "Bahia x Corinthians",
       "channels": [
         "GLOBO",
-        "PREMIERE",
+        "PREMIERE 5",
         "GE TV"
       ]
     },
@@ -472,8 +472,8 @@ window.PAINEL_DATA = {
       "match": "São Bernardo x Ceará",
       "channels": [
         "GLOBO",
-        "PREMIERE 6",
-        "SPORTV"
+        "SPORTV",
+        "PREMIERE 6"
       ]
     },
     {
@@ -594,7 +594,6 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "RB Bragantino x Coritiba",
       "channels": [
-        "PREMIERE",
         "PREMIERE 5"
       ]
     },
@@ -948,18 +947,18 @@ window.PAINEL_DATA = {
       "temp_max": 22.9,
       "temp_min": 19.1,
       "chance_chuva": 100,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.8,
+      "temp_max": 24.0,
       "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.4,
+      "temp_max": 22.0,
       "temp_min": 15.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -967,36 +966,36 @@ window.PAINEL_DATA = {
     {
       "cidade": "Teresópolis",
       "temp_max": 20.9,
-      "temp_min": 14.5,
+      "temp_min": 14.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - ge",
+      "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - GE",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ30gH8AUFVX3lxTE9xWThKQTQ0aVU2ZUFTM1plbDF5QnVuckJPWkl5MEQ0Vm9WN204LW9qSGNKRk42Y0lkNmxvckVSdEFZdjJTWnZOalBlVHVqWFVqZF9EN0FzanQtQjFnYU5QRkNGZXhtcFNVWFdJYlRDYzFaWTF0R1BfVEI1SkRRT181dU1TNW1IYnpfaDhvN2ptS2tTdWgxZXB5TTFqNWVDTWpRdm1BSllpM0sySERQVHJaNG11dmFRUEJvNVhsR3JiV3U1ZmdKc0ZxWHcxaDFya2FoSUhWNkFxSFR4MS1BRzFVQmx0MWVMQ0RPSkVuTHNMbU5CODdPWUZDTWxjLQ?oc=5",
       "data": "25/07 07:00"
-    },
-    {
-      "titulo": "Terceiro uniforme do Flu agradada torcedores nas redes: 'Incrível' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkY3T0xXa2JlUVBLVzVUWUV5NHpRNmY2U0NkSmRweDMzZkVFZ1VjeGVoQ2YtWEZuMnB6V3hUcnNRN3J0c2diSE9pTmdyOEI3UHVZXzhGVDNobDlaRDlIMW5mZWFoZ0lXWS0xMEtzTm1XeVVJVG8yVEpvRm1DbUhrUWFiRGk0UHpNaS1aR19HZ210d1BWTlNsZEpjV0paSThrVzh2ZG1xNjFPMFA0Q05RQlZ6SDRtWURPelZkN2xwSDNoeURp0gHKAUFVX3lxTE5BbUtIRVVLOVVzR0JWaHAzbi0tVFYwM1lRZ2hyTnhMSUpIZFNoOGFKT2k0TUFGM2RITGNoQzBmNHFYX01WLWtLUFVOQVdLZDl4R21yMlBHYkY0NE9uM1hGN3R6YURDQ2ExZFVTaW1aclprOG1XclpXMWlIZTJodkstQTdVdTd0d3FVNXdNZGhQdkE2V2xMRG0tTGxBR1dUcjY4ZWVHWlhpSXJjcDZzWWk5ZGFWajBLMjhQU2VzNkY4SlJ3U2ctdVFNS0E?oc=5",
-      "data": "23/07 16:56"
-    },
-    {
-      "titulo": "Com Thiago Silva, Hulk e Samuel Xavier, Fluminense lança terceiro uniforme para a temporada; veja fotos - ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWUtck0xU0Z1Q1JNc2VpMVhLQWFOX0JGSFRnQ2ZUUUNNRlFPaURXbi1wYXdQYW1sYmRTUWp2emNVdFVOTHBTa3Y0OHRPLV9yY3JXcWdxTDBiNXFCSVlTbFJrYnI1RUp2azV2OGcta1NGVl9UMW5KQW5SdGtLV0x2U2l5d0thWjNSSFl1UUZPUHYzNS1VZWR3MG9GRy1jbVRYWnpyVjdXMXhKTmQ2Yk11MkZsRlZNc3ZyYVQ2ZXBKWnFZX3FmV1ZubUkyaC1Dd9IB3AFBVV95cUxOMHBYVGxnME5YdzBTS2hoWjRSX0VBaF92TjBaZncyRTg4Y2pZZ2QtVGFDWUtJVjFJOXdFS0MxWTNHZUhzelplbGt4UF9aM0FORk9PUmZJV2lJWUthZmJWeENvblpiUEdRT0JLWkNMRHlpNUlHaGxmMkJ1aDcyWGRTX0phUVBHMnJ4ZDd5M2JERUgwbmhHOUJCVWwtMGdDS29wWVp2VEk4ZVFSWExpeVptVE5pUDg1VldsRFBhOUdoSFJMOVdBVmpsWFJYaU5KYmtRX0VpSXR0VkV2MUpC?oc=5",
-      "data": "23/07 15:13"
-    },
-    {
-      "titulo": "Nova camisa do Fluminense custa 11 dias de trabalho para quem recebe salário mínimo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXhpWmVyRm93RzRKQWY0azZYQjFEQjB5eDRXOXZqMUVwYkxGTUExanE1VFM1RWRodDM2STNacU9hVTc3T1FMU3hhM0RmSzZVMVBuc1A3b01meno1aC1vNEpTTC1SLUl1V1BmZ2NFd3VtbXFtODVjOExqWk5ZQjR5OGlrT3lHVVktWS0tM1pJS1RSbDJjLVpiYVBSb3RpNzBqV2sxekJIa3ZwLTRieHQzWXNoM1Q5VURQV193S29jSHF2dw?oc=5",
-      "data": "23/07 20:10"
     },
     {
       "titulo": "Fim de ciclo! Jogador se despede do Fluminense pelas redes sociais - Terra",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObGlQUlluTlltc2lMeUIzSC1wd1hNYlEwOU1wNEdhM0tfc2FlZE53NUM5NTc1UzNFMVBGcHpjcnFhYldDa1c1U3VBaTlHMzc1Z2E2a0x3RVlFVGY4b2VHcldGYktmN0NUZHB4SzRoRktqT3NrN3B4QnNxTTJkQ0Q5Ukk4Y2kwX1QxbWc4bUhQRkhEOFA0MUZBd20xa0RMV3h6Tk1oRTRkdlg1TUdDOEpqR0xoTlhOenE4RVZWemg0YW9WNnZmazJ1clY4N1lXQWFRSTI5UHFxZ1dnVXRoRDJMRXViU0RFUzQ2Y2FJTQ?oc=5",
       "data": "24/07 17:28"
+    },
+    {
+      "titulo": "Ex-Fluminense, Davi Schuindt se manifesta após ser anunciado em Portugal - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2hJaVNlekIyWnBNRkJkQXgySmRsd3V5YnJuR2ttei05N2k2MFdEZjJFaG8xSm1wU3M2Zm5OQjcxR3VXQ0hYSGlUUWhUNmp5NzJUME5BNTQzdUUtUHlUOWNDZDdEV09JUmdGUTJfTlZoUjFNRk1tUGRFX0l4ckdhWWppTzlyTU05ckdEMjRiWEVjdGtSWk90a3R5RjdpdDdLSkwzNVlzTG9GZmM1blMtQWdn?oc=5",
+      "data": "25/07 15:00"
+    },
+    {
+      "titulo": "Depois de Bernal, Fluminense acerta nova venda para o futebol europeu - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFcxQ0dyanlqdzNKYTdNTlJQU3hibHpwWFU0bGJUOFF4cHZ5aUgwU3NaNTA3WnJnck9BWDAtaV9PT0I0WVFfWFlrZjd5cnhWb3lSYU1IY2Noa1ZsVnZzTmxib2I3ZHlZdGlXYzR5bklyRGVwc2lSNnBmMk9TS0lqUmhZMzVKSEZrZjExQndUVi16SDRqQlNHd2FoeFJ4anN4V0VKdjdPTWY?oc=5",
+      "data": "24/07 17:42"
+    },
+    {
+      "titulo": "Fluminense blinda joia de Xerém com multa superior a R$ 350 milhões - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnFvWTUzcVJYOUpDNEhBdHJWSUlpQ25TYnhWbGFiaDlrOFpWSk03bmZJakUyOTdDQWU1eHFSZ3V0WlNLOTlDaEQ4MGozNk9GajJHeU1WTm0tUndPTDhabXl0YS02Uk91VmNESkpiamhscjd5WHBoMlhzSzhZdkF1NkFZenFtelFiS1ZpOHpKU0lrOXI4cDg2eg?oc=5",
+      "data": "25/07 18:40"
     }
   ],
   "avisos": []
