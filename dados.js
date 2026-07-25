@@ -1,48 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/07/2026 19:50",
+  "atualizado_em": "25/07/2026 20:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "18:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Liverpool Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Athletico PR x Internacional",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Santos x Chapecoense-sc",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Itabaiana",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-25",
@@ -51,17 +9,6 @@ window.PAINEL_DATA = {
       "match": "Volta Redonda x Anápolis",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "19:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Itapirense U20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
       ]
     },
     {
@@ -109,10 +56,12 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "20:30",
-      "competition": "MLS",
-      "match": "New England x Atlanta United FC",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Mirassol",
       "channels": [
-        "APPLE TV"
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
       ]
     },
     {
@@ -120,17 +69,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-25",
       "time": "20:30",
       "competition": "MLS",
-      "match": "New York City FC x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x Nashville SC",
+      "match": "Montreal Impact x Inter Miami",
       "channels": [
         "APPLE TV"
       ]
@@ -150,7 +89,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-25",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Montreal Impact x Inter Miami",
+      "match": "New York City FC x Chicago Fire",
       "channels": [
         "APPLE TV"
       ]
@@ -159,12 +98,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Mirassol",
+      "competition": "MLS",
+      "match": "New England x Atlanta United FC",
       "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
+        "APPLE TV"
       ]
     },
     {
@@ -242,6 +179,16 @@ window.PAINEL_DATA = {
       "date": "2026-07-25",
       "time": "23:30",
       "competition": "MLS",
+      "match": "Portland Timbers x Real Salt Lake",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "23:30",
+      "competition": "MLS",
       "match": "Los Angeles FC x Sporting Kansas City",
       "channels": [
         "APPLE TV"
@@ -253,16 +200,6 @@ window.PAINEL_DATA = {
       "time": "23:30",
       "competition": "MLS",
       "match": "San Jose Earthquakes x Los Angeles Galaxy",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Portland Timbers x Real Salt Lake",
       "channels": [
         "APPLE TV"
       ]
@@ -367,6 +304,69 @@ window.PAINEL_DATA = {
       "match": "Juan Pablo II College x Cienciano",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Itabaiana",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Santos x Chapecoense-sc",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Athletico PR x Internacional",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Itapirense U20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Orlando City SC x Nashville SC",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -773,16 +773,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-25",
-      "time": "18:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Copa Sul-Americana Feminina de Vôlei",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-25",
       "time": "20:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -939,6 +929,16 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-25",
+      "time": "18:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Copa Sul-Americana Feminina de Vôlei",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -973,14 +973,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - GE",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ30gH8AUFVX3lxTE9xWThKQTQ0aVU2ZUFTM1plbDF5QnVuckJPWkl5MEQ0Vm9WN204LW9qSGNKRk42Y0lkNmxvckVSdEFZdjJTWnZOalBlVHVqWFVqZF9EN0FzanQtQjFnYU5QRkNGZXhtcFNVWFdJYlRDYzFaWTF0R1BfVEI1SkRRT181dU1TNW1IYnpfaDhvN2ptS2tTdWgxZXB5TTFqNWVDTWpRdm1BSllpM0sySERQVHJaNG11dmFRUEJvNVhsR3JiV3U1ZmdKc0ZxWHcxaDFya2FoSUhWNkFxSFR4MS1BRzFVQmx0MWVMQ0RPSkVuTHNMbU5CODdPWUZDTWxjLQ?oc=5",
-      "data": "25/07 07:00"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - GE",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
-      "data": "24/07 19:23"
+      "titulo": "Yago Ferreira volta ao Fluminense após empréstimo ao Majd FC, dos Emirados Árabes - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnFJamJpOUlJX3JsVWhCa1hkaEltNmwwTlI4b1BRbURkei05MWU2aFVLWWd6S2NnYUxSRTNtOXFZMEFCRFhLMExnOFM5aWhuUlRyc1VjSzdXa0dkRUVsb0ZCM0pXMXVJTXNTYTdHTU5UWXF2ajJZYnlNbkdDOUxod2tudHE1ZG1hYzBqbVV5NmFNV1RUTjRkbmh2VmFkZVhya20zcGFTQ3NlZXd1T0hDcm1yeXFPVUdUaGwwSi0wUGcxZTBxRVlld2pJSkIzNHhsQ2Jjd0lXYkEzcHFUQVdfRzM4UEdtd9IB9AFBVV95cUxQd3Fzcy1SOWJNYnhvTkN1TURadHplZXNmdkxQNE5nVUczN3FSRFhYSlYyQUxpQjh2Mlp2eU5zcDFTQTdHd3hpSjJJLUpLTVNNTDNRQXhuVlBMRUIwcE42RGNMdDFxT1dyclI5UjhJX0VGNmVwYUNvRlYzS1gyd2xjelRPT2R6MktWaVNMcmhiTFpWdVloa2M5bWI2ZERFbjZjZFBvV3c5cGZVR1h5MFVVZEU4LU5pS05iLUpBMEpsV3BQZDJ3b19qajNZaGg3YTBScFhyNmlHd1NQUXp2bzNRblBTejRiRzJWNEotRG16ZEIwQTBF?oc=5",
+      "data": "24/07 16:19"
     },
     {
       "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
@@ -988,14 +983,19 @@ window.PAINEL_DATA = {
       "data": "25/07 20:35"
     },
     {
-      "titulo": "Fluminense blinda joia de Xerém com multa superior a R$ 350 milhões - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnFvWTUzcVJYOUpDNEhBdHJWSUlpQ25TYnhWbGFiaDlrOFpWSk03bmZJakUyOTdDQWU1eHFSZ3V0WlNLOTlDaEQ4MGozNk9GajJHeU1WTm0tUndPTDhabXl0YS02Uk91VmNESkpiamhscjd5WHBoMlhzSzhZdkF1NkFZenFtelFiS1ZpOHpKU0lrOXI4cDg2eg?oc=5",
-      "data": "25/07 18:40"
+      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
+      "data": "24/07 19:23"
     },
     {
       "titulo": "Feminino: Fifa visita Vasco, Botafogo e Fluminense para treinos da Copa do Mundo 2027; Urubu não libera CT - NETVASCO",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTR6OWdjakJUVEZQV0ZBRXZPRDRnTTk4Y3V1UThJbDAzelVuSEhBOV9EdGFBSEx0cUg1alkxMUVlQWdfbXpEdmF3SGRNS2ZVUnF0UFhLeGFiS2N3V1pfOUUtMllSaTlHWHhHU1R1QlhEenYwTWtXS2Z0WWJTbzNBS0h3bnFBbGpNbTM2dWV3U0dTQk9VWnFsM2dEaVZ2VmNramw1dlR4Vno5LUpFelZrYTBCR0RKQXgtMWJHeEpQY2FpMjZxZXFiVXJSSjRMRkxJUU9YYnViNA?oc=5",
       "data": "25/07 02:16"
+    },
+    {
+      "titulo": "Avó e bisavó catavam latinhas para levar joia do Fluminense aos treinos - DPF » De torcedor para torcedor",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkE1OWpNbzFfS3c1QVVLU3FRLUJ3NXpqS3lTS0JfamJUaXZuWm5WWnZnUlJDVVdfTnpKQXlUNmlKcVRVRGdyRk14RWE4d3hXTldPWDZpV2dqaFZNZmw3VWFiaUpVdmQtVEFqbERNQkNla0ZuYnA5ZTZIeFItTlpOTzhsMGd1V0N20gGIAUFVX3lxTE1SQTU5ak1vMV9LdzVBVUtTcVEtQnc1empLeVNLQl9qYlRpdm5ablZadmdSUkNVV19OekpBeVQ2aUpxVFVEZ3JGTXhFYTh3eFdOV09YNmlXZ2poVk1mbDdVYWJpSlV2ZC1UQWpsRE1CQ2VrRm5icDllNkh4Ui1OWk5POGwwZ3VXQ3Y?oc=5",
+      "data": "25/07 13:10"
     }
   ],
   "avisos": []
