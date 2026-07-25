@@ -1,48 +1,6 @@
 {
-  "atualizado_em": "25/07/2026 18:51",
+  "atualizado_em": "25/07/2026 19:50",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Newells Old Boys x Talleres Cordoba",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Figueirense",
-      "channels": [
-        "BAND",
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ferroviária x Maranhão",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "17:15",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Cienciano",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-25",
@@ -57,11 +15,10 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Itabaiana",
+      "competition": "Brasileirão Série A",
+      "match": "Athletico PR x Internacional",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -79,20 +36,10 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Athletico PR x Internacional",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Itabaiana",
       "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "19:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Itapirense U20",
-      "channels": [
-        "YOUTUBE",
+        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -104,6 +51,17 @@
       "match": "Volta Redonda x Anápolis",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Itapirense U20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -141,50 +99,8 @@
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Mirassol",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
       "competition": "MLS",
-      "match": "Montreal Impact x Inter Miami",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Philadelphia Union x Seattle Sounders",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York City FC x Chicago Fire",
+      "match": "DC United x Toronto FC",
       "channels": [
         "APPLE TV"
       ]
@@ -204,9 +120,51 @@
       "date": "2026-07-25",
       "time": "20:30",
       "competition": "MLS",
-      "match": "DC United x Toronto FC",
+      "match": "New York City FC x Chicago Fire",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Orlando City SC x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Philadelphia Union x Seattle Sounders",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x Inter Miami",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Mirassol",
+      "channels": [
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
       ]
     },
     {
@@ -367,6 +325,48 @@
       "match": "Portuguesa x Uberlandia",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ferroviária x Maranhão",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Figueirense",
+      "channels": [
+        "BAND",
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Talleres Cordoba",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "17:15",
+      "competition": "Campeonato Peruano",
+      "match": "Juan Pablo II College x Cienciano",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -983,19 +983,19 @@
       "data": "24/07 19:23"
     },
     {
-      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTE5LQlRJNFAxYkdlT0x5SVBBRmltelVpMngwV3FtYjRuczVuN05IaElyR2VSeGUwa0ZiNWJVVG1zaTg0Z0pFTHBWSTFfanZaMV9rTWRjN2RVQTNka05rVjlRS2piQ3BJdmJvZXhlWERjZ2RMZDl0N1R0cEhDVVctSzB5d0ltQWxCdTV3ZkVHNU4ycy1HSUhGSURVdC1scF9KLVZLeDUwS3VRMFF5YWl5OGlJRU0ta05jdmxhSGFJc1ZfOVJTaFNiSHZ4cERYNDhHY0NrS01ZdkEtUF92NE9rN0dOUWxZM20tV2p0YjlJdkotUQ?oc=5",
-      "data": "25/07 15:00"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Zubeldía faz mudanças na defesa para jogo contra o Grêmio - GE",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVdlLXp5cGtGYzhsT0E5eGpmSk5VcnU5RW55Qk5KQzU1SFlPVEhWd1N2QzlOOTJMOHVwYllTcHczV2k0UGZfem9UMVNlQjBRaFFSbGdqQ3YyY1NEWWROdmw3SGZYQVRNWnhtV1ZlX0RBSEZDSkpDTzA0MUlhaXlleE1NVnlXQUZPMmdsT3NDcHlZR2dyaFFSbkQ3a2FqOU54VXFrdThvQzZmWVdzSlk3VWlFNFl5aUFYbFZzeURDYnVvYV9RdURQYm9UX2JlREtlNWtBajFfbS1peVh0Y2ZvOEpieDZ5R2s?oc=5",
-      "data": "25/07 21:26"
-    },
-    {
       "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
       "data": "25/07 20:35"
+    },
+    {
+      "titulo": "Fluminense blinda joia de Xerém com multa superior a R$ 350 milhões - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnFvWTUzcVJYOUpDNEhBdHJWSUlpQ25TYnhWbGFiaDlrOFpWSk03bmZJakUyOTdDQWU1eHFSZ3V0WlNLOTlDaEQ4MGozNk9GajJHeU1WTm0tUndPTDhabXl0YS02Uk91VmNESkpiamhscjd5WHBoMlhzSzhZdkF1NkFZenFtelFiS1ZpOHpKU0lrOXI4cDg2eg?oc=5",
+      "data": "25/07 18:40"
+    },
+    {
+      "titulo": "Feminino: Fifa visita Vasco, Botafogo e Fluminense para treinos da Copa do Mundo 2027; Urubu não libera CT - NETVASCO",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTR6OWdjakJUVEZQV0ZBRXZPRDRnTTk4Y3V1UThJbDAzelVuSEhBOV9EdGFBSEx0cUg1alkxMUVlQWdfbXpEdmF3SGRNS2ZVUnF0UFhLeGFiS2N3V1pfOUUtMllSaTlHWHhHU1R1QlhEenYwTWtXS2Z0WWJTbzNBS0h3bnFBbGpNbTM2dWV3U0dTQk9VWnFsM2dEaVZ2VmNramw1dlR4Vno5LUpFelZrYTBCR0RKQXgtMWJHeEpQY2FpMjZxZXFiVXJSSjRMRkxJUU9YYnViNA?oc=5",
+      "data": "25/07 02:16"
     }
   ],
   "avisos": []
