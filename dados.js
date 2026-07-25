@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/07/2026 08:59",
+  "atualizado_em": "25/07/2026 10:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -775,16 +775,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-25",
-      "time": "08:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "China x Turquia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-25",
       "time": "16:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -941,33 +931,43 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-25",
+      "time": "08:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "China x Turquia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.1,
-      "temp_min": 19.4,
+      "temp_max": 22.9,
+      "temp_min": 19.1,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.8,
-      "temp_min": 18.5,
+      "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.1,
-      "temp_min": 15.2,
+      "temp_max": 22.4,
+      "temp_min": 15.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.9,
+      "temp_max": 20.9,
       "temp_min": 14.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -975,9 +975,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Yago Ferreira volta ao Fluminense após empréstimo ao Majd FC, dos Emirados Árabes - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnFJamJpOUlJX3JsVWhCa1hkaEltNmwwTlI4b1BRbURkei05MWU2aFVLWWd6S2NnYUxSRTNtOXFZMEFCRFhLMExnOFM5aWhuUlRyc1VjSzdXa0dkRUVsb0ZCM0pXMXVJTXNTYTdHTU5UWXF2ajJZYnlNbkdDOUxod2tudHE1ZG1hYzBqbVV5NmFNV1RUTjRkbmh2VmFkZVhya20zcGFTQ3NlZXd1T0hDcm1yeXFPVUdUaGwwSi0wUGcxZTBxRVlld2pJSkIzNHhsQ2Jjd0lXYkEzcHFUQVdfRzM4UEdtd9IB9AFBVV95cUxQd3Fzcy1SOWJNYnhvTkN1TURadHplZXNmdkxQNE5nVUczN3FSRFhYSlYyQUxpQjh2Mlp2eU5zcDFTQTdHd3hpSjJJLUpLTVNNTDNRQXhuVlBMRUIwcE42RGNMdDFxT1dyclI5UjhJX0VGNmVwYUNvRlYzS1gyd2xjelRPT2R6MktWaVNMcmhiTFpWdVloa2M5bWI2ZERFbjZjZFBvV3c5cGZVR1h5MFVVZEU4LU5pS05iLUpBMEpsV3BQZDJ3b19qajNZaGg3YTBScFhyNmlHd1NQUXp2bzNRblBTejRiRzJWNEotRG16ZEIwQTBF?oc=5",
-      "data": "24/07 16:19"
+      "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ3?oc=5",
+      "data": "25/07 07:00"
     },
     {
       "titulo": "Fluminense mergulha no verde de Laranjeiras em nova camisa - Galáticos Online",
