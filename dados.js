@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/07/2026 05:57",
+  "atualizado_em": "25/07/2026 07:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -775,16 +775,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-25",
-      "time": "04:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Itália",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-25",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Turquia",
@@ -941,6 +931,16 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-25",
+      "time": "04:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Itália",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -948,41 +948,41 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 23.1,
       "temp_min": 19.4,
-      "chance_chuva": 78,
+      "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.8,
       "temp_min": 18.5,
-      "chance_chuva": 76,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.1,
       "temp_min": 15.2,
-      "chance_chuva": 88,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 21.9,
       "temp_min": 14.5,
-      "chance_chuva": 94,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Grêmio x Fluminense Palpite – Análise e notícias (26/07) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZW1zNkh1U3ZlWmctTVRVOUREVWNxUjlRS3RPZk5mWVdkX0FpR0Yza0RpQVhXd1BWYmdVclNYaWhyQXdsQ19MY0p5aFRSTWhQZENmMjBmQmE2WVlndW5ySUZzSVhBT0FpUG1rTjlyQ1hVdjJmZUVvQUZWNUlxRXg3aU5wVWpTM244ZlVFUmppQQ?oc=5",
-      "data": "25/07 04:06"
-    },
-    {
       "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
       "data": "24/07 19:23"
+    },
+    {
+      "titulo": "Grêmio x Fluminense Palpite – Análise e notícias (26/07) - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZW1zNkh1U3ZlWmctTVRVOUREVWNxUjlRS3RPZk5mWVdkX0FpR0Yza0RpQVhXd1BWYmdVclNYaWhyQXdsQ19MY0p5aFRSTWhQZENmMjBmQmE2WVlndW5ySUZzSVhBT0FpUG1rTjlyQ1hVdjJmZUVvQUZWNUlxRXg3aU5wVWpTM244ZlVFUmppQQ?oc=5",
+      "data": "24/07 20:56"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Grêmio x Fluminense - fluminense.com.br",
