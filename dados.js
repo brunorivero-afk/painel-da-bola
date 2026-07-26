@@ -1,116 +1,14 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/07/2026 18:55",
+  "atualizado_em": "26/07/2026 19:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Treze x São José",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Cianorte",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Ferroviário x Goiatuba EC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ABC x Luverdense",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x Real Monarchs",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:15",
-      "competition": "Campeonato Argentino",
-      "match": "Estudiantes x Independiente",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Comerciantes Unidos x Alianza Lima",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Caxias x Botafogo PB",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Novorizontino",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Goiás",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "18:30",
       "competition": "Brasileirão Série A",
-      "match": "Grêmio x Fluminense",
+      "match": "RB Bragantino x Coritiba",
       "channels": [
-        "PREMIERE 2",
-        "PREMIERE 3"
+        "PREMIERE 5"
       ]
     },
     {
@@ -128,9 +26,40 @@ window.PAINEL_DATA = {
       "date": "2026-07-26",
       "time": "18:30",
       "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Coritiba",
+      "match": "Grêmio x Fluminense",
       "channels": [
-        "PREMIERE 5"
+        "PREMIERE 2",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Goiás",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x Novorizontino",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Caxias x Botafogo PB",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -279,8 +208,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Racing Montevideo",
+      "competition": "Campeonato Argentino",
+      "match": "Atletico Tucuman x Independ. Rivadavia",
       "channels": [
         "DISNEY+"
       ]
@@ -289,10 +218,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x Portuguesa Sub-20",
+      "competition": "Campeonato Peruano",
+      "match": "UTC x UCV Moquegua",
       "channels": [
-        "YOUTUBE"
+        "FANATIZ"
       ]
     },
     {
@@ -310,40 +239,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "UTC x UCV Moquegua",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x Portuguesa Sub-20",
       "channels": [
-        "FANATIZ"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Atletico Tucuman x Independ. Rivadavia",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Racing Montevideo",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Gama x America-RN",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "CSA x São Luiz",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -360,10 +269,34 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Ituano",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Corinthians",
       "channels": [
-        "SPORTYNET"
+        "GLOBO",
+        "PREMIERE 5",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Botafogo",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Náutico",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -382,34 +315,101 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Náutico",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Ituano",
       "channels": [
-        "ESPN",
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "CSA x São Luiz",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x America-RN",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x Real Monarchs",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ABC x Luverdense",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Ferroviário x Goiatuba EC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Cianorte",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Treze x São José",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:15",
+      "competition": "Campeonato Argentino",
+      "match": "Estudiantes x Independiente",
+      "channels": [
+        "ESPN 3",
         "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Botafogo",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Comerciantes Unidos x Alianza Lima",
       "channels": [
-        "GLOBO",
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Corinthians",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 5",
-        "GE TV"
+        "FANATIZ"
       ]
     },
     {
@@ -679,9 +679,9 @@ window.PAINEL_DATA = {
       "data": "26/07 19:49"
     },
     {
-      "titulo": "Fluminense vence no tempo normal, mas cai nos pênaltis e fica com vice-campeonato do Carioca Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDNWX3hicjN1TFlmeWNHZVlEcW56STFUNEpHX0xCUmFaWVJvaWZGOVdEVkhjb3N6QmlMRTRIUmRCZV9SUFBlamx1d0ZiNC1RTkdKYXk1OTg2OFJ4cDg5VHRva1dIaTJucHhDUktRN0pNUENyZFFpRVFETXRfcUE0WUpXR1I0U1BfQVF4VTJJZ3BJQ1p1bkVLMjhsQVF5MWIwQVJJNE1PUThScGI5amNwanBBdVhSMlRjdGJYYkEwbm5tVlFZci1mdF9ya0ZUck5Iamc?oc=5",
-      "data": "26/07 15:45"
+      "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
+      "data": "25/07 20:35"
     },
     {
       "titulo": "SSA FC x Fluminense de Feira: onde assistir e tudo sobre a final da Série B do Baianão - Bahia.Ba",
