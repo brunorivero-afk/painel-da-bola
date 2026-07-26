@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/07/2026 08:59",
+  "atualizado_em": "26/07/2026 10:45",
   "jogos": [
     {
       "sport": "futebol",
@@ -469,16 +469,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-26",
-      "time": "08:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Turquia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-26",
       "time": "10:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -650,29 +640,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.5,
-      "temp_min": 18.6,
+      "temp_max": 22.6,
+      "temp_min": 18.3,
       "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.6,
+      "temp_max": 23.7,
       "temp_min": 18.1,
       "chance_chuva": 24,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.6,
-      "temp_min": 13.3,
+      "temp_max": 22.0,
+      "temp_min": 12.6,
       "chance_chuva": 92,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.7,
-      "temp_min": 12.2,
+      "temp_min": 11.8,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
@@ -699,9 +689,9 @@ window.PAINEL_DATA = {
       "data": "24/07 17:35"
     },
     {
-      "titulo": "\"A cada dia que passa, sinto mais vontade de representar essa camisa\", diz atacante do Inter após gol contra o Fluminense - GZH",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPaG5tTkstUTR4OHpOd0Nwc3pVSHBWNWlWZTRUVUV6c0pSMGxNWkJYTVpTQ196OWZacHQxNllzREdOX2JmLW82UDdkUmxBT0lLUlFnZDNfXzV2cmhCeHh1WW9CaFNidk9IZUtScHVwR2xlbDNFX0pGQVc1cGZmLVpPZy1tZlpCbkFsd2stUVdhOVgyUFAwTWNfS294NWVvU0RYN2stN3JrSmFyUVNhb3I0QTQ4TnBfb3BWcVlOVHdUNWRtMjFqcmpNN2VGTVRZTV9Ecjc3TnpJYkNTc3dRNmRCLWs1QU9HdVJSYjl3R0c4ZnBOUXRoUFlrZ1J5SDU2bWY4b0lNNFJkZ2NHWVdsNmFET01UWHFDbWxFRDloZEtmQy1lelNhbHVyaEJtbExDa0xjMm9WdWJ0RnZDSEx2cEN2cGZRaHo?oc=5",
-      "data": "25/07 02:33"
+      "titulo": "Hulk estabelece metas no Fluminense e faz promessa de gols para 2026 - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXpXeUo3T25TY3VnUktpWVhWaGN6WE5ja3Q0THdSOU9OazN3anNtWHgzQWNZbFVSQ0hrcjE0WUZ3TERKVGhNR0dVZE1mNElBeFF3a0NDREhYUnhFd2VZSktLZEt1bV9DWGlDeFZXODI5Ykgta0E1bDVxOEpENERBU1J1NVZQeXh6Q1VXazMtNlVUZlJ3b3VEVkZTdw?oc=5",
+      "data": "24/07 16:47"
     }
   ],
   "avisos": []
