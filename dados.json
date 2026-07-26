@@ -1,67 +1,6 @@
 {
-  "atualizado_em": "26/07/2026 19:56",
+  "atualizado_em": "26/07/2026 20:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Coritiba",
-      "channels": [
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Flamengo x São Paulo",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x Fluminense",
-      "channels": [
-        "PREMIERE 2",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Goiás",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Novorizontino",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Caxias x Botafogo PB",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-26",
@@ -70,27 +9,6 @@
       "match": "Connecticut FC x Columbus Crew II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Atlético-MG",
-      "channels": [
-        "SPORTV",
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Remo x Vitória",
-      "channels": [
-        "PREMIERE 6"
       ]
     },
     {
@@ -107,11 +25,22 @@
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "20:00",
-      "competition": "NWSL Feminina",
-      "match": "Washington Spirit (F) x Denver Summit (F)",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Remo x Vitória",
       "channels": [
-        "XSPORTS"
+        "PREMIERE 6"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Atlético-MG",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 4"
       ]
     },
     {
@@ -119,7 +48,7 @@
       "date": "2026-07-26",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "FC Cincinnati II x New England II",
+      "match": "Orlando City II x Huntsville City",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -139,9 +68,19 @@
       "date": "2026-07-26",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Orlando City II x Huntsville City",
+      "match": "FC Cincinnati II x New England II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "20:00",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x Denver Summit (F)",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -158,20 +97,20 @@
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "21:00",
-      "competition": "Campeonato Peruano",
-      "match": "Deportivo Garcilaso x FC Cajamarca",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Whitecaps II",
       "channels": [
-        "FANATIZ"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Whitecaps II",
+      "competition": "Campeonato Peruano",
+      "match": "Deportivo Garcilaso x FC Cajamarca",
       "channels": [
-        "ONEFOOTBALL"
+        "FANATIZ"
       ]
     },
     {
@@ -259,16 +198,6 @@
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Barra",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "Bahia x Corinthians",
       "channels": [
@@ -325,6 +254,16 @@
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Barra",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
       "competition": "Brasileirão Série D",
       "match": "CSA x São Luiz",
       "channels": [
@@ -366,7 +305,7 @@
       "date": "2026-07-26",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "Ferroviário x Goiatuba EC",
+      "match": "Treze x São José",
       "channels": [
         "YOUTUBE"
       ]
@@ -386,7 +325,7 @@
       "date": "2026-07-26",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "Treze x São José",
+      "match": "Ferroviário x Goiatuba EC",
       "channels": [
         "YOUTUBE"
       ]
@@ -410,6 +349,67 @@
       "match": "Comerciantes Unidos x Alianza Lima",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Caxias x Botafogo PB",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x Novorizontino",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Goiás",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x Fluminense",
+      "channels": [
+        "PREMIERE 2",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Flamengo x São Paulo",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Coritiba",
+      "channels": [
+        "PREMIERE 5"
       ]
     },
     {
@@ -669,29 +669,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2JBWXJGZzk3UnlCVmZ1NWtOUmxYS1UwaGZ5MmUzellVR2hWS2tkNkhLRVpkNWU0M2tJVm01WW5laklPby1pZUhkSTgwTU1kQUJISUl1MHBoU0V2N1d2ZUM5M2FiWVlaWnR4cVNLU2ppbXp2a0kzTzQyWVdQU0hiU21WUjg3UkNBUVJUSl9WYTc4OUcwbzNRa1k0aDVPNGNQaXY4QmNsbHhSWnVMRDZGQkxHOVFRX1RzODk1NnNuYnU5ekJubXlfSmVsLUs3QllZekoyeUdB0gHkAUFVX3lxTE5LLXhsRmM0NWFHUlRWMG5ramZKX2JyZGJ6SWJKWGs3Sk1renZyVExaV0RrR3ZVem00eXF3VEtYcFlSSG55WTl1UjBsdjNaSndYMFc2bWg5QjRwSkhFTFNCUkVHSzNMcWNZQ2NjY2xJOVFWNHBwSG5oc1RjakRhZ2l0WnhIUjZRTl80Q0lMVHlqd2FOek1wU3ctNWktQm1acm9yYkU3M2pkckc4N3hGc19qN0N0VGFzTm56cTNHLXROUThCa0hGQWlScUI4aFZpVi1VUzAySkhhaURhc0lkb0ZQeHVFdQ?oc=5",
-      "data": "26/07 04:15"
+      "titulo": "Hulk desencanta, mas estreante salva Grêmio em empate contra Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdk9PeWl0dmxnZW9qV1FFQWx1c2R6cXpHMXQ3c0FLaVJXN091Z1BoY25UdDZJaVpfYXlVZk91X19OX0JfTUMxekpUMzU5UmV5Q3k1Q2hoMk1KQnQ5TlE2dWVaeE9IcUpCeEU5NVFhVlkyeTVydXFRenhSQU5laFpEMTdNQW1YQXdCYVlqMlpNTmpYYTFDUUlwRENvY2hGNVhCYWhPTml2Z3JsOXNqblRfMnU2UC1hQQ?oc=5",
+      "data": "26/07 23:31"
     },
     {
-      "titulo": "Fim da novela? Ganso reaparece e pode confirmar permanência no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmMzWkd2c3dJbDlMRzhJNmVzaXZxdTFiTHB3NzFpaXVONklIRzBqM3RKelpoTEVCaWE5WDJoZXZtNE5XQ09VNm9Ec3lBcWJUbUR6WXkyaEl2YW1yS1JQYTRFR2Ntb1dtcnhtQmQ3TGNLd01BODVGdDBEWWpPcWpsQUVTOUxMR05WOXdQOW1VZF9wNWgyWXFYRFQ1ZU0yMjlndDNQZm9lM0NkaXNHR2pJeTZNb1pHTnNibkxacEt1QUxVZGRRbXloVnhLNVNyV1hnVElFQXdMdDVMNkNYc2kxaUltcmV6N2x0c3c5UEEzdWo1UQ?oc=5",
-      "data": "26/07 19:49"
+      "titulo": "Fluminense de Feira vence o SSA FC e abre vantagem na final da Série B do Baianão - Acorda Cidade",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWMtWkMyaDhCWlotWGNPQVhXMXU4UWtWLXBDN3l1NE5hYTVxRmh2WVRka2pTOGlGN2ZBZDN1Ynk1dU5CYUFfQm9GMGczUVk4eEtwTGJndU0xM0NyVklqRkVzeU1RWDloLW4tWW1fSmtHZDJCUnFXajA5ZERnTThNWnVYYTBKOC1HQmczbWFLM0VKRTZnSW5nOER2UGFkUVFCOFhPSkxYREVabXNSM1czUXdzQlJWN0puOU5TN3RvUVM?oc=5",
+      "data": "26/07 20:32"
     },
     {
-      "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
-      "data": "25/07 20:35"
+      "titulo": "Fluminense empata com o Grêmio fora de casa pelo Brasileiro - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWTlpdlBEMnVjb0xtNE83c2VfbzM4ckxXTnpLTVhrRlVMNUJTYkpYbmJtOUI1eWFFQnk1ajZVOUtNdXo3ZzRib1B6SnVHdUdhWDd5WGdzd3lOb3VrTVNEUXZjSWRPZzJBOVZEcWpKd2JjTTF0NURMYVg5OGduSkZjUGNqVkU4cFF4SVhBRll2N1h2MkFpc2MxRmVQSDFTdw?oc=5",
+      "data": "26/07 23:37"
     },
     {
-      "titulo": "SSA FC x Fluminense de Feira: onde assistir e tudo sobre a final da Série B do Baianão - Bahia.Ba",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTIzempoV0xDenhORHhLOWRXZlI3WW5nR1RqNUQ0M2paR001UnlPMjV1bkZRSThSQ1h1cHBwNlJOT3UzNExUMDJVa3BrUk9Vc1BILW1pcDJWWkVoR214aWc5Y010V283Y3Q2MHJCb2dSMEdONUVGNnY5cktTXzNEMVdNQTg1cklMQkR2OUIzT254aFV0OUk0amhXMDc3aXFxU0UzdHpyTVlVc210d3pmZw?oc=5",
-      "data": "26/07 11:28"
+      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
+      "data": "21/07 11:00"
     },
     {
-      "titulo": "Em momentos opostos, Grêmio e Fluminense duelam pelo Brasileirão - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDVWaWQ2amJmTDAtUk14alZOWTVrODdISlpXN2QtSVVKRmsxUFo4RV9uN0c2RGlBTTEzMmhJaHVYNDdXWHRjUzNRd0VEYmNqRUo3TjNwNWp0MTVhb0RJdEdLTFNHSUhZakxEc3otdkJVUGN1c2hMT2wtUkZ2OE9BSGVhOU5QNXpSclV0R2FqazFqcGNwcFJwdkJWTDR1cUJwNF9qR3BBTmdneXNXdE1pS2lCSnQ?oc=5",
-      "data": "26/07 11:43"
+      "titulo": "Hulk marca, vê Fluminense superior e reclama do VAR em empate no Sul - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbW11SHNtMzFPdmdadVBXUEhPLUF1VDBfTlVlcllKcGNqQ3l0TElzWGJmYUNQQ1hmemg1cjBDUUJsTk1BQ0VvdVo3SkJxbHcyVF85N3JLOHYwbzFTa0tHQ2oxa2JTWGdTRThqRkMwWnQzUjU5RzFPLTBIVWhQVlFyV3BFZmo1TEx6RzdkeG1IVmtJWUNQeEFuc1paaGc4YkdKczFXMzJlRF81dHlUQ1JrSG1pYw?oc=5",
+      "data": "26/07 23:52"
     }
   ],
   "avisos": []
