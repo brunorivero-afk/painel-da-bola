@@ -1,95 +1,38 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/07/2026 16:18",
+  "atualizado_em": "26/07/2026 17:53",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Atletico Tucuman x Independ. Rivadavia",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Corinthians",
       "channels": [
+        "GLOBO",
+        "PREMIERE 5",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Botafogo",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Náutico",
+      "channels": [
+        "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "UTC x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x Portuguesa Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Ituano",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Gama x America-RN",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "CSA x São Luiz",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Barra",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -108,52 +51,38 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Náutico",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Ituano",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Botafogo",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Barra",
       "channels": [
-        "GLOBO",
-        "PREMIERE 4"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Corinthians",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 5",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x Real Monarchs",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "ABC x Luverdense",
+      "match": "CSA x São Luiz",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x America-RN",
       "channels": [
         "YOUTUBE"
       ]
@@ -163,7 +92,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-26",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "Ferroviário x Goiatuba EC",
+      "match": "Treze x São José",
       "channels": [
         "YOUTUBE"
       ]
@@ -183,7 +112,27 @@ window.PAINEL_DATA = {
       "date": "2026-07-26",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "Treze x São José",
+      "match": "Ferroviário x Goiatuba EC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x Real Monarchs",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ABC x Luverdense",
       "channels": [
         "YOUTUBE"
       ]
@@ -284,11 +233,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "19:30",
-      "competition": "Campeonato Argentino",
-      "match": "Deportivo Riestra x Boca Juniors",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Atlético-MG",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "SPORTV",
+        "PREMIERE 4"
       ]
     },
     {
@@ -305,11 +254,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Atlético-MG",
+      "competition": "Campeonato Argentino",
+      "match": "Deportivo Riestra x Boca Juniors",
       "channels": [
-        "SPORTV",
-        "PREMIERE 4"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -410,6 +359,57 @@ window.PAINEL_DATA = {
       "match": "Atlanta United II x New York City II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Racing Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x Portuguesa Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "UTC x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "15:00",
+      "competition": "Campeonato Argentino",
+      "match": "Atletico Tucuman x Independ. Rivadavia",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -669,9 +669,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "O que muda em um turno? Fluminense reencontra Grêmio com trocas no time, reforços e missões para Zubeldía - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWnZwLUZNOXFtNmx5RzB1cHNEdWFZenZFZGpuRmk1bDdTRFYwVFY0NFR3NmNUZThYTVFxMWY4UkRkTkRLTzAzNnBLaGhvQWM1MzFEdVZHSVVkeEtSWFBaN2piektrN08xN2NxWU5pa1ZvNDNfanE3Yk52RFVKWlBEQ0oyNUtrRnkyTXdhZUwwVlZyeVFkWEdxbHBIdFNYN3E0T2JQcDVmMDBweVotNmQyV1ZoNFhTcnlNc1g5VThWdVhjaEFCaWxpdEdMdnB4OGVRbDQyYklXYkpmSFNzRDFHRmx0eUZRWGJ4T1p4U2FTV1NGZnBZYW5WcEtHNTlXQXN0YXhnddIBkwJBVV95cUxQWEN4dHJnYnkzaXhTdHFBY1hjNVVYNThacldCYWhsRlpiVjJXUmRXSU93RnNVZGNyMEpKVzVOMjExU2dQM2habEtNVzFyNkpZUFFHWUwxdEJLQkY0Y1IzUTUzWmhMc0lwcjZqZ2VSTlRCZG5TUlBjeVlxX2wyNmJ2N3djX3R6VGFOQXFCWXRYdk1td1RBT01pNFRTb0NyTVhjbjNBVnh1Vk04Vk5EeEE3dF9ocmN5TzQwXzdGOElpc09reVpNX0VUOVZYS25xWGJXbjJpTWJnYkI5VUxLeU53ckoyMjBhR1VGR0Q0NVZKSGNHMWJvRUlfWHR1c3pyc19UbFljQVlSa1lQRVlueGljdnFVOA?oc=5",
-      "data": "26/07 08:00"
+      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2JBWXJGZzk3UnlCVmZ1NWtOUmxYS1UwaGZ5MmUzellVR2hWS2tkNkhLRVpkNWU0M2tJVm01WW5laklPby1pZUhkSTgwTU1kQUJISUl1MHBoU0V2N1d2ZUM5M2FiWVlaWnR4cVNLU2ppbXp2a0kzTzQyWVdQU0hiU21WUjg3UkNBUVJUSl9WYTc4OUcwbzNRa1k0aDVPNGNQaXY4QmNsbHhSWnVMRDZGQkxHOVFRX1RzODk1NnNuYnU5ekJubXlfSmVsLUs3QllZekoyeUdB0gHkAUFVX3lxTE5LLXhsRmM0NWFHUlRWMG5ramZKX2JyZGJ6SWJKWGs3Sk1renZyVExaV0RrR3ZVem00eXF3VEtYcFlSSG55WTl1UjBsdjNaSndYMFc2bWg5QjRwSkhFTFNCUkVHSzNMcWNZQ2NjY2xJOVFWNHBwSG5oc1RjakRhZ2l0WnhIUjZRTl80Q0lMVHlqd2FOek1wU3ctNWktQm1acm9yYkU3M2pkckc4N3hGc19qN0N0VGFzTm56cTNHLXROUThCa0hGQWlScUI4aFZpVi1VUzAySkhhaURhc0lkb0ZQeHVFdQ?oc=5",
+      "data": "26/07 04:15"
+    },
+    {
+      "titulo": "Fluminense homenageia Telê Santana, que completaria 95 anos neste domingo - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLUNRSDhoVGdVNG9qTjliUzJlYjIxdlFoVVIzaFdIakRqZHlub2FpUWNXY292MzhtRGUtVG5BdGpGQXlQRWt0M0ZXT1puWHRQVmRiOVhqWWhxMEs1MUpYOWtNQmxnMDBhcXFDX2VwbjFGcWM1a1EyVU95MnptYnkwWWhrU01UQ1ZJUjF2U2lzeGVqVVB3a29iTUVRZmVrTXps?oc=5",
+      "data": "26/07 19:29"
     },
     {
       "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
@@ -684,17 +689,10 @@ window.PAINEL_DATA = {
       "data": "24/07 18:15"
     },
     {
-      "titulo": "Feminino: Fifa visita Vasco, Botafogo e Fluminense para treinos da Copa do Mundo 2027; Urubu não libera CT - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTR6OWdjakJUVEZQV0ZBRXZPRDRnTTk4Y3V1UThJbDAzelVuSEhBOV9EdGFBSEx0cUg1alkxMUVlQWdfbXpEdmF3SGRNS2ZVUnF0UFhLeGFiS2N3V1pfOUUtMllSaTlHWHhHU1R1QlhEenYwTWtXS2Z0WWJTbzNBS0h3bnFBbGpNbTM2dWV3U0dTQk9VWnFsM2dEaVZ2VmNramw1dlR4Vno5LUpFelZrYTBCR0RKQXgtMWJHeEpQY2FpMjZxZXFiVXJSSjRMRkxJUU9YYnViNA?oc=5",
-      "data": "25/07 02:16"
-    },
-    {
       "titulo": "Avó e bisavó catavam latinhas para levar joia do Fluminense aos treinos - DPF » De torcedor para torcedor",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkE1OWpNbzFfS3c1QVVLU3FRLUJ3NXpqS3lTS0JfamJUaXZuWm5WWnZnUlJDVVdfTnpKQXlUNmlKcVRVRGdyRk14RWE4d3hXTldPWDZpV2dqaFZNZmw3VWFiaUpVdmQtVEFqbERNQkNla0ZuYnA5ZTZIeFItTlpOTzhsMGd1V0N20gGIAUFVX3lxTE1SQTU5ak1vMV9LdzVBVUtTcVEtQnc1empLeVNLQl9qYlRpdm5ablZadmdSUkNVV19OekpBeVQ2aUpxVFVEZ3JGTXhFYTh3eFdOV09YNmlXZ2poVk1mbDdVYWJpSlV2ZC1UQWpsRE1CQ2VrRm5icDllNkh4Ui1OWk5POGwwZ3VXQ3Y?oc=5",
       "data": "25/07 13:10"
     }
   ],
-  "avisos": [
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
