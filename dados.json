@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 07:41",
+  "atualizado_em": "26/07/2026 08:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -679,14 +679,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Yago Ferreira volta ao Fluminense após empréstimo ao Majd FC, dos Emirados Árabes - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnFJamJpOUlJX3JsVWhCa1hkaEltNmwwTlI4b1BRbURkei05MWU2aFVLWWd6S2NnYUxSRTNtOXFZMEFCRFhLMExnOFM5aWhuUlRyc1VjSzdXa0dkRUVsb0ZCM0pXMXVJTXNTYTdHTU5UWXF2ajJZYnlNbkdDOUxod2tudHE1ZG1hYzBqbVV5NmFNV1RUTjRkbmh2VmFkZVhya20zcGFTQ3NlZXd1T0hDcm1yeXFPVUdUaGwwSi0wUGcxZTBxRVlld2pJSkIzNHhsQ2Jjd0lXYkEzcHFUQVdfRzM4UEdtd9IB9AFBVV95cUxQd3Fzcy1SOWJNYnhvTkN1TURadHplZXNmdkxQNE5nVUczN3FSRFhYSlYyQUxpQjh2Mlp2eU5zcDFTQTdHd3hpSjJJLUpLTVNNTDNRQXhuVlBMRUIwcE42RGNMdDFxT1dyclI5UjhJX0VGNmVwYUNvRlYzS1gyd2xjelRPT2R6MktWaVNMcmhiTFpWdVloa2M5bWI2ZERFbjZjZFBvV3c5cGZVR1h5MFVVZEU4LU5pS05iLUpBMEpsV3BQZDJ3b19qajNZaGg3YTBScFhyNmlHd1NQUXp2bzNRblBTejRiRzJWNEotRG16ZEIwQTBF?oc=5",
-      "data": "24/07 16:19"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
-      "data": "24/07 19:23"
+      "titulo": "Escalação do Fluminense: Zubeldía faz mudanças na defesa para jogo contra o Grêmio - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVdlLXp5cGtGYzhsT0E5eGpmSk5VcnU5RW55Qk5KQzU1SFlPVEhWd1N2QzlOOTJMOHVwYllTcHczV2k0UGZfem9UMVNlQjBRaFFSbGdqQ3YyY1NEWWROdmw3SGZYQVRNWnhtV1ZlX0RBSEZDSkpDTzA0MUlhaXlleE1NVnlXQUZPMmdsT3NDcHlZR2dyaFFSbkQ3a2FqOU54VXFrdThvQzZmWVdzSlk3VWlFNFl5aUFYbFZzeURDYnVvYV9RdURQYm9UX2JlREtlNWtBajFfbS1peVh0Y2ZvOEpieDZ5R2vSAfYBQVVfeXFMUEkzU2hsVVlkZVN5WmUwTHk3VVZmZWk2c0c3ZVlmd1VjX3pQWFFSc1lVVTkxMXNGY3NQQlZIUzV5T0xNdnJkdjlsSTZtd2pTcGF1VlY4QV9UejM0QmFBZEMyak1leUhTZXlNRWZFMmJCNnRfVG5GemRVdkpGZUZ4Vkt4X0N2RkRvUkROeFh3ZHJVVWtXNHB2Q0NCTW1WTEdqMXc1d3V5cTV5MXVBS051QVRCeWRVRHctTGlyZVBUS2NKX3VhUDRDLTg3b21tWUF1RGgteUt4LVg0ZTBCbFhtNVJmbFlTc1BvUHVyWVJNcEpnSkxGQjBR?oc=5",
+      "data": "25/07 21:26"
     },
     {
       "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
@@ -702,6 +697,11 @@
       "titulo": "Hulk detalha saída do Atlético-MG e polêmica recente: \"Fluminense pensa diferente. Quer títulos\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVGU1dzR4TldtS3o5OUV0VDQzOWlJS1g1c21QSVkxeUtBeVBQS1Q1ZnYxS3ltalVoWElKVWNRejM4ZFJONDRTRjBEUEoxN2V4dTM3cGVLSEppNlU3NjBZaXFJajBHMUdleHN2alhJQWcweWM4cERESUp0Z3RvMWNnZjJGM054eUdHQzZMRWFUSzBjS1l4dnZzQ0I1X20tN0dYcEkxS2Z4Z3Utcjl4a3pYclBzZVZtU1FfakJQLUp5bEtwcGNaeHlYR29vN2VoaV96ZjlzV3RDUjEtV0FJaG52bmJqb3g2WTlISHIycURoQ2FYUWszdXYw0gGGAkFVX3lxTE43U0tVbkpXTnV1SXpQVWs1d2hPUmNVdUxGU2pzSExMUzFmclFXRnlUd0t5dHJHVkoyRTBkS0ZzWVlTaGY5d3NTYS1fVDhUX3YxVnpKakJ4WEpWZlBfR29PTHRpYUltUFJhbmZfX2ZOa0ZOVklHZ09LTnczU1VyLVVDeGZXSmZOTnpwZDRyT2U5MkVhdVdSZWxKeDY4bklQV0dDUGd6UzQ4QUlDM2JkWlBpeXhrWHVRaDRiUE1WekJLVlAtOU00aU5ZTWpuRFFYa1VDMlNJT1lwRXZQMFNOdjFoMzRoZEl6Vzg4elRQc2hidG9KNFJjckNxZTJyNUQyd2hlT0VHblE?oc=5",
       "data": "24/07 17:35"
+    },
+    {
+      "titulo": "\"A cada dia que passa, sinto mais vontade de representar essa camisa\", diz atacante do Inter após gol contra o Fluminense - GZH",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPaG5tTkstUTR4OHpOd0Nwc3pVSHBWNWlWZTRUVUV6c0pSMGxNWkJYTVpTQ196OWZacHQxNllzREdOX2JmLW82UDdkUmxBT0lLUlFnZDNfXzV2cmhCeHh1WW9CaFNidk9IZUtScHVwR2xlbDNFX0pGQVc1cGZmLVpPZy1tZlpCbkFsd2stUVdhOVgyUFAwTWNfS294NWVvU0RYN2stN3JrSmFyUVNhb3I0QTQ4TnBfb3BWcVlOVHdUNWRtMjFqcmpNN2VGTVRZTV9Ecjc3TnpJYkNTc3dRNmRCLWs1QU9HdVJSYjl3R0c4ZnBOUXRoUFlrZ1J5SDU2bWY4b0lNNFJkZ2NHWVdsNmFET01UWHFDbWxFRDloZEtmQy1lelNhbHVyaEJtbExDa0xjMm9WdWJ0RnZDSEx2cEN2cGZRaHo?oc=5",
+      "data": "25/07 02:33"
     }
   ],
   "avisos": []
