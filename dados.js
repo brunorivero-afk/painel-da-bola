@@ -1,145 +1,12 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/07/2026 20:56",
+  "atualizado_em": "25/07/2026 23:38",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-07-25",
-      "time": "19:00",
-      "competition": "Brasileirão Série C",
-      "match": "Volta Redonda x Anápolis",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "19:15",
-      "competition": "Campeonato Argentino",
-      "match": "River Plate x Barracas Central",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "19:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Charlotte",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:15",
-      "competition": "MLS",
-      "match": "Columbus Crew x FC Cincinnati",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
       "time": "20:30",
       "competition": "MLS",
-      "match": "DC United x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Mirassol",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x Inter Miami",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Philadelphia Union x Seattle Sounders",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York City FC x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New England x Atlanta United FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "20:30",
-      "competition": "MLS Next Pro",
-      "match": "Carolina Core x Chicago FC United",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Minnesota United FC x Whitecaps",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Houston Dynamo x Austin",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-25",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "St. Louis City x Colorado Rapids",
+      "match": "Orlando City SC x Nashville SC",
       "channels": [
         "APPLE TV"
       ]
@@ -189,7 +56,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-25",
       "time": "23:30",
       "competition": "MLS",
-      "match": "Los Angeles FC x Sporting Kansas City",
+      "match": "San Jose Earthquakes x Los Angeles Galaxy",
       "channels": [
         "APPLE TV"
       ]
@@ -199,7 +66,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-25",
       "time": "23:30",
       "competition": "MLS",
-      "match": "San Jose Earthquakes x Los Angeles Galaxy",
+      "match": "Los Angeles FC x Sporting Kansas City",
       "channels": [
         "APPLE TV"
       ]
@@ -218,10 +85,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Cerro Largo",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Huancayo x Atletico Grau",
       "channels": [
-        "DISNEY+"
+        "FANATIZ"
       ]
     },
     {
@@ -238,10 +105,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Huancayo x Atletico Grau",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Cerro Largo",
       "channels": [
-        "FANATIZ"
+        "DISNEY+"
       ]
     },
     {
@@ -249,7 +116,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-25",
       "time": "16:00",
       "competition": "Brasileirão Série D",
-      "match": "Iguatu x Nacional AM",
+      "match": "Portuguesa x Uberlandia",
       "channels": [
         "YOUTUBE"
       ]
@@ -259,7 +126,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-25",
       "time": "16:00",
       "competition": "Brasileirão Série D",
-      "match": "Portuguesa x Uberlandia",
+      "match": "Iguatu x Nacional AM",
       "channels": [
         "YOUTUBE"
       ]
@@ -278,22 +145,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Figueirense",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Talleres Cordoba",
       "channels": [
-        "BAND",
-        "SPORTYNET"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Newells Old Boys x Talleres Cordoba",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Figueirense",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "BAND",
+        "SPORTYNET"
       ]
     },
     {
@@ -320,11 +187,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Itabaiana",
+      "competition": "Brasileirão Série A",
+      "match": "Athletico PR x Internacional",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -342,10 +208,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-25",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Athletico PR x Internacional",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Itabaiana",
       "channels": [
-        "PRIME VIDEO"
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:00",
+      "competition": "Brasileirão Série C",
+      "match": "Volta Redonda x Anápolis",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -362,9 +239,132 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-25",
+      "time": "19:15",
+      "competition": "Campeonato Argentino",
+      "match": "River Plate x Barracas Central",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "19:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Charlotte",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:15",
+      "competition": "MLS",
+      "match": "Columbus Crew x FC Cincinnati",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Orlando City SC x Nashville SC",
+      "match": "DC United x Toronto FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS Next Pro",
+      "match": "Carolina Core x Chicago FC United",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New England x Atlanta United FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York City FC x Chicago Fire",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Philadelphia Union x Seattle Sounders",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x Inter Miami",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "20:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Mirassol",
+      "channels": [
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Minnesota United FC x Whitecaps",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Houston Dynamo x Austin",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-25",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "St. Louis City x Colorado Rapids",
       "channels": [
         "APPLE TV"
       ]
@@ -773,16 +773,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-25",
-      "time": "20:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Copa Sul-Americana Feminina de Vôlei",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-25",
       "time": "04:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Feminina de Vôlei",
@@ -939,6 +929,16 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-25",
+      "time": "20:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Copa Sul-Americana Feminina de Vôlei",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -958,7 +958,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.0,
+      "temp_max": 21.7,
       "temp_min": 15.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -966,7 +966,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Teresópolis",
       "temp_max": 20.9,
-      "temp_min": 14.4,
+      "temp_min": 14.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
@@ -978,24 +978,24 @@ window.PAINEL_DATA = {
       "data": "24/07 16:19"
     },
     {
-      "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
-      "data": "25/07 20:35"
-    },
-    {
       "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - GE",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
       "data": "24/07 19:23"
     },
     {
-      "titulo": "Feminino: Fifa visita Vasco, Botafogo e Fluminense para treinos da Copa do Mundo 2027; Urubu não libera CT - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTR6OWdjakJUVEZQV0ZBRXZPRDRnTTk4Y3V1UThJbDAzelVuSEhBOV9EdGFBSEx0cUg1alkxMUVlQWdfbXpEdmF3SGRNS2ZVUnF0UFhLeGFiS2N3V1pfOUUtMllSaTlHWHhHU1R1QlhEenYwTWtXS2Z0WWJTbzNBS0h3bnFBbGpNbTM2dWV3U0dTQk9VWnFsM2dEaVZ2VmNramw1dlR4Vno5LUpFelZrYTBCR0RKQXgtMWJHeEpQY2FpMjZxZXFiVXJSSjRMRkxJUU9YYnViNA?oc=5",
-      "data": "25/07 02:16"
+      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTE5LQlRJNFAxYkdlT0x5SVBBRmltelVpMngwV3FtYjRuczVuN05IaElyR2VSeGUwa0ZiNWJVVG1zaTg0Z0pFTHBWSTFfanZaMV9rTWRjN2RVQTNka05rVjlRS2piQ3BJdmJvZXhlWERjZ2RMZDl0N1R0cEhDVVctSzB5d0ltQWxCdTV3ZkVHNU4ycy1HSUhGSURVdC1scF9KLVZLeDUwS3VRMFF5YWl5OGlJRU0ta05jdmxhSGFJc1ZfOVJTaFNiSHZ4cERYNDhHY0NrS01ZdkEtUF92NE9rN0dOUWxZM20tV2p0YjlJdkotUQ?oc=5",
+      "data": "25/07 15:00"
     },
     {
-      "titulo": "Avó e bisavó catavam latinhas para levar joia do Fluminense aos treinos - DPF » De torcedor para torcedor",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkE1OWpNbzFfS3c1QVVLU3FRLUJ3NXpqS3lTS0JfamJUaXZuWm5WWnZnUlJDVVdfTnpKQXlUNmlKcVRVRGdyRk14RWE4d3hXTldPWDZpV2dqaFZNZmw3VWFiaUpVdmQtVEFqbERNQkNla0ZuYnA5ZTZIeFItTlpOTzhsMGd1V0N20gGIAUFVX3lxTE1SQTU5ak1vMV9LdzVBVUtTcVEtQnc1empLeVNLQl9qYlRpdm5ablZadmdSUkNVV19OekpBeVQ2aUpxVFVEZ3JGTXhFYTh3eFdOV09YNmlXZ2poVk1mbDdVYWJpSlV2ZC1UQWpsRE1CQ2VrRm5icDllNkh4Ui1OWk5POGwwZ3VXQ3Y?oc=5",
-      "data": "25/07 13:10"
+      "titulo": "Vaga na Libertadores e show de Soteldo: a última visita do Fluminense ao Grêmio pelo Brasileirão - Terra",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPb3FDQ0lrTWtVRDZ6UmJfWUhTd245SGtiREFCWW5HSDlTVVF5WG5rYXVJMWtJdnhxRFpKdkJsN1kyWVZfcHBmUGQ4VWJybGNnNE1SNGFheFdZR1RyV3JfeHRsa1Z2Mm9iOE9SZ04yMHZZV29lSFF2ZWxWdFRGamxiRjRJaHR1ZFRFaTEtUDhPVURqanFSckF4eFE1dmdFOVdReDduTV9STUJsR3kzajdKcnkyN2UybzJGSGZRRlRuSnYydlFPdG1vejRqTnB5U2tGX2huZ1cyN1NyWi1RWlFzQ056cDh5MHFWd2FMdDVyU01laTMwZG1uWi0tSkFxcG8zak8wTXRaQmxKUHNqSmpFUlhXZDc?oc=5",
+      "data": "25/07 11:01"
+    },
+    {
+      "titulo": "Hulk estabelece metas no Fluminense e faz promessa de gols para 2026 - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUXpXeUo3T25TY3VnUktpWVhWaGN6WE5ja3Q0THdSOU9OazN3anNtWHgzQWNZbFVSQ0hrcjE0WUZ3TERKVGhNR0dVZE1mNElBeFF3a0NDREhYUnhFd2VZSktLZEt1bV9DWGlDeFZXODI5Ykgta0E1bDVxOEpENERBU1J1NVZQeXh6Q1VXazMtNlVUZlJ3b3VEVkZTdw?oc=5",
+      "data": "24/07 16:47"
     }
   ],
   "avisos": []
