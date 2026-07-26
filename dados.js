@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/07/2026 13:53",
+  "atualizado_em": "26/07/2026 14:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "12:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x New York City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-26",
@@ -19,26 +9,6 @@ window.PAINEL_DATA = {
       "match": "Atletico Tucuman x Independ. Rivadavia",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x Portuguesa Sub-20",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -65,11 +35,31 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "CSA x São Luiz",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x Portuguesa Sub-20",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Racing Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Ituano",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -86,10 +76,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Barra",
+      "competition": "Brasileirão Série D",
+      "match": "CSA x São Luiz",
       "channels": [
-        "SPORTYNET"
+        "YOUTUBE"
       ]
     },
     {
@@ -97,7 +87,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-26",
       "time": "16:00",
       "competition": "Brasileirão Série C",
-      "match": "Brusque x Ituano",
+      "match": "Ypiranga-RS x Barra",
       "channels": [
         "SPORTYNET"
       ]
@@ -224,6 +214,16 @@ window.PAINEL_DATA = {
       "date": "2026-07-26",
       "time": "18:30",
       "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Coritiba",
+      "channels": [
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
       "match": "Flamengo x São Paulo",
       "channels": [
         "PREMIERE FC"
@@ -268,16 +268,6 @@ window.PAINEL_DATA = {
       "match": "Caxias x Botafogo PB",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Coritiba",
-      "channels": [
-        "PREMIERE 5"
       ]
     },
     {
@@ -408,6 +398,16 @@ window.PAINEL_DATA = {
       "time": "23:00",
       "competition": "MLS Next Pro",
       "match": "Tacoma Defiance x Colorado Rapids II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "12:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x New York City II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -669,9 +669,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía faz mudanças na defesa para jogo contra o Grêmio - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOVdlLXp5cGtGYzhsT0E5eGpmSk5VcnU5RW55Qk5KQzU1SFlPVEhWd1N2QzlOOTJMOHVwYllTcHczV2k0UGZfem9UMVNlQjBRaFFSbGdqQ3YyY1NEWWROdmw3SGZYQVRNWnhtV1ZlX0RBSEZDSkpDTzA0MUlhaXlleE1NVnlXQUZPMmdsT3NDcHlZR2dyaFFSbkQ3a2FqOU54VXFrdThvQzZmWVdzSlk3VWlFNFl5aUFYbFZzeURDYnVvYV9RdURQYm9UX2JlREtlNWtBajFfbS1peVh0Y2ZvOEpieDZ5R2vSAfYBQVVfeXFMUEkzU2hsVVlkZVN5WmUwTHk3VVZmZWk2c0c3ZVlmd1VjX3pQWFFSc1lVVTkxMXNGY3NQQlZIUzV5T0xNdnJkdjlsSTZtd2pTcGF1VlY4QV9UejM0QmFBZEMyak1leUhTZXlNRWZFMmJCNnRfVG5GemRVdkpGZUZ4Vkt4X0N2RkRvUkROeFh3ZHJVVWtXNHB2Q0NCTW1WTEdqMXc1d3V5cTV5MXVBS051QVRCeWRVRHctTGlyZVBUS2NKX3VhUDRDLTg3b21tWUF1RGgteUt4LVg0ZTBCbFhtNVJmbFlTc1BvUHVyWVJNcEpnSkxGQjBR?oc=5",
-      "data": "25/07 21:26"
+      "titulo": "O que muda em um turno? Fluminense reencontra Grêmio com trocas no time, reforços e missões para Zubeldía - ge",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWnZwLUZNOXFtNmx5RzB1cHNEdWFZenZFZGpuRmk1bDdTRFYwVFY0NFR3NmNUZThYTVFxMWY4UkRkTkRLTzAzNnBLaGhvQWM1MzFEdVZHSVVkeEtSWFBaN2piektrN08xN2NxWU5pa1ZvNDNfanE3Yk52RFVKWlBEQ0oyNUtrRnkyTXdhZUwwVlZyeVFkWEdxbHBIdFNYN3E0T2JQcDVmMDBweVotNmQyV1ZoNFhTcnlNc1g5VThWdVhjaEFCaWxpdEdMdnB4OGVRbDQyYklXYkpmSFNzRDFHRmx0eUZRWGJ4T1p4U2FTV1NGZnBZYW5WcEtHNTlXQXN0YXhnddIBkwJBVV95cUxQWEN4dHJnYnkzaXhTdHFBY1hjNVVYNThacldCYWhsRlpiVjJXUmRXSU93RnNVZGNyMEpKVzVOMjExU2dQM2habEtNVzFyNkpZUFFHWUwxdEJLQkY0Y1IzUTUzWmhMc0lwcjZqZ2VSTlRCZG5TUlBjeVlxX2wyNmJ2N3djX3R6VGFOQXFCWXRYdk1td1RBT01pNFRTb0NyTVhjbjNBVnh1Vk04Vk5EeEE3dF9ocmN5TzQwXzdGOElpc09reVpNX0VUOVZYS25xWGJXbjJpTWJnYkI5VUxLeU53ckoyMjBhR1VGR0Q0NVZKSGNHMWJvRUlfWHR1c3pyc19UbFljQVlSa1lQRVlueGljdnFVOA?oc=5",
+      "data": "26/07 08:00"
     },
     {
       "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
@@ -684,14 +684,14 @@ window.PAINEL_DATA = {
       "data": "24/07 18:15"
     },
     {
-      "titulo": "Avó e bisavó catavam latinhas para levar joia do Fluminense aos treinos - DPF » De torcedor para torcedor",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkE1OWpNbzFfS3c1QVVLU3FRLUJ3NXpqS3lTS0JfamJUaXZuWm5WWnZnUlJDVVdfTnpKQXlUNmlKcVRVRGdyRk14RWE4d3hXTldPWDZpV2dqaFZNZmw3VWFiaUpVdmQtVEFqbERNQkNla0ZuYnA5ZTZIeFItTlpOTzhsMGd1V0N20gGIAUFVX3lxTE1SQTU5ak1vMV9LdzVBVUtTcVEtQnc1empLeVNLQl9qYlRpdm5ablZadmdSUkNVV19OekpBeVQ2aUpxVFVEZ3JGTXhFYTh3eFdOV09YNmlXZ2poVk1mbDdVYWJpSlV2ZC1UQWpsRE1CQ2VrRm5icDllNkh4Ui1OWk5POGwwZ3VXQ3Y?oc=5",
-      "data": "25/07 13:10"
-    },
-    {
       "titulo": "Feminino: Fifa visita Vasco, Botafogo e Fluminense para treinos da Copa do Mundo 2027; Urubu não libera CT - NETVASCO",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTR6OWdjakJUVEZQV0ZBRXZPRDRnTTk4Y3V1UThJbDAzelVuSEhBOV9EdGFBSEx0cUg1alkxMUVlQWdfbXpEdmF3SGRNS2ZVUnF0UFhLeGFiS2N3V1pfOUUtMllSaTlHWHhHU1R1QlhEenYwTWtXS2Z0WWJTbzNBS0h3bnFBbGpNbTM2dWV3U0dTQk9VWnFsM2dEaVZ2VmNramw1dlR4Vno5LUpFelZrYTBCR0RKQXgtMWJHeEpQY2FpMjZxZXFiVXJSSjRMRkxJUU9YYnViNA?oc=5",
       "data": "25/07 02:16"
+    },
+    {
+      "titulo": "Avó e bisavó catavam latinhas para levar joia do Fluminense aos treinos - DPF » De torcedor para torcedor",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkE1OWpNbzFfS3c1QVVLU3FRLUJ3NXpqS3lTS0JfamJUaXZuWm5WWnZnUlJDVVdfTnpKQXlUNmlKcVRVRGdyRk14RWE4d3hXTldPWDZpV2dqaFZNZmw3VWFiaUpVdmQtVEFqbERNQkNla0ZuYnA5ZTZIeFItTlpOTzhsMGd1V0N20gGIAUFVX3lxTE1SQTU5ak1vMV9LdzVBVUtTcVEtQnc1empLeVNLQl9qYlRpdm5ablZadmdSUkNVV19OekpBeVQ2aUpxVFVEZ3JGTXhFYTh3eFdOV09YNmlXZ2poVk1mbDdVYWJpSlV2ZC1UQWpsRE1CQ2VrRm5icDllNkh4Ui1OWk5POGwwZ3VXQ3Y?oc=5",
+      "data": "25/07 13:10"
     }
   ],
   "avisos": []
