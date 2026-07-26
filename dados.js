@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/07/2026 14:58",
+  "atualizado_em": "26/07/2026 16:18",
   "jogos": [
     {
       "sport": "futebol",
@@ -640,29 +640,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.6,
+      "temp_max": 23.4,
       "temp_min": 18.3,
       "chance_chuva": 51,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.7,
+      "temp_max": 23.9,
       "temp_min": 18.1,
       "chance_chuva": 24,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.0,
+      "temp_max": 22.3,
       "temp_min": 12.6,
       "chance_chuva": 92,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.7,
-      "temp_min": 11.8,
+      "temp_max": 20.9,
+      "temp_min": 12.1,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
@@ -694,5 +694,7 @@ window.PAINEL_DATA = {
       "data": "25/07 13:10"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 };
