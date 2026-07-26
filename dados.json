@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 05:25",
+  "atualizado_em": "26/07/2026 07:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -45,17 +45,6 @@
       "sport": "futebol",
       "date": "2026-07-26",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "15:00",
       "competition": "Campeonato Peruano",
       "match": "UTC x UCV Moquegua",
       "channels": [
@@ -65,67 +54,12 @@
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Corinthians",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
       "channels": [
-        "GLOBO",
-        "PREMIERE 5",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Botafogo",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Náutico",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Ceará",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE 6"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Ituano",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Barra",
-      "channels": [
-        "SPORTYNET"
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -146,6 +80,72 @@
       "match": "Gama x America-RN",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Barra",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Ituano",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Ceará",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE 6"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Náutico",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Botafogo",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Corinthians",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 5",
+        "GE TV"
       ]
     },
     {
@@ -224,16 +224,6 @@
       "date": "2026-07-26",
       "time": "18:30",
       "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Coritiba",
-      "channels": [
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
       "match": "Flamengo x São Paulo",
       "channels": [
         "PREMIERE FC"
@@ -283,21 +273,21 @@
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Connecticut FC x Columbus Crew II",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Coritiba",
       "channels": [
-        "ONEFOOTBALL"
+        "PREMIERE 5"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Remo x Vitória",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "Connecticut FC x Columbus Crew II",
       "channels": [
-        "PREMIERE 6"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -316,10 +306,30 @@
       "date": "2026-07-26",
       "time": "19:30",
       "competition": "Brasileirão Série A",
+      "match": "Remo x Vitória",
+      "channels": [
+        "PREMIERE 6"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
       "match": "Palmeiras x Atlético-MG",
       "channels": [
         "SPORTV",
         "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "20:00",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x Denver Summit (F)",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -454,16 +464,6 @@
       "match": "Floresta x Maringá",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-26",
-      "time": "04:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "China x Itália",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -652,36 +652,46 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 22.5,
       "temp_min": 18.6,
-      "chance_chuva": 35,
+      "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.6,
       "temp_min": 18.1,
-      "chance_chuva": 2,
+      "chance_chuva": 24,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.6,
       "temp_min": 13.3,
-      "chance_chuva": 71,
+      "chance_chuva": 92,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.7,
       "temp_min": 12.2,
-      "chance_chuva": 90,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ3?oc=5",
-      "data": "25/07 07:00"
+      "titulo": "Yago Ferreira volta ao Fluminense após empréstimo ao Majd FC, dos Emirados Árabes - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnFJamJpOUlJX3JsVWhCa1hkaEltNmwwTlI4b1BRbURkei05MWU2aFVLWWd6S2NnYUxSRTNtOXFZMEFCRFhLMExnOFM5aWhuUlRyc1VjSzdXa0dkRUVsb0ZCM0pXMXVJTXNTYTdHTU5UWXF2ajJZYnlNbkdDOUxod2tudHE1ZG1hYzBqbVV5NmFNV1RUTjRkbmh2VmFkZVhya20zcGFTQ3NlZXd1T0hDcm1yeXFPVUdUaGwwSi0wUGcxZTBxRVlld2pJSkIzNHhsQ2Jjd0lXYkEzcHFUQVdfRzM4UEdtd9IB9AFBVV95cUxQd3Fzcy1SOWJNYnhvTkN1TURadHplZXNmdkxQNE5nVUczN3FSRFhYSlYyQUxpQjh2Mlp2eU5zcDFTQTdHd3hpSjJJLUpLTVNNTDNRQXhuVlBMRUIwcE42RGNMdDFxT1dyclI5UjhJX0VGNmVwYUNvRlYzS1gyd2xjelRPT2R6MktWaVNMcmhiTFpWdVloa2M5bWI2ZERFbjZjZFBvV3c5cGZVR1h5MFVVZEU4LU5pS05iLUpBMEpsV3BQZDJ3b19qajNZaGg3YTBScFhyNmlHd1NQUXp2bzNRblBTejRiRzJWNEotRG16ZEIwQTBF?oc=5",
+      "data": "24/07 16:19"
+    },
+    {
+      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
+      "data": "24/07 19:23"
+    },
+    {
+      "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
+      "data": "25/07 20:35"
     },
     {
       "titulo": "Fluminense: Canobbio toma decisão após proposta da Europa - Terra",
@@ -692,16 +702,6 @@
       "titulo": "Hulk detalha saída do Atlético-MG e polêmica recente: \"Fluminense pensa diferente. Quer títulos\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVGU1dzR4TldtS3o5OUV0VDQzOWlJS1g1c21QSVkxeUtBeVBQS1Q1ZnYxS3ltalVoWElKVWNRejM4ZFJONDRTRjBEUEoxN2V4dTM3cGVLSEppNlU3NjBZaXFJajBHMUdleHN2alhJQWcweWM4cERESUp0Z3RvMWNnZjJGM054eUdHQzZMRWFUSzBjS1l4dnZzQ0I1X20tN0dYcEkxS2Z4Z3Utcjl4a3pYclBzZVZtU1FfakJQLUp5bEtwcGNaeHlYR29vN2VoaV96ZjlzV3RDUjEtV0FJaG52bmJqb3g2WTlISHIycURoQ2FYUWszdXYw0gGGAkFVX3lxTE43U0tVbkpXTnV1SXpQVWs1d2hPUmNVdUxGU2pzSExMUzFmclFXRnlUd0t5dHJHVkoyRTBkS0ZzWVlTaGY5d3NTYS1fVDhUX3YxVnpKakJ4WEpWZlBfR29PTHRpYUltUFJhbmZfX2ZOa0ZOVklHZ09LTnczU1VyLVVDeGZXSmZOTnpwZDRyT2U5MkVhdVdSZWxKeDY4bklQV0dDUGd6UzQ4QUlDM2JkWlBpeXhrWHVRaDRiUE1WekJLVlAtOU00aU5ZTWpuRFFYa1VDMlNJT1lwRXZQMFNOdjFoMzRoZEl6Vzg4elRQc2hidG9KNFJjckNxZTJyNUQyd2hlT0VHblE?oc=5",
       "data": "24/07 17:35"
-    },
-    {
-      "titulo": "Veteranos, Thiago Silva e Hulk elevam o sarrafo do Fluminense na briga por títulos nesta temporada - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQajFnOTRTeTBkcGp6QV9XZlhkcVlmZGw0ak1GdGxHWDBkQ1Y3N0d4b3EyRGp6b0I5cVpJOFBXSjJhU29xblJGTktCTktOYi0tb0txYVNpanN0ZTgzYklhRGFDMVRENHZDM3RFR0ZQQnpCMDhFQkdpMmFBN0xZY29weDk5dGJlVUdER2swNF9qa3g0UWtNMlJJSUlneW1Kd1I0MmI3X0VsVTNtdVpldXh3aWZCQkpNdkw2dVdlY25UejVDYl9zSEtqb3dhVXMybGJKZk9OTjFSZ3JaZTB0a19Ra0lfcjYtZ3Y5Yllvckk0SEVLS09FYjdRenpDYVVrbUpCTFZvWTd30gGUAkFVX3lxTE5BNE5yeEg0TTdYVXdtd2w0ZEx2aEdTMUd2Zm9fRmRnNlZMWGVFa0VBVjIwS2V5ZjdlTHp3QkJwX0plTVprd29wUXRmRjRTVFdETGxybmQ3YmZMaXNuLXJVTmNzMlREQnVtek4tOUJPbGFVLUFPWVU2akVfZFFwN3lwNXQyUENxUm5JZmI5cFpJdUcwazJKX2ZNazRaSGxza2tHX0UtdzM5M2VqUUpVbnV1MHBVc1BhUk04eU45Y19nZnVLNXlxZHBsY2U0QldDOVFnNm83NVI0Vm8tNV9rWEpibFBqWGFuVVpuZTgxNmpxckVXT0xqWFdHSHhueV91b01wVl9leURxdTFIQ2FEMEQ0R3NZcw?oc=5",
-      "data": "26/07 05:00"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
-      "data": "24/07 19:23"
     }
   ],
   "avisos": []
