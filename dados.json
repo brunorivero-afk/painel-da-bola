@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/07/2026 02:56",
+  "atualizado_em": "26/07/2026 05:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -355,16 +355,6 @@
     {
       "sport": "futebol",
       "date": "2026-07-26",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Whitecaps II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-26",
       "time": "20:30",
       "competition": "Brasileirão Série C",
       "match": "Amazonas x Paysandu",
@@ -380,6 +370,16 @@
       "match": "Deportivo Garcilaso x FC Cajamarca",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-26",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Whitecaps II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -461,7 +461,7 @@
       "date": "2026-07-26",
       "time": "04:15",
       "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Feminina de Vôlei",
+      "match": "China x Itália",
       "channels": [
         "SporTV2"
       ]
@@ -471,7 +471,7 @@
       "date": "2026-07-26",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Feminina de Vôlei",
+      "match": "Brasil x Turquia",
       "channels": [
         "SporTV2"
       ]
@@ -625,63 +625,83 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-26",
+      "time": "04:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Liga das Nações Feminina de Vôlei",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-26",
+      "time": "08:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Liga das Nações Feminina de Vôlei",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.9,
-      "temp_min": 18.4,
+      "temp_max": 22.5,
+      "temp_min": 18.6,
       "chance_chuva": 35,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.9,
-      "temp_min": 18.5,
+      "temp_max": 23.6,
+      "temp_min": 18.1,
       "chance_chuva": 2,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.6,
-      "temp_min": 13.7,
+      "temp_min": 13.3,
       "chance_chuva": 71,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.6,
-      "temp_min": 12.3,
+      "temp_max": 20.7,
+      "temp_min": 12.2,
       "chance_chuva": 90,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Yago Ferreira volta ao Fluminense após empréstimo ao Majd FC, dos Emirados Árabes - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnFJamJpOUlJX3JsVWhCa1hkaEltNmwwTlI4b1BRbURkei05MWU2aFVLWWd6S2NnYUxSRTNtOXFZMEFCRFhLMExnOFM5aWhuUlRyc1VjSzdXa0dkRUVsb0ZCM0pXMXVJTXNTYTdHTU5UWXF2ajJZYnlNbkdDOUxod2tudHE1ZG1hYzBqbVV5NmFNV1RUTjRkbmh2VmFkZVhya20zcGFTQ3NlZXd1T0hDcm1yeXFPVUdUaGwwSi0wUGcxZTBxRVlld2pJSkIzNHhsQ2Jjd0lXYkEzcHFUQVdfRzM4UEdtd9IB9AFBVV95cUxQd3Fzcy1SOWJNYnhvTkN1TURadHplZXNmdkxQNE5nVUczN3FSRFhYSlYyQUxpQjh2Mlp2eU5zcDFTQTdHd3hpSjJJLUpLTVNNTDNRQXhuVlBMRUIwcE42RGNMdDFxT1dyclI5UjhJX0VGNmVwYUNvRlYzS1gyd2xjelRPT2R6MktWaVNMcmhiTFpWdVloa2M5bWI2ZERFbjZjZFBvV3c5cGZVR1h5MFVVZEU4LU5pS05iLUpBMEpsV3BQZDJ3b19qajNZaGg3YTBScFhyNmlHd1NQUXp2bzNRblBTejRiRzJWNEotRG16ZEIwQTBF?oc=5",
-      "data": "24/07 16:19"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
-      "data": "24/07 19:23"
-    },
-    {
-      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTE5LQlRJNFAxYkdlT0x5SVBBRmltelVpMngwV3FtYjRuczVuN05IaElyR2VSeGUwa0ZiNWJVVG1zaTg0Z0pFTHBWSTFfanZaMV9rTWRjN2RVQTNka05rVjlRS2piQ3BJdmJvZXhlWERjZ2RMZDl0N1R0cEhDVVctSzB5d0ltQWxCdTV3ZkVHNU4ycy1HSUhGSURVdC1scF9KLVZLeDUwS3VRMFF5YWl5OGlJRU0ta05jdmxhSGFJc1ZfOVJTaFNiSHZ4cERYNDhHY0NrS01ZdkEtUF92NE9rN0dOUWxZM20tV2p0YjlJdkotUQ?oc=5",
-      "data": "25/07 15:00"
-    },
-    {
-      "titulo": "Vaga na Libertadores e show de Soteldo: a última visita do Fluminense ao Grêmio pelo Brasileirão - Terra",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPb3FDQ0lrTWtVRDZ6UmJfWUhTd245SGtiREFCWW5HSDlTVVF5WG5rYXVJMWtJdnhxRFpKdkJsN1kyWVZfcHBmUGQ4VWJybGNnNE1SNGFheFdZR1RyV3JfeHRsa1Z2Mm9iOE9SZ04yMHZZV29lSFF2ZWxWdFRGamxiRjRJaHR1ZFRFaTEtUDhPVURqanFSckF4eFE1dmdFOVdReDduTV9STUJsR3kzajdKcnkyN2UybzJGSGZRRlRuSnYydlFPdG1vejRqTnB5U2tGX2huZ1cyN1NyWi1RWlFzQ056cDh5MHFWd2FMdDVyU01laTMwZG1uWi0tSkFxcG8zak8wTXRaQmxKUHNqSmpFUlhXZDc?oc=5",
-      "data": "25/07 11:01"
+      "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ3?oc=5",
+      "data": "25/07 07:00"
     },
     {
       "titulo": "Fluminense: Canobbio toma decisão após proposta da Europa - Terra",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSGt5ZlBWR0hRSDh2RlVpc2ZsVG9NZDhfTmwza0dLQXFRNXBDUzdPZnJ4UkVoSWhicTNhcFV6V3F0a2ZTemstOTZxUEtHcTFnY2xodUFjMFo3ZjFrUEF2dWtGRlN4b3FVSTFLQnJjeDBKWURETzhtUjBCMFBEUTk0Szl2OGwxN1pKQk9wNG04MlNmQjcycDdNYU1NN0p1N0xFUmJnSVZWNjh2QWJHQ3FhTGE1eGVKTzBEMDBZMnpYay1CLXp5MWZaTTBfY0huelBhb3d5YlZqbzViWU82MUhJcg?oc=5",
       "data": "24/07 18:15"
+    },
+    {
+      "titulo": "Hulk detalha saída do Atlético-MG e polêmica recente: \"Fluminense pensa diferente. Quer títulos\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVGU1dzR4TldtS3o5OUV0VDQzOWlJS1g1c21QSVkxeUtBeVBQS1Q1ZnYxS3ltalVoWElKVWNRejM4ZFJONDRTRjBEUEoxN2V4dTM3cGVLSEppNlU3NjBZaXFJajBHMUdleHN2alhJQWcweWM4cERESUp0Z3RvMWNnZjJGM054eUdHQzZMRWFUSzBjS1l4dnZzQ0I1X20tN0dYcEkxS2Z4Z3Utcjl4a3pYclBzZVZtU1FfakJQLUp5bEtwcGNaeHlYR29vN2VoaV96ZjlzV3RDUjEtV0FJaG52bmJqb3g2WTlISHIycURoQ2FYUWszdXYw0gGGAkFVX3lxTE43U0tVbkpXTnV1SXpQVWs1d2hPUmNVdUxGU2pzSExMUzFmclFXRnlUd0t5dHJHVkoyRTBkS0ZzWVlTaGY5d3NTYS1fVDhUX3YxVnpKakJ4WEpWZlBfR29PTHRpYUltUFJhbmZfX2ZOa0ZOVklHZ09LTnczU1VyLVVDeGZXSmZOTnpwZDRyT2U5MkVhdVdSZWxKeDY4bklQV0dDUGd6UzQ4QUlDM2JkWlBpeXhrWHVRaDRiUE1WekJLVlAtOU00aU5ZTWpuRFFYa1VDMlNJT1lwRXZQMFNOdjFoMzRoZEl6Vzg4elRQc2hidG9KNFJjckNxZTJyNUQyd2hlT0VHblE?oc=5",
+      "data": "24/07 17:35"
+    },
+    {
+      "titulo": "Veteranos, Thiago Silva e Hulk elevam o sarrafo do Fluminense na briga por títulos nesta temporada - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQajFnOTRTeTBkcGp6QV9XZlhkcVlmZGw0ak1GdGxHWDBkQ1Y3N0d4b3EyRGp6b0I5cVpJOFBXSjJhU29xblJGTktCTktOYi0tb0txYVNpanN0ZTgzYklhRGFDMVRENHZDM3RFR0ZQQnpCMDhFQkdpMmFBN0xZY29weDk5dGJlVUdER2swNF9qa3g0UWtNMlJJSUlneW1Kd1I0MmI3X0VsVTNtdVpldXh3aWZCQkpNdkw2dVdlY25UejVDYl9zSEtqb3dhVXMybGJKZk9OTjFSZ3JaZTB0a19Ra0lfcjYtZ3Y5Yllvckk0SEVLS09FYjdRenpDYVVrbUpCTFZvWTd30gGUAkFVX3lxTE5BNE5yeEg0TTdYVXdtd2w0ZEx2aEdTMUd2Zm9fRmRnNlZMWGVFa0VBVjIwS2V5ZjdlTHp3QkJwX0plTVprd29wUXRmRjRTVFdETGxybmQ3YmZMaXNuLXJVTmNzMlREQnVtek4tOUJPbGFVLUFPWVU2akVfZFFwN3lwNXQyUENxUm5JZmI5cFpJdUcwazJKX2ZNazRaSGxza2tHX0UtdzM5M2VqUUpVbnV1MHBVc1BhUk04eU45Y19nZnVLNXlxZHBsY2U0QldDOVFnNm83NVI0Vm8tNV9rWEpibFBqWGFuVVpuZTgxNmpxckVXT0xqWFdHSHhueV91b01wVl9leURxdTFIQ2FEMEQ0R3NZcw?oc=5",
+      "data": "26/07 05:00"
+    },
+    {
+      "titulo": "Escalação do Fluminense: Thiago Silva deve reestrear neste domingo, contra o Grêmio - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0hCYXJldlh3S2pZM1ZpNG9Nb2JRVU1tLWJzZ2ZrOE0wVzlERVhpb0I0YUpMbkRqYWZZZWNFMkFEY19JbWljcHV6LTU5ajJxR0JSX2FtM1JoTlE5anp3WHhVMU4xQVkyaVdWcjNQZXp4aGZlZHp0N25KR3ZCbFlRcGx2NFVqVFpmc1AzZ3MyREZGTEdyYmZtbEk4eFpfcllPTG01SWN6YmJnUENuWXVnTUNzZW9wcjVCRDl0NGp2eDJydThubXBieWxDTWlCd2pQcVNzdjJIRENvbGU4bHpUSXV3eWdXV1XSAfYBQVVfeXFMUDFlVjhEeXNjNXBJRFAwQk5RZThOZW9GSDZ3Z0djV3VvcG1IdGNzUkhpWFBZU1VOY1ZMVjYzVkc0TU90V3dzbUtEcGhVNFNuOXI2amVkVmoyQm11TjhBbHhHRjAyMEFBWUh1N1JBenEtWEdWOEpZVnFZVjVSdmNFUTRXSTRrNXFXem1Cdm0zOERBY3lreUVrSlB0cWNXeGd6SFJ3R3I1bEJ1ZWsycGFCei1vQUtDZW1MQ3J4eVV0QmZNdnlUODVDYjBTbDd1NWNmTkpqTnhHWXFROFd1MklwczRqQldqYnVHQU1FcWQ2VjI3MjVmVVhR?oc=5",
+      "data": "24/07 19:23"
     }
   ],
   "avisos": []
