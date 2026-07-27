@@ -1,6 +1,16 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/07/2026 03:58",
+  "atualizado_em": "27/07/2026 07:47",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-07-27",
+      "time": "19:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Bahia (F) x Botafogo (F)",
+      "channels": [
+        "NSPORTS"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-07-27",
@@ -63,6 +73,16 @@ window.PAINEL_DATA = {
       "match": "Chelsea x Western Sydney Wanderers",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-28",
+      "time": "15:45",
+      "competition": "Champions League",
+      "match": "Heart OF Midlothian x Sturm Graz",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -356,9 +376,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "O que muda em um turno? Fluminense reencontra Grêmio com trocas no time, reforços e missões para Zubeldía - GE",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWnZwLUZNOXFtNmx5RzB1cHNEdWFZenZFZGpuRmk1bDdTRFYwVFY0NFR3NmNUZThYTVFxMWY4UkRkTkRLTzAzNnBLaGhvQWM1MzFEdVZHSVVkeEtSWFBaN2piektrN08xN2NxWU5pa1ZvNDNfanE3Yk52RFVKWlBEQ0oyNUtrRnkyTXdhZUwwVlZyeVFkWEdxbHBIdFNYN3E0T2JQcDVmMDBweVotNmQyV1ZoNFhTcnlNc1g5VThWdVhjaEFCaWxpdEdMdnB4OGVRbDQyYklXYkpmSFNzRDFHRmx0eUZRWGJ4T1p4U2FTV1NGZnBZYW5WcEtHNTlXQXN0YXhnddIBkwJBVV95cUxQWEN4dHJnYnkzaXhTdHFBY1hjNVVYNThacldCYWhsRlpiVjJXUmRXSU93RnNVZGNyMEpKVzVOMjExU2dQM2habEtNVzFyNkpZUFFHWUwxdEJLQkY0Y1IzUTUzWmhMc0lwcjZqZ2VSTlRCZG5TUlBjeVlxX2wyNmJ2N3djX3R6VGFOQXFCWXRYdk1td1RBT01pNFRTb0NyTVhjbjNBVnh1Vk04Vk5EeEE3dF9ocmN5TzQwXzdGOElpc09reVpNX0VUOVZYS25xWGJXbjJpTWJnYkI5VUxLeU53ckoyMjBhR1VGR0Q0NVZKSGNHMWJvRUlfWHR1c3pyc19UbFljQVlSa1lQRVlueGljdnFVOA?oc=5",
-      "data": "26/07 08:00"
+      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2JBWXJGZzk3UnlCVmZ1NWtOUmxYS1UwaGZ5MmUzellVR2hWS2tkNkhLRVpkNWU0M2tJVm01WW5laklPby1pZUhkSTgwTU1kQUJISUl1MHBoU0V2N1d2ZUM5M2FiWVlaWnR4cVNLU2ppbXp2a0kzTzQyWVdQU0hiU21WUjg3UkNBUVJUSl9WYTc4OUcwbzNRa1k0aDVPNGNQaXY4QmNsbHhSWnVMRDZGQkxHOVFRX1RzODk1NnNuYnU5ekJubXlfSmVsLUs3QllZekoyeUdB0gHkAUFVX3lxTE5LLXhsRmM0NWFHUlRWMG5ramZKX2JyZGJ6SWJKWGs3Sk1renZyVExaV0RrR3ZVem00eXF3VEtYcFlSSG55WTl1UjBsdjNaSndYMFc2bWg5QjRwSkhFTFNCUkVHSzNMcWNZQ2NjY2xJOVFWNHBwSG5oc1RjakRhZ2l0WnhIUjZRTl80Q0lMVHlqd2FOek1wU3ctNWktQm1acm9yYkU3M2pkckc4N3hGc19qN0N0VGFzTm56cTNHLXROUThCa0hGQWlScUI4aFZpVi1VUzAySkhhaURhc0lkb0ZQeHVFdQ?oc=5",
+      "data": "26/07 04:15"
     },
     {
       "titulo": "Fim da novela? Ganso reaparece e pode confirmar permanência no Fluminense - Terra",
@@ -366,9 +386,9 @@ window.PAINEL_DATA = {
       "data": "26/07 19:49"
     },
     {
-      "titulo": "Fluminense vence no tempo normal, mas cai nos pênaltis e fica com vice-campeonato do Carioca Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDNWX3hicjN1TFlmeWNHZVlEcW56STFUNEpHX0xCUmFaWVJvaWZGOVdEVkhjb3N6QmlMRTRIUmRCZV9SUFBlamx1d0ZiNC1RTkdKYXk1OTg2OFJ4cDg5VHRva1dIaTJucHhDUktRN0pNUENyZFFpRVFETXRfcUE0WUpXR1I0U1BfQVF4VTJJZ3BJQ1p1bkVLMjhsQVF5MWIwQVJJNE1PUThScGI5amNwanBBdVhSMlRjdGJYYkEwbm5tVlFZci1mdF9ya0ZUck5Iamc?oc=5",
-      "data": "26/07 15:45"
+      "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
+      "data": "25/07 20:35"
     },
     {
       "titulo": "Fluminense marca com Hulk, mas Grêmio busca empate com dupla estreante - Estadão",
