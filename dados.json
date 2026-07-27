@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 00:40",
+  "atualizado_em": "27/07/2026 03:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -327,7 +327,7 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.3,
+      "temp_max": 25.6,
       "temp_min": 17.2,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
@@ -335,35 +335,35 @@
     {
       "cidade": "Araruama",
       "temp_max": 27.4,
-      "temp_min": 15.7,
+      "temp_min": 16.1,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.8,
-      "temp_min": 12.3,
+      "temp_max": 22.6,
+      "temp_min": 11.8,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.7,
-      "temp_min": 11.1,
+      "temp_max": 23.5,
+      "temp_min": 10.8,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
     {
-      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2JBWXJGZzk3UnlCVmZ1NWtOUmxYS1UwaGZ5MmUzellVR2hWS2tkNkhLRVpkNWU0M2tJVm01WW5laklPby1pZUhkSTgwTU1kQUJISUl1MHBoU0V2N1d2ZUM5M2FiWVlaWnR4cVNLU2ppbXp2a0kzTzQyWVdQU0hiU21WUjg3UkNBUVJUSl9WYTc4OUcwbzNRa1k0aDVPNGNQaXY4QmNsbHhSWnVMRDZGQkxHOVFRX1RzODk1NnNuYnU5ekJubXlfSmVsLUs3QllZekoyeUdB0gHkAUFVX3lxTE5LLXhsRmM0NWFHUlRWMG5ramZKX2JyZGJ6SWJKWGs3Sk1renZyVExaV0RrR3ZVem00eXF3VEtYcFlSSG55WTl1UjBsdjNaSndYMFc2bWg5QjRwSkhFTFNCUkVHSzNMcWNZQ2NjY2xJOVFWNHBwSG5oc1RjakRhZ2l0WnhIUjZRTl80Q0lMVHlqd2FOek1wU3ctNWktQm1acm9yYkU3M2pkckc4N3hGc19qN0N0VGFzTm56cTNHLXROUThCa0hGQWlScUI4aFZpVi1VUzAySkhhaURhc0lkb0ZQeHVFdQ?oc=5",
-      "data": "26/07 04:15"
+      "titulo": "O que muda em um turno? Fluminense reencontra Grêmio com trocas no time, reforços e missões para Zubeldía - GE",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWnZwLUZNOXFtNmx5RzB1cHNEdWFZenZFZGpuRmk1bDdTRFYwVFY0NFR3NmNUZThYTVFxMWY4UkRkTkRLTzAzNnBLaGhvQWM1MzFEdVZHSVVkeEtSWFBaN2piektrN08xN2NxWU5pa1ZvNDNfanE3Yk52RFVKWlBEQ0oyNUtrRnkyTXdhZUwwVlZyeVFkWEdxbHBIdFNYN3E0T2JQcDVmMDBweVotNmQyV1ZoNFhTcnlNc1g5VThWdVhjaEFCaWxpdEdMdnB4OGVRbDQyYklXYkpmSFNzRDFHRmx0eUZRWGJ4T1p4U2FTV1NGZnBZYW5WcEtHNTlXQXN0YXhnddIBkwJBVV95cUxQWEN4dHJnYnkzaXhTdHFBY1hjNVVYNThacldCYWhsRlpiVjJXUmRXSU93RnNVZGNyMEpKVzVOMjExU2dQM2habEtNVzFyNkpZUFFHWUwxdEJLQkY0Y1IzUTUzWmhMc0lwcjZqZ2VSTlRCZG5TUlBjeVlxX2wyNmJ2N3djX3R6VGFOQXFCWXRYdk1td1RBT01pNFRTb0NyTVhjbjNBVnh1Vk04Vk5EeEE3dF9ocmN5TzQwXzdGOElpc09reVpNX0VUOVZYS25xWGJXbjJpTWJnYkI5VUxLeU53ckoyMjBhR1VGR0Q0NVZKSGNHMWJvRUlfWHR1c3pyc19UbFljQVlSa1lQRVlueGljdnFVOA?oc=5",
+      "data": "26/07 08:00"
     },
     {
-      "titulo": "Hulk reage ao primeiro gol oficial pelo Fluminense e faz projeção: 'Títulos' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZVM2cDhuWjJJSEhxNnI1TWs4R0luSXM0dWM1SXdRXzgxMC1OY2hwQWJBX19HdUtRVFpRLU02N3dMYjZRWlNHbTZGOGdwU2ZrMUVzM1lnSGhheU9NOWpTNDdwdHBabm1qbll3N3dwclRIR0F0ZHNMcTR4THNrMUFhUVh1UUlpOFd3dk9kdEFGeW53YWYzVGxqdDVibnFXLThUNjNadWpZOXdJa0ZsZ0ZLU0VIMHVrTUZpZDRnclQ2V3NlVG5lZmdsdGNJNHljYTlLY3F4cjJSdWh4TnV2TFBIa01NT19DNFBmOHNlTmFuWXVIQXV5aFE?oc=5",
-      "data": "27/07 01:33"
+      "titulo": "Fim da novela? Ganso reaparece e pode confirmar permanência no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmMzWkd2c3dJbDlMRzhJNmVzaXZxdTFiTHB3NzFpaXVONklIRzBqM3RKelpoTEVCaWE5WDJoZXZtNE5XQ09VNm9Ec3lBcWJUbUR6WXkyaEl2YW1yS1JQYTRFR2Ntb1dtcnhtQmQ3TGNLd01BODVGdDBEWWpPcWpsQUVTOUxMR05WOXdQOW1VZF9wNWgyWXFYRFQ1ZU0yMjlndDNQZm9lM0NkaXNHR2pJeTZNb1pHTnNibkxacEt1QUxVZGRRbXloVnhLNVNyV1hnVElFQXdMdDVMNkNYc2kxaUltcmV6N2x0c3c5UEEzdWo1UQ?oc=5",
+      "data": "26/07 19:49"
     },
     {
       "titulo": "Fluminense vence no tempo normal, mas cai nos pênaltis e fica com vice-campeonato do Carioca Sub-17 - fluminense.com.br",
@@ -371,14 +371,14 @@
       "data": "26/07 15:45"
     },
     {
-      "titulo": "Em reestreia de Thiago Silva, Hulk abre o placar, mas Fluminense leva o empate do Grêmio no Brasileirão - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMEJQdnRmdEU2MkpzMTZDM3pMTFVRQ25RZlZiTWx6WG1ubXhUWlVud24yR2xtS1VScV9EWWhKRS1GU3ljS1hTZEZibzJEZGE0UHlIcEZNSnJuODdTXzdFU2tWZUdDMHJHejJ1M3prUkN2SXVTSDFPdWZ4aDJIT3Z3VzdOdzlET25GRXdHZGtKWmV3OHJDQU9TMHlCNnRvT2pXWk44VUhYTmVVbjBPajN5cmxfOWd1MlVHMURKMndpcmVDYmEzZEIzSDY2cGh0NFBpc09NT1hQVWF4OURLaTFrR0d2SHh2OWUwcWFqNG5zYl9jQTdvNkxIbklINWd3Y09lY0UyZkVhM2pVbnfSAZoCQVVfeXFMUG9YV19YdV8xVXRLeDNrcGsta215c2JObktSRTRibS1pc0g3VG82MDloRE9NNnA1amNxeGFHZkdQeTlTSC1Ld2U1N0lxRGpHQ2JJcUdUYmdET3ktYW5FcDh0ekFMckdEZVktdl9yVzdVUFV5dzBSeGQ5V1JheW9VcTlHUTBKNmlSbU9EdHZlT2FPdG5FR3IycU9Da20xWlk0Z2ZJQXAzdjNVV0YxdGdhcDlHdjRWZWIwT1N2ZmV2RzBoYjE2a1V6SXZxUFJuZ2V0THVLYjQ2RkNnTlhaM0xQX2tQUy1ZelJyUjJJejNKdDlQM3hUSTNDY0NuSzhORzBlSmVCaUZVS0w3YlMwbkQwWV9WOUQ3V1d0d0JR?oc=5",
-      "data": "26/07 23:32"
-    },
-    {
       "titulo": "Fluminense marca com Hulk, mas Grêmio busca empate com dupla estreante - Estadão",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1JRNzU2N2I2b1FXWFFOVlB6VTE1NHVaS2RwNk5oVk9hR3ZjUTVhZlpSa1FqYjNINzJlcUxrUzdINEJkb3F4WGdNdm9VMXA3QXZUbzRFZnVwSHk0R3lRMGpmcmNNVWp2X01vbnFMLWxQZzVrVDFzVHdvaWN0NUhteTdMSnFQaXpGVE5aRzRkcjZJcnRscGtkZ2JSNEJoSXpyd19ZUkx6ckhTdUdMNV9RUUVRaVnSAboBQVVfeXFMTUh2WHBFMmNwMVhWZ3JHT3NUWlJKcHVsb2NJWTA0Vy13ekVlSFZEUW1MOVpqU1ljY0lKclJSaFEwSERKOVFvLW1QeDZsdWlBc1FUWFFZNGpvYm5OdUFRekY5VkVXOGtGUVNYSWNNeFhlME9VOGNqaHBROGI1bkxTLXZLTGhZNWkyRkJlY1A2TUJOQlhjRFY2TWxybzgyZXVOd2U0b3Vva3ctajc4eWVYU0pMU0llcWV5Q2lB?oc=5",
       "data": "27/07 00:14"
+    },
+    {
+      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
+      "data": "21/07 11:00"
     }
   ],
   "avisos": []
