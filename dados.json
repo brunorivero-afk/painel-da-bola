@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/07/2026 07:47",
+  "atualizado_em": "27/07/2026 10:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -347,38 +347,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.6,
+      "temp_max": 25.7,
       "temp_min": 17.2,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.4,
+      "temp_max": 27.6,
       "temp_min": 16.1,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.6,
-      "temp_min": 11.8,
+      "temp_max": 22.0,
+      "temp_min": 11.6,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.5,
-      "temp_min": 10.8,
+      "temp_max": 23.4,
+      "temp_min": 10.5,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
     {
-      "titulo": "Grêmio x Fluminense: onde assistir ao vivo, horário e escalações - GE",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM2JBWXJGZzk3UnlCVmZ1NWtOUmxYS1UwaGZ5MmUzellVR2hWS2tkNkhLRVpkNWU0M2tJVm01WW5laklPby1pZUhkSTgwTU1kQUJISUl1MHBoU0V2N1d2ZUM5M2FiWVlaWnR4cVNLU2ppbXp2a0kzTzQyWVdQU0hiU21WUjg3UkNBUVJUSl9WYTc4OUcwbzNRa1k0aDVPNGNQaXY4QmNsbHhSWnVMRDZGQkxHOVFRX1RzODk1NnNuYnU5ekJubXlfSmVsLUs3QllZekoyeUdB0gHkAUFVX3lxTE5LLXhsRmM0NWFHUlRWMG5ramZKX2JyZGJ6SWJKWGs3Sk1renZyVExaV0RrR3ZVem00eXF3VEtYcFlSSG55WTl1UjBsdjNaSndYMFc2bWg5QjRwSkhFTFNCUkVHSzNMcWNZQ2NjY2xJOVFWNHBwSG5oc1RjakRhZ2l0WnhIUjZRTl80Q0lMVHlqd2FOek1wU3ctNWktQm1acm9yYkU3M2pkckc4N3hGc19qN0N0VGFzTm56cTNHLXROUThCa0hGQWlScUI4aFZpVi1VUzAySkhhaURhc0lkb0ZQeHVFdQ?oc=5",
-      "data": "26/07 04:15"
+      "titulo": "Análise: Fluminense produz pouco, e Fábio evita resultado pior contra o Grêmio - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYWVBSFdjR1JOY0NLZjJTcmsyQUFMLUJwbTRwc2JEclRZSGN1Qm5JNWJ5UHYtSFdHVWxpRHlfQ2xYX1J5RXVLVXZDMlpDUVBER0tyVXdnZ1NFQkEwemZYb0tKNFlfXzZSSXgtc1pLOE96Y2hSZS1DbDE0WktpeDFVVEZKb29tS0ZwakpuQzhfTXdmVk0wN2ZWZVI3Z2tXZm5nOWFsbXdpMjNydlVKd3ZRbjN1QzlmTk1nakJ5aWNXdHRxUjlVX2gxdUxfVXZJdkdveVRjczNwQjhyeFNHV1JpWdIB7wFBVV95cUxNQ1ZSZ2xXSTQxOWJrS3ViOVJPMzZqaGJRbnZsV1pFUTlFZFdWbFRGQ0F2R3B1SHVqamFRWDJyNVh5aXN4ZDJNU2hyczFTMjFkdGQ0cll0TzNTN1dhemZTNTktQVlmQkg4SjEwMWh3RnVNQV80ZWU2cXdHWXNUSmU1d0FCdHZUdl9QZFhhdXUyWlVKM0ZIeDh4YldkMVpJRTM5ME04Ym1PdEFNY2F0QmFDSFVlYWlfZlh5czI1WUF4TnNNemJyX2hoTzZIdmhZcldCb1ZFNnNYZTJwVjM2V3FCTWVaaE5Bb1VPc2dJZjhnSQ?oc=5",
+      "data": "27/07 06:00"
     },
     {
       "titulo": "Fim da novela? Ganso reaparece e pode confirmar permanência no Fluminense - Terra",
@@ -396,9 +396,9 @@
       "data": "27/07 00:14"
     },
     {
-      "titulo": "124 anos do Fluminense: onde o clube foi fundado e quem são os 20 fundadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMlI1UVJoWEVnR0xfdjU4M0szZGZ2dFNjOVRkaHQtMTdjSlNEX2tOSjNYbFRlT1JJNWYxQy1wdjFXaU1ueWFPbml0QWRYZGV5VlhLRVRnM2lMc2kxem1MdW9idXRGaks3cnlBWVhEV1pybm5KcmpxRmppUU4tMkhUVzBLS2pNWi1vM25zd053U0dsTnI2NUZGVHVDVzVUdFNRVGxJZTRIWUN6LV8tNzFxcVh0MGFFTjI4T2JRSWtXcnl0UkhvR0tyNmdCalpSS0xWUHpLYmV6czVtcmNQVFZB0gHuAUFVX3lxTE9BRzRXd2V4Smx5NHNiRlhtSFZjQTdZckhDYkJzV2UtTXFUbXNxRnkzR21iQkswTHJrZG1BYXJ6MkVabGtnY3BXTW1kVUVXWDVSS2h6RkhsVzM5VlJnamtLdVozSVdpQ3V0ZHFmbFNRMUZWUXFpVGptZ3BUd1dETVBxTVN3SE5Xb3hjMUNGUk5DNWdON0d4all5LTVYUTRJTmNlTjJEeEotZ0lhYWdmQ0R2ZHVPb0pMNlFWMkZNOUp3Q0tEOU5weHBtZENnY25tVE1uN0NxR3J4QmNqRVhzUi01SWxObExjRGgtUzFWNVE?oc=5",
-      "data": "21/07 11:00"
+      "titulo": "Fluminense vence no tempo normal, mas cai nos pênaltis e fica com vice-campeonato do Carioca Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDNWX3hicjN1TFlmeWNHZVlEcW56STFUNEpHX0xCUmFaWVJvaWZGOVdEVkhjb3N6QmlMRTRIUmRCZV9SUFBlamx1d0ZiNC1RTkdKYXk1OTg2OFJ4cDg5VHRva1dIaTJucHhDUktRN0pNUENyZFFpRVFETXRfcUE0WUpXR1I0U1BfQVF4VTJJZ3BJQ1p1bkVLMjhsQVF5MWIwQVJJNE1PUThScGI5amNwanBBdVhSMlRjdGJYYkEwbm5tVlFZci1mdF9ya0ZUck5Iamc?oc=5",
+      "data": "26/07 15:45"
     }
   ],
   "avisos": []
