@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/07/2026 10:36",
+  "atualizado_em": "27/07/2026 13:13",
   "jogos": [
     {
       "sport": "futebol",
@@ -42,6 +42,16 @@ window.PAINEL_DATA = {
       "match": "Sport Recife x Cuiabá",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-27",
+      "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Gremio Prudente x Bandeirante SP",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -376,7 +386,12 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Análise: Fluminense produz pouco, e Fábio evita resultado pior contra o Grêmio - ge",
+      "titulo": "Viralizado e dono de multa milionária: conheça Jean Carlos, joia do sub-17 do Fluminense - GE",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdlVSdzVJYTNRWGRYRGdCQVpRbGtOaVB5VENoQUxwd29LSzZnd2w2N25GYUZPZWprejRjcnR3dkkwdFBKV0xqYVNGS1pXbFpKa2F0M1JkZ1ViV1RRaFVKUXd4MW1VY2IybTZ5TXYwekJqTTJmWHlFSUJzUnZNRC0tcHVKSkloZ19IZVFuX1pzQ0hYMkFvdnRJaXJYdXNCNEhobU4xQUF4VFQyYTBfeXZwXzVobGhoZS1zVWlQY2ltb2RwOWhCYjd1UlI2S1YzS2RkMERfQUNXOHJhSFlxeEQ0cEZDUDV0VkJHMDRQejJ30gH8AUFVX3lxTE9xWThKQTQ0aVU2ZUFTM1plbDF5QnVuckJPWkl5MEQ0Vm9WN204LW9qSGNKRk42Y0lkNmxvckVSdEFZdjJTWnZOalBlVHVqWFVqZF9EN0FzanQtQjFnYU5QRkNGZXhtcFNVWFdJYlRDYzFaWTF0R1BfVEI1SkRRT181dU1TNW1IYnpfaDhvN2ptS2tTdWgxZXB5TTFqNWVDTWpRdm1BSllpM0sySERQVHJaNG11dmFRUEJvNVhsR3JiV3U1ZmdKc0ZxWHcxaDFya2FoSUhWNkFxSFR4MS1BRzFVQmx0MWVMQ0RPSkVuTHNMbU5CODdPWUZDTWxjLQ?oc=5",
+      "data": "25/07 07:00"
+    },
+    {
+      "titulo": "Análise: Fluminense produz pouco, e Fábio evita resultado pior contra o Grêmio - GE",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYWVBSFdjR1JOY0NLZjJTcmsyQUFMLUJwbTRwc2JEclRZSGN1Qm5JNWJ5UHYtSFdHVWxpRHlfQ2xYX1J5RXVLVXZDMlpDUVBER0tyVXdnZ1NFQkEwemZYb0tKNFlfXzZSSXgtc1pLOE96Y2hSZS1DbDE0WktpeDFVVEZKb29tS0ZwakpuQzhfTXdmVk0wN2ZWZVI3Z2tXZm5nOWFsbXdpMjNydlVKd3ZRbjN1QzlmTk1nakJ5aWNXdHRxUjlVX2gxdUxfVXZJdkdveVRjczNwQjhyeFNHV1JpWdIB7wFBVV95cUxNQ1ZSZ2xXSTQxOWJrS3ViOVJPMzZqaGJRbnZsV1pFUTlFZFdWbFRGQ0F2R3B1SHVqamFRWDJyNVh5aXN4ZDJNU2hyczFTMjFkdGQ0cll0TzNTN1dhemZTNTktQVlmQkg4SjEwMWh3RnVNQV80ZWU2cXdHWXNUSmU1d0FCdHZUdl9QZFhhdXUyWlVKM0ZIeDh4YldkMVpJRTM5ME04Ym1PdEFNY2F0QmFDSFVlYWlfZlh5czI1WUF4TnNNemJyX2hoTzZIdmhZcldCb1ZFNnNYZTJwVjM2V3FCTWVaaE5Bb1VPc2dJZjhnSQ?oc=5",
       "data": "27/07 06:00"
     },
@@ -386,19 +401,14 @@ window.PAINEL_DATA = {
       "data": "26/07 19:49"
     },
     {
+      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
+      "data": "16/05 07:00"
+    },
+    {
       "titulo": "Flu deixa Torneio OPG Sub-20 nos pênaltis - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlM5a2Y2NjR5d1hZcHE0UzhzT0l1aVRDZThSWFNULWhYSDJrMl9tVzVHQlJ3cjZiOXR1S0JyMnRJZjFRc3BWTmduWjhIcXFrX1FTX1BYTkk5YlNaTVJBMzMxamJBeXhaYXpSVVlHWkZ5VnFpaWdrRG1jOWRSQVV5R1l3b3dZZw?oc=5",
       "data": "25/07 20:35"
-    },
-    {
-      "titulo": "Fluminense marca com Hulk, mas Grêmio busca empate com dupla estreante - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM1JRNzU2N2I2b1FXWFFOVlB6VTE1NHVaS2RwNk5oVk9hR3ZjUTVhZlpSa1FqYjNINzJlcUxrUzdINEJkb3F4WGdNdm9VMXA3QXZUbzRFZnVwSHk0R3lRMGpmcmNNVWp2X01vbnFMLWxQZzVrVDFzVHdvaWN0NUhteTdMSnFQaXpGVE5aRzRkcjZJcnRscGtkZ2JSNEJoSXpyd19ZUkx6ckhTdUdMNV9RUUVRaVnSAboBQVVfeXFMTUh2WHBFMmNwMVhWZ3JHT3NUWlJKcHVsb2NJWTA0Vy13ekVlSFZEUW1MOVpqU1ljY0lKclJSaFEwSERKOVFvLW1QeDZsdWlBc1FUWFFZNGpvYm5OdUFRekY5VkVXOGtGUVNYSWNNeFhlME9VOGNqaHBROGI1bkxTLXZLTGhZNWkyRkJlY1A2TUJOQlhjRFY2TWxybzgyZXVOd2U0b3Vva3ctajc4eWVYU0pMU0llcWV5Q2lB?oc=5",
-      "data": "27/07 00:14"
-    },
-    {
-      "titulo": "Fluminense vence no tempo normal, mas cai nos pênaltis e fica com vice-campeonato do Carioca Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDNWX3hicjN1TFlmeWNHZVlEcW56STFUNEpHX0xCUmFaWVJvaWZGOVdEVkhjb3N6QmlMRTRIUmRCZV9SUFBlamx1d0ZiNC1RTkdKYXk1OTg2OFJ4cDg5VHRva1dIaTJucHhDUktRN0pNUENyZFFpRVFETXRfcUE0WUpXR1I0U1BfQVF4VTJJZ3BJQ1p1bkVLMjhsQVF5MWIwQVJJNE1PUThScGI5amNwanBBdVhSMlRjdGJYYkEwbm5tVlFZci1mdF9ya0ZUck5Iamc?oc=5",
-      "data": "26/07 15:45"
     }
   ],
   "avisos": []
