@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/07/2026 13:03",
+  "atualizado_em": "28/07/2026 15:10",
   "jogos": [
     {
       "sport": "futebol",
@@ -492,29 +492,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Cartão de Acosta, do Fluminense, gera alerta de manipulação e investigação; jogador nega envolvimento - GE",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcU1YT25tbGthQXFfTXhRQmRYWU9iaDdTdm9qbmdUOVBNUnB4RWxDczc3VmlkS29MVUIwbzdJOUZSY0hzakRqdlhnb3RySUZadG9waGppSER3NVZLMjdIYTJtcFh5YkZPaS1kVmRGeGY3Y3ljSEh1cDIxLWZMS19kVzFXNk1TTW0zVnVILWNPczJWcDZhR2NmcTAwNmZYN3BYdzFzRUMwcnJhR3V1NWQ2eDJpY0JzS3hzcmpMcUdRSVdoWl9NcXZSTy1oZmFEaXQyYnNTUDVCZC1sVTZnZWM3MmFnYUJkWC1qNUJEZEdqcGg0RFV2aHFnYjZTMzdQdkw2WTlDZThNSHlfaGxEeDE2SdIBnwJBVV95cUxPVDRkTGs3UENWZ3hCMWFOZGdWaUFoVWktcG9GbjlmQ1dJcHprRWxNTC1semhQanVFUmpCWFRGaVFpQU1URlQwSTBQWl9OU0Z3Y3l0alpqam5JUVJUVDFQSnowRXl3X09WWktQUjA3UTZaVHNkZEg5Qm5sZmpaenNaMjc1TVNLSTFkR1o0V0N1UnRKVzF1VF9QWW04NDZvZVZ3UG9nUEhfY1dKMHdpNm4xRk5QZ3JUZXdpVUNON1NfUnNuUGNWOXN6WVY4eTlVb0FibGhDdU9JTWM2el9jZnZrN3A5NUFxWWNuaHhFQlpXcFdSTnNOQ0tseS1NTkhudGhlcXhfdHN1YWZoOUVxMTd6MDR0dDFPeGNocWVCSmttRQ?oc=5",
-      "data": "28/07 01:09"
+      "titulo": "Fluminense sofre com jogadores lesionados no retorno do Campeonato Brasileiro - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEZLUnJiUXRhVU9aOFU1MDZJTTlzVTAwSUhZMmNhMGMwaS1QLWhXVXhQWnRwQ3dKUENHZkc5eDlRWUZUMmNWOTBMTXpOWU9LQm9BeWwxa2dsZTdHdC04QUNVT2ktaFdGdlp1YjVFSWhKeHJubjNLZUYxc3Z1X0RVenlsSUI2LUtHX1VIbnFhdlF3Unh3RTU0QVVmekkwSkplVDdyeHVzb1daVXVDYTBpMFZkemhEWENNQ1NYOVo0UjQ3SWVNRzJXLW1Cc2txWTlfdFA3ZEUtUlF4aDIxM3NNZlNB0gHwAUFVX3lxTE1TVU4yLVE2S1FwMFUxWVZ5QW53QU9oUThFdEJxU3RmdEF2VXFQcHpoM0JLT1JLZ1h6dVR2MDhSS0o0RHlobjFtUjF0SG4xeEtYeGRLeFg5TWhkdEZ5VFRzYm44bEduWXhfSm5LN2tvOHBaTjlsWDZEcTJONVNXT0dtSWdkOGJqX0t5cTd1LTF5WFBVbk1QQXFuNVA0dHB3Q1RFRklSREdseHJ6V202VEt2Mlp5ZUJaZFlaTC1ycklGaldDUVJDdGxsMVhjTzFoSnp6LWtra1h3YkJ3QlVYUHhVSmc4MlpMQ1oxWGp3VExPUg?oc=5",
+      "data": "27/07 14:00"
     },
     {
-      "titulo": "Narrador afirma que o Fluminense gera muita preocupação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYldWT3RKUXpYTThhTmJScFAzdzJNVU8weDROTGJ2Umt0TmZzRVgxbjE0VDVVSUNyX0JLZjFoal9vVDEwVDVrT1I1M3Z2dGFBaWROSHdnUnQyalZMZHNQS0x6cS0wYUVCV2o5NktOOFhWQVdickRGMWpPaTI3Z3pFV3hWUW5acmt0Rm44eDFnY2tHYmNSZFREazd2aDJkZURyeFZzdHJudU5Ic0EyWGtMNi1nT3VYREktcEEzUms2d3hSa3U5TUpsWndFdHNZMDJ2ZjVmVkRNVUYwSldGSTRn?oc=5",
-      "data": "28/07 12:05"
+      "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFqYlNJb2g4NmJIVHNGa3VCSlduQ0x0US00UXNzUUJjeHk1OXNCS2ZtRldma3dib1ZTVWw0eTl3N2RZRTdKR1FXYUV2c1RIYkNXZFdxYWM4WlJmR0JON1NudFNqN3R2NVlTTjBNWFBnMm0yajZpVDFYN2kzLVJ6Y3pMdWVLOTczb2RtTG1QYlZRbGRkc09nWldSejA3RXFTQ016dFJ1RnA1MHpVTElUTU03VHBSLXlBX2JHZlBUUU9oV1k5UlhmOV9DU2lFY1F1V3JRb1Z3MUczNzFM?oc=5",
+      "data": "28/07 04:43"
     },
     {
-      "titulo": "Arana vai às redes e se manifesta após susto pelo Fluminense: 'Livramento' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzRyLUNBeGJtQ1Z5aFFoQzJlWWdBTDdObkxmd0Znd1U2cWRCVjN0Y0RnSUUxM3c1Y21KYjI1cmZRc1F3WlhOSFJPSHF6N240MWlucHN3UFNlWXJESUREUWFPQ3dfR1Y2cnhWRFhXUXZReWhBNEVLZW5yem1MOFNLSXBrUEFOMEhFTml0cU9wakVmc1p6V1BBNlhGd056RGdwUF95REx3c0MxNlM5b1BlRTdjNzFHZUdtY2hDdW40Umw4WV93T29vMjFKcGl6S2RDWTlMQWVnV3gyS1lXbnA1MWE5MWtpLWZVMVFzSWU5TUpuUWc?oc=5",
-      "data": "27/07 21:03"
+      "titulo": "Ex-Fluminense, Calegari pode retornar ao futebol brasileiro - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXk4Qk9DS0E3MkhwLU9feHZUTWIweHZyWHg0cF9BTWZubUp0TnZ1UF85aENzcWZ4dnVnZVNlaW9KTzNPMFpyLUM2Y0RjV0RHTjIxSHRfbkItN3NacE9LbEc2aGJVTG83WWlQc0J3QmpCRDlVU3Y4cE50R19sbmhRbFZtQWdaX1VfVzlMOW9ObXBLN0NJbW9Oag?oc=5",
+      "data": "28/07 17:07"
+    },
+    {
+      "titulo": "Bahia enfrenta tabu de quase 40 anos contra o Fluminense no Maracanã - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkZyekljb3MtZVg5VzRTWkEyWHRSNEZ2UWpad3JraFllN2NyQ2JMcHlEZWh2RUt1blB2dTg3M0VzRlE4cGtCaGktZkxuR0lUamFYWE1ZanN6dXdFbzFBWFl3QmUwaHVsZ1dFbXZLRDRTN2RtSDhfbGJxVU9JQ29NNmI4ZmRGaDd2Sk1tc3dveF9zRk83WWJndHZFYjUzUVMyb3k1NS1KaTV0Z05kLVcteVVrSHBNUdIBvgFBVV95cUxORGlEcUE4eTJhYnMtc0gxbWlvZjdlSHZZWk9KWVZDUW55ZnBVRHFmeEg0endkcm43V3Z0UzQ1YkthZWtFZWFHZzVJaDFtcERpS25wSnFuTHVNSFMzZG56ZVdHdHEwdFJZdzZOczZqT2Fva1BnNi1xRzl5ai1Sb25EcXpIVDZjUGZRSzZCbktzLVRxVVBSSXFRekV3WFdacnZhU21Rb3hHa2lSM0NMdGVwQjZJWTliMmxMc0loUFdR?oc=5",
+      "data": "28/07 12:39"
     },
     {
       "titulo": "Fluminense x Bahia Palpite – Análise e notícias (29/07) - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWF83OEMtUXFHRUhmRmw0bzNSaWZDTmplZlVWNFhmSDBVb3k1VjZPOS1yaEVaSlBLVFM0VUJjdXNoVkxlemQtY0ZJckc2Z3dWV2RoZjkzN1JWQk9qQUJKT2NIazFlZkdCekkwOGRfZ3VfY2hNWEFIREdEbjR4S3BfWkVaSC16N1A3ZWVYMW13?oc=5",
-      "data": "28/07 05:03"
-    },
-    {
-      "titulo": "Fluminense terá sequência decisiva com seis jogos seguidos no Rio de Janeiro - GE",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWmVBRHVBd0FkV2FHNm5wSWw0X19ReWdYUGZ5dHBMNjZ6NloyYnlJUFdIaURKZXBCelNWWnlLLVNrSHZfTFdqbl9VU0tDNk9maUtDOGYyTnhsTVVFRHZZWXBHeVF6LUZvMWtZcm1BNjhCNkMtUmxlWjJXUkcxVjNBcVZFbFpvcGpZU0tGd0s5ZTlTbEJOS3RTalpqZGx4bldIVzZpMDN6QTNaNVN2Q1FhOU1GWVRxN2t6a1JKSXR0cURiVjJKenNPSHBqaHJ6MUtzcXdjVE9lN2ItVVVXeHM3SdIB7wFBVV95cUxQVld5bDhUZVhFUkgxUVRLY3Qwb2ljRkJOV1pRX28yUGdWV1R3ZnJPeVRnMGdVUnZLSS1tdjhoZW9HcWYtcmMwMmx2elJvYkpfeUh4bmhCa2xoMjZRVlQwWVZiYm8zSFhEaVB5RE5URDdZS2t5UENuV2R6ZFRfY0ZUSXlObEt5T011YTE3dWFKZFg5SW5QXzg2U2pNTVc2ZzhuRm5CNUN3UVlTTi16NEJmT1hIQ203ZUIya0VHN2tZaFJyOVlyNE56SFl0ODJ5VU1ucV9WaHVELWVJYkdmb2ExZUJMY0l4N2ZOZnVBaGxqYw?oc=5",
-      "data": "27/07 19:30"
+      "data": "28/07 17:08"
     }
   ],
   "avisos": []
