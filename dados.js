@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/07/2026 18:59",
+  "atualizado_em": "28/07/2026 20:07",
   "jogos": [
     {
       "sport": "futebol",
@@ -492,6 +492,16 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0ZPX1laV05OYjJRY2ZHN0EyQXhRa0tiZExPbExJcEM2cHBiWXg3MENVaHBvQjY0WHRCRTZDR0lDVmcwX1JNZjN2b0pnVjNfNExQeWJJNTlmNk54Z1BhYXgxem1IRU5aazNkZTM0QnY2UXZJT1gxaEdkY0tBdmY2enJISjdJLVV0ekZ6dmU4bjd0aFRjd0paclFNSGlFTzNzUXN4SXI3NnBLX2lVZ0JLamVGbW9hV0IxXzdSTVQ1TUdCRWYxN2JWUGZRVjU3V21fNExQUkNPT0Z0NVJRalJreG5GaFFzS29SQU9VVDFDVnhSa1hFazZDdjRCN3YzWS14NlBvWXNxMVhYaVk?oc=5",
+      "data": "28/07 18:43"
+    },
+    {
+      "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFqYlNJb2g4NmJIVHNGa3VCSlduQ0x0US00UXNzUUJjeHk1OXNCS2ZtRldma3dib1ZTVWw0eTl3N2RZRTdKR1FXYUV2c1RIYkNXZFdxYWM4WlJmR0JON1NudFNqN3R2NVlTTjBNWFBnMm0yajZpVDFYN2kzLVJ6Y3pMdWVLOTczb2RtTG1QYlZRbGRkc09nWldSejA3RXFTQ016dFJ1RnA1MHpVTElUTU03VHBSLXlBX2JHZlBUUU9oV1k5UlhmOV9DU2lFY1F1V3JRb1Z3MUczNzFM?oc=5",
+      "data": "28/07 04:43"
+    },
+    {
       "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTV4a3dpZGlMcGVDdW5ySUdyT0wtSGVrZHY0RERrbVhIMUxLN3FVT0E0U0hSdFV1TFItSGFTVG9Sc3Zhc2J3NmtzN043THQwLWowcjVNMTVWY3ZjVW0yVTlCRTV2eUdmeHRGbVBLaE5PTzJNeHh4WXVjQlVjTVdqckZCVkloV0NWTGEtd3RXY1VjamhVQ1pEd25CSlk1UUFuWGtEVWRSX3RKMVp4ZzRYMHNGQUFRUHdOeks0MnRVZkFEYmNCamVWMnV2SHFGcWpYWEl1bWpONG5TSWNQTDNWT1JaQVBZeldmYkE?oc=5",
       "data": "28/07 10:00"
@@ -505,16 +515,6 @@ window.PAINEL_DATA = {
       "titulo": "Bahia enfrenta tabu de quase 40 anos contra o Fluminense no Maracanã - A TARDE",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkZyekljb3MtZVg5VzRTWkEyWHRSNEZ2UWpad3JraFllN2NyQ2JMcHlEZWh2RUt1blB2dTg3M0VzRlE4cGtCaGktZkxuR0lUamFYWE1ZanN6dXdFbzFBWFl3QmUwaHVsZ1dFbXZLRDRTN2RtSDhfbGJxVU9JQ29NNmI4ZmRGaDd2Sk1tc3dveF9zRk83WWJndHZFYjUzUVMyb3k1NS1KaTV0Z05kLVcteVVrSHBNUdIBvgFBVV95cUxORGlEcUE4eTJhYnMtc0gxbWlvZjdlSHZZWk9KWVZDUW55ZnBVRHFmeEg0endkcm43V3Z0UzQ1YkthZWtFZWFHZzVJaDFtcERpS25wSnFuTHVNSFMzZG56ZVdHdHEwdFJZdzZOczZqT2Fva1BnNi1xRzl5ai1Sb25EcXpIVDZjUGZRSzZCbktzLVRxVVBSSXFRekV3WFdacnZhU21Rb3hHa2lSM0NMdGVwQjZJWTliMmxMc0loUFdR?oc=5",
       "data": "28/07 12:39"
-    },
-    {
-      "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0ZPX1laV05OYjJRY2ZHN0EyQXhRa0tiZExPbExJcEM2cHBiWXg3MENVaHBvQjY0WHRCRTZDR0lDVmcwX1JNZjN2b0pnVjNfNExQeWJJNTlmNk54Z1BhYXgxem1IRU5aazNkZTM0QnY2UXZJT1gxaEdkY0tBdmY2enJISjdJLVV0ekZ6dmU4bjd0aFRjd0paclFNSGlFTzNzUXN4SXI3NnBLX2lVZ0JLamVGbW9hV0IxXzdSTVQ1TUdCRWYxN2JWUGZRVjU3V21fNExQUkNPT0Z0NVJRalJreG5GaFFzS29SQU9VVDFDVnhSa1hFazZDdjRCN3YzWS14NlBvWXNxMVhYaVk?oc=5",
-      "data": "28/07 18:43"
-    },
-    {
-      "titulo": "Cartão de Acosta, do Fluminense, gera alerta de manipulação e investigação; jogador nega envolvimento - ge",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcU1YT25tbGthQXFfTXhRQmRYWU9iaDdTdm9qbmdUOVBNUnB4RWxDczc3VmlkS29MVUIwbzdJOUZSY0hzakRqdlhnb3RySUZadG9waGppSER3NVZLMjdIYTJtcFh5YkZPaS1kVmRGeGY3Y3ljSEh1cDIxLWZMS19kVzFXNk1TTW0zVnVILWNPczJWcDZhR2NmcTAwNmZYN3BYdzFzRUMwcnJhR3V1NWQ2eDJpY0JzS3hzcmpMcUdRSVdoWl9NcXZSTy1oZmFEaXQyYnNTUDVCZC1sVTZnZWM3MmFnYUJkWC1qNUJEZEdqcGg0RFV2aHFnYjZTMzdQdkw2WTlDZThNSHlfaGxEeDE2SdIBnwJBVV95cUxPVDRkTGs3UENWZ3hCMWFOZGdWaUFoVWktcG9GbjlmQ1dJcHprRWxNTC1semhQanVFUmpCWFRGaVFpQU1URlQwSTBQWl9OU0Z3Y3l0alpqam5JUVJUVDFQSnowRXl3X09WWktQUjA3UTZaVHNkZEg5Qm5sZmpaenNaMjc1TVNLSTFkR1o0V0N1UnRKVzF1VF9QWW04NDZvZVZ3UG9nUEhfY1dKMHdpNm4xRk5QZ3JUZXdpVUNON1NfUnNuUGNWOXN6WVY4eTlVb0FibGhDdU9JTWM2el9jZnZrN3A5NUFxWWNuaHhFQlpXcFdSTnNOQ0tseS1NTkhudGhlcXhfdHN1YWZoOUVxMTd6MDR0dDFPeGNocWVCSmttRQ?oc=5",
-      "data": "28/07 01:09"
     }
   ],
   "avisos": []
