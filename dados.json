@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 15:10",
+  "atualizado_em": "28/07/2026 17:13",
   "jogos": [
     {
       "sport": "futebol",
@@ -463,28 +463,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.2,
+      "temp_max": 28.0,
       "temp_min": 17.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.8,
+      "temp_max": 30.0,
       "temp_min": 18.9,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.8,
+      "temp_max": 23.7,
       "temp_min": 13.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.2,
+      "temp_max": 24.3,
       "temp_min": 11.7,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
@@ -492,7 +492,7 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense sofre com jogadores lesionados no retorno do Campeonato Brasileiro - GE",
+      "titulo": "Fluminense sofre com jogadores lesionados no retorno do Campeonato Brasileiro - ge",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEZLUnJiUXRhVU9aOFU1MDZJTTlzVTAwSUhZMmNhMGMwaS1QLWhXVXhQWnRwQ3dKUENHZkc5eDlRWUZUMmNWOTBMTXpOWU9LQm9BeWwxa2dsZTdHdC04QUNVT2ktaFdGdlp1YjVFSWhKeHJubjNLZUYxc3Z1X0RVenlsSUI2LUtHX1VIbnFhdlF3Unh3RTU0QVVmekkwSkplVDdyeHVzb1daVXVDYTBpMFZkemhEWENNQ1NYOVo0UjQ3SWVNRzJXLW1Cc2txWTlfdFA3ZEUtUlF4aDIxM3NNZlNB0gHwAUFVX3lxTE1TVU4yLVE2S1FwMFUxWVZ5QW53QU9oUThFdEJxU3RmdEF2VXFQcHpoM0JLT1JLZ1h6dVR2MDhSS0o0RHlobjFtUjF0SG4xeEtYeGRLeFg5TWhkdEZ5VFRzYm44bEduWXhfSm5LN2tvOHBaTjlsWDZEcTJONVNXT0dtSWdkOGJqX0t5cTd1LTF5WFBVbk1QQXFuNVA0dHB3Q1RFRklSREdseHJ6V202VEt2Mlp5ZUJaZFlaTC1ycklGaldDUVJDdGxsMVhjTzFoSnp6LWtra1h3YkJ3QlVYUHhVSmc4MlpMQ1oxWGp3VExPUg?oc=5",
       "data": "27/07 14:00"
     },
@@ -502,19 +502,19 @@
       "data": "28/07 04:43"
     },
     {
+      "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0ZPX1laV05OYjJRY2ZHN0EyQXhRa0tiZExPbExJcEM2cHBiWXg3MENVaHBvQjY0WHRCRTZDR0lDVmcwX1JNZjN2b0pnVjNfNExQeWJJNTlmNk54Z1BhYXgxem1IRU5aazNkZTM0QnY2UXZJT1gxaEdkY0tBdmY2enJISjdJLVV0ekZ6dmU4bjd0aFRjd0paclFNSGlFTzNzUXN4SXI3NnBLX2lVZ0JLamVGbW9hV0IxXzdSTVQ1TUdCRWYxN2JWUGZRVjU3V21fNExQUkNPT0Z0NVJRalJreG5GaFFzS29SQU9VVDFDVnhSa1hFazZDdjRCN3YzWS14NlBvWXNxMVhYaVk?oc=5",
+      "data": "28/07 18:43"
+    },
+    {
       "titulo": "Ex-Fluminense, Calegari pode retornar ao futebol brasileiro - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXk4Qk9DS0E3MkhwLU9feHZUTWIweHZyWHg0cF9BTWZubUp0TnZ1UF85aENzcWZ4dnVnZVNlaW9KTzNPMFpyLUM2Y0RjV0RHTjIxSHRfbkItN3NacE9LbEc2aGJVTG83WWlQc0J3QmpCRDlVU3Y4cE50R19sbmhRbFZtQWdaX1VfVzlMOW9ObXBLN0NJbW9Oag?oc=5",
       "data": "28/07 17:07"
     },
     {
-      "titulo": "Bahia enfrenta tabu de quase 40 anos contra o Fluminense no Maracanã - A TARDE",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkZyekljb3MtZVg5VzRTWkEyWHRSNEZ2UWpad3JraFllN2NyQ2JMcHlEZWh2RUt1blB2dTg3M0VzRlE4cGtCaGktZkxuR0lUamFYWE1ZanN6dXdFbzFBWFl3QmUwaHVsZ1dFbXZLRDRTN2RtSDhfbGJxVU9JQ29NNmI4ZmRGaDd2Sk1tc3dveF9zRk83WWJndHZFYjUzUVMyb3k1NS1KaTV0Z05kLVcteVVrSHBNUdIBvgFBVV95cUxORGlEcUE4eTJhYnMtc0gxbWlvZjdlSHZZWk9KWVZDUW55ZnBVRHFmeEg0endkcm43V3Z0UzQ1YkthZWtFZWFHZzVJaDFtcERpS25wSnFuTHVNSFMzZG56ZVdHdHEwdFJZdzZOczZqT2Fva1BnNi1xRzl5ai1Sb25EcXpIVDZjUGZRSzZCbktzLVRxVVBSSXFRekV3WFdacnZhU21Rb3hHa2lSM0NMdGVwQjZJWTliMmxMc0loUFdR?oc=5",
-      "data": "28/07 12:39"
-    },
-    {
-      "titulo": "Fluminense x Bahia Palpite – Análise e notícias (29/07) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWF83OEMtUXFHRUhmRmw0bzNSaWZDTmplZlVWNFhmSDBVb3k1VjZPOS1yaEVaSlBLVFM0VUJjdXNoVkxlemQtY0ZJckc2Z3dWV2RoZjkzN1JWQk9qQUJKT2NIazFlZkdCekkwOGRfZ3VfY2hNWEFIREdEbjR4S3BfWkVaSC16N1A3ZWVYMW13?oc=5",
-      "data": "28/07 17:08"
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTV4a3dpZGlMcGVDdW5ySUdyT0wtSGVrZHY0RERrbVhIMUxLN3FVT0E0U0hSdFV1TFItSGFTVG9Sc3Zhc2J3NmtzN043THQwLWowcjVNMTVWY3ZjVW0yVTlCRTV2eUdmeHRGbVBLaE5PTzJNeHh4WXVjQlVjTVdqckZCVkloV0NWTGEtd3RXY1VjamhVQ1pEd25CSlk1UUFuWGtEVWRSX3RKMVp4ZzRYMHNGQUFRUHdOeks0MnRVZkFEYmNCamVWMnV2SHFGcWpYWEl1bWpONG5TSWNQTDNWT1JaQVBZeldmYkE?oc=5",
+      "data": "28/07 10:00"
     }
   ],
   "avisos": []
