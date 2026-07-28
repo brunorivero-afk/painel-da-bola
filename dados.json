@@ -1,26 +1,6 @@
 {
-  "atualizado_em": "28/07/2026 17:13",
+  "atualizado_em": "28/07/2026 18:59",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "15:45",
-      "competition": "Champions League",
-      "match": "Heart OF Midlothian x Sturm Graz",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Shamrock Rovers x Ararat-Armenia",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-28",
@@ -109,6 +89,26 @@
       "match": "Chelsea x Western Sydney Wanderers",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-28",
+      "time": "15:45",
+      "competition": "Champions League",
+      "match": "Heart OF Midlothian x Sturm Graz",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-28",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Shamrock Rovers x Ararat-Armenia",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -492,14 +492,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense sofre com jogadores lesionados no retorno do Campeonato Brasileiro - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEZLUnJiUXRhVU9aOFU1MDZJTTlzVTAwSUhZMmNhMGMwaS1QLWhXVXhQWnRwQ3dKUENHZkc5eDlRWUZUMmNWOTBMTXpOWU9LQm9BeWwxa2dsZTdHdC04QUNVT2ktaFdGdlp1YjVFSWhKeHJubjNLZUYxc3Z1X0RVenlsSUI2LUtHX1VIbnFhdlF3Unh3RTU0QVVmekkwSkplVDdyeHVzb1daVXVDYTBpMFZkemhEWENNQ1NYOVo0UjQ3SWVNRzJXLW1Cc2txWTlfdFA3ZEUtUlF4aDIxM3NNZlNB0gHwAUFVX3lxTE1TVU4yLVE2S1FwMFUxWVZ5QW53QU9oUThFdEJxU3RmdEF2VXFQcHpoM0JLT1JLZ1h6dVR2MDhSS0o0RHlobjFtUjF0SG4xeEtYeGRLeFg5TWhkdEZ5VFRzYm44bEduWXhfSm5LN2tvOHBaTjlsWDZEcTJONVNXT0dtSWdkOGJqX0t5cTd1LTF5WFBVbk1QQXFuNVA0dHB3Q1RFRklSREdseHJ6V202VEt2Mlp5ZUJaZFlaTC1ycklGaldDUVJDdGxsMVhjTzFoSnp6LWtra1h3YkJ3QlVYUHhVSmc4MlpMQ1oxWGp3VExPUg?oc=5",
-      "data": "27/07 14:00"
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTV4a3dpZGlMcGVDdW5ySUdyT0wtSGVrZHY0RERrbVhIMUxLN3FVT0E0U0hSdFV1TFItSGFTVG9Sc3Zhc2J3NmtzN043THQwLWowcjVNMTVWY3ZjVW0yVTlCRTV2eUdmeHRGbVBLaE5PTzJNeHh4WXVjQlVjTVdqckZCVkloV0NWTGEtd3RXY1VjamhVQ1pEd25CSlk1UUFuWGtEVWRSX3RKMVp4ZzRYMHNGQUFRUHdOeks0MnRVZkFEYmNCamVWMnV2SHFGcWpYWEl1bWpONG5TSWNQTDNWT1JaQVBZeldmYkE?oc=5",
+      "data": "28/07 10:00"
     },
     {
-      "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFqYlNJb2g4NmJIVHNGa3VCSlduQ0x0US00UXNzUUJjeHk1OXNCS2ZtRldma3dib1ZTVWw0eTl3N2RZRTdKR1FXYUV2c1RIYkNXZFdxYWM4WlJmR0JON1NudFNqN3R2NVlTTjBNWFBnMm0yajZpVDFYN2kzLVJ6Y3pMdWVLOTczb2RtTG1QYlZRbGRkc09nWldSejA3RXFTQ016dFJ1RnA1MHpVTElUTU03VHBSLXlBX2JHZlBUUU9oV1k5UlhmOV9DU2lFY1F1V3JRb1Z3MUczNzFM?oc=5",
-      "data": "28/07 04:43"
+      "titulo": "Escalação do Bahia contra o Fluminense: veja time provável, desfalques e dúvidas após treino - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnZGUnM5c3l4N0ozWnZFLU1HZkNfSEtQNVUwZHI0b3FwcHNZT0xaUThtQ01PY0FNbGpJV2RuQ2lneVJpbE8wcEtYU2xnVXJjc0Qwel9qVnBTSUt2VnFNekJnLTRBWVM0OUxnd0wwaE9ja2hOOGhUNk9XeEFWaTN1RUJmOFdrWWNYRnhyQ0pQTGh6Ny1oOE9wVDhvRWFMOWlmOVdlVnBHU0RnaUtPMFFQR3pkYUpuTnlCVzd4bERBcjlEYURKbWltVE5yb0p3Zm1Qb2RneDZOSzQ5TUtBWmpOQWthVG5TWUltTVlzVXRMVGzSAf8BQVVfeXFMTVoteE1EN2lxRHEwTUhLc0xZWlNsdzRVZHNuLVpaRWJpSldmaHV1QzV6dU95dXVYSmxhcTJPMTViNEtQUDl3aGVoZlhVRldsMWFhRmJ0Mks5a1VIeTFVVU5SSXNKR1hZdzlYeXV6S08yaUVZY1JIbkx4ejYzb2ZUa1czb0lwRGJIdHVucTRVSHFTaWpqanRXbXhWeElOZEUyVEpzdEhCcVY1aWJIZ1hKdGdXWi04VERkZmZrMVprR0xQR1E1X1hPaHBVWUQ2VDFVRWRoTGdyTjBqSVd6YlJuZmhyQ0dxelJKX1FSWDJLUFdsNDBFbTkzbnRPRXZGZVlz?oc=5",
+      "data": "28/07 17:15"
+    },
+    {
+      "titulo": "Bahia enfrenta tabu de quase 40 anos contra o Fluminense no Maracanã - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkZyekljb3MtZVg5VzRTWkEyWHRSNEZ2UWpad3JraFllN2NyQ2JMcHlEZWh2RUt1blB2dTg3M0VzRlE4cGtCaGktZkxuR0lUamFYWE1ZanN6dXdFbzFBWFl3QmUwaHVsZ1dFbXZLRDRTN2RtSDhfbGJxVU9JQ29NNmI4ZmRGaDd2Sk1tc3dveF9zRk83WWJndHZFYjUzUVMyb3k1NS1KaTV0Z05kLVcteVVrSHBNUdIBvgFBVV95cUxORGlEcUE4eTJhYnMtc0gxbWlvZjdlSHZZWk9KWVZDUW55ZnBVRHFmeEg0endkcm43V3Z0UzQ1YkthZWtFZWFHZzVJaDFtcERpS25wSnFuTHVNSFMzZG56ZVdHdHEwdFJZdzZOczZqT2Fva1BnNi1xRzl5ai1Sb25EcXpIVDZjUGZRSzZCbktzLVRxVVBSSXFRekV3WFdacnZhU21Rb3hHa2lSM0NMdGVwQjZJWTliMmxMc0loUFdR?oc=5",
+      "data": "28/07 12:39"
     },
     {
       "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
@@ -507,14 +512,9 @@
       "data": "28/07 18:43"
     },
     {
-      "titulo": "Ex-Fluminense, Calegari pode retornar ao futebol brasileiro - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNXk4Qk9DS0E3MkhwLU9feHZUTWIweHZyWHg0cF9BTWZubUp0TnZ1UF85aENzcWZ4dnVnZVNlaW9KTzNPMFpyLUM2Y0RjV0RHTjIxSHRfbkItN3NacE9LbEc2aGJVTG83WWlQc0J3QmpCRDlVU3Y4cE50R19sbmhRbFZtQWdaX1VfVzlMOW9ObXBLN0NJbW9Oag?oc=5",
-      "data": "28/07 17:07"
-    },
-    {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTV4a3dpZGlMcGVDdW5ySUdyT0wtSGVrZHY0RERrbVhIMUxLN3FVT0E0U0hSdFV1TFItSGFTVG9Sc3Zhc2J3NmtzN043THQwLWowcjVNMTVWY3ZjVW0yVTlCRTV2eUdmeHRGbVBLaE5PTzJNeHh4WXVjQlVjTVdqckZCVkloV0NWTGEtd3RXY1VjamhVQ1pEd25CSlk1UUFuWGtEVWRSX3RKMVp4ZzRYMHNGQUFRUHdOeks0MnRVZkFEYmNCamVWMnV2SHFGcWpYWEl1bWpONG5TSWNQTDNWT1JaQVBZeldmYkE?oc=5",
-      "data": "28/07 10:00"
+      "titulo": "Cartão de Acosta, do Fluminense, gera alerta de manipulação e investigação; jogador nega envolvimento - ge",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcU1YT25tbGthQXFfTXhRQmRYWU9iaDdTdm9qbmdUOVBNUnB4RWxDczc3VmlkS29MVUIwbzdJOUZSY0hzakRqdlhnb3RySUZadG9waGppSER3NVZLMjdIYTJtcFh5YkZPaS1kVmRGeGY3Y3ljSEh1cDIxLWZMS19kVzFXNk1TTW0zVnVILWNPczJWcDZhR2NmcTAwNmZYN3BYdzFzRUMwcnJhR3V1NWQ2eDJpY0JzS3hzcmpMcUdRSVdoWl9NcXZSTy1oZmFEaXQyYnNTUDVCZC1sVTZnZWM3MmFnYUJkWC1qNUJEZEdqcGg0RFV2aHFnYjZTMzdQdkw2WTlDZThNSHlfaGxEeDE2SdIBnwJBVV95cUxPVDRkTGs3UENWZ3hCMWFOZGdWaUFoVWktcG9GbjlmQ1dJcHprRWxNTC1semhQanVFUmpCWFRGaVFpQU1URlQwSTBQWl9OU0Z3Y3l0alpqam5JUVJUVDFQSnowRXl3X09WWktQUjA3UTZaVHNkZEg5Qm5sZmpaenNaMjc1TVNLSTFkR1o0V0N1UnRKVzF1VF9QWW04NDZvZVZ3UG9nUEhfY1dKMHdpNm4xRk5QZ3JUZXdpVUNON1NfUnNuUGNWOXN6WVY4eTlVb0FibGhDdU9JTWM2el9jZnZrN3A5NUFxWWNuaHhFQlpXcFdSTnNOQ0tseS1NTkhudGhlcXhfdHN1YWZoOUVxMTd6MDR0dDFPeGNocWVCSmttRQ?oc=5",
+      "data": "28/07 01:09"
     }
   ],
   "avisos": []
