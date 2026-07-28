@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/07/2026 05:26",
+  "atualizado_em": "28/07/2026 08:13",
   "jogos": [
     {
       "sport": "futebol",
@@ -132,6 +132,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-29",
+      "time": "12:00",
+      "competition": "Champions League",
+      "match": "Kairat Almaty x Omonia Nicosia",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
       "time": "14:30",
       "competition": "Campeonato Argentino",
       "match": "Barracas Central x Aldosivi",
@@ -219,7 +229,8 @@ window.PAINEL_DATA = {
       "match": "Fluminense x Bahia",
       "channels": [
         "GLOBO",
-        "PREMIERE 2"
+        "PREMIERE 2",
+        "PREMIERE 3"
       ]
     },
     {
@@ -457,12 +468,12 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense sofre com jogadores lesionados no retorno do Campeonato Brasileiro - GE",
+      "titulo": "Fluminense sofre com jogadores lesionados no retorno do Campeonato Brasileiro - ge",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEZLUnJiUXRhVU9aOFU1MDZJTTlzVTAwSUhZMmNhMGMwaS1QLWhXVXhQWnRwQ3dKUENHZkc5eDlRWUZUMmNWOTBMTXpOWU9LQm9BeWwxa2dsZTdHdC04QUNVT2ktaFdGdlp1YjVFSWhKeHJubjNLZUYxc3Z1X0RVenlsSUI2LUtHX1VIbnFhdlF3Unh3RTU0QVVmekkwSkplVDdyeHVzb1daVXVDYTBpMFZkemhEWENNQ1NYOVo0UjQ3SWVNRzJXLW1Cc2txWTlfdFA3ZEUtUlF4aDIxM3NNZlNB0gHwAUFVX3lxTE1TVU4yLVE2S1FwMFUxWVZ5QW53QU9oUThFdEJxU3RmdEF2VXFQcHpoM0JLT1JLZ1h6dVR2MDhSS0o0RHlobjFtUjF0SG4xeEtYeGRLeFg5TWhkdEZ5VFRzYm44bEduWXhfSm5LN2tvOHBaTjlsWDZEcTJONVNXT0dtSWdkOGJqX0t5cTd1LTF5WFBVbk1QQXFuNVA0dHB3Q1RFRklSREdseHJ6V202VEt2Mlp5ZUJaZFlaTC1ycklGaldDUVJDdGxsMVhjTzFoSnp6LWtra1h3YkJ3QlVYUHhVSmc4MlpMQ1oxWGp3VExPUg?oc=5",
       "data": "27/07 14:00"
     },
     {
-      "titulo": "Ganso e mais: veja quem do Fluminense ainda não bateu 13 jogos no Brasileirão - GE",
+      "titulo": "Ganso e mais: veja quem do Fluminense ainda não bateu 13 jogos no Brasileirão - ge",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYmIwcU5pLWlnbE5OdzQ0dnJMdWhua2RCa2lOaVBrZWU2U0MxR3pjQmlkZHNScVFJeUVfV29iaFBSbHZyaldCWEhWTUtzeTFMZjRyXzZiem5jRUNDQURuY3pmSVlMclpwQVZJeTJXZTZrbGc1ZS05RURxejg5QjN6R0E4dVpLS1NiZE5nTDFSVmpEbEtQU0hQM3pHWVgwTTdidVQ5WHJ0MmRNaHN4VW9TR3ljdmNUeV8tUFUxWmE2Rm9RaXRBaE5NOGFEMWMzUjdsc0g2emltVUZsZ25TcW5PTNIB7wFBVV95cUxOYjRTSjFJdDY1TWt5czdjVHZ6QlJnS2k1VFB4OFlVUGpHZWQ2OHNWY2FySjRQUm9FSGltal9jQ2dYVF9XNFJ2STRwX29GckJfTVJFbVZDNGZvSVhaOXFjVzIwRFVlbXd3X201dGdRbjJQSTRqY0luQ1BVRnFyQVNONl9QZ253Z0xzRUJVU1NxeWhPY3R3cXBCVEJHUDA5WlBha0VmbDZPZ2lsSno3SlFKaHhBYWV4OVNUS0ZXWHQwVHl2bGtxLWpIc3RXMmdwTG9fVmxWX2xSYU9nREh3bmJLRlJocjVYbEM2bzM0eGpUVQ?oc=5",
       "data": "28/07 07:00"
     },
@@ -472,14 +483,14 @@ window.PAINEL_DATA = {
       "data": "28/07 04:43"
     },
     {
-      "titulo": "Fluminense mantém sina e acumula tropeços no Brasileirão - Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZm9nTUhQcDNNOC1WaU1NU1BDdUxWcVNYWlR3N2FwWENNTHp5UmJrYnRVUkQ1aTIyanhiWHZZT3Iyc19IUXM5ZkRzWmVKY1hOZVBOcm0zaVFCUTV6c3JSOVYwejFxLTdzU1FZSDZjMmZwdkJXOFljcEYtUTFLNE9pei1qaWU1cHI3TmpTakwtbHNUV2dlSV92ZGxPUzhnRV80X2hZVHZVZWxCeUVfTU9KbmJ4NW9tUDliMllkaWFvTF9Rdw?oc=5",
-      "data": "27/07 11:25"
+      "titulo": "O que muda em um turno? Fluminense reencontra Grêmio com trocas no time, reforços e missões para Zubeldía - ge",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWnZwLUZNOXFtNmx5RzB1cHNEdWFZenZFZGpuRmk1bDdTRFYwVFY0NFR3NmNUZThYTVFxMWY4UkRkTkRLTzAzNnBLaGhvQWM1MzFEdVZHSVVkeEtSWFBaN2piektrN08xN2NxWU5pa1ZvNDNfanE3Yk52RFVKWlBEQ0oyNUtrRnkyTXdhZUwwVlZyeVFkWEdxbHBIdFNYN3E0T2JQcDVmMDBweVotNmQyV1ZoNFhTcnlNc1g5VThWdVhjaEFCaWxpdEdMdnB4OGVRbDQyYklXYkpmSFNzRDFHRmx0eUZRWGJ4T1p4U2FTV1NGZnBZYW5WcEtHNTlXQXN0YXhnddIBkwJBVV95cUxQWEN4dHJnYnkzaXhTdHFBY1hjNVVYNThacldCYWhsRlpiVjJXUmRXSU93RnNVZGNyMEpKVzVOMjExU2dQM2habEtNVzFyNkpZUFFHWUwxdEJLQkY0Y1IzUTUzWmhMc0lwcjZqZ2VSTlRCZG5TUlBjeVlxX2wyNmJ2N3djX3R6VGFOQXFCWXRYdk1td1RBT01pNFRTb0NyTVhjbjNBVnh1Vk04Vk5EeEE3dF9ocmN5TzQwXzdGOElpc09reVpNX0VUOVZYS25xWGJXbjJpTWJnYkI5VUxLeU53ckoyMjBhR1VGR0Q0NVZKSGNHMWJvRUlfWHR1c3pyc19UbFljQVlSa1lQRVlueGljdnFVOA?oc=5",
+      "data": "26/07 08:00"
     },
     {
-      "titulo": "Fim da novela? Ganso reaparece e pode confirmar permanência no Fluminense - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmMzWkd2c3dJbDlMRzhJNmVzaXZxdTFiTHB3NzFpaXVONklIRzBqM3RKelpoTEVCaWE5WDJoZXZtNE5XQ09VNm9Ec3lBcWJUbUR6WXkyaEl2YW1yS1JQYTRFR2Ntb1dtcnhtQmQ3TGNLd01BODVGdDBEWWpPcWpsQUVTOUxMR05WOXdQOW1VZF9wNWgyWXFYRFQ1ZU0yMjlndDNQZm9lM0NkaXNHR2pJeTZNb1pHTnNibkxacEt1QUxVZGRRbXloVnhLNVNyV1hnVElFQXdMdDVMNkNYc2kxaUltcmV6N2x0c3c5UEEzdWo1UQ?oc=5",
-      "data": "26/07 19:49"
+      "titulo": "Na briga direta pelo G5, Fluminense ostenta bom desempenho diante do Bahia - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYl9jbi1VU0xDS2dPcjgwNUZBNXc4UjU3ZXhUX2JzX2JEUWowRVBRNTkzT1lNZU84QmVJY3dpOUNJOERITVBYbFVVUG90eUgxd2hscWJLemw1Wk4yVV9HTEdneDQtZzJ0MDRpcmpzZXc4eGEzcTF3QWkxSXVKNUpsX1g5MklNaDE4SVE5c2dtQW1Ja2xJLWlBZDJJN01KdGQ3UVZJWHFIYUIzTldhQjdlVDlocXM0Y3NOZGFJME5Qc2dqdFNidEtXSmxCSzdYTmdyY3M2X0V2YXYtNmNIZlhaNHZPWkkxQ0ZrVmJicmxseDQ2YkRPd3c?oc=5",
+      "data": "28/07 09:20"
     }
   ],
   "avisos": []
