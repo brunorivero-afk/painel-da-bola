@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/07/2026 02:43",
+  "atualizado_em": "28/07/2026 05:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -428,29 +428,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.8,
-      "temp_min": 18.2,
+      "temp_max": 28.2,
+      "temp_min": 18.3,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.4,
-      "temp_min": 19.2,
+      "temp_max": 29.9,
+      "temp_min": 19.3,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.4,
-      "temp_min": 13.9,
+      "temp_max": 24.2,
+      "temp_min": 13.7,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.6,
-      "temp_min": 12.6,
+      "temp_max": 24.4,
+      "temp_min": 12.4,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
@@ -462,24 +462,24 @@
       "data": "27/07 14:00"
     },
     {
-      "titulo": "Veja lance investigado pela CBF em que Acosta leva cartão amarelo - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQlJGTXBfb3hZbGotcEo1RkJfcnd5eHJqNk5Xa2RqeU12cW50ZFBhc3IxeEtPNDZfQXFWT19yaFhhSUhxdUtlVWRGRzhOZ2draE5oN1JGVmNKVC1Hcl96OERrY2RIMVVuZTJrSmR1WU16RkozYlY1c0k4ZGZyeHhPdndDcC1GRG1WNUZXbVdzSUJabVNzWHZNWW12U3Bsck9oSUYzSEJEcVV5cUtCc1VMbVh0UlVFaXVlMWpZdzF6aEttWjBIV1hQbUh4NnFhZ19fWVV0X2JnY3FFa0JybWFYMHpxcmwtVUs3LXFRaDRUWFdrblk?oc=5",
-      "data": "28/07 02:09"
+      "titulo": "Ganso e mais: veja quem do Fluminense ainda não bateu 13 jogos no Brasileirão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYmIwcU5pLWlnbE5OdzQ0dnJMdWhua2RCa2lOaVBrZWU2U0MxR3pjQmlkZHNScVFJeUVfV29iaFBSbHZyaldCWEhWTUtzeTFMZjRyXzZiem5jRUNDQURuY3pmSVlMclpwQVZJeTJXZTZrbGc1ZS05RURxejg5QjN6R0E4dVpLS1NiZE5nTDFSVmpEbEtQU0hQM3pHWVgwTTdidVQ5WHJ0MmRNaHN4VW9TR3ljdmNUeV8tUFUxWmE2Rm9RaXRBaE5NOGFEMWMzUjdsc0g2emltVUZsZ25TcW5PTNIB7wFBVV95cUxOYjRTSjFJdDY1TWt5czdjVHZ6QlJnS2k1VFB4OFlVUGpHZWQ2OHNWY2FySjRQUm9FSGltal9jQ2dYVF9XNFJ2STRwX29GckJfTVJFbVZDNGZvSVhaOXFjVzIwRFVlbXd3X201dGdRbjJQSTRqY0luQ1BVRnFyQVNONl9QZ253Z0xzRUJVU1NxeWhPY3R3cXBCVEJHUDA5WlBha0VmbDZPZ2lsSno3SlFKaHhBYWV4OVNUS0ZXWHQwVHl2bGtxLWpIc3RXMmdwTG9fVmxWX2xSYU9nREh3bmJLRlJocjVYbEM2bzM0eGpUVQ?oc=5",
+      "data": "28/07 07:00"
     },
     {
-      "titulo": "Cartão amarelo de Lucho Acosta, do Fluminense, gera investigação por suspeita de manipulação de apostas - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbkJBaXNzYWItQjJ2aVlNVldLUUtCSnVfSTg3Y0dGUHhUdXZLRXpLOFo4akpvc29IbDhYakpRdUtkRlB2Um1zSnJ4Ry1LTjdmZnByS2JGOVhQaTdNWEg4YV8yMGgzZDJ2dUJGbFpiQlFfa3gtQmhCRWJyT0RfQmN5Y3hNdUhtdnpVS0FYUHNuWVRUZ1llTXpSTlAtNHo0SW90a2l3dGtRQ2hXaGRQWVVKNmtwNm92c29laDBiRXNFY21kSHg1alZreGtvZDRnVVNLeTVFQ2I2SEViZw?oc=5",
-      "data": "28/07 02:06"
-    },
-    {
-      "titulo": "CBF investiga alto volume de apostas em cartão recebido por Acosta, do Fluminense - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNU0JndjFURnBpb000Y2kza2NIRVN3REJyejF4c3FZTURLM3lEQ2p4Szh2R2xIQTFhLWJRaDRjYTZJWXg5WV9xQXpJVmRWV1NzQndUdkVhYjl3aVJqX2dQUHptMi12ZjhIYkwzUWxvM21QSm9QZlZZRVVBS1g5SXMtbFV1dk12NndvUXp3b1E0V2h6TTB4TVpqd2tkcmV5Nm5KNDNLTEhHbzQtNWMzNkVYZlJmdTJtczNNQzdvQi12U29KNmZWT3J3TGhiczE4UThiaERaXzRaaGY5NGg4N1JRN3QwRWczTk55UW1MWEVrOW9tNnZua1B4RkRR?oc=5",
-      "data": "28/07 02:26"
+      "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFqYlNJb2g4NmJIVHNGa3VCSlduQ0x0US00UXNzUUJjeHk1OXNCS2ZtRldma3dib1ZTVWw0eTl3N2RZRTdKR1FXYUV2c1RIYkNXZFdxYWM4WlJmR0JON1NudFNqN3R2NVlTTjBNWFBnMm0yajZpVDFYN2kzLVJ6Y3pMdWVLOTczb2RtTG1QYlZRbGRkc09nWldSejA3RXFTQ016dFJ1RnA1MHpVTElUTU03VHBSLXlBX2JHZlBUUU9oV1k5UlhmOV9DU2lFY1F1V3JRb1Z3MUczNzFM?oc=5",
+      "data": "28/07 04:43"
     },
     {
       "titulo": "Fluminense mantém sina e acumula tropeços no Brasileirão - Correio Braziliense",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZm9nTUhQcDNNOC1WaU1NU1BDdUxWcVNYWlR3N2FwWENNTHp5UmJrYnRVUkQ1aTIyanhiWHZZT3Iyc19IUXM5ZkRzWmVKY1hOZVBOcm0zaVFCUTV6c3JSOVYwejFxLTdzU1FZSDZjMmZwdkJXOFljcEYtUTFLNE9pei1qaWU1cHI3TmpTakwtbHNUV2dlSV92ZGxPUzhnRV80X2hZVHZVZWxCeUVfTU9KbmJ4NW9tUDliMllkaWFvTF9Rdw?oc=5",
       "data": "27/07 11:25"
+    },
+    {
+      "titulo": "Fim da novela? Ganso reaparece e pode confirmar permanência no Fluminense - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcmMzWkd2c3dJbDlMRzhJNmVzaXZxdTFiTHB3NzFpaXVONklIRzBqM3RKelpoTEVCaWE5WDJoZXZtNE5XQ09VNm9Ec3lBcWJUbUR6WXkyaEl2YW1yS1JQYTRFR2Ntb1dtcnhtQmQ3TGNLd01BODVGdDBEWWpPcWpsQUVTOUxMR05WOXdQOW1VZF9wNWgyWXFYRFQ1ZU0yMjlndDNQZm9lM0NkaXNHR2pJeTZNb1pHTnNibkxacEt1QUxVZGRRbXloVnhLNVNyV1hnVElFQXdMdDVMNkNYc2kxaUltcmV6N2x0c3c5UEEzdWo1UQ?oc=5",
+      "data": "26/07 19:49"
     }
   ],
   "avisos": []
