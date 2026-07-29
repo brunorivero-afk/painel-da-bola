@@ -1,50 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/07/2026 20:07",
+  "atualizado_em": "28/07/2026 23:09",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Tigre x Club Nacional",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x Avai",
-      "channels": [
-        "XSPORTS",
-        "ESPN 4",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Athletic Club",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Argentinos JRS x Estudiantes de Rio Cuarto",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-28",
@@ -109,6 +65,50 @@ window.PAINEL_DATA = {
       "match": "Shamrock Rovers x Ararat-Armenia",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-28",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Tigre x Club Nacional",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-28",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x Avai",
+      "channels": [
+        "XSPORTS",
+        "ESPN 4",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-28",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Athletic Club",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-28",
+      "time": "21:15",
+      "competition": "Campeonato Argentino",
+      "match": "Argentinos JRS x Estudiantes de Rio Cuarto",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -477,7 +477,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.7,
+      "temp_max": 24.0,
       "temp_min": 13.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
@@ -492,9 +492,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0ZPX1laV05OYjJRY2ZHN0EyQXhRa0tiZExPbExJcEM2cHBiWXg3MENVaHBvQjY0WHRCRTZDR0lDVmcwX1JNZjN2b0pnVjNfNExQeWJJNTlmNk54Z1BhYXgxem1IRU5aazNkZTM0QnY2UXZJT1gxaEdkY0tBdmY2enJISjdJLVV0ekZ6dmU4bjd0aFRjd0paclFNSGlFTzNzUXN4SXI3NnBLX2lVZ0JLamVGbW9hV0IxXzdSTVQ1TUdCRWYxN2JWUGZRVjU3V21fNExQUkNPT0Z0NVJRalJreG5GaFFzS29SQU9VVDFDVnhSa1hFazZDdjRCN3YzWS14NlBvWXNxMVhYaVk?oc=5",
-      "data": "28/07 18:43"
+      "titulo": "Ganso e mais: veja quem do Fluminense ainda não bateu 13 jogos no Brasileirão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYmIwcU5pLWlnbE5OdzQ0dnJMdWhua2RCa2lOaVBrZWU2U0MxR3pjQmlkZHNScVFJeUVfV29iaFBSbHZyaldCWEhWTUtzeTFMZjRyXzZiem5jRUNDQURuY3pmSVlMclpwQVZJeTJXZTZrbGc1ZS05RURxejg5QjN6R0E4dVpLS1NiZE5nTDFSVmpEbEtQU0hQM3pHWVgwTTdidVQ5WHJ0MmRNaHN4VW9TR3ljdmNUeV8tUFUxWmE2Rm9RaXRBaE5NOGFEMWMzUjdsc0g2emltVUZsZ25TcW5PTNIB7wFBVV95cUxOYjRTSjFJdDY1TWt5czdjVHZ6QlJnS2k1VFB4OFlVUGpHZWQ2OHNWY2FySjRQUm9FSGltal9jQ2dYVF9XNFJ2STRwX29GckJfTVJFbVZDNGZvSVhaOXFjVzIwRFVlbXd3X201dGdRbjJQSTRqY0luQ1BVRnFyQVNONl9QZ253Z0xzRUJVU1NxeWhPY3R3cXBCVEJHUDA5WlBha0VmbDZPZ2lsSno3SlFKaHhBYWV4OVNUS0ZXWHQwVHl2bGtxLWpIc3RXMmdwTG9fVmxWX2xSYU9nREh3bmJLRlJocjVYbEM2bzM0eGpUVQ?oc=5",
+      "data": "28/07 07:00"
+    },
+    {
+      "titulo": "Fluminense x Bahia: onde assistir, escalações e arbitragem - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakRGNzZudmhDTUN2TWhyQjRqc2lfdlRRXzAtUDNKUzN6aUVMNXBBU3habTZKbTI3VU1RLVdEWU8tZFpTTkh5YnY0TmJpRHVYOGJ1STREeUFvakdjZEU0MlJDXzFOZGp5X2dZaGttei1WOG8yVGRCUVlCcUwtaEE5ZmdfaDg4cEFpYTBLTE5mSk9jNllyanVQclhaZ3d1QTdiZE4xWG1QWXRRYnVMbG5fU1g0aURnOVg1Q0FlNHNGcThZTk5FT19YVzVnRTB1ZzFyeGVzVkZwQTFfcHAweGtFaQ?oc=5",
+      "data": "28/07 21:43"
     },
     {
       "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
@@ -502,19 +507,14 @@ window.PAINEL_DATA = {
       "data": "28/07 04:43"
     },
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTV4a3dpZGlMcGVDdW5ySUdyT0wtSGVrZHY0RERrbVhIMUxLN3FVT0E0U0hSdFV1TFItSGFTVG9Sc3Zhc2J3NmtzN043THQwLWowcjVNMTVWY3ZjVW0yVTlCRTV2eUdmeHRGbVBLaE5PTzJNeHh4WXVjQlVjTVdqckZCVkloV0NWTGEtd3RXY1VjamhVQ1pEd25CSlk1UUFuWGtEVWRSX3RKMVp4ZzRYMHNGQUFRUHdOeks0MnRVZkFEYmNCamVWMnV2SHFGcWpYWEl1bWpONG5TSWNQTDNWT1JaQVBZeldmYkE?oc=5",
-      "data": "28/07 10:00"
-    },
-    {
-      "titulo": "Escalação do Bahia contra o Fluminense: veja time provável, desfalques e dúvidas após treino - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnZGUnM5c3l4N0ozWnZFLU1HZkNfSEtQNVUwZHI0b3FwcHNZT0xaUThtQ01PY0FNbGpJV2RuQ2lneVJpbE8wcEtYU2xnVXJjc0Qwel9qVnBTSUt2VnFNekJnLTRBWVM0OUxnd0wwaE9ja2hOOGhUNk9XeEFWaTN1RUJmOFdrWWNYRnhyQ0pQTGh6Ny1oOE9wVDhvRWFMOWlmOVdlVnBHU0RnaUtPMFFQR3pkYUpuTnlCVzd4bERBcjlEYURKbWltVE5yb0p3Zm1Qb2RneDZOSzQ5TUtBWmpOQWthVG5TWUltTVlzVXRMVGzSAf8BQVVfeXFMTVoteE1EN2lxRHEwTUhLc0xZWlNsdzRVZHNuLVpaRWJpSldmaHV1QzV6dU95dXVYSmxhcTJPMTViNEtQUDl3aGVoZlhVRldsMWFhRmJ0Mks5a1VIeTFVVU5SSXNKR1hZdzlYeXV6S08yaUVZY1JIbkx4ejYzb2ZUa1czb0lwRGJIdHVucTRVSHFTaWpqanRXbXhWeElOZEUyVEpzdEhCcVY1aWJIZ1hKdGdXWi04VERkZmZrMVprR0xQR1E1X1hPaHBVWUQ2VDFVRWRoTGdyTjBqSVd6YlJuZmhyQ0dxelJKX1FSWDJLUFdsNDBFbTkzbnRPRXZGZVlz?oc=5",
-      "data": "28/07 17:15"
-    },
-    {
       "titulo": "Bahia enfrenta tabu de quase 40 anos contra o Fluminense no Maracanã - A TARDE",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkZyekljb3MtZVg5VzRTWkEyWHRSNEZ2UWpad3JraFllN2NyQ2JMcHlEZWh2RUt1blB2dTg3M0VzRlE4cGtCaGktZkxuR0lUamFYWE1ZanN6dXdFbzFBWFl3QmUwaHVsZ1dFbXZLRDRTN2RtSDhfbGJxVU9JQ29NNmI4ZmRGaDd2Sk1tc3dveF9zRk83WWJndHZFYjUzUVMyb3k1NS1KaTV0Z05kLVcteVVrSHBNUdIBvgFBVV95cUxORGlEcUE4eTJhYnMtc0gxbWlvZjdlSHZZWk9KWVZDUW55ZnBVRHFmeEg0endkcm43V3Z0UzQ1YkthZWtFZWFHZzVJaDFtcERpS25wSnFuTHVNSFMzZG56ZVdHdHEwdFJZdzZOczZqT2Fva1BnNi1xRzl5ai1Sb25EcXpIVDZjUGZRSzZCbktzLVRxVVBSSXFRekV3WFdacnZhU21Rb3hHa2lSM0NMdGVwQjZJWTliMmxMc0loUFdR?oc=5",
       "data": "28/07 12:39"
+    },
+    {
+      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
+      "data": "16/05 07:00"
     }
   ],
   "avisos": []
