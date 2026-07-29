@@ -1,116 +1,6 @@
 {
-  "atualizado_em": "28/07/2026 23:09",
+  "atualizado_em": "29/07/2026 02:47",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Rosario Central x Racing Club",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Santos x UCV",
-      "channels": [
-        "SBT",
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "21:35",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Botafogo SP",
-      "channels": [
-        "REDETV!",
-        "ESPN 4",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "06:45",
-      "competition": "Amistosos",
-      "match": "Chelsea x Western Sydney Wanderers",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "15:45",
-      "competition": "Champions League",
-      "match": "Heart OF Midlothian x Sturm Graz",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Shamrock Rovers x Ararat-Armenia",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Tigre x Club Nacional",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x Avai",
-      "channels": [
-        "XSPORTS",
-        "ESPN 4",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Athletic Club",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-28",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Argentinos JRS x Estudiantes de Rio Cuarto",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-29",
@@ -290,8 +180,83 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "FC Midtjylland x Besiktas",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Talleres Cordoba x Velez Sarsfield",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Grêmio x Bolívar",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Athletico PR",
+      "channels": [
+        "RECORD",
+        "PREMIERE FC",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "21:30",
+      "competition": "Brasileirão Série A",
+      "match": "Coritiba x Cruzeiro",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "O&#39;Higgins x Boca Juniors",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Caracas FC x Santa Fe",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Itália x Holanda",
@@ -301,7 +266,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Japão",
@@ -311,7 +276,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "15:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Bolívia",
@@ -321,7 +286,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Turquia x Canadá",
@@ -331,7 +296,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "EUA x China",
@@ -341,7 +306,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "20:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Peru",
@@ -351,7 +316,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Itália",
@@ -361,7 +326,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Turquia",
@@ -371,7 +336,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "16:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -381,7 +346,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "17:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -391,7 +356,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -401,7 +366,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "20:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -411,7 +376,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "04:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Feminina de Vôlei",
@@ -421,7 +386,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Feminina de Vôlei",
@@ -431,7 +396,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "10:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -441,7 +406,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -451,7 +416,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "time": "19:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -463,58 +428,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.0,
-      "temp_min": 17.9,
+      "temp_max": 32.5,
+      "temp_min": 20.9,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.0,
-      "temp_min": 18.9,
+      "temp_max": 32.6,
+      "temp_min": 17.9,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.0,
-      "temp_min": 13.2,
-      "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "temp_max": 26.6,
+      "temp_min": 15.5,
+      "chance_chuva": 4,
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.3,
-      "temp_min": 11.7,
-      "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "temp_max": 26.4,
+      "temp_min": 14.2,
+      "chance_chuva": 4,
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Ganso e mais: veja quem do Fluminense ainda não bateu 13 jogos no Brasileirão - GE",
+      "titulo": "Ganso e mais: veja quem do Fluminense ainda não bateu 13 jogos no Brasileirão - ge",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYmIwcU5pLWlnbE5OdzQ0dnJMdWhua2RCa2lOaVBrZWU2U0MxR3pjQmlkZHNScVFJeUVfV29iaFBSbHZyaldCWEhWTUtzeTFMZjRyXzZiem5jRUNDQURuY3pmSVlMclpwQVZJeTJXZTZrbGc1ZS05RURxejg5QjN6R0E4dVpLS1NiZE5nTDFSVmpEbEtQU0hQM3pHWVgwTTdidVQ5WHJ0MmRNaHN4VW9TR3ljdmNUeV8tUFUxWmE2Rm9RaXRBaE5NOGFEMWMzUjdsc0g2emltVUZsZ25TcW5PTNIB7wFBVV95cUxOYjRTSjFJdDY1TWt5czdjVHZ6QlJnS2k1VFB4OFlVUGpHZWQ2OHNWY2FySjRQUm9FSGltal9jQ2dYVF9XNFJ2STRwX29GckJfTVJFbVZDNGZvSVhaOXFjVzIwRFVlbXd3X201dGdRbjJQSTRqY0luQ1BVRnFyQVNONl9QZ253Z0xzRUJVU1NxeWhPY3R3cXBCVEJHUDA5WlBha0VmbDZPZ2lsSno3SlFKaHhBYWV4OVNUS0ZXWHQwVHl2bGtxLWpIc3RXMmdwTG9fVmxWX2xSYU9nREh3bmJLRlJocjVYbEM2bzM0eGpUVQ?oc=5",
       "data": "28/07 07:00"
+    },
+    {
+      "titulo": "Cartão de Acosta, do Fluminense, gera alerta de manipulação e investigação; jogador nega envolvimento - ge",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcU1YT25tbGthQXFfTXhRQmRYWU9iaDdTdm9qbmdUOVBNUnB4RWxDczc3VmlkS29MVUIwbzdJOUZSY0hzakRqdlhnb3RySUZadG9waGppSER3NVZLMjdIYTJtcFh5YkZPaS1kVmRGeGY3Y3ljSEh1cDIxLWZMS19kVzFXNk1TTW0zVnVILWNPczJWcDZhR2NmcTAwNmZYN3BYdzFzRUMwcnJhR3V1NWQ2eDJpY0JzS3hzcmpMcUdRSVdoWl9NcXZSTy1oZmFEaXQyYnNTUDVCZC1sVTZnZWM3MmFnYUJkWC1qNUJEZEdqcGg0RFV2aHFnYjZTMzdQdkw2WTlDZThNSHlfaGxEeDE2SdIBnwJBVV95cUxPVDRkTGs3UENWZ3hCMWFOZGdWaUFoVWktcG9GbjlmQ1dJcHprRWxNTC1semhQanVFUmpCWFRGaVFpQU1URlQwSTBQWl9OU0Z3Y3l0alpqam5JUVJUVDFQSnowRXl3X09WWktQUjA3UTZaVHNkZEg5Qm5sZmpaenNaMjc1TVNLSTFkR1o0V0N1UnRKVzF1VF9QWW04NDZvZVZ3UG9nUEhfY1dKMHdpNm4xRk5QZ3JUZXdpVUNON1NfUnNuUGNWOXN6WVY4eTlVb0FibGhDdU9JTWM2el9jZnZrN3A5NUFxWWNuaHhFQlpXcFdSTnNOQ0tseS1NTkhudGhlcXhfdHN1YWZoOUVxMTd6MDR0dDFPeGNocWVCSmttRQ?oc=5",
+      "data": "28/07 01:09"
+    },
+    {
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTV4a3dpZGlMcGVDdW5ySUdyT0wtSGVrZHY0RERrbVhIMUxLN3FVT0E0U0hSdFV1TFItSGFTVG9Sc3Zhc2J3NmtzN043THQwLWowcjVNMTVWY3ZjVW0yVTlCRTV2eUdmeHRGbVBLaE5PTzJNeHh4WXVjQlVjTVdqckZCVkloV0NWTGEtd3RXY1VjamhVQ1pEd25CSlk1UUFuWGtEVWRSX3RKMVp4ZzRYMHNGQUFRUHdOeks0MnRVZkFEYmNCamVWMnV2SHFGcWpYWEl1bWpONG5TSWNQTDNWT1JaQVBZeldmYkE?oc=5",
+      "data": "28/07 10:00"
+    },
+    {
+      "titulo": "Escalação do Bahia contra o Fluminense: veja time provável, desfalques e dúvidas após treino - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnZGUnM5c3l4N0ozWnZFLU1HZkNfSEtQNVUwZHI0b3FwcHNZT0xaUThtQ01PY0FNbGpJV2RuQ2lneVJpbE8wcEtYU2xnVXJjc0Qwel9qVnBTSUt2VnFNekJnLTRBWVM0OUxnd0wwaE9ja2hOOGhUNk9XeEFWaTN1RUJmOFdrWWNYRnhyQ0pQTGh6Ny1oOE9wVDhvRWFMOWlmOVdlVnBHU0RnaUtPMFFQR3pkYUpuTnlCVzd4bERBcjlEYURKbWltVE5yb0p3Zm1Qb2RneDZOSzQ5TUtBWmpOQWthVG5TWUltTVlzVXRMVGzSAf8BQVVfeXFMTVoteE1EN2lxRHEwTUhLc0xZWlNsdzRVZHNuLVpaRWJpSldmaHV1QzV6dU95dXVYSmxhcTJPMTViNEtQUDl3aGVoZlhVRldsMWFhRmJ0Mks5a1VIeTFVVU5SSXNKR1hZdzlYeXV6S08yaUVZY1JIbkx4ejYzb2ZUa1czb0lwRGJIdHVucTRVSHFTaWpqanRXbXhWeElOZEUyVEpzdEhCcVY1aWJIZ1hKdGdXWi04VERkZmZrMVprR0xQR1E1X1hPaHBVWUQ2VDFVRWRoTGdyTjBqSVd6YlJuZmhyQ0dxelJKX1FSWDJLUFdsNDBFbTkzbnRPRXZGZVlz?oc=5",
+      "data": "28/07 17:15"
     },
     {
       "titulo": "Fluminense x Bahia: onde assistir, escalações e arbitragem - Terra",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakRGNzZudmhDTUN2TWhyQjRqc2lfdlRRXzAtUDNKUzN6aUVMNXBBU3habTZKbTI3VU1RLVdEWU8tZFpTTkh5YnY0TmJpRHVYOGJ1STREeUFvakdjZEU0MlJDXzFOZGp5X2dZaGttei1WOG8yVGRCUVlCcUwtaEE5ZmdfaDg4cEFpYTBLTE5mSk9jNllyanVQclhaZ3d1QTdiZE4xWG1QWXRRYnVMbG5fU1g0aURnOVg1Q0FlNHNGcThZTk5FT19YVzVnRTB1ZzFyeGVzVkZwQTFfcHAweGtFaQ?oc=5",
       "data": "28/07 21:43"
-    },
-    {
-      "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFqYlNJb2g4NmJIVHNGa3VCSlduQ0x0US00UXNzUUJjeHk1OXNCS2ZtRldma3dib1ZTVWw0eTl3N2RZRTdKR1FXYUV2c1RIYkNXZFdxYWM4WlJmR0JON1NudFNqN3R2NVlTTjBNWFBnMm0yajZpVDFYN2kzLVJ6Y3pMdWVLOTczb2RtTG1QYlZRbGRkc09nWldSejA3RXFTQ016dFJ1RnA1MHpVTElUTU03VHBSLXlBX2JHZlBUUU9oV1k5UlhmOV9DU2lFY1F1V3JRb1Z3MUczNzFM?oc=5",
-      "data": "28/07 04:43"
-    },
-    {
-      "titulo": "Bahia enfrenta tabu de quase 40 anos contra o Fluminense no Maracanã - A TARDE",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMkZyekljb3MtZVg5VzRTWkEyWHRSNEZ2UWpad3JraFllN2NyQ2JMcHlEZWh2RUt1blB2dTg3M0VzRlE4cGtCaGktZkxuR0lUamFYWE1ZanN6dXdFbzFBWFl3QmUwaHVsZ1dFbXZLRDRTN2RtSDhfbGJxVU9JQ29NNmI4ZmRGaDd2Sk1tc3dveF9zRk83WWJndHZFYjUzUVMyb3k1NS1KaTV0Z05kLVcteVVrSHBNUdIBvgFBVV95cUxORGlEcUE4eTJhYnMtc0gxbWlvZjdlSHZZWk9KWVZDUW55ZnBVRHFmeEg0endkcm43V3Z0UzQ1YkthZWtFZWFHZzVJaDFtcERpS25wSnFuTHVNSFMzZG56ZVdHdHEwdFJZdzZOczZqT2Fva1BnNi1xRzl5ai1Sb25EcXpIVDZjUGZRSzZCbktzLVRxVVBSSXFRekV3WFdacnZhU21Rb3hHa2lSM0NMdGVwQjZJWTliMmxMc0loUFdR?oc=5",
-      "data": "28/07 12:39"
-    },
-    {
-      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
-      "data": "16/05 07:00"
     }
   ],
   "avisos": []
