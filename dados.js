@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/07/2026 12:53",
+  "atualizado_em": "29/07/2026 14:11",
   "jogos": [
     {
       "sport": "futebol",
@@ -457,6 +457,11 @@ window.PAINEL_DATA = {
       "data": "28/07 14:26"
     },
     {
+      "titulo": "Conversas entre Fluminense e Willian não devem avançar, diz jornalista - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnpvNGVBNFA5dmVqZWpFM2l2QlFJb0NiTUFwR0ZIUmV2d0t6eEF0Y3h2MDM2YzZLUXc5NEowOFZCMWZoYnBEZVA1MUxuZHVqenlkUHRGU29TRTJfUTdnT2w0RFJnMExVYXE4U09qYmlvdzU0UXZWcWlRTS1jYVNGQzVyX213a2ZOUll3a3RRQVBfdTk3LVdsdWFBY2Q?oc=5",
+      "data": "29/07 16:00"
+    },
+    {
       "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0ZPX1laV05OYjJRY2ZHN0EyQXhRa0tiZExPbExJcEM2cHBiWXg3MENVaHBvQjY0WHRCRTZDR0lDVmcwX1JNZjN2b0pnVjNfNExQeWJJNTlmNk54Z1BhYXgxem1IRU5aazNkZTM0QnY2UXZJT1gxaEdkY0tBdmY2enJISjdJLVV0ekZ6dmU4bjd0aFRjd0paclFNSGlFTzNzUXN4SXI3NnBLX2lVZ0JLamVGbW9hV0IxXzdSTVQ1TUdCRWYxN2JWUGZRVjU3V21fNExQUkNPT0Z0NVJRalJreG5GaFFzS29SQU9VVDFDVnhSa1hFazZDdjRCN3YzWS14NlBvWXNxMVhYaVk?oc=5",
       "data": "28/07 18:43"
@@ -465,11 +470,6 @@ window.PAINEL_DATA = {
       "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
       "data": "16/05 07:00"
-    },
-    {
-      "titulo": "Arana vai às redes e se manifesta após susto pelo Fluminense: 'Livramento' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzRyLUNBeGJtQ1Z5aFFoQzJlWWdBTDdObkxmd0Znd1U2cWRCVjN0Y0RnSUUxM3c1Y21KYjI1cmZRc1F3WlhOSFJPSHF6N240MWlucHN3UFNlWXJESUREUWFPQ3dfR1Y2cnhWRFhXUXZReWhBNEVLZW5yem1MOFNLSXBrUEFOMEhFTml0cU9wakVmc1p6V1BBNlhGd056RGdwUF95REx3c0MxNlM5b1BlRTdjNzFHZUdtY2hDdW40Umw4WV93T29vMjFKcGl6S2RDWTlMQWVnV3gyS1lXbnA1MWE5MWtpLWZVMVFzSWU5TUpuUWc?oc=5",
-      "data": "27/07 21:03"
     }
   ],
   "avisos": []
