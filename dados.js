@@ -1,28 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/07/2026 08:21",
+  "atualizado_em": "29/07/2026 10:59",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "06:45",
-      "competition": "Amistosos",
-      "match": "Tottenham x Sydney",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "07:00",
-      "competition": "Amistosos",
-      "match": "Cerezo Osaka x Borussia Dortmund",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-29",
@@ -139,12 +117,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-29",
       "time": "21:30",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Bahia",
+      "competition": "Copa Sul-Americana",
+      "match": "Cienciano x Lanus",
       "channels": [
-        "GLOBO",
-        "PREMIERE 2",
-        "PREMIERE 3"
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "RB Bragantino x Sporting Cristal",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
@@ -163,20 +149,34 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-07-29",
       "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "RB Bragantino x Sporting Cristal",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x Bahia",
       "channels": [
-        "PARAMOUNT+"
+        "GLOBO",
+        "PREMIERE 2",
+        "PREMIERE 3"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-07-29",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Cienciano x Lanus",
+      "time": "06:45",
+      "competition": "Amistosos",
+      "match": "Tottenham x Sydney",
       "channels": [
-        "PARAMOUNT+"
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "07:00",
+      "competition": "Amistosos",
+      "match": "Cerezo Osaka x Borussia Dortmund",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -272,16 +272,6 @@ window.PAINEL_DATA = {
       "match": "Caracas FC x Santa Fe",
       "channels": [
         "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-29",
-      "time": "08:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Japão x China",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -413,43 +403,53 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-29",
+      "time": "08:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Japão x China",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.0,
-      "temp_min": 21.0,
+      "temp_max": 31.8,
+      "temp_min": 20.5,
       "chance_chuva": 2,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.1,
+      "temp_max": 30.0,
       "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.6,
-      "temp_min": 15.1,
+      "temp_max": 26.3,
+      "temp_min": 14.9,
       "chance_chuva": 4,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.8,
-      "temp_min": 14.1,
+      "temp_min": 13.9,
       "chance_chuva": 8,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Base e profissional: Fluminense e Bahia estreitaram relação que já movimentou R$ 28 milhões - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNzJLZGFMWnhSXzNjcHNkRjAzOXFuVDg4T2RwTEIwTU9ZcU4zWm5DRW9aU2dsdlUyaGI5UkJVWFJ1bHN0eEtuQ1diWm5xaGRpTWpmU0w3QzV6Q3E2UDZ0N3pqcDJ3b3E5QW5OVTkzYzJiMFdIYl9ELXFFdGM0b2hlYlRmdERja3U0TVpXT29jU05uOGlRb0ZTaGhicDNnME1tTUxaMTFHU3pHNHlhbGF6WVlIMENQR0R3b3Y2UlVwMmctdWpRWXpqQWhkdXJWQWNrRWE5bmxibkMzb0NLbVd6X1lvRlYwMUpjTWJhSFlrRS05dHRrQ1NjLXdn0gGIAkFVX3lxTE1uZC1sNS1MWGlYZk9FMk1FSkpERmlCd1JvaERVYWpnc2ZwNk9FZXZWNk1TNkdnQmNiREQtdWtsZ2QxMmNSVEtnMmhRTXpMUnpJc0JfczktZ3ViSnF0Qlk0SXFfajYxM25fNWMtTFdUV0toMkJnSlU0WWRRM1RDSTNHbFdrUFVsbFV2Z0VYWWw2SlVFZEFhemp3cE14ZG1rUjYtV0FLYlpkT2RDTUdpS3dVU2plVHdsak9DNUM4MllJeEl4UGJoVUo2S1hRQS1BdC1ianAta3FUb1F5M2NYd0VVZ3JlTThST1gyaDBZcE1HdEI4OXFsMDJUZXBxeXNrVDJUa1NCTXdGeQ?oc=5",
-      "data": "29/07 07:02"
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
+      "data": "29/07 06:00"
     },
     {
       "titulo": "Fluminense define futuro de Lucho Acosta após alerta de manipulação - Terra",
@@ -462,14 +462,14 @@ window.PAINEL_DATA = {
       "data": "28/07 18:43"
     },
     {
-      "titulo": "Arana vai às redes e se manifesta após susto pelo Fluminense: 'Livramento' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzRyLUNBeGJtQ1Z5aFFoQzJlWWdBTDdObkxmd0Znd1U2cWRCVjN0Y0RnSUUxM3c1Y21KYjI1cmZRc1F3WlhOSFJPSHF6N240MWlucHN3UFNlWXJESUREUWFPQ3dfR1Y2cnhWRFhXUXZReWhBNEVLZW5yem1MOFNLSXBrUEFOMEhFTml0cU9wakVmc1p6V1BBNlhGd056RGdwUF95REx3c0MxNlM5b1BlRTdjNzFHZUdtY2hDdW40Umw4WV93T29vMjFKcGl6S2RDWTlMQWVnV3gyS1lXbnA1MWE5MWtpLWZVMVFzSWU5TUpuUWc?oc=5",
-      "data": "27/07 21:03"
-    },
-    {
       "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
       "data": "16/05 07:00"
+    },
+    {
+      "titulo": "Arana vai às redes e se manifesta após susto pelo Fluminense: 'Livramento' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzRyLUNBeGJtQ1Z5aFFoQzJlWWdBTDdObkxmd0Znd1U2cWRCVjN0Y0RnSUUxM3c1Y21KYjI1cmZRc1F3WlhOSFJPSHF6N240MWlucHN3UFNlWXJESUREUWFPQ3dfR1Y2cnhWRFhXUXZReWhBNEVLZW5yem1MOFNLSXBrUEFOMEhFTml0cU9wakVmc1p6V1BBNlhGd056RGdwUF95REx3c0MxNlM5b1BlRTdjNzFHZUdtY2hDdW40Umw4WV93T29vMjFKcGl6S2RDWTlMQWVnV3gyS1lXbnA1MWE5MWtpLWZVMVFzSWU5TUpuUWc?oc=5",
+      "data": "27/07 21:03"
     }
   ],
   "avisos": []
