@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/07/2026 05:32",
+  "atualizado_em": "29/07/2026 08:21",
   "jogos": [
     {
       "sport": "futebol",
@@ -192,6 +192,26 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-07-30",
+      "time": "16:00",
+      "competition": "Brasileiro Sub-20",
+      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "18:30",
+      "competition": "Brasileiro Sub-20",
+      "match": "Vasco Sub-20 x Santos Sub-20",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
       "time": "19:00",
       "competition": "Campeonato Argentino",
       "match": "Talleres Cordoba x Velez Sarsfield",
@@ -252,16 +272,6 @@ window.PAINEL_DATA = {
       "match": "Caracas FC x Santa Fe",
       "channels": [
         "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-29",
-      "time": "03:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Eslovênia x Turquia",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -393,6 +403,16 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-29",
+      "time": "03:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Eslovênia x Turquia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -400,7 +420,7 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 32.0,
       "temp_min": 21.0,
-      "chance_chuva": 0,
+      "chance_chuva": 2,
       "condicao": "Poucas nuvens"
     },
     {
@@ -421,35 +441,35 @@ window.PAINEL_DATA = {
       "cidade": "Teresópolis",
       "temp_max": 26.8,
       "temp_min": 14.1,
-      "chance_chuva": 4,
+      "chance_chuva": 8,
       "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Ganso e mais: veja quem do Fluminense ainda não bateu 13 jogos no Brasileirão - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYmIwcU5pLWlnbE5OdzQ0dnJMdWhua2RCa2lOaVBrZWU2U0MxR3pjQmlkZHNScVFJeUVfV29iaFBSbHZyaldCWEhWTUtzeTFMZjRyXzZiem5jRUNDQURuY3pmSVlMclpwQVZJeTJXZTZrbGc1ZS05RURxejg5QjN6R0E4dVpLS1NiZE5nTDFSVmpEbEtQU0hQM3pHWVgwTTdidVQ5WHJ0MmRNaHN4VW9TR3ljdmNUeV8tUFUxWmE2Rm9RaXRBaE5NOGFEMWMzUjdsc0g2emltVUZsZ25TcW5PTNIB7wFBVV95cUxOYjRTSjFJdDY1TWt5czdjVHZ6QlJnS2k1VFB4OFlVUGpHZWQ2OHNWY2FySjRQUm9FSGltal9jQ2dYVF9XNFJ2STRwX29GckJfTVJFbVZDNGZvSVhaOXFjVzIwRFVlbXd3X201dGdRbjJQSTRqY0luQ1BVRnFyQVNONl9QZ253Z0xzRUJVU1NxeWhPY3R3cXBCVEJHUDA5WlBha0VmbDZPZ2lsSno3SlFKaHhBYWV4OVNUS0ZXWHQwVHl2bGtxLWpIc3RXMmdwTG9fVmxWX2xSYU9nREh3bmJLRlJocjVYbEM2bzM0eGpUVQ?oc=5",
-      "data": "28/07 07:00"
-    },
-    {
-      "titulo": "Meia do Fluminense retorna mas deve ficar no banco contra o Bahia; veja escalação - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0lMWjF4T1hEVkN4S05EbGdlNy1DOHpLT0xZTDdFSzVPY2N5NGlLNVZYYm9zOVBMdE1xVm5KSFdkeElDRlJtcTdUQVg1VEYyb2JuM21MblhBQThrLTZUMjZWWmllN3NmaVpOQmkyOTA0TnlHNTdPd1pEOUxNbXBQN19tY3VUMHAxY3NYWW5oUW91eTJXekFKb3F0SFhaMnVfU1B3eDYxZmZGZG8?oc=5",
-      "data": "28/07 21:29"
-    },
-    {
-      "titulo": "Escalação do Bahia contra o Fluminense: veja time provável, desfalques e dúvidas após treino - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQnZGUnM5c3l4N0ozWnZFLU1HZkNfSEtQNVUwZHI0b3FwcHNZT0xaUThtQ01PY0FNbGpJV2RuQ2lneVJpbE8wcEtYU2xnVXJjc0Qwel9qVnBTSUt2VnFNekJnLTRBWVM0OUxnd0wwaE9ja2hOOGhUNk9XeEFWaTN1RUJmOFdrWWNYRnhyQ0pQTGh6Ny1oOE9wVDhvRWFMOWlmOVdlVnBHU0RnaUtPMFFQR3pkYUpuTnlCVzd4bERBcjlEYURKbWltVE5yb0p3Zm1Qb2RneDZOSzQ5TUtBWmpOQWthVG5TWUltTVlzVXRMVGzSAf8BQVVfeXFMTVoteE1EN2lxRHEwTUhLc0xZWlNsdzRVZHNuLVpaRWJpSldmaHV1QzV6dU95dXVYSmxhcTJPMTViNEtQUDl3aGVoZlhVRldsMWFhRmJ0Mks5a1VIeTFVVU5SSXNKR1hZdzlYeXV6S08yaUVZY1JIbkx4ejYzb2ZUa1czb0lwRGJIdHVucTRVSHFTaWpqanRXbXhWeElOZEUyVEpzdEhCcVY1aWJIZ1hKdGdXWi04VERkZmZrMVprR0xQR1E1X1hPaHBVWUQ2VDFVRWRoTGdyTjBqSVd6YlJuZmhyQ0dxelJKX1FSWDJLUFdsNDBFbTkzbnRPRXZGZVlz?oc=5",
-      "data": "28/07 17:15"
-    },
     {
       "titulo": "Base e profissional: Fluminense e Bahia estreitaram relação que já movimentou R$ 28 milhões - ge",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNzJLZGFMWnhSXzNjcHNkRjAzOXFuVDg4T2RwTEIwTU9ZcU4zWm5DRW9aU2dsdlUyaGI5UkJVWFJ1bHN0eEtuQ1diWm5xaGRpTWpmU0w3QzV6Q3E2UDZ0N3pqcDJ3b3E5QW5OVTkzYzJiMFdIYl9ELXFFdGM0b2hlYlRmdERja3U0TVpXT29jU05uOGlRb0ZTaGhicDNnME1tTUxaMTFHU3pHNHlhbGF6WVlIMENQR0R3b3Y2UlVwMmctdWpRWXpqQWhkdXJWQWNrRWE5bmxibkMzb0NLbVd6X1lvRlYwMUpjTWJhSFlrRS05dHRrQ1NjLXdn0gGIAkFVX3lxTE1uZC1sNS1MWGlYZk9FMk1FSkpERmlCd1JvaERVYWpnc2ZwNk9FZXZWNk1TNkdnQmNiREQtdWtsZ2QxMmNSVEtnMmhRTXpMUnpJc0JfczktZ3ViSnF0Qlk0SXFfajYxM25fNWMtTFdUV0toMkJnSlU0WWRRM1RDSTNHbFdrUFVsbFV2Z0VYWWw2SlVFZEFhemp3cE14ZG1rUjYtV0FLYlpkT2RDTUdpS3dVU2plVHdsak9DNUM4MllJeEl4UGJoVUo2S1hRQS1BdC1ianAta3FUb1F5M2NYd0VVZ3JlTThST1gyaDBZcE1HdEI4OXFsMDJUZXBxeXNrVDJUa1NCTXdGeQ?oc=5",
       "data": "29/07 07:02"
     },
     {
-      "titulo": "Cartão de Acosta, do Fluminense, gera alerta de manipulação e investigação; jogador nega envolvimento - ge",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcU1YT25tbGthQXFfTXhRQmRYWU9iaDdTdm9qbmdUOVBNUnB4RWxDczc3VmlkS29MVUIwbzdJOUZSY0hzakRqdlhnb3RySUZadG9waGppSER3NVZLMjdIYTJtcFh5YkZPaS1kVmRGeGY3Y3ljSEh1cDIxLWZMS19kVzFXNk1TTW0zVnVILWNPczJWcDZhR2NmcTAwNmZYN3BYdzFzRUMwcnJhR3V1NWQ2eDJpY0JzS3hzcmpMcUdRSVdoWl9NcXZSTy1oZmFEaXQyYnNTUDVCZC1sVTZnZWM3MmFnYUJkWC1qNUJEZEdqcGg0RFV2aHFnYjZTMzdQdkw2WTlDZThNSHlfaGxEeDE2SdIBnwJBVV95cUxPVDRkTGs3UENWZ3hCMWFOZGdWaUFoVWktcG9GbjlmQ1dJcHprRWxNTC1semhQanVFUmpCWFRGaVFpQU1URlQwSTBQWl9OU0Z3Y3l0alpqam5JUVJUVDFQSnowRXl3X09WWktQUjA3UTZaVHNkZEg5Qm5sZmpaenNaMjc1TVNLSTFkR1o0V0N1UnRKVzF1VF9QWW04NDZvZVZ3UG9nUEhfY1dKMHdpNm4xRk5QZ3JUZXdpVUNON1NfUnNuUGNWOXN6WVY4eTlVb0FibGhDdU9JTWM2el9jZnZrN3A5NUFxWWNuaHhFQlpXcFdSTnNOQ0tseS1NTkhudGhlcXhfdHN1YWZoOUVxMTd6MDR0dDFPeGNocWVCSmttRQ?oc=5",
-      "data": "28/07 01:09"
+      "titulo": "Fluminense define futuro de Lucho Acosta após alerta de manipulação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd3R3WEtkSjk4bHNONHFnR3k3M2NLWmI0TWFRd2ZhellONTY4ODQ3Ulk1ZWI0aE1KUTZ6RVRnWUduRmtNMmpyX2c0eU13Nk55cmk2QTU0bEZUUXZkbTFORjVrTW5rRV93cXFBeWlzbjdPMFNEQWphWU51YUtVek0zSHBiOExmODgzYkVxWGhyZEs5VW5VQ2tyMDVnZVdvZXEzTGRXZ251Q0otNjFYNnhuX2lWWHI1VFZ3WE9UOUtzWm5mclhqWk1jZEZ3U3JxUVpRdnZXMi1kUVdXd2FRdlo5SlBvY2YtX1UtUHJR?oc=5",
+      "data": "28/07 14:26"
+    },
+    {
+      "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0ZPX1laV05OYjJRY2ZHN0EyQXhRa0tiZExPbExJcEM2cHBiWXg3MENVaHBvQjY0WHRCRTZDR0lDVmcwX1JNZjN2b0pnVjNfNExQeWJJNTlmNk54Z1BhYXgxem1IRU5aazNkZTM0QnY2UXZJT1gxaEdkY0tBdmY2enJISjdJLVV0ekZ6dmU4bjd0aFRjd0paclFNSGlFTzNzUXN4SXI3NnBLX2lVZ0JLamVGbW9hV0IxXzdSTVQ1TUdCRWYxN2JWUGZRVjU3V21fNExQUkNPT0Z0NVJRalJreG5GaFFzS29SQU9VVDFDVnhSa1hFazZDdjRCN3YzWS14NlBvWXNxMVhYaVk?oc=5",
+      "data": "28/07 18:43"
+    },
+    {
+      "titulo": "Arana vai às redes e se manifesta após susto pelo Fluminense: 'Livramento' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzRyLUNBeGJtQ1Z5aFFoQzJlWWdBTDdObkxmd0Znd1U2cWRCVjN0Y0RnSUUxM3c1Y21KYjI1cmZRc1F3WlhOSFJPSHF6N240MWlucHN3UFNlWXJESUREUWFPQ3dfR1Y2cnhWRFhXUXZReWhBNEVLZW5yem1MOFNLSXBrUEFOMEhFTml0cU9wakVmc1p6V1BBNlhGd056RGdwUF95REx3c0MxNlM5b1BlRTdjNzFHZUdtY2hDdW40Umw4WV93T29vMjFKcGl6S2RDWTlMQWVnV3gyS1lXbnA1MWE5MWtpLWZVMVFzSWU5TUpuUWc?oc=5",
+      "data": "27/07 21:03"
+    },
+    {
+      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
+      "data": "16/05 07:00"
     }
   ],
   "avisos": []
