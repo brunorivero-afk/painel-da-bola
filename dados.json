@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "29/07/2026 14:11",
+  "atualizado_em": "29/07/2026 16:07",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "12:00",
-      "competition": "Champions League",
-      "match": "Kairat Almaty x Omonia Nicosia",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-29",
@@ -177,6 +167,16 @@
         "XSPORTS",
         "SPORTYNET",
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "12:00",
+      "competition": "Champions League",
+      "match": "Kairat Almaty x Omonia Nicosia",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -418,14 +418,14 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.8,
+      "temp_max": 31.6,
       "temp_min": 20.5,
       "chance_chuva": 6,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.0,
+      "temp_max": 31.5,
       "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
@@ -435,26 +435,26 @@
       "temp_max": 26.3,
       "temp_min": 14.9,
       "chance_chuva": 8,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.8,
       "temp_min": 13.9,
       "chance_chuva": 2,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
       "data": "29/07 06:00"
     },
     {
-      "titulo": "Fluminense define futuro de Lucho Acosta após alerta de manipulação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd3R3WEtkSjk4bHNONHFnR3k3M2NLWmI0TWFRd2ZhellONTY4ODQ3Ulk1ZWI0aE1KUTZ6RVRnWUduRmtNMmpyX2c0eU13Nk55cmk2QTU0bEZUUXZkbTFORjVrTW5rRV93cXFBeWlzbjdPMFNEQWphWU51YUtVek0zSHBiOExmODgzYkVxWGhyZEs5VW5VQ2tyMDVnZVdvZXEzTGRXZ251Q0otNjFYNnhuX2lWWHI1VFZ3WE9UOUtzWm5mclhqWk1jZEZ3U3JxUVpRdnZXMi1kUVdXd2FRdlo5SlBvY2YtX1UtUHJR?oc=5",
-      "data": "28/07 14:26"
+      "titulo": "Por que o Fluminense não aceita a devolução de Lima pelo América do México? Entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONWdKcE9mSFQ5eG90WTRrZm9HQ2Z6OUpRaGNWeFBsOXl4aEtqd1NEem91V015MkRlYXNKOW1qNGRhUy1uMDVHRlgtZmQ2MnlpRWlVME9hb0pFTjRNcUlaRkNERlZRQmthSWZla1J3TDZscWxyNDkwTmZTX1ljcGR5WFFjVWk2MTJMc0FwbVk0eE9rOTAxdWNJZzVCNjVja3dzQW56VVFzSzNLZThmMmRfWm5ueER6a1FTLS1yRUloTG5URjI5VmtKZkpoMFBEZHcxLUgxMUlLbjlmN05ZZkRfeUdZVU1ZclZ4Y3BMRjViZnJCNTNMWjZfX05sWE50WDA?oc=5",
+      "data": "29/07 17:34"
     },
     {
       "titulo": "Conversas entre Fluminense e Willian não devem avançar, diz jornalista - netflu.com.br",
@@ -462,9 +462,9 @@
       "data": "29/07 16:00"
     },
     {
-      "titulo": "Quem é Jean Carlos? Fluminense blinda joia de Xerém com contrato até 2029 e multa milionária - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0ZPX1laV05OYjJRY2ZHN0EyQXhRa0tiZExPbExJcEM2cHBiWXg3MENVaHBvQjY0WHRCRTZDR0lDVmcwX1JNZjN2b0pnVjNfNExQeWJJNTlmNk54Z1BhYXgxem1IRU5aazNkZTM0QnY2UXZJT1gxaEdkY0tBdmY2enJISjdJLVV0ekZ6dmU4bjd0aFRjd0paclFNSGlFTzNzUXN4SXI3NnBLX2lVZ0JLamVGbW9hV0IxXzdSTVQ1TUdCRWYxN2JWUGZRVjU3V21fNExQUkNPT0Z0NVJRalJreG5GaFFzS29SQU9VVDFDVnhSa1hFazZDdjRCN3YzWS14NlBvWXNxMVhYaVk?oc=5",
-      "data": "28/07 18:43"
+      "titulo": "Fluminense define futuro de Lucho Acosta após alerta de manipulação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd3R3WEtkSjk4bHNONHFnR3k3M2NLWmI0TWFRd2ZhellONTY4ODQ3Ulk1ZWI0aE1KUTZ6RVRnWUduRmtNMmpyX2c0eU13Nk55cmk2QTU0bEZUUXZkbTFORjVrTW5rRV93cXFBeWlzbjdPMFNEQWphWU51YUtVek0zSHBiOExmODgzYkVxWGhyZEs5VW5VQ2tyMDVnZVdvZXEzTGRXZ251Q0otNjFYNnhuX2lWWHI1VFZ3WE9UOUtzWm5mclhqWk1jZEZ3U3JxUVpRdnZXMi1kUVdXd2FRdlo5SlBvY2YtX1UtUHJR?oc=5",
+      "data": "28/07 14:26"
     },
     {
       "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
