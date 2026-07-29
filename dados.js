@@ -1,56 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/07/2026 16:07",
+  "atualizado_em": "29/07/2026 17:51",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "14:30",
-      "competition": "Campeonato Argentino",
-      "match": "Barracas Central x Aldosivi",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Real Betis x Lyon",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "competition": "Champions League",
-      "match": "Gornik Zabrze x Fenerbahce",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "competition": "Champions League",
-      "match": "Estrela Vermelha x Larne",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:30",
-      "competition": "UEFA Conference League",
-      "match": "Rapid Vienna x FC Santa Coloma",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-29",
@@ -78,9 +28,9 @@ window.PAINEL_DATA = {
       "date": "2026-07-29",
       "time": "19:30",
       "competition": "Brasileirão Série A",
-      "match": "Internacional x Flamengo",
+      "match": "Mirassol x Remo",
       "channels": [
-        "PRIME VIDEO"
+        "PREMIERE 4"
       ]
     },
     {
@@ -88,9 +38,9 @@ window.PAINEL_DATA = {
       "date": "2026-07-29",
       "time": "19:30",
       "competition": "Brasileirão Série A",
-      "match": "Mirassol x Remo",
+      "match": "Internacional x Flamengo",
       "channels": [
-        "PREMIERE 4"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -177,6 +127,56 @@ window.PAINEL_DATA = {
       "match": "Kairat Almaty x Omonia Nicosia",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "14:30",
+      "competition": "Campeonato Argentino",
+      "match": "Barracas Central x Aldosivi",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "15:00",
+      "competition": "Champions League",
+      "match": "Estrela Vermelha x Larne",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "15:00",
+      "competition": "Champions League",
+      "match": "Gornik Zabrze x Fenerbahce",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Real Betis x Lyon",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-29",
+      "time": "15:30",
+      "competition": "UEFA Conference League",
+      "match": "Rapid Vienna x FC Santa Coloma",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -447,7 +447,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - ge",
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
       "data": "29/07 06:00"
     },
@@ -455,11 +455,6 @@ window.PAINEL_DATA = {
       "titulo": "Por que o Fluminense não aceita a devolução de Lima pelo América do México? Entenda - Terra",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONWdKcE9mSFQ5eG90WTRrZm9HQ2Z6OUpRaGNWeFBsOXl4aEtqd1NEem91V015MkRlYXNKOW1qNGRhUy1uMDVHRlgtZmQ2MnlpRWlVME9hb0pFTjRNcUlaRkNERlZRQmthSWZla1J3TDZscWxyNDkwTmZTX1ljcGR5WFFjVWk2MTJMc0FwbVk0eE9rOTAxdWNJZzVCNjVja3dzQW56VVFzSzNLZThmMmRfWm5ueER6a1FTLS1yRUloTG5URjI5VmtKZkpoMFBEZHcxLUgxMUlLbjlmN05ZZkRfeUdZVU1ZclZ4Y3BMRjViZnJCNTNMWjZfX05sWE50WDA?oc=5",
       "data": "29/07 17:34"
-    },
-    {
-      "titulo": "Conversas entre Fluminense e Willian não devem avançar, diz jornalista - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnpvNGVBNFA5dmVqZWpFM2l2QlFJb0NiTUFwR0ZIUmV2d0t6eEF0Y3h2MDM2YzZLUXc5NEowOFZCMWZoYnBEZVA1MUxuZHVqenlkUHRGU29TRTJfUTdnT2w0RFJnMExVYXE4U09qYmlvdzU0UXZWcWlRTS1jYVNGQzVyX213a2ZOUll3a3RRQVBfdTk3LVdsdWFBY2Q?oc=5",
-      "data": "29/07 16:00"
     },
     {
       "titulo": "Fluminense define futuro de Lucho Acosta após alerta de manipulação - Terra",
@@ -470,6 +465,11 @@ window.PAINEL_DATA = {
       "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
       "data": "16/05 07:00"
+    },
+    {
+      "titulo": "Arana vai às redes e se manifesta após susto pelo Fluminense: 'Livramento' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUzRyLUNBeGJtQ1Z5aFFoQzJlWWdBTDdObkxmd0Znd1U2cWRCVjN0Y0RnSUUxM3c1Y21KYjI1cmZRc1F3WlhOSFJPSHF6N240MWlucHN3UFNlWXJESUREUWFPQ3dfR1Y2cnhWRFhXUXZReWhBNEVLZW5yem1MOFNLSXBrUEFOMEhFTml0cU9wakVmc1p6V1BBNlhGd056RGdwUF95REx3c0MxNlM5b1BlRTdjNzFHZUdtY2hDdW40Umw4WV93T29vMjFKcGl6S2RDWTlMQWVnV3gyS1lXbnA1MWE5MWtpLWZVMVFzSWU5TUpuUWc?oc=5",
+      "data": "27/07 21:03"
     }
   ],
   "avisos": []
