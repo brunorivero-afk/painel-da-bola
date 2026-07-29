@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/07/2026 10:59",
+  "atualizado_em": "29/07/2026 12:53",
   "jogos": [
     {
       "sport": "futebol",
@@ -420,7 +420,7 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 31.8,
       "temp_min": 20.5,
-      "chance_chuva": 2,
+      "chance_chuva": 6,
       "condicao": "Parcialmente nublado"
     },
     {
@@ -434,14 +434,14 @@ window.PAINEL_DATA = {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 26.3,
       "temp_min": 14.9,
-      "chance_chuva": 4,
+      "chance_chuva": 8,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.8,
       "temp_min": 13.9,
-      "chance_chuva": 8,
+      "chance_chuva": 2,
       "condicao": "Parcialmente nublado"
     }
   ],
