@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/07/2026 02:47",
+  "atualizado_em": "29/07/2026 05:32",
   "jogos": [
     {
       "sport": "futebol",
@@ -257,39 +257,9 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-29",
-      "time": "04:45",
+      "time": "03:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Itália x Holanda",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-29",
-      "time": "08:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Japão",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Bolívia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-29",
-      "time": "04:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Turquia x Canadá",
+      "match": "Eslovênia x Turquia",
       "channels": [
         "SporTV2"
       ]
@@ -299,7 +269,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-29",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
-      "match": "EUA x China",
+      "match": "Japão x China",
       "channels": [
         "SporTV2"
       ]
@@ -307,9 +277,9 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-07-29",
-      "time": "20:00",
+      "time": "03:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Peru",
+      "match": "Itália x EUA",
       "channels": [
         "SporTV2"
       ]
@@ -379,7 +349,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-29",
       "time": "04:15",
       "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Feminina de Vôlei",
+      "match": "China x Itália",
       "channels": [
         "SporTV2"
       ]
@@ -389,7 +359,7 @@ window.PAINEL_DATA = {
       "date": "2026-07-29",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Feminina de Vôlei",
+      "match": "Brasil x Turquia",
       "channels": [
         "SporTV2"
       ]
@@ -428,31 +398,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.5,
-      "temp_min": 20.9,
+      "temp_max": 32.0,
+      "temp_min": 21.0,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 32.6,
-      "temp_min": 17.9,
+      "temp_max": 31.1,
+      "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 26.6,
-      "temp_min": 15.5,
+      "temp_min": 15.1,
       "chance_chuva": 4,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.4,
-      "temp_min": 14.2,
+      "temp_max": 26.8,
+      "temp_min": 14.1,
       "chance_chuva": 4,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
@@ -462,14 +432,9 @@ window.PAINEL_DATA = {
       "data": "28/07 07:00"
     },
     {
-      "titulo": "Cartão de Acosta, do Fluminense, gera alerta de manipulação e investigação; jogador nega envolvimento - ge",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcU1YT25tbGthQXFfTXhRQmRYWU9iaDdTdm9qbmdUOVBNUnB4RWxDczc3VmlkS29MVUIwbzdJOUZSY0hzakRqdlhnb3RySUZadG9waGppSER3NVZLMjdIYTJtcFh5YkZPaS1kVmRGeGY3Y3ljSEh1cDIxLWZMS19kVzFXNk1TTW0zVnVILWNPczJWcDZhR2NmcTAwNmZYN3BYdzFzRUMwcnJhR3V1NWQ2eDJpY0JzS3hzcmpMcUdRSVdoWl9NcXZSTy1oZmFEaXQyYnNTUDVCZC1sVTZnZWM3MmFnYUJkWC1qNUJEZEdqcGg0RFV2aHFnYjZTMzdQdkw2WTlDZThNSHlfaGxEeDE2SdIBnwJBVV95cUxPVDRkTGs3UENWZ3hCMWFOZGdWaUFoVWktcG9GbjlmQ1dJcHprRWxNTC1semhQanVFUmpCWFRGaVFpQU1URlQwSTBQWl9OU0Z3Y3l0alpqam5JUVJUVDFQSnowRXl3X09WWktQUjA3UTZaVHNkZEg5Qm5sZmpaenNaMjc1TVNLSTFkR1o0V0N1UnRKVzF1VF9QWW04NDZvZVZ3UG9nUEhfY1dKMHdpNm4xRk5QZ3JUZXdpVUNON1NfUnNuUGNWOXN6WVY4eTlVb0FibGhDdU9JTWM2el9jZnZrN3A5NUFxWWNuaHhFQlpXcFdSTnNOQ0tseS1NTkhudGhlcXhfdHN1YWZoOUVxMTd6MDR0dDFPeGNocWVCSmttRQ?oc=5",
-      "data": "28/07 01:09"
-    },
-    {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeTV4a3dpZGlMcGVDdW5ySUdyT0wtSGVrZHY0RERrbVhIMUxLN3FVT0E0U0hSdFV1TFItSGFTVG9Sc3Zhc2J3NmtzN043THQwLWowcjVNMTVWY3ZjVW0yVTlCRTV2eUdmeHRGbVBLaE5PTzJNeHh4WXVjQlVjTVdqckZCVkloV0NWTGEtd3RXY1VjamhVQ1pEd25CSlk1UUFuWGtEVWRSX3RKMVp4ZzRYMHNGQUFRUHdOeks0MnRVZkFEYmNCamVWMnV2SHFGcWpYWEl1bWpONG5TSWNQTDNWT1JaQVBZeldmYkE?oc=5",
-      "data": "28/07 10:00"
+      "titulo": "Meia do Fluminense retorna mas deve ficar no banco contra o Bahia; veja escalação - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0lMWjF4T1hEVkN4S05EbGdlNy1DOHpLT0xZTDdFSzVPY2N5NGlLNVZYYm9zOVBMdE1xVm5KSFdkeElDRlJtcTdUQVg1VEYyb2JuM21MblhBQThrLTZUMjZWWmllN3NmaVpOQmkyOTA0TnlHNTdPd1pEOUxNbXBQN19tY3VUMHAxY3NYWW5oUW91eTJXekFKb3F0SFhaMnVfU1B3eDYxZmZGZG8?oc=5",
+      "data": "28/07 21:29"
     },
     {
       "titulo": "Escalação do Bahia contra o Fluminense: veja time provável, desfalques e dúvidas após treino - ge",
@@ -477,9 +442,14 @@ window.PAINEL_DATA = {
       "data": "28/07 17:15"
     },
     {
-      "titulo": "Fluminense x Bahia: onde assistir, escalações e arbitragem - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakRGNzZudmhDTUN2TWhyQjRqc2lfdlRRXzAtUDNKUzN6aUVMNXBBU3habTZKbTI3VU1RLVdEWU8tZFpTTkh5YnY0TmJpRHVYOGJ1STREeUFvakdjZEU0MlJDXzFOZGp5X2dZaGttei1WOG8yVGRCUVlCcUwtaEE5ZmdfaDg4cEFpYTBLTE5mSk9jNllyanVQclhaZ3d1QTdiZE4xWG1QWXRRYnVMbG5fU1g0aURnOVg1Q0FlNHNGcThZTk5FT19YVzVnRTB1ZzFyeGVzVkZwQTFfcHAweGtFaQ?oc=5",
-      "data": "28/07 21:43"
+      "titulo": "Base e profissional: Fluminense e Bahia estreitaram relação que já movimentou R$ 28 milhões - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNzJLZGFMWnhSXzNjcHNkRjAzOXFuVDg4T2RwTEIwTU9ZcU4zWm5DRW9aU2dsdlUyaGI5UkJVWFJ1bHN0eEtuQ1diWm5xaGRpTWpmU0w3QzV6Q3E2UDZ0N3pqcDJ3b3E5QW5OVTkzYzJiMFdIYl9ELXFFdGM0b2hlYlRmdERja3U0TVpXT29jU05uOGlRb0ZTaGhicDNnME1tTUxaMTFHU3pHNHlhbGF6WVlIMENQR0R3b3Y2UlVwMmctdWpRWXpqQWhkdXJWQWNrRWE5bmxibkMzb0NLbVd6X1lvRlYwMUpjTWJhSFlrRS05dHRrQ1NjLXdn0gGIAkFVX3lxTE1uZC1sNS1MWGlYZk9FMk1FSkpERmlCd1JvaERVYWpnc2ZwNk9FZXZWNk1TNkdnQmNiREQtdWtsZ2QxMmNSVEtnMmhRTXpMUnpJc0JfczktZ3ViSnF0Qlk0SXFfajYxM25fNWMtTFdUV0toMkJnSlU0WWRRM1RDSTNHbFdrUFVsbFV2Z0VYWWw2SlVFZEFhemp3cE14ZG1rUjYtV0FLYlpkT2RDTUdpS3dVU2plVHdsak9DNUM4MllJeEl4UGJoVUo2S1hRQS1BdC1ianAta3FUb1F5M2NYd0VVZ3JlTThST1gyaDBZcE1HdEI4OXFsMDJUZXBxeXNrVDJUa1NCTXdGeQ?oc=5",
+      "data": "29/07 07:02"
+    },
+    {
+      "titulo": "Cartão de Acosta, do Fluminense, gera alerta de manipulação e investigação; jogador nega envolvimento - ge",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcU1YT25tbGthQXFfTXhRQmRYWU9iaDdTdm9qbmdUOVBNUnB4RWxDczc3VmlkS29MVUIwbzdJOUZSY0hzakRqdlhnb3RySUZadG9waGppSER3NVZLMjdIYTJtcFh5YkZPaS1kVmRGeGY3Y3ljSEh1cDIxLWZMS19kVzFXNk1TTW0zVnVILWNPczJWcDZhR2NmcTAwNmZYN3BYdzFzRUMwcnJhR3V1NWQ2eDJpY0JzS3hzcmpMcUdRSVdoWl9NcXZSTy1oZmFEaXQyYnNTUDVCZC1sVTZnZWM3MmFnYUJkWC1qNUJEZEdqcGg0RFV2aHFnYjZTMzdQdkw2WTlDZThNSHlfaGxEeDE2SdIBnwJBVV95cUxPVDRkTGs3UENWZ3hCMWFOZGdWaUFoVWktcG9GbjlmQ1dJcHprRWxNTC1semhQanVFUmpCWFRGaVFpQU1URlQwSTBQWl9OU0Z3Y3l0alpqam5JUVJUVDFQSnowRXl3X09WWktQUjA3UTZaVHNkZEg5Qm5sZmpaenNaMjc1TVNLSTFkR1o0V0N1UnRKVzF1VF9QWW04NDZvZVZ3UG9nUEhfY1dKMHdpNm4xRk5QZ3JUZXdpVUNON1NfUnNuUGNWOXN6WVY4eTlVb0FibGhDdU9JTWM2el9jZnZrN3A5NUFxWWNuaHhFQlpXcFdSTnNOQ0tseS1NTkhudGhlcXhfdHN1YWZoOUVxMTd6MDR0dDFPeGNocWVCSmttRQ?oc=5",
+      "data": "28/07 01:09"
     }
   ],
   "avisos": []
