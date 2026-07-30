@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "30/07/2026 16:19",
+  "atualizado_em": "30/07/2026 18:03",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-30",
-      "time": "16:00",
-      "competition": "Brasileiro Sub-20",
-      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
-      "channels": [
-        "SPORTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-30",
@@ -94,6 +84,16 @@
       "match": "FC Midtjylland x Besiktas",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "competition": "Brasileiro Sub-20",
+      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "SPORTV"
       ]
     },
     {
@@ -374,14 +374,14 @@
       "data": "30/07 18:10"
     },
     {
-      "titulo": "Relembre números e veja todos os gols do Fluminense no Brasileirão - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE85MkhES2NNQ0VTNXFQMi1zU1dfMVdHVVZDTUNVdENiVFpKWmg2MFZwUFBrZlN6MVNhT0J2SUVhT0JoVU1uZFk0aHZ3QzlJQnpXVzdabk5mczVmakFUTXRCMFJSMGVkbkR0dUpqS2FuSVpYaHFraUJTRGtBS3BHSWtpVFBkZWpHeV92UEtZdEVhSnFVdDZqbA?oc=5",
-      "data": "30/07 17:12"
+      "titulo": "Vasco x Fluminense Palpite – Dicas e notícias (01/08) - Trivela",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHJSQTBHdEZfVGZFRjZlZWtJNlNLdXFBXzFIN2JPcVpJWXZYb1hnTXd4d1A2QmFLc3VZMDlFSDZMYTlGN2cxMGJSM0VmNW9wcXZBeFZxcEZrVHdxMmh0WDI0S0N4dkxGWHNtWUF5dlVZVmxMSXZMRTJRZ2ZuVGpnTVppLXJMdlpB?oc=5",
+      "data": "30/07 20:40"
     },
     {
-      "titulo": "Soteldo faz alerta para o Fluminense no clássico contra o Vasco - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1BWdGFpejVGTGpmVW9NampxVWdraU56Ym00LWU5cDRzdWJLdUlHeXFkbTlRektLeldrTHNqSU93MGhLS0pvcnpiaHVCb2ltblBqMVVQaVN1TTlWTnBjRDNvSm1tRVlXQ0t2U2FfTVlJSVZlUEMxRjVGRkdmNF9nZnNpd0Q5QWUyR0M3QzJONXJWNkJHUWRYUUkwSTEzTkZfVVlIWFNHd0oxa3BSZFFtZ2o3Nm5iSnpkTzE2d1pSMDdSWDI4MlBfZl9ObUktekVVbjgwWFhoMmh1aC1uY1F2bkV1UjM3WUxI?oc=5",
-      "data": "30/07 09:59"
+      "titulo": "Por onde anda Araújo, ex-atacante de Goiás, Cruzeiro e Fluminense? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWFHZEVscHAzRGhwQWJzdzQyYWtuemRvZEI4VHVHWjR0aFp2aGdlNE9zbUhnaE1mR2NrSERSZUtSUmNNQkU0VU9ocU9EaW1LdUNRMlU2bU9Nemstckk0dmlOcmthRm80eUIzaV9odmtKS1k5WlVrRVRqbUc5OXRnaEVrQ25fQ3pGeTA2R0V1Ylc?oc=5",
+      "data": "30/07 09:17"
     }
   ],
   "avisos": []
