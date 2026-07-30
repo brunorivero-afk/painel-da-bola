@@ -1,184 +1,6 @@
 {
-  "atualizado_em": "29/07/2026 21:03",
+  "atualizado_em": "30/07/2026 00:53",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "19:15",
-      "competition": "Campeonato Argentino",
-      "match": "Gimnasia L.P. x River Plate",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Mirassol x Remo",
-      "channels": [
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Internacional x Flamengo",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "21:00",
-      "competition": "MLS",
-      "match": "MLS All-Stars x Liga MX All-Stars",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Cienciano x Lanus",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "RB Bragantino x Sporting Cristal",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "21:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Palmeiras",
-      "channels": [
-        "GLOBO",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "21:30",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Bahia",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 2",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "06:45",
-      "competition": "Amistosos",
-      "match": "Tottenham x Sydney",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "07:00",
-      "competition": "Amistosos",
-      "match": "Cerezo Osaka x Borussia Dortmund",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "12:00",
-      "competition": "Champions League",
-      "match": "Kairat Almaty x Omonia Nicosia",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "14:30",
-      "competition": "Campeonato Argentino",
-      "match": "Barracas Central x Aldosivi",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "competition": "Champions League",
-      "match": "Estrela Vermelha x Larne",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "competition": "Champions League",
-      "match": "Gornik Zabrze x Fenerbahce",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Real Betis x Lyon",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "15:30",
-      "competition": "UEFA Conference League",
-      "match": "Rapid Vienna x FC Santa Coloma",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-29",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Vasco x Independiente Medellin",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-30",
@@ -275,8 +97,98 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x Botafogo Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "15:45",
+      "competition": "Amistosos",
+      "match": "Sporting CP x Nottingham Forest",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Carolina Core",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Toronto II x Columbus Crew II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York City FC x Toronto FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "21:00",
+      "competition": "NWSL Feminina",
+      "match": "North Carolina Courage (F) x Orlando Pride (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "Minnesota United II x Portland Timbers II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "23:00",
+      "competition": "MLS Next Pro",
+      "match": "Los Angeles II x Colorado Rapids II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "03:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Itália x EUA",
@@ -286,7 +198,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Itália",
@@ -296,7 +208,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Turquia",
@@ -306,7 +218,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "16:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -316,7 +228,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "17:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -326,7 +238,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -336,7 +248,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "20:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -346,7 +258,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "04:15",
       "competition": "Vôlei (SporTV2)",
       "match": "China x Itália",
@@ -356,7 +268,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Turquia",
@@ -366,7 +278,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "10:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -376,7 +288,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "11:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Circuito Mundial De Vôlei De Praia",
@@ -386,7 +298,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "19:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Copa Sul-Americana Feminina de Vôlei",
@@ -396,7 +308,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "03:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Eslovênia x Turquia",
@@ -406,7 +318,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Japão x China",
@@ -418,31 +330,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.6,
-      "temp_min": 20.5,
-      "chance_chuva": 33,
+      "temp_max": 24.0,
+      "temp_min": 19.9,
+      "chance_chuva": 13,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.5,
-      "temp_min": 17.8,
-      "chance_chuva": 10,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 25.0,
+      "temp_min": 19.7,
+      "chance_chuva": 3,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.3,
-      "temp_min": 14.9,
-      "chance_chuva": 70,
-      "condicao": "Garoa fraca"
+      "temp_max": 24.9,
+      "temp_min": 12.8,
+      "chance_chuva": 13,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.8,
-      "temp_min": 13.9,
-      "chance_chuva": 73,
-      "condicao": "Garoa"
+      "temp_max": 20.9,
+      "temp_min": 13.3,
+      "chance_chuva": 47,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -452,24 +364,24 @@
       "data": "29/07 06:00"
     },
     {
-      "titulo": "Ex-Cruzeiro faz alerta sobre Hulk no Fluminense e sugere que preserve o jogador - No Ataque",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWW1QSFFQckx1UEQ1cU1LWHl2QTJRTDlJZmx4Y2YzS2R0Y3M5WU84T1ZzaW13TnRhVU5aMmk2M0pocXNXb1FmYWlTTHdkX1NhUmg5ZXhoWHplZDdEZ2o1TS03Q3JfRzdrUWVVS19STy1GQ3A3STRDSEE0eFNUVkV2WXZpMjZNT24wU1BvX0pxUk9YOXdyd3JSUG80VGl6cHBZYnNtNnFLU3ZfZklSeFQ0emt6UzBxZGMzeS1mZ1B1dHM?oc=5",
-      "data": "29/07 20:31"
+      "titulo": "Ventania no Rio: ex-Botafogo morre após queda de muro, e Fluminense esvazia sede nas Laranjeiras - Terra",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbDczdzZJbF9QVHFkYzI0MkppdUJaXy00clg4WHVoTGJENHpTT2Z6TE1hR01wTDdHdE1SYnZRamxWSTVNcExjMlVkWWFTVkRQNjR2R1FCWHFPbnc3dm5TZEVNQ19BaUVKVnpKY2hENGxwd1FXWHotX01XWnB4dkNHXzBWbVFNTkFKdGtuZHdlWF9YT1kyQlN4ZVkwX19uQUNUWXpoSDFRUkkxd3hRR09WdVAyd1ljYVUtZG9OVzNWTXNYTGRjMWlueWU0cWVwUmRySENCalVWTW1FbnlhaFppUVdaNHlvYUY3ZlZ3NmdZY0tHSUpBNVRYWVFvdUkyU0J1emlGM0tkTzI2U3NsUVI0?oc=5",
+      "data": "30/07 02:41"
     },
     {
-      "titulo": "Por que o Fluminense não aceita a devolução de Lima pelo América do México? Entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONWdKcE9mSFQ5eG90WTRrZm9HQ2Z6OUpRaGNWeFBsOXl4aEtqd1NEem91V015MkRlYXNKOW1qNGRhUy1uMDVHRlgtZmQ2MnlpRWlVME9hb0pFTjRNcUlaRkNERlZRQmthSWZla1J3TDZscWxyNDkwTmZTX1ljcGR5WFFjVWk2MTJMc0FwbVk0eE9rOTAxdWNJZzVCNjVja3dzQW56VVFzSzNLZThmMmRfWm5ueER6a1FTLS1yRUloTG5URjI5VmtKZkpoMFBEZHcxLUgxMUlLbjlmN05ZZkRfeUdZVU1ZclZ4Y3BMRjViZnJCNTNMWjZfX05sWE50WDA?oc=5",
-      "data": "29/07 17:34"
+      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
+      "data": "30/07 00:22"
     },
     {
-      "titulo": "Fluminense define futuro de Lucho Acosta após alerta de manipulação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOd3R3WEtkSjk4bHNONHFnR3k3M2NLWmI0TWFRd2ZhellONTY4ODQ3Ulk1ZWI0aE1KUTZ6RVRnWUduRmtNMmpyX2c0eU13Nk55cmk2QTU0bEZUUXZkbTFORjVrTW5rRV93cXFBeWlzbjdPMFNEQWphWU51YUtVek0zSHBiOExmODgzYkVxWGhyZEs5VW5VQ2tyMDVnZVdvZXEzTGRXZ251Q0otNjFYNnhuX2lWWHI1VFZ3WE9UOUtzWm5mclhqWk1jZEZ3U3JxUVpRdnZXMi1kUVdXd2FRdlo5SlBvY2YtX1UtUHJR?oc=5",
-      "data": "28/07 14:26"
+      "titulo": "Cartão manipulado no Brasileirão: Jogador do Fluminense é alvo de investigação da CBF - RD1",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVdCT2JMWE1ZRV9KN1poMEs1R0hGakZqdXI2VThVYlFsenljcS1ZRGd0SG00TDIyLUZ3cDgzZm84b0gzT3hZVmhsa3JES0dsbENlR1Uzd3ZzXy1fWWE5YjBuZHNUVnB5azFDQUthTmJUZWpaNDBLckRsN1RqNzVmbm95MXRRWlFzd0lCakNENFhhMDJtb2ZQRHYzSk9LLVRPME15WElEcw?oc=5",
+      "data": "29/07 19:37"
     },
     {
-      "titulo": "Gols e melhores momentos Fluminense 2x1 São Paulo pelo Brasileirao 2026 - VAVEL.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQjRuN3M4NFQxQ25EM0JiMGszNl9YT1hMYjFaMm9WdDRBX0FHeUd2VjRldFlldVI5Q0hNOEg4cW43Y2NKenNWb29WQzUxdWNGSlhtOGxlbkJ3S05CRHBEQndwV2JlZ03SAWxBVV95cUxQQjcyVjFuSjZ6S3lDTm10alJqS2xPZXRzQUZxWGFKWTlERGxSLVdpWkJldm5WbUhuaGFIU0g4dS1qRjhHYlhJcUUwWVRDZWQ5Vk1tMmZOeEhna0tmSEp6Y2hsci1GMlBQNTNBanE?oc=5",
-      "data": "16/05 07:00"
+      "titulo": "Contra o Bahia, Fábio alcança mais uma marca histórica pelo Fluminense - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRHZXYVZkNmxzenBHcHFpd1c2T0F0QzBIQjdYVXZNQTQ0eTlnY1RSVDgyVU5CZGVzdTRfYXA1Q2dMc1FJTnRFMUtNRlltUC02VENhMWt6em8zUF9VNDFRc3pSRnlUVFdBQm5Ia0kzWnhIMUJSSmcyVk9Jc0xBc3diN3dyR2h2bzIwZ0VBTmZUYjQ0M2RuOEhWSDlhZDJPTHFvUC0ydk45bnhpVkJEVlRkWFE0WWNVLUtPdGxzYkVHWE5PSW5JdlBrTWIybm9NNzNIT0xYN2dEUjRBejJlWkI4R3NBaUd1RTljbFJKcl8yVi0?oc=5",
+      "data": "30/07 00:20"
     }
   ],
   "avisos": []
