@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "30/07/2026 06:27",
+  "atualizado_em": "30/07/2026 08:48",
   "jogos": [
     {
       "sport": "futebol",
@@ -369,11 +369,6 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFqYlNJb2g4NmJIVHNGa3VCSlduQ0x0US00UXNzUUJjeHk1OXNCS2ZtRldma3dib1ZTVWw0eTl3N2RZRTdKR1FXYUV2c1RIYkNXZFdxYWM4WlJmR0JON1NudFNqN3R2NVlTTjBNWFBnMm0yajZpVDFYN2kzLVJ6Y3pMdWVLOTczb2RtTG1QYlZRbGRkc09nWldSejA3RXFTQ016dFJ1RnA1MHpVTElUTU03VHBSLXlBX2JHZlBUUU9oV1k5UlhmOV9DU2lFY1F1V3JRb1Z3MUczNzFM?oc=5",
-      "data": "28/07 04:43"
-    },
-    {
       "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
       "data": "29/07 06:00"
@@ -384,9 +379,14 @@ window.PAINEL_DATA = {
       "data": "30/07 09:04"
     },
     {
-      "titulo": "Fluminense: Thiago Silva tem desconforto na coxa direita e faz exame nesta quinta-feira; Freytes preocupa para Copa do Brasil - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbFdOb05xOVZmUUxSd1lUdkVjUWZacDBES1Rsa3RlWW1ZSjdiOV9vaVRBUnN1NXVtSlNYNUUtZWxoSWVIZVVfWGs3eURSQW9QTXFoYXRqVmZPanNoUGlqZHZ0U1BQRzZmU0oycjRSczVxY1JoZGV0UDVkTVQ4a1kwRXRfdTFpcTFMSkZHYTF1WHhXRUVBaEFUX2piN0p4bmhxZFN4NWplUVJzam52amkwS1BsckUzbC05LTEyS0Z4X3Bsa21LMzZJa2xNR0I2bmxXUnBlNVhPRjYzczFSNmJXUW9sNlYxclNaNHFKSnhMUV8xNHVndjNDdEQyZmQ1LVk1VmlwcE16Rjd6bGNhTnfSAZwCQVVfeXFMTV8tM2FiaFkwenRwWlZXM1NOQ3RFRE1HeG9ITjFYWVdjTUFZMld4NTdrLTlOSVo5MlpqUGVLbUJRZjZEbFBkeXlFTDJaaWU0Vi02aFdWUTVFMURNQVJoOURwcXdsWGJjbFk4QVU1RUl6eGd1ZWMxaXlHU1J5dUQ5am9NYzY3ZmQ2ZXlIMDRudDFaSTdEWExlX2hMS05LVDhjVU00MWcyWkJlWTQ2YVdIRXNMR2hyeGRxUVZvZWw4WFdYdlQxWVVPY3NxaG45dm9UMFg1bUZ5ajJIT2hFeFhhQ3VnWWllYmNsOXU1MnozY09rYkV6dndsR0FGY0wxTmNjUlY1cWFsdUFNYnFVR3lsZGstY1cxSVBlZlR4OVM?oc=5",
-      "data": "30/07 05:30"
+      "titulo": "Soteldo faz alerta para o Fluminense no clássico contra o Vasco - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1BWdGFpejVGTGpmVW9NampxVWdraU56Ym00LWU5cDRzdWJLdUlHeXFkbTlRektLeldrTHNqSU93MGhLS0pvcnpiaHVCb2ltblBqMVVQaVN1TTlWTnBjRDNvSm1tRVlXQ0t2U2FfTVlJSVZlUEMxRjVGRkdmNF9nZnNpd0Q5QWUyR0M3QzJONXJWNkJHUWRYUUkwSTEzTkZfVVlIWFNHd0oxa3BSZFFtZ2o3Nm5iSnpkTzE2d1pSMDdSWDI4MlBfZl9ObUktekVVbjgwWFhoMmh1aC1uY1F2bkV1UjM3WUxI?oc=5",
+      "data": "30/07 09:59"
+    },
+    {
+      "titulo": "Hulk perde gol na pequena área, é vaiado e vive início turbulento no Fluminense - No Ataque",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN21LejI0RlhreTRjMjFvekUwcmxHN3VqWlJFRzZhYUxZaVFoTWhteTRaelo4LXVYMkVxbjU5MXBLeWpDcFBNU2ZKdzVaYm1sdEIwQ3ZOczVjRWRRWlBkNDVWRjc5eUJzWDdrSDRCRFNFWEkzYi1SN2xVYzJuQ3JtVE9ndVBrUXBjWWhwZWRBaGNiTm9MeXF4cG5zY0dtbWxoTEp4MTZLQjh6VHpMZU1rSlVZZDIzUWRvX3dKZmJqUF9Fbnk1S1VSdmdOQ01rLUdvWmhvYVVWMUNSQldoVWtZ?oc=5",
+      "data": "30/07 09:59"
     },
     {
       "titulo": "Fluminense homenageia Fábio por 300 jogos pelo clube - LANCE!",
