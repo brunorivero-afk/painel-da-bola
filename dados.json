@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 00:53",
+  "atualizado_em": "30/07/2026 03:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -199,6 +199,16 @@
     {
       "sport": "volei",
       "date": "2026-07-30",
+      "time": "08:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Polônia x Ucrânia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-30",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Itália",
@@ -359,24 +369,24 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
       "data": "29/07 06:00"
     },
     {
-      "titulo": "Ventania no Rio: ex-Botafogo morre após queda de muro, e Fluminense esvazia sede nas Laranjeiras - Terra",
+      "titulo": "Ventania no Rio: ex-Botafogo morre após queda de muro, e Fluminense esvazia sede nas Laranjeiras - terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbDczdzZJbF9QVHFkYzI0MkppdUJaXy00clg4WHVoTGJENHpTT2Z6TE1hR01wTDdHdE1SYnZRamxWSTVNcExjMlVkWWFTVkRQNjR2R1FCWHFPbnc3dm5TZEVNQ19BaUVKVnpKY2hENGxwd1FXWHotX01XWnB4dkNHXzBWbVFNTkFKdGtuZHdlWF9YT1kyQlN4ZVkwX19uQUNUWXpoSDFRUkkxd3hRR09WdVAyd1ljYVUtZG9OVzNWTXNYTGRjMWlueWU0cWVwUmRySENCalVWTW1FbnlhaFppUVdaNHlvYUY3ZlZ3NmdZY0tHSUpBNVRYWVFvdUkyU0J1emlGM0tkTzI2U3NsUVI0?oc=5",
       "data": "30/07 02:41"
+    },
+    {
+      "titulo": "Fluminense homenageia Fábio por 300 jogos pelo clube - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWR1anlfYkFaa2d2Z2xHalpfTE9rdGg1dTNZLVpfZ3ZuS2ZseDZNWFhJY3FQQXRWeHhRSVh0Nmk4TFJmd0pTUVZGRVpaOVFOMy1ROVI0V2d0ZWhfR0pSNG1ZVng3OTgtV1FKbEJRTktTSjF5dVhBYWozdHBsMGE4Sk5WTk9nWVFJTWx1SGJLWUVrNTZJbHRpLQ?oc=5",
+      "data": "30/07 00:40"
     },
     {
       "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
       "data": "30/07 00:22"
-    },
-    {
-      "titulo": "Cartão manipulado no Brasileirão: Jogador do Fluminense é alvo de investigação da CBF - RD1",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVdCT2JMWE1ZRV9KN1poMEs1R0hGakZqdXI2VThVYlFsenljcS1ZRGd0SG00TDIyLUZ3cDgzZm84b0gzT3hZVmhsa3JES0dsbENlR1Uzd3ZzXy1fWWE5YjBuZHNUVnB5azFDQUthTmJUZWpaNDBLckRsN1RqNzVmbm95MXRRWlFzd0lCakNENFhhMDJtb2ZQRHYzSk9LLVRPME15WElEcw?oc=5",
-      "data": "29/07 19:37"
     },
     {
       "titulo": "Contra o Bahia, Fábio alcança mais uma marca histórica pelo Fluminense - Rádio Itatiaia",
