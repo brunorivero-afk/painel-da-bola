@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 03:23",
+  "atualizado_em": "30/07/2026 06:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -189,16 +189,6 @@
     {
       "sport": "volei",
       "date": "2026-07-30",
-      "time": "03:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Itália x EUA",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-30",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Polônia x Ucrânia",
@@ -335,63 +325,73 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-07-30",
+      "time": "03:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Itália x EUA",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.0,
-      "temp_min": 19.9,
+      "temp_max": 24.2,
+      "temp_min": 19.8,
       "chance_chuva": 13,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.0,
-      "temp_min": 19.7,
+      "temp_max": 24.9,
+      "temp_min": 20.2,
       "chance_chuva": 3,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.9,
-      "temp_min": 12.8,
+      "temp_max": 25.3,
+      "temp_min": 13.7,
       "chance_chuva": 13,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.9,
-      "temp_min": 13.3,
+      "temp_max": 21.0,
+      "temp_min": 13.6,
       "chance_chuva": 47,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - ge",
+      "titulo": "Rodrigo Mattos: CBF investiga apostas suspeitas em cartão de Lucho Acosta, do Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdWFqYlNJb2g4NmJIVHNGa3VCSlduQ0x0US00UXNzUUJjeHk1OXNCS2ZtRldma3dib1ZTVWw0eTl3N2RZRTdKR1FXYUV2c1RIYkNXZFdxYWM4WlJmR0JON1NudFNqN3R2NVlTTjBNWFBnMm0yajZpVDFYN2kzLVJ6Y3pMdWVLOTczb2RtTG1QYlZRbGRkc09nWldSejA3RXFTQ016dFJ1RnA1MHpVTElUTU03VHBSLXlBX2JHZlBUUU9oV1k5UlhmOV9DU2lFY1F1V3JRb1Z3MUczNzFM?oc=5",
+      "data": "28/07 04:43"
+    },
+    {
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
       "data": "29/07 06:00"
     },
     {
-      "titulo": "Ventania no Rio: ex-Botafogo morre após queda de muro, e Fluminense esvazia sede nas Laranjeiras - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbDczdzZJbF9QVHFkYzI0MkppdUJaXy00clg4WHVoTGJENHpTT2Z6TE1hR01wTDdHdE1SYnZRamxWSTVNcExjMlVkWWFTVkRQNjR2R1FCWHFPbnc3dm5TZEVNQ19BaUVKVnpKY2hENGxwd1FXWHotX01XWnB4dkNHXzBWbVFNTkFKdGtuZHdlWF9YT1kyQlN4ZVkwX19uQUNUWXpoSDFRUkkxd3hRR09WdVAyd1ljYVUtZG9OVzNWTXNYTGRjMWlueWU0cWVwUmRySENCalVWTW1FbnlhaFppUVdaNHlvYUY3ZlZ3NmdZY0tHSUpBNVRYWVFvdUkyU0J1emlGM0tkTzI2U3NsUVI0?oc=5",
-      "data": "30/07 02:41"
+      "titulo": "Ventania causa danos na sede do Fluminense e clube fecha Laranjeiras; veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbkxfTjJwQlF2bDlCb3Q5bWdjOGR6MVpmMF9rWWhRWGtHVFlaVEkxSXhPSkNMX3NDMHVUaFNJTVJuN3RoTW1qMlZpVnV0TmpBeWE2amJ0dU8tRnpFMEUtdjFDQTV3VUx0dlQyamh0REVBZ0NOQkdUZTF3NzNRRTAzQmVjNVo4eDg0R1VGTXhYR3JVendsWUM0eG5TV1B4MlMyN0J1a0RrM3hCWUVJSEcwd1Btb2lvd2V3RnI5c1E4UnVrc1NmLTBvMUdqWHZJZEs0bWJHMmR2OFhmc09FR2VoeWtJZzZxdU9qNzMzeXhOQVVwYWpBdDBj?oc=5",
+      "data": "30/07 09:04"
+    },
+    {
+      "titulo": "Fluminense: Thiago Silva tem desconforto na coxa direita e faz exame nesta quinta-feira; Freytes preocupa para Copa do Brasil - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbFdOb05xOVZmUUxSd1lUdkVjUWZacDBES1Rsa3RlWW1ZSjdiOV9vaVRBUnN1NXVtSlNYNUUtZWxoSWVIZVVfWGs3eURSQW9QTXFoYXRqVmZPanNoUGlqZHZ0U1BQRzZmU0oycjRSczVxY1JoZGV0UDVkTVQ4a1kwRXRfdTFpcTFMSkZHYTF1WHhXRUVBaEFUX2piN0p4bmhxZFN4NWplUVJzam52amkwS1BsckUzbC05LTEyS0Z4X3Bsa21LMzZJa2xNR0I2bmxXUnBlNVhPRjYzczFSNmJXUW9sNlYxclNaNHFKSnhMUV8xNHVndjNDdEQyZmQ1LVk1VmlwcE16Rjd6bGNhTnfSAZwCQVVfeXFMTV8tM2FiaFkwenRwWlZXM1NOQ3RFRE1HeG9ITjFYWVdjTUFZMld4NTdrLTlOSVo5MlpqUGVLbUJRZjZEbFBkeXlFTDJaaWU0Vi02aFdWUTVFMURNQVJoOURwcXdsWGJjbFk4QVU1RUl6eGd1ZWMxaXlHU1J5dUQ5am9NYzY3ZmQ2ZXlIMDRudDFaSTdEWExlX2hMS05LVDhjVU00MWcyWkJlWTQ2YVdIRXNMR2hyeGRxUVZvZWw4WFdYdlQxWVVPY3NxaG45dm9UMFg1bUZ5ajJIT2hFeFhhQ3VnWWllYmNsOXU1MnozY09rYkV6dndsR0FGY0wxTmNjUlY1cWFsdUFNYnFVR3lsZGstY1cxSVBlZlR4OVM?oc=5",
+      "data": "30/07 05:30"
     },
     {
       "titulo": "Fluminense homenageia Fábio por 300 jogos pelo clube - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWR1anlfYkFaa2d2Z2xHalpfTE9rdGg1dTNZLVpfZ3ZuS2ZseDZNWFhJY3FQQXRWeHhRSVh0Nmk4TFJmd0pTUVZGRVpaOVFOMy1ROVI0V2d0ZWhfR0pSNG1ZVng3OTgtV1FKbEJRTktTSjF5dVhBYWozdHBsMGE4Sk5WTk9nWVFJTWx1SGJLWUVrNTZJbHRpLQ?oc=5",
       "data": "30/07 00:40"
-    },
-    {
-      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
-      "data": "30/07 00:22"
-    },
-    {
-      "titulo": "Contra o Bahia, Fábio alcança mais uma marca histórica pelo Fluminense - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRHZXYVZkNmxzenBHcHFpd1c2T0F0QzBIQjdYVXZNQTQ0eTlnY1RSVDgyVU5CZGVzdTRfYXA1Q2dMc1FJTnRFMUtNRlltUC02VENhMWt6em8zUF9VNDFRc3pSRnlUVFdBQm5Ia0kzWnhIMUJSSmcyVk9Jc0xBc3diN3dyR2h2bzIwZ0VBTmZUYjQ0M2RuOEhWSDlhZDJPTHFvUC0ydk45bnhpVkJEVlRkWFE0WWNVLUtPdGxzYkVHWE5PSW5JdlBrTWIybm9NNzNIT0xYN2dEUjRBejJlWkI4R3NBaUd1RTljbFJKcl8yVi0?oc=5",
-      "data": "30/07 00:20"
     }
   ],
   "avisos": []
