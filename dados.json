@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "30/07/2026 14:21",
+  "atualizado_em": "30/07/2026 16:19",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-30",
-      "time": "14:00",
-      "competition": "UEFA Europa League",
-      "match": "FC Midtjylland x Besiktas",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-30",
@@ -94,6 +84,16 @@
       "match": "Caracas FC x Santa Fe",
       "channels": [
         "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "FC Midtjylland x Besiktas",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -330,21 +330,21 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.9,
+      "temp_max": 23.6,
       "temp_min": 20.1,
       "chance_chuva": 9,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.2,
       "temp_min": 19.5,
       "chance_chuva": 4,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.7,
+      "temp_max": 24.1,
       "temp_min": 14.5,
       "chance_chuva": 8,
       "condicao": "Nublado"
@@ -352,7 +352,7 @@
     {
       "cidade": "Teresópolis",
       "temp_max": 20.7,
-      "temp_min": 13.5,
+      "temp_min": 13.7,
       "chance_chuva": 18,
       "condicao": "Garoa fraca"
     }
@@ -369,19 +369,19 @@
       "data": "30/07 16:43"
     },
     {
-      "titulo": "Zubeldía avalia início de Hulk no Fluminense e não garante titularidade - No Ataque",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmswT1dJeEp5VkR3eVlSV29YMU9jcldjM0dmdmxlWDRQd1A4d3doZzNlVXZuS3BYMkVaQTdCUWhzYURDVFRCQWJIaloyUUdyMGFnYURTV1lVbTNBUDBrNHc5Vm5nSXM5Nk8zM3ViX0J3YjRFVERzeWhMOXNuVWlmeVJrRmh4M3RURGtQeG90aXBtVzBBVE5kNzlicXpJVElLaUwtbS1OUG1hdE56U1paVExzckpJakNqM2JtemdWTjE4SzNzbmJ2SFBTOTZFNHI5WkxBTERR?oc=5",
-      "data": "30/07 12:40"
+      "titulo": "Lucas assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYi1falBaS21vTXBweEVtZVlhWUhhMzkwcnFCeDhNSlVxWVZhV09sVTMtWGVnT3V1dUlKZVMwQjlwZ0dBOGVkdmxzbXBPaU9Hcmg4M1NUZ29qOHVHNGRQYURDSUVSQ21SejlmM0VGaFk2OHROc1l6YjRjelJfZ0I2UWRBQ2laSmNWYWlHbmxfeS13NXplazU0VlFxZWNsbk0?oc=5",
+      "data": "30/07 18:10"
     },
     {
-      "titulo": "Hulk é substituído sob vaias, e Zubeldía prega cautela no Fluminense: \"Precisa se adaptar\" - GE",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR3hsSWVQUDhUR0x1Z0ZrZEN4OEx1SmVja3N3ZEJXTWJRXzVCeE55M1VEazRSTzY2VXlJWjVSLXVseGNEYklpZk9NTEhUSnltZHhrUlI4Q2JScGF3eWpVSVFlMTBYNmVDZ0MtU3RhbHVVUTBVQmNLR0VkYTBDUzVtcVJHY2FyY0tFYy1IRlBfYWlVMVJJV1JyMmlKTXdVTlVMa0tWYTVfNWRUNTNuU1QzdEFVUjBydGJzd3RWTWQxckRjc2VxMU01bWJ3blpGaEdfcjl6Y25NYzhodHZvYVVheENTYjR2bVdaTi1GTnZn0gH8AUFVX3lxTFA1aGY1WE5YXzVaZXJmNUI3TEtVQUJMS2JDSi1RVHZNMjFubHBIa0haRXBaaExtOEdxWjk0UEE4cFhtZTNsVzhIeHUxTDROYlRramlWd3dId0dwVjVscUVoOC1mSTJTWnRRTU1MdmY1c2FNR3NIaFdsRm9HZzFXdmQ4ejMyYmFnLUppVG1DX191ZmpIMG1aaVVzWlFOLTJ3MHlCOS1yeFI0WUdSaktLXzR0dWtyeUlmZi12Q2dTbVFZd1pROHVBQ2dDemdsaFNPTTVYU2tmOHl1N0E3bU5DQ2hJTy1mcS1KMFpkSmNtUjdVOVh4TTI4c0xJZ2xQaQ?oc=5",
-      "data": "30/07 15:00"
+      "titulo": "Relembre números e veja todos os gols do Fluminense no Brasileirão - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNE85MkhES2NNQ0VTNXFQMi1zU1dfMVdHVVZDTUNVdENiVFpKWmg2MFZwUFBrZlN6MVNhT0J2SUVhT0JoVU1uZFk0aHZ3QzlJQnpXVzdabk5mczVmakFUTXRCMFJSMGVkbkR0dUpqS2FuSVpYaHFraUJTRGtBS3BHSWtpVFBkZWpHeV92UEtZdEVhSnFVdDZqbA?oc=5",
+      "data": "30/07 17:12"
     },
     {
-      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
-      "data": "30/07 00:22"
+      "titulo": "Soteldo faz alerta para o Fluminense no clássico contra o Vasco - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN1BWdGFpejVGTGpmVW9NampxVWdraU56Ym00LWU5cDRzdWJLdUlHeXFkbTlRektLeldrTHNqSU93MGhLS0pvcnpiaHVCb2ltblBqMVVQaVN1TTlWTnBjRDNvSm1tRVlXQ0t2U2FfTVlJSVZlUEMxRjVGRkdmNF9nZnNpd0Q5QWUyR0M3QzJONXJWNkJHUWRYUUkwSTEzTkZfVVlIWFNHd0oxa3BSZFFtZ2o3Nm5iSnpkTzE2d1pSMDdSWDI4MlBfZl9ObUktekVVbjgwWFhoMmh1aC1uY1F2bkV1UjM3WUxI?oc=5",
+      "data": "30/07 09:59"
     }
   ],
   "avisos": []
