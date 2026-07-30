@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "30/07/2026 12:48",
+  "atualizado_em": "30/07/2026 14:21",
   "jogos": [
     {
       "sport": "futebol",
@@ -359,19 +359,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo e escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGIxaVFnVXVQcHY0ekRBTHUxRlJMX3QzNE00dlZMc1NQWmtwMVZuUGZNWFRGem54ZnJFSmQtU3lyLUoySWszSUVlLVhjZHRKbEFkd2ZyS0ljV0JmT05ndWREaEhyVzEzNklUY1MzVW1RcVl6dmJfSEhnSENzOVA5TGxGTjEwZ3VqTHdyWmJZLWd2dzV6QVFxaEpUYXV2a3NrRE1CT2diYzFtWklmaUpNbzRWT3Y5WHBjUkhmczMyUmhYRGdwRjQ0NHYtTDBzdw?oc=5",
-      "data": "29/07 23:33"
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
+      "data": "29/07 06:00"
     },
     {
-      "titulo": "Ventania no Rio: Tássio, ex-Botafogo, morre após queda de muro; Fluminense esvazia sede - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSDkyMjhYaGlraGRpU3dDUS1fNndjUlhuRld3aUdobTlBSVZTdUIzRUNHeVpxSUNsRzFWTjd5X3VuV1kxS3Vnd0NFUFE0azllV1gzQnVGQTFGSDdtRjV0QmJKYXhiVWFoU1U2WEhkZUxENk1aZWQwTkRhVFhWWjdaWGhIS3NHSmgxZXZwaUwtbndVcXJma3gyanlBaG00aklzTHhqYUZuT012Qml1Q1JhTzFXZWh0MjBEUFBFQ19Yc3ExUzJUWkZTQksxNHZ6VDE5Vm9OWTNWVGRDQU14bkRFdVp4N3FnYUJ0M182QlpjT25Qa1pZMHNkamF0VFJHVWN4?oc=5",
-      "data": "30/07 11:41"
-    },
-    {
-      "titulo": "Hulk é substituído sob vaias, e Zubeldía prega cautela no Fluminense: \"Precisa se adaptar\" - GE",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR3hsSWVQUDhUR0x1Z0ZrZEN4OEx1SmVja3N3ZEJXTWJRXzVCeE55M1VEazRSTzY2VXlJWjVSLXVseGNEYklpZk9NTEhUSnltZHhrUlI4Q2JScGF3eWpVSVFlMTBYNmVDZ0MtU3RhbHVVUTBVQmNLR0VkYTBDUzVtcVJHY2FyY0tFYy1IRlBfYWlVMVJJV1JyMmlKTXdVTlVMa0tWYTVfNWRUNTNuU1QzdEFVUjBydGJzd3RWTWQxckRjc2VxMU01bWJ3blpGaEdfcjl6Y25NYzhodHZvYVVheENTYjR2bVdaTi1GTnZn0gH8AUFVX3lxTFA1aGY1WE5YXzVaZXJmNUI3TEtVQUJMS2JDSi1RVHZNMjFubHBIa0haRXBaaExtOEdxWjk0UEE4cFhtZTNsVzhIeHUxTDROYlRramlWd3dId0dwVjVscUVoOC1mSTJTWnRRTU1MdmY1c2FNR3NIaFdsRm9HZzFXdmQ4ejMyYmFnLUppVG1DX191ZmpIMG1aaVVzWlFOLTJ3MHlCOS1yeFI0WUdSaktLXzR0dWtyeUlmZi12Q2dTbVFZd1pROHVBQ2dDemdsaFNPTTVYU2tmOHl1N0E3bU5DQ2hJTy1mcS1KMFpkSmNtUjdVOVh4TTI4c0xJZ2xQaQ?oc=5",
-      "data": "30/07 15:00"
+      "titulo": "Ganso pode deixar o Fluminense; Sport busca investidores para viabilizar negócio - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZktLalUzNTJCcmpva05lbmFlbl8tbTBMWUNUb2JOdGNyeUhMbUZjN3JZcGFlTTdPaElWS0tLVFphYTJWMk9yRGxKVTdXZzl1VHctQU53QVl1NG9JQ2ROQmtDM1Q4cm1OWUlvdFVDcFZCak5ZeW9hdVhRcUdzQlBDR1JHeWZUWU02aWN0d2hzZ2lGQUpIY3ZyaS1tWnU3NEZlQl9zWDBfcjlCU1hLZGtIZEhJU0JCVG05MkNuZl9uZk9Jckt5c0J6WE85elNhTHlnNklZZG03VktxSTJ1YTMxQ2FYSW1qS19VRUZiZDg1MnVJOTNBVUdCZUVxWQ?oc=5",
+      "data": "30/07 16:43"
     },
     {
       "titulo": "Zubeldía avalia início de Hulk no Fluminense e não garante titularidade - No Ataque",
@@ -379,9 +374,14 @@ window.PAINEL_DATA = {
       "data": "30/07 12:40"
     },
     {
-      "titulo": "Hulk deixa o campo vaiado após 3 jogos pelo Fluminense, que chega a 5 sem vencer no Brasileirão - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRGhSN01SNWxWb0ZVX3dERERKa1ota1k2SnRDZ0VDVjFYTU1ndHpFSVZlZGEyLWlvZmxFMjk1Z3hjYWhYLXFqT2NlMjY1MzctUHpkM1JGYWRQT3RlYUZzSGp1ZC1iRmZRcDkxQVZsakZtcUtQUzl0ekhYVEVmLTE1OE9KbjVKd25jV2FhMTA3ZktBclNzTkNOT1BYWGhtSWJLdEFfaVRSTXFPZXoxeFBQY242OFRqUzNsQkdGbmxZMWNsZmNTZ0VIWEtPSdIB0AFBVV95cUxNaEkyc0toUzRhNVVzeDN6OWFkOUR1MWxUNDNsLWxUUU5MaHlfSy1ZYk9PVVRFZlFkSGdnOEhEUHJXSjZOSDFFb285WDRPZ1ZCZ0xDOUlicG1uWS1VUjludnAyazUtc1gtZHZ1WmxhUlhwSVNuZkhNbUpQeEpWMUd5NFJveWM3Nm9mSkYwZS1sbWVqX0cwN1NFbG80RnVSV2xoamFNdHo3dnVlXzZ0Ul9xTkt2LUphdVl2MkxramEtV1ZoUjRhQklqeDlodEhHWlNy?oc=5",
-      "data": "30/07 02:52"
+      "titulo": "Hulk é substituído sob vaias, e Zubeldía prega cautela no Fluminense: \"Precisa se adaptar\" - GE",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR3hsSWVQUDhUR0x1Z0ZrZEN4OEx1SmVja3N3ZEJXTWJRXzVCeE55M1VEazRSTzY2VXlJWjVSLXVseGNEYklpZk9NTEhUSnltZHhrUlI4Q2JScGF3eWpVSVFlMTBYNmVDZ0MtU3RhbHVVUTBVQmNLR0VkYTBDUzVtcVJHY2FyY0tFYy1IRlBfYWlVMVJJV1JyMmlKTXdVTlVMa0tWYTVfNWRUNTNuU1QzdEFVUjBydGJzd3RWTWQxckRjc2VxMU01bWJ3blpGaEdfcjl6Y25NYzhodHZvYVVheENTYjR2bVdaTi1GTnZn0gH8AUFVX3lxTFA1aGY1WE5YXzVaZXJmNUI3TEtVQUJMS2JDSi1RVHZNMjFubHBIa0haRXBaaExtOEdxWjk0UEE4cFhtZTNsVzhIeHUxTDROYlRramlWd3dId0dwVjVscUVoOC1mSTJTWnRRTU1MdmY1c2FNR3NIaFdsRm9HZzFXdmQ4ejMyYmFnLUppVG1DX191ZmpIMG1aaVVzWlFOLTJ3MHlCOS1yeFI0WUdSaktLXzR0dWtyeUlmZi12Q2dTbVFZd1pROHVBQ2dDemdsaFNPTTVYU2tmOHl1N0E3bU5DQ2hJTy1mcS1KMFpkSmNtUjdVOVh4TTI4c0xJZ2xQaQ?oc=5",
+      "data": "30/07 15:00"
+    },
+    {
+      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
+      "data": "30/07 00:22"
     }
   ],
   "avisos": []
