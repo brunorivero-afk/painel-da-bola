@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/07/2026 08:48",
+  "atualizado_em": "30/07/2026 10:48",
   "jogos": [
     {
       "sport": "futebol",
@@ -189,16 +189,6 @@
     {
       "sport": "volei",
       "date": "2026-07-30",
-      "time": "08:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Polônia x Ucrânia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-07-30",
       "time": "04:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Itália",
@@ -340,43 +330,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.2,
-      "temp_min": 19.8,
-      "chance_chuva": 13,
+      "temp_max": 23.9,
+      "temp_min": 20.1,
+      "chance_chuva": 1,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.9,
-      "temp_min": 20.2,
-      "chance_chuva": 3,
-      "condicao": "Nublado"
+      "temp_max": 25.2,
+      "temp_min": 19.5,
+      "chance_chuva": 1,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.3,
-      "temp_min": 13.7,
-      "chance_chuva": 13,
+      "temp_max": 24.7,
+      "temp_min": 14.5,
+      "chance_chuva": 6,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.0,
-      "temp_min": 13.6,
-      "chance_chuva": 47,
+      "temp_max": 20.7,
+      "temp_min": 13.5,
+      "chance_chuva": 27,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - GE",
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
       "data": "29/07 06:00"
     },
     {
-      "titulo": "Ventania causa danos na sede do Fluminense e clube fecha Laranjeiras; veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbkxfTjJwQlF2bDlCb3Q5bWdjOGR6MVpmMF9rWWhRWGtHVFlaVEkxSXhPSkNMX3NDMHVUaFNJTVJuN3RoTW1qMlZpVnV0TmpBeWE2amJ0dU8tRnpFMEUtdjFDQTV3VUx0dlQyamh0REVBZ0NOQkdUZTF3NzNRRTAzQmVjNVo4eDg0R1VGTXhYR3JVendsWUM0eG5TV1B4MlMyN0J1a0RrM3hCWUVJSEcwd1Btb2lvd2V3RnI5c1E4UnVrc1NmLTBvMUdqWHZJZEs0bWJHMmR2OFhmc09FR2VoeWtJZzZxdU9qNzMzeXhOQVVwYWpBdDBj?oc=5",
-      "data": "30/07 09:04"
+      "titulo": "Ventania no Rio: Tássio, ex-Botafogo, morre após queda de muro; Fluminense esvazia sede - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSDkyMjhYaGlraGRpU3dDUS1fNndjUlhuRld3aUdobTlBSVZTdUIzRUNHeVpxSUNsRzFWTjd5X3VuV1kxS3Vnd0NFUFE0azllV1gzQnVGQTFGSDdtRjV0QmJKYXhiVWFoU1U2WEhkZUxENk1aZWQwTkRhVFhWWjdaWGhIS3NHSmgxZXZwaUwtbndVcXJma3gyanlBaG00aklzTHhqYUZuT012Qml1Q1JhTzFXZWh0MjBEUFBFQ19Yc3ExUzJUWkZTQksxNHZ6VDE5Vm9OWTNWVGRDQU14bkRFdVp4N3FnYUJ0M182QlpjT25Qa1pZMHNkamF0VFJHVWN4?oc=5",
+      "data": "30/07 11:41"
     },
     {
       "titulo": "Soteldo faz alerta para o Fluminense no clássico contra o Vasco - Rádio Itatiaia",
@@ -389,9 +379,9 @@
       "data": "30/07 09:59"
     },
     {
-      "titulo": "Fluminense homenageia Fábio por 300 jogos pelo clube - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWR1anlfYkFaa2d2Z2xHalpfTE9rdGg1dTNZLVpfZ3ZuS2ZseDZNWFhJY3FQQXRWeHhRSVh0Nmk4TFJmd0pTUVZGRVpaOVFOMy1ROVI0V2d0ZWhfR0pSNG1ZVng3OTgtV1FKbEJRTktTSjF5dVhBYWozdHBsMGE4Sk5WTk9nWVFJTWx1SGJLWUVrNTZJbHRpLQ?oc=5",
-      "data": "30/07 00:40"
+      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
+      "data": "30/07 00:22"
     }
   ],
   "avisos": []
