@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "31/07/2026 18:00",
+  "atualizado_em": "31/07/2026 19:11",
   "jogos": [
     {
       "sport": "futebol",
@@ -615,24 +615,24 @@ window.PAINEL_DATA = {
       "data": "30/07 23:55"
     },
     {
-      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
-      "data": "31/07 16:26"
+      "titulo": "RTI: O substituto de Thiago Mendes no clássico contra o Fluminense - SuperVasco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFhSUI2akUzQ3dEalE1RUNJOEYwQ3E3YjQ1T3FqdVhfX0hrOFQ0ZjdCUmF1M0djb1I0TDJfbl83RVZQTFJ2aURFNkVaS3NWNjBJUThEU2JrNUY5Q0RkREZiSjVXbmw0dTRlZ0haakV2MDdqUzA0ZWprbTRWT1FFMEZSN1ZjaXJ4SHRCUDY0WWZiRjVHTDFlQUttLUJlamFOb3hKa2Rhemh0al9KV0M3THZCONIBtgFBVV95cUxOLUdoSTQ4U2NkR2dKVjNBTk96N1doNm45WXV5WjJmNkp6cHJtOXlWYUxuZTZpYVJpOU04aW9ySlVfbWFtbGFIQzh6UFY1N2FZOHB0dkswcFNKdXBlNlhzbXdDMFVFakJ2NGdBSEdHZjZCQVh5OWtSOERQUnVjZlliQVVZTFB6Z2w3US1YbFZZdmEtaDc1d1prMEowbGxILWppSno1RVk5Q2VQMkZXcENvLWV4bDFZUQ?oc=5",
+      "data": "31/07 18:14"
     },
     {
-      "titulo": "Boca Juniors-ARG faz sondagem por Castillo, do Fluminense, segundo jornalista - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEpGS2tDRFl1SmU3SW1iZjFMQUM4STZSTHBmajREZXN3QkRJeHkzS3BLeTRld0xKbHZJN0VWX0htazVfX0ItR2MxbHNzTFFtZm1OOWdYb0VicWR0NkpfeWw4VDNYRUhkcVg2MXFtd1RGdlk4a0JXTkZLbG5ILWR0anhFakhiemhZSlROYTBSSmNaU1dJNU5RTFZ4OHgweHBZV251eFZ6U2VHdmREeGxqWU5QV0xTczQ2SVZqb2h1Vm5Zb3Z5cmpNUUxWb2RJN1pNbTlRa0FiQmlaWUFhMWo4cG4tb2pOQmF0MC1lTHpSd0FOWFBHejFTZzNR?oc=5",
-      "data": "31/07 16:46"
+      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
+      "data": "31/07 21:33"
     },
     {
-      "titulo": "Fluminense homenageia Fábio por 300 jogos pelo clube - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWR1anlfYkFaa2d2Z2xHalpfTE9rdGg1dTNZLVpfZ3ZuS2ZseDZNWFhJY3FQQXRWeHhRSVh0Nmk4TFJmd0pTUVZGRVpaOVFOMy1ROVI0V2d0ZWhfR0pSNG1ZVng3OTgtV1FKbEJRTktTSjF5dVhBYWozdHBsMGE4Sk5WTk9nWVFJTWx1SGJLWUVrNTZJbHRpLQ?oc=5",
-      "data": "30/07 00:40"
+      "titulo": "Clube sul-americano demonstra interesse em contratar Castillo, do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVlSd2c3dVc1emZOWkU0QXp2aFBzbjRvSS13VjlrYUNSSVVodkx3Z1I1X1VUODh4YlcyRVM0UDMwVl9kbGNBQmtwQzBTbS1Dbkd0UWM5cHh2WnBxN0JNS2twYmJLVDNhMFNBSks1Zll5MUtUcmNhLXJPZWZrdXAwcmlUeElOUXQtTWMyeUxPYTFHMWZIT1lONGphYXFsZE9wTGNDTA?oc=5",
+      "data": "31/07 17:20"
     },
     {
-      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
-      "data": "30/07 00:22"
+      "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVVuWGs4eF8zallkaTVyTy1aZVh2OXRFek85c09JOU1qaTNYdlphV2JMS2lVejlEUjdDdEpYcERzT0ZhVUZwaGRRWXIzMTNqbzJGRzhEeVFxemtHSDk4aVE5RkpDNWtoRVotZnNDdHJuQ21JdTNWcTB0eElPTlc2bndTVzZoMHg3OFI3c1UtTmZoRzdiU0tFb3Y0dy14LWVtZUhMdFpXZG1uaWVOY1NRSnNNNE5weVFVNnB0SGFnWHZSXzdzR2RJVXNqdTd3a25JdG1YMDltTTNMbG9CVzJadk1rZjFIOG9kZ0RHYVZKNFVESXgwYXc?oc=5",
+      "data": "30/07 19:16"
     }
   ],
   "avisos": []
