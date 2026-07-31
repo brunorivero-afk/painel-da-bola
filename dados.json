@@ -1,6 +1,48 @@
 {
-  "atualizado_em": "30/07/2026 20:01",
+  "atualizado_em": "30/07/2026 23:24",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "21:30",
+      "competition": "Brasileirão Série A",
+      "match": "Coritiba x Cruzeiro",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "O&#39;Higgins x Boca Juniors",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "FC Midtjylland x Besiktas",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-30",
+      "time": "16:00",
+      "competition": "Brasileiro Sub-20",
+      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "SPORTV"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-07-30",
@@ -48,52 +90,10 @@
       "sport": "futebol",
       "date": "2026-07-30",
       "time": "21:30",
-      "competition": "Brasileirão Série A",
-      "match": "Coritiba x Cruzeiro",
-      "channels": [
-        "SPORTV",
-        "PREMIERE 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-30",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "O&#39;Higgins x Boca Juniors",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-30",
-      "time": "21:30",
       "competition": "Copa Sul-Americana",
       "match": "Caracas FC x Santa Fe",
       "channels": [
         "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-30",
-      "time": "14:00",
-      "competition": "UEFA Europa League",
-      "match": "FC Midtjylland x Besiktas",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-30",
-      "time": "16:00",
-      "competition": "Brasileiro Sub-20",
-      "match": "Palmeiras Sub-20 x RB Bragantino Sub-20",
-      "channels": [
-        "SPORTV"
       ]
     },
     {
@@ -331,29 +331,29 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 23.6,
-      "temp_min": 20.1,
-      "chance_chuva": 9,
+      "temp_min": 20.2,
+      "chance_chuva": 18,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.2,
       "temp_min": 19.5,
-      "chance_chuva": 4,
+      "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 24.1,
-      "temp_min": 14.5,
-      "chance_chuva": 8,
+      "temp_min": 13.9,
+      "chance_chuva": 16,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.7,
-      "temp_min": 13.7,
-      "chance_chuva": 18,
+      "temp_min": 13.4,
+      "chance_chuva": 43,
       "condicao": "Garoa fraca"
     }
   ],
@@ -364,24 +364,24 @@
       "data": "30/07 05:30"
     },
     {
-      "titulo": "Jovem de Costa Rica assina contrato de formação com o Fluminense e dá mais um passo rumo ao futebol profissional - MS Todo dia",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQkNCYkk2OFVjSGI4d2dYLTZxN3kyN24yZVRRQXdlSV9Gb1FGRHpodjFVdVNycUtMWmxZTnNrVTh2WkVwNWpKSFgzZTJPR0FPQ082b3k3T0lVTVBYZXhDOF9kSlJtVDJjRG5WMEQtRWd3cmdlc01vUEZTQUVwbVg0aG82OGlkWVpUTkVtVG1sNzh3VFFsWHpwRWRiZWlCZk8zZkdvZlR6VDBSazJXS2g1cDhRS1ZYbWNVc3VwQlVNSmYweks1bXZucUd1MFZJdHlROVRGNjFuRkY5LTl0SVhtLWpXNkdsWFNmNEUtdw?oc=5",
-      "data": "30/07 19:30"
+      "titulo": "Fluminense é o terceiro time com mais jogos sem sofrer gols no Brasileirão desde 2021 - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkZGazVYaDBfV1JPcVdMcVFpbTdST1pyaGRWdDlyQWhOUW9fX3pGU25jNUwxMkIwdno0NHJtTUZabG52blotYlVpUWFiWkZzWXhwdEw0al8xVll5VVpsbzJoZldLUlkxQ1UwSWFFM040VC16YjRxNGMtQ29mbFJzelB5N0h4M041ekRUZXlLX0J5TUdvcVNTemI0amVINGY1VFNhUHQxZUtESFpBSDcxQkdR?oc=5",
+      "data": "30/07 22:15"
     },
     {
-      "titulo": "Ventania causa danos na sede do Fluminense e clube fecha Laranjeiras; veja - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbkxfTjJwQlF2bDlCb3Q5bWdjOGR6MVpmMF9rWWhRWGtHVFlaVEkxSXhPSkNMX3NDMHVUaFNJTVJuN3RoTW1qMlZpVnV0TmpBeWE2amJ0dU8tRnpFMEUtdjFDQTV3VUx0dlQyamh0REVBZ0NOQkdUZTF3NzNRRTAzQmVjNVo4eDg0R1VGTXhYR3JVendsWUM0eG5TV1B4MlMyN0J1a0RrM3hCWUVJSEcwd1Btb2lvd2V3RnI5c1E4UnVrc1NmLTBvMUdqWHZJZEs0bWJHMmR2OFhmc09FR2VoeWtJZzZxdU9qNzMzeXhOQVVwYWpBdDBj?oc=5",
-      "data": "30/07 09:04"
+      "titulo": "Lesionados, Thiago Silva e Freytes desfalcam o Fluminense contra o Vasco na Copa do Brasil - GE",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZjZGZmVkWTdPUUtsM2xNX0gzc0ctc2VuVlo2VjZ5N1RkNC1pSlNGZnBib2VOWUtkNWxRZE4xSXItMGZudjg3QU1Db0pTbW5qbXo0ZG9ySlp1VlhUZEh2SXVLNUhxRkk4SFFBX0wzWG5lai1HZ19kWVEtTmtHZXNvZEZVbWF5N3RHZ0RkWWs1X3VrWHdkdERGUWZDNzUwMi16UjU3VU1YOG5pb0VmZFVXWnY4U0lkamRUbjFhMXpMX1hyT0xqOHBSRkFIVXR3YlBKNTNrRExSSk1VWEY3UmVSV2ZJQlBtWGY3ZUstNlpYd3NwcC1u0gGDAkFVX3lxTFBLVFdZSXhsTXpSdlhLQzdGeVYxeVdvNGphUTVJeFM0WEoya3RpYTEtQmZXZE1iMmNjbXI4bmJDdXY5U3FmcTZIOEJZdFVoOFRQMVN1cThuR3RjTElVUU1hdkR2OVEyZVNYd2g2VTZTcEsySWN1N3l5bUU1U211UWxaM0llRVl3VlMySk1NZzc5enNHY2diODFtc2c4NG1QM09pdllFWmduamZ3UTMwQ19DeE5ZZ0Y0Ym45Q1BTc0hjVjJuM1hRS3lsckJYT3NlVTRsTHZwSnN2bEk2cWZ3NERpMGI1OTd3cnhjRkFOaGJVT2tKb0ZrZlNkWmJfMWJWb0tkakU?oc=5",
+      "data": "30/07 23:55"
     },
     {
-      "titulo": "Ventania arranca telhado, e Fluminense fecha sede de Laranjeiras - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU254MFVhbEo3X2MyYU5laTRHMlFrNHNQSU1LU3U1N05zUG9fd1lHOUdMV0tuM0RIQV9YNHJOWkFaSmJfTEZHeGFJTnEyTHNuRnFHaV9Ea2RVY3FWblJaZGVlLThkMG5ndVZRc2pwaW9RSG9vczh3TVdveXVJYWk0bkVTVFBCcm4zbWZKcFl2WmxiLTZBSmF0VWRlaEVCcW9hWV9ZTGtfUVgtRG95MEM1d1U2bThSNnVleUVtRGxIOFdGbUUyblpNS29JdVpYYzNSUHNJWVp4WVgxeG1a0gHrAUFVX3lxTE1Ock1xRDVfeFFFLUw2STNBZFJQVWF4TTljWDR5OVlOYlh3b2kzdFRDak9iSkF5WjdpX0lHUmNrWmVfTUNVeEJKb3JqTmlGVFhxamtuZVQyNERtRmdjTS1XYmZSOXJabVMtQV9jY1llM3hmQy12WVNYdE1RZnlyLWVYLVFHQmhHX3lLRWZ6VmtYQnM5OE5KSG1vcTFteGc4N3ZOcjFUM2tRUlBqRVAzWktlQTFfZm11RXRobWdyaktwaFlNVEtZRFk1YXUxTUVzVGhLX25Sd0xaRVVGNE5HcXBTUVVVOE10eUpfbEU?oc=5",
-      "data": "29/07 21:52"
+      "titulo": "Fluminense confirma lesões de Thiago Silva e Freytes, que estão fora do clássico contra o Vasco na Copa do Brasil - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1RYNGo3ZGlwU1ZHM1ZjLVQwM1FHM2ZmQl9vSG5fNTR2STlVNU1oQ2dhcFpGLUtrbHdSZE9fQm5iNk9OS2tIZ0lzdDZsQzhqd3UtaDZHaW5UN2tfVFA1RGx2U1MtOTFwdFlEZWJTRTdIVFpOVEUtMXNSUnR6Z1VnUUhCVk95S1pqZ2h6RFlmSU1ITGlHRGZBRnBDcExpbm9XTFRyQUV6WDZScXM5OUdyd3NXZEhuOXZhRmZMZHBwdDFhdlJiZGZYQzZB0gHYAUFVX3lxTE5udDRpdnhCSHBCX2pmSFlvMnZfQm1YQnhpQ3UwUWZyY2otWDlXbDFESUdNRE1FS0xPSlhqM2pZUUV0ajRRZ05EMEhRR2cxeFlEM0YtUWxPdENkX2dMQnNwZnpkbTVIU2Q1Q2JrVmxLclFtZVZqRnVNd3B6TVMxdjRZVE5iTHFKM1k5Z3NQRkI2Wk9kZi1QZjVFSmxJbFBaVVFxMC1MZGZwOVBneXZHUk54UzVES2otTzdqazI4T1J2a3BjRWZZVFdTODhZLW9nTHMyR291aVpNcA?oc=5",
+      "data": "30/07 23:56"
     },
     {
-      "titulo": "Ventos no Rio causam danos à sede do Fluminense em Laranjeiras - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUduY1NlQ1lSRjhHUnVvd28yNXdyLXF4UkMzaGZpd2pfQUJMelY1Q0RIY1R3N3VlLWIxNU1OYTh2bXFKZjhPYVJOellXWTI2Qm1NX0lNZmJqYzlhd0w5eFVOMmU2ckUtRnp0WGx6a1ZHay1Nbi1fY2FfMFo3VG5QRmtmQ3c4UGNwQWpMb1lYOHRQNkRvWE1JYk1XcjV3eVZ6Tk0wTkZ4QkpuRDVZMk4wVVl3WDlaMC03al9hemxPZW1kc0JXLXRJc3Y3LXV0d9IB0wFBVV95cUxOVDNaeFl6NFpPbEV4eWlzX05VMVo4ZHpXUm5IYjU4MEFfbWlqU3A3V2F0blMtNEJDa1RMM1FCTUV3MUJSN25QaHJMU3JvSHZLUV9QZVdjY1hYdjBfcFlXcG9WelJ4VEVhWlY0QWVNMWNKMHc2YVRCR2NiSVN6Ri1nTDZIdjFWUjcwY2dxaXlqakFUbDFmVDNPVFRMSkJ6WGt0WFM4SDVLYmpvM3FxOTctMkVNVHMtRTZ0QVlSaDZBNnVGZDB4a3BiYURpWE1uOHpCNGZF?oc=5",
-      "data": "30/07 20:59"
+      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
+      "data": "30/07 00:37"
     }
   ],
   "avisos": []
