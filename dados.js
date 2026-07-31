@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "31/07/2026 06:39",
+  "atualizado_em": "31/07/2026 08:55",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,28 +583,28 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 23.4,
       "temp_min": 17.6,
-      "chance_chuva": 10,
+      "chance_chuva": 18,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.8,
       "temp_min": 18.4,
-      "chance_chuva": 98,
+      "chance_chuva": 99,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.8,
       "temp_min": 12.7,
-      "chance_chuva": 18,
+      "chance_chuva": 14,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 18.8,
       "temp_min": 11.7,
-      "chance_chuva": 16,
+      "chance_chuva": 28,
       "condicao": "Garoa fraca"
     }
   ],
@@ -615,16 +615,6 @@ window.PAINEL_DATA = {
       "data": "30/07 23:55"
     },
     {
-      "titulo": "Igor Rabello sai do fim da fila e tem chance de ser titular do Fluminense na Copa do Brasil - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWmZjRWZLVmxhZkJvcHltbzhFTk1TeXRoRzJ4N0l0MFAwanZKenk3MEJEUDdwS2JsVkxlQ0RYenVRWUI5UXplalJmYllFYmZzS0tIVjVmTURKR3JkRVVadGUweVFZT19JQTVlcXRxVkN2ZVpqV1NNRnNaNjhBTnR5TnNuTEtpNkU2eUFvNFBFRXJ6MnhnMHp5Xy1BZHlLNVJlVERTanNJS2dFSldRY2NmTWE2SExDTG9XRy1mNUVHMUxfcW5RakJzQmhFdV94d2FoSWJSczZ2VHJSbHc3VjQ1VnFfeTJ0MmxyV0RWc1dSRlVPNGtv0gGDAkFVX3lxTE5hdTRLN29kSVhnQ3lLMG5tZmE1NjBUNkR0TXE2QnVaSUxxZFp6UTEzWVhHQUlFUVk3SDRkYmpsMUdlTUE0YXpWYkhjQ3Zqa3RvX1hFSzZrRWlxUl9KV1VabEZnNFZHSWJVaENCcUV4dzFwU2MtYVJhUE91Mkh1eFcya1dXcUVoSkJVeXYyTVBaemJ5MmQ4WW1VZWFZOEVwWEgyekU1eDNYOHdOTkdCLUtJdW5vSGFGb0RkcFpoZ2p2aHFXbmZPcXU3cnJQUzR5SzRkUW9WVm93QjhIbVhkZU1kZlJrb0tXSlpVOXc1RDhPZ1hRa1gzLURZMTNKa3RqYjVwdVU?oc=5",
-      "data": "31/07 07:01"
-    },
-    {
-      "titulo": "Fluminense x Bahia: onde assistir ao vivo e escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZGIxaVFnVXVQcHY0ekRBTHUxRlJMX3QzNE00dlZMc1NQWmtwMVZuUGZNWFRGem54ZnJFSmQtU3lyLUoySWszSUVlLVhjZHRKbEFkd2ZyS0ljV0JmT05ndWREaEhyVzEzNklUY1MzVW1RcVl6dmJfSEhnSENzOVA5TGxGTjEwZ3VqTHdyWmJZLWd2dzV6QVFxaEpUYXV2a3NrRE1CT2diYzFtWklmaUpNbzRWT3Y5WHBjUkhmczMyUmhYRGdwRjQ0NHYtTDBzdw?oc=5",
-      "data": "29/07 23:33"
-    },
-    {
       "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVVuWGs4eF8zallkaTVyTy1aZVh2OXRFek85c09JOU1qaTNYdlphV2JMS2lVejlEUjdDdEpYcERzT0ZhVUZwaGRRWXIzMTNqbzJGRzhEeVFxemtHSDk4aVE5RkpDNWtoRVotZnNDdHJuQ21JdTNWcTB0eElPTlc2bndTVzZoMHg3OFI3c1UtTmZoRzdiU0tFb3Y0dy14LWVtZUhMdFpXZG1uaWVOY1NRSnNNNE5weVFVNnB0SGFnWHZSXzdzR2RJVXNqdTd3a25JdG1YMDltTTNMbG9CVzJadk1rZjFIOG9kZ0RHYVZKNFVESXgwYXc?oc=5",
       "data": "30/07 19:16"
@@ -633,6 +623,16 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense homenageia Fábio por 300 jogos pelo clube - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWR1anlfYkFaa2d2Z2xHalpfTE9rdGg1dTNZLVpfZ3ZuS2ZseDZNWFhJY3FQQXRWeHhRSVh0Nmk4TFJmd0pTUVZGRVpaOVFOMy1ROVI0V2d0ZWhfR0pSNG1ZVng3OTgtV1FKbEJRTktTSjF5dVhBYWozdHBsMGE4Sk5WTk9nWVFJTWx1SGJLWUVrNTZJbHRpLQ?oc=5",
       "data": "30/07 00:40"
+    },
+    {
+      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
+      "data": "30/07 00:22"
+    },
+    {
+      "titulo": "Atuações do Fluminense: Hulk é o pior em empate com o Bahia; dê suas notas - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclY5cVVEN19JMFJrMHFjdzBmSmJaQ2tQMjI5V1NUYTFoOVFiUVdQTU8tbjNZNWZMdG54dy1YMkRrMmIzQ1RfNUlpMDgtZmJpaUs5RlhBUUFJSkhvMkFrMVF6cDQzbmFmLThGNk9BYm9iNXFJWlRKMGx4TmxrRGV0UUhVdnNHRnFuY2xVSlJvQnJKSHhZSUtHMS1IWXRLcm5uOGtDZTFsQlcwVnptcTNWZ3J4SjZpNDNxRFJGbURjdEM1QnJfZ3BwV3g3SjdUSERqVkszY01tRS1NclHSAeoBQVVfeXFMTm5lRk10RGNDRnplSHZidzdHbDBzX3R6Tzc0VFVfZmxsanpuRU1ZRlE4LUR2N2RuTUU1bGo3a2hNcjVIbE5LVUlrd3lMdGM4OTJuWGUtUndHeTZJYXNrcEJrLVVpQUFrOUJFQ2ZIaUc0bzV5eE9KS2UzaldpZDRYbVZnZURYVnhFc21SVnhFNDdMR0gyZlVhaVVOMElzWFlqVDRxUDA0ajdsbXJ3Y0xWemFuTUdYVVJubURwOVhJVG4wWjd0NXExeFJoXzBBUVNyeDV4dWx5NEVNQ09wMmhqaGNFNkM1S19fNnN3?oc=5",
+      "data": "30/07 02:41"
     }
   ],
   "avisos": []
