@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "31/07/2026 12:59",
+  "atualizado_em": "31/07/2026 14:46",
   "jogos": [
     {
       "sport": "futebol",
@@ -615,24 +615,24 @@ window.PAINEL_DATA = {
       "data": "30/07 23:55"
     },
     {
-      "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVVuWGs4eF8zallkaTVyTy1aZVh2OXRFek85c09JOU1qaTNYdlphV2JMS2lVejlEUjdDdEpYcERzT0ZhVUZwaGRRWXIzMTNqbzJGRzhEeVFxemtHSDk4aVE5RkpDNWtoRVotZnNDdHJuQ21JdTNWcTB0eElPTlc2bndTVzZoMHg3OFI3c1UtTmZoRzdiU0tFb3Y0dy14LWVtZUhMdFpXZG1uaWVOY1NRSnNNNE5weVFVNnB0SGFnWHZSXzdzR2RJVXNqdTd3a25JdG1YMDltTTNMbG9CVzJadk1rZjFIOG9kZ0RHYVZKNFVESXgwYXc?oc=5",
-      "data": "30/07 19:16"
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
+      "data": "31/07 16:26"
+    },
+    {
+      "titulo": "Clube sul-americano demonstra interesse em contratar Castillo, do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVlSd2c3dVc1emZOWkU0QXp2aFBzbjRvSS13VjlrYUNSSVVodkx3Z1I1X1VUODh4YlcyRVM0UDMwVl9kbGNBQmtwQzBTbS1Dbkd0UWM5cHh2WnBxN0JNS2twYmJLVDNhMFNBSks1Zll5MUtUcmNhLXJPZWZrdXAwcmlUeElOUXQtTWMyeUxPYTFHMWZIT1lONGphYXFsZE9wTGNDTA?oc=5",
+      "data": "31/07 16:01"
+    },
+    {
+      "titulo": "Boca Juniors-ARG faz sondagem por Castillo, do Fluminense, segundo jornalista - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeEpGS2tDRFl1SmU3SW1iZjFMQUM4STZSTHBmajREZXN3QkRJeHkzS3BLeTRld0xKbHZJN0VWX0htazVfX0ItR2MxbHNzTFFtZm1OOWdYb0VicWR0NkpfeWw4VDNYRUhkcVg2MXFtd1RGdlk4a0JXTkZLbG5ILWR0anhFakhiemhZSlROYTBSSmNaU1dJNU5RTFZ4OHgweHBZV251eFZ6U2VHdmREeGxqWU5QV0xTczQ2SVZqb2h1Vm5Zb3Z5cmpNUUxWb2RJN1pNbTlRa0FiQmlaWUFhMWo4cG4tb2pOQmF0MC1lTHpSd0FOWFBHejFTZzNR?oc=5",
+      "data": "31/07 16:46"
     },
     {
       "titulo": "Fluminense homenageia Fábio por 300 jogos pelo clube - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWR1anlfYkFaa2d2Z2xHalpfTE9rdGg1dTNZLVpfZ3ZuS2ZseDZNWFhJY3FQQXRWeHhRSVh0Nmk4TFJmd0pTUVZGRVpaOVFOMy1ROVI0V2d0ZWhfR0pSNG1ZVng3OTgtV1FKbEJRTktTSjF5dVhBYWozdHBsMGE4Sk5WTk9nWVFJTWx1SGJLWUVrNTZJbHRpLQ?oc=5",
       "data": "30/07 00:40"
-    },
-    {
-      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
-      "data": "30/07 00:22"
-    },
-    {
-      "titulo": "Jovem de Costa Rica assina contrato de formação com o Fluminense e dá mais um passo rumo ao futebol profissional - mstododia.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQkNCYkk2OFVjSGI4d2dYLTZxN3kyN24yZVRRQXdlSV9Gb1FGRHpodjFVdVNycUtMWmxZTnNrVTh2WkVwNWpKSFgzZTJPR0FPQ082b3k3T0lVTVBYZXhDOF9kSlJtVDJjRG5WMEQtRWd3cmdlc01vUEZTQUVwbVg0aG82OGlkWVpUTkVtVG1sNzh3VFFsWHpwRWRiZWlCZk8zZkdvZlR6VDBSazJXS2g1cDhRS1ZYbWNVc3VwQlVNSmYweks1bXZucUd1MFZJdHlROVRGNjFuRkY5LTl0SVhtLWpXNkdsWFNmNEUtdw?oc=5",
-      "data": "30/07 19:30"
     }
   ],
   "avisos": []
