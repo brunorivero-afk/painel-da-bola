@@ -1,36 +1,6 @@
 {
-  "atualizado_em": "31/07/2026 19:11",
+  "atualizado_em": "31/07/2026 20:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Wanderers",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Carolina Core",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Toronto II x Columbus Crew II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-07-31",
@@ -89,6 +59,36 @@
       "match": "Sporting CP x Nottingham Forest",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Carolina Core",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-07-31",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Toronto II x Columbus Crew II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -313,7 +313,8 @@
       "competition": "Campeonato Argentino",
       "match": "Racing Club x Tigre",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -583,46 +584,46 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 23.9,
       "temp_min": 18.1,
-      "chance_chuva": 24,
+      "chance_chuva": 18,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 24.5,
       "temp_min": 18.8,
-      "chance_chuva": 79,
+      "chance_chuva": 78,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 23.2,
       "temp_min": 12.5,
-      "chance_chuva": 16,
+      "chance_chuva": 45,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 19.6,
       "temp_min": 11.0,
-      "chance_chuva": 41,
+      "chance_chuva": 28,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Lesionados, Thiago Silva e Freytes desfalcam o Fluminense contra o Vasco na Copa do Brasil - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZjZGZmVkWTdPUUtsM2xNX0gzc0ctc2VuVlo2VjZ5N1RkNC1pSlNGZnBib2VOWUtkNWxRZE4xSXItMGZudjg3QU1Db0pTbW5qbXo0ZG9ySlp1VlhUZEh2SXVLNUhxRkk4SFFBX0wzWG5lai1HZ19kWVEtTmtHZXNvZEZVbWF5N3RHZ0RkWWs1X3VrWHdkdERGUWZDNzUwMi16UjU3VU1YOG5pb0VmZFVXWnY4U0lkamRUbjFhMXpMX1hyT0xqOHBSRkFIVXR3YlBKNTNrRExSSk1VWEY3UmVSV2ZJQlBtWGY3ZUstNlpYd3NwcC1u0gGDAkFVX3lxTFBLVFdZSXhsTXpSdlhLQzdGeVYxeVdvNGphUTVJeFM0WEoya3RpYTEtQmZXZE1iMmNjbXI4bmJDdXY5U3FmcTZIOEJZdFVoOFRQMVN1cThuR3RjTElVUU1hdkR2OVEyZVNYd2g2VTZTcEsySWN1N3l5bUU1U211UWxaM0llRVl3VlMySk1NZzc5enNHY2diODFtc2c4NG1QM09pdllFWmduamZ3UTMwQ19DeE5ZZ0Y0Ym45Q1BTc0hjVjJuM1hRS3lsckJYT3NlVTRsTHZwSnN2bEk2cWZ3NERpMGI1OTd3cnhjRkFOaGJVT2tKb0ZrZlNkWmJfMWJWb0tkakU?oc=5",
-      "data": "30/07 23:55"
-    },
-    {
-      "titulo": "RTI: O substituto de Thiago Mendes no clássico contra o Fluminense - SuperVasco",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFhSUI2akUzQ3dEalE1RUNJOEYwQ3E3YjQ1T3FqdVhfX0hrOFQ0ZjdCUmF1M0djb1I0TDJfbl83RVZQTFJ2aURFNkVaS3NWNjBJUThEU2JrNUY5Q0RkREZiSjVXbmw0dTRlZ0haakV2MDdqUzA0ZWprbTRWT1FFMEZSN1ZjaXJ4SHRCUDY0WWZiRjVHTDFlQUttLUJlamFOb3hKa2Rhemh0al9KV0M3THZCONIBtgFBVV95cUxOLUdoSTQ4U2NkR2dKVjNBTk96N1doNm45WXV5WjJmNkp6cHJtOXlWYUxuZTZpYVJpOU04aW9ySlVfbWFtbGFIQzh6UFY1N2FZOHB0dkswcFNKdXBlNlhzbXdDMFVFakJ2NGdBSEdHZjZCQVh5OWtSOERQUnVjZlliQVVZTFB6Z2w3US1YbFZZdmEtaDc1d1prMEowbGxILWppSno1RVk5Q2VQMkZXcENvLWV4bDFZUQ?oc=5",
-      "data": "31/07 18:14"
-    },
-    {
       "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
       "data": "31/07 21:33"
+    },
+    {
+      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
+      "data": "31/07 21:45"
+    },
+    {
+      "titulo": "Qual será a dupla de zaga do Fluminense contra o Vasco? Veja as opções - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUnBtNGRMTGVOb3A4eXduVFM4ZEpRZEtyQThLa1NCVlN3c0ZmWEJRdHI4TmhWSTBhM083WW9yQThnT2pEcExTRUNhVElrV2hpY2g5YXhxNVdZT0tKejkwUEZtTnFnakg1WHpPczMtNm56SkJ6dkZON0lHVFI2Q0J3UFVMQVdHODVWX3lWQmlkczJCX1BZcDJDd3ItaFZVSGhyemo1WjdFSEhpTzR4YVBCNnlNam9jTHVqei1mVjVaeVBoaExkU2V3cVhxUGZtbm50VGdtNHlxUmtjV3I4c0RONXlMb0cxbTItTGlqaFZn?oc=5",
+      "data": "31/07 19:42"
     },
     {
       "titulo": "Clube sul-americano demonstra interesse em contratar Castillo, do Fluminense - netflu.com.br",
@@ -630,9 +631,9 @@
       "data": "31/07 17:20"
     },
     {
-      "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVVuWGs4eF8zallkaTVyTy1aZVh2OXRFek85c09JOU1qaTNYdlphV2JMS2lVejlEUjdDdEpYcERzT0ZhVUZwaGRRWXIzMTNqbzJGRzhEeVFxemtHSDk4aVE5RkpDNWtoRVotZnNDdHJuQ21JdTNWcTB0eElPTlc2bndTVzZoMHg3OFI3c1UtTmZoRzdiU0tFb3Y0dy14LWVtZUhMdFpXZG1uaWVOY1NRSnNNNE5weVFVNnB0SGFnWHZSXzdzR2RJVXNqdTd3a25JdG1YMDltTTNMbG9CVzJadk1rZjFIOG9kZ0RHYVZKNFVESXgwYXc?oc=5",
-      "data": "30/07 19:16"
+      "titulo": "RTI: O substituto de Thiago Mendes no clássico contra o Fluminense - SuperVasco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFhSUI2akUzQ3dEalE1RUNJOEYwQ3E3YjQ1T3FqdVhfX0hrOFQ0ZjdCUmF1M0djb1I0TDJfbl83RVZQTFJ2aURFNkVaS3NWNjBJUThEU2JrNUY5Q0RkREZiSjVXbmw0dTRlZ0haakV2MDdqUzA0ZWprbTRWT1FFMEZSN1ZjaXJ4SHRCUDY0WWZiRjVHTDFlQUttLUJlamFOb3hKa2Rhemh0al9KV0M3THZCONIBtgFBVV95cUxOLUdoSTQ4U2NkR2dKVjNBTk96N1doNm45WXV5WjJmNkp6cHJtOXlWYUxuZTZpYVJpOU04aW9ySlVfbWFtbGFIQzh6UFY1N2FZOHB0dkswcFNKdXBlNlhzbXdDMFVFakJ2NGdBSEdHZjZCQVh5OWtSOERQUnVjZlliQVVZTFB6Z2w3US1YbFZZdmEtaDc1d1prMEowbGxILWppSno1RVk5Q2VQMkZXcENvLWV4bDFZUQ?oc=5",
+      "data": "31/07 18:14"
     }
   ],
   "avisos": []
