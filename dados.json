@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/07/2026 08:55",
+  "atualizado_em": "31/07/2026 10:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -581,29 +581,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.4,
-      "temp_min": 17.6,
+      "temp_max": 23.0,
+      "temp_min": 18.1,
       "chance_chuva": 18,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.8,
-      "temp_min": 18.4,
+      "temp_min": 18.8,
       "chance_chuva": 99,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.8,
-      "temp_min": 12.7,
+      "temp_max": 23.1,
+      "temp_min": 12.5,
       "chance_chuva": 14,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.8,
-      "temp_min": 11.7,
+      "temp_max": 18.7,
+      "temp_min": 12.5,
       "chance_chuva": 28,
       "condicao": "Garoa fraca"
     }
@@ -613,6 +613,11 @@
       "titulo": "Lesionados, Thiago Silva e Freytes desfalcam o Fluminense contra o Vasco na Copa do Brasil - ge",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZjZGZmVkWTdPUUtsM2xNX0gzc0ctc2VuVlo2VjZ5N1RkNC1pSlNGZnBib2VOWUtkNWxRZE4xSXItMGZudjg3QU1Db0pTbW5qbXo0ZG9ySlp1VlhUZEh2SXVLNUhxRkk4SFFBX0wzWG5lai1HZ19kWVEtTmtHZXNvZEZVbWF5N3RHZ0RkWWs1X3VrWHdkdERGUWZDNzUwMi16UjU3VU1YOG5pb0VmZFVXWnY4U0lkamRUbjFhMXpMX1hyT0xqOHBSRkFIVXR3YlBKNTNrRExSSk1VWEY3UmVSV2ZJQlBtWGY3ZUstNlpYd3NwcC1u0gGDAkFVX3lxTFBLVFdZSXhsTXpSdlhLQzdGeVYxeVdvNGphUTVJeFM0WEoya3RpYTEtQmZXZE1iMmNjbXI4bmJDdXY5U3FmcTZIOEJZdFVoOFRQMVN1cThuR3RjTElVUU1hdkR2OVEyZVNYd2g2VTZTcEsySWN1N3l5bUU1U211UWxaM0llRVl3VlMySk1NZzc5enNHY2diODFtc2c4NG1QM09pdllFWmduamZ3UTMwQ19DeE5ZZ0Y0Ym45Q1BTc0hjVjJuM1hRS3lsckJYT3NlVTRsTHZwSnN2bEk2cWZ3NERpMGI1OTd3cnhjRkFOaGJVT2tKb0ZrZlNkWmJfMWJWb0tkakU?oc=5",
       "data": "30/07 23:55"
+    },
+    {
+      "titulo": "Fluminense x Bahia: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZTBrMVM4bjAtamlNd1JzRFozN1BFaXpFMmtFRzRxUkNYd3dFNGZBUDNrYWl2cmJia2s4REdSSDFhT3g2SkVqeFJtWEM1S0FHZ0xIUE5QNmZCODIwSThDNERvT2Vud2FIUzR4aFVFQnZjVUtvTUZFWkFRblRTb1M2eHpqZjQxNW0ycE5CazdBLXZYVEpVaE9wSmlVU1lNbmdINm1BbkNEMW16LUhQRUJyNDl1UnMtUFJyV0w4UWJ0ZHFBLUhsWnNiRDhCaWVOY0pRRTNIcNIB4wFBVV95cUxQWFRsQnhrUUJNb0lnSVRVTmw1Q2NFVXRacjhJVXhqM0lVeGY0WTMtOTR2a2Jjei1zXzVTNmI3QUFLcmluQUpib1ZPTnZPQTZVMTY2MlRtLUdIZFRiTFZLN1BaaVJXSkMyc0pyTE9yRFdka0d1eVhDNXV0Y0dKbXJHSW1uZVZNRnhjRWI1ZGRNUkZxLTU5QnlyeVlVSXJrUHVObUhKbE9aenFpdFhLVXpkY0VBUUkzWUxsLXZBdWp5c3BWMnFGMmQyclpPVUxzM0ZXYUdXTm5ZS2ZGUEVsRkk1TnBRVQ?oc=5",
+      "data": "29/07 06:00"
     },
     {
       "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
@@ -625,14 +630,9 @@
       "data": "30/07 00:40"
     },
     {
-      "titulo": "Fábio é homenageado por completar 300 jogos pelo Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlNvNnFad0dITFhOeHdMRndWMDY3SjJBZnlMWlBDR1p4S0xMR01Tb2lMNlotVGNDMWNWbzVVYU5ZYk1oN0dhQ2U4ZjhldExJRHBNWHp4YlhwajQ2NXc4MVBEbF8xcDZfZ0RKWTJDRm0xVWF6eHY4SnZReDZGYzkwZUp4SG1YNDhnUzc1M29hZkRrRzVQUWxXQzN4S29ZQQ?oc=5",
-      "data": "30/07 00:22"
-    },
-    {
-      "titulo": "Atuações do Fluminense: Hulk é o pior em empate com o Bahia; dê suas notas - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPclY5cVVEN19JMFJrMHFjdzBmSmJaQ2tQMjI5V1NUYTFoOVFiUVdQTU8tbjNZNWZMdG54dy1YMkRrMmIzQ1RfNUlpMDgtZmJpaUs5RlhBUUFJSkhvMkFrMVF6cDQzbmFmLThGNk9BYm9iNXFJWlRKMGx4TmxrRGV0UUhVdnNHRnFuY2xVSlJvQnJKSHhZSUtHMS1IWXRLcm5uOGtDZTFsQlcwVnptcTNWZ3J4SjZpNDNxRFJGbURjdEM1QnJfZ3BwV3g3SjdUSERqVkszY01tRS1NclHSAeoBQVVfeXFMTm5lRk10RGNDRnplSHZidzdHbDBzX3R6Tzc0VFVfZmxsanpuRU1ZRlE4LUR2N2RuTUU1bGo3a2hNcjVIbE5LVUlrd3lMdGM4OTJuWGUtUndHeTZJYXNrcEJrLVVpQUFrOUJFQ2ZIaUc0bzV5eE9KS2UzaldpZDRYbVZnZURYVnhFc21SVnhFNDdMR0gyZlVhaVVOMElzWFlqVDRxUDA0ajdsbXJ3Y0xWemFuTUdYVVJubURwOVhJVG4wWjd0NXExeFJoXzBBUVNyeDV4dWx5NEVNQ09wMmhqaGNFNkM1S19fNnN3?oc=5",
-      "data": "30/07 02:41"
+      "titulo": "Contra o Bahia, Fábio alcança mais uma marca histórica pelo Fluminense - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRHZXYVZkNmxzenBHcHFpd1c2T0F0QzBIQjdYVXZNQTQ0eTlnY1RSVDgyVU5CZGVzdTRfYXA1Q2dMc1FJTnRFMUtNRlltUC02VENhMWt6em8zUF9VNDFRc3pSRnlUVFdBQm5Ia0kzWnhIMUJSSmcyVk9Jc0xBc3diN3dyR2h2bzIwZ0VBTmZUYjQ0M2RuOEhWSDlhZDJPTHFvUC0ydk45bnhpVkJEVlRkWFE0WWNVLUtPdGxzYkVHWE5PSW5JdlBrTWIybm9NNzNIT0xYN2dEUjRBejJlWkI4R3NBaUd1RTljbFJKcl8yVi0?oc=5",
+      "data": "30/07 00:20"
     }
   ],
   "avisos": []
