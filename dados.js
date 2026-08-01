@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/08/2026 10:09",
+  "atualizado_em": "01/08/2026 11:56",
   "jogos": [
     {
       "sport": "futebol",
@@ -540,16 +540,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-01",
-      "time": "08:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Japão x EUA",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-01",
       "time": "04:25",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
@@ -740,19 +730,19 @@ window.PAINEL_DATA = {
       "data": "31/07 21:45"
     },
     {
-      "titulo": "Zubeldía tem o Vasco como \"pedra no sapato\" no comando do Fluminense; entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZDYtRlhlbEVyQktOTWFVUEJhelE1UVFSbkJtX0lvZXhLN1l6X29uMGFNd2RmYkdlRHdxR0ViQVRfVjVNYXBQTGxEV21rVFNOYUhuQWtSczFEYU84UVo3MTUtczdfV0tjRUJwbjNUYjZmcWVNN2hZbjkxdDcwM29SSnVRVXN6V0xzWVhuN3hMN3d0bGxGdTRyc2sxb0JDUVkwZklYeV9qMDR1Tm9wVzBOaUtrN3JJOUJ5U1YzZjRPbmQwaFZDTDZ1YTBBUEt5clZhRnJrVndEcmdCbGg4enI4RWk5WlhQX2wzUlJhUk93SVJ4ZE5iaDZ1UnNxelpWTFVqYXduZ1pMTnU?oc=5",
-      "data": "01/08 10:04"
+      "titulo": "Fluminense recebe o Bragantino pelo Campeonato Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzFDYi1RcUdxTnpZRUpZWnp2cGRMbThPdjdUYWMwbmlaZWZQMFB2X1FKem4xWmtadEVTOTBhYTQwSVVGQUlkazNfMTdudGlIOHk2VWdkRnppdUdVY2pRSHdtZ0dtems3Vk9iS09BelVTTzFlUGNEWF9RN1pnRkx0M0RwcjdfTWV3QnlGdV9vNElRdl9HZDAtN3Bwei00ZklLWkJlWXIzRQ?oc=5",
+      "data": "01/08 11:00"
     },
     {
-      "titulo": "Vasco e Fluminense se reencontram na Copa do Brasil após semifinal de 2025 - GP1",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3luN0diMEV5anJKaFVkVFdqbGNTblVyQ2RsUDB2aTZ0NXpTR1FGdGNuQUZfdDJXUVNrQ1pRYlFSOG1oN3YxOW5rMk05Z0pJRVVEMm85YkU2cnU5YlZVaWJGM2g0a3NCZ2pmRlhhQkd3LUxRQWVTbzh6aU5ra2tpMmFnX2l3ZXR6UlM2TDZzd1VsVEVILXF1bmhudnV0U1NuUTRzWHlTWl9hVHkzUGY1UVUtVEFySGd4SERiMUpjVkxQOFlhUTBZWS1SSkNFYzk00gHWAUFVX3lxTE5wOTd1M0QtZHRsaGxpc1Zrc1pHcVJFVDdtV0pOaVlXU0NYa1FSVkFBR1dJa01CcnJiVmRGdjQ4UWRRQnBLd0lpQTU1UEdacTZRV3JFRXZtaW96Q3pWSVloQ2Z6QzBmZmp6aHJLaG1aUDZfRHhKdGlMWkNsbnlGSFlSZXJKdjlYb0Q5bmNWOXhpSTM2RTI1VXFuQUxpcVpzMUp3b3ZzeHF0V3oxOHMtZGZZMjJ3bGt3R1dyQkx2cm05YkI1YS1kekg4N2xZeXlHbHhQYzR3Wnc?oc=5",
-      "data": "01/08 12:41"
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
+      "data": "31/07 16:26"
     },
     {
-      "titulo": "Zubeldía faz balanço do trabalho no Fluminense e projeta duelo com o Vasco: \"Tempero especial\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQS16Q1lhWlN1X1ViWU1nV1FSU1dNa3pOcW5ObTRFY2xUTUdqN3pxQkVQY2FoaU4xM1UzUzhMbnJmSm1SXzE4OVJDWW9DOUVwcnJJeXVOZ281R2RzMzQ5cS1JanlmUVQwd1BQWjdDXzhaamE5cEFodDVETWtCUjJpR214UlJGZGhuOUxnU2VkMEdoOTNQcHE5a3JGNGZhNlNvX3JWWU5BdmU1cThCRGxJS3ZuekdDeGFBVlowSjJlTDQzaXQ3c3RjTXhORDJiQVFxeGcyN0J2c1ZWdFBmZndEYkFFMEFROVp2YlptczZZQXQ2Y1ox0gGDAkFVX3lxTE9PVHM0Q25vSXY1c3B1MFFGMzBuYmRKXzEtTmktVGdsd3E0d3YwN1ZJQUExeTFDOXJjM2RNNV9nTjZJVF83VUlsc3JCUnNJWkEyVE5ib2U4bURTakV0YlVkQXk3ekc0TUZzSExOZldnRjFhbUtYdHJEZmNKN2kxdHhLdUczYXI1R2RPejQxQlFtX21KTnh1VkowTlNDaHRZeU9OeHYxRmxWdmtlNFdSRnRMdjJrd3lJUjFFNExMdlh2VGFhRkRwUzJkZDZvVTRYQzNMcXQ0Y1pQS0NESjQzWFdsdWVHYmpBTVFMZGYzb094dlI4Z1hzZFM3MFNtX2xndnNSd0U?oc=5",
-      "data": "01/08 09:00"
+      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - gauchazh.clicrbs.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
+      "data": "30/07 00:37"
     }
   ],
   "avisos": []
