@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/08/2026 03:24",
+  "atualizado_em": "01/08/2026 06:02",
   "jogos": [
     {
       "sport": "futebol",
@@ -539,16 +539,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-01",
-      "time": "03:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Eslovênia x Polônia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-01",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Japão x EUA",
@@ -710,29 +700,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.3,
-      "temp_min": 18.1,
+      "temp_max": 25.5,
+      "temp_min": 18.3,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.1,
+      "temp_max": 26.0,
       "temp_min": 18.8,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.4,
-      "temp_min": 10.5,
+      "temp_max": 20.6,
+      "temp_min": 12.3,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.1,
-      "temp_min": 8.6,
+      "temp_max": 21.3,
+      "temp_min": 10.4,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
@@ -749,19 +739,19 @@ window.PAINEL_DATA = {
       "data": "01/08 00:13"
     },
     {
-      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - itatiaia.com.br",
+      "titulo": "Zubeldía faz de clássico contra o Vasco prova de fogo do trabalho no Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWdNTlBvZzlGcXFMU2V6ZFZqdnB1TVhKOGl3OEVQY2NEUTQ2Sm81VnJGQVVqSjFnUm9HaHlDVVhfMWUtZ3FvOWZHdnBKZVdxV1dKejFHV3prQUxBcW51VWMwa3F4c3JEanp5NVpVcEVITHhZM2lOeTkxQXR6c3d3dl84WlBjTlV0cUhvRXl3X05aendpeFVFS2RxVG1xM0xYcld6ZWRENjV0MHhIUjJ4YklKTTd0OERyd1NfYQ?oc=5",
+      "data": "01/08 08:35"
+    },
+    {
+      "titulo": "Pressionados, Vasco e Fluminense se reencontram nas oitavas da Copa do Brasil - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMUY5dGtyNWhLeVViZHhoOTV5bFdZb0NxRmpQdHR1eTlwVW8xbGR2UkxtMlVpMjNvbF9QRmx5ZVdIcTdURTlYM0lKNE1QczNUUkZYTHpZaUlLQTVGOXZ3dTNOdld3V09mZXB2XzBEbUxkWHFpSXlfOWVDcFBfbHB5NHZxMVYwbWVtZl9iR1ZXbTZBWU56bm1pa3p1UVZBZHFObVhCcDJIeEpxOFBMTmFjOXBDc1lTTXR0VXl5SDZVMXNnU3JYNFNnLW1RTFFGMjdJZFM1eF9IVi03a2fSAeoBQVVfeXFMTk5USU03a2daQVlZaE95blF2X2xCbktTMzczUW42Xy10cmxJVkVnYWtocENEM1JmMThCWnczZ05OaUdrZzN2WFFTV1JmVEI3SGpqVFlfQlNLdFowdFpCY2p4NlJIUXM5aGJjcTZCZ3NUS2pndWpDazN4cGdaQ2pUSExRSGNIRjlib1ZZbi1sWGg4SVNhLVZheWkxZWh0UzVXOU5QMXpjTU1jS004cTlpN2ZhU2ZPMUpyb0EyVGZpNmQ3ZXNDSTRsbTZUcWVZWVVOMU0yUF9aVHY2RTh2cVZTNHY4bThBODFNcTNn?oc=5",
+      "data": "01/08 06:30"
+    },
+    {
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
       "data": "31/07 16:26"
-    },
-    {
-      "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVVuWGs4eF8zallkaTVyTy1aZVh2OXRFek85c09JOU1qaTNYdlphV2JMS2lVejlEUjdDdEpYcERzT0ZhVUZwaGRRWXIzMTNqbzJGRzhEeVFxemtHSDk4aVE5RkpDNWtoRVotZnNDdHJuQ21JdTNWcTB0eElPTlc2bndTVzZoMHg3OFI3c1UtTmZoRzdiU0tFb3Y0dy14LWVtZUhMdFpXZG1uaWVOY1NRSnNNNE5weVFVNnB0SGFnWHZSXzdzR2RJVXNqdTd3a25JdG1YMDltTTNMbG9CVzJadk1rZjFIOG9kZ0RHYVZKNFVESXgwYXc?oc=5",
-      "data": "30/07 19:16"
-    },
-    {
-      "titulo": "Por onde anda Araújo, ex-atacante de Goiás, Cruzeiro e Fluminense? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWFHZEVscHAzRGhwQWJzdzQyYWtuemRvZEI4VHVHWjR0aFp2aGdlNE9zbUhnaE1mR2NrSERSZUtSUmNNQkU0VU9ocU9EaW1LdUNRMlU2bU9Nemstckk0dmlOcmthRm80eUIzaV9odmtKS1k5WlVrRVRqbUc5OXRnaEVrQ25fQ3pGeTA2R0V1Ylc?oc=5",
-      "data": "30/07 09:17"
     }
   ],
   "avisos": []
