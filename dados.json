@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 08:13",
+  "atualizado_em": "01/08/2026 10:09",
   "jogos": [
     {
       "sport": "futebol",
@@ -701,31 +701,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.5,
-      "temp_min": 18.3,
+      "temp_max": 25.2,
+      "temp_min": 18.4,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.0,
-      "temp_min": 18.8,
+      "temp_max": 25.9,
+      "temp_min": 18.6,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.6,
-      "temp_min": 12.3,
+      "temp_max": 20.5,
+      "temp_min": 12.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.3,
-      "temp_min": 10.4,
+      "temp_max": 21.1,
+      "temp_min": 11.0,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
@@ -735,9 +735,9 @@
       "data": "31/07 21:33"
     },
     {
-      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
-      "data": "01/08 00:13"
+      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
+      "data": "31/07 21:45"
     },
     {
       "titulo": "Zubeldía tem o Vasco como \"pedra no sapato\" no comando do Fluminense; entenda - Terra",
@@ -745,14 +745,14 @@
       "data": "01/08 10:04"
     },
     {
-      "titulo": "Fluminense recebe o Bragantino pelo Campeonato Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzFDYi1RcUdxTnpZRUpZWnp2cGRMbThPdjdUYWMwbmlaZWZQMFB2X1FKem4xWmtadEVTOTBhYTQwSVVGQUlkazNfMTdudGlIOHk2VWdkRnppdUdVY2pRSHdtZ0dtems3Vk9iS09BelVTTzFlUGNEWF9RN1pnRkx0M0RwcjdfTWV3QnlGdV9vNElRdl9HZDAtN3Bwei00ZklLWkJlWXIzRQ?oc=5",
-      "data": "01/08 11:00"
+      "titulo": "Vasco e Fluminense se reencontram na Copa do Brasil após semifinal de 2025 - GP1",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3luN0diMEV5anJKaFVkVFdqbGNTblVyQ2RsUDB2aTZ0NXpTR1FGdGNuQUZfdDJXUVNrQ1pRYlFSOG1oN3YxOW5rMk05Z0pJRVVEMm85YkU2cnU5YlZVaWJGM2g0a3NCZ2pmRlhhQkd3LUxRQWVTbzh6aU5ra2tpMmFnX2l3ZXR6UlM2TDZzd1VsVEVILXF1bmhudnV0U1NuUTRzWHlTWl9hVHkzUGY1UVUtVEFySGd4SERiMUpjVkxQOFlhUTBZWS1SSkNFYzk00gHWAUFVX3lxTE5wOTd1M0QtZHRsaGxpc1Zrc1pHcVJFVDdtV0pOaVlXU0NYa1FSVkFBR1dJa01CcnJiVmRGdjQ4UWRRQnBLd0lpQTU1UEdacTZRV3JFRXZtaW96Q3pWSVloQ2Z6QzBmZmp6aHJLaG1aUDZfRHhKdGlMWkNsbnlGSFlSZXJKdjlYb0Q5bmNWOXhpSTM2RTI1VXFuQUxpcVpzMUp3b3ZzeHF0V3oxOHMtZGZZMjJ3bGt3R1dyQkx2cm05YkI1YS1kekg4N2xZeXlHbHhQYzR3Wnc?oc=5",
+      "data": "01/08 12:41"
     },
     {
-      "titulo": "Pressionados, Vasco e Fluminense se reencontram nas oitavas da Copa do Brasil - oglobo.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMUY5dGtyNWhLeVViZHhoOTV5bFdZb0NxRmpQdHR1eTlwVW8xbGR2UkxtMlVpMjNvbF9QRmx5ZVdIcTdURTlYM0lKNE1QczNUUkZYTHpZaUlLQTVGOXZ3dTNOdld3V09mZXB2XzBEbUxkWHFpSXlfOWVDcFBfbHB5NHZxMVYwbWVtZl9iR1ZXbTZBWU56bm1pa3p1UVZBZHFObVhCcDJIeEpxOFBMTmFjOXBDc1lTTXR0VXl5SDZVMXNnU3JYNFNnLW1RTFFGMjdJZFM1eF9IVi03a2fSAeoBQVVfeXFMTk5USU03a2daQVlZaE95blF2X2xCbktTMzczUW42Xy10cmxJVkVnYWtocENEM1JmMThCWnczZ05OaUdrZzN2WFFTV1JmVEI3SGpqVFlfQlNLdFowdFpCY2p4NlJIUXM5aGJjcTZCZ3NUS2pndWpDazN4cGdaQ2pUSExRSGNIRjlib1ZZbi1sWGg4SVNhLVZheWkxZWh0UzVXOU5QMXpjTU1jS004cTlpN2ZhU2ZPMUpyb0EyVGZpNmQ3ZXNDSTRsbTZUcWVZWVVOMU0yUF9aVHY2RTh2cVZTNHY4bThBODFNcTNn?oc=5",
-      "data": "01/08 06:30"
+      "titulo": "Zubeldía faz balanço do trabalho no Fluminense e projeta duelo com o Vasco: \"Tempero especial\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQS16Q1lhWlN1X1ViWU1nV1FSU1dNa3pOcW5ObTRFY2xUTUdqN3pxQkVQY2FoaU4xM1UzUzhMbnJmSm1SXzE4OVJDWW9DOUVwcnJJeXVOZ281R2RzMzQ5cS1JanlmUVQwd1BQWjdDXzhaamE5cEFodDVETWtCUjJpR214UlJGZGhuOUxnU2VkMEdoOTNQcHE5a3JGNGZhNlNvX3JWWU5BdmU1cThCRGxJS3ZuekdDeGFBVlowSjJlTDQzaXQ3c3RjTXhORDJiQVFxeGcyN0J2c1ZWdFBmZndEYkFFMEFROVp2YlptczZZQXQ2Y1ox0gGDAkFVX3lxTE9PVHM0Q25vSXY1c3B1MFFGMzBuYmRKXzEtTmktVGdsd3E0d3YwN1ZJQUExeTFDOXJjM2RNNV9nTjZJVF83VUlsc3JCUnNJWkEyVE5ib2U4bURTakV0YlVkQXk3ekc0TUZzSExOZldnRjFhbUtYdHJEZmNKN2kxdHhLdUczYXI1R2RPejQxQlFtX21KTnh1VkowTlNDaHRZeU9OeHYxRmxWdmtlNFdSRnRMdjJrd3lJUjFFNExMdlh2VGFhRkRwUzJkZDZvVTRYQzNMcXQ0Y1pQS0NESjQzWFdsdWVHYmpBTVFMZGYzb094dlI4Z1hzZFM3MFNtX2xndnNSd0U?oc=5",
+      "data": "01/08 09:00"
     }
   ],
   "avisos": []
