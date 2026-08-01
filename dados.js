@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/08/2026 12:59",
+  "atualizado_em": "01/08/2026 14:07",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "12:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Albion FC x Danubio",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-01",
@@ -152,6 +142,16 @@ window.PAINEL_DATA = {
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
+      "match": "Whitecaps x Los Angeles FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
       "match": "Montreal Impact x New England",
       "channels": [
         "APPLE TV"
@@ -163,16 +163,6 @@ window.PAINEL_DATA = {
       "time": "20:30",
       "competition": "MLS",
       "match": "DC United x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Whitecaps x Los Angeles FC",
       "channels": [
         "APPLE TV"
       ]
@@ -337,6 +327,16 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers x Seattle Sounders",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "12:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Albion FC x Danubio",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -720,7 +720,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge.globo.com",
+      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
       "data": "31/07 21:33"
     },
