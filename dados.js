@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/08/2026 11:56",
+  "atualizado_em": "01/08/2026 12:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -720,19 +720,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
+      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
       "data": "31/07 21:33"
     },
     {
-      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
-      "data": "31/07 21:45"
+      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
+      "data": "01/08 00:13"
     },
     {
-      "titulo": "Fluminense recebe o Bragantino pelo Campeonato Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNXzFDYi1RcUdxTnpZRUpZWnp2cGRMbThPdjdUYWMwbmlaZWZQMFB2X1FKem4xWmtadEVTOTBhYTQwSVVGQUlkazNfMTdudGlIOHk2VWdkRnppdUdVY2pRSHdtZ0dtems3Vk9iS09BelVTTzFlUGNEWF9RN1pnRkx0M0RwcjdfTWV3QnlGdV9vNElRdl9HZDAtN3Bwei00ZklLWkJlWXIzRQ?oc=5",
-      "data": "01/08 11:00"
+      "titulo": "Datafolha divulga nova pesquisa de torcidas; veja a posição do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3NUaVFWelFfVlZNRlJHakhuQk1QeUpuUXVSWEJmNTZ5Z25oRmdSdGhieXpiVXJjS0JOWENuVmlHT29RYUcwNm92VGE0WVN1LVNzalgxeVU2SDVIdlByeUl5bklTUXNOVUtoMEhHSmVLdldwTGVPLWU2cHlqV091ZWQ0WUEzQy1Ld3RpNUEtd0tJei1nSDJ6ZXBNbWlkMk9R?oc=5",
+      "data": "01/08 15:46"
     },
     {
       "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
@@ -740,7 +740,7 @@ window.PAINEL_DATA = {
       "data": "31/07 16:26"
     },
     {
-      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - gauchazh.clicrbs.com.br",
+      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
       "data": "30/07 00:37"
     }
