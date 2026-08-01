@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/08/2026 17:44",
+  "atualizado_em": "01/08/2026 18:50",
   "jogos": [
     {
       "sport": "futebol",
@@ -735,9 +735,9 @@ window.PAINEL_DATA = {
       "data": "01/08 06:00"
     },
     {
-      "titulo": "Datafolha divulga nova pesquisa de torcidas; veja a posição do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3NUaVFWelFfVlZNRlJHakhuQk1QeUpuUXVSWEJmNTZ5Z25oRmdSdGhieXpiVXJjS0JOWENuVmlHT29RYUcwNm92VGE0WVN1LVNzalgxeVU2SDVIdlByeUl5bklTUXNOVUtoMEhHSmVLdldwTGVPLWU2cHlqV091ZWQ0WUEzQy1Ld3RpNUEtd0tJei1nSDJ6ZXBNbWlkMk9R?oc=5",
-      "data": "01/08 15:46"
+      "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjF6X0J3SjF5X1UzYjBxUEp2NVVlVHZfOVlIUkI1cUk1VUc2aVlsQ0gwbzRoOGtXV0lwcm1iX09RamsxSU1Cc1QwRFgza2tqRTNiSmZwalhnUXRiX3JlR3pFVzdGRnlTamg0YlZvc3N0WUhrRXpOVFowQVF0b3RqZndENVlvSDNOdEozUWJCVnBFZGdyR1lqRlphWkpySWtLWHozTHUzQ09fWUUtemx4X2RJaFE2a3VXb3c?oc=5",
+      "data": "01/08 21:36"
     },
     {
       "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
