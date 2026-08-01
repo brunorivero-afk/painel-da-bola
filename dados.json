@@ -1,37 +1,6 @@
 {
-  "atualizado_em": "01/08/2026 19:51",
+  "atualizado_em": "01/08/2026 20:53",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "18:00",
-      "competition": "Campeonato Argentino",
-      "match": "Estudiantes x Defensa Y Justicia",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "18:00",
-      "competition": "Copa Paulista",
-      "match": "XV de Piracicaba x Noroeste",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-01",
@@ -50,36 +19,6 @@
       "match": "Connecticut FC x Orlando City II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "DC United x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "FC Cincinnati x San Jose Earthquakes",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -117,7 +56,7 @@
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Inter Miami x Columbus Crew",
+      "match": "DC United x Nashville SC",
       "channels": [
         "APPLE TV"
       ]
@@ -131,6 +70,16 @@
       "channels": [
         "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x New England",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -337,6 +286,57 @@
         "PREMIERE",
         "GE TV",
         "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "18:00",
+      "competition": "Copa Paulista",
+      "match": "XV de Piracicaba x Noroeste",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "18:00",
+      "competition": "Campeonato Argentino",
+      "match": "Estudiantes x Defensa Y Justicia",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Cerro Largo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "FC Cincinnati x San Jose Earthquakes",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Inter Miami x Columbus Crew",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -730,6 +730,11 @@
       "data": "31/07 21:45"
     },
     {
+      "titulo": "Zubeldía explica motivo pelo qual Fluminense negociou o zagueiro Davi Schuindt - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdm1aQmJURHg0V2JES0NNcUNndWtqeGhhT2lSTGNlT29wSU5vaThHZjdrd2VBcFc0UUx6dVdnUmNGdXpTZktqZ3hCSkJBS3JqNWJlaTQ0d00wbi1ya0RndDZUU3dJSUtRSjdBUWRIQkMtQUNlWmdMdjcwWjdIVndCT0dZS0xDSk9RZmdGVVpBdmxLZE1XdmtXTWxHSVdQNm5BenBzSXl3LUE?oc=5",
+      "data": "01/08 22:39"
+    },
+    {
       "titulo": "Centroavante do Fluminense atrai interesse do Boca Juniors - Terra",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd2VsamxDdnF1cEVVbF9jUkFzcG4ydGZCMHZfSnBMUjBqc1RQZmdNUVdBdDB6eXdNMllqTTVhcUU0bmswczZ6NDVHU0dTcGVxa2lMYVFsOUVaVXg1M2VBRUV4WkxTdkdaT2M0RjFIX2JsOE9oTk5XMkRxUmdTWTNFREZLVHVYLUpxS0xKanpXaHg0bXRsSWRXaXpWSEVSVGdUajZNSFZqLUVOM2NsZHh0NTB1VVdRb0hCb1VoejQ5M0FDM2tjYVFmay1KQUs0aHQ3d2ZHRTlhS0E1TUxZT2VnQW95SQ?oc=5",
       "data": "01/08 17:52"
@@ -738,11 +743,6 @@
       "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjF6X0J3SjF5X1UzYjBxUEp2NVVlVHZfOVlIUkI1cUk1VUc2aVlsQ0gwbzRoOGtXV0lwcm1iX09RamsxSU1Cc1QwRFgza2tqRTNiSmZwalhnUXRiX3JlR3pFVzdGRnlTamg0YlZvc3N0WUhrRXpOVFowQVF0b3RqZndENVlvSDNOdEozUWJCVnBFZGdyR1lqRlphWkpySWtLWHozTHUzQ09fWUUtemx4X2RJaFE2a3VXb3c?oc=5",
       "data": "01/08 21:36"
-    },
-    {
-      "titulo": "Datafolha divulga nova pesquisa de torcidas; veja a posição do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3NUaVFWelFfVlZNRlJHakhuQk1QeUpuUXVSWEJmNTZ5Z25oRmdSdGhieXpiVXJjS0JOWENuVmlHT29RYUcwNm92VGE0WVN1LVNzalgxeVU2SDVIdlByeUl5bklTUXNOVUtoMEhHSmVLdldwTGVPLWU2cHlqV091ZWQ0WUEzQy1Ld3RpNUEtd0tJei1nSDJ6ZXBNbWlkMk9R?oc=5",
-      "data": "01/08 15:46"
     }
   ],
   "avisos": []
