@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "01/08/2026 14:07",
+  "atualizado_em": "01/08/2026 16:02",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "13:00",
-      "competition": "Amistosos",
-      "match": "Real Madrid x Fiorentina",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-01",
@@ -142,7 +132,7 @@
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Whitecaps x Los Angeles FC",
+      "match": "Philadelphia Union x Atlanta United FC",
       "channels": [
         "APPLE TV"
       ]
@@ -162,7 +152,7 @@
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "DC United x Nashville SC",
+      "match": "New York Red Bulls x Orlando City SC",
       "channels": [
         "APPLE TV"
       ]
@@ -182,7 +172,7 @@
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "New York Red Bulls x Orlando City SC",
+      "match": "DC United x Nashville SC",
       "channels": [
         "APPLE TV"
       ]
@@ -192,7 +182,7 @@
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Philadelphia Union x Atlanta United FC",
+      "match": "Whitecaps x Los Angeles FC",
       "channels": [
         "APPLE TV"
       ]
@@ -244,16 +234,6 @@
       "date": "2026-08-01",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Chicago Fire x Charlotte",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "21:30",
-      "competition": "MLS",
       "match": "Minnesota United FC x San Diego",
       "channels": [
         "APPLE TV"
@@ -265,6 +245,16 @@
       "time": "21:30",
       "competition": "MLS",
       "match": "Sporting Kansas City x Houston Dynamo",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Chicago Fire x Charlotte",
       "channels": [
         "APPLE TV"
       ]
@@ -337,6 +327,16 @@
       "match": "Albion FC x Danubio",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "13:00",
+      "competition": "Amistosos",
+      "match": "Real Madrid x Fiorentina",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -691,28 +691,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.2,
+      "temp_max": 26.0,
       "temp_min": 18.4,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.9,
+      "temp_max": 26.6,
       "temp_min": 18.6,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.5,
+      "temp_max": 20.2,
       "temp_min": 12.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.1,
+      "temp_max": 20.9,
       "temp_min": 11.0,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
@@ -720,14 +720,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
-      "data": "31/07 21:33"
+      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
+      "data": "01/08 06:00"
     },
     {
-      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
-      "data": "01/08 00:13"
+      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
+      "data": "31/07 21:45"
+    },
+    {
+      "titulo": "Centroavante do Fluminense atrai interesse do Boca Juniors - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd2VsamxDdnF1cEVVbF9jUkFzcG4ydGZCMHZfSnBMUjBqc1RQZmdNUVdBdDB6eXdNMllqTTVhcUU0bmswczZ6NDVHU0dTcGVxa2lMYVFsOUVaVXg1M2VBRUV4WkxTdkdaT2M0RjFIX2JsOE9oTk5XMkRxUmdTWTNFREZLVHVYLUpxS0xKanpXaHg0bXRsSWRXaXpWSEVSVGdUajZNSFZqLUVOM2NsZHh0NTB1VVdRb0hCb1VoejQ5M0FDM2tjYVFmay1KQUs0aHQ3d2ZHRTlhS0E1TUxZT2VnQW95SQ?oc=5",
+      "data": "01/08 17:52"
     },
     {
       "titulo": "Datafolha divulga nova pesquisa de torcidas; veja a posição do Fluminense - netflu.com.br",
@@ -735,14 +740,9 @@
       "data": "01/08 15:46"
     },
     {
-      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
-      "data": "31/07 16:26"
-    },
-    {
-      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
-      "data": "30/07 00:37"
+      "titulo": "Relembre os números de Zubeldía no comando do Fluminense desde a sua chegada ao clube em setembro de 2025 - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2V4cnV2TlhWX05udUlMQ0FuNzNCLXVELWx1MldWVGxfUlQtenc4QVU2RlhqOVVUci14M1ZjekJwbnhmN2ZBMEVmZzA3RzhOc2Y1b0pTaEdzZkhWSlkzc0g2TGlBN1RFei1NWm9KdmNOczBTTzdtZGpOaDhqUG9ZdEpOQjBvR0Jsc2pZQXBaVXZUckp3dVVxQThBQkF0SnpPeXJLQkxNbFU2bXNNUC1pNVRkVkRxLXNrOTB6azNsNEYtN3dhaHpnSnAwTzA?oc=5",
+      "data": "01/08 17:28"
     }
   ],
   "avisos": []
