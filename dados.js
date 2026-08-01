@@ -1,30 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/08/2026 18:50",
+  "atualizado_em": "01/08/2026 19:51",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "17:30",
-      "competition": "Copa Do Brasil",
-      "match": "Vasco x Fluminense",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE",
-        "GE TV",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x Sport Boys",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-01",
@@ -81,6 +57,36 @@ window.PAINEL_DATA = {
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
+      "match": "Montreal Impact x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "DC United x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "FC Cincinnati x San Jose Earthquakes",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
       "match": "New York Red Bulls x Orlando City SC",
       "channels": [
         "APPLE TV"
@@ -130,31 +136,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "FC Cincinnati x San Jose Earthquakes",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "Huntsville City x Crown Legacy",
       "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "DC United x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x New England",
-      "channels": [
-        "APPLE TV"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -166,16 +152,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Huntsville City x Crown Legacy",
-      "channels": [
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -337,6 +313,30 @@ window.PAINEL_DATA = {
       "match": "FC Cajamarca x Sport Huancayo",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Atletico Grau x Sport Boys",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "17:30",
+      "competition": "Copa Do Brasil",
+      "match": "Vasco x Fluminense",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE",
+        "GE TV",
+        "PRIME VIDEO"
       ]
     },
     {
@@ -720,6 +720,11 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
+      "data": "01/08 06:00"
+    },
+    {
       "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
       "data": "31/07 21:45"
@@ -730,19 +735,14 @@ window.PAINEL_DATA = {
       "data": "01/08 17:52"
     },
     {
-      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
-      "data": "01/08 06:00"
-    },
-    {
       "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjF6X0J3SjF5X1UzYjBxUEp2NVVlVHZfOVlIUkI1cUk1VUc2aVlsQ0gwbzRoOGtXV0lwcm1iX09RamsxSU1Cc1QwRFgza2tqRTNiSmZwalhnUXRiX3JlR3pFVzdGRnlTamg0YlZvc3N0WUhrRXpOVFowQVF0b3RqZndENVlvSDNOdEozUWJCVnBFZGdyR1lqRlphWkpySWtLWHozTHUzQ09fWUUtemx4X2RJaFE2a3VXb3c?oc=5",
       "data": "01/08 21:36"
     },
     {
-      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
-      "data": "31/07 16:26"
+      "titulo": "Datafolha divulga nova pesquisa de torcidas; veja a posição do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3NUaVFWelFfVlZNRlJHakhuQk1QeUpuUXVSWEJmNTZ5Z25oRmdSdGhieXpiVXJjS0JOWENuVmlHT29RYUcwNm92VGE0WVN1LVNzalgxeVU2SDVIdlByeUl5bklTUXNOVUtoMEhHSmVLdldwTGVPLWU2cHlqV091ZWQ0WUEzQy1Ld3RpNUEtd0tJei1nSDJ6ZXBNbWlkMk9R?oc=5",
+      "data": "01/08 15:46"
     }
   ],
   "avisos": []
