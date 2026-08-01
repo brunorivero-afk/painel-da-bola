@@ -1,57 +1,6 @@
 {
-  "atualizado_em": "01/08/2026 16:02",
+  "atualizado_em": "01/08/2026 17:44",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x Sport Huancayo",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Uniao Suzano Sub-20 x Corinthians Sub-20",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Juventud",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Girona x Arsenal",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "São Caetano x EC São Bernardo",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-01",
@@ -132,26 +81,6 @@
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Philadelphia Union x Atlanta United FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
       "match": "New York Red Bulls x Orlando City SC",
       "channels": [
         "APPLE TV"
@@ -162,17 +91,7 @@
       "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "FC Cincinnati x San Jose Earthquakes",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "DC United x Nashville SC",
+      "match": "Philadelphia Union x Atlanta United FC",
       "channels": [
         "APPLE TV"
       ]
@@ -211,6 +130,36 @@
     {
       "sport": "futebol",
       "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "FC Cincinnati x San Jose Earthquakes",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "DC United x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
       "time": "21:00",
       "competition": "Copa Do Brasil",
       "match": "Santos x Remo",
@@ -234,6 +183,16 @@
       "date": "2026-08-01",
       "time": "21:30",
       "competition": "MLS",
+      "match": "Chicago Fire x Charlotte",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "21:30",
+      "competition": "MLS",
       "match": "Minnesota United FC x San Diego",
       "channels": [
         "APPLE TV"
@@ -245,16 +204,6 @@
       "time": "21:30",
       "competition": "MLS",
       "match": "Sporting Kansas City x Houston Dynamo",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Chicago Fire x Charlotte",
       "channels": [
         "APPLE TV"
       ]
@@ -337,6 +286,57 @@
       "match": "Real Madrid x Fiorentina",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "São Caetano x EC São Bernardo",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Girona x Arsenal",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Juventud",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Uniao Suzano Sub-20 x Corinthians Sub-20",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x Sport Huancayo",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -720,11 +720,6 @@
   ],
   "noticias": [
     {
-      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
-      "data": "01/08 06:00"
-    },
-    {
       "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
       "data": "31/07 21:45"
@@ -735,14 +730,19 @@
       "data": "01/08 17:52"
     },
     {
+      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
+      "data": "01/08 06:00"
+    },
+    {
       "titulo": "Datafolha divulga nova pesquisa de torcidas; veja a posição do Fluminense - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3NUaVFWelFfVlZNRlJHakhuQk1QeUpuUXVSWEJmNTZ5Z25oRmdSdGhieXpiVXJjS0JOWENuVmlHT29RYUcwNm92VGE0WVN1LVNzalgxeVU2SDVIdlByeUl5bklTUXNOVUtoMEhHSmVLdldwTGVPLWU2cHlqV091ZWQ0WUEzQy1Ld3RpNUEtd0tJei1nSDJ6ZXBNbWlkMk9R?oc=5",
       "data": "01/08 15:46"
     },
     {
-      "titulo": "Relembre os números de Zubeldía no comando do Fluminense desde a sua chegada ao clube em setembro de 2025 - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2V4cnV2TlhWX05udUlMQ0FuNzNCLXVELWx1MldWVGxfUlQtenc4QVU2RlhqOVVUci14M1ZjekJwbnhmN2ZBMEVmZzA3RzhOc2Y1b0pTaEdzZkhWSlkzc0g2TGlBN1RFei1NWm9KdmNOczBTTzdtZGpOaDhqUG9ZdEpOQjBvR0Jsc2pZQXBaVXZUckp3dVVxQThBQkF0SnpPeXJLQkxNbFU2bXNNUC1pNVRkVkRxLXNrOTB6azNsNEYtN3dhaHpnSnAwTzA?oc=5",
-      "data": "01/08 17:28"
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
+      "data": "31/07 16:26"
     }
   ],
   "avisos": []
