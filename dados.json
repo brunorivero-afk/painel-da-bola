@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/08/2026 00:18",
+  "atualizado_em": "01/08/2026 03:24",
   "jogos": [
     {
       "sport": "futebol",
@@ -467,6 +467,16 @@
     {
       "sport": "futebol",
       "date": "2026-08-02",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "New York RB II x New England II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
       "time": "18:30",
       "competition": "Copa Do Brasil",
       "match": "Chapecoense-sc x Cruzeiro",
@@ -511,16 +521,6 @@
       "date": "2026-08-02",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "New York RB II x New England II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
       "match": "St. Louis City II x Real Monarchs",
       "channels": [
         "ONEFOOTBALL"
@@ -541,7 +541,7 @@
       "date": "2026-08-01",
       "time": "03:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Masculina de Vôlei - Semifinal",
+      "match": "Eslovênia x Polônia",
       "channels": [
         "SporTV2"
       ]
@@ -551,7 +551,7 @@
       "date": "2026-08-01",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Masculina de Vôlei - Semifinal",
+      "match": "Japão x EUA",
       "channels": [
         "SporTV2"
       ]
@@ -559,7 +559,7 @@
     {
       "sport": "volei",
       "date": "2026-08-01",
-      "time": "03:45",
+      "time": "04:25",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
       "channels": [
@@ -569,7 +569,7 @@
     {
       "sport": "volei",
       "date": "2026-08-01",
-      "time": "08:00",
+      "time": "08:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Final",
       "channels": [
@@ -685,6 +685,26 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-01",
+      "time": "03:45",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-01",
+      "time": "08:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Liga das Nações Masculina de Vôlei - Final",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -729,19 +749,19 @@
       "data": "01/08 00:13"
     },
     {
-      "titulo": "Clube sul-americano demonstra interesse em contratar Castillo, do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVlSd2c3dVc1emZOWkU0QXp2aFBzbjRvSS13VjlrYUNSSVVodkx3Z1I1X1VUODh4YlcyRVM0UDMwVl9kbGNBQmtwQzBTbS1Dbkd0UWM5cHh2WnBxN0JNS2twYmJLVDNhMFNBSks1Zll5MUtUcmNhLXJPZWZrdXAwcmlUeElOUXQtTWMyeUxPYTFHMWZIT1lONGphYXFsZE9wTGNDTA?oc=5",
-      "data": "31/07 17:20"
-    },
-    {
-      "titulo": "RTI: O substituto de Thiago Mendes no clássico contra o Fluminense - SuperVasco",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFhSUI2akUzQ3dEalE1RUNJOEYwQ3E3YjQ1T3FqdVhfX0hrOFQ0ZjdCUmF1M0djb1I0TDJfbl83RVZQTFJ2aURFNkVaS3NWNjBJUThEU2JrNUY5Q0RkREZiSjVXbmw0dTRlZ0haakV2MDdqUzA0ZWprbTRWT1FFMEZSN1ZjaXJ4SHRCUDY0WWZiRjVHTDFlQUttLUJlamFOb3hKa2Rhemh0al9KV0M3THZCONIBtgFBVV95cUxOLUdoSTQ4U2NkR2dKVjNBTk96N1doNm45WXV5WjJmNkp6cHJtOXlWYUxuZTZpYVJpOU04aW9ySlVfbWFtbGFIQzh6UFY1N2FZOHB0dkswcFNKdXBlNlhzbXdDMFVFakJ2NGdBSEdHZjZCQVh5OWtSOERQUnVjZlliQVVZTFB6Z2w3US1YbFZZdmEtaDc1d1prMEowbGxILWppSno1RVk5Q2VQMkZXcENvLWV4bDFZUQ?oc=5",
-      "data": "31/07 18:14"
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - itatiaia.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
+      "data": "31/07 16:26"
     },
     {
       "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVVuWGs4eF8zallkaTVyTy1aZVh2OXRFek85c09JOU1qaTNYdlphV2JMS2lVejlEUjdDdEpYcERzT0ZhVUZwaGRRWXIzMTNqbzJGRzhEeVFxemtHSDk4aVE5RkpDNWtoRVotZnNDdHJuQ21JdTNWcTB0eElPTlc2bndTVzZoMHg3OFI3c1UtTmZoRzdiU0tFb3Y0dy14LWVtZUhMdFpXZG1uaWVOY1NRSnNNNE5weVFVNnB0SGFnWHZSXzdzR2RJVXNqdTd3a25JdG1YMDltTTNMbG9CVzJadk1rZjFIOG9kZ0RHYVZKNFVESXgwYXc?oc=5",
       "data": "30/07 19:16"
+    },
+    {
+      "titulo": "Por onde anda Araújo, ex-atacante de Goiás, Cruzeiro e Fluminense? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWFHZEVscHAzRGhwQWJzdzQyYWtuemRvZEI4VHVHWjR0aFp2aGdlNE9zbUhnaE1mR2NrSERSZUtSUmNNQkU0VU9ocU9EaW1LdUNRMlU2bU9Nemstckk0dmlOcmthRm80eUIzaV9odmtKS1k5WlVrRVRqbUc5OXRnaEVrQ25fQ3pGeTA2R0V1Ylc?oc=5",
+      "data": "30/07 09:17"
     }
   ],
   "avisos": []
