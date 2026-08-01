@@ -1,96 +1,6 @@
 {
-  "atualizado_em": "31/07/2026 20:58",
+  "atualizado_em": "01/08/2026 00:18",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York City FC x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "21:00",
-      "competition": "NWSL Feminina",
-      "match": "North Carolina Courage (F) x Orlando Pride (F)",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Minnesota United II x Portland Timbers II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "23:00",
-      "competition": "MLS Next Pro",
-      "match": "Los Angeles II x Colorado Rapids II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x Botafogo Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "15:45",
-      "competition": "Amistosos",
-      "match": "Sporting CP x Nottingham Forest",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Wanderers",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Carolina Core",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-07-31",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Toronto II x Columbus Crew II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-01",
@@ -429,8 +339,206 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "Santo André x São José EC",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "11:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Palmeiras (F) x Internacional (F)",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "12:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Boston River",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Juan Pablo II College",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Juventus Sub-20 x Santos Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Mauá Sub-20 x Palmeiras Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "16:00",
+      "competition": "Copa Do Brasil",
+      "match": "Palmeiras x Fortaleza",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x FC Cincinnati II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Boca Juniors",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "UCV Moquegua x FBC Melgar",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "18:00",
+      "competition": "Copa Do Brasil",
+      "match": "Mirassol x Grêmio",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "18:30",
+      "competition": "Copa Do Brasil",
+      "match": "Chapecoense-sc x Cruzeiro",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Progreso",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "19:15",
+      "competition": "Campeonato Argentino",
+      "match": "River Plate x Rosario Central",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "19:30",
+      "competition": "Copa Do Brasil",
+      "match": "Internacional x Corinthians",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "New York RB II x New England II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Real Monarchs",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "22:00",
+      "competition": "NWSL Feminina",
+      "match": "Denver Summit (F) x Boston Legacy (F)",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "03:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Semifinal",
@@ -440,7 +548,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Semifinal",
@@ -450,7 +558,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "03:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
@@ -460,7 +568,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Final",
@@ -470,7 +578,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "11:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
@@ -480,7 +588,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "12:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
@@ -490,7 +598,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
@@ -500,7 +608,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "15:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
@@ -510,7 +618,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "16:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
@@ -520,7 +628,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "17:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Rio de Janeiro",
@@ -530,7 +638,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "18:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Rio de Janeiro",
@@ -540,7 +648,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "13:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Paraguai",
@@ -550,7 +658,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "16:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Venezuela",
@@ -560,7 +668,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "03:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Itália x EUA",
@@ -570,7 +678,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "08:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Polônia x Ucrânia",
@@ -582,31 +690,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.9,
+      "temp_max": 25.3,
       "temp_min": 18.1,
-      "chance_chuva": 18,
-      "condicao": "Garoa"
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.5,
+      "temp_max": 26.1,
       "temp_min": 18.8,
-      "chance_chuva": 78,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 0,
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.2,
-      "temp_min": 12.5,
-      "chance_chuva": 45,
+      "temp_max": 20.4,
+      "temp_min": 10.5,
+      "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.6,
-      "temp_min": 11.0,
-      "chance_chuva": 28,
-      "condicao": "Garoa fraca"
+      "temp_max": 21.1,
+      "temp_min": 8.6,
+      "chance_chuva": 0,
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
@@ -616,14 +724,9 @@
       "data": "31/07 21:33"
     },
     {
-      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
-      "data": "31/07 21:45"
-    },
-    {
-      "titulo": "Qual será a dupla de zaga do Fluminense contra o Vasco? Veja as opções - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUnBtNGRMTGVOb3A4eXduVFM4ZEpRZEtyQThLa1NCVlN3c0ZmWEJRdHI4TmhWSTBhM083WW9yQThnT2pEcExTRUNhVElrV2hpY2g5YXhxNVdZT0tKejkwUEZtTnFnakg1WHpPczMtNm56SkJ6dkZON0lHVFI2Q0J3UFVMQVdHODVWX3lWQmlkczJCX1BZcDJDd3ItaFZVSGhyemo1WjdFSEhpTzR4YVBCNnlNam9jTHVqei1mVjVaeVBoaExkU2V3cVhxUGZtbm50VGdtNHlxUmtjV3I4c0RONXlMb0cxbTItTGlqaFZn?oc=5",
-      "data": "31/07 19:42"
+      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
+      "data": "01/08 00:13"
     },
     {
       "titulo": "Clube sul-americano demonstra interesse em contratar Castillo, do Fluminense - netflu.com.br",
@@ -634,6 +737,11 @@
       "titulo": "RTI: O substituto de Thiago Mendes no clássico contra o Fluminense - SuperVasco",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFhSUI2akUzQ3dEalE1RUNJOEYwQ3E3YjQ1T3FqdVhfX0hrOFQ0ZjdCUmF1M0djb1I0TDJfbl83RVZQTFJ2aURFNkVaS3NWNjBJUThEU2JrNUY5Q0RkREZiSjVXbmw0dTRlZ0haakV2MDdqUzA0ZWprbTRWT1FFMEZSN1ZjaXJ4SHRCUDY0WWZiRjVHTDFlQUttLUJlamFOb3hKa2Rhemh0al9KV0M3THZCONIBtgFBVV95cUxOLUdoSTQ4U2NkR2dKVjNBTk96N1doNm45WXV5WjJmNkp6cHJtOXlWYUxuZTZpYVJpOU04aW9ySlVfbWFtbGFIQzh6UFY1N2FZOHB0dkswcFNKdXBlNlhzbXdDMFVFakJ2NGdBSEdHZjZCQVh5OWtSOERQUnVjZlliQVVZTFB6Z2w3US1YbFZZdmEtaDc1d1prMEowbGxILWppSno1RVk5Q2VQMkZXcENvLWV4bDFZUQ?oc=5",
       "data": "31/07 18:14"
+    },
+    {
+      "titulo": "Fábio atinge marca histórica de 300 partidas pelo Fluminense no Maracanã - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMVVuWGs4eF8zallkaTVyTy1aZVh2OXRFek85c09JOU1qaTNYdlphV2JMS2lVejlEUjdDdEpYcERzT0ZhVUZwaGRRWXIzMTNqbzJGRzhEeVFxemtHSDk4aVE5RkpDNWtoRVotZnNDdHJuQ21JdTNWcTB0eElPTlc2bndTVzZoMHg3OFI3c1UtTmZoRzdiU0tFb3Y0dy14LWVtZUhMdFpXZG1uaWVOY1NRSnNNNE5weVFVNnB0SGFnWHZSXzdzR2RJVXNqdTd3a25JdG1YMDltTTNMbG9CVzJadk1rZjFIOG9kZ0RHYVZKNFVESXgwYXc?oc=5",
+      "data": "30/07 19:16"
     }
   ],
   "avisos": []
