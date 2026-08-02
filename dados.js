@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 07:36",
+  "atualizado_em": "02/08/2026 08:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -464,19 +464,19 @@ window.PAINEL_DATA = {
       "data": "01/08 00:13"
     },
     {
-      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
-      "data": "02/08 06:10"
-    },
-    {
       "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
       "data": "02/08 07:00"
     },
     {
-      "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjF6X0J3SjF5X1UzYjBxUEp2NVVlVHZfOVlIUkI1cUk1VUc2aVlsQ0gwbzRoOGtXV0lwcm1iX09RamsxSU1Cc1QwRFgza2tqRTNiSmZwalhnUXRiX3JlR3pFVzdGRnlTamg0YlZvc3N0WUhrRXpOVFowQVF0b3RqZndENVlvSDNOdEozUWJCVnBFZGdyR1lqRlphWkpySWtLWHozTHUzQ09fWUUtemx4X2RJaFE2a3VXb3c?oc=5",
-      "data": "01/08 21:36"
+      "titulo": "ESCALAÇÃO DO FLUMINENSE PARA O JOGO CONTRA O VASCO PELA COPA DO BRASIL. - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbktfYlBQM2pTcWdYZ1RyTTF4SFc3RU1WbFJ0Q1g3Ti1ROFlyWHNBYkhvdGl5Vm83Y1JfR0pMN2RxTkswMkpYdWRyVURndXhDbUFWaGFYMVNIem5xOXU2SEVWVHE0dEQ5UUpKOHFKQ1VXX2I5WWlzOWJDZThKTjVOSVFDN2xsenBsVHZBYlBGUkdCSGVvS0RvV2QxeWF6QklBbEJySUVlLXgwWkFZWGhZ?oc=5",
+      "data": "01/08 22:17"
+    },
+    {
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
+      "data": "31/07 16:26"
     }
   ],
   "avisos": []
