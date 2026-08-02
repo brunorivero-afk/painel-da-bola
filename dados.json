@@ -1,83 +1,12 @@
 {
-  "atualizado_em": "01/08/2026 20:53",
+  "atualizado_em": "01/08/2026 23:22",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-01",
-      "time": "19:30",
-      "competition": "Copa Do Brasil",
-      "match": "Atlético-MG x Juventude",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Connecticut FC x Orlando City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "New York Red Bulls x Orlando City SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Philadelphia Union x Atlanta United FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Whitecaps x Los Angeles FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "DC United x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "Campeonato Argentino",
-      "match": "Racing Club x Tigre",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x New England",
+      "match": "FC Cincinnati x San Jose Earthquakes",
       "channels": [
         "APPLE TV"
       ]
@@ -95,30 +24,9 @@
     {
       "sport": "futebol",
       "date": "2026-08-01",
-      "time": "21:00",
-      "competition": "Copa Do Brasil",
-      "match": "Santos x Remo",
-      "channels": [
-        "SPORTV",
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Chicago Fire x Charlotte",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Minnesota United FC x San Diego",
+      "match": "St. Louis City x Real Salt Lake",
       "channels": [
         "APPLE TV"
       ]
@@ -138,7 +46,7 @@
       "date": "2026-08-01",
       "time": "21:30",
       "competition": "MLS",
-      "match": "St. Louis City x Real Salt Lake",
+      "match": "Minnesota United FC x San Diego",
       "channels": [
         "APPLE TV"
       ]
@@ -146,9 +54,9 @@
     {
       "sport": "futebol",
       "date": "2026-08-01",
-      "time": "22:30",
+      "time": "21:30",
       "competition": "MLS",
-      "match": "Colorado Rapids x Austin",
+      "match": "Chicago Fire x Charlotte",
       "channels": [
         "APPLE TV"
       ]
@@ -161,6 +69,16 @@
       "match": "Alianza Lima x Alianza Atletico",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "Colorado Rapids x Austin",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -217,30 +135,10 @@
       "sport": "futebol",
       "date": "2026-08-01",
       "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "São Caetano x EC São Bernardo",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x Sport Huancayo",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Girona x Arsenal",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-01",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Juventud",
-      "channels": [
-        "DISNEY+"
+        "FANATIZ"
       ]
     },
     {
@@ -258,20 +156,30 @@
       "sport": "futebol",
       "date": "2026-08-01",
       "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x Sport Huancayo",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Juventud",
       "channels": [
-        "FANATIZ"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-01",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x Sport Boys",
+      "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Girona x Arsenal",
       "channels": [
-        "FANATIZ"
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "São Caetano x EC São Bernardo",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -291,11 +199,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-01",
-      "time": "18:00",
-      "competition": "Copa Paulista",
-      "match": "XV de Piracicaba x Noroeste",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Atletico Grau x Sport Boys",
       "channels": [
-        "YOUTUBE"
+        "FANATIZ"
       ]
     },
     {
@@ -312,6 +220,16 @@
     {
       "sport": "futebol",
       "date": "2026-08-01",
+      "time": "18:00",
+      "competition": "Copa Paulista",
+      "match": "XV de Piracicaba x Noroeste",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
       "time": "18:30",
       "competition": "Campeonato Uruguaio",
       "match": "Penãrol x Cerro Largo",
@@ -322,9 +240,69 @@
     {
       "sport": "futebol",
       "date": "2026-08-01",
+      "time": "19:30",
+      "competition": "Copa Do Brasil",
+      "match": "Atlético-MG x Juventude",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Connecticut FC x Orlando City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
       "time": "20:30",
       "competition": "MLS",
-      "match": "FC Cincinnati x San Jose Earthquakes",
+      "match": "Montreal Impact x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "DC United x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Orlando City SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Philadelphia Union x Atlanta United FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Whitecaps x Los Angeles FC",
       "channels": [
         "APPLE TV"
       ]
@@ -337,6 +315,28 @@
       "match": "Inter Miami x Columbus Crew",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "20:30",
+      "competition": "Campeonato Argentino",
+      "match": "Racing Club x Tigre",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-01",
+      "time": "21:00",
+      "competition": "Copa Do Brasil",
+      "match": "Santos x Remo",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
       ]
     },
     {
@@ -691,7 +691,7 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.0,
+      "temp_max": 26.8,
       "temp_min": 18.4,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
@@ -705,7 +705,7 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.2,
+      "temp_max": 20.4,
       "temp_min": 12.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -725,19 +725,19 @@
       "data": "01/08 06:00"
     },
     {
-      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
-      "data": "31/07 21:45"
+      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
+      "data": "01/08 00:13"
     },
     {
-      "titulo": "Zubeldía explica motivo pelo qual Fluminense negociou o zagueiro Davi Schuindt - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdm1aQmJURHg0V2JES0NNcUNndWtqeGhhT2lSTGNlT29wSU5vaThHZjdrd2VBcFc0UUx6dVdnUmNGdXpTZktqZ3hCSkJBS3JqNWJlaTQ0d00wbi1ya0RndDZUU3dJSUtRSjdBUWRIQkMtQUNlWmdMdjcwWjdIVndCT0dZS0xDSk9RZmdGVVpBdmxLZE1XdmtXTWxHSVdQNm5BenBzSXl3LUE?oc=5",
-      "data": "01/08 22:39"
+      "titulo": "Ganso de saída? Luís Zubeldía abre o jogo sobre situação do camisa 10 no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY0hFYWI0aTRVOXdja09jTnNfVnZidmxyTUVtSVFKQmt2bHFCdDloTGF6VFRzNDN0VFFSbWltYjRWRERLM0ZWd2JVOWNyR3djdzJmTTNEdmllbHVUM05EcFdKd3lUNDRlcU1LLW5kcUVmM25nbkJKeG5vUzdnYTVIV1VaV0hJTU5nMEp0NjNRQ0lxYTBYLUVPeUdsc0RnNnRZYTFIY3NSQW1NbU9pUVlaOFdqUENDVzVlV05DR05fcnlYTzl2UDVlQ1V2OGVldnpfcVppSUlOLU0yZzI3b0Q1Skt1NTN3MENKbVhUX2ZkYWhlelIzS0tmdEc2eW9peDg?oc=5",
+      "data": "02/08 00:58"
     },
     {
-      "titulo": "Centroavante do Fluminense atrai interesse do Boca Juniors - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd2VsamxDdnF1cEVVbF9jUkFzcG4ydGZCMHZfSnBMUjBqc1RQZmdNUVdBdDB6eXdNMllqTTVhcUU0bmswczZ6NDVHU0dTcGVxa2lMYVFsOUVaVXg1M2VBRUV4WkxTdkdaT2M0RjFIX2JsOE9oTk5XMkRxUmdTWTNFREZLVHVYLUpxS0xKanpXaHg0bXRsSWRXaXpWSEVSVGdUajZNSFZqLUVOM2NsZHh0NTB1VVdRb0hCb1VoejQ5M0FDM2tjYVFmay1KQUs0aHQ3d2ZHRTlhS0E1TUxZT2VnQW95SQ?oc=5",
-      "data": "01/08 17:52"
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
+      "data": "31/07 16:26"
     },
     {
       "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
