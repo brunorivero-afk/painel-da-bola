@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 11:58",
+  "atualizado_em": "02/08/2026 13:03",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "Santo André x São José EC",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-02",
@@ -141,17 +130,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "17:00",
-      "competition": "NWSL Feminina",
-      "match": "Washington Spirit (F) x San Diego fave (F)",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "17:00",
       "competition": "MLS Next Pro",
       "match": "Chicago FC United x FC Cincinnati II",
       "channels": [
@@ -167,6 +145,17 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x San Diego fave (F)",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT"
       ]
     },
     {
@@ -317,6 +306,17 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "Santo André x São José EC",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-03",
       "time": "16:45",
       "competition": "Campeonato Argentino",
@@ -375,26 +375,6 @@ window.PAINEL_DATA = {
       "match": "Huracan x Atletico Tucuman",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "11:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "12:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -506,6 +486,26 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-02",
+      "time": "11:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-02",
+      "time": "12:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -550,14 +550,14 @@ window.PAINEL_DATA = {
       "data": "01/08 00:13"
     },
     {
-      "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
-      "data": "02/08 07:00"
+      "titulo": "Rabelo e Ignácio vão bem e Fluminense não é vazado em dois jogos seguidos pela 1ª vez no ano - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDlJSVdjbkJ0VFM4aFgzSmY0RzVEYWdGaXFLNWozSTNiRWhEM0JFNzdpWTBXUF9pcWtDMENFWmVPZUE4QjRmdEpUOTk5WXF3NEdvT1g5X3N1WWI5V2JyQmdHZlA2NVlhMnE2Q1A2WFRERV93ZU5ORjFHRmFfYlRUMWNHckFxTzI4TFdpQVJkWlBhWE5TTzVqOVZZbzJ3SHkyV3ljVnJpLXVhRWt1dlJxV1JvZTlNQkFTdE1z?oc=5",
+      "data": "02/08 11:58"
     },
     {
-      "titulo": "Rabello e Ignácio vão bem e Fluminense não é vazado em dois jogos seguidos pela 1ª vez no ano - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUFzQ1Z5UWpsV2lpWkxsWjRwVjlqNTNLLXRoVHIwYXJJbHNIalRWUHk1NldJZFFMTHQ4REI4SlVFd2VfeVRmQzBZT2dnQm9kcEd5RzRyTldneXNINDBVRkZjZEFwZEQtT2lpUlI2dFNPZnA4QXVzOHJfRTg3Z0F1dUZoeTV3SmVKNzl0cG1UQWdiME1RMjdBbGRCLWJwcktlUzNwQVBfTHY4TWZIVlBSUF81WTZVNFpVUEt0OA?oc=5",
-      "data": "02/08 13:56"
+      "titulo": "Igor Rabello destaca importância de estar preparado mesmo sem jogar no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamZyalJRRjlXeXFxbnNMWGdOd3hQZkZhWWdFd2RaeGRsOUI2SUVrbl9Hci1abGxELTFtSTFNdG02dDVDZ2lsVnc4ZUNWX3hNSXpHZkJLcC1yN3dLNUdjY3duN0pVWTdqX1h5QVZMN1RqTVgtb0h6SlRGTUktYnJBVV9FeTVnSzhPQkNxR0tGUXJuQUEyRjd5S3d0Z0dLQ2kxcE5HaFRPMFlKakxf?oc=5",
+      "data": "02/08 14:15"
     },
     {
       "titulo": "Fluminense volta a empatar cinco jogos oficiais seguidos após 34 anos - netflu.com.br",
