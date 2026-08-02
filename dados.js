@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 02:52",
+  "atualizado_em": "02/08/2026 05:14",
   "jogos": [
     {
       "sport": "futebol",
@@ -415,36 +415,36 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.2,
+      "temp_max": 28.3,
       "temp_min": 18.0,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.3,
-      "temp_min": 19.2,
+      "temp_max": 29.4,
+      "temp_min": 18.5,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.9,
-      "temp_min": 12.2,
+      "temp_max": 22.8,
+      "temp_min": 12.1,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.3,
-      "temp_min": 11.3,
+      "temp_max": 23.2,
+      "temp_min": 11.2,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
+      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
       "data": "31/07 21:33"
     },
@@ -454,14 +454,14 @@ window.PAINEL_DATA = {
       "data": "01/08 00:13"
     },
     {
-      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
-      "data": "01/08 06:00"
+      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
+      "data": "02/08 06:10"
     },
     {
-      "titulo": "Centroavante do Fluminense atrai interesse do Boca Juniors - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd2VsamxDdnF1cEVVbF9jUkFzcG4ydGZCMHZfSnBMUjBqc1RQZmdNUVdBdDB6eXdNMllqTTVhcUU0bmswczZ6NDVHU0dTcGVxa2lMYVFsOUVaVXg1M2VBRUV4WkxTdkdaT2M0RjFIX2JsOE9oTk5XMkRxUmdTWTNFREZLVHVYLUpxS0xKanpXaHg0bXRsSWRXaXpWSEVSVGdUajZNSFZqLUVOM2NsZHh0NTB1VVdRb0hCb1VoejQ5M0FDM2tjYVFmay1KQUs0aHQ3d2ZHRTlhS0E1TUxZT2VnQW95SQ?oc=5",
-      "data": "01/08 17:52"
+      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
+      "data": "01/08 06:00"
     },
     {
       "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
