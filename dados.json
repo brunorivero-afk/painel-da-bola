@@ -1,6 +1,16 @@
 {
-  "atualizado_em": "02/08/2026 08:58",
+  "atualizado_em": "02/08/2026 10:40",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "09:00",
+      "competition": "Campeonato Sueco",
+      "match": "IF Brommapojkarna x Malmo FF",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-08-02",
@@ -9,6 +19,17 @@
       "match": "Santo André x São José EC",
       "channels": [
         "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "11:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Santos (F) x Juventude (F)",
+      "channels": [
+        "NSPORTS",
         "YOUTUBE"
       ]
     },
@@ -35,6 +56,16 @@
     {
       "sport": "futebol",
       "date": "2026-08-02",
+      "time": "12:15",
+      "competition": "Campeonato Russo",
+      "match": "Krasnodar x Fakel Voronezh",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
       "time": "13:00",
       "competition": "Campeonato Peruano",
       "match": "Sporting Cristal x Juan Pablo II College",
@@ -45,11 +76,21 @@
     {
       "sport": "futebol",
       "date": "2026-08-02",
+      "time": "14:30",
+      "competition": "Campeonato Russo",
+      "match": "Akhmat Grozny x Spartak Moscow",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
       "time": "15:00",
       "competition": "Paulista Sub-20",
       "match": "Juventus Sub-20 x Santos Sub-20",
       "channels": [
-        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -82,8 +123,29 @@
       "channels": [
         "GLOBO",
         "SPORTV",
-        "PREMIERE",
+        "PREMIERE FC",
         "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "16:00",
+      "competition": "Copa Paulista",
+      "match": "Juventus x Primavera SP",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Boca Juniors",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -103,18 +165,8 @@
       "competition": "NWSL Feminina",
       "match": "Washington Spirit (F) x San Diego fave (F)",
       "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Newells Old Boys x Boca Juniors",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
+        "XSPORTS",
+        "CANAL GOAT"
       ]
     },
     {
@@ -134,7 +186,8 @@
       "competition": "Brasileirão Feminino",
       "match": "Ferroviária (F) x Bahia (F)",
       "channels": [
-        "NSPORTS"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -165,7 +218,7 @@
       "match": "Chapecoense-sc x Cruzeiro",
       "channels": [
         "SPORTV",
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -216,7 +269,8 @@
       "competition": "NWSL Feminina",
       "match": "Denver Summit (F) x Boston Legacy (F)",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -279,16 +333,6 @@
       "match": "Huracan x Atletico Tucuman",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "08:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Masculina de Vôlei - Final",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -425,28 +469,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.3,
-      "temp_min": 18.0,
+      "temp_max": 28.0,
+      "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.4,
-      "temp_min": 18.5,
+      "temp_max": 29.5,
+      "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.8,
-      "temp_min": 12.1,
+      "temp_max": 22.6,
+      "temp_min": 11.8,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.2,
+      "temp_max": 23.1,
       "temp_min": 11.2,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
@@ -469,14 +513,14 @@
       "data": "02/08 07:00"
     },
     {
-      "titulo": "ESCALAÇÃO DO FLUMINENSE PARA O JOGO CONTRA O VASCO PELA COPA DO BRASIL. - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbktfYlBQM2pTcWdYZ1RyTTF4SFc3RU1WbFJ0Q1g3Ti1ROFlyWHNBYkhvdGl5Vm83Y1JfR0pMN2RxTkswMkpYdWRyVURndXhDbUFWaGFYMVNIem5xOXU2SEVWVHE0dEQ5UUpKOHFKQ1VXX2I5WWlzOWJDZThKTjVOSVFDN2xsenBsVHZBYlBGUkdCSGVvS0RvV2QxeWF6QklBbEJySUVlLXgwWkFZWGhZ?oc=5",
-      "data": "01/08 22:17"
-    },
-    {
       "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
       "data": "31/07 16:26"
+    },
+    {
+      "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjF6X0J3SjF5X1UzYjBxUEp2NVVlVHZfOVlIUkI1cUk1VUc2aVlsQ0gwbzRoOGtXV0lwcm1iX09RamsxSU1Cc1QwRFgza2tqRTNiSmZwalhnUXRiX3JlR3pFVzdGRnlTamg0YlZvc3N0WUhrRXpOVFowQVF0b3RqZndENVlvSDNOdEozUWJCVnBFZGdyR1lqRlphWkpySWtLWHozTHUzQ09fWUUtemx4X2RJaFE2a3VXb3c?oc=5",
+      "data": "01/08 21:36"
     }
   ],
   "avisos": []
