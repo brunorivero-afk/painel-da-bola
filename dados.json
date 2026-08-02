@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "02/08/2026 17:49",
+  "atualizado_em": "02/08/2026 18:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -20,29 +20,6 @@
       "match": "Palmeiras (F) x Internacional (F)",
       "channels": [
         "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "16:00",
-      "competition": "Copa Paulista",
-      "match": "Juventus x Primavera SP",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "16:00",
-      "competition": "Copa Do Brasil",
-      "match": "Palmeiras x Fortaleza",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE FC",
-        "PRIME VIDEO"
       ]
     },
     {
@@ -91,21 +68,21 @@
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:00",
-      "competition": "Copa Do Brasil",
-      "match": "Mirassol x Grêmio",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Bahia (F)",
       "channels": [
-        "PRIME VIDEO"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Bahia (F)",
+      "competition": "Copa Do Brasil",
+      "match": "Mirassol x Grêmio",
       "channels": [
-        "NSPORTS",
-        "YOUTUBE"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -122,21 +99,21 @@
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:30",
-      "competition": "Copa Do Brasil",
-      "match": "Chapecoense-sc x Cruzeiro",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Progreso",
       "channels": [
-        "SPORTV",
-        "PREMIERE FC"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Progreso",
+      "competition": "Copa Do Brasil",
+      "match": "Chapecoense-sc x Cruzeiro",
       "channels": [
-        "DISNEY+"
+        "SPORTV",
+        "PREMIERE FC"
       ]
     },
     {
@@ -317,6 +294,29 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "16:00",
+      "competition": "Copa Paulista",
+      "match": "Juventus x Primavera SP",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "16:00",
+      "competition": "Copa Do Brasil",
+      "match": "Palmeiras x Fortaleza",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE FC",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-03",
       "time": "16:45",
       "competition": "Campeonato Argentino",
@@ -375,16 +375,6 @@
       "match": "Huracan x Atletico Tucuman",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "17:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -506,6 +496,16 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Final - Rio de Janeiro",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -550,19 +550,19 @@
       "data": "01/08 00:13"
     },
     {
-      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
-      "data": "02/08 06:10"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Botafogo x Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmxISGdhc01VX2lVVTYyZWVHbzd6VmJ5NF9rLW5XUnlLZGNKaVhPSklwLWxOLURCYzFzZUNNbnh5MThrQUtsUnF6RXNkS0d4ZWNhLTlGWHlCNm02REZxZE9RNmN4LWdCMm5rVkVMQ202WmdhRzZxTlhQbFB2RDNGXzRrZXFCNkc2Q1pqbGphUUlCaGg5SW5GbUtkR1d1dGlFZFBNZGw3aE4tZw?oc=5",
+      "data": "02/08 21:00"
     },
     {
-      "titulo": "É campeão! Flu de Feira vence o SSA, conquista a Série B invicto e faz a festa no Joia da Princesa - Folha do Estado da Bahia",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRmN4LTExZVE4UFZ1UHgydHZsVGxEdmJDUnBibkJNMlFZR05fRFF3WWtaQWNqMHBDYTNzNEFpc2JlQUZMaEQ4YzBmV2J6T2xKUmdKUU5VOHZGZE4zT3FPdGJNZlk3STdZSGg3WDF3NVd0bEJwQm5zRUFUd1ZsOTlwOUFEUmFvcjlwQnpzYndGUWlCNXlHNS1fd2wzZmt1RnBsUTNuRHAyNEtkNVZBTnNHYUkzUGhRNTV5dWlWZUNvRVUwdWU1RG9QUElqekF1Q2VWTTczUlVBaUlSZw?oc=5",
-      "data": "02/08 20:38"
+      "titulo": "Thiago Silva e Freytes continuam como desfalques do Fluminense contra o Vasco; veja prazo de recuperação - ge",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRTlBUmhrM2JReGVyQ2s5U01xQ1VqcnpFVHFLS19OZU1ZWldhSVZrNkMtaEhIWHBJczlvVkpxSFhlUl9zVm05ajV2T01yalJTSkF1NFF1eWVsTGNzQTZMRUVKY3VDTmVEWkVTVE03VjVXaXRQNDktQ2FRQnBoNU9CTVc3VzhjejV5STFrbGlmQWN1czBycTNSLWtHNURlOTdoYjN5cTV6ckZFNjBNd2N0d2lQVTg1T3JkbGt3amE2dFdCampFT1lJMjJyY1JTdDA4Y2RteGdGV3ZWOUZoN1FUMmNsdW1fOUFDa2p0R0UzY2VvWGtCQ3VCbGRxb3NOQUJJNk9DM9IBkwJBVV95cUxNVkNVQ0pxYmI1ZThwUGRUejZQcWlGSFdfRHYzcW1SQW8wMzE3a0ZDdVlNSzFqSmU5NWlRX21vT2ZEbnFuLThQS3JYRklPS2xyR3hzVkFTekVQOHFDd2p1d3JJZzRTSlMwc2tEdkpucEJuQVNWclB3VWxHdWF2WmluVG5FOFJBN0NZX01udjlsTEh6NlhhbFRBV2w4TlNWRnNjQTdoenRxemhRRWZPRGNwd0dsWlU2WE5nSndOd3hBQUJTeXFOc045Z0RrZDBETFRLTGZoNV9HN2J6d0tORUR3N1FhZkg1Z1l0VzBqWTVJZ3VJd3RTUllGODRkWHY3QU5pZDNHakpmanRMVUFSZnZ6ZFRmSQ?oc=5",
+      "data": "02/08 17:40"
     },
     {
-      "titulo": "Fluminense de Feira x SSA FC: onde assistir e tudo sobre a final da Série B do Baianão - Bahia.Ba",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXpORHRDcUEzdHJXR1dydjNJeG45Vy1HZURPaWVDMnk0VU1OSXlwWHduT19MYnY0Ni11Q19kbXJNTGlQc2RhZTdwU01fUG00MTVVTkVBZ1Bsbmg2RFNuREphdks0cHVBc3VLcXRZOVNFRFQzWXRrWHpZU2JWVTAyQng2UWZUcWpidGt3aUJLV0dzT2gzNWJNSkZTRUN4VTY0eENQa05IazJHaEl0a0VuRA?oc=5",
-      "data": "02/08 09:00"
+      "titulo": "Fluminense de Feira é campeão inédito da Série B - FBF",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ec2pNS1JpWTZMbU5TdndOYmc3OUo1eU1FQkFIbHBIdlhaNDNQQWtndGlteHRxMzNRSXE5MUZLSVdHaXFLSmxsbzlydnVFck9kOTlpSjdfTEE?oc=5",
+      "data": "02/08 21:00"
     }
   ],
   "avisos": []
