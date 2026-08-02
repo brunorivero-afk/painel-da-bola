@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 18:51",
+  "atualizado_em": "02/08/2026 19:52",
   "jogos": [
     {
       "sport": "futebol",
@@ -25,54 +25,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-02",
-      "time": "17:00",
+      "time": "18:00",
       "competition": "MLS Next Pro",
-      "match": "Chicago FC United x FC Cincinnati II",
+      "match": "New York RB II x New England II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "17:00",
-      "competition": "NWSL Feminina",
-      "match": "Washington Spirit (F) x San Diego fave (F)",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Newells Old Boys x Boca Juniors",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "UCV Moquegua x FBC Melgar",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Bahia (F)",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
       ]
     },
     {
@@ -89,10 +46,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York RB II x New England II",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Bahia (F)",
       "channels": [
-        "ONEFOOTBALL"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -141,21 +99,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Real Monarchs",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Santos Laguna",
       "channels": [
-        "ONEFOOTBALL"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Santos Laguna",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Real Monarchs",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -317,6 +275,48 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x FC Cincinnati II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x San Diego fave (F)",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Boca Juniors",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "UCV Moquegua x FBC Melgar",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-03",
       "time": "16:45",
       "competition": "Campeonato Argentino",
@@ -375,16 +375,6 @@ window.PAINEL_DATA = {
       "match": "Huracan x Atletico Tucuman",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "18:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -506,6 +496,16 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-02",
+      "time": "18:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Final - Rio de Janeiro",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -540,29 +540,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
+      "data": "31/07 21:45"
+    },
+    {
       "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
       "data": "02/08 07:00"
     },
     {
-      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
-      "data": "01/08 00:13"
+      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
+      "data": "02/08 06:10"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Botafogo x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmxISGdhc01VX2lVVTYyZWVHbzd6VmJ5NF9rLW5XUnlLZGNKaVhPSklwLWxOLURCYzFzZUNNbnh5MThrQUtsUnF6RXNkS0d4ZWNhLTlGWHlCNm02REZxZE9RNmN4LWdCMm5rVkVMQ202WmdhRzZxTlhQbFB2RDNGXzRrZXFCNkc2Q1pqbGphUUlCaGg5SW5GbUtkR1d1dGlFZFBNZGw3aE4tZw?oc=5",
-      "data": "02/08 21:00"
+      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
+      "data": "30/07 07:02"
     },
     {
-      "titulo": "Thiago Silva e Freytes continuam como desfalques do Fluminense contra o Vasco; veja prazo de recuperação - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRTlBUmhrM2JReGVyQ2s5U01xQ1VqcnpFVHFLS19OZU1ZWldhSVZrNkMtaEhIWHBJczlvVkpxSFhlUl9zVm05ajV2T01yalJTSkF1NFF1eWVsTGNzQTZMRUVKY3VDTmVEWkVTVE03VjVXaXRQNDktQ2FRQnBoNU9CTVc3VzhjejV5STFrbGlmQWN1czBycTNSLWtHNURlOTdoYjN5cTV6ckZFNjBNd2N0d2lQVTg1T3JkbGt3amE2dFdCampFT1lJMjJyY1JTdDA4Y2RteGdGV3ZWOUZoN1FUMmNsdW1fOUFDa2p0R0UzY2VvWGtCQ3VCbGRxb3NOQUJJNk9DM9IBkwJBVV95cUxNVkNVQ0pxYmI1ZThwUGRUejZQcWlGSFdfRHYzcW1SQW8wMzE3a0ZDdVlNSzFqSmU5NWlRX21vT2ZEbnFuLThQS3JYRklPS2xyR3hzVkFTekVQOHFDd2p1d3JJZzRTSlMwc2tEdkpucEJuQVNWclB3VWxHdWF2WmluVG5FOFJBN0NZX01udjlsTEh6NlhhbFRBV2w4TlNWRnNjQTdoenRxemhRRWZPRGNwd0dsWlU2WE5nSndOd3hBQUJTeXFOc045Z0RrZDBETFRLTGZoNV9HN2J6d0tORUR3N1FhZkg1Z1l0VzBqWTVJZ3VJd3RTUllGODRkWHY3QU5pZDNHakpmanRMVUFSZnZ6ZFRmSQ?oc=5",
-      "data": "02/08 17:40"
-    },
-    {
-      "titulo": "Fluminense de Feira é campeão inédito da Série B - FBF",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ec2pNS1JpWTZMbU5TdndOYmc3OUo1eU1FQkFIbHBIdlhaNDNQQWtndGlteHRxMzNRSXE5MUZLSVdHaXFLSmxsbzlydnVFck9kOTlpSjdfTEE?oc=5",
-      "data": "02/08 21:00"
+      "titulo": "Fluminense de Feira vence o Bahia, mas Tricolor conquista o Baianão Sub-20 2026 - Folha do Estado da Bahia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTXdrQjhUYXo2a3RELXlBSEJ0MzJmZ1k2OTRTYmloNm9jc1VJd25wbXlMWUk2bDNGQmxuTU1VTUp5RTFSRURjVXVXcXdmc1pacHVNV2U1NEgwcjIxdi02WndxejBsNE1MQlBSTjR0RzJJeEp6VjNIQkJ2TVJGOFlsZE91TkRvcnhTcU5oaXF0XzZhM3EtWjBxbnhCUEZ6SnVhbk5pR09acWxkQlhtN3BkRWY3OHN3Z28tMFlZeUlabFFZQQ?oc=5",
+      "data": "02/08 19:47"
     }
   ],
   "avisos": []
