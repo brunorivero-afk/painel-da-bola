@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 13:03",
+  "atualizado_em": "02/08/2026 14:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -20,26 +20,6 @@ window.PAINEL_DATA = {
       "match": "Palmeiras (F) x Internacional (F)",
       "channels": [
         "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "12:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Boston River",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "12:15",
-      "competition": "Campeonato Russo",
-      "match": "Krasnodar x Fakel Voronezh",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -140,22 +120,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Newells Old Boys x Boca Juniors",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x San Diego fave (F)",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "XSPORTS",
+        "CANAL GOAT"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "17:00",
-      "competition": "NWSL Feminina",
-      "match": "Washington Spirit (F) x San Diego fave (F)",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Boca Juniors",
       "channels": [
-        "XSPORTS",
-        "CANAL GOAT"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -317,6 +297,26 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "12:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Boston River",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "12:15",
+      "competition": "Campeonato Russo",
+      "match": "Krasnodar x Fakel Voronezh",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-03",
       "time": "16:45",
       "competition": "Campeonato Argentino",
@@ -375,16 +375,6 @@ window.PAINEL_DATA = {
       "match": "Huracan x Atletico Tucuman",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "13:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -506,6 +496,16 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-02",
+      "time": "13:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -540,19 +540,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
-      "data": "31/07 21:33"
+      "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
+      "data": "02/08 07:00"
     },
     {
-      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
-      "data": "01/08 00:13"
-    },
-    {
-      "titulo": "Rabelo e Ignácio vão bem e Fluminense não é vazado em dois jogos seguidos pela 1ª vez no ano - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDlJSVdjbkJ0VFM4aFgzSmY0RzVEYWdGaXFLNWozSTNiRWhEM0JFNzdpWTBXUF9pcWtDMENFWmVPZUE4QjRmdEpUOTk5WXF3NEdvT1g5X3N1WWI5V2JyQmdHZlA2NVlhMnE2Q1A2WFRERV93ZU5ORjFHRmFfYlRUMWNHckFxTzI4TFdpQVJkWlBhWE5TTzVqOVZZbzJ3SHkyV3ljVnJpLXVhRWt1dlJxV1JvZTlNQkFTdE1z?oc=5",
-      "data": "02/08 11:58"
+      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
+      "data": "31/07 21:45"
     },
     {
       "titulo": "Igor Rabello destaca importância de estar preparado mesmo sem jogar no Fluminense - netflu.com.br",
@@ -560,9 +555,14 @@ window.PAINEL_DATA = {
       "data": "02/08 14:15"
     },
     {
-      "titulo": "Fluminense volta a empatar cinco jogos oficiais seguidos após 34 anos - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0h1YWJGNXhjRjJIRS1GUFpIQk9rNnVZUHRPY3IxeDNGREhQLTlPVlRyYTZhbmJtcU9fZkc1SFp5QzhyS1JBVlV3Tmh0ZDYxVEZZcXFEbnczc1Q3ZGFOX3BuV05sb2dPaUdXbW82djJvOXp3QzhhVEh5NC02S2ljNUxVdDZZTjJtdXVldGQ4NTJycy1VdjIzb21xU1Q?oc=5",
-      "data": "02/08 14:33"
+      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
+      "data": "02/08 06:10"
+    },
+    {
+      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
+      "data": "31/07 16:26"
     }
   ],
   "avisos": []
