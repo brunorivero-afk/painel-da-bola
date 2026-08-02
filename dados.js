@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 05:14",
+  "atualizado_em": "02/08/2026 07:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -100,6 +100,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "17:00",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x San Diego fave (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
       "competition": "Campeonato Argentino",
       "match": "Newells Old Boys x Boca Juniors",
       "channels": [
@@ -115,6 +125,16 @@ window.PAINEL_DATA = {
       "match": "UCV Moquegua x FBC Melgar",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Bahia (F)",
+      "channels": [
+        "NSPORTS"
       ]
     },
     {
@@ -259,16 +279,6 @@ window.PAINEL_DATA = {
       "match": "Huracan x Atletico Tucuman",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "04:25",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -444,7 +454,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge.globo.com",
+      "titulo": "Escalação do Fluminense: Zubeldía tem opções escassas na zaga e volta de John Kennedy - ge",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHBudlRETlFRQjlfa001MUJZeFh4NlRVMGtRa3B5Y0gxVTNkUHpKZWprMmJtMWx3cVJfV280YmtwbHJQeFZtYlJraWxWZkpIVG9SRzJWREZfZFNMbDdwUFpRd3l5MDdtejY2ejI5QnBFX2Zyc0RPd3QxSEx5b3FHN2VGNnlDRFBEV0NOcWRrZ3F2bF9zOUo0MXY4WXd5VXZkQVVoLUFqXzZBcG1hSEhaUjVtTzg2aEp6X1FrYlV4VjlYdEhlWTFLT00xSENZQ1pjYlliS0JOcWNjamJtMGFqaXlPSzVYZTRfSS1V0gH6AUFVX3lxTE0tcHF1d2lwQVpfcjlGbVFqR0lqUkNjMDl1a1dvTVJsNGQ4dmkxWUdLSUo1eUxLeERZWm5MZW84RVN3Umd0ZnREUmtrcEFXa3ZkYUxzRmJmSWMzOERRUXV2cl9FNTdsU1pkZkI2emtGTWtLRUkwbF9TLWktR081WTFmSU9YUFFOckVBdkFxdHRhS0lpa1FsejhsLW43YzF1TTREUVkwekstVGs2eW1jUHJwUHJSc0VFckMwaHhwVXpkQkxKWFY3WW9vNm5zSHB4Rjl5R1loQTFOR0czMDlBRGdSM0lXa2tnTnVGOVVHTEwwUm5vY0V0MjRkbnc?oc=5",
       "data": "31/07 21:33"
     },
@@ -459,9 +469,9 @@ window.PAINEL_DATA = {
       "data": "02/08 06:10"
     },
     {
-      "titulo": "Vasco x Fluminense: onde assistir ao vivo, horário e escalações - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMWN4RTRSalRTaDNTV2xMcDJ2VkZMc05LcG8tNm9JUU9JS2haU0x0QWJfeWoyajl1RzRFcHNFZGRRQmNGMWJPNEg0V1FrUzdBcUNOT2ZiWDNwY2lsdnhxMGx6ZEtNT2I2Q1M4UmVWWjVPaVBteExMaFJpOEJPS3k2U3pudlV3REJGcHp3V0JpVHBVOXZnaEk1ejhiUVVVT1ZIZmVlMUZVNDd2bEZlN1paTlMyZWhTSVpHVnN0MXdIdnJLYWdUV2JrU1ZXbVJWZ9IB3AFBVV95cUxPUE9UMFV0YWFpM3BSRHFQcV9KWjAyeFY1NFhodXg0bFF3eTIxTmtQM2xwV0tjRVFGNmR0Q3dGVWN5TzJhd19sdWtYMktYanpUS0VhMUJIQThFcGlUNzVEdnVWTFRnN1VzMzRjd05DZ1FPR1ZfZWhnYzM2cTdsWEJBYkNLdVhkVGdmc3UwNWt4MXdaeEdnUUVvUFNoUHdvMDdEMmJDME1yZTB4aFlEblFNVjZ6R2pNQkQ5c0RfNEV1bllXMlc2N2tQYk5Jcm5vaFRoTF9GcnBCRS1GMWdJ?oc=5",
-      "data": "01/08 06:00"
+      "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
+      "data": "02/08 07:00"
     },
     {
       "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
