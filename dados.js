@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 10:40",
+  "atualizado_em": "02/08/2026 11:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "09:00",
-      "competition": "Campeonato Sueco",
-      "match": "IF Brommapojkarna x Malmo FF",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-02",
@@ -117,6 +107,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-02",
+      "time": "15:15",
+      "competition": "Campeonato Peruano",
+      "match": "ADT x Deportivo Garcilaso",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
       "time": "16:00",
       "competition": "Copa Do Brasil",
       "match": "Palmeiras x Fortaleza",
@@ -141,11 +141,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Newells Old Boys x Boca Juniors",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x San Diego fave (F)",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "XSPORTS",
+        "CANAL GOAT"
       ]
     },
     {
@@ -162,11 +162,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "17:00",
-      "competition": "NWSL Feminina",
-      "match": "Washington Spirit (F) x San Diego fave (F)",
+      "competition": "Campeonato Argentino",
+      "match": "Newells Old Boys x Boca Juniors",
       "channels": [
-        "XSPORTS",
-        "CANAL GOAT"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -265,12 +265,54 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-02",
+      "time": "20:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Santos Laguna",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "20:30",
+      "competition": "Campeonato Peruano",
+      "match": "Cienciano x Universitario",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
       "time": "22:00",
       "competition": "NWSL Feminina",
       "match": "Denver Summit (F) x Boston Legacy (F)",
       "channels": [
         "ESPN 4",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "22:05",
+      "competition": "Campeonato Mexicano",
+      "match": "Toluca x Necaxa",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "09:00",
+      "competition": "Campeonato Sueco",
+      "match": "IF Brommapojkarna x Malmo FF",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -513,14 +555,14 @@ window.PAINEL_DATA = {
       "data": "02/08 07:00"
     },
     {
-      "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLWN5WS03YVZBNXV4R040bk5pY1hSUGJ0eHQybXVLeDQtU29fTi1sRi1taVFDWjAwN1BxYkx4QU5UUUFQbG9sZ3U1dnliSjR3MmMybnh6MUZYdTd1SktPMm5GY05udTlZV0hVbFFoT2dTS1RkcV9kaWoxdVdkeE5SeDRhYmNibmRqRjFDZlpaSVEwMVYtSVQ4aExGbGUyVGdPd0hpbmN4ZW92VVZfZmIyYzZ1VWZTVXdxbVI2aHFTTXRJeVFMb1hJYmFxOTlBRlFCNUFadzlkOEZfb29YVGgwSExseFJzbHBYREpRTUUxZnE4R01aMF8zQ2ItQ2pvR29tRU1iT1Z3?oc=5",
-      "data": "31/07 16:26"
+      "titulo": "Rabello e Ignácio vão bem e Fluminense não é vazado em dois jogos seguidos pela 1ª vez no ano - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUFzQ1Z5UWpsV2lpWkxsWjRwVjlqNTNLLXRoVHIwYXJJbHNIalRWUHk1NldJZFFMTHQ4REI4SlVFd2VfeVRmQzBZT2dnQm9kcEd5RzRyTldneXNINDBVRkZjZEFwZEQtT2lpUlI2dFNPZnA4QXVzOHJfRTg3Z0F1dUZoeTV3SmVKNzl0cG1UQWdiME1RMjdBbGRCLWJwcktlUzNwQVBfTHY4TWZIVlBSUF81WTZVNFpVUEt0OA?oc=5",
+      "data": "02/08 13:56"
     },
     {
-      "titulo": "Atacante do Fluminense detona comportamento do árbitro Ramon Abatti Abel - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjF6X0J3SjF5X1UzYjBxUEp2NVVlVHZfOVlIUkI1cUk1VUc2aVlsQ0gwbzRoOGtXV0lwcm1iX09RamsxSU1Cc1QwRFgza2tqRTNiSmZwalhnUXRiX3JlR3pFVzdGRnlTamg0YlZvc3N0WUhrRXpOVFowQVF0b3RqZndENVlvSDNOdEozUWJCVnBFZGdyR1lqRlphWkpySWtLWHozTHUzQ09fWUUtemx4X2RJaFE2a3VXb3c?oc=5",
-      "data": "01/08 21:36"
+      "titulo": "Fluminense volta a empatar cinco jogos oficiais seguidos após 34 anos - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0h1YWJGNXhjRjJIRS1GUFpIQk9rNnVZUHRPY3IxeDNGREhQLTlPVlRyYTZhbmJtcU9fZkc1SFp5QzhyS1JBVlV3Tmh0ZDYxVEZZcXFEbnczc1Q3ZGFOX3BuV05sb2dPaUdXbW82djJvOXp3QzhhVEh5NC02S2ljNUxVdDZZTjJtdXVldGQ4NTJycy1VdjIzb21xU1Q?oc=5",
+      "data": "02/08 14:33"
     }
   ],
   "avisos": []
