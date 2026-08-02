@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/08/2026 14:58",
+  "atualizado_em": "02/08/2026 16:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -20,16 +20,6 @@ window.PAINEL_DATA = {
       "match": "Palmeiras (F) x Internacional (F)",
       "channels": [
         "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sporting Cristal x Juan Pablo II College",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -152,21 +142,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Bahia (F)",
+      "competition": "Copa Do Brasil",
+      "match": "Mirassol x Grêmio",
       "channels": [
-        "NSPORTS",
-        "YOUTUBE"
+        "PRIME VIDEO"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:00",
-      "competition": "Copa Do Brasil",
-      "match": "Mirassol x Grêmio",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Bahia (F)",
       "channels": [
-        "PRIME VIDEO"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -317,6 +307,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Juan Pablo II College",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-03",
       "time": "16:45",
       "competition": "Campeonato Argentino",
@@ -375,16 +375,6 @@ window.PAINEL_DATA = {
       "match": "Huracan x Atletico Tucuman",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-02",
-      "time": "15:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -506,58 +496,68 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-02",
+      "time": "15:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.0,
+      "temp_max": 29.1,
       "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.5,
+      "temp_max": 30.3,
       "temp_min": 17.8,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.6,
+      "temp_max": 23.0,
       "temp_min": 11.8,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 23.1,
       "temp_min": 11.2,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Poucas nuvens"
     }
   ],
   "noticias": [
     {
-      "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
+      "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
       "data": "02/08 07:00"
     },
     {
-      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
-      "data": "31/07 21:45"
+      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
+      "data": "01/08 00:13"
     },
     {
-      "titulo": "Igor Rabello destaca importância de estar preparado mesmo sem jogar no Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamZyalJRRjlXeXFxbnNMWGdOd3hQZkZhWWdFd2RaeGRsOUI2SUVrbl9Hci1abGxELTFtSTFNdG02dDVDZ2lsVnc4ZUNWX3hNSXpHZkJLcC1yN3dLNUdjY3duN0pVWTdqX1h5QVZMN1RqTVgtb0h6SlRGTUktYnJBVV9FeTVnSzhPQkNxR0tGUXJuQUEyRjd5S3d0Z0dLQ2kxcE5HaFRPMFlKakxf?oc=5",
-      "data": "02/08 14:15"
-    },
-    {
-      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - terra.com.br",
+      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - Terra",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
       "data": "02/08 06:10"
+    },
+    {
+      "titulo": "Fluminense de Feira x SSA FC: onde assistir e tudo sobre a final da Série B do Baianão - Bahia.Ba",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXpORHRDcUEzdHJXR1dydjNJeG45Vy1HZURPaWVDMnk0VU1OSXlwWHduT19MYnY0Ni11Q19kbXJNTGlQc2RhZTdwU01fUG00MTVVTkVBZ1Bsbmg2RFNuREphdks0cHVBc3VLcXRZOVNFRFQzWXRrWHpZU2JWVTAyQng2UWZUcWpidGt3aUJLV0dzT2gzNWJNSkZTRUN4VTY0eENQa05IazJHaEl0a0VuRA?oc=5",
+      "data": "02/08 09:00"
     },
     {
       "titulo": "Castillo, do Fluminense, entra na mira do Boca Juniors-ARG segundo jornalista argentino - Rádio Itatiaia",
