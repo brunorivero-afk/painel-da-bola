@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "03/08/2026 17:23",
+  "atualizado_em": "03/08/2026 19:04",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-03",
-      "time": "16:45",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Independ. Rivadavia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-03",
@@ -59,6 +49,16 @@
       "time": "21:15",
       "competition": "Campeonato Argentino",
       "match": "Huracan x Atletico Tucuman",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-03",
+      "time": "16:45",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Independ. Rivadavia",
       "channels": [
         "DISNEY+"
       ]
@@ -342,14 +342,9 @@
       "data": "02/08 21:00"
     },
     {
-      "titulo": "Empate na Copa do Brasil traz boas notícias para Fluminense e Vasco, apesar do futebol pobre - extra.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZEx6cFNHTlBucFJOZ1NKclNuT0JyVjgzQTA3TzlYdGJYR19OUVVnd3ZiOEN2T2ZVdlh6NXJGT1BLem4wdlQ1TVh6T0FZMUdXVkZkSzF3X0FjRVV5cEF3OFhUOE1MSHBIeGI4R3B2QnU3dHFaczRvcnhjV0JyNlRHLUoxMlhFNXVpYlJsNDFYZXhiR0dLTGZuVTY3dmJhQURTMllPbzJjZmFjYmNMNllWYzBDSzVXbTk2cWpsRFJoUkNFTDA2ZVRYc2lXUm94WW5ybnpDbF9lNGtKRVZKYVRGelppR01uOWdyOFo5Vkl4dUzSAf8BQVVfeXFMT3hVUllGU0RMMnU0Vjg4UnVDQUN6V3VmNnIxMzdtYUpWbFU1SGd0b0FUeEh0aHQtalRFOHVDTnVmTXdsMzV6cWc2TTVud1lvOWpCcWpFbjNGT1NuTXhPRGd1ZWk2Vk8xR0ZkTFdQTEJLRy1Qci1uQWFteUpBWnprRlNzSU1VcUFaZkFVNUdBZ1N4RlY5THhBVjJCeF9TaVNZZlAzY0ZuMFg2WmczUEJxMXRSLTRlVGRBVlJRTTBiZDF6WWk5WHFBQUpwSWdOWmNEVlBrb2FoWVNKcVBrVHh0MTBLNXJnVmxMVnhqOVlzZmdaYVh6alVaVXZHYWxTUzgw?oc=5",
-      "data": "03/08 07:00"
-    },
-    {
-      "titulo": "Zubeldía abre bastidores do Fluminense e admite desafio no elenco: \"Não é fácil\" - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVZ6YnI3b2F2US1yUVhSc19kZ0dSaDlvd2tpYzZMVzlTa3V6YUxTdG1xWlZwMEREdFdtTzBNUmFXU2ZxY1JlOERhX0JKd0puSWRnZlpDSUw0c3RSejl1cVd4b0VQZzJTckVTVnVWWnUxOXdQV3B3am9aUGw1NldHQVJEY2cxTVZvUm56cldNcmF6VFVLVlU2R2pPc29Hd1BBbzFGMVRXRQ?oc=5",
-      "data": "03/08 16:30"
+      "titulo": "Ídolo do Fluminense, Fred comanda primeiro treinamento como técnico da base - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0Nud19sa1NIX3VxRzN1el9YWTZVYlRsRkd1QWMxbE5xN0ZyNU4zZnR4VXNMQXdWODlTb0ktZ2labGRxaTh3enJBRTRMRDBjT3NzOUJQZVd0RXVPazIxNjltWHhYd2pkc2VMVjhXa1NfcVQyekRIaEpPaTk4b0YtaFNQMlR4ZGJpSm04TGpTQ3pzVFVwRXZ5T0Q2VVdSM1gwa2Zmd1l6bVY1T1otLUQxMDlNY2FSZ190V0ZuNFZyc3pyaHhlcE5hXzJKRGtEbVJYYS1oVkI5ZGJjU21CWGNwYjA4bUpwMDQxNF9nQ1RLT05WTkQ2aTZv?oc=5",
+      "data": "03/08 20:34"
     },
     {
       "titulo": "Fred se apresenta em Xerém e inicia trabalho como técnico do Sub-20 do Fluminense: \"Muito feliz\" - fluminense.com.br",
@@ -360,6 +355,11 @@
       "titulo": "Thiago Silva e Freytes continuam como desfalques do Fluminense contra o Vasco; veja prazo de recuperação - ge",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRTlBUmhrM2JReGVyQ2s5U01xQ1VqcnpFVHFLS19OZU1ZWldhSVZrNkMtaEhIWHBJczlvVkpxSFhlUl9zVm05ajV2T01yalJTSkF1NFF1eWVsTGNzQTZMRUVKY3VDTmVEWkVTVE03VjVXaXRQNDktQ2FRQnBoNU9CTVc3VzhjejV5STFrbGlmQWN1czBycTNSLWtHNURlOTdoYjN5cTV6ckZFNjBNd2N0d2lQVTg1T3JkbGt3amE2dFdCampFT1lJMjJyY1JTdDA4Y2RteGdGV3ZWOUZoN1FUMmNsdW1fOUFDa2p0R0UzY2VvWGtCQ3VCbGRxb3NOQUJJNk9DM9IBkwJBVV95cUxNVkNVQ0pxYmI1ZThwUGRUejZQcWlGSFdfRHYzcW1SQW8wMzE3a0ZDdVlNSzFqSmU5NWlRX21vT2ZEbnFuLThQS3JYRklPS2xyR3hzVkFTekVQOHFDd2p1d3JJZzRTSlMwc2tEdkpucEJuQVNWclB3VWxHdWF2WmluVG5FOFJBN0NZX01udjlsTEh6NlhhbFRBV2w4TlNWRnNjQTdoenRxemhRRWZPRGNwd0dsWlU2WE5nSndOd3hBQUJTeXFOc045Z0RrZDBETFRLTGZoNV9HN2J6d0tORUR3N1FhZkg1Z1l0VzBqWTVJZ3VJd3RTUllGODRkWHY3QU5pZDNHakpmanRMVUFSZnZ6ZFRmSQ?oc=5",
       "data": "02/08 17:40"
+    },
+    {
+      "titulo": "Fluminense de Feira vence o SSA FC e conquista a Série B do Baianão - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVc0Q292clp4eV9HSXA3OFVCMUl4WEx2VDU2LWhjVjBKdHBWUFJvOXFzTWpvY09RZGhXSm94ZHhXOV9oR3dyMWRGaUpPMWN2RWJsV1NTa3NlTlphdXhSclpCVW1XdFJzNVA1RVJySUxybElPMUtWTnh5NFlrd3dZNll0UHUzbUZXZDZETFRRMERhcHI2aWFrWUpHNGszSTJ2REVleUtnSTFyQdIBsgFBVV95cUxQOFBlMlZiVEFndHZnc1J4dDZnd2FEeU5iMXdaZ2dZQzB0M0g5UVA2UTEwaXQ4SjRSenhsZHE4SDNZdGI1RlpIcEgxcjA2UGRPYUhXSVk5alc5Q2hmUGxtb0lfUnFqLW5yeXVkY0hiVkJxNVdCdFIxaTdJSDdMQXBDaGlnNU41TlJVYjh5NkR2TW9IOWtQdzJLdUlGcXk2alpEc0pBU25WeVhURXlqOEpOeldR?oc=5",
+      "data": "02/08 21:24"
     }
   ],
   "avisos": []
