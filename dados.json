@@ -1,90 +1,6 @@
 {
-  "atualizado_em": "02/08/2026 20:54",
+  "atualizado_em": "02/08/2026 23:25",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "11:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Santos (F) x Juventude (F)",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "11:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Palmeiras (F) x Internacional (F)",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Bahia (F)",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "19:15",
-      "competition": "Campeonato Argentino",
-      "match": "River Plate x Rosario Central",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "19:30",
-      "competition": "Copa Do Brasil",
-      "match": "Internacional x Corinthians",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Santos Laguna",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Real Monarchs",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "20:30",
-      "competition": "Campeonato Peruano",
-      "match": "Cienciano x Universitario",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-02",
@@ -126,6 +42,27 @@
       "channels": [
         "XSPORTS",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "11:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Santos (F) x Juventude (F)",
+      "channels": [
+        "NSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "11:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Palmeiras (F) x Internacional (F)",
+      "channels": [
+        "SPORTV"
       ]
     },
     {
@@ -174,7 +111,7 @@
       "date": "2026-08-02",
       "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "Juventus Sub-20 x Santos Sub-20",
+      "match": "Mauá Sub-20 x Palmeiras Sub-20",
       "channels": [
         "YOUTUBE"
       ]
@@ -184,7 +121,7 @@
       "date": "2026-08-02",
       "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "Mauá Sub-20 x Palmeiras Sub-20",
+      "match": "Juventus Sub-20 x Santos Sub-20",
       "channels": [
         "YOUTUBE"
       ]
@@ -213,16 +150,6 @@
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "16:00",
-      "competition": "Copa Paulista",
-      "match": "Juventus x Primavera SP",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-02",
-      "time": "16:00",
       "competition": "Copa Do Brasil",
       "match": "Palmeiras x Fortaleza",
       "channels": [
@@ -235,11 +162,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-02",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Chicago FC United x FC Cincinnati II",
+      "time": "16:00",
+      "competition": "Copa Paulista",
+      "match": "Juventus x Primavera SP",
       "channels": [
-        "ONEFOOTBALL"
+        "YOUTUBE"
       ]
     },
     {
@@ -251,6 +178,16 @@
       "channels": [
         "XSPORTS",
         "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x FC Cincinnati II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -278,10 +215,11 @@
       "sport": "futebol",
       "date": "2026-08-02",
       "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York RB II x New England II",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Bahia (F)",
       "channels": [
-        "ONEFOOTBALL"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -292,6 +230,16 @@
       "match": "Mirassol x Grêmio",
       "channels": [
         "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "New York RB II x New England II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -313,6 +261,58 @@
       "match": "Club Nacional x Progreso",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "19:15",
+      "competition": "Campeonato Argentino",
+      "match": "River Plate x Rosario Central",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "19:30",
+      "competition": "Copa Do Brasil",
+      "match": "Internacional x Corinthians",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Real Monarchs",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "20:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Santos Laguna",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-02",
+      "time": "20:30",
+      "competition": "Campeonato Peruano",
+      "match": "Cienciano x Universitario",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -525,7 +525,7 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.0,
+      "temp_max": 23.2,
       "temp_min": 11.8,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
@@ -550,6 +550,11 @@
       "data": "01/08 00:13"
     },
     {
+      "titulo": "O Fluminense de Feira conquistou o título da Série B do Campeonato Baiano após vencer o SSA FC por 2 a 0, com placar agregado de 4 a 1. Os gols da decisão, disputada neste domingo (2), foram marcados por Tiago Recife e Cássio. O retorno à primeira d - instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yTVBzc01ncjFocFRoYnZKSk9ndmM5RUxvWnhKdndwRy0yb1JVT0pwRk91Vl9OazJaMjk1dFktcndfWWhKVU1WdG9mdW4zWEVrby00dklB?oc=5",
+      "data": "02/08 21:07"
+    },
+    {
       "titulo": "Brasileirão 2026: Informações de ingressos para Botafogo x Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmxISGdhc01VX2lVVTYyZWVHbzd6VmJ5NF9rLW5XUnlLZGNKaVhPSklwLWxOLURCYzFzZUNNbnh5MThrQUtsUnF6RXNkS0d4ZWNhLTlGWHlCNm02REZxZE9RNmN4LWdCMm5rVkVMQ202WmdhRzZxTlhQbFB2RDNGXzRrZXFCNkc2Q1pqbGphUUlCaGg5SW5GbUtkR1d1dGlFZFBNZGw3aE4tZw?oc=5",
       "data": "02/08 21:00"
@@ -558,11 +563,6 @@
       "titulo": "Thiago Silva e Freytes continuam como desfalques do Fluminense contra o Vasco; veja prazo de recuperação - ge",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRTlBUmhrM2JReGVyQ2s5U01xQ1VqcnpFVHFLS19OZU1ZWldhSVZrNkMtaEhIWHBJczlvVkpxSFhlUl9zVm05ajV2T01yalJTSkF1NFF1eWVsTGNzQTZMRUVKY3VDTmVEWkVTVE03VjVXaXRQNDktQ2FRQnBoNU9CTVc3VzhjejV5STFrbGlmQWN1czBycTNSLWtHNURlOTdoYjN5cTV6ckZFNjBNd2N0d2lQVTg1T3JkbGt3amE2dFdCampFT1lJMjJyY1JTdDA4Y2RteGdGV3ZWOUZoN1FUMmNsdW1fOUFDa2p0R0UzY2VvWGtCQ3VCbGRxb3NOQUJJNk9DM9IBkwJBVV95cUxNVkNVQ0pxYmI1ZThwUGRUejZQcWlGSFdfRHYzcW1SQW8wMzE3a0ZDdVlNSzFqSmU5NWlRX21vT2ZEbnFuLThQS3JYRklPS2xyR3hzVkFTekVQOHFDd2p1d3JJZzRTSlMwc2tEdkpucEJuQVNWclB3VWxHdWF2WmluVG5FOFJBN0NZX01udjlsTEh6NlhhbFRBV2w4TlNWRnNjQTdoenRxemhRRWZPRGNwd0dsWlU2WE5nSndOd3hBQUJTeXFOc045Z0RrZDBETFRLTGZoNV9HN2J6d0tORUR3N1FhZkg1Z1l0VzBqWTVJZ3VJd3RTUllGODRkWHY3QU5pZDNHakpmanRMVUFSZnZ6ZFRmSQ?oc=5",
       "data": "02/08 17:40"
-    },
-    {
-      "titulo": "O Fluminense de Feira conquistou o título da Série B do Campeonato Baiano após vencer o SSA FC por 2 a 0, com placar agregado de 4 a 1. Os gols da decisão, disputada neste domingo (2), foram marcados por Tiago Recife e Cássio. O retorno à primeira d - instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yTVBzc01ncjFocFRoYnZKSk9ndmM5RUxvWnhKdndwRy0yb1JVT0pwRk91Vl9OazJaMjk1dFktcndfWWhKVU1WdG9mdW4zWEVrby00dklB?oc=5",
-      "data": "02/08 21:07"
     }
   ],
   "avisos": []
