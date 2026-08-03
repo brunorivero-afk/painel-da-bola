@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "03/08/2026 07:38",
+  "atualizado_em": "03/08/2026 10:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -308,29 +308,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.4,
+      "temp_max": 25.0,
       "temp_min": 18.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.1,
+      "temp_max": 27.9,
       "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.9,
-      "temp_min": 12.8,
+      "temp_max": 23.5,
+      "temp_min": 12.4,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 22.0,
-      "temp_min": 13.6,
+      "temp_min": 13.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
@@ -342,17 +342,17 @@ window.PAINEL_DATA = {
       "data": "31/07 21:45"
     },
     {
-      "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
-      "data": "02/08 07:00"
+      "titulo": "Empate na Copa do Brasil traz boas notícias para Fluminense e Vasco, apesar do futebol pobre - Extra online",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZEx6cFNHTlBucFJOZ1NKclNuT0JyVjgzQTA3TzlYdGJYR19OUVVnd3ZiOEN2T2ZVdlh6NXJGT1BLem4wdlQ1TVh6T0FZMUdXVkZkSzF3X0FjRVV5cEF3OFhUOE1MSHBIeGI4R3B2QnU3dHFaczRvcnhjV0JyNlRHLUoxMlhFNXVpYlJsNDFYZXhiR0dLTGZuVTY3dmJhQURTMllPbzJjZmFjYmNMNllWYzBDSzVXbTk2cWpsRFJoUkNFTDA2ZVRYc2lXUm94WW5ybnpDbF9lNGtKRVZKYVRGelppR01uOWdyOFo5Vkl4dUzSAf8BQVVfeXFMT3hVUllGU0RMMnU0Vjg4UnVDQUN6V3VmNnIxMzdtYUpWbFU1SGd0b0FUeEh0aHQtalRFOHVDTnVmTXdsMzV6cWc2TTVud1lvOWpCcWpFbjNGT1NuTXhPRGd1ZWk2Vk8xR0ZkTFdQTEJLRy1Qci1uQWFteUpBWnprRlNzSU1VcUFaZkFVNUdBZ1N4RlY5THhBVjJCeF9TaVNZZlAzY0ZuMFg2WmczUEJxMXRSLTRlVGRBVlJRTTBiZDF6WWk5WHFBQUpwSWdOWmNEVlBrb2FoWVNKcVBrVHh0MTBLNXJnVmxMVnhqOVlzZmdaYVh6alVaVXZHYWxTUzgw?oc=5",
+      "data": "03/08 07:00"
     },
     {
-      "titulo": "Fluminense de Zubeldía utiliza menos a base; veja números - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEtZUFBZMlhfX1kxNWpLanc1SVdBcmRVOTJQaXNBZVFyY1l3Q3lYWll2NmVxd19PWWxwUUtCRkZuTVNhTWs1MFJVeFVYVnVlSGRYZ05mOG5XUmE2ZHlzeWEtd2xfOHItaTRNeV90SE9VOElkZnFLQnBSbG53eHJRbjZJTW9GYUsxaVlITGx0Y2dIYVNqdDEzOXZYbGV5M2NXT0gwczVkUTJJdmhY?oc=5",
-      "data": "03/08 09:00"
+      "titulo": "Veja motivos que fizeram John Kennedy desbancar Hulk na disputa pela titularidade no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORllPRUxCZWNtUDFTYjJCZ2NUUDZmaDhsRUU3c3FOQU5qTjNZMDd4VW1QZEFCZkFzZ0tUMFQwSzlJT2JsWGkwSFdMU3BvZnhITHFsSm5rblZmR1BOZ09DeFNuWTI0VHloRTFOMWNHR0FuRTNGRUY3UnRaRzJKa3g1bFZ3VzBqR2hsM0tYSFNzVHpFdHdUQUUxSnFySGVxVmowLTgyZzU1aEFkMENDczVWN0xnSEdSVHd6ZV9LNFVZbzlTYTFRUVJYS0dGSi0yME1pVzdQeGVHS0E2WjlfdFpFSE9tS1AzZU1HOW4tTDZ0NFdpZXNMaEVPRUpB0gGIAkFVX3lxTE1hcXlOV2pUZ052djlhTWtiN3JJM0RpRUk5c3RqcDBxS29wTHpnUjdEYjI1SDFKMkltbWMwTVEtUW50TER5VUhmZTN0bGxGa3FMS3k2aDNVcmxhTmhYdVJQRFYySXFlTDVjYjRSSFpfWnNqbEY0NE9FLUZMN0pHVzctaHUxYXBWRlpxVXJncTdNNXJ1NGxnanZ4WXQ3SWsxTTItRnk3SDljNnB4cWQ4b1g2QlZPUzZEM3BzMVNlUHlHVmJZTjBPLTAzS3VxZ01kX0lJSEZTaEszRTRnSzFrekJObGFRWWk1T05DclRET05sMGFpdnQwalp3Z0czYkpYS1Y5Z1U3Smh3eA?oc=5",
+      "data": "03/08 07:00"
     },
     {
-      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - terra.com.br",
+      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - Terra",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
       "data": "02/08 06:10"
     },
