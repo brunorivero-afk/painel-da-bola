@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 03:17",
+  "atualizado_em": "03/08/2026 07:38",
   "jogos": [
     {
       "sport": "futebol",
@@ -308,58 +308,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.0,
-      "temp_min": 19.2,
+      "temp_max": 25.4,
+      "temp_min": 18.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.7,
-      "temp_min": 18.5,
+      "temp_max": 28.1,
+      "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.3,
-      "temp_min": 13.4,
+      "temp_max": 23.9,
+      "temp_min": 12.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.5,
-      "temp_min": 13.5,
+      "temp_max": 22.0,
+      "temp_min": 13.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
+      "titulo": "Oitavas de final Libertadores 2026: Informações de ingressos para Fluminense x Independiente Rivadavia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVaaS1YY290dW82ZERTdFVrZFphZi1WeEwzYzB6b25VMEtJWnhTQnFSRnZodUdOaGNrc1NuV3BjYlYtNGl6aFdjQjJTM0kwRTBjVzZPTEtudkIwV2JKcC0yM01kM1FXbXVPNDM1M1dEelMwVmRwa0pkSVJkd2hTbXNmbEhUZ0IwbDhsNXl4Y1hVS3h1VmxjenI0MnpNMVJlcVBqQjB5ODdiVlZrM0huQktmSHN0UTBNTUczdkRWN1NZWFVOQTFzYThwZzdJWlFTdFpQN3h3?oc=5",
+      "data": "31/07 21:45"
+    },
+    {
       "titulo": "Análise: Fluminense repete sina de desperdiçar chances e deixa confronto aberto para jogo da volta - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdEhTSkF1bGFIek01VU9TYXFjRGRVVnhZZE5IR2lrcGppWGtSYXdIN3g2R0xaalV2NFRXakpQd09rRWsxQm5tdDlZa0RSV3NZVEU5WEhNZDZOSVgzcXoxWDFNLXo3bzFIVmFqTjZmR05GTDZ5NS1uYllaa18zaGlHbUZLaHpLN2xuckEtbWlRYjAzYUlWbmZNNmtzVVRsVjczdERsbGZORW9YQ3Y1VE1xMTFFeTk0ajVYcmZBaTFGUG5BR2FxY0habmk4ZEpfVmp2dXlaNHBDakhCUHFnQ0NTLXdqckpqZXpsLWlLNzhydXpyX2dTN3ZvODRRaFfSAYsCQVVfeXFMTzhUMnY2SWl3T3lYUmJkSFRfWUhsZ18xdjhsQjByOFl0ZVdibEg2bV9Qb3hLWUhkTmQyUkZCbUtGWTNWX25YRVZFTkpmRXdLMEJ0Tm9RdjZLLTA2Y05tNndvaGp5RDhDaUdXLVhnWEtHVTQxVUFNSHpCV1BlUUJGUVlsamx5OTlSeTdpQXdONnNkVXFSdGM2bDlteGV6S2c0WTZqQlFBM2FZcW1YLXlvZnk4QkpONkFMRU10SWRzTHRqSGlVcDZzaUVqWHUxNU5JY3UxWGVKbWxrSi1MdTZ3YzVsVlZocGNIMmROOVRhWFJzckJoNXgyYjZxUHZReHk1R3JTclUyOTZlR0Nj?oc=5",
       "data": "02/08 07:00"
     },
     {
-      "titulo": "Conselho Deliberativo do Fluminense aprova contas de 2025 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDFIVURUc3VzWk5UN3pBTl9vakpOc2drMk9Qb0tHWnFnSm1aLS00TGVaRkhwcHJORkJJaEJhVmJydlVwajJQU0hmQ0tPMERtTGt6R1FweEhMbGxDS2poMERrUzRJU2U2UVdHMW5xSDktS0tlTU02QnMwb3lmTC1sMkl0UmZ2ejUyc1FUajZaYlhYanBjSXVqSU5Zdw?oc=5",
-      "data": "01/08 00:13"
+      "titulo": "Fluminense de Zubeldía utiliza menos a base; veja números - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEtZUFBZMlhfX1kxNWpLanc1SVdBcmRVOTJQaXNBZVFyY1l3Q3lYWll2NmVxd19PWWxwUUtCRkZuTVNhTWs1MFJVeFVYVnVlSGRYZ05mOG5XUmE2ZHlzeWEtd2xfOHItaTRNeV90SE9VOElkZnFLQnBSbG53eHJRbjZJTW9GYUsxaVlITGx0Y2dIYVNqdDEzOXZYbGV5M2NXT0gwczVkUTJJdmhY?oc=5",
+      "data": "03/08 09:00"
     },
     {
-      "titulo": "O Fluminense de Feira conquistou o título da Série B do Campeonato Baiano após vencer o SSA FC por 2 a 0, com placar agregado de 4 a 1. Os gols da decisão, disputada neste domingo (2), foram marcados por Tiago Recife e Cássio. O retorno à primeira d - instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yTVBzc01ncjFocFRoYnZKSk9ndmM5RUxvWnhKdndwRy0yb1JVT0pwRk91Vl9OazJaMjk1dFktcndfWWhKVU1WdG9mdW4zWEVrby00dklB?oc=5",
-      "data": "02/08 21:07"
+      "titulo": "Boca Juniors pode tirar Rodrigo Castillo do Fluminense? Veja decisão do atacante - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSE1qWWhERWZKdlZMMFpvNUlEUW5wRURIdmJJLV90N0R3dFN0S09PeDNOeUlscVUyaWhiR3ZzdmdQa1MyQVpQUnRyZ3ZlRDlZOHNLYkRSdlJwZEtLVUNQem1PdFotRjJjMlUtTk9QOWp0N3hTQjJfYlJ0c3Jhel81LTh2UzFIOGhYWDJOWWNrRHJnZ1lrdXVaRkVsSzhQSGNScUVnVVhqMnJLeXcxbzhiVC1NM1FDeGpQbjVwME1IVUJBU0RyM09DT0Fvb0ZBeFN4c09LYW1VSTRHS0pzWVFVMVk2eFZiZXI4Znh0S0VfYkM5d1lvcTdSQWVxTQ?oc=5",
+      "data": "02/08 06:10"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Botafogo x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmxISGdhc01VX2lVVTYyZWVHbzd6VmJ5NF9rLW5XUnlLZGNKaVhPSklwLWxOLURCYzFzZUNNbnh5MThrQUtsUnF6RXNkS0d4ZWNhLTlGWHlCNm02REZxZE9RNmN4LWdCMm5rVkVMQ202WmdhRzZxTlhQbFB2RDNGXzRrZXFCNkc2Q1pqbGphUUlCaGg5SW5GbUtkR1d1dGlFZFBNZGw3aE4tZw?oc=5",
-      "data": "02/08 21:00"
-    },
-    {
-      "titulo": "Fluminense de Feira é campeão inédito da Série B - FBF",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ec2pNS1JpWTZMbU5TdndOYmc3OUo1eU1FQkFIbHBIdlhaNDNQQWtndGlteHRxMzNRSXE5MUZLSVdHaXFLSmxsbzlydnVFck9kOTlpSjdfTEE?oc=5",
-      "data": "02/08 21:00"
+      "titulo": "Fluminense de Feira vence o SSA FC e conquista a Série B do Baianão - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVc0Q292clp4eV9HSXA3OFVCMUl4WEx2VDU2LWhjVjBKdHBWUFJvOXFzTWpvY09RZGhXSm94ZHhXOV9oR3dyMWRGaUpPMWN2RWJsV1NTa3NlTlphdXhSclpCVW1XdFJzNVA1RVJySUxybElPMUtWTnh5NFlrd3dZNll0UHUzbUZXZDZETFRRMERhcHI2aWFrWUpHNGszSTJ2REVleUtnSTFyQdIBsgFBVV95cUxQOFBlMlZiVEFndHZnc1J4dDZnd2FEeU5iMXdaZ2dZQzB0M0g5UVA2UTEwaXQ4SjRSenhsZHE4SDNZdGI1RlpIcEgxcjA2UGRPYUhXSVk5alc5Q2hmUGxtb0lfUnFqLW5yeXVkY0hiVkJxNVdCdFIxaTdJSDdMQXBDaGlnNU41TlJVYjh5NkR2TW9IOWtQdzJLdUlGcXk2alpEc0pBU25WeVhURXlqOEpOeldR?oc=5",
+      "data": "02/08 21:24"
     }
   ],
   "avisos": []
