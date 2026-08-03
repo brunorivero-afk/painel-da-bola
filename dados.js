@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "03/08/2026 13:19",
+  "atualizado_em": "03/08/2026 15:47",
   "jogos": [
     {
       "sport": "futebol",
@@ -308,28 +308,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.0,
+      "temp_max": 24.9,
       "temp_min": 18.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.9,
+      "temp_max": 28.3,
       "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.5,
+      "temp_max": 23.4,
       "temp_min": 12.4,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.0,
+      "temp_max": 22.1,
       "temp_min": 13.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -342,22 +342,22 @@ window.PAINEL_DATA = {
       "data": "31/07 21:45"
     },
     {
-      "titulo": "Zubeldía projeta comunicação com Fred no sub-20 do Fluminense e desafios com promessas - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTXB2ZFZodWxHdHBDZVRMNVA3LXlRNE5aMlRxYVhIbWluMDM3QkNzSWZOTWxNVENIS3EwWERkbkpKRHA0a2hJd0g2blJkRTMtdU9lc19hcjNTZW5tSUpId1ZURjdQSVVBQ1hPcWZyUmNjR3h0T3JRUm1kZV8zSWFsaXFzeTZzLVdQNDBYNk9MQ2tEV2FDazVZZnJiWENqdUxxejQyZUJYZTY3dzhlUE5DUHNlNjZpcGRvZ0ozYUVmN0NacVNoU0VZR1FXQjBIclVENUpiZEEybTh5TU9MaUtYM0JjdTRtbld6VTZLSHVR0gH8AUFVX3lxTE5pUWp0b0pqTDZNc3BDY2dYT3pFQnVhSndDVzB6T3ZVUTBCR2F5Qjh2RWRXRFVnNlFyV0Vud2plaTE2WHpSejF1TXlOMEc4UUc3dm03Rm5uQ0FOenkzQ0JnTmxSbThHT1A2TXl2TndDaEJ6TXlKYUhjbV9kM2s3bnpUUXNiTlRrNTBqVjRsaWxWM3o5X1dpaXBISDdfVE5KdzZvQWtRWFcwa0V5VWJ1VUphN1pTSzFPZzNYc0tCd2dmbXhuSWVGUUo0bDFSTXZjQjNJejZUcmdWcF9EdEhHckpDbk8tTFROYlB4Sk5rbmFSMFdDSk8wU1gyemlwNw?oc=5",
-      "data": "03/08 13:00"
+      "titulo": "Empate na Copa do Brasil traz boas notícias para Fluminense e Vasco, apesar do futebol pobre - extra.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZEx6cFNHTlBucFJOZ1NKclNuT0JyVjgzQTA3TzlYdGJYR19OUVVnd3ZiOEN2T2ZVdlh6NXJGT1BLem4wdlQ1TVh6T0FZMUdXVkZkSzF3X0FjRVV5cEF3OFhUOE1MSHBIeGI4R3B2QnU3dHFaczRvcnhjV0JyNlRHLUoxMlhFNXVpYlJsNDFYZXhiR0dLTGZuVTY3dmJhQURTMllPbzJjZmFjYmNMNllWYzBDSzVXbTk2cWpsRFJoUkNFTDA2ZVRYc2lXUm94WW5ybnpDbF9lNGtKRVZKYVRGelppR01uOWdyOFo5Vkl4dUzSAf8BQVVfeXFMT3hVUllGU0RMMnU0Vjg4UnVDQUN6V3VmNnIxMzdtYUpWbFU1SGd0b0FUeEh0aHQtalRFOHVDTnVmTXdsMzV6cWc2TTVud1lvOWpCcWpFbjNGT1NuTXhPRGd1ZWk2Vk8xR0ZkTFdQTEJLRy1Qci1uQWFteUpBWnprRlNzSU1VcUFaZkFVNUdBZ1N4RlY5THhBVjJCeF9TaVNZZlAzY0ZuMFg2WmczUEJxMXRSLTRlVGRBVlJRTTBiZDF6WWk5WHFBQUpwSWdOWmNEVlBrb2FoWVNKcVBrVHh0MTBLNXJnVmxMVnhqOVlzZmdaYVh6alVaVXZHYWxTUzgw?oc=5",
+      "data": "03/08 07:00"
     },
     {
-      "titulo": "Zubeldía projeta Fred como futuro técnico do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeU9rSkhNcGN2QWRRZV9ncVdVaU9qQm5UdWoyaWxPaUVOV0xBYjhBUUxJWFFPcmpPV3FOZVljaHJucTNQRmVsbHlPUU44Nk9ILTNjVGZGN05JQmNjbmJWWWtOWVRRR1BZTUY3QVp1eDJYWm1kVm5WNk1nR3ZuVHpHNmxuUmlFSzUyc3c?oc=5",
-      "data": "03/08 15:30"
-    },
-    {
-      "titulo": "Vaiado, mas com números de destaque: o contraste vivido por Zubeldía no Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHRtNnpoalc3OWxPVWVnSWNiV2NCX0xTT0hmemprYk9xWk1jQVNUQm1Xc3ZvN01kR0stNFRNTG5EdHQtM2JPb3lkMjE2SGVCTy05bXpGUU9qZ2EtQ2ltM0tGM0I2ZXdCNldCUmVyMURXdk1ZUGtzZWsyd2habmFuZlJZNVhCamFmczhQd1BVZ2M2RmE3cTNUbjRtTHZ1c2djcEJCMldlb2JiTlE?oc=5",
+      "titulo": "Fluminense volta a ficar dois jogos sem sofrer gols; sequência não era atingida desde março - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNG9KYVdfRnpRNjNnbzBzNnBtdGdEV0ZWdGwtU1B2NGFwLTZlTmVWXzhOU3VVaXFkZnAzamt6TGF0eWxQLVM4ZVVsWXAzdk95VDFxdDNlY3VOMmxFNUFRTDN3Rk1RSm4zU0pWa2VDdWpmc3oxaVdHbTUxNWVfcElra2dwWU12d040eFpJYkRDdDRnMTg4eVpPc2EtazVaV3lBU21fam1UbHhLS0RPX1VUeVEzNDI1dFV1VW1PLUMzeEJOTTNFRG9MTXN0eEVtLUFYS0c5N1RiVkVqX25qZlpSdFJpRnE4c2R3OHlyUXJsX3VoMzjSAYICQVVfeXFMUHlxZnBUbFFKRFJBa2hIRUdNMzcxQVU0Z2Z6WFJzTGZQRHJMeFNJNGE5NFJObFpfaGNsTE5LSkYzeGFtdGl3ZFN3Nm13M0lIYmR0dWo3N3pWWVN4MHRYeVdibkRzeU9wYTF6XzVHWFV6dURLbi1ZWjdaVnBkQ2VDaG5CZUlBN1g4YnNJVVlNVEkwZm8wZGV4STUxM0RsZnZCaFlhU1hVclNxVDQxZjBhczM0NmlBS091NzNyMVVpREoyRnBYdUQ2UVRTekwyMkxFV2tXVmRjR0YwdUltYmN4TFk4V2Z0bFdmM296TkVieGdZR2hnYl9PaDRRaWd6cWR3V0RB?oc=5",
       "data": "03/08 15:00"
     },
     {
-      "titulo": "Fluminense de Feira vence o SSA FC e conquista a Série B do Baianão - atarde.com.br",
+      "titulo": "Zubeldía abre bastidores do Fluminense e admite desafio no elenco: \"Não é fácil\" - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVZ6YnI3b2F2US1yUVhSc19kZ0dSaDlvd2tpYzZMVzlTa3V6YUxTdG1xWlZwMEREdFdtTzBNUmFXU2ZxY1JlOERhX0JKd0puSWRnZlpDSUw0c3RSejl1cVd4b0VQZzJTckVTVnVWWnUxOXdQV3B3am9aUGw1NldHQVJEY2cxTVZvUm56cldNcmF6VFVLVlU2R2pPc29Hd1BBbzFGMVRXRQ?oc=5",
+      "data": "03/08 16:30"
+    },
+    {
+      "titulo": "Fluminense de Feira vence o SSA FC e conquista a Série B do Baianão - A TARDE",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVc0Q292clp4eV9HSXA3OFVCMUl4WEx2VDU2LWhjVjBKdHBWUFJvOXFzTWpvY09RZGhXSm94ZHhXOV9oR3dyMWRGaUpPMWN2RWJsV1NTa3NlTlphdXhSclpCVW1XdFJzNVA1RVJySUxybElPMUtWTnh5NFlrd3dZNll0UHUzbUZXZDZETFRRMERhcHI2aWFrWUpHNGszSTJ2REVleUtnSTFyQdIBsgFBVV95cUxQOFBlMlZiVEFndHZnc1J4dDZnd2FEeU5iMXdaZ2dZQzB0M0g5UVA2UTEwaXQ4SjRSenhsZHE4SDNZdGI1RlpIcEgxcjA2UGRPYUhXSVk5alc5Q2hmUGxtb0lfUnFqLW5yeXVkY0hiVkJxNVdCdFIxaTdJSDdMQXBDaGlnNU41TlJVYjh5NkR2TW9IOWtQdzJLdUlGcXk2alpEc0pBU25WeVhURXlqOEpOeldR?oc=5",
       "data": "02/08 21:24"
     }
