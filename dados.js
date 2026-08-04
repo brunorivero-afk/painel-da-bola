@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/08/2026 14:41",
+  "atualizado_em": "04/08/2026 16:24",
   "jogos": [
     {
       "sport": "futebol",
@@ -386,14 +386,14 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.3,
+      "temp_max": 26.8,
       "temp_min": 18.7,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.8,
+      "temp_max": 29.2,
       "temp_min": 19.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -425,14 +425,14 @@ window.PAINEL_DATA = {
       "data": "04/08 14:59"
     },
     {
+      "titulo": "Fluminense fica dois jogos seguidos sem levar gols pela primeira vez desde março - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1owN19KNmxYNXZ2UUNNNFRJS2lVdE0tTUszNXUtUDAyMXZ1UnA5UW0zYnVQTFZ3VWVSUHBlUmY3RU5HUWNFSjlMRU03OU9aRWxzdm1wUnFzeVlNOHY3SUdWVDNJOF9ReTMtNHREMkJrdjlDams3UXNCdTJWeGNfbXZqd1EwTkVOUHFjU25wdzFYTnBjczFDdTdqcWdKY1dvR3U5VDI3ODZLNkk?oc=5",
+      "data": "04/08 17:10"
+    },
+    {
       "titulo": "Fred se apresenta ao Fluminense e dá início aos trabalhos no sub-20 - GE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWsxdlg0LUp1Y1ZaM2k3a3l5NnRUYk1nZjVsWU83Yjh3Um1ub1pZYXdwYVhYMVpfQ2Vpc0RGZlFCUjRJb3M0T2FBdDVaMlJrSEQ0WXdwcVJhQzRLV2ZNRzhIM3dWc1pYeG9wMXJYSXRWeVpNbC00RVZWQTN1YXZqUUVuRUxXTjR4elI5Uy05N1UtT01zMjlLT3oxZS0wdFBMbnJyVFdMT3gzUGhkRDBWaDVLNHREa1psa3REampFak81SE94Rl9MdUpweEtsWm1DN0xKY9IB4wFBVV95cUxQbFctUWVXczFMa1pNXzE1TnRJXy1heXlVU3BuYnBucEtuUWN5Z1hXUG9yN2JTNGNDanBsVWZQbGVzdldrS1RnV0w4ZnlxQ3N4ZlE3VFllVWk2U3h5cjYzZDdWNTVHSXpUZTNTVWtFaTlSQjJ5RU1KODBrTk1Lb01WYW5qeEt6RlZFang0YXJWN2w5TnhWaUFFbnlTNURMckhxNTFyYUlvY1RCSmJybkNLNWVCRUVHQV9KWmVZQTNvLWYybDYtZUdyNEt4a1VjNEVoSlNhSlRPdnF0Q0NMNWlKM3RTZw?oc=5",
       "data": "03/08 19:56"
-    },
-    {
-      "titulo": "Diretor do futebol de base do Fluminense elogia Fred: “Referência” - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm9yQnJEdHNKOWM1dTF1UnNQTU4tSmxLdjg1M3ZVdTRac2EwbzY4c1owZTljNS0wX2pjcHdTQ1VxNXdacFVTOUdkZ29ta2hDdHlpMk93eWc1dmhGaUpkbktYSkpUdGNMWVRxU0EyY1h3WFVxLWJhMGktc1pCRHpvb0k3djZ5eHRtWVM0dVY2VWFrUGQx?oc=5",
-      "data": "04/08 15:51"
     },
     {
       "titulo": "Fred se apresenta em Xerém e inicia trabalho como técnico do Sub-20 do Fluminense: \"Muito feliz\" - fluminense.com.br",
