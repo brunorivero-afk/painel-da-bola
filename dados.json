@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/08/2026 19:04",
+  "atualizado_em": "03/08/2026 21:04",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,16 +9,6 @@
       "match": "Flamengo (F) x Corinthians (F)",
       "channels": [
         "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-03",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Cerro",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -59,6 +49,16 @@
       "time": "16:45",
       "competition": "Campeonato Argentino",
       "match": "Sarmiento Junin x Independ. Rivadavia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-03",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Cerro",
       "channels": [
         "DISNEY+"
       ]
@@ -342,19 +342,19 @@
       "data": "02/08 21:00"
     },
     {
+      "titulo": "Zubeldía projeta comunicação com Fred no sub-20 do Fluminense e desafios com promessas | Ge - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTXB2ZFZodWxHdHBDZVRMNVA3LXlRNE5aMlRxYVhIbWluMDM3QkNzSWZOTWxNVENIS3EwWERkbkpKRHA0a2hJd0g2blJkRTMtdU9lc19hcjNTZW5tSUpId1ZURjdQSVVBQ1hPcWZyUmNjR3h0T3JRUm1kZV8zSWFsaXFzeTZzLVdQNDBYNk9MQ2tEV2FDazVZZnJiWENqdUxxejQyZUJYZTY3dzhlUE5DUHNlNjZpcGRvZ0ozYUVmN0NacVNoU0VZR1FXQjBIclVENUpiZEEybTh5TU9MaUtYM0JjdTRtbld6VTZLSHVR?oc=5",
+      "data": "03/08 13:00"
+    },
+    {
+      "titulo": "Fred se apresenta ao Fluminense e dá início aos trabalhos no sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWsxdlg0LUp1Y1ZaM2k3a3l5NnRUYk1nZjVsWU83Yjh3Um1ub1pZYXdwYVhYMVpfQ2Vpc0RGZlFCUjRJb3M0T2FBdDVaMlJrSEQ0WXdwcVJhQzRLV2ZNRzhIM3dWc1pYeG9wMXJYSXRWeVpNbC00RVZWQTN1YXZqUUVuRUxXTjR4elI5Uy05N1UtT01zMjlLT3oxZS0wdFBMbnJyVFdMT3gzUGhkRDBWaDVLNHREa1psa3REampFak81SE94Rl9MdUpweEtsWm1DN0xKY9IB4wFBVV95cUxQbFctUWVXczFMa1pNXzE1TnRJXy1heXlVU3BuYnBucEtuUWN5Z1hXUG9yN2JTNGNDanBsVWZQbGVzdldrS1RnV0w4ZnlxQ3N4ZlE3VFllVWk2U3h5cjYzZDdWNTVHSXpUZTNTVWtFaTlSQjJ5RU1KODBrTk1Lb01WYW5qeEt6RlZFang0YXJWN2w5TnhWaUFFbnlTNURMckhxNTFyYUlvY1RCSmJybkNLNWVCRUVHQV9KWmVZQTNvLWYybDYtZUdyNEt4a1VjNEVoSlNhSlRPdnF0Q0NMNWlKM3RTZw?oc=5",
+      "data": "03/08 19:56"
+    },
+    {
       "titulo": "Ídolo do Fluminense, Fred comanda primeiro treinamento como técnico da base - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0Nud19sa1NIX3VxRzN1el9YWTZVYlRsRkd1QWMxbE5xN0ZyNU4zZnR4VXNMQXdWODlTb0ktZ2labGRxaTh3enJBRTRMRDBjT3NzOUJQZVd0RXVPazIxNjltWHhYd2pkc2VMVjhXa1NfcVQyekRIaEpPaTk4b0YtaFNQMlR4ZGJpSm04TGpTQ3pzVFVwRXZ5T0Q2VVdSM1gwa2Zmd1l6bVY1T1otLUQxMDlNY2FSZ190V0ZuNFZyc3pyaHhlcE5hXzJKRGtEbVJYYS1oVkI5ZGJjU21CWGNwYjA4bUpwMDQxNF9nQ1RLT05WTkQ2aTZv?oc=5",
       "data": "03/08 20:34"
-    },
-    {
-      "titulo": "Fred se apresenta em Xerém e inicia trabalho como técnico do Sub-20 do Fluminense: \"Muito feliz\" - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzJJOGEtOW5fRGczRHNoZkxaSnVWd2xMcm1VZVFQRjQ0VDhaUmcwMk5ZUkFsZlJWS0R4WVZVaDlWMGNkcnZ5aDE1ekpnTzBVQ3pqUG01Q1dNMXhqSXNzSUQ5X1BaWE05eGNNV1o2SzlQVDhUSThuUnAxMTBON2hzbVlOSTRoR0pzLVhxUjB3SXE2S090Wk45U0lUT1RENXJmSk1FcktsU1JrX1FJZWprVGxZa1FVNUhDMjNSc1RRbW12aXl2bTFVNlJWSQ?oc=5",
-      "data": "03/08 19:30"
-    },
-    {
-      "titulo": "Thiago Silva e Freytes continuam como desfalques do Fluminense contra o Vasco; veja prazo de recuperação - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRTlBUmhrM2JReGVyQ2s5U01xQ1VqcnpFVHFLS19OZU1ZWldhSVZrNkMtaEhIWHBJczlvVkpxSFhlUl9zVm05ajV2T01yalJTSkF1NFF1eWVsTGNzQTZMRUVKY3VDTmVEWkVTVE03VjVXaXRQNDktQ2FRQnBoNU9CTVc3VzhjejV5STFrbGlmQWN1czBycTNSLWtHNURlOTdoYjN5cTV6ckZFNjBNd2N0d2lQVTg1T3JkbGt3amE2dFdCampFT1lJMjJyY1JTdDA4Y2RteGdGV3ZWOUZoN1FUMmNsdW1fOUFDa2p0R0UzY2VvWGtCQ3VCbGRxb3NOQUJJNk9DM9IBkwJBVV95cUxNVkNVQ0pxYmI1ZThwUGRUejZQcWlGSFdfRHYzcW1SQW8wMzE3a0ZDdVlNSzFqSmU5NWlRX21vT2ZEbnFuLThQS3JYRklPS2xyR3hzVkFTekVQOHFDd2p1d3JJZzRTSlMwc2tEdkpucEJuQVNWclB3VWxHdWF2WmluVG5FOFJBN0NZX01udjlsTEh6NlhhbFRBV2w4TlNWRnNjQTdoenRxemhRRWZPRGNwd0dsWlU2WE5nSndOd3hBQUJTeXFOc045Z0RrZDBETFRLTGZoNV9HN2J6d0tORUR3N1FhZkg1Z1l0VzBqWTVJZ3VJd3RTUllGODRkWHY3QU5pZDNHakpmanRMVUFSZnZ6ZFRmSQ?oc=5",
-      "data": "02/08 17:40"
     },
     {
       "titulo": "Fluminense de Feira vence o SSA FC e conquista a Série B do Baianão - A TARDE",
