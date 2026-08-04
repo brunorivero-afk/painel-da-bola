@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/08/2026 01:09",
+  "atualizado_em": "04/08/2026 04:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -295,27 +295,7 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-04",
-      "time": "03:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Itália x EUA",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-04",
-      "time": "08:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Polônia x Ucrânia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-04",
-      "time": "03:45",
+      "time": "04:25",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
       "channels": [
@@ -325,7 +305,7 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-04",
-      "time": "08:00",
+      "time": "08:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Final",
       "channels": [
@@ -406,29 +386,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.4,
-      "temp_min": 18.3,
+      "temp_max": 26.5,
+      "temp_min": 19.0,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 28.9,
-      "temp_min": 20.2,
+      "temp_min": 19.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.3,
-      "temp_min": 13.8,
+      "temp_max": 23.1,
+      "temp_min": 13.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.4,
-      "temp_min": 12.2,
+      "temp_max": 23.6,
+      "temp_min": 11.7,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
@@ -440,14 +420,14 @@ window.PAINEL_DATA = {
       "data": "02/08 21:00"
     },
     {
+      "titulo": "Quem são os dois talentos do Fluminense que reforçam o Volta Redonda por empréstimo? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlJ1LXJfdXlYcFk1bVBkQ0JfZUNBUlVOMnlSdHVWOFhvMnRwNUNTQU9LdmNaVVRQbko5Tnl6RHhRNTkxV09vdEhZazFVUzJ4OXBHN0llLWZuOWlvQ0c1QkxERWF3Uk5QTzk2dHctNGJEaFBYcFBIX3JZQy1uSW15TkdsOVQteDkwTXhJQ1dWT01uSDNVMlNyZHFNNzZFVF9FYnFLN3NIbXh2RmNob0tEdmNzQ1NibkN5UXo0QlZ6MGlBc1A3UXFlM2diVTdsZDl4aEVfMElRSElYcFAxWFY5Y2V1Uml4RW1SRTJiVG5FLWFvc21vZkIwODBReGdkNk5Sa2xibHVhZw?oc=5",
+      "data": "04/08 05:17"
+    },
+    {
       "titulo": "Fred se apresenta ao Fluminense e dá início aos trabalhos no sub-20 - GE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWsxdlg0LUp1Y1ZaM2k3a3l5NnRUYk1nZjVsWU83Yjh3Um1ub1pZYXdwYVhYMVpfQ2Vpc0RGZlFCUjRJb3M0T2FBdDVaMlJrSEQ0WXdwcVJhQzRLV2ZNRzhIM3dWc1pYeG9wMXJYSXRWeVpNbC00RVZWQTN1YXZqUUVuRUxXTjR4elI5Uy05N1UtT01zMjlLT3oxZS0wdFBMbnJyVFdMT3gzUGhkRDBWaDVLNHREa1psa3REampFak81SE94Rl9MdUpweEtsWm1DN0xKY9IB4wFBVV95cUxQbFctUWVXczFMa1pNXzE1TnRJXy1heXlVU3BuYnBucEtuUWN5Z1hXUG9yN2JTNGNDanBsVWZQbGVzdldrS1RnV0w4ZnlxQ3N4ZlE3VFllVWk2U3h5cjYzZDdWNTVHSXpUZTNTVWtFaTlSQjJ5RU1KODBrTk1Lb01WYW5qeEt6RlZFang0YXJWN2w5TnhWaUFFbnlTNURMckhxNTFyYUlvY1RCSmJybkNLNWVCRUVHQV9KWmVZQTNvLWYybDYtZUdyNEt4a1VjNEVoSlNhSlRPdnF0Q0NMNWlKM3RTZw?oc=5",
       "data": "03/08 19:56"
-    },
-    {
-      "titulo": "Zubeldía projeta comunicação com Fred no sub-20 do Fluminense e desafios com promessas | Ge - GE",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTXB2ZFZodWxHdHBDZVRMNVA3LXlRNE5aMlRxYVhIbWluMDM3QkNzSWZOTWxNVENIS3EwWERkbkpKRHA0a2hJd0g2blJkRTMtdU9lc19hcjNTZW5tSUpId1ZURjdQSVVBQ1hPcWZyUmNjR3h0T3JRUm1kZV8zSWFsaXFzeTZzLVdQNDBYNk9MQ2tEV2FDazVZZnJiWENqdUxxejQyZUJYZTY3dzhlUE5DUHNlNjZpcGRvZ0ozYUVmN0NacVNoU0VZR1FXQjBIclVENUpiZEEybTh5TU9MaUtYM0JjdTRtbld6VTZLSHVR?oc=5",
-      "data": "03/08 13:00"
     },
     {
       "titulo": "Fred se apresenta em Xerém e inicia trabalho como técnico do Sub-20 do Fluminense: \"Muito feliz\" - fluminense.com.br",
@@ -455,9 +435,9 @@ window.PAINEL_DATA = {
       "data": "03/08 19:36"
     },
     {
-      "titulo": "Fluminense de Feira vence o SSA FC e conquista a Série B do Baianão - A TARDE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVc0Q292clp4eV9HSXA3OFVCMUl4WEx2VDU2LWhjVjBKdHBWUFJvOXFzTWpvY09RZGhXSm94ZHhXOV9oR3dyMWRGaUpPMWN2RWJsV1NTa3NlTlphdXhSclpCVW1XdFJzNVA1RVJySUxybElPMUtWTnh5NFlrd3dZNll0UHUzbUZXZDZETFRRMERhcHI2aWFrWUpHNGszSTJ2REVleUtnSTFyQdIBsgFBVV95cUxQOFBlMlZiVEFndHZnc1J4dDZnd2FEeU5iMXdaZ2dZQzB0M0g5UVA2UTEwaXQ4SjRSenhsZHE4SDNZdGI1RlpIcEgxcjA2UGRPYUhXSVk5alc5Q2hmUGxtb0lfUnFqLW5yeXVkY0hiVkJxNVdCdFIxaTdJSDdMQXBDaGlnNU41TlJVYjh5NkR2TW9IOWtQdzJLdUlGcXk2alpEc0pBU25WeVhURXlqOEpOeldR?oc=5",
-      "data": "02/08 21:24"
+      "titulo": "Ídolo do Fluminense, Fred comanda primeiro treinamento como técnico da base - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0Nud19sa1NIX3VxRzN1el9YWTZVYlRsRkd1QWMxbE5xN0ZyNU4zZnR4VXNMQXdWODlTb0ktZ2labGRxaTh3enJBRTRMRDBjT3NzOUJQZVd0RXVPazIxNjltWHhYd2pkc2VMVjhXa1NfcVQyekRIaEpPaTk4b0YtaFNQMlR4ZGJpSm04TGpTQ3pzVFVwRXZ5T0Q2VVdSM1gwa2Zmd1l6bVY1T1otLUQxMDlNY2FSZ190V0ZuNFZyc3pyaHhlcE5hXzJKRGtEbVJYYS1oVkI5ZGJjU21CWGNwYjA4bUpwMDQxNF9nQ1RLT05WTkQ2aTZv?oc=5",
+      "data": "03/08 20:34"
     }
   ],
   "avisos": []
