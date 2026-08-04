@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/08/2026 12:25",
+  "atualizado_em": "04/08/2026 14:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -430,14 +430,14 @@ window.PAINEL_DATA = {
       "data": "03/08 19:56"
     },
     {
+      "titulo": "Diretor do futebol de base do Fluminense elogia Fred: “Referência” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYm9yQnJEdHNKOWM1dTF1UnNQTU4tSmxLdjg1M3ZVdTRac2EwbzY4c1owZTljNS0wX2pjcHdTQ1VxNXdacFVTOUdkZ29ta2hDdHlpMk93eWc1dmhGaUpkbktYSkpUdGNMWVRxU0EyY1h3WFVxLWJhMGktc1pCRHpvb0k3djZ5eHRtWVM0dVY2VWFrUGQx?oc=5",
+      "data": "04/08 15:51"
+    },
+    {
       "titulo": "Fred se apresenta em Xerém e inicia trabalho como técnico do Sub-20 do Fluminense: \"Muito feliz\" - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzJJOGEtOW5fRGczRHNoZkxaSnVWd2xMcm1VZVFQRjQ0VDhaUmcwMk5ZUkFsZlJWS0R4WVZVaDlWMGNkcnZ5aDE1ekpnTzBVQ3pqUG01Q1dNMXhqSXNzSUQ5X1BaWE05eGNNV1o2SzlQVDhUSThuUnAxMTBON2hzbVlOSTRoR0pzLVhxUjB3SXE2S090Wk45U0lUT1RENXJmSk1FcktsU1JrX1FJZWprVGxZa1FVNUhDMjNSc1RRbW12aXl2bTFVNlJWSQ?oc=5",
       "data": "03/08 19:36"
-    },
-    {
-      "titulo": "Ídolo do Fluminense, Fred comanda primeiro treinamento como técnico da base - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0Nud19sa1NIX3VxRzN1el9YWTZVYlRsRkd1QWMxbE5xN0ZyNU4zZnR4VXNMQXdWODlTb0ktZ2labGRxaTh3enJBRTRMRDBjT3NzOUJQZVd0RXVPazIxNjltWHhYd2pkc2VMVjhXa1NfcVQyekRIaEpPaTk4b0YtaFNQMlR4ZGJpSm04TGpTQ3pzVFVwRXZ5T0Q2VVdSM1gwa2Zmd1l6bVY1T1otLUQxMDlNY2FSZ190V0ZuNFZyc3pyaHhlcE5hXzJKRGtEbVJYYS1oVkI5ZGJjU21CWGNwYjA4bUpwMDQxNF9nQ1RLT05WTkQ2aTZv?oc=5",
-      "data": "03/08 20:34"
     }
   ],
   "avisos": []
