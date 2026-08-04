@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 07:33",
+  "atualizado_em": "04/08/2026 09:57",
   "jogos": [
     {
       "sport": "futebol",
@@ -386,29 +386,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.5,
-      "temp_min": 19.0,
+      "temp_max": 26.3,
+      "temp_min": 18.7,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.9,
-      "temp_min": 19.9,
+      "temp_max": 28.8,
+      "temp_min": 19.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.1,
-      "temp_min": 13.5,
+      "temp_max": 22.8,
+      "temp_min": 13.3,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.6,
-      "temp_min": 11.7,
+      "temp_max": 23.3,
+      "temp_min": 11.0,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
@@ -420,7 +420,12 @@
       "data": "02/08 21:00"
     },
     {
-      "titulo": "Fred se apresenta ao Fluminense e dá início aos trabalhos no sub-20 - ge",
+      "titulo": "Quanto o Fluminense pode ganhar se avançar contra o Vasco na Copa do Brasil? - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenFhSUVDV3BiWVVOY1FORG5yZUNxLUlwcXJEaXNsMzFQaTVvaGtDMGJ5RGJtbUNjYVE3cGdSN0dId00wN2pGdTJfYjVINkNjaldEU29VN2VZSkxxa1NuYUZzZkIxWTNlU3dxS29RMnk0VnoyVkVzOE1mUVBwX0dHbERZV3pEbDJkMGpHbGVXQWlwNldrVHNCM0M2UWFrTnBIRUpzVw?oc=5",
+      "data": "04/08 11:00"
+    },
+    {
+      "titulo": "Fred se apresenta ao Fluminense e dá início aos trabalhos no sub-20 - GE",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWsxdlg0LUp1Y1ZaM2k3a3l5NnRUYk1nZjVsWU83Yjh3Um1ub1pZYXdwYVhYMVpfQ2Vpc0RGZlFCUjRJb3M0T2FBdDVaMlJrSEQ0WXdwcVJhQzRLV2ZNRzhIM3dWc1pYeG9wMXJYSXRWeVpNbC00RVZWQTN1YXZqUUVuRUxXTjR4elI5Uy05N1UtT01zMjlLT3oxZS0wdFBMbnJyVFdMT3gzUGhkRDBWaDVLNHREa1psa3REampFak81SE94Rl9MdUpweEtsWm1DN0xKY9IB4wFBVV95cUxQbFctUWVXczFMa1pNXzE1TnRJXy1heXlVU3BuYnBucEtuUWN5Z1hXUG9yN2JTNGNDanBsVWZQbGVzdldrS1RnV0w4ZnlxQ3N4ZlE3VFllVWk2U3h5cjYzZDdWNTVHSXpUZTNTVWtFaTlSQjJ5RU1KODBrTk1Lb01WYW5qeEt6RlZFang0YXJWN2w5TnhWaUFFbnlTNURMckhxNTFyYUlvY1RCSmJybkNLNWVCRUVHQV9KWmVZQTNvLWYybDYtZUdyNEt4a1VjNEVoSlNhSlRPdnF0Q0NMNWlKM3RTZw?oc=5",
       "data": "03/08 19:56"
     },
@@ -433,11 +438,6 @@
       "titulo": "Ídolo do Fluminense, Fred comanda primeiro treinamento como técnico da base - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0Nud19sa1NIX3VxRzN1el9YWTZVYlRsRkd1QWMxbE5xN0ZyNU4zZnR4VXNMQXdWODlTb0ktZ2labGRxaTh3enJBRTRMRDBjT3NzOUJQZVd0RXVPazIxNjltWHhYd2pkc2VMVjhXa1NfcVQyekRIaEpPaTk4b0YtaFNQMlR4ZGJpSm04TGpTQ3pzVFVwRXZ5T0Q2VVdSM1gwa2Zmd1l6bVY1T1otLUQxMDlNY2FSZ190V0ZuNFZyc3pyaHhlcE5hXzJKRGtEbVJYYS1oVkI5ZGJjU21CWGNwYjA4bUpwMDQxNF9nQ1RLT05WTkQ2aTZv?oc=5",
       "data": "03/08 20:34"
-    },
-    {
-      "titulo": "Quem são os dois talentos do Fluminense que reforçam o Volta Redonda por empréstimo? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlJ1LXJfdXlYcFk1bVBkQ0JfZUNBUlVOMnlSdHVWOFhvMnRwNUNTQU9LdmNaVVRQbko5Tnl6RHhRNTkxV09vdEhZazFVUzJ4OXBHN0llLWZuOWlvQ0c1QkxERWF3Uk5QTzk2dHctNGJEaFBYcFBIX3JZQy1uSW15TkdsOVQteDkwTXhJQ1dWT01uSDNVMlNyZHFNNzZFVF9FYnFLN3NIbXh2RmNob0tEdmNzQ1NibkN5UXo0QlZ6MGlBc1A3UXFlM2diVTdsZDl4aEVfMElRSElYcFAxWFY5Y2V1Uml4RW1SRTJiVG5FLWFvc21vZkIwODBReGdkNk5Sa2xibHVhZw?oc=5",
-      "data": "04/08 05:17"
     }
   ],
   "avisos": []
