@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/08/2026 19:58",
+  "atualizado_em": "04/08/2026 21:08",
   "jogos": [
     {
       "sport": "futebol",
@@ -120,6 +120,16 @@
       "match": "K-League Stars x Manchester City",
       "channels": [
         "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "15:00",
+      "competition": "Champions League",
+      "match": "Fenerbahce x Sturm Graz",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -420,24 +430,24 @@
       "data": "02/08 21:00"
     },
     {
-      "titulo": "Zenit faz consulta por Hércules, do Fluminense, após Danilo ficar no Botafogo - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUR5aGk3ay1KMTloVU0td2hhV0tQRkFzcUxUbmllMUVwWWJKNWJJenJUWkxiNUhjWWlQc1VmMTVaZmI1dkxfbmJUdmh5aFNQaTJVWXB2S00xR2szYnRIYWc4MUduZ25tRDBMS0NVZjR2Yk5RMDRmTk8zQ3gwTDdTWVNLNzczbF8zNE5rcGo0ZnRnTEJ0WFR5NkxLVExEYnVUYUxoekFHbW8xQXk1QjN0d21FNldnWHViUmFNeDRqYTY1SHMyTGFuSG53cXJpUUNOV3BXcHVVTmkyQXNxS1dZ0gHuAUFVX3lxTFBOU0x0NExoZGVFLXMzU0dOa3VHbmxJTklUdEl1cXo3dzBYb3BZZHNhcmxrVEZ5RlhNcUc0MnhEM3BKVWpDR19DWXBxQ3NJNGl1SjB3NE1LUXFnM3l2dndmaWZjcnJQejVSRlJ5NmtFc3ItYm9IZXlvdDN0N1BpRkdOTTk2RXN6VF9mcE8tS29MRlJqanlnTTdldHJUSDd5b0ZJNkFhaFJHLXhwbVR0cmNDS3hORUVWVlYtVDhyUE5MN1FONE14X1ZRSnNjQW9ZcmF3aENEZFdCLURvTTdBTFlFRU83RUMwU2tkUndxQVE?oc=5",
-      "data": "04/08 19:00"
+      "titulo": "Montenegro diz que não venderia SAF do Fluminense para investidor árabe e dá preferência para brasileiros - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1ZfQ25uVFdvbTVCMUpaN3RlZjFQeVVQY3R5T0EtOFFmVXZjRjN3RDZOUDNuWjViYmdocElYX2YzbC1jLWlocE9wd2pYeW43bFhZMXJLMXRpN0FVUlNYekR4MHhQbGc2bkNrRDlTQ2tpb2l5X0Zqd2x5Um1jaHdIOGlPblBSX19SOVEtUkxzMk0tdG91WUg0c01kVWprV2dMMmNGUUlSbmdOSi1CYVlsWXNnY3FDM2FiMVFRN0t2QUYzbnU2cjFaUXRFRTQ?oc=5",
+      "data": "04/08 22:11"
     },
     {
-      "titulo": "Hércules no Zenit? Fluminense apresenta valores - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWUxyLWxVNHdNZTVoU3lEVzl0ejQ5eU9xRGZiY01iNF9sLXBxcUV3V0g1WV9Eb0xNd1pXYXJNVWJMZmFqcDduVnk2SUtOTWtKdFhWcnl0OVhnYUQ4MFFtODVTS3liX0pnTGlkRndJM1AtVFF0dEZ5bU0xUzhNLXVtbnZnXzkxYUU3S1dkN2RVVU8yLUFEODhMRll5X1NaaHpvSkg2d3QyZlJEV2pLRDNOUkR0QS1yakpHZHBRVHRRbUplVlI4MHRqaGpVLUhvTkNpOXZ3?oc=5",
-      "data": "04/08 19:46"
+      "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
+      "data": "04/08 19:47"
     },
     {
-      "titulo": "Hércules, do Fluminense, atrai interesse do Zenit - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjVDdHlXUWtncVdVd0kyeHZkdFdPMF9MYnd1SWFndV8yalMtOFVDQkNyN0xSMVpEVEw4NXdidHlDbGZfYWwtZ3RTTlBTeFBwTTd5VXp1T2JCUnJiOTJuXzZBakNRM1FDSWg0VTVyd2RPNE1feC1CSUVDc2tNZUFNNTVmLXVOTVFTcnIyMDBUanRlZw?oc=5",
-      "data": "04/08 19:33"
+      "titulo": "\"Não venderia o Fluminense para um sheik árabe\", diz Montenegro - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeU9KQlJTUDFxbnExdUgtdnFQNnhDaFlkY2pFSU9tcTRPS0lVR3NvbnNmdnZEb0Z3VFNFaHNWd1NBeThXeDBhUWtoajdjS0Y5ZWZKRDFRT1k3X3A1dzhDcnhzdFh5VDZXNWxVN1AtZDdiM0Rja0FEUEVjc3R5R2JCR3RVNGJXUkNNQVRFTnIxMDZBZFFBZzdTaDRNbWJheFMtYjVrWUEtWHFyODJwVndMS2dxWDdXbWhJTHczME1IaFFSamkxWi1RRGhMUWNhN2hlOGJYU0tSeUIwYUNaSUxxTXFjSC1JZw?oc=5",
+      "data": "04/08 22:25"
     },
     {
-      "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
-      "data": "04/08 21:17"
+      "titulo": "Hércules, do Fluminense, desperta interesse do Zenit após tentativa por Danilo, do Botafogo - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT1prVTZXaGYtLV9ocUMteEl4anJpd2plWElEMGt3Q05rOWZZell3RnhLQTMzUUllc2h6NExfTktaclBrU1dMaE83RXpleVM4Nmp6aHV6S0VxU3pDaEhSeDNhYUVJRnRCUTE1ekdILTl3WDdRTU1FeXJoWHZ5bk1ySUVZeUxiTzZFSXFQSXJYcnZ3a2hpTVdweGUzS1l3WWE3RzY0OGt4b1c3eVgwTTMtYm9iS3NvSXhYLVhBNnBGSk9RS0d2MGs3bDg0RENQR3k1MkJUbXZXRFkxMmp5TEhibGd4N19STHhVMjhjU0JSN1FnUXRqQkdpWFVR0gGIAkFVX3lxTE9oS2w5U3VURFd6VXJwd3FKOElNc2xyZy1keHhSSmpSdzhVWnozVUhoS0JQd0luX19yWG5mYW1XNUJDR1JlTzMwUjd5QTFsdDNSdm56VFowOXdPLU40ekJmamFCMGtrd1RXSEEzSTZESmpMX1V0TDdoUjFEYmc1dHBqQnI4VVc4aTIzUndzX0tqWUVTR1EwbTQ4Y2FTQnMwSGVPVkJmZllxcFlORk1aZE5BcnVUS3FPMDNLRnRxbHE0VHIySTFKNXFnZ1NuSW1oTkx0YmJCZkMxNUMxd3NzUHNuVkFHdWRFRzRlUmlFZXZlS2VBYjRKVFdTTU9mSzJmc0paY3VzWlBWVg?oc=5",
+      "data": "04/08 18:27"
     }
   ],
   "avisos": []
