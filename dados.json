@@ -1,17 +1,6 @@
 {
-  "atualizado_em": "05/08/2026 19:08",
+  "atualizado_em": "05/08/2026 20:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Boca Juniors x Estudiantes",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-05",
@@ -31,16 +20,6 @@
       "match": "Grêmio x Mirassol",
       "channels": [
         "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "20:30",
-      "competition": "Leagues Cup",
-      "match": "Monterrey x Orlando City SC",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -77,14 +56,10 @@
       "sport": "futebol",
       "date": "2026-08-05",
       "time": "21:30",
-      "competition": "Copa Do Brasil",
-      "match": "Fluminense x Vasco",
+      "competition": "Leagues Cup",
+      "match": "FC Dallas x Club Queretaro",
       "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE",
-        "GE TV",
-        "PRIME VIDEO"
+        "APPLE TV"
       ]
     },
     {
@@ -104,10 +79,14 @@
       "sport": "futebol",
       "date": "2026-08-05",
       "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "FC Dallas x Club Queretaro",
+      "competition": "Copa Do Brasil",
+      "match": "Fluminense x Vasco",
       "channels": [
-        "APPLE TV"
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE",
+        "GE TV",
+        "PRIME VIDEO"
       ]
     },
     {
@@ -199,6 +178,27 @@
       "match": "Mallorca x PSG",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Boca Juniors x Estudiantes",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "20:30",
+      "competition": "Leagues Cup",
+      "match": "Monterrey x Orlando City SC",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -466,19 +466,19 @@
       "data": "05/08 01:15"
     },
     {
-      "titulo": "Presidente do Fluminense traz atualização sobre proposta para a SAF - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJydUMyMk1IdGl5NVFfbDVUTm5iMnplT09fWmJ5czZPLTYtSEktUjQxMUFSUXk1cnFOSmVVSDZNZkhDZE9UVFBRdDd0REhFM3JjUUFXbW4xUjhrMGxNbUgyRjRPOERBWHNISklxTHl1dzhQRVZja2o3NmZkTGs2WDdOSGtxTl8xZVhJTjkzejZ0UVlBNnV0YWhERGdCaVF2NTBMVDJYOXcyZXpGMUV5TndyWTVFR2t1V3hYdXQzSUNSNW5WTGd0bEpn0gHPAUFVX3lxTFBxQzVValFfMWswYzAyNWpnNThEc2N3RGZZb0ZxczdmUVc4SUl5eGo3QnlpYm1MemRJRTh2MUxEYjVYWC1jM216OTZVUnBVdHNqOUJEZl94bDlxQkVsYW1wc1d6MEZZMHR1VGIxTU9XZVZvbVkwcnlhbEVYYzNoYkU3ZEJEdHZHblAzUFh5d3RkdWRvdnVOR3RpMXpROG91ZENlMHlwYzJyVm9tbTZWMEc4UEJDb00xYUtDNk1MWVA2SzFaLUJjQUZnaXl1UE9fQQ?oc=5",
-      "data": "05/08 01:12"
-    },
-    {
-      "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
-      "data": "04/08 19:47"
-    },
-    {
       "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
       "data": "30/07 07:02"
+    },
+    {
+      "titulo": "Hércules no Zenit? Fluminense apresenta valores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWUxyLWxVNHdNZTVoU3lEVzl0ejQ5eU9xRGZiY01iNF9sLXBxcUV3V0g1WV9Eb0xNd1pXYXJNVWJMZmFqcDduVnk2SUtOTWtKdFhWcnl0OVhnYUQ4MFFtODVTS3liX0pnTGlkRndJM1AtVFF0dEZ5bU0xUzhNLXVtbnZnXzkxYUU3S1dkN2RVVU8yLUFEODhMRll5X1NaaHpvSkg2d3QyZlJEV2pLRDNOUkR0QS1yakpHZHBRVHRRbUplVlI4MHRqaGpVLUhvTkNpOXZ3?oc=5",
+      "data": "04/08 19:46"
+    },
+    {
+      "titulo": "Hércules, do Fluminense, desperta interesse do Zenit após tentativa por Danilo, do Botafogo - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT1prVTZXaGYtLV9ocUMteEl4anJpd2plWElEMGt3Q05rOWZZell3RnhLQTMzUUllc2h6NExfTktaclBrU1dMaE83RXpleVM4Nmp6aHV6S0VxU3pDaEhSeDNhYUVJRnRCUTE1ekdILTl3WDdRTU1FeXJoWHZ5bk1ySUVZeUxiTzZFSXFQSXJYcnZ3a2hpTVdweGUzS1l3WWE3RzY0OGt4b1c3eVgwTTMtYm9iS3NvSXhYLVhBNnBGSk9RS0d2MGs3bDg0RENQR3k1MkJUbXZXRFkxMmp5TEhibGd4N19STHhVMjhjU0JSN1FnUXRqQkdpWFVR0gGIAkFVX3lxTE9oS2w5U3VURFd6VXJwd3FKOElNc2xyZy1keHhSSmpSdzhVWnozVUhoS0JQd0luX19yWG5mYW1XNUJDR1JlTzMwUjd5QTFsdDNSdm56VFowOXdPLU40ekJmamFCMGtrd1RXSEEzSTZESmpMX1V0TDdoUjFEYmc1dHBqQnI4VVc4aTIzUndzX0tqWUVTR1EwbTQ4Y2FTQnMwSGVPVkJmZllxcFlORk1aZE5BcnVUS3FPMDNLRnRxbHE0VHIySTFKNXFnZ1NuSW1oTkx0YmJCZkMxNUMxd3NzUHNuVkFHdWRFRzRlUmlFZXZlS2VBYjRKVFdTTU9mSzJmc0paY3VzWlBWVg?oc=5",
+      "data": "04/08 18:27"
     }
   ],
   "avisos": []
