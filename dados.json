@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/08/2026 03:27",
+  "atualizado_em": "05/08/2026 06:33",
   "jogos": [
     {
       "sport": "futebol",
@@ -19,6 +19,26 @@
       "match": "Fenerbahce x Sturm Graz",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "Arsenal x Real Betis",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Mallorca x PSG",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -387,29 +407,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.6,
-      "temp_min": 20.5,
+      "temp_max": 30.4,
+      "temp_min": 20.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.9,
-      "temp_min": 19.8,
+      "temp_max": 31.5,
+      "temp_min": 19.7,
       "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.2,
-      "temp_min": 15.3,
+      "temp_max": 24.0,
+      "temp_min": 14.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.6,
-      "temp_min": 14.7,
+      "temp_max": 23.7,
+      "temp_min": 14.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
@@ -426,19 +446,19 @@
       "data": "02/08 21:00"
     },
     {
-      "titulo": "Montenegro diz que não venderia SAF do Fluminense para investidor árabe e dá preferência para brasileiros - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1ZfQ25uVFdvbTVCMUpaN3RlZjFQeVVQY3R5T0EtOFFmVXZjRjN3RDZOUDNuWjViYmdocElYX2YzbC1jLWlocE9wd2pYeW43bFhZMXJLMXRpN0FVUlNYekR4MHhQbGc2bkNrRDlTQ2tpb2l5X0Zqd2x5Um1jaHdIOGlPblBSX19SOVEtUkxzMk0tdG91WUg0c01kVWprV2dMMmNGUUlSbmdOSi1CYVlsWXNnY3FDM2FiMVFRN0t2QUYzbnU2cjFaUXRFRTQ?oc=5",
-      "data": "04/08 22:11"
+      "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
+      "data": "05/08 01:15"
+    },
+    {
+      "titulo": "Presidente do Fluminense traz atualização sobre proposta para a SAF - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJydUMyMk1IdGl5NVFfbDVUTm5iMnplT09fWmJ5czZPLTYtSEktUjQxMUFSUXk1cnFOSmVVSDZNZkhDZE9UVFBRdDd0REhFM3JjUUFXbW4xUjhrMGxNbUgyRjRPOERBWHNISklxTHl1dzhQRVZja2o3NmZkTGs2WDdOSGtxTl8xZVhJTjkzejZ0UVlBNnV0YWhERGdCaVF2NTBMVDJYOXcyZXpGMUV5TndyWTVFR2t1V3hYdXQzSUNSNW5WTGd0bEpn0gHPAUFVX3lxTFBxQzVValFfMWswYzAyNWpnNThEc2N3RGZZb0ZxczdmUVc4SUl5eGo3QnlpYm1MemRJRTh2MUxEYjVYWC1jM216OTZVUnBVdHNqOUJEZl94bDlxQkVsYW1wc1d6MEZZMHR1VGIxTU9XZVZvbVkwcnlhbEVYYzNoYkU3ZEJEdHZHblAzUFh5d3RkdWRvdnVOR3RpMXpROG91ZENlMHlwYzJyVm9tbTZWMEc4UEJDb00xYUtDNk1MWVA2SzFaLUJjQUZnaXl1UE9fQQ?oc=5",
+      "data": "05/08 01:12"
     },
     {
       "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
       "data": "04/08 19:47"
-    },
-    {
-      "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
-      "data": "05/08 01:15"
     }
   ],
   "avisos": []
