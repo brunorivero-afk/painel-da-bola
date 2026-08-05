@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "05/08/2026 15:17",
+  "atualizado_em": "05/08/2026 17:22",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "13:30",
-      "competition": "Champions League",
-      "match": "Aarhus x Sabah FA",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "15:00",
-      "competition": "Champions League",
-      "match": "Fenerbahce x Sturm Graz",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-05",
@@ -79,7 +58,7 @@
       "date": "2026-08-05",
       "time": "20:30",
       "competition": "Leagues Cup",
-      "match": "Inter Miami x Atletico San Luis",
+      "match": "Monterrey x Orlando City SC",
       "channels": [
         "APPLE TV"
       ]
@@ -89,7 +68,7 @@
       "date": "2026-08-05",
       "time": "20:30",
       "competition": "Leagues Cup",
-      "match": "Monterrey x Orlando City SC",
+      "match": "Inter Miami x Atletico San Luis",
       "channels": [
         "APPLE TV"
       ]
@@ -155,10 +134,10 @@
       "sport": "futebol",
       "date": "2026-08-05",
       "time": "23:00",
-      "competition": "Leagues Cup",
-      "match": "Toluca x Seattle Sounders",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Alianza x CS Herediano",
       "channels": [
-        "APPLE TV"
+        "DISNEY+"
       ]
     },
     {
@@ -175,10 +154,10 @@
       "sport": "futebol",
       "date": "2026-08-05",
       "time": "23:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Alianza x CS Herediano",
+      "competition": "Leagues Cup",
+      "match": "Toluca x Seattle Sounders",
       "channels": [
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
@@ -199,6 +178,37 @@
       "match": "K-League Stars x Manchester City",
       "channels": [
         "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "13:30",
+      "competition": "Champions League",
+      "match": "Aarhus x Sabah FA",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "15:00",
+      "competition": "Champions League",
+      "match": "Fenerbahce x Sturm Graz",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Benfica x Heart OF Midlothian",
+      "channels": [
+        "CANAL DO BENJA"
       ]
     },
     {
@@ -306,9 +316,9 @@
     {
       "sport": "volei",
       "date": "2026-08-05",
-      "time": "13:45",
+      "time": "16:15",
       "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Paraguai",
+      "match": "Brasil x Venezuela",
       "channels": [
         "SporTV2"
       ]
@@ -316,9 +326,9 @@
     {
       "sport": "volei",
       "date": "2026-08-05",
-      "time": "16:15",
+      "time": "13:45",
       "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Venezuela",
+      "match": "Brasil x Paraguai",
       "channels": [
         "SporTV2"
       ]
@@ -417,28 +427,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.3,
+      "temp_max": 30.0,
       "temp_min": 20.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.1,
+      "temp_max": 31.8,
       "temp_min": 19.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.7,
+      "temp_max": 23.8,
       "temp_min": 14.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.5,
+      "temp_max": 23.8,
       "temp_min": 14.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -446,14 +456,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Braziline lança coleção Ginga Verão 2026 com novidades oficiais para o Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHNqZnlWTUsyakEzV181Nzk4WWZPRGViSklldmp4dW5LTlFORDF1SmttXzhVVi12NWtlV1pONjZId2hCUTdzbFExY3hYa0hyQXhqX3p0My1RMTREWkJ4ZUE2UmxQNXJkNVZBeDFLQVhYVER2RU9XaWhFeVpzMklkWE9YWFFueWxWWWo3OTRjaUZEY3RrRXQydHltMEdQSEQ1YlhwQkxXWjhnclZZ?oc=5",
-      "data": "05/08 16:30"
-    },
-    {
       "titulo": "Revanche, premiação e mais: o que está em jogo para o Fluminense na decisão contra o Vasco - ge",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObEwxd2tJWmdLcE9yOFM4RndzVkNpNU02dkE2NEdhdVZSeW5wSVJrWGI1WGdkaTROX25JYnhubDd6UnMtamVpcWlLQ1lKWjhDRm1VN1VCVEE1VUlWQmV1RzFXMzVWaFc3OU1RTWJHNW9fTUNvTVlQUkRrYVVZdGxqM3hYRDR1SXdCa29sZm9vVThMdDFFNXc0bGtiR1E1RXFBcWF6TG9KMDE5MXd4MHN5Y3ZWcHd0OFNkT3k2Ym9MOEhkNUVqSjVNaUtLWEc2Z0F0S3BtU1loXzVkWW1wdnNPbTE1Ymtya2dYaGUtd01haEHSAf8BQVVfeXFMTnFpLS1DX0VsQ0tpTWRTclR5UUVmQ3ZsS1pKa3RnNzRoc0MyXzR5Wl9sd29jX3dIbkFlRmREYVlhZ3p5c0FQSk9NU2RJa3p0WjNGMDZSNnBFNE9lckRMY0t6V2lSOWlMUVJVa1VNcTQxamVpRTluWU9Bbmh0cVhucGhnQWVfYmVxcFk5SWltMXgySDF5N2YwcVlub0h1andKcW03aU1Gd1RKMUhYZHl5a0dmLTM4WjAzWVNyWndqSE5Fa3hKWWNpLWxNQVpqTUpyQlg3MDJnVEJzN1dzN1lPRzI3SktTU2l2ckNabEI4NHd4M1lxRnhmalZDYndKT09v?oc=5",
       "data": "05/08 09:00"
+    },
+    {
+      "titulo": "Braziline lança coleção Ginga Verão 2026 com novidades oficiais para o Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHNqZnlWTUsyakEzV181Nzk4WWZPRGViSklldmp4dW5LTlFORDF1SmttXzhVVi12NWtlV1pONjZId2hCUTdzbFExY3hYa0hyQXhqX3p0My1RMTREWkJ4ZUE2UmxQNXJkNVZBeDFLQVhYVER2RU9XaWhFeVpzMklkWE9YWFFueWxWWWo3OTRjaUZEY3RrRXQydHltMEdQSEQ1YlhwQkxXWjhnclZZ?oc=5",
+      "data": "05/08 16:30"
     },
     {
       "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
@@ -461,14 +471,14 @@
       "data": "05/08 01:15"
     },
     {
-      "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
-      "data": "04/08 19:47"
-    },
-    {
       "titulo": "Presidente do Fluminense traz atualização sobre proposta para a SAF - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJydUMyMk1IdGl5NVFfbDVUTm5iMnplT09fWmJ5czZPLTYtSEktUjQxMUFSUXk1cnFOSmVVSDZNZkhDZE9UVFBRdDd0REhFM3JjUUFXbW4xUjhrMGxNbUgyRjRPOERBWHNISklxTHl1dzhQRVZja2o3NmZkTGs2WDdOSGtxTl8xZVhJTjkzejZ0UVlBNnV0YWhERGdCaVF2NTBMVDJYOXcyZXpGMUV5TndyWTVFR2t1V3hYdXQzSUNSNW5WTGd0bEpn0gHPAUFVX3lxTFBxQzVValFfMWswYzAyNWpnNThEc2N3RGZZb0ZxczdmUVc4SUl5eGo3QnlpYm1MemRJRTh2MUxEYjVYWC1jM216OTZVUnBVdHNqOUJEZl94bDlxQkVsYW1wc1d6MEZZMHR1VGIxTU9XZVZvbVkwcnlhbEVYYzNoYkU3ZEJEdHZHblAzUFh5d3RkdWRvdnVOR3RpMXpROG91ZENlMHlwYzJyVm9tbTZWMEc4UEJDb00xYUtDNk1MWVA2SzFaLUJjQUZnaXl1UE9fQQ?oc=5",
       "data": "05/08 01:12"
+    },
+    {
+      "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
+      "data": "04/08 19:47"
     }
   ],
   "avisos": []
