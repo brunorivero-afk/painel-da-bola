@@ -1,26 +1,6 @@
 {
-  "atualizado_em": "05/08/2026 17:22",
+  "atualizado_em": "05/08/2026 19:08",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "15:30",
-      "competition": "Amistosos",
-      "match": "Arsenal x Real Betis",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Mallorca x PSG",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-05",
@@ -87,6 +67,16 @@
       "sport": "futebol",
       "date": "2026-08-05",
       "time": "21:30",
+      "competition": "Leagues Cup",
+      "match": "Nashville SC x Leon",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "21:30",
       "competition": "Copa Do Brasil",
       "match": "Fluminense x Vasco",
       "channels": [
@@ -116,16 +106,6 @@
       "time": "21:30",
       "competition": "Leagues Cup",
       "match": "FC Dallas x Club Queretaro",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Nashville SC x Leon",
       "channels": [
         "APPLE TV"
       ]
@@ -199,6 +179,26 @@
       "channels": [
         "XSPORTS",
         "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "Arsenal x Real Betis",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Mallorca x PSG",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -461,11 +461,6 @@
       "data": "05/08 09:00"
     },
     {
-      "titulo": "Braziline lança coleção Ginga Verão 2026 com novidades oficiais para o Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHNqZnlWTUsyakEzV181Nzk4WWZPRGViSklldmp4dW5LTlFORDF1SmttXzhVVi12NWtlV1pONjZId2hCUTdzbFExY3hYa0hyQXhqX3p0My1RMTREWkJ4ZUE2UmxQNXJkNVZBeDFLQVhYVER2RU9XaWhFeVpzMklkWE9YWFFueWxWWWo3OTRjaUZEY3RrRXQydHltMEdQSEQ1YlhwQkxXWjhnclZZ?oc=5",
-      "data": "05/08 16:30"
-    },
-    {
       "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
       "data": "05/08 01:15"
@@ -479,6 +474,11 @@
       "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
       "data": "04/08 19:47"
+    },
+    {
+      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
+      "data": "30/07 07:02"
     }
   ],
   "avisos": []
