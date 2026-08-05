@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "05/08/2026 08:55",
+  "atualizado_em": "05/08/2026 11:00",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-05",
-      "time": "08:00",
-      "competition": "Amistosos",
-      "match": "K-League Stars x Manchester City",
-      "channels": [
-        "ESPN"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-05",
@@ -189,6 +179,16 @@ window.PAINEL_DATA = {
       "match": "Los Angeles FC x Guadalajara Chivas",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-05",
+      "time": "08:00",
+      "competition": "Amistosos",
+      "match": "K-League Stars x Manchester City",
+      "channels": [
+        "ESPN"
       ]
     },
     {
@@ -407,28 +407,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.4,
-      "temp_min": 20.8,
+      "temp_max": 30.3,
+      "temp_min": 20.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.5,
-      "temp_min": 19.7,
+      "temp_max": 31.1,
+      "temp_min": 19.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.0,
+      "temp_max": 23.7,
       "temp_min": 14.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.7,
+      "temp_max": 23.5,
       "temp_min": 14.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -436,29 +436,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Zubeldía mantém time após atuação sólida da defesa contra o Vasco - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdjZMRUQxdGx3cjJkelNjbTJnemNRbFo1cVdMNVVJSjhYRGhHUGlHYmFNVVEyVUVvUXJid3Q2cVBpbU9SOTJDN1BMLUVoMUZzanh0V1Iwc2Y2cWN2N1NKLVJiaG5sQm5fOFlYc3ZtOEFoaXFRRFFuR0pDM0p0dllEZURuTGNxWlZpWUJBWDVRVWdJY1NrNGhna0d2TURkd3FZTmk4QnB6bTQ2MXRSLUJrSGlvbmpuYmFrekM4TVhyT0MwYzktMXE4bnhwLUR4OGhKVTNROXp1REVMY3k3MXN3SGEwX0JOb0F3eF81QXdrRURZUdIBgAJBVV95cUxQTDZ1alk0Wk1KRk9CczRWckhQZm5COElpb3Nvc2JCOTlKOTRCNG9wcUNkMl9kN1l2aFE5WFBud3VpdXQ4eXNlUkloNkFNMVZYYWVMLUxScnM1b2FwZEdIczAtellCUVZRSUw4bEJZN0htSE9LbzVkWDJyYjV5UXNnUi12Z3N6R1RXOXVFdlBPQUN2RlhZY1d2S1VybEw0RWc1aHdaNlgyUU5QZFB1eVFkQVg2ekU4WEhWWHM0cVdmbFlWOXhuczNhbjk5UlBkdXhtWE55cGVtWWFZY2dOQXZQdWFTLW5aTnlQZEJYQXNZZmF5TGYwUDZTXzlvX2R5Qzl5?oc=5",
-      "data": "04/08 17:54"
-    },
-    {
-      "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
-      "data": "05/08 01:15"
-    },
-    {
-      "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
-      "data": "04/08 19:47"
-    },
-    {
-      "titulo": "Presidente do Fluminense traz atualização sobre proposta para a SAF - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJydUMyMk1IdGl5NVFfbDVUTm5iMnplT09fWmJ5czZPLTYtSEktUjQxMUFSUXk1cnFOSmVVSDZNZkhDZE9UVFBRdDd0REhFM3JjUUFXbW4xUjhrMGxNbUgyRjRPOERBWHNISklxTHl1dzhQRVZja2o3NmZkTGs2WDdOSGtxTl8xZVhJTjkzejZ0UVlBNnV0YWhERGdCaVF2NTBMVDJYOXcyZXpGMUV5TndyWTVFR2t1V3hYdXQzSUNSNW5WTGd0bEpn0gHPAUFVX3lxTFBxQzVValFfMWswYzAyNWpnNThEc2N3RGZZb0ZxczdmUVc4SUl5eGo3QnlpYm1MemRJRTh2MUxEYjVYWC1jM216OTZVUnBVdHNqOUJEZl94bDlxQkVsYW1wc1d6MEZZMHR1VGIxTU9XZVZvbVkwcnlhbEVYYzNoYkU3ZEJEdHZHblAzUFh5d3RkdWRvdnVOR3RpMXpROG91ZENlMHlwYzJyVm9tbTZWMEc4UEJDb00xYUtDNk1MWVA2SzFaLUJjQUZnaXl1UE9fQQ?oc=5",
-      "data": "05/08 01:12"
+      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Copa do Brasil - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMW9LblhKYnJxcldZQmhGYzJCel9NVXZlOTlZSTBLQS05Vnk5UzZzenFjVHRyc3BTbWhNSVFZYmx6RUxYYk1uXy1GMnY4bXpDbTFpVmF2Y2dMYXJyM3FUTnBpWGh2QlNYQTJHenRla29PTHJpVy10SzZRS215V1dCSnB3cF9mSGxJOEpkVlFya09yNUlZVk9SNDcxbkFTUm8yeTlubVpkaXJlc1dWc1RlYXc2Nm5xMjlQQUNySzBRYjdxRms0aEU4N3VfdGFEZUJkSkJjQTFIRE8zRDRNWWpoVmlFRkkxTjRVckZJcUFyUWVLMXh4N2xLaA?oc=5",
+      "data": "04/08 10:00"
     },
     {
       "titulo": "Hércules, do Fluminense, desperta interesse do Zenit após tentativa por Danilo, do Botafogo - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT1prVTZXaGYtLV9ocUMteEl4anJpd2plWElEMGt3Q05rOWZZell3RnhLQTMzUUllc2h6NExfTktaclBrU1dMaE83RXpleVM4Nmp6aHV6S0VxU3pDaEhSeDNhYUVJRnRCUTE1ekdILTl3WDdRTU1FeXJoWHZ5bk1ySUVZeUxiTzZFSXFQSXJYcnZ3a2hpTVdweGUzS1l3WWE3RzY0OGt4b1c3eVgwTTMtYm9iS3NvSXhYLVhBNnBGSk9RS0d2MGs3bDg0RENQR3k1MkJUbXZXRFkxMmp5TEhibGd4N19STHhVMjhjU0JSN1FnUXRqQkdpWFVR0gGIAkFVX3lxTE9oS2w5U3VURFd6VXJwd3FKOElNc2xyZy1keHhSSmpSdzhVWnozVUhoS0JQd0luX19yWG5mYW1XNUJDR1JlTzMwUjd5QTFsdDNSdm56VFowOXdPLU40ekJmamFCMGtrd1RXSEEzSTZESmpMX1V0TDdoUjFEYmc1dHBqQnI4VVc4aTIzUndzX0tqWUVTR1EwbTQ4Y2FTQnMwSGVPVkJmZllxcFlORk1aZE5BcnVUS3FPMDNLRnRxbHE0VHIySTFKNXFnZ1NuSW1oTkx0YmJCZkMxNUMxd3NzUHNuVkFHdWRFRzRlUmlFZXZlS2VBYjRKVFdTTU9mSzJmc0paY3VzWlBWVg?oc=5",
       "data": "04/08 18:27"
+    },
+    {
+      "titulo": "Hércules no Zenit? Fluminense apresenta valores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWUxyLWxVNHdNZTVoU3lEVzl0ejQ5eU9xRGZiY01iNF9sLXBxcUV3V0g1WV9Eb0xNd1pXYXJNVWJMZmFqcDduVnk2SUtOTWtKdFhWcnl0OVhnYUQ4MFFtODVTS3liX0pnTGlkRndJM1AtVFF0dEZ5bU0xUzhNLXVtbnZnXzkxYUU3S1dkN2RVVU8yLUFEODhMRll5X1NaaHpvSkg2d3QyZlJEV2pLRDNOUkR0QS1yakpHZHBRVHRRbUplVlI4MHRqaGpVLUhvTkNpOXZ3?oc=5",
+      "data": "04/08 19:46"
+    },
+    {
+      "titulo": "Hércules, do Fluminense, atrai interesse do Zenit, da Rússia - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjVDdHlXUWtncVdVd0kyeHZkdFdPMF9MYnd1SWFndV8yalMtOFVDQkNyN0xSMVpEVEw4NXdidHlDbGZfYWwtZ3RTTlBTeFBwTTd5VXp1T2JCUnJiOTJuXzZBakNRM1FDSWg0VTVyd2RPNE1feC1CSUVDc2tNZUFNNTVmLXVOTVFTcnIyMDBUanRlZw?oc=5",
+      "data": "04/08 19:33"
+    },
+    {
+      "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
+      "data": "05/08 01:15"
     }
   ],
   "avisos": []
