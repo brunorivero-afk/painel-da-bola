@@ -1,117 +1,6 @@
 {
-  "atualizado_em": "04/08/2026 21:08",
+  "atualizado_em": "05/08/2026 00:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "19:30",
-      "competition": "Copa Do Brasil",
-      "match": "Juventude x Atlético-MG",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "20:45",
-      "competition": "Leagues Cup",
-      "match": "Columbus Crew x Atlas",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "20:45",
-      "competition": "Leagues Cup",
-      "match": "FC Cincinnati x Pachuca",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "21:00",
-      "competition": "Leagues Cup",
-      "match": "Charlotte x U.N.A.M. - Pumas",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "21:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Plaza Amador x Firpo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "21:30",
-      "competition": "Copa Do Brasil",
-      "match": "Remo x Santos",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Minnesota United FC x FC Juarez",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "23:00",
-      "competition": "Leagues Cup",
-      "match": "Tigres UANL x Real Salt Lake",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "23:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Antigua GFC x Real Esteli",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "23:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Diriangen x LD Alajuelense",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-04",
-      "time": "23:30",
-      "competition": "Leagues Cup",
-      "match": "Whitecaps x Atlante FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-05",
@@ -283,8 +172,110 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Alianza Atletico x Cienciano",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "20:00",
+      "competition": "Copa Do Brasil",
+      "match": "Corinthians x Internacional",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "20:00",
+      "competition": "Copa Do Brasil",
+      "match": "Vitória x Athletico PR",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "20:30",
+      "competition": "Leagues Cup",
+      "match": "New York City FC x Santos Laguna",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "21:00",
+      "competition": "Leagues Cup",
+      "match": "Cruz Azul x Philadelphia Union",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "21:30",
+      "competition": "Leagues Cup",
+      "match": "Chicago Fire x Necaxa",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "22:00",
+      "competition": "Leagues Cup",
+      "match": "Austin x Club Tijuana",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "22:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Verdes x Municipal",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "23:00",
+      "competition": "Leagues Cup",
+      "match": "Club America x San Diego",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "23:30",
+      "competition": "Leagues Cup",
+      "match": "Portland Timbers x Puebla",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "13:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Paraguai",
@@ -294,7 +285,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "16:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Venezuela",
@@ -304,7 +295,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "04:25",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
@@ -314,7 +305,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "08:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Liga das Nações Masculina de Vôlei - Final",
@@ -324,7 +315,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "11:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
@@ -334,7 +325,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "12:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
@@ -344,7 +335,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
@@ -354,7 +345,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "15:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
@@ -364,7 +355,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "16:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
@@ -374,7 +365,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "17:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Rio de Janeiro",
@@ -384,7 +375,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "18:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Rio de Janeiro",
@@ -396,43 +387,48 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.8,
-      "temp_min": 18.7,
+      "temp_max": 30.6,
+      "temp_min": 20.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.2,
+      "temp_max": 31.9,
       "temp_min": 19.8,
-      "chance_chuva": 0,
+      "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.8,
-      "temp_min": 13.3,
+      "temp_max": 24.2,
+      "temp_min": 15.3,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.3,
-      "temp_min": 11.0,
+      "temp_max": 23.6,
+      "temp_min": 14.7,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
+      "titulo": "Escalação do Fluminense: Zubeldía mantém time após atuação sólida da defesa contra o Vasco - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdjZMRUQxdGx3cjJkelNjbTJnemNRbFo1cVdMNVVJSjhYRGhHUGlHYmFNVVEyVUVvUXJid3Q2cVBpbU9SOTJDN1BMLUVoMUZzanh0V1Iwc2Y2cWN2N1NKLVJiaG5sQm5fOFlYc3ZtOEFoaXFRRFFuR0pDM0p0dllEZURuTGNxWlZpWUJBWDVRVWdJY1NrNGhna0d2TURkd3FZTmk4QnB6bTQ2MXRSLUJrSGlvbmpuYmFrekM4TVhyT0MwYzktMXE4bnhwLUR4OGhKVTNROXp1REVMY3k3MXN3SGEwX0JOb0F3eF81QXdrRURZUdIBgAJBVV95cUxQTDZ1alk0Wk1KRk9CczRWckhQZm5COElpb3Nvc2JCOTlKOTRCNG9wcUNkMl9kN1l2aFE5WFBud3VpdXQ4eXNlUkloNkFNMVZYYWVMLUxScnM1b2FwZEdIczAtellCUVZRSUw4bEJZN0htSE9LbzVkWDJyYjV5UXNnUi12Z3N6R1RXOXVFdlBPQUN2RlhZY1d2S1VybEw0RWc1aHdaNlgyUU5QZFB1eVFkQVg2ekU4WEhWWHM0cVdmbFlWOXhuczNhbjk5UlBkdXhtWE55cGVtWWFZY2dOQXZQdWFTLW5aTnlQZEJYQXNZZmF5TGYwUDZTXzlvX2R5Qzl5?oc=5",
+      "data": "04/08 17:54"
+    },
+    {
       "titulo": "Brasileirão 2026: Informações de ingressos para Botafogo x Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmxISGdhc01VX2lVVTYyZWVHbzd6VmJ5NF9rLW5XUnlLZGNKaVhPSklwLWxOLURCYzFzZUNNbnh5MThrQUtsUnF6RXNkS0d4ZWNhLTlGWHlCNm02REZxZE9RNmN4LWdCMm5rVkVMQ202WmdhRzZxTlhQbFB2RDNGXzRrZXFCNkc2Q1pqbGphUUlCaGg5SW5GbUtkR1d1dGlFZFBNZGw3aE4tZw?oc=5",
       "data": "02/08 21:00"
     },
     {
-      "titulo": "Montenegro diz que não venderia SAF do Fluminense para investidor árabe e dá preferência para brasileiros - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1ZfQ25uVFdvbTVCMUpaN3RlZjFQeVVQY3R5T0EtOFFmVXZjRjN3RDZOUDNuWjViYmdocElYX2YzbC1jLWlocE9wd2pYeW43bFhZMXJLMXRpN0FVUlNYekR4MHhQbGc2bkNrRDlTQ2tpb2l5X0Zqd2x5Um1jaHdIOGlPblBSX19SOVEtUkxzMk0tdG91WUg0c01kVWprV2dMMmNGUUlSbmdOSi1CYVlsWXNnY3FDM2FiMVFRN0t2QUYzbnU2cjFaUXRFRTQ?oc=5",
-      "data": "04/08 22:11"
+      "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
+      "data": "05/08 01:15"
     },
     {
       "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
@@ -440,14 +436,9 @@
       "data": "04/08 19:47"
     },
     {
-      "titulo": "\"Não venderia o Fluminense para um sheik árabe\", diz Montenegro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeU9KQlJTUDFxbnExdUgtdnFQNnhDaFlkY2pFSU9tcTRPS0lVR3NvbnNmdnZEb0Z3VFNFaHNWd1NBeThXeDBhUWtoajdjS0Y5ZWZKRDFRT1k3X3A1dzhDcnhzdFh5VDZXNWxVN1AtZDdiM0Rja0FEUEVjc3R5R2JCR3RVNGJXUkNNQVRFTnIxMDZBZFFBZzdTaDRNbWJheFMtYjVrWUEtWHFyODJwVndMS2dxWDdXbWhJTHczME1IaFFSamkxWi1RRGhMUWNhN2hlOGJYU0tSeUIwYUNaSUxxTXFjSC1JZw?oc=5",
-      "data": "04/08 22:25"
-    },
-    {
-      "titulo": "Hércules, do Fluminense, desperta interesse do Zenit após tentativa por Danilo, do Botafogo - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT1prVTZXaGYtLV9ocUMteEl4anJpd2plWElEMGt3Q05rOWZZell3RnhLQTMzUUllc2h6NExfTktaclBrU1dMaE83RXpleVM4Nmp6aHV6S0VxU3pDaEhSeDNhYUVJRnRCUTE1ekdILTl3WDdRTU1FeXJoWHZ5bk1ySUVZeUxiTzZFSXFQSXJYcnZ3a2hpTVdweGUzS1l3WWE3RzY0OGt4b1c3eVgwTTMtYm9iS3NvSXhYLVhBNnBGSk9RS0d2MGs3bDg0RENQR3k1MkJUbXZXRFkxMmp5TEhibGd4N19STHhVMjhjU0JSN1FnUXRqQkdpWFVR0gGIAkFVX3lxTE9oS2w5U3VURFd6VXJwd3FKOElNc2xyZy1keHhSSmpSdzhVWnozVUhoS0JQd0luX19yWG5mYW1XNUJDR1JlTzMwUjd5QTFsdDNSdm56VFowOXdPLU40ekJmamFCMGtrd1RXSEEzSTZESmpMX1V0TDdoUjFEYmc1dHBqQnI4VVc4aTIzUndzX0tqWUVTR1EwbTQ4Y2FTQnMwSGVPVkJmZllxcFlORk1aZE5BcnVUS3FPMDNLRnRxbHE0VHIySTFKNXFnZ1NuSW1oTkx0YmJCZkMxNUMxd3NzUHNuVkFHdWRFRzRlUmlFZXZlS2VBYjRKVFdTTU9mSzJmc0paY3VzWlBWVg?oc=5",
-      "data": "04/08 18:27"
+      "titulo": "Mandatário tricolor comenta sobre impasses na LFF e insatisfação dos clubes - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDlaZHlvaVFqYkU3UkNna2lyc0lkV2tXNU56Y1ViOWhsV0UxTEYyMDhXWWJqNHRNTm03OUpwbFFmV0dVRkg3U3JjeEh4dHdyTTNhTW9rMjFYS1ZDNUFXbU1mUHFIanFDVzVVNk5PZlYyTGM0OUhiN2hhMlYyYnFKLUpqckFxQWl6Y0JRaVpsRXBnaDN0N1UxOFVSNXdRRXFKV0pZOA?oc=5",
+      "data": "05/08 01:36"
     }
   ],
   "avisos": []
