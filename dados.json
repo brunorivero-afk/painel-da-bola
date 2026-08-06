@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/08/2026 05:27",
+  "atualizado_em": "06/08/2026 08:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -409,9 +409,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - GE",
+      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3NNeUFRZS1INkFuczEzX1NBWEYwQml1djRmeDVLSDQ0NzJJUElENWF5YU5GUG9Nc1BTQ0RaZ0c5UU1xV3ExSlNkZk5acWNqNVhKOHlYRjItNVFoVW94dFdORGNCYTZrbHBNOTg2MzVLZlIxUUtaSzNWV04zVlBVRy1IcGtLQ0puV0dvWVE0QjhoWVJfdGlDSXlMUEVUS0FfbE5zTjJfVXZIQ1RQUjN5YkhtT1JmUHpLVTl1MmVIZlpPVk9yTE0yZ2JR0gHYAUFVX3lxTE5fVnhQT2pZUG5oNEpVVXl4dExGazJYTUU2NHRPWHExWnJSZG1zeC1KZzR1WlV4NVdYZ3RuOGpRSkV1NXduYTRVRjlEWXhnU2dFSWQtSVNtdEQ5WlFfYmdNMG82N2hvYklfS0N3U2o0c0hCX1I3RU9KQ29mUWcxS3piWmU2RHRZcnc3WGpkQmEyMUt2YnVxS1BJTXhZcktfTnY3NExzTEF5cU9zWng2dHpOMHN3cEhqcEVSaEs3RlJLS2VONVA3TFJKLXctLVpfcUZNOUJyZkZ5ZQ?oc=5",
       "data": "05/08 06:00"
+    },
+    {
+      "titulo": "Vai sair? Entenda a situação de Luís Zubeldía no comando do Fluminense - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMFdaSjByNnRCNGFnaDRROGlJZWJyaTdkMUpiM0x6akFSRGpta2dhUTVVbUJlM0JmRnlUd085VXAtNFVjS2VrQTZnU0lDV3N2V29USDVua0JvNmtlXzJzZk9rR1JYOTJFUk5oU0pJR0RSZ2hpdFdnWEttMWdEZVZjNWZkTGd6VHJCU0gwelhBODhmNlVQcVhBOVBVNFFRV1E1bGpubWVCdVI4QXU3b21ZZ1pKOUlfYU5neXFoeWZqQzYzX0VaaEZESmNENkpMQjJIU0dpb2g2OEdmWmJxOTdGeTlRZWU4aDh3SE1ueHlMY2Q?oc=5",
+      "data": "06/08 10:39"
     },
     {
       "titulo": "Presidente do Fluminense traz atualização sobre proposta para a SAF - O Dia",
@@ -419,19 +424,14 @@
       "data": "05/08 01:12"
     },
     {
-      "titulo": "Fluminense tenta 'aumentar o cheque' em negociação sobre nova SAF - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR1JORzNZWEczU19jcjJMeHM4VU96V1dobEVPRFNCMTdOLV9wOGI5ck5XR0JxTHlOajFsYVFFS1d0ZGlLYmpvMC1XanNGNUp1Mkl0YWI2SEc0bXNpYTdfamVXOG1VVjMyT19DQkZhS0p3WU5WdVhGdWc2eVZOUHVWMDFON21FRVJGNXh3TlAyM1lKYUxwZG1HVDNfeGY1RlFKaHBEOGJLTk1jdWI4N2xUY0tMeGVDV1J5NldxSEJzMzBwZTRpdEJtd1RlVTNNYjE4?oc=5",
-      "data": "05/08 01:15"
+      "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
+      "data": "04/08 19:47"
     },
     {
-      "titulo": "'Não venderia para um sheik árabe mesmo por um valor maior', diz presidente do Fluminense sobre a SAF - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSFpJRnUtMHlxZ2lrRWhRZVlvUS1GNTRQczMtZ0M0QVJMb01yNUVuMXF3dFd6eVBEa3Jhb0IyaUpmcHRPejJIOFMzc0txZ0pLOENabTdVNnhaY19XSmltN3VlUEZubzFDVTVSV3lHT2dpWmljbEZEd1VWb1Z1QXFybnRBVE1LM0NFWU5QU3FpZTB4akN6UTMwTDVFdzFPRmVTQW1RU2VfTTVzaUdHbVFHdWRtYmFLczNFT3Jnd0N5Q3Y2V0NvWWF2Rlh2T2xKQVRfLXNBRk1OSkdDZWktVmJwcF9uNFNHM1hxM0xYbWpMS3Z3TnBUVU5Ydi0wTXQzb1BTaFpMeUxrUdIBlgJBVV95cUxOY0p1VmdtZTMwN254RTh0TXBzSFRZS0RWazhKTXd5OFl2M1E3eXRZUUg1NEJjR2pMVFlVcFJFb1E5Q0tLTDBYcnRGV1JXRGc5SEUxMEE3R0FkVTYtd3BWUU5NUElFQlI1NGQ3RUFvZ0JJR21jR1BWTE1CZUdEblBLcXhXMHZuVGo3WVZYQzV5dDlQUHNWSFItVk54WDlGcTNZaWE4NGtXV0xaRDEtTEUwVURIMGU4QlBCaUlYbmZHRFFLWXJLOVhYdU0yRl9aNkhVSDR5M2EzSHgyYXY2NGNFYjBrdlVPaFBLTFFYX0RYazZXMV90RFcwVzdocTNYY0xUUWJqLVhzWnBZX1NlQUlwNDVVV1dwZw?oc=5",
-      "data": "04/08 20:29"
-    },
-    {
-      "titulo": "Zubeldía explica opção por Ganso no Fluminense após meses sem jogar - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd05DZHFCUVpiQ1hoMEFxbks3MmduRmZLaVhzY21uWmNFajJzZkw3TXM3aWtZYTdVdWJQdGFKSDlYWmZFTEpOYnU4aV9sQTI2RGpVQ0xMNU9oaU00VUVKV3lKLVR3cU9EOEc2eHhpMmpjcVJpX284enBEempZZWptbDY2aXFidXRqellOZHZxZUZkTmtHNHpxUmVXLXI3N0VqSHI2WHJDQ0MyZkpjSS1vc2hJbnVhSWRUSHJJeEVFOVBEOVZpal9XY0dNSXE3NFlzUHFlUzlXUEp2ZFpzdTFxQUp6N01hbGRvakUyaHFR?oc=5",
-      "data": "06/08 03:33"
+      "titulo": "Fluminense aguarda nova proposta pela SAF, diz Montenegro - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdk9wWVV4bGdCUFUyb2hMQ0ZYVmJYQXV2dTY3WXJfR3dydnB5aEV3ME5hSUthcjNoVlVoaFRQSjlfTDdaNzFSbHlxdVU5ZkMyQlg1bW5WaEV2SlBqR0dVVUJ6MEk1RVRtRFdjV0E4UDdtTFJUWE5UU0hPTkdKTlEtN29CN0VINnl4U2t3UVhESHFtSW4wVFUxbW90TmJtZw?oc=5",
+      "data": "04/08 20:30"
     }
   ],
   "avisos": []
