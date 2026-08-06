@@ -148,6 +148,34 @@
   .tab.active[data-sport="aovivo"]{ border-color: var(--live); color: var(--live); }
   .tab.active[data-sport="links"]{ border-color: var(--text); color: var(--text); }
 
+  .tarefas-btn{
+    font-family: var(--font-body);
+    font-weight: 700;
+    font-size: 12px;
+    padding: 8px 14px;
+    border-radius: 20px;
+    border: 1px solid var(--verde);
+    background: var(--verde);
+    color: #fff;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .tarefas-btn:hover{ background: #0F5C37; }
+
+  .tarefas-topbar{ display: flex; align-items: center; gap: 14px; margin-bottom: 18px; }
+  .voltar-btn{
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 13px;
+    padding: 8px 14px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    color: var(--text);
+    cursor: pointer;
+  }
+  .voltar-btn:hover{ border-color: var(--grena); color: var(--grena); }
+
   .refresh-btn{
     font-family: var(--font-body);
     font-weight: 600;
@@ -379,6 +407,144 @@
   }
   .link-remove:hover{ color: var(--live); }
 
+  .kanban{ display: flex; gap: 10px; }
+  .kcol{
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    min-width: 0;
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+  }
+  .kcol.drag-over{ background: var(--panel-2); border-color: var(--grena); }
+  .kcol-header{
+    font-family: var(--font-display);
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    color: var(--muted);
+  }
+  .kcol[data-col="urgentes"] .kcol-header{ color: var(--live); }
+  .kcol-cards{
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-height: 50px;
+    max-height: 58vh;
+    overflow-y: auto;
+    flex: 1;
+    scrollbar-width: thin;
+  }
+  .kcard{
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--grena);
+    border-radius: 6px;
+    padding: 8px 10px;
+    font-size: 13px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  .kcard.dragging{ opacity: 0.35; }
+  .kcol[data-col="urgentes"] .kcard{ border-left-color: var(--live); }
+  .kcard-body{ flex: 1; min-width: 0; }
+  .kcard-titulo{ word-break: break-word; }
+  .kcard-badges{ display: flex; flex-wrap: wrap; gap: 4px; margin-top: 5px; }
+  .kbadge{
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: var(--panel-2);
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .kbadge-comercial{ background: rgba(158,31,60,0.1); color: var(--grena); }
+  .kbadge-pessoal{ background: rgba(22,121,74,0.1); color: var(--verde); }
+  .kbadge-prio-alta{ background: var(--live-dim); color: var(--live); }
+  .kbadge-prio-media{ background: #FBEBD8; color: #B4620C; }
+  .kbadge-prio-baixa{ background: var(--panel-2); color: var(--muted); }
+  .kcard-remove{ border: none; background: none; color: var(--muted); cursor: pointer; font-size: 14px; line-height: 1; flex-shrink: 0; }
+  .kcard-remove:hover{ color: var(--live); }
+  .kcol-add-btn{
+    display: block;
+    width: calc(100% - 16px);
+    margin: 0 8px 8px;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 7px 10px;
+    border-radius: 6px;
+    border: 1px dashed var(--border);
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+  }
+  .kcol-add-btn:hover{ border-color: var(--grena); color: var(--grena); }
+
+  .modal-overlay{
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    z-index: 100;
+  }
+  .modal-card{
+    background: var(--panel);
+    border-radius: 10px;
+    width: 100%;
+    max-width: 420px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 18px;
+  }
+  .modal-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+  .modal-header span{ font-family: var(--font-display); font-size: 18px; letter-spacing: 0.5px; color: var(--text); }
+  .modal-close{ border: none; background: none; font-size: 20px; color: var(--muted); cursor: pointer; line-height: 1; }
+  .modal-close:hover{ color: var(--live); }
+  .fm-field{ display: flex; flex-direction: column; gap: 4px; margin-bottom: 12px; }
+  .fm-field label{ font-size: 11px; font-weight: 700; letter-spacing: 0.4px; text-transform: uppercase; color: var(--muted); }
+  .fm-field input, .fm-field textarea, .fm-field select{
+    font-family: var(--font-body);
+    font-size: 14px;
+    padding: 8px 10px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    resize: vertical;
+  }
+  .fm-row{ display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .modal-actions{ display: flex; justify-content: space-between; align-items: center; margin-top: 6px; }
+  .modal-delete{ border: none; background: none; color: var(--live); font-weight: 600; font-size: 13px; cursor: pointer; }
+  .modal-save{
+    font-family: var(--font-body);
+    font-weight: 700;
+    font-size: 13px;
+    padding: 9px 18px;
+    border-radius: 6px;
+    border: 1px solid var(--grena);
+    background: var(--grena);
+    color: #fff;
+    cursor: pointer;
+    margin-left: auto;
+  }
+
   .news-list{
     background: var(--panel);
     border: 1px solid var(--border);
@@ -434,6 +600,10 @@
 
     .link-form{ flex-direction: column; }
     .link-form button{ width: 100%; }
+
+    .kcol-header{ font-size: 12px; padding: 7px 8px; }
+    .kcard{ font-size: 11px; padding: 6px 7px; }
+    .kbadge{ font-size: 9px; padding: 1px 4px; }
   }
 </style>
 </head>
@@ -448,12 +618,88 @@
         <div class="subtitle">futebol e vôlei na TV, clima e notícias do Fluminense</div>
       </div>
     </div>
+    <button class="tarefas-btn" id="tarefas-btn" onclick="abrirTarefas()">📋 Tarefas</button>
     <div class="clock">
       <small>Brasília</small>
       <span id="clock-text">--:--:--</span>
     </div>
   </header>
 
+  <div id="vista-tarefas" style="display:none">
+    <div class="tarefas-topbar">
+      <button class="voltar-btn" onclick="fecharTarefas()">← Voltar ao Painel</button>
+      <div class="section-title" style="margin:0; border:none; padding:0;">Tarefas</div>
+    </div>
+    <div class="kanban" id="kanban">
+      <div class="kcol" data-col="urgentes">
+        <div class="kcol-header">Urgentes</div>
+        <div class="kcol-cards" id="kcol-urgentes"></div>
+        <button class="kcol-add-btn" data-col="urgentes">+ Nova tarefa</button>
+      </div>
+      <div class="kcol" data-col="tarefas1">
+        <div class="kcol-header">Tarefas 1</div>
+        <div class="kcol-cards" id="kcol-tarefas1"></div>
+        <button class="kcol-add-btn" data-col="tarefas1">+ Nova tarefa</button>
+      </div>
+      <div class="kcol" data-col="tarefas2">
+        <div class="kcol-header">Tarefas 2</div>
+        <div class="kcol-cards" id="kcol-tarefas2"></div>
+        <button class="kcol-add-btn" data-col="tarefas2">+ Nova tarefa</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal-overlay" id="tarefa-modal-overlay">
+    <div class="modal-card">
+      <div class="modal-header">
+        <span id="modal-titulo-texto">Nova Tarefa</span>
+        <button class="modal-close" onclick="fecharModalTarefa()">×</button>
+      </div>
+      <form id="tarefa-form">
+        <div class="fm-field">
+          <label>Título *</label>
+          <input type="text" id="tf-titulo" required>
+        </div>
+        <div class="fm-field">
+          <label>Descrição</label>
+          <textarea id="tf-descricao" rows="3"></textarea>
+        </div>
+        <div class="fm-row">
+          <div class="fm-field">
+            <label>Categoria</label>
+            <select id="tf-categoria">
+              <option value="comercial">Comercial</option>
+              <option value="pessoal">Pessoal</option>
+            </select>
+          </div>
+          <div class="fm-field">
+            <label>Prioridade</label>
+            <select id="tf-prioridade">
+              <option value="alta">Alta</option>
+              <option value="media" selected>Média</option>
+              <option value="baixa">Baixa</option>
+            </select>
+          </div>
+        </div>
+        <div class="fm-row">
+          <div class="fm-field">
+            <label>Quando fazer</label>
+            <input type="date" id="tf-quando">
+          </div>
+          <div class="fm-field">
+            <label>Prazo de vencimento</label>
+            <input type="date" id="tf-prazo">
+          </div>
+        </div>
+        <div class="modal-actions">
+          <button type="button" class="modal-delete" id="tf-excluir" style="display:none" onclick="excluirTarefaModal()">Excluir</button>
+          <button type="submit" class="modal-save">Salvar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div id="vista-painel">
   <div class="status-line" id="status-line">carregando dados...</div>
   <div class="stale-banner" id="stale-banner"></div>
   <div class="flu-hero" id="flu-hero"></div>
@@ -509,6 +755,7 @@
     Horários em Brasília. A grade pode mudar sem aviso das emissoras — confirme perto da hora do jogo.<br>
     Painel atualizado automaticamente todo dia ao ligar o computador. Pra buscar dados novos na hora, use o atalho "Atualizar Painel Agora" na área de trabalho.
   </footer>
+  </div>
 
 </div>
 
@@ -652,6 +899,18 @@ document.getElementById('tabs').addEventListener('click', (e) => {
   }
 });
 
+// ===== Tarefas: tela cheia separada, acessada pelo botão no cabeçalho =====
+function abrirTarefas(){
+  document.getElementById('vista-painel').style.display = 'none';
+  document.getElementById('vista-tarefas').style.display = 'block';
+  renderTarefas();
+}
+
+function fecharTarefas(){
+  document.getElementById('vista-tarefas').style.display = 'none';
+  document.getElementById('vista-painel').style.display = 'block';
+}
+
 document.getElementById('refresh-btn').addEventListener('click', () => location.reload());
 
 function renderWeather(clima){
@@ -723,6 +982,181 @@ document.getElementById('links-list').addEventListener('click', (e) => {
   links.splice(idx, 1);
   saveLinks(links);
   renderLinks();
+});
+
+// ===== Tarefas (quadro estilo Trello, só neste navegador/PC) =====
+const TAREFAS_KEY = 'painelBolaTarefas';
+const TAREFAS_COLS = ['urgentes', 'tarefas1', 'tarefas2'];
+let modalColAlvo = null;
+let modalEditId = null;
+
+function getTarefas(){
+  try{ return JSON.parse(localStorage.getItem(TAREFAS_KEY) || '[]'); }catch(e){ return []; }
+}
+
+function saveTarefas(tarefas){
+  localStorage.setItem(TAREFAS_KEY, JSON.stringify(tarefas));
+}
+
+function prioridadeLabel(p){
+  return { alta: 'Alta', media: 'Média', baixa: 'Baixa' }[p] || '';
+}
+
+function formatarDataBR(iso){
+  if(!iso) return '';
+  const [y, m, d] = iso.split('-');
+  return `${d}/${m}`;
+}
+
+function renderTarefas(){
+  const tarefas = getTarefas();
+  TAREFAS_COLS.forEach(col => {
+    const container = document.getElementById('kcol-' + col);
+    const itens = tarefas.filter(t => t.col === col);
+    container.innerHTML = itens.map(t => {
+      const badges = [];
+      if(t.categoria) badges.push(`<span class="kbadge kbadge-${t.categoria}">${t.categoria === 'comercial' ? 'Comercial' : 'Pessoal'}</span>`);
+      if(t.prioridade) badges.push(`<span class="kbadge kbadge-prio-${t.prioridade}">${prioridadeLabel(t.prioridade)}</span>`);
+      if(t.quando) badges.push(`<span class="kbadge">▶ ${formatarDataBR(t.quando)}</span>`);
+      if(t.prazo) badges.push(`<span class="kbadge">⏰ ${formatarDataBR(t.prazo)}</span>`);
+      return `
+      <div class="kcard" draggable="true" data-id="${t.id}">
+        <div class="kcard-body">
+          <div class="kcard-titulo">${escapeHtml(t.titulo)}</div>
+          ${badges.length ? `<div class="kcard-badges">${badges.join('')}</div>` : ''}
+        </div>
+        <button class="kcard-remove" data-id="${t.id}" title="Remover">×</button>
+      </div>`;
+    }).join('');
+  });
+}
+
+function limparFormTarefa(){
+  document.getElementById('tf-titulo').value = '';
+  document.getElementById('tf-descricao').value = '';
+  document.getElementById('tf-categoria').value = 'comercial';
+  document.getElementById('tf-prioridade').value = 'media';
+  document.getElementById('tf-quando').value = '';
+  document.getElementById('tf-prazo').value = '';
+}
+
+function abrirModalNovaTarefa(col){
+  modalColAlvo = col;
+  modalEditId = null;
+  limparFormTarefa();
+  document.getElementById('modal-titulo-texto').textContent = 'Nova Tarefa';
+  document.getElementById('tf-excluir').style.display = 'none';
+  document.getElementById('tarefa-modal-overlay').style.display = 'flex';
+  document.getElementById('tf-titulo').focus();
+}
+
+function abrirModalEditar(id){
+  const t = getTarefas().find(x => x.id === id);
+  if(!t) return;
+  modalColAlvo = t.col;
+  modalEditId = id;
+  document.getElementById('tf-titulo').value = t.titulo || '';
+  document.getElementById('tf-descricao').value = t.descricao || '';
+  document.getElementById('tf-categoria').value = t.categoria || 'comercial';
+  document.getElementById('tf-prioridade').value = t.prioridade || 'media';
+  document.getElementById('tf-quando').value = t.quando || '';
+  document.getElementById('tf-prazo').value = t.prazo || '';
+  document.getElementById('modal-titulo-texto').textContent = 'Editar Tarefa';
+  document.getElementById('tf-excluir').style.display = 'inline-block';
+  document.getElementById('tarefa-modal-overlay').style.display = 'flex';
+}
+
+function fecharModalTarefa(){
+  document.getElementById('tarefa-modal-overlay').style.display = 'none';
+}
+
+function excluirTarefaModal(){
+  if(!modalEditId) return;
+  const tarefas = getTarefas().filter(t => t.id !== modalEditId);
+  saveTarefas(tarefas);
+  fecharModalTarefa();
+  renderTarefas();
+}
+
+document.getElementById('tarefa-form').addEventListener('submit', (e) => {
+  e.preventDefault();
+  const titulo = document.getElementById('tf-titulo').value.trim();
+  if(!titulo) return;
+  const dados = {
+    titulo,
+    descricao: document.getElementById('tf-descricao').value.trim(),
+    categoria: document.getElementById('tf-categoria').value,
+    prioridade: document.getElementById('tf-prioridade').value,
+    quando: document.getElementById('tf-quando').value,
+    prazo: document.getElementById('tf-prazo').value
+  };
+  const tarefas = getTarefas();
+  if(modalEditId){
+    const t = tarefas.find(x => x.id === modalEditId);
+    if(t) Object.assign(t, dados);
+  }else{
+    tarefas.push({ id: Date.now() + '-' + Math.random().toString(36).slice(2, 7), col: modalColAlvo, ...dados });
+  }
+  saveTarefas(tarefas);
+  fecharModalTarefa();
+  renderTarefas();
+});
+
+document.getElementById('tarefa-modal-overlay').addEventListener('click', (e) => {
+  if(e.target.id === 'tarefa-modal-overlay') fecharModalTarefa();
+});
+
+document.getElementById('kanban').addEventListener('click', (e) => {
+  const removeBtn = e.target.closest('.kcard-remove');
+  if(removeBtn){
+    const tarefas = getTarefas().filter(t => t.id !== removeBtn.dataset.id);
+    saveTarefas(tarefas);
+    renderTarefas();
+    return;
+  }
+  const addBtn = e.target.closest('.kcol-add-btn');
+  if(addBtn){
+    abrirModalNovaTarefa(addBtn.dataset.col);
+    return;
+  }
+  const card = e.target.closest('.kcard');
+  if(card){
+    abrirModalEditar(card.dataset.id);
+  }
+});
+
+let draggingTarefaId = null;
+
+document.getElementById('kanban').addEventListener('dragstart', (e) => {
+  const card = e.target.closest('.kcard');
+  if(!card) return;
+  draggingTarefaId = card.dataset.id;
+  card.classList.add('dragging');
+});
+
+document.getElementById('kanban').addEventListener('dragend', (e) => {
+  const card = e.target.closest('.kcard');
+  if(card) card.classList.remove('dragging');
+  document.querySelectorAll('.kcol').forEach(c => c.classList.remove('drag-over'));
+});
+
+document.querySelectorAll('.kcol').forEach(col => {
+  col.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    col.classList.add('drag-over');
+  });
+  col.addEventListener('dragleave', () => {
+    col.classList.remove('drag-over');
+  });
+  col.addEventListener('drop', (e) => {
+    e.preventDefault();
+    col.classList.remove('drag-over');
+    if(!draggingTarefaId) return;
+    const tarefas = getTarefas();
+    const t = tarefas.find(x => x.id === draggingTarefaId);
+    if(t){ t.col = col.dataset.col; saveTarefas(tarefas); renderTarefas(); }
+    draggingTarefaId = null;
+  });
 });
 
 function renderFluHero(){
@@ -802,7 +1236,8 @@ function applyData(data){
   allMatches = Array.isArray(data.jogos) ? data.jogos.filter(m => m && m.match) : [];
 
   const linksVisible = document.getElementById('links-panel').style.display === 'block';
-  if(!linksVisible) renderGames();
+  const tarefasVisible = document.getElementById('vista-tarefas').style.display === 'block';
+  if(!linksVisible && !tarefasVisible) renderGames();
   renderFluHero();
   renderWeather(data.clima);
   renderNews(data.noticias);
