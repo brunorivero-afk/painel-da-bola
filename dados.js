@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/08/2026 02:44",
+  "atualizado_em": "06/08/2026 05:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -380,41 +380,36 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.4,
-      "temp_min": 21.8,
+      "temp_max": 32.5,
+      "temp_min": 21.9,
       "chance_chuva": 14,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 32.5,
-      "temp_min": 19.7,
+      "temp_max": 31.4,
+      "temp_min": 19.6,
       "chance_chuva": 6,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.7,
-      "temp_min": 15.4,
+      "temp_max": 24.4,
+      "temp_min": 15.3,
       "chance_chuva": 11,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.5,
-      "temp_min": 15.1,
+      "temp_max": 24.4,
+      "temp_min": 14.9,
       "chance_chuva": 16,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense deixa escapar grana preta com eliminação na Copa do Brasil - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWGFaM0dVVV9Rdm9Ua0JmS1FBRnUyVkJSMHJDVzQ2NTlNQnA4YlFoeHNYYmpEYUU4dGtDMDI1RDZhNEQ4WVN5TmRLVUUxUGhXLU5hOFJDZjhsLTdZTXBqQkVjck43a3RuWG9uaTVkM2RKR25VSm1wdHhJMDBfa2lBOEFZSC1abnhOQTBlaVVScW1Hd1FBaWo1ckhxbnpBeVNiQWlnemhMdUYxbFR4Y0wtNG5UV3NvZFRNODdCcE9IMUluTEpMLWNGQm1fSW1vTWV2dFo1VnRWS19TWEUxYUVURDFRNnV5dm44aWN5bmVlYk11UQ?oc=5",
-      "data": "06/08 02:49"
-    },
-    {
-      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - ge",
+      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3NNeUFRZS1INkFuczEzX1NBWEYwQml1djRmeDVLSDQ0NzJJUElENWF5YU5GUG9Nc1BTQ0RaZ0c5UU1xV3ExSlNkZk5acWNqNVhKOHlYRjItNVFoVW94dFdORGNCYTZrbHBNOTg2MzVLZlIxUUtaSzNWV04zVlBVRy1IcGtLQ0puV0dvWVE0QjhoWVJfdGlDSXlMUEVUS0FfbE5zTjJfVXZIQ1RQUjN5YkhtT1JmUHpLVTl1MmVIZlpPVk9yTE0yZ2JR0gHYAUFVX3lxTE5fVnhQT2pZUG5oNEpVVXl4dExGazJYTUU2NHRPWHExWnJSZG1zeC1KZzR1WlV4NVdYZ3RuOGpRSkV1NXduYTRVRjlEWXhnU2dFSWQtSVNtdEQ5WlFfYmdNMG82N2hvYklfS0N3U2o0c0hCX1I3RU9KQ29mUWcxS3piWmU2RHRZcnc3WGpkQmEyMUt2YnVxS1BJTXhZcktfTnY3NExzTEF5cU9zWng2dHpOMHN3cEhqcEVSaEs3RlJLS2VONVA3TFJKLXctLVpfcUZNOUJyZkZ5ZQ?oc=5",
       "data": "05/08 06:00"
     },
@@ -432,6 +427,11 @@ window.PAINEL_DATA = {
       "titulo": "'Não venderia para um sheik árabe mesmo por um valor maior', diz presidente do Fluminense sobre a SAF - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSFpJRnUtMHlxZ2lrRWhRZVlvUS1GNTRQczMtZ0M0QVJMb01yNUVuMXF3dFd6eVBEa3Jhb0IyaUpmcHRPejJIOFMzc0txZ0pLOENabTdVNnhaY19XSmltN3VlUEZubzFDVTVSV3lHT2dpWmljbEZEd1VWb1Z1QXFybnRBVE1LM0NFWU5QU3FpZTB4akN6UTMwTDVFdzFPRmVTQW1RU2VfTTVzaUdHbVFHdWRtYmFLczNFT3Jnd0N5Q3Y2V0NvWWF2Rlh2T2xKQVRfLXNBRk1OSkdDZWktVmJwcF9uNFNHM1hxM0xYbWpMS3Z3TnBUVU5Ydi0wTXQzb1BTaFpMeUxrUdIBlgJBVV95cUxOY0p1VmdtZTMwN254RTh0TXBzSFRZS0RWazhKTXd5OFl2M1E3eXRZUUg1NEJjR2pMVFlVcFJFb1E5Q0tLTDBYcnRGV1JXRGc5SEUxMEE3R0FkVTYtd3BWUU5NUElFQlI1NGQ3RUFvZ0JJR21jR1BWTE1CZUdEblBLcXhXMHZuVGo3WVZYQzV5dDlQUHNWSFItVk54WDlGcTNZaWE4NGtXV0xaRDEtTEUwVURIMGU4QlBCaUlYbmZHRFFLWXJLOVhYdU0yRl9aNkhVSDR5M2EzSHgyYXY2NGNFYjBrdlVPaFBLTFFYX0RYazZXMV90RFcwVzdocTNYY0xUUWJqLVhzWnBZX1NlQUlwNDVVV1dwZw?oc=5",
       "data": "04/08 20:29"
+    },
+    {
+      "titulo": "Zubeldía explica opção por Ganso no Fluminense após meses sem jogar - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQd05DZHFCUVpiQ1hoMEFxbks3MmduRmZLaVhzY21uWmNFajJzZkw3TXM3aWtZYTdVdWJQdGFKSDlYWmZFTEpOYnU4aV9sQTI2RGpVQ0xMNU9oaU00VUVKV3lKLVR3cU9EOEc2eHhpMmpjcVJpX284enBEempZZWptbDY2aXFidXRqellOZHZxZUZkTmtHNHpxUmVXLXI3N0VqSHI2WHJDQ0MyZkpjSS1vc2hJbnVhSWRUSHJJeEVFOVBEOVZpal9XY0dNSXE3NFlzUHFlUzlXUEp2ZFpzdTFxQUp6N01hbGRvakUyaHFR?oc=5",
+      "data": "06/08 03:33"
     }
   ],
   "avisos": []
