@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 02:36",
+  "atualizado_em": "07/08/2026 04:07",
   "jogos": [
     {
       "sport": "futebol",
@@ -527,29 +527,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 33.9,
-      "temp_min": 22.8,
+      "temp_max": 33.8,
+      "temp_min": 23.4,
       "chance_chuva": 18,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 35.5,
-      "temp_min": 21.2,
-      "chance_chuva": 15,
       "condicao": "Garoa fraca"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 36.0,
+      "temp_min": 21.5,
+      "chance_chuva": 15,
+      "condicao": "Nublado"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.8,
-      "temp_min": 15.4,
+      "temp_max": 27.4,
+      "temp_min": 14.9,
       "chance_chuva": 14,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.0,
-      "temp_min": 15.5,
+      "temp_max": 26.1,
+      "temp_min": 15.8,
       "chance_chuva": 17,
       "condicao": "Nublado"
     }
@@ -561,7 +561,7 @@ window.PAINEL_DATA = {
       "data": "06/08 06:00"
     },
     {
-      "titulo": "Clube europeu mira em jogador titular do Fluminense - Terra",
+      "titulo": "Clube europeu mira em jogador titular do Fluminense - terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3A5S2R4OG4yRTQyOHdzandiYzlncXhQNS1ZZ0ZSR2dCZXpoTUxmRzFvMzMwX3JHTllQUk94cnZTOGYteGN2dnc0TE9BM25uN2lTaHAwRFJEcHBkQlBhZWNWYlgxa1VQZFNmY1ZuR21qWEZwUVlVazdXbkpaVWN2bTVNMC1QdDdhSjdETGhXY0JiaHkyX3RDQlVxRzFCaWgwZjZobDNQY0VMWGF3Y2dHT3d2UVM1eXNjNkRVQThmS01iUXEtamhKWkdUV042UDlNSGxTdEo4ODZrZw?oc=5",
       "data": "06/08 15:27"
     },
