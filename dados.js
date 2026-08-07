@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 07:52",
+  "atualizado_em": "07/08/2026 08:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -606,14 +606,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "John Kennedy tem lesão no joelho e desfalca Fluminense na Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3F3TG5ocFUtQjFVd3pBbWRVZ0o4RkJhQUxadUxpbC1vcmZuY21HZG9UdWdlT2dURWdSYTBUUVBobzMtbGl3cFZSWHN5a0lSUUFtR2JqWEwwdkdyY2J5S2NGXzNpZGFqZWlkUjV0c2RaSVFGWmdwR2xWbnBaRGxkTjFRMG0tRHJRMG9xSFpLaTVrOGxVQTBmYkZfeWJTTktGWU05T3V5dHlZeXFfWDh2NGlXdEZva3J5aDRZZDJNUHhBMjA0NE93UFl3RkV4aXVDWWNVbHE5ajXSAecBQVVfeXFMT24tUjBSeGRiaFpiQWhZbldwbDZTdkNVd3ozdTZxRDl0NGNfbXYzck1qbWN3a2pVWXJBUHpwc0JGNzd3OGx2UExQb3h3X28tQWRKYTh3NWxqdzdUUGJPWWY4aklYQ21FdUlhM0dwVFZzdmtMMm5QLUJtdTNvVFYzaTZxOGtUVEpMX3d2T09yd3JiM3I1TC1iRDFRQnBBS1k1Mm0teFdVR2pRSGtsWkltVU5xaFNETW44d1FmZTBFRkN3SnR3TUwtd2VDQXJLbGJtYTdJLVNPbzVuQmNBTVlsTUdYcW5Ma1Y0?oc=5",
-      "data": "07/08 01:49"
-    },
-    {
       "titulo": "Eliminação do Fluminense para o Vasco tem impacto nas finanças de 2026 - ge",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVYN01MVXJ3ellGUHdlYU1abGdKM2FxUEVna2JQeGxZalkxSWFqS1ViVXU4Nzh2aGhrc0tMVUprSU1zdnUtWDUwVFhCWlplcmlPR0dpSzhlNVFiZHdMdHhsVXhPbWNIMy1NTXVXTHRiSjRKN28xODlzNFhYOWlVU0hRTE5mZk84MTBuMkFNQkRiR1BqTXFNSGRkSjd0YjdTLVRTcFI2WnJXV2RoQkJ1TFJJTWNudGlHSE1KWTNYYjBxQjdoa2wwZlB2T3o2LTBoRkV4azVWaG_SAecBQVVfeXFMTVltTjBsaU9fSk9jc0ZtQlRmN3FPcTJ3NmZtdFdvNG9jREQtazFNMERDc1JtZGdSVjg2aldKZm90SDJqMEs3RVNGcEd3QUlrNm5GS1dlZnA4YU9vc2RYVDZnVG9IU1BCazVwS0t2bzhId2tCY2NlWVBZbnIyZU5pX3IwSHFvTlItYU9MQXhSRUJuNDRjNnJMRkZ0ajdvUUxlYUxXNFFwREpJSU1UdVJSblNNdkNfdXczR0IyVEgyUUR0S01kLXoyd2JQb1J5dUtYVHVKOE41djV1WVdWU2tkZHpDWEpKcUQw?oc=5",
       "data": "06/08 18:48"
+    },
+    {
+      "titulo": "Fluminense desafia estigma elitista com série documental exibida no CineFoot - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHR3dXNrbnYyajMwVVZYcE1uUXcxajV4ckIxTWdCNlAtRlVXT0pMd0YzQzRNQmhEWlJIZExOeEtfOFFpdVlxYWlnZVR4Y3ZvRHk1VkNCR1pjX3BIMEVVT1RWbDR0M040RVZ2UlBwaUFCX3J2LXprNHBHb09zYzBIRFpEM0tzNldyY0kxc2VEcDdfUnNnX2I2NzdSY19IQkoxZlpVM0tybWVFR3dDN0ZQR1FMRHh0M0JjN2p6V2lDRWY?oc=5",
+      "data": "07/08 11:00"
     },
     {
       "titulo": "Clube europeu mira em jogador titular do Fluminense - Terra",
@@ -621,14 +621,14 @@ window.PAINEL_DATA = {
       "data": "06/08 15:27"
     },
     {
-      "titulo": "Zenit faz consulta por Hércules, do Fluminense, após Danilo ficar no Botafogo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUR5aGk3ay1KMTloVU0td2hhV0tQRkFzcUxUbmllMUVwWWJKNWJJenJUWkxiNUhjWWlQc1VmMTVaZmI1dkxfbmJUdmh5aFNQaTJVWXB2S00xR2szYnRIYWc4MUduZ25tRDBMS0NVZjR2Yk5RMDRmTk8zQ3gwTDdTWVNLNzczbF8zNE5rcGo0ZnRnTEJ0WFR5NkxLVExEYnVUYUxoekFHbW8xQXk1QjN0d21FNldnWHViUmFNeDRqYTY1SHMyTGFuSG53cXJpUUNOV3BXcHVVTmkyQXNxS1dZ0gHuAUFVX3lxTFBOU0x0NExoZGVFLXMzU0dOa3VHbmxJTklUdEl1cXo3dzBYb3BZZHNhcmxrVEZ5RlhNcUc0MnhEM3BKVWpDR19DWXBxQ3NJNGl1SjB3NE1LUXFnM3l2dndmaWZjcnJQejVSRlJ5NmtFc3ItYm9IZXlvdDN0N1BpRkdOTTk2RXN6VF9mcE8tS29MRlJqanlnTTdldHJUSDd5b0ZJNkFhaFJHLXhwbVR0cmNDS3hORUVWVlYtVDhyUE5MN1FONE14X1ZRSnNjQW9ZcmF3aENEZFdCLURvTTdBTFlFRU83RUMwU2tkUndxQVE?oc=5",
-      "data": "04/08 19:00"
-    },
-    {
       "titulo": "Hércules, do Fluminense, atrai interesse do Zenit, da Rússia - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjVDdHlXUWtncVdVd0kyeHZkdFdPMF9MYnd1SWFndV8yalMtOFVDQkNyN0xSMVpEVEw4NXdidHlDbGZfYWwtZ3RTTlBTeFBwTTd5VXp1T2JCUnJiOTJuXzZBakNRM1FDSWg0VTVyd2RPNE1feC1CSUVDc2tNZUFNNTVmLXVOTVFTcnIyMDBUanRlZw?oc=5",
       "data": "04/08 19:33"
+    },
+    {
+      "titulo": "Zenit faz consulta por Hércules, do Fluminense, após Danilo ficar no Botafogo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUR5aGk3ay1KMTloVU0td2hhV0tQRkFzcUxUbmllMUVwWWJKNWJJenJUWkxiNUhjWWlQc1VmMTVaZmI1dkxfbmJUdmh5aFNQaTJVWXB2S00xR2szYnRIYWc4MUduZ25tRDBMS0NVZjR2Yk5RMDRmTk8zQ3gwTDdTWVNLNzczbF8zNE5rcGo0ZnRnTEJ0WFR5NkxLVExEYnVUYUxoekFHbW8xQXk1QjN0d21FNldnWHViUmFNeDRqYTY1SHMyTGFuSG53cXJpUUNOV3BXcHVVTmkyQXNxS1dZ0gHuAUFVX3lxTFBOU0x0NExoZGVFLXMzU0dOa3VHbmxJTklUdEl1cXo3dzBYb3BZZHNhcmxrVEZ5RlhNcUc0MnhEM3BKVWpDR19DWXBxQ3NJNGl1SjB3NE1LUXFnM3l2dndmaWZjcnJQejVSRlJ5NmtFc3ItYm9IZXlvdDN0N1BpRkdOTTk2RXN6VF9mcE8tS29MRlJqanlnTTdldHJUSDd5b0ZJNkFhaFJHLXhwbVR0cmNDS3hORUVWVlYtVDhyUE5MN1FONE14X1ZRSnNjQW9ZcmF3aENEZFdCLURvTTdBTFlFRU83RUMwU2tkUndxQVE?oc=5",
+      "data": "04/08 19:00"
     }
   ],
   "avisos": []
