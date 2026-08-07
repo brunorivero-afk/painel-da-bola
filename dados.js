@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 19:29",
+  "atualizado_em": "07/08/2026 20:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -171,7 +171,18 @@ window.PAINEL_DATA = {
       "competition": "Amistosos",
       "match": "Chelsea x AC Milan",
       "channels": [
-        "SPORTYNET"
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "10:30",
+      "competition": "Amistosos",
+      "match": "Bayer Leverkusen x Sevilla",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -187,10 +198,21 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-08",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Ipswich x Rayo Vallecano",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
       "time": "15:00",
       "competition": "Brasileirão Feminino",
       "match": "Atlético Mineiro (F) x Bahia (F)",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -208,6 +230,26 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Udinese x Nottingham Forest",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "PSV Eindhoven x Fortuna Sittard",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "15:00",
       "competition": "Campeonato Uruguaio",
       "match": "Liverpool Montevideo x Albion FC",
       "channels": [
@@ -218,10 +260,41 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x São Paulo",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x ABC",
       "channels": [
-        "PREMIERE"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x ADO Den Haag",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Barcelona x Nottingham Forest",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Palmeiras (F)",
+      "channels": [
+        "TV BRASIL",
+        "YOUTUBE"
       ]
     },
     {
@@ -241,19 +314,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Palmeiras (F)",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x São Paulo",
       "channels": [
-        "TV BRASIL"
+        "PREMIERE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x ADO Den Haag",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Tigre x River Plate",
       "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -272,9 +346,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "São José x Gama",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Santa Cruz",
       "channels": [
+        "BAND",
+        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -282,8 +358,28 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x CSA",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x Los Angeles II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Amistosos",
+      "match": "Udinese x Barcelona",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Copa Paulista",
+      "match": "Primavera SP x Juventus",
       "channels": [
         "YOUTUBE"
       ]
@@ -302,8 +398,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Primavera SP x Juventus",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x CSA",
       "channels": [
         "YOUTUBE"
       ]
@@ -312,31 +408,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x Los Angeles II",
+      "competition": "Brasileirão Série D",
+      "match": "São José x Gama",
       "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Santa Cruz",
-      "channels": [
-        "BAND",
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Tigre x River Plate",
-      "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -373,6 +448,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x América-MG",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "18:30",
       "competition": "Brasileirão Série D",
       "match": "Goiatuba EC x ASA",
       "channels": [
@@ -383,8 +468,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x América-MG",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Penãrol",
       "channels": [
         "DISNEY+"
       ]
@@ -417,6 +502,8 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Argentino",
       "match": "Boca Juniors x Velez Sarsfield",
       "channels": [
+        "ESPN 3",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -427,7 +514,8 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série C",
       "match": "Inter De Limeira x Volta Redonda",
       "channels": [
-        "SPORTYNET"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -511,6 +599,16 @@ window.PAINEL_DATA = {
       "match": "Inter Miami x Monterrey",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "21:45",
+      "competition": "NWSL Feminina",
+      "match": "Houston Dash (F) x Kansas City (F)",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -616,7 +714,7 @@ window.PAINEL_DATA = {
       "data": "07/08 18:50"
     },
     {
-      "titulo": "Fluminense acerta renovação de contrato com joia da base - lance.com.br",
+      "titulo": "Fluminense acerta renovação de contrato com joia da base - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0c3OXJ2cFRsNGFrY3BHSlo5bjJfaG13S2NQNzB1cG4wd3VEcUlLNEFCcVc4eWdKYzBqUXNlZVJ2aFVjZmVZQURNTHVkdlR1ZXBzNmVDcE9vbnpBYlZKSFdoZkdneWRWb25YRGxEcV9lWXhWOF9SRVRhR2RWWFRJQWp3QmZXd0k0WkFhR2xjTGplQldCMjE5WEtoRQ?oc=5",
       "data": "07/08 20:03"
     },
@@ -626,13 +724,12 @@ window.PAINEL_DATA = {
       "data": "07/08 08:30"
     },
     {
-      "titulo": "Entenda o peso da queda na Copa do Brasil para as finanças do Fluminense - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnFCRVIycGM1ZDNIWFRBZENxV1JmVV8tWWVhdEZabzFXMGFHYWhZMW14by1JNVNxNDBxOWR2a2lZQWRQVXlhNHFHb2VLVHZDa19lNEh4RzFqLWdpbnRYWFJJQWpzYmNiVHNDbWlSaFdrekpDWVVnOEZJN1N5WWg5YjFqWHlBSkU3aDBUejlTSkI5a3R3S3g2UVYxb21UVlBoWFV6OThpUmhBYmltTk1wNXhVdw?oc=5",
-      "data": "07/08 12:30"
+      "titulo": "NOTA – Fechamento da sede social devido à possibilidade de fortes ventos - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjMzX1dpeTlHcHFPYmtnQnlYN20tZm1UcHh6dUZWWGpDSUZyYkNFVjdhQUEyRHlxWk9PX21mZnNxYmZFZk9ybkJQZjE5YTA0S0dQNXQwMC15MnhEWmhYMUVKU2gwOUt2d2VGZjZzTnBsbWRmdDA2dTFQeXlMTzM0Zl9BTXhORmoyakw0MlUxNHo1YUV5Z3RqMTJqSUNGUGdOSGtiaV82dWkwcXRG?oc=5",
+      "data": "07/08 12:34"
     }
   ],
   "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
-    "Falha ao buscar clima de Teresópolis: Response status code does not indicate success: 503 (Service Unavailable)."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
   ]
 };
