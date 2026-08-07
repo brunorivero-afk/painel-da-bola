@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 15:49",
+  "atualizado_em": "07/08/2026 16:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -577,48 +577,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 34.3,
-      "temp_min": 23.5,
+      "temp_max": 33.9,
+      "temp_min": 22.6,
       "chance_chuva": 55,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 35.8,
+      "temp_max": 35.9,
       "temp_min": 21.1,
       "chance_chuva": 30,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.2,
+      "temp_max": 26.0,
       "temp_min": 15.0,
       "chance_chuva": 67,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.0,
+      "temp_max": 26.4,
       "temp_min": 15.8,
       "chance_chuva": 59,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Fluminense renova o contrato de joia da base Ruan Sales até 2029 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVd1NGZKS1F3UzhNdFAyVW9Zb01Ta090dlRZZ3hoLVNJRjA1VjF4SzRrSVpLbDQyM0pFX3B4TVNzQVRVZXVrWUdsOE9NbldicHJkaE9ZcTZyUWJyNHRrX2xSMU9La0J5NG44ZXdWNEpPaGp6azNGaVFyaElnU3ZlaDhQU25uSXFJMl9yY3gzTndiRjFBUGNBTEs0bjRuZXVodnZnS21Sd0UzTXQ2WVpWTU8wVVNaVjdJbGQxY1hFa0t4dVl1UXA1anU3Qk5rU2Q1?oc=5",
+      "data": "07/08 15:46"
+    },
     {
       "titulo": "Fluminense desafia estigma de clube elitista em série no CineFoot - Terra",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLUpqYXpJTlJGaDcxQXQwZFJieHhLSDYtUEZBejhOczU1NEk3blNyUXNUODN3Y1pxa0tIbW9kMF9KekItYzVadXl2cEdYSF9wMGJGRHJfN0RRX0ZWb3NLbHVKWUNPVHN5X0h2S0NhcjJYQVU5ZXJvbzFMLUxMalVxRF9ORUVfelp1eGFNZEw4NzZoX3RzdUtvcnkxci1kUmRZaHZXSHlIdVNFSHV4WUctdnNIbXE5WWNqaUptTDFCZlo3RnB3N3hpVGM2bEZKVDNOMGszTUc5b25qVEZZa0NTdnhjeDNPZGZIbVU3Qw?oc=5",
       "data": "07/08 16:14"
     },
     {
-      "titulo": "Fluminense acerta renovação de contrato do volante Ruan - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGphWC1MX1huVlg4WnhKUmMtU0g1OFBtUEhEakd1YVhra3ZwWDNEU3ZmeDdBM0JyREl3NU5ubVFCU1p6cWZwX3JsQzNtaEpOZHkzZTBmREJWUVpTNFN3cU15M21QVENlLXRpdENJTEFFdEJBM1VCTnhwcDJDNHV3ckF4cEowdG1LaXQyTWpFaS1Fc3ZYaG1ZbA?oc=5",
-      "data": "07/08 15:20"
-    },
-    {
-      "titulo": "Saiba quanto o Fluminense pode faturar com venda de Kauã Elias na Europa - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFpjTWhiWUg1UGhQM2loR0IxbHlhOHlIYzFmdnBZVmlzMkpYcURMOGhZUXNpU3FmZk5jbVBPampmNFpxSXQ5TjdpYUY5VlhSa3dhMjdGNzN2MDg2ME9OZ0pRUl9UUnVmV2hZTGYxQV81VXRIQlM5dFJkSGZOejAtUGxLbmhHNmdDdllBVUtEQ0xMTEN5OXJReHh4R1ZFcG1f?oc=5",
-      "data": "07/08 14:30"
+      "titulo": "Especulado no Fluminense, Fabinho define prioridade após deixar clube saudita - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlY1SVZMRXloOGxVbGtmR0l4LVVsejBIUF9qTHlJNW9YWDl2RHZCR2tjR3Y4X0doUjJ6MGNMa1RuOGFZUW5kYXp5dkpFakhqRTJHd0hoVTBERWZoc19rN0QtVVRRaElQQmxrUkVKX1M4NlBaNm5RNkFMLXNJdmpYTllIOFJTYlVCVFQtRXg5cEl0S1FqZm1UTTgzcjlhZXBfUzA4VDNR?oc=5",
+      "data": "07/08 18:30"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
