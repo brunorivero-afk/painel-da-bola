@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "07/08/2026 16:49",
+  "atualizado_em": "07/08/2026 17:35",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-07",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Aguai U20 x São Paulo U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-07",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x São Bento Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-07",
@@ -162,6 +141,27 @@
       "match": "Bayern x Aston Villa",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-07",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Aguai U20 x São Paulo U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-07",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x São Bento Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -606,9 +606,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense renova o contrato de joia da base Ruan Sales até 2029 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVd1NGZKS1F3UzhNdFAyVW9Zb01Ta090dlRZZ3hoLVNJRjA1VjF4SzRrSVpLbDQyM0pFX3B4TVNzQVRVZXVrWUdsOE9NbldicHJkaE9ZcTZyUWJyNHRrX2xSMU9La0J5NG44ZXdWNEpPaGp6azNGaVFyaElnU3ZlaDhQU25uSXFJMl9yY3gzTndiRjFBUGNBTEs0bjRuZXVodnZnS21Sd0UzTXQ2WVpWTU8wVVNaVjdJbGQxY1hFa0t4dVl1UXA1anU3Qk5rU2Q1?oc=5",
-      "data": "07/08 15:46"
+      "titulo": "Fluminense acerta renovação de contrato com joia da base - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0c3OXJ2cFRsNGFrY3BHSlo5bjJfaG13S2NQNzB1cG4wd3VEcUlLNEFCcVc4eWdKYzBqUXNlZVJ2aFVjZmVZQURNTHVkdlR1ZXBzNmVDcE9vbnpBYlZKSFdoZkdneWRWb25YRGxEcV9lWXhWOF9SRVRhR2RWWFRJQWp3QmZXd0k0WkFhR2xjTGplQldCMjE5WEtoRQ?oc=5",
+      "data": "07/08 20:03"
     },
     {
       "titulo": "Fluminense desafia estigma de clube elitista em série no CineFoot - Terra",
@@ -616,9 +616,9 @@
       "data": "07/08 16:14"
     },
     {
-      "titulo": "Especulado no Fluminense, Fabinho define prioridade após deixar clube saudita - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlY1SVZMRXloOGxVbGtmR0l4LVVsejBIUF9qTHlJNW9YWDl2RHZCR2tjR3Y4X0doUjJ6MGNMa1RuOGFZUW5kYXp5dkpFakhqRTJHd0hoVTBERWZoc19rN0QtVVRRaElQQmxrUkVKX1M4NlBaNm5RNkFMLXNJdmpYTllIOFJTYlVCVFQtRXg5cEl0S1FqZm1UTTgzcjlhZXBfUzA4VDNR?oc=5",
-      "data": "07/08 18:30"
+      "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnNheV90dlZnRXdZLTh1Y3FIM2RqVDVBVG5NNEJ1Zk11UVdYUWdEX0xqb2FKY0FwX0ppVkNWNnA0TnR3SGZwN2ExUzdaWUdnazloV2hxY0wtUGc5TmIxRzcwcVFFUXRtSm1IWFZLa1FBUHNmVzdQbkdiTmhma0ZlV1ktSUFSSnU1RVZHV2V6cl9SZDM0ZUNJQnEzeVRBUndKcG9N?oc=5",
+      "data": "07/08 20:30"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
@@ -626,9 +626,9 @@
       "data": "07/08 08:30"
     },
     {
-      "titulo": "Grandes clubes do Rio apostam no uso de dados e IA para ampliar receita e aproximar torcedores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYmU5aFduX1ZndTl0R1FYVF9va0kwOXozT2Nhei1FRlI1TjBaWC1teXRyZjY4RjN5aXF4ZE82ZG5zZDJ2MzZEN1d4TGtiTGpFUWJqNTl1YVQ1QTBmWEw2aVE0dWxlUmFXWDRQUG5ySlZleDdSVDhyX3F3U2VrbXpIVEpsNjdFT1dmdXNuczQ4MldOYjR2SlVFLURmbUs4MnhfQXJ4UzFnaDJ0bzVFUFVZTlQ5LVI0V1hfUVQ4ek50N1RRN1FXRF9VaDNQMlpIb1BHUUl3MFhWd24?oc=5",
-      "data": "06/08 21:47"
+      "titulo": "Manchester United e Arsenal \"brigam\" por contratação ex-Fluminense; veja - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzJndlNGUmlVdzlLOGhpbU43b2tfRHB2SVBRd2hIdk5HUFFveUJoN3FUTVlhbHhuRE95aTFZRzE5aXdKQlExX2xyU0wwWFJxUlY3NjBuZEo2cVFtenBYYk41WkhJeXBXb2FGZWtNbVV2cDBpRE9OVVh4UnNNTUwzQzducm1MUkVhLXpPdTJuMDdJYloybG96SGdoVEN1NmJiNWdpcWJIWGZUUFJxQ2ZGcUpNRkhxdw?oc=5",
+      "data": "07/08 12:01"
     }
   ],
   "avisos": []
