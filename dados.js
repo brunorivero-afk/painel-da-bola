@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 11:09",
+  "atualizado_em": "07/08/2026 12:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -606,29 +606,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "John Kennedy tem lesão no joelho e desfalca Fluminense na Libertadores - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3F3TG5ocFUtQjFVd3pBbWRVZ0o4RkJhQUxadUxpbC1vcmZuY21HZG9UdWdlT2dURWdSYTBUUVBobzMtbGl3cFZSWHN5a0lSUUFtR2JqWEwwdkdyY2J5S2NGXzNpZGFqZWlkUjV0c2RaSVFGWmdwR2xWbnBaRGxkTjFRMG0tRHJRMG9xSFpLaTVrOGxVQTBmYkZfeWJTTktGWU05T3V5dHlZeXFfWDh2NGlXdEZva3J5aDRZZDJNUHhBMjA0NE93UFl3RkV4aXVDWWNVbHE5ajXSAecBQVVfeXFMT24tUjBSeGRiaFpiQWhZbldwbDZTdkNVd3ozdTZxRDl0NGNfbXYzck1qbWN3a2pVWXJBUHpwc0JGNzd3OGx2UExQb3h3X28tQWRKYTh3NWxqdzdUUGJPWWY4aklYQ21FdUlhM0dwVFZzdmtMMm5QLUJtdTNvVFYzaTZxOGtUVEpMX3d2T09yd3JiM3I1TC1iRDFRQnBBS1k1Mm0teFdVR2pRSGtsWkltVU5xaFNETW44d1FmZTBFRkN3SnR3TUwtd2VDQXJLbGJtYTdJLVNPbzVuQmNBTVlsTUdYcW5Ma1Y0?oc=5",
-      "data": "07/08 01:49"
-    },
-    {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
       "data": "07/08 08:30"
     },
     {
-      "titulo": "Luiz Henrique no Flamengo: Fluminense pode lucrar com negócio? - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSVhQREowX3JvUTlmYzl0TGh2ZlBlaVM1VWxzck0wRDl5bDRrb2VTM1AwMlFtS005b1FJWnBaY1NWQTIyR3M3TXJmUkM0T0pPcG42aVExU2hqTDlSUGVrRjhWUEdpaThjek5jd2FSQ2dldEIzUUY1QlNjNlF3WXJ6bUZKalRFR3FxY0NKbWVUaGtYODlvazgxYUJFN3cxS1dBLXpzeEpaUXo3dXN0UkxUeDhHcDNhdDRZWE5wd2JPUlRGSFlGS1Vub0JRX2ZOU2ctaVNRWHJFdkpVTUZWSDdhR3IxangzZw?oc=5",
-      "data": "07/08 13:21"
+      "titulo": "Fluminense desafia estigma elitista com série documental exibida no CineFoot - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHR3dXNrbnYyajMwVVZYcE1uUXcxajV4ckIxTWdCNlAtRlVXT0pMd0YzQzRNQmhEWlJIZExOeEtfOFFpdVlxYWlnZVR4Y3ZvRHk1VkNCR1pjX3BIMEVVT1RWbDR0M040RVZ2UlBwaUFCX3J2LXprNHBHb09zYzBIRFpEM0tzNldyY0kxc2VEcDdfUnNnX2I2NzdSY19IQkoxZlpVM0tybWVFR3dDN0ZQR1FMRHh0M0JjN2p6V2lDRWY?oc=5",
+      "data": "07/08 11:00"
     },
     {
-      "titulo": "Fluminense encara o Botafogo pelo Campeonato Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTRyUmk3SzZlXzRibWo0bFF4Q2FCT1hPeE5iZnhaUDlsNmI0cUUyc0ZDbkNRT0xpTVdCSl9LT3NnM1FfR0xwTU1CbnJySGw2SlFKOGZEZGp6T3c2Nm5MQVpWOGhvdVpSWlhEWWF5WVl1UXo2a051dXNPVUs0eG5ZbThuUUo0QW5LZVNQUllnZ19UYkZhOTg0TkU5amVBTkwwTHVjRA?oc=5",
-      "data": "07/08 13:17"
+      "titulo": "Previsão de forte vendaval no RJ faz Fluminense fechar sede - iG Esportes",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlUWGlVS1VNTzdzLWFuVFRuQTNCU1BzZzF6MTFtVThmMU9STUpxdXVBekh3SVQ3OUlwSzd2eDJyUjh1ZWppMnhGaVc2dkxvV3hvN3RlZVFoZHF3UndXTHQ0SWNXQ2J0SEpZSFZadkNwd3RhOTh2blhpc2RCR2FHd3RPM1FqSTVoeEJiVVN1OHFCMGIyOHlsLXBIY2NtSEFJejNfQkc1QThUM3dtdVNNYtIBtgFBVV95cUxPV3pfbVlIS0s2YkJTSGxvaHByaTFodnlvVEVnM0lWdXNwMVc4WlZyZTFSMFdfUm9WZThQZ0dwMTRLeW1xQl9sRzBfOXZFU0VFYkQtWGlQUFRxY2NJM3ozaUMwLTVVYUs0TnNsXzRuRXpod1F1cE5OWnJlbjNGeHBzQzM2NGVxcFJBS21EZkViUHBmdnQ4QjFRcXFJNWlLMkZ2VjBJYU12SUVpWkdqQ01SYzZKMWhpUQ?oc=5",
+      "data": "07/08 13:50"
     },
     {
-      "titulo": "Bastidores: reapresentação do Fluminense é marcada por cobranças e manutenção de Zubeldía - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUjZxTXhlcTd2a3QxNEowLW1DNWEwVEJfdkFaOG04Q3Y4RVpSdkxFNjBNVVNJakJUQ3FFNkdEbEJhek5vNWVCOTZKb0NNQWxXWkZmYXJ3cnd4N2o2NXJsNy0tZ1dhT0VMalVEQk41bFg0ems0VEdsdl9weXZPQnFCWWc2ZjlnOWNjME14RE5GblNrWTNpeFlvQkdtRURic0M4dXVvRS1JZXpNLWh1UnlCRFpJVGR0NXBTUVJMM0NEVlozdXEwa1VVd1dVY1paS1MtVlJ4SlAzVWdhcmM3QU90YTFmSWdNeGlCb1ZHVkd2eXfSAf8BQVVfeXFMUFh5OWVkNlgwam1BUThGT3lWRUdNVXRHY253NHJsS3lqQmFNdzB6b3R0WGVDWncwVzhpcUk1Y0U4QmlZeFd2SUlYNjU4RU5MdnNVelQ2dXhVRG54YXE0Z0tnRmFLUXF3Ri1jM3pfai1pN1lpVXZULVhiSU5HUU5uM2ZLUnRoRmpCNjdVUV9PRjEtaF9YTW5weDNWUUdWUGlueF81LXQxWjVESEFGeFVUSUk4bzZCRVBQVVB5NVRYNllJMFoxUzI2QlVydEcwZTF6bDY5Mi10SXJMTk05eGVIZG9oQlhPZzdYWVFHTVRGOTZ0RG16V3ZRMG0ydUJpTUdF?oc=5",
-      "data": "06/08 22:42"
+      "titulo": "Ex-Fluminense entra na mira de Manchester United e Arsenal, diz jornal - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORURQa0ZIb3FIWWRHb0YycENWQS1sNFc2b1NRWnV3SDJyTHZGWE1Ga1BjODBXZjZWdUp4QzJfZzRGZk9rY2xGOWlGdXFEMVo0amRFamVhTkY1Y05hc0l4a3FyQTVCZVAtdDJjZ1NRc1lFc09nYlgyMHhIRkNHUWRPNF83WjlGUEJTSUlHMDktYVlWWnNQUTduX0tXRzVJQzNrWEZBc0FpOWtzS3M5Tk5xb0p1NXhzVFhlX0FHMGdn?oc=5",
+      "data": "07/08 13:12"
+    },
+    {
+      "titulo": "Saiba quanto o Fluminense pode faturar com venda de Kauã Elias na Europa - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFpjTWhiWUg1UGhQM2loR0IxbHlhOHlIYzFmdnBZVmlzMkpYcURMOGhZUXNpU3FmZk5jbVBPampmNFpxSXQ5TjdpYUY5VlhSa3dhMjdGNzN2MDg2ME9OZ0pRUl9UUnVmV2hZTGYxQV81VXRIQlM5dFJkSGZOejAtUGxLbmhHNmdDdllBVUtEQ0xMTEN5OXJReHh4R1ZFcG1f?oc=5",
+      "data": "07/08 14:30"
     }
   ],
   "avisos": []
