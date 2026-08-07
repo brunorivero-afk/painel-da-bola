@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 18:34",
+  "atualizado_em": "07/08/2026 19:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-07",
-      "time": "17:15",
-      "competition": "Campeonato Peruano",
-      "match": "Comerciantes Unidos x Cusco",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-07",
@@ -162,6 +152,16 @@ window.PAINEL_DATA = {
       "channels": [
         "YOUTUBE",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-07",
+      "time": "17:15",
+      "competition": "Campeonato Peruano",
+      "match": "Comerciantes Unidos x Cusco",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -606,19 +606,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense prepara Fred Guedes para possível saída de Luís Zubeldía - terra.com.br",
+      "titulo": "John Kennedy, do Fluminense, sofre grave lesão no joelho; veja detalhes - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2xqVTdKVTFzN205aE5IX1hZV3YyZUlEckU0U2V1aGVlSElZVENIMF8zQ1ByT3FINjR2aVVVQjdtQWVRb1dXUzZ3NDY5dVJHekZ5MkNrSFpXRVpjZkRST1JXdm9nUzV2R1pTY3paeG9ZMDMySE9pNGhJUVROQ3BSOHlMUEdvVThaN3BrUmN4RjhOc2NBRHVZUGhObllhTm9hQ01qcDhvRXZYOEN6V2NmTjhYR2o?oc=5",
+      "data": "07/08 21:11"
+    },
+    {
+      "titulo": "Fluminense prepara Fred Guedes para possível saída de Luís Zubeldía - Terra",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaEZQV0Q3c0pKUGJ5Rl9BNzllY1k2NWRveVp0RXllbF80OHM3N2NnUjl2Zi1KOFlXeUxsZEdNWUV1ZW9fcDR4WFBpNjFkYmxrcW4zZVkxeFBpU0FzanI0OTVqVjZBLUJGckxMUWt0M0hWdFNxMmUzNHpfcV9VM0xYR2xxSkdwcms3NXk0RzhJMzM2R3YxY0xGWlFfMkZxX2NxTy1NempTTDNJY0F4OEI3eXRMSkZtcWkyWjlLN2JSR0pYTndJVndZbjZqOUhNMmpVWDFqcHl3VWhQMmZSd21hc0NyRDJBM0EyR0Zn?oc=5",
       "data": "07/08 18:50"
     },
     {
-      "titulo": "Fluminense acerta renovação de contrato com joia da base - LANCE!",
+      "titulo": "Fluminense acerta renovação de contrato com joia da base - lance.com.br",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0c3OXJ2cFRsNGFrY3BHSlo5bjJfaG13S2NQNzB1cG4wd3VEcUlLNEFCcVc4eWdKYzBqUXNlZVJ2aFVjZmVZQURNTHVkdlR1ZXBzNmVDcE9vbnpBYlZKSFdoZkdneWRWb25YRGxEcV9lWXhWOF9SRVRhR2RWWFRJQWp3QmZXd0k0WkFhR2xjTGplQldCMjE5WEtoRQ?oc=5",
       "data": "07/08 20:03"
-    },
-    {
-      "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnNheV90dlZnRXdZLTh1Y3FIM2RqVDVBVG5NNEJ1Zk11UVdYUWdEX0xqb2FKY0FwX0ppVkNWNnA0TnR3SGZwN2ExUzdaWUdnazloV2hxY0wtUGc5TmIxRzcwcVFFUXRtSm1IWFZLa1FBUHNmVzdQbkdiTmhma0ZlV1ktSUFSSnU1RVZHV2V6cl9SZDM0ZUNJQnEzeVRBUndKcG9N?oc=5",
-      "data": "07/08 20:30"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
@@ -626,10 +626,13 @@ window.PAINEL_DATA = {
       "data": "07/08 08:30"
     },
     {
-      "titulo": "Entenda o peso da queda na Copa do Brasil para as finanças do Fluminense - LANCE!",
+      "titulo": "Entenda o peso da queda na Copa do Brasil para as finanças do Fluminense - lance.com.br",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnFCRVIycGM1ZDNIWFRBZENxV1JmVV8tWWVhdEZabzFXMGFHYWhZMW14by1JNVNxNDBxOWR2a2lZQWRQVXlhNHFHb2VLVHZDa19lNEh4RzFqLWdpbnRYWFJJQWpzYmNiVHNDbWlSaFdrekpDWVVnOEZJN1N5WWg5YjFqWHlBSkU3aDBUejlTSkI5a3R3S3g2UVYxb21UVlBoWFV6OThpUmhBYmltTk1wNXhVdw?oc=5",
       "data": "07/08 12:30"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
+    "Falha ao buscar clima de Teresópolis: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 };
