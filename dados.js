@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 08:22",
+  "atualizado_em": "07/08/2026 08:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -606,9 +606,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Eliminação do Fluminense para o Vasco tem impacto nas finanças de 2026 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVYN01MVXJ3ellGUHdlYU1abGdKM2FxUEVna2JQeGxZalkxSWFqS1ViVXU4Nzh2aGhrc0tMVUprSU1zdnUtWDUwVFhCWlplcmlPR0dpSzhlNVFiZHdMdHhsVXhPbWNIMy1NTXVXTHRiSjRKN28xODlzNFhYOWlVU0hRTE5mZk84MTBuMkFNQkRiR1BqTXFNSGRkSjd0YjdTLVRTcFI2WnJXV2RoQkJ1TFJJTWNudGlHSE1KWTNYYjBxQjdoa2wwZlB2T3o2LTBoRkV4azVWaG_SAecBQVVfeXFMTVltTjBsaU9fSk9jc0ZtQlRmN3FPcTJ3NmZtdFdvNG9jREQtazFNMERDc1JtZGdSVjg2aldKZm90SDJqMEs3RVNGcEd3QUlrNm5GS1dlZnA4YU9vc2RYVDZnVG9IU1BCazVwS0t2bzhId2tCY2NlWVBZbnIyZU5pX3IwSHFvTlItYU9MQXhSRUJuNDRjNnJMRkZ0ajdvUUxlYUxXNFFwREpJSU1UdVJSblNNdkNfdXczR0IyVEgyUUR0S01kLXoyd2JQb1J5dUtYVHVKOE41djV1WVdWU2tkZHpDWEpKcUQw?oc=5",
-      "data": "06/08 18:48"
+      "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - estadao.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
+      "data": "07/08 08:30"
     },
     {
       "titulo": "Fluminense desafia estigma elitista com série documental exibida no CineFoot - LANCE!",
@@ -616,7 +616,7 @@ window.PAINEL_DATA = {
       "data": "07/08 11:00"
     },
     {
-      "titulo": "Clube europeu mira em jogador titular do Fluminense - Terra",
+      "titulo": "Clube europeu mira em jogador titular do Fluminense - terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3A5S2R4OG4yRTQyOHdzandiYzlncXhQNS1ZZ0ZSR2dCZXpoTUxmRzFvMzMwX3JHTllQUk94cnZTOGYteGN2dnc0TE9BM25uN2lTaHAwRFJEcHBkQlBhZWNWYlgxa1VQZFNmY1ZuR21qWEZwUVlVazdXbkpaVWN2bTVNMC1QdDdhSjdETGhXY0JiaHkyX3RDQlVxRzFCaWgwZjZobDNQY0VMWGF3Y2dHT3d2UVM1eXNjNkRVQThmS01iUXEtamhKWkdUV042UDlNSGxTdEo4ODZrZw?oc=5",
       "data": "06/08 15:27"
     },
