@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 04:07",
+  "atualizado_em": "07/08/2026 05:53",
   "jogos": [
     {
       "sport": "futebol",
@@ -556,17 +556,22 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "John Kennedy tem lesão no joelho e desfalca Fluminense na Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM3F3TG5ocFUtQjFVd3pBbWRVZ0o4RkJhQUxadUxpbC1vcmZuY21HZG9UdWdlT2dURWdSYTBUUVBobzMtbGl3cFZSWHN5a0lSUUFtR2JqWEwwdkdyY2J5S2NGXzNpZGFqZWlkUjV0c2RaSVFGWmdwR2xWbnBaRGxkTjFRMG0tRHJRMG9xSFpLaTVrOGxVQTBmYkZfeWJTTktGWU05T3V5dHlZeXFfWDh2NGlXdEZva3J5aDRZZDJNUHhBMjA0NE93UFl3RkV4aXVDWWNVbHE5ajXSAecBQVVfeXFMT24tUjBSeGRiaFpiQWhZbldwbDZTdkNVd3ozdTZxRDl0NGNfbXYzck1qbWN3a2pVWXJBUHpwc0JGNzd3OGx2UExQb3h3X28tQWRKYTh3NWxqdzdUUGJPWWY4aklYQ21FdUlhM0dwVFZzdmtMMm5QLUJtdTNvVFYzaTZxOGtUVEpMX3d2T09yd3JiM3I1TC1iRDFRQnBBS1k1Mm0teFdVR2pRSGtsWkltVU5xaFNETW44d1FmZTBFRkN3SnR3TUwtd2VDQXJLbGJtYTdJLVNPbzVuQmNBTVlsTUdYcW5Ma1Y0?oc=5",
+      "data": "07/08 01:49"
+    },
+    {
       "titulo": "Análise: Vasco faz melhor jogo de 2026 e elimina Fluminense com autoridade e justiça - ge",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVpLUFlERnVYWktGdFkwOHV4ZzRwZG5HNUZ6UGw3RW5NQWE2Qzc1cGVQV05IcTVwV0tYUnRhdTVobldrQmxtV0RDa01oTkhRT0RWOEM1QlFnZ21tTWNYRk9zWE16WEdhYkFYYTNObW40aWVhZ01MRXk1RzNVUkY5X3ppcEN6SGJzV0stWnl6bVFoNDZYQ0FXay0xckRPUFFpQ3lKZGY5eGRYcktWYTlfT3QtZzZGQ0c5cUJSUU5uR2NxYmY3QWdONkVsci1pSURka3lQZEdlY2xzRUZQQnZPNkt2WdIB8gFBVV95cUxOT01obTBmZW9NWGI5RmdLWEFlemxXMmxfZnhReGV4SXljZXRmbldxYWJaWmlWd2lDVWlPSW1tdVA3WnE0dmt2bEk2SjdyX2phbmdQUFE0dFJSbTE1eFJzWUZzX2VUbktFRThoTnhKcVRXNHAxS0dpZjl1a0VWVGpXR1lPS19sdGR4ZFdEZ1ZHa3ZkbjhVd0lPenUzRVhXUTR1NExnMVVjZDN2VXFlbnFTUUxVUWFTYklxdkFkNC1xWVhYS3N1SGh3MzNIYTdZX3kzbHRRdnc4QkN6eHgyTk5nZUV2c2s5b3djdEdDZElLNFpidw?oc=5",
       "data": "06/08 06:00"
     },
     {
-      "titulo": "Clube europeu mira em jogador titular do Fluminense - terra.com.br",
+      "titulo": "Clube europeu mira em jogador titular do Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3A5S2R4OG4yRTQyOHdzandiYzlncXhQNS1ZZ0ZSR2dCZXpoTUxmRzFvMzMwX3JHTllQUk94cnZTOGYteGN2dnc0TE9BM25uN2lTaHAwRFJEcHBkQlBhZWNWYlgxa1VQZFNmY1ZuR21qWEZwUVlVazdXbkpaVWN2bTVNMC1QdDdhSjdETGhXY0JiaHkyX3RDQlVxRzFCaWgwZjZobDNQY0VMWGF3Y2dHT3d2UVM1eXNjNkRVQThmS01iUXEtamhKWkdUV042UDlNSGxTdEo4ODZrZw?oc=5",
       "data": "06/08 15:27"
     },
     {
-      "titulo": "Hércules, do Fluminense, atrai interesse do Zenit, da Rússia - lance.com.br",
+      "titulo": "Hércules, do Fluminense, atrai interesse do Zenit, da Rússia - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjVDdHlXUWtncVdVd0kyeHZkdFdPMF9MYnd1SWFndV8yalMtOFVDQkNyN0xSMVpEVEw4NXdidHlDbGZfYWwtZ3RTTlBTeFBwTTd5VXp1T2JCUnJiOTJuXzZBakNRM1FDSWg0VTVyd2RPNE1feC1CSUVDc2tNZUFNNTVmLXVOTVFTcnIyMDBUanRlZw?oc=5",
       "data": "04/08 19:33"
     },
@@ -574,11 +579,6 @@ window.PAINEL_DATA = {
       "titulo": "Zenit faz consulta por Hércules, do Fluminense, após Danilo ficar no Botafogo - ge",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUR5aGk3ay1KMTloVU0td2hhV0tQRkFzcUxUbmllMUVwWWJKNWJJenJUWkxiNUhjWWlQc1VmMTVaZmI1dkxfbmJUdmh5aFNQaTJVWXB2S00xR2szYnRIYWc4MUduZ25tRDBMS0NVZjR2Yk5RMDRmTk8zQ3gwTDdTWVNLNzczbF8zNE5rcGo0ZnRnTEJ0WFR5NkxLVExEYnVUYUxoekFHbW8xQXk1QjN0d21FNldnWHViUmFNeDRqYTY1SHMyTGFuSG53cXJpUUNOV3BXcHVVTmkyQXNxS1dZ0gHuAUFVX3lxTFBOU0x0NExoZGVFLXMzU0dOa3VHbmxJTklUdEl1cXo3dzBYb3BZZHNhcmxrVEZ5RlhNcUc0MnhEM3BKVWpDR19DWXBxQ3NJNGl1SjB3NE1LUXFnM3l2dndmaWZjcnJQejVSRlJ5NmtFc3ItYm9IZXlvdDN0N1BpRkdOTTk2RXN6VF9mcE8tS29MRlJqanlnTTdldHJUSDd5b0ZJNkFhaFJHLXhwbVR0cmNDS3hORUVWVlYtVDhyUE5MN1FONE14X1ZRSnNjQW9ZcmF3aENEZFdCLURvTTdBTFlFRU83RUMwU2tkUndxQVE?oc=5",
       "data": "04/08 19:00"
-    },
-    {
-      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
-      "data": "29/07 07:00"
     }
   ],
   "avisos": []
