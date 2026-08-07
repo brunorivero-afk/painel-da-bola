@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 12:51",
+  "atualizado_em": "07/08/2026 13:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -606,19 +606,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
-      "data": "07/08 08:30"
+      "titulo": "Fluminense desafia estigma de clube elitista em série no CineFoot - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLUpqYXpJTlJGaDcxQXQwZFJieHhLSDYtUEZBejhOczU1NEk3blNyUXNUODN3Y1pxa0tIbW9kMF9KekItYzVadXl2cEdYSF9wMGJGRHJfN0RRX0ZWb3NLbHVKWUNPVHN5X0h2S0NhcjJYQVU5ZXJvbzFMLUxMalVxRF9ORUVfelp1eGFNZEw4NzZoX3RzdUtvcnkxci1kUmRZaHZXSHlIdVNFSHV4WUctdnNIbXE5WWNqaUptTDFCZlo3RnB3N3hpVGM2bEZKVDNOMGszTUc5b25qVEZZa0NTdnhjeDNPZGZIbVU3Qw?oc=5",
+      "data": "07/08 16:14"
     },
     {
-      "titulo": "Fluminense desafia estigma elitista com série documental exibida no CineFoot - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHR3dXNrbnYyajMwVVZYcE1uUXcxajV4ckIxTWdCNlAtRlVXT0pMd0YzQzRNQmhEWlJIZExOeEtfOFFpdVlxYWlnZVR4Y3ZvRHk1VkNCR1pjX3BIMEVVT1RWbDR0M040RVZ2UlBwaUFCX3J2LXprNHBHb09zYzBIRFpEM0tzNldyY0kxc2VEcDdfUnNnX2I2NzdSY19IQkoxZlpVM0tybWVFR3dDN0ZQR1FMRHh0M0JjN2p6V2lDRWY?oc=5",
-      "data": "07/08 11:00"
+      "titulo": "Ventos fortes forçam Fluminense a fechar sede das Laranjeiras - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0cxR1FZdzZMdkM5dG5QVmNULVpNWW4zaEstQWNFSjFReDl5cW5hRHdOMXBjeVJUbWU3TFhqLVFfLUtITXZpRTlBTS13WW1yN2pqVVJoczRabnNfYXhuaFUwbHVSRzhNNmJacTh5NW85NUlRWXAwOGJDV0tHZGtyNUFja0I0U0xkcnc5dmtuYWZxTEFySC1FOUQtNFJuX1Z1WWVSb2NB?oc=5",
+      "data": "07/08 13:40"
     },
     {
-      "titulo": "Previsão de forte vendaval no RJ faz Fluminense fechar sede - iG Esportes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlUWGlVS1VNTzdzLWFuVFRuQTNCU1BzZzF6MTFtVThmMU9STUpxdXVBekh3SVQ3OUlwSzd2eDJyUjh1ZWppMnhGaVc2dkxvV3hvN3RlZVFoZHF3UndXTHQ0SWNXQ2J0SEpZSFZadkNwd3RhOTh2blhpc2RCR2FHd3RPM1FqSTVoeEJiVVN1OHFCMGIyOHlsLXBIY2NtSEFJejNfQkc1QThUM3dtdVNNYtIBtgFBVV95cUxPV3pfbVlIS0s2YkJTSGxvaHByaTFodnlvVEVnM0lWdXNwMVc4WlZyZTFSMFdfUm9WZThQZ0dwMTRLeW1xQl9sRzBfOXZFU0VFYkQtWGlQUFRxY2NJM3ozaUMwLTVVYUs0TnNsXzRuRXpod1F1cE5OWnJlbjNGeHBzQzM2NGVxcFJBS21EZkViUHBmdnQ4QjFRcXFJNWlLMkZ2VjBJYU12SUVpWkdqQ01SYzZKMWhpUQ?oc=5",
-      "data": "07/08 13:50"
+      "titulo": "Saiba quanto o Fluminense pode faturar com venda de Kauã Elias na Europa - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFpjTWhiWUg1UGhQM2loR0IxbHlhOHlIYzFmdnBZVmlzMkpYcURMOGhZUXNpU3FmZk5jbVBPampmNFpxSXQ5TjdpYUY5VlhSa3dhMjdGNzN2MDg2ME9OZ0pRUl9UUnVmV2hZTGYxQV81VXRIQlM5dFJkSGZOejAtUGxLbmhHNmdDdllBVUtEQ0xMTEN5OXJReHh4R1ZFcG1f?oc=5",
+      "data": "07/08 14:30"
     },
     {
       "titulo": "Ex-Fluminense entra na mira de Manchester United e Arsenal, diz jornal - LANCE!",
@@ -626,9 +626,9 @@ window.PAINEL_DATA = {
       "data": "07/08 13:12"
     },
     {
-      "titulo": "Saiba quanto o Fluminense pode faturar com venda de Kauã Elias na Europa - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFpjTWhiWUg1UGhQM2loR0IxbHlhOHlIYzFmdnBZVmlzMkpYcURMOGhZUXNpU3FmZk5jbVBPampmNFpxSXQ5TjdpYUY5VlhSa3dhMjdGNzN2MDg2ME9OZ0pRUl9UUnVmV2hZTGYxQV81VXRIQlM5dFJkSGZOejAtUGxLbmhHNmdDdllBVUtEQ0xMTEN5OXJReHh4R1ZFcG1f?oc=5",
-      "data": "07/08 14:30"
+      "titulo": "Ex-Fluminense, Kauã Elias entra na mira de United e Arsenal - odia.ig.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWVydlJhdTRKX1JISzNEUTY5eGEtM0w1VERXX3ZVMWxmQ1FMLVB4eFVFR0lKMGJGWXBzREM3eTkyM2poZ3E5aUZaM24teEhqaXFPT0pIMlo0OGI1NVo3X0xQaWFXZmlsdDgwWGJrNDlUaUl2ZFVyNHFhS1pQN1dBWjlXc1BnSXQxdzExd3hyRWtEcF9NM3lCbVQ4UHFrWEFlZG1xZkVRNnVzUkFRalFj0gG0AUFVX3lxTE5TVld4RjV5em05SmRnR1FYQjF6VGwzRzUwcmZadXFYWFFfd2thMnJkZDNpUl9Pb3ItVUhETzRFUlVZaHg3VmRidXdZcXF5cnZIellhbVhtZkxwTENPM2NQYnpnd0hBNDZtOEg2cFVIZ1pNSFlHWDEyYlo5V1JkVmRzQmJheTdITkI3dmxpZVBFZ0hsY3gwXzBCVWNzd1lPNTJqUFZfaFloelNFWTJQOEh5QjEyZQ?oc=5",
+      "data": "06/08 20:50"
     }
   ],
   "avisos": []
