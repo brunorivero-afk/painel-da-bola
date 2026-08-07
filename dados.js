@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/08/2026 10:55",
+  "atualizado_em": "06/08/2026 21:38",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-06",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Benfica x Heart OF Midlothian",
-      "channels": [
-        "CANAL DO BENJA"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-06",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Alianza Atletico x Cienciano",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-06",
@@ -111,6 +91,26 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers x Puebla",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Benfica x Heart OF Midlothian",
+      "channels": [
+        "CANAL DO BENJA"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-06",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Alianza Atletico x Cienciano",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -269,16 +269,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-06",
-      "time": "16:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Venezuela",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-06",
       "time": "13:45",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Paraguai",
@@ -375,63 +365,73 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-06",
+      "time": "16:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.8,
+      "temp_max": 32.4,
       "temp_min": 21.9,
-      "chance_chuva": 4,
-      "condicao": "Parcialmente nublado"
+      "chance_chuva": 8,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.4,
+      "temp_max": 31.9,
       "temp_min": 19.8,
-      "chance_chuva": 2,
-      "condicao": "Poucas nuvens"
+      "chance_chuva": 6,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.1,
+      "temp_max": 23.9,
       "temp_min": 15.4,
-      "chance_chuva": 12,
+      "chance_chuva": 18,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 24.1,
       "temp_min": 14.9,
-      "chance_chuva": 35,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 43,
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT3NNeUFRZS1INkFuczEzX1NBWEYwQml1djRmeDVLSDQ0NzJJUElENWF5YU5GUG9Nc1BTQ0RaZ0c5UU1xV3ExSlNkZk5acWNqNVhKOHlYRjItNVFoVW94dFdORGNCYTZrbHBNOTg2MzVLZlIxUUtaSzNWV04zVlBVRy1IcGtLQ0puV0dvWVE0QjhoWVJfdGlDSXlMUEVUS0FfbE5zTjJfVXZIQ1RQUjN5YkhtT1JmUHpLVTl1MmVIZlpPVk9yTE0yZ2JR0gHYAUFVX3lxTE5fVnhQT2pZUG5oNEpVVXl4dExGazJYTUU2NHRPWHExWnJSZG1zeC1KZzR1WlV4NVdYZ3RuOGpRSkV1NXduYTRVRjlEWXhnU2dFSWQtSVNtdEQ5WlFfYmdNMG82N2hvYklfS0N3U2o0c0hCX1I3RU9KQ29mUWcxS3piWmU2RHRZcnc3WGpkQmEyMUt2YnVxS1BJTXhZcktfTnY3NExzTEF5cU9zWng2dHpOMHN3cEhqcEVSaEs3RlJLS2VONVA3TFJKLXctLVpfcUZNOUJyZkZ5ZQ?oc=5",
-      "data": "05/08 06:00"
+      "titulo": "Vasco provoca Fluminense após avançar na Copa do Brasil: 'Ops, fiz de novo' - UOL",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLU5XSUs5MF9kLTBXR2lXRkNtX3FnU09mMUgxdENuaVI4WVlIcjIzT1RHMTdpQW1wTW9XN29mbFpSdHJMV3pObUNHbExYR3hXMG1tZmRkeHVSWERjYzhGRGJhc2JJZXRkQWpoaUZ3OUJhbkVOZ2FrUHFDYTk4NXY0YkM4MDBWQkJyQW5QNDFKNEd4X3ZGeDRVNnYtN2EtWlVqM1FHMzlZLWZuRUNrSGdQYjlZbDVpZw?oc=5",
+      "data": "06/08 11:32"
     },
     {
-      "titulo": "Vai sair? Entenda a situação de Luís Zubeldía no comando do Fluminense - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMFdaSjByNnRCNGFnaDRROGlJZWJyaTdkMUpiM0x6akFSRGpta2dhUTVVbUJlM0JmRnlUd085VXAtNFVjS2VrQTZnU0lDV3N2V29USDVua0JvNmtlXzJzZk9rR1JYOTJFUk5oU0pJR0RSZ2hpdFdnWEttMWdEZVZjNWZkTGd6VHJCU0gwelhBODhmNlVQcVhBOVBVNFFRV1E1bGpubWVCdVI4QXU3b21ZZ1pKOUlfYU5neXFoeWZqQzYzX0VaaEZESmNENkpMQjJIU0dpb2g2OEdmWmJxOTdGeTlRZWU4aDh3SE1ueHlMY2Q?oc=5",
-      "data": "06/08 10:39"
+      "titulo": "Falta de critério de Zubeldía incomoda elenco do Fluminense; entenda - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWlDLV84Rjh2eGMwX1JrLUk1UmFUMjgwSVE0OTdCRzVPc0JQU1JHQnFlb1hXRU1pNDY4R1htUjVGTXVoWjRvOEdZR1d5NFhnUjhhcEtvM0J1U2pwVnZJUElCTjZkUWlnM0d0d01pd09JdGtmQnAxR01HUTBtQ1lMd05nYW1JbnpOX1B0Yy1aU1hKSVozZWZkMWR3?oc=5",
+      "data": "06/08 23:15"
     },
     {
-      "titulo": "Presidente do Fluminense traz atualização sobre proposta para a SAF - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJydUMyMk1IdGl5NVFfbDVUTm5iMnplT09fWmJ5czZPLTYtSEktUjQxMUFSUXk1cnFOSmVVSDZNZkhDZE9UVFBRdDd0REhFM3JjUUFXbW4xUjhrMGxNbUgyRjRPOERBWHNISklxTHl1dzhQRVZja2o3NmZkTGs2WDdOSGtxTl8xZVhJTjkzejZ0UVlBNnV0YWhERGdCaVF2NTBMVDJYOXcyZXpGMUV5TndyWTVFR2t1V3hYdXQzSUNSNW5WTGd0bEpn0gHPAUFVX3lxTFBxQzVValFfMWswYzAyNWpnNThEc2N3RGZZb0ZxczdmUVc4SUl5eGo3QnlpYm1MemRJRTh2MUxEYjVYWC1jM216OTZVUnBVdHNqOUJEZl94bDlxQkVsYW1wc1d6MEZZMHR1VGIxTU9XZVZvbVkwcnlhbEVYYzNoYkU3ZEJEdHZHblAzUFh5d3RkdWRvdnVOR3RpMXpROG91ZENlMHlwYzJyVm9tbTZWMEc4UEJDb00xYUtDNk1MWVA2SzFaLUJjQUZnaXl1UE9fQQ?oc=5",
-      "data": "05/08 01:12"
+      "titulo": "Fluminense debate futuro de Luis Zubeldía após queda na Copa do Brasil - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRUpreVFFVWxwdXp4aEFxTXBJMU5jZmFUWnU3U1djcFZGWk02cDZIMUJPa0FjcjVNaVhOLW9zUlVQR1BUWjROdDQ5ZE9wd2lydm9vaVZuRGs4TGxiR2ZTdFRtZ3VfXzQ5cVRwdFkzdVgzbkhpVG1BakY2bUlZUFJDelRDZHRMQkNKWjFkTUFxcE9SNFluUXU3dVJYVlJaV19qY01NYnhMRmRoSW5yVU40NkVQWEp6UmpkSmRrR2RXSXRKREIza2pfbHNsQkR2SUNSN202WmVDTldoekpHeHBobW9STk56UEJ1UDI0VkUyRkdkTGs?oc=5",
+      "data": "06/08 21:53"
     },
     {
-      "titulo": "Presidente do Fluminense diz aguardar nova proposta por SAF: \"Objetivo é aumentar o cheque\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZDJfMkNhcTNUSlRjdnF6N3RkWFBEclVYd3VHQjlsT2d0ekc4cGh0VlFKOUJMeUFMcjVUQmxXNVNGYzg5b29ndUg1UkQ4NTF2Z2RRRmZkQnRlaFFHd01iVHJpeFZQS2p1Z1NkaE5acU9MTkVqUzFsTWpyeVN4cHc5Tk5RbzVxVXYwZFFMVmdXM3pTS3BsSDZLSlZlODRvNjd4ZFRweUFwa0NQOUJ4TV9kYmE2QUNNejBDWEpzU05IX2kyc2FMTmJ5OFdJNG5hMXlTckt0RG5ISDPSAecBQVVfeXFMT2NtbVVGSkM0Q043YnZtbDRpaXBHeU5lWHBqZkx6U280WEFPWDZsSjVGU3RmVDZxXzZfWVJ3M0ZHS2treGdrdS1FSGV0R3plZ1hmR29LVHl5YVRqNnYyQnFvTUVCb0xLUk9vUGRrNnRtQ0Q4a2tkdlFvS3FnNjRVNXlTTnhDX1VBSnNJUHdfNm9HcGZWU2pfLUdTckh5eGpaUFVUZzM3MWRuS0dfd1VsbnpJZGVKamhkZ0lnZDd0a2VHRS1kMG84cHBwWWZYeHZJRmhoOVRlZjRscDN3YzlselVCU3BORjhJ?oc=5",
-      "data": "04/08 19:47"
+      "titulo": "Clube da Série A recusa R$ 6,9 bilhões para virar SAF e aguarda oferta - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXRnb2FlOVZDOUFCWWtxYkhtNkdPblVqX1pNZFRNUUVKY1FGT1NjMDUteTZZMmpVeFlTRmlsbzhMd2hSRTF6MjQtb01BM0tHSXBiamtKbkhyNFB4S0FPUERTb0xid1J5bWl2NVhVR3dZSkJZaDhtVG1vZURzcFU5OVI1NlpMUERucG85SFBSX2lucVk4U01TOHJmY2MzUkxEMDVUclZKd1Q0aHfSAbMBQVVfeXFMTUItVmJyblE5bHV5SHUtS1RMbS1Ldl9vXzFwS1RnVTRGdDFtbEhPaXcyOGpIaHEtam9wRm5wYlo0dVVSSTZVQkhzMlZkMVlXQmVhRFpZeTNENEFzb0JnTVl3ajRNNDc2R3pleV8wVExCenRZT1lKZUtWS0NWMVY5X241ekU1Y2dQYUNaWXVtQkVIdHE0anNSYnprc1l5WHZQQllKcVM3UnZPQXFQVTd2YzRYWVk?oc=5",
+      "data": "06/08 00:42"
     },
     {
-      "titulo": "Fluminense aguarda nova proposta pela SAF, diz Montenegro - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdk9wWVV4bGdCUFUyb2hMQ0ZYVmJYQXV2dTY3WXJfR3dydnB5aEV3ME5hSUthcjNoVlVoaFRQSjlfTDdaNzFSbHlxdVU5ZkMyQlg1bW5WaEV2SlBqR0dVVUJ6MEk1RVRtRFdjV0E4UDdtTFJUWE5UU0hPTkdKTlEtN29CN0VINnl4U2t3UVhESHFtSW4wVFUxbW90TmJtZw?oc=5",
-      "data": "04/08 20:30"
+      "titulo": "Urgência x projetos: antes de jogo decisivo na Copa do Brasil, Fluminense detalha SAF, e Vasco aposta em plataforma - Extra online",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOGYzYXduMzlZb05Kem5KNjgwT2FRcEtrWHhySTJ6VVFZLVJMREFOcmVxN2VPRF9JLTJDMlBsY0p0WE5qMG95WjFtYTdsRnhMUG1lNVdvNjBQQmZtbkg4em5ZaTZYZWZHbVRNNTIwOURqb1JhZnlRT0t0WXBIX1MyeTJzNGtLN2E4VWxvTm9MRlV0cm0yX1g5SlBROVdXOXJqaVVqdDA2SFpCR3MyLW5mZjdxajRtR1ZrbFEwbzBrVk9yZ0tnYW9lN2VmSWYtY2lIaVBLWlB3cnBlOWxqbkhjZzJJTnNKNExxcndOemdfdTlIOUtyWF9WY0lB0gGIAkFVX3lxTFBwdEh4Yk0wMTdDRndON3VfYjhWajBhY2VNV0wzZTQxaUxzWEZEazVLdTlmOUpvb1U1ejNhaWw4VGxkS1NnY1c3WXFQQnF3dGJvY283SFlYTDRwR1dEZWxKQzgzUGhDbVdjRWR5bzBsT21fLW9mRHFDLUF2VndzQWRWTHlvc1hfaU10YUwwS3I4ZnJnbkttY0xkUGFWSmpad2p3aU0wbk9TZ1diUjB2aHdPVFA5S2pTOHhGOUljZm9ZUy0wSnE5RTF4N0NhdXE4RXp2SzUxcFZTUTlraVNlblc1NExRbVpjQ1hPWkpBM1hZVkk3THFRRXpRc1A1aVRsMFpQZjhSMVRoMw?oc=5",
+      "data": "05/08 07:00"
     }
   ],
   "avisos": []
