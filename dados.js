@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 17:35",
+  "atualizado_em": "07/08/2026 18:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -606,14 +606,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Fluminense prepara Fred Guedes para possível saída de Luís Zubeldía - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaEZQV0Q3c0pKUGJ5Rl9BNzllY1k2NWRveVp0RXllbF80OHM3N2NnUjl2Zi1KOFlXeUxsZEdNWUV1ZW9fcDR4WFBpNjFkYmxrcW4zZVkxeFBpU0FzanI0OTVqVjZBLUJGckxMUWt0M0hWdFNxMmUzNHpfcV9VM0xYR2xxSkdwcms3NXk0RzhJMzM2R3YxY0xGWlFfMkZxX2NxTy1NempTTDNJY0F4OEI3eXRMSkZtcWkyWjlLN2JSR0pYTndJVndZbjZqOUhNMmpVWDFqcHl3VWhQMmZSd21hc0NyRDJBM0EyR0Zn?oc=5",
+      "data": "07/08 18:50"
+    },
+    {
       "titulo": "Fluminense acerta renovação de contrato com joia da base - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0c3OXJ2cFRsNGFrY3BHSlo5bjJfaG13S2NQNzB1cG4wd3VEcUlLNEFCcVc4eWdKYzBqUXNlZVJ2aFVjZmVZQURNTHVkdlR1ZXBzNmVDcE9vbnpBYlZKSFdoZkdneWRWb25YRGxEcV9lWXhWOF9SRVRhR2RWWFRJQWp3QmZXd0k0WkFhR2xjTGplQldCMjE5WEtoRQ?oc=5",
       "data": "07/08 20:03"
-    },
-    {
-      "titulo": "Fluminense desafia estigma de clube elitista em série no CineFoot - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLUpqYXpJTlJGaDcxQXQwZFJieHhLSDYtUEZBejhOczU1NEk3blNyUXNUODN3Y1pxa0tIbW9kMF9KekItYzVadXl2cEdYSF9wMGJGRHJfN0RRX0ZWb3NLbHVKWUNPVHN5X0h2S0NhcjJYQVU5ZXJvbzFMLUxMalVxRF9ORUVfelp1eGFNZEw4NzZoX3RzdUtvcnkxci1kUmRZaHZXSHlIdVNFSHV4WUctdnNIbXE5WWNqaUptTDFCZlo3RnB3N3hpVGM2bEZKVDNOMGszTUc5b25qVEZZa0NTdnhjeDNPZGZIbVU3Qw?oc=5",
-      "data": "07/08 16:14"
     },
     {
       "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
@@ -626,9 +626,9 @@ window.PAINEL_DATA = {
       "data": "07/08 08:30"
     },
     {
-      "titulo": "Manchester United e Arsenal \"brigam\" por contratação ex-Fluminense; veja - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzJndlNGUmlVdzlLOGhpbU43b2tfRHB2SVBRd2hIdk5HUFFveUJoN3FUTVlhbHhuRE95aTFZRzE5aXdKQlExX2xyU0wwWFJxUlY3NjBuZEo2cVFtenBYYk41WkhJeXBXb2FGZWtNbVV2cDBpRE9OVVh4UnNNTUwzQzducm1MUkVhLXpPdTJuMDdJYloybG96SGdoVEN1NmJiNWdpcWJIWGZUUFJxQ2ZGcUpNRkhxdw?oc=5",
-      "data": "07/08 12:01"
+      "titulo": "Entenda o peso da queda na Copa do Brasil para as finanças do Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnFCRVIycGM1ZDNIWFRBZENxV1JmVV8tWWVhdEZabzFXMGFHYWhZMW14by1JNVNxNDBxOWR2a2lZQWRQVXlhNHFHb2VLVHZDa19lNEh4RzFqLWdpbnRYWFJJQWpzYmNiVHNDbWlSaFdrekpDWVVnOEZJN1N5WWg5YjFqWHlBSkU3aDBUejlTSkI5a3R3S3g2UVYxb21UVlBoWFV6OThpUmhBYmltTk1wNXhVdw?oc=5",
+      "data": "07/08 12:30"
     }
   ],
   "avisos": []
