@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "07/08/2026 00:46",
+  "atualizado_em": "07/08/2026 02:36",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-07",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CD Motagua x FAS",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-07",
@@ -152,6 +142,16 @@
       "match": "Whitecaps x FC Juarez",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-07",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Motagua x FAS",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -516,109 +516,9 @@
     {
       "sport": "volei",
       "date": "2026-08-07",
-      "time": "13:45",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Paraguai",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "04:25",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Masculina de Vôlei - Disputa de 3º Lugar",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "08:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Liga das Nações Masculina de Vôlei - Final",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "11:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "12:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "13:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "15:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "16:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "17:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
-      "time": "18:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Rio de Janeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-07",
       "time": "16:15",
       "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Venezuela",
+      "match": "Brasil x Colômbia",
       "channels": [
         "SporTV2"
       ]
@@ -629,56 +529,56 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 33.9,
       "temp_min": 22.8,
-      "chance_chuva": 29,
+      "chance_chuva": 18,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 35.5,
       "temp_min": 21.2,
-      "chance_chuva": 14,
+      "chance_chuva": 15,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.8,
       "temp_min": 15.4,
-      "chance_chuva": 27,
+      "chance_chuva": 14,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.0,
       "temp_min": 15.5,
-      "chance_chuva": 25,
+      "chance_chuva": 17,
       "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Vasco provoca Fluminense após avançar na Copa do Brasil: 'Ops, fiz de novo' - UOL",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLU5XSUs5MF9kLTBXR2lXRkNtX3FnU09mMUgxdENuaVI4WVlIcjIzT1RHMTdpQW1wTW9XN29mbFpSdHJMV3pObUNHbExYR3hXMG1tZmRkeHVSWERjYzhGRGJhc2JJZXRkQWpoaUZ3OUJhbkVOZ2FrUHFDYTk4NXY0YkM4MDBWQkJyQW5QNDFKNEd4X3ZGeDRVNnYtN2EtWlVqM1FHMzlZLWZuRUNrSGdQYjlZbDVpZw?oc=5",
-      "data": "06/08 11:32"
+      "titulo": "Análise: Vasco faz melhor jogo de 2026 e elimina Fluminense com autoridade e justiça - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVpLUFlERnVYWktGdFkwOHV4ZzRwZG5HNUZ6UGw3RW5NQWE2Qzc1cGVQV05IcTVwV0tYUnRhdTVobldrQmxtV0RDa01oTkhRT0RWOEM1QlFnZ21tTWNYRk9zWE16WEdhYkFYYTNObW40aWVhZ01MRXk1RzNVUkY5X3ppcEN6SGJzV0stWnl6bVFoNDZYQ0FXay0xckRPUFFpQ3lKZGY5eGRYcktWYTlfT3QtZzZGQ0c5cUJSUU5uR2NxYmY3QWdONkVsci1pSURka3lQZEdlY2xzRUZQQnZPNkt2WdIB8gFBVV95cUxOT01obTBmZW9NWGI5RmdLWEFlemxXMmxfZnhReGV4SXljZXRmbldxYWJaWmlWd2lDVWlPSW1tdVA3WnE0dmt2bEk2SjdyX2phbmdQUFE0dFJSbTE1eFJzWUZzX2VUbktFRThoTnhKcVRXNHAxS0dpZjl1a0VWVGpXR1lPS19sdGR4ZFdEZ1ZHa3ZkbjhVd0lPenUzRVhXUTR1NExnMVVjZDN2VXFlbnFTUUxVUWFTYklxdkFkNC1xWVhYS3N1SGh3MzNIYTdZX3kzbHRRdnc4QkN6eHgyTk5nZUV2c2s5b3djdEdDZElLNFpidw?oc=5",
+      "data": "06/08 06:00"
     },
     {
-      "titulo": "Falta de critério de Zubeldía incomoda elenco do Fluminense; entenda - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWlDLV84Rjh2eGMwX1JrLUk1UmFUMjgwSVE0OTdCRzVPc0JQU1JHQnFlb1hXRU1pNDY4R1htUjVGTXVoWjRvOEdZR1d5NFhnUjhhcEtvM0J1U2pwVnZJUElCTjZkUWlnM0d0d01pd09JdGtmQnAxR01HUTBtQ1lMd05nYW1JbnpOX1B0Yy1aU1hKSVozZWZkMWR3?oc=5",
-      "data": "06/08 23:15"
+      "titulo": "Clube europeu mira em jogador titular do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3A5S2R4OG4yRTQyOHdzandiYzlncXhQNS1ZZ0ZSR2dCZXpoTUxmRzFvMzMwX3JHTllQUk94cnZTOGYteGN2dnc0TE9BM25uN2lTaHAwRFJEcHBkQlBhZWNWYlgxa1VQZFNmY1ZuR21qWEZwUVlVazdXbkpaVWN2bTVNMC1QdDdhSjdETGhXY0JiaHkyX3RDQlVxRzFCaWgwZjZobDNQY0VMWGF3Y2dHT3d2UVM1eXNjNkRVQThmS01iUXEtamhKWkdUV042UDlNSGxTdEo4ODZrZw?oc=5",
+      "data": "06/08 15:27"
     },
     {
-      "titulo": "Clube da Série A recusa R$ 6,9 bilhões para virar SAF e aguarda oferta - A TARDE",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXRnb2FlOVZDOUFCWWtxYkhtNkdPblVqX1pNZFRNUUVKY1FGT1NjMDUteTZZMmpVeFlTRmlsbzhMd2hSRTF6MjQtb01BM0tHSXBiamtKbkhyNFB4S0FPUERTb0xid1J5bWl2NVhVR3dZSkJZaDhtVG1vZURzcFU5OVI1NlpMUERucG85SFBSX2lucVk4U01TOHJmY2MzUkxEMDVUclZKd1Q0aHfSAbMBQVVfeXFMTUItVmJyblE5bHV5SHUtS1RMbS1Ldl9vXzFwS1RnVTRGdDFtbEhPaXcyOGpIaHEtam9wRm5wYlo0dVVSSTZVQkhzMlZkMVlXQmVhRFpZeTNENEFzb0JnTVl3ajRNNDc2R3pleV8wVExCenRZT1lKZUtWS0NWMVY5X241ekU1Y2dQYUNaWXVtQkVIdHE0anNSYnprc1l5WHZQQllKcVM3UnZPQXFQVTd2YzRYWVk?oc=5",
-      "data": "06/08 00:42"
+      "titulo": "Hércules, do Fluminense, atrai interesse do Zenit, da Rússia - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjVDdHlXUWtncVdVd0kyeHZkdFdPMF9MYnd1SWFndV8yalMtOFVDQkNyN0xSMVpEVEw4NXdidHlDbGZfYWwtZ3RTTlBTeFBwTTd5VXp1T2JCUnJiOTJuXzZBakNRM1FDSWg0VTVyd2RPNE1feC1CSUVDc2tNZUFNNTVmLXVOTVFTcnIyMDBUanRlZw?oc=5",
+      "data": "04/08 19:33"
     },
     {
-      "titulo": "Presidente do Fluminense traz atualização sobre proposta para a SAF - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWnJydUMyMk1IdGl5NVFfbDVUTm5iMnplT09fWmJ5czZPLTYtSEktUjQxMUFSUXk1cnFOSmVVSDZNZkhDZE9UVFBRdDd0REhFM3JjUUFXbW4xUjhrMGxNbUgyRjRPOERBWHNISklxTHl1dzhQRVZja2o3NmZkTGs2WDdOSGtxTl8xZVhJTjkzejZ0UVlBNnV0YWhERGdCaVF2NTBMVDJYOXcyZXpGMUV5TndyWTVFR2t1V3hYdXQzSUNSNW5WTGd0bEpn0gHPAUFVX3lxTFBxQzVValFfMWswYzAyNWpnNThEc2N3RGZZb0ZxczdmUVc4SUl5eGo3QnlpYm1MemRJRTh2MUxEYjVYWC1jM216OTZVUnBVdHNqOUJEZl94bDlxQkVsYW1wc1d6MEZZMHR1VGIxTU9XZVZvbVkwcnlhbEVYYzNoYkU3ZEJEdHZHblAzUFh5d3RkdWRvdnVOR3RpMXpROG91ZENlMHlwYzJyVm9tbTZWMEc4UEJDb00xYUtDNk1MWVA2SzFaLUJjQUZnaXl1UE9fQQ?oc=5",
-      "data": "05/08 01:12"
+      "titulo": "Zenit faz consulta por Hércules, do Fluminense, após Danilo ficar no Botafogo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUR5aGk3ay1KMTloVU0td2hhV0tQRkFzcUxUbmllMUVwWWJKNWJJenJUWkxiNUhjWWlQc1VmMTVaZmI1dkxfbmJUdmh5aFNQaTJVWXB2S00xR2szYnRIYWc4MUduZ25tRDBMS0NVZjR2Yk5RMDRmTk8zQ3gwTDdTWVNLNzczbF8zNE5rcGo0ZnRnTEJ0WFR5NkxLVExEYnVUYUxoekFHbW8xQXk1QjN0d21FNldnWHViUmFNeDRqYTY1SHMyTGFuSG53cXJpUUNOV3BXcHVVTmkyQXNxS1dZ0gHuAUFVX3lxTFBOU0x0NExoZGVFLXMzU0dOa3VHbmxJTklUdEl1cXo3dzBYb3BZZHNhcmxrVEZ5RlhNcUc0MnhEM3BKVWpDR19DWXBxQ3NJNGl1SjB3NE1LUXFnM3l2dndmaWZjcnJQejVSRlJ5NmtFc3ItYm9IZXlvdDN0N1BpRkdOTTk2RXN6VF9mcE8tS29MRlJqanlnTTdldHJUSDd5b0ZJNkFhaFJHLXhwbVR0cmNDS3hORUVWVlYtVDhyUE5MN1FONE14X1ZRSnNjQW9ZcmF3aENEZFdCLURvTTdBTFlFRU83RUMwU2tkUndxQVE?oc=5",
+      "data": "04/08 19:00"
     },
     {
-      "titulo": "Urgência x projetos: antes de jogo decisivo na Copa do Brasil, Fluminense detalha SAF, e Vasco aposta em plataforma - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOGYzYXduMzlZb05Kem5KNjgwT2FRcEtrWHhySTJ6VVFZLVJMREFOcmVxN2VPRF9JLTJDMlBsY0p0WE5qMG95WjFtYTdsRnhMUG1lNVdvNjBQQmZtbkg4em5ZaTZYZWZHbVRNNTIwOURqb1JhZnlRT0t0WXBIX1MyeTJzNGtLN2E4VWxvTm9MRlV0cm0yX1g5SlBROVdXOXJqaVVqdDA2SFpCR3MyLW5mZjdxajRtR1ZrbFEwbzBrVk9yZ0tnYW9lN2VmSWYtY2lIaVBLWlB3cnBlOWxqbkhjZzJJTnNKNExxcndOemdfdTlIOUtyWF9WY0lB0gGIAkFVX3lxTFBwdEh4Yk0wMTdDRndON3VfYjhWajBhY2VNV0wzZTQxaUxzWEZEazVLdTlmOUpvb1U1ejNhaWw4VGxkS1NnY1c3WXFQQnF3dGJvY283SFlYTDRwR1dEZWxKQzgzUGhDbVdjRWR5bzBsT21fLW9mRHFDLUF2VndzQWRWTHlvc1hfaU10YUwwS3I4ZnJnbkttY0xkUGFWSmpad2p3aU0wbk9TZ1diUjB2aHdPVFA5S2pTOHhGOUljZm9ZUy0wSnE5RTF4N0NhdXE4RXp2SzUxcFZTUTlraVNlblc1NExRbVpjQ1hPWkpBM1hZVkk3THFRRXpRc1A1aVRsMFpQZjhSMVRoMw?oc=5",
-      "data": "05/08 07:00"
+      "titulo": "Fluminense x Bahia pelo Brasileirão; acompanhe ao vivo - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWUtkQWpNd0pQcGRuT2Vlb0hYUEdoeFpQY1BoejlpWldfUmhJd2ZrSEUyS0hfckk3aDdQc1dfSlY3STNYM2xBY1BQSlpGbXBfYUt2bjgyaFA1VnZ0WmZ4eWItT3J1X2Z1RUQ2UlNQN1ltRkJuQ25TRmJyUVhTb0U3aDdGTE9sZkF4dXVhbWVNTHhkUTlvWHFMZHVZV3IwRkljdzFsSUdwYnllSzVieEpLYlpBX0o2NmozSFZTU3hTMWFZdU5Gdld0Vlk0WFFlZzNuM2NsWkJnYmxSeXMyVmJHaldFUlN4eVA3?oc=5",
+      "data": "29/07 07:00"
     }
   ],
   "avisos": []
