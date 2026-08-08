@@ -1,36 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 12:24",
+  "atualizado_em": "08/08/2026 13:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "10:30",
-      "competition": "Amistosos",
-      "match": "Bayer Leverkusen x Sevilla",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Ipswich x Rayo Vallecano",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Progreso",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-08",
@@ -85,16 +55,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Barcelona x Nottingham Forest",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
       "competition": "Campeonato Holandês",
       "match": "AZ Alkmaar x ADO Den Haag",
       "channels": [
@@ -105,21 +65,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Nacional AM x ABC",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x São Paulo",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Palmeiras (F)",
-      "channels": [
-        "TV BRASIL",
-        "YOUTUBE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -139,43 +88,30 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x São Paulo",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Palmeiras (F)",
       "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Tigre x River Plate",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Figueirense x Ferroviária",
-      "channels": [
-        "SPORTYNET",
+        "TV BRASIL",
         "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Santa Cruz",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Barcelona x Nottingham Forest",
       "channels": [
-        "BAND",
-        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x ABC",
+      "channels": [
         "YOUTUBE"
       ]
     },
@@ -187,6 +123,16 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers II x Los Angeles II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "São José x Gama",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -233,10 +179,34 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "São José x Gama",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Santa Cruz",
       "channels": [
+        "BAND",
+        "SPORTYNET",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Figueirense x Ferroviária",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Tigre x River Plate",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -494,6 +464,36 @@ window.PAINEL_DATA = {
       "match": "Chelsea x AC Milan",
       "channels": [
         "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "10:30",
+      "competition": "Amistosos",
+      "match": "Bayer Leverkusen x Sevilla",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Progreso",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Ipswich x Rayo Vallecano",
+      "channels": [
         "YOUTUBE"
       ]
     },
@@ -1122,9 +1122,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Lesão de John Kennedy frustra torcedores do Fluminense: 'A pior' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaG90ZURNRWtaNUx4UXRzVVNwS3lWcEN5aER0S0VQR3NGQ01ael8yNUQyLXJvZlc0aktVUlFYSzRabXhCaktISURXMTF2VHNFendjajBVeWhVUjdFTzMxeTZaREhlbEd3b2xxNlVJd2FXYXVsd0FBaEJVTFlKNkduUTlHRnNrSTktdnBiRlpsa3F3NWpTdVQ1Slhkd3BmOUQ5MVNhekNJWFc?oc=5",
-      "data": "08/08 14:03"
+      "titulo": "Fluminense faz proposta para contratar joia da base do Sport - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMUVoS1lZaDZqUk02U0lqeUFrS01DN2dKcUotWTNickpBYW5wdjd3ZU9HUmMxYjNQV2ZXcHdkYjExZnJXbUo2VkJOT2ZxT1pqTWRnMjJUVXNxNzZNV2N5QU5QLTA1aWFxVC1ocF9BdkQtalUxY0pIRWp5Uloyem1lZG9WdnNXaXRqVXR5RDhrSTlBQnhLSUdmZ2hQR2NyR19RRmRIU29UY21xTVRPRzIxcjFIZ1k0VXd1SFZNOExCR1Jma1RScktFSU1GZTh6NzZ5dUlqRExkRHVCRmgxZU5xWWRRQXlnTUtjUDloMGxkeWdVU01WT1dv?oc=5",
+      "data": "08/08 15:41"
     },
     {
       "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
@@ -1132,19 +1132,19 @@ window.PAINEL_DATA = {
       "data": "08/08 12:44"
     },
     {
-      "titulo": "John Kennedy, do Fluminense, sofre grave lesão no joelho; veja detalhes - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2xqVTdKVTFzN205aE5IX1hZV3YyZUlEckU0U2V1aGVlSElZVENIMF8zQ1ByT3FINjR2aVVVQjdtQWVRb1dXUzZ3NDY5dVJHekZ5MkNrSFpXRVpjZkRST1JXdm9nUzV2R1pTY3paeG9ZMDMySE9pNGhJUVROQ3BSOHlMUEdvVThaN3BrUmN4RjhOc2NBRHVZUGhObllhTm9hQ01qcDhvRXZYOEN6V2NmTjhYR2o?oc=5",
-      "data": "07/08 21:11"
+      "titulo": "Lesão de John Kennedy frustra torcedores do Fluminense: 'A pior' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaG90ZURNRWtaNUx4UXRzVVNwS3lWcEN5aER0S0VQR3NGQ01ael8yNUQyLXJvZlc0aktVUlFYSzRabXhCaktISURXMTF2VHNFendjajBVeWhVUjdFTzMxeTZaREhlbEd3b2xxNlVJd2FXYXVsd0FBaEJVTFlKNkduUTlHRnNrSTktdnBiRlpsa3F3NWpTdVQ1Slhkd3BmOUQ5MVNhekNJWFc?oc=5",
+      "data": "08/08 14:03"
+    },
+    {
+      "titulo": "John Kennedy sofre lesão no ligamento cruzado do joelho e vai passar por cirurgia no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ0NQWnQxS2ltd1ZsTUtjTzNHUDI3TmZBZDMyUkNkRlZnTU9Fd0tnT19fQTBONGVOdWQ4U2hUMlpFWVE1NGo0c3hydUVmaU9QNEZsN1hMNTV0THpOSlY2YXBjcTl3TUJ2ZElZc3RQX3ZJa25GQmNHTG9UbFRDM2llcW9adm5WZEpQNWxoSUs4cWpJa2dDVkJjeDdNVUx2UGM0Yk9Jam5jQVlKQnhRaXZQYzZVcC1ZUlJlQkR5ck5neHNoemI5VW9aZ1NpLWVIZHNsZHJjeGU4aXBuNDR6MFBpN08yblRkVEhrcG1TOUtXLUhpQ0ljckJaS3Rn0gGIAkFVX3lxTE4wTGhoTGVxNklrWWFSVWxhRXpucVByYlpibTNPcEswUXlqTzg1ZzJHMEVldDhac0plajN2Q1FRaFdzMFR5Yjktbmgxek9VZm5fLXExQVRrSGdlXzNhQlRTbEZ5R1dkVlJWbFJCMjhYdy10VXJBbjJfVDh1QUgzMEUxN3hURGJoWml1TmxKeEtqY0xjbTBOSU5mU0tOZGxrMVZidXNZZm1va3d6UG4xOGVwQmhwNUVyeHhPcE5TQ3lYOHZNRVhVdnpkeHRJb0doWDZOVHVFbUs1RWVUX0daaWNNSnZTaFhJVDBsaVhVZ3BaMU9XMDVNOGcyTWhUS1dPaTFYYUZTNURPOQ?oc=5",
+      "data": "07/08 21:04"
     },
     {
       "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
       "data": "08/08 06:00"
-    },
-    {
-      "titulo": "Germán Cano titular? Veja a escalação do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFFjc08yRkdQazNEOUdXQnNDS056Zkh4SWd5NS1zb1B1YTlFTnhabzBnem55aExnZjY2MDd5ODlZYW0zNkZ0b1pmNWxDVGFQdVNDc2V6MHpyR0hKVVloSjFOaUxwaG83cG1IemJXRkpyNkhrV2prZ3UtaU9aZjBXYVhFQnFqTVpIWjdFSER6SUhBY1c3RWV4ZG0zZHk2THZObC1XMzBnVThiYldScWtrZmFfV3EwcmpsUW1LeVpCMEFiMHhYMnh2LWI1b3d5bmpCV2IxVg?oc=5",
-      "data": "08/08 13:59"
     }
   ],
   "avisos": []
