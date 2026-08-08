@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 19:23",
+  "atualizado_em": "08/08/2026 20:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -20,26 +20,6 @@ window.PAINEL_DATA = {
       "channels": [
         "TV BRASIL",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:30",
-      "competition": "MLS",
-      "match": "New England x Houston Dynamo",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Atletico Grau",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -141,7 +121,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-08",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Houston Dynamo FC II x Real Monarchs",
+      "match": "Chattanooga x Atlanta United II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -151,7 +131,17 @@ window.PAINEL_DATA = {
       "date": "2026-08-08",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Chattanooga x Atlanta United II",
+      "match": "Houston Dynamo FC II x Real Monarchs",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "20:30",
+      "competition": "MLS Next Pro",
+      "match": "Carolina Core x Huntsville City",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -166,16 +156,6 @@ window.PAINEL_DATA = {
         "RECORD",
         "PREMIERE 3",
         "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "20:30",
-      "competition": "MLS Next Pro",
-      "match": "Carolina Core x Huntsville City",
-      "channels": [
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -344,16 +324,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Nacional AM x ABC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "Grêmio x São Paulo",
       "channels": [
@@ -387,20 +357,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x ADO Den Haag",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x ABC",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "São José x Gama",
+      "time": "16:00",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x ADO Den Haag",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -485,6 +455,36 @@ window.PAINEL_DATA = {
       "match": "Uberlandia x CSA",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "São José x Gama",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Juan Pablo II College x Atletico Grau",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:30",
+      "competition": "MLS",
+      "match": "New England x Houston Dynamo",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -1122,9 +1122,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - ge",
+      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - GE",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlsZ0M2RlZ0R01WUFh1OEVzN0hranNKdDBiSnp1WjlnQzFfOWhzQlpMeS1HQzRybXR2VGRua2xBQ2k1aWxiZ1A5b0NoVV9yTy1UNjVjX0xJZXR0emt4d2VhZG52NU5QX3pNNDNoLW43V2NENXVoczBfV2N1S2dHZ3VtOF9RWm5EZTNDcG5WSlNESVlTelNHVW1FSTl2d21naGl5eHN0ZG9lLWZZWHpNcFhFQkFIbjBwa1JQV1pJN1JITGhSeUM3OEhQZ2lvUDhid1FjQ01fZm9qR3RqbVQzUmlYWDTSAfMBQVVfeXFMUHBlWHFGbmJ1RDM3YXNndmFvVEZaeHg1VGRTTWF1X1VFQkR1aG1LVlo3alZQNl9EaG5yd3E2R3U3TDJqNllsZUlTY1dYWWVXRVhPM3YxM3c3RjVTR2hRUHpsRnpsQUZlQ2ZxN2xhM0w2ZHc3NmFzbVVROWZzMWl4d2dGUGdfVkJWOFFLMTBGNGNmbGVack1KREVqaFRJNWJkOEROWk5kaTRQN0UtRUdIYl82VU5ycEVGU290QmEyRHd1ZVVIWkRRVE5Rb1pXMmxiTDltS3pRQ0lfZUwzcm53azI0WkNUbXJXVDdCV2o4OEJJMkJJ?oc=5",
       "data": "08/08 17:41"
+    },
+    {
+      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - GE",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
+      "data": "08/08 17:23"
     },
     {
       "titulo": "Fred estreia com vitória como treinador do Fluminense sub-20 - O GLOBO",
@@ -1132,19 +1137,14 @@ window.PAINEL_DATA = {
       "data": "08/08 19:15"
     },
     {
-      "titulo": "Fluminense prepara Fred Guedes para possível saída de Luís Zubeldía - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaEZQV0Q3c0pKUGJ5Rl9BNzllY1k2NWRveVp0RXllbF80OHM3N2NnUjl2Zi1KOFlXeUxsZEdNWUV1ZW9fcDR4WFBpNjFkYmxrcW4zZVkxeFBpU0FzanI0OTVqVjZBLUJGckxMUWt0M0hWdFNxMmUzNHpfcV9VM0xYR2xxSkdwcms3NXk0RzhJMzM2R3YxY0xGWlFfMkZxX2NxTy1NempTTDNJY0F4OEI3eXRMSkZtcWkyWjlLN2JSR0pYTndJVndZbjZqOUhNMmpVWDFqcHl3VWhQMmZSd21hc0NyRDJBM0EyR0Zn?oc=5",
-      "data": "07/08 18:50"
+      "titulo": "Germán Cano titular? Veja a escalação do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFFjc08yRkdQazNEOUdXQnNDS056Zkh4SWd5NS1zb1B1YTlFTnhabzBnem55aExnZjY2MDd5ODlZYW0zNkZ0b1pmNWxDVGFQdVNDc2V6MHpyR0hKVVloSjFOaUxwaG83cG1IemJXRkpyNkhrV2prZ3UtaU9aZjBXYVhFQnFqTVpIWjdFSER6SUhBY1c3RWV4ZG0zZHk2THZObC1XMzBnVThiYldScWtrZmFfV3EwcmpsUW1LeVpCMEFiMHhYMnh2LWI1b3d5bmpCV2IxVg?oc=5",
+      "data": "08/08 13:59"
     },
     {
-      "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRFRmSm5BRUx4R1cwMEh0Yklmd0lfV0NNeEVGX0tkeGRVQmYwd3lQeHpOSTJpRTdLdFlQNFlrTjdJc2cyR2hfUTFhOUdrSGVuT3c4NzllYjFKVVFudlVrMkNiRXpxUzFibG9jOGtsZG1GeUE2VWJNWXo3SExaY1F3Umo1eXRvUm9lTFp2OW9Ub256VW9DYzVDLW1QWS1RSWJlS204LTVmSTVUZ1U4RE9vNS01RlBaYXBTbmVZTUlTRnJzdW9XbkRMS09ZQ0NYRzBuNDRFQmoyMEl4NmNfZjU3WlNMYTNzZk1UU1haWUZIb2hHREg2ZjRwVXlHTmhwVUpvd0tV?oc=5",
-      "data": "08/08 12:44"
-    },
-    {
-      "titulo": "Lesão de John Kennedy frustra torcedores do Fluminense: 'A pior' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaG90ZURNRWtaNUx4UXRzVVNwS3lWcEN5aER0S0VQR3NGQ01ael8yNUQyLXJvZlc0aktVUlFYSzRabXhCaktISURXMTF2VHNFendjajBVeWhVUjdFTzMxeTZaREhlbEd3b2xxNlVJd2FXYXVsd0FBaEJVTFlKNkduUTlHRnNrSTktdnBiRlpsa3F3NWpTdVQ1Slhkd3BmOUQ5MVNhekNJWFc?oc=5",
-      "data": "08/08 14:03"
+      "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
+      "data": "07/08 08:30"
     }
   ],
   "avisos": []
