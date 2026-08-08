@@ -1,28 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/08/2026 20:29",
+  "atualizado_em": "07/08/2026 22:14",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-07",
-      "time": "19:00",
-      "competition": "Paulista Sub-20",
-      "match": "Tanabi SP Sub-20 x Palmeiras Sub-20",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-07",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x São Bernardo",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-07",
@@ -71,16 +49,6 @@ window.PAINEL_DATA = {
       "match": "FC Cincinnati x U.N.A.M. - Pumas",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-07",
-      "time": "21:30",
-      "competition": "Brasileirão Feminino",
-      "match": "Botafogo (F) x Fluminense (F)",
-      "channels": [
-        "SPORTV"
       ]
     },
     {
@@ -162,6 +130,38 @@ window.PAINEL_DATA = {
       "match": "Comerciantes Unidos x Cusco",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-07",
+      "time": "19:00",
+      "competition": "Paulista Sub-20",
+      "match": "Tanabi SP Sub-20 x Palmeiras Sub-20",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-07",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x São Bernardo",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-07",
+      "time": "21:30",
+      "competition": "Brasileirão Feminino",
+      "match": "Botafogo (F) x Fluminense (F)",
+      "channels": [
+        "SPORTV"
       ]
     },
     {
@@ -677,56 +677,56 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 33.9,
       "temp_min": 22.6,
-      "chance_chuva": 55,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 78,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 35.9,
       "temp_min": 21.1,
-      "chance_chuva": 30,
+      "chance_chuva": 59,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 26.0,
       "temp_min": 15.0,
-      "chance_chuva": 67,
+      "chance_chuva": 86,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.4,
       "temp_min": 15.8,
-      "chance_chuva": 59,
+      "chance_chuva": 92,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
+    {
+      "titulo": "John Kennedy sofre lesão no ligamento cruzado do joelho e vai passar por cirurgia no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ0NQWnQxS2ltd1ZsTUtjTzNHUDI3TmZBZDMyUkNkRlZnTU9Fd0tnT19fQTBONGVOdWQ4U2hUMlpFWVE1NGo0c3hydUVmaU9QNEZsN1hMNTV0THpOSlY2YXBjcTl3TUJ2ZElZc3RQX3ZJa25GQmNHTG9UbFRDM2llcW9adm5WZEpQNWxoSUs4cWpJa2dDVkJjeDdNVUx2UGM0Yk9Jam5jQVlKQnhRaXZQYzZVcC1ZUlJlQkR5ck5neHNoemI5VW9aZ1NpLWVIZHNsZHJjeGU4aXBuNDR6MFBpN08yblRkVEhrcG1TOUtXLUhpQ0ljckJaS3Rn0gGIAkFVX3lxTE4wTGhoTGVxNklrWWFSVWxhRXpucVByYlpibTNPcEswUXlqTzg1ZzJHMEVldDhac0plajN2Q1FRaFdzMFR5Yjktbmgxek9VZm5fLXExQVRrSGdlXzNhQlRTbEZ5R1dkVlJWbFJCMjhYdy10VXJBbjJfVDh1QUgzMEUxN3hURGJoWml1TmxKeEtqY0xjbTBOSU5mU0tOZGxrMVZidXNZZm1va3d6UG4xOGVwQmhwNUVyeHhPcE5TQ3lYOHZNRVhVdnpkeHRJb0doWDZOVHVFbUs1RWVUX0daaWNNSnZTaFhJVDBsaVhVZ3BaMU9XMDVNOGcyTWhUS1dPaTFYYUZTNURPOQ?oc=5",
+      "data": "07/08 21:04"
+    },
+    {
+      "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnNheV90dlZnRXdZLTh1Y3FIM2RqVDVBVG5NNEJ1Zk11UVdYUWdEX0xqb2FKY0FwX0ppVkNWNnA0TnR3SGZwN2ExUzdaWUdnazloV2hxY0wtUGc5TmIxRzcwcVFFUXRtSm1IWFZLa1FBUHNmVzdQbkdiTmhma0ZlV1ktSUFSSnU1RVZHV2V6cl9SZDM0ZUNJQnEzeVRBUndKcG9N?oc=5",
+      "data": "07/08 20:30"
+    },
     {
       "titulo": "John Kennedy, do Fluminense, sofre grave lesão no joelho; veja detalhes - band.com.br",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2xqVTdKVTFzN205aE5IX1hZV3YyZUlEckU0U2V1aGVlSElZVENIMF8zQ1ByT3FINjR2aVVVQjdtQWVRb1dXUzZ3NDY5dVJHekZ5MkNrSFpXRVpjZkRST1JXdm9nUzV2R1pTY3paeG9ZMDMySE9pNGhJUVROQ3BSOHlMUEdvVThaN3BrUmN4RjhOc2NBRHVZUGhObllhTm9hQ01qcDhvRXZYOEN6V2NmTjhYR2o?oc=5",
       "data": "07/08 21:11"
     },
     {
-      "titulo": "Fluminense prepara Fred Guedes para possível saída de Luís Zubeldía - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaEZQV0Q3c0pKUGJ5Rl9BNzllY1k2NWRveVp0RXllbF80OHM3N2NnUjl2Zi1KOFlXeUxsZEdNWUV1ZW9fcDR4WFBpNjFkYmxrcW4zZVkxeFBpU0FzanI0OTVqVjZBLUJGckxMUWt0M0hWdFNxMmUzNHpfcV9VM0xYR2xxSkdwcms3NXk0RzhJMzM2R3YxY0xGWlFfMkZxX2NxTy1NempTTDNJY0F4OEI3eXRMSkZtcWkyWjlLN2JSR0pYTndJVndZbjZqOUhNMmpVWDFqcHl3VWhQMmZSd21hc0NyRDJBM0EyR0Zn?oc=5",
-      "data": "07/08 18:50"
-    },
-    {
-      "titulo": "Fluminense acerta renovação de contrato com joia da base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0c3OXJ2cFRsNGFrY3BHSlo5bjJfaG13S2NQNzB1cG4wd3VEcUlLNEFCcVc4eWdKYzBqUXNlZVJ2aFVjZmVZQURNTHVkdlR1ZXBzNmVDcE9vbnpBYlZKSFdoZkdneWRWb25YRGxEcV9lWXhWOF9SRVRhR2RWWFRJQWp3QmZXd0k0WkFhR2xjTGplQldCMjE5WEtoRQ?oc=5",
-      "data": "07/08 20:03"
+      "titulo": "Fluminense consulta Odair Hellmann; veja bastidores da negociação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeE5RNHlScEw0ejJwb0MtQ0cwVFhCRW5nYVBRS2xBVFd5RnUxZ3Z4ZVA0Um96SDRxNWwzSHRLVk5lWkZzMUNYTEZiZWtnTVNYQ2diVjBzR2QwM19tanZIUUpkUk9hZXlVVGRsVE9PemVnUV9zeXdhV1RoT2J0UUcwSnMxWUg4ZFE4TGVwaGwyOFpDaURtNXM5Sms1cElWc2ZYeVlRcF9zZnUzOFVPU0lvR2J2VXpHYnUydE9qOGhNRTNjYnhVVU5fbEJyZ0J1LW1MN2VFdjlBS19zOGdDSjlFOEtsUllaQnM?oc=5",
+      "data": "07/08 04:41"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
       "data": "07/08 08:30"
-    },
-    {
-      "titulo": "NOTA – Fechamento da sede social devido à possibilidade de fortes ventos - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjMzX1dpeTlHcHFPYmtnQnlYN20tZm1UcHh6dUZWWGpDSUZyYkNFVjdhQUEyRHlxWk9PX21mZnNxYmZFZk9ybkJQZjE5YTA0S0dQNXQwMC15MnhEWmhYMUVKU2gwOUt2d2VGZjZzTnBsbWRmdDA2dTFQeXlMTzM0Zl9BTXhORmoyakw0MlUxNHo1YUV5Z3RqMTJqSUNGUGdOSGtiaV82dWkwcXRG?oc=5",
-      "data": "07/08 12:34"
     }
   ],
   "avisos": [
