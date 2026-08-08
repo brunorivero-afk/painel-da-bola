@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 07:27",
+  "atualizado_em": "08/08/2026 08:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -1096,41 +1096,46 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 26.8,
       "temp_min": 21.4,
-      "chance_chuva": 63,
+      "chance_chuva": 80,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 26.2,
       "temp_min": 21.4,
-      "chance_chuva": 51,
+      "chance_chuva": 86,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 26.9,
       "temp_min": 18.3,
-      "chance_chuva": 67,
+      "chance_chuva": 87,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.1,
       "temp_min": 16.9,
-      "chance_chuva": 73,
+      "chance_chuva": 89,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Momentos diferentes: em alta após a Copa, Botafogo enfrenta um Fluminense pressionado e cheio de problemas - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbFVtUDZKZzJIbGpwWXlpLWNhMFM4ZkttQ0lYUTdIN3ZJUVJ1b01rbkpWbjQ3c1J1YmJIMFhzdUtiVEFpZGJOMkUwaGRNVFFENUdaNXNYSjJPQjFSZ1hmTXhBaVpuTEN6TlRVZUFrbGU1V0YyclphVkJoR3pYbk9YN0k1SG5Qd0p5djFfbEVHbXhJRFdrQmtBTnpEX2FwRFFpSzJVTTh3WUFzNkJ2Z0NCWllCb3M4SmRQcXdwdWlxUk9qVmQwLXhteHVCR3lMT0FmbWJ2azVfV2tVQjZCcXFJOHRqbHBMMEZEY2dCSUpJckJTSXE2amltZWVfaVBXb1c00gGPAkFVX3lxTE5BRVcyYU0yc25nQXZzdHpDT3p4ZVRyblBmdTlraGhKa0l4TzNyNDlIcDhaR0lLRmFtc0VOTUwxSVd2LUZHV3JWRWlGRFZKc1dRcVprYWxJcElLdzlJc25zTm5lb0txak80M3dVbEprUjdCMmgxTENzRmk5c2FrWnVsREszTTBacGR3ZGNRWm5zR1h1cEdOMkk2c0lzZ3RGcTlaSU9vX3V6MlczOXFrOWFwa0hSZEM2NGJ6b3ltaDRmSHhudWJnZmlOQXJDcU1qTHBXZzBpWS1VWXRFZWlzbWhkdzB5S2pGXzJHSXd4OXI1UUNlQ2RKNHRkek1yeVp4SGlxRWpfS28xM2Y5R3dON3c?oc=5",
-      "data": "08/08 06:00"
+      "titulo": "Entre a cruz e a espada: o dilema do Fluminense para o clássico contra o Botafogo - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVGxpRkpZcnV5YkFqQ3djYXRLT0Zma0F5WjdRRU1LUXVIMV9LUE9zRHNkNlhqcW9qSnlJUWJtZWR0bmJXd1F0djdZeGZJQXRNRmdjYllJOWx5bk9EdVNJV3hTUERGSnk5cW9xck1QZzZWdlA2YXVVR2gxNFB2cjdVZ1p1ZGNvQzd1WjJ3WHpZSmtuX2F1VHc3OHlXTFRCS1RvQUZnVkV2VVJWaUlIaUdLcWFWS3NHTktOdzcxZmRGWFBIYzZhUTVGZTd3Y0Y1dWw0LTNkc3VXYVdjdklacGMyVjRDR07SAeoBQVVfeXFMTUh4eWoxZndTMFlFUjUtbnNuY1dveGVmR1RCR2pRRjgwOVdkX2lwU21oeWxHSFdSOGlCVERGWWpSV3pVbWcyN0NZaVY0aUpXcVNWVTJkSzVXQW5qczAyTFQyUElTRDhIcENRRWp1cTFRRFBFektSNWktWl9ZeUJabFFJZU5ZYXc4WnJNYzFVZkc5VzRwSUxQY0RpUmVBbEZvUUdYZ0VMQnE5WWtFS2hBd2toUVAxNnE0ZTlJLTNkd3hWMTl3M1ItU2pnT3BwMXg3ODhLZVBQRkRPc3AtQ1dQc1Z3aU5xdFhHOFZB?oc=5",
+      "data": "08/08 10:30"
     },
     {
       "titulo": "Fluminense consulta Odair Hellmann; veja bastidores da negociação - Terra",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeE5RNHlScEw0ejJwb0MtQ0cwVFhCRW5nYVBRS2xBVFd5RnUxZ3Z4ZVA0Um96SDRxNWwzSHRLVk5lWkZzMUNYTEZiZWtnTVNYQ2diVjBzR2QwM19tanZIUUpkUk9hZXlVVGRsVE9PemVnUV9zeXdhV1RoT2J0UUcwSnMxWUg4ZFE4TGVwaGwyOFpDaURtNXM5Sms1cElWc2ZYeVlRcF9zZnUzOFVPU0lvR2J2VXpHYnUydE9qOGhNRTNjYnhVVU5fbEJyZ0J1LW1MN2VFdjlBS19zOGdDSjlFOEtsUllaQnM?oc=5",
       "data": "07/08 04:41"
+    },
+    {
+      "titulo": "Fluminense renova o contrato de joia da base Ruan Sales até 2029 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVd1NGZKS1F3UzhNdFAyVW9Zb01Ta090dlRZZ3hoLVNJRjA1VjF4SzRrSVpLbDQyM0pFX3B4TVNzQVRVZXVrWUdsOE9NbldicHJkaE9ZcTZyUWJyNHRrX2xSMU9La0J5NG44ZXdWNEpPaGp6azNGaVFyaElnU3ZlaDhQU25uSXFJMl9yY3gzTndiRjFBUGNBTEs0bjRuZXVodnZnS21Sd0UzTXQ2WVpWTU8wVVNaVjdJbGQxY1hFa0t4dVl1UXA1anU3Qk5rU2Q10gHfAUFVX3lxTE83R1FRY0owNUpTcl9rZGNVT013VEJZdzZPQmpCd3U4Z1ppWHpNWkRJRHlsNVpoQk4tajJuS2JHY05XeXF3c2pJQkdsTmlndlBJRHlkdFNxRTZwcldjQUJDcVV4NDVyN2I4ZnduOW9ROUVGVGt4MG9ycHVvMlRoVjVlUlVibzFGZnF5NDBMNjZiT194azF0ZjNLcFZuRVVhVFlueE1pVmVHSVBzcy0yYkhMcWhsRW01aEhOZjZYcVFmbzZIVDQxeDVuQTBqTWZ2ZUhfeUtmQkZpcjdwbGZDbTQ?oc=5",
+      "data": "07/08 15:46"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
@@ -1141,11 +1146,6 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense desafia estigma elitista com série documental exibida no CineFoot - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHR3dXNrbnYyajMwVVZYcE1uUXcxajV4ckIxTWdCNlAtRlVXT0pMd0YzQzRNQmhEWlJIZExOeEtfOFFpdVlxYWlnZVR4Y3ZvRHk1VkNCR1pjX3BIMEVVT1RWbDR0M040RVZ2UlBwaUFCX3J2LXprNHBHb09zYzBIRFpEM0tzNldyY0kxc2VEcDdfUnNnX2I2NzdSY19IQkoxZlpVM0tybWVFR3dDN0ZQR1FMRHh0M0JjN2p6V2lDRWY?oc=5",
       "data": "07/08 11:00"
-    },
-    {
-      "titulo": "Fluminense acerta renovação de contrato do volante Ruan - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGphWC1MX1huVlg4WnhKUmMtU0g1OFBtUEhEakd1YVhra3ZwWDNEU3ZmeDdBM0JyREl3NU5ubVFCU1p6cWZwX3JsQzNtaEpOZHkzZTBmREJWUVpTNFN3cU15M21QVENlLXRpdENJTEFFdEJBM1VCTnhwcDJDNHV3ckF4cEowdG1LaXQyTWpFaS1Fc3ZYaG1ZbA?oc=5",
-      "data": "07/08 15:20"
     }
   ],
   "avisos": []
