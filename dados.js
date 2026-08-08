@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 16:24",
+  "atualizado_em": "08/08/2026 17:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -7,16 +7,6 @@ window.PAINEL_DATA = {
       "time": "15:00",
       "competition": "Brasileirão Feminino",
       "match": "Atlético Mineiro (F) x Bahia (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Ferroviária U20",
       "channels": [
         "YOUTUBE"
       ]
@@ -34,19 +24,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "15:00",
+      "time": "16:00",
       "competition": "Campeonato Holandês",
-      "match": "PSV Eindhoven x Fortuna Sittard",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Albion FC",
+      "match": "AZ Alkmaar x ADO Den Haag",
       "channels": [
         "DISNEY+"
       ]
@@ -55,10 +35,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x ADO Den Haag",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x ABC",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Palmeiras (F)",
+      "channels": [
+        "TV BRASIL",
+        "YOUTUBE"
       ]
     },
     {
@@ -87,37 +78,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Palmeiras (F)",
-      "channels": [
-        "TV BRASIL",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Barcelona x Nottingham Forest",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Nacional AM x ABC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
       "time": "17:00",
       "competition": "MLS Next Pro",
       "match": "Portland Timbers II x Los Angeles II",
@@ -129,9 +89,33 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "São José x Gama",
+      "competition": "Brasileirão Série C",
+      "match": "Figueirense x Ferroviária",
       "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Tigre x River Plate",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Santa Cruz",
+      "channels": [
+        "BAND",
+        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -179,34 +163,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Santa Cruz",
+      "competition": "Brasileirão Série D",
+      "match": "São José x Gama",
       "channels": [
-        "BAND",
-        "SPORTYNET",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Figueirense x Ferroviária",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Tigre x River Plate",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
       ]
     },
     {
@@ -273,21 +233,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Columbus Crew II x New York RB II",
+      "competition": "Copa Paulista",
+      "match": "São José EC x Santo André",
       "channels": [
-        "ONEFOOTBALL"
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "19:00",
-      "competition": "Copa Paulista",
-      "match": "São José EC x Santo André",
+      "competition": "MLS Next Pro",
+      "match": "Columbus Crew II x New York RB II",
       "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -495,6 +455,46 @@ window.PAINEL_DATA = {
       "match": "Ipswich x Rayo Vallecano",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Albion FC",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "PSV Eindhoven x Fortuna Sittard",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Ferroviária U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Barcelona x Nottingham Forest",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -1122,19 +1122,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
-      "data": "08/08 06:00"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Zubeldía testa mudanças para clássico contra o Botafogo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS28zc0Z3ME45MjVwcHBNWkU3WEhrTjljY244alpDa1lXYms5RTFkalhkOEdINjBzdWVSUjNqa0RjZkJMV2xMMzlnekVXcXVmSl9qM3BpT01JMUJGMmd1aU9FdEVJdUtFV3FRSFhnVUc3NVR2cVN2VGw1VGNJQUhZSEJSem9CQ184VFRnb1l2REd4SWJrUGNrMU5fOUJTZHAxNm1vdmZxZS1IOFpOc3pRblVCMXZicXptTFhpVmtSNEtkdDBOTFpXSXRyLU9xa08zYkVNQmFxM0s1OFdOVUU5OWxQUVXSAfMBQVVfeXFMUHdqUEVTWGtiRHl0ck53UnVTZWRoNkFPX0lSbEI4Q2duMUNQQjRCaHRUTzV1OWZFNk9sSWFraHRNQ0tiZ1NrUW1DSzRWd2dnZldwdENuNjhQaWozLVJUNHcteHNvQVRNa0pTeU1UX3luZ3NxMkxzOUJUOGJhdndxdVdqb3Rnb3lUajM5emNoOFp2WktydjRtaUhwUlcwczZ0MDBCUDRJWEVTbU11N25wcnUxNklCLTFjOFUyX3VCaGo1UnlITzhuZDV0bzhkVVRfTFhXR094LXo5cEpnZE1DZ082M2xEUmdvaVBFQVpZSHF1eGl3?oc=5",
-      "data": "07/08 21:55"
-    },
-    {
-      "titulo": "Botafogo x Fluminense pelo Brasileirão Feminino: onde assistir ao vivo, horário e situação das equipes - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNEVyS2pEaFVkajMzSWRUbGJGclZHVUltS0lDRnFmT3g4S2xwQnY3RmhoZmdHRkhvcF9SMjN6OENhWnVoTXVmN3JpRDNEdmNNYnBJS3l4ZlZqSWVuR2NHS002OWt2UjVsTVBHVWhwdFh1WFFRUzAwVk9OdVNWdGN2MkNhQ2NHZmdTYnV5Mmc2NzFrMGhRVlU3SjR6N21rOTFvdHpwWllDUkUxUTlLWklnb0dmTmhya1NyTjM3cUZsQjVaQ1hSbVE?oc=5",
-      "data": "08/08 15:00"
+      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlsZ0M2RlZ0R01WUFh1OEVzN0hranNKdDBiSnp1WjlnQzFfOWhzQlpMeS1HQzRybXR2VGRua2xBQ2k1aWxiZ1A5b0NoVV9yTy1UNjVjX0xJZXR0emt4d2VhZG52NU5QX3pNNDNoLW43V2NENXVoczBfV2N1S2dHZ3VtOF9RWm5EZTNDcG5WSlNESVlTelNHVW1FSTl2d21naGl5eHN0ZG9lLWZZWHpNcFhFQkFIbjBwa1JQV1pJN1JITGhSeUM3OEhQZ2lvUDhid1FjQ01fZm9qR3RqbVQzUmlYWDTSAfMBQVVfeXFMUHBlWHFGbmJ1RDM3YXNndmFvVEZaeHg1VGRTTWF1X1VFQkR1aG1LVlo3alZQNl9EaG5yd3E2R3U3TDJqNllsZUlTY1dYWWVXRVhPM3YxM3c3RjVTR2hRUHpsRnpsQUZlQ2ZxN2xhM0w2ZHc3NmFzbVVROWZzMWl4d2dGUGdfVkJWOFFLMTBGNGNmbGVack1KREVqaFRJNWJkOEROWk5kaTRQN0UtRUdIYl82VU5ycEVGU290QmEyRHd1ZVVIWkRRVE5Rb1pXMmxiTDltS3pRQ0lfZUwzcm53azI0WkNUbXJXVDdCV2o4OEJJMkJJ?oc=5",
+      "data": "08/08 17:41"
     },
     {
       "titulo": "Fluminense faz proposta para contratar joia da base do Sport - Terra",
@@ -1145,6 +1135,16 @@ window.PAINEL_DATA = {
       "titulo": "Thiago Silva, Hulk e joias de Xerém: Fluminense define novidades na Libertadores - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlBjTENvYlpybWJJUG9TZ056ZUZnOXQyTXRTRWRpTUdzdVNRSEZkMFRzVzNsdHdMcmZUZTRINENQTzktZHota3hxWkhLSXdjci11b0VnMnVMMTQ4WS1UVmZnTUE3bXUyVGZJQmJ2dXBqV3VadjEtRjFIVmxVUVpmRjAwamhfdklCRzZEWlg1QWhyT3lJVGxrRjlOell2dWdFVm05Ym5uNVc?oc=5",
       "data": "08/08 16:30"
+    },
+    {
+      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
+      "data": "08/08 17:23"
+    },
+    {
+      "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRFRmSm5BRUx4R1cwMEh0Yklmd0lfV0NNeEVGX0tkeGRVQmYwd3lQeHpOSTJpRTdLdFlQNFlrTjdJc2cyR2hfUTFhOUdrSGVuT3c4NzllYjFKVVFudlVrMkNiRXpxUzFibG9jOGtsZG1GeUE2VWJNWXo3SExaY1F3Umo1eXRvUm9lTFp2OW9Ub256VW9DYzVDLW1QWS1RSWJlS204LTVmSTVUZ1U4RE9vNS01RlBaYXBTbmVZTUlTRnJzdW9XbkRMS09ZQ0NYRzBuNDRFQmoyMEl4NmNfZjU3WlNMYTNzZk1UU1haWUZIb2hHREg2ZjRwVXlHTmhwVUpvd0tV?oc=5",
+      "data": "08/08 12:44"
     }
   ],
   "avisos": []
