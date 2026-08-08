@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 08:23",
+  "atualizado_em": "08/08/2026 09:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -1094,34 +1094,44 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.8,
-      "temp_min": 21.4,
+      "temp_max": 27.1,
+      "temp_min": 21.5,
       "chance_chuva": 80,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.2,
+      "temp_max": 25.7,
       "temp_min": 21.4,
       "chance_chuva": 86,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.9,
-      "temp_min": 18.3,
+      "temp_max": 26.5,
+      "temp_min": 17.9,
       "chance_chuva": 87,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.1,
-      "temp_min": 16.9,
+      "temp_max": 26.7,
+      "temp_min": 16.4,
       "chance_chuva": 89,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
+      "data": "08/08 06:00"
+    },
+    {
+      "titulo": "Brasileirão 2026: informações importantes para a torcida antes de Botafogo x Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM2hiR1pnRG10TDJZcUdTb1VJdk1yU2FfaEw4dDQ1R0RzaHZGYVM4UlZDNDBCRnhyLU10MUpzNVJDVVlZRHF5VG0tOU9PRU9IM3JTcHYwMVR4QkVvSHRELW5vcWVMWUFXZDYweTl0OFpfMGpWLXk1cHAwcmV3VjE0RjAzRVBnVDNSbVFiVmlja0hTNzlxY0lZRFU5VnJHSFppaHQ3RGRRdVEwdzdBb01XMTR3SnhFdXRialIxcnlMOEhIdw?oc=5",
+      "data": "08/08 11:55"
+    },
     {
       "titulo": "Entre a cruz e a espada: o dilema do Fluminense para o clássico contra o Botafogo - O TEMPO",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVGxpRkpZcnV5YkFqQ3djYXRLT0Zma0F5WjdRRU1LUXVIMV9LUE9zRHNkNlhqcW9qSnlJUWJtZWR0bmJXd1F0djdZeGZJQXRNRmdjYllJOWx5bk9EdVNJV3hTUERGSnk5cW9xck1QZzZWdlA2YXVVR2gxNFB2cjdVZ1p1ZGNvQzd1WjJ3WHpZSmtuX2F1VHc3OHlXTFRCS1RvQUZnVkV2VVJWaUlIaUdLcWFWS3NHTktOdzcxZmRGWFBIYzZhUTVGZTd3Y0Y1dWw0LTNkc3VXYVdjdklacGMyVjRDR07SAeoBQVVfeXFMTUh4eWoxZndTMFlFUjUtbnNuY1dveGVmR1RCR2pRRjgwOVdkX2lwU21oeWxHSFdSOGlCVERGWWpSV3pVbWcyN0NZaVY0aUpXcVNWVTJkSzVXQW5qczAyTFQyUElTRDhIcENRRWp1cTFRRFBFektSNWktWl9ZeUJabFFJZU5ZYXc4WnJNYzFVZkc5VzRwSUxQY0RpUmVBbEZvUUdYZ0VMQnE5WWtFS2hBd2toUVAxNnE0ZTlJLTNkd3hWMTl3M1ItU2pnT3BwMXg3ODhLZVBQRkRPc3AtQ1dQc1Z3aU5xdFhHOFZB?oc=5",
@@ -1133,19 +1143,9 @@
       "data": "07/08 04:41"
     },
     {
-      "titulo": "Fluminense renova o contrato de joia da base Ruan Sales até 2029 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVd1NGZKS1F3UzhNdFAyVW9Zb01Ta090dlRZZ3hoLVNJRjA1VjF4SzRrSVpLbDQyM0pFX3B4TVNzQVRVZXVrWUdsOE9NbldicHJkaE9ZcTZyUWJyNHRrX2xSMU9La0J5NG44ZXdWNEpPaGp6azNGaVFyaElnU3ZlaDhQU25uSXFJMl9yY3gzTndiRjFBUGNBTEs0bjRuZXVodnZnS21Sd0UzTXQ2WVpWTU8wVVNaVjdJbGQxY1hFa0t4dVl1UXA1anU3Qk5rU2Q10gHfAUFVX3lxTE83R1FRY0owNUpTcl9rZGNVT013VEJZdzZPQmpCd3U4Z1ppWHpNWkRJRHlsNVpoQk4tajJuS2JHY05XeXF3c2pJQkdsTmlndlBJRHlkdFNxRTZwcldjQUJDcVV4NDVyN2I4ZnduOW9ROUVGVGt4MG9ycHVvMlRoVjVlUlVibzFGZnF5NDBMNjZiT194azF0ZjNLcFZuRVVhVFlueE1pVmVHSVBzcy0yYkhMcWhsRW01aEhOZjZYcVFmbzZIVDQxeDVuQTBqTWZ2ZUhfeUtmQkZpcjdwbGZDbTQ?oc=5",
-      "data": "07/08 15:46"
-    },
-    {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
       "data": "07/08 08:30"
-    },
-    {
-      "titulo": "Fluminense desafia estigma elitista com série documental exibida no CineFoot - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHR3dXNrbnYyajMwVVZYcE1uUXcxajV4ckIxTWdCNlAtRlVXT0pMd0YzQzRNQmhEWlJIZExOeEtfOFFpdVlxYWlnZVR4Y3ZvRHk1VkNCR1pjX3BIMEVVT1RWbDR0M040RVZ2UlBwaUFCX3J2LXprNHBHb09zYzBIRFpEM0tzNldyY0kxc2VEcDdfUnNnX2I2NzdSY19IQkoxZlpVM0tybWVFR3dDN0ZQR1FMRHh0M0JjN2p6V2lDRWY?oc=5",
-      "data": "07/08 11:00"
     }
   ],
   "avisos": []
