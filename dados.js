@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 06:32",
+  "atualizado_em": "08/08/2026 07:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -1123,7 +1123,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Momentos diferentes: em alta após a Copa, Botafogo enfrenta um Fluminense pressionado e cheio de problemas - oglobo.globo.com",
+      "titulo": "Momentos diferentes: em alta após a Copa, Botafogo enfrenta um Fluminense pressionado e cheio de problemas - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbFVtUDZKZzJIbGpwWXlpLWNhMFM4ZkttQ0lYUTdIN3ZJUVJ1b01rbkpWbjQ3c1J1YmJIMFhzdUtiVEFpZGJOMkUwaGRNVFFENUdaNXNYSjJPQjFSZ1hmTXhBaVpuTEN6TlRVZUFrbGU1V0YyclphVkJoR3pYbk9YN0k1SG5Qd0p5djFfbEVHbXhJRFdrQmtBTnpEX2FwRFFpSzJVTTh3WUFzNkJ2Z0NCWllCb3M4SmRQcXdwdWlxUk9qVmQwLXhteHVCR3lMT0FmbWJ2azVfV2tVQjZCcXFJOHRqbHBMMEZEY2dCSUpJckJTSXE2amltZWVfaVBXb1c00gGPAkFVX3lxTE5BRVcyYU0yc25nQXZzdHpDT3p4ZVRyblBmdTlraGhKa0l4TzNyNDlIcDhaR0lLRmFtc0VOTUwxSVd2LUZHV3JWRWlGRFZKc1dRcVprYWxJcElLdzlJc25zTm5lb0txak80M3dVbEprUjdCMmgxTENzRmk5c2FrWnVsREszTTBacGR3ZGNRWm5zR1h1cEdOMkk2c0lzZ3RGcTlaSU9vX3V6MlczOXFrOWFwa0hSZEM2NGJ6b3ltaDRmSHhudWJnZmlOQXJDcU1qTHBXZzBpWS1VWXRFZWlzbWhkdzB5S2pGXzJHSXd4OXI1UUNlQ2RKNHRkek1yeVp4SGlxRWpfS28xM2Y5R3dON3c?oc=5",
       "data": "08/08 06:00"
     },
@@ -1143,9 +1143,9 @@ window.PAINEL_DATA = {
       "data": "07/08 11:00"
     },
     {
-      "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnNheV90dlZnRXdZLTh1Y3FIM2RqVDVBVG5NNEJ1Zk11UVdYUWdEX0xqb2FKY0FwX0ppVkNWNnA0TnR3SGZwN2ExUzdaWUdnazloV2hxY0wtUGc5TmIxRzcwcVFFUXRtSm1IWFZLa1FBUHNmVzdQbkdiTmhma0ZlV1ktSUFSSnU1RVZHV2V6cl9SZDM0ZUNJQnEzeVRBUndKcG9N?oc=5",
-      "data": "07/08 20:30"
+      "titulo": "Fluminense acerta renovação de contrato do volante Ruan - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGphWC1MX1huVlg4WnhKUmMtU0g1OFBtUEhEakd1YVhra3ZwWDNEU3ZmeDdBM0JyREl3NU5ubVFCU1p6cWZwX3JsQzNtaEpOZHkzZTBmREJWUVpTNFN3cU15M21QVENlLXRpdENJTEFFdEJBM1VCTnhwcDJDNHV3ckF4cEowdG1LaXQyTWpFaS1Fc3ZYaG1ZbA?oc=5",
+      "data": "07/08 15:20"
     }
   ],
   "avisos": []
