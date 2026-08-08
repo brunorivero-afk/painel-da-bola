@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 03:43",
+  "atualizado_em": "08/08/2026 04:44",
   "jogos": [
     {
       "sport": "futebol",
@@ -1094,31 +1094,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.3,
-      "temp_min": 20.8,
+      "temp_max": 26.8,
+      "temp_min": 21.4,
       "chance_chuva": 63,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 26.3,
-      "temp_min": 21.2,
-      "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 26.2,
+      "temp_min": 21.4,
+      "chance_chuva": 51,
+      "condicao": "Pancadas de chuva"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.2,
-      "temp_min": 16.6,
+      "temp_max": 26.9,
+      "temp_min": 18.3,
       "chance_chuva": 67,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.4,
-      "temp_min": 15.2,
+      "temp_max": 27.1,
+      "temp_min": 16.9,
       "chance_chuva": 73,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -1128,24 +1128,24 @@ window.PAINEL_DATA = {
       "data": "08/08 06:00"
     },
     {
-      "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRFRmSm5BRUx4R1cwMEh0Yklmd0lfV0NNeEVGX0tkeGRVQmYwd3lQeHpOSTJpRTdLdFlQNFlrTjdJc2cyR2hfUTFhOUdrSGVuT3c4NzllYjFKVVFudlVrMkNiRXpxUzFibG9jOGtsZG1GeUE2VWJNWXo3SExaY1F3Umo1eXRvUm9lTFp2OW9Ub256VW9DYzVDLW1QWS1RSWJlS204LTVmSTVUZ1U4RE9vNS01RlBaYXBTbmVZTUlTRnJzdW9XbkRMS09ZQ0NYRzBuNDRFQmoyMEl4NmNfZjU3WlNMYTNzZk1UU1haWUZIb2hHREg2ZjRwVXlHTmhwVUpvd0tV?oc=5",
-      "data": "08/08 02:02"
-    },
-    {
-      "titulo": "John Kennedy sofre lesão no ligamento cruzado do joelho e vai passar por cirurgia no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ0NQWnQxS2ltd1ZsTUtjTzNHUDI3TmZBZDMyUkNkRlZnTU9Fd0tnT19fQTBONGVOdWQ4U2hUMlpFWVE1NGo0c3hydUVmaU9QNEZsN1hMNTV0THpOSlY2YXBjcTl3TUJ2ZElZc3RQX3ZJa25GQmNHTG9UbFRDM2llcW9adm5WZEpQNWxoSUs4cWpJa2dDVkJjeDdNVUx2UGM0Yk9Jam5jQVlKQnhRaXZQYzZVcC1ZUlJlQkR5ck5neHNoemI5VW9aZ1NpLWVIZHNsZHJjeGU4aXBuNDR6MFBpN08yblRkVEhrcG1TOUtXLUhpQ0ljckJaS3Rn0gGIAkFVX3lxTE4wTGhoTGVxNklrWWFSVWxhRXpucVByYlpibTNPcEswUXlqTzg1ZzJHMEVldDhac0plajN2Q1FRaFdzMFR5Yjktbmgxek9VZm5fLXExQVRrSGdlXzNhQlRTbEZ5R1dkVlJWbFJCMjhYdy10VXJBbjJfVDh1QUgzMEUxN3hURGJoWml1TmxKeEtqY0xjbTBOSU5mU0tOZGxrMVZidXNZZm1va3d6UG4xOGVwQmhwNUVyeHhPcE5TQ3lYOHZNRVhVdnpkeHRJb0doWDZOVHVFbUs1RWVUX0daaWNNSnZTaFhJVDBsaVhVZ3BaMU9XMDVNOGcyTWhUS1dPaTFYYUZTNURPOQ?oc=5",
-      "data": "07/08 21:04"
-    },
-    {
-      "titulo": "John Kennedy sofre lesão no joelho e vai passar por cirurgia - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTFzQVBQM09pRUxsRjJMSGlleVV6YllyY24xOGNrWklOMWszQjhYb2JUYllpNk1vRmNjMi1UUmI0V2swMGQ0dEFuUWlNZll2ZDF2Y29GREJQYkJxcGJiOGRwRUpzOFZCNENCUXpMWkZqQWY5VEwycXdyeUhDRmJ3X2lyeWRldVB6bGFZbDR6OEF3VzhLazFvRTVnWlN0WHZhY21z?oc=5",
-      "data": "07/08 22:48"
+      "titulo": "Fluminense consulta Odair Hellmann; veja bastidores da negociação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeE5RNHlScEw0ejJwb0MtQ0cwVFhCRW5nYVBRS2xBVFd5RnUxZ3Z4ZVA0Um96SDRxNWwzSHRLVk5lWkZzMUNYTEZiZWtnTVNYQ2diVjBzR2QwM19tanZIUUpkUk9hZXlVVGRsVE9PemVnUV9zeXdhV1RoT2J0UUcwSnMxWUg4ZFE4TGVwaGwyOFpDaURtNXM5Sms1cElWc2ZYeVlRcF9zZnUzOFVPU0lvR2J2VXpHYnUydE9qOGhNRTNjYnhVVU5fbEJyZ0J1LW1MN2VFdjlBS19zOGdDSjlFOEtsUllaQnM?oc=5",
+      "data": "07/08 04:41"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
       "data": "07/08 08:30"
+    },
+    {
+      "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnNheV90dlZnRXdZLTh1Y3FIM2RqVDVBVG5NNEJ1Zk11UVdYUWdEX0xqb2FKY0FwX0ppVkNWNnA0TnR3SGZwN2ExUzdaWUdnazloV2hxY0wtUGc5TmIxRzcwcVFFUXRtSm1IWFZLa1FBUHNmVzdQbkdiTmhma0ZlV1ktSUFSSnU1RVZHV2V6cl9SZDM0ZUNJQnEzeVRBUndKcG9N?oc=5",
+      "data": "07/08 20:30"
+    },
+    {
+      "titulo": "Fluminense acerta renovação de contrato com joia da base - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0c3OXJ2cFRsNGFrY3BHSlo5bjJfaG13S2NQNzB1cG4wd3VEcUlLNEFCcVc4eWdKYzBqUXNlZVJ2aFVjZmVZQURNTHVkdlR1ZXBzNmVDcE9vbnpBYlZKSFdoZkdneWRWb25YRGxEcV9lWXhWOF9SRVRhR2RWWFRJQWp3QmZXd0k0WkFhR2xjTGplQldCMjE5WEtoRQ?oc=5",
+      "data": "07/08 20:03"
     }
   ],
   "avisos": []
