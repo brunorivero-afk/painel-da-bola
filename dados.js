@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 04:44",
+  "atualizado_em": "08/08/2026 05:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -1138,14 +1138,14 @@ window.PAINEL_DATA = {
       "data": "07/08 08:30"
     },
     {
+      "titulo": "Fluminense desafia estigma elitista com série documental exibida no CineFoot - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHR3dXNrbnYyajMwVVZYcE1uUXcxajV4ckIxTWdCNlAtRlVXT0pMd0YzQzRNQmhEWlJIZExOeEtfOFFpdVlxYWlnZVR4Y3ZvRHk1VkNCR1pjX3BIMEVVT1RWbDR0M040RVZ2UlBwaUFCX3J2LXprNHBHb09zYzBIRFpEM0tzNldyY0kxc2VEcDdfUnNnX2I2NzdSY19IQkoxZlpVM0tybWVFR3dDN0ZQR1FMRHh0M0JjN2p6V2lDRWY?oc=5",
+      "data": "07/08 11:00"
+    },
+    {
       "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnNheV90dlZnRXdZLTh1Y3FIM2RqVDVBVG5NNEJ1Zk11UVdYUWdEX0xqb2FKY0FwX0ppVkNWNnA0TnR3SGZwN2ExUzdaWUdnazloV2hxY0wtUGc5TmIxRzcwcVFFUXRtSm1IWFZLa1FBUHNmVzdQbkdiTmhma0ZlV1ktSUFSSnU1RVZHV2V6cl9SZDM0ZUNJQnEzeVRBUndKcG9N?oc=5",
       "data": "07/08 20:30"
-    },
-    {
-      "titulo": "Fluminense acerta renovação de contrato com joia da base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0c3OXJ2cFRsNGFrY3BHSlo5bjJfaG13S2NQNzB1cG4wd3VEcUlLNEFCcVc4eWdKYzBqUXNlZVJ2aFVjZmVZQURNTHVkdlR1ZXBzNmVDcE9vbnpBYlZKSFdoZkdneWRWb25YRGxEcV9lWXhWOF9SRVRhR2RWWFRJQWp3QmZXd0k0WkFhR2xjTGplQldCMjE5WEtoRQ?oc=5",
-      "data": "07/08 20:03"
     }
   ],
   "avisos": []
