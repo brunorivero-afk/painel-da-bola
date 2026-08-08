@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 02:38",
+  "atualizado_em": "08/08/2026 03:43",
   "jogos": [
     {
       "sport": "futebol",
@@ -1123,6 +1123,11 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Momentos diferentes: em alta após a Copa, Botafogo enfrenta um Fluminense pressionado e cheio de problemas - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbFVtUDZKZzJIbGpwWXlpLWNhMFM4ZkttQ0lYUTdIN3ZJUVJ1b01rbkpWbjQ3c1J1YmJIMFhzdUtiVEFpZGJOMkUwaGRNVFFENUdaNXNYSjJPQjFSZ1hmTXhBaVpuTEN6TlRVZUFrbGU1V0YyclphVkJoR3pYbk9YN0k1SG5Qd0p5djFfbEVHbXhJRFdrQmtBTnpEX2FwRFFpSzJVTTh3WUFzNkJ2Z0NCWllCb3M4SmRQcXdwdWlxUk9qVmQwLXhteHVCR3lMT0FmbWJ2azVfV2tVQjZCcXFJOHRqbHBMMEZEY2dCSUpJckJTSXE2amltZWVfaVBXb1c00gGPAkFVX3lxTE5BRVcyYU0yc25nQXZzdHpDT3p4ZVRyblBmdTlraGhKa0l4TzNyNDlIcDhaR0lLRmFtc0VOTUwxSVd2LUZHV3JWRWlGRFZKc1dRcVprYWxJcElLdzlJc25zTm5lb0txak80M3dVbEprUjdCMmgxTENzRmk5c2FrWnVsREszTTBacGR3ZGNRWm5zR1h1cEdOMkk2c0lzZ3RGcTlaSU9vX3V6MlczOXFrOWFwa0hSZEM2NGJ6b3ltaDRmSHhudWJnZmlOQXJDcU1qTHBXZzBpWS1VWXRFZWlzbWhkdzB5S2pGXzJHSXd4OXI1UUNlQ2RKNHRkek1yeVp4SGlxRWpfS28xM2Y5R3dON3c?oc=5",
+      "data": "08/08 06:00"
+    },
+    {
       "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRFRmSm5BRUx4R1cwMEh0Yklmd0lfV0NNeEVGX0tkeGRVQmYwd3lQeHpOSTJpRTdLdFlQNFlrTjdJc2cyR2hfUTFhOUdrSGVuT3c4NzllYjFKVVFudlVrMkNiRXpxUzFibG9jOGtsZG1GeUE2VWJNWXo3SExaY1F3Umo1eXRvUm9lTFp2OW9Ub256VW9DYzVDLW1QWS1RSWJlS204LTVmSTVUZ1U4RE9vNS01RlBaYXBTbmVZTUlTRnJzdW9XbkRMS09ZQ0NYRzBuNDRFQmoyMEl4NmNfZjU3WlNMYTNzZk1UU1haWUZIb2hHREg2ZjRwVXlHTmhwVUpvd0tV?oc=5",
       "data": "08/08 02:02"
@@ -1136,11 +1141,6 @@ window.PAINEL_DATA = {
       "titulo": "John Kennedy sofre lesão no joelho e vai passar por cirurgia - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTFzQVBQM09pRUxsRjJMSGlleVV6YllyY24xOGNrWklOMWszQjhYb2JUYllpNk1vRmNjMi1UUmI0V2swMGQ0dEFuUWlNZll2ZDF2Y29GREJQYkJxcGJiOGRwRUpzOFZCNENCUXpMWkZqQWY5VEwycXdyeUhDRmJ3X2lyeWRldVB6bGFZbDR6OEF3VzhLazFvRTVnWlN0WHZhY21z?oc=5",
       "data": "07/08 22:48"
-    },
-    {
-      "titulo": "Fluminense renova o contrato de joia da base Ruan Sales até 2029 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVd1NGZKS1F3UzhNdFAyVW9Zb01Ta090dlRZZ3hoLVNJRjA1VjF4SzRrSVpLbDQyM0pFX3B4TVNzQVRVZXVrWUdsOE9NbldicHJkaE9ZcTZyUWJyNHRrX2xSMU9La0J5NG44ZXdWNEpPaGp6azNGaVFyaElnU3ZlaDhQU25uSXFJMl9yY3gzTndiRjFBUGNBTEs0bjRuZXVodnZnS21Sd0UzTXQ2WVpWTU8wVVNaVjdJbGQxY1hFa0t4dVl1UXA1anU3Qk5rU2Q10gHfAUFVX3lxTE83R1FRY0owNUpTcl9rZGNVT013VEJZdzZPQmpCd3U4Z1ppWHpNWkRJRHlsNVpoQk4tajJuS2JHY05XeXF3c2pJQkdsTmlndlBJRHlkdFNxRTZwcldjQUJDcVV4NDVyN2I4ZnduOW9ROUVGVGt4MG9ycHVvMlRoVjVlUlVibzFGZnF5NDBMNjZiT194azF0ZjNLcFZuRVVhVFlueE1pVmVHSVBzcy0yYkhMcWhsRW01aEhOZjZYcVFmbzZIVDQxeDVuQTBqTWZ2ZUhfeUtmQkZpcjdwbGZDbTQ?oc=5",
-      "data": "07/08 15:46"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
