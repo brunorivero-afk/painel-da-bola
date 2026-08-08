@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 00:20",
+  "atualizado_em": "08/08/2026 01:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -1012,7 +1012,77 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
+      "time": "05:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-08",
+      "time": "07:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-08",
+      "time": "08:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-08",
+      "time": "11:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-08",
+      "time": "12:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-08",
+      "time": "13:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Final - Hamburgo, Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-08",
+      "time": "14:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Final - Hamburgo, Alemanha",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-08-08",
       "time": "16:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Colômbia",
@@ -1053,32 +1123,30 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRFRmSm5BRUx4R1cwMEh0Yklmd0lfV0NNeEVGX0tkeGRVQmYwd3lQeHpOSTJpRTdLdFlQNFlrTjdJc2cyR2hfUTFhOUdrSGVuT3c4NzllYjFKVVFudlVrMkNiRXpxUzFibG9jOGtsZG1GeUE2VWJNWXo3SExaY1F3Umo1eXRvUm9lTFp2OW9Ub256VW9DYzVDLW1QWS1RSWJlS204LTVmSTVUZ1U4RE9vNS01RlBaYXBTbmVZTUlTRnJzdW9XbkRMS09ZQ0NYRzBuNDRFQmoyMEl4NmNfZjU3WlNMYTNzZk1UU1haWUZIb2hHREg2ZjRwVXlHTmhwVUpvd0tV?oc=5",
+      "data": "08/08 02:02"
+    },
+    {
       "titulo": "John Kennedy sofre lesão no ligamento cruzado do joelho e vai passar por cirurgia no Fluminense - ge",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ0NQWnQxS2ltd1ZsTUtjTzNHUDI3TmZBZDMyUkNkRlZnTU9Fd0tnT19fQTBONGVOdWQ4U2hUMlpFWVE1NGo0c3hydUVmaU9QNEZsN1hMNTV0THpOSlY2YXBjcTl3TUJ2ZElZc3RQX3ZJa25GQmNHTG9UbFRDM2llcW9adm5WZEpQNWxoSUs4cWpJa2dDVkJjeDdNVUx2UGM0Yk9Jam5jQVlKQnhRaXZQYzZVcC1ZUlJlQkR5ck5neHNoemI5VW9aZ1NpLWVIZHNsZHJjeGU4aXBuNDR6MFBpN08yblRkVEhrcG1TOUtXLUhpQ0ljckJaS3Rn0gGIAkFVX3lxTE4wTGhoTGVxNklrWWFSVWxhRXpucVByYlpibTNPcEswUXlqTzg1ZzJHMEVldDhac0plajN2Q1FRaFdzMFR5Yjktbmgxek9VZm5fLXExQVRrSGdlXzNhQlRTbEZ5R1dkVlJWbFJCMjhYdy10VXJBbjJfVDh1QUgzMEUxN3hURGJoWml1TmxKeEtqY0xjbTBOSU5mU0tOZGxrMVZidXNZZm1va3d6UG4xOGVwQmhwNUVyeHhPcE5TQ3lYOHZNRVhVdnpkeHRJb0doWDZOVHVFbUs1RWVUX0daaWNNSnZTaFhJVDBsaVhVZ3BaMU9XMDVNOGcyTWhUS1dPaTFYYUZTNURPOQ?oc=5",
       "data": "07/08 21:04"
     },
     {
-      "titulo": "Fluminense consulta Odair Hellmann; veja bastidores da negociação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeE5RNHlScEw0ejJwb0MtQ0cwVFhCRW5nYVBRS2xBVFd5RnUxZ3Z4ZVA0Um96SDRxNWwzSHRLVk5lWkZzMUNYTEZiZWtnTVNYQ2diVjBzR2QwM19tanZIUUpkUk9hZXlVVGRsVE9PemVnUV9zeXdhV1RoT2J0UUcwSnMxWUg4ZFE4TGVwaGwyOFpDaURtNXM5Sms1cElWc2ZYeVlRcF9zZnUzOFVPU0lvR2J2VXpHYnUydE9qOGhNRTNjYnhVVU5fbEJyZ0J1LW1MN2VFdjlBS19zOGdDSjlFOEtsUllaQnM?oc=5",
-      "data": "07/08 04:41"
+      "titulo": "John Kennedy sofre lesão no joelho e vai passar por cirurgia - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTFzQVBQM09pRUxsRjJMSGlleVV6YllyY24xOGNrWklOMWszQjhYb2JUYllpNk1vRmNjMi1UUmI0V2swMGQ0dEFuUWlNZll2ZDF2Y29GREJQYkJxcGJiOGRwRUpzOFZCNENCUXpMWkZqQWY5VEwycXdyeUhDRmJ3X2lyeWRldVB6bGFZbDR6OEF3VzhLazFvRTVnWlN0WHZhY21z?oc=5",
+      "data": "07/08 22:48"
+    },
+    {
+      "titulo": "Fluminense renova o contrato de joia da base Ruan Sales até 2029 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVd1NGZKS1F3UzhNdFAyVW9Zb01Ta090dlRZZ3hoLVNJRjA1VjF4SzRrSVpLbDQyM0pFX3B4TVNzQVRVZXVrWUdsOE9NbldicHJkaE9ZcTZyUWJyNHRrX2xSMU9La0J5NG44ZXdWNEpPaGp6azNGaVFyaElnU3ZlaDhQU25uSXFJMl9yY3gzTndiRjFBUGNBTEs0bjRuZXVodnZnS21Sd0UzTXQ2WVpWTU8wVVNaVjdJbGQxY1hFa0t4dVl1UXA1anU3Qk5rU2Q10gHfAUFVX3lxTE83R1FRY0owNUpTcl9rZGNVT013VEJZdzZPQmpCd3U4Z1ppWHpNWkRJRHlsNVpoQk4tajJuS2JHY05XeXF3c2pJQkdsTmlndlBJRHlkdFNxRTZwcldjQUJDcVV4NDVyN2I4ZnduOW9ROUVGVGt4MG9ycHVvMlRoVjVlUlVibzFGZnF5NDBMNjZiT194azF0ZjNLcFZuRVVhVFlueE1pVmVHSVBzcy0yYkhMcWhsRW01aEhOZjZYcVFmbzZIVDQxeDVuQTBqTWZ2ZUhfeUtmQkZpcjdwbGZDbTQ?oc=5",
+      "data": "07/08 15:46"
     },
     {
       "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
       "data": "07/08 08:30"
-    },
-    {
-      "titulo": "Ex-Fluminense entra na mira de Manchester United e Arsenal, diz jornal - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORURQa0ZIb3FIWWRHb0YycENWQS1sNFc2b1NRWnV3SDJyTHZGWE1Ga1BjODBXZjZWdUp4QzJfZzRGZk9rY2xGOWlGdXFEMVo0amRFamVhTkY1Y05hc0l4a3FyQTVCZVAtdDJjZ1NRc1lFc09nYlgyMHhIRkNHUWRPNF83WjlGUEJTSUlHMDktYVlWWnNQUTduX0tXRzVJQzNrWEZBc0FpOWtzS3M5Tk5xb0p1NXhzVFhlX0FHMGdn?oc=5",
-      "data": "07/08 13:12"
-    },
-    {
-      "titulo": "Fluminense acerta renovação de contrato do volante Ruan - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMGphWC1MX1huVlg4WnhKUmMtU0g1OFBtUEhEakd1YVhra3ZwWDNEU3ZmeDdBM0JyREl3NU5ubVFCU1p6cWZwX3JsQzNtaEpOZHkzZTBmREJWUVpTNFN3cU15M21QVENlLXRpdENJTEFFdEJBM1VCTnhwcDJDNHV3ckF4cEowdG1LaXQyTWpFaS1Fc3ZYaG1ZbA?oc=5",
-      "data": "07/08 15:20"
     }
   ],
-  "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
-  ]
+  "avisos": []
 };
