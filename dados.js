@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 09:37",
+  "atualizado_em": "08/08/2026 10:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -49,7 +49,6 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Feminino",
       "match": "Atlético Mineiro (F) x Bahia (F)",
       "channels": [
-        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -154,7 +153,7 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Grêmio x São Paulo",
       "channels": [
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
