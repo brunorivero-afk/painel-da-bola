@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/08/2026 15:30",
+  "atualizado_em": "08/08/2026 16:24",
   "jogos": [
     {
       "sport": "futebol",
@@ -1093,28 +1093,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.1,
+      "temp_max": 27.0,
       "temp_min": 21.5,
       "chance_chuva": 76,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.7,
+      "temp_max": 26.5,
       "temp_min": 21.4,
       "chance_chuva": 92,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.5,
+      "temp_max": 26.3,
       "temp_min": 17.9,
       "chance_chuva": 83,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.7,
+      "temp_max": 26.5,
       "temp_min": 16.4,
       "chance_chuva": 94,
       "condicao": "Garoa fraca"
@@ -1122,9 +1122,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
-      "data": "08/08 17:23"
+      "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
+      "data": "08/08 06:00"
+    },
+    {
+      "titulo": "Escalação do Fluminense: Zubeldía testa mudanças para clássico contra o Botafogo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS28zc0Z3ME45MjVwcHBNWkU3WEhrTjljY244alpDa1lXYms5RTFkalhkOEdINjBzdWVSUjNqa0RjZkJMV2xMMzlnekVXcXVmSl9qM3BpT01JMUJGMmd1aU9FdEVJdUtFV3FRSFhnVUc3NVR2cVN2VGw1VGNJQUhZSEJSem9CQ184VFRnb1l2REd4SWJrUGNrMU5fOUJTZHAxNm1vdmZxZS1IOFpOc3pRblVCMXZicXptTFhpVmtSNEtkdDBOTFpXSXRyLU9xa08zYkVNQmFxM0s1OFdOVUU5OWxQUVXSAfMBQVVfeXFMUHdqUEVTWGtiRHl0ck53UnVTZWRoNkFPX0lSbEI4Q2duMUNQQjRCaHRUTzV1OWZFNk9sSWFraHRNQ0tiZ1NrUW1DSzRWd2dnZldwdENuNjhQaWozLVJUNHcteHNvQVRNa0pTeU1UX3luZ3NxMkxzOUJUOGJhdndxdVdqb3Rnb3lUajM5emNoOFp2WktydjRtaUhwUlcwczZ0MDBCUDRJWEVTbU11N25wcnUxNklCLTFjOFUyX3VCaGo1UnlITzhuZDV0bzhkVVRfTFhXR094LXo5cEpnZE1DZ082M2xEUmdvaVBFQVpZSHF1eGl3?oc=5",
+      "data": "07/08 21:55"
+    },
+    {
+      "titulo": "Botafogo x Fluminense pelo Brasileirão Feminino: onde assistir ao vivo, horário e situação das equipes - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNEVyS2pEaFVkajMzSWRUbGJGclZHVUltS0lDRnFmT3g4S2xwQnY3RmhoZmdHRkhvcF9SMjN6OENhWnVoTXVmN3JpRDNEdmNNYnBJS3l4ZlZqSWVuR2NHS002OWt2UjVsTVBHVWhwdFh1WFFRUzAwVk9OdVNWdGN2MkNhQ2NHZmdTYnV5Mmc2NzFrMGhRVlU3SjR6N21rOTFvdHpwWllDUkUxUTlLWklnb0dmTmhya1NyTjM3cUZsQjVaQ1hSbVE?oc=5",
+      "data": "08/08 15:00"
     },
     {
       "titulo": "Fluminense faz proposta para contratar joia da base do Sport - Terra",
@@ -1132,19 +1142,9 @@
       "data": "08/08 15:41"
     },
     {
-      "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRFRmSm5BRUx4R1cwMEh0Yklmd0lfV0NNeEVGX0tkeGRVQmYwd3lQeHpOSTJpRTdLdFlQNFlrTjdJc2cyR2hfUTFhOUdrSGVuT3c4NzllYjFKVVFudlVrMkNiRXpxUzFibG9jOGtsZG1GeUE2VWJNWXo3SExaY1F3Umo1eXRvUm9lTFp2OW9Ub256VW9DYzVDLW1QWS1RSWJlS204LTVmSTVUZ1U4RE9vNS01RlBaYXBTbmVZTUlTRnJzdW9XbkRMS09ZQ0NYRzBuNDRFQmoyMEl4NmNfZjU3WlNMYTNzZk1UU1haWUZIb2hHREg2ZjRwVXlHTmhwVUpvd0tV?oc=5",
-      "data": "08/08 12:44"
-    },
-    {
-      "titulo": "Lesão de John Kennedy frustra torcedores do Fluminense: 'A pior' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaG90ZURNRWtaNUx4UXRzVVNwS3lWcEN5aER0S0VQR3NGQ01ael8yNUQyLXJvZlc0aktVUlFYSzRabXhCaktISURXMTF2VHNFendjajBVeWhVUjdFTzMxeTZaREhlbEd3b2xxNlVJd2FXYXVsd0FBaEJVTFlKNkduUTlHRnNrSTktdnBiRlpsa3F3NWpTdVQ1Slhkd3BmOUQ5MVNhekNJWFc?oc=5",
-      "data": "08/08 14:03"
-    },
-    {
-      "titulo": "John Kennedy rompe ligamento do joelho e só volta ao Fluminense em 2027 - Folha PE",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXVSVGRoYVRtQ2QyMUVfeTdmTFQ5TWh0NVdEZDNQXzY0Q0R5MVg1TmN6VkhCNVB5d21LaVJQaEh0XzFTSlRYTXZRR2c2X0hHSVV2REptN0NPaGZ3UXItaW42UTBUb1dSLXl3UlBIVjZZc0duQ3lkNC1aaDlOenY1RDdWY2hIdGhTdFhNdnp6eEZBbkdrTU1zRDUyaldseW1UX2NPRzZ2ZGlLNElPN2ZN0gGzAUFVX3lxTE1BRm5XRlFKU1VRV01ya0QxNXhGZGdJa1pZRUppaU1qYXN5d3FDdnE3NnlJRFliS05qMzR0eUdpRzhkeU81aV91ZU1vV1ViU1FlaW9QT2hHVkRkMm5mbW1wbzd2dWlVY0p6X0FMcXRpRm9kVEdjMUlWa2ZXNW9UeTNhRFNmQV9jX3c0WTFxdEpoNFVvZ1N1UFBtUnhaajdfdnY5WHNhd0RZSmd4YnlCNWhoR3A4?oc=5",
-      "data": "08/08 00:11"
+      "titulo": "Thiago Silva, Hulk e joias de Xerém: Fluminense define novidades na Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlBjTENvYlpybWJJUG9TZ056ZUZnOXQyTXRTRWRpTUdzdVNRSEZkMFRzVzNsdHdMcmZUZTRINENQTzktZHota3hxWkhLSXdjci11b0VnMnVMMTQ4WS1UVmZnTUE3bXUyVGZJQmJ2dXBqV3VadjEtRjFIVmxVUVpmRjAwamhfdklCRzZEWlg1QWhyT3lJVGxrRjlOell2dWdFVm05Ym5uNVc?oc=5",
+      "data": "08/08 16:30"
     }
   ],
   "avisos": []
