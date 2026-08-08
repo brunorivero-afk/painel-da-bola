@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 17:23",
+  "atualizado_em": "08/08/2026 18:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -25,26 +25,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x ADO Den Haag",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Nacional AM x ABC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
       "competition": "Brasileirão Feminino",
       "match": "Ferroviária (F) x Palmeiras (F)",
       "channels": [
@@ -55,23 +35,50 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x São Paulo",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "São José x Gama",
       "channels": [
-        "PREMIERE FC"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Vila Nova x Sport Recife",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x CSA",
       "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Copa Paulista",
+      "match": "Uniao Sao Joao x Comercial",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Copa Paulista",
+      "match": "Primavera SP x Juventus",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Amistosos",
+      "match": "Udinese x Barcelona",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -83,6 +90,18 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers II x Los Angeles II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Santa Cruz",
+      "channels": [
+        "BAND",
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -110,63 +129,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Santa Cruz",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Juan Pablo II College x Atletico Grau",
       "channels": [
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Amistosos",
-      "match": "Udinese x Barcelona",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Primavera SP x Juventus",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Uniao Sao Joao x Comercial",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x CSA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "São José x Gama",
-      "channels": [
-        "YOUTUBE"
+        "FANATIZ"
       ]
     },
     {
@@ -177,16 +144,6 @@ window.PAINEL_DATA = {
       "match": "New England x Houston Dynamo",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Atletico Grau",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -233,21 +190,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "19:00",
-      "competition": "Copa Paulista",
-      "match": "São José EC x Santo André",
+      "competition": "MLS Next Pro",
+      "match": "Columbus Crew II x New York RB II",
       "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Columbus Crew II x New York RB II",
+      "competition": "Copa Paulista",
+      "match": "São José EC x Santo André",
       "channels": [
-        "ONEFOOTBALL"
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -260,6 +217,16 @@ window.PAINEL_DATA = {
         "ESPN 3",
         "ESPN 4",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "19:30",
+      "competition": "Leagues Cup",
+      "match": "Orlando City SC x Leon",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -281,16 +248,6 @@ window.PAINEL_DATA = {
       "match": "Ituano x Barra",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "19:30",
-      "competition": "Leagues Cup",
-      "match": "Orlando City SC x Leon",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -491,10 +448,53 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x ADO Den Haag",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x ABC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
       "competition": "Amistosos",
       "match": "Barcelona x Nottingham Forest",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Vila Nova x Sport Recife",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x São Paulo",
+      "channels": [
+        "PREMIERE FC"
       ]
     },
     {
@@ -1127,19 +1127,19 @@ window.PAINEL_DATA = {
       "data": "08/08 17:41"
     },
     {
-      "titulo": "Fluminense faz proposta para contratar joia da base do Sport - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMUVoS1lZaDZqUk02U0lqeUFrS01DN2dKcUotWTNickpBYW5wdjd3ZU9HUmMxYjNQV2ZXcHdkYjExZnJXbUo2VkJOT2ZxT1pqTWRnMjJUVXNxNzZNV2N5QU5QLTA1aWFxVC1ocF9BdkQtalUxY0pIRWp5Uloyem1lZG9WdnNXaXRqVXR5RDhrSTlBQnhLSUdmZ2hQR2NyR19RRmRIU29UY21xTVRPRzIxcjFIZ1k0VXd1SFZNOExCR1Jma1RScktFSU1GZTh6NzZ5dUlqRExkRHVCRmgxZU5xWWRRQXlnTUtjUDloMGxkeWdVU01WT1dv?oc=5",
-      "data": "08/08 15:41"
-    },
-    {
-      "titulo": "Thiago Silva, Hulk e joias de Xerém: Fluminense define novidades na Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlBjTENvYlpybWJJUG9TZ056ZUZnOXQyTXRTRWRpTUdzdVNRSEZkMFRzVzNsdHdMcmZUZTRINENQTzktZHota3hxWkhLSXdjci11b0VnMnVMMTQ4WS1UVmZnTUE3bXUyVGZJQmJ2dXBqV3VadjEtRjFIVmxVUVpmRjAwamhfdklCRzZEWlg1QWhyT3lJVGxrRjlOell2dWdFVm05Ym5uNVc?oc=5",
-      "data": "08/08 16:30"
-    },
-    {
       "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
       "data": "08/08 17:23"
+    },
+    {
+      "titulo": "Fred estreia com vitória como treinador do Fluminense sub-20 - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWXZhT3kta042T2U5WjdTeTdLdVllZE8yZnUySFB2TzFGMGhWLUdIOW5OT2xkd3habmhaMXFsU19YNFVnMnVhZlhaZ3dEODI5cHF2QlJGUU9YQWs5NHFvWnZFWGxkbEVnQkdYa3JGbHBNLXNhSTZmc093bG1CZ0tVRnBmQjJta0Ztd05XOWl4VWVlSXM4aTdZbFZ2Z0tfTmlqQVFlc09FNXktNzhyWHlLcFpqamgyTE5OQjBFZXc5cEgxaTNsUVHSAdQBQVVfeXFMT29ScXdtWENpX2VRb1FiNnUzWjh5MXNZN0dZanpaWXRqS2R5NmphNUFWamQtZHhZd21VMm5HVGNrOFAzNDJyOHlMSXh4YlB5SEVDTk8yVW9OQ2NlUzVrNUdvTmdvYmRqNDVma2ZOSnNFaENZa2Utc3BLaG9EQzgzb1VzSHVCcTN4Rkdsb18xREg4d2lTbk53SWxqbzgzZmtZVGdkS05XWGNCcGItWXNNczMzSUYxbHJOX1pwMm1xcEFndkdDWnRSZkhjLXJ4dzJ1MXMyeXg?oc=5",
+      "data": "08/08 19:15"
+    },
+    {
+      "titulo": "Fluminense prepara Fred Guedes para possível saída de Luís Zubeldía - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaEZQV0Q3c0pKUGJ5Rl9BNzllY1k2NWRveVp0RXllbF80OHM3N2NnUjl2Zi1KOFlXeUxsZEdNWUV1ZW9fcDR4WFBpNjFkYmxrcW4zZVkxeFBpU0FzanI0OTVqVjZBLUJGckxMUWt0M0hWdFNxMmUzNHpfcV9VM0xYR2xxSkdwcms3NXk0RzhJMzM2R3YxY0xGWlFfMkZxX2NxTy1NempTTDNJY0F4OEI3eXRMSkZtcWkyWjlLN2JSR0pYTndJVndZbjZqOUhNMmpVWDFqcHl3VWhQMmZSd21hc0NyRDJBM0EyR0Zn?oc=5",
+      "data": "07/08 18:50"
     },
     {
       "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
