@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 13:27",
+  "atualizado_em": "08/08/2026 14:24",
   "jogos": [
     {
       "sport": "futebol",
@@ -1142,9 +1142,9 @@ window.PAINEL_DATA = {
       "data": "07/08 21:04"
     },
     {
-      "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
-      "data": "08/08 06:00"
+      "titulo": "Thiago Silva, Hulk e joias de Xerém: Fluminense define novidades na Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlBjTENvYlpybWJJUG9TZ056ZUZnOXQyTXRTRWRpTUdzdVNRSEZkMFRzVzNsdHdMcmZUZTRINENQTzktZHota3hxWkhLSXdjci11b0VnMnVMMTQ4WS1UVmZnTUE3bXUyVGZJQmJ2dXBqV3VadjEtRjFIVmxVUVpmRjAwamhfdklCRzZEWlg1QWhyT3lJVGxrRjlOell2dWdFVm05Ym5uNVc?oc=5",
+      "data": "08/08 16:30"
     }
   ],
   "avisos": []
