@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 14:24",
+  "atualizado_em": "08/08/2026 15:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -1122,6 +1122,11 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
+      "data": "08/08 17:23"
+    },
+    {
       "titulo": "Fluminense faz proposta para contratar joia da base do Sport - Terra",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMUVoS1lZaDZqUk02U0lqeUFrS01DN2dKcUotWTNickpBYW5wdjd3ZU9HUmMxYjNQV2ZXcHdkYjExZnJXbUo2VkJOT2ZxT1pqTWRnMjJUVXNxNzZNV2N5QU5QLTA1aWFxVC1ocF9BdkQtalUxY0pIRWp5Uloyem1lZG9WdnNXaXRqVXR5RDhrSTlBQnhLSUdmZ2hQR2NyR19RRmRIU29UY21xTVRPRzIxcjFIZ1k0VXd1SFZNOExCR1Jma1RScktFSU1GZTh6NzZ5dUlqRExkRHVCRmgxZU5xWWRRQXlnTUtjUDloMGxkeWdVU01WT1dv?oc=5",
       "data": "08/08 15:41"
@@ -1137,14 +1142,9 @@ window.PAINEL_DATA = {
       "data": "08/08 14:03"
     },
     {
-      "titulo": "John Kennedy sofre lesão no ligamento cruzado do joelho e vai passar por cirurgia no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ0NQWnQxS2ltd1ZsTUtjTzNHUDI3TmZBZDMyUkNkRlZnTU9Fd0tnT19fQTBONGVOdWQ4U2hUMlpFWVE1NGo0c3hydUVmaU9QNEZsN1hMNTV0THpOSlY2YXBjcTl3TUJ2ZElZc3RQX3ZJa25GQmNHTG9UbFRDM2llcW9adm5WZEpQNWxoSUs4cWpJa2dDVkJjeDdNVUx2UGM0Yk9Jam5jQVlKQnhRaXZQYzZVcC1ZUlJlQkR5ck5neHNoemI5VW9aZ1NpLWVIZHNsZHJjeGU4aXBuNDR6MFBpN08yblRkVEhrcG1TOUtXLUhpQ0ljckJaS3Rn0gGIAkFVX3lxTE4wTGhoTGVxNklrWWFSVWxhRXpucVByYlpibTNPcEswUXlqTzg1ZzJHMEVldDhac0plajN2Q1FRaFdzMFR5Yjktbmgxek9VZm5fLXExQVRrSGdlXzNhQlRTbEZ5R1dkVlJWbFJCMjhYdy10VXJBbjJfVDh1QUgzMEUxN3hURGJoWml1TmxKeEtqY0xjbTBOSU5mU0tOZGxrMVZidXNZZm1va3d6UG4xOGVwQmhwNUVyeHhPcE5TQ3lYOHZNRVhVdnpkeHRJb0doWDZOVHVFbUs1RWVUX0daaWNNSnZTaFhJVDBsaVhVZ3BaMU9XMDVNOGcyTWhUS1dPaTFYYUZTNURPOQ?oc=5",
-      "data": "07/08 21:04"
-    },
-    {
-      "titulo": "Thiago Silva, Hulk e joias de Xerém: Fluminense define novidades na Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQlBjTENvYlpybWJJUG9TZ056ZUZnOXQyTXRTRWRpTUdzdVNRSEZkMFRzVzNsdHdMcmZUZTRINENQTzktZHota3hxWkhLSXdjci11b0VnMnVMMTQ4WS1UVmZnTUE3bXUyVGZJQmJ2dXBqV3VadjEtRjFIVmxVUVpmRjAwamhfdklCRzZEWlg1QWhyT3lJVGxrRjlOell2dWdFVm05Ym5uNVc?oc=5",
-      "data": "08/08 16:30"
+      "titulo": "John Kennedy rompe ligamento do joelho e só volta ao Fluminense em 2027 - Folha PE",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXVSVGRoYVRtQ2QyMUVfeTdmTFQ5TWh0NVdEZDNQXzY0Q0R5MVg1TmN6VkhCNVB5d21LaVJQaEh0XzFTSlRYTXZRR2c2X0hHSVV2REptN0NPaGZ3UXItaW42UTBUb1dSLXl3UlBIVjZZc0duQ3lkNC1aaDlOenY1RDdWY2hIdGhTdFhNdnp6eEZBbkdrTU1zRDUyaldseW1UX2NPRzZ2ZGlLNElPN2ZN0gGzAUFVX3lxTE1BRm5XRlFKU1VRV01ya0QxNXhGZGdJa1pZRUppaU1qYXN5d3FDdnE3NnlJRFliS05qMzR0eUdpRzhkeU81aV91ZU1vV1ViU1FlaW9QT2hHVkRkMm5mbW1wbzd2dWlVY0p6X0FMcXRpRm9kVEdjMUlWa2ZXNW9UeTNhRFNmQV9jX3c0WTFxdEpoNFVvZ1N1UFBtUnhaajdfdnY5WHNhd0RZSmd4YnlCNWhoR3A4?oc=5",
+      "data": "08/08 00:11"
     }
   ],
   "avisos": []
