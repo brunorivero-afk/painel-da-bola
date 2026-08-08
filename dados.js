@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/08/2026 10:41",
+  "atualizado_em": "08/08/2026 11:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "09:00",
-      "competition": "Amistosos",
-      "match": "Chelsea x AC Milan",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-08",
@@ -26,20 +15,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Progreso",
+      "competition": "Amistosos",
+      "match": "Ipswich x Rayo Vallecano",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Ipswich x Rayo Vallecano",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Progreso",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -96,10 +85,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Nacional AM x ABC",
+      "competition": "Amistosos",
+      "match": "Barcelona x Nottingham Forest",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -116,10 +105,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-08",
       "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Barcelona x Nottingham Forest",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x ABC",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -495,6 +484,17 @@ window.PAINEL_DATA = {
       "match": "Real Salt Lake x Atlante FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-08",
+      "time": "09:00",
+      "competition": "Amistosos",
+      "match": "Chelsea x AC Milan",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -1122,6 +1122,21 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Lesão de John Kennedy frustra torcedores do Fluminense: 'A pior' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaG90ZURNRWtaNUx4UXRzVVNwS3lWcEN5aER0S0VQR3NGQ01ael8yNUQyLXJvZlc0aktVUlFYSzRabXhCaktISURXMTF2VHNFendjajBVeWhVUjdFTzMxeTZaREhlbEd3b2xxNlVJd2FXYXVsd0FBaEJVTFlKNkduUTlHRnNrSTktdnBiRlpsa3F3NWpTdVQ1Slhkd3BmOUQ5MVNhekNJWFc?oc=5",
+      "data": "08/08 14:03"
+    },
+    {
+      "titulo": "John Kennedy passará por cirurgia no joelho; entenda a lesão do atacante do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRFRmSm5BRUx4R1cwMEh0Yklmd0lfV0NNeEVGX0tkeGRVQmYwd3lQeHpOSTJpRTdLdFlQNFlrTjdJc2cyR2hfUTFhOUdrSGVuT3c4NzllYjFKVVFudlVrMkNiRXpxUzFibG9jOGtsZG1GeUE2VWJNWXo3SExaY1F3Umo1eXRvUm9lTFp2OW9Ub256VW9DYzVDLW1QWS1RSWJlS204LTVmSTVUZ1U4RE9vNS01RlBaYXBTbmVZTUlTRnJzdW9XbkRMS09ZQ0NYRzBuNDRFQmoyMEl4NmNfZjU3WlNMYTNzZk1UU1haWUZIb2hHREg2ZjRwVXlHTmhwVUpvd0tV?oc=5",
+      "data": "08/08 12:44"
+    },
+    {
+      "titulo": "John Kennedy, do Fluminense, sofre grave lesão no joelho; veja detalhes - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY2xqVTdKVTFzN205aE5IX1hZV3YyZUlEckU0U2V1aGVlSElZVENIMF8zQ1ByT3FINjR2aVVVQjdtQWVRb1dXUzZ3NDY5dVJHekZ5MkNrSFpXRVpjZkRST1JXdm9nUzV2R1pTY3paeG9ZMDMySE9pNGhJUVROQ3BSOHlMUEdvVThaN3BrUmN4RjhOc2NBRHVZUGhObllhTm9hQ01qcDhvRXZYOEN6V2NmTjhYR2o?oc=5",
+      "data": "07/08 21:11"
+    },
+    {
       "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
       "data": "08/08 06:00"
@@ -1130,21 +1145,6 @@ window.PAINEL_DATA = {
       "titulo": "Brasileirão 2026: informações importantes para a torcida antes de Botafogo x Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM2hiR1pnRG10TDJZcUdTb1VJdk1yU2FfaEw4dDQ1R0RzaHZGYVM4UlZDNDBCRnhyLU10MUpzNVJDVVlZRHF5VG0tOU9PRU9IM3JTcHYwMVR4QkVvSHRELW5vcWVMWUFXZDYweTl0OFpfMGpWLXk1cHAwcmV3VjE0RjAzRVBnVDNSbVFiVmlja0hTNzlxY0lZRFU5VnJHSFppaHQ3RGRRdVEwdzdBb01XMTR3SnhFdXRialIxcnlMOEhIdw?oc=5",
       "data": "08/08 11:55"
-    },
-    {
-      "titulo": "Entre a cruz e a espada: o dilema do Fluminense para o clássico contra o Botafogo - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVGxpRkpZcnV5YkFqQ3djYXRLT0Zma0F5WjdRRU1LUXVIMV9LUE9zRHNkNlhqcW9qSnlJUWJtZWR0bmJXd1F0djdZeGZJQXRNRmdjYllJOWx5bk9EdVNJV3hTUERGSnk5cW9xck1QZzZWdlA2YXVVR2gxNFB2cjdVZ1p1ZGNvQzd1WjJ3WHpZSmtuX2F1VHc3OHlXTFRCS1RvQUZnVkV2VVJWaUlIaUdLcWFWS3NHTktOdzcxZmRGWFBIYzZhUTVGZTd3Y0Y1dWw0LTNkc3VXYVdjdklacGMyVjRDR07SAeoBQVVfeXFMTUh4eWoxZndTMFlFUjUtbnNuY1dveGVmR1RCR2pRRjgwOVdkX2lwU21oeWxHSFdSOGlCVERGWWpSV3pVbWcyN0NZaVY0aUpXcVNWVTJkSzVXQW5qczAyTFQyUElTRDhIcENRRWp1cTFRRFBFektSNWktWl9ZeUJabFFJZU5ZYXc4WnJNYzFVZkc5VzRwSUxQY0RpUmVBbEZvUUdYZ0VMQnE5WWtFS2hBd2toUVAxNnE0ZTlJLTNkd3hWMTl3M1ItU2pnT3BwMXg3ODhLZVBQRkRPc3AtQ1dQc1Z3aU5xdFhHOFZB?oc=5",
-      "data": "08/08 10:30"
-    },
-    {
-      "titulo": "Fluminense consulta Odair Hellmann; veja bastidores da negociação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeE5RNHlScEw0ejJwb0MtQ0cwVFhCRW5nYVBRS2xBVFd5RnUxZ3Z4ZVA0Um96SDRxNWwzSHRLVk5lWkZzMUNYTEZiZWtnTVNYQ2diVjBzR2QwM19tanZIUUpkUk9hZXlVVGRsVE9PemVnUV9zeXdhV1RoT2J0UUcwSnMxWUg4ZFE4TGVwaGwyOFpDaURtNXM5Sms1cElWc2ZYeVlRcF9zZnUzOFVPU0lvR2J2VXpHYnUydE9qOGhNRTNjYnhVVU5fbEJyZ0J1LW1MN2VFdjlBS19zOGdDSjlFOEtsUllaQnM?oc=5",
-      "data": "07/08 04:41"
-    },
-    {
-      "titulo": "Vasco avança no campo, mas Fluminense ganha em transparência nas SAFs - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1J6NVgzc3Z2VFYxVjc3Rl9mb1pIbGRFYVNfN1NwV01UbE5GUkJ0SXRPUE9OVVNuN0YwOTJhLTFXU0xVUjdzSWJDZmdGbm52VEkzUnNtY29TQmh1Ulk4OWRoUG9EMEltWWZ4SE9vNy1yNFlyenFFaE83V3RRXzg4RTZIZlBqUUh1aWd1eWVvN2dOejdmOFpUdFlManRPc3g2V3Znekxqcm9xMHZkanFjVzU0al9kU0JtYXpEStIBwgFBVV95cUxORE85dHlycGZ1RWo0NUVTaXBsQWVscGJCaGRROUNxWU41WDFpX2JmTjRoX1BoNGowYmxhQzlUbzF3TUtrOFFKWlJaVWJRRElITjBFcnJnNFU2SUpIRU82bEoxUHBNOHdYS3Z0ek1DRGo1NHJGVElyWTlpSFp3ZG9Ob0ZjamU1T0d0UWlHbjBNd2hlZm05OXk0VWlPcVEzUTBLV1Z6clFQZEkzekZFSDVLUVZtd0V4WHVsMlI2U1F6d0RWUQ?oc=5",
-      "data": "07/08 08:30"
     }
   ],
   "avisos": []
