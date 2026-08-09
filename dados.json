@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/08/2026 12:30",
+  "atualizado_em": "09/08/2026 13:28",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,37 +9,6 @@
       "match": "Arsenal x Borussia Dortmund",
       "channels": [
         "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Cerro",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x Rodina Moskva",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São Caetano",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
       ]
     },
     {
@@ -56,42 +25,12 @@
     {
       "sport": "futebol",
       "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Criciúma",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Mirassol",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
       "time": "14:00",
       "competition": "Campeonato Russo",
       "match": "Spartak Moscow x Krasnodar",
       "channels": [
         "XSPORTS",
         "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Deportivo Garcilaso x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -129,9 +68,30 @@
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Deportivo Garcilaso x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
       "competition": "Campeonato Uruguaio",
       "match": "Defensor Sporting x Wanderers",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x Juventude",
+      "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -168,17 +128,6 @@
         "GLOBO",
         "SPORTV",
         "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Juventude",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -535,6 +484,57 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Cerro",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Rodina Moskva",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São Caetano",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x Criciúma",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Mirassol",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-10",
       "time": "16:00",
       "competition": "MLS Next Pro",
@@ -630,16 +630,6 @@
     {
       "sport": "volei",
       "date": "2026-08-09",
-      "time": "12:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-09",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Hamburgo, Alemanha",
@@ -673,28 +663,28 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 29.0,
       "temp_min": 21.9,
-      "chance_chuva": 34,
+      "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 33.5,
       "temp_min": 22.7,
-      "chance_chuva": 13,
+      "chance_chuva": 10,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.7,
       "temp_min": 18.6,
-      "chance_chuva": 73,
+      "chance_chuva": 97,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.7,
       "temp_min": 17.0,
-      "chance_chuva": 92,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
@@ -715,14 +705,14 @@
       "data": "08/08 15:00"
     },
     {
-      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - lance.com.br",
+      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
       "data": "08/08 20:32"
     },
     {
-      "titulo": "Brasileirão: Botafogo marca golaço, mas Fluminense busca empate em clássico - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzVaMHcxOE5ubkl2cjRoalA4LTgtWDMxdFAweHp4SlZUbXk2aVA1czFVUDFzaGkwc0pRSVhmTmFaR1l2SGdxYjNpWEZnTHgxMmRsX2JkcV9QREkzM0h4Tm9JWkxDbHRXc29EN1NaQWQ5alExLThoam5lZjRvYXY2UmE5VTRGNWpwMThGREJfaVo2WWRFTG5IWnJ5QklWTzBpNzlHbERwb0xWNExsYWhQa245SUxJZjRVQU5nZVlIcWdmQQ?oc=5",
-      "data": "08/08 22:59"
+      "titulo": "Vasco será escalado com a base que venceu o Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYThLbnZ5TFdNeU0yNUdVVmtLNV90VjVNYTBVUmZJOV91T2ZKbjRZLXE4ZTZjYXlOZnhsWFphSVZSRm5WdENtYmpnNy13ODBsZldfb01kRkhhcWdEb1U0QWk4YW94S25lemViYW5YaVI3UmJmaDkyUEJfTmhRTUZXSGR5RXZibUFvWHJEMTNvc09BTUJSbF8zZGVaVEs3ekYxdmdsT1NRbHZ2d2txbGhJSFV2Y3c3SDV3OXEwc3VjZXE4V0diWnpxN3g0X2FIeDM4N3g5UVNoOGJBdw?oc=5",
+      "data": "09/08 15:41"
     }
   ],
   "avisos": []
