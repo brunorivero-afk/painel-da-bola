@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 16:29",
+  "atualizado_em": "09/08/2026 17:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -37,16 +37,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "San Lorenzo x Huracan",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "15:00",
       "competition": "Brasileirão Feminino",
       "match": "Juventude (F) x Mixto W",
       "channels": [
@@ -56,21 +46,33 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-09",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Deportivo Garcilaso x UCV Moquegua",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Amazonas",
       "channels": [
-        "FANATIZ"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Wanderers",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Floresta",
       "channels": [
-        "DISNEY+"
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Corinthians (F) x Santos (F)",
+      "channels": [
+        "SPORTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -82,29 +84,6 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Vasco",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Internacional",
-      "channels": [
-        "GLOBO",
-        "PREMIERE FC",
-        "SPORTV"
       ]
     },
     {
@@ -123,32 +102,23 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "16:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x Santos (F)",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Internacional",
       "channels": [
-        "SPORTV",
-        "YOUTUBE"
+        "GLOBO",
+        "PREMIERE FC",
+        "SPORTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Floresta",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Vasco",
       "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Amazonas",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "GLOBO",
+        "PREMIERE 3"
       ]
     },
     {
@@ -205,23 +175,23 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Fortaleza",
+      "competition": "Brasileirão Feminino",
+      "match": "São Paulo (F) x RB Bragantino (F)",
       "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "São Paulo (F) x RB Bragantino (F)",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Fortaleza",
       "channels": [
-        "NSPORTS",
-        "YOUTUBE"
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
       ]
     },
     {
@@ -413,20 +383,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "09:00",
-      "competition": "Campeonato Sueco",
-      "match": "Malmo FF x Degerfors IF",
+      "competition": "Amistosos",
+      "match": "Johor Darul Takzim FC x Chelsea",
       "channels": [
-        "DISNEY+"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "09:00",
-      "competition": "Amistosos",
-      "match": "Johor Darul Takzim FC x Chelsea",
+      "competition": "Campeonato Sueco",
+      "match": "Malmo FF x Degerfors IF",
       "channels": [
-        "SPORTYNET"
+        "DISNEY+"
       ]
     },
     {
@@ -445,7 +415,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-09",
       "time": "10:00",
       "competition": "Copa Paulista",
-      "match": "Noroeste x XV de Piracicaba",
+      "match": "Linense x Gremio Prudente",
       "channels": [
         "YOUTUBE"
       ]
@@ -455,7 +425,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-09",
       "time": "10:00",
       "competition": "Copa Paulista",
-      "match": "Linense x Gremio Prudente",
+      "match": "Noroeste x XV de Piracicaba",
       "channels": [
         "YOUTUBE"
       ]
@@ -475,20 +445,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Cerro",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Mirassol",
       "channels": [
-        "DISNEY+"
+        "PRIME VIDEO"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x Rodina Moskva",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x Criciúma",
       "channels": [
-        "XSPORTS"
+        "DISNEY+"
       ]
     },
     {
@@ -506,20 +476,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Criciúma",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Rodina Moskva",
       "channels": [
-        "DISNEY+"
+        "XSPORTS"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Mirassol",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Cerro",
       "channels": [
-        "PRIME VIDEO"
+        "DISNEY+"
       ]
     },
     {
@@ -531,6 +501,36 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
+      "competition": "Campeonato Argentino",
+      "match": "San Lorenzo x Huracan",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Deportivo Garcilaso x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -690,9 +690,9 @@ window.PAINEL_DATA = {
       "data": "08/08 20:32"
     },
     {
-      "titulo": "Vasco será escalado com a base que venceu o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYThLbnZ5TFdNeU0yNUdVVmtLNV90VjVNYTBVUmZJOV91T2ZKbjRZLXE4ZTZjYXlOZnhsWFphSVZSRm5WdENtYmpnNy13ODBsZldfb01kRkhhcWdEb1U0QWk4YW94S25lemViYW5YaVI3UmJmaDkyUEJfTmhRTUZXSGR5RXZibUFvWHJEMTNvc09BTUJSbF8zZGVaVEs3ekYxdmdsT1NRbHZ2d2txbGhJSFV2Y3c3SDV3OXEwc3VjZXE4V0diWnpxN3g0X2FIeDM4N3g5UVNoOGJBdw?oc=5",
-      "data": "09/08 15:41"
+      "titulo": "Volante assina com o Fluminense até o fim de 2029 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdXpzYjZtUWEwaEY3aTFTbnVlOGsxa2pJekhnOExaUTJoS2pDUXUwVXFqOGZYU1c0Nlg1VjExekFia0ZnV2JDNHoydjVZUmNBYXA5SVVDTDdXZHlVT0k4MWg2X3BqN09RRk1acl91SVdwMk5kbTBwT2NIZEYxRm9yQXluUkxiRGMwbmFyMkxyOEM3WWktenV4X1dUYkhHT2JaNU8xTXJUMGtiUGZWdXFPVHpYbDRMaXV4XzRxNF81UWJDVmxXMTk4bGRNQ25PTUFsdkJUNVNXZw?oc=5",
+      "data": "09/08 17:32"
     }
   ],
   "avisos": []
