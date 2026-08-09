@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 03:48",
+  "atualizado_em": "09/08/2026 04:50",
   "jogos": [
     {
       "sport": "futebol",
@@ -691,36 +691,36 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.0,
-      "temp_min": 22.1,
+      "temp_max": 27.4,
+      "temp_min": 21.9,
       "chance_chuva": 34,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 34.0,
-      "temp_min": 22.3,
+      "temp_max": 30.3,
+      "temp_min": 22.6,
       "chance_chuva": 13,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.8,
+      "temp_max": 29.3,
       "temp_min": 18.5,
       "chance_chuva": 73,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.2,
-      "temp_min": 16.6,
+      "temp_max": 27.0,
+      "temp_min": 16.8,
       "chance_chuva": 92,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge.globo.com",
+      "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
       "data": "08/08 06:00"
     },
@@ -730,7 +730,7 @@ window.PAINEL_DATA = {
       "data": "08/08 20:00"
     },
     {
-      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge.globo.com",
+      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - GE",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
       "data": "08/08 17:23"
     },
@@ -740,9 +740,9 @@ window.PAINEL_DATA = {
       "data": "07/08 20:30"
     },
     {
-      "titulo": "Fluminense ganha desfalque para o jogo contra o Palmeiras - Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGQ5QXJaVGRvMHFGQkhxNm9PY1NhSjZneVBKQzAwUzJ2UTMwOFRtdnBkTnFBVXJYSEhUZmZjQ19EbEVpVFpkVFJBTnpreldwdjNWMENIODhmeFY3WlVCX2o1aGFyYUQ3Mkg2UldPTC1OMjRYWElyQjB4OEpOZnhDWUxBMTJMRXE3REVWeGhOQ2NvY0JnWm5iZ2dCcVBwZWxvWHNCS0Jla0VYVW1iSHgxR0V6LU1mdW9EX1VRblV0RTZncm_SAcgBQVVfeXFMTkRtUDkxUzlHcGVlYzhjQlRaQm5OOWN3MVlXTGtfd25fM3Jqa1V0Vy1hVUJ3RjJTaGhWUUVaam93YkVEeXYxd1FPNnkxcFBxV1BOSHpHY2ZlajFubEE1bkNBbWhpNEZIUUNxVmVFVjdhTDNCaENRcThQcWlyM01BdmxkdzVUNlM3bUFRUFc1aHB5dnBIYWhnRm1idV9mSWh6Z3pBSFFhaEZpQ1hkUTlubGU1T3IxVzg5MnpRRW5JUGRRVmtjS2NXSG0?oc=5",
-      "data": "09/08 02:03"
+      "titulo": "Germán Cano titular? Veja a escalação do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFFjc08yRkdQazNEOUdXQnNDS056Zkh4SWd5NS1zb1B1YTlFTnhabzBnem55aExnZjY2MDd5ODlZYW0zNkZ0b1pmNWxDVGFQdVNDc2V6MHpyR0hKVVloSjFOaUxwaG83cG1IemJXRkpyNkhrV2prZ3UtaU9aZjBXYVhFQnFqTVpIWjdFSER6SUhBY1c3RWV4ZG0zZHk2THZObC1XMzBnVThiYldScWtrZmFfV3EwcmpsUW1LeVpCMEFiMHhYMnh2LWI1b3d5bmpCV2IxVg?oc=5",
+      "data": "08/08 13:59"
     }
   ],
   "avisos": []
