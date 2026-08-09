@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 11:29",
+  "atualizado_em": "09/08/2026 12:30",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "09:30",
-      "competition": "Campeonato Holandês",
-      "match": "PEC Zwolle x Ajax",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-09",
@@ -20,37 +9,6 @@ window.PAINEL_DATA = {
       "match": "Arsenal x Borussia Dortmund",
       "channels": [
         "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "Linense x Gremio Prudente",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "Noroeste x XV de Piracicaba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "10:30",
-      "competition": "Amistosos",
-      "match": "Liverpool x Monaco",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
       ]
     },
     {
@@ -77,20 +35,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Mirassol",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São Caetano",
       "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Criciúma",
-      "channels": [
-        "DISNEY+"
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -108,11 +57,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São Caetano",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x Criciúma",
       "channels": [
-        "XSPORTS",
-        "YOUTUBE"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Mirassol",
+      "channels": [
+        "PRIME VIDEO"
       ]
     },
     {
@@ -124,6 +82,16 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Deportivo Garcilaso x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -155,16 +123,6 @@ window.PAINEL_DATA = {
       "match": "San Lorenzo x Huracan",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Deportivo Garcilaso x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -535,6 +493,48 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "09:30",
+      "competition": "Campeonato Holandês",
+      "match": "PEC Zwolle x Ajax",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "Noroeste x XV de Piracicaba",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "Linense x Gremio Prudente",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "10:30",
+      "competition": "Amistosos",
+      "match": "Liverpool x Monaco",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-10",
       "time": "16:00",
       "competition": "MLS Next Pro",
@@ -630,16 +630,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-09",
       "time": "12:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
@@ -720,9 +710,9 @@ window.PAINEL_DATA = {
       "data": "08/08 17:23"
     },
     {
-      "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnNheV90dlZnRXdZLTh1Y3FIM2RqVDVBVG5NNEJ1Zk11UVdYUWdEX0xqb2FKY0FwX0ppVkNWNnA0TnR3SGZwN2ExUzdaWUdnazloV2hxY0wtUGc5TmIxRzcwcVFFUXRtSm1IWFZLa1FBUHNmVzdQbkdiTmhma0ZlV1ktSUFSSnU1RVZHV2V6cl9SZDM0ZUNJQnEzeVRBUndKcG9N?oc=5",
-      "data": "07/08 20:30"
+      "titulo": "Fluminense faz 3 a 1 na estreia do técnico Fred e abre Carioca Sub-20 com vitória - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUJTN0Z5QWdFQXpObVhMTUVwVkVWR0J4dnU5dkZxNXFEQjgwQmxzaXJ0SXk3SEFKaDI5SzJ5TWpWd01HQjRyYzFQVF92cWd3RTlmQ0NTNWlVckticnh5SHhUdVhONVBWZDR3ZnJ2Ym9ITzF1d2Q2NmhtSVJoWlNOZ3RNb0d0eGJ2S3p0UDEzWWNkTVY3MUFUb1ZMQ0hvaGFCUlpzeE55RGdZZEZDOUhFeFVrLTNLVGhWcmZv?oc=5",
+      "data": "08/08 15:00"
     },
     {
       "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - lance.com.br",
@@ -730,9 +720,9 @@ window.PAINEL_DATA = {
       "data": "08/08 20:32"
     },
     {
-      "titulo": "Fluminense busca empate com o Botafogo, mas pode ver Bahia encostar no G4 - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHozSk1Tcm16Y1VWWU5hVVVJVmo2bTM4TWN3WUUtcjVieU5BVDZ3VzZHMVIxSkg0TnJSZXlEcHZNN0xSUVJYbUphQmVLTC1vVWhZVGlQWWluaFBGVVgtd3lWb1ItRWNqTTJiODN4RjI5MHlwY29TTnR4elR3NTAwS0tOUk9NanVvakticlFMSHBjZnFHd2c4S1ZHVkliM0lzbG1jMHQ4VGdoTmhKbnQ1N0hwVGs5YW5r?oc=5",
-      "data": "09/08 02:00"
+      "titulo": "Brasileirão: Botafogo marca golaço, mas Fluminense busca empate em clássico - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzVaMHcxOE5ubkl2cjRoalA4LTgtWDMxdFAweHp4SlZUbXk2aVA1czFVUDFzaGkwc0pRSVhmTmFaR1l2SGdxYjNpWEZnTHgxMmRsX2JkcV9QREkzM0h4Tm9JWkxDbHRXc29EN1NaQWQ5alExLThoam5lZjRvYXY2UmE5VTRGNWpwMThGREJfaVo2WWRFTG5IWnJ5QklWTzBpNzlHbERwb0xWNExsYWhQa245SUxJZjRVQU5nZVlIcWdmQQ?oc=5",
+      "data": "08/08 22:59"
     }
   ],
   "avisos": []
