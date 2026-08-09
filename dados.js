@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 15:33",
+  "atualizado_em": "09/08/2026 16:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -25,27 +25,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-09",
-      "time": "14:00",
-      "competition": "Campeonato Russo",
-      "match": "Spartak Moscow x Krasnodar",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "15:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Juventude (F) x Mixto W",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
       "time": "15:00",
       "competition": "Brasileirão Feminino",
       "match": "Vitoria BA W x Internacional (F)",
@@ -62,6 +41,16 @@ window.PAINEL_DATA = {
       "match": "San Lorenzo x Huracan",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Juventude (F) x Mixto W",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -535,6 +524,17 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "14:00",
+      "competition": "Campeonato Russo",
+      "match": "Spartak Moscow x Krasnodar",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-10",
       "time": "16:00",
       "competition": "MLS Next Pro",
@@ -641,31 +641,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.0,
-      "temp_min": 21.9,
+      "temp_max": 28.4,
+      "temp_min": 22.2,
       "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 33.5,
-      "temp_min": 22.7,
+      "temp_max": 30.9,
+      "temp_min": 22.6,
       "chance_chuva": 10,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.7,
+      "temp_max": 29.3,
       "temp_min": 18.6,
       "chance_chuva": 97,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.7,
-      "temp_min": 17.0,
+      "temp_max": 26.7,
+      "temp_min": 17.2,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
