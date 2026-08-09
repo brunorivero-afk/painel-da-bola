@@ -1,28 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 09:40",
+  "atualizado_em": "09/08/2026 10:45",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "08:00",
-      "competition": "Amistosos",
-      "match": "Manchester City x Atletico Madrid",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "08:30",
-      "competition": "Campeonato Russo",
-      "match": "Dinamo Moscow x Makhachkala",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-09",
@@ -99,6 +77,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Cerro",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
       "competition": "Campeonato Russo",
       "match": "Zenit Saint x Rodina Moskva",
       "channels": [
@@ -109,10 +97,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Cerro",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São Caetano",
       "channels": [
-        "DISNEY+"
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -149,33 +138,12 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São Caetano",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
       "time": "14:00",
       "competition": "Campeonato Russo",
       "match": "Spartak Moscow x Krasnodar",
       "channels": [
         "XSPORTS",
         "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "San Lorenzo x Huracan",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -215,6 +183,16 @@ window.PAINEL_DATA = {
       "time": "15:00",
       "competition": "Campeonato Uruguaio",
       "match": "Defensor Sporting x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
+      "competition": "Campeonato Argentino",
+      "match": "San Lorenzo x Huracan",
       "channels": [
         "DISNEY+"
       ]
@@ -311,20 +289,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Connecticut FC x New England II",
+      "competition": "NWSL Feminina",
+      "match": "Boston Legacy (F) x Portland Thorns (F)",
       "channels": [
-        "ONEFOOTBALL"
+        "XSPORTS"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "17:00",
-      "competition": "NWSL Feminina",
-      "match": "Boston Legacy (F) x Portland Thorns (F)",
+      "competition": "MLS Next Pro",
+      "match": "Connecticut FC x New England II",
       "channels": [
-        "XSPORTS"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -374,10 +352,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Maranhão x Brusque",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Corinthians",
       "channels": [
-        "SPORTYNET"
+        "PREMIERE 2"
       ]
     },
     {
@@ -406,10 +384,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Corinthians",
+      "competition": "Brasileirão Série C",
+      "match": "Maranhão x Brusque",
       "channels": [
-        "PREMIERE 2"
+        "SPORTYNET"
       ]
     },
     {
@@ -531,6 +509,28 @@ window.PAINEL_DATA = {
       "match": "Sparta Rotterdam x Feyenoord",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "08:00",
+      "competition": "Amistosos",
+      "match": "Manchester City x Atletico Madrid",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "08:30",
+      "competition": "Campeonato Russo",
+      "match": "Dinamo Moscow x Makhachkala",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS"
       ]
     },
     {
@@ -715,6 +715,11 @@ window.PAINEL_DATA = {
       "data": "08/08 17:41"
     },
     {
+      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
+      "data": "08/08 20:32"
+    },
+    {
       "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
       "data": "08/08 17:23"
@@ -725,14 +730,9 @@ window.PAINEL_DATA = {
       "data": "07/08 20:30"
     },
     {
-      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
-      "data": "08/08 20:32"
-    },
-    {
-      "titulo": "Fluminense busca empate com o Botafogo, mas pode ver Bahia encostar no G4 - uol.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHozSk1Tcm16Y1VWWU5hVVVJVmo2bTM4TWN3WUUtcjVieU5BVDZ3VzZHMVIxSkg0TnJSZXlEcHZNN0xSUVJYbUphQmVLTC1vVWhZVGlQWWluaFBGVVgtd3lWb1ItRWNqTTJiODN4RjI5MHlwY29TTnR4elR3NTAwS0tOUk9NanVvakticlFMSHBjZnFHd2c4S1ZHVkliM0lzbG1jMHQ4VGdoTmhKbnQ1N0hwVGs5YW5r?oc=5",
-      "data": "09/08 02:00"
+      "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
+      "data": "08/08 06:00"
     }
   ],
   "avisos": []
