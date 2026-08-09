@@ -1,502 +1,6 @@
 {
-  "atualizado_em": "08/08/2026 22:19",
+  "atualizado_em": "09/08/2026 00:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Houston Dynamo FC II x Real Monarchs",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "20:30",
-      "competition": "MLS Next Pro",
-      "match": "Carolina Core x Huntsville City",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Coritiba x Chapecoense-sc",
-      "channels": [
-        "RECORD",
-        "PREMIERE 3",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "21:00",
-      "competition": "Leagues Cup",
-      "match": "Inter Miami x Monterrey",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "21:00",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Fluminense",
-      "channels": [
-        "SPORTV",
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "21:45",
-      "competition": "MLS Next Pro",
-      "match": "North Texas x Tacoma Defiance",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "21:45",
-      "competition": "NWSL Feminina",
-      "match": "Houston Dash (F) x Kansas City (F)",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "22:00",
-      "competition": "Leagues Cup",
-      "match": "Guadalajara Chivas x FC Dallas",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "22:00",
-      "competition": "MLS Next Pro",
-      "match": "Colorado Rapids II x St. Louis City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "22:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x Alianza Lima",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "23:00",
-      "competition": "Leagues Cup",
-      "match": "Real Salt Lake x Atlante FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "09:00",
-      "competition": "Amistosos",
-      "match": "Chelsea x AC Milan",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "10:30",
-      "competition": "Amistosos",
-      "match": "Bayer Leverkusen x Sevilla",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Ipswich x Rayo Vallecano",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Progreso",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Atlético Mineiro (F) x Bahia (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Ferroviária U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Udinese x Nottingham Forest",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "PSV Eindhoven x Fortuna Sittard",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Albion FC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x ADO Den Haag",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x São Paulo",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Vila Nova x Sport Recife",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Palmeiras (F)",
-      "channels": [
-        "TV BRASIL",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Amistosos",
-      "match": "Barcelona x Nottingham Forest",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Nacional AM x ABC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Tigre x River Plate",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Figueirense x Ferroviária",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Santa Cruz",
-      "channels": [
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x Los Angeles II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Amistosos",
-      "match": "Udinese x Barcelona",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Primavera SP x Juventus",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Uniao Sao Joao x Comercial",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x CSA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "São José x Gama",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Atletico Grau",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "17:30",
-      "competition": "MLS",
-      "match": "New England x Houston Dynamo",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Remo x Atlético-MG",
-      "channels": [
-        "PREMIERE 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "18:30",
-      "competition": "Brasileirão Série D",
-      "match": "Goiatuba EC x ASA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x América-MG",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "19:00",
-      "competition": "Copa Paulista",
-      "match": "São José EC x Santo André",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Columbus Crew II x New York RB II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "19:15",
-      "competition": "Campeonato Argentino",
-      "match": "Boca Juniors x Velez Sarsfield",
-      "channels": [
-        "ESPN 3",
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "19:30",
-      "competition": "Leagues Cup",
-      "match": "Orlando City SC x Leon",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Ituano x Barra",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Volta Redonda",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-08",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Chattanooga x Atlanta United II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-09",
@@ -1010,8 +514,92 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "16:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x Toronto II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Racing Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Londrina",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Marília x Bandeirante SP",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "20:00",
+      "competition": "Brasileirão Série C",
+      "match": "Paysandu x Confiança",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "20:00",
+      "competition": "Brasileirão Série C",
+      "match": "Anápolis x Guarani",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "21:00",
+      "competition": "Brasileirão Feminino",
+      "match": "América MG (F) x Flamengo (F)",
+      "channels": [
+        "TV BRASIL",
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "21:15",
+      "competition": "Campeonato Argentino",
+      "match": "Union Santa Fe x Central Cordoba",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "05:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
@@ -1021,7 +609,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "07:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
@@ -1031,7 +619,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "08:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
@@ -1041,7 +629,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "11:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
@@ -1051,7 +639,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "12:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
@@ -1061,7 +649,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Hamburgo, Alemanha",
@@ -1071,7 +659,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "14:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Hamburgo, Alemanha",
@@ -1081,7 +669,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "16:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Colômbia",
@@ -1093,43 +681,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.0,
-      "temp_min": 21.5,
-      "chance_chuva": 76,
-      "condicao": "Garoa"
+      "temp_max": 30.0,
+      "temp_min": 22.1,
+      "chance_chuva": 27,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.6,
-      "temp_min": 21.4,
-      "chance_chuva": 92,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 34.0,
+      "temp_min": 22.3,
+      "chance_chuva": 4,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.6,
-      "temp_min": 17.9,
-      "chance_chuva": 83,
-      "condicao": "Garoa fraca"
+      "temp_max": 29.8,
+      "temp_min": 18.5,
+      "chance_chuva": 38,
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.5,
-      "temp_min": 16.4,
-      "chance_chuva": 94,
-      "condicao": "Garoa fraca"
+      "temp_max": 27.2,
+      "temp_min": 16.6,
+      "chance_chuva": 86,
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - GE",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlsZ0M2RlZ0R01WUFh1OEVzN0hranNKdDBiSnp1WjlnQzFfOWhzQlpMeS1HQzRybXR2VGRua2xBQ2k1aWxiZ1A5b0NoVV9yTy1UNjVjX0xJZXR0emt4d2VhZG52NU5QX3pNNDNoLW43V2NENXVoczBfV2N1S2dHZ3VtOF9RWm5EZTNDcG5WSlNESVlTelNHVW1FSTl2d21naGl5eHN0ZG9lLWZZWHpNcFhFQkFIbjBwa1JQV1pJN1JITGhSeUM3OEhQZ2lvUDhid1FjQ01fZm9qR3RqbVQzUmlYWDTSAfMBQVVfeXFMUHBlWHFGbmJ1RDM3YXNndmFvVEZaeHg1VGRTTWF1X1VFQkR1aG1LVlo3alZQNl9EaG5yd3E2R3U3TDJqNllsZUlTY1dYWWVXRVhPM3YxM3c3RjVTR2hRUHpsRnpsQUZlQ2ZxN2xhM0w2ZHc3NmFzbVVROWZzMWl4d2dGUGdfVkJWOFFLMTBGNGNmbGVack1KREVqaFRJNWJkOEROWk5kaTRQN0UtRUdIYl82VU5ycEVGU290QmEyRHd1ZVVIWkRRVE5Rb1pXMmxiTDltS3pRQ0lfZUwzcm53azI0WkNUbXJXVDdCV2o4OEJJMkJJ?oc=5",
-      "data": "08/08 17:41"
+      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
+      "data": "08/08 20:32"
     },
     {
-      "titulo": "Titular no Fluminense, Ganso fecha as portas para outros clubes da Série A - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTDJlaVlUTF93cDhsOTlyNy1Jc2NvVjNPcFhOY0FGb0dHbkI0ZzVwd3JVX0xYRWpmY0ZTdExhaXBoRUg5QjN1VU1zLXNMRjY2N2Zhc3hEN2UwQU85Zjg3U1pOV2w1dkxEWUptUWFtSm5fbXBSYjU0UldwQWwxc0dwTWc4VnBFc0pVSGFOS2FBREpGenRKbUNtdHA5c2ctMDh4Z2hQcHhKQWV3SkMwYlI3QVd2TnplZ2VSNjdkVnNCYVQyOG54V0RxNlJGTHVUVUtrNWp2MnpoeDBtZGNfV0s4MUk2UFVhODhzNlVyd09vekhaZno1dGc?oc=5",
-      "data": "09/08 00:33"
+      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - GE",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
+      "data": "08/08 17:23"
     },
     {
       "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
@@ -1137,9 +725,9 @@
       "data": "07/08 20:30"
     },
     {
-      "titulo": "Germán Cano titular? Veja a escalação do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFFjc08yRkdQazNEOUdXQnNDS056Zkh4SWd5NS1zb1B1YTlFTnhabzBnem55aExnZjY2MDd5ODlZYW0zNkZ0b1pmNWxDVGFQdVNDc2V6MHpyR0hKVVloSjFOaUxwaG83cG1IemJXRkpyNkhrV2prZ3UtaU9aZjBXYVhFQnFqTVpIWjdFSER6SUhBY1c3RWV4ZG0zZHk2THZObC1XMzBnVThiYldScWtrZmFfV3EwcmpsUW1LeVpCMEFiMHhYMnh2LWI1b3d5bmpCV2IxVg?oc=5",
-      "data": "08/08 13:59"
+      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlsZ0M2RlZ0R01WUFh1OEVzN0hranNKdDBiSnp1WjlnQzFfOWhzQlpMeS1HQzRybXR2VGRua2xBQ2k1aWxiZ1A5b0NoVV9yTy1UNjVjX0xJZXR0emt4d2VhZG52NU5QX3pNNDNoLW43V2NENXVoczBfV2N1S2dHZ3VtOF9RWm5EZTNDcG5WSlNESVlTelNHVW1FSTl2d21naGl5eHN0ZG9lLWZZWHpNcFhFQkFIbjBwa1JQV1pJN1JITGhSeUM3OEhQZ2lvUDhid1FjQ01fZm9qR3RqbVQzUmlYWDTSAfMBQVVfeXFMUHBlWHFGbmJ1RDM3YXNndmFvVEZaeHg1VGRTTWF1X1VFQkR1aG1LVlo3alZQNl9EaG5yd3E2R3U3TDJqNllsZUlTY1dYWWVXRVhPM3YxM3c3RjVTR2hRUHpsRnpsQUZlQ2ZxN2xhM0w2ZHc3NmFzbVVROWZzMWl4d2dGUGdfVkJWOFFLMTBGNGNmbGVack1KREVqaFRJNWJkOEROWk5kaTRQN0UtRUdIYl82VU5ycEVGU290QmEyRHd1ZVVIWkRRVE5Rb1pXMmxiTDltS3pRQ0lfZUwzcm53azI0WkNUbXJXVDdCV2o4OEJJMkJJ?oc=5",
+      "data": "08/08 17:41"
     },
     {
       "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - GE",
