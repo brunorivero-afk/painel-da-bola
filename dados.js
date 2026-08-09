@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 01:59",
+  "atualizado_em": "09/08/2026 02:51",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "00:10",
-      "competition": "Leagues Cup",
-      "match": "Toluca x Los Angeles FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-09",
@@ -119,11 +109,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Cruzeiro (F)",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x Criciúma",
       "channels": [
-        "NSPORTS",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -151,10 +140,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Criciúma",
+      "competition": "Brasileirão Feminino",
+      "match": "Grêmio (F) x Cruzeiro (F)",
       "channels": [
-        "DISNEY+"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -277,6 +267,17 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x Juventude",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "Palmeiras x Internacional",
       "channels": [
@@ -294,17 +295,6 @@ window.PAINEL_DATA = {
       "channels": [
         "GLOBO",
         "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Juventude",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -374,11 +364,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Itabaiana x Caxias",
+      "competition": "Brasileirão Série A",
+      "match": "Santos x Athletico PR",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "PREMIERE 3",
+        "PREMIERE 4"
       ]
     },
     {
@@ -405,11 +395,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Santos x Athletico PR",
+      "competition": "Brasileirão Série C",
+      "match": "Itabaiana x Caxias",
       "channels": [
-        "PREMIERE 3",
-        "PREMIERE 4"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -509,6 +499,16 @@ window.PAINEL_DATA = {
       "time": "23:15",
       "competition": "Leagues Cup",
       "match": "Club America x Portland Timbers",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "00:10",
+      "competition": "Leagues Cup",
+      "match": "Toluca x Los Angeles FC",
       "channels": [
         "APPLE TV"
       ]
@@ -710,9 +710,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
-      "data": "08/08 20:32"
+      "titulo": "Sob comando de Fred, Fluminense mostra saída de pé em pé; veja vídeo - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3JmTlJUeTJUdmhGSzd3dEJ2elkyQXMxLW9ybjdKUzg0MmZ0S1RicmQxNzNNWThwRzNsT25kUEF5Q3daMHg3WnY2QXI4azM1UFYtTmw4ajVjQTkwdmkxZS12ekZyal93UUZZSDk4N29yUDZsOHVNa3N2X1l3aXRBZ2ZPdzZCM3k5ZldjZklBdTlmOEpiOXBCYQ?oc=5",
+      "data": "08/08 20:00"
     },
     {
       "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - GE",
@@ -730,9 +730,9 @@ window.PAINEL_DATA = {
       "data": "08/08 06:00"
     },
     {
-      "titulo": "Titular no Fluminense, Ganso fecha as portas para outros clubes da Série A - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTDJlaVlUTF93cDhsOTlyNy1Jc2NvVjNPcFhOY0FGb0dHbkI0ZzVwd3JVX0xYRWpmY0ZTdExhaXBoRUg5QjN1VU1zLXNMRjY2N2Zhc3hEN2UwQU85Zjg3U1pOV2w1dkxEWUptUWFtSm5fbXBSYjU0UldwQWwxc0dwTWc4VnBFc0pVSGFOS2FBREpGenRKbUNtdHA5c2ctMDh4Z2hQcHhKQWV3SkMwYlI3QVd2TnplZ2VSNjdkVnNCYVQyOG54V0RxNlJGTHVUVUtrNWp2MnpoeDBtZGNfV0s4MUk2UFVhODhzNlVyd09vekhaZno1dGc?oc=5",
-      "data": "09/08 00:33"
+      "titulo": "Fluminense ganha desfalque para o jogo contra o Palmeiras - Correio Braziliense",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGQ5QXJaVGRvMHFGQkhxNm9PY1NhSjZneVBKQzAwUzJ2UTMwOFRtdnBkTnFBVXJYSEhUZmZjQ19EbEVpVFpkVFJBTnpreldwdjNWMENIODhmeFY3WlVCX2o1aGFyYUQ3Mkg2UldPTC1OMjRYWElyQjB4OEpOZnhDWUxBMTJMRXE3REVWeGhOQ2NvY0JnWm5iZ2dCcVBwZWxvWHNCS0Jla0VYVW1iSHgxR0V6LU1mdW9EX1VRblV0RTZncm_SAcgBQVVfeXFMTkRtUDkxUzlHcGVlYzhjQlRaQm5OOWN3MVlXTGtfd25fM3Jqa1V0Vy1hVUJ3RjJTaGhWUUVaam93YkVEeXYxd1FPNnkxcFBxV1BOSHpHY2ZlajFubEE1bkNBbWhpNEZIUUNxVmVFVjdhTDNCaENRcThQcWlyM01BdmxkdzVUNlM3bUFRUFc1aHB5dnBIYWhnRm1idV9mSWh6Z3pBSFFhaEZpQ1hkUTlubGU1T3IxVzg5MnpRRW5JUGRRVmtjS2NXSG0?oc=5",
+      "data": "09/08 02:03"
     }
   ],
   "avisos": []
