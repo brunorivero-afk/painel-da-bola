@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/08/2026 05:36",
+  "atualizado_em": "09/08/2026 06:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -109,10 +109,11 @@
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Criciúma",
+      "competition": "Brasileirão Feminino",
+      "match": "Grêmio (F) x Cruzeiro (F)",
       "channels": [
-        "DISNEY+"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -123,6 +124,16 @@
       "match": "Danubio x Cerro",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Rodina Moskva",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -140,11 +151,10 @@
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Cruzeiro (F)",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x Criciúma",
       "channels": [
-        "NSPORTS",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -305,6 +315,16 @@
       "match": "Seattle Sounders x Club Queretaro",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "17:00",
+      "competition": "NWSL Feminina",
+      "match": "Boston Legacy (F) x Portland Thorns (F)",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -605,16 +625,6 @@
       "match": "Union Santa Fe x Central Cordoba",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-09",
-      "time": "05:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
