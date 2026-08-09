@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 00:29",
+  "atualizado_em": "09/08/2026 01:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -683,28 +683,28 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 30.0,
       "temp_min": 22.1,
-      "chance_chuva": 27,
+      "chance_chuva": 34,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 34.0,
       "temp_min": 22.3,
-      "chance_chuva": 4,
+      "chance_chuva": 13,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 29.8,
       "temp_min": 18.5,
-      "chance_chuva": 38,
+      "chance_chuva": 73,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.2,
       "temp_min": 16.6,
-      "chance_chuva": 86,
+      "chance_chuva": 92,
       "condicao": "Pancadas de chuva"
     }
   ],
@@ -725,14 +725,14 @@ window.PAINEL_DATA = {
       "data": "07/08 20:30"
     },
     {
-      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - GE",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlsZ0M2RlZ0R01WUFh1OEVzN0hranNKdDBiSnp1WjlnQzFfOWhzQlpMeS1HQzRybXR2VGRua2xBQ2k1aWxiZ1A5b0NoVV9yTy1UNjVjX0xJZXR0emt4d2VhZG52NU5QX3pNNDNoLW43V2NENXVoczBfV2N1S2dHZ3VtOF9RWm5EZTNDcG5WSlNESVlTelNHVW1FSTl2d21naGl5eHN0ZG9lLWZZWHpNcFhFQkFIbjBwa1JQV1pJN1JITGhSeUM3OEhQZ2lvUDhid1FjQ01fZm9qR3RqbVQzUmlYWDTSAfMBQVVfeXFMUHBlWHFGbmJ1RDM3YXNndmFvVEZaeHg1VGRTTWF1X1VFQkR1aG1LVlo3alZQNl9EaG5yd3E2R3U3TDJqNllsZUlTY1dYWWVXRVhPM3YxM3c3RjVTR2hRUHpsRnpsQUZlQ2ZxN2xhM0w2ZHc3NmFzbVVROWZzMWl4d2dGUGdfVkJWOFFLMTBGNGNmbGVack1KREVqaFRJNWJkOEROWk5kaTRQN0UtRUdIYl82VU5ycEVGU290QmEyRHd1ZVVIWkRRVE5Rb1pXMmxiTDltS3pRQ0lfZUwzcm53azI0WkNUbXJXVDdCV2o4OEJJMkJJ?oc=5",
-      "data": "08/08 17:41"
-    },
-    {
       "titulo": "Botafogo x Fluminense: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUlFCUWVMVVlmcllTNG04SGwzR3FHeGF4OFVWZHoydHdZLThzTjB2RGlwTzRUU19TMTA0QUdPWXFjeF9lZFFGeHhaZUJNczFLa0k4clQ1eGkyNkxmS0J1RVlua2Y3akhoUks0WU42UnVpWC1hNzBablRYQUFjZnViXzhENzdZb0NCWFh2NVRPTzJNZmZBeTVmdVJDMjhnSlNMZS1VeWd3R0FBc2lmVERUamF3ZWdreF9Md19ldG53dVQyQlpFQ243bWtET1Q4RFJrdkNXOWdPZTPSAecBQVVfeXFMTjRMMzFUSnZMck12YkdCS2s1V3Fma3RvWFpjN3FJZmZGb3hyeEhZS1VaazdUN2J5NWRZTmUyU0JGbFBoZUdYeWl0RVhXbXEyV0szVjJNUnk3S2h3NU9EaG1jUHNLVEd3U1NOdERibHJjaFkyYnRVYS0zdkRyR1BONlZqcFdlVXlGT2RwX2hlOFlreXZkaXpOT0RMLWdRcEEzN2lTM2hJV1BvdHpaQ29NSkZLNVdTMGtQU1BIYkJudFQ3R194cmszbmREc3NxLTFFT2VNVmFKd0xTSlVwQ1FDd0tqT3RLclZN?oc=5",
       "data": "08/08 06:00"
+    },
+    {
+      "titulo": "Titular no Fluminense, Ganso fecha as portas para outros clubes da Série A - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTDJlaVlUTF93cDhsOTlyNy1Jc2NvVjNPcFhOY0FGb0dHbkI0ZzVwd3JVX0xYRWpmY0ZTdExhaXBoRUg5QjN1VU1zLXNMRjY2N2Zhc3hEN2UwQU85Zjg3U1pOV2w1dkxEWUptUWFtSm5fbXBSYjU0UldwQWwxc0dwTWc4VnBFc0pVSGFOS2FBREpGenRKbUNtdHA5c2ctMDh4Z2hQcHhKQWV3SkMwYlI3QVd2TnplZ2VSNjdkVnNCYVQyOG54V0RxNlJGTHVUVUtrNWp2MnpoeDBtZGNfV0s4MUk2UFVhODhzNlVyd09vekhaZno1dGc?oc=5",
+      "data": "09/08 00:33"
     }
   ],
   "avisos": []
