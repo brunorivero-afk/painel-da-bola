@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 08:24",
+  "atualizado_em": "09/08/2026 09:40",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "07:15",
-      "competition": "Campeonato Holandês",
-      "match": "Sparta Rotterdam x Feyenoord",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-09",
@@ -109,11 +99,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Cruzeiro (F)",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Rodina Moskva",
       "channels": [
-        "NSPORTS",
-        "YOUTUBE"
+        "XSPORTS"
       ]
     },
     {
@@ -130,21 +119,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x Rodina Moskva",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Mirassol",
       "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "11:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São Caetano",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -161,10 +139,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Mirassol",
+      "competition": "Brasileirão Feminino",
+      "match": "Grêmio (F) x Cruzeiro (F)",
       "channels": [
-        "PRIME VIDEO"
+        "NSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São Caetano",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -233,55 +223,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Náutico x Atlético GO",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Vasco",
       "channels": [
         "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Amazonas",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Floresta",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x Santos (F)",
-      "channels": [
-        "SPORTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Juventude",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
+        "PREMIERE 3"
       ]
     },
     {
@@ -300,11 +246,55 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Vasco",
+      "competition": "Brasileirão Série B",
+      "match": "Náutico x Atlético GO",
       "channels": [
         "GLOBO",
-        "PREMIERE 3"
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x Juventude",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Corinthians (F) x Santos (F)",
+      "channels": [
+        "SPORTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Floresta",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Amazonas",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -321,20 +311,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "17:00",
-      "competition": "NWSL Feminina",
-      "match": "Boston Legacy (F) x Portland Thorns (F)",
+      "competition": "MLS Next Pro",
+      "match": "Connecticut FC x New England II",
       "channels": [
-        "XSPORTS"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Connecticut FC x New England II",
+      "competition": "NWSL Feminina",
+      "match": "Boston Legacy (F) x Portland Thorns (F)",
       "channels": [
-        "ONEFOOTBALL"
+        "XSPORTS"
       ]
     },
     {
@@ -384,31 +374,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Maranhão x Brusque",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "18:30",
       "competition": "Brasileirão Série A",
       "match": "Santos x Athletico PR",
       "channels": [
         "PREMIERE 3",
         "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Boston River",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Maranhão x Brusque",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -430,6 +410,16 @@ window.PAINEL_DATA = {
       "match": "RB Bragantino x Corinthians",
       "channels": [
         "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Boston River",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -535,6 +525,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "07:15",
+      "competition": "Campeonato Holandês",
+      "match": "Sparta Rotterdam x Feyenoord",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-10",
       "time": "16:00",
       "competition": "MLS Next Pro",
@@ -630,16 +630,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-09",
-      "time": "08:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Hamburgo, Alemanha",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-09",
       "time": "11:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Hamburgo, Alemanha",
@@ -691,48 +681,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.4,
+      "temp_max": 29.0,
       "temp_min": 21.9,
       "chance_chuva": 34,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.3,
-      "temp_min": 22.6,
+      "temp_max": 33.5,
+      "temp_min": 22.7,
       "chance_chuva": 13,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.3,
-      "temp_min": 18.5,
+      "temp_max": 28.7,
+      "temp_min": 18.6,
       "chance_chuva": 73,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.0,
-      "temp_min": 16.8,
+      "temp_max": 27.7,
+      "temp_min": 17.0,
       "chance_chuva": 92,
-      "condicao": "Garoa forte"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - GE",
+      "titulo": "Fluminense atualiza lista de inscritos na Libertadores com Thiago Silva, Hulk e mais três - ge",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTlsZ0M2RlZ0R01WUFh1OEVzN0hranNKdDBiSnp1WjlnQzFfOWhzQlpMeS1HQzRybXR2VGRua2xBQ2k1aWxiZ1A5b0NoVV9yTy1UNjVjX0xJZXR0emt4d2VhZG52NU5QX3pNNDNoLW43V2NENXVoczBfV2N1S2dHZ3VtOF9RWm5EZTNDcG5WSlNESVlTelNHVW1FSTl2d21naGl5eHN0ZG9lLWZZWHpNcFhFQkFIbjBwa1JQV1pJN1JITGhSeUM3OEhQZ2lvUDhid1FjQ01fZm9qR3RqbVQzUmlYWDTSAfMBQVVfeXFMUHBlWHFGbmJ1RDM3YXNndmFvVEZaeHg1VGRTTWF1X1VFQkR1aG1LVlo3alZQNl9EaG5yd3E2R3U3TDJqNllsZUlTY1dYWWVXRVhPM3YxM3c3RjVTR2hRUHpsRnpsQUZlQ2ZxN2xhM0w2ZHc3NmFzbVVROWZzMWl4d2dGUGdfVkJWOFFLMTBGNGNmbGVack1KREVqaFRJNWJkOEROWk5kaTRQN0UtRUdIYl82VU5ycEVGU290QmEyRHd1ZVVIWkRRVE5Rb1pXMmxiTDltS3pRQ0lfZUwzcm53azI0WkNUbXJXVDdCV2o4OEJJMkJJ?oc=5",
       "data": "08/08 17:41"
     },
     {
-      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - GE",
+      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
       "data": "08/08 17:23"
-    },
-    {
-      "titulo": "Sob comando de Fred, Fluminense mostra saída de pé em pé; veja vídeo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3JmTlJUeTJUdmhGSzd3dEJ2elkyQXMxLW9ybjdKUzg0MmZ0S1RicmQxNzNNWThwRzNsT25kUEF5Q3daMHg3WnY2QXI4azM1UFYtTmw4ajVjQTkwdmkxZS12ekZyal93UUZZSDk4N29yUDZsOHVNa3N2X1l3aXRBZ2ZPdzZCM3k5ZldjZklBdTlmOEpiOXBCYQ?oc=5",
-      "data": "08/08 20:00"
     },
     {
       "titulo": "Sub-20 do Fluminense estreia neste sábado sob o comando de Fred - fluminense.com.br",
@@ -740,7 +725,12 @@ window.PAINEL_DATA = {
       "data": "07/08 20:30"
     },
     {
-      "titulo": "Fluminense busca empate com o Botafogo, mas pode ver Bahia encostar no G4 - UOL",
+      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
+      "data": "08/08 20:32"
+    },
+    {
+      "titulo": "Fluminense busca empate com o Botafogo, mas pode ver Bahia encostar no G4 - uol.com.br",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHozSk1Tcm16Y1VWWU5hVVVJVmo2bTM4TWN3WUUtcjVieU5BVDZ3VzZHMVIxSkg0TnJSZXlEcHZNN0xSUVJYbUphQmVLTC1vVWhZVGlQWWluaFBGVVgtd3lWb1ItRWNqTTJiODN4RjI5MHlwY29TTnR4elR3NTAwS0tOUk9NanVvakticlFMSHBjZnFHd2c4S1ZHVkliM0lzbG1jMHQ4VGdoTmhKbnQ1N0hwVGs5YW5r?oc=5",
       "data": "09/08 02:00"
     }
