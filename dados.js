@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/08/2026 13:28",
+  "atualizado_em": "09/08/2026 14:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -625,16 +625,6 @@ window.PAINEL_DATA = {
       "match": "Union Santa Fe x Central Cordoba",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-09",
-      "time": "13:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Hamburgo, Alemanha",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
