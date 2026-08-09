@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/08/2026 17:26",
+  "atualizado_em": "09/08/2026 18:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -27,17 +27,6 @@
       "date": "2026-08-09",
       "time": "15:00",
       "competition": "Brasileirão Feminino",
-      "match": "Vitoria BA W x Internacional (F)",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "15:00",
-      "competition": "Brasileirão Feminino",
       "match": "Juventude (F) x Mixto W",
       "channels": [
         "YOUTUBE"
@@ -46,22 +35,12 @@
     {
       "sport": "futebol",
       "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Amazonas",
+      "time": "15:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Vitoria BA W x Internacional (F)",
       "channels": [
-        "SPORTYNET",
+        "YOUTUBE",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Floresta",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -73,52 +52,6 @@
       "channels": [
         "SPORTV",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Juventude",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Náutico x Atlético GO",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Internacional",
-      "channels": [
-        "GLOBO",
-        "PREMIERE FC",
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Vasco",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 3"
       ]
     },
     {
@@ -175,6 +108,18 @@
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Fortaleza",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "18:00",
       "competition": "Brasileirão Feminino",
       "match": "São Paulo (F) x RB Bragantino (F)",
       "channels": [
@@ -185,13 +130,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-09",
-      "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Fortaleza",
+      "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Maranhão x Brusque",
       "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
+        "SPORTYNET"
       ]
     },
     {
@@ -224,16 +167,6 @@
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Maranhão x Brusque",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -445,6 +378,16 @@
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Rodina Moskva",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "11:00",
       "competition": "Brasileirão Série A",
       "match": "Cruzeiro x Mirassol",
       "channels": [
@@ -476,16 +419,6 @@
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "11:00",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x Rodina Moskva",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "11:00",
       "competition": "Campeonato Uruguaio",
       "match": "Danubio x Cerro",
       "channels": [
@@ -507,16 +440,6 @@
       "sport": "futebol",
       "date": "2026-08-09",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Wanderers",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-09",
-      "time": "15:00",
       "competition": "Campeonato Argentino",
       "match": "San Lorenzo x Huracan",
       "channels": [
@@ -531,6 +454,83 @@
       "match": "Deportivo Garcilaso x UCV Moquegua",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Floresta",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Vasco",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Internacional",
+      "channels": [
+        "GLOBO",
+        "PREMIERE FC",
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Náutico x Atlético GO",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x Juventude",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-09",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Amazonas",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -680,14 +680,14 @@
       "data": "08/08 17:23"
     },
     {
-      "titulo": "Fluminense faz 3 a 1 na estreia do técnico Fred e abre Carioca Sub-20 com vitória - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUJTN0Z5QWdFQXpObVhMTUVwVkVWR0J4dnU5dkZxNXFEQjgwQmxzaXJ0SXk3SEFKaDI5SzJ5TWpWd01HQjRyYzFQVF92cWd3RTlmQ0NTNWlVckticnh5SHhUdVhONVBWZDR3ZnJ2Ym9ITzF1d2Q2NmhtSVJoWlNOZ3RNb0d0eGJ2S3p0UDEzWWNkTVY3MUFUb1ZMQ0hvaGFCUlpzeE55RGdZZEZDOUhFeFVrLTNLVGhWcmZv?oc=5",
-      "data": "08/08 15:00"
-    },
-    {
       "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
       "data": "08/08 20:32"
+    },
+    {
+      "titulo": "Fluminense faz 3 a 1 na estreia do técnico Fred e abre Carioca Sub-20 com vitória - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUJTN0Z5QWdFQXpObVhMTUVwVkVWR0J4dnU5dkZxNXFEQjgwQmxzaXJ0SXk3SEFKaDI5SzJ5TWpWd01HQjRyYzFQVF92cWd3RTlmQ0NTNWlVckticnh5SHhUdVhONVBWZDR3ZnJ2Ym9ITzF1d2Q2NmhtSVJoWlNOZ3RNb0d0eGJ2S3p0UDEzWWNkTVY3MUFUb1ZMQ0hvaGFCUlpzeE55RGdZZEZDOUhFeFVrLTNLVGhWcmZv?oc=5",
+      "data": "08/08 15:00"
     },
     {
       "titulo": "Volante assina com o Fluminense até o fim de 2029 - Terra",
