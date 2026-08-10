@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "10/08/2026 15:50",
+  "atualizado_em": "10/08/2026 16:52",
   "jogos": [
     {
       "sport": "futebol",
@@ -317,47 +317,37 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.6,
-      "temp_min": 19.5,
+      "temp_min": 19.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.8,
-      "temp_min": 20.4,
+      "temp_min": 20.6,
       "chance_chuva": 92,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.1,
-      "temp_min": 16.4,
+      "temp_max": 26.5,
+      "temp_min": 16.9,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 17.2,
-      "temp_min": 13.8,
+      "temp_min": 13.9,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Thiago Silva treina e pode reforçar o Fluminense na Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2lvdE8ydW95Y1Nfc011a2N4MHVvTVlEWEpXMGFOTVJwcDRWakVVU0hIZGt1d3hiTnVyZXByWmo4VktMWDdpTThGbUI5QklMZ3VJV0I0Zlh5amFQczVscF9UbklDOHBRWDRmOWRiU25GdVFrUWlRdlJDazFwRHlpV3c5S09SUEtBa1pDOW9YUWU2SlhxdzlJUkEwRDhKVTlSWjhZNUZ0RV9lODBJQWlGcWhkS3pWZnA0SFN6UGNIY000V25PSmtUMldYSWpoMnZv0gHfAUFVX3lxTE9VTnJMc2V3aTFEcldnamZVVnVud0VRRlM1M2ZpTDFFMGQzSUcwMWlrVDc3V3hvdV9rUkFKSE9COFJndXdzejBpWThSVHRqdzRIa1VCaHVTVHRlVnJRNEdaVWVkajF3TXljc1dQcDVTSDBKNlF6aFR3UDRhaG9zZDZfeENXVDFCMlYyd0ZCZlNjM0l4N2J1ZDdhUEF6OF9VcHJ3TXZYNHZOSG9ab1ZGSFFzcHN0YVFEX1J6UVF3RGU1MG5hYThlOHFLd3Ztc2lhMGpyS3F2aV9TLTUyVzhjR3M?oc=5",
-      "data": "09/08 19:02"
-    },
-    {
-      "titulo": "Libertadores: Informações de ingressos para Independiente Rivadavia x Fluminense pelas oitavas de final - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2QwLTVDM2psVnRmdnZxbUNjdjRyYTlFT3U3dVpGbDNfSFhIMlU0V3YzV29PX0l2ZzFhZnlreEdPRTZrcjhqMFZSRkVMU1VUbC1xYnp2TkxlMFZfZ1gySHdydUZFMVlVdC1DbXlsYVBxV19LMjBCbGthZnE1MWE5aHo3X2JMcXZXMGpEeHlLR0pST2NLeGQxallRc29MWWFnUUV5OFNRZEEtNGE2WFFfdHpuOG55U1h4YVd4ZWN6bHNIZnRGMjNRTXBreXNidUQ5Yzl4SFp3UQ?oc=5",
-      "data": "10/08 01:04"
-    },
-    {
-      "titulo": "Fluminense divulga informações de ingressos para duelo com Rivadavia na Argentina; confira - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeGNoWlk3WlZPZDFlUDgyVUtrQm55Q3hKdkdhNm1FaUZwYzZZMktCOFZGZ21kU2ZtVXFxNjRKUmU3Z2FmUlhZT0o1cGVoaThRdHhOZjlBMS1VckZrZEc0WnhZN1l1WndaU3NUdzYxVFBmeUhpdG5Zc1VscUtnNjN1djRIZ3dYS2UxTjloZnAwX1Y1S0NJNVpKcWxhS19QM2F1aHZrVkM1LUt0VnBwQTFTYldRQi1VNWs?oc=5",
-      "data": "10/08 15:30"
+      "titulo": "Em nova crise, Fluminense chega a momento da temporada que foi ponto de virada em 2023 - GE",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0RsSU9QbWFLRk9ESmFsd0pkeWxjV3NsZTc2UFJEMzU1N3E0SVJsMENlUkZrUXh0X05qZHFMSmJyZTJQN2g1TFNpVUMzLXRheXF4UGJNTm03c3hQck0xM0FlY0ljeXlNUXhQZXhzNHJHUEpNa0lDTzBFa0dGSGtxTnkycUFrWTk2OWtYbW5NbjNLWHFXQ3FzR2xYR2pMSkwzWm1EZ3lrNDFZblBPWUI4ak9sX0UzODF4RzI5Wm9wb0tQdXhoSFpiblRnRnRRbDU4RWVIS1pxaEtlaWVka01wc1dHSUdpUVhfaVZFatIB-wFBVV95cUxQakxxZjZoZk82RmZGMGlfMXJwUXBsN2U2M1JoOC1uRDByc1RhbTRseFNMTnpsc0RzdkNjcDdKYUlWOWs0T0xraUlMV2NFVFU3c0E3NXV2WC1kbHl0a2llNkl3SmJ3YzJGaVh5akRaTno3cnd0NkxEd09ST0JEOUVLaUw5UDhNWm1UZHVMV2hDakhrMWhYRkV3aUJvVk1Pd1dYLTMwTUtqbjVMRzU0WjZsbEVTV1VWT0FCeE5aYkdLWmNCbkJ5SUtPZHJVQjFIaE9iQ250OFlPM09hMmZlN2dtaE85TjI2WU9RY0J6UjhHMnhweXY3aWdlQkFzZw?oc=5",
+      "data": "10/08 13:08"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
@@ -365,9 +355,19 @@
       "data": "10/08 01:29"
     },
     {
-      "titulo": "Ninguém tem mais que o Fluminense: Tricolor lidera ranking histórico do Brasileirão - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzVRQUJmUXJoYWZJdS1OMTBwMFlUMkFfcmdQOFAyaTZCWHlFN1B1TnJzNnNjeGRHbnhRSjRvNzZDajkwajBSdEFSN2hBcGxwR2RXQVhSakU3NUlEZzlqMjVtSlE5MUxLYXUtekM1aDlhaHFvYXN5dXZQMFBWc2xIWkdsYjNmN1NZREJkMWVpM3hOZHZaaUlsX3pIZzVxWlVnUEs2NlpodmUxTk5wV1E?oc=5",
-      "data": "10/08 14:30"
+      "titulo": "Libertadores: Informações de ingressos para Independiente Rivadavia x Fluminense pelas oitavas de final - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2QwLTVDM2psVnRmdnZxbUNjdjRyYTlFT3U3dVpGbDNfSFhIMlU0V3YzV29PX0l2ZzFhZnlreEdPRTZrcjhqMFZSRkVMU1VUbC1xYnp2TkxlMFZfZ1gySHdydUZFMVlVdC1DbXlsYVBxV19LMjBCbGthZnE1MWE5aHo3X2JMcXZXMGpEeHlLR0pST2NLeGQxallRc29MWWFnUUV5OFNRZEEtNGE2WFFfdHpuOG55U1h4YVd4ZWN6bHNIZnRGMjNRTXBreXNidUQ5Yzl4SFp3UQ?oc=5",
+      "data": "10/08 01:04"
+    },
+    {
+      "titulo": "Fluminense x Independiente Rivadavia ao vivo: onde assistir, horário e informações da Libertadores - JC",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV3JCZGMtbW83a05UQVVocUExNGZOU2toZE4tdDczRWVSMlg0a0xxUmdleDFNX1Y0eUxMSWtnajAzWDBpN092eDNGY2FPaHFGbi12R01ZaG5OVDJpRDd0bmFSVVJRd3k0Y0RHM2pCVllfMGlub1owbXJjbXEzdHA1c1d0Y1ZwUVdZRUJMMm03ZVF1MllzYzRsWFpIR05Eb1JLWC13b0I0bHBkX2pxaGpWcF9fcXFSdUxQRi1kemdqRWtJNmY4S2ZXSTNYcVFpNjdPbDh2cGVVZmdNRDZwNlhCdFZISndNQ2xnSXNHRG43NzJnTUtyV09HTg?oc=5",
+      "data": "10/08 13:46"
+    },
+    {
+      "titulo": "Fluminense está entre os clubes brasileiros que mais jogaram oitavas da Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzJoNG02TTdxdXdBbEpuUmlYY1hCYXcxY0tjMzBxYThMY0lZVVdwR1JRWE4ybGQyUWFGV2dsdFJuZWQ4YnZ4eHZOSExvbTJ3VTZiZlZ0SURGWENMN0pObmkzWWE3VjdRREptczdMR2RfTHBkSUZPYm0zUUNUaWtiN2Etel9Ec0V3dWJHX1BBTy1Ybl9LeGxiSDdDR28tdGcydTdRVWM3Q1dPNXZKX2YyNA?oc=5",
+      "data": "10/08 18:58"
     }
   ],
   "avisos": []
