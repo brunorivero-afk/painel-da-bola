@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/08/2026 18:36",
+  "atualizado_em": "10/08/2026 19:32",
   "jogos": [
     {
       "sport": "futebol",
@@ -360,14 +360,14 @@ window.PAINEL_DATA = {
       "data": "10/08 21:32"
     },
     {
+      "titulo": "Fluminense acerta saída de Rodrigo Gomes, zagueiro do sub-20, para o Rio Ave, de Portugal - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY3dweG9kSWtQX3V2aVJHSTlKS1RrcHVOdWNNSzV6LTFJTTQ5RE12V1V4dFBGUnFyMkxVUjhfVWFvMG5RZzcxdzB5eDc2SDhKMm8za0E0cjh5LW02YWRZcTFBc29XTlhvTnd2aW9XSGhBQjQ3eWtpelJpTHhfenJWLTV4QXpuZV80Q3puSHJITW1mdHdKdzliZUEtMlBEZ0FaeTR5ODI4QWkwS1FMVGV1OVVmckl5a215Q3FVVXZmaGRra3dmM29TRVNacHotZkNxV3lFQmQ0V3dRU3dnaG5reFRPb0h0MEZ0RkZaOTJn0gH8AUFVX3lxTE1NaVE2S3R2bENTM1NzWW5keDNob2ZZOV91bVFoTHJSS21jbEZtRTlkUFhnRFA0aGJSX1dYbVZJWlI5ekdBNjUzcTBZSGgwWDRXMzdSQUY3a0tfeWhqVTlwLW5XcVhZN1ZtT1VpMjJuMkNvVG5kTUlZZlItSkdiNGJsa3VtU1JKRnNDVGNfa205Rm9zdHJzM01RcWxvX1hEeGI0NjBoT3lGdVhrLWJ0X21HemFjQVVfNy0yMnNrVWh1NWJlSVZzRG9qQ08tNl9MNzlsemFfZzRKbXQya0I0UVF2WHlpWl9VMnVZdHNPLU8zSElsMEp1ZEFCUDFWbA?oc=5",
+      "data": "10/08 19:23"
+    },
+    {
       "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
       "data": "10/08 08:26"
-    },
-    {
-      "titulo": "Ganso completa 13 jogos pelo Fluminense e não pode mais defender outro time na Série A - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQjNkdl9KQ1ozbFRFNmRTbmZwMXpuUy05TDJaV3otTk9zUXUzTFpNd1Z6MmUxN19oZUprUGlmZHkyS0k4QUNxVGRMTkZWODh4OGVfNXFZRVhYMVJoaW85b2d2RE5aa0hHV2hyM2RHVVY3ckJGOW0tNnRGTHhNWHllSk5DZVEyblhvdUFuNlhlMGFNdUloRHBvUmRkR3hQYUhGWFJXYjM5eVk4NDNfelNOWi03bGNCZmpld2NoSk0tSUpLYTlDTUd5LWJNLTFsZ1NuUEtsM3RORkFJbWFrdDNNYVVmYUVid2hYU09mcTB30gH8AUFVX3lxTE1ndlNsclRla0FxUmd5bi1jNFMzNVE2TFgwQXlCWVcyZzlRekppT1RyOXlJZWgxTHQwV1Zod2ZuWGJwekNyR0tiZ3hzd0V6c3hRTGpIN2Jpd09BT24zUk9DcDFyVjAzM2x0d1gxSUYyUW1kQy1aQTQ2TldTM0dyOFFhVmhHeXFWSlI3UWNGdlFXbFJvdVdsdUVWZEd2bW1faTF2VzBFV2ZHS1dWaE5QSklsWkdOcThxNzBfWjBURUdrQkM0X0trc0ZtNzJUUmRtREh2VFA3akw3YmxNZlA5cmdRNjRIMjAwMEdqN0VWc05TWThZbUNROVJhdC1UbA?oc=5",
-      "data": "09/08 00:00"
     }
   ],
   "avisos": []
