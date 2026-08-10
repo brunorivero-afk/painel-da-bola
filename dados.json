@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "10/08/2026 02:21",
+  "atualizado_em": "10/08/2026 04:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -316,46 +316,46 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.2,
-      "temp_min": 19.9,
+      "temp_max": 22.6,
+      "temp_min": 19.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.7,
-      "temp_min": 20.6,
+      "temp_max": 22.8,
+      "temp_min": 20.4,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.6,
-      "temp_min": 16.3,
+      "temp_max": 25.9,
+      "temp_min": 16.6,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.2,
-      "temp_min": 13.5,
+      "temp_max": 17.7,
+      "temp_min": 13.7,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Brasileirão: Botafogo marca golaço, mas Fluminense busca empate em clássico - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzVaMHcxOE5ubkl2cjRoalA4LTgtWDMxdFAweHp4SlZUbXk2aVA1czFVUDFzaGkwc0pRSVhmTmFaR1l2SGdxYjNpWEZnTHgxMmRsX2JkcV9QREkzM0h4Tm9JWkxDbHRXc29EN1NaQWQ5alExLThoam5lZjRvYXY2UmE5VTRGNWpwMThGREJfaVo2WWRFTG5IWnJ5QklWTzBpNzlHbERwb0xWNExsYWhQa245SUxJZjRVQU5nZVlIcWdmQQ?oc=5",
+      "data": "08/08 22:59"
+    },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVdiRHN6eDhyTWZQRTdrRzdjVG8yT01nU01ITHlyaXNXb0dLTzZ0SXQtcDM3Y09xNUk0SUVlbjRJRWRjZGJqOXB3S1FiZzlzdXhiWVFhZjRTbFZpUWNxTllEY05Td3JyWXp6ck1LaXVtRDRsVE1GUk56eVNKalQxSmNKSjlxY29ZQjZFa1BHb080Q1lhVXBpdzN3XzJpaEVaTEdjUlJ0YzcwWm8?oc=5",
       "data": "10/08 01:29"
     },
     {
-      "titulo": "Fluminense x Independiente Rivadavia Palpite – Dicas e notícias (11/08) - Trivela",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdU0zeU9aNXAtaWJ4SndCTXljTGJJUXRHbllWcFNyc19sRHZKUnpRdEhhZ25wX0gxMlNMdGZfTk12OWpBVW9ubHdOMnJSbnNMaE5Jb0pMaE9KakFkXzRSaE5ZczBKQzVzbk44Xy1EYVlLNlFPdkpsazUxRHhtNUV3SGh1ZDItbnNWS2V0T0hfUXo4Wnh0N2Z3ZjlWaUloTlNG?oc=5",
-      "data": "10/08 00:55"
-    },
-    {
-      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - ge",
+      "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - GE",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3Y5bnhTTnR6VEFHY1QzQnFnX0tnZlVGTnZJTHFrNnRUTm52Q3R0Q01DUmFDTDNvTXczQkhmRG0tR09wZWZWUHR5Vzc1eHR5Y0wyOWg3aTdmMlVmcE44OHNwZjRGeGM3OXZIc2dPczIxOGxLekpRZ21WeXh3TmNHNk1HZThuRGNrbWdVUXVmNkpDdmJBMHdBeDJxckJtMFoxS3ltWlNNUjlhS3JNMmduUS1qZXF2M2hnYnRYZkN3ZjQwOHVVU19BSHZ4NXR2NDRmZ0HSAeABQVVfeXFMTUhRLVFva0dNNWFwNmUwLWt1Q01QaDZScE9OLU84YW9pZXdZQlhTUGRCd3RCWE1GeEUyWUxDRGFBRnR1Qk5qeGIycTdTcGhzbGVfbE5ma3ZxWmVqVk5YVDFYekgtQVRmenU3V2cwVjZSMDUzNElPcWpnRVdLQ0FObEJqUHQ0Q2p2Zy0xck9aUGtJSzlUSGMtMExUSXNhaUJjeWNyd0hlRDQwUW9QQXdBNmZId1l2MGU5dURuNlFldllUR0JxOVlYTm5MQUV4ejAzRzk5Vi03X0tLS1dPWVJ2bzk?oc=5",
       "data": "08/08 17:23"
     },
