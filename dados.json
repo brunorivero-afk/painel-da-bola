@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "10/08/2026 17:36",
+  "atualizado_em": "10/08/2026 18:36",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "16:00",
-      "competition": "MLS Next Pro",
-      "match": "Chicago FC United x Toronto II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-10",
@@ -93,6 +83,16 @@
       "match": "Union Santa Fe x Central Cordoba",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "16:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x Toronto II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -345,9 +345,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Em nova crise, Fluminense chega a momento da temporada que foi ponto de virada em 2023 - GE",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0RsSU9QbWFLRk9ESmFsd0pkeWxjV3NsZTc2UFJEMzU1N3E0SVJsMENlUkZrUXh0X05qZHFMSmJyZTJQN2g1TFNpVUMzLXRheXF4UGJNTm03c3hQck0xM0FlY0ljeXlNUXhQZXhzNHJHUEpNa0lDTzBFa0dGSGtxTnkycUFrWTk2OWtYbW5NbjNLWHFXQ3FzR2xYR2pMSkwzWm1EZ3lrNDFZblBPWUI4ak9sX0UzODF4RzI5Wm9wb0tQdXhoSFpiblRnRnRRbDU4RWVIS1pxaEtlaWVka01wc1dHSUdpUVhfaVZFatIB-wFBVV95cUxQakxxZjZoZk82RmZGMGlfMXJwUXBsN2U2M1JoOC1uRDByc1RhbTRseFNMTnpsc0RzdkNjcDdKYUlWOWs0T0xraUlMV2NFVFU3c0E3NXV2WC1kbHl0a2llNkl3SmJ3YzJGaVh5akRaTno3cnd0NkxEd09ST0JEOUVLaUw5UDhNWm1UZHVMV2hDakhrMWhYRkV3aUJvVk1Pd1dYLTMwTUtqbjVMRzU0WjZsbEVTV1VWT0FCeE5aYkdLWmNCbkJ5SUtPZHJVQjFIaE9iQ250OFlPM09hMmZlN2dtaE85TjI2WU9RY0J6UjhHMnhweXY3aWdlQkFzZw?oc=5",
-      "data": "10/08 13:08"
+      "titulo": "Libertadores: Informações de ingressos para Independiente Rivadavia x Fluminense pelas oitavas de final - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2QwLTVDM2psVnRmdnZxbUNjdjRyYTlFT3U3dVpGbDNfSFhIMlU0V3YzV29PX0l2ZzFhZnlreEdPRTZrcjhqMFZSRkVMU1VUbC1xYnp2TkxlMFZfZ1gySHdydUZFMVlVdC1DbXlsYVBxV19LMjBCbGthZnE1MWE5aHo3X2JMcXZXMGpEeHlLR0pST2NLeGQxallRc29MWWFnUUV5OFNRZEEtNGE2WFFfdHpuOG55U1h4YVd4ZWN6bHNIZnRGMjNRTXBreXNidUQ5Yzl4SFp3UQ?oc=5",
+      "data": "10/08 01:04"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
@@ -355,19 +355,19 @@
       "data": "10/08 01:29"
     },
     {
-      "titulo": "Libertadores: Informações de ingressos para Independiente Rivadavia x Fluminense pelas oitavas de final - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2QwLTVDM2psVnRmdnZxbUNjdjRyYTlFT3U3dVpGbDNfSFhIMlU0V3YzV29PX0l2ZzFhZnlreEdPRTZrcjhqMFZSRkVMU1VUbC1xYnp2TkxlMFZfZ1gySHdydUZFMVlVdC1DbXlsYVBxV19LMjBCbGthZnE1MWE5aHo3X2JMcXZXMGpEeHlLR0pST2NLeGQxallRc29MWWFnUUV5OFNRZEEtNGE2WFFfdHpuOG55U1h4YVd4ZWN6bHNIZnRGMjNRTXBreXNidUQ5Yzl4SFp3UQ?oc=5",
-      "data": "10/08 01:04"
+      "titulo": "Thiago Silva acelera recuperação e pode voltar ao Fluminense nesta terça - Galáticos Online",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTgyT2F4Tk1PUS12MFAtM1NGa1NWS29yaG5UX1B1RkNNZUNtTW5SUm9EeFVQYkF2T2ZUbkEzMVZGUTQ1dzF0bV9UMnd2SWw3LWtxQUJuNWgzOUloRkhLR2R5NVBHajBha3dHcG1qQV9pVFEydnMwMXQ0anhhSHNJNEFRMTNXZ0k5bUYzekptd2xpazZjeU40enBxd01VX1NlN2hGTDVsSl9fbTRJaUJnTjNpNFByZDFOemR1amoxQmJWUlJPYURuMkpsYw?oc=5",
+      "data": "10/08 21:32"
     },
     {
-      "titulo": "Fluminense x Independiente Rivadavia ao vivo: onde assistir, horário e informações da Libertadores - JC",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV3JCZGMtbW83a05UQVVocUExNGZOU2toZE4tdDczRWVSMlg0a0xxUmdleDFNX1Y0eUxMSWtnajAzWDBpN092eDNGY2FPaHFGbi12R01ZaG5OVDJpRDd0bmFSVVJRd3k0Y0RHM2pCVllfMGlub1owbXJjbXEzdHA1c1d0Y1ZwUVdZRUJMMm03ZVF1MllzYzRsWFpIR05Eb1JLWC13b0I0bHBkX2pxaGpWcF9fcXFSdUxQRi1kemdqRWtJNmY4S2ZXSTNYcVFpNjdPbDh2cGVVZmdNRDZwNlhCdFZISndNQ2xnSXNHRG43NzJnTUtyV09HTg?oc=5",
-      "data": "10/08 13:46"
+      "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
+      "data": "10/08 08:26"
     },
     {
-      "titulo": "Fluminense está entre os clubes brasileiros que mais jogaram oitavas da Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzJoNG02TTdxdXdBbEpuUmlYY1hCYXcxY0tjMzBxYThMY0lZVVdwR1JRWE4ybGQyUWFGV2dsdFJuZWQ4YnZ4eHZOSExvbTJ3VTZiZlZ0SURGWENMN0pObmkzWWE3VjdRREptczdMR2RfTHBkSUZPYm0zUUNUaWtiN2Etel9Ec0V3dWJHX1BBTy1Ybl9LeGxiSDdDR28tdGcydTdRVWM3Q1dPNXZKX2YyNA?oc=5",
-      "data": "10/08 18:58"
+      "titulo": "Ganso completa 13 jogos pelo Fluminense e não pode mais defender outro time na Série A - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQjNkdl9KQ1ozbFRFNmRTbmZwMXpuUy05TDJaV3otTk9zUXUzTFpNd1Z6MmUxN19oZUprUGlmZHkyS0k4QUNxVGRMTkZWODh4OGVfNXFZRVhYMVJoaW85b2d2RE5aa0hHV2hyM2RHVVY3ckJGOW0tNnRGTHhNWHllSk5DZVEyblhvdUFuNlhlMGFNdUloRHBvUmRkR3hQYUhGWFJXYjM5eVk4NDNfelNOWi03bGNCZmpld2NoSk0tSUpLYTlDTUd5LWJNLTFsZ1NuUEtsM3RORkFJbWFrdDNNYVVmYUVid2hYU09mcTB30gH8AUFVX3lxTE1ndlNsclRla0FxUmd5bi1jNFMzNVE2TFgwQXlCWVcyZzlRekppT1RyOXlJZWgxTHQwV1Zod2ZuWGJwekNyR0tiZ3hzd0V6c3hRTGpIN2Jpd09BT24zUk9DcDFyVjAzM2x0d1gxSUYyUW1kQy1aQTQ2TldTM0dyOFFhVmhHeXFWSlI3UWNGdlFXbFJvdVdsdUVWZEd2bW1faTF2VzBFV2ZHS1dWaE5QSklsWkdOcThxNzBfWjBURUdrQkM0X0trc0ZtNzJUUmRtREh2VFA3akw3YmxNZlA5cmdRNjRIMjAwMEdqN0VWc05TWThZbUNROVJhdC1UbA?oc=5",
+      "data": "09/08 00:00"
     }
   ],
   "avisos": []
