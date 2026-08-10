@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/08/2026 04:22",
+  "atualizado_em": "10/08/2026 06:14",
   "jogos": [
     {
       "sport": "futebol",
@@ -345,14 +345,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Brasileirão: Botafogo marca golaço, mas Fluminense busca empate em clássico - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzVaMHcxOE5ubkl2cjRoalA4LTgtWDMxdFAweHp4SlZUbXk2aVA1czFVUDFzaGkwc0pRSVhmTmFaR1l2SGdxYjNpWEZnTHgxMmRsX2JkcV9QREkzM0h4Tm9JWkxDbHRXc29EN1NaQWQ5alExLThoam5lZjRvYXY2UmE5VTRGNWpwMThGREJfaVo2WWRFTG5IWnJ5QklWTzBpNzlHbERwb0xWNExsYWhQa245SUxJZjRVQU5nZVlIcWdmQQ?oc=5",
-      "data": "08/08 22:59"
-    },
-    {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVdiRHN6eDhyTWZQRTdrRzdjVG8yT01nU01ITHlyaXNXb0dLTzZ0SXQtcDM3Y09xNUk0SUVlbjRJRWRjZGJqOXB3S1FiZzlzdXhiWVFhZjRTbFZpUWNxTllEY05Td3JyWXp6ck1LaXVtRDRsVE1GUk56eVNKalQxSmNKSjlxY29ZQjZFa1BHb080Q1lhVXBpdzN3XzJpaEVaTEdjUlJ0YzcwWm8?oc=5",
-      "data": "10/08 01:29"
+      "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
+      "data": "10/08 08:26"
     },
     {
       "titulo": "Fluminense vence em estreia de Fred como treinador do time Sub-20 - GE",
@@ -360,7 +355,7 @@ window.PAINEL_DATA = {
       "data": "08/08 17:23"
     },
     {
-      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - LANCE!",
+      "titulo": "Fred estreia com vitória no comando do Fluminense sub-20 - lance.com.br",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3BiTjd4elEzRlRlVV9GdEJqWUtBbWp2RzJFTkU1WE1tSlA0NzFVaFZqWU1xZmtXdlJoYVRpbFJhcUdXM3pYdTZYLWdZdEVUa2d2R2hWRXFiNXNWT3BSekhMa3FSWnBJMEU4WmpiSTBxUVl5TTB0NVVMdDA5YmVhOTF3UDB5TmE5RXJrQzJaTDFJS21SdmVQM09UTFZPUQ?oc=5",
       "data": "08/08 20:32"
     },
@@ -368,6 +363,11 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense faz 3 a 1 na estreia do técnico Fred e abre Carioca Sub-20 com vitória - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUJTN0Z5QWdFQXpObVhMTUVwVkVWR0J4dnU5dkZxNXFEQjgwQmxzaXJ0SXk3SEFKaDI5SzJ5TWpWd01HQjRyYzFQVF92cWd3RTlmQ0NTNWlVckticnh5SHhUdVhONVBWZDR3ZnJ2Ym9ITzF1d2Q2NmhtSVJoWlNOZ3RNb0d0eGJ2S3p0UDEzWWNkTVY3MUFUb1ZMQ0hvaGFCUlpzeE55RGdZZEZDOUhFeFVrLTNLVGhWcmZv?oc=5",
       "data": "08/08 15:00"
+    },
+    {
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVdiRHN6eDhyTWZQRTdrRzdjVG8yT01nU01ITHlyaXNXb0dLTzZ0SXQtcDM3Y09xNUk0SUVlbjRJRWRjZGJqOXB3S1FiZzlzdXhiWVFhZjRTbFZpUWNxTllEY05Td3JyWXp6ck1LaXVtRDRsVE1GUk56eVNKalQxSmNKSjlxY29ZQjZFa1BHb080Q1lhVXBpdzN3XzJpaEVaTEdjUlJ0YzcwWm8?oc=5",
+      "data": "10/08 01:29"
     }
   ],
   "avisos": []
