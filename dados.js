@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/08/2026 11:20",
+  "atualizado_em": "10/08/2026 12:55",
   "jogos": [
     {
       "sport": "futebol",
@@ -325,7 +325,7 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 22.8,
       "temp_min": 20.4,
-      "chance_chuva": 100,
+      "chance_chuva": 92,
       "condicao": "Garoa"
     },
     {
@@ -345,6 +345,11 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Em nova crise, Fluminense chega a momento da temporada que foi ponto de virada em 2023 - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0RsSU9QbWFLRk9ESmFsd0pkeWxjV3NsZTc2UFJEMzU1N3E0SVJsMENlUkZrUXh0X05qZHFMSmJyZTJQN2g1TFNpVUMzLXRheXF4UGJNTm03c3hQck0xM0FlY0ljeXlNUXhQZXhzNHJHUEpNa0lDTzBFa0dGSGtxTnkycUFrWTk2OWtYbW5NbjNLWHFXQ3FzR2xYR2pMSkwzWm1EZ3lrNDFZblBPWUI4ak9sX0UzODF4RzI5Wm9wb0tQdXhoSFpiblRnRnRRbDU4RWVIS1pxaEtlaWVka01wc1dHSUdpUVhfaVZFatIB-wFBVV95cUxQakxxZjZoZk82RmZGMGlfMXJwUXBsN2U2M1JoOC1uRDByc1RhbTRseFNMTnpsc0RzdkNjcDdKYUlWOWs0T0xraUlMV2NFVFU3c0E3NXV2WC1kbHl0a2llNkl3SmJ3YzJGaVh5akRaTno3cnd0NkxEd09ST0JEOUVLaUw5UDhNWm1UZHVMV2hDakhrMWhYRkV3aUJvVk1Pd1dYLTMwTUtqbjVMRzU0WjZsbEVTV1VWT0FCeE5aYkdLWmNCbkJ5SUtPZHJVQjFIaE9iQ250OFlPM09hMmZlN2dtaE85TjI2WU9RY0J6UjhHMnhweXY3aWdlQkFzZw?oc=5",
+      "data": "10/08 13:08"
+    },
+    {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVdiRHN6eDhyTWZQRTdrRzdjVG8yT01nU01ITHlyaXNXb0dLTzZ0SXQtcDM3Y09xNUk0SUVlbjRJRWRjZGJqOXB3S1FiZzlzdXhiWVFhZjRTbFZpUWNxTllEY05Td3JyWXp6ck1LaXVtRDRsVE1GUk56eVNKalQxSmNKSjlxY29ZQjZFa1BHb080Q1lhVXBpdzN3XzJpaEVaTEdjUlJ0YzcwWm8?oc=5",
       "data": "10/08 01:29"
@@ -360,14 +365,9 @@ window.PAINEL_DATA = {
       "data": "10/08 13:46"
     },
     {
-      "titulo": "Em nova crise, Fluminense chega a momento da temporada que foi ponto de virada em 2023 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0RsSU9QbWFLRk9ESmFsd0pkeWxjV3NsZTc2UFJEMzU1N3E0SVJsMENlUkZrUXh0X05qZHFMSmJyZTJQN2g1TFNpVUMzLXRheXF4UGJNTm03c3hQck0xM0FlY0ljeXlNUXhQZXhzNHJHUEpNa0lDTzBFa0dGSGtxTnkycUFrWTk2OWtYbW5NbjNLWHFXQ3FzR2xYR2pMSkwzWm1EZ3lrNDFZblBPWUI4ak9sX0UzODF4RzI5Wm9wb0tQdXhoSFpiblRnRnRRbDU4RWVIS1pxaEtlaWVka01wc1dHSUdpUVhfaVZFatIB-wFBVV95cUxQakxxZjZoZk82RmZGMGlfMXJwUXBsN2U2M1JoOC1uRDByc1RhbTRseFNMTnpsc0RzdkNjcDdKYUlWOWs0T0xraUlMV2NFVFU3c0E3NXV2WC1kbHl0a2llNkl3SmJ3YzJGaVh5akRaTno3cnd0NkxEd09ST0JEOUVLaUw5UDhNWm1UZHVMV2hDakhrMWhYRkV3aUJvVk1Pd1dYLTMwTUtqbjVMRzU0WjZsbEVTV1VWT0FCeE5aYkdLWmNCbkJ5SUtPZHJVQjFIaE9iQ250OFlPM09hMmZlN2dtaE85TjI2WU9RY0J6UjhHMnhweXY3aWdlQkFzZw?oc=5",
-      "data": "10/08 13:08"
-    },
-    {
-      "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
-      "data": "10/08 08:26"
+      "titulo": "Fluminense divulga informações de ingressos para duelo com Rivadavia na Argentina; confira - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeGNoWlk3WlZPZDFlUDgyVUtrQm55Q3hKdkdhNm1FaUZwYzZZMktCOFZGZ21kU2ZtVXFxNjRKUmU3Z2FmUlhZT0o1cGVoaThRdHhOZjlBMS1VckZrZEc0WnhZN1l1WndaU3NUdzYxVFBmeUhpdG5Zc1VscUtnNjN1djRIZ3dYS2UxTjloZnAwX1Y1S0NJNVpKcWxhS19QM2F1aHZrVkM1LUt0VnBwQTFTYldRQi1VNWs?oc=5",
+      "data": "10/08 15:30"
     }
   ],
   "avisos": []
