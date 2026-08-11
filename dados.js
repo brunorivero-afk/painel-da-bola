@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/08/2026 16:59",
+  "atualizado_em": "11/08/2026 17:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Lyon x Sparta Praha",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-11",
@@ -108,10 +98,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Bolívar x São Paulo",
+      "competition": "Copa Libertadores",
+      "match": "Estudiantes x U. Catolica",
       "channels": [
-        "SBT",
+        "ESPN",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -129,11 +120,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Estudiantes x U. Catolica",
+      "competition": "Copa Sul-Americana",
+      "match": "Bolívar x São Paulo",
       "channels": [
-        "ESPN",
-        "ESPN 4",
+        "SBT",
         "DISNEY+"
       ]
     },
@@ -151,10 +141,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "23:00",
-      "competition": "Leagues Cup",
-      "match": "Tigres UANL x Whitecaps",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Real Esteli x Alianza",
       "channels": [
-        "APPLE TV"
+        "DISNEY+"
       ]
     },
     {
@@ -171,10 +161,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "23:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Real Esteli x Alianza",
+      "competition": "Leagues Cup",
+      "match": "Tigres UANL x Whitecaps",
       "channels": [
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
@@ -216,6 +206,16 @@ window.PAINEL_DATA = {
       "match": "Palmeiras Sub-20 x Ituano Sub-20",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Lyon x Sparta Praha",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -467,14 +467,14 @@ window.PAINEL_DATA = {
       "data": "10/08 01:29"
     },
     {
-      "titulo": "E o Nino? Após 'novelas' com Fluminense e Palmeiras, zagueiro pode ter 'destino' surpreendente - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTW84czUxTHlhN040bFdnWGVHYUJTMmtvMC1CMjY1amJhSnFFb0VvdE9ZTTVqT0VqQV92cnhkLVJFRE91bjJhbXZWcDJjbVZMQVFYUUgwVEdIdEV2YjdjR3RGam5penBjSXZseFRqYUtEZnNkMU9VckcyZ18xQnR6RkNGRDdvaFFQUlpMUHFEUW03WnpWUlZBSm1wa01wQ29WaC1QTnZRcTQtQUJMNEdKR2dkVHhyNE1FZVJnQmZsYW90R3ZXREw5OEIwN1E4OEx3SFZoemxIWUktdw?oc=5",
-      "data": "11/08 15:54"
-    },
-    {
       "titulo": "Fabinho no Fluminense? Saiba o que pensa ex-Al Ittihad - Terra",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDBNaWgwRW1MYUtQbTN4Y20zMUFHRWdwNmpRYlI1VjZzdUFhS0ZwLUZSNlhwdjlUa2VxNkpsRGVlWXNtNGE5Q2t4ckhhSl9TNU4tMVQ5OVl1eDlzLXQ1ZHVPR2hTSVhMWFZLVHlaby1ZaEtCUV9MbUZhajNoYm5nSDNaN2VmclJhYXd0UW43TUxrV21PM2NZWi1meTIwTm1fZGw5SFp6aW1UOF9hbnk3cGdoaHlKaU1vWFctZ1Q4RUlPd052QV9HSUtWQlhDNGdNQVlxdXNEcjY?oc=5",
       "data": "11/08 19:05"
+    },
+    {
+      "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0ZkY2JMQzJ4SG5KYWRsRExSZDViN3BkT0NWV1NYcmVLdnZ4VksyLW5fWmVULXpVOHNoVC03Wk1WVW9qd25XZU1sM0d6YUJKWWNHVGR1TV9zbU1CNkFjYTZ5OGlRV2dfUGY5WDZGaEUxdXZKTGVIS2RvMXNCNkhXcWNzWTFUZWEwODVvekd0X2RPdUlfUVg5NQ?oc=5",
+      "data": "11/08 20:51"
     },
     {
       "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - O Dia",
@@ -482,7 +482,5 @@ window.PAINEL_DATA = {
       "data": "09/08 11:20"
     }
   ],
-  "avisos": [
-    "Falha ao buscar clima de Teresópolis: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
