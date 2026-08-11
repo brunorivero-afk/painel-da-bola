@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "11/08/2026 05:11",
+  "atualizado_em": "11/08/2026 06:55",
   "jogos": [
     {
       "sport": "futebol",
@@ -457,19 +457,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Libertadores: Informações de ingressos para Independiente Rivadavia x Fluminense pelas oitavas de final - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2QwLTVDM2psVnRmdnZxbUNjdjRyYTlFT3U3dVpGbDNfSFhIMlU0V3YzV29PX0l2ZzFhZnlreEdPRTZrcjhqMFZSRkVMU1VUbC1xYnp2TkxlMFZfZ1gySHdydUZFMVlVdC1DbXlsYVBxV19LMjBCbGthZnE1MWE5aHo3X2JMcXZXMGpEeHlLR0pST2NLeGQxallRc29MWWFnUUV5OFNRZEEtNGE2WFFfdHpuOG55U1h4YVd4ZWN6bHNIZnRGMjNRTXBreXNidUQ5Yzl4SFp3UQ?oc=5",
-      "data": "10/08 01:04"
-    },
-    {
-      "titulo": "Fluminense x Independiente Rivadavia: onde assistir, horário e escalações - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOejFRS1VMYkdLLUNWTHJFSGhYSWNZRGxUWFRNLWppTXVGUkgzSFhFbWNlMFo0MVFUY3ZZaWdtM3NiUmpGOTZqUnFGcHRSbjh1b0pZcTF4Y2NTclV6aV95VEZUNEdQbHFPQmdDakZzWUNDN3ZndDJMZ19oc3lCZng2cnhiSGxnRDFzbVFnVEZJWkRNS0VNOVpGYWhhRm52MUtsaUF1dXhvZGpUNkJFQWlmMEZqNWZCZw?oc=5",
-      "data": "10/08 23:05"
-    },
-    {
-      "titulo": "Fluminense x Independiente Rivadavia ao vivo: onde assistir, horário e informações da Libertadores - JC",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV3JCZGMtbW83a05UQVVocUExNGZOU2toZE4tdDczRWVSMlg0a0xxUmdleDFNX1Y0eUxMSWtnajAzWDBpN092eDNGY2FPaHFGbi12R01ZaG5OVDJpRDd0bmFSVVJRd3k0Y0RHM2pCVllfMGlub1owbXJjbXEzdHA1c1d0Y1ZwUVdZRUJMMm03ZVF1MllzYzRsWFpIR05Eb1JLWC13b0I0bHBkX2pxaGpWcF9fcXFSdUxQRi1kemdqRWtJNmY4S2ZXSTNYcVFpNjdPbDh2cGVVZmdNRDZwNlhCdFZISndNQ2xnSXNHRG43NzJnTUtyV09HTg?oc=5",
-      "data": "10/08 13:46"
+      "titulo": "Fluminense x Independiente Rivadavia: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVkYzTDZYc3hDSnBJYV9feVRMMVBpZlVWUHBDVkQ4M094cV91djJZRzJvOTZuc3FEWHdMQVRJSGdkMTAzZ1Y5b25WQWttMFdmRl82UXhZN3p2ZjVXdEJxM2NvUzc4bFc5bDZFRzVBN1hpZm1yOFdobXpacmtCMkIybjZ1Xzk5OExoTVZ5MmF6MXN5UjRNWUVKLVQwaUJLZkctakE4MktJSkNfbjhUandGaEx4NXU3ZUVFaUtTVklhT09Sdi1NbGlCbzN2dXQtWVpTZk05TThxRDZUQm9USC1RVC11MmvSAfMBQVVfeXFMT01MR29lZ29hTW9lTS1FR0dZZFlyZDQzVmU4U2IzaGJ0WVplcTJrVmlkaUQwc2ZNV01GczRzeWo1d2JQMV81ZndKWUdDU01mMU9SbHZnck1MV0Iwc2lVcU5NeXFBN1hBZ191WkZFUTNhREw0YlNBbDNQNGl2ZnVqcVIxRFFRbkNUeVFLS0dvdmpNMkVYQmJZaXdVTEZpanJQbE1ZMXpYRDRsd1VMVlFNV2RWMldLd2l4cDFJS1N2SDFaaFhnQ3djNS1BbFJvU3g0bUhnTnNJcFVIYVBNYjdrVDdyUmh2U2ZocnY0TXFJSXlnclQ0?oc=5",
+      "data": "11/08 06:00"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
@@ -480,6 +470,16 @@
       "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
       "data": "10/08 08:26"
+    },
+    {
+      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
+      "data": "10/08 23:50"
+    },
+    {
+      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
+      "data": "09/08 11:20"
     }
   ],
   "avisos": []
