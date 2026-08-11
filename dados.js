@@ -1,100 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/08/2026 22:18",
+  "atualizado_em": "11/08/2026 00:39",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Marília x Bandeirante SP",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "21:00",
-      "competition": "Brasileirão Feminino",
-      "match": "América MG (F) x Flamengo (F)",
-      "channels": [
-        "TV BRASIL",
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Union Santa Fe x Central Cordoba",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "16:00",
-      "competition": "MLS Next Pro",
-      "match": "Chicago FC United x Toronto II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Botafogo (F) x Fluminense (F)",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Londrina",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "20:00",
-      "competition": "Brasileirão Série C",
-      "match": "Paysandu x Confiança",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "20:00",
-      "competition": "Brasileirão Série C",
-      "match": "Anápolis x Guarani",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-11",
@@ -303,8 +209,204 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "13:15",
+      "competition": "Amistosos",
+      "match": "Newcastle x Everton",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "Leeds x Manchester United",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "15:30",
+      "competition": "Amistosos",
+      "match": "Arsenal x como",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "16:00",
+      "competition": "Amistosos",
+      "match": "Deportivo La Coruna x Real Madrid",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Palmeiras x Cerro Porteno",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Platense x Coquimbo Unido",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "RB Bragantino x Atlético-MG",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:15",
+      "competition": "Copa Argentina",
+      "match": "Atletico Tucuman x Independiente",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "20:30",
+      "competition": "Leagues Cup",
+      "match": "Inter Miami x Leon",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "20:30",
+      "competition": "Leagues Cup",
+      "match": "Orlando City SC x Atletico San Luis",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "Huntsville City x Crown Legacy",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "21:00",
+      "competition": "Leagues Cup",
+      "match": "Monterrey x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Cruzeiro x Flamengo",
+      "channels": [
+        "GLOBO",
+        "GE TV",
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Santa Fe x River Plate",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "22:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Motagua x CS Cartagines",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "23:00",
+      "competition": "Leagues Cup",
+      "match": "Toluca x FC Dallas",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "23:15",
+      "competition": "Leagues Cup",
+      "match": "San Diego x Puebla",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "23:30",
+      "competition": "Leagues Cup",
+      "match": "Seattle Sounders x Guadalajara Chivas",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "23:30",
+      "competition": "Leagues Cup",
+      "match": "Los Angeles FC x Club Queretaro",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "time": "16:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Colômbia",
@@ -316,38 +418,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.6,
-      "temp_min": 19.6,
+      "temp_max": 21.1,
+      "temp_min": 18.9,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.8,
-      "temp_min": 20.4,
-      "chance_chuva": 96,
-      "condicao": "Garoa"
+      "temp_max": 21.5,
+      "temp_min": 18.9,
+      "chance_chuva": 100,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.5,
-      "temp_min": 16.6,
+      "temp_max": 20.4,
+      "temp_min": 15.0,
       "chance_chuva": 100,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.2,
-      "temp_min": 13.6,
+      "temp_max": 14.9,
+      "temp_min": 12.5,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
+      "titulo": "Em nova crise, Fluminense chega a momento da temporada que foi ponto de virada em 2023 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0RsSU9QbWFLRk9ESmFsd0pkeWxjV3NsZTc2UFJEMzU1N3E0SVJsMENlUkZrUXh0X05qZHFMSmJyZTJQN2g1TFNpVUMzLXRheXF4UGJNTm03c3hQck0xM0FlY0ljeXlNUXhQZXhzNHJHUEpNa0lDTzBFa0dGSGtxTnkycUFrWTk2OWtYbW5NbjNLWHFXQ3FzR2xYR2pMSkwzWm1EZ3lrNDFZblBPWUI4ak9sX0UzODF4RzI5Wm9wb0tQdXhoSFpiblRnRnRRbDU4RWVIS1pxaEtlaWVka01wc1dHSUdpUVhfaVZFatIB-wFBVV95cUxQakxxZjZoZk82RmZGMGlfMXJwUXBsN2U2M1JoOC1uRDByc1RhbTRseFNMTnpsc0RzdkNjcDdKYUlWOWs0T0xraUlMV2NFVFU3c0E3NXV2WC1kbHl0a2llNkl3SmJ3YzJGaVh5akRaTno3cnd0NkxEd09ST0JEOUVLaUw5UDhNWm1UZHVMV2hDakhrMWhYRkV3aUJvVk1Pd1dYLTMwTUtqbjVMRzU0WjZsbEVTV1VWT0FCeE5aYkdLWmNCbkJ5SUtPZHJVQjFIaE9iQ250OFlPM09hMmZlN2dtaE85TjI2WU9RY0J6UjhHMnhweXY3aWdlQkFzZw?oc=5",
+      "data": "10/08 13:08"
+    },
+    {
       "titulo": "Libertadores: Informações de ingressos para Independiente Rivadavia x Fluminense pelas oitavas de final - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2QwLTVDM2psVnRmdnZxbUNjdjRyYTlFT3U3dVpGbDNfSFhIMlU0V3YzV29PX0l2ZzFhZnlreEdPRTZrcjhqMFZSRkVMU1VUbC1xYnp2TkxlMFZfZ1gySHdydUZFMVlVdC1DbXlsYVBxV19LMjBCbGthZnE1MWE5aHo3X2JMcXZXMGpEeHlLR0pST2NLeGQxallRc29MWWFnUUV5OFNRZEEtNGE2WFFfdHpuOG55U1h4YVd4ZWN6bHNIZnRGMjNRTXBreXNidUQ5Yzl4SFp3UQ?oc=5",
       "data": "10/08 01:04"
+    },
+    {
+      "titulo": "THIAGO SILVA DE VOLTA? FLUMINENSE DEVE CONTAR COM O ZAGUEIRO PARA PARTIDA DECISIVA - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pORXVEc3ZhN0tadHlqT25QWFZwVTRtd3FKQzZGSlVGWXRHNnV6SHN4TnJySTRub1NISVZZaGxaaGQ0V0M1UHF5OTU2T0NDZ0s1a0VJWTJuM1U0SXNWSlNhMDk3dXREYTBlQm9rNHRyMzFzQnZFdWUzdzAtZ051NDZZNWxjb3NQYWt6LXNxNFNHNnh2d0h4cndEeVRnXzgxUEtwc0dzV1h5OWVvV0dxYVFnYw?oc=5",
+      "data": "11/08 00:52"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
@@ -355,22 +467,10 @@ window.PAINEL_DATA = {
       "data": "10/08 01:29"
     },
     {
-      "titulo": "Thiago Silva acelera recuperação e pode voltar ao Fluminense nesta terça - Galáticos Online",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTgyT2F4Tk1PUS12MFAtM1NGa1NWS29yaG5UX1B1RkNNZUNtTW5SUm9EeFVQYkF2T2ZUbkEzMVZGUTQ1dzF0bV9UMnd2SWw3LWtxQUJuNWgzOUloRkhLR2R5NVBHajBha3dHcG1qQV9pVFEydnMwMXQ0anhhSHNJNEFRMTNXZ0k5bUYzekptd2xpazZjeU40enBxd01VX1NlN2hGTDVsSl9fbTRJaUJnTjNpNFByZDFOemR1amoxQmJWUlJPYURuMkpsYw?oc=5",
-      "data": "10/08 21:32"
-    },
-    {
-      "titulo": "Fluminense acerta saída de Rodrigo Gomes, zagueiro do sub-20, para o Rio Ave, de Portugal - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY3dweG9kSWtQX3V2aVJHSTlKS1RrcHVOdWNNSzV6LTFJTTQ5RE12V1V4dFBGUnFyMkxVUjhfVWFvMG5RZzcxdzB5eDc2SDhKMm8za0E0cjh5LW02YWRZcTFBc29XTlhvTnd2aW9XSGhBQjQ3eWtpelJpTHhfenJWLTV4QXpuZV80Q3puSHJITW1mdHdKdzliZUEtMlBEZ0FaeTR5ODI4QWkwS1FMVGV1OVVmckl5a215Q3FVVXZmaGRra3dmM29TRVNacHotZkNxV3lFQmQ0V3dRU3dnaG5reFRPb0h0MEZ0RkZaOTJn0gH8AUFVX3lxTE1NaVE2S3R2bENTM1NzWW5keDNob2ZZOV91bVFoTHJSS21jbEZtRTlkUFhnRFA0aGJSX1dYbVZJWlI5ekdBNjUzcTBZSGgwWDRXMzdSQUY3a0tfeWhqVTlwLW5XcVhZN1ZtT1VpMjJuMkNvVG5kTUlZZlItSkdiNGJsa3VtU1JKRnNDVGNfa205Rm9zdHJzM01RcWxvX1hEeGI0NjBoT3lGdVhrLWJ0X21HemFjQVVfNy0yMnNrVWh1NWJlSVZzRG9qQ08tNl9MNzlsemFfZzRKbXQya0I0UVF2WHlpWl9VMnVZdHNPLU8zSElsMEp1ZEFCUDFWbA?oc=5",
-      "data": "10/08 19:23"
-    },
-    {
-      "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
-      "data": "10/08 08:26"
+      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
+      "data": "10/08 23:50"
     }
   ],
-  "avisos": [
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
