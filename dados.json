@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "11/08/2026 14:55",
+  "atualizado_em": "11/08/2026 15:57",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "13:00",
-      "competition": "Champions League",
-      "match": "Bodo/Glimt x Union St. Gilloise",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-11",
@@ -128,6 +118,17 @@
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Bolívar x São Paulo",
+      "channels": [
+        "SBT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "21:30",
       "competition": "Copa Libertadores",
       "match": "Estudiantes x U. Catolica",
       "channels": [
@@ -149,20 +150,19 @@
     {
       "sport": "futebol",
       "date": "2026-08-11",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Bolívar x São Paulo",
+      "time": "22:30",
+      "competition": "Leagues Cup",
+      "match": "Real Salt Lake x FC Juarez",
       "channels": [
-        "SBT",
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-11",
-      "time": "22:30",
+      "time": "23:00",
       "competition": "Leagues Cup",
-      "match": "Real Salt Lake x FC Juarez",
+      "match": "Tigres UANL x Whitecaps",
       "channels": [
         "APPLE TV"
       ]
@@ -190,16 +190,6 @@
     {
       "sport": "futebol",
       "date": "2026-08-11",
-      "time": "23:00",
-      "competition": "Leagues Cup",
-      "match": "Tigres UANL x Whitecaps",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
       "time": "11:00",
       "competition": "Paulista Sub-20",
       "match": "Novorizontino Sub-20 x São Paulo U20",
@@ -216,6 +206,16 @@
       "match": "New York City II x Orlando City II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "13:00",
+      "competition": "Champions League",
+      "match": "Bodo/Glimt x Union St. Gilloise",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -445,7 +445,7 @@
       "temp_max": 20.0,
       "temp_min": 15.3,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
@@ -472,9 +472,9 @@
       "data": "11/08 16:05"
     },
     {
-      "titulo": "Ryan assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzRpLUItUUVSSVFWb2h1NTFPVHRJNjRtcWRYakdlM2FnWWo1cUgtVHdCMDJkenpSNU1xQmE4V0RtUGhjMFNOQU44ZlV4NkdWT1JKektaaXg5OXp1TlRqWXJpZ045YTdMTG1RUEhtdElWbFR6WkpNUUFoeFZsZmlWT3Z3MXBqdFNNc25jT3JSLXlfLWVoOC1fcU1fRXVsdw?oc=5",
-      "data": "11/08 16:25"
+      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
+      "data": "09/08 11:20"
     },
     {
       "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
