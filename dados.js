@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/08/2026 02:02",
+  "atualizado_em": "11/08/2026 03:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -88,9 +88,19 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-11",
+      "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Marília x Bandeirante SP",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
       "time": "20:30",
       "competition": "Leagues Cup",
-      "match": "Columbus Crew x U.N.A.M. - Pumas",
+      "match": "Charlotte x Pachuca",
       "channels": [
         "APPLE TV"
       ]
@@ -100,7 +110,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-11",
       "time": "20:30",
       "competition": "Leagues Cup",
-      "match": "Charlotte x Pachuca",
+      "match": "Columbus Crew x U.N.A.M. - Pumas",
       "channels": [
         "APPLE TV"
       ]
@@ -418,48 +428,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.1,
-      "temp_min": 18.9,
+      "temp_max": 20.7,
+      "temp_min": 18.8,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 21.5,
-      "temp_min": 18.9,
+      "temp_min": 18.5,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.4,
-      "temp_min": 15.0,
+      "temp_max": 19.7,
+      "temp_min": 15.2,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 14.9,
-      "temp_min": 12.5,
+      "temp_max": 14.0,
+      "temp_min": 12.4,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Em nova crise, Fluminense chega a momento da temporada que foi ponto de virada em 2023 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0RsSU9QbWFLRk9ESmFsd0pkeWxjV3NsZTc2UFJEMzU1N3E0SVJsMENlUkZrUXh0X05qZHFMSmJyZTJQN2g1TFNpVUMzLXRheXF4UGJNTm03c3hQck0xM0FlY0ljeXlNUXhQZXhzNHJHUEpNa0lDTzBFa0dGSGtxTnkycUFrWTk2OWtYbW5NbjNLWHFXQ3FzR2xYR2pMSkwzWm1EZ3lrNDFZblBPWUI4ak9sX0UzODF4RzI5Wm9wb0tQdXhoSFpiblRnRnRRbDU4RWVIS1pxaEtlaWVka01wc1dHSUdpUVhfaVZFatIB-wFBVV95cUxQakxxZjZoZk82RmZGMGlfMXJwUXBsN2U2M1JoOC1uRDByc1RhbTRseFNMTnpsc0RzdkNjcDdKYUlWOWs0T0xraUlMV2NFVFU3c0E3NXV2WC1kbHl0a2llNkl3SmJ3YzJGaVh5akRaTno3cnd0NkxEd09ST0JEOUVLaUw5UDhNWm1UZHVMV2hDakhrMWhYRkV3aUJvVk1Pd1dYLTMwTUtqbjVMRzU0WjZsbEVTV1VWT0FCeE5aYkdLWmNCbkJ5SUtPZHJVQjFIaE9iQ250OFlPM09hMmZlN2dtaE85TjI2WU9RY0J6UjhHMnhweXY3aWdlQkFzZw?oc=5",
-      "data": "10/08 13:08"
-    },
-    {
       "titulo": "Libertadores: Informações de ingressos para Independiente Rivadavia x Fluminense pelas oitavas de final - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2QwLTVDM2psVnRmdnZxbUNjdjRyYTlFT3U3dVpGbDNfSFhIMlU0V3YzV29PX0l2ZzFhZnlreEdPRTZrcjhqMFZSRkVMU1VUbC1xYnp2TkxlMFZfZ1gySHdydUZFMVlVdC1DbXlsYVBxV19LMjBCbGthZnE1MWE5aHo3X2JMcXZXMGpEeHlLR0pST2NLeGQxallRc29MWWFnUUV5OFNRZEEtNGE2WFFfdHpuOG55U1h4YVd4ZWN6bHNIZnRGMjNRTXBreXNidUQ5Yzl4SFp3UQ?oc=5",
       "data": "10/08 01:04"
     },
     {
-      "titulo": "THIAGO SILVA DE VOLTA? FLUMINENSE DEVE CONTAR COM O ZAGUEIRO PARA PARTIDA DECISIVA - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0pORXVEc3ZhN0tadHlqT25QWFZwVTRtd3FKQzZGSlVGWXRHNnV6SHN4TnJySTRub1NISVZZaGxaaGQ0V0M1UHF5OTU2T0NDZ0s1a0VJWTJuM1U0SXNWSlNhMDk3dXREYTBlQm9rNHRyMzFzQnZFdWUzdzAtZ051NDZZNWxjb3NQYWt6LXNxNFNHNnh2d0h4cndEeVRnXzgxUEtwc0dzV1h5OWVvV0dxYVFnYw?oc=5",
-      "data": "11/08 00:52"
+      "titulo": "Fluminense x Independiente Rivadavia: onde assistir, horário e escalações - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOejFRS1VMYkdLLUNWTHJFSGhYSWNZRGxUWFRNLWppTXVGUkgzSFhFbWNlMFo0MVFUY3ZZaWdtM3NiUmpGOTZqUnFGcHRSbjh1b0pZcTF4Y2NTclV6aV95VEZUNEdQbHFPQmdDakZzWUNDN3ZndDJMZ19oc3lCZng2cnhiSGxnRDFzbVFnVEZJWkRNS0VNOVpGYWhhRm52MUtsaUF1dXhvZGpUNkJFQWlmMEZqNWZCZw?oc=5",
+      "data": "10/08 23:05"
+    },
+    {
+      "titulo": "Fluminense x Independiente Rivadavia ao vivo: onde assistir, horário e informações da Libertadores - JC",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV3JCZGMtbW83a05UQVVocUExNGZOU2toZE4tdDczRWVSMlg0a0xxUmdleDFNX1Y0eUxMSWtnajAzWDBpN092eDNGY2FPaHFGbi12R01ZaG5OVDJpRDd0bmFSVVJRd3k0Y0RHM2pCVllfMGlub1owbXJjbXEzdHA1c1d0Y1ZwUVdZRUJMMm03ZVF1MllzYzRsWFpIR05Eb1JLWC13b0I0bHBkX2pxaGpWcF9fcXFSdUxQRi1kemdqRWtJNmY4S2ZXSTNYcVFpNjdPbDh2cGVVZmdNRDZwNlhCdFZISndNQ2xnSXNHRG43NzJnTUtyV09HTg?oc=5",
+      "data": "10/08 13:46"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
@@ -467,12 +477,10 @@ window.PAINEL_DATA = {
       "data": "10/08 01:29"
     },
     {
-      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
-      "data": "10/08 23:50"
+      "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
+      "data": "10/08 08:26"
     }
   ],
-  "avisos": [
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
