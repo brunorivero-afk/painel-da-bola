@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "11/08/2026 15:57",
+  "atualizado_em": "11/08/2026 16:59",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x Ituano Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-11",
@@ -130,11 +120,9 @@
       "date": "2026-08-11",
       "time": "21:30",
       "competition": "Copa Libertadores",
-      "match": "Estudiantes x U. Catolica",
+      "match": "Deportes Tolima x Independiente del Valle",
       "channels": [
-        "ESPN",
-        "ESPN 4",
-        "DISNEY+"
+        "PARAMOUNT+"
       ]
     },
     {
@@ -142,9 +130,11 @@
       "date": "2026-08-11",
       "time": "21:30",
       "competition": "Copa Libertadores",
-      "match": "Deportes Tolima x Independiente del Valle",
+      "match": "Estudiantes x U. Catolica",
       "channels": [
-        "PARAMOUNT+"
+        "ESPN",
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -216,6 +206,16 @@
       "match": "Bodo/Glimt x Union St. Gilloise",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x Ituano Sub-20",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -428,22 +428,22 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.6,
+      "temp_max": 20.9,
       "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.4,
-      "temp_min": 18.8,
+      "temp_max": 21.8,
+      "temp_min": 19.1,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.0,
-      "temp_min": 15.3,
+      "temp_max": 19.2,
+      "temp_min": 15.0,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
@@ -467,20 +467,22 @@
       "data": "10/08 01:29"
     },
     {
-      "titulo": "Comunicado - Kamilla Sotero - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NblNUU1FSRmE2MldXQ010ZHEwTkMweWFLaGNiWF91R2ZlZEFoemlwY0dyWWNlLVBma2ZXR003OWRTSG03Tkc1dV9HZmRSTXFfSHZ3MkhFT3B6OFhoZ2RfNXNEOGJkam5aREkxNGZPSEg?oc=5",
-      "data": "11/08 16:05"
+      "titulo": "E o Nino? Após 'novelas' com Fluminense e Palmeiras, zagueiro pode ter 'destino' surpreendente - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTW84czUxTHlhN040bFdnWGVHYUJTMmtvMC1CMjY1amJhSnFFb0VvdE9ZTTVqT0VqQV92cnhkLVJFRE91bjJhbXZWcDJjbVZMQVFYUUgwVEdIdEV2YjdjR3RGam5penBjSXZseFRqYUtEZnNkMU9VckcyZ18xQnR6RkNGRDdvaFFQUlpMUHFEUW03WnpWUlZBSm1wa01wQ29WaC1QTnZRcTQtQUJMNEdKR2dkVHhyNE1FZVJnQmZsYW90R3ZXREw5OEIwN1E4OEx3SFZoemxIWUktdw?oc=5",
+      "data": "11/08 15:54"
+    },
+    {
+      "titulo": "Fabinho no Fluminense? Saiba o que pensa ex-Al Ittihad - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDBNaWgwRW1MYUtQbTN4Y20zMUFHRWdwNmpRYlI1VjZzdUFhS0ZwLUZSNlhwdjlUa2VxNkpsRGVlWXNtNGE5Q2t4ckhhSl9TNU4tMVQ5OVl1eDlzLXQ1ZHVPR2hTSVhMWFZLVHlaby1ZaEtCUV9MbUZhajNoYm5nSDNaN2VmclJhYXd0UW43TUxrV21PM2NZWi1meTIwTm1fZGw5SFp6aW1UOF9hbnk3cGdoaHlKaU1vWFctZ1Q4RUlPd052QV9HSUtWQlhDNGdNQVlxdXNEcjY?oc=5",
+      "data": "11/08 19:05"
     },
     {
       "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
       "data": "09/08 11:20"
-    },
-    {
-      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
-      "data": "10/08 23:50"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar clima de Teresópolis: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 }
