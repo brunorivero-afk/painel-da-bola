@@ -1,17 +1,6 @@
 {
-  "atualizado_em": "11/08/2026 12:56",
+  "atualizado_em": "11/08/2026 13:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "11:00",
-      "competition": "Paulista Sub-20",
-      "match": "Novorizontino Sub-20 x São Paulo U20",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-11",
@@ -216,6 +205,17 @@
       "match": "Real Esteli x Alianza",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "11:00",
+      "competition": "Paulista Sub-20",
+      "match": "Novorizontino Sub-20 x São Paulo U20",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -467,19 +467,19 @@
       "data": "10/08 01:29"
     },
     {
-      "titulo": "Fluminense empata em 1 x 1 com o Botafogo e chega a 7 jogos sem vencer no Brasileirão - vavel.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcm1VNmszT0ZPU3dSY3ZSVUhjS2k0OEZnN3pHYzZQdmVGZVFnY1RjWFdkQTFiRy1fTk9hT3pMTGNWc1VQZ1JWalY4SGw5djJFQ01xRm9ISndpcHM2TWtqNGF4ZWFBSFV3V1NHVHRhT01TeE55VnUyejM4c1RBVU12MkQ2SFhlY2xSa2h2R0M0YVB2ei1keFl1emhMdllENV85Wngtdms5b0d3Vk5mUmN3MXlfMXNIeTRtVnFiSTl4bGJHVlg3RkE?oc=5",
-      "data": "10/08 13:59"
+      "titulo": "Ryan assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzRpLUItUUVSSVFWb2h1NTFPVHRJNjRtcWRYakdlM2FnWWo1cUgtVHdCMDJkenpSNU1xQmE4V0RtUGhjMFNOQU44ZlV4NkdWT1JKektaaXg5OXp1TlRqWXJpZ045YTdMTG1RUEhtdElWbFR6WkpNUUFoeFZsZmlWT3Z3MXBqdFNNc25jT3JSLXlfLWVoOC1fcU1fRXVsdw?oc=5",
+      "data": "11/08 16:25"
+    },
+    {
+      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
+      "data": "10/08 23:50"
     },
     {
       "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
       "data": "09/08 11:20"
-    },
-    {
-      "titulo": "Fluminense ganha desfalque para o jogo contra o Palmeiras - Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdGQ5QXJaVGRvMHFGQkhxNm9PY1NhSjZneVBKQzAwUzJ2UTMwOFRtdnBkTnFBVXJYSEhUZmZjQ19EbEVpVFpkVFJBTnpreldwdjNWMENIODhmeFY3WlVCX2o1aGFyYUQ3Mkg2UldPTC1OMjRYWElyQjB4OEpOZnhDWUxBMTJMRXE3REVWeGhOQ2NvY0JnWm5iZ2dCcVBwZWxvWHNCS0Jla0VYVW1iSHgxR0V6LU1mdW9EX1VRblV0RTZncm_SAcgBQVVfeXFMTkRtUDkxUzlHcGVlYzhjQlRaQm5OOWN3MVlXTGtfd25fM3Jqa1V0Vy1hVUJ3RjJTaGhWUUVaam93YkVEeXYxd1FPNnkxcFBxV1BOSHpHY2ZlajFubEE1bkNBbWhpNEZIUUNxVmVFVjdhTDNCaENRcThQcWlyM01BdmxkdzVUNlM3bUFRUFc1aHB5dnBIYWhnRm1idV9mSWh6Z3pBSFFhaEZpQ1hkUTlubGU1T3IxVzg5MnpRRW5JUGRRVmtjS2NXSG0?oc=5",
-      "data": "09/08 02:03"
     }
   ],
   "avisos": []
