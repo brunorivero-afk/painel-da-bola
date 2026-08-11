@@ -1,6 +1,47 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/08/2026 20:29",
+  "atualizado_em": "10/08/2026 22:18",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Marília x Bandeirante SP",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "21:00",
+      "competition": "Brasileirão Feminino",
+      "match": "América MG (F) x Flamengo (F)",
+      "channels": [
+        "TV BRASIL",
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "21:15",
+      "competition": "Campeonato Argentino",
+      "match": "Union Santa Fe x Central Cordoba",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-10",
+      "time": "16:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x Toronto II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-08-10",
@@ -35,16 +76,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-10",
-      "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Marília x Bandeirante SP",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
       "time": "20:00",
       "competition": "Brasileirão Série C",
       "match": "Paysandu x Confiança",
@@ -62,37 +93,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "21:00",
-      "competition": "Brasileirão Feminino",
-      "match": "América MG (F) x Flamengo (F)",
-      "channels": [
-        "TV BRASIL",
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Union Santa Fe x Central Cordoba",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-10",
-      "time": "16:00",
-      "competition": "MLS Next Pro",
-      "match": "Chicago FC United x Toronto II",
-      "channels": [
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -317,28 +317,28 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.6,
-      "temp_min": 19.7,
+      "temp_min": 19.6,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.8,
-      "temp_min": 20.6,
-      "chance_chuva": 92,
-      "condicao": "Garoa fraca"
+      "temp_min": 20.4,
+      "chance_chuva": 96,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 26.5,
-      "temp_min": 16.9,
+      "temp_min": 16.6,
       "chance_chuva": 100,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 17.2,
-      "temp_min": 13.9,
+      "temp_min": 13.6,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     }
@@ -370,5 +370,7 @@ window.PAINEL_DATA = {
       "data": "10/08 08:26"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 };
