@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "11/08/2026 00:39",
+  "atualizado_em": "11/08/2026 02:02",
   "jogos": [
     {
       "sport": "futebol",
@@ -472,5 +472,7 @@
       "data": "10/08 23:50"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 }
