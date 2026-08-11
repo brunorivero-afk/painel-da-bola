@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/08/2026 09:53",
+  "atualizado_em": "11/08/2026 11:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -467,6 +467,11 @@ window.PAINEL_DATA = {
       "data": "10/08 01:29"
     },
     {
+      "titulo": "Andrey mira triunfo no Brasileirão Sub-17 antes de se apresentar à Seleção: 'Jogo-chave pela liderança' - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUFNoTEVrVXhMRlpKNTJfU3RUX3N1bDJLbll2VEFtQlE2TEV6a1ZMOWFINy1PU3N4ZHV1UXZvaEpudnJSd1NDMElJdlZHR1lOTkV2TTdTekk3UzVsWENtV2lJZmJBSzNuSWh3Z1VOaE5MdmZadFRnaFQwcUxOWUJISmd1b18zN0c5NkZtVGFaUGZBbFllRXo2dFI4RlhvQjk3LTRLZ0pGWUdiSjdJS2J2NndGTzk2dDFTOUVSRDd4T2s5cExBZ010UjhMZU1Ub0E5YnlrUA?oc=5",
+      "data": "11/08 13:00"
+    },
+    {
       "titulo": "Fluminense apresenta proposta por joia do Sport; saiba detalhes - Terra",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOWN4bndWTGpTVWY3b3d6M092dmk4a0Q0SlppTDJZUjJRTlg0VTYzeV9LTDl3bk1teVAyWjFmMEdFdTlVXzZpNzlTd2ZDTnBOX2s1NFlGVWlOMXotRUN0SFZZek1Bd0U3UHA0emZjVFJWSXVfR2Y3V0d6enpyOVIzVlN5M084c29OY0F1MWVvZFlhaEtOQ0hXdXd4X2JFajAtQmJ0OE1kaU5nTzZ3cGltbklkcm9FcFZYUFN0cENPYTlyRXJqbnF6aGI3djlfcWEyVmpLSkFZbDdMZ3R0X0tkUHBqMEg?oc=5",
       "data": "10/08 08:26"
@@ -475,11 +480,6 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense empata em 1 x 1 com o Botafogo e chega a 7 jogos sem vencer no Brasileirão - VAVEL.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcm1VNmszT0ZPU3dSY3ZSVUhjS2k0OEZnN3pHYzZQdmVGZVFnY1RjWFdkQTFiRy1fTk9hT3pMTGNWc1VQZ1JWalY4SGw5djJFQ01xRm9ISndpcHM2TWtqNGF4ZWFBSFV3V1NHVHRhT01TeE55VnUyejM4c1RBVU12MkQ2SFhlY2xSa2h2R0M0YVB2ei1keFl1emhMdllENV85Wngtdms5b0d3Vk5mUmN3MXlfMXNIeTRtVnFiSTl4bGJHVlg3RkE?oc=5",
       "data": "10/08 13:59"
-    },
-    {
-      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
-      "data": "09/08 11:20"
     }
   ],
   "avisos": []
