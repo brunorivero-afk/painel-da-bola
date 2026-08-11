@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/08/2026 08:40",
+  "atualizado_em": "11/08/2026 09:53",
   "jogos": [
     {
       "sport": "futebol",
@@ -428,29 +428,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.7,
-      "temp_min": 18.8,
+      "temp_max": 20.6,
+      "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.5,
-      "temp_min": 18.5,
+      "temp_max": 21.4,
+      "temp_min": 18.8,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.7,
-      "temp_min": 15.2,
+      "temp_max": 20.0,
+      "temp_min": 15.3,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 14.0,
-      "temp_min": 12.4,
+      "temp_max": 14.3,
+      "temp_min": 12.6,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
@@ -472,12 +472,12 @@ window.PAINEL_DATA = {
       "data": "10/08 08:26"
     },
     {
-      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
-      "data": "10/08 23:50"
+      "titulo": "Fluminense empata em 1 x 1 com o Botafogo e chega a 7 jogos sem vencer no Brasileirão - VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcm1VNmszT0ZPU3dSY3ZSVUhjS2k0OEZnN3pHYzZQdmVGZVFnY1RjWFdkQTFiRy1fTk9hT3pMTGNWc1VQZ1JWalY4SGw5djJFQ01xRm9ISndpcHM2TWtqNGF4ZWFBSFV3V1NHVHRhT01TeE55VnUyejM4c1RBVU12MkQ2SFhlY2xSa2h2R0M0YVB2ei1keFl1emhMdllENV85Wngtdms5b0d3Vk5mUmN3MXlfMXNIeTRtVnFiSTl4bGJHVlg3RkE?oc=5",
+      "data": "10/08 13:59"
     },
     {
-      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - O Dia",
+      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - odia.ig.com.br",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
       "data": "09/08 11:20"
     }
