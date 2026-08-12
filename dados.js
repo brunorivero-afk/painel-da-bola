@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 14:54",
+  "atualizado_em": "12/08/2026 15:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-12",
-      "time": "13:15",
-      "competition": "Amistosos",
-      "match": "Newcastle x Everton",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-12",
@@ -200,6 +189,17 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-12",
+      "time": "13:15",
+      "competition": "Amistosos",
+      "match": "Newcastle x Everton",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
       "time": "21:30",
       "competition": "Copa Sul-Americana",
       "match": "Santa Fe x River Plate",
@@ -365,28 +365,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.1,
+      "temp_max": 23.6,
       "temp_min": 19.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.7,
+      "temp_max": 22.5,
       "temp_min": 18.7,
       "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.0,
+      "temp_max": 18.3,
       "temp_min": 13.9,
       "chance_chuva": 49,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.9,
+      "temp_max": 19.7,
       "temp_min": 12.7,
       "chance_chuva": 12,
       "condicao": "Garoa fraca"
@@ -394,24 +394,24 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense acumula frustrações com reforços que não rendem em 2026 - ge",
+      "titulo": "Fluminense acumula frustrações com reforços que não rendem em 2026 - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY1dSU0YzcF9zRzZxMER4eXVIRUx6ZkZGSXc5aDRSbG1YWGFxcENyMFp0N3Q5blRrZWpDeXZTV215a1ZlWDQ4dm9FbC0wellBRmpWR3djdXdwV2l0WXJLbWl1UjZBRzU4WGoxWjVlYlNnVTZicUpCbm9pdHZLODZnUnpka1RpS0pCMXY4Ukt6c0E1QzM1WmduQUVwbmlNSmxYT0ctdlJfZHF4d3pzQW5KMl9WbzFCLXFUZjV2bXlTVDktWU5IUExuR0NvSXpxLTJORm5B0gHiAUFVX3lxTFBmZXgxNlZxYWFNSjRqZDFXRkwxNWF0ZS1WOEMxSXhreXJrZXVJTVVwUVo0TWJVRXJTUGJORjdrRzQ2WUxwb1pCWlhSbENlTklYR2hZSTRnZjVqM0NVTDdKV2lBbE1MQk5qYlBqcml6QVRKNXVzSGczUWxsUDd4WVF3LXlaVV8tYTRLWXlXVHRZYTN1RUN6azJHQ1RxT2hxejZjbkJSNDFhM09fSy1KX21yVzhpd0JaVUVQNGhtVzlFemlfU3FuQno5al9uc3JHSkt1WDFpTmlrdDFCSUNKR1N0bXc?oc=5",
       "data": "12/08 13:00"
     },
     {
-      "titulo": "Fluminense vê desgaste no trabalho de Zubeldía, mas demissão antes de 'final' na Libertadores esbarra no perfil da diretoria - O GLOBO",
+      "titulo": "Fluminense vê desgaste no trabalho de Zubeldía, mas demissão antes de 'final' na Libertadores esbarra no perfil da diretoria - oglobo.globo.com",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVWc0SGtnUVdDTjJKUV9wX3BacTIzVDdJVnNUcWlWcnhOM0NQdHFvUkUxVnZRUWVQNlBneU5rZzY4Z2hVUGhySmJFVlJDMUpQQkJSZV9oRTNXdmRVaTlXT3JhNWxhcFBNOENraUw4ZDNGbjFOSHF3TkJ3N3d2bDRTS09PY3lGVXc2Q0g4TDRxeWN6NkhCNXFKaTRmQlRHa3VicHdDYVdaeVFydVNkNWJjdF9ndXFlMTZ4R1pTRmxNQWhxajlackpmOVEwTlQtdFAtc09MQTZXci01R0Y2UmVVRXl5eko5REhvanNVVW9ZWXktU0ZjanhhRDhxVXQwN2Mwd2pyNjBHdk4zVTVGMlF5cV91V3B0WDQtVjF0V1RzcTVNYzZERlHSAbQCQVVfeXFMT1JNd3VnM3paSzJJb3hMOVdEWlJMOW5uRWMycjNBZmQ1aXlkbzBLYmV5TzVscERkNW9aV09GaGUxRS1MdnRWaW9lT3FwcE1vdkVrd3BxbFZLTmYzU3JWbXhQdTM0Ulk0Y1BLbXdoZjBRVy12Zy1TX1JvVjg1bkx3YWdJNTJyR0Z1SXg5Tzg1RHB3eWFDTUFKSG5Lc2MzQnNqN0YwUnpaZWc0RFItRE1VVTdSTE9oQ09mWTRoSFhZaHowZHVUM2R5SXZ4Zzh2NmVqdm4zRUg2cFNnV3NwQ2VIRWxRNWkxVXNrc3o4NE43MGs1aU1SVGVSY0Z2R0w5dHFRNDdzSFI1Qlc2YWtfdTJTaGVySXAzNkpfSTI2bC1FZWFkTTc4TmRZRmVRekNYdFozYzdjajA?oc=5",
       "data": "12/08 04:45"
     },
     {
-      "titulo": "Fluminense monitora Memphis Depay; entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFRWdVdJOWZ5X2hUZ3NmUkQ0aTZ2UEJQUmF5dC0ycS13dFZEdDJNclFVekpTVWY0WHpsUXBJNWtOa0ZjbTZJMDBtckRlSkNFSFViUG5tU0ozemZ5VXRrRzhhSjFRMGRDSk0wVmItYXZmT0l4ckczTnNOcWFPWVlnemZfdExna1J3ZDhOTFpVYXNBSVlOYjR1NzhSMmhyd2Z2NUxaU1U2UU1kMm5IdVlXQzNFN2poQURHNWFMNEhQOUt0Ynk1NnRKbkRaaUk?oc=5",
-      "data": "12/08 14:03"
+      "titulo": "Hulk defende Luis Zubeldía e acredita em classificação do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclFSWlRHRFR5SWFzZjhCOTUyek9lM1Vob2ZxVFdobFkzU0tqSFhoTnlITkNqN0tqRkJEeFNqNVlISFNmVDhBVFVSZzVMaHc4SE1zb3pkeDdIc3ZMRG5mN0wtcUdORjZUR3F2Q1RHaWs5QzNSOFVJeEZxVFFReDJpTzBTOUNPeU9iNW16c3Uzclh0WC0zejJGLWE0WHBIcUMzaHFobDBIUjl1UTlfLXBUMDFLcUE5Qkl6UUNTa3otTFF4QkZDeUFIUDhqZ1pyMGNtZ0RkYnRDQUVuLTVaTXJTMzdLR2k2YUN0dlF3eg?oc=5",
+      "data": "12/08 16:02"
     },
     {
-      "titulo": "Fluminense vê Fábio salvar e só empata com o Rivadavia pela Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUFFQ0c0UjRrMExHSHpDZ3FHLTJrVUFFUWE3Q0w2VzNTek9fYXpUWkEyR2VwTU1aTFF6ZmVyUU5weW42NWtRTVFwaHgxRy1ranZLSzZDZGJ0X0oyQXFNSk9nTHJxaXR3MW04THprZm1oZGxMUmlHdk5HMzJhU3lKR0lQTl9qbDVKN3BMSFRiY3EzMWNOQWRiQnB3M1cyWTFVWmk4YUxicnJQd2NlT1NTRDVsNWhLQ05RdXdYWndFTWFEWmVWM3c?oc=5",
-      "data": "11/08 23:54"
+      "titulo": "Bastidores: Fluminense vê saída para crise com Zubeldía, mas teme risco - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLTJKQXlmT21QaDZWRE9VaTVGTnpjaHVibENHUEVRR2djc082N25nQlBGU0ZiZXRaQVk3V2huZzVVakpBNXNfWENGME5GdFM5QWhmcEhQU053Rmo1cUt5SEVUT0xhTnZ2TnhJZFJ2WG9fdlYtUGVzNlRWalluaWJfaHpyNnNEemhxMl9Ud3d3WGVsQjRva2JjQUYyS1Q4Q3dyTVN0ZEF0M0hXYVVyNmUxWXhEc1VBUmp0NXc?oc=5",
+      "data": "12/08 17:28"
     },
     {
       "titulo": "Na corda bamba, Zubeldía terá dois jogos decisivos por manutenção no Fluminense - Rádio Itatiaia",
