@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 13:53",
+  "atualizado_em": "12/08/2026 14:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -394,29 +394,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Fluminense acumula frustrações com reforços que não rendem em 2026 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY1dSU0YzcF9zRzZxMER4eXVIRUx6ZkZGSXc5aDRSbG1YWGFxcENyMFp0N3Q5blRrZWpDeXZTV215a1ZlWDQ4dm9FbC0wellBRmpWR3djdXdwV2l0WXJLbWl1UjZBRzU4WGoxWjVlYlNnVTZicUpCbm9pdHZLODZnUnpka1RpS0pCMXY4Ukt6c0E1QzM1WmduQUVwbmlNSmxYT0ctdlJfZHF4d3pzQW5KMl9WbzFCLXFUZjV2bXlTVDktWU5IUExuR0NvSXpxLTJORm5B0gHiAUFVX3lxTFBmZXgxNlZxYWFNSjRqZDFXRkwxNWF0ZS1WOEMxSXhreXJrZXVJTVVwUVo0TWJVRXJTUGJORjdrRzQ2WUxwb1pCWlhSbENlTklYR2hZSTRnZjVqM0NVTDdKV2lBbE1MQk5qYlBqcml6QVRKNXVzSGczUWxsUDd4WVF3LXlaVV8tYTRLWXlXVHRZYTN1RUN6azJHQ1RxT2hxejZjbkJSNDFhM09fSy1KX21yVzhpd0JaVUVQNGhtVzlFemlfU3FuQno5al9uc3JHSkt1WDFpTmlrdDFCSUNKR1N0bXc?oc=5",
+      "data": "12/08 13:00"
+    },
+    {
+      "titulo": "Fluminense vê desgaste no trabalho de Zubeldía, mas demissão antes de 'final' na Libertadores esbarra no perfil da diretoria - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVWc0SGtnUVdDTjJKUV9wX3BacTIzVDdJVnNUcWlWcnhOM0NQdHFvUkUxVnZRUWVQNlBneU5rZzY4Z2hVUGhySmJFVlJDMUpQQkJSZV9oRTNXdmRVaTlXT3JhNWxhcFBNOENraUw4ZDNGbjFOSHF3TkJ3N3d2bDRTS09PY3lGVXc2Q0g4TDRxeWN6NkhCNXFKaTRmQlRHa3VicHdDYVdaeVFydVNkNWJjdF9ndXFlMTZ4R1pTRmxNQWhxajlackpmOVEwTlQtdFAtc09MQTZXci01R0Y2UmVVRXl5eko5REhvanNVVW9ZWXktU0ZjanhhRDhxVXQwN2Mwd2pyNjBHdk4zVTVGMlF5cV91V3B0WDQtVjF0V1RzcTVNYzZERlHSAbQCQVVfeXFMT1JNd3VnM3paSzJJb3hMOVdEWlJMOW5uRWMycjNBZmQ1aXlkbzBLYmV5TzVscERkNW9aV09GaGUxRS1MdnRWaW9lT3FwcE1vdkVrd3BxbFZLTmYzU3JWbXhQdTM0Ulk0Y1BLbXdoZjBRVy12Zy1TX1JvVjg1bkx3YWdJNTJyR0Z1SXg5Tzg1RHB3eWFDTUFKSG5Lc2MzQnNqN0YwUnpaZWc0RFItRE1VVTdSTE9oQ09mWTRoSFhZaHowZHVUM2R5SXZ4Zzh2NmVqdm4zRUg2cFNnV3NwQ2VIRWxRNWkxVXNrc3o4NE43MGs1aU1SVGVSY0Z2R0w5dHFRNDdzSFI1Qlc2YWtfdTJTaGVySXAzNkpfSTI2bC1FZWFkTTc4TmRZRmVRekNYdFozYzdjajA?oc=5",
+      "data": "12/08 04:45"
+    },
+    {
+      "titulo": "Fluminense monitora Memphis Depay; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFRWdVdJOWZ5X2hUZ3NmUkQ0aTZ2UEJQUmF5dC0ycS13dFZEdDJNclFVekpTVWY0WHpsUXBJNWtOa0ZjbTZJMDBtckRlSkNFSFViUG5tU0ozemZ5VXRrRzhhSjFRMGRDSk0wVmItYXZmT0l4ckczTnNOcWFPWVlnemZfdExna1J3ZDhOTFpVYXNBSVlOYjR1NzhSMmhyd2Z2NUxaU1U2UU1kMm5IdVlXQzNFN2poQURHNWFMNEhQOUt0Ynk1NnRKbkRaaUk?oc=5",
+      "data": "12/08 14:03"
+    },
+    {
       "titulo": "Fluminense vê Fábio salvar e só empata com o Rivadavia pela Libertadores - UOL",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUFFQ0c0UjRrMExHSHpDZ3FHLTJrVUFFUWE3Q0w2VzNTek9fYXpUWkEyR2VwTU1aTFF6ZmVyUU5weW42NWtRTVFwaHgxRy1ranZLSzZDZGJ0X0oyQXFNSk9nTHJxaXR3MW04THprZm1oZGxMUmlHdk5HMzJhU3lKR0lQTl9qbDVKN3BMSFRiY3EzMWNOQWRiQnB3M1cyWTFVWmk4YUxicnJQd2NlT1NTRDVsNWhLQ05RdXdYWndFTWFEWmVWM3c?oc=5",
       "data": "11/08 23:54"
     },
     {
-      "titulo": "Fluminense monitora Memphis Depay; entenda - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFRWdVdJOWZ5X2hUZ3NmUkQ0aTZ2UEJQUmF5dC0ycS13dFZEdDJNclFVekpTVWY0WHpsUXBJNWtOa0ZjbTZJMDBtckRlSkNFSFViUG5tU0ozemZ5VXRrRzhhSjFRMGRDSk0wVmItYXZmT0l4ckczTnNOcWFPWVlnemZfdExna1J3ZDhOTFpVYXNBSVlOYjR1NzhSMmhyd2Z2NUxaU1U2UU1kMm5IdVlXQzNFN2poQURHNWFMNEhQOUt0Ynk1NnRKbkRaaUk?oc=5",
-      "data": "12/08 14:03"
-    },
-    {
-      "titulo": "Saiba o que ainda mantém Zubeldía no Fluminense e o que pode mudar cenário - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUxoTDdEZEtSNHE2clFIQVFOaHpSOXNfbjE4bG9GMmd5V0RsNFpVc21pN0xXOWZtS0RmMFlqb2FycE5VQmtLNzJjOEcybzZLSk1qdENlbkRtNlNRQVhtVXZ2Y0ZPbjJtbUhDWmZuNkZPWDVIdjB5ODVpV3BiQUJpNF91SnZhd3FlUk1Qb01wUVFFR2dIOXRtS3lVRmdFZWNWWWJj?oc=5",
-      "data": "12/08 13:30"
-    },
-    {
-      "titulo": "Erro de arbitragem em reinício de jogo do Boca é o mesmo de Palmeiras x Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb004bHdHeGF5SWhVR3JuVkxEcFdZT21CUi10MXh6cDJzY1BucGtwaWNzM0xZcVlCM21MZ09QcFNLYnBOZWo2Nmx6b1kzcURtcG1GdmtuRm05dlRFcEtUUjdTRjk1LVZESkY4Z3pBLVJveGdIMWpXbEo5aTNuOFloUHBCOGZLVm1pY010RTkzTy1kdXlpUGIxZWxNWUd5ZnZKT243WXJZQmZlZlRGbEhLMFBaaWd0VWxISmNoQnVyMGVlTWFKYllWZlhqdUN3elE?oc=5",
-      "data": "12/08 11:01"
-    },
-    {
-      "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0ZkY2JMQzJ4SG5KYWRsRExSZDViN3BkT0NWV1NYcmVLdnZ4VksyLW5fWmVULXpVOHNoVC03Wk1WVW9qd25XZU1sM0d6YUJKWWNHVGR1TV9zbU1CNkFjYTZ5OGlRV2dfUGY5WDZGaEUxdXZKTGVIS2RvMXNCNkhXcWNzWTFUZWEwODVvekd0X2RPdUlfUVg5NQ?oc=5",
-      "data": "11/08 20:51"
+      "titulo": "Na corda bamba, Zubeldía terá dois jogos decisivos por manutenção no Fluminense - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPanZ2ZXRvRXI4VEJzRWFaZ3ZtNlNUQXV5NzNzZlBHM2VtYVJLM2thT3hVNkN3RGhxZDgwcGs2cHFPcVMxb1hjM3pJU1VOeEVRWk5pSHBseFBLYXdxdWNHOTFVSnQ3cGpFUjFBQUhnT0ZMazNvdjNyNldrRkw5clN4ck9RTmlCdFJPbm9SUzdYVnJ0LUV1SV9wclNNNGZjQ0NfOW9kYkpfUU1vTUVLQlJHY0pxM1ZOZ0dTYnlidlhPczZIWnZFNmZRRmZnVF83Q1Zodm1KVlRqcExPWEhKckFRWWJkbl9wR0VzMUMwRkJ2QkVrR0tuNzJZTzdLMVU?oc=5",
+      "data": "12/08 16:51"
     }
   ],
   "avisos": [
