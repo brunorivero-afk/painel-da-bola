@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 01:01",
+  "atualizado_em": "12/08/2026 03:10",
   "jogos": [
     {
       "sport": "futebol",
@@ -388,25 +388,27 @@ window.PAINEL_DATA = {
       "data": "11/08 23:54"
     },
     {
+      "titulo": "Resultados dos jogos da Libertadores e Sul-Americana nesta terça-feira (11); veja - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDVYdkI3R3VrVDcxN3pGTVZBSlEzNmNodVZNMnZqYmJXNTAwakZVSFlkckpJQkllVFR1cHQtTmdVZ1RQUGNsaXBfTzhDMWtRTUxLc2lhTEw1ZGFBTl82ZjBSNjJxTGJIM2E1ZFMyQnBkNmFnRGduLXJ3dkxSX2tGODJHSnpMS19yUlRCRXZPaXR0cWM2ZVJjUjlYNVd2dXUtUmpzaGdUSXUxR016UzF6MERiRUduODZQRFh4Q09EQmQ0Sk9mS2hudmFn?oc=5",
+      "data": "12/08 02:57"
+    },
+    {
       "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0ZkY2JMQzJ4SG5KYWRsRExSZDViN3BkT0NWV1NYcmVLdnZ4VksyLW5fWmVULXpVOHNoVC03Wk1WVW9qd25XZU1sM0d6YUJKWWNHVGR1TV9zbU1CNkFjYTZ5OGlRV2dfUGY5WDZGaEUxdXZKTGVIS2RvMXNCNkhXcWNzWTFUZWEwODVvekd0X2RPdUlfUVg5NQ?oc=5",
       "data": "11/08 20:51"
     },
     {
-      "titulo": "Millán avança em recuperação e deve ficar à disposição do Fluminense em breve - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkpycXpTT3RNVjRrSlZ2M1BZTlV1NWlIQ2h2V1hqODZpVGE3NkRUUm5tTjFzcFpUUzh6N0pTcENZN0Q4Um11dVNla1VUT3lyMzNCaTJFSk9oMDRhbU8yMG5qaW9KVEtibjl6TldNckVFWmVZcnRBd29hSVh3cWNwb0NMZEJjbmJjQURKeFNjNVd5c0UwMU1TY2lZclpTN2hUN3hOWHZFbw?oc=5",
-      "data": "11/08 18:00"
+      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
+      "data": "11/08 23:47"
     },
     {
-      "titulo": "“Me cobro bastante”, diz Hulk após vaias em empate do Fluminense - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU1FlcnlrM1hYWlpoZVV4X1RBUzg4eUxOYnpydklGS1BpSEM3QjBMMUVPQndlN2U3ajNlQzM5REFvSU55dzB0YVRHXzlDWTlHaGJwT1l4bFlfc0NRUGQ0SlZhRUpMRjQySlZrLTdjWlBpQWFpbzRTS1c1T2NUc2xhWVBZekgxR1dlMGJjYS1PUmdOX25sdTVrdGtvNXRILU1fcldaRThrMVlRSlU?oc=5",
-      "data": "12/08 01:22"
-    },
-    {
-      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
-      "data": "09/08 11:20"
+      "titulo": "Fluminense x São Paulo Futebol Clube minuto a minuto | resumo dos lances, mudanças táticas e placar atualizado ♦ - esporte.ce.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNVjhqaDV3R3B4X001c1dTYnBOV3MtS2M3LWY0VnVuc1IycWVqNGJZNVBJVHdWODZlUjRCNnBzSEY1UmFTSG9iZ2VNMTFXLVZDdnpsWXBZSkZTNjZOVldmN0hfOGpkdnVsZ1h4dTNXWk85XzJPODFzZkJSMThsZWlqOUs2WVA1S0FsalZ4WUZuUGVCdjFQaGhrMjNuTlMtcmQ0S0h6QTZLZHY5NloxLUl6ZVFjRzVURTFsQnBDcG9HRmZUempzYjhjd1Q5OUpoY3ZEdmxtX2xfQ3o5UFVxcGRicUlaMnFxVHZNMnoxQ3NlbC1vSW11VEViaV9RRFJrZ0FJbHAzbHdFeHQ1RFBxNzVGYzFxRGVSQXpMQ0IxZEpWRTdlNmtNX3NkTncweWFKSEczTksyaFh1QzZrUVVmN1hadlVTZlE4dzA?oc=5",
+      "data": "11/08 08:10"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+  ]
 };
