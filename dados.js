@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 12:54",
+  "atualizado_em": "12/08/2026 13:53",
   "jogos": [
     {
       "sport": "futebol",
@@ -399,7 +399,7 @@ window.PAINEL_DATA = {
       "data": "11/08 23:54"
     },
     {
-      "titulo": "Fluminense monitora Memphis Depay; entenda - Terra",
+      "titulo": "Fluminense monitora Memphis Depay; entenda - terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFRWdVdJOWZ5X2hUZ3NmUkQ0aTZ2UEJQUmF5dC0ycS13dFZEdDJNclFVekpTVWY0WHpsUXBJNWtOa0ZjbTZJMDBtckRlSkNFSFViUG5tU0ozemZ5VXRrRzhhSjFRMGRDSk0wVmItYXZmT0l4ckczTnNOcWFPWVlnemZfdExna1J3ZDhOTFpVYXNBSVlOYjR1NzhSMmhyd2Z2NUxaU1U2UU1kMm5IdVlXQzNFN2poQURHNWFMNEhQOUt0Ynk1NnRKbkRaaUk?oc=5",
       "data": "12/08 14:03"
     },
