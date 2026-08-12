@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "12/08/2026 08:00",
+  "atualizado_em": "12/08/2026 09:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -354,38 +354,48 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.5,
+      "temp_max": 23.1,
       "temp_min": 19.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.9,
+      "temp_max": 22.7,
       "temp_min": 18.7,
-      "chance_chuva": 4,
+      "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.9,
+      "temp_max": 19.0,
       "temp_min": 13.9,
-      "chance_chuva": 31,
+      "chance_chuva": 26,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.0,
+      "temp_max": 19.9,
       "temp_min": 12.7,
-      "chance_chuva": 22,
+      "chance_chuva": 14,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense vê Fábio salvar e só empata com o Rivadavia pela Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUFFQ0c0UjRrMExHSHpDZ3FHLTJrVUFFUWE3Q0w2VzNTek9fYXpUWkEyR2VwTU1aTFF6ZmVyUU5weW42NWtRTVFwaHgxRy1ranZLSzZDZGJ0X0oyQXFNSk9nTHJxaXR3MW04THprZm1oZGxMUmlHdk5HMzJhU3lKR0lQTl9qbDVKN3BMSFRiY3EzMWNOQWRiQnB3M1cyWTFVWmk4YUxicnJQd2NlT1NTRDVsNWhLQ05RdXdYWndFTWFEWmVWM3c?oc=5",
-      "data": "11/08 23:54"
+      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
+      "data": "11/08 23:47"
+    },
+    {
+      "titulo": "Após noite difícil no Flu, Hulk relembra idolatria no Atlético e manda recado - No Ataque",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWjZiekh0Z2NnRXFaUG5ZakVhWnZDSThjZVY2bWxMYVdGMVdCSGFXZ3VFOWw1SGpyTm9CR0hWRGxBRHQ4allFOGl1cVFZa05CellfQXV6YnZ6cFdXOGQtekFwY2hPNTBwU3Zvd3M3OWg1UzR2R3duVHZ2QjZBWWtZSEt1amMxZmo2YU0yWHFOSlBnN3dsYXhxSW9yd2pnaVhUcFdBSGh0SkZhaGJjTVNFdndVdXRoTWVrYkZ2b0dxcElOUUhGV1Zv?oc=5",
+      "data": "12/08 11:02"
+    },
+    {
+      "titulo": "Fluminense vai demitir Zubeldía? Jornalista traz novidades sobre futuro do técnico - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjhtMk9jT2MwM1pkS3k1dmxndlJhei1OaDlacDZkMnk5dFE5NTZveHlNbmJqeUVKeVFGQ1lJOW1oZnRXT3hMc2RaTmcxSE1uWU1QQ2loWEVGTXoyQURXNkQtbmMyNG9JeW1WY0dfVjUybEFSMndoUHNzQWxuMEVPMXNZd2gzUERfUFczSVh5aWFXaDBvTnRWVW45RExZbTJJX01HQWhxNEFpSFl3?oc=5",
+      "data": "12/08 11:30"
     },
     {
       "titulo": "Por onde anda Ruy Cabeção, ex-lateral de Fogão e Fluminense? - LANCE!",
@@ -396,16 +406,6 @@
       "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0ZkY2JMQzJ4SG5KYWRsRExSZDViN3BkT0NWV1NYcmVLdnZ4VksyLW5fWmVULXpVOHNoVC03Wk1WVW9qd25XZU1sM0d6YUJKWWNHVGR1TV9zbU1CNkFjYTZ5OGlRV2dfUGY5WDZGaEUxdXZKTGVIS2RvMXNCNkhXcWNzWTFUZWEwODVvekd0X2RPdUlfUVg5NQ?oc=5",
       "data": "11/08 20:51"
-    },
-    {
-      "titulo": "「Fluminense x maricá Futebol Clube」· confrontos diretos, resultados anteriores e próximos jogos 🏆 - esporte.ce.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORG1lSDlURE9VenlyZWZ2bk9RejBfX0JlODRuSkE4dkdKejNUT2ROTlFMdUhoLUR5YzBTU2VTeXNYV3RYV2NkT0FlTUtQcXdPcUZnQ0VYblZ2Q0lvcm93SUN6Y2psNG1pVEIwaFZreTVWVGVlRnk3WldpVlpubktUUjNBQnhnRTdGS196N2k2S2w4ZlRsVnFTb3k3TFhmWUFDblo1WHRzQ1hZUVpPQ2xzcjY2b2Vtb0E2NVFXOTY2Y1dkR0hkOHlhcmhmOE9LR3VSXzlERmVLaUVHMmVVQnRyUG5YRUktdko0TDBqaUUtY0JWWUh1MmpWaVVWckNsVXBTNmREU1NpSW1tVjdmZE14eXN2ZXN6UEVJU3VwTm14cnBsTDJaYTcyXzc5WkRpOVQ0WVJGYVFXLTVOQQ?oc=5",
-      "data": "11/08 07:38"
-    },
-    {
-      "titulo": "Sob risco de demissão do Fluminense, Zubeldía aposta nos jogadores: 'Última decisão' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTktNHBOMWs5dlg0SjFKdEJMcXZJZkE0RmRWVGpBcUhoRmJKNlB6eVFjYTQyYjZlV3ZYOUFyN1hpNmNmQkVveFYwVmFFbTgtVHNnVmoyVndUTjVjYWhROXljWWgzU19TZmRqX3BlUml0Y2pMOWY0ZE02YlEwU2E4bmVXTl9qTm40WVdacmo1WGNiMXZFVjRQSlU1Ni1XbUhIdlotUkR3Ml96UGp1Yjk0elBaQ2lsUk9PeUI3Q2ZR?oc=5",
-      "data": "12/08 00:29"
     }
   ],
   "avisos": [
