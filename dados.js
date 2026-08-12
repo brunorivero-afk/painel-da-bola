@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 03:10",
+  "atualizado_em": "12/08/2026 05:12",
   "jogos": [
     {
       "sport": "futebol",
@@ -354,28 +354,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.7,
-      "temp_min": 19.4,
+      "temp_max": 23.5,
+      "temp_min": 19.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.1,
-      "temp_min": 18.8,
+      "temp_max": 22.9,
+      "temp_min": 18.7,
       "chance_chuva": 4,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.0,
+      "temp_max": 18.9,
       "temp_min": 13.9,
       "chance_chuva": 31,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.4,
+      "temp_max": 20.0,
       "temp_min": 12.7,
       "chance_chuva": 22,
       "condicao": "Garoa fraca"
@@ -388,9 +388,9 @@ window.PAINEL_DATA = {
       "data": "11/08 23:54"
     },
     {
-      "titulo": "Resultados dos jogos da Libertadores e Sul-Americana nesta terça-feira (11); veja - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDVYdkI3R3VrVDcxN3pGTVZBSlEzNmNodVZNMnZqYmJXNTAwakZVSFlkckpJQkllVFR1cHQtTmdVZ1RQUGNsaXBfTzhDMWtRTUxLc2lhTEw1ZGFBTl82ZjBSNjJxTGJIM2E1ZFMyQnBkNmFnRGduLXJ3dkxSX2tGODJHSnpMS19yUlRCRXZPaXR0cWM2ZVJjUjlYNVd2dXUtUmpzaGdUSXUxR016UzF6MERiRUduODZQRFh4Q09EQmQ0Sk9mS2hudmFn?oc=5",
-      "data": "12/08 02:57"
+      "titulo": "Fabinho no Fluminense? Saiba o que pensa ex-Al Ittihad - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDBNaWgwRW1MYUtQbTN4Y20zMUFHRWdwNmpRYlI1VjZzdUFhS0ZwLUZSNlhwdjlUa2VxNkpsRGVlWXNtNGE5Q2t4ckhhSl9TNU4tMVQ5OVl1eDlzLXQ1ZHVPR2hTSVhMWFZLVHlaby1ZaEtCUV9MbUZhajNoYm5nSDNaN2VmclJhYXd0UW43TUxrV21PM2NZWi1meTIwTm1fZGw5SFp6aW1UOF9hbnk3cGdoaHlKaU1vWFctZ1Q4RUlPd052QV9HSUtWQlhDNGdNQVlxdXNEcjY?oc=5",
+      "data": "11/08 19:05"
     },
     {
       "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
