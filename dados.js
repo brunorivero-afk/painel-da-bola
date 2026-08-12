@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 19:35",
+  "atualizado_em": "12/08/2026 20:35",
   "jogos": [
     {
       "sport": "futebol",
@@ -375,21 +375,21 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 22.5,
       "temp_min": 18.7,
-      "chance_chuva": 2,
+      "chance_chuva": 10,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 18.3,
       "temp_min": 13.9,
-      "chance_chuva": 49,
+      "chance_chuva": 65,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 19.7,
       "temp_min": 12.7,
-      "chance_chuva": 12,
+      "chance_chuva": 76,
       "condicao": "Garoa fraca"
     }
   ],
@@ -400,9 +400,9 @@ window.PAINEL_DATA = {
       "data": "12/08 04:45"
     },
     {
-      "titulo": "Zubeldía será demitido? Jornalista traz bastidores da situação do técnico no Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQm8yN0xIN3RkaTg5WEQ5WHpZakVQeExPemxHX05rRkRpR0J6bVNaQ0Jqa0ZHTXRmeVNXdVVkekNMLTFkQ0Uwdkh1NzhCcW5qNk4wN09LNG9hWlV2WTJIaHhMaXFVd0NnSjZSV1N1UUxXNVA4R205X0pNbWpyR3F1RUQwRU5HcHUzRHdlRjZoY1BuZFZHX0JEZ2xEaDdqQkM4TXBtWjdHZmtPVVpEZzFXQlV3WQ?oc=5",
-      "data": "12/08 18:33"
+      "titulo": "Bastidores: Zubeldía vive situação delicada, mas segue respaldado pelo elenco no Fluminense - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjNKZnYwWTVLbXdfZnhLMnd6VVVSeHpGbmVONHJEaUx5M3J0MTRxQ1dOcW0xZTVQV2VEY0lWVmJMQlVtUFVoVkQzZzZDalJ4bDdyRmdva0poUkNQZnkxWTN2TVNXSGx3YzhITmVIWmFST21UQUtaQmpFdzRQQjlDQ3o2bWhCQWxWa0puX3BCZjZweHcyX3FGOV9Wc2hld0JSTlRTR1o2WHIyemZoS0NsWlJBT1V1OV9DY2huY08yakJibV90QWZnLUU3YUJKMEFGUGp4eF92ZnJnZzF1SnVZNkJSdW4xb3FFRkEyZGtyOTFqQdIBgAJBVV95cUxOTGVVRk5LTUVlV0lQWjJHeFdvWnJkcS1XVWpMQ0Rmb0NTM2x4NGpJajM2ZFhLM1ZMODRGa29GOWhqSU94dTdJU3J3aDJJd29SVnNIVGRPekNnN0d1VW4tdXF2QmptZV80RENoMFRsVGN5d3l6REx6RmxlN0lVT2FVVkQybEN5TDQtM1pFS0FITmotLUl1MjFnS2Uxa1NNU3JRTG9uTmtOa3NmT0NKTTc1bmVwallBREZhU0RpWXZhcXRTczJvSE9rZHh0SkUyeUFwQUdhUVdLVnRfbE50S2FNZ0xmUnVoVk9vaFgtaE80cXo2dkZkckZILTBKUGJQYUQ5?oc=5",
+      "data": "12/08 18:34"
     },
     {
       "titulo": "Luís Zubeldía será demitido? Decisão racha diretoria do Fluminense - Terra",
