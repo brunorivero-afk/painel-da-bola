@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 18:40",
+  "atualizado_em": "12/08/2026 19:35",
   "jogos": [
     {
       "sport": "futebol",
@@ -400,24 +400,24 @@ window.PAINEL_DATA = {
       "data": "12/08 04:45"
     },
     {
-      "titulo": "Fluminense vê Fábio salvar e só empata com o Rivadavia pela Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUFFQ0c0UjRrMExHSHpDZ3FHLTJrVUFFUWE3Q0w2VzNTek9fYXpUWkEyR2VwTU1aTFF6ZmVyUU5weW42NWtRTVFwaHgxRy1ranZLSzZDZGJ0X0oyQXFNSk9nTHJxaXR3MW04THprZm1oZGxMUmlHdk5HMzJhU3lKR0lQTl9qbDVKN3BMSFRiY3EzMWNOQWRiQnB3M1cyWTFVWmk4YUxicnJQd2NlT1NTRDVsNWhLQ05RdXdYWndFTWFEWmVWM3c?oc=5",
-      "data": "11/08 23:54"
-    },
-    {
       "titulo": "Zubeldía será demitido? Jornalista traz bastidores da situação do técnico no Fluminense - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQm8yN0xIN3RkaTg5WEQ5WHpZakVQeExPemxHX05rRkRpR0J6bVNaQ0Jqa0ZHTXRmeVNXdVVkekNMLTFkQ0Uwdkh1NzhCcW5qNk4wN09LNG9hWlV2WTJIaHhMaXFVd0NnSjZSV1N1UUxXNVA4R205X0pNbWpyR3F1RUQwRU5HcHUzRHdlRjZoY1BuZFZHX0JEZ2xEaDdqQkM4TXBtWjdHZmtPVVpEZzFXQlV3WQ?oc=5",
       "data": "12/08 18:33"
     },
     {
-      "titulo": "Alvo do Palmeiras de Abel, Nino toma decisão que pode mudar carreira - NossoPalmeiras",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IUWdCZG5GSlBycl8tUkprZmtYWWNtYy1YVmdnSFNKR0tsRmpfOTZFblZtZllQVGZQekZ6RU9kVGY3aEVOQ2V1SGl5MjFUdWw0QTdXUHlhNThXRTZnbzN0ZDZMTWFsMmIwTFVDVmRhS21xVnVBaGczT3Vn?oc=5",
-      "data": "12/08 17:59"
+      "titulo": "Luís Zubeldía será demitido? Decisão racha diretoria do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWFJkMXNIWkd5OTBfNmNwQXJHdk83dUNBczFiNlV4LVJScDQ5TUQ3MGJMWkx3UXdwUWxoOXFfZWpYUEs5dGNtUURDRXBMeDlId1VjVmswSWlWMVljOGJNY2VKZ2pVRGVqWDdkZHZEY285YkV2MzlWNDJRdnNfclY1NWk0VEljQ2pUUjh1ZE8xdEY0TWRITEM2SkpZeEFLeVkxUFpPXzZrajRHbHdIb2NDNVJqRGZhV3g0R01Dc3NTSmpsaGNfUXB0aDh2MWRfMUo5eWlkY3RXLTU5dXlMVmgzMkR1cGxCVVFm?oc=5",
+      "data": "12/08 21:35"
     },
     {
-      "titulo": "Bastidores: Fluminense vê saída para crise com Zubeldía, mas teme risco - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLTJKQXlmT21QaDZWRE9VaTVGTnpjaHVibENHUEVRR2djc082N25nQlBGU0ZiZXRaQVk3V2huZzVVakpBNXNfWENGME5GdFM5QWhmcEhQU053Rmo1cUt5SEVUT0xhTnZ2TnhJZFJ2WG9fdlYtUGVzNlRWalluaWJfaHpyNnNEemhxMl9Ud3d3WGVsQjRva2JjQUYyS1Q4Q3dyTVN0ZEF0M0hXYVVyNmUxWXhEc1VBUmp0NXc?oc=5",
-      "data": "12/08 17:28"
+      "titulo": "Flamengo compra direitos de promessa que jogou nas bases de Fluminense e Botafogo - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWMydmlQMG1zWFlNaXc0VW04MXkweURfemtWaXBCNTlRMmM4UHNUZ29hQjRsNjZ2WFh3X0lvTG1ncmRkVDBIWno1RDgtR1MyUGRwWVBQbUZmNmEtODl4MzAzZmpPZThXUW8xY3JVcWhsWExlaXF2TzBOanZfMWYyMTNYOGpLUmNPTFMzZERaSko2N3hBYWlscjlsbjh5S0JfQTMtT0xySXdKeE4yUWdSNWpEUDJMRTEzaG9fbmFaOVZoSmMzUl9KcDFsYWxWYkZxSTIxejdIZlRSaDNUX3AzWW83cVVlRHdxVG5iakRqODBjcms2d0xHemU4Q191QQ?oc=5",
+      "data": "12/08 21:34"
+    },
+    {
+      "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
+      "data": "12/08 21:30"
     }
   ],
   "avisos": [
