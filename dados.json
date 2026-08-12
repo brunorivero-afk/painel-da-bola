@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "12/08/2026 11:21",
+  "atualizado_em": "12/08/2026 12:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -41,6 +41,17 @@
       "match": "Deportivo La Coruna x Real Madrid",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "16:00",
+      "competition": "Supercopa da UEFA",
+      "match": "PSG x Aston Villa",
+      "channels": [
+        "TNT",
+        "HBO MAX"
       ]
     },
     {
@@ -363,49 +374,49 @@
       "cidade": "Araruama",
       "temp_max": 22.7,
       "temp_min": 18.7,
-      "chance_chuva": 0,
+      "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 19.0,
       "temp_min": 13.9,
-      "chance_chuva": 26,
+      "chance_chuva": 49,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 19.9,
       "temp_min": 12.7,
-      "chance_chuva": 14,
+      "chance_chuva": 12,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Independiente Rivadavia: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVkYzTDZYc3hDSnBJYV9feVRMMVBpZlVWUHBDVkQ4M094cV91djJZRzJvOTZuc3FEWHdMQVRJSGdkMTAzZ1Y5b25WQWttMFdmRl82UXhZN3p2ZjVXdEJxM2NvUzc4bFc5bDZFRzVBN1hpZm1yOFdobXpacmtCMkIybjZ1Xzk5OExoTVZ5MmF6MXN5UjRNWUVKLVQwaUJLZkctakE4MktJSkNfbjhUandGaEx4NXU3ZUVFaUtTVklhT09Sdi1NbGlCbzN2dXQtWVpTZk05TThxRDZUQm9USC1RVC11MmvSAfMBQVVfeXFMT01MR29lZ29hTW9lTS1FR0dZZFlyZDQzVmU4U2IzaGJ0WVplcTJrVmlkaUQwc2ZNV01GczRzeWo1d2JQMV81ZndKWUdDU01mMU9SbHZnck1MV0Iwc2lVcU5NeXFBN1hBZ191WkZFUTNhREw0YlNBbDNQNGl2ZnVqcVIxRFFRbkNUeVFLS0dvdmpNMkVYQmJZaXdVTEZpanJQbE1ZMXpYRDRsd1VMVlFNV2RWMldLd2l4cDFJS1N2SDFaaFhnQ3djNS1BbFJvU3g0bUhnTnNJcFVIYVBNYjdrVDdyUmh2U2ZocnY0TXFJSXlnclQ0?oc=5",
-      "data": "11/08 06:00"
+      "titulo": "Fluminense vê Fábio salvar e só empata com o Rivadavia pela Libertadores - UOL",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUFFQ0c0UjRrMExHSHpDZ3FHLTJrVUFFUWE3Q0w2VzNTek9fYXpUWkEyR2VwTU1aTFF6ZmVyUU5weW42NWtRTVFwaHgxRy1ranZLSzZDZGJ0X0oyQXFNSk9nTHJxaXR3MW04THprZm1oZGxMUmlHdk5HMzJhU3lKR0lQTl9qbDVKN3BMSFRiY3EzMWNOQWRiQnB3M1cyWTFVWmk4YUxicnJQd2NlT1NTRDVsNWhLQ05RdXdYWndFTWFEWmVWM3c?oc=5",
+      "data": "11/08 23:54"
     },
     {
-      "titulo": "Fluminense vai demitir Zubeldía? Jornalista traz novidades sobre futuro do técnico - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjhtMk9jT2MwM1pkS3k1dmxndlJhei1OaDlacDZkMnk5dFE5NTZveHlNbmJqeUVKeVFGQ1lJOW1oZnRXT3hMc2RaTmcxSE1uWU1QQ2loWEVGTXoyQURXNkQtbmMyNG9JeW1WY0dfVjUybEFSMndoUHNzQWxuMEVPMXNZd2gzUERfUFczSVh5aWFXaDBvTnRWVW45RExZbTJJX01HQWhxNEFpSFl3?oc=5",
-      "data": "12/08 11:30"
+      "titulo": "Fluminense monitora Memphis Depay; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFRWdVdJOWZ5X2hUZ3NmUkQ0aTZ2UEJQUmF5dC0ycS13dFZEdDJNclFVekpTVWY0WHpsUXBJNWtOa0ZjbTZJMDBtckRlSkNFSFViUG5tU0ozemZ5VXRrRzhhSjFRMGRDSk0wVmItYXZmT0l4ckczTnNOcWFPWVlnemZfdExna1J3ZDhOTFpVYXNBSVlOYjR1NzhSMmhyd2Z2NUxaU1U2UU1kMm5IdVlXQzNFN2poQURHNWFMNEhQOUt0Ynk1NnRKbkRaaUk?oc=5",
+      "data": "12/08 14:03"
+    },
+    {
+      "titulo": "Saiba o que ainda mantém Zubeldía no Fluminense e o que pode mudar cenário - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUxoTDdEZEtSNHE2clFIQVFOaHpSOXNfbjE4bG9GMmd5V0RsNFpVc21pN0xXOWZtS0RmMFlqb2FycE5VQmtLNzJjOEcybzZLSk1qdENlbkRtNlNRQVhtVXZ2Y0ZPbjJtbUhDWmZuNkZPWDVIdjB5ODVpV3BiQUJpNF91SnZhd3FlUk1Qb01wUVFFR2dIOXRtS3lVRmdFZWNWWWJj?oc=5",
+      "data": "12/08 13:30"
+    },
+    {
+      "titulo": "Erro de arbitragem em reinício de jogo do Boca é o mesmo de Palmeiras x Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOb004bHdHeGF5SWhVR3JuVkxEcFdZT21CUi10MXh6cDJzY1BucGtwaWNzM0xZcVlCM21MZ09QcFNLYnBOZWo2Nmx6b1kzcURtcG1GdmtuRm05dlRFcEtUUjdTRjk1LVZESkY4Z3pBLVJveGdIMWpXbEo5aTNuOFloUHBCOGZLVm1pY010RTkzTy1kdXlpUGIxZWxNWUd5ZnZKT243WXJZQmZlZlRGbEhLMFBaaWd0VWxISmNoQnVyMGVlTWFKYllWZlhqdUN3elE?oc=5",
+      "data": "12/08 11:01"
     },
     {
       "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0ZkY2JMQzJ4SG5KYWRsRExSZDViN3BkT0NWV1NYcmVLdnZ4VksyLW5fWmVULXpVOHNoVC03Wk1WVW9qd25XZU1sM0d6YUJKWWNHVGR1TV9zbU1CNkFjYTZ5OGlRV2dfUGY5WDZGaEUxdXZKTGVIS2RvMXNCNkhXcWNzWTFUZWEwODVvekd0X2RPdUlfUVg5NQ?oc=5",
       "data": "11/08 20:51"
-    },
-    {
-      "titulo": "Resultados dos jogos da Libertadores e Sul-Americana nesta terça-feira (11); veja - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMDVYdkI3R3VrVDcxN3pGTVZBSlEzNmNodVZNMnZqYmJXNTAwakZVSFlkckpJQkllVFR1cHQtTmdVZ1RQUGNsaXBfTzhDMWtRTUxLc2lhTEw1ZGFBTl82ZjBSNjJxTGJIM2E1ZFMyQnBkNmFnRGduLXJ3dkxSX2tGODJHSnpMS19yUlRCRXZPaXR0cWM2ZVJjUjlYNVd2dXUtUmpzaGdUSXUxR016UzF6MERiRUduODZQRFh4Q09EQmQ0Sk9mS2hudmFn?oc=5",
-      "data": "12/08 02:57"
-    },
-    {
-      "titulo": "Fluminense acumula frustrações com reforços que não rendem em 2026 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY1dSU0YzcF9zRzZxMER4eXVIRUx6ZkZGSXc5aDRSbG1YWGFxcENyMFp0N3Q5blRrZWpDeXZTV215a1ZlWDQ4dm9FbC0wellBRmpWR3djdXdwV2l0WXJLbWl1UjZBRzU4WGoxWjVlYlNnVTZicUpCbm9pdHZLODZnUnpka1RpS0pCMXY4Ukt6c0E1QzM1WmduQUVwbmlNSmxYT0ctdlJfZHF4d3pzQW5KMl9WbzFCLXFUZjV2bXlTVDktWU5IUExuR0NvSXpxLTJORm5B0gHiAUFVX3lxTFBmZXgxNlZxYWFNSjRqZDFXRkwxNWF0ZS1WOEMxSXhreXJrZXVJTVVwUVo0TWJVRXJTUGJORjdrRzQ2WUxwb1pCWlhSbENlTklYR2hZSTRnZjVqM0NVTDdKV2lBbE1MQk5qYlBqcml6QVRKNXVzSGczUWxsUDd4WVF3LXlaVV8tYTRLWXlXVHRZYTN1RUN6azJHQ1RxT2hxejZjbkJSNDFhM09fSy1KX21yVzhpd0JaVUVQNGhtVzlFemlfU3FuQno5al9uc3JHSkt1WDFpTmlrdDFCSUNKR1N0bXc?oc=5",
-      "data": "12/08 13:00"
     }
   ],
   "avisos": [
