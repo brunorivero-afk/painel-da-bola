@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 06:57",
+  "atualizado_em": "12/08/2026 08:00",
   "jogos": [
     {
       "sport": "futebol",
@@ -388,9 +388,9 @@ window.PAINEL_DATA = {
       "data": "11/08 23:54"
     },
     {
-      "titulo": "Fabinho no Fluminense? Saiba o que pensa ex-Al Ittihad - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDBNaWgwRW1MYUtQbTN4Y20zMUFHRWdwNmpRYlI1VjZzdUFhS0ZwLUZSNlhwdjlUa2VxNkpsRGVlWXNtNGE5Q2t4ckhhSl9TNU4tMVQ5OVl1eDlzLXQ1ZHVPR2hTSVhMWFZLVHlaby1ZaEtCUV9MbUZhajNoYm5nSDNaN2VmclJhYXd0UW43TUxrV21PM2NZWi1meTIwTm1fZGw5SFp6aW1UOF9hbnk3cGdoaHlKaU1vWFctZ1Q4RUlPd052QV9HSUtWQlhDNGdNQVlxdXNEcjY?oc=5",
-      "data": "11/08 19:05"
+      "titulo": "Por onde anda Ruy Cabeção, ex-lateral de Fogão e Fluminense? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnR2S3duZXdONUs0WnF1MENFX2xaT2MzRTlrZTZTaTc5YkZqdjZCRFA5OG1SX0o0RWYzck5hOWJ1dVBuY1NhcVpwb2hxNFpsb2xpUzNaVGM1QlVhdFVIRUZiMkljclFwczRMSVNudENZQWI5U2F6TXYwbFp2T0NnVzNYV0tqVUlPUlVxTWN2TTRWVTNZZWN2ODh6QQ?oc=5",
+      "data": "12/08 09:54"
     },
     {
       "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
@@ -398,14 +398,14 @@ window.PAINEL_DATA = {
       "data": "11/08 20:51"
     },
     {
-      "titulo": "Fluminense x São Paulo Futebol Clube minuto a minuto | resumo dos lances, mudanças táticas e placar atualizado ♦ - esporte.ce.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNVjhqaDV3R3B4X001c1dTYnBOV3MtS2M3LWY0VnVuc1IycWVqNGJZNVBJVHdWODZlUjRCNnBzSEY1UmFTSG9iZ2VNMTFXLVZDdnpsWXBZSkZTNjZOVldmN0hfOGpkdnVsZ1h4dTNXWk85XzJPODFzZkJSMThsZWlqOUs2WVA1S0FsalZ4WUZuUGVCdjFQaGhrMjNuTlMtcmQ0S0h6QTZLZHY5NloxLUl6ZVFjRzVURTFsQnBDcG9HRmZUempzYjhjd1Q5OUpoY3ZEdmxtX2xfQ3o5UFVxcGRicUlaMnFxVHZNMnoxQ3NlbC1vSW11VEViaV9RRFJrZ0FJbHAzbHdFeHQ1RFBxNzVGYzFxRGVSQXpMQ0IxZEpWRTdlNmtNX3NkTncweWFKSEczTksyaFh1QzZrUVVmN1hadlVTZlE4dzA?oc=5",
-      "data": "11/08 08:10"
+      "titulo": "「Fluminense x maricá Futebol Clube」· confrontos diretos, resultados anteriores e próximos jogos 🏆 - esporte.ce.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORG1lSDlURE9VenlyZWZ2bk9RejBfX0JlODRuSkE4dkdKejNUT2ROTlFMdUhoLUR5YzBTU2VTeXNYV3RYV2NkT0FlTUtQcXdPcUZnQ0VYblZ2Q0lvcm93SUN6Y2psNG1pVEIwaFZreTVWVGVlRnk3WldpVlpubktUUjNBQnhnRTdGS196N2k2S2w4ZlRsVnFTb3k3TFhmWUFDblo1WHRzQ1hZUVpPQ2xzcjY2b2Vtb0E2NVFXOTY2Y1dkR0hkOHlhcmhmOE9LR3VSXzlERmVLaUVHMmVVQnRyUG5YRUktdko0TDBqaUUtY0JWWUh1MmpWaVVWckNsVXBTNmREU1NpSW1tVjdmZE14eXN2ZXN6UEVJU3VwTm14cnBsTDJaYTcyXzc5WkRpOVQ0WVJGYVFXLTVOQQ?oc=5",
+      "data": "11/08 07:38"
     },
     {
-      "titulo": "Fluminense x São Paulo Futebol Clube minuto a minuto: cobertura lance a lance com resultado e momentos decisivos ★ – Apps no Google Play - esporte.ce.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbmdpeTRyUmdoU19oY0RUb05oOUtMZVlyLUxmYkphNlZIYlRXQlpUQjl6T3E1OUtSRmE3UkxBREJhRTZlak1wS2xMNFNDNUFwdjIwaEt2T29hMl8wUTZZNXFuNVdROUlQMzJzVDAxMG1DNXJpOHIwNnF1Q3NnbllCT1hibFRNcDZrbVAyWEFLWjNJNFIzM2dyQTRuTFBFMmptQmhJTGZVNU9zVXQ1MUtHU0NXa215cDVJOWFTeVJ3REl6Mm1PdEtOQTBtdXpCU3pvcF9OdE1kWWJPc1FJMXNXSXJWcjdNZWFXWHZVeC1zdTZFbkRzMEdiQy1FLU8wYmhRSXI3cDVsb1ZseEUwcHdzX0NXb1JmUnlRcHRDOWRaUTVWd2lRQ2l1SEJmWk0zNkJiZG40VEdfZkEyQQ?oc=5",
-      "data": "11/08 05:20"
+      "titulo": "Sob risco de demissão do Fluminense, Zubeldía aposta nos jogadores: 'Última decisão' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTktNHBOMWs5dlg0SjFKdEJMcXZJZkE0RmRWVGpBcUhoRmJKNlB6eVFjYTQyYjZlV3ZYOUFyN1hpNmNmQkVveFYwVmFFbTgtVHNnVmoyVndUTjVjYWhROXljWWgzU19TZmRqX3BlUml0Y2pMOWY0ZE02YlEwU2E4bmVXTl9qTm40WVdacmo1WGNiMXZFVjRQSlU1Ni1XbUhIdlotUkR3Ml96UGp1Yjk0elBaQ2lsUk9PeUI3Q2ZR?oc=5",
+      "data": "12/08 00:29"
     }
   ],
   "avisos": [
