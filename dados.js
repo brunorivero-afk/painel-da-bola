@@ -1,49 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/08/2026 20:34",
+  "atualizado_em": "11/08/2026 22:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Fluminense x Independ. Rivadavia",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Boca Juniors x Deportivo Recoleta",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x CRB",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Marília x Bandeirante SP",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-11",
@@ -68,20 +25,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "21:00",
-      "competition": "Leagues Cup",
-      "match": "FC Cincinnati x Atlas",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Plaza Amador x Xelaju",
       "channels": [
-        "APPLE TV"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "21:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Plaza Amador x Xelaju",
+      "competition": "Leagues Cup",
+      "match": "FC Cincinnati x Atlas",
       "channels": [
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
@@ -98,11 +55,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-11",
       "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Estudiantes x U. Catolica",
+      "competition": "Copa Sul-Americana",
+      "match": "Bolívar x São Paulo",
       "channels": [
-        "ESPN",
-        "ESPN 4",
+        "SBT",
         "DISNEY+"
       ]
     },
@@ -111,19 +67,10 @@ window.PAINEL_DATA = {
       "date": "2026-08-11",
       "time": "21:30",
       "competition": "Copa Libertadores",
-      "match": "Deportes Tolima x Independiente del Valle",
+      "match": "Estudiantes x U. Catolica",
       "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-11",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Bolívar x São Paulo",
-      "channels": [
-        "SBT",
+        "ESPN",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -216,6 +163,59 @@ window.PAINEL_DATA = {
       "match": "Lyon x Sparta Praha",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Boca Juniors x Deportivo Recoleta",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Fluminense x Independ. Rivadavia",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Marília x Bandeirante SP",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x CRB",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-11",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Deportes Tolima x Independiente del Valle",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
@@ -428,7 +428,7 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.9,
+      "temp_max": 21.1,
       "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -436,50 +436,50 @@ window.PAINEL_DATA = {
     {
       "cidade": "Araruama",
       "temp_max": 21.8,
-      "temp_min": 19.1,
+      "temp_min": 18.9,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.2,
-      "temp_min": 15.0,
+      "temp_max": 19.3,
+      "temp_min": 15.2,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 14.3,
-      "temp_min": 12.6,
+      "temp_min": 12.5,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Independiente Rivadavia: onde assistir ao vivo, horário, palpite e prováveis escalações da Libertadores - espn.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWGN0OUoyd2k5d1ZlN1BzSFpxTHl3RTZZbjJtZmgtbHBQY3U5WW5QRF8zSWkxUnBUeUlyajBTamxyVXlrTDZpVVh1SEFKQVRIWEU0VDc0V0NVcEFnRkgwS1BQcFVma1MwT1JHaGxCc0F0Q05yOGNlalU2NFRzejBuLUdQMHU0Y2NxYVh2MHJVZ0JnLXdoQmpLOHBmUFE0d19ITXIzQmVCN19IQ2piSzQ3RG0tMUQ1TGppRGs3ZVdja2ZwMi05RWFoYXUtTktRN2kxZlJ5Q2ctZlhtMlRPT2VvaFNLS1h3Q3NPU0VjM1JJUndKZk0wdjA4QWxBbDB0V2p6MXJHaw?oc=5",
-      "data": "10/08 13:57"
+      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
+      "data": "11/08 23:47"
+    },
+    {
+      "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0ZkY2JMQzJ4SG5KYWRsRExSZDViN3BkT0NWV1NYcmVLdnZ4VksyLW5fWmVULXpVOHNoVC03Wk1WVW9qd25XZU1sM0d6YUJKWWNHVGR1TV9zbU1CNkFjYTZ5OGlRV2dfUGY5WDZGaEUxdXZKTGVIS2RvMXNCNkhXcWNzWTFUZWEwODVvekd0X2RPdUlfUVg5NQ?oc=5",
+      "data": "11/08 20:51"
     },
     {
       "titulo": "Fabinho no Fluminense? Saiba o que pensa ex-Al Ittihad - Terra",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDBNaWgwRW1MYUtQbTN4Y20zMUFHRWdwNmpRYlI1VjZzdUFhS0ZwLUZSNlhwdjlUa2VxNkpsRGVlWXNtNGE5Q2t4ckhhSl9TNU4tMVQ5OVl1eDlzLXQ1ZHVPR2hTSVhMWFZLVHlaby1ZaEtCUV9MbUZhajNoYm5nSDNaN2VmclJhYXd0UW43TUxrV21PM2NZWi1meTIwTm1fZGw5SFp6aW1UOF9hbnk3cGdoaHlKaU1vWFctZ1Q4RUlPd052QV9HSUtWQlhDNGdNQVlxdXNEcjY?oc=5",
-      "data": "11/08 19:05"
+      "data": "11/08 23:53"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVdiRHN6eDhyTWZQRTdrRzdjVG8yT01nU01ITHlyaXNXb0dLTzZ0SXQtcDM3Y09xNUk0SUVlbjRJRWRjZGJqOXB3S1FiZzlzdXhiWVFhZjRTbFZpUWNxTllEY05Td3JyWXp6ck1LaXVtRDRsVE1GUk56eVNKalQxSmNKSjlxY29ZQjZFa1BHb080Q1lhVXBpdzN3XzJpaEVaTEdjUlJ0YzcwWm8?oc=5",
-      "data": "10/08 01:29"
-    },
-    {
-      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - odia.ig.com.br",
+      "titulo": "Ganso faz 13 jogos e não pode mais defender outro clube na Série A - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOTd4ZGpmcVh2YVVMeUJFODhfSGlnYTNkREFEU2xRSnhLbDlXTmpTOFVYQlZ6N01yd1VxcWl4cHJmUXpyUnFJREtmZ2diSkZuMUVHSWUweHo3blhEZ3BlOHhCcDFfMXF1OFZySldxY1dKcGxlV3NYZXVKOFVyVjZzRklqbV9xZmxRREFsNVIyWE1vUDlmTmM0MFYzcmtIREowRTVST0tDbEgxeXhreGxiQnNuMHhDWW82VThOR1J6VnpyeURpYUNqeNIBzgFBVV95cUxPdkpBY1NxRlJXR1VQeUhNNURLTGJRVVlmYUt6R29Dbmp2b0pOZkFVelhJSTdEZWs3WHRpRlo4VkRfOWd1SWNUQ0stLVhaVGZ2N0l0eUpfQzRWUkZtRU5SeEVxeDVRSkZ0clRPazB3cHZ0MTlMdWNLOUI2LTR5MlU0UkV1OFNUaHdTeVp3LVRJRU9HbnVoLWFvck5LRldXdy1GVXV2YzNTa1IxaW9ZRVhvMGpKM1d1TS1wWXFRRDVTbGdSX3Q0Um4yb0dNV0YzUQ?oc=5",
       "data": "09/08 11:20"
     },
     {
-      "titulo": "Botafogo e Fluminense ficam no prejuízo com empate pelo Brasileirão - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSmtXR3d6dHhiV2JQUGx5QUZtN2JjQTRFWko3Z3FfeFZ0OHY2TWJYdm95ZDFmaWxLX0x3cWpoSGgtMEx2TlRrRGQ0d3FWS1dPOVhBUGxyWEJvVm9sQkNtS1BDSk1IUHk5Sl82OFhsdGlIZjV5bGdMRURqUjJ6ZzhLSTJZN2djQjN2RmZDWGpuNDYxX211el9xWi1iT3NqVGhEMFlxWHFCYklmejNhaGFSUjlJNHRoekhYcTMxVERJY19kQTVkR1liVWpLRk5xV1XSAd4BQVVfeXFMT1kxZldTc012VjIwNzYwa2VNRVdOMmlYbF9CNW1QUVM2bzZsQ2U2U19xM1lBcVNEbDNpNW13OXhYeUhoZ01Mb3ZITmdVQXR4U2tBYi1PS25Gc283YmxYUXYyTWNnZXZMWlpqYzlvOXMtMzNkTlp2V3REc0lCdUtmVXU2MTQ3UXhJSldEaHdaam9UMnFJN0NULWZHSnRJRzRtWjZkNnlWTnpsc2l1V3dJVXAwZVdWREVvcUdmSDlBbUR1MV9fb1ZKR0VwTjVJNEl2aVN0UXJ5LVpDNXlvTklR?oc=5",
-      "data": "09/08 02:02"
+      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
+      "data": "10/08 23:50"
     }
   ],
   "avisos": []
