@@ -1,42 +1,12 @@
 {
-  "atualizado_em": "13/08/2026 15:56",
+  "atualizado_em": "13/08/2026 16:54",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "14:00",
-      "competition": "UEFA Conference League",
-      "match": "Hammarby FF x Rakow Czestochowa",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "14:30",
-      "competition": "UEFA Conference League",
-      "match": "FC Vaduz x Inter Turku",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "15:00",
       "competition": "UEFA Europa League",
       "match": "CSKA Sofia x Maccabi Tel Aviv",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "15:00",
-      "competition": "UEFA Conference League",
-      "match": "FC ST. Gallen x Sheriff Tiraspol",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -138,16 +108,6 @@
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Club America x Austin",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "21:30",
       "competition": "Copa Sul-Americana",
       "match": "Cienciano x Botafogo",
       "channels": [
@@ -163,6 +123,16 @@
       "channels": [
         "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "21:30",
+      "competition": "Leagues Cup",
+      "match": "Club America x Austin",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -219,8 +189,38 @@
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "Hammarby FF x Rakow Czestochowa",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "14:00",
       "competition": "UEFA Europa League",
       "match": "Gornik Zabrze x Ferencvarosi TC",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "14:30",
+      "competition": "UEFA Conference League",
+      "match": "FC Vaduz x Inter Turku",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:00",
+      "competition": "UEFA Conference League",
+      "match": "FC ST. Gallen x Sheriff Tiraspol",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -491,38 +491,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.2,
+      "temp_max": 27.4,
       "temp_min": 18.8,
       "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.7,
+      "temp_max": 26.0,
       "temp_min": 17.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.1,
+      "temp_max": 27.5,
       "temp_min": 14.2,
       "chance_chuva": 36,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.3,
+      "temp_max": 27.1,
       "temp_min": 14.5,
       "chance_chuva": 57,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Sem Zubeldía, quem o Fluminense buscará? Oito últimos técnicos chegaram ao tricolor livres no mercado - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONHIwMmVSOTNTY0JfbUJOSHc2LW1KbzVISW04bjRWcVNpRmNNSDQ5SkUyR09FYWdGUVhtWkhVTVJ5bzlzOXcwSFdyQTRWRTZOUk9YaGR0ZVhLb09iQklyclJQRXFqU3czeGdQWUlQa1R2U1Fyck1NNW0wNkNRSV9rZVVRZThaaDBwXzktNk1CaDNoTTJYdk56UXpyVXBPMERBNVAwNFlqakNBdnhPUHhaWlhob1ZHWWEzLXVkZDRVaWQ1cm5Ea3duV21HV2hldlhjdGpmVWZnQVRoUWpzZTRqazVsQ25LRWM5ZnkyN3NYWnpnNDNfOE44ajFR0gGIAkFVX3lxTE50dkNVUWs1ZUxJZFBjV0tsSTV0Ulo1dDdyRHVkM3RTS1pvT0Y4WnF6YlZMQloyNHJyTnI0M0FWRkhyUlladDdrVWhPUVlnU1hiejRVVHZuSF82X21LTHNGU2x2RGRhU1MxdHZoa25tQTNfTnotTU5MU1IyRzNOOXRvamZJUEpvQnZmNjFta1FWN0hwV250TlFpMGg4dzN5dUZtVi1ob0V5S1FqYlhZSTZJMEtpdXN0RHBDWllpMmE2QnBIdDVpdzRVZy03SVlKajFWYVZ0RUpYNFJRcXBiR25HbnBHbXdYZzVDc1FzOHppTVhLcEFnTnJDWDNraUMzNmZYck1nOUNOUg?oc=5",
-      "data": "13/08 12:21"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
     },
     {
       "titulo": "Demitido do Fluminense, Zubeldía acumulou 4 derrotas para o Vasco - NETVASCO",
@@ -530,19 +530,19 @@
       "data": "13/08 15:32"
     },
     {
-      "titulo": "Atacante Léo do Fluminense foi emprestado ao Santa Cruz-PE - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEyXzdaa09LSEZXNmswVHdvQUVkZGVRMFlvd2JZUmRHMzRfNGRtUXhzam1xaF9lVmk3X2w0azgwb3FLZUlLZy1IMk5YdE8tZktHM1hOemVWX2FTcFU5TURUcEk4dk04UE5LSW9oWEcwb25Cc1pRTWZjNzJRdm15TTNGZ0hwWTNNdnJFQVFLUGd6c1JLUGxFcUtSN3NBeVk?oc=5",
-      "data": "13/08 14:43"
+      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
+      "data": "10/08 23:50"
     },
     {
-      "titulo": "Fluminense x Independiente Rivadavia: Onde assistir ao vivo, horário, escalações e análise pela Libertadores - Terra",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaFl2RWF0MXVkWkZJV21GNl9mdjR6UEdZXzh0RjZRTnYzV0N0RzZKclFENHVvc0M5aFhIX3k0amtVbEw2VE9aOElsZ19HQ0V4TUZ0Y2lmMHVRUkt6SkNpcjIxek9DU3R0bl9zdXkxM1o2UUZnZk1wZ2VBdmpzU3IzNFhqd3ItZGNYSjRwNDkySzBFM1BiV24xN0ItdnlXV0F2YW94V0U4dDBqRXFzSUF0cnpTcjNnbVJVRkNXbXlvQUlhajZLVy1kZWVObWpfTTR4bjQyZVRCOGdIZThYckxtQ0hpQ1ZXdlNCWVZLM2ZYdHhHcWpxZkVWQkVzNk1oN0lwQURTLTNuOFp4TmxPVTJHYXpKVWlSZHc1Znkzc2pB?oc=5",
-      "data": "12/08 07:34"
+      "titulo": "Fluminense descarta Fred para substituir Zubeldía e traça estratégia por técnico no mercado - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVzh3ZTJVSVhRZWZHY2pybEtTREhCSi1GWms1Tm0zdUJVV09pSnZLWUdGcHRmdFJtVmlITVdyQUhVLXFTQnQ0N2MzLVNyekVDWHBPbUVkS3VyTnVtd1Y4dlM3RVVaa2NlZkFHZHhYOG8tek0wdS16ZUdVRXd4QVN2MHV0Ym12MWp3U0RMN0NrYUtSZmZHR1VxWFp1ZHU2TzZ0Tlh0MVhxbERjbzE3QnFaS2U4Q2h6Unl0RDR0QWEyNENjNWlleXBkaGs4TVdIcTI4M2JXOXFiYkk?oc=5",
+      "data": "13/08 16:37"
     },
     {
-      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
-      "data": "11/08 23:47"
+      "titulo": "「Fluminense x maricá Futebol Clube」· confrontos diretos, resultados anteriores e próximos jogos 🏆 - esporte.ce.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORG1lSDlURE9VenlyZWZ2bk9RejBfX0JlODRuSkE4dkdKejNUT2ROTlFMdUhoLUR5YzBTU2VTeXNYV3RYV2NkT0FlTUtQcXdPcUZnQ0VYblZ2Q0lvcm93SUN6Y2psNG1pVEIwaFZreTVWVGVlRnk3WldpVlpubktUUjNBQnhnRTdGS196N2k2S2w4ZlRsVnFTb3k3TFhmWUFDblo1WHRzQ1hZUVpPQ2xzcjY2b2Vtb0E2NVFXOTY2Y1dkR0hkOHlhcmhmOE9LR3VSXzlERmVLaUVHMmVVQnRyUG5YRUktdko0TDBqaUUtY0JWWUh1MmpWaVVWckNsVXBTNmREU1NpSW1tVjdmZE14eXN2ZXN6UEVJU3VwTm14cnBsTDJaYTcyXzc5WkRpOVQ0WVJGYVFXLTVOQQ?oc=5",
+      "data": "11/08 07:38"
     }
   ],
   "avisos": [
