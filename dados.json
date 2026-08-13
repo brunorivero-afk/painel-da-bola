@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "13/08/2026 08:04",
+  "atualizado_em": "13/08/2026 09:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -311,31 +311,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.1,
+      "temp_max": 27.2,
       "temp_min": 18.8,
-      "chance_chuva": 2,
-      "condicao": "Garoa"
+      "chance_chuva": 22,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.0,
-      "temp_min": 18.0,
-      "chance_chuva": 0,
+      "temp_max": 25.7,
+      "temp_min": 17.8,
+      "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.1,
       "temp_min": 14.2,
-      "chance_chuva": 47,
+      "chance_chuva": 69,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.5,
-      "temp_min": 14.2,
-      "chance_chuva": 69,
-      "condicao": "Garoa"
+      "temp_max": 27.3,
+      "temp_min": 14.5,
+      "chance_chuva": 71,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -345,24 +345,24 @@
       "data": "13/08 10:33"
     },
     {
-      "titulo": "Fábio aponta falhas do Fluminense e admite: ‘Temos que superar’ - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTUdyNkdmYVM5SnRFUlhYd18ySFpVQ05oRkZXQVJrLWkxRXVLYms3UjhIaWZaRThpUWdCWEdRcDNrQjlNSnhsS1o5akQ2dGhESTNmYy1Kd0ItbzQ4eXZ6SW5SQ2wwWkI3cU9qX0hxZVBGY3JMX1pMTVlsS2NQR1F4RFFHc1hVakVIZ2x3V29GYnRRVU90NnhuR2lTUU1IYnZuRDFmLVNfemNmeUhxcjNHYWJpdFdmUEEwaHNhbVg5dHEyamF3U09DSF93cWV4bjNxMFdEWmtkb0MyMXFvOHNpWFR2OWs?oc=5",
-      "data": "13/08 09:41"
+      "titulo": "Fluminense x Independiente Rivadavia: onde assistir, horário e escalações - VEJA",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3hDemJRallUaDZrejltaXhVVEZ4enpOSFpJOFF6NkFMWW9PeHV2a1M1eVRUX1JKclRvRUxmWGlxaUFIV0doWHVSdHpTdHhadThudGVpUHh1SF84QnBEeDFjYkh4ZkhkQS1tT0VyLUZrejJvMGpYeG5zMzVNRFIzY2dNSldJYU5HVEczOHlxUnRBYmNpMlFFeTdTb0ZhVzdsa0FEWlFiRlpBd01V?oc=5",
+      "data": "11/08 20:55"
     },
     {
-      "titulo": "Flamengo compra direitos de promessa que jogou nas bases de Fluminense e Botafogo - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWMydmlQMG1zWFlNaXc0VW04MXkweURfemtWaXBCNTlRMmM4UHNUZ29hQjRsNjZ2WFh3X0lvTG1ncmRkVDBIWno1RDgtR1MyUGRwWVBQbUZmNmEtODl4MzAzZmpPZThXUW8xY3JVcWhsWExlaXF2TzBOanZfMWYyMTNYOGpLUmNPTFMzZERaSko2N3hBYWlscjlsbjh5S0JfQTMtT0xySXdKeE4yUWdSNWpEUDJMRTEzaG9fbmFaOVZoSmMzUl9KcDFsYWxWYkZxSTIxejdIZlRSaDNUX3AzWW83cVVlRHdxVG5iakRqODBjcms2d0xHemU4Q191QQ?oc=5",
-      "data": "12/08 21:34"
+      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
+      "data": "11/08 23:47"
+    },
+    {
+      "titulo": "Hulk volta a ser vaiado pela torcida do Fluminense e admite adaptação difícil: ‘Não posso jogar a toalha’ - Rede 98",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRWowX0dCcmxLWFJCUUhyOURLc1BHOEpLY1pSLVpzdnZ1RWFnbU4tNm9ScHp2R1dpR1NqTUNKci1IVUc2WHBuWUJzWVhQTEViSE9lUVVSa1MyNkxhTnlrQ28wUUZPZDR3bFVxbk9RNTl5X3NSRm1zUWk0bDlzdFFXLVlTRG5MeElFdVB2bTBCeHBlMUtNZnJyNldMNjFMTmNCRGh1bTBoRC1wM1pScGhxV01JN0YteDhTTjl6VEJ2Mi1JclNPV3BNV1l1c1lma1l0Nl9oU3pDODBfMlFGWUVsVEJfaw?oc=5",
+      "data": "12/08 11:48"
     },
     {
       "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
       "data": "12/08 21:30"
-    },
-    {
-      "titulo": "Fluminense x Independiente Rivadavia: onde assistir, horário e escalações - VEJA",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT3hDemJRallUaDZrejltaXhVVEZ4enpOSFpJOFF6NkFMWW9PeHV2a1M1eVRUX1JKclRvRUxmWGlxaUFIV0doWHVSdHpTdHhadThudGVpUHh1SF84QnBEeDFjYkh4ZkhkQS1tT0VyLUZrejJvMGpYeG5zMzVNRFIzY2dNSldJYU5HVEczOHlxUnRBYmNpMlFFeTdTb0ZhVzdsa0FEWlFiRlpBd01V?oc=5",
-      "data": "11/08 20:55"
     }
   ],
   "avisos": [
