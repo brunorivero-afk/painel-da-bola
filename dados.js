@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/08/2026 20:35",
+  "atualizado_em": "12/08/2026 22:28",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,47 +9,6 @@ window.PAINEL_DATA = {
       "match": "Leeds x Manchester United",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-12",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "RB Bragantino x Atlético-MG",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-12",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Palmeiras x Cerro Porteno",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-12",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Platense x Coquimbo Unido",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-12",
-      "time": "19:15",
-      "competition": "Copa Argentina",
-      "match": "Atletico Tucuman x Independiente",
-      "channels": [
-        "XSPORTS"
       ]
     },
     {
@@ -76,20 +35,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-12",
       "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Huntsville City x Crown Legacy",
+      "competition": "Leagues Cup",
+      "match": "Monterrey x Nashville SC",
       "channels": [
-        "ONEFOOTBALL"
+        "APPLE TV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-12",
       "time": "21:00",
-      "competition": "Leagues Cup",
-      "match": "Monterrey x Nashville SC",
+      "competition": "MLS Next Pro",
+      "match": "Huntsville City x Crown Legacy",
       "channels": [
-        "APPLE TV"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -139,7 +98,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-12",
       "time": "23:30",
       "competition": "Leagues Cup",
-      "match": "Seattle Sounders x Guadalajara Chivas",
+      "match": "Los Angeles FC x Club Queretaro",
       "channels": [
         "APPLE TV"
       ]
@@ -149,7 +108,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-12",
       "time": "23:30",
       "competition": "Leagues Cup",
-      "match": "Los Angeles FC x Club Queretaro",
+      "match": "Seattle Sounders x Guadalajara Chivas",
       "channels": [
         "APPLE TV"
       ]
@@ -196,6 +155,47 @@ window.PAINEL_DATA = {
       "match": "Deportivo La Coruna x Real Madrid",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "RB Bragantino x Atlético-MG",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Platense x Coquimbo Unido",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Palmeiras x Cerro Porteno",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-12",
+      "time": "19:15",
+      "competition": "Copa Argentina",
+      "match": "Atletico Tucuman x Independiente",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -380,7 +380,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.3,
+      "temp_max": 18.5,
       "temp_min": 13.9,
       "chance_chuva": 65,
       "condicao": "Garoa fraca"
@@ -400,9 +400,9 @@ window.PAINEL_DATA = {
       "data": "12/08 04:45"
     },
     {
-      "titulo": "Bastidores: Zubeldía vive situação delicada, mas segue respaldado pelo elenco no Fluminense - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjNKZnYwWTVLbXdfZnhLMnd6VVVSeHpGbmVONHJEaUx5M3J0MTRxQ1dOcW0xZTVQV2VEY0lWVmJMQlVtUFVoVkQzZzZDalJ4bDdyRmdva0poUkNQZnkxWTN2TVNXSGx3YzhITmVIWmFST21UQUtaQmpFdzRQQjlDQ3o2bWhCQWxWa0puX3BCZjZweHcyX3FGOV9Wc2hld0JSTlRTR1o2WHIyemZoS0NsWlJBT1V1OV9DY2huY08yakJibV90QWZnLUU3YUJKMEFGUGp4eF92ZnJnZzF1SnVZNkJSdW4xb3FFRkEyZGtyOTFqQdIBgAJBVV95cUxOTGVVRk5LTUVlV0lQWjJHeFdvWnJkcS1XVWpMQ0Rmb0NTM2x4NGpJajM2ZFhLM1ZMODRGa29GOWhqSU94dTdJU3J3aDJJd29SVnNIVGRPekNnN0d1VW4tdXF2QmptZV80RENoMFRsVGN5d3l6REx6RmxlN0lVT2FVVkQybEN5TDQtM1pFS0FITmotLUl1MjFnS2Uxa1NNU3JRTG9uTmtOa3NmT0NKTTc1bmVwallBREZhU0RpWXZhcXRTczJvSE9rZHh0SkUyeUFwQUdhUVdLVnRfbE50S2FNZ0xmUnVoVk9vaFgtaE80cXo2dkZkckZILTBKUGJQYUQ5?oc=5",
-      "data": "12/08 18:34"
+      "titulo": "Zubeldía será demitido? Jornalista traz bastidores da situação do técnico no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQm8yN0xIN3RkaTg5WEQ5WHpZakVQeExPemxHX05rRkRpR0J6bVNaQ0Jqa0ZHTXRmeVNXdVVkekNMLTFkQ0Uwdkh1NzhCcW5qNk4wN09LNG9hWlV2WTJIaHhMaXFVd0NnSjZSV1N1UUxXNVA4R205X0pNbWpyR3F1RUQwRU5HcHUzRHdlRjZoY1BuZFZHX0JEZ2xEaDdqQkM4TXBtWjdHZmtPVVpEZzFXQlV3WQ?oc=5",
+      "data": "12/08 18:33"
     },
     {
       "titulo": "Luís Zubeldía será demitido? Decisão racha diretoria do Fluminense - Terra",
@@ -410,9 +410,9 @@ window.PAINEL_DATA = {
       "data": "12/08 21:35"
     },
     {
-      "titulo": "Flamengo compra direitos de promessa que jogou nas bases de Fluminense e Botafogo - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWMydmlQMG1zWFlNaXc0VW04MXkweURfemtWaXBCNTlRMmM4UHNUZ29hQjRsNjZ2WFh3X0lvTG1ncmRkVDBIWno1RDgtR1MyUGRwWVBQbUZmNmEtODl4MzAzZmpPZThXUW8xY3JVcWhsWExlaXF2TzBOanZfMWYyMTNYOGpLUmNPTFMzZERaSko2N3hBYWlscjlsbjh5S0JfQTMtT0xySXdKeE4yUWdSNWpEUDJMRTEzaG9fbmFaOVZoSmMzUl9KcDFsYWxWYkZxSTIxejdIZlRSaDNUX3AzWW83cVVlRHdxVG5iakRqODBjcms2d0xHemU4Q191QQ?oc=5",
-      "data": "12/08 21:34"
+      "titulo": "Ídolo do Fluminense, Nino está próximo de assinar contrato até 2030 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVkdjLXRBNVZtS3I4NHJCQWFpYkZsN3h4S1k4cGNXbnVsS2hXb3N1MjNJVnlJVzJ0ODg4cUFtMTdjcDhNRnA5cWtVVThOWVRqS3BtbWFQNFdsR0xXOGNkWVp2MGxMTks2NHNtY19MMW1lRlUzUl9ka29rVDZYOGM3Q3M0R0c3cDRiQzYxZXpnYXEtZm1oSG1Ja01DWlo3TVZNUXVxaXM3LUZva1FiejBtdUR4cjNxN0dadWZ1MWtCMDAxaEJseVFWWVQ5TjZ6M3NHOTNQUlAtWi1BWndVcGFxWFBTeXcwRHFFanZsMzBR?oc=5",
+      "data": "12/08 23:19"
     },
     {
       "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
