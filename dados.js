@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 17:37",
+  "atualizado_em": "13/08/2026 18:39",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "15:30",
-      "competition": "UEFA Conference League",
-      "match": "Austria Vienna x Beitar Jerusalem",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "15:45",
-      "competition": "UEFA Conference League",
-      "match": "Shelbourne x Ajax",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-13",
@@ -221,6 +201,26 @@ window.PAINEL_DATA = {
       "time": "15:00",
       "competition": "UEFA Europa League",
       "match": "CSKA Sofia x Maccabi Tel Aviv",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:30",
+      "competition": "UEFA Conference League",
+      "match": "Austria Vienna x Beitar Jerusalem",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:45",
+      "competition": "UEFA Conference League",
+      "match": "Shelbourne x Ajax",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -520,9 +520,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Sem Zubeldía, quem o Fluminense buscará? Oito últimos técnicos chegaram ao tricolor livres no mercado - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONHIwMmVSOTNTY0JfbUJOSHc2LW1KbzVISW04bjRWcVNpRmNNSDQ5SkUyR09FYWdGUVhtWkhVTVJ5bzlzOXcwSFdyQTRWRTZOUk9YaGR0ZVhLb09iQklyclJQRXFqU3czeGdQWUlQa1R2U1Fyck1NNW0wNkNRSV9rZVVRZThaaDBwXzktNk1CaDNoTTJYdk56UXpyVXBPMERBNVAwNFlqakNBdnhPUHhaWlhob1ZHWWEzLXVkZDRVaWQ1cm5Ea3duV21HV2hldlhjdGpmVWZnQVRoUWpzZTRqazVsQ25LRWM5ZnkyN3NYWnpnNDNfOE44ajFR0gGIAkFVX3lxTE50dkNVUWs1ZUxJZFBjV0tsSTV0Ulo1dDdyRHVkM3RTS1pvT0Y4WnF6YlZMQloyNHJyTnI0M0FWRkhyUlladDdrVWhPUVlnU1hiejRVVHZuSF82X21LTHNGU2x2RGRhU1MxdHZoa25tQTNfTnotTU5MU1IyRzNOOXRvamZJUEpvQnZmNjFta1FWN0hwV250TlFpMGg4dzN5dUZtVi1ob0V5S1FqYlhZSTZJMEtpdXN0RHBDWllpMmE2QnBIdDVpdzRVZy03SVlKajFWYVZ0RUpYNFJRcXBiR25HbnBHbXdYZzVDc1FzOHppTVhLcEFnTnJDWDNraUMzNmZYck1nOUNOUg?oc=5",
-      "data": "13/08 12:21"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
     },
     {
       "titulo": "Fluminense está disposto a pagar salário astronômico para Depay - Terra",
@@ -532,7 +532,7 @@ window.PAINEL_DATA = {
     {
       "titulo": "Destaque do Fluminense, Léo é emprestado ao Santa Cruz de Pernambuco - CidadeVerde.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSm9ueDVQeTE0NU16cXl4azZYRTlLM2dwS0g0LURmemp3bF9MZUpYNWtQSUUyd0JOeGdKeEhvT0ZZUkZtZ2JDQm51WjRJcFJWTWRScTRrNGV3a3JTWXpxRW9nSUpSelRnUEUyTGlKYWdKSmI2SHJlZDhkN1NGTHIwbWNhajZCanVuNXY4d2RuNWtGNnl5ZnprdGlrYkZDOHFJdndGcVR6S3l0QQ?oc=5",
-      "data": "13/08 18:47"
+      "data": "13/08 18:10"
     },
     {
       "titulo": "Demitido do Fluminense, Zubeldía acumulou 4 derrotas para o Vasco - NETVASCO",
