@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 14:54",
+  "atualizado_em": "13/08/2026 15:56",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "14:00",
-      "competition": "UEFA Europa League",
-      "match": "Gornik Zabrze x Ferencvarosi TC",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-13",
@@ -86,10 +76,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Vasco x Olimpia",
+      "competition": "Copa Libertadores",
+      "match": "Mirassol x LDU de Quito",
       "channels": [
-        "PARAMOUNT+"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -107,11 +98,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Mirassol x LDU de Quito",
+      "competition": "Copa Sul-Americana",
+      "match": "Vasco x Olimpia",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "PARAMOUNT+"
       ]
     },
     {
@@ -148,11 +138,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Rosario Central x Corinthians",
+      "competition": "Leagues Cup",
+      "match": "Club America x Austin",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
@@ -169,10 +158,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Club America x Austin",
+      "competition": "Copa Libertadores",
+      "match": "Rosario Central x Corinthians",
       "channels": [
-        "APPLE TV"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -223,6 +213,16 @@ window.PAINEL_DATA = {
       "match": "FAS x Verdes",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "Gornik Zabrze x Ferencvarosi TC",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -520,9 +520,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
-      "data": "13/08 16:37"
+      "titulo": "Sem Zubeldía, quem o Fluminense buscará? Oito últimos técnicos chegaram ao tricolor livres no mercado - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONHIwMmVSOTNTY0JfbUJOSHc2LW1KbzVISW04bjRWcVNpRmNNSDQ5SkUyR09FYWdGUVhtWkhVTVJ5bzlzOXcwSFdyQTRWRTZOUk9YaGR0ZVhLb09iQklyclJQRXFqU3czeGdQWUlQa1R2U1Fyck1NNW0wNkNRSV9rZVVRZThaaDBwXzktNk1CaDNoTTJYdk56UXpyVXBPMERBNVAwNFlqakNBdnhPUHhaWlhob1ZHWWEzLXVkZDRVaWQ1cm5Ea3duV21HV2hldlhjdGpmVWZnQVRoUWpzZTRqazVsQ25LRWM5ZnkyN3NYWnpnNDNfOE44ajFR0gGIAkFVX3lxTE50dkNVUWs1ZUxJZFBjV0tsSTV0Ulo1dDdyRHVkM3RTS1pvT0Y4WnF6YlZMQloyNHJyTnI0M0FWRkhyUlladDdrVWhPUVlnU1hiejRVVHZuSF82X21LTHNGU2x2RGRhU1MxdHZoa25tQTNfTnotTU5MU1IyRzNOOXRvamZJUEpvQnZmNjFta1FWN0hwV250TlFpMGg4dzN5dUZtVi1ob0V5S1FqYlhZSTZJMEtpdXN0RHBDWllpMmE2QnBIdDVpdzRVZy03SVlKajFWYVZ0RUpYNFJRcXBiR25HbnBHbXdYZzVDc1FzOHppTVhLcEFnTnJDWDNraUMzNmZYck1nOUNOUg?oc=5",
+      "data": "13/08 12:21"
+    },
+    {
+      "titulo": "Demitido do Fluminense, Zubeldía acumulou 4 derrotas para o Vasco - NETVASCO",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWc1b2pKR243N09Wb1lYczlBUTdzWW9ZTmNKckpReF92bWI3TWRFam1DbGpuNV9OVDgyb0xDTXNBNlRPb1ZxdHBwRExjekFVSFVCWDFIOHVadE50Y1dueVRkZUtWWmhkRnBpMTNSMHpiVnFHNjNXMFhNZ1BLN0JHWmZBdmVadjY4eXBtQTRtRHZBQnUzbWRtdkJnRUt3bnRZZUtv?oc=5",
+      "data": "13/08 15:32"
     },
     {
       "titulo": "Atacante Léo do Fluminense foi emprestado ao Santa Cruz-PE - CidadeVerde.com",
@@ -530,19 +535,14 @@ window.PAINEL_DATA = {
       "data": "13/08 14:43"
     },
     {
-      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
-      "data": "11/08 23:47"
-    },
-    {
       "titulo": "Fluminense x Independiente Rivadavia: Onde assistir ao vivo, horário, escalações e análise pela Libertadores - Terra",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOaFl2RWF0MXVkWkZJV21GNl9mdjR6UEdZXzh0RjZRTnYzV0N0RzZKclFENHVvc0M5aFhIX3k0amtVbEw2VE9aOElsZ19HQ0V4TUZ0Y2lmMHVRUkt6SkNpcjIxek9DU3R0bl9zdXkxM1o2UUZnZk1wZ2VBdmpzU3IzNFhqd3ItZGNYSjRwNDkySzBFM1BiV24xN0ItdnlXV0F2YW94V0U4dDBqRXFzSUF0cnpTcjNnbVJVRkNXbXlvQUlhajZLVy1kZWVObWpfTTR4bjQyZVRCOGdIZThYckxtQ0hpQ1ZXdlNCWVZLM2ZYdHhHcWpxZkVWQkVzNk1oN0lwQURTLTNuOFp4TmxPVTJHYXpKVWlSZHc1Znkzc2pB?oc=5",
       "data": "12/08 07:34"
     },
     {
-      "titulo": "Hulk desabafa após vaias da torcida do Fluminense: \"Não estou conseguindo\" - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON081ZnBZWGpOREFjSWhEbnNIWDdnWXBRTnBKanY0aVNtU2puWDBVSVhENW5id21rSVhlMFhZak9aWWJIVHp4VU4wTG9feFkyMWhQN3VzM0lGaU9PTWhqUFdsMEwyYW1WM1JiZy1fUGdSMXZnSFM2bFZydnc0TGdiMEQxWlljMjdwNUNQQXR6YzNSLWlvb01hTXJsQWRGRGhUT3BMZnJSalNQUnlRVjV2Tk5hR3JRT0kzSTg2elRpU2xIMXlWUGh5cw?oc=5",
-      "data": "12/08 03:13"
+      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
+      "data": "11/08 23:47"
     }
   ],
   "avisos": [
