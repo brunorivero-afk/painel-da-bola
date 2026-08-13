@@ -1,15 +1,95 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 11:24",
+  "atualizado_em": "13/08/2026 12:54",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-13",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Mirassol x LDU de Quito",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "Gornik Zabrze x Ferencvarosi TC",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "Hammarby FF x Rakow Czestochowa",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "14:30",
+      "competition": "UEFA Conference League",
+      "match": "FC Vaduz x Inter Turku",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:00",
+      "competition": "UEFA Europa League",
+      "match": "CSKA Sofia x Maccabi Tel Aviv",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:00",
+      "competition": "UEFA Conference League",
+      "match": "FC ST. Gallen x Sheriff Tiraspol",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Diriyah x Al-Ahli Jeddah",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:30",
+      "competition": "UEFA Conference League",
+      "match": "Austria Vienna x Beitar Jerusalem",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:45",
+      "competition": "UEFA Conference League",
+      "match": "Shelbourne x Ajax",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Vasco x Olimpia",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
@@ -27,10 +107,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Vasco x Olimpia",
+      "competition": "Copa Libertadores",
+      "match": "Mirassol x LDU de Quito",
       "channels": [
-        "PARAMOUNT+"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -147,6 +228,58 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-14",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x VfL BOCHUM",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Holstein Kiel x FC St. Pauli",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "13:50",
+      "competition": "Campeonato Saudita",
+      "match": "Neom x Al-Fayha",
+      "channels": [
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC (F)urzburger Kickers x SV Wehen",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "14:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Lask Linz x Ried",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
       "time": "15:00",
       "competition": "Paulista Sub-20",
       "match": "Jabaquara U20 x Corinthians Sub-20",
@@ -167,11 +300,45 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-14",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x Comerciantes Unidos",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Hilal x Al-Faisaly FC",
       "channels": [
-        "FANATIZ"
+        "XSPORTS",
+        "SPORTV",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ettifaq x Al Riyadh",
+      "channels": [
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Galatasaray x Çorum",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "Sporting CP x Guimaraes",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -187,10 +354,21 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-14",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Atletico Grau x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
       "time": "17:15",
       "competition": "Paulista Sub-20",
       "match": "Itapirense U20 x Santos Sub-20",
       "channels": [
+        "XSPORTS",
         "YOUTUBE"
       ]
     },
@@ -222,7 +400,9 @@ window.PAINEL_DATA = {
       "match": "Ponte Preta x Náutico",
       "channels": [
         "XSPORTS",
+        "ESPN",
         "SPORTYNET",
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -234,7 +414,7 @@ window.PAINEL_DATA = {
       "match": "São Bernardo x Botafogo SP",
       "channels": [
         "SPORTV",
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -313,28 +493,28 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 27.2,
       "temp_min": 18.8,
-      "chance_chuva": 22,
+      "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.7,
       "temp_min": 17.8,
-      "chance_chuva": 2,
+      "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.1,
       "temp_min": 14.2,
-      "chance_chuva": 69,
+      "chance_chuva": 36,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.3,
       "temp_min": 14.5,
-      "chance_chuva": 71,
+      "chance_chuva": 57,
       "condicao": "Garoa fraca"
     }
   ],
@@ -345,24 +525,24 @@ window.PAINEL_DATA = {
       "data": "13/08 10:33"
     },
     {
+      "titulo": "Atacante Léo do Fluminense foi emprestado ao Santa Cruz-PE - CidadeVerde.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEyXzdaa09LSEZXNmswVHdvQUVkZGVRMFlvd2JZUmRHMzRfNGRtUXhzam1xaF9lVmk3X2w0azgwb3FLZUlLZy1IMk5YdE8tZktHM1hOemVWX2FTcFU5TURUcEk4dk04UE5LSW9oWEcwb25Cc1pRTWZjNzJRdm15TTNGZ0hwWTNNdnJFQVFLUGd6c1JLUGxFcUtSN3NBeVk?oc=5",
+      "data": "13/08 14:43"
+    },
+    {
+      "titulo": "Fluminense monitora Memphis Depay; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFRWdVdJOWZ5X2hUZ3NmUkQ0aTZ2UEJQUmF5dC0ycS13dFZEdDJNclFVekpTVWY0WHpsUXBJNWtOa0ZjbTZJMDBtckRlSkNFSFViUG5tU0ozemZ5VXRrRzhhSjFRMGRDSk0wVmItYXZmT0l4ckczTnNOcWFPWVlnemZfdExna1J3ZDhOTFpVYXNBSVlOYjR1NzhSMmhyd2Z2NUxaU1U2UU1kMm5IdVlXQzNFN2poQURHNWFMNEhQOUt0Ynk1NnRKbkRaaUk?oc=5",
+      "data": "12/08 14:03"
+    },
+    {
+      "titulo": "Fluminense assina primeiro contrato profissional com Ryan, joia do sub-16, e fixa multa de R$ 358 milhões - ge",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObmdoWnJMS0Z1dUt1N2xrQkRLMjl5U2owcWFuQmF3blQ2aGEzenY5d1luM2ZyTnA3eHlSZU1aVTBTT19wRE82OTVDMTRfLUpoYzA4UlA1SE5NVWRndVU0X0pNc0xGd3QwWFd3b2E4OEI4eWllenpGTEhJNlNNTTVOTURXS0ZjUklhUTJJcGFnZ3lSVUJ0Z3FkZW50bzFPWEpWRXJmak8tMWs0T3ozd3Q3SXZ6Z0xYS0pySjAzTmtOclp3ME0tU0k4cWVWalZUcGxYWG9UazVDcDFTaDZKM1JreF8zbDEwb1FKYW00aUJ6TTAtSWw2UG5TaHR3RXRXT2stMjIw0gGSAkFVX3lxTE15NU41bm42UWxYN01ZeGZSQV9weHotYnhVWGpuRFVwcnV2WVZkaUdNMnd5TGlYeENyU2ExY3RWd3gwcjlhQW1PdkJ5OGtxRF9POWZ5U2trVWkxYmVpdzJxc2tiT0pIQ2ZrU3JnRHNFcFU2VVprV3dWeVhCUXBDWFp0bmFiM01yQ2ZfN0NtakVWNEprUlh2dVZwdDlEQzRwWXlYd2NaMkMtOWZqSE9iVGlPN0U1dzlYUF81T2x2amNJOTBmNEZONWoxckJmTG43clJZMjhMaDZtcnhaRW16UVFYNnI0S3JBUHZrUlhselcwX29aX0hWcDVtRE12eUZVRUZpT2tUQ1p0ejBKS0wxUDNVTXc?oc=5",
+      "data": "11/08 18:13"
+    },
+    {
       "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
       "data": "12/08 21:30"
-    },
-    {
-      "titulo": "Fluminense demite Zubeldía e comissão técnica - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdF9odWlmTXcwUXNxX1pSbEZmVVNKRlR3M3lMcmhvbjNhMGV5ZENrM2lNVnZ3V1N0dXlieUdURGhDNi1udm81MTlCZHZFUndDZ25Nb19kdkR4SC1hOWJiZEE2ZnpOQTVSb3FaMHVFdVI5RVRFS1k1NTh5OC1HRC1TaUxyUFZVV2V6eGxseHNXZ0x4YjV3eTlYN25pODU?oc=5",
-      "data": "13/08 10:40"
-    },
-    {
-      "titulo": "Riquelme, do Fluminense, deixa emoji de agradecimento em post de demissão de Zubeldía - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOelIzNmRpWjJhUjBRU1MtV0k4b3hRN2ZicmRBTy1PLW5jaklqY2ZSTGNtS1pxU0hGdWhhSk1wOEx3cnYwcENnd3RzZTAzRDMydGNMckE4OTI1aVNzemYxR2hMd3d2UHNuWjRkUGxPekFDdmp5N2tiYWE2Ukpxb1NUSUNjaEo4a016TzNMXzVhS1JzQUNFMzI2RUloSlVXTm1ZR2t1Rm9QT1FtV1VsVm5XaWVWMmlzdktvTTRzN01VWmRmZGFBN3FEVERVRG1fbXh6NUJUWXFldjFYeC1Fd0hZelo2WUtrd9IB9AFBVV95cUxOemtTRVZNeXRZZEVCYUtzRng0bTF1S0lic2l0aVRpNlBLc2E1ZUYxMy1xd0NfU00wT19BdFRnUEJ2NXdrYlF3cFA0Skk3SVhaQzNuVDU0eFJwZDlmSkM1OGpBUXRveEJLbVF6T2ZpWTRpQ0NJOHc2dTRWdGNxU2RIMWNKNWtxTk01WlIxTTRSQ2RRTlBlckRqdXhhWjNJaXhHbmNpM3NpTUNJSFp3NnZGOE9GZGJhX2JxSUY2SlBSazZqX2dCY0FZbWZsamRiUVE0UmdHUFVKLWpDdnUtYVVYbS11TDZnMW9TOElJcTZuV3d2NEUw?oc=5",
-      "data": "13/08 12:08"
-    },
-    {
-      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
-      "data": "10/08 23:50"
     }
   ],
   "avisos": [
