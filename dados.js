@@ -1,27 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 16:54",
+  "atualizado_em": "13/08/2026 17:37",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "15:00",
-      "competition": "UEFA Europa League",
-      "match": "CSKA Sofia x Maccabi Tel Aviv",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al Diriyah x Al-Ahli Jeddah",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-13",
@@ -108,6 +87,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "21:30",
+      "competition": "Leagues Cup",
+      "match": "Club America x Austin",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "21:30",
       "competition": "Copa Sul-Americana",
       "match": "Cienciano x Botafogo",
       "channels": [
@@ -128,16 +117,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-13",
-      "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Club America x Austin",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
       "time": "22:00",
       "competition": "Leagues Cup",
       "match": "Cruz Azul x Chicago Fire",
@@ -150,7 +129,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-13",
       "time": "23:00",
       "competition": "CONCACAF Central American Cup",
-      "match": "Antigua GFC x CD Marathon",
+      "match": "Firpo x Diriangen",
       "channels": [
         "DISNEY+"
       ]
@@ -160,7 +139,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-13",
       "time": "23:00",
       "competition": "CONCACAF Central American Cup",
-      "match": "Firpo x Diriangen",
+      "match": "Antigua GFC x CD Marathon",
       "channels": [
         "DISNEY+"
       ]
@@ -219,8 +198,29 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Diriyah x Al-Ahli Jeddah",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:00",
       "competition": "UEFA Conference League",
       "match": "FC ST. Gallen x Sheriff Tiraspol",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "15:00",
+      "competition": "UEFA Europa League",
+      "match": "CSKA Sofia x Maccabi Tel Aviv",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -520,9 +520,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
+      "titulo": "Sem Zubeldía, quem o Fluminense buscará? Oito últimos técnicos chegaram ao tricolor livres no mercado - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONHIwMmVSOTNTY0JfbUJOSHc2LW1KbzVISW04bjRWcVNpRmNNSDQ5SkUyR09FYWdGUVhtWkhVTVJ5bzlzOXcwSFdyQTRWRTZOUk9YaGR0ZVhLb09iQklyclJQRXFqU3czeGdQWUlQa1R2U1Fyck1NNW0wNkNRSV9rZVVRZThaaDBwXzktNk1CaDNoTTJYdk56UXpyVXBPMERBNVAwNFlqakNBdnhPUHhaWlhob1ZHWWEzLXVkZDRVaWQ1cm5Ea3duV21HV2hldlhjdGpmVWZnQVRoUWpzZTRqazVsQ25LRWM5ZnkyN3NYWnpnNDNfOE44ajFR0gGIAkFVX3lxTE50dkNVUWs1ZUxJZFBjV0tsSTV0Ulo1dDdyRHVkM3RTS1pvT0Y4WnF6YlZMQloyNHJyTnI0M0FWRkhyUlladDdrVWhPUVlnU1hiejRVVHZuSF82X21LTHNGU2x2RGRhU1MxdHZoa25tQTNfTnotTU5MU1IyRzNOOXRvamZJUEpvQnZmNjFta1FWN0hwV250TlFpMGg4dzN5dUZtVi1ob0V5S1FqYlhZSTZJMEtpdXN0RHBDWllpMmE2QnBIdDVpdzRVZy03SVlKajFWYVZ0RUpYNFJRcXBiR25HbnBHbXdYZzVDc1FzOHppTVhLcEFnTnJDWDNraUMzNmZYck1nOUNOUg?oc=5",
+      "data": "13/08 12:21"
+    },
+    {
+      "titulo": "Fluminense está disposto a pagar salário astronômico para Depay - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFBBQjRlcnU0bHhfaURPYVRUTTlLY3VXTzFNMGRpakFwNDM1d2tvdHUxSzB2YlUtMVRYVGpvSEUzLVlxVDdSREpGRnhFQkxfcWszV2pqNUU3ZENFcmh6djVnSHFQX0h1ZkduTXUwV3RjQ1ctbUtuVnVNNDN0dmUyVEJZLWtrWUZidE5icFlsQXBIbFo1anMyakd0WTV5d0ctd3VmRXFmc2hRemlOLTFuUXRjTDdOSl9jM21JVDIxanVOTW9IWTl2Sk1aMXRWeVNvTl9ZZTd0U1RKbXZVWEhyTlE0ZWlLLWFUMkE?oc=5",
+      "data": "13/08 19:44"
+    },
+    {
+      "titulo": "Destaque do Fluminense, Léo é emprestado ao Santa Cruz de Pernambuco - CidadeVerde.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSm9ueDVQeTE0NU16cXl4azZYRTlLM2dwS0g0LURmemp3bF9MZUpYNWtQSUUyd0JOeGdKeEhvT0ZZUkZtZ2JDQm51WjRJcFJWTWRScTRrNGV3a3JTWXpxRW9nSUpSelRnUEUyTGlKYWdKSmI2SHJlZDhkN1NGTHIwbWNhajZCanVuNXY4d2RuNWtGNnl5ZnprdGlrYkZDOHFJdndGcVR6S3l0QQ?oc=5",
+      "data": "13/08 18:47"
     },
     {
       "titulo": "Demitido do Fluminense, Zubeldía acumulou 4 derrotas para o Vasco - NETVASCO",
@@ -530,19 +540,9 @@ window.PAINEL_DATA = {
       "data": "13/08 15:32"
     },
     {
-      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
-      "data": "10/08 23:50"
-    },
-    {
-      "titulo": "Fluminense descarta Fred para substituir Zubeldía e traça estratégia por técnico no mercado - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVzh3ZTJVSVhRZWZHY2pybEtTREhCSi1GWms1Tm0zdUJVV09pSnZLWUdGcHRmdFJtVmlITVdyQUhVLXFTQnQ0N2MzLVNyekVDWHBPbUVkS3VyTnVtd1Y4dlM3RVVaa2NlZkFHZHhYOG8tek0wdS16ZUdVRXd4QVN2MHV0Ym12MWp3U0RMN0NrYUtSZmZHR1VxWFp1ZHU2TzZ0Tlh0MVhxbERjbzE3QnFaS2U4Q2h6Unl0RDR0QWEyNENjNWlleXBkaGs4TVdIcTI4M2JXOXFiYkk?oc=5",
-      "data": "13/08 16:37"
-    },
-    {
-      "titulo": "「Fluminense x maricá Futebol Clube」· confrontos diretos, resultados anteriores e próximos jogos 🏆 - esporte.ce.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxORG1lSDlURE9VenlyZWZ2bk9RejBfX0JlODRuSkE4dkdKejNUT2ROTlFMdUhoLUR5YzBTU2VTeXNYV3RYV2NkT0FlTUtQcXdPcUZnQ0VYblZ2Q0lvcm93SUN6Y2psNG1pVEIwaFZreTVWVGVlRnk3WldpVlpubktUUjNBQnhnRTdGS196N2k2S2w4ZlRsVnFTb3k3TFhmWUFDblo1WHRzQ1hZUVpPQ2xzcjY2b2Vtb0E2NVFXOTY2Y1dkR0hkOHlhcmhmOE9LR3VSXzlERmVLaUVHMmVVQnRyUG5YRUktdko0TDBqaUUtY0JWWUh1MmpWaVVWckNsVXBTNmREU1NpSW1tVjdmZE14eXN2ZXN6UEVJU3VwTm14cnBsTDJaYTcyXzc5WkRpOVQ0WVJGYVFXLTVOQQ?oc=5",
-      "data": "11/08 07:38"
+      "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
+      "data": "12/08 21:30"
     }
   ],
   "avisos": [
