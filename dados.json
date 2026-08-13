@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "13/08/2026 01:06",
+  "atualizado_em": "13/08/2026 03:13",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "FAS x Verdes",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-13",
@@ -142,6 +132,16 @@
       "match": "Portland Timbers x Club Tijuana",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "FAS x Verdes",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -345,9 +345,14 @@
       "data": "12/08 04:45"
     },
     {
-      "titulo": "Bastidores: Fluminense vê saída para crise com Zubeldía, mas teme risco - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLTJKQXlmT21QaDZWRE9VaTVGTnpjaHVibENHUEVRR2djc082N25nQlBGU0ZiZXRaQVk3V2huZzVVakpBNXNfWENGME5GdFM5QWhmcEhQU053Rmo1cUt5SEVUT0xhTnZ2TnhJZFJ2WG9fdlYtUGVzNlRWalluaWJfaHpyNnNEemhxMl9Ud3d3WGVsQjRva2JjQUYyS1Q4Q3dyTVN0ZEF0M0hXYVVyNmUxWXhEc1VBUmp0NXc?oc=5",
-      "data": "12/08 17:28"
+      "titulo": "Bastidores: Zubeldía vive situação delicada, mas segue respaldado pelo elenco no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjNKZnYwWTVLbXdfZnhLMnd6VVVSeHpGbmVONHJEaUx5M3J0MTRxQ1dOcW0xZTVQV2VEY0lWVmJMQlVtUFVoVkQzZzZDalJ4bDdyRmdva0poUkNQZnkxWTN2TVNXSGx3YzhITmVIWmFST21UQUtaQmpFdzRQQjlDQ3o2bWhCQWxWa0puX3BCZjZweHcyX3FGOV9Wc2hld0JSTlRTR1o2WHIyemZoS0NsWlJBT1V1OV9DY2huY08yakJibV90QWZnLUU3YUJKMEFGUGp4eF92ZnJnZzF1SnVZNkJSdW4xb3FFRkEyZGtyOTFqQdIBgAJBVV95cUxOTGVVRk5LTUVlV0lQWjJHeFdvWnJkcS1XVWpMQ0Rmb0NTM2x4NGpJajM2ZFhLM1ZMODRGa29GOWhqSU94dTdJU3J3aDJJd29SVnNIVGRPekNnN0d1VW4tdXF2QmptZV80RENoMFRsVGN5d3l6REx6RmxlN0lVT2FVVkQybEN5TDQtM1pFS0FITmotLUl1MjFnS2Uxa1NNU3JRTG9uTmtOa3NmT0NKTTc1bmVwallBREZhU0RpWXZhcXRTczJvSE9rZHh0SkUyeUFwQUdhUVdLVnRfbE50S2FNZ0xmUnVoVk9vaFgtaE80cXo2dkZkckZILTBKUGJQYUQ5?oc=5",
+      "data": "12/08 18:34"
+    },
+    {
+      "titulo": "Hulk defende Luis Zubeldía e acredita em classificação do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclFSWlRHRFR5SWFzZjhCOTUyek9lM1Vob2ZxVFdobFkzU0tqSFhoTnlITkNqN0tqRkJEeFNqNVlISFNmVDhBVFVSZzVMaHc4SE1zb3pkeDdIc3ZMRG5mN0wtcUdORjZUR3F2Q1RHaWs5QzNSOFVJeEZxVFFReDJpTzBTOUNPeU9iNW16c3Uzclh0WC0zejJGLWE0WHBIcUMzaHFobDBIUjl1UTlfLXBUMDFLcUE5Qkl6UUNTa3otTFF4QkZDeUFIUDhqZ1pyMGNtZ0RkYnRDQUVuLTVaTXJTMzdLR2k2YUN0dlF3eg?oc=5",
+      "data": "12/08 16:02"
     },
     {
       "titulo": "Zenit negocia renovação com ídolo do Fluminense e pretende estender contrato do brasileiro - Terra",
@@ -355,14 +360,9 @@
       "data": "13/08 03:13"
     },
     {
-      "titulo": "Fluminense vê Fábio salvar e só empata com o Rivadavia pela Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUFFQ0c0UjRrMExHSHpDZ3FHLTJrVUFFUWE3Q0w2VzNTek9fYXpUWkEyR2VwTU1aTFF6ZmVyUU5weW42NWtRTVFwaHgxRy1ranZLSzZDZGJ0X0oyQXFNSk9nTHJxaXR3MW04THprZm1oZGxMUmlHdk5HMzJhU3lKR0lQTl9qbDVKN3BMSFRiY3EzMWNOQWRiQnB3M1cyWTFVWmk4YUxicnJQd2NlT1NTRDVsNWhLQ05RdXdYWndFTWFEWmVWM3c?oc=5",
-      "data": "11/08 23:54"
-    },
-    {
-      "titulo": "Ídolo do Fluminense, Nino está próximo de assinar contrato até 2030 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVkdjLXRBNVZtS3I4NHJCQWFpYkZsN3h4S1k4cGNXbnVsS2hXb3N1MjNJVnlJVzJ0ODg4cUFtMTdjcDhNRnA5cWtVVThOWVRqS3BtbWFQNFdsR0xXOGNkWVp2MGxMTks2NHNtY19MMW1lRlUzUl9ka29rVDZYOGM3Q3M0R0c3cDRiQzYxZXpnYXEtZm1oSG1Ja01DWlo3TVZNUXVxaXM3LUZva1FiejBtdUR4cjNxN0dadWZ1MWtCMDAxaEJseVFWWVQ5TjZ6M3NHOTNQUlAtWi1BWndVcGFxWFBTeXcwRHFFanZsMzBR?oc=5",
-      "data": "12/08 23:19"
+      "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
+      "data": "12/08 21:30"
     }
   ],
   "avisos": [
