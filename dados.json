@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "13/08/2026 03:13",
+  "atualizado_em": "13/08/2026 05:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -311,31 +311,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.7,
-      "temp_min": 18.4,
+      "temp_max": 28.1,
+      "temp_min": 18.8,
       "chance_chuva": 2,
-      "condicao": "Nublado"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.9,
-      "temp_min": 17.5,
+      "temp_max": 26.0,
+      "temp_min": 18.0,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.1,
-      "temp_min": 14.5,
+      "temp_min": 14.2,
       "chance_chuva": 47,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.9,
-      "temp_min": 13.8,
+      "temp_max": 27.5,
+      "temp_min": 14.2,
       "chance_chuva": 69,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -345,9 +345,9 @@
       "data": "12/08 04:45"
     },
     {
-      "titulo": "Bastidores: Zubeldía vive situação delicada, mas segue respaldado pelo elenco no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjNKZnYwWTVLbXdfZnhLMnd6VVVSeHpGbmVONHJEaUx5M3J0MTRxQ1dOcW0xZTVQV2VEY0lWVmJMQlVtUFVoVkQzZzZDalJ4bDdyRmdva0poUkNQZnkxWTN2TVNXSGx3YzhITmVIWmFST21UQUtaQmpFdzRQQjlDQ3o2bWhCQWxWa0puX3BCZjZweHcyX3FGOV9Wc2hld0JSTlRTR1o2WHIyemZoS0NsWlJBT1V1OV9DY2huY08yakJibV90QWZnLUU3YUJKMEFGUGp4eF92ZnJnZzF1SnVZNkJSdW4xb3FFRkEyZGtyOTFqQdIBgAJBVV95cUxOTGVVRk5LTUVlV0lQWjJHeFdvWnJkcS1XVWpMQ0Rmb0NTM2x4NGpJajM2ZFhLM1ZMODRGa29GOWhqSU94dTdJU3J3aDJJd29SVnNIVGRPekNnN0d1VW4tdXF2QmptZV80RENoMFRsVGN5d3l6REx6RmxlN0lVT2FVVkQybEN5TDQtM1pFS0FITmotLUl1MjFnS2Uxa1NNU3JRTG9uTmtOa3NmT0NKTTc1bmVwallBREZhU0RpWXZhcXRTczJvSE9rZHh0SkUyeUFwQUdhUVdLVnRfbE50S2FNZ0xmUnVoVk9vaFgtaE80cXo2dkZkckZILTBKUGJQYUQ5?oc=5",
-      "data": "12/08 18:34"
+      "titulo": "Zubeldía será demitido? Jornalista traz bastidores da situação do técnico no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQm8yN0xIN3RkaTg5WEQ5WHpZakVQeExPemxHX05rRkRpR0J6bVNaQ0Jqa0ZHTXRmeVNXdVVkekNMLTFkQ0Uwdkh1NzhCcW5qNk4wN09LNG9hWlV2WTJIaHhMaXFVd0NnSjZSV1N1UUxXNVA4R205X0pNbWpyR3F1RUQwRU5HcHUzRHdlRjZoY1BuZFZHX0JEZ2xEaDdqQkM4TXBtWjdHZmtPVVpEZzFXQlV3WQ?oc=5",
+      "data": "12/08 18:33"
     },
     {
       "titulo": "Hulk defende Luis Zubeldía e acredita em classificação do Fluminense - Terra",
@@ -355,14 +355,14 @@
       "data": "12/08 16:02"
     },
     {
-      "titulo": "Zenit negocia renovação com ídolo do Fluminense e pretende estender contrato do brasileiro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSUF6U1U2Q2RxRVd3UHFzZWhwWFFscHpqN0FFWkNRZXh1cDRkTkdfRVZuVnhaUGRmUC1RSnhtSWNsZkptak1nVFM1ZzNpZEtBRkMtLTVRaEVFcTFNYVptc09oZ3loTXIwQnI2amU3VFVZSFM0NS15RkZCVVdOZHJGOWVjNEFkUWVLZ1QxT05zaGZlQVJYMHF3eF9wN01heTBOTkRSVEtmZGl1ZUhCNWlyZHBvNkxGMWxJXzhhcE0zZ0tqUFZBUVYyTjVTb25GNFhJYV9lVVdacW1zOHhXM1NIckdYalc3S2NzS3VkSk5WUjBPV2t3TncwaVVKUzlLOUhETDlUUEIzZk9aa0I1dGc?oc=5",
-      "data": "13/08 03:13"
+      "titulo": "Flamengo compra direitos de promessa que jogou nas bases de Fluminense e Botafogo - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWMydmlQMG1zWFlNaXc0VW04MXkweURfemtWaXBCNTlRMmM4UHNUZ29hQjRsNjZ2WFh3X0lvTG1ncmRkVDBIWno1RDgtR1MyUGRwWVBQbUZmNmEtODl4MzAzZmpPZThXUW8xY3JVcWhsWExlaXF2TzBOanZfMWYyMTNYOGpLUmNPTFMzZERaSko2N3hBYWlscjlsbjh5S0JfQTMtT0xySXdKeE4yUWdSNWpEUDJMRTEzaG9fbmFaOVZoSmMzUl9KcDFsYWxWYkZxSTIxejdIZlRSaDNUX3AzWW83cVVlRHdxVG5iakRqODBjcms2d0xHemU4Q191QQ?oc=5",
+      "data": "12/08 21:34"
     },
     {
-      "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
-      "data": "12/08 21:30"
+      "titulo": "Por onde anda Ruy Cabeção, ex-lateral de Botafogo e Fluminense? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnR2S3duZXdONUs0WnF1MENFX2xaT2MzRTlrZTZTaTc5YkZqdjZCRFA5OG1SX0o0RWYzck5hOWJ1dVBuY1NhcVpwb2hxNFpsb2xpUzNaVGM1QlVhdFVIRUZiMkljclFwczRMSVNudENZQWI5U2F6TXYwbFp2T0NnVzNYV0tqVUlPUlVxTWN2TTRWVTNZZWN2ODh6QQ?oc=5",
+      "data": "12/08 09:54"
     }
   ],
   "avisos": [
