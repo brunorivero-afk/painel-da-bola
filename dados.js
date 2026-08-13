@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 12:54",
+  "atualizado_em": "13/08/2026 13:52",
   "jogos": [
     {
       "sport": "futebol",
@@ -520,14 +520,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Zubeldía é demitido do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTVDT1ZqZURpYVdySFZsTWJIRFoxbnFaVEV3cVZBX2s4R2todTA4YlY3bFRJOFlrY2p0OHJmRHBGU3U1Y3Uwb3Z6Qm9rZW4xWjRtRXhrR1pzSWhqTmJvUFVndkhaSV9kWEExWlNrNEM5VFVjU2ZCWTEwZ25EeEFDNV8wcXRqMTNLZzNmd1lpZzE5c0c3Mk5LVTZDRFhnQdIBrAFBVV95cUxPMUxNaUJlVW5lNWY2TjFxQ2FOdEhFdm1VbVFDY0N2bC12YmJLTUxzN1BZbnpJaE5QMG02dmwwVWpFSEI4c1dYRlZWT0I5dzVsRHpoTGZ4bER0VjUwU1VQN0NTd21NR2lsd1pQbkxSbXdjTS1IcmZmLVQ2S3lwVHlaZXVyU3pVTzh0ckxQTmNrUHdsWTdWSldBLWJJRmxsUGNhNGZPcndvMElvcWxB?oc=5",
-      "data": "13/08 10:33"
-    },
-    {
-      "titulo": "Atacante Léo do Fluminense foi emprestado ao Santa Cruz-PE - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEyXzdaa09LSEZXNmswVHdvQUVkZGVRMFlvd2JZUmRHMzRfNGRtUXhzam1xaF9lVmk3X2w0azgwb3FLZUlLZy1IMk5YdE8tZktHM1hOemVWX2FTcFU5TURUcEk4dk04UE5LSW9oWEcwb25Cc1pRTWZjNzJRdm15TTNGZ0hwWTNNdnJFQVFLUGd6c1JLUGxFcUtSN3NBeVk?oc=5",
-      "data": "13/08 14:43"
+      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
+      "data": "13/08 16:37"
     },
     {
       "titulo": "Fluminense monitora Memphis Depay; entenda - Terra",
@@ -535,14 +530,19 @@ window.PAINEL_DATA = {
       "data": "12/08 14:03"
     },
     {
+      "titulo": "Atacante Léo do Fluminense foi emprestado ao Santa Cruz-PE - CidadeVerde.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEyXzdaa09LSEZXNmswVHdvQUVkZGVRMFlvd2JZUmRHMzRfNGRtUXhzam1xaF9lVmk3X2w0azgwb3FLZUlLZy1IMk5YdE8tZktHM1hOemVWX2FTcFU5TURUcEk4dk04UE5LSW9oWEcwb25Cc1pRTWZjNzJRdm15TTNGZ0hwWTNNdnJFQVFLUGd6c1JLUGxFcUtSN3NBeVk?oc=5",
+      "data": "13/08 14:43"
+    },
+    {
       "titulo": "Fluminense assina primeiro contrato profissional com Ryan, joia do sub-16, e fixa multa de R$ 358 milhões - ge",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObmdoWnJMS0Z1dUt1N2xrQkRLMjl5U2owcWFuQmF3blQ2aGEzenY5d1luM2ZyTnA3eHlSZU1aVTBTT19wRE82OTVDMTRfLUpoYzA4UlA1SE5NVWRndVU0X0pNc0xGd3QwWFd3b2E4OEI4eWllenpGTEhJNlNNTTVOTURXS0ZjUklhUTJJcGFnZ3lSVUJ0Z3FkZW50bzFPWEpWRXJmak8tMWs0T3ozd3Q3SXZ6Z0xYS0pySjAzTmtOclp3ME0tU0k4cWVWalZUcGxYWG9UazVDcDFTaDZKM1JreF8zbDEwb1FKYW00aUJ6TTAtSWw2UG5TaHR3RXRXT2stMjIw0gGSAkFVX3lxTE15NU41bm42UWxYN01ZeGZSQV9weHotYnhVWGpuRFVwcnV2WVZkaUdNMnd5TGlYeENyU2ExY3RWd3gwcjlhQW1PdkJ5OGtxRF9POWZ5U2trVWkxYmVpdzJxc2tiT0pIQ2ZrU3JnRHNFcFU2VVprV3dWeVhCUXBDWFp0bmFiM01yQ2ZfN0NtakVWNEprUlh2dVZwdDlEQzRwWXlYd2NaMkMtOWZqSE9iVGlPN0U1dzlYUF81T2x2amNJOTBmNEZONWoxckJmTG43clJZMjhMaDZtcnhaRW16UVFYNnI0S3JBUHZrUlhselcwX29aX0hWcDVtRE12eUZVRUZpT2tUQ1p0ejBKS0wxUDNVTXc?oc=5",
       "data": "11/08 18:13"
     },
     {
-      "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
-      "data": "12/08 21:30"
+      "titulo": "Entenda por que Fluminense fez seis substituições contra o Independiente Rivadavia - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmtBcTU5U3FDQ3NCczAwanY1QmVheEVzZFUtY3BDaHFJOHUwaUdtcGVLY00tRTA4S1ZlSENtTzh2TlVCdkRCa1U1eHBFZVpnRUdKb3Zhb3VSWk1tanpydXU4b0t3aXFZUkt3UkcwYldwcGotdVBPUnMzcm1GT0hFejI1TVdiaWVWeDJETHRvajN3SzVVOWxjWmZOaTlaOW1NWEYwSUpxd3dVUVpDRWxNNlZyQXhQcXZTZ3dzSVJZd1gzRzJFQ2FEZ253NkJUV0dqYTRZYnBLQTBEd0JEbkN2TVQydHpWRl9C0gH3AUFVX3lxTE82ZlpCNTFDelJFS1FrVl9FX2VVeWI4VUxoMjRIQlB3eVZmVENqWjV2WVVNY1d4eXdPblF3MjNxQjVFejZ0YWktRWp4M1B5OElMNlBqS29ZUWNNX1JQMU9adHY3aHZyTnhPT3lVR0g1a3F5R19PckZFRWdwN0ptWHUtOFM2M1F0X1NwN0lUQ1gzSlRNV181U1J2dnJyNGNyaWMtV1dEMDR4Y2tGNVlLM2tJQU42QVYyazNVTTdFOU9HV2thNW51aXZxc2NDVnhUMHJ3WFdTME5Qbi1XOFZMc2lCeE1aUEg3VzA5RTBCLWJLSU5YVll6WGc?oc=5",
+      "data": "11/08 23:47"
     }
   ],
   "avisos": [
