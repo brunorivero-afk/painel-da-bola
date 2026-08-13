@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 18:39",
+  "atualizado_em": "13/08/2026 19:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -520,14 +520,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
-    },
-    {
-      "titulo": "Fluminense está disposto a pagar salário astronômico para Depay - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFBBQjRlcnU0bHhfaURPYVRUTTlLY3VXTzFNMGRpakFwNDM1d2tvdHUxSzB2YlUtMVRYVGpvSEUzLVlxVDdSREpGRnhFQkxfcWszV2pqNUU3ZENFcmh6djVnSHFQX0h1ZkduTXUwV3RjQ1ctbUtuVnVNNDN0dmUyVEJZLWtrWUZidE5icFlsQXBIbFo1anMyakd0WTV5d0ctd3VmRXFmc2hRemlOLTFuUXRjTDdOSl9jM21JVDIxanVOTW9IWTl2Sk1aMXRWeVNvTl9ZZTd0U1RKbXZVWEhyTlE0ZWlLLWFUMkE?oc=5",
-      "data": "13/08 19:44"
+      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
+      "data": "13/08 13:11"
     },
     {
       "titulo": "Destaque do Fluminense, Léo é emprestado ao Santa Cruz de Pernambuco - CidadeVerde.com",
@@ -535,9 +530,14 @@ window.PAINEL_DATA = {
       "data": "13/08 18:10"
     },
     {
-      "titulo": "Demitido do Fluminense, Zubeldía acumulou 4 derrotas para o Vasco - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWc1b2pKR243N09Wb1lYczlBUTdzWW9ZTmNKckpReF92bWI3TWRFam1DbGpuNV9OVDgyb0xDTXNBNlRPb1ZxdHBwRExjekFVSFVCWDFIOHVadE50Y1dueVRkZUtWWmhkRnBpMTNSMHpiVnFHNjNXMFhNZ1BLN0JHWmZBdmVadjY4eXBtQTRtRHZBQnUzbWRtdkJnRUt3bnRZZUtv?oc=5",
-      "data": "13/08 15:32"
+      "titulo": "Fluminense monitora Memphis Depay; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFRWdVdJOWZ5X2hUZ3NmUkQ0aTZ2UEJQUmF5dC0ycS13dFZEdDJNclFVekpTVWY0WHpsUXBJNWtOa0ZjbTZJMDBtckRlSkNFSFViUG5tU0ozemZ5VXRrRzhhSjFRMGRDSk0wVmItYXZmT0l4ckczTnNOcWFPWVlnemZfdExna1J3ZDhOTFpVYXNBSVlOYjR1NzhSMmhyd2Z2NUxaU1U2UU1kMm5IdVlXQzNFN2poQURHNWFMNEhQOUt0Ynk1NnRKbkRaaUk?oc=5",
+      "data": "12/08 14:03"
+    },
+    {
+      "titulo": "Fluminense está disposto a pagar salário astronômico para Depay - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFBBQjRlcnU0bHhfaURPYVRUTTlLY3VXTzFNMGRpakFwNDM1d2tvdHUxSzB2YlUtMVRYVGpvSEUzLVlxVDdSREpGRnhFQkxfcWszV2pqNUU3ZENFcmh6djVnSHFQX0h1ZkduTXUwV3RjQ1ctbUtuVnVNNDN0dmUyVEJZLWtrWUZidE5icFlsQXBIbFo1anMyakd0WTV5d0ctd3VmRXFmc2hRemlOLTFuUXRjTDdOSl9jM21JVDIxanVOTW9IWTl2Sk1aMXRWeVNvTl9ZZTd0U1RKbXZVWEhyTlE0ZWlLLWFUMkE?oc=5",
+      "data": "13/08 19:44"
     },
     {
       "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
