@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 05:16",
+  "atualizado_em": "13/08/2026 06:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -355,14 +355,14 @@ window.PAINEL_DATA = {
       "data": "12/08 16:02"
     },
     {
+      "titulo": "Fábio aponta falhas do Fluminense e admite: ‘Temos que superar’ - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTUdyNkdmYVM5SnRFUlhYd18ySFpVQ05oRkZXQVJrLWkxRXVLYms3UjhIaWZaRThpUWdCWEdRcDNrQjlNSnhsS1o5akQ2dGhESTNmYy1Kd0ItbzQ4eXZ6SW5SQ2wwWkI3cU9qX0hxZVBGY3JMX1pMTVlsS2NQR1F4RFFHc1hVakVIZ2x3V29GYnRRVU90NnhuR2lTUU1IYnZuRDFmLVNfemNmeUhxcjNHYWJpdFdmUEEwaHNhbVg5dHEyamF3U09DSF93cWV4bjNxMFdEWmtkb0MyMXFvOHNpWFR2OWs?oc=5",
+      "data": "13/08 09:41"
+    },
+    {
       "titulo": "Flamengo compra direitos de promessa que jogou nas bases de Fluminense e Botafogo - Terra",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWMydmlQMG1zWFlNaXc0VW04MXkweURfemtWaXBCNTlRMmM4UHNUZ29hQjRsNjZ2WFh3X0lvTG1ncmRkVDBIWno1RDgtR1MyUGRwWVBQbUZmNmEtODl4MzAzZmpPZThXUW8xY3JVcWhsWExlaXF2TzBOanZfMWYyMTNYOGpLUmNPTFMzZERaSko2N3hBYWlscjlsbjh5S0JfQTMtT0xySXdKeE4yUWdSNWpEUDJMRTEzaG9fbmFaOVZoSmMzUl9KcDFsYWxWYkZxSTIxejdIZlRSaDNUX3AzWW83cVVlRHdxVG5iakRqODBjcms2d0xHemU4Q191QQ?oc=5",
       "data": "12/08 21:34"
-    },
-    {
-      "titulo": "Por onde anda Ruy Cabeção, ex-lateral de Botafogo e Fluminense? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnR2S3duZXdONUs0WnF1MENFX2xaT2MzRTlrZTZTaTc5YkZqdjZCRFA5OG1SX0o0RWYzck5hOWJ1dVBuY1NhcVpwb2hxNFpsb2xpUzNaVGM1QlVhdFVIRUZiMkljclFwczRMSVNudENZQWI5U2F6TXYwbFp2T0NnVzNYV0tqVUlPUlVxTWN2TTRWVTNZZWN2ODh6QQ?oc=5",
-      "data": "12/08 09:54"
     }
   ],
   "avisos": [
