@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/08/2026 03:09",
+  "atualizado_em": "14/08/2026 05:11",
   "jogos": [
     {
       "sport": "futebol",
@@ -994,29 +994,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.7,
-      "temp_min": 20.5,
+      "temp_max": 24.1,
+      "temp_min": 20.3,
       "chance_chuva": 45,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.9,
-      "temp_min": 21.0,
+      "temp_max": 24.4,
+      "temp_min": 20.6,
       "chance_chuva": 51,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.8,
-      "temp_min": 17.0,
+      "temp_max": 26.6,
+      "temp_min": 16.0,
       "chance_chuva": 88,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.3,
-      "temp_min": 16.3,
+      "temp_max": 20.8,
+      "temp_min": 15.4,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -1028,14 +1028,9 @@ window.PAINEL_DATA = {
       "data": "13/08 10:33"
     },
     {
-      "titulo": "'Bombeiro' do Fluminense, Marcão projeta formar dupla com o amigo Thiago Silva à beira do campo no futuro - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNcTV0N05PU2xCaHRPR3JFSlloM2tuQlpvYW9peVVGTnpJR05ORDNXdFdURnliMFlQZXhlTFpBRnpzVGdsYVdhQWNMYUxGMkV4dEtjTTBYS25VMS1BdVhTUFNCTDI4MktTVHFxU2U3eWo0VDJZSlZ6ZWdEb1J6dUZpdTFhajBzQU9WbUpjYnFMVHpKWHlhWTRvUnYyTWVJWVlUUTRxZVpiVTRzWFlpUXZ2NUxqdTRjbHd6WHJwNXl3M2UzODlTd1EtYnIwMmctOS14ZWlTRWM3X2RYSVlBeEN0WVU1Smc1c2FaUG41ZGFQMjV4V096dnhkcmVOZ3h1c1lsVW9JTDRoNWUzdFc10gGbAkFVX3lxTFBvRmtidGg1bmVHSHloYm5rcU1nRG5rcnozcGFrWkxfNTRBNWxKdFIxaEpXNjFORFVpTUx2T2F3VXl5WmpiYkJKOENiQjN4eUswRnNiUHBxTHZSZGFjVDU0b1FtQnhBU0t2M1pRY3RoaERrVHNMUlg5X0ZBY0NBV0NvcUo1bWwzVHJNM1JUTzgzak44ejFyaVdDejktSjIyQS0zNUVjRHU1S3doRlVVb1NtcDFzd3dKZFpYTV9fS0VKNHRVdlZ4SmNLRDFDdFhvYkMxM0prOFBuNndOY2Zmam8tMjRmdUpOUldiSHV0aV80djRCbk1YYVYtc1R1bno3ZTdRY0ZQOHpzZGRGWlpDcG8ybkUzUFJ0NjFqMms?oc=5",
-      "data": "14/08 06:00"
-    },
-    {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
+      "titulo": "Ramón Díaz pode comandar o Fluminense? Veja as chances - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVThYd3g3Wm1ldUZHZFJMZ3NaTzlMcUZfS3NwM3lVcHpGR3d1TWJZYUFlYVlWRU5fWDFTMFczZnFtWXhJU1l5QjJsUTIzTW9jNm1SeUZla0lBaWhua2FYVEV1aHFObFdpZ0U3MzB2bGZBT2xRMHJMSUIxbUVwMGVpLXpZenZRdHhYMHctcWdOSzZiNVFEU1pMRWp0RkkyMUwtTjhXckRPamlXb0prenFfektfbDhtdW81Z1o1RVEtbjV5YldDbkRibFI4c1p6VFZpWmFaRjFtYXE?oc=5",
+      "data": "14/08 06:56"
     },
     {
       "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
@@ -1043,9 +1038,14 @@ window.PAINEL_DATA = {
       "data": "10/08 23:50"
     },
     {
-      "titulo": "São Paulo Futebol Clube x Fluminense minuto a minuto cobertura lance a lance com resultado e momentos decisivos 🏆 - esporte.ce.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcGRWRlhuVERQam91Q3d0NnlmcjNWdERuT2JPZ1ZubTdGeGpRdGh6TG5VMU0xNUhhMmQtQnM0aTM0OE43a3NZT0p2SGsyRlp2VFJTaEFOak9qMkdtNzBxRUpiNlgzZnozbVprU0t3X0tlY2REMkJDMk95V1NxQUVrMnJ2WUN0alMycWZjX1ZOZUM2Wkw2RUtPNnFYdzlfQVo4N2RzMklRT2ttZ3hYZXBDSVZPUUhiRkx6ZmNRVGV0SnI5T1F3dGNMME5Dc0FWWkFkRUY4SzZGM1FKRnRBM0JRRWxobHN0T0NURHBpVC1GUVphR01TZEVqY29qMlJieF8yNExCQ0dFTWJlb25LMjlUeGptSC1GRGJCTUpWSHA4VzYzSnM0a1dmeFdVcHNhaWFkZGE1SHF2TnR4OUxNUGFmV25Hel9IUGM?oc=5",
-      "data": "11/08 23:44"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
+    },
+    {
+      "titulo": "「Partidas de Mirassol Futebol Clube x Fluminense」· confrontos diretos, resultados anteriores e próximos jogos ♦ - esporte.ce.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWFY5ZU1TNVVoYjNSOEZkVkt3SlpqTzBWeE9mSGtSRjV3UTVOdWstUGdyRjh0UXZxRElqNVpKUVZsMWZEOWF0YjhkUUppTzJxV0JiaElYRlkyajJuaVNtSHBncm5OTkRIUlMxYV9rMHVqdjA2NWxsd3VLN240Q3BfZVhrQ2F3VmhUMnNmX2tPLXFaRHpWVGxfV2FqeTZ2VENHRXR0SWNZTHVqR3Npb1h0T0pnMGlqRmtrc3RHRnJyWFg2aF95UUNNRVZlbWxMR1BCeFRZOFlqNy1XbzU2OFhZejdUMmJWNmtwLWh0RWR1MkhiUEdUMFdxRjdSU19QUGlmSE9yVmk3T2hOYW9sNzVMU25pN0JCLTlIbmw1SGF1YmpSNDNDLVcwZTdHWk5ncks2WmkyNlJtLUFpZ0JYa2ZLUkZ3Y1oyNm8?oc=5",
+      "data": "11/08 05:20"
     }
   ],
   "avisos": [
