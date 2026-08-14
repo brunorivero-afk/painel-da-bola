@@ -1,39 +1,6 @@
 {
-  "atualizado_em": "14/08/2026 16:44",
+  "atualizado_em": "14/08/2026 17:26",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Jabaquara U20 x Corinthians Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Hilal x Al-Faisaly FC",
-      "channels": [
-        "XSPORTS",
-        "SPORTV",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ettifaq x Al Riyadh",
-      "channels": [
-        "BANDSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-14",
@@ -63,16 +30,6 @@
       "match": "Atletico Grau x Comerciantes Unidos",
       "channels": [
         "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x New York RB II",
-      "channels": [
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -135,10 +92,10 @@
       "sport": "futebol",
       "date": "2026-08-14",
       "time": "20:00",
-      "competition": "Campeonato Peruano",
-      "match": "Cusco x Juan Pablo II College",
+      "competition": "Copa Paulista",
+      "match": "Bandeirante SP x Gremio Prudente",
       "channels": [
-        "FANATIZ"
+        "YOUTUBE"
       ]
     },
     {
@@ -155,10 +112,10 @@
       "sport": "futebol",
       "date": "2026-08-14",
       "time": "20:00",
-      "competition": "Copa Paulista",
-      "match": "Bandeirante SP x Gremio Prudente",
+      "competition": "Campeonato Peruano",
+      "match": "Cusco x Juan Pablo II College",
       "channels": [
-        "YOUTUBE"
+        "FANATIZ"
       ]
     },
     {
@@ -175,20 +132,20 @@
       "sport": "futebol",
       "date": "2026-08-14",
       "time": "21:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Atlético Mineiro (F) x Grêmio (F)",
+      "competition": "NWSL Feminina",
+      "match": "NJ/NY Gotham FC (F) x Kansas City (F)",
       "channels": [
-        "TV BRASIL"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-14",
       "time": "21:00",
-      "competition": "NWSL Feminina",
-      "match": "NJ/NY Gotham FC (F) x Kansas City (F)",
+      "competition": "Brasileirão Feminino",
+      "match": "Atlético Mineiro (F) x Grêmio (F)",
       "channels": [
-        "ONEFOOTBALL"
+        "TV BRASIL"
       ]
     },
     {
@@ -241,6 +198,49 @@
       "match": "Lask Linz x Ried",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ettifaq x Al Riyadh",
+      "channels": [
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Hilal x Al-Faisaly FC",
+      "channels": [
+        "XSPORTS",
+        "SPORTV",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Jabaquara U20 x Corinthians Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x New York RB II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -1028,24 +1028,24 @@
       "data": "13/08 17:51"
     },
     {
-      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
-      "data": "14/08 15:04"
+      "titulo": "Fluminense estreia no Carioca Feminino Sub-20 neste sábado - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN085VXZCMnplSkJWMDl5V0dGM0lob3VHMjBoM1ZHSm0zdEx4VlVGaklGZW9SVUJFeUhpLXQxOUFNTFBMeU9wT3ZKTER1WTBtTFRsMUtJZHM3QU1VNVk2eUF5ZktWc0JBSEFFUGdaREpLZXZRc2NqWGZmd2s1S0RsRUs1Zlg0NThZYXFOY0E3OFRFekJYQ25aZlVxY2c?oc=5",
+      "data": "14/08 15:55"
     },
     {
-      "titulo": "Fluminense busca virar chave contra o Palmeiras em meio à crise - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkVkVjZsdVJKazNlYzIzTXFkRGNrSm03UDJsa0laaTczV3N4cWJQYk5jNnF6TWtlT2lxeVU1TVIzeGpURzdiUnJHUWR0Z1VUMjdpUVBjN0p0bm50NHZxVHM4bE9vRHZCaEQwaDhyM3NDWm1nNXctbnRWUGEyOGJfdlFKRWlOQ0h2YjFQbllBdm1xX2ZLY0FiRkpfTi1lbzFRSUZKd1k3Zw?oc=5",
-      "data": "13/08 08:20"
-    },
-    {
-      "titulo": "Fluminense x Palmeiras: horário, escalações e onde assistir pelo Brasileirão - 365Scores",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGRLNVBESy1tQ1doRFZtdmpFcWdnRkNIWlIwNHN2cWl3LWNWcVZWUnE3VWplVEM0ZTlzaFRrMkNvY2I5azZYQ2FJX0JVQzBqbE5mbGkyOFpGZHFvTDVmUHc1SXQxYTJGMnU1blNxNWM0QXpTMVNuZlBfanBFRS13VWhKRW5SNkRmMGJ0QkJDUzc1RWFqYW52cGxieE1sQTRQczVMVQ?oc=5",
-      "data": "13/08 18:17"
+      "titulo": "Fluminense ganha reforços para zaga em momento decisivo da temporada - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb295V1BmOUdxUFJ1bl82VzNXY1hkWWc1a3NEY1NJczJyRV8tTFR3UEoxejdVSlZDOTF0ZXVBaVZHWVM3OVRUSUNqR3U3QUkyS3pJZDhiT3dVYmtEaXJuTW41QmhqS1BPblJiWVU3V0tsUVpHSGx3RmxmT0FXR2dXTmpQeGZuZGVEUlJZZVlIalEtdE1uLWdOb1NjT0lCaF9MS2w1a2FzcnpGUVdEMWc?oc=5",
+      "data": "14/08 18:14"
     },
     {
       "titulo": "Adeus! Atacante deixa o Fluminense para jogar no exterior - Terra",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXgtbm5JN1Vra3ptRDk2Nll5MnBHd2duZmluV0tfcHcwTEF6YnhKYmhTTkoxUTFUUUNTRmJHNEROVVB4dWRZQ0hMZXc2MGQ5RU53UGxPRGxEQUc3ZHZxbkotXzVyaDFZOW56ZFVQcHItSUstdEdnTzE1Sk1EaVQxcDFqeUNYZlBkbDBNRVg5aVlRQklyZW1BZW9hQWRQRFhnazVvQ2s5Q0VCRGNOenUxOVJ0OTZ3WDE0Y0REZHJmWlcxcndaa1NqTGVlcmFPanVxLXhFaTNxcGMwdDktYXdmdw?oc=5",
       "data": "14/08 18:06"
+    },
+    {
+      "titulo": "Mixto é punido pelo STJD após caso de racismo contra atacante do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUNsS1J4R0lfTV9qSTF5UnBkVTg0WGFWWFhIQ0VSYUkxT0ZZZUlSWU52VW9MVzBqejN2NVZ0QTlvTFNFYWVhVC1tdUNxX0p2VjJsb3VlcVR5dkNzVzhlTUoyUncteXNCVTBsZ1F5bzg1a0lGUnlKOEVTZ3hlSUcwb0RXUURoT3ZVemEzWUNjaVI5WFVYYkUyYUdUR3c5Q3FHRTgtRA?oc=5",
+      "data": "14/08 15:46"
     }
   ],
   "avisos": [
