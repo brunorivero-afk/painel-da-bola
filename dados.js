@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/08/2026 18:20",
+  "atualizado_em": "14/08/2026 19:17",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x Comerciantes Unidos",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-14",
@@ -19,17 +9,6 @@ window.PAINEL_DATA = {
       "match": "Atlanta United II x New York RB II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "17:15",
-      "competition": "Paulista Sub-20",
-      "match": "Itapirense U20 x Santos Sub-20",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
       ]
     },
     {
@@ -241,6 +220,27 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN 4",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Atletico Grau x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "17:15",
+      "competition": "Paulista Sub-20",
+      "match": "Itapirense U20 x Santos Sub-20",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -1028,24 +1028,24 @@ window.PAINEL_DATA = {
       "data": "13/08 17:51"
     },
     {
+      "titulo": "Felipe Melo admite que aceitaria convite do Fluminense: 'Estou preparado' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1ktLVFMOTJrOFNVMkZGZElxRlRoV0JmMFZIN29LUENHNlVVQlVOZXpzNzFhOVZjYWhDTDJobmgwenNfbm01dHlXZXljaWhGQkpVSk9vT1ZMaVRIR01XNTRXZ1pPZUJGQVE1aWZUR25abWtVYUFRYlFrbTM5VGg3VnFjVGRWQ3o3TFE1enFWSGx1MHZjZWoyTG8wckt2VlBvWTQzREo4TThYYjBXeEZ4Sw?oc=5",
+      "data": "14/08 21:28"
+    },
+    {
+      "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0Zpd3h6S1ROSlVsZm5PRnVuX3lRWDZSN2luZzdSclZGVURscWd1VUNtRGpyQXVqWkplcjV1eTVLOEtKaXFRcjFrWjVYV1JxUEdidGhtbzFvc3EwMUV5QnpJQTJWT3hyTnV4YWtyLXVUSWI3ZTE5TVlsTTNYbk5RWkdfLXplU3VtVkNSYkNkTXh4QldZMGxtSzBvQlp3S0ZlNWF1dnpacTBMRjlNTmQ1U3dmaXp2SjFqWE1GcW1XNFdRc1dBT2JfMU5rM2FyQkdBd3JqXzJHLTEwZGk2c1VDU29YOEU4SkFlV1ZB?oc=5",
+      "data": "14/08 21:17"
+    },
+    {
+      "titulo": "Fluminense acerta venda de filho de Felipe Melo para clube uruguaio - ogol.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmFxSlpmVGVOTVlJdG5HUW9lQ3VwSkVtVEtMTjNyZjU0c25YeGxhdzNkeXdHYzZUT2xINi1LMzQ5ZHNsQk91RGhaZWw4d0d6dGRjb1RKRGdXRmFFT0lIN1lveEV2eFdSSS1aN2QzSlJlLV92dnRFUWZjRU5IM3hUaVRES0VRTkZzYnFqejNUcDNEbGs4OWYtZ1hjZWVvb1lDNTkxNmpNNVVsSzlT?oc=5",
+      "data": "14/08 17:47"
+    },
+    {
       "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
       "data": "14/08 15:04"
-    },
-    {
-      "titulo": "Adeus! Atacante deixa o Fluminense para jogar no exterior - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXgtbm5JN1Vra3ptRDk2Nll5MnBHd2duZmluV0tfcHcwTEF6YnhKYmhTTkoxUTFUUUNTRmJHNEROVVB4dWRZQ0hMZXc2MGQ5RU53UGxPRGxEQUc3ZHZxbkotXzVyaDFZOW56ZFVQcHItSUstdEdnTzE1Sk1EaVQxcDFqeUNYZlBkbDBNRVg5aVlRQklyZW1BZW9hQWRQRFhnazVvQ2s5Q0VCRGNOenUxOVJ0OTZ3WDE0Y0REZHJmWlcxcndaa1NqTGVlcmFPanVxLXhFaTNxcGMwdDktYXdmdw?oc=5",
-      "data": "14/08 18:06"
-    },
-    {
-      "titulo": "Lateral-direito Isaque assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQURwY3Boc1JDTDhpQVhSUzVtZG9GR0xPazF6ZVlmRURVdVVQQ3hFbmNTQTZxb0RZRE1EaDJzTlhHcjRGS2xmNGl2dWZBNS02WVVTZkkwSEhKTExJMEVaS0g4c3RvRGNpbExCVGNvS0VKak5GZXV6VlhVLWdIV09fcDl3TDJ4QW1zbGFUQnNDVzl3bHl0UGJMRGNVM3lBcFZOUGUyN2FMeG5WZm1hRlp6S1JSLXRNQQ?oc=5",
-      "data": "14/08 18:15"
-    },
-    {
-      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
-      "data": "14/08 14:12"
     }
   ],
   "avisos": [
