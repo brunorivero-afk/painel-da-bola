@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "14/08/2026 17:26",
+  "atualizado_em": "14/08/2026 18:20",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Galatasaray x Çorum",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "Sporting CP x Guimaraes",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-14",
@@ -30,6 +9,16 @@
       "match": "Atletico Grau x Comerciantes Unidos",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x New York RB II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -236,11 +225,22 @@
     {
       "sport": "futebol",
       "date": "2026-08-14",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x New York RB II",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Galatasaray x Çorum",
       "channels": [
-        "ONEFOOTBALL"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "Sporting CP x Guimaraes",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -1028,14 +1028,9 @@
       "data": "13/08 17:51"
     },
     {
-      "titulo": "Fluminense estreia no Carioca Feminino Sub-20 neste sábado - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN085VXZCMnplSkJWMDl5V0dGM0lob3VHMjBoM1ZHSm0zdEx4VlVGaklGZW9SVUJFeUhpLXQxOUFNTFBMeU9wT3ZKTER1WTBtTFRsMUtJZHM3QU1VNVk2eUF5ZktWc0JBSEFFUGdaREpLZXZRc2NqWGZmd2s1S0RsRUs1Zlg0NThZYXFOY0E3OFRFekJYQ25aZlVxY2c?oc=5",
-      "data": "14/08 15:55"
-    },
-    {
-      "titulo": "Fluminense ganha reforços para zaga em momento decisivo da temporada - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb295V1BmOUdxUFJ1bl82VzNXY1hkWWc1a3NEY1NJczJyRV8tTFR3UEoxejdVSlZDOTF0ZXVBaVZHWVM3OVRUSUNqR3U3QUkyS3pJZDhiT3dVYmtEaXJuTW41QmhqS1BPblJiWVU3V0tsUVpHSGx3RmxmT0FXR2dXTmpQeGZuZGVEUlJZZVlIalEtdE1uLWdOb1NjT0lCaF9MS2w1a2FzcnpGUVdEMWc?oc=5",
-      "data": "14/08 18:14"
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
+      "data": "14/08 15:04"
     },
     {
       "titulo": "Adeus! Atacante deixa o Fluminense para jogar no exterior - Terra",
@@ -1043,9 +1038,14 @@
       "data": "14/08 18:06"
     },
     {
-      "titulo": "Mixto é punido pelo STJD após caso de racismo contra atacante do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUNsS1J4R0lfTV9qSTF5UnBkVTg0WGFWWFhIQ0VSYUkxT0ZZZUlSWU52VW9MVzBqejN2NVZ0QTlvTFNFYWVhVC1tdUNxX0p2VjJsb3VlcVR5dkNzVzhlTUoyUncteXNCVTBsZ1F5bzg1a0lGUnlKOEVTZ3hlSUcwb0RXUURoT3ZVemEzWUNjaVI5WFVYYkUyYUdUR3c5Q3FHRTgtRA?oc=5",
-      "data": "14/08 15:46"
+      "titulo": "Lateral-direito Isaque assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQURwY3Boc1JDTDhpQVhSUzVtZG9GR0xPazF6ZVlmRURVdVVQQ3hFbmNTQTZxb0RZRE1EaDJzTlhHcjRGS2xmNGl2dWZBNS02WVVTZkkwSEhKTExJMEVaS0g4c3RvRGNpbExCVGNvS0VKak5GZXV6VlhVLWdIV09fcDl3TDJ4QW1zbGFUQnNDVzl3bHl0UGJMRGNVM3lBcFZOUGUyN2FMeG5WZm1hRlp6S1JSLXRNQQ?oc=5",
+      "data": "14/08 18:15"
+    },
+    {
+      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
+      "data": "14/08 14:12"
     }
   ],
   "avisos": [
