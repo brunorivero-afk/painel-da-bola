@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "14/08/2026 14:48",
+  "atualizado_em": "14/08/2026 15:46",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Eintracht Braunschweig x VfL BOCHUM",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Holstein Kiel x FC St. Pauli",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-14",
@@ -111,20 +90,20 @@
       "sport": "futebol",
       "date": "2026-08-14",
       "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x New York RB II",
+      "competition": "Campeonato Peruano",
+      "match": "Atletico Grau x Comerciantes Unidos",
       "channels": [
-        "ONEFOOTBALL"
+        "FANATIZ"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-14",
       "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x Comerciantes Unidos",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x New York RB II",
       "channels": [
-        "FANATIZ"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -163,13 +142,10 @@
       "date": "2026-08-14",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Náutico",
+      "match": "São Bernardo x Botafogo SP",
       "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
+        "SPORTV",
+        "PREMIERE FC"
       ]
     },
     {
@@ -177,10 +153,13 @@
       "date": "2026-08-14",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Botafogo SP",
+      "match": "Ponte Preta x Náutico",
       "channels": [
-        "SPORTV",
-        "PREMIERE FC"
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
       ]
     },
     {
@@ -241,6 +220,27 @@
       "match": "NJ/NY Gotham FC (F) x Kansas City (F)",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x VfL BOCHUM",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Holstein Kiel x FC St. Pauli",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1023,29 +1023,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge.globo.com",
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
       "data": "13/08 17:51"
     },
     {
-      "titulo": "Atacante estrangeiro está de saída do Fluminense após fazer história na Copinha - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE9vZ3VQUHBuMTNrdUxual9fZVdwZlZDa0h0OXV5M2V3T3RrNVlpRDdwMTRRWG1KWnUtNURQQUdzemd2d25PZTBKM1B6WWw0QXhXYlk2SnUtbWQ0anZpV0dmQ1c0SE1EdXJSQ0docF90SjlCNl83TUh0SFc4TDlKTzN4TG5MVFR4cjNjRlRzdVR4NzJGbmhlaWlkWU8ydmJjTi0yR2Z5Rk9sUQ?oc=5",
-      "data": "14/08 14:43"
+      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
+      "data": "14/08 14:12"
     },
     {
-      "titulo": "Líder, Fluminense goleia o Vitória no Brasileirão Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0ZkY2JMQzJ4SG5KYWRsRExSZDViN3BkT0NWV1NYcmVLdnZ4VksyLW5fWmVULXpVOHNoVC03Wk1WVW9qd25XZU1sM0d6YUJKWWNHVGR1TV9zbU1CNkFjYTZ5OGlRV2dfUGY5WDZGaEUxdXZKTGVIS2RvMXNCNkhXcWNzWTFUZWEwODVvekd0X2RPdUlfUVg5NQ?oc=5",
-      "data": "11/08 20:51"
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
+      "data": "14/08 15:04"
     },
     {
-      "titulo": "São Paulo Futebol Clube x Fluminense minuto a minuto cobertura lance a lance com resultado e momentos decisivos 🏆 - esporte.ce.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcGRWRlhuVERQam91Q3d0NnlmcjNWdERuT2JPZ1ZubTdGeGpRdGh6TG5VMU0xNUhhMmQtQnM0aTM0OE43a3NZT0p2SGsyRlp2VFJTaEFOak9qMkdtNzBxRUpiNlgzZnozbVprU0t3X0tlY2REMkJDMk95V1NxQUVrMnJ2WUN0alMycWZjX1ZOZUM2Wkw2RUtPNnFYdzlfQVo4N2RzMklRT2ttZ3hYZXBDSVZPUUhiRkx6ZmNRVGV0SnI5T1F3dGNMME5Dc0FWWkFkRUY4SzZGM1FKRnRBM0JRRWxobHN0T0NURHBpVC1GUVphR01TZEVqY29qMlJieF8yNExCQ0dFTWJlb25LMjlUeGptSC1GRGJCTUpWSHA4VzYzSnM0a1dmeFdVcHNhaWFkZGE1SHF2TnR4OUxNUGFmV25Hel9IUGM?oc=5",
-      "data": "11/08 23:44"
+      "titulo": "Fluminense busca virar chave contra o Palmeiras em meio à crise - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkVkVjZsdVJKazNlYzIzTXFkRGNrSm03UDJsa0laaTczV3N4cWJQYk5jNnF6TWtlT2lxeVU1TVIzeGpURzdiUnJHUWR0Z1VUMjdpUVBjN0p0bm50NHZxVHM4bE9vRHZCaEQwaDhyM3NDWm1nNXctbnRWUGEyOGJfdlFKRWlOQ0h2YjFQbllBdm1xX2ZLY0FiRkpfTi1lbzFRSUZKd1k3Zw?oc=5",
+      "data": "13/08 08:20"
     },
     {
-      "titulo": "Com multa milionária, meia de 16 anos assina primeiro contrato profissional com o Fluminense - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNDFpT3BvYW9rNzRZVDI0aVRyZFI4aGdTejdHMnRXQmxVbjk0QVhPdEYtZnctSTFzVENhWldaYjR4UlhXWUd4QW5iS3FoeHh3WWRMWWdxVkZRWHV2MDh4Wk5adHZ6WXROZl9MX2lOQ0x3YWNac1FKNURCT3o0a2xtRDVLOEp6SEJaRHU3d1VsMDFldWN2NEpEbFhXNFgzaXlvYWJLV2RJekpYaVc2eHc2VWdyRkdSQzdtUXJWT0U2Q3B1V1VsbXVTNW5rZy1SbEp5cThyYXhGTXlWQVpVWGFTWTBUVnR4ckxHaFBteXBpallsSjZp0gGDAkFVX3lxTE13MnplU0JxYlIzdVZwNEZvZUdLMGFxLTJaZmZqRlN1OVFWclRqZThLaHN5dXVKcS1uc2ZGTUN2VDJIZWE2bkJqU0VoTUVyeDFtTlp4T0hraUNCWGdwQ2dKVEFzdGhRc29nYm02QUlLdzFXQ2szeGZhVU1ZaGpvWi1jOE85Y0RtR2lYM2NycnAyeXZpOEFXa1kxelVxeFoxbk12enIwQWx1bFVXMmU5bEI4Ykp0bjlXclgyMFQxTG1XdS1LTXZTaDZyMl9iRXJXdEpTZEg2WWx1bjJNWV93azFGMFJCdXNpMFRDdTlEOHRoTjhCbVNfRnFwVVAzcFc2dndua28?oc=5",
-      "data": "14/08 16:48"
+      "titulo": "Fluminense x Palmeiras: horário, escalações e onde assistir pelo Brasileirão - 365Scores",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGRLNVBESy1tQ1doRFZtdmpFcWdnRkNIWlIwNHN2cWl3LWNWcVZWUnE3VWplVEM0ZTlzaFRrMkNvY2I5azZYQ2FJX0JVQzBqbE5mbGkyOFpGZHFvTDVmUHc1SXQxYTJGMnU1blNxNWM0QXpTMVNuZlBfanBFRS13VWhKRW5SNkRmMGJ0QkJDUzc1RWFqYW52cGxieE1sQTRQczVMVQ?oc=5",
+      "data": "13/08 18:17"
     }
   ],
   "avisos": [
