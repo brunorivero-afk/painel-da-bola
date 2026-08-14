@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/08/2026 19:17",
+  "atualizado_em": "14/08/2026 20:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x New York RB II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-14",
@@ -220,6 +210,16 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN 4",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x New York RB II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -1023,14 +1023,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
-    },
-    {
-      "titulo": "Felipe Melo admite que aceitaria convite do Fluminense: 'Estou preparado' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1ktLVFMOTJrOFNVMkZGZElxRlRoV0JmMFZIN29LUENHNlVVQlVOZXpzNzFhOVZjYWhDTDJobmgwenNfbm01dHlXZXljaWhGQkpVSk9vT1ZMaVRIR01XNTRXZ1pPZUJGQVE1aWZUR25abWtVYUFRYlFrbTM5VGg3VnFjVGRWQ3o3TFE1enFWSGx1MHZjZWoyTG8wckt2VlBvWTQzREo4TThYYjBXeEZ4Sw?oc=5",
-      "data": "14/08 21:28"
+      "titulo": "Fluminense ouve \"não\" e busca novo nome para o lugar de Luís Zubeldía - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMkFTQkxPRjVBV1lsdlZxSjd4ZEdCSHV0T0ttQXY2ODdaY2UwY2VhVFZEdFRlMldXc2UtbldaOU5YQ2NSMkRkQmVDV2sxUGhfUGZLR3pjUmZTUUwxZHFuRTZlWUxaaUVGUWU1eUU1SThIX0VrNVVTbGNoRldQcU9ydXhRUm9KTjZzQmoxTW5XOXozak5ybnl5YlhLZU5vYkRBQWFfZUZEMTVrV0xxZWtPS3FkdGx5U1FZRFZkZUtKUVl1MWpaNUt4TEl0ZmlLX19qTGlwRHlEcTdxbVlCYy1hV1RUZmNwQmhPcEs4?oc=5",
+      "data": "13/08 19:47"
     },
     {
       "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - Terra",
@@ -1038,14 +1033,19 @@ window.PAINEL_DATA = {
       "data": "14/08 21:17"
     },
     {
-      "titulo": "Fluminense acerta venda de filho de Felipe Melo para clube uruguaio - ogol.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmFxSlpmVGVOTVlJdG5HUW9lQ3VwSkVtVEtMTjNyZjU0c25YeGxhdzNkeXdHYzZUT2xINi1LMzQ5ZHNsQk91RGhaZWw4d0d6dGRjb1RKRGdXRmFFT0lIN1lveEV2eFdSSS1aN2QzSlJlLV92dnRFUWZjRU5IM3hUaVRES0VRTkZzYnFqejNUcDNEbGs4OWYtZ1hjZWVvb1lDNTkxNmpNNVVsSzlT?oc=5",
-      "data": "14/08 17:47"
+      "titulo": "Escalação do Fluminense: veja prováveis mudanças de Marcão para o jogo contra o Palmeiras - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdkppbWIxSkUxNFZEaS1pQjh6VjRrUmRacjZVajA5N01xNVI5RUk2U3NjT0VidmE5cEJTeThRckNTREtoeGxQMUhQVkFyaTN3clI5R3VWbVZrd2FiTThIS1VoNkFDVkxJNXRZWmcwMXZ3emFZMkpGOTM2UENNVGstNlhCQnhYOEFIRHF2S2lnMlF0aGk2RE1BbTRhM1dxWWdlaTM1UW9wV3c2NXlhS2dmT1QyRGlOdFd0elM5a25sVWFfOHhfekFOVk1hMWh6YkU5SEJwQ01iT09XYWMtbzk4T2MxbEZaOVUxU1VnSzJieFDSAf8BQVVfeXFMT2EtcG42bm8tZllubnFhaVp2bDBlYTZlcjhCYVhXRXNfT0pEdVZGWnRuLUJiSzBtd2dDS0lBQzQ1YTdfZjlRdFhBbUdYY1dQSzRWZVNVekJ2TFJvN3Q2NF9saFQzQ1o0b2EwLWlpNTVwSkxxZ2hxUERMUGVKRUNMZEhVSEZnZk83SDZJYUNVSnB2OWVrNk9hVG9WVmF4VllEYmhmTW9oY205RlpJYWpvWElFQlJHMkdyVG9pXzMxbXBnNmNBVDRfWTVEcFAxdXhBTjBBdEZtTllzYVdkbzZPSVNsQm94azdJWXA2MUttSVJJX2xHMHkxV3JMQ2EtZnA0?oc=5",
+      "data": "14/08 20:53"
     },
     {
-      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
-      "data": "14/08 15:04"
+      "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbEVFUnhmRnpoX3ZfdWQ2SEVZZmR4aTY3ZE82dzJ3Y3E2VTZjeGhnZklFZ3FPVkZyVmNNdHlEMnItMU1pNmlCNHAtTUZVS0hzNV8xczZhTzVEY0gtaFNZallfRFpILUs4VTBqRVZxSVViTmFmZ0FHbENrUjJ4V29lN3RqWHNuSGRjRUVLQl9qczhFdjBTdXdqOTdDNjc5S3dPR3p1RDU0TUw3MVh5eW45cGJnbzBYem9NZ3U2ZzNWRGpQbWZNelh5REc2bWZSWTFBVlZsTWpUMzRiMUpTWElMeV8wdjRTQ1F2LWNHR2padlctZWRKQWNIYjdULXcydTRJcG5ITEVn?oc=5",
+      "data": "14/08 21:22"
+    },
+    {
+      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
+      "data": "14/08 14:12"
     }
   ],
   "avisos": [
