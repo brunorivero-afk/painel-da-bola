@@ -1,37 +1,6 @@
 {
-  "atualizado_em": "14/08/2026 15:46",
+  "atualizado_em": "14/08/2026 16:44",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "13:50",
-      "competition": "Campeonato Saudita",
-      "match": "Neom x Al-Fayha",
-      "channels": [
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC (F)urzburger Kickers x SV Wehen",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Lask Linz x Ried",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-14",
@@ -240,6 +209,37 @@
       "match": "Holstein Kiel x FC St. Pauli",
       "channels": [
         "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "13:50",
+      "competition": "Campeonato Saudita",
+      "match": "Neom x Al-Fayha",
+      "channels": [
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC (F)urzburger Kickers x SV Wehen",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "14:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Lask Linz x Ried",
+      "channels": [
         "PPV ONEFOOTBALL"
       ]
     },
@@ -994,28 +994,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.6,
+      "temp_max": 24.7,
       "temp_min": 20.7,
       "chance_chuva": 98,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.9,
+      "temp_max": 25.5,
       "temp_min": 20.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.4,
+      "temp_max": 26.2,
       "temp_min": 15.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.5,
+      "temp_max": 20.0,
       "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -1026,11 +1026,6 @@
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
       "data": "13/08 17:51"
-    },
-    {
-      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
-      "data": "14/08 14:12"
     },
     {
       "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
@@ -1046,6 +1041,11 @@
       "titulo": "Fluminense x Palmeiras: horário, escalações e onde assistir pelo Brasileirão - 365Scores",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGRLNVBESy1tQ1doRFZtdmpFcWdnRkNIWlIwNHN2cWl3LWNWcVZWUnE3VWplVEM0ZTlzaFRrMkNvY2I5azZYQ2FJX0JVQzBqbE5mbGkyOFpGZHFvTDVmUHc1SXQxYTJGMnU1blNxNWM0QXpTMVNuZlBfanBFRS13VWhKRW5SNkRmMGJ0QkJDUzc1RWFqYW52cGxieE1sQTRQczVMVQ?oc=5",
       "data": "13/08 18:17"
+    },
+    {
+      "titulo": "Adeus! Atacante deixa o Fluminense para jogar no exterior - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXgtbm5JN1Vra3ptRDk2Nll5MnBHd2duZmluV0tfcHcwTEF6YnhKYmhTTkoxUTFUUUNTRmJHNEROVVB4dWRZQ0hMZXc2MGQ5RU53UGxPRGxEQUc3ZHZxbkotXzVyaDFZOW56ZFVQcHItSUstdEdnTzE1Sk1EaVQxcDFqeUNYZlBkbDBNRVg5aVlRQklyZW1BZW9hQWRQRFhnazVvQ2s5Q0VCRGNOenUxOVJ0OTZ3WDE0Y0REZHJmWlcxcndaa1NqTGVlcmFPanVxLXhFaTNxcGMwdDktYXdmdw?oc=5",
+      "data": "14/08 18:06"
     }
   ],
   "avisos": [
