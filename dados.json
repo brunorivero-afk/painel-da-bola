@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/08/2026 08:41",
+  "atualizado_em": "14/08/2026 09:55",
   "jogos": [
     {
       "sport": "futebol",
@@ -994,29 +994,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.1,
-      "temp_min": 20.3,
-      "chance_chuva": 45,
-      "condicao": "Garoa"
+      "temp_max": 24.6,
+      "temp_min": 20.7,
+      "chance_chuva": 98,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.4,
-      "temp_min": 20.6,
-      "chance_chuva": 51,
+      "temp_max": 24.9,
+      "temp_min": 20.7,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.6,
-      "temp_min": 16.0,
-      "chance_chuva": 88,
-      "condicao": "Garoa"
+      "temp_max": 25.4,
+      "temp_min": 15.9,
+      "chance_chuva": 98,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.8,
-      "temp_min": 15.4,
+      "temp_max": 21.5,
+      "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -1049,6 +1049,7 @@
     }
   ],
   "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
   ]
 }
