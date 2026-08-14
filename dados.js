@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/08/2026 06:55",
+  "atualizado_em": "14/08/2026 07:55",
   "jogos": [
     {
       "sport": "futebol",
@@ -1038,14 +1038,14 @@ window.PAINEL_DATA = {
       "data": "10/08 23:50"
     },
     {
+      "titulo": "São Paulo Futebol Clube x Fluminense minuto a minuto cobertura lance a lance com resultado e momentos decisivos 🏆 - esporte.ce.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcGRWRlhuVERQam91Q3d0NnlmcjNWdERuT2JPZ1ZubTdGeGpRdGh6TG5VMU0xNUhhMmQtQnM0aTM0OE43a3NZT0p2SGsyRlp2VFJTaEFOak9qMkdtNzBxRUpiNlgzZnozbVprU0t3X0tlY2REMkJDMk95V1NxQUVrMnJ2WUN0alMycWZjX1ZOZUM2Wkw2RUtPNnFYdzlfQVo4N2RzMklRT2ttZ3hYZXBDSVZPUUhiRkx6ZmNRVGV0SnI5T1F3dGNMME5Dc0FWWkFkRUY4SzZGM1FKRnRBM0JRRWxobHN0T0NURHBpVC1GUVphR01TZEVqY29qMlJieF8yNExCQ0dFTWJlb25LMjlUeGptSC1GRGJCTUpWSHA4VzYzSnM0a1dmeFdVcHNhaWFkZGE1SHF2TnR4OUxNUGFmV25Hel9IUGM?oc=5",
+      "data": "11/08 23:44"
+    },
+    {
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
       "data": "13/08 17:51"
-    },
-    {
-      "titulo": "「Partidas de Mirassol Futebol Clube x Fluminense」· confrontos diretos, resultados anteriores e próximos jogos ♦ - esporte.ce.gov.br",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOWFY5ZU1TNVVoYjNSOEZkVkt3SlpqTzBWeE9mSGtSRjV3UTVOdWstUGdyRjh0UXZxRElqNVpKUVZsMWZEOWF0YjhkUUppTzJxV0JiaElYRlkyajJuaVNtSHBncm5OTkRIUlMxYV9rMHVqdjA2NWxsd3VLN240Q3BfZVhrQ2F3VmhUMnNmX2tPLXFaRHpWVGxfV2FqeTZ2VENHRXR0SWNZTHVqR3Npb1h0T0pnMGlqRmtrc3RHRnJyWFg2aF95UUNNRVZlbWxMR1BCeFRZOFlqNy1XbzU2OFhZejdUMmJWNmtwLWh0RWR1MkhiUEdUMFdxRjdSU19QUGlmSE9yVmk3T2hOYW9sNzVMU25pN0JCLTlIbmw1SGF1YmpSNDNDLVcwZTdHWk5ncks2WmkyNlJtLUFpZ0JYa2ZLUkZ3Y1oyNm8?oc=5",
-      "data": "11/08 05:20"
     }
   ],
   "avisos": [
