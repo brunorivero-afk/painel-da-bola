@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/08/2026 07:55",
+  "atualizado_em": "14/08/2026 08:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -1028,9 +1028,9 @@ window.PAINEL_DATA = {
       "data": "13/08 10:33"
     },
     {
-      "titulo": "Ramón Díaz pode comandar o Fluminense? Veja as chances - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVThYd3g3Wm1ldUZHZFJMZ3NaTzlMcUZfS3NwM3lVcHpGR3d1TWJZYUFlYVlWRU5fWDFTMFczZnFtWXhJU1l5QjJsUTIzTW9jNm1SeUZla0lBaWhua2FYVEV1aHFObFdpZ0U3MzB2bGZBT2xRMHJMSUIxbUVwMGVpLXpZenZRdHhYMHctcWdOSzZiNVFEU1pMRWp0RkkyMUwtTjhXckRPamlXb0prenFfektfbDhtdW81Z1o1RVEtbjV5YldDbkRibFI4c1p6VFZpWmFaRjFtYXE?oc=5",
-      "data": "14/08 06:56"
+      "titulo": "Fluminense não tem bom retrospecto jogando fora de casa na Libertadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb1o0eTRyU3ZiNEhHdk81emsyaWNmNHN0R2ZZVHdYM1pUWWVkNk9jMHRULWdsdVBJeThrcjk2aWJjVFlmWlpJWjRfNk1vWDdoZTRKWkVtWHA3bElVTHhQUENhR2Y0WUJuaGhyazZOQjhKLV9WZGtNQlV2MF9ic0d6cy1fdG1aU1B5S3RnaEtFVXBsNURjS2duWVY4aVVTZDR5VTFIb3pnNU9aSURfR2VyLXhKR3Y0bWhQRm40UlNzZGNsUjZZRllEZmdZQVduT0l6MGZzaHVlVG15UTQxUWVJUWg3WXc4R3lLaWdZMENTdFo?oc=5",
+      "data": "14/08 11:07"
     },
     {
       "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
@@ -1043,9 +1043,9 @@ window.PAINEL_DATA = {
       "data": "11/08 23:44"
     },
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
+      "titulo": "Marcão reassume Fluminense com missão de encerrar seca, salvar a Libertadores e recuperar jogadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOckVQcE9jTFRRVkNTcktudGpnSU1MNVpxLXZTOV93Znc4ZjA1Z1IxMmhiMFhlWm95bGp2QzRDQllibE02a29LZk5WNm5RcF9Zai1haFNTWF9FV1lOOHlETE95WjRqS1ZVS0VsQWZCUkdRTWxpdTdudlNDd1ItcUJLb0tleDhveHdMZndSREJmamtRSEVKaURaclZ5WHpqbjdneTBBTDRhMmhITWhEWmxENk0zdVk0TjdRaFdmTFBQR3VTOU9VY1l2UmlKd3NpY3h0R0xEVzJnaXowZ1E3RF8wUVdxQ3dscWs3Y2ZnMUpKUDdLSWJZd1FBVGdmZG1kUdIBjAJBVV95cUxPbVFNeTJiekhZdFlRdTM3eXJaUUJlV2RBa1R2MVItSUxQb3FUejUzTUtoZkR6dnJndU9pMzZuZ00yWUF2aF8yZHNMZ1M3UW40b0J3WnNSb1Y4MmRwZHpGNHhGV3RiLTN4MFd5VWtQTUVtVzFKRk1CYmpma24tMkxHZ3Vpc2haOFIxdDdpWWVtdFR4MUhKbHVFSWM3ellzVzlTUmp2Y1M4bjFkbFl4NUd2NVFpZUZvZzNfRldfeEhkbV8tSEhERUN2TjQ0b1ZqdWRvdVFUNmN1Nk9wZzYyUXBTN25sUlkydUNCMnFUanJSRURjeDZuNmUtb0FZWTJZc2x2S1NObXlsclhxR0tF?oc=5",
+      "data": "14/08 10:58"
     }
   ],
   "avisos": [
