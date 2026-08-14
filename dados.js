@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/08/2026 01:03",
+  "atualizado_em": "14/08/2026 03:09",
   "jogos": [
     {
       "sport": "futebol",
@@ -59,16 +59,6 @@ window.PAINEL_DATA = {
       "time": "15:00",
       "competition": "Paulista Sub-20",
       "match": "Jabaquara U20 x Corinthians Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x Ibrachina Sub-20",
       "channels": [
         "YOUTUBE"
       ]
@@ -1033,29 +1023,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Zubeldía é demitido do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTVDT1ZqZURpYVdySFZsTWJIRFoxbnFaVEV3cVZBX2s4R2todTA4YlY3bFRJOFlrY2p0OHJmRHBGU3U1Y3Uwb3Z6Qm9rZW4xWjRtRXhrR1pzSWhqTmJvUFVndkhaSV9kWEExWlNrNEM5VFVjU2ZCWTEwZ25EeEFDNV8wcXRqMTNLZzNmd1lpZzE5c0c3Mk5LVTZDRFhnQdIBrAFBVV95cUxPMUxNaUJlVW5lNWY2TjFxQ2FOdEhFdm1VbVFDY0N2bC12YmJLTUxzN1BZbnpJaE5QMG02dmwwVWpFSEI4c1dYRlZWT0I5dzVsRHpoTGZ4bER0VjUwU1VQN0NTd21NR2lsd1pQbkxSbXdjTS1IcmZmLVQ2S3lwVHlaZXVyU3pVTzh0ckxQTmNrUHdsWTdWSldBLWJJRmxsUGNhNGZPcndvMElvcWxB?oc=5",
+      "data": "13/08 10:33"
+    },
+    {
+      "titulo": "'Bombeiro' do Fluminense, Marcão projeta formar dupla com o amigo Thiago Silva à beira do campo no futuro - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNcTV0N05PU2xCaHRPR3JFSlloM2tuQlpvYW9peVVGTnpJR05ORDNXdFdURnliMFlQZXhlTFpBRnpzVGdsYVdhQWNMYUxGMkV4dEtjTTBYS25VMS1BdVhTUFNCTDI4MktTVHFxU2U3eWo0VDJZSlZ6ZWdEb1J6dUZpdTFhajBzQU9WbUpjYnFMVHpKWHlhWTRvUnYyTWVJWVlUUTRxZVpiVTRzWFlpUXZ2NUxqdTRjbHd6WHJwNXl3M2UzODlTd1EtYnIwMmctOS14ZWlTRWM3X2RYSVlBeEN0WVU1Smc1c2FaUG41ZGFQMjV4V096dnhkcmVOZ3h1c1lsVW9JTDRoNWUzdFc10gGbAkFVX3lxTFBvRmtidGg1bmVHSHloYm5rcU1nRG5rcnozcGFrWkxfNTRBNWxKdFIxaEpXNjFORFVpTUx2T2F3VXl5WmpiYkJKOENiQjN4eUswRnNiUHBxTHZSZGFjVDU0b1FtQnhBU0t2M1pRY3RoaERrVHNMUlg5X0ZBY0NBV0NvcUo1bWwzVHJNM1JUTzgzak44ejFyaVdDejktSjIyQS0zNUVjRHU1S3doRlVVb1NtcDFzd3dKZFpYTV9fS0VKNHRVdlZ4SmNLRDFDdFhvYkMxM0prOFBuNndOY2Zmam8tMjRmdUpOUldiSHV0aV80djRCbk1YYVYtc1R1bno3ZTdRY0ZQOHpzZGRGWlpDcG8ybkUzUFJ0NjFqMms?oc=5",
+      "data": "14/08 06:00"
+    },
+    {
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
       "data": "13/08 17:51"
     },
     {
-      "titulo": "Atacante Léo do Fluminense foi emprestado ao Santa Cruz-PE - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEyXzdaa09LSEZXNmswVHdvQUVkZGVRMFlvd2JZUmRHMzRfNGRtUXhzam1xaF9lVmk3X2w0azgwb3FLZUlLZy1IMk5YdE8tZktHM1hOemVWX2FTcFU5TURUcEk4dk04UE5LSW9oWEcwb25Cc1pRTWZjNzJRdm15TTNGZ0hwWTNNdnJFQVFLUGd6c1JLUGxFcUtSN3NBeVk?oc=5",
-      "data": "13/08 14:43"
+      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
+      "data": "10/08 23:50"
     },
     {
-      "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
-      "data": "12/08 21:30"
-    },
-    {
-      "titulo": "Fábio aponta falhas do Fluminense e admite: ‘Temos que superar’ - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTUdyNkdmYVM5SnRFUlhYd18ySFpVQ05oRkZXQVJrLWkxRXVLYms3UjhIaWZaRThpUWdCWEdRcDNrQjlNSnhsS1o5akQ2dGhESTNmYy1Kd0ItbzQ4eXZ6SW5SQ2wwWkI3cU9qX0hxZVBGY3JMX1pMTVlsS2NQR1F4RFFHc1hVakVIZ2x3V29GYnRRVU90NnhuR2lTUU1IYnZuRDFmLVNfemNmeUhxcjNHYWJpdFdmUEEwaHNhbVg5dHEyamF3U09DSF93cWV4bjNxMFdEWmtkb0MyMXFvOHNpWFR2OWs?oc=5",
-      "data": "13/08 09:41"
-    },
-    {
-      "titulo": "Torcida do Fluminense faz campanha pela volta de Renato Gaúcho - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMTl3NGc5VVVyMkNPQlNEM1F5N0F2WkU0azZFM24yM2ZaTURTODhmbjBrSmtWZkRub3hBdHZvaTF0VTRnNUxhSkpNc3FHcVBYTFNwSU16NG9VQ1lvTnEtTlhyaS1UMVVHamZDazMwekxiZG5sMFQxMlRFN3luMXAxbWozWERFWGlhRFBKNkkzcENPSjdwX1FhRnItdWpqVzIyTFpkN2NrZk9TSDdMeXZHcXA1U0M2bUZWS1hYMDB3N1Z6REFvZllmN1BIN05kSmhQc1ZrUlItM1lINEg1NlBPMnBfZlg?oc=5",
-      "data": "13/08 13:03"
+      "titulo": "São Paulo Futebol Clube x Fluminense minuto a minuto cobertura lance a lance com resultado e momentos decisivos 🏆 - esporte.ce.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcGRWRlhuVERQam91Q3d0NnlmcjNWdERuT2JPZ1ZubTdGeGpRdGh6TG5VMU0xNUhhMmQtQnM0aTM0OE43a3NZT0p2SGsyRlp2VFJTaEFOak9qMkdtNzBxRUpiNlgzZnozbVprU0t3X0tlY2REMkJDMk95V1NxQUVrMnJ2WUN0alMycWZjX1ZOZUM2Wkw2RUtPNnFYdzlfQVo4N2RzMklRT2ttZ3hYZXBDSVZPUUhiRkx6ZmNRVGV0SnI5T1F3dGNMME5Dc0FWWkFkRUY4SzZGM1FKRnRBM0JRRWxobHN0T0NURHBpVC1GUVphR01TZEVqY29qMlJieF8yNExCQ0dFTWJlb25LMjlUeGptSC1GRGJCTUpWSHA4VzYzSnM0a1dmeFdVcHNhaWFkZGE1SHF2TnR4OUxNUGFmV25Hel9IUGM?oc=5",
+      "data": "11/08 23:44"
     }
   ],
   "avisos": [
