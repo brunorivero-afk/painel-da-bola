@@ -1,48 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/08/2026 20:36",
+  "atualizado_em": "13/08/2026 22:28",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Mirassol x LDU de Quito",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Santos x Macara",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Vasco x Olimpia",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-13",
-      "time": "20:00",
-      "competition": "Leagues Cup",
-      "match": "Philadelphia Union x Santos Laguna",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-13",
@@ -148,8 +106,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "14:00",
-      "competition": "UEFA Conference League",
-      "match": "Hammarby FF x Rakow Czestochowa",
+      "competition": "UEFA Europa League",
+      "match": "Gornik Zabrze x Ferencvarosi TC",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -158,8 +116,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-13",
       "time": "14:00",
-      "competition": "UEFA Europa League",
-      "match": "Gornik Zabrze x Ferencvarosi TC",
+      "competition": "UEFA Conference League",
+      "match": "Hammarby FF x Rakow Czestochowa",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -223,6 +181,48 @@ window.PAINEL_DATA = {
       "match": "Shelbourne x Ajax",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Vasco x Olimpia",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Santos x Macara",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Mirassol x LDU de Quito",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-13",
+      "time": "20:00",
+      "competition": "Leagues Cup",
+      "match": "Philadelphia Union x Santos Laguna",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -493,29 +493,29 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 27.4,
       "temp_min": 18.8,
-      "chance_chuva": 2,
+      "chance_chuva": 15,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 26.0,
       "temp_min": 17.8,
-      "chance_chuva": 0,
+      "chance_chuva": 3,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.5,
+      "temp_max": 27.3,
       "temp_min": 14.2,
-      "chance_chuva": 36,
-      "condicao": "Garoa forte"
+      "chance_chuva": 76,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.1,
       "temp_min": 14.5,
-      "chance_chuva": 57,
-      "condicao": "Garoa forte"
+      "chance_chuva": 91,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -525,24 +525,24 @@ window.PAINEL_DATA = {
       "data": "13/08 17:51"
     },
     {
-      "titulo": "Atacante Léo do Fluminense foi emprestado ao Santa Cruz-PE - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmEyXzdaa09LSEZXNmswVHdvQUVkZGVRMFlvd2JZUmRHMzRfNGRtUXhzam1xaF9lVmk3X2w0azgwb3FLZUlLZy1IMk5YdE8tZktHM1hOemVWX2FTcFU5TURUcEk4dk04UE5LSW9oWEcwb25Cc1pRTWZjNzJRdm15TTNGZ0hwWTNNdnJFQVFLUGd6c1JLUGxFcUtSN3NBeVk?oc=5",
-      "data": "13/08 14:43"
+      "titulo": "Felipe Melo pode substituir Luís Zubeldía no Fluminense? Saiba - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbWlFX0xwdHJ6NlBrTWxhazRsRFlTaHRtZWdqQTREdUZGc1ZHOF9EcWpyMGlTeVczY2JhcTI0WVNxdDF6OUU1QWZPLWtRdkpjTjFXZkZxUGxXR3FRRG54T3VyNkdqcV9YSWpRbExPSjV3Q2hHbVdmZjE2bk8yb1dTc3J3VlV5UXo2czV0ZUVCd0RWX1U2N1lybWlaM3FIRlRZZVZySXBSYnZRclYzS0NfNzJ2aDFCVko4cmgzc2Z3c1JpYnFGTk84TXE3bFd1Rm91anVfZjdVRFFIZzFaNlVQUHhpVQ?oc=5",
+      "data": "13/08 23:05"
     },
     {
-      "titulo": "Marcelinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX19MZlgwdFEyUm14SDM1Z3FuaUpYV2dSNnE1VV9jMnBZNFE2TS1EWUtJTW9pNjRYUE5NenBBRXlZaktCSFMzX2VWTjVobHVWVFBaVF9pQjFpUmxKVC1HRXhsOU04WnhIYjRveWhQVk5LQ1V4cUtBcmZoS29rNHJZVW9OU1pqbllHOFZWU0gwandIaWZva2daZmZXV0ctLTBnT3VzQlBn?oc=5",
-      "data": "12/08 21:30"
+      "titulo": "Fluminense vence o Botafogo pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPenA5Y210TVlGekljUVg0Sm1tQmk3YzJyOWhlSzhtQllsZ1Y4T2NuWnE5c0lJUDVOYV9lRHNwVTUtTmxLVmg4cVVfZTh1Mi1XWDZCandJNU5oenQ3YkZORUE3R1Rxam1tWjhqWVNqRUJPYlE0SVFSeUVLNkxwWURwNzVuMFk2Y1JNYXR1d0dsV1RTY1ZU?oc=5",
+      "data": "10/08 23:50"
     },
     {
-      "titulo": "Fluminense está disposto a pagar salário astronômico para Depay - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRFBBQjRlcnU0bHhfaURPYVRUTTlLY3VXTzFNMGRpakFwNDM1d2tvdHUxSzB2YlUtMVRYVGpvSEUzLVlxVDdSREpGRnhFQkxfcWszV2pqNUU3ZENFcmh6djVnSHFQX0h1ZkduTXUwV3RjQ1ctbUtuVnVNNDN0dmUyVEJZLWtrWUZidE5icFlsQXBIbFo1anMyakd0WTV5d0ctd3VmRXFmc2hRemlOLTFuUXRjTDdOSl9jM21JVDIxanVOTW9IWTl2Sk1aMXRWeVNvTl9ZZTd0U1RKbXZVWEhyTlE0ZWlLLWFUMkE?oc=5",
-      "data": "13/08 19:44"
+      "titulo": "São Paulo Futebol Clube x Fluminense minuto a minuto cobertura lance a lance com resultado e momentos decisivos 🏆 - esporte.ce.gov.br",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPcGRWRlhuVERQam91Q3d0NnlmcjNWdERuT2JPZ1ZubTdGeGpRdGh6TG5VMU0xNUhhMmQtQnM0aTM0OE43a3NZT0p2SGsyRlp2VFJTaEFOak9qMkdtNzBxRUpiNlgzZnozbVprU0t3X0tlY2REMkJDMk95V1NxQUVrMnJ2WUN0alMycWZjX1ZOZUM2Wkw2RUtPNnFYdzlfQVo4N2RzMklRT2ttZ3hYZXBDSVZPUUhiRkx6ZmNRVGV0SnI5T1F3dGNMME5Dc0FWWkFkRUY4SzZGM1FKRnRBM0JRRWxobHN0T0NURHBpVC1GUVphR01TZEVqY29qMlJieF8yNExCQ0dFTWJlb25LMjlUeGptSC1GRGJCTUpWSHA4VzYzSnM0a1dmeFdVcHNhaWFkZGE1SHF2TnR4OUxNUGFmV25Hel9IUGM?oc=5",
+      "data": "11/08 23:44"
     },
     {
-      "titulo": "Fluminense acumula frustrações com reforços que não rendem em 2026 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY1dSU0YzcF9zRzZxMER4eXVIRUx6ZkZGSXc5aDRSbG1YWGFxcENyMFp0N3Q5blRrZWpDeXZTV215a1ZlWDQ4dm9FbC0wellBRmpWR3djdXdwV2l0WXJLbWl1UjZBRzU4WGoxWjVlYlNnVTZicUpCbm9pdHZLODZnUnpka1RpS0pCMXY4Ukt6c0E1QzM1WmduQUVwbmlNSmxYT0ctdlJfZHF4d3pzQW5KMl9WbzFCLXFUZjV2bXlTVDktWU5IUExuR0NvSXpxLTJORm5B0gHiAUFVX3lxTFBmZXgxNlZxYWFNSjRqZDFXRkwxNWF0ZS1WOEMxSXhreXJrZXVJTVVwUVo0TWJVRXJTUGJORjdrRzQ2WUxwb1pCWlhSbENlTklYR2hZSTRnZjVqM0NVTDdKV2lBbE1MQk5qYlBqcml6QVRKNXVzSGczUWxsUDd4WVF3LXlaVV8tYTRLWXlXVHRZYTN1RUN6azJHQ1RxT2hxejZjbkJSNDFhM09fSy1KX21yVzhpd0JaVUVQNGhtVzlFemlfU3FuQno5al9uc3JHSkt1WDFpTmlrdDFCSUNKR1N0bXc?oc=5",
-      "data": "12/08 13:00"
+      "titulo": "Torcida do Fluminense faz campanha pela volta de Renato Gaúcho - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMTl3NGc5VVVyMkNPQlNEM1F5N0F2WkU0azZFM24yM2ZaTURTODhmbjBrSmtWZkRub3hBdHZvaTF0VTRnNUxhSkpNc3FHcVBYTFNwSU16NG9VQ1lvTnEtTlhyaS1UMVVHamZDazMwekxiZG5sMFQxMlRFN3luMXAxbWozWERFWGlhRFBKNkkzcENPSjdwX1FhRnItdWpqVzIyTFpkN2NrZk9TSDdMeXZHcXA1U0M2bUZWS1hYMDB3N1Z6REFvZllmN1BIN05kSmhQc1ZrUlItM1lINEg1NlBPMnBfZlg?oc=5",
+      "data": "13/08 23:08"
     }
   ],
   "avisos": [
