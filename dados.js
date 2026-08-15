@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 00:34",
+  "atualizado_em": "15/08/2026 01:24",
   "jogos": [
     {
       "sport": "futebol",
@@ -1325,10 +1325,10 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-08-12",
-      "time": "16:15",
+      "date": "2026-08-15",
+      "time": "21:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Colômbia",
+      "match": "Osasco x Pinheiros",
       "channels": [
         "SporTV2"
       ]
@@ -1366,32 +1366,30 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Jogador do Fluminense comemora a demissão do técnico Luis Zubeldía - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUZQb3pPS3pGUnlxRUVId0dyWWNHcWRkcGtta1R0ZzhSMEl4VndoTEdrdXQtQzI1THVpUW1Rc2JobjJ2QW4wQlJ6M0dub3NQRnlLY1ZuMm0wU3lEVkY3dHFFMWQ4MWgxMVpXQTZtWE9mS0hkYkNwVk1XVU5kTGFHRlQ4dEhhV1otamhVMDM4d1RjOERqY2ZBblBwR0lXa1ZRNjhqSFpNSnA4MlFpSnZzUzlBZS16LTdJMGdHX0J4bzdaZw?oc=5",
-      "data": "13/08 20:26"
-    },
-    {
-      "titulo": "Fluminense acerta venda de filho de Felipe Melo para clube uruguaio - ogol.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmFxSlpmVGVOTVlJdG5HUW9lQ3VwSkVtVEtMTjNyZjU0c25YeGxhdzNkeXdHYzZUT2xINi1LMzQ5ZHNsQk91RGhaZWw4d0d6dGRjb1RKRGdXRmFFT0lIN1lveEV2eFdSSS1aN2QzSlJlLV92dnRFUWZjRU5IM3hUaVRES0VRTkZzYnFqejNUcDNEbGs4OWYtZ1hjZWVvb1lDNTkxNmpNNVVsSzlT?oc=5",
-      "data": "14/08 17:47"
-    },
-    {
-      "titulo": "Felipe Melo nega contato do Fluminense, mas não descarta treinar clube: 'Estou preparado' - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRzlTaUdLYk51dm4zZ2FLU1FiZXNBNHp0SXIwOXVXMHkxUGM3bWZ2dTNWY1kwaVZlSkZlOVFIdndkSEp6SXBKY1BJSFM5cHhkRURlWXVoRENJdzlfVTZYMkVCc3RVSlZfN1hvWjNsbVJfa3pxOVp6aktqcUlNcmRUOVpxeEZQR3NLM1RZZFQ1N0tFZHJGTlZYaGsydVNDNjFvNlVVMmc5bnFsZVdwVldlYVNZNWJuYmxycGNTZDQwNmE5cVJhRmpMN0g0T1NmOG9SWmQtVkR6N3lOQQ?oc=5",
-      "data": "15/08 02:48"
-    },
-    {
-      "titulo": "Felipe Melo admite que aceitaria convite do Fluminense: 'Estou preparado' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1ktLVFMOTJrOFNVMkZGZElxRlRoV0JmMFZIN29LUENHNlVVQlVOZXpzNzFhOVZjYWhDTDJobmgwenNfbm01dHlXZXljaWhGQkpVSk9vT1ZMaVRIR01XNTRXZ1pPZUJGQVE1aWZUR25abWtVYUFRYlFrbTM5VGg3VnFjVGRWQ3o3TFE1enFWSGx1MHZjZWoyTG8wckt2VlBvWTQzREo4TThYYjBXeEZ4Sw?oc=5",
-      "data": "14/08 21:28"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - GE",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
     },
     {
       "titulo": "Ex-Fluminense, Yago Felipe é anunciado por clube da Série A do Brasileirão - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNek8wa250M2I3V3ZaTWVYSHVjekFBVEZrOHAzT3ZxTzdKSHFHaFVBRG8zY0hEWkRXNW1CUTZYOXFVUzc3MG1RUEo4VWZlZjNHc2xaMXhpSTJjellkZ05VdmNYekZZejhmUWhHdzZoZVBVZTJHcFRzSXdXQWJJcHk5WmhFOFdVLXRRaHlTTUs0TVNvVUxiQVhlUmxwNDc4ZE5uWUE?oc=5",
       "data": "14/08 23:30"
+    },
+    {
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
+      "data": "14/08 15:04"
+    },
+    {
+      "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0Zpd3h6S1ROSlVsZm5PRnVuX3lRWDZSN2luZzdSclZGVURscWd1VUNtRGpyQXVqWkplcjV1eTVLOEtKaXFRcjFrWjVYV1JxUEdidGhtbzFvc3EwMUV5QnpJQTJWT3hyTnV4YWtyLXVUSWI3ZTE5TVlsTTNYbk5RWkdfLXplU3VtVkNSYkNkTXh4QldZMGxtSzBvQlp3S0ZlNWF1dnpacTBMRjlNTmQ1U3dmaXp2SjFqWE1GcW1XNFdRc1dBT2JfMU5rM2FyQkdBd3JqXzJHLTEwZGk2c1VDU29YOEU4SkFlV1ZB?oc=5",
+      "data": "14/08 21:17"
+    },
+    {
+      "titulo": "Fluminense estreia no Carioca Feminino Sub-20 neste sábado - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN085VXZCMnplSkJWMDl5V0dGM0lob3VHMjBoM1ZHSm0zdEx4VlVGaklGZW9SVUJFeUhpLXQxOUFNTFBMeU9wT3ZKTER1WTBtTFRsMUtJZHM3QU1VNVk2eUF5ZktWc0JBSEFFUGdaREpLZXZRc2NqWGZmd2s1S0RsRUs1Zlg0NThZYXFOY0E3OFRFekJYQ25aZlVxY2c?oc=5",
+      "data": "14/08 15:55"
     }
   ],
-  "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
-  ]
+  "avisos": []
 };
