@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 11:16",
+  "atualizado_em": "15/08/2026 12:15",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São José EC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Albion FC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-15",
@@ -68,20 +48,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Verl x MSV Duisburg",
+      "competition": "Campeonato Português",
+      "match": "Alverca x Estrela",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Alverca x Estrela",
+      "competition": "3ª Divisão Alemã",
+      "match": "Verl x MSV Duisburg",
       "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -130,8 +110,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Juventud x Atletico Torque",
+      "competition": "Campeonato Turco",
+      "match": "Kasimpasa x Trabzonspor",
       "channels": [
         "DISNEY+"
       ]
@@ -140,8 +120,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Kasimpasa x Trabzonspor",
+      "competition": "Campeonato Uruguaio",
+      "match": "Juventud x Atletico Torque",
       "channels": [
         "DISNEY+"
       ]
@@ -748,6 +728,26 @@ window.PAINEL_DATA = {
       "match": "Fortuna Dusseldorf x Hoffenheim II",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Albion FC",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São José EC",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -1395,7 +1395,7 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 26.7,
       "temp_min": 20.7,
-      "chance_chuva": 80,
+      "chance_chuva": 85,
       "condicao": "Pancadas de chuva"
     },
     {
@@ -1427,9 +1427,9 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Marcão terá nova chance e tenta reorganizar Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONm4ydjQ2ZENjVExEMjU4YUNkVGJxTFYwZGw4Tl9HWGY4Q0pndVJnRUVsaUlfbmh2UlI4ZHdPNVpZWm5ISTgyNGVVdkF6Zzd3S1hYZUUwa3dsZUYwVldyLWFqZHdzd050TXBFaUdubnJldDRYLVNkVG4xTnc2cHBrb2czMmctQ1pERlpBSW9MODZadTNCNTBjTUx6UklsYndzd0I5TzlxQS1sZ2dGRGlETGN0RkVJY1V3NVN0VC1KQWl6VE9CMmR3d1Qyd0NWZk5lLS14S19ORUF4VFZET3c?oc=5",
-      "data": "14/08 10:02"
+      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
+      "data": "13/08 13:11"
     },
     {
       "titulo": "Fluminense enfrenta o América-MG pelo Campeonato Brasileiro Feminino - fluminense.com.br",
@@ -1442,9 +1442,9 @@ window.PAINEL_DATA = {
       "data": "14/08 14:12"
     },
     {
-      "titulo": "Millán retorna aos treinos e Fluminense deve ganhar mais uma opção na zaga - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmlqWUM0NEFjek81dkVrYU12Y1BlTWNaNXdWYlpKdlhBWC1kNGY2QWlIU1pJa3lUa09pZHZrZWJRaFE5bzFxWDBsR29kell3MmxoUDVLWTNYOVU5Z0tUVndpT2dNSHhNWjAwVktHb3pDX3ktdE8tVnBwN1F5S2RHNkFWcXJmT2w2cGxvYUViWDM4aWYwdC1LUkxyd2JGUFVXaml3?oc=5",
-      "data": "14/08 19:00"
+      "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTdkbndqcmZacER5SkM5eTVkUzRpcFBxRDdXQy1na09ZZDVyME1HLVM5TGE0MVpQWnRJaEM3Y0Z1MUh6ZExEMnRySGw4VW41TU1oOWx5VGhqWVBQTFl0RUR5bjFuS0Y4UktSYVZCemJJVWJNQzhLTnRmQTJmeThwbjR6dW9XV3BoSy0xdkpCRTZsOGFZdkE4bTFqc3hJVUhTX2dlbTVSWV9OaDZqemlsY185YlN6bkZKY0ow0gHAAUFVX3lxTE02ZERJUmotMUwtSTlIcnp6ZGdEd0k0U0FDeUd0QWx6RldaZ1ZzQ2k4WHJTNjlST0dsOVNqcW4xSy1IX2Z6TUxhME41eHZxX3ZwMURjYkRKOXhXN0JlUmlJd1hIYk16eW5fN3NpVHlXR09lM1VVN0RHSEZpN2V5LURkd1pTNW8zNzJRZ2E0V25lN3pwMW1LeFRJUHVYSFVIQUpWMFZGdnJ4VVNlSUlZNjRkMG1VbVRXYUc0dXA3Z3pINQ?oc=5",
+      "data": "14/08 22:48"
     }
   ],
   "avisos": []
