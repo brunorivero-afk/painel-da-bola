@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 17:16",
+  "atualizado_em": "15/08/2026 18:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -20,62 +20,6 @@ window.PAINEL_DATA = {
       "match": "Fluminense (F) x América MG (F)",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "15:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Kaiserslautern x Karlsruher SC",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Genclerbirligi x Fenerbahce",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Goiás",
-      "channels": [
-        "REDETV!",
-        "ESPN",
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Cuiabá",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Vila Nova",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -133,11 +77,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Amazonas x Botafogo PB",
+      "competition": "Brasileirão Feminino",
+      "match": "RB Bragantino (F) x Vitoria BA W",
       "channels": [
-        "BAND",
-        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -145,18 +87,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Volta Redonda x Ituano",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "competition": "Brasileirão Feminino",
-      "match": "RB Bragantino (F) x Vitoria BA W",
+      "competition": "Brasileirão Série D",
+      "match": "CSA x Uberlandia",
       "channels": [
         "YOUTUBE"
       ]
@@ -175,10 +107,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "CSA x Uberlandia",
+      "competition": "Brasileirão Série C",
+      "match": "Amazonas x Botafogo PB",
       "channels": [
+        "BAND",
+        "SPORTYNET",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Volta Redonda x Ituano",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -249,6 +193,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Marília x Linense",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:30",
       "competition": "Brasileirão Série C",
       "match": "Santa Cruz x Maranhão",
       "channels": [
@@ -264,16 +218,6 @@ window.PAINEL_DATA = {
       "match": "Brusque x Inter De Limeira",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Marília x Linense",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -617,21 +561,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Amistosos",
-      "match": "Borussia Dortmund x Roma",
+      "competition": "Campeonato Russo",
+      "match": "FC Rostov x Rubin",
       "channels": [
-        "YOUTUBE",
-        "DAZN"
+        "XSPORTS"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Campeonato Russo",
-      "match": "FC Rostov x Rubin",
+      "competition": "Amistosos",
+      "match": "Borussia Dortmund x Roma",
       "channels": [
-        "XSPORTS"
+        "YOUTUBE",
+        "DAZN"
       ]
     },
     {
@@ -709,19 +653,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Nassr x Al-Fateh",
-      "channels": [
-        "BAND",
-        "SPORTV",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "15:00",
       "competition": "Copa Paulista",
       "match": "Paulista x Juventus",
       "channels": [
@@ -748,6 +679,75 @@ window.PAINEL_DATA = {
         "BANDSPORTS",
         "CANAL GOAT",
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al-Fateh",
+      "channels": [
+        "BAND",
+        "SPORTV",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Kaiserslautern x Karlsruher SC",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Genclerbirligi x Fenerbahce",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Goiás",
+      "channels": [
+        "REDETV!",
+        "ESPN",
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Vila Nova",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Ceará x Cuiabá",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -1427,12 +1427,12 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense vence o Heips pelo Carioca Feminino Sub-20 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGRtRUJkR3hZYmpuRE5FOEg2U2dubEtEbVg0SWhfZ0RXTHQxSmxoRW5aY0o1VVpuUHl5aXYxaDVsYm9TVTVXWnpiVWZ1OVNHWmkxYUdWRnFsQ3RRNjJTN3h5d25NRGZyNmloREtqS3g1TnhOVjI5M3k5aUNHckM1TXEwUnZfUmU0YTdnMzlENzZfWmtvZUE?oc=5",
-      "data": "15/08 16:07"
+      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
+      "data": "15/08 20:28"
     },
     {
-      "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - terra.com.br",
+      "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - Terra",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0Zpd3h6S1ROSlVsZm5PRnVuX3lRWDZSN2luZzdSclZGVURscWd1VUNtRGpyQXVqWkplcjV1eTVLOEtKaXFRcjFrWjVYV1JxUEdidGhtbzFvc3EwMUV5QnpJQTJWT3hyTnV4YWtyLXVUSWI3ZTE5TVlsTTNYbk5RWkdfLXplU3VtVkNSYkNkTXh4QldZMGxtSzBvQlp3S0ZlNWF1dnpacTBMRjlNTmQ1U3dmaXp2SjFqWE1GcW1XNFdRc1dBT2JfMU5rM2FyQkdBd3JqXzJHLTEwZGk2c1VDU29YOEU4SkFlV1ZB?oc=5",
       "data": "15/08 07:14"
     },
@@ -1442,9 +1442,9 @@ window.PAINEL_DATA = {
       "data": "14/08 22:48"
     },
     {
-      "titulo": "Felipe Melo admite que aceitaria convite do Fluminense: 'Estou preparado' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1ktLVFMOTJrOFNVMkZGZElxRlRoV0JmMFZIN29LUENHNlVVQlVOZXpzNzFhOVZjYWhDTDJobmgwenNfbm01dHlXZXljaWhGQkpVSk9vT1ZMaVRIR01XNTRXZ1pPZUJGQVE1aWZUR25abWtVYUFRYlFrbTM5VGg3VnFjVGRWQ3o3TFE1enFWSGx1MHZjZWoyTG8wckt2VlBvWTQzREo4TThYYjBXeEZ4Sw?oc=5",
-      "data": "14/08 21:28"
+      "titulo": "Chapecoense anuncia contratação de meio-campista ex-Fluminense - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXV6LXEzUkE3TUlrRmIwcUlvSkd1VS10ZlZnQnFPb0pnY1A5UG9fOEJkSGVocXJXOFNNWDJGcDVrNUg2ZlEySm9RUDFCMm5WTlhhVm9ETS15SWROME9DOE9fS29ZOHJlVUY0VHhyQVVjNkVGdXdaOEZzenZDa3ZtSnVKX2VXVGk1dEt1RldCckduYjhBajlNMlAwekZIWGtN?oc=5",
+      "data": "15/08 18:34"
     }
   ],
   "avisos": []
