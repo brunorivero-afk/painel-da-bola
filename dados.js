@@ -1,36 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 09:28",
+  "atualizado_em": "15/08/2026 10:25",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "SpVgg Greuther Furth x FC Nurnberg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "Hertha Berlin x FC Heidenheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL Osnabruck x FC Magdeburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-15",
@@ -55,20 +25,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São José EC",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Albion FC",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Albion FC",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São José EC",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -80,16 +50,6 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Brentford x Eintracht Frankfurt",
-      "channels": [
-        "ESPN 4"
       ]
     },
     {
@@ -117,11 +77,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-15",
-      "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Alverca x Estrela",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Brentford x Eintracht Frankfurt",
       "channels": [
-        "DISNEY+"
+        "ESPN 4"
       ]
     },
     {
@@ -132,6 +92,16 @@ window.PAINEL_DATA = {
       "match": "Verl x MSV Duisburg",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "11:30",
+      "competition": "Campeonato Português",
+      "match": "Alverca x Estrela",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -362,6 +332,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "16:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Club Nacional",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:30",
       "competition": "Campeonato Português",
       "match": "Rio Ave x FC Porto",
       "channels": [
@@ -373,10 +353,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "16:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Club Nacional",
+      "competition": "Campeonato Espanhol",
+      "match": "Sevilla x Rayo Vallecano",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -387,16 +367,6 @@ window.PAINEL_DATA = {
       "match": "Fluminense x Palmeiras",
       "channels": [
         "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Sevilla x Rayo Vallecano",
-      "channels": [
-        "CAZÉTV"
       ]
     },
     {
@@ -413,8 +383,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Feminino",
-      "match": "RB Bragantino (F) x Vitoria BA W",
+      "competition": "Brasileirão Série D",
+      "match": "CSA x Uberlandia",
       "channels": [
         "YOUTUBE"
       ]
@@ -455,8 +425,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "CSA x Uberlandia",
+      "competition": "Brasileirão Feminino",
+      "match": "RB Bragantino (F) x Vitoria BA W",
       "channels": [
         "YOUTUBE"
       ]
@@ -530,17 +500,6 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "19:30",
       "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Maranhão",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
       "match": "Brusque x Inter De Limeira",
       "channels": [
         "SPORTYNET"
@@ -569,11 +528,32 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-15",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Maranhão",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
       "time": "20:00",
       "competition": "Campeonato Mexicano",
       "match": "Atlante FC x Toluca",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x DC United",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -602,16 +582,6 @@ window.PAINEL_DATA = {
       "time": "20:30",
       "competition": "MLS",
       "match": "Toronto FC x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x DC United",
       "channels": [
         "APPLE TV"
       ]
@@ -653,6 +623,16 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "21:30",
       "competition": "MLS",
+      "match": "Nashville SC x Inter Miami",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:30",
+      "competition": "MLS",
       "match": "Houston Dynamo x Los Angeles Galaxy",
       "channels": [
         "APPLE TV"
@@ -666,16 +646,6 @@ window.PAINEL_DATA = {
       "match": "Austin II x Whitecaps II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Nashville SC x Inter Miami",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -748,6 +718,36 @@ window.PAINEL_DATA = {
       "match": "San Jose Earthquakes x St. Louis City",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "VfL Osnabruck x FC Magdeburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "SpVgg Greuther Furth x FC Nurnberg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "Hertha Berlin x FC Heidenheim",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1393,31 +1393,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.6,
-      "temp_min": 20.5,
+      "temp_max": 26.7,
+      "temp_min": 20.7,
       "chance_chuva": 80,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 24.5,
-      "temp_min": 20.4,
-      "chance_chuva": 83,
       "condicao": "Pancadas de chuva"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 25.2,
+      "temp_min": 20.6,
+      "chance_chuva": 83,
+      "condicao": "Garoa fraca"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.4,
-      "temp_min": 16.3,
+      "temp_max": 21.3,
+      "temp_min": 16.4,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.7,
-      "temp_min": 15.8,
+      "temp_max": 21.8,
+      "temp_min": 15.9,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -1427,24 +1427,24 @@ window.PAINEL_DATA = {
       "data": "14/08 10:02"
     },
     {
-      "titulo": "Ex-Fluminense, Yago Felipe é anunciado por clube da Série A do Brasileirão - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNek8wa250M2I3V3ZaTWVYSHVjekFBVEZrOHAzT3ZxTzdKSHFHaFVBRG8zY0hEWkRXNW1CUTZYOXFVUzc3MG1RUEo4VWZlZjNHc2xaMXhpSTJjellkZ05VdmNYekZZejhmUWhHdzZoZVBVZTJHcFRzSXdXQWJJcHk5WmhFOFdVLXRRaHlTTUs0TVNvVUxiQVhlUmxwNDc4ZE5uWUE?oc=5",
-      "data": "14/08 23:30"
-    },
-    {
-      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - GE",
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnlZR3RXNTRLc3M0NTA5c0psZkRBUW5nOFRXem5UajU1N0FWajg0MC10ZEhtN3RYSHRERlpBUmEtWjZhVVNMdzhEYUMzNFp5NjJyWjAxa2NEbUlJcHJnUE5QMkJKd2VhajlIbmFfaEowdElRYklqeEVUbTFlc1JVdzc1cUczZFpwX2tQR2xCdHNILVA0U292NXdxeTd3SDJneVF2dXhadm0xcXJUQXU0TEZQdzdKMnRfOEs2Rnd0YUhoWUs4RHpxMTZBbjFLSU5ZTWQwYnVOcEFvQdIB6AFBVV95cUxQYy0wbkU5cVdkemxISVJDcDZBYmg5bG0xMzktb3JxVmpsaXJLYmdUWTFsaTY3dlc4TGJRWUtCcFg3elZSWWVmTlJMS1FuczVUQzdpQUNTOXdqMnRRdjJfSFVNN1VWQkh5Z2Z5VjJibWYyaG54ZXVMaE5HZjJjOEZZLTYzck5pWWdxNHEwNEpEQ1d0Q2hFU1Vxd3k2QTJJMkE2QlFqdjctNTBDM2MxQ214MnFWUmRYSlpDYktGd1pLaXkwSlo0TF9MV3RaMGc5YlZneXg5Yk96cjNyaGdmamlmMjlMRnBrQ1hV?oc=5",
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Jogos de hoje: quem joga no futebol e onde assistir ao vivo – sábado (15/08/2026) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY282ZWhCTm0zYmxPbDZ5b0VJa3U2REVscEtEcEVjZ0EzLVVWSkpON3NiZVRJRXgwZDdMcm5CTGozOXJmREJaNVMySG9XZERqb2N3OE52ZUpwQUJjc25Vak54UTVlVG8wMjhxVjMwN3ZRWUdva0c1dlVVcldiNTZJS21oZFRvQ19PYWFHWGFYMkNaLXRvVGZMckRDT3RzZmdSTHQ3S05JNWk?oc=5",
-      "data": "15/08 09:00"
+      "titulo": "Fluminense enfrenta o América-MG pelo Campeonato Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQal9JUnFVTXdhenpSYmFJeGcya1pqYmxCMmdQYlIzeUFaNW9iYjI2NTBkWHdrd3NPUGE4TTk5Q1pycE5OcVlBb19NaC1YSWdVVTV4djRZcXNMNEdUc1ZiYmo5czA4cG5kNWFrRHF5ZmpGMUNYa1NRY3ppVmxVQjE0Wjc4NHg5Y0YyenktUVh3XzJOTkFBWmdwNklMUDRvSE9oTVZaTGNfVWY3Zw?oc=5",
+      "data": "15/08 12:50"
     },
     {
       "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbEVFUnhmRnpoX3ZfdWQ2SEVZZmR4aTY3ZE82dzJ3Y3E2VTZjeGhnZklFZ3FPVkZyVmNNdHlEMnItMU1pNmlCNHAtTUZVS0hzNV8xczZhTzVEY0gtaFNZallfRFpILUs4VTBqRVZxSVViTmFmZ0FHbENrUjJ4V29lN3RqWHNuSGRjRUVLQl9qczhFdjBTdXdqOTdDNjc5S3dPR3p1RDU0TUw3MVh5eW45cGJnbzBYem9NZ3U2ZzNWRGpQbWZNelh5REc2bWZSWTFBVlZsTWpUMzRiMUpTWElMeV8wdjRTQ1F2LWNHR2padlctZWRKQWNIYjdULXcydTRJcG5ITEVn?oc=5",
       "data": "14/08 21:22"
+    },
+    {
+      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
+      "data": "14/08 14:12"
     }
   ],
   "avisos": []
