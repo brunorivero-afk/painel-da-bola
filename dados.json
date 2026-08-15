@@ -1,38 +1,6 @@
 {
-  "atualizado_em": "15/08/2026 12:15",
+  "atualizado_em": "15/08/2026 13:18",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "10:30",
-      "competition": "Amistosos",
-      "match": "Borussia M x Aston Villa",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Brentford x Eintracht Frankfurt",
-      "channels": [
-        "ESPN 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Newcastle x Bayer Leverkusen",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-15",
@@ -48,20 +16,20 @@
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Alverca x Estrela",
+      "competition": "3ª Divisão Alemã",
+      "match": "Verl x MSV Duisburg",
       "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Verl x MSV Duisburg",
+      "competition": "Campeonato Português",
+      "match": "Alverca x Estrela",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -752,6 +720,38 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "10:30",
+      "competition": "Amistosos",
+      "match": "Borussia M x Aston Villa",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Newcastle x Bayer Leverkusen",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Brentford x Eintracht Frankfurt",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-16",
       "time": "08:00",
       "competition": "Amistosos",
@@ -1427,14 +1427,14 @@
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - lance.com.br",
+      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
       "data": "13/08 13:11"
     },
     {
-      "titulo": "Fluminense enfrenta o América-MG pelo Campeonato Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQal9JUnFVTXdhenpSYmFJeGcya1pqYmxCMmdQYlIzeUFaNW9iYjI2NTBkWHdrd3NPUGE4TTk5Q1pycE5OcVlBb19NaC1YSWdVVTV4djRZcXNMNEdUc1ZiYmo5czA4cG5kNWFrRHF5ZmpGMUNYa1NRY3ppVmxVQjE0Wjc4NHg5Y0YyenktUVh3XzJOTkFBWmdwNklMUDRvSE9oTVZaTGNfVWY3Zw?oc=5",
-      "data": "15/08 12:50"
+      "titulo": "Fluminense vence o Heips pelo Carioca Feminino Sub-20 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGRtRUJkR3hZYmpuRE5FOEg2U2dubEtEbVg0SWhfZ0RXTHQxSmxoRW5aY0o1VVpuUHl5aXYxaDVsYm9TVTVXWnpiVWZ1OVNHWmkxYUdWRnFsQ3RRNjJTN3h5d25NRGZyNmloREtqS3g1TnhOVjI5M3k5aUNHckM1TXEwUnZfUmU0YTdnMzlENzZfWmtvZUE?oc=5",
+      "data": "15/08 16:07"
     },
     {
       "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
@@ -1442,9 +1442,9 @@
       "data": "14/08 14:12"
     },
     {
-      "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTdkbndqcmZacER5SkM5eTVkUzRpcFBxRDdXQy1na09ZZDVyME1HLVM5TGE0MVpQWnRJaEM3Y0Z1MUh6ZExEMnRySGw4VW41TU1oOWx5VGhqWVBQTFl0RUR5bjFuS0Y4UktSYVZCemJJVWJNQzhLTnRmQTJmeThwbjR6dW9XV3BoSy0xdkpCRTZsOGFZdkE4bTFqc3hJVUhTX2dlbTVSWV9OaDZqemlsY185YlN6bkZKY0ow0gHAAUFVX3lxTE02ZERJUmotMUwtSTlIcnp6ZGdEd0k0U0FDeUd0QWx6RldaZ1ZzQ2k4WHJTNjlST0dsOVNqcW4xSy1IX2Z6TUxhME41eHZxX3ZwMURjYkRKOXhXN0JlUmlJd1hIYk16eW5fN3NpVHlXR09lM1VVN0RHSEZpN2V5LURkd1pTNW8zNzJRZ2E0V25lN3pwMW1LeFRJUHVYSFVIQUpWMFZGdnJ4VVNlSUlZNjRkMG1VbVRXYUc0dXA3Z3pINQ?oc=5",
-      "data": "14/08 22:48"
+      "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - itatiaia.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbEVFUnhmRnpoX3ZfdWQ2SEVZZmR4aTY3ZE82dzJ3Y3E2VTZjeGhnZklFZ3FPVkZyVmNNdHlEMnItMU1pNmlCNHAtTUZVS0hzNV8xczZhTzVEY0gtaFNZallfRFpILUs4VTBqRVZxSVViTmFmZ0FHbENrUjJ4V29lN3RqWHNuSGRjRUVLQl9qczhFdjBTdXdqOTdDNjc5S3dPR3p1RDU0TUw3MVh5eW45cGJnbzBYem9NZ3U2ZzNWRGpQbWZNelh5REc2bWZSWTFBVlZsTWpUMzRiMUpTWElMeV8wdjRTQ1F2LWNHR2padlctZWRKQWNIYjdULXcydTRJcG5ITEVn?oc=5",
+      "data": "14/08 21:22"
     }
   ],
   "avisos": []
