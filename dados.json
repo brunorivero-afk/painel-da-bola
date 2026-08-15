@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/08/2026 02:20",
+  "atualizado_em": "15/08/2026 03:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1029,20 +1029,20 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x Ibrachina Sub-20",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Huracan",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Huracan",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x Ibrachina Sub-20",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -1187,6 +1187,16 @@
       "match": "Vitória x Botafogo",
       "channels": [
         "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "18:30",
+      "competition": "MLS Next Pro",
+      "match": "Real Monarchs x Minnesota United II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -1366,9 +1376,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
+      "titulo": "Jogador do Fluminense comemora a demissão do técnico Luis Zubeldía - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUZQb3pPS3pGUnlxRUVId0dyWWNHcWRkcGtta1R0ZzhSMEl4VndoTEdrdXQtQzI1THVpUW1Rc2JobjJ2QW4wQlJ6M0dub3NQRnlLY1ZuMm0wU3lEVkY3dHFFMWQ4MWgxMVpXQTZtWE9mS0hkYkNwVk1XVU5kTGFHRlQ4dEhhV1otamhVMDM4d1RjOERqY2ZBblBwR0lXa1ZRNjhqSFpNSnA4MlFpSnZzUzlBZS16LTdJMGdHX0J4bzdaZw?oc=5",
+      "data": "13/08 20:26"
     },
     {
       "titulo": "Ex-Fluminense, Yago Felipe é anunciado por clube da Série A do Brasileirão - netflu.com.br",
