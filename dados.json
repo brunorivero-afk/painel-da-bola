@@ -1,24 +1,14 @@
 {
-  "atualizado_em": "15/08/2026 10:25",
+  "atualizado_em": "15/08/2026 11:16",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-15",
-      "time": "09:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Fortuna Dusseldorf x Hoffenheim II",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São José EC",
       "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "09:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Fortuna Koln x Alemannia Aachen",
-      "channels": [
-        "PPV ONEFOOTBALL"
+        "YOUTUBE"
       ]
     },
     {
@@ -34,22 +24,22 @@
     {
       "sport": "futebol",
       "date": "2026-08-15",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São José EC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
       "time": "10:30",
       "competition": "Amistosos",
       "match": "Borussia M x Aston Villa",
       "channels": [
         "XSPORTS",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "11:00",
+      "competition": "Amistosos",
+      "match": "Brentford x Eintracht Frankfurt",
+      "channels": [
+        "ESPN 4"
       ]
     },
     {
@@ -72,16 +62,6 @@
       "channels": [
         "YOUTUBE",
         "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "11:00",
-      "competition": "Amistosos",
-      "match": "Brentford x Eintracht Frankfurt",
-      "channels": [
-        "ESPN 4"
       ]
     },
     {
@@ -129,21 +109,21 @@
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Amistosos",
-      "match": "Borussia Dortmund x Roma",
+      "competition": "Campeonato Russo",
+      "match": "FC Rostov x Rubin",
       "channels": [
-        "YOUTUBE",
-        "DAZN"
+        "XSPORTS"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Campeonato Russo",
-      "match": "FC Rostov x Rubin",
+      "competition": "Amistosos",
+      "match": "Borussia Dortmund x Roma",
       "channels": [
-        "XSPORTS"
+        "YOUTUBE",
+        "DAZN"
       ]
     },
     {
@@ -332,6 +312,26 @@
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "16:30",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x Palmeiras",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Sevilla x Rayo Vallecano",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:30",
       "competition": "Campeonato Uruguaio",
       "match": "Racing Montevideo x Club Nacional",
       "channels": [
@@ -352,26 +352,6 @@
     {
       "sport": "futebol",
       "date": "2026-08-15",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Sevilla x Rayo Vallecano",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:30",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Palmeiras",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
       "time": "16:45",
       "competition": "Campeonato Argentino",
       "match": "Estudiantes x Gimnasia L.P.",
@@ -383,8 +363,8 @@
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "CSA x Uberlandia",
+      "competition": "Brasileirão Feminino",
+      "match": "RB Bragantino (F) x Vitoria BA W",
       "channels": [
         "YOUTUBE"
       ]
@@ -425,8 +405,8 @@
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Feminino",
-      "match": "RB Bragantino (F) x Vitoria BA W",
+      "competition": "Brasileirão Série D",
+      "match": "CSA x Uberlandia",
       "channels": [
         "YOUTUBE"
       ]
@@ -500,6 +480,17 @@
       "date": "2026-08-15",
       "time": "19:30",
       "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Maranhão",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
       "match": "Brusque x Inter De Limeira",
       "channels": [
         "SPORTYNET"
@@ -528,17 +519,6 @@
     {
       "sport": "futebol",
       "date": "2026-08-15",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Maranhão",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
       "time": "20:00",
       "competition": "Campeonato Mexicano",
       "match": "Atlante FC x Toluca",
@@ -551,7 +531,7 @@
       "date": "2026-08-15",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Montreal Impact x DC United",
+      "match": "Orlando City SC x FC Cincinnati",
       "channels": [
         "APPLE TV"
       ]
@@ -591,7 +571,7 @@
       "date": "2026-08-15",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Orlando City SC x FC Cincinnati",
+      "match": "Montreal Impact x DC United",
       "channels": [
         "APPLE TV"
       ]
@@ -746,6 +726,26 @@
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
       "match": "Hertha Berlin x FC Heidenheim",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "09:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Fortuna Koln x Alemannia Aachen",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "09:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Fortuna Dusseldorf x Hoffenheim II",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -1422,14 +1422,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Marcão terá nova chance e tenta reorganizar Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONm4ydjQ2ZENjVExEMjU4YUNkVGJxTFYwZGw4Tl9HWGY4Q0pndVJnRUVsaUlfbmh2UlI4ZHdPNVpZWm5ISTgyNGVVdkF6Zzd3S1hYZUUwa3dsZUYwVldyLWFqZHdzd050TXBFaUdubnJldDRYLVNkVG4xTnc2cHBrb2czMmctQ1pERlpBSW9MODZadTNCNTBjTUx6UklsYndzd0I5TzlxQS1sZ2dGRGlETGN0RkVJY1V3NVN0VC1KQWl6VE9CMmR3d1Qyd0NWZk5lLS14S19ORUF4VFZET3c?oc=5",
-      "data": "14/08 10:02"
-    },
-    {
       "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnlZR3RXNTRLc3M0NTA5c0psZkRBUW5nOFRXem5UajU1N0FWajg0MC10ZEhtN3RYSHRERlpBUmEtWjZhVVNMdzhEYUMzNFp5NjJyWjAxa2NEbUlJcHJnUE5QMkJKd2VhajlIbmFfaEowdElRYklqeEVUbTFlc1JVdzc1cUczZFpwX2tQR2xCdHNILVA0U292NXdxeTd3SDJneVF2dXhadm0xcXJUQXU0TEZQdzdKMnRfOEs2Rnd0YUhoWUs4RHpxMTZBbjFLSU5ZTWQwYnVOcEFvQdIB6AFBVV95cUxQYy0wbkU5cVdkemxISVJDcDZBYmg5bG0xMzktb3JxVmpsaXJLYmdUWTFsaTY3dlc4TGJRWUtCcFg3elZSWWVmTlJMS1FuczVUQzdpQUNTOXdqMnRRdjJfSFVNN1VWQkh5Z2Z5VjJibWYyaG54ZXVMaE5HZjJjOEZZLTYzck5pWWdxNHEwNEpEQ1d0Q2hFU1Vxd3k2QTJJMkE2QlFqdjctNTBDM2MxQ214MnFWUmRYSlpDYktGd1pLaXkwSlo0TF9MV3RaMGc5YlZneXg5Yk96cjNyaGdmamlmMjlMRnBrQ1hV?oc=5",
       "data": "15/08 07:01"
+    },
+    {
+      "titulo": "Marcão terá nova chance e tenta reorganizar Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONm4ydjQ2ZENjVExEMjU4YUNkVGJxTFYwZGw4Tl9HWGY4Q0pndVJnRUVsaUlfbmh2UlI4ZHdPNVpZWm5ISTgyNGVVdkF6Zzd3S1hYZUUwa3dsZUYwVldyLWFqZHdzd050TXBFaUdubnJldDRYLVNkVG4xTnc2cHBrb2czMmctQ1pERlpBSW9MODZadTNCNTBjTUx6UklsYndzd0I5TzlxQS1sZ2dGRGlETGN0RkVJY1V3NVN0VC1KQWl6VE9CMmR3d1Qyd0NWZk5lLS14S19ORUF4VFZET3c?oc=5",
+      "data": "14/08 10:02"
     },
     {
       "titulo": "Fluminense enfrenta o América-MG pelo Campeonato Brasileiro Feminino - fluminense.com.br",
@@ -1437,14 +1437,14 @@
       "data": "15/08 12:50"
     },
     {
-      "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbEVFUnhmRnpoX3ZfdWQ2SEVZZmR4aTY3ZE82dzJ3Y3E2VTZjeGhnZklFZ3FPVkZyVmNNdHlEMnItMU1pNmlCNHAtTUZVS0hzNV8xczZhTzVEY0gtaFNZallfRFpILUs4VTBqRVZxSVViTmFmZ0FHbENrUjJ4V29lN3RqWHNuSGRjRUVLQl9qczhFdjBTdXdqOTdDNjc5S3dPR3p1RDU0TUw3MVh5eW45cGJnbzBYem9NZ3U2ZzNWRGpQbWZNelh5REc2bWZSWTFBVlZsTWpUMzRiMUpTWElMeV8wdjRTQ1F2LWNHR2padlctZWRKQWNIYjdULXcydTRJcG5ITEVn?oc=5",
-      "data": "14/08 21:22"
-    },
-    {
       "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
       "data": "14/08 14:12"
+    },
+    {
+      "titulo": "Millán retorna aos treinos e Fluminense deve ganhar mais uma opção na zaga - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmlqWUM0NEFjek81dkVrYU12Y1BlTWNaNXdWYlpKdlhBWC1kNGY2QWlIU1pJa3lUa09pZHZrZWJRaFE5bzFxWDBsR29kell3MmxoUDVLWTNYOVU5Z0tUVndpT2dNSHhNWjAwVktHb3pDX3ktdE8tVnBwN1F5S2RHNkFWcXJmT2w2cGxvYUViWDM4aWYwdC1LUkxyd2JGUFVXaml3?oc=5",
+      "data": "14/08 19:00"
     }
   ],
   "avisos": []
