@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 19:16",
+  "atualizado_em": "15/08/2026 20:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -1427,17 +1427,12 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0Zpd3h6S1ROSlVsZm5PRnVuX3lRWDZSN2luZzdSclZGVURscWd1VUNtRGpyQXVqWkplcjV1eTVLOEtKaXFRcjFrWjVYV1JxUEdidGhtbzFvc3EwMUV5QnpJQTJWT3hyTnV4YWtyLXVUSWI3ZTE5TVlsTTNYbk5RWkdfLXplU3VtVkNSYkNkTXh4QldZMGxtSzBvQlp3S0ZlNWF1dnpacTBMRjlNTmQ1U3dmaXp2SjFqWE1GcW1XNFdRc1dBT2JfMU5rM2FyQkdBd3JqXzJHLTEwZGk2c1VDU29YOEU4SkFlV1ZB?oc=5",
-      "data": "15/08 07:14"
+      "titulo": "Adeus! Atacante deixa o Fluminense para jogar no exterior - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXgtbm5JN1Vra3ptRDk2Nll5MnBHd2duZmluV0tfcHcwTEF6YnhKYmhTTkoxUTFUUUNTRmJHNEROVVB4dWRZQ0hMZXc2MGQ5RU53UGxPRGxEQUc3ZHZxbkotXzVyaDFZOW56ZFVQcHItSUstdEdnTzE1Sk1EaVQxcDFqeUNYZlBkbDBNRVg5aVlRQklyZW1BZW9hQWRQRFhnazVvQ2s5Q0VCRGNOenUxOVJ0OTZ3WDE0Y0REZHJmWlcxcndaa1NqTGVlcmFPanVxLXhFaTNxcGMwdDktYXdmdw?oc=5",
+      "data": "14/08 18:06"
     },
     {
-      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
-      "data": "15/08 20:28"
-    },
-    {
-      "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - O Dia",
+      "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - odia.ig.com.br",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTdkbndqcmZacER5SkM5eTVkUzRpcFBxRDdXQy1na09ZZDVyME1HLVM5TGE0MVpQWnRJaEM3Y0Z1MUh6ZExEMnRySGw4VW41TU1oOWx5VGhqWVBQTFl0RUR5bjFuS0Y4UktSYVZCemJJVWJNQzhLTnRmQTJmeThwbjR6dW9XV3BoSy0xdkpCRTZsOGFZdkE4bTFqc3hJVUhTX2dlbTVSWV9OaDZqemlsY185YlN6bkZKY0ow0gHAAUFVX3lxTE02ZERJUmotMUwtSTlIcnp6ZGdEd0k0U0FDeUd0QWx6RldaZ1ZzQ2k4WHJTNjlST0dsOVNqcW4xSy1IX2Z6TUxhME41eHZxX3ZwMURjYkRKOXhXN0JlUmlJd1hIYk16eW5fN3NpVHlXR09lM1VVN0RHSEZpN2V5LURkd1pTNW8zNzJRZ2E0V25lN3pwMW1LeFRJUHVYSFVIQUpWMFZGdnJ4VVNlSUlZNjRkMG1VbVRXYUc0dXA3Z3pINQ?oc=5",
       "data": "14/08 22:48"
     },
@@ -1445,6 +1440,11 @@ window.PAINEL_DATA = {
       "titulo": "Chapecoense anuncia contratação de meio-campista ex-Fluminense - NSC Total",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXV6LXEzUkE3TUlrRmIwcUlvSkd1VS10ZlZnQnFPb0pnY1A5UG9fOEJkSGVocXJXOFNNWDJGcDVrNUg2ZlEySm9RUDFCMm5WTlhhVm9ETS15SWROME9DOE9fS29ZOHJlVUY0VHhyQVVjNkVGdXdaOEZzenZDa3ZtSnVKX2VXVGk1dEt1RldCckduYjhBajlNMlAwekZIWGtN?oc=5",
       "data": "15/08 18:34"
+    },
+    {
+      "titulo": "Chapecoense anuncia a contratação do meia Yago Felipe, ex-Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFJOSjRtZWpuYkFIbUxtaTduTmpIR3g1MFk3SC1YZ1BlYk5KMS1MOERGMjB1ZkpPOHhaTG9qLUdVNEp2OU9acWt1LV9hVGdhdEUwMnJuMGxQVVRfaDVDV2ZBQXhTbFBQSXRKWHFCcVB6cFFpb1B6NDVnWlp0OUtxVlZfREkxWDYzTzQ2cTBzUWt5UWhNb2V3YVVhTGpwRjMzR0hxa3BoS1FOTGluVVB5NFBFOEJwMi1udjRSZXU2NWpSdFlzVVc5MHM0NTk5S0tIeXJHME80aVMtd9IB6AFBVV95cUxPUnpMUkxlaUgwXzlLY2tRUXNoWlBSbUdQUkJmdWJWaXEwLVJIT29SX1d1b19tejMzYXNqUjNvQzM2RjJNN0t6UFpaNjRWeUlIVVV5V1g2bEctbTdIMk9FM3hSQzRJYnlSZllnSU83YkItYWtxRV9CdTJlb2pwZkMtdWJQYldMd2VyVUlyeVVjcHJMQTNkTF9qVHJYU2xScUNLdGJSOUYyUWFIb2U5SEFmcjdvR3NueHowV3VQaUs5Ulc5MUhSV0JkNnJ4OFdDUXRRM3ozVmp3bk5uMndvb1ptaTlETk5DeG9Z?oc=5",
+      "data": "14/08 21:28"
     }
   ],
   "avisos": []
