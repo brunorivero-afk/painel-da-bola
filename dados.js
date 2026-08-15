@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 07:17",
+  "atualizado_em": "15/08/2026 08:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -1395,21 +1395,21 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 25.6,
       "temp_min": 20.5,
-      "chance_chuva": 45,
+      "chance_chuva": 80,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 24.5,
       "temp_min": 20.4,
-      "chance_chuva": 86,
+      "chance_chuva": 83,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.4,
       "temp_min": 16.3,
-      "chance_chuva": 94,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
@@ -1422,9 +1422,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Jogador do Fluminense comemora a demissão do técnico Luis Zubeldía - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUZQb3pPS3pGUnlxRUVId0dyWWNHcWRkcGtta1R0ZzhSMEl4VndoTEdrdXQtQzI1THVpUW1Rc2JobjJ2QW4wQlJ6M0dub3NQRnlLY1ZuMm0wU3lEVkY3dHFFMWQ4MWgxMVpXQTZtWE9mS0hkYkNwVk1XVU5kTGFHRlQ4dEhhV1otamhVMDM4d1RjOERqY2ZBblBwR0lXa1ZRNjhqSFpNSnA4MlFpSnZzUzlBZS16LTdJMGdHX0J4bzdaZw?oc=5",
-      "data": "13/08 20:26"
+      "titulo": "Marcão terá nova chance e tenta reorganizar Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONm4ydjQ2ZENjVExEMjU4YUNkVGJxTFYwZGw4Tl9HWGY4Q0pndVJnRUVsaUlfbmh2UlI4ZHdPNVpZWm5ISTgyNGVVdkF6Zzd3S1hYZUUwa3dsZUYwVldyLWFqZHdzd050TXBFaUdubnJldDRYLVNkVG4xTnc2cHBrb2czMmctQ1pERlpBSW9MODZadTNCNTBjTUx6UklsYndzd0I5TzlxQS1sZ2dGRGlETGN0RkVJY1V3NVN0VC1KQWl6VE9CMmR3d1Qyd0NWZk5lLS14S19ORUF4VFZET3c?oc=5",
+      "data": "14/08 10:02"
     },
     {
       "titulo": "Ex-Fluminense, Yago Felipe é anunciado por clube da Série A do Brasileirão - netflu.com.br",
@@ -1432,22 +1432,20 @@ window.PAINEL_DATA = {
       "data": "14/08 23:30"
     },
     {
-      "titulo": "Jogos de hoje: quem joga no futebol e onde assistir ao vivo – sábado (15/08/2026) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY282ZWhCTm0zYmxPbDZ5b0VJa3U2REVscEtEcEVjZ0EzLVVWSkpON3NiZVRJRXgwZDdMcm5CTGozOXJmREJaNVMySG9XZERqb2N3OE52ZUpwQUJjc25Vak54UTVlVG8wMjhxVjMwN3ZRWUdva0c1dlVVcldiNTZJS21oZFRvQ19PYWFHWGFYMkNaLXRvVGZMckRDT3RzZmdSTHQ3S05JNWk?oc=5",
-      "data": "15/08 09:00"
-    },
-    {
-      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
-      "data": "14/08 15:04"
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnlZR3RXNTRLc3M0NTA5c0psZkRBUW5nOFRXem5UajU1N0FWajg0MC10ZEhtN3RYSHRERlpBUmEtWjZhVVNMdzhEYUMzNFp5NjJyWjAxa2NEbUlJcHJnUE5QMkJKd2VhajlIbmFfaEowdElRYklqeEVUbTFlc1JVdzc1cUczZFpwX2tQR2xCdHNILVA0U292NXdxeTd3SDJneVF2dXhadm0xcXJUQXU0TEZQdzdKMnRfOEs2Rnd0YUhoWUs4RHpxMTZBbjFLSU5ZTWQwYnVOcEFvQdIB6AFBVV95cUxQYy0wbkU5cVdkemxISVJDcDZBYmg5bG0xMzktb3JxVmpsaXJLYmdUWTFsaTY3dlc4TGJRWUtCcFg3elZSWWVmTlJMS1FuczVUQzdpQUNTOXdqMnRRdjJfSFVNN1VWQkh5Z2Z5VjJibWYyaG54ZXVMaE5HZjJjOEZZLTYzck5pWWdxNHEwNEpEQ1d0Q2hFU1Vxd3k2QTJJMkE2QlFqdjctNTBDM2MxQ214MnFWUmRYSlpDYktGd1pLaXkwSlo0TF9MV3RaMGc5YlZneXg5Yk96cjNyaGdmamlmMjlMRnBrQ1hV?oc=5",
+      "data": "15/08 07:01"
     },
     {
       "titulo": "Fluminense estreia no Carioca Feminino Sub-20 neste sábado - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN085VXZCMnplSkJWMDl5V0dGM0lob3VHMjBoM1ZHSm0zdEx4VlVGaklGZW9SVUJFeUhpLXQxOUFNTFBMeU9wT3ZKTER1WTBtTFRsMUtJZHM3QU1VNVk2eUF5ZktWc0JBSEFFUGdaREpLZXZRc2NqWGZmd2s1S0RsRUs1Zlg0NThZYXFOY0E3OFRFekJYQ25aZlVxY2c?oc=5",
       "data": "14/08 15:55"
+    },
+    {
+      "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbEVFUnhmRnpoX3ZfdWQ2SEVZZmR4aTY3ZE82dzJ3Y3E2VTZjeGhnZklFZ3FPVkZyVmNNdHlEMnItMU1pNmlCNHAtTUZVS0hzNV8xczZhTzVEY0gtaFNZallfRFpILUs4VTBqRVZxSVViTmFmZ0FHbENrUjJ4V29lN3RqWHNuSGRjRUVLQl9qczhFdjBTdXdqOTdDNjc5S3dPR3p1RDU0TUw3MVh5eW45cGJnbzBYem9NZ3U2ZzNWRGpQbWZNelh5REc2bWZSWTFBVlZsTWpUMzRiMUpTWElMeV8wdjRTQ1F2LWNHR2padlctZWRKQWNIYjdULXcydTRJcG5ITEVn?oc=5",
+      "data": "14/08 21:22"
     }
   ],
-  "avisos": [
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
