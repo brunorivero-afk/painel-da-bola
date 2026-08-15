@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 13:18",
+  "atualizado_em": "15/08/2026 14:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -10,47 +10,6 @@ window.PAINEL_DATA = {
       "channels": [
         "YOUTUBE",
         "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Verl x MSV Duisburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Alverca x Estrela",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "11:45",
-      "competition": "Amistosos",
-      "match": "Manchester United x AC Milan",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Austria Lustenau x Wolfsberger AC",
-      "channels": [
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -129,16 +88,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Alavés x Getafe",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "14:30",
       "competition": "Campeonato Austríaco",
       "match": "Sturm Graz x SCR Altach",
       "channels": [
@@ -148,31 +97,24 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-15",
-      "time": "15:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Fluminense (F) x América MG (F)",
+      "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Alavés x Getafe",
       "channels": [
-        "YOUTUBE"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Paulista x Juventus",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al-Fateh",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "Excelsior x PSV Eindhoven",
-      "channels": [
-        "DISNEY+"
+        "BAND",
+        "SPORTV",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -191,13 +133,30 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Nassr x Al-Fateh",
+      "competition": "Campeonato Holandês",
+      "match": "Excelsior x PSV Eindhoven",
       "channels": [
-        "BAND",
-        "SPORTV",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "Paulista x Juventus",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Fluminense (F) x América MG (F)",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -748,6 +707,47 @@ window.PAINEL_DATA = {
       "match": "Brentford x Eintracht Frankfurt",
       "channels": [
         "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "11:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Verl x MSV Duisburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "11:30",
+      "competition": "Campeonato Português",
+      "match": "Alverca x Estrela",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "11:45",
+      "competition": "Amistosos",
+      "match": "Manchester United x AC Milan",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "12:00",
+      "competition": "Campeonato Austríaco",
+      "match": "Austria Lustenau x Wolfsberger AC",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1432,19 +1432,19 @@ window.PAINEL_DATA = {
       "data": "13/08 13:11"
     },
     {
-      "titulo": "Fluminense vence o Heips pelo Carioca Feminino Sub-20 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGRtRUJkR3hZYmpuRE5FOEg2U2dubEtEbVg0SWhfZ0RXTHQxSmxoRW5aY0o1VVpuUHl5aXYxaDVsYm9TVTVXWnpiVWZ1OVNHWmkxYUdWRnFsQ3RRNjJTN3h5d25NRGZyNmloREtqS3g1TnhOVjI5M3k5aUNHckM1TXEwUnZfUmU0YTdnMzlENzZfWmtvZUE?oc=5",
-      "data": "15/08 16:07"
+      "titulo": "Adeus! Atacante deixa o Fluminense para jogar no exterior - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXgtbm5JN1Vra3ptRDk2Nll5MnBHd2duZmluV0tfcHcwTEF6YnhKYmhTTkoxUTFUUUNTRmJHNEROVVB4dWRZQ0hMZXc2MGQ5RU53UGxPRGxEQUc3ZHZxbkotXzVyaDFZOW56ZFVQcHItSUstdEdnTzE1Sk1EaVQxcDFqeUNYZlBkbDBNRVg5aVlRQklyZW1BZW9hQWRQRFhnazVvQ2s5Q0VCRGNOenUxOVJ0OTZ3WDE0Y0REZHJmWlcxcndaa1NqTGVlcmFPanVxLXhFaTNxcGMwdDktYXdmdw?oc=5",
+      "data": "14/08 18:06"
     },
     {
-      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
-      "data": "14/08 14:12"
+      "titulo": "Clube da 2ª divisão do Paraibano anuncia atacante Walter, ex-Inter e Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNU1NQZW9neVU1VzBRZWY3Vi1Jd0kzY0gyQk1tSjVCQjBqdTNtQ0syOTRWY2xpWHN3S1lmRUMxV0pXZGViVWthdXFhSjhINjRWRnptOGl6RHU0Ujk3ZUFib29pUlJMNloxRTZUb0IyY19nME9NQk93aF9iUlhiREZoSkFvbUdUQVBCcm1CMFVuR1NsM1h4Vjdyc1VlWGctU25CblFnZVB5cFFZbTlaRGM5VmUzY2lISC1GRjVYR1pyeW1nV05pV0ZpUUhaTXFaUS1OR3d2YWFIZHl4LXJ5cWpuWXZpUVNQUU9nWU82a3phUUNuRkNxOUZyaVFnNU16UHViS0pnOHhBdVFyd9IBmAJBVV95cUxNaFJYc01LOWYwUW8yNHh5enlVdHBXZjN3LXl3MkduTUNWLXZfU25EOVV1OExGR0VlWmQwc3VMekpfRGdtTzlkLUNkN1BlQ3d3WElPZFAzOXpkYy1EYWlzUmZObDRTSFpxanJSMjUxb2c1dDlJV1l0dUtxcWRnd25TTDVMdHZYNlFnaWQ4ZElVS0NsaV9wTHdidHhMaGhta3U1RXJOT1BnM0pPbUE3aXB2c3ZXTjROdFlqbnBxcHlTSXREMmlobTBNNnlPNEhtMGxEVmNlc2pCRkdZN21UblIybG9YQ3N0WU9YWVhsN3FIX3duaEEzS0NUU1FxS2hqRE1kd0gxZlNMdHY5bUZfQkdLQ29GeTFvalUw?oc=5",
+      "data": "15/08 13:09"
     },
     {
-      "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - itatiaia.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbEVFUnhmRnpoX3ZfdWQ2SEVZZmR4aTY3ZE82dzJ3Y3E2VTZjeGhnZklFZ3FPVkZyVmNNdHlEMnItMU1pNmlCNHAtTUZVS0hzNV8xczZhTzVEY0gtaFNZallfRFpILUs4VTBqRVZxSVViTmFmZ0FHbENrUjJ4V29lN3RqWHNuSGRjRUVLQl9qczhFdjBTdXdqOTdDNjc5S3dPR3p1RDU0TUw3MVh5eW45cGJnbzBYem9NZ3U2ZzNWRGpQbWZNelh5REc2bWZSWTFBVlZsTWpUMzRiMUpTWElMeV8wdjRTQ1F2LWNHR2padlctZWRKQWNIYjdULXcydTRJcG5ITEVn?oc=5",
-      "data": "14/08 21:22"
+      "titulo": "Atacante estrangeiro está de saída do Fluminense após fazer história na Copinha - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZE9vZ3VQUHBuMTNrdUxual9fZVdwZlZDa0h0OXV5M2V3T3RrNVlpRDdwMTRRWG1KWnUtNURQQUdzemd2d25PZTBKM1B6WWw0QXhXYlk2SnUtbWQ0anZpV0dmQ1c0SE1EdXJSQ0docF90SjlCNl83TUh0SFc4TDlKTzN4TG5MVFR4cjNjRlRzdVR4NzJGbmhlaWlkWU8ydmJjTi0yR2Z5Rk9sUQ?oc=5",
+      "data": "14/08 14:43"
     }
   ],
   "avisos": []
