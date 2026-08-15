@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/08/2026 18:16",
+  "atualizado_em": "15/08/2026 19:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -25,104 +25,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-15",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Rio Ave x FC Porto",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Club Nacional",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Sevilla x Rayo Vallecano",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:30",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Palmeiras",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "16:45",
-      "competition": "Campeonato Argentino",
-      "match": "Estudiantes x Gimnasia L.P.",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
       "time": "17:00",
       "competition": "Brasileirão Feminino",
       "match": "RB Bragantino (F) x Vitoria BA W",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "CSA x Uberlandia",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Chicago FC United x Orlando City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Amazonas x Botafogo PB",
-      "channels": [
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Volta Redonda x Ituano",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -193,16 +100,6 @@
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Marília x Linense",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:30",
       "competition": "Brasileirão Série C",
       "match": "Santa Cruz x Maranhão",
       "channels": [
@@ -218,6 +115,16 @@
       "match": "Brusque x Inter De Limeira",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Marília x Linense",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -245,6 +152,16 @@
       "date": "2026-08-15",
       "time": "20:30",
       "competition": "MLS",
+      "match": "Charlotte x Columbus Crew",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
       "match": "Orlando City SC x FC Cincinnati",
       "channels": [
         "APPLE TV"
@@ -256,16 +173,6 @@
       "time": "20:30",
       "competition": "MLS",
       "match": "Atlanta United FC x New York Red Bulls",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Charlotte x Columbus Crew",
       "channels": [
         "APPLE TV"
       ]
@@ -399,7 +306,7 @@
       "date": "2026-08-15",
       "time": "23:30",
       "competition": "MLS",
-      "match": "San Jose Earthquakes x St. Louis City",
+      "match": "Los Angeles FC x San Diego",
       "channels": [
         "APPLE TV"
       ]
@@ -409,7 +316,7 @@
       "date": "2026-08-15",
       "time": "23:30",
       "competition": "MLS",
-      "match": "Los Angeles FC x San Diego",
+      "match": "San Jose Earthquakes x St. Louis City",
       "channels": [
         "APPLE TV"
       ]
@@ -419,7 +326,7 @@
       "date": "2026-08-15",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "Hertha Berlin x FC Heidenheim",
+      "match": "SpVgg Greuther Furth x FC Nurnberg",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -429,7 +336,7 @@
       "date": "2026-08-15",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "SpVgg Greuther Furth x FC Nurnberg",
+      "match": "Hertha Berlin x FC Heidenheim",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -561,21 +468,21 @@
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Campeonato Russo",
-      "match": "FC Rostov x Rubin",
+      "competition": "Amistosos",
+      "match": "Borussia Dortmund x Roma",
       "channels": [
-        "XSPORTS"
+        "YOUTUBE",
+        "DAZN"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Amistosos",
-      "match": "Borussia Dortmund x Roma",
+      "competition": "Campeonato Russo",
+      "match": "FC Rostov x Rubin",
       "channels": [
-        "YOUTUBE",
-        "DAZN"
+        "XSPORTS"
       ]
     },
     {
@@ -735,7 +642,7 @@
       "date": "2026-08-15",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Vila Nova",
+      "match": "Ceará x Cuiabá",
       "channels": [
         "DISNEY+"
       ]
@@ -745,9 +652,102 @@
       "date": "2026-08-15",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Ceará x Cuiabá",
+      "match": "Atlético GO x Vila Nova",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "Rio Ave x FC Porto",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Club Nacional",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Sevilla x Rayo Vallecano",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:30",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x Palmeiras",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "16:45",
+      "competition": "Campeonato Argentino",
+      "match": "Estudiantes x Gimnasia L.P.",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Amazonas x Botafogo PB",
+      "channels": [
+        "BAND",
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Volta Redonda x Ituano",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x Orlando City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "CSA x Uberlandia",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -1427,14 +1427,14 @@
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
-      "data": "15/08 20:28"
-    },
-    {
       "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - Terra",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0Zpd3h6S1ROSlVsZm5PRnVuX3lRWDZSN2luZzdSclZGVURscWd1VUNtRGpyQXVqWkplcjV1eTVLOEtKaXFRcjFrWjVYV1JxUEdidGhtbzFvc3EwMUV5QnpJQTJWT3hyTnV4YWtyLXVUSWI3ZTE5TVlsTTNYbk5RWkdfLXplU3VtVkNSYkNkTXh4QldZMGxtSzBvQlp3S0ZlNWF1dnpacTBMRjlNTmQ1U3dmaXp2SjFqWE1GcW1XNFdRc1dBT2JfMU5rM2FyQkdBd3JqXzJHLTEwZGk2c1VDU29YOEU4SkFlV1ZB?oc=5",
       "data": "15/08 07:14"
+    },
+    {
+      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
+      "data": "15/08 20:28"
     },
     {
       "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - O Dia",
