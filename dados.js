@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 08:15",
+  "atualizado_em": "15/08/2026 09:28",
   "jogos": [
     {
       "sport": "futebol",
@@ -1437,9 +1437,9 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense estreia no Carioca Feminino Sub-20 neste sábado - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN085VXZCMnplSkJWMDl5V0dGM0lob3VHMjBoM1ZHSm0zdEx4VlVGaklGZW9SVUJFeUhpLXQxOUFNTFBMeU9wT3ZKTER1WTBtTFRsMUtJZHM3QU1VNVk2eUF5ZktWc0JBSEFFUGdaREpLZXZRc2NqWGZmd2s1S0RsRUs1Zlg0NThZYXFOY0E3OFRFekJYQ25aZlVxY2c?oc=5",
-      "data": "14/08 15:55"
+      "titulo": "Jogos de hoje: quem joga no futebol e onde assistir ao vivo – sábado (15/08/2026) - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY282ZWhCTm0zYmxPbDZ5b0VJa3U2REVscEtEcEVjZ0EzLVVWSkpON3NiZVRJRXgwZDdMcm5CTGozOXJmREJaNVMySG9XZERqb2N3OE52ZUpwQUJjc25Vak54UTVlVG8wMjhxVjMwN3ZRWUdva0c1dlVVcldiNTZJS21oZFRvQ19PYWFHWGFYMkNaLXRvVGZMckRDT3RzZmdSTHQ3S05JNWk?oc=5",
+      "data": "15/08 09:00"
     },
     {
       "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - Rádio Itatiaia",
