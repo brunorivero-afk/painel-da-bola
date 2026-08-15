@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 06:21",
+  "atualizado_em": "15/08/2026 07:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -1447,5 +1447,7 @@ window.PAINEL_DATA = {
       "data": "14/08 15:55"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 };
