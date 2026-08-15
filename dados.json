@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/08/2026 04:26",
+  "atualizado_em": "15/08/2026 05:21",
   "jogos": [
     {
       "sport": "futebol",
@@ -164,6 +164,16 @@
       "channels": [
         "YOUTUBE",
         "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "12:30",
+      "competition": "Campeonato Russo",
+      "match": "FC Rostov x Rubin",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -675,6 +685,7 @@
       "competition": "NWSL Feminina",
       "match": "Portland Thorns (F) x Orlando Pride (F)",
       "channels": [
+        "XSPORTS",
         "ONEFOOTBALL"
       ]
     },
@@ -918,6 +929,16 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
+      "competition": "Amistosos",
+      "match": "Newcastle x Strasbourg",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
       "competition": "Campeonato Espanhol",
       "match": "Racing Santander x Villarreal",
       "channels": [
@@ -931,6 +952,8 @@
       "competition": "Amistosos",
       "match": "FC Schalke 04 x Real Madrid",
       "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
         "DAZN"
       ]
     },
@@ -982,6 +1005,7 @@
       "competition": "Campeonato Russo",
       "match": "Baltika x Spartak Moscow",
       "channels": [
+        "XSPORTS",
         "BANDSPORTS"
       ]
     },
@@ -992,7 +1016,8 @@
       "competition": "Campeonato Espanhol",
       "match": "Espanyol x Levante",
       "channels": [
-        "CAZÉTV"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -1183,20 +1208,20 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Botafogo",
+      "competition": "MLS Next Pro",
+      "match": "Real Monarchs x Minnesota United II",
       "channels": [
-        "PREMIERE FC"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "MLS Next Pro",
-      "match": "Real Monarchs x Minnesota United II",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Athletic Club",
       "channels": [
-        "ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -1235,10 +1260,10 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Athletic Club",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Botafogo",
       "channels": [
-        "DISNEY+"
+        "PREMIERE FC"
       ]
     },
     {
@@ -1291,6 +1316,27 @@
       "match": "Corinthians x Cruzeiro",
       "channels": [
         "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "20:00",
+      "competition": "NWSL Feminina",
+      "match": "North Carolina Courage (F) x Houston Dash (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "20:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Atletico San Luis",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -1376,7 +1422,7 @@
   ],
   "noticias": [
     {
-      "titulo": "Jogador do Fluminense comemora a demissão do técnico Luis Zubeldía - cnnbrasil.com.br",
+      "titulo": "Jogador do Fluminense comemora a demissão do técnico Luis Zubeldía - CNN Brasil",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUZQb3pPS3pGUnlxRUVId0dyWWNHcWRkcGtta1R0ZzhSMEl4VndoTEdrdXQtQzI1THVpUW1Rc2JobjJ2QW4wQlJ6M0dub3NQRnlLY1ZuMm0wU3lEVkY3dHFFMWQ4MWgxMVpXQTZtWE9mS0hkYkNwVk1XVU5kTGFHRlQ4dEhhV1otamhVMDM4d1RjOERqY2ZBblBwR0lXa1ZRNjhqSFpNSnA4MlFpSnZzUzlBZS16LTdJMGdHX0J4bzdaZw?oc=5",
       "data": "13/08 20:26"
     },
@@ -1391,14 +1437,14 @@
       "data": "14/08 15:04"
     },
     {
-      "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ0Zpd3h6S1ROSlVsZm5PRnVuX3lRWDZSN2luZzdSclZGVURscWd1VUNtRGpyQXVqWkplcjV1eTVLOEtKaXFRcjFrWjVYV1JxUEdidGhtbzFvc3EwMUV5QnpJQTJWT3hyTnV4YWtyLXVUSWI3ZTE5TVlsTTNYbk5RWkdfLXplU3VtVkNSYkNkTXh4QldZMGxtSzBvQlp3S0ZlNWF1dnpacTBMRjlNTmQ1U3dmaXp2SjFqWE1GcW1XNFdRc1dBT2JfMU5rM2FyQkdBd3JqXzJHLTEwZGk2c1VDU29YOEU4SkFlV1ZB?oc=5",
-      "data": "15/08 07:14"
-    },
-    {
       "titulo": "Fluminense estreia no Carioca Feminino Sub-20 neste sábado - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN085VXZCMnplSkJWMDl5V0dGM0lob3VHMjBoM1ZHSm0zdEx4VlVGaklGZW9SVUJFeUhpLXQxOUFNTFBMeU9wT3ZKTER1WTBtTFRsMUtJZHM3QU1VNVk2eUF5ZktWc0JBSEFFUGdaREpLZXZRc2NqWGZmd2s1S0RsRUs1Zlg0NThZYXFOY0E3OFRFekJYQ25aZlVxY2c?oc=5",
       "data": "14/08 15:55"
+    },
+    {
+      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
+      "data": "14/08 14:12"
     }
   ],
   "avisos": []
