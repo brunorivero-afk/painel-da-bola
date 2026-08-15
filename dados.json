@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/08/2026 20:16",
+  "atualizado_em": "14/08/2026 21:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -14,66 +14,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-14",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Danubio",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Botafogo SP",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Náutico",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "competition": "Copa Paulista",
-      "match": "Bandeirante SP x Gremio Prudente",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
       "time": "20:00",
       "competition": "MLS Next Pro",
       "match": "Toronto II x Chattanooga",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "20:00",
-      "competition": "Campeonato Peruano",
-      "match": "Cusco x Juan Pablo II College",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -172,6 +117,16 @@
       "sport": "futebol",
       "date": "2026-08-14",
       "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Jabaquara U20 x Corinthians Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "15:00",
       "competition": "Campeonato Saudita",
       "match": "Al-Hilal x Al-Faisaly FC",
       "channels": [
@@ -179,16 +134,6 @@
         "SPORTV",
         "CANAL GOAT",
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-14",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Jabaquara U20 x Corinthians Sub-20",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -240,6 +185,61 @@
       "match": "Itapirense U20 x Santos Sub-20",
       "channels": [
         "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Danubio",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Náutico",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Botafogo SP",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "20:00",
+      "competition": "Campeonato Peruano",
+      "match": "Cusco x Juan Pablo II College",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-14",
+      "time": "20:00",
+      "competition": "Copa Paulista",
+      "match": "Bandeirante SP x Gremio Prudente",
+      "channels": [
         "YOUTUBE"
       ]
     },
@@ -320,7 +320,8 @@
       "competition": "Amistosos",
       "match": "Borussia M x Aston Villa",
       "channels": [
-        "XSPORTS"
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -1009,23 +1010,23 @@
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 26.2,
-      "temp_min": 15.9,
+      "temp_min": 15.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.0,
-      "temp_min": 15.7,
+      "temp_min": 15.3,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense ouve \"não\" e busca novo nome para o lugar de Luís Zubeldía - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMkFTQkxPRjVBV1lsdlZxSjd4ZEdCSHV0T0ttQXY2ODdaY2UwY2VhVFZEdFRlMldXc2UtbldaOU5YQ2NSMkRkQmVDV2sxUGhfUGZLR3pjUmZTUUwxZHFuRTZlWUxaaUVGUWU1eUU1SThIX0VrNVVTbGNoRldQcU9ydXhRUm9KTjZzQmoxTW5XOXozak5ybnl5YlhLZU5vYkRBQWFfZUZEMTVrV0xxZWtPS3FkdGx5U1FZRFZkZUtKUVl1MWpaNUt4TEl0ZmlLX19qTGlwRHlEcTdxbVlCYy1hV1RUZmNwQmhPcEs4?oc=5",
-      "data": "13/08 19:47"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
     },
     {
       "titulo": "Fluminense fez bons negócios? Veja quanto o clube gastou em reforços - Terra",
@@ -1033,19 +1034,19 @@
       "data": "14/08 21:17"
     },
     {
-      "titulo": "Escalação do Fluminense: veja prováveis mudanças de Marcão para o jogo contra o Palmeiras - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdkppbWIxSkUxNFZEaS1pQjh6VjRrUmRacjZVajA5N01xNVI5RUk2U3NjT0VidmE5cEJTeThRckNTREtoeGxQMUhQVkFyaTN3clI5R3VWbVZrd2FiTThIS1VoNkFDVkxJNXRZWmcwMXZ3emFZMkpGOTM2UENNVGstNlhCQnhYOEFIRHF2S2lnMlF0aGk2RE1BbTRhM1dxWWdlaTM1UW9wV3c2NXlhS2dmT1QyRGlOdFd0elM5a25sVWFfOHhfekFOVk1hMWh6YkU5SEJwQ01iT09XYWMtbzk4T2MxbEZaOVUxU1VnSzJieFDSAf8BQVVfeXFMT2EtcG42bm8tZllubnFhaVp2bDBlYTZlcjhCYVhXRXNfT0pEdVZGWnRuLUJiSzBtd2dDS0lBQzQ1YTdfZjlRdFhBbUdYY1dQSzRWZVNVekJ2TFJvN3Q2NF9saFQzQ1o0b2EwLWlpNTVwSkxxZ2hxUERMUGVKRUNMZEhVSEZnZk83SDZJYUNVSnB2OWVrNk9hVG9WVmF4VllEYmhmTW9oY205RlpJYWpvWElFQlJHMkdyVG9pXzMxbXBnNmNBVDRfWTVEcFAxdXhBTjBBdEZtTllzYVdkbzZPSVNsQm94azdJWXA2MUttSVJJX2xHMHkxV3JMQ2EtZnA0?oc=5",
-      "data": "14/08 20:53"
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjVlNXFla0NTaURDellZN3lTZWk5X2ppMjhhZ1ozQ0Vyb253dEIxWllnNXFNUlh4Vk45d1MySkpDenMyOTJWcWFBcXlkbjZGdjhQeGd4RWR1TGtlVGFVRk5ja2p5d2pPSmRaY2Fmc1p4QjhwR3FKZWZsR0h1Q0x6OUNiNzUxN2JDb3dCc1dOdDlvZ2h4ZEJlZzFpZU42a1ltODdHNGlPODJVTEVPdG1uMlI4MV80M29VYWkyWGVFR1Z4SV9kbVA0TFR0SjJXdERFaEI3ZEdxMHc0VDlSc3VidURnTnpERFZTeE15dW5nb29xcV9zWmc?oc=5",
+      "data": "14/08 15:04"
     },
     {
-      "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - Rádio Itatiaia",
+      "titulo": "Felipe Melo abre o jogo sobre possível convite para assumir o Fluminense: 'Estou pronto' - itatiaia.com.br",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbEVFUnhmRnpoX3ZfdWQ2SEVZZmR4aTY3ZE82dzJ3Y3E2VTZjeGhnZklFZ3FPVkZyVmNNdHlEMnItMU1pNmlCNHAtTUZVS0hzNV8xczZhTzVEY0gtaFNZallfRFpILUs4VTBqRVZxSVViTmFmZ0FHbENrUjJ4V29lN3RqWHNuSGRjRUVLQl9qczhFdjBTdXdqOTdDNjc5S3dPR3p1RDU0TUw3MVh5eW45cGJnbzBYem9NZ3U2ZzNWRGpQbWZNelh5REc2bWZSWTFBVlZsTWpUMzRiMUpTWElMeV8wdjRTQ1F2LWNHR2padlctZWRKQWNIYjdULXcydTRJcG5ITEVn?oc=5",
       "data": "14/08 21:22"
     },
     {
-      "titulo": "Flamengo goleia o Fluminense e conquista a Copa Rio Sub-16 - flamengo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTZweW92LVF1YnlxLWlzNlBLVFlyTTVpNlBjTWM0aHpmVUw3T2dUaEJOX0xDZURkVFU5aWNxaHdvSi11bXpVVnlrcV9NSFM0QmRaMWZSTzMtQ05aVWxBdTFWalFmZjBXSVB6LUhxNUJjQS1JREM1Q0gxdkpWaGNFdnVtWWhRYWZUaVNmS3lsNzRRbEpZMXZWbEhzZnNEYTRyc0sxRFF0YjZlOVRaeG1ldw?oc=5",
-      "data": "14/08 14:12"
+      "titulo": "Lateral-direito Isaque assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQURwY3Boc1JDTDhpQVhSUzVtZG9GR0xPazF6ZVlmRURVdVVQQ3hFbmNTQTZxb0RZRE1EaDJzTlhHcjRGS2xmNGl2dWZBNS02WVVTZkkwSEhKTExJMEVaS0g4c3RvRGNpbExCVGNvS0VKak5GZXV6VlhVLWdIV09fcDl3TDJ4QW1zbGFUQnNDVzl3bHl0UGJMRGNVM3lBcFZOUGUyN2FMeG5WZm1hRlp6S1JSLXRNQQ?oc=5",
+      "data": "14/08 18:15"
     }
   ],
   "avisos": [
