@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 04:26",
+  "atualizado_em": "16/08/2026 05:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -345,23 +345,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Grêmio",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x São José",
       "channels": [
-        "GLOBO",
-        "PREMIERE",
-        "GE TV"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Santos",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Anápolis",
       "channels": [
-        "GLOBO",
-        "PREMIERE FC"
+        "SPORTYNET"
       ]
     },
     {
@@ -380,30 +377,23 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Anápolis",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Santos",
       "channels": [
-        "SPORTYNET"
+        "GLOBO",
+        "PREMIERE FC"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Gama x São José",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Grêmio",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x GIL Vicente",
-      "channels": [
-        "DISNEY+"
+        "GLOBO",
+        "PREMIERE",
+        "GE TV"
       ]
     },
     {
@@ -450,20 +440,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Central Espanol",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Botafogo",
       "channels": [
-        "DISNEY+"
+        "PREMIERE FC"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Botafogo",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Central Espanol",
       "channels": [
-        "PREMIERE FC"
+        "DISNEY+"
       ]
     },
     {
@@ -623,6 +613,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x GIL Vicente",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-17",
       "time": "14:45",
       "competition": "Campeonato Argentino",
@@ -732,29 +732,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.4,
-      "temp_min": 19.8,
+      "temp_max": 25.6,
+      "temp_min": 19.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.5,
-      "temp_min": 20.0,
+      "temp_max": 23.6,
+      "temp_min": 19.6,
       "chance_chuva": 29,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.6,
-      "temp_min": 15.3,
+      "temp_max": 20.5,
+      "temp_min": 15.2,
       "chance_chuva": 86,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.3,
-      "temp_min": 14.8,
+      "temp_max": 20.9,
+      "temp_min": 14.7,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
@@ -766,24 +766,24 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
+      "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVk2VGZEXy1JVi10UUxKOTZmVjQ5N3d6N1hGY2FqZV9SelE4ZGRiamZURnZtb2VGZmFXdkVwUDlHajRpdVZpVmtEWmhhalR4MEluNUZCdl9yRVpLMzBCMndZV2VMRXdPcmNTQXFwWWNlSHpycFI1Y1k4NTBrMTJXcWpaVjZhYlJKd0FlV2kzSlZwX3VYVEJ6MVhrbDRVRGRSZmJvbE5MMUx0SGdIekhhQ2lnQzNOSTlKeUV2RFNFMXMtSDV0RUk1WjhnMkR5c21DS184anJHZFl3SlE?oc=5",
+      "data": "16/08 07:08"
+    },
+    {
       "titulo": "Quem é Tiago Gouveia? Saiba por que o Fluminense avalia o atacante do Benfica - Terra",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc08taDN2T21ZMDhKMDU5R3VyYXNOSlVLTjIxYXdkekdqZ2xOc1JXdDNVLVd6NmNCZlBCVURjeERmZ2Y3R1NNSnRRWmpqcWhZTXhXWjUwWTRBTVA2LVBDcGx4MVhyRXdySmdrZTlRLWlYanJEVThMU2VjdGZCMEdSY1J2SVRsS0Zqa3Y0S09sdlhYNFhBS3pzMmItemRDVGduRjVudDg3TE5zeEM1SE9pLWZxNXlGQnJJRi1VNmhCeXBNbmFsZlp4amRUdzRUX1N1bEY2bTRUQjM3YzZKeXdEdkNXVG9DUFVKTTNtNGpkOExxZmlPc0lR?oc=5",
       "data": "16/08 06:47"
     },
     {
-      "titulo": "Fluminense anuncia a demissão do técnico Luis Zubeldía - cnnbrasil.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnJWZEo2Y0F5M25MNng1N19vYWMtSExOdUtST1hWYndyZkR0Y1ZaLUxCcUVuWVI0QW92OTVEdG1WX2pZRUdCUVJ5U3B5dS16bGhoRklLenhJc2dfdS1qZUhuU1ljZ1FsNTNZaWZSbjVWNWtJTzhaR1RXRHlRMFhWMUF2TGx0VWtFZjM2cm14RXNXS0VCQllDS0hENDVfR3Jr?oc=5",
-      "data": "13/08 11:02"
+      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
+      "data": "15/08 20:28"
     },
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
-    },
-    {
-      "titulo": "Luís Zubeldía recebe sondagens de seleções após deixar o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1dxcGNFcEhVbGVfcW9DY2lUTEhPQmRIZUYzeVotQmRvd29xMW9zVzdZdDctVGc5SGNQYW9RTDFwcVV6ZVh3aGRjN2N3LVp3dkZuM1ZUQTlacVVhdkNDUk11Z2Y0NzRoYWZUa1JVNGNHZDY2bWt5TGEyLVJJaW9GZXdVcm9XMGRxV3AwakZHX0dUemQ2UndpeEgyYWk1dGdUOXZnQ3Q5NFR2Ynh3ZmQtY2RoUmczSld3eTl0SEN5M0FRSmhiMGpTMDh4WEtOekJuWW4tdzZzWVVKVFlpdHJVMVcxTzNZeEJmNjJJ?oc=5",
-      "data": "16/08 05:26"
+      "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTdkbndqcmZacER5SkM5eTVkUzRpcFBxRDdXQy1na09ZZDVyME1HLVM5TGE0MVpQWnRJaEM3Y0Z1MUh6ZExEMnRySGw4VW41TU1oOWx5VGhqWVBQTFl0RUR5bjFuS0Y4UktSYVZCemJJVWJNQzhLTnRmQTJmeThwbjR6dW9XV3BoSy0xdkpCRTZsOGFZdkE4bTFqc3hJVUhTX2dlbTVSWV9OaDZqemlsY185YlN6bkZKY0ow0gHAAUFVX3lxTE02ZERJUmotMUwtSTlIcnp6ZGdEd0k0U0FDeUd0QWx6RldaZ1ZzQ2k4WHJTNjlST0dsOVNqcW4xSy1IX2Z6TUxhME41eHZxX3ZwMURjYkRKOXhXN0JlUmlJd1hIYk16eW5fN3NpVHlXR09lM1VVN0RHSEZpN2V5LURkd1pTNW8zNzJRZ2E0V25lN3pwMW1LeFRJUHVYSFVIQUpWMFZGdnJ4VVNlSUlZNjRkMG1VbVRXYUc0dXA3Z3pINQ?oc=5",
+      "data": "14/08 22:48"
     }
   ],
   "avisos": [
