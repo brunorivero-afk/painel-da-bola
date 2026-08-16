@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "16/08/2026 02:23",
+  "atualizado_em": "16/08/2026 03:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -460,20 +460,10 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "MLS Next Pro",
-      "match": "Real Monarchs x Minnesota United II",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Botafogo",
       "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Athletic Club",
-      "channels": [
-        "DISNEY+"
+        "PREMIERE FC"
       ]
     },
     {
@@ -512,10 +502,10 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Botafogo",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Athletic Club",
       "channels": [
-        "PREMIERE FC"
+        "DISNEY+"
       ]
     },
     {
@@ -786,18 +776,17 @@
       "data": "13/08 17:51"
     },
     {
-      "titulo": "Thiago Silva será o novo técnico do Fluminense? Veja o plano - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk9CRlpYaWJtLWF2V3VvLUFuV3BGNnBYYzdpN3NiOTF2SnNDQkZIYlhFNHRqdEVWX0FCRW9UbEVIRnpEamRHd1o1VlhUNk83NmJiM0RBd2J6VVR3bThuUWdCNXR2V2NZSm1YRkJfQkg3V0VNd0lrQ0NQZVhHaGVIbnlZVTFzYjc1MjlkNVJra0lyNmlmV0tSTVBKUzd0U0hXVFlqWUNGRGE1MEl2SVhnQmxyV0ZHR3NQTlFsQVloWTdqQkJPRFROYk5ZelFOREF5Q1pzVTdicDBkUUhHdldzdA?oc=5",
-      "data": "14/08 04:38"
+      "titulo": "Luís Zubeldía recebe sondagens de seleções após deixar o Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1dxcGNFcEhVbGVfcW9DY2lUTEhPQmRIZUYzeVotQmRvd29xMW9zVzdZdDctVGc5SGNQYW9RTDFwcVV6ZVh3aGRjN2N3LVp3dkZuM1ZUQTlacVVhdkNDUk11Z2Y0NzRoYWZUa1JVNGNHZDY2bWt5TGEyLVJJaW9GZXdVcm9XMGRxV3AwakZHX0dUemQ2UndpeEgyYWk1dGdUOXZnQ3Q5NFR2Ynh3ZmQtY2RoUmczSld3eTl0SEN5M0FRSmhiMGpTMDh4WEtOekJuWW4tdzZzWVVKVFlpdHJVMVcxTzNZeEJmNjJJ?oc=5",
+      "data": "16/08 05:26"
     },
     {
-      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
-      "data": "15/08 20:28"
+      "titulo": "Jornal espanhol se rende a joias do Fluminense: 'Gerações de ouro' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFMUkR2NHdUSzVIdWFwTFMxTGd3S0xqelpoek1HbE83ZnlIYVFJQ3V6MzNqeWZJWDN5RG1TaEhuX2VHUVppU0dFdzZYdzF2Q2NJMFB0LVNVQUdzUTl2V01ZUm53WHFZSzlncXNPblA4b3BBTjQ0VFQ3clJkSU9keGJLRGZXR1JJcHRQS0JwSnJQNWNpdEc2djIybzhBTU00c2pLaGQ0Vy14Mk5tdjZnazRlckQydw?oc=5",
+      "data": "15/08 16:48"
     }
   ],
   "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
   ]
 }
