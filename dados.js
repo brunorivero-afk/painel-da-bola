@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 19:15",
+  "atualizado_em": "16/08/2026 20:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -32,16 +32,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTV",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "18:00",
-      "competition": "Campeonato Argentino",
-      "match": "River Plate x Argentinos JRS",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -91,10 +81,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Central Espanol",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Maringá",
       "channels": [
-        "DISNEY+"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -111,11 +102,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Maringá",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Central Espanol",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -162,21 +152,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Atletico San Luis",
+      "competition": "NWSL Feminina",
+      "match": "North Carolina Courage (F) x Houston Dash (F)",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "XSPORTS"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "20:00",
-      "competition": "NWSL Feminina",
-      "match": "North Carolina Courage (F) x Houston Dash (F)",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Atletico San Luis",
       "channels": [
-        "XSPORTS"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -365,17 +355,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Burnley x West Ham",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "12:00",
       "competition": "Campeonato Austríaco",
       "match": "Tirol x Red Bull Salzburg",
       "channels": [
@@ -421,6 +400,17 @@ window.PAINEL_DATA = {
       "competition": "Amistosos",
       "match": "Newcastle x Strasbourg",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x West Ham",
+      "channels": [
+        "ESPN 3",
         "DISNEY+"
       ]
     },
@@ -623,6 +613,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "18:00",
+      "competition": "Campeonato Argentino",
+      "match": "River Plate x Argentinos JRS",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-17",
       "time": "14:45",
       "competition": "Campeonato Argentino",
@@ -741,7 +741,7 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 23.8,
       "temp_min": 19.6,
-      "chance_chuva": 53,
+      "chance_chuva": 80,
       "condicao": "Garoa fraca"
     },
     {
@@ -755,15 +755,15 @@ window.PAINEL_DATA = {
       "cidade": "Teresópolis",
       "temp_max": 20.8,
       "temp_min": 14.5,
-      "chance_chuva": 94,
+      "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Palmeiras leva virada do Fluminense nos acréscimos e pode ter vantagem reduzida - Folha de S.Paulo",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUi1QVXVvekRmbUdNVDBRUXBuT05acWxfLVRUUTZCenk0a1N6V2M5MDhwb21iaUZydy1COEczbWx2NkE1TlNPeUVVR2tKMWEyb1o1a0ZlX2JvdjdlM3JtaXduUzZwRFEyOXZwMDlidXBxSTFydUFTSmF4SXVfa244MXNQX1c4TXJteFk2OUFsUTVwYU5ibHhST244M3ZSS2pWTTZjNUJLYmFaMGJrRlNXTS1zX2d2WDBKTVRNRzdXbGZmelBUMVVQUHpHWQ?oc=5",
-      "data": "15/08 21:32"
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnlZR3RXNTRLc3M0NTA5c0psZkRBUW5nOFRXem5UajU1N0FWajg0MC10ZEhtN3RYSHRERlpBUmEtWjZhVVNMdzhEYUMzNFp5NjJyWjAxa2NEbUlJcHJnUE5QMkJKd2VhajlIbmFfaEowdElRYklqeEVUbTFlc1JVdzc1cUczZFpwX2tQR2xCdHNILVA0U292NXdxeTd3SDJneVF2dXhadm0xcXJUQXU0TEZQdzdKMnRfOEs2Rnd0YUhoWUs4RHpxMTZBbjFLSU5ZTWQwYnVOcEFvQdIB6AFBVV95cUxQYy0wbkU5cVdkemxISVJDcDZBYmg5bG0xMzktb3JxVmpsaXJLYmdUWTFsaTY3dlc4TGJRWUtCcFg3elZSWWVmTlJMS1FuczVUQzdpQUNTOXdqMnRRdjJfSFVNN1VWQkh5Z2Z5VjJibWYyaG54ZXVMaE5HZjJjOEZZLTYzck5pWWdxNHEwNEpEQ1d0Q2hFU1Vxd3k2QTJJMkE2QlFqdjctNTBDM2MxQ214MnFWUmRYSlpDYktGd1pLaXkwSlo0TF9MV3RaMGc5YlZneXg5Yk96cjNyaGdmamlmMjlMRnBrQ1hV?oc=5",
+      "data": "15/08 07:01"
     },
     {
       "titulo": "Igor Rabello sofre luxação no ombro e passará por exames no Fluminense - O GLOBO",
@@ -771,19 +771,19 @@ window.PAINEL_DATA = {
       "data": "16/08 19:30"
     },
     {
+      "titulo": "Independiente Rivadavia x Fluminense Palpite – Dicas e notícias (18/08) - Trivela",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVU2N1MxUzB5NjFPUGpDSzlwdG5zQTcweHpMTW9JVWtxOTdIYzJFbmJ1OXZBMm4tMWFZaXBmVldibmNnenpjUG5Pd1RYRHB0Smx1WnZkbDAxNnVadG9Fd2M1RWFjTXlYWUFVekZmV3dSNmR2blRKYUk0STJMZmQ0NWo5Ymw5eThLbnZJR05UZXlQbmFEcFVSVjJyaE5FaEd3?oc=5",
+      "data": "16/08 22:48"
+    },
+    {
       "titulo": "Fluminense informa corte de Riquelme para decisão na Libertadores - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUZQQU1hZ3Z3T2RnMjZHVkhxS2FOSUhmTG16WDg5M09wallGX1hrcXh1LTdZUkl1aUY4NlZMdjduanpjbWFyTURmSVdzMmg0MTJwYVdQUkZOb1JCYmM4VTdCOFdnQ19zYVNOZlVsWW0zcmlwZTdVZ0RvR0s4dVZLeDAwZ1VCT2xqLVB5amQzMTZBbGxneFJINkpObHlZZ0J3WllodzZ4TjVidw?oc=5",
       "data": "16/08 21:19"
     },
     {
-      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
-      "data": "13/08 17:51"
-    },
-    {
-      "titulo": "Hulk revela bastidores da demissão de Zubeldía e mudanças do Fluminense com Marcão: 'Pedi desculpa' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbURDMnR3ZU1tS3JfeExHamJER0ZqZjhrQWkwcmFNMGEwYU9vQkxuLTBUdklNaGJ2azdQNHBhdE4zN1JJNDgzWWNmNjl0Uk90U2d4dWRHQUhwcHNrYThkVVVuTnhBSE5iWjhQUDE3QlZ2NEF1dVFtOWlRX0ZaSE5sclQ5VWlrWEZGVW9VOHc1Ry1qcGxybnRvNkZVd1RMOTN6ZUsxVXlHbEVzQ3ZKbElKVzJTek4yLUUtNVBVazdUbEEzU19aY2VtUVRGeWc4RHpIQmxB?oc=5",
-      "data": "16/08 19:20"
+      "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVk2VGZEXy1JVi10UUxKOTZmVjQ5N3d6N1hGY2FqZV9SelE4ZGRiamZURnZtb2VGZmFXdkVwUDlHajRpdVZpVmtEWmhhalR4MEluNUZCdl9yRVpLMzBCMndZV2VMRXdPcmNTQXFwWWNlSHpycFI1Y1k4NTBrMTJXcWpaVjZhYlJKd0FlV2kzSlZwX3VYVEJ6MVhrbDRVRGRSZmJvbE5MMUx0SGdIekhhQ2lnQzNOSTlKeUV2RFNFMXMtSDV0RUk1WjhnMkR5c21DS184anJHZFl3SlE?oc=5",
+      "data": "16/08 07:08"
     }
   ],
   "avisos": [
