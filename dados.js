@@ -1,14 +1,14 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 14:15",
+  "atualizado_em": "16/08/2026 15:21",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Botafogo (F) x São Paulo (F)",
+      "match": "Santos (F) x Flamengo (F)",
       "channels": [
-        "TV BRASIL",
+        "SPORTV",
         "YOUTUBE"
       ]
     },
@@ -28,20 +28,10 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Santos (F) x Flamengo (F)",
+      "match": "Botafogo (F) x São Paulo (F)",
       "channels": [
-        "SPORTV",
+        "TV BRASIL",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sporting Cristal x Sport Huancayo",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -59,10 +49,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Rapid Vienna x Grazer AK",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Levante",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -79,11 +70,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Levante",
+      "competition": "Campeonato Austríaco",
+      "match": "Rapid Vienna x Grazer AK",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Huracan",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -104,16 +104,6 @@ window.PAINEL_DATA = {
       "match": "São Paulo U20 x Ibrachina Sub-20",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Huracan",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -140,11 +130,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Santos",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x São José",
       "channels": [
-        "GLOBO",
-        "PREMIERE FC"
+        "YOUTUBE"
       ]
     },
     {
@@ -157,6 +146,17 @@ window.PAINEL_DATA = {
         "GLOBO",
         "PREMIERE",
         "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Santos",
+      "channels": [
+        "GLOBO",
+        "PREMIERE FC"
       ]
     },
     {
@@ -184,16 +184,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-16",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Gama x São José",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
       "time": "16:30",
       "competition": "Campeonato Português",
       "match": "Famalicão x Maritimo",
@@ -206,7 +196,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "ASA x Goiatuba EC",
+      "match": "ABC x Nacional AM",
       "channels": [
         "YOUTUBE"
       ]
@@ -216,7 +206,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "ABC x Nacional AM",
+      "match": "ASA x Goiatuba EC",
       "channels": [
         "YOUTUBE"
       ]
@@ -614,6 +604,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-16",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Sport Huancayo",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
       "time": "16:30",
       "competition": "Campeonato Português",
       "match": "SC Braga x GIL Vicente",
@@ -755,7 +755,7 @@ window.PAINEL_DATA = {
       "cidade": "Teresópolis",
       "temp_max": 20.7,
       "temp_min": 14.5,
-      "chance_chuva": 82,
+      "chance_chuva": 94,
       "condicao": "Garoa fraca"
     }
   ],
@@ -766,24 +766,24 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
+      "titulo": "Arias, do Palmeiras, é vaiado e chamado de Judas em reencontro com a torcida do Fluminense; vídeo - GE",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTUZQS1lTSGxEN2tCNDJBdXRMY25UdkRuN01aTDJQMHRlNHctNlI0VnpodXdzSEJvbU1lMXZONGlnZDQzbTluNVpGMVZ2QzZqUS1jOFRsVjJobEFhaE04dmVSMUFiejNsX01BOWFweEpRVVZma2hBc3lKSGtnUlotY2FZMENXTlg5TzdUQ01GbW1DVlk1WktETmFiektnSHRoTm1hMUZyaUdiLUZyNjVQbnppUzJGcDUwcHM5c09wcVMxVnhKcjhrSlVTWFl0YlhQdVRjVEw4ZDJEWElaUGFCWXVVMnFpeWMtNFY1WUF3a3RTRTBGWmNmcdIBhwJBVV95cUxQVW5xTThGVk1sV3FIeHU3VXE1N2RvSlk2Q3pUQUhyUVRqMFU5bjVQZ2l5aHFTdi1oMFp0TExmOEt5ZXc0N19uN2lzbW5NblF4YUVHbXJFUkxlcWhFX0NtcmlGNjdqTW9rZV9Nc2JPaTJmamRqTXh6eHJVVXZ5TWxIRUFlY0hZSDBzYmdJYzNoUUJkellUbFNuUDJXQmN6Ny1NVGRnYkJteUZrZmlvVmRhaTBlTm1VRUtnY1dGdDF1ZjBOXzBVY0xXaEhjYmE5VE5lcGI4NHRFQU15aXZaUDBRdGl6eC1DX2x6Sy1jZ3JYc0k5aXVOaFMtY1N0VnBQLUN2amJMaTFDQQ?oc=5",
+      "data": "15/08 21:07"
+    },
+    {
       "titulo": "Jornal espanhol se rende a joias do Fluminense: 'Gerações de ouro' - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFMUkR2NHdUSzVIdWFwTFMxTGd3S0xqelpoek1HbE83ZnlIYVFJQ3V6MzNqeWZJWDN5RG1TaEhuX2VHUVppU0dFdzZYdzF2Q2NJMFB0LVNVQUdzUTl2V01ZUm53WHFZSzlncXNPblA4b3BBTjQ0VFQ3clJkSU9keGJLRGZXR1JJcHRQS0JwSnJQNWNpdEc2djIybzhBTU00c2pLaGQ0Vy14Mk5tdjZnazRlckQydw?oc=5",
       "data": "15/08 16:48"
     },
     {
-      "titulo": "Luís Zubeldía recebe sondagens de seleções após deixar o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1dxcGNFcEhVbGVfcW9DY2lUTEhPQmRIZUYzeVotQmRvd29xMW9zVzdZdDctVGc5SGNQYW9RTDFwcVV6ZVh3aGRjN2N3LVp3dkZuM1ZUQTlacVVhdkNDUk11Z2Y0NzRoYWZUa1JVNGNHZDY2bWt5TGEyLVJJaW9GZXdVcm9XMGRxV3AwakZHX0dUemQ2UndpeEgyYWk1dGdUOXZnQ3Q5NFR2Ynh3ZmQtY2RoUmczSld3eTl0SEN5M0FRSmhiMGpTMDh4WEtOekJuWW4tdzZzWVVKVFlpdHJVMVcxTzNZeEJmNjJJ?oc=5",
-      "data": "16/08 05:26"
+      "titulo": "NOTA OFICIAL - LUIS ZUBELDÍA - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40aUJBQ182LTR5R0dIcEhZUG40MDRldGdka25VaUtVdjM5cFNMWURackRZU1VWaGVWREpUdG9XMzlDZmw4dWxrUnptY21NSjdvVER3RDRtUkFNakpWbXp1aHVaZ3dpNFkxbzJwaG9ubGZ5Zw?oc=5",
+      "data": "13/08 10:27"
     },
     {
-      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
-      "data": "15/08 20:28"
-    },
-    {
-      "titulo": "Comentarista da Rede Globo diz que toparia ser técnico do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNllCT1BtdjBkTDhINVlaclozclNuTGpDUm1QNjg5cDNpakdUUkJRMVU5c09PYTJObW9fUUlaeDh2RHFmczhrdlZqU21kci03Y1Q3bFU5MFM0NU5yYnJfdGktTTBWNUN1enJsSThlSlJSdFlfbFRLU3duNXZlUzZPbHVVNURkaG5WN1FSRkhQdnVwSnZMeDM2NktBYmJ4NGhYaWlZNUdCOFl2emxKb1JPVHV1T0QybnIxTGRuYmNCT2JTeXFVZnhEemU4Mzc0eWI3bVNEWFp2V09xemVVNnBvcEFEbnJvR3BVSmlrUTZiVEM?oc=5",
-      "data": "15/08 22:40"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - GE",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
     }
   ],
   "avisos": [
