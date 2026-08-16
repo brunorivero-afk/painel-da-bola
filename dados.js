@@ -1,43 +1,12 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 11:17",
+  "atualizado_em": "16/08/2026 12:16",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-16",
-      "time": "09:30",
-      "competition": "Campeonato Holandês",
-      "match": "Feyenoord x GO Ahead Eagles",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "09:30",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Watford x Southampton",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
       "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Chapecoense-sc x Bahia",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Avai",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Deportivo Maldonado",
       "channels": [
         "DISNEY+"
       ]
@@ -47,9 +16,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Santos (F) x Flamengo (F)",
+      "match": "Botafogo (F) x São Paulo (F)",
       "channels": [
-        "SPORTV",
+        "TV BRASIL",
         "YOUTUBE"
       ]
     },
@@ -69,9 +38,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Botafogo (F) x São Paulo (F)",
+      "match": "Santos (F) x Flamengo (F)",
       "channels": [
-        "TV BRASIL",
+        "SPORTV",
         "YOUTUBE"
       ]
     },
@@ -79,10 +48,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Deportivo Maldonado",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Avai",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "competition": "Brasileirão Série A",
+      "match": "Chapecoense-sc x Bahia",
+      "channels": [
+        "PREMIERE FC"
       ]
     },
     {
@@ -119,10 +98,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "TSV Hartberg x Austria Vienna",
+      "competition": "Amistosos",
+      "match": "Newcastle x Strasbourg",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Villarreal",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -141,20 +130,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Villarreal",
+      "competition": "Campeonato Austríaco",
+      "match": "TSV Hartberg x Austria Vienna",
       "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "competition": "Amistosos",
-      "match": "Newcastle x Strasbourg",
-      "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -614,6 +593,27 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-16",
+      "time": "09:30",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Watford x Southampton",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "09:30",
+      "competition": "Campeonato Holandês",
+      "match": "Feyenoord x GO Ahead Eagles",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
       "time": "16:30",
       "competition": "Campeonato Português",
       "match": "SC Braga x GIL Vicente",
@@ -732,31 +732,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": null,
-      "temp_min": null,
-      "chance_chuva": null,
-      "condicao": "Sem descrição"
+      "temp_max": 25.5,
+      "temp_min": 19.7,
+      "chance_chuva": 2,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": null,
-      "temp_min": null,
-      "chance_chuva": null,
-      "condicao": "Sem descrição"
+      "temp_max": 23.9,
+      "temp_min": 19.6,
+      "chance_chuva": 53,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": null,
-      "temp_min": null,
-      "chance_chuva": null,
-      "condicao": "Sem descrição"
+      "temp_max": 20.8,
+      "temp_min": 15.3,
+      "chance_chuva": 92,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": null,
-      "temp_min": null,
-      "chance_chuva": null,
-      "condicao": "Sem descrição"
+      "temp_max": 20.7,
+      "temp_min": 14.5,
+      "chance_chuva": 82,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -766,24 +766,24 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Por onde anda Yan, ex-meia de Vasco e Fluminense? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1k3NUJMNmd6Z3FPQno4aU5BR2lRT2JFQnR3QUIxaDJkTTUwSWZac1IzTml4VTQwNFpnZWJKQk1hWGpEcHpQLVp4UmRSSXAwWmtDd3V2eTMwUDJkMWU3YkdDU0ZSZzlmTHlHY2xRR3JvZndScFNaeEc3WVV1RXBtSw?oc=5",
-      "data": "16/08 09:53"
-    },
-    {
-      "titulo": "Torcedores apontam provocação do Fluminense a Jhon Arias; veja - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEtqck9XLWVfQWEzbS1DWTZUeGhSUEZTVDc0Ym9nYWlJaElwaUxCWnM0ZDJQWjFQVnEyN1U5TzhPTDNhaDZkV2V6Q3p3S29HRGpyNE9XRG8ycnYybS12blJKZW0tY1ZTaDBLUmpmeGpVU3JTUnJqbi1kZTRPa1I5aUtESEdab0wxOG5wcTh0cEI3NlpSdFpkQTREd0J3aVFKS1U5U0U2Znk?oc=5",
-      "data": "16/08 09:30"
-    },
-    {
-      "titulo": "Fluminense: escolhidos de Marcão mantêm lógica de Zubeldía - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEp5VWM1Y2llUmpuQ2N0T0FpejdaV2JISHlDcDlaTW9DWVdNekxCcHpDMHhjUTJWR1h0Q19SbVh0clNWdERVOEFOcG9oWG5ZbHdTUlJlTUxITGd0aGx2NU90MjNEak5UQXYzYzVtWHlpNlpvWTY1amkzR2FyOTN4Y1drTkxKWEp6bUZtdHcyOUZlMUxDb1JmT3VTRXlCR2s?oc=5",
-      "data": "15/08 15:10"
+      "titulo": "Bastidores: demissão de Zubeldía foi decidida pelo Fluminense na noite de quarta - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXZKVkxFN3RyYTBDSzBDRGlfSFc0Y1BDUVg2WlI0aXJodk9oamF3M285Q0NaNkdlWGRpZU0wOWtpNzdIRG4wcHpla1JGNk9nNUJXMUpJTHluX3BUQTRaMnl5QXlUeXIzYzF1N3Y4MTRJOFRaWkxkbzRGQ0VicXV2bXdTMk1UeXZOTmNMX2J1dDcyUExUNF90TC1ud3Y1SnEzNkJJTTlBT0dmRDlUSTExaWJvb1VRNkVWRHgwbw?oc=5",
+      "data": "13/08 13:50"
     },
     {
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - GE",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
       "data": "13/08 17:51"
+    },
+    {
+      "titulo": "Sereno após nova estreia no Fluminense, Marcão projeta: ‘Se precisar até o fim do ano, vou estar à disposição’ - Alagoas 24 Horas",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTlZyeHpjZk5obFJfMlRfUlkyenpFWVdaQ0FkeVA4UkhIN3p1cHV2bG9UTDRDdnFsMWtCdEtDUjNMYjZtbFdncnRzTFNEbnUxZkVjV0d0Y25ES1h3MkIwYTVuU3FqZmpxUnFLakR3VkZjVFZ4cGpnLVplT3VuOTJVY2p4ZEljbUV0Yk9lQmtVRHd0TDJTalVON25ZMDZmelozSW02RmNQaUdhNHdWeVc4WmEzenpWNEoxd1E1YkJqSlh4S0RqdFVsYTFYUWd1SnhRY2RuWHhpMjJLTW5scjRrcnFXUkxBX3fSAecBQVVfeXFMTU5Wcnh6Y2ZOaGxSXzJUX1JZMnp6RVlXWkNBZHlQOFJISDd6dXB1dmxvVEw0Q3ZxbDFrQnRLQ1IzTGI2bWxXZ3J0c0xTRG51MWZFY1dHdGNuREtYdzJCMGE1blNxamZqcVJxS2pEd1ZGY1RWeHBqZy1aZU91bjkyVWNqeGRJY21FdGJPZUJrVUR3dEwyU2pVTjduWTA2ZnpaM0ltNkZjUGlHYTR3VnlXOFphM3p6VjRKMXdRNWJCakpYeEtEanRVbGExWFFndUp4UWNkblh4aTIyS01ubHI0a3JxV1JMQV93?oc=5",
+      "data": "16/08 11:22"
+    },
+    {
+      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
+      "data": "15/08 20:28"
     }
   ],
   "avisos": [
