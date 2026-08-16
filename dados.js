@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 20:15",
+  "atualizado_em": "15/08/2026 22:01",
   "jogos": [
     {
       "sport": "futebol",
@@ -10,151 +10,6 @@ window.PAINEL_DATA = {
       "channels": [
         "YOUTUBE",
         "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "15:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Fluminense (F) x América MG (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "competition": "Brasileirão Feminino",
-      "match": "RB Bragantino (F) x Vitoria BA W",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:30",
-      "competition": "Brasileirão Feminino",
-      "match": "Bahia (F) x Corinthians (F)",
-      "channels": [
-        "SPORTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Mixto W x Cruzeiro (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Athletico PR x RB Bragantino",
-      "channels": [
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x Fortaleza",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Internacional (F) x Ferroviária (F)",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Columbus Crew II x New York City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Maranhão",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Inter De Limeira",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Marília x Linense",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Wanderers x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atlante FC x Toluca",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Charlotte x Columbus Crew",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -173,6 +28,16 @@ window.PAINEL_DATA = {
       "time": "20:30",
       "competition": "MLS",
       "match": "Atlanta United FC x New York Red Bulls",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Charlotte x Columbus Crew",
       "channels": [
         "APPLE TV"
       ]
@@ -224,7 +89,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Nashville SC x Inter Miami",
+      "match": "Houston Dynamo x Los Angeles Galaxy",
       "channels": [
         "APPLE TV"
       ]
@@ -234,7 +99,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Houston Dynamo x Los Angeles Galaxy",
+      "match": "Nashville SC x Inter Miami",
       "channels": [
         "APPLE TV"
       ]
@@ -468,21 +333,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Amistosos",
-      "match": "Borussia Dortmund x Roma",
+      "competition": "Campeonato Russo",
+      "match": "FC Rostov x Rubin",
       "channels": [
-        "YOUTUBE",
-        "DAZN"
+        "XSPORTS"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "12:30",
-      "competition": "Campeonato Russo",
-      "match": "FC Rostov x Rubin",
+      "competition": "Amistosos",
+      "match": "Borussia Dortmund x Roma",
       "channels": [
-        "XSPORTS"
+        "YOUTUBE",
+        "DAZN"
       ]
     },
     {
@@ -560,20 +425,13 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Paulista x Juventus",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al-Fateh",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "Excelsior x PSV Eindhoven",
-      "channels": [
-        "DISNEY+"
+        "BAND",
+        "SPORTV",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -592,13 +450,30 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Nassr x Al-Fateh",
+      "competition": "Campeonato Holandês",
+      "match": "Excelsior x PSV Eindhoven",
       "channels": [
-        "BAND",
-        "SPORTV",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "Paulista x Juventus",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Fluminense (F) x América MG (F)",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -628,12 +503,8 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Criciúma x Goiás",
+      "match": "Atlético GO x Vila Nova",
       "channels": [
-        "REDETV!",
-        "ESPN",
-        "SPORTYNET",
-        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -652,8 +523,12 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Vila Nova",
+      "match": "Criciúma x Goiás",
       "channels": [
+        "REDETV!",
+        "ESPN",
+        "SPORTYNET",
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -672,10 +547,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "16:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Club Nacional",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x Palmeiras",
       "channels": [
-        "DISNEY+"
+        "PREMIERE FC"
       ]
     },
     {
@@ -692,10 +567,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "16:30",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Palmeiras",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Club Nacional",
       "channels": [
-        "PREMIERE FC"
+        "DISNEY+"
       ]
     },
     {
@@ -712,11 +587,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Amazonas x Botafogo PB",
+      "competition": "Brasileirão Feminino",
+      "match": "RB Bragantino (F) x Vitoria BA W",
       "channels": [
-        "BAND",
-        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -728,6 +601,18 @@ window.PAINEL_DATA = {
       "match": "Volta Redonda x Ituano",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Amazonas x Botafogo PB",
+      "channels": [
+        "BAND",
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -748,6 +633,121 @@ window.PAINEL_DATA = {
       "match": "CSA x Uberlandia",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:30",
+      "competition": "Brasileirão Feminino",
+      "match": "Bahia (F) x Corinthians (F)",
+      "channels": [
+        "SPORTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Mixto W x Cruzeiro (F)",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x Fortaleza",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Athletico PR x RB Bragantino",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Internacional (F) x Ferroviária (F)",
+      "channels": [
+        "NSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "Columbus Crew II x New York City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Maranhão",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Inter De Limeira",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Marília x Linense",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "19:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Wanderers x Cerro Largo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Atlante FC x Toluca",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -1121,7 +1121,8 @@ window.PAINEL_DATA = {
       "match": "Caxias x Figueirense",
       "channels": [
         "SPORTYNET",
-        "CANAL DO BENJA"
+        "CANAL DO BENJA",
+        "YOUTUBE"
       ]
     },
     {
@@ -1393,16 +1394,16 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.7,
-      "temp_min": 20.5,
-      "chance_chuva": 85,
+      "temp_max": 22.8,
+      "temp_min": 19.9,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.5,
-      "temp_min": 20.2,
-      "chance_chuva": 83,
+      "temp_min": 20.0,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
@@ -1427,25 +1428,27 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Adeus! Atacante deixa o Fluminense para jogar no exterior - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUXgtbm5JN1Vra3ptRDk2Nll5MnBHd2duZmluV0tfcHcwTEF6YnhKYmhTTkoxUTFUUUNTRmJHNEROVVB4dWRZQ0hMZXc2MGQ5RU53UGxPRGxEQUc3ZHZxbkotXzVyaDFZOW56ZFVQcHItSUstdEdnTzE1Sk1EaVQxcDFqeUNYZlBkbDBNRVg5aVlRQklyZW1BZW9hQWRQRFhnazVvQ2s5Q0VCRGNOenUxOVJ0OTZ3WDE0Y0REZHJmWlcxcndaa1NqTGVlcmFPanVxLXhFaTNxcGMwdDktYXdmdw?oc=5",
-      "data": "14/08 18:06"
+      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
+      "data": "13/08 13:11"
     },
     {
-      "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTdkbndqcmZacER5SkM5eTVkUzRpcFBxRDdXQy1na09ZZDVyME1HLVM5TGE0MVpQWnRJaEM3Y0Z1MUh6ZExEMnRySGw4VW41TU1oOWx5VGhqWVBQTFl0RUR5bjFuS0Y4UktSYVZCemJJVWJNQzhLTnRmQTJmeThwbjR6dW9XV3BoSy0xdkpCRTZsOGFZdkE4bTFqc3hJVUhTX2dlbTVSWV9OaDZqemlsY185YlN6bkZKY0ow0gHAAUFVX3lxTE02ZERJUmotMUwtSTlIcnp6ZGdEd0k0U0FDeUd0QWx6RldaZ1ZzQ2k4WHJTNjlST0dsOVNqcW4xSy1IX2Z6TUxhME41eHZxX3ZwMURjYkRKOXhXN0JlUmlJd1hIYk16eW5fN3NpVHlXR09lM1VVN0RHSEZpN2V5LURkd1pTNW8zNzJRZ2E0V25lN3pwMW1LeFRJUHVYSFVIQUpWMFZGdnJ4VVNlSUlZNjRkMG1VbVRXYUc0dXA3Z3pINQ?oc=5",
-      "data": "14/08 22:48"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
     },
     {
-      "titulo": "Chapecoense anuncia contratação de meio-campista ex-Fluminense - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXV6LXEzUkE3TUlrRmIwcUlvSkd1VS10ZlZnQnFPb0pnY1A5UG9fOEJkSGVocXJXOFNNWDJGcDVrNUg2ZlEySm9RUDFCMm5WTlhhVm9ETS15SWROME9DOE9fS29ZOHJlVUY0VHhyQVVjNkVGdXdaOEZzenZDa3ZtSnVKX2VXVGk1dEt1RldCckduYjhBajlNMlAwekZIWGtN?oc=5",
-      "data": "15/08 18:34"
+      "titulo": "Marcão lamenta saída de Zubeldía, elogia força do elenco e se coloca à disposição do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPS21fLU93bXZGRUJSamVVY1dkWko1MWJSX3dLNUNSTkRveVBaQS12NEJ1VnhYZnlINVp1cFhUN0RvaFBOVFMtNzVoYVVMLXNndi1hZnhOM05UOUNDZC1nc0U0SXRiVmRLQUg4N2s4VjRQaDhyS1JRVmZvLWhJdHNmb0tjQk5KaGhOOFNsTDhYY3cwZmM3cElJNjIyTUhMT3FvanVfNFBKMVJKcE1DVkVxMTZKQnpYOGg1cWJWUzcwb0x6cnRHMFFtWU1rNXBSanN1QkNCWG5ZWXpPZTIyUzJWNWJrTGotVTVCeHBuODRhR1NQa1VZVlAzb3diTUEwclVyYVVlcDBoZERNdUhHd0FV?oc=5",
+      "data": "15/08 23:22"
     },
     {
-      "titulo": "Chapecoense anuncia a contratação do meia Yago Felipe, ex-Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFJOSjRtZWpuYkFIbUxtaTduTmpIR3g1MFk3SC1YZ1BlYk5KMS1MOERGMjB1ZkpPOHhaTG9qLUdVNEp2OU9acWt1LV9hVGdhdEUwMnJuMGxQVVRfaDVDV2ZBQXhTbFBQSXRKWHFCcVB6cFFpb1B6NDVnWlp0OUtxVlZfREkxWDYzTzQ2cTBzUWt5UWhNb2V3YVVhTGpwRjMzR0hxa3BoS1FOTGluVVB5NFBFOEJwMi1udjRSZXU2NWpSdFlzVVc5MHM0NTk5S0tIeXJHME80aVMtd9IB6AFBVV95cUxPUnpMUkxlaUgwXzlLY2tRUXNoWlBSbUdQUkJmdWJWaXEwLVJIT29SX1d1b19tejMzYXNqUjNvQzM2RjJNN0t6UFpaNjRWeUlIVVV5V1g2bEctbTdIMk9FM3hSQzRJYnlSZllnSU83YkItYWtxRV9CdTJlb2pwZkMtdWJQYldMd2VyVUlyeVVjcHJMQTNkTF9qVHJYU2xScUNLdGJSOUYyUWFIb2U5SEFmcjdvR3NueHowV3VQaUs5Ulc5MUhSV0JkNnJ4OFdDUXRRM3ozVmp3bk5uMndvb1ptaTlETk5DeG9Z?oc=5",
-      "data": "14/08 21:28"
+      "titulo": "Comentarista da Rede Globo diz que toparia ser técnico do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNllCT1BtdjBkTDhINVlaclozclNuTGpDUm1QNjg5cDNpakdUUkJRMVU5c09PYTJObW9fUUlaeDh2RHFmczhrdlZqU21kci03Y1Q3bFU5MFM0NU5yYnJfdGktTTBWNUN1enJsSThlSlJSdFlfbFRLU3duNXZlUzZPbHVVNURkaG5WN1FSRkhQdnVwSnZMeDM2NktBYmJ4NGhYaWlZNUdCOFl2emxKb1JPVHV1T0QybnIxTGRuYmNCT2JTeXFVZnhEemU4Mzc0eWI3bVNEWFp2V09xemVVNnBvcEFEbnJvR3BVSmlrUTZiVEM?oc=5",
+      "data": "15/08 22:40"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+  ]
 };
