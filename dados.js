@@ -1,24 +1,14 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 12:16",
+  "atualizado_em": "16/08/2026 13:18",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Deportivo Maldonado",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Botafogo (F) x São Paulo (F)",
+      "match": "Santos (F) x Flamengo (F)",
       "channels": [
-        "TV BRASIL",
+        "SPORTV",
         "YOUTUBE"
       ]
     },
@@ -38,40 +28,10 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Santos (F) x Flamengo (F)",
+      "match": "Botafogo (F) x São Paulo (F)",
       "channels": [
-        "SPORTV",
+        "TV BRASIL",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Avai",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Chapecoense-sc x Bahia",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Jahn Regensburg x FC Saarbrücken",
-      "channels": [
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -82,6 +42,16 @@ window.PAINEL_DATA = {
       "match": "Nacional x Estoril",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "11:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Jahn Regensburg x FC Saarbrücken",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -98,9 +68,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Amistosos",
-      "match": "Newcastle x Strasbourg",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x West Ham",
       "channels": [
+        "ESPN 3",
         "DISNEY+"
       ]
     },
@@ -108,10 +79,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Villarreal",
+      "competition": "Campeonato Austríaco",
+      "match": "Tirol x Red Bull Salzburg",
       "channels": [
-        "CAZÉTV"
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "competition": "Campeonato Austríaco",
+      "match": "TSV Hartberg x Austria Vienna",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -130,30 +111,19 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "TSV Hartberg x Austria Vienna",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Villarreal",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Tirol x Red Bull Salzburg",
+      "competition": "Amistosos",
+      "match": "Newcastle x Strasbourg",
       "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Burnley x West Ham",
-      "channels": [
-        "ESPN 3",
         "DISNEY+"
       ]
     },
@@ -182,21 +152,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Levante",
+      "competition": "Campeonato Português",
+      "match": "Arouca x Moreirense",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Arouca x Moreirense",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Levante",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -263,6 +233,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Anápolis",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "Atlético-MG x Grêmio",
       "channels": [
@@ -292,16 +272,6 @@ window.PAINEL_DATA = {
         "SPORTYNET",
         "CANAL DO BENJA",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Anápolis",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -358,6 +328,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Barra x Itabaiana",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "18:30",
       "competition": "Brasileirão Série A",
       "match": "Mirassol x Flamengo",
       "channels": [
@@ -406,16 +386,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Barra x Itabaiana",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -614,6 +584,36 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-16",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Deportivo Maldonado",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Avai",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "competition": "Brasileirão Série A",
+      "match": "Chapecoense-sc x Bahia",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
       "time": "16:30",
       "competition": "Campeonato Português",
       "match": "SC Braga x GIL Vicente",
@@ -766,6 +766,11 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
+      "titulo": "Jornal espanhol se rende a joias do Fluminense: 'Gerações de ouro' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFMUkR2NHdUSzVIdWFwTFMxTGd3S0xqelpoek1HbE83ZnlIYVFJQ3V6MzNqeWZJWDN5RG1TaEhuX2VHUVppU0dFdzZYdzF2Q2NJMFB0LVNVQUdzUTl2V01ZUm53WHFZSzlncXNPblA4b3BBTjQ0VFQ3clJkSU9keGJLRGZXR1JJcHRQS0JwSnJQNWNpdEc2djIybzhBTU00c2pLaGQ0Vy14Mk5tdjZnazRlckQydw?oc=5",
+      "data": "15/08 16:48"
+    },
+    {
       "titulo": "Bastidores: demissão de Zubeldía foi decidida pelo Fluminense na noite de quarta - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXZKVkxFN3RyYTBDSzBDRGlfSFc0Y1BDUVg2WlI0aXJodk9oamF3M285Q0NaNkdlWGRpZU0wOWtpNzdIRG4wcHpla1JGNk9nNUJXMUpJTHluX3BUQTRaMnl5QXlUeXIzYzF1N3Y4MTRJOFRaWkxkbzRGQ0VicXV2bXdTMk1UeXZOTmNMX2J1dDcyUExUNF90TC1ud3Y1SnEzNkJJTTlBT0dmRDlUSTExaWJvb1VRNkVWRHgwbw?oc=5",
       "data": "13/08 13:50"
@@ -776,14 +781,9 @@ window.PAINEL_DATA = {
       "data": "13/08 17:51"
     },
     {
-      "titulo": "Sereno após nova estreia no Fluminense, Marcão projeta: ‘Se precisar até o fim do ano, vou estar à disposição’ - Alagoas 24 Horas",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTlZyeHpjZk5obFJfMlRfUlkyenpFWVdaQ0FkeVA4UkhIN3p1cHV2bG9UTDRDdnFsMWtCdEtDUjNMYjZtbFdncnRzTFNEbnUxZkVjV0d0Y25ES1h3MkIwYTVuU3FqZmpxUnFLakR3VkZjVFZ4cGpnLVplT3VuOTJVY2p4ZEljbUV0Yk9lQmtVRHd0TDJTalVON25ZMDZmelozSW02RmNQaUdhNHdWeVc4WmEzenpWNEoxd1E1YkJqSlh4S0RqdFVsYTFYUWd1SnhRY2RuWHhpMjJLTW5scjRrcnFXUkxBX3fSAecBQVVfeXFMTU5Wcnh6Y2ZOaGxSXzJUX1JZMnp6RVlXWkNBZHlQOFJISDd6dXB1dmxvVEw0Q3ZxbDFrQnRLQ1IzTGI2bWxXZ3J0c0xTRG51MWZFY1dHdGNuREtYdzJCMGE1blNxamZqcVJxS2pEd1ZGY1RWeHBqZy1aZU91bjkyVWNqeGRJY21FdGJPZUJrVUR3dEwyU2pVTjduWTA2ZnpaM0ltNkZjUGlHYTR3VnlXOFphM3p6VjRKMXdRNWJCakpYeEtEanRVbGExWFFndUp4UWNkblh4aTIyS01ubHI0a3JxV1JMQV93?oc=5",
-      "data": "16/08 11:22"
-    },
-    {
-      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
-      "data": "15/08 20:28"
+      "titulo": "Thiago Silva será o novo técnico do Fluminense? Veja o plano - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk9CRlpYaWJtLWF2V3VvLUFuV3BGNnBYYzdpN3NiOTF2SnNDQkZIYlhFNHRqdEVWX0FCRW9UbEVIRnpEamRHd1o1VlhUNk83NmJiM0RBd2J6VVR3bThuUWdCNXR2V2NZSm1YRkJfQkg3V0VNd0lrQ0NQZVhHaGVIbnlZVTFzYjc1MjlkNVJra0lyNmlmV0tSTVBKUzd0U0hXVFlqWUNGRGE1MEl2SVhnQmxyV0ZHR3NQTlFsQVloWTdqQkJPRFROYk5ZelFOREF5Q1pzVTdicDBkUUhHdldzdA?oc=5",
+      "data": "14/08 04:38"
     }
   ],
   "avisos": [
