@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 06:22",
+  "atualizado_em": "16/08/2026 07:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -766,24 +766,24 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
+      "titulo": "Por onde anda Yan, ex-meia de Vasco e Fluminense? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1k3NUJMNmd6Z3FPQno4aU5BR2lRT2JFQnR3QUIxaDJkTTUwSWZac1IzTml4VTQwNFpnZWJKQk1hWGpEcHpQLVp4UmRSSXAwWmtDd3V2eTMwUDJkMWU3YkdDU0ZSZzlmTHlHY2xRR3JvZndScFNaeEc3WVV1RXBtSw?oc=5",
+      "data": "16/08 09:53"
+    },
+    {
       "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVk2VGZEXy1JVi10UUxKOTZmVjQ5N3d6N1hGY2FqZV9SelE4ZGRiamZURnZtb2VGZmFXdkVwUDlHajRpdVZpVmtEWmhhalR4MEluNUZCdl9yRVpLMzBCMndZV2VMRXdPcmNTQXFwWWNlSHpycFI1Y1k4NTBrMTJXcWpaVjZhYlJKd0FlV2kzSlZwX3VYVEJ6MVhrbDRVRGRSZmJvbE5MMUx0SGdIekhhQ2lnQzNOSTlKeUV2RFNFMXMtSDV0RUk1WjhnMkR5c21DS184anJHZFl3SlE?oc=5",
       "data": "16/08 07:08"
     },
     {
-      "titulo": "Quem é Tiago Gouveia? Saiba por que o Fluminense avalia o atacante do Benfica - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc08taDN2T21ZMDhKMDU5R3VyYXNOSlVLTjIxYXdkekdqZ2xOc1JXdDNVLVd6NmNCZlBCVURjeERmZ2Y3R1NNSnRRWmpqcWhZTXhXWjUwWTRBTVA2LVBDcGx4MVhyRXdySmdrZTlRLWlYanJEVThMU2VjdGZCMEdSY1J2SVRsS0Zqa3Y0S09sdlhYNFhBS3pzMmItemRDVGduRjVudDg3TE5zeEM1SE9pLWZxNXlGQnJJRi1VNmhCeXBNbmFsZlp4amRUdzRUX1N1bEY2bTRUQjM3YzZKeXdEdkNXVG9DUFVKTTNtNGpkOExxZmlPc0lR?oc=5",
-      "data": "16/08 06:47"
+      "titulo": "Torcedores apontam provocação do Fluminense a Jhon Arias; veja - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEtqck9XLWVfQWEzbS1DWTZUeGhSUEZTVDc0Ym9nYWlJaElwaUxCWnM0ZDJQWjFQVnEyN1U5TzhPTDNhaDZkV2V6Q3p3S29HRGpyNE9XRG8ycnYybS12blJKZW0tY1ZTaDBLUmpmeGpVU3JTUnJqbi1kZTRPa1I5aUtESEdab0wxOG5wcTh0cEI3NlpSdFpkQTREd0J3aVFKS1U5U0U2Znk?oc=5",
+      "data": "16/08 09:30"
     },
     {
-      "titulo": "Fluminense vence o América-MG pelo Brasileiro Feminino - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEdubG41V2ZtaXh2b1lWckJsaFE3eURySVpGMkYwSXcyR1JKTWtnempkQThsMjZsYlppQUxQNE9aTnFlTlNCTjF3MkVCOW0wcVMyQUpBS2o1RVZCRkllV1hEYzZPYVp4Wl9wbUdLMVlJNmR2ckpkakdRS0IybkRNZ1FucUpzMW9fWXdrZHVhbnczSW5kaVJ3?oc=5",
-      "data": "15/08 20:28"
-    },
-    {
-      "titulo": "Chapecoense oficializa a contratação de meio-campista ex-Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTdkbndqcmZacER5SkM5eTVkUzRpcFBxRDdXQy1na09ZZDVyME1HLVM5TGE0MVpQWnRJaEM3Y0Z1MUh6ZExEMnRySGw4VW41TU1oOWx5VGhqWVBQTFl0RUR5bjFuS0Y4UktSYVZCemJJVWJNQzhLTnRmQTJmeThwbjR6dW9XV3BoSy0xdkpCRTZsOGFZdkE4bTFqc3hJVUhTX2dlbTVSWV9OaDZqemlsY185YlN6bkZKY0ow0gHAAUFVX3lxTE02ZERJUmotMUwtSTlIcnp6ZGdEd0k0U0FDeUd0QWx6RldaZ1ZzQ2k4WHJTNjlST0dsOVNqcW4xSy1IX2Z6TUxhME41eHZxX3ZwMURjYkRKOXhXN0JlUmlJd1hIYk16eW5fN3NpVHlXR09lM1VVN0RHSEZpN2V5LURkd1pTNW8zNzJRZ2E0V25lN3pwMW1LeFRJUHVYSFVIQUpWMFZGdnJ4VVNlSUlZNjRkMG1VbVRXYUc0dXA3Z3pINQ?oc=5",
-      "data": "14/08 22:48"
+      "titulo": "Arias, do Palmeiras, é vaiado e chamado de Judas em reencontro com a torcida do Fluminense; vídeo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTUZQS1lTSGxEN2tCNDJBdXRMY25UdkRuN01aTDJQMHRlNHctNlI0VnpodXdzSEJvbU1lMXZONGlnZDQzbTluNVpGMVZ2QzZqUS1jOFRsVjJobEFhaE04dmVSMUFiejNsX01BOWFweEpRVVZma2hBc3lKSGtnUlotY2FZMENXTlg5TzdUQ01GbW1DVlk1WktETmFiektnSHRoTm1hMUZyaUdiLUZyNjVQbnppUzJGcDUwcHM5c09wcVMxVnhKcjhrSlVTWFl0YlhQdVRjVEw4ZDJEWElaUGFCWXVVMnFpeWMtNFY1WUF3a3RTRTBGWmNmcdIBhwJBVV95cUxQVW5xTThGVk1sV3FIeHU3VXE1N2RvSlk2Q3pUQUhyUVRqMFU5bjVQZ2l5aHFTdi1oMFp0TExmOEt5ZXc0N19uN2lzbW5NblF4YUVHbXJFUkxlcWhFX0NtcmlGNjdqTW9rZV9Nc2JPaTJmamRqTXh6eHJVVXZ5TWxIRUFlY0hZSDBzYmdJYzNoUUJkellUbFNuUDJXQmN6Ny1NVGRnYkJteUZrZmlvVmRhaTBlTm1VRUtnY1dGdDF1ZjBOXzBVY0xXaEhjYmE5VE5lcGI4NHRFQU15aXZaUDBRdGl6eC1DX2x6Sy1jZ3JYc0k5aXVOaFMtY1N0VnBQLUN2amJMaTFDQQ?oc=5",
+      "data": "15/08 21:07"
     }
   ],
   "avisos": [
