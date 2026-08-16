@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "16/08/2026 08:15",
+  "atualizado_em": "16/08/2026 09:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "08:00",
-      "competition": "Amistosos",
-      "match": "Liverpool x como",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-16",
@@ -20,26 +10,6 @@
       "channels": [
         "XSPORTS",
         "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "08:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Hansa Rostock x Waldhof Mannheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Arminia Bielefeld x Energie Cottbus",
-      "channels": [
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -58,6 +28,26 @@
       "time": "08:30",
       "competition": "2ª Divisão Alemã",
       "match": "Dynamo Dresden x SV Darmstadt 98",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Arminia Bielefeld x Energie Cottbus",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "08:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Hansa Rostock x Waldhof Mannheim",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -305,20 +295,20 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Huracan",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x Ibrachina Sub-20",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x Ibrachina Sub-20",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Huracan",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -441,9 +431,11 @@
       "date": "2026-08-16",
       "time": "18:30",
       "competition": "Brasileirão Série A",
-      "match": "Vitória x Botafogo",
+      "match": "Mirassol x Flamengo",
       "channels": [
-        "PREMIERE FC"
+        "RECORD",
+        "PREMIERE",
+        "CAZÉTV"
       ]
     },
     {
@@ -503,11 +495,9 @@
       "date": "2026-08-16",
       "time": "18:30",
       "competition": "Brasileirão Série A",
-      "match": "Mirassol x Flamengo",
+      "match": "Vitória x Botafogo",
       "channels": [
-        "RECORD",
-        "PREMIERE",
-        "CAZÉTV"
+        "PREMIERE FC"
       ]
     },
     {
@@ -609,6 +599,16 @@
       "match": "Seattle Sounders x Whitecaps",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "08:00",
+      "competition": "Amistosos",
+      "match": "Liverpool x como",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -771,19 +771,19 @@
       "data": "16/08 09:53"
     },
     {
-      "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVk2VGZEXy1JVi10UUxKOTZmVjQ5N3d6N1hGY2FqZV9SelE4ZGRiamZURnZtb2VGZmFXdkVwUDlHajRpdVZpVmtEWmhhalR4MEluNUZCdl9yRVpLMzBCMndZV2VMRXdPcmNTQXFwWWNlSHpycFI1Y1k4NTBrMTJXcWpaVjZhYlJKd0FlV2kzSlZwX3VYVEJ6MVhrbDRVRGRSZmJvbE5MMUx0SGdIekhhQ2lnQzNOSTlKeUV2RFNFMXMtSDV0RUk1WjhnMkR5c21DS184anJHZFl3SlE?oc=5",
-      "data": "16/08 07:08"
+      "titulo": "Fluminense: escolhidos de Marcão mantêm lógica de Zubeldía - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEp5VWM1Y2llUmpuQ2N0T0FpejdaV2JISHlDcDlaTW9DWVdNekxCcHpDMHhjUTJWR1h0Q19SbVh0clNWdERVOEFOcG9oWG5ZbHdTUlJlTUxITGd0aGx2NU90MjNEak5UQXYzYzVtWHlpNlpvWTY1amkzR2FyOTN4Y1drTkxKWEp6bUZtdHcyOUZlMUxDb1JmT3VTRXlCR2s?oc=5",
+      "data": "15/08 15:10"
     },
     {
-      "titulo": "Torcedores apontam provocação do Fluminense a Jhon Arias; veja - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEtqck9XLWVfQWEzbS1DWTZUeGhSUEZTVDc0Ym9nYWlJaElwaUxCWnM0ZDJQWjFQVnEyN1U5TzhPTDNhaDZkV2V6Q3p3S29HRGpyNE9XRG8ycnYybS12blJKZW0tY1ZTaDBLUmpmeGpVU3JTUnJqbi1kZTRPa1I5aUtESEdab0wxOG5wcTh0cEI3NlpSdFpkQTREd0J3aVFKS1U5U0U2Znk?oc=5",
-      "data": "16/08 09:30"
+      "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
+      "data": "13/08 17:51"
     },
     {
-      "titulo": "Torcida do Fluminense ataca Arias em reencontro: 'Sem palavra' - esporte.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlBYM0JoSHJoV1A1NGVCVXRTcDVMaDE1X3NyWGV2ZDFWQWUtTUpqcGg1bUwxVGk2YW9hY1NienE4bGlnTTU2bFdGd3VwRXFxQ3Y1MTZ5alJqd2JmdHY3REt1ZUtkdHRsRWF4VHdWbFNNdkVQX3RnMXlqRnctMDhfZ2hUR0xxMnlYNjBtdUlseUstOWhwdnfSAZsBQVVfeXFMTVlzQUd3Q0RlbEdiRDJObll4aWVNRVhwWldUYk5meGwxeDJ6OFoxb1RUS1dZcWhJSXkzNjhUdWZSUUlSeTlXczNTUFVLV3dSY29YVHBnYTBJTXFnLWw4ZUF1SmZON0NpMVlnQ01wcHlicXQwNFdqdU42d2ZHbG1RX2RFZXFnUmZhLUZWQ1o0Q1Z0TUFtRjdxVkw1aW8?oc=5",
-      "data": "15/08 20:14"
+      "titulo": "Thiago Silva será o novo técnico do Fluminense? Veja o plano - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk9CRlpYaWJtLWF2V3VvLUFuV3BGNnBYYzdpN3NiOTF2SnNDQkZIYlhFNHRqdEVWX0FCRW9UbEVIRnpEamRHd1o1VlhUNk83NmJiM0RBd2J6VVR3bThuUWdCNXR2V2NZSm1YRkJfQkg3V0VNd0lrQ0NQZVhHaGVIbnlZVTFzYjc1MjlkNVJra0lyNmlmV0tSTVBKUzd0U0hXVFlqWUNGRGE1MEl2SVhnQmxyV0ZHR3NQTlFsQVloWTdqQkJPRFROYk5ZelFOREF5Q1pzVTdicDBkUUhHdldzdA?oc=5",
+      "data": "14/08 04:38"
     }
   ],
   "avisos": [
