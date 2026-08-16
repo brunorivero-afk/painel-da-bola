@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/08/2026 22:01",
+  "atualizado_em": "15/08/2026 23:55",
   "jogos": [
     {
       "sport": "futebol",
@@ -10,129 +10,6 @@ window.PAINEL_DATA = {
       "channels": [
         "YOUTUBE",
         "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x FC Cincinnati",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Atlanta United FC x New York Red Bulls",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Charlotte x Columbus Crew",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Toronto FC x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x DC United",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:00",
-      "competition": "Brasileirão Série A",
-      "match": "São Paulo x Coritiba",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Platense x Boca Juniors",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Houston Dynamo x Los Angeles Galaxy",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Nashville SC x Inter Miami",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:30",
-      "competition": "MLS Next Pro",
-      "match": "Austin II x Whitecaps II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:45",
-      "competition": "NWSL Feminina",
-      "match": "Portland Thorns (F) x Orlando Pride (F)",
-      "channels": [
-        "XSPORTS",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "21:45",
-      "competition": "MLS Next Pro",
-      "match": "North Texas x Portland Timbers II",
-      "channels": [
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -151,7 +28,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "22:30",
       "competition": "MLS",
-      "match": "Real Salt Lake x Minnesota United FC",
+      "match": "Colorado Rapids x Sporting Kansas City",
       "channels": [
         "APPLE TV"
       ]
@@ -161,17 +38,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-15",
       "time": "22:30",
       "competition": "MLS",
-      "match": "Colorado Rapids x Sporting Kansas City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Los Angeles FC x San Diego",
+      "match": "Real Salt Lake x Minnesota United FC",
       "channels": [
         "APPLE TV"
       ]
@@ -182,6 +49,16 @@ window.PAINEL_DATA = {
       "time": "23:30",
       "competition": "MLS",
       "match": "San Jose Earthquakes x St. Louis City",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Los Angeles FC x San Diego",
       "channels": [
         "APPLE TV"
       ]
@@ -240,20 +117,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "EC São Bernardo x São José EC",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Albion FC",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Albion FC",
+      "competition": "Copa Paulista",
+      "match": "EC São Bernardo x São José EC",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -438,22 +315,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ittihad FC x Al Kholood",
+      "competition": "Brasileirão Feminino",
+      "match": "Fluminense (F) x América MG (F)",
       "channels": [
-        "BANDSPORTS",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "Excelsior x PSV Eindhoven",
-      "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -470,10 +335,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "15:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Fluminense (F) x América MG (F)",
+      "competition": "Campeonato Holandês",
+      "match": "Excelsior x PSV Eindhoven",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ittihad FC x Al Kholood",
+      "channels": [
+        "BANDSPORTS",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -536,10 +413,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Rio Ave x FC Porto",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Club Nacional",
       "channels": [
-        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -567,9 +443,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-15",
       "time": "16:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Club Nacional",
+      "competition": "Campeonato Português",
+      "match": "Rio Ave x FC Porto",
       "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -581,6 +458,16 @@ window.PAINEL_DATA = {
       "match": "Estudiantes x Gimnasia L.P.",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Chicago FC United x Orlando City II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -613,16 +500,6 @@ window.PAINEL_DATA = {
         "BAND",
         "SPORTYNET",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-15",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Chicago FC United x Orlando City II",
-      "channels": [
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -748,6 +625,129 @@ window.PAINEL_DATA = {
       "match": "Atlante FC x Toluca",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Orlando City SC x FC Cincinnati",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x DC United",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Toronto FC x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Charlotte x Columbus Crew",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Atlanta United FC x New York Red Bulls",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:00",
+      "competition": "Brasileirão Série A",
+      "match": "São Paulo x Coritiba",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:15",
+      "competition": "Campeonato Argentino",
+      "match": "Platense x Boca Juniors",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Nashville SC x Inter Miami",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Houston Dynamo x Los Angeles Galaxy",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:30",
+      "competition": "MLS Next Pro",
+      "match": "Austin II x Whitecaps II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:45",
+      "competition": "NWSL Feminina",
+      "match": "Portland Thorns (F) x Orlando Pride (F)",
+      "channels": [
+        "XSPORTS",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-15",
+      "time": "21:45",
+      "competition": "MLS Next Pro",
+      "match": "North Texas x Portland Timbers II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -1415,8 +1415,8 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.7,
-      "temp_min": 15.5,
+      "temp_max": 18.2,
+      "temp_min": 15.6,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -1428,9 +1428,9 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
-      "data": "13/08 13:11"
+      "titulo": "Fluminense anuncia a demissão do técnico Luis Zubeldía - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnJWZEo2Y0F5M25MNng1N19vYWMtSExOdUtST1hWYndyZkR0Y1ZaLUxCcUVuWVI0QW92OTVEdG1WX2pZRUdCUVJ5U3B5dS16bGhoRklLenhJc2dfdS1qZUhuU1ljZ1FsNTNZaWZSbjVWNWtJTzhaR1RXRHlRMFhWMUF2TGx0VWtFZjM2cm14RXNXS0VCQllDS0hENDVfR3Jr?oc=5",
+      "data": "13/08 11:02"
     },
     {
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
@@ -1443,12 +1443,12 @@ window.PAINEL_DATA = {
       "data": "15/08 23:22"
     },
     {
-      "titulo": "Comentarista da Rede Globo diz que toparia ser técnico do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNllCT1BtdjBkTDhINVlaclozclNuTGpDUm1QNjg5cDNpakdUUkJRMVU5c09PYTJObW9fUUlaeDh2RHFmczhrdlZqU21kci03Y1Q3bFU5MFM0NU5yYnJfdGktTTBWNUN1enJsSThlSlJSdFlfbFRLU3duNXZlUzZPbHVVNURkaG5WN1FSRkhQdnVwSnZMeDM2NktBYmJ4NGhYaWlZNUdCOFl2emxKb1JPVHV1T0QybnIxTGRuYmNCT2JTeXFVZnhEemU4Mzc0eWI3bVNEWFp2V09xemVVNnBvcEFEbnJvR3BVSmlrUTZiVEM?oc=5",
-      "data": "15/08 22:40"
+      "titulo": "Felipe Melo admite que aceitaria convite do Fluminense: 'Estou preparado' - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1ktLVFMOTJrOFNVMkZGZElxRlRoV0JmMFZIN29LUENHNlVVQlVOZXpzNzFhOVZjYWhDTDJobmgwenNfbm01dHlXZXljaWhGQkpVSk9vT1ZMaVRIR01XNTRXZ1pPZUJGQVE1aWZUR25abWtVYUFRYlFrbTM5VGg3VnFjVGRWQ3o3TFE1enFWSGx1MHZjZWoyTG8wckt2VlBvWTQzREo4TThYYjBXeEZ4Sw?oc=5",
+      "data": "14/08 21:28"
     }
   ],
   "avisos": [
-    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
   ]
 };
