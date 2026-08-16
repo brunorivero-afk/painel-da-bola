@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 03:31",
+  "atualizado_em": "16/08/2026 04:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -756,7 +756,7 @@ window.PAINEL_DATA = {
       "temp_max": 20.3,
       "temp_min": 14.8,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -766,9 +766,14 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense demite Zubeldía: confira 10 técnicos sem clube - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVJ0U0toN3pwdjEtMlRDWmRhbzh1U0xmLVhyR1RhS0hJeTVCbF85VllKV0FSR094U0M2U2VjcVlqbmVGcjRBekxvSW9vdW5NamQxRHFlcW9UUGtud0lwazVtTjBDU2VhMG5oSVp6WjdzZFdqUUtkRFZEWkdOSld6NnM4MlZHN0RDaW9fT0lQZjkzSXFrUmExbmdxRVN0ajJvNmlJRW1WNmxTUjBSV09PNGE0VEc?oc=5",
-      "data": "13/08 13:11"
+      "titulo": "Quem é Tiago Gouveia? Saiba por que o Fluminense avalia o atacante do Benfica - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc08taDN2T21ZMDhKMDU5R3VyYXNOSlVLTjIxYXdkekdqZ2xOc1JXdDNVLVd6NmNCZlBCVURjeERmZ2Y3R1NNSnRRWmpqcWhZTXhXWjUwWTRBTVA2LVBDcGx4MVhyRXdySmdrZTlRLWlYanJEVThMU2VjdGZCMEdSY1J2SVRsS0Zqa3Y0S09sdlhYNFhBS3pzMmItemRDVGduRjVudDg3TE5zeEM1SE9pLWZxNXlGQnJJRi1VNmhCeXBNbmFsZlp4amRUdzRUX1N1bEY2bTRUQjM3YzZKeXdEdkNXVG9DUFVKTTNtNGpkOExxZmlPc0lR?oc=5",
+      "data": "16/08 06:47"
+    },
+    {
+      "titulo": "Fluminense anuncia a demissão do técnico Luis Zubeldía - cnnbrasil.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnJWZEo2Y0F5M25MNng1N19vYWMtSExOdUtST1hWYndyZkR0Y1ZaLUxCcUVuWVI0QW92OTVEdG1WX2pZRUdCUVJ5U3B5dS16bGhoRklLenhJc2dfdS1qZUhuU1ljZ1FsNTNZaWZSbjVWNWtJTzhaR1RXRHlRMFhWMUF2TGx0VWtFZjM2cm14RXNXS0VCQllDS0hENDVfR3Jr?oc=5",
+      "data": "13/08 11:02"
     },
     {
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - ge",
@@ -779,11 +784,6 @@ window.PAINEL_DATA = {
       "titulo": "Luís Zubeldía recebe sondagens de seleções após deixar o Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX1dxcGNFcEhVbGVfcW9DY2lUTEhPQmRIZUYzeVotQmRvd29xMW9zVzdZdDctVGc5SGNQYW9RTDFwcVV6ZVh3aGRjN2N3LVp3dkZuM1ZUQTlacVVhdkNDUk11Z2Y0NzRoYWZUa1JVNGNHZDY2bWt5TGEyLVJJaW9GZXdVcm9XMGRxV3AwakZHX0dUemQ2UndpeEgyYWk1dGdUOXZnQ3Q5NFR2Ynh3ZmQtY2RoUmczSld3eTl0SEN5M0FRSmhiMGpTMDh4WEtOekJuWW4tdzZzWVVKVFlpdHJVMVcxTzNZeEJmNjJJ?oc=5",
       "data": "16/08 05:26"
-    },
-    {
-      "titulo": "Jornal espanhol se rende a joias do Fluminense: 'Gerações de ouro' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEFMUkR2NHdUSzVIdWFwTFMxTGd3S0xqelpoek1HbE83ZnlIYVFJQ3V6MzNqeWZJWDN5RG1TaEhuX2VHUVppU0dFdzZYdzF2Q2NJMFB0LVNVQUdzUTl2V01ZUm53WHFZSzlncXNPblA4b3BBTjQ0VFQ3clJkSU9keGJLRGZXR1JJcHRQS0JwSnJQNWNpdEc2djIybzhBTU00c2pLaGQ0Vy14Mk5tdjZnazRlckQydw?oc=5",
-      "data": "15/08 16:48"
     }
   ],
   "avisos": [
