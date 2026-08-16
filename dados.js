@@ -1,27 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 10:26",
+  "atualizado_em": "16/08/2026 11:17",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "08:30",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x Dinamo Moscow",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Arminia Bielefeld x Energie Cottbus",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-16",
@@ -47,8 +26,18 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Deportivo Maldonado",
+      "competition": "Brasileirão Série A",
+      "match": "Chapecoense-sc x Bahia",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Avai",
       "channels": [
         "DISNEY+"
       ]
@@ -58,9 +47,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Botafogo (F) x São Paulo (F)",
+      "match": "Santos (F) x Flamengo (F)",
       "channels": [
-        "TV BRASIL",
+        "SPORTV",
         "YOUTUBE"
       ]
     },
@@ -80,9 +69,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Santos (F) x Flamengo (F)",
+      "match": "Botafogo (F) x São Paulo (F)",
       "channels": [
-        "SPORTV",
+        "TV BRASIL",
         "YOUTUBE"
       ]
     },
@@ -90,28 +79,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Avai",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Chapecoense-sc x Bahia",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Nacional x Estoril",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Deportivo Maldonado",
       "channels": [
         "DISNEY+"
       ]
@@ -129,6 +98,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-16",
+      "time": "11:30",
+      "competition": "Campeonato Português",
+      "match": "Nacional x Estoril",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
       "time": "11:45",
       "competition": "Campeonato Holandês",
       "match": "Ajax x Heerenveen",
@@ -140,20 +119,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Amistosos",
-      "match": "Newcastle x Strasbourg",
+      "competition": "Campeonato Austríaco",
+      "match": "TSV Hartberg x Austria Vienna",
       "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Villarreal",
-      "channels": [
-        "CAZÉTV"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -172,10 +141,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "TSV Hartberg x Austria Vienna",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Villarreal",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "competition": "Amistosos",
+      "match": "Newcastle x Strasbourg",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -224,21 +203,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Arouca x Moreirense",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Levante",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Levante",
+      "competition": "Campeonato Português",
+      "match": "Arouca x Moreirense",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -255,8 +234,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Liverpool Montevideo",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Huracan",
       "channels": [
         "DISNEY+"
       ]
@@ -275,8 +254,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Huracan",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Liverpool Montevideo",
       "channels": [
         "DISNEY+"
       ]
@@ -371,7 +350,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "ASA x Goiatuba EC",
+      "match": "ABC x Nacional AM",
       "channels": [
         "YOUTUBE"
       ]
@@ -381,7 +360,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "17:00",
       "competition": "Brasileirão Série D",
-      "match": "ABC x Nacional AM",
+      "match": "ASA x Goiatuba EC",
       "channels": [
         "YOUTUBE"
       ]
@@ -400,10 +379,12 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Athletic Club",
+      "competition": "Brasileirão Série A",
+      "match": "Mirassol x Flamengo",
       "channels": [
-        "DISNEY+"
+        "RECORD",
+        "PREMIERE",
+        "CAZÉTV"
       ]
     },
     {
@@ -420,12 +401,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Mirassol x Flamengo",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Athletic Club",
       "channels": [
-        "RECORD",
-        "PREMIERE",
-        "CAZÉTV"
+        "DISNEY+"
       ]
     },
     {
@@ -585,8 +564,18 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "08:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Hansa Rostock x Waldhof Mannheim",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "08:30",
       "competition": "2ª Divisão Alemã",
-      "match": "Hannover 96 x VfL Wolfsburg",
+      "match": "Arminia Bielefeld x Energie Cottbus",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -605,10 +594,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "08:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Hansa Rostock x Waldhof Mannheim",
+      "competition": "2ª Divisão Alemã",
+      "match": "Hannover 96 x VfL Wolfsburg",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "08:30",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Dinamo Moscow",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS"
       ]
     },
     {
@@ -732,31 +732,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.5,
-      "temp_min": 19.7,
-      "chance_chuva": 2,
-      "condicao": "Nublado"
+      "temp_max": null,
+      "temp_min": null,
+      "chance_chuva": null,
+      "condicao": "Sem descrição"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.9,
-      "temp_min": 19.6,
-      "chance_chuva": 53,
-      "condicao": "Garoa fraca"
+      "temp_max": null,
+      "temp_min": null,
+      "chance_chuva": null,
+      "condicao": "Sem descrição"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.8,
-      "temp_min": 15.3,
-      "chance_chuva": 92,
-      "condicao": "Garoa fraca"
+      "temp_max": null,
+      "temp_min": null,
+      "chance_chuva": null,
+      "condicao": "Sem descrição"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.7,
-      "temp_min": 14.5,
-      "chance_chuva": 82,
-      "condicao": "Garoa fraca"
+      "temp_max": null,
+      "temp_min": null,
+      "chance_chuva": null,
+      "condicao": "Sem descrição"
     }
   ],
   "noticias": [
@@ -766,19 +766,19 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Torcedores apontam provocação do Fluminense a Jhon Arias; veja - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEtqck9XLWVfQWEzbS1DWTZUeGhSUEZTVDc0Ym9nYWlJaElwaUxCWnM0ZDJQWjFQVnEyN1U5TzhPTDNhaDZkV2V6Q3p3S29HRGpyNE9XRG8ycnYybS12blJKZW0tY1ZTaDBLUmpmeGpVU3JTUnJqbi1kZTRPa1I5aUtESEdab0wxOG5wcTh0cEI3NlpSdFpkQTREd0J3aVFKS1U5U0U2Znk?oc=5",
-      "data": "16/08 09:30"
-    },
-    {
       "titulo": "Por onde anda Yan, ex-meia de Vasco e Fluminense? - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1k3NUJMNmd6Z3FPQno4aU5BR2lRT2JFQnR3QUIxaDJkTTUwSWZac1IzTml4VTQwNFpnZWJKQk1hWGpEcHpQLVp4UmRSSXAwWmtDd3V2eTMwUDJkMWU3YkdDU0ZSZzlmTHlHY2xRR3JvZndScFNaeEc3WVV1RXBtSw?oc=5",
       "data": "16/08 09:53"
     },
     {
-      "titulo": "Bastidores: demissão de Zubeldía foi decidida pelo Fluminense na noite de quarta - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXZKVkxFN3RyYTBDSzBDRGlfSFc0Y1BDUVg2WlI0aXJodk9oamF3M285Q0NaNkdlWGRpZU0wOWtpNzdIRG4wcHpla1JGNk9nNUJXMUpJTHluX3BUQTRaMnl5QXlUeXIzYzF1N3Y4MTRJOFRaWkxkbzRGQ0VicXV2bXdTMk1UeXZOTmNMX2J1dDcyUExUNF90TC1ud3Y1SnEzNkJJTTlBT0dmRDlUSTExaWJvb1VRNkVWRHgwbw?oc=5",
-      "data": "13/08 13:50"
+      "titulo": "Torcedores apontam provocação do Fluminense a Jhon Arias; veja - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEtqck9XLWVfQWEzbS1DWTZUeGhSUEZTVDc0Ym9nYWlJaElwaUxCWnM0ZDJQWjFQVnEyN1U5TzhPTDNhaDZkV2V6Q3p3S29HRGpyNE9XRG8ycnYybS12blJKZW0tY1ZTaDBLUmpmeGpVU3JTUnJqbi1kZTRPa1I5aUtESEdab0wxOG5wcTh0cEI3NlpSdFpkQTREd0J3aVFKS1U5U0U2Znk?oc=5",
+      "data": "16/08 09:30"
+    },
+    {
+      "titulo": "Fluminense: escolhidos de Marcão mantêm lógica de Zubeldía - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEp5VWM1Y2llUmpuQ2N0T0FpejdaV2JISHlDcDlaTW9DWVdNekxCcHpDMHhjUTJWR1h0Q19SbVh0clNWdERVOEFOcG9oWG5ZbHdTUlJlTUxITGd0aGx2NU90MjNEak5UQXYzYzVtWHlpNlpvWTY1amkzR2FyOTN4Y1drTkxKWEp6bUZtdHcyOUZlMUxDb1JmT3VTRXlCR2s?oc=5",
+      "data": "15/08 15:10"
     },
     {
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - GE",
