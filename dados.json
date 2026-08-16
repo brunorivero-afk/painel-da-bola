@@ -1,14 +1,14 @@
 {
-  "atualizado_em": "16/08/2026 18:15",
+  "atualizado_em": "16/08/2026 19:15",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Santos (F) x Flamengo (F)",
+      "match": "Botafogo (F) x São Paulo (F)",
       "channels": [
-        "SPORTV",
+        "TV BRASIL",
         "YOUTUBE"
       ]
     },
@@ -28,39 +28,9 @@
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Botafogo (F) x São Paulo (F)",
+      "match": "Santos (F) x Flamengo (F)",
       "channels": [
-        "TV BRASIL",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Famalicão x Maritimo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ABC x Nacional AM",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Goiatuba EC",
-      "channels": [
+        "SPORTV",
         "YOUTUBE"
       ]
     },
@@ -82,7 +52,7 @@
       "match": "Mirassol x Flamengo",
       "channels": [
         "RECORD",
-        "PREMIERE",
+        "PREMIERE 3",
         "CAZÉTV"
       ]
     },
@@ -121,11 +91,10 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Maringá",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Central Espanol",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -142,10 +111,21 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Central Espanol",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Maringá",
       "channels": [
-        "DISNEY+"
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "FC Cincinnati II x Connecticut FC",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -171,16 +151,6 @@
     {
       "sport": "futebol",
       "date": "2026-08-16",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "FC Cincinnati II x Connecticut FC",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
       "time": "19:30",
       "competition": "Brasileirão Série A",
       "match": "Corinthians x Cruzeiro",
@@ -192,21 +162,21 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "20:00",
-      "competition": "NWSL Feminina",
-      "match": "North Carolina Courage (F) x Houston Dash (F)",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Atletico San Luis",
       "channels": [
-        "XSPORTS"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Atletico San Luis",
+      "competition": "NWSL Feminina",
+      "match": "North Carolina Courage (F) x Houston Dash (F)",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "XSPORTS"
       ]
     },
     {
@@ -335,6 +305,16 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
+      "competition": "Brasileirão Série A",
+      "match": "Chapecoense-sc x Bahia",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "11:00",
       "competition": "Brasileirão Série B",
       "match": "Operário-PR x Avai",
       "channels": [
@@ -349,16 +329,6 @@
       "match": "Progreso x Deportivo Maldonado",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Chapecoense-sc x Bahia",
-      "channels": [
-        "PREMIERE FC"
       ]
     },
     {
@@ -395,6 +365,17 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x West Ham",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
       "competition": "Campeonato Austríaco",
       "match": "Tirol x Red Bull Salzburg",
       "channels": [
@@ -405,20 +386,10 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Amistosos",
-      "match": "Newcastle x Strasbourg",
+      "competition": "Campeonato Austríaco",
+      "match": "TSV Hartberg x Austria Vienna",
       "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Villarreal",
-      "channels": [
-        "CAZÉTV"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -437,20 +408,19 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "TSV Hartberg x Austria Vienna",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Villarreal",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "12:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Burnley x West Ham",
+      "competition": "Amistosos",
+      "match": "Newcastle x Strasbourg",
       "channels": [
-        "ESPN 3",
         "DISNEY+"
       ]
     },
@@ -479,10 +449,11 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Rapid Vienna x Grazer AK",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Levante",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -499,19 +470,18 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Levante",
+      "competition": "Campeonato Austríaco",
+      "match": "Rapid Vienna x Grazer AK",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Liverpool Montevideo",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Huracan",
       "channels": [
         "DISNEY+"
       ]
@@ -530,8 +500,8 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Huracan",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Liverpool Montevideo",
       "channels": [
         "DISNEY+"
       ]
@@ -560,20 +530,23 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Gama x São José",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Grêmio",
       "channels": [
-        "YOUTUBE"
+        "GLOBO",
+        "PREMIERE",
+        "GE TV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Anápolis",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Santos",
       "channels": [
-        "SPORTYNET"
+        "GLOBO",
+        "PREMIERE FC"
       ]
     },
     {
@@ -592,23 +565,20 @@
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Santos",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Anápolis",
       "channels": [
-        "GLOBO",
-        "PREMIERE FC"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Grêmio",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x São José",
       "channels": [
-        "GLOBO",
-        "PREMIERE",
-        "GE TV"
+        "YOUTUBE"
       ]
     },
     {
@@ -619,6 +589,36 @@
       "match": "SC Braga x GIL Vicente",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "Famalicão x Maritimo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Goiatuba EC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ABC x Nacional AM",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -771,14 +771,14 @@
       "data": "16/08 19:30"
     },
     {
+      "titulo": "Fluminense informa corte de Riquelme para decisão na Libertadores - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUZQQU1hZ3Z3T2RnMjZHVkhxS2FOSUhmTG16WDg5M09wallGX1hrcXh1LTdZUkl1aUY4NlZMdjduanpjbWFyTURmSVdzMmg0MTJwYVdQUkZOb1JCYmM4VTdCOFdnQ19zYVNOZlVsWW0zcmlwZTdVZ0RvR0s4dVZLeDAwZ1VCT2xqLVB5amQzMTZBbGxneFJINkpObHlZZ0J3WllodzZ4TjVidw?oc=5",
+      "data": "16/08 21:19"
+    },
+    {
       "titulo": "Bastidores: demissão de Zubeldía gerou divergência no Fluminense, que tomou decisão em busca de paz - GE",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLUdQUm0xOTNPQWJJQ3pRNEUyeWVvUER3Yjh0TEhNSW1rdnhRajMtRkVnUEI4Qmo0RW53a2I0TnAtU2NrUG9OTGVmT04xMERkMEhSc3I2ck9lYlJqaGluVzBDSEFTeWs0ak5USmpEU1ZOVlQybk5XVjRsVGZzRGdWWkd0RkJnX1BSczN2SUlianFURUhUTnl3LWItVkZLZzF5Skp5TGpMcF8zckMtZl9tQkZtVTBUZjJnOXd5QkRfbVBYNmhtdkhQSFJBaVYxRHpsQjF6OFM0WmtTNVYxVmxIeEZlcERWcE9aYVJVbVBkTklCZE0zVUgzeHlVdEnSAYsCQVVfeXFMTm1neEk0WG94WXNyUm9VRkJGRV84RTBicVl0VjN5cGZjVC1DdWh0MFQ3VEhJcEl5dmdYT3VvQi1MekZwbGVlMDFIWUh5Y3hnNzJoTF8yOHBLZ2YxWnFkRDlRQ1lENVJ1OEt3cjhCYTFaMmF3SDJ2Vl9hUk1SNWJXdllCeDdMNVlWS1BlRkZMVmFTUTJ2ZVh2UjBTcWVvVVFNX1ZLM0tWci1zNUVWd0RVSXJnYWY0am1ZVWo5Mm9BSUc0T2kzQjRtVnZZSFBxcFJjMzdHMVlCZzdjd2pjMFlyelg1SUVGR1NyYzNuQlUzRHdGRGpsTlFEX01WVThrblVELTJTQ3VDQUh6WnJB?oc=5",
       "data": "13/08 17:51"
-    },
-    {
-      "titulo": "NOTA OFICIAL - LUIS ZUBELDÍA - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40aUJBQ182LTR5R0dIcEhZUG40MDRldGdka25VaUtVdjM5cFNMWURackRZU1VWaGVWREpUdG9XMzlDZmw4dWxrUnptY21NSjdvVER3RDRtUkFNakpWbXp1aHVaZ3dpNFkxbzJwaG9ubGZ5Zw?oc=5",
-      "data": "13/08 10:27"
     },
     {
       "titulo": "Hulk revela bastidores da demissão de Zubeldía e mudanças do Fluminense com Marcão: 'Pedi desculpa' - LANCE!",
