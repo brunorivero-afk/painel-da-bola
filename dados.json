@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/08/2026 00:44",
+  "atualizado_em": "17/08/2026 01:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -302,14 +302,19 @@
   ],
   "noticias": [
     {
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnN2bkd3b2s2OGZVc3Vrb1dBMWRMWl9Ec3NnU1NScG14V0ZwX25zRl82eHVqa25MSk14NXJOZlotYmtLSnRUV2M5ZktnTURhaldubVFhUkluWG1WeXY1NjloYklLT1hjekNvSlQ1aDFDLWlqX0x6NHUzUmVRZ3k3NXNaM3dIYjNkek13OXp0YTE3S1JPa3R2eHR2N3ltRUlTOUVIZQ?oc=5",
+      "data": "17/08 00:24"
+    },
+    {
       "titulo": "Fluminense x Palmeiras: veja retrospecto do duelo com um século de história - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGZ4c01IbXdOWi16MllkVzdCRTdUTDRNdXhjTUU3aWk2QVoyd0lWeEdSaVRZVThSc3NZcnBMOHBYMnhwbWNvUnZ3dEtkRmd3a1p1M0VxazBYV1B6SXdnUlFPY01kR09zZlhXVUpVanBpTDFWM2pFY1ZNMFF1VE13T3lnZXdJWUJpekFTWFh1X0tOeWlMMmtodmhEY3lPWG8yQklkSURFVjg1X1JEZUVfT2lkYUt6NHBXTTV3Z2xR?oc=5",
       "data": "15/08 12:39"
     },
     {
-      "titulo": "Fluminense informa corte de Riquelme para decisão na Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUZQQU1hZ3Z3T2RnMjZHVkhxS2FOSUhmTG16WDg5M09wallGX1hrcXh1LTdZUkl1aUY4NlZMdjduanpjbWFyTURmSVdzMmg0MTJwYVdQUkZOb1JCYmM4VTdCOFdnQ19zYVNOZlVsWW0zcmlwZTdVZ0RvR0s4dVZLeDAwZ1VCT2xqLVB5amQzMTZBbGxneFJINkpObHlZZ0J3WllodzZ4TjVidw?oc=5",
-      "data": "16/08 21:19"
+      "titulo": "Marcão tem três baixas confirmadas para Independiente Rivadavia x Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU14Y1c0OWlQcEhEVGJ3NnlOajBqdFVxd1ZYM2pLWTlGaEM4b0F6R3hfM1hnWnV5QmVhRnpUWTdQZFRaMXNZRUh2djM3TC1GZXZIN3JzM2EtbGE0ajJhb1BQMTNaRFZ0dTBDUHRnR29NbURSTnhBQmowSncxdkVGLUFTT1AxaFJjRHlGVEJidlRfcHlPbDVJT21Yd25fSDBzY3pXRmJrZll6WkpZNlFsZkx4NkVuVHJm?oc=5",
+      "data": "17/08 00:40"
     },
     {
       "titulo": "Savarino está fora do duelo decisivo do Fluminense contra o Independiente Rivadavia - netflu.com.br",
@@ -319,12 +324,7 @@
     {
       "titulo": "Independiente Rivadavia x Fluminense Palpite – Dicas e notícias (18/08) - Trivela",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVU2N1MxUzB5NjFPUGpDSzlwdG5zQTcweHpMTW9JVWtxOTdIYzJFbmJ1OXZBMm4tMWFZaXBmVldibmNnenpjUG5Pd1RYRHB0Smx1WnZkbDAxNnVadG9Fd2M1RWFjTXlYWUFVekZmV3dSNmR2blRKYUk0STJMZmQ0NWo5Ymw5eThLbnZJR05UZXlQbmFEcFVSVjJyaE5FaEd3?oc=5",
-      "data": "17/08 02:20"
-    },
-    {
-      "titulo": "Atacante internacional na mira, ex-jogador se oferece ao clube e declaração de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPUUNLR2htZHRzT2hXRzU1WEZ4aHp1RWNiLWpKZ1lmS3hPaEdVakRfRlZtOG1QUXhtbV93QzRFeDExNTcxUVFrRGJ1ZEt1NHk5SmktbmF2M1dNSEZaaVh5M3J4dnk2cVd3OXlvWFhHUjZmdzdGWHU2S0s0bGhWd2ZrSkRBZFl4OHpYS3ZCTm1CZUhkOUlELXdVUExBXzR5Rm9WWllrZ2dBU3VhOUgtZjRHT1RLREZNMXlUbkJJNFlwMXFaVnM4aHVzeDFwWEdVdU9hU1pwUWFrNnRYRkhjakhPMGd0YjgySVUxUm4zWFlKTFgxU2I5VnY0ejRXWnZTTy1KOTVuWUFMTlBlbHAzNlk3N1AxVkVtYnA1RVREOWRDNTVLNy15clI0SzJxV3plZW4t?oc=5",
-      "data": "17/08 02:40"
+      "data": "17/08 04:31"
     }
   ],
   "avisos": [
