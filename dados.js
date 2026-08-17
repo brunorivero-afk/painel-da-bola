@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 02:30",
+  "atualizado_em": "17/08/2026 03:43",
   "jogos": [
     {
       "sport": "futebol",
@@ -312,19 +312,19 @@ window.PAINEL_DATA = {
       "data": "15/08 12:39"
     },
     {
-      "titulo": "Marcão tem três baixas confirmadas para Independiente Rivadavia x Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU14Y1c0OWlQcEhEVGJ3NnlOajBqdFVxd1ZYM2pLWTlGaEM4b0F6R3hfM1hnWnV5QmVhRnpUWTdQZFRaMXNZRUh2djM3TC1GZXZIN3JzM2EtbGE0ajJhb1BQMTNaRFZ0dTBDUHRnR29NbURSTnhBQmowSncxdkVGLUFTT1AxaFJjRHlGVEJidlRfcHlPbDVJT21Yd25fSDBzY3pXRmJrZll6WkpZNlFsZkx4NkVuVHJm?oc=5",
-      "data": "17/08 00:40"
+      "titulo": "Atacante internacional na mira, ex-jogador se oferece ao clube e declaração de Cano: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPUUNLR2htZHRzT2hXRzU1WEZ4aHp1RWNiLWpKZ1lmS3hPaEdVakRfRlZtOG1QUXhtbV93QzRFeDExNTcxUVFrRGJ1ZEt1NHk5SmktbmF2M1dNSEZaaVh5M3J4dnk2cVd3OXlvWFhHUjZmdzdGWHU2S0s0bGhWd2ZrSkRBZFl4OHpYS3ZCTm1CZUhkOUlELXdVUExBXzR5Rm9WWllrZ2dBU3VhOUgtZjRHT1RLREZNMXlUbkJJNFlwMXFaVnM4aHVzeDFwWEdVdU9hU1pwUWFrNnRYRkhjakhPMGd0YjgySVUxUm4zWFlKTFgxU2I5VnY0ejRXWnZTTy1KOTVuWUFMTlBlbHAzNlk3N1AxVkVtYnA1RVREOWRDNTVLNy15clI0SzJxV3plZW4t?oc=5",
+      "data": "17/08 02:40"
     },
     {
-      "titulo": "Savarino está fora do duelo decisivo do Fluminense contra o Independiente Rivadavia - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFY5aG9DWWpuTjY2YlNfankwWkdEWmJqbWxDWEJLcFNTMXM3VldqQmtBYm5CVEtVcFJCOXNGZjR2ay1FaU1tS25rVFp4azlGZERFVlIxWS12OU13UkdLLVhyR0t6QUVtYXNsbGF4MUZ1QTQ4dDZ6cHVocHVpN3MyUXVULU9TMFhWV0VJc3Bic0xsaXhnUGF2UUF6Q21xTm11RVFjcFZCZnE2dFktelBV?oc=5",
-      "data": "16/08 23:11"
+      "titulo": "Desfalque confirmado, torcida faz exigências e ídolo é vaiado: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaDZoaVZCLTllcGNGWE1ZX01COVdSWWdkenNNWkhmV0Y2VUEyWk44OVp3RXFvVktBSnNST3FWdjY3R2xNXzdJZXc5b0lYdVRWNnNBQ0IySVBHb0tySXE3ZFhmbUptS1BYaEZ6d1FybzRUd1ZNSlk3SWJncWI1QllHbDdtT0pfT0RtNnZYcHpkbGtpTURocWVRZWRfMTdaOTJnQ21kLUE0UXZ3U2p4b0FxVXBDQWxLZEh4ZW5hdC1xYlBNTDMzeldhOHpOak9iT2ZfRzBLbmpoY2s4QklhazJ2RjR0b2dramo1U01BZG1LY2tjZ1NzX0Vac3Z2RldIaloyM0RIQXZtZmxlcnA5OExMckExVQ?oc=5",
+      "data": "17/08 02:40"
     },
     {
-      "titulo": "Independiente Rivadavia x Fluminense Palpite – Dicas e notícias (18/08) - Trivela",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVU2N1MxUzB5NjFPUGpDSzlwdG5zQTcweHpMTW9JVWtxOTdIYzJFbmJ1OXZBMm4tMWFZaXBmVldibmNnenpjUG5Pd1RYRHB0Smx1WnZkbDAxNnVadG9Fd2M1RWFjTXlYWUFVekZmV3dSNmR2blRKYUk0STJMZmQ0NWo5Ymw5eThLbnZJR05UZXlQbmFEcFVSVjJyaE5FaEd3?oc=5",
-      "data": "17/08 04:31"
+      "titulo": "Fluminense cutuca Arias após vitória sobre o Palmeiras com posts nas redes sociais - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVXJYc1lSejZZdWVicVQ4MW5ZaXZiUmltcWhCMzA2R2JmQ0c5X1B6cThSMHNpbHZHNmt3Rl8tYmJLQXd3ZW4yd3JmY2YxT3NBV05RZnpyTDBLT1NBOU81T2RMQmlyYlpnMkVvd296ak5NaWYwcFhBdkFjTE8tUmVrVWtqTFZmSnJjblZFRGVQRS1NdDVqM2QtOUE3MkdDWkxMekQw?oc=5",
+      "data": "16/08 18:47"
     }
   ],
   "avisos": [
