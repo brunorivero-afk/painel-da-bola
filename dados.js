@@ -1,37 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/08/2026 21:59",
+  "atualizado_em": "16/08/2026 23:21",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Atletico San Luis",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "20:00",
-      "competition": "NWSL Feminina",
-      "match": "North Carolina Courage (F) x Houston Dash (F)",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "20:30",
-      "competition": "Campeonato Peruano",
-      "match": "Cienciano x Deportivo Garcilaso",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-16",
@@ -87,6 +56,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "08:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Hansa Rostock x Waldhof Mannheim",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "08:30",
       "competition": "2ª Divisão Alemã",
       "match": "Hannover 96 x VfL Wolfsburg",
       "channels": [
@@ -116,16 +95,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-16",
-      "time": "08:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Hansa Rostock x Waldhof Mannheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
       "time": "09:30",
       "competition": "Campeonato Holandês",
       "match": "Feyenoord x GO Ahead Eagles",
@@ -148,10 +117,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Avai",
+      "competition": "Brasileirão Feminino",
+      "match": "Palmeiras (F) x Juventude (F)",
       "channels": [
-        "DISNEY+"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -168,11 +138,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "11:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Santos (F) x Flamengo (F)",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Avai",
       "channels": [
-        "SPORTV",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -180,9 +149,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "11:00",
       "competition": "Brasileirão Feminino",
-      "match": "Palmeiras (F) x Juventude (F)",
+      "match": "Santos (F) x Flamengo (F)",
       "channels": [
-        "NSPORTS",
+        "SPORTV",
         "YOUTUBE"
       ]
     },
@@ -242,8 +211,31 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "12:00",
       "competition": "Amistosos",
+      "match": "FC Schalke 04 x Real Madrid",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "competition": "Amistosos",
       "match": "Newcastle x Strasbourg",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x West Ham",
+      "channels": [
+        "ESPN 3",
         "DISNEY+"
       ]
     },
@@ -255,18 +247,6 @@ window.PAINEL_DATA = {
       "match": "Racing Santander x Villarreal",
       "channels": [
         "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "competition": "Amistosos",
-      "match": "FC Schalke 04 x Real Madrid",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "DAZN"
       ]
     },
     {
@@ -287,17 +267,6 @@ window.PAINEL_DATA = {
       "match": "Tirol x Red Bull Salzburg",
       "channels": [
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Burnley x West Ham",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
       ]
     },
     {
@@ -325,6 +294,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "14:00",
+      "competition": "Campeonato Austríaco",
+      "match": "Rapid Vienna x Grazer AK",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "14:00",
       "competition": "Campeonato Espanhol",
       "match": "Espanyol x Levante",
       "channels": [
@@ -340,16 +319,6 @@ window.PAINEL_DATA = {
       "match": "Arouca x Moreirense",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "14:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Rapid Vienna x Grazer AK",
-      "channels": [
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -418,6 +387,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x São José",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "Vasco x Santos",
       "channels": [
@@ -450,19 +429,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-16",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Gama x São José",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
       "time": "16:30",
       "competition": "Campeonato Português",
-      "match": "Famalicão x Maritimo",
+      "match": "SC Braga x GIL Vicente",
       "channels": [
         "DISNEY+"
       ]
@@ -472,7 +441,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-16",
       "time": "16:30",
       "competition": "Campeonato Português",
-      "match": "SC Braga x GIL Vicente",
+      "match": "Famalicão x Maritimo",
       "channels": [
         "DISNEY+"
       ]
@@ -511,11 +480,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Maringá",
+      "competition": "Brasileirão Série A",
+      "match": "Mirassol x Flamengo",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "RECORD",
+        "PREMIERE 3",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Central Espanol",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -532,10 +512,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-16",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Central Espanol",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Maringá",
       "channels": [
-        "DISNEY+"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -567,18 +548,6 @@ window.PAINEL_DATA = {
       "match": "Vitória x Botafogo",
       "channels": [
         "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-16",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Mirassol x Flamengo",
-      "channels": [
-        "RECORD",
-        "PREMIERE 3",
-        "CAZÉTV"
       ]
     },
     {
@@ -619,6 +588,37 @@ window.PAINEL_DATA = {
       "match": "Corinthians x Cruzeiro",
       "channels": [
         "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "20:00",
+      "competition": "NWSL Feminina",
+      "match": "North Carolina Courage (F) x Houston Dash (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "20:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Atletico San Luis",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-16",
+      "time": "20:30",
+      "competition": "Campeonato Peruano",
+      "match": "Cienciano x Deportivo Garcilaso",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -747,7 +747,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.1,
-      "temp_min": 15.3,
+      "temp_min": 15.2,
       "chance_chuva": 92,
       "condicao": "Garoa fraca"
     },
@@ -776,9 +776,9 @@ window.PAINEL_DATA = {
       "data": "16/08 23:09"
     },
     {
-      "titulo": "Riquelme reclama de dores e está fora de jogo do Fluminense com o Independiente Rivadavia - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ1dUOWJYZHZxZlVIdHJZenlpUXF3anVrdUxsNWR5TWFFcGRPam5QWDduSmcwTWtBU3pvOEZIcVJGcEFJV3RVVW5FdlA1ZDFncEtoYTJKRkt5cVZMdGpqaWZEcl9iRU42XzB1eWZhSi02OXBKaUYyVWNzSXB1ODNZV2p4OHR2RjFGV1hfTDVab2hsbVFpRFJ0eEg5QmNvN1JsUnVtUkw5WTUtcW12WHpqNk5ZUEJKSlFoaHRhUnpSLWFPdDVacXB1eFJCYk96Q19TTzNPZFYzSEgyZVQ2VGhHbERFTGFNaVEzTG5tVlVndjFqUdIBgAJBVV95cUxPb2xHQmxMYy1CbjdZcjFTRUlHbGpXXzBDUlV2cDdRQ1hwczRNNmZjUVBPTkczQkR4R3c5Uy1KNzBRN28yUElVMGpOb2F5c3llb0VINUVCMG5hZ1d0aU8tcGdVeG5xVnhEU1Q0OGVDLTFVdWxmekg3cUVVbG1DOERaVURRaUNrS3NYaEw0QzRvc2Q1bEN0TER6dlFmYjVHZWJIeEFSOE45ZkVYbUF4RGgxNEV3Y21ZdTR0Tm93U2ZwQnlQUEV0ejBPV0JIREM4dWE2cFNUdzNkVG1ZUlJBaUl6SVJRMWVMRnJhWTNLa0tQSGtiSFNod1hwcV94M3Q3Q3Jw?oc=5",
-      "data": "16/08 20:46"
+      "titulo": "Independiente Rivadavia x Fluminense Palpite – Dicas e notícias (18/08) - Trivela",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLVU2N1MxUzB5NjFPUGpDSzlwdG5zQTcweHpMTW9JVWtxOTdIYzJFbmJ1OXZBMm4tMWFZaXBmVldibmNnenpjUG5Pd1RYRHB0Smx1WnZkbDAxNnVadG9Fd2M1RWFjTXlYWUFVekZmV3dSNmR2blRKYUk0STJMZmQ0NWo5Ymw5eThLbnZJR05UZXlQbmFEcFVSVjJyaE5FaEd3?oc=5",
+      "data": "17/08 02:20"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
