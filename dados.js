@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 04:48",
+  "atualizado_em": "17/08/2026 05:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -302,19 +302,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnN2bkd3b2s2OGZVc3Vrb1dBMWRMWl9Ec3NnU1NScG14V0ZwX25zRl82eHVqa25MSk14NXJOZlotYmtLSnRUV2M5ZktnTURhaldubVFhUkluWG1WeXY1NjloYklLT1hjekNvSlQ1aDFDLWlqX0x6NHUzUmVRZ3k3NXNaM3dIYjNkek13OXp0YTE3S1JPa3R2eHR2N3ltRUlTOUVIZQ?oc=5",
-      "data": "17/08 00:24"
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnlZR3RXNTRLc3M0NTA5c0psZkRBUW5nOFRXem5UajU1N0FWajg0MC10ZEhtN3RYSHRERlpBUmEtWjZhVVNMdzhEYUMzNFp5NjJyWjAxa2NEbUlJcHJnUE5QMkJKd2VhajlIbmFfaEowdElRYklqeEVUbTFlc1JVdzc1cUczZFpwX2tQR2xCdHNILVA0U292NXdxeTd3SDJneVF2dXhadm0xcXJUQXU0TEZQdzdKMnRfOEs2Rnd0YUhoWUs4RHpxMTZBbjFLSU5ZTWQwYnVOcEFvQdIB6AFBVV95cUxQYy0wbkU5cVdkemxISVJDcDZBYmg5bG0xMzktb3JxVmpsaXJLYmdUWTFsaTY3dlc4TGJRWUtCcFg3elZSWWVmTlJMS1FuczVUQzdpQUNTOXdqMnRRdjJfSFVNN1VWQkh5Z2Z5VjJibWYyaG54ZXVMaE5HZjJjOEZZLTYzck5pWWdxNHEwNEpEQ1d0Q2hFU1Vxd3k2QTJJMkE2QlFqdjctNTBDM2MxQ214MnFWUmRYSlpDYktGd1pLaXkwSlo0TF9MV3RaMGc5YlZneXg5Yk96cjNyaGdmamlmMjlMRnBrQ1hV?oc=5",
+      "data": "15/08 07:01"
     },
     {
-      "titulo": "Fluminense x Palmeiras: veja retrospecto do duelo com um século de história - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGZ4c01IbXdOWi16MllkVzdCRTdUTDRNdXhjTUU3aWk2QVoyd0lWeEdSaVRZVThSc3NZcnBMOHBYMnhwbWNvUnZ3dEtkRmd3a1p1M0VxazBYV1B6SXdnUlFPY01kR09zZlhXVUpVanBpTDFWM2pFY1ZNMFF1VE13T3lnZXdJWUJpekFTWFh1X0tOeWlMMmtodmhEY3lPWG8yQklkSURFVjg1X1JEZUVfT2lkYUt6NHBXTTV3Z2xR?oc=5",
-      "data": "15/08 12:39"
+      "titulo": "Confiança x descanso: Fluminense e Ind. Rivadavia fazem apostas opostas antes de decisão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnVpVWpuUEI5T0tseEZ2cUlVT09qVWFLTkVxQ0EySUlUdlJhSzlmbkRHaGtFMW5TSmY3WE1xaVZhZEhVSGRVRkFURzl0d1lzWFBzUmR3aWtOSENhRzhRNHdXcEw3WWY2ZXBzb2U4Umx0cEZBX3lvSzZpZHFyWFgzcy1UNWNjVTdUX0dKdXMwbXVGYk5uWmhNeVNUYW9fQ2xMVmV1c2REaXJGSml4c1RLVjhMd2d5MWwxSUdiRDlHSHdUS1FkVnc?oc=5",
+      "data": "17/08 08:10"
     },
     {
-      "titulo": "Hulk revela bastidores da demissão de Zubeldía e mudanças do Fluminense com Marcão: 'Pedi desculpa' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbURDMnR3ZU1tS3JfeExHamJER0ZqZjhrQWkwcmFNMGEwYU9vQkxuLTBUdklNaGJ2azdQNHBhdE4zN1JJNDgzWWNmNjl0Uk90U2d4dWRHQUhwcHNrYThkVVVuTnhBSE5iWjhQUDE3QlZ2NEF1dVFtOWlRX0ZaSE5sclQ5VWlrWEZGVW9VOHc1Ry1qcGxybnRvNkZVd1RMOTN6ZUsxVXlHbEVzQ3ZKbElKVzJTek4yLUUtNVBVazdUbEEzU19aY2VtUVRGeWc4RHpIQmxB?oc=5",
-      "data": "16/08 19:20"
+      "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVk2VGZEXy1JVi10UUxKOTZmVjQ5N3d6N1hGY2FqZV9SelE4ZGRiamZURnZtb2VGZmFXdkVwUDlHajRpdVZpVmtEWmhhalR4MEluNUZCdl9yRVpLMzBCMndZV2VMRXdPcmNTQXFwWWNlSHpycFI1Y1k4NTBrMTJXcWpaVjZhYlJKd0FlV2kzSlZwX3VYVEJ6MVhrbDRVRGRSZmJvbE5MMUx0SGdIekhhQ2lnQzNOSTlKeUV2RFNFMXMtSDV0RUk1WjhnMkR5c21DS184anJHZFl3SlE?oc=5",
+      "data": "16/08 07:08"
     },
     {
       "titulo": "Igor Rabello sofre luxação, e cirurgia não está descartada pelo Fluminense - ge",
@@ -322,9 +322,9 @@ window.PAINEL_DATA = {
       "data": "16/08 13:00"
     },
     {
-      "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVk2VGZEXy1JVi10UUxKOTZmVjQ5N3d6N1hGY2FqZV9SelE4ZGRiamZURnZtb2VGZmFXdkVwUDlHajRpdVZpVmtEWmhhalR4MEluNUZCdl9yRVpLMzBCMndZV2VMRXdPcmNTQXFwWWNlSHpycFI1Y1k4NTBrMTJXcWpaVjZhYlJKd0FlV2kzSlZwX3VYVEJ6MVhrbDRVRGRSZmJvbE5MMUx0SGdIekhhQ2lnQzNOSTlKeUV2RFNFMXMtSDV0RUk1WjhnMkR5c21DS184anJHZFl3SlE?oc=5",
-      "data": "16/08 07:08"
+      "titulo": "Savarino está fora do duelo decisivo do Fluminense contra o Independiente Rivadavia - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFY5aG9DWWpuTjY2YlNfankwWkdEWmJqbWxDWEJLcFNTMXM3VldqQmtBYm5CVEtVcFJCOXNGZjR2ay1FaU1tS25rVFp4azlGZERFVlIxWS12OU13UkdLLVhyR0t6QUVtYXNsbGF4MUZ1QTQ4dDZ6cHVocHVpN3MyUXVULU9TMFhWV0VJc3Bic0xsaXhnUGF2UUF6Q21xTm11RVFjcFZCZnE2dFktelBV?oc=5",
+      "data": "16/08 23:11"
     }
   ],
   "avisos": [
