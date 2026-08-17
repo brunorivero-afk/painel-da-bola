@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 06:35",
+  "atualizado_em": "17/08/2026 07:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -312,9 +312,9 @@ window.PAINEL_DATA = {
       "data": "15/08 07:01"
     },
     {
-      "titulo": "Confiança x descanso: Fluminense e Ind. Rivadavia fazem apostas opostas antes de decisão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnVpVWpuUEI5T0tseEZ2cUlVT09qVWFLTkVxQ0EySUlUdlJhSzlmbkRHaGtFMW5TSmY3WE1xaVZhZEhVSGRVRkFURzl0d1lzWFBzUmR3aWtOSENhRzhRNHdXcEw3WWY2ZXBzb2U4Umx0cEZBX3lvSzZpZHFyWFgzcy1UNWNjVTdUX0dKdXMwbXVGYk5uWmhNeVNUYW9fQ2xMVmV1c2REaXJGSml4c1RLVjhMd2d5MWwxSUdiRDlHSHdUS1FkVnc?oc=5",
-      "data": "17/08 08:10"
+      "titulo": "Confiança x descanso: Fluminense e Ind. Rivadavia fazem apostas opostas antes de decisão - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWURmdEVQcHYyNExFQkJfSFJaS2RQX1BrMzJjZWpQSWVUbUwxekxWbGVXYmxxTVVwUnR2bkYzaUZKSms0ck9vUFBYajcyOXVFNlFSVlBQLWRRNTBOY0NST2RTQVl1RFNDTTJndkFTelN4RzRKQVNaLURlZWYzN1lJUUtDNkwxeFBFeElrNTBNUWZBQkNDdjJUTmYtTnoyLTNxd1FRVWFZS3dJTnIxRVJaUVctUl9IRjhHWlFFaGtLUXIydlBfSGJOY1JkbXhQdzFJRVZsaGcwa1ZNTWRRSjk2NmV2ZmVrQWFLNUU0cHZR0gHzAUFVX3lxTE5EUmFFNGNNaUZVc1JEVkMxUnMtQzAtWnozeG9fUkMxRld6RnlacEZSMGt4cUxSYThibjZPdzNLVkZ2WVFsRURUYmlnUVNyQ2VkbUV4SmNTdTdjNjVLODI5LVptOElhVE52VkZQLTRvMHpReENoX1dsX01odmtPX3NDZElyQ29KdTJybk1vVF9Lc2swdWtPb0lxWXhrd2dfbENwdkVVUEU2NXB1eTRBOTBiU2xiVFFFdXIxc0VtcThtaTRWYWdsUzVGYjVWQlMxUHcwUzJuUDRhUUZkMWNRSF9wdndlVURuQkpob0NjYVFrd2VfMA?oc=5",
+      "data": "17/08 08:15"
     },
     {
       "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
