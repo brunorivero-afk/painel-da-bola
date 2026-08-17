@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 12:20",
+  "atualizado_em": "17/08/2026 13:21",
   "jogos": [
     {
       "sport": "futebol",
@@ -317,14 +317,14 @@ window.PAINEL_DATA = {
       "data": "17/08 13:30"
     },
     {
-      "titulo": "Atacante internacional na mira, ex-jogador se oferece ao clube e declaração de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPUUNLR2htZHRzT2hXRzU1WEZ4aHp1RWNiLWpKZ1lmS3hPaEdVakRfRlZtOG1QUXhtbV93QzRFeDExNTcxUVFrRGJ1ZEt1NHk5SmktbmF2M1dNSEZaaVh5M3J4dnk2cVd3OXlvWFhHUjZmdzdGWHU2S0s0bGhWd2ZrSkRBZFl4OHpYS3ZCTm1CZUhkOUlELXdVUExBXzR5Rm9WWllrZ2dBU3VhOUgtZjRHT1RLREZNMXlUbkJJNFlwMXFaVnM4aHVzeDFwWEdVdU9hU1pwUWFrNnRYRkhjakhPMGd0YjgySVUxUm4zWFlKTFgxU2I5VnY0ejRXWnZTTy1KOTVuWUFMTlBlbHAzNlk3N1AxVkVtYnA1RVREOWRDNTVLNy15clI0SzJxV3plZW4t?oc=5",
-      "data": "17/08 02:40"
+      "titulo": "Saiba como assistir Independiente Rivadavia x Fluminense ao vivo pela Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjdGMUg4enlYbk4zeDFOZ2V6NkJrSm1fanNyR3VwbXJZQzZXUFV2cDRnaWh1TEQwSV9nSnI1a2VpXzN6STF1VWF1UUVOR2RKM2VsUUVEaFlMZXZIWlZXZnJ1MURnSGpDaW9PQjJraGtFQ190VkN2d3BEazZTZENLMHEzTDRfZEJpdUFHc2ZmRWlrQXJVNmo3XzRiNjRINVdUOEF1dFRlQXEwdDFzMVZNTA?oc=5",
+      "data": "17/08 12:30"
     },
     {
-      "titulo": "Hulk revela bastidores da demissão de Zubeldía e mudanças do Fluminense com Marcão: 'Pedi desculpa' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbURDMnR3ZU1tS3JfeExHamJER0ZqZjhrQWkwcmFNMGEwYU9vQkxuLTBUdklNaGJ2azdQNHBhdE4zN1JJNDgzWWNmNjl0Uk90U2d4dWRHQUhwcHNrYThkVVVuTnhBSE5iWjhQUDE3QlZ2NEF1dVFtOWlRX0ZaSE5sclQ5VWlrWEZGVW9VOHc1Ry1qcGxybnRvNkZVd1RMOTN6ZUsxVXlHbEVzQ3ZKbElKVzJTek4yLUUtNVBVazdUbEEzU19aY2VtUVRGeWc4RHpIQmxB?oc=5",
-      "data": "16/08 19:20"
+      "titulo": "Cano iguala Romário em ranking histórico do Fluminense no Maracanã - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmxxUGlNM2R2X2dZeU9GUXdLSDI5ZXZ5MjBHQ3drQ2p0cmdILWZMN2NvNHY5MElpRHp6b29PdG5aYTNNcmNqcVQ1QmM3eGE4MXVWY25MMHh6RU5GNFVWZXhNQnhkTmE0NHZXQVFLWUpIblZCUW9Ca1ZFdHhYVXVsSE9Ra1NXc3VTN2Y2NHl3RFVJWHZIbHFTUw?oc=5",
+      "data": "17/08 16:00"
     }
   ],
   "avisos": [
