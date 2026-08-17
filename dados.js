@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 14:22",
+  "atualizado_em": "17/08/2026 15:32",
   "jogos": [
     {
       "sport": "futebol",
@@ -312,9 +312,9 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Fluminense deve ter apenas uma mudança contra Independiente Rivadavia; veja o provável time - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1RsSVVYQ3BOT1hlcjBwbmszT3BFQmVST0JZdFJqRXdhWFNMbmJOSDhfSktQMHRSR3dVenJBVXFySFJsbzI5VHVQUnpSaTdJRWFrYkxVX20xeGJKT2tSdWZoaDlDSnBZUHJSMUtmcV95Y2RyZmtaRmY2R2ljS1J1U3ZobjhyRUVrR1NWVXlkZHczaTg2Z2toaWs1YVdudEF5N3JaRnZWdDQ5aGZycFo1ekFKVW4tcnJF?oc=5",
-      "data": "17/08 13:30"
+      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
+      "data": "17/08 17:39"
     },
     {
       "titulo": "Cano iguala Romário em ranking histórico do Fluminense no Maracanã - netflu.com.br",
@@ -322,9 +322,9 @@ window.PAINEL_DATA = {
       "data": "17/08 16:00"
     },
     {
-      "titulo": "Hulk revela bastidores da demissão de Zubeldía e mudanças do Fluminense com Marcão: 'Pedi desculpa' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbURDMnR3ZU1tS3JfeExHamJER0ZqZjhrQWkwcmFNMGEwYU9vQkxuLTBUdklNaGJ2azdQNHBhdE4zN1JJNDgzWWNmNjl0Uk90U2d4dWRHQUhwcHNrYThkVVVuTnhBSE5iWjhQUDE3QlZ2NEF1dVFtOWlRX0ZaSE5sclQ5VWlrWEZGVW9VOHc1Ry1qcGxybnRvNkZVd1RMOTN6ZUsxVXlHbEVzQ3ZKbElKVzJTek4yLUUtNVBVazdUbEEzU19aY2VtUVRGeWc4RHpIQmxB?oc=5",
-      "data": "16/08 19:20"
+      "titulo": "Marcão tem três baixas confirmadas para Independiente Rivadavia x Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU14Y1c0OWlQcEhEVGJ3NnlOajBqdFVxd1ZYM2pLWTlGaEM4b0F6R3hfM1hnWnV5QmVhRnpUWTdQZFRaMXNZRUh2djM3TC1GZXZIN3JzM2EtbGE0ajJhb1BQMTNaRFZ0dTBDUHRnR29NbURSTnhBQmowSncxdkVGLUFTT1AxaFJjRHlGVEJidlRfcHlPbDVJT21Yd25fSDBzY3pXRmJrZll6WkpZNlFsZkx4NkVuVHJm?oc=5",
+      "data": "17/08 00:40"
     }
   ],
   "avisos": [
