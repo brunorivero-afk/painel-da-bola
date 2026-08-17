@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 18:21",
+  "atualizado_em": "17/08/2026 19:19",
   "jogos": [
     {
       "sport": "futebol",
@@ -301,7 +301,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge",
+      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb2RJRUZCMVlfNG1EV1RueTVzRW8zRWw1S3c4NkFqRXE3V1pla0pZWklSRWotaG1yZ1VSV2llLUxHZU4zdmdELWlrc2VQbnAtREdXeEVWMzRpZWh4SnNoWDV0c25RMk1POUFoR2tGejhqQmhDbUxOQTlWTW1WZUg1UDhzN3V3amc5SWhiZ1FpTWoyaVlWUG5BczkwMUJPREFXZTJNSno2VDM0RWMtZU5FUFdnX1F1U29tdERFNmtBdXhvMWFaeG1RbU9Tbkx2aU5qM1NldkxXbF9vVk1CejAtMDRSNktXNEtqWDYzM2gwd0t2aGdqN21Ya21OMm5DbTdMUlBrcUwzc9IBlgJBVV95cUxQMDNLM1FfNTdLYjRHb2tZRjI2X3VNbTlqMm5HNFEzMjBUTXlPeFFQdmtCeEtRSmhKM2J6UDdlSnhhdEduQ1I1RDlPUmtUeC05WDFwZkhYUGprRmw1RTNjOUtLcTZoZ09Yc3NqT3ZUeW1zMUJKc1FfV0RNWE1IRDM3WW9rNVNqSlQtdjVwMVdadzA1eVViS0MzeHhkMk9sVFBZa0Yyc3JZTFllaG1ZNlZ6b0xhV0YyWm9wcVNZMTV5M0JvTlNqSjBZNDk3SG9qMHVEbjBzTFRqaUYyUlZaSGZqcjdFbk5PWE5SdDVBbVM2ZjEyTFJIQXVpVVVrMkYxNjFyalF3bFpYTHlocTQ5UjZhMHlYU2d3dw?oc=5",
       "data": "17/08 07:00"
     },
@@ -311,9 +311,9 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Ex-Fluminense comemora gol em estreia no futebol árabe - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDB6azhUZDZyalJubVpsZ2kteFc5UGdSSENYV2d0NWxmV29hSnl2M1BlenBTcmhkbjJTc3pweXpIN1Vtd0lsWUw4UjNwRXBoYkpCaXlWZGxadG9VMDMtYWZxMkNpVngxSUtVZUZHSS1KNHNqZVRNWWZTTGEtVGJaNXAwS1NDaHNpM3lVekYzRUNNODFrMy1FWDBMSGlfNzVtTDlqdlJ0UlowQQ?oc=5",
-      "data": "17/08 20:34"
+      "titulo": "Escalação do Fluminense: Marcão aprova teste contra o Palmeiras - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkRZTTZwT1FVVGtxblBUUDY2eDdGcXcyTHY4VVAyUE5jQmZMVFhQcjkxTXBkMEhHMkVKYVZvM3Jqa1dZbThCXy1iZGlmLS1kTnhZMTdMcTZYbEhHNS1hYmdZNE9qWm5QYVV6YkxJY2c4V0pYbGNSYUNxbXhZX3VfODNHNTNxUXlreFNQSmVlbkM4eDNxVnhrdjJKVjNSNE4tU3JRTFRn?oc=5",
+      "data": "17/08 22:00"
     },
     {
       "titulo": "Por que André, ex-Fluminense, decidiu ficar no Wolverhampton após o rebaixamento? Entenda - Terra",
@@ -321,9 +321,9 @@ window.PAINEL_DATA = {
       "data": "17/08 19:26"
     },
     {
-      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
-      "data": "17/08 17:39"
+      "titulo": "Ex-Fluminense comemora gol em estreia no futebol árabe - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDB6azhUZDZyalJubVpsZ2kteFc5UGdSSENYV2d0NWxmV29hSnl2M1BlenBTcmhkbjJTc3pweXpIN1Vtd0lsWUw4UjNwRXBoYkpCaXlWZGxadG9VMDMtYWZxMkNpVngxSUtVZUZHSS1KNHNqZVRNWWZTTGEtVGJaNXAwS1NDaHNpM3lVekYzRUNNODFrMy1FWDBMSGlfNzVtTDlqdlJ0UlowQQ?oc=5",
+      "data": "17/08 20:34"
     }
   ],
   "avisos": [
