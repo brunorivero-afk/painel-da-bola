@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 15:32",
+  "atualizado_em": "17/08/2026 16:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -28,8 +28,7 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Espanhol",
       "match": "Deportivo La Coruna x Elche",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "CAZÉTV"
       ]
     },
     {
@@ -302,9 +301,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo e escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZGI5d29ta05VRlM2Z1plQTlUWUFVbjZpNUlIVU5TSXprQkNseDRac2NJZHUwcHZGZ1REOE11NkpvSHNkS2U4MWdoVVFsV2U3SHVra0lHamt0RU1yRkNVTGVVUGZ2TDJkQjhCblUxaU9NOUh6UXA4Mldjam1fUnhIWVVHbkNjckZIcUZQd1doQ2VZMF9xYzZ2cTVVQ3JRNjgwa2tWWVFfNm94RjF4YzAtYVVBWVNKZy1rWFpVSEQ2QVlTTVc4cGhIdjRLUlZGNC0yREtr?oc=5",
-      "data": "15/08 18:33"
+      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb2RJRUZCMVlfNG1EV1RueTVzRW8zRWw1S3c4NkFqRXE3V1pla0pZWklSRWotaG1yZ1VSV2llLUxHZU4zdmdELWlrc2VQbnAtREdXeEVWMzRpZWh4SnNoWDV0c25RMk1POUFoR2tGejhqQmhDbUxOQTlWTW1WZUg1UDhzN3V3amc5SWhiZ1FpTWoyaVlWUG5BczkwMUJPREFXZTJNSno2VDM0RWMtZU5FUFdnX1F1U29tdERFNmtBdXhvMWFaeG1RbU9Tbkx2aU5qM1NldkxXbF9vVk1CejAtMDRSNktXNEtqWDYzM2gwd0t2aGdqN21Ya21OMm5DbTdMUlBrcUwzc9IBlgJBVV95cUxQMDNLM1FfNTdLYjRHb2tZRjI2X3VNbTlqMm5HNFEzMjBUTXlPeFFQdmtCeEtRSmhKM2J6UDdlSnhhdEduQ1I1RDlPUmtUeC05WDFwZkhYUGprRmw1RTNjOUtLcTZoZ09Yc3NqT3ZUeW1zMUJKc1FfV0RNWE1IRDM3WW9rNVNqSlQtdjVwMVdadzA1eVViS0MzeHhkMk9sVFBZa0Yyc3JZTFllaG1ZNlZ6b0xhV0YyWm9wcVNZMTV5M0JvTlNqSjBZNDk3SG9qMHVEbjBzTFRqaUYyUlZaSGZqcjdFbk5PWE5SdDVBbVM2ZjEyTFJIQXVpVVVrMkYxNjFyalF3bFpYTHlocTQ5UjZhMHlYU2d3dw?oc=5",
+      "data": "17/08 07:00"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
