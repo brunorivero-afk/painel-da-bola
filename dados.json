@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/08/2026 03:43",
+  "atualizado_em": "17/08/2026 04:48",
   "jogos": [
     {
       "sport": "futebol",
@@ -273,28 +273,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.4,
-      "temp_min": 18.4,
+      "temp_max": 27.0,
+      "temp_min": 18.7,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.1,
-      "temp_min": 20.1,
+      "temp_min": 19.8,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.0,
-      "temp_min": 14.2,
+      "temp_max": 20.9,
+      "temp_min": 14.3,
       "chance_chuva": 0,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.0,
+      "temp_max": 22.3,
       "temp_min": 13.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -312,19 +312,19 @@
       "data": "15/08 12:39"
     },
     {
-      "titulo": "Atacante internacional na mira, ex-jogador se oferece ao clube e declaração de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPUUNLR2htZHRzT2hXRzU1WEZ4aHp1RWNiLWpKZ1lmS3hPaEdVakRfRlZtOG1QUXhtbV93QzRFeDExNTcxUVFrRGJ1ZEt1NHk5SmktbmF2M1dNSEZaaVh5M3J4dnk2cVd3OXlvWFhHUjZmdzdGWHU2S0s0bGhWd2ZrSkRBZFl4OHpYS3ZCTm1CZUhkOUlELXdVUExBXzR5Rm9WWllrZ2dBU3VhOUgtZjRHT1RLREZNMXlUbkJJNFlwMXFaVnM4aHVzeDFwWEdVdU9hU1pwUWFrNnRYRkhjakhPMGd0YjgySVUxUm4zWFlKTFgxU2I5VnY0ejRXWnZTTy1KOTVuWUFMTlBlbHAzNlk3N1AxVkVtYnA1RVREOWRDNTVLNy15clI0SzJxV3plZW4t?oc=5",
-      "data": "17/08 02:40"
+      "titulo": "Hulk revela bastidores da demissão de Zubeldía e mudanças do Fluminense com Marcão: 'Pedi desculpa' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbURDMnR3ZU1tS3JfeExHamJER0ZqZjhrQWkwcmFNMGEwYU9vQkxuLTBUdklNaGJ2azdQNHBhdE4zN1JJNDgzWWNmNjl0Uk90U2d4dWRHQUhwcHNrYThkVVVuTnhBSE5iWjhQUDE3QlZ2NEF1dVFtOWlRX0ZaSE5sclQ5VWlrWEZGVW9VOHc1Ry1qcGxybnRvNkZVd1RMOTN6ZUsxVXlHbEVzQ3ZKbElKVzJTek4yLUUtNVBVazdUbEEzU19aY2VtUVRGeWc4RHpIQmxB?oc=5",
+      "data": "16/08 19:20"
     },
     {
-      "titulo": "Desfalque confirmado, torcida faz exigências e ídolo é vaiado: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaDZoaVZCLTllcGNGWE1ZX01COVdSWWdkenNNWkhmV0Y2VUEyWk44OVp3RXFvVktBSnNST3FWdjY3R2xNXzdJZXc5b0lYdVRWNnNBQ0IySVBHb0tySXE3ZFhmbUptS1BYaEZ6d1FybzRUd1ZNSlk3SWJncWI1QllHbDdtT0pfT0RtNnZYcHpkbGtpTURocWVRZWRfMTdaOTJnQ21kLUE0UXZ3U2p4b0FxVXBDQWxLZEh4ZW5hdC1xYlBNTDMzeldhOHpOak9iT2ZfRzBLbmpoY2s4QklhazJ2RjR0b2dramo1U01BZG1LY2tjZ1NzX0Vac3Z2RldIaloyM0RIQXZtZmxlcnA5OExMckExVQ?oc=5",
-      "data": "17/08 02:40"
+      "titulo": "Igor Rabello sofre luxação, e cirurgia não está descartada pelo Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlc5MUxCTDh1TDRUdDJRdUNPSmdSM1pnTlRJUHZnRHk1bl9pdVdKQnF1ZnNiREJxZ285ZXF5LVR6c2FtalpDeFR5TzViWVBKckVoc2hlUXlJM1lCVC1WZE1GOGw4Y1pyZUJHQ0tJcFdpa1lDTkIxVm9tbGtYcW9lSHY1M21DNk02cWZWUnlTbVZWUmFqU1ZSc1FZYW9zQ1dKTld4dlFLQkJ3YVd0YURYeVZVM2VCejBnNHpRTFlpVTJERGJVcUZ0ZklNRXVZSXBic0FqTmJTNVltSmhk0gHrAUFVX3lxTE80YkdRMEZQTFBHMWc1ckFuZkFtVlBjYXBDME5HMlJsU2taNVZKUmRWRXFVdDV1YzBqOTRiTkRDb3hacXBSbzFKb0ZqUjFISEhXU0lCSzROanM2dTl2M2FmNFBlTnlOakw3RXhWT3ZkTE94RE05cFV3Sm0xb1hvQmxDYjRncTM3YXJUQUxRLUVGMGxQV0RMeGpfYXMzTTRRQ3Z3eWJZM19kMWNPeDc1MGkyZmFKOWR5UFE3T3ZOaDFGQkFKYXVCWTVSZUNxaTRyV1hWcHZSZzRhOGZIak9ybUJqVC1ROWJ1dG15WWc?oc=5",
+      "data": "16/08 13:00"
     },
     {
-      "titulo": "Fluminense cutuca Arias após vitória sobre o Palmeiras com posts nas redes sociais - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVXJYc1lSejZZdWVicVQ4MW5ZaXZiUmltcWhCMzA2R2JmQ0c5X1B6cThSMHNpbHZHNmt3Rl8tYmJLQXd3ZW4yd3JmY2YxT3NBV05RZnpyTDBLT1NBOU81T2RMQmlyYlpnMkVvd296ak5NaWYwcFhBdkFjTE8tUmVrVWtqTFZmSnJjblZFRGVQRS1NdDVqM2QtOUE3MkdDWkxMekQw?oc=5",
-      "data": "16/08 18:47"
+      "titulo": "O que acontece com Rodrigo Castillo no Fluminense? Saiba - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMVk2VGZEXy1JVi10UUxKOTZmVjQ5N3d6N1hGY2FqZV9SelE4ZGRiamZURnZtb2VGZmFXdkVwUDlHajRpdVZpVmtEWmhhalR4MEluNUZCdl9yRVpLMzBCMndZV2VMRXdPcmNTQXFwWWNlSHpycFI1Y1k4NTBrMTJXcWpaVjZhYlJKd0FlV2kzSlZwX3VYVEJ6MVhrbDRVRGRSZmJvbE5MMUx0SGdIekhhQ2lnQzNOSTlKeUV2RFNFMXMtSDV0RUk1WjhnMkR5c21DS184anJHZFl3SlE?oc=5",
+      "data": "16/08 07:08"
     }
   ],
   "avisos": [
