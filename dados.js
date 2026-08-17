@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 16:23",
+  "atualizado_em": "17/08/2026 17:20",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-17",
-      "time": "14:45",
-      "competition": "Campeonato Argentino",
-      "match": "Estudiantes de Rio Cuarto x Atletico Tucuman",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-17",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "São Caetano x Santo André",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-17",
@@ -95,6 +75,26 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN 4",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-17",
+      "time": "14:45",
+      "competition": "Campeonato Argentino",
+      "match": "Estudiantes de Rio Cuarto x Atletico Tucuman",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-17",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "São Caetano x Santo André",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
