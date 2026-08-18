@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 16:23",
+  "atualizado_em": "18/08/2026 17:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,9 +583,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - GE",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
-      "data": "18/08 05:00"
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo da Libertadores - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSEI5eEFqZVFJM0pPb3FNb2pBcVE4cWNxbUNxWTlOTzBrRGRYenhoZVBET2VyWHY4RDJDYUVWeUsyYmZuLUhDZ3BreEtsbUkzT3IwZE1BRGVmVmZoNFNOd1pxUGVfQlNKckxmQTJ0VElTX2hlNkVSTDQzMU9IYmxJeGRJS0tOUExQVWM5ZDRfRGxVR29qaGRfOEMtNjNsZUg1SENyN2JzcVFqVVRmTm9iQVl2aFdYUGFNNTRRcHhxeFRpMUtiQlVHamtwTXNIUk5waWFGcnMxYlk2Szh0QXl4M21ITjdfNm1JUEFiSVpic3FLNkZBT1hycFROelhCeXBZV3otSnNoRUl3czA?oc=5",
+      "data": "17/08 17:36"
+    },
+    {
+      "titulo": "Terans deixa o Atlético-GO e volta ao Fluminense para realizar cirurgia - GE",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGtOUmVpbGt6a0RPWWtmcHVtUHZTQ04wT1dzb3Y1WURtRDlEamZSWTRqcEsyVF9BUmxtX0JyYlJ2VTRxLXg3eFR3Q2tqUjhJLTY0dG45b3QyUDhZdGl6NFRLUkZLajFNN1Q2c3JQNWZwNnRucVdiRHlUVnFISnVFbFdKN3AwTUMxUElsZlliNjkwWmx2a2FiRzRaZFlNR2Q0THJYaHVhb2drdDNtTG1tNjhSTjc5MnVnOFJIaTFmbUotR1VUNVM40gHWAUFVX3lxTE9vdjQ3WnA1bldac25zVzczdWk4UnVJdldDV0VtTmpNYWZYM2xCN01yM3FzSTBvYVNRdUFwYlctMWIyTC1kZ3d1SEhTYTdxaHRpVl9OWmVnZnRadTE0V1E1OEZqQ09ueXpxa3VLY2xidHFzeVJ2Y3JQdzJWZHB5ak55VWE2MnpqRlFQU2V3RGRUMHVOa3ZXWTlyTlV4LUNkWEJCaDFXNUpCUE9GdzNkTzdaeHRtZUtvcTlGRHJGM3lsQ1NiUzRoOFJielpqaFNhazZCQzFjbUE?oc=5",
+      "data": "18/08 19:53"
+    },
+    {
+      "titulo": "Fora da decisão, Freytes viaja com o Fluminense para apoiar elenco e reencontrar ex-clube - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeHF2d1RDMHpqMXlud0pQeE5GeERjdld2a3RtdXdGQllRdmpPanY1SDB4NjBLTUU0N3lJb1NyblhMMldNNWVuWFNuR0xLZVVnUEtpc2JOYnE2NHlBQ2pzRk5wdjhuZ1VhQl85VGNNcjloQ0VFbXV0ZkF5WEdKd2w3M0dEc3pRUGdzZTBnNmVFTE85Y05VZ3p6VzRBN0M1eVZ4OWRCamFUOEhNbkJCRzZiMV9XXzBBbVBEZjJJMXBhdEF4TmR5Y201VmhhOTJSbU56SkxkaWl3SnkxaVNRWl9GMEtHWjEwWUtNcWtVOFB2eUHSAf8BQVVfeXFMUGVMVmZBMGRWZGFHRTBwdk1nMUZYZ3dLMU9QMVVQbzhxbzFvT1JsME01Vi1LZDJycDJVaHlpbzRPUzFQT0pzN0daVkR3bE1LRkVXMzZFT0FGVGhpWDhienZnVUlac2hrU1cwUHVsU0xGQ2lFcTZWVDRWWEIzRFdNNkZ5V05rSVgzZzB3N2lvY0ZnU0ZUV0Qza2VIbFBJTUtRcEJFejRlanQ4d0o2R0w3eVhXUDhKUlYwSGFnVERQa3RiblFPSzVYanNjekMxb3U1X1YyNDdScWFhWkRvVU1LZnh1eGo1UzVhaVpRQ0FHMkpNal9reGJTbHprSXJiUFBv?oc=5",
+      "data": "18/08 17:00"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -593,19 +603,9 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Fluminense ganha vantagem com 'problema' do Independiente Rivadavia - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWxQcXNOS0RZdjVkR05xeW05RVVJZy1WSDhQeTkwYjJpVmRPX05YSDluMXlYYkZMelBxeTZvcUY3Wmtjd0ZhczFELWdFalRiLXE3enpfVDZZYWRhLUFsQTd0YVNyWGF1MU9oWFRQaGtZbFJUNzFkS2tzMWtfWnN3Z002NFNzN1JBNFo0ckRiSVd6ZDlJM3FEMkhCeTNVNDVIdksybnFhYTVEQQ?oc=5",
-      "data": "18/08 16:37"
-    },
-    {
-      "titulo": "Rivadavia x Fluminense: veja quantas vezes o Tricolor passou nas oitavas da Libertadores fora de casa - Terra",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb09uTWpKVXJUdkFYazhyR1NrTkg4MnBQU1pLbGo1WVlvXzhzOUVSdWh6VFNwZEUtZjBENDJtcmJNVWdIRVBFVVh5aHFvY0hTYUV4NEdOb1MxSk81MU96RjRFbmZqTlpLWVp0RF9maVlwblFnRFhBRnRpUWJKMndadWhyTU9WWF9kdUhhX3NYM0xLZ0VKaFczS0VhcHlNLWhMcVFnc2ZSQWtqZjNFZ2UwanhIcUJPa3M2X1lsb1V3U0pvY2hnbE41dEhlZ3JnNHdibWpFSWZmREJrUlNuVWFvVjJoSGI1a2RKb01xYU84Y2JlMlZPWkhkd3NMa0FSS2U0UW95elJ1Rm5sdHBOSWl6MmM5VmtLV3c?oc=5",
-      "data": "18/08 17:17"
-    },
-    {
-      "titulo": "Corinthians x Fluminense: onde assistir ao vivo, horário e mais pelo Brasileirão Sub-17 - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTZuUlNfSmtYbUlxbS1EX2w2ek5mbHc4Zi1lU0xld1NwSnlvZllkV0VPaHJMSnQtLWx5VXhVb09iSzJCSlpUM2F4Q1Q0SE1SOUZiQTBVM1pwZWN2dDRwVnc3VmJWa3lRNkppMC1Ec1Qzc1JCOHJoNFkzVko5cnhheldMbXlxNG5QR2FVamg4N1l0ajZlVzNXZzRQV3VZTlJFdDFpRnpnaC1OZkU2N0RpOEVn?oc=5",
-      "data": "18/08 14:42"
+      "titulo": "Fluminense contrata atacante e quer mais um para reforçar o time principal - Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ29XN2o5SmN4ODJscXNORzE2TEtXVWIza0NZWENSa0dWcUxoVDZJRmgxemZyaHRCZ09XdjVxVXZKQ293WXNhWlRQRGdLbHB0R3Q5M2pJNkpfQVVXMHVFUnYtRXV6VHVuM2tvSlBnMWpiUXRQSUtValZpRTNBeWVNMjEyT2t0NG0wejNSSWJwSEpxV1BTa0xkRG1SRm14cWhNRm13VVhobnN5VlZ1VFV5QWF3c2tsMlE?oc=5",
+      "data": "18/08 10:01"
     }
   ],
   "avisos": [
