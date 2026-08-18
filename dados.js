@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 19:17",
+  "atualizado_em": "18/08/2026 20:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,19 +583,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense ganha vantagem com 'problema' do Independiente Rivadavia - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWxQcXNOS0RZdjVkR05xeW05RVVJZy1WSDhQeTkwYjJpVmRPX05YSDluMXlYYkZMelBxeTZvcUY3Wmtjd0ZhczFELWdFalRiLXE3enpfVDZZYWRhLUFsQTd0YVNyWGF1MU9oWFRQaGtZbFJUNzFkS2tzMWtfWnN3Z002NFNzN1JBNFo0ckRiSVd6ZDlJM3FEMkhCeTNVNDVIdksybnFhYTVEQQ?oc=5",
-      "data": "18/08 16:37"
-    },
-    {
-      "titulo": "Ex-Atlético vira 'dor de cabeça' na Série B e volta ao Fluminense: 'Só Deus' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzAzZnJMbXdXUjlTQ2xsN2F4bVFzU3pxZk9xZjVIeDBraXRlTzIwMkJPYWJ4b09HRmMwR0FPaEV6aXQtOWJvZy1jMlBwLTdRQkRuWHdaVF9mODF5SU5VTEJEWVJiX25yRkItanp2em1HYU5RNmFPT19oZ0RLYWJ2YkF0RUZRZmVMaGZLQ2pVem1xbnh2MVBrQm1oX29Va1JrRWlyVC1LaFNvODBaZ3Bsald4QXJMaXF6QTUyM3pISzdaTkN0ZFlKZUtHakJFTDA?oc=5",
-      "data": "18/08 21:13"
-    },
-    {
-      "titulo": "Terans retorna ao Fluminense e passará por cirurgia - otempo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzJPTl9WV3oxSGpzNmh1V0Y4N2VzTWszYXFyQ29xY2Ywa3h0eTlacWVqcUFaNklzYl95ekNpS2h1Zno1S0ZHdU1lQVhBbjc0MXJZRVJvemNfcE9ndFBidFFNSXFReGdNVTBncE5DSHpTOGE4dExMbzQ1enNUWHl2YVlHVkRnc2c5X1MyLVItS0M0UTBkUVVoajhyb1lQb19QYmF3bTNtY1NjSE9zUTdXSEZWak1icGZuUmViZEVnQdIBxAFBVV95cUxQTXRXaDVOYlFZeF9xSThBcndISy0tSmRwVDIwYUZxak1INlBURWRMVGRCTl8zT1gzUjBrbmstZ2lWNF9GM2h2NFZhVDc1bk51dVY2eDJwS0pZaWlDTTZwREJHNVlQUi1nb1dtTFBiZFJ0NnRlbkM3bTBBSE1POF8tNDcyYnlQN3lFZWFEZXZwRTN4cmtLSWdieEE0cG5OY1RTdWZwWTBSdEZVS0VzYnpESHF6SEdRNnRGLWtLNU9URXRILXlq?oc=5",
-      "data": "18/08 21:30"
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo e escalações do jogo da Libertadores - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMEl0VEdYM3hkRGJwUVhmUk5NNS1QLXhiR01vWnBuc21XQ0U5YlFnY254bFdVRE9tOU9FYjhKNzV1Y1FmZWZrZFppTlJwSmNmQXktVzRESnY0dzlPa3VHZXE3S2hBWUtTRHNrTWQtZjhfa1UyY0U0UGJGWXVMVVNkQUgxZDA5ZVdsWmFkZ1B0bUR5QzFGX1BWbnE5QkxVYzlFM2RkZmtzQWRKR0xVbnd0em9rVzQ5ZlhlMlEyQWxhdEtMX3hIOVVaMWJwcVJOdUZ4a2I2TFVpcGc0TWRHRXlqbUY5eWlVeFhNY0pGQkZIR28?oc=5",
+      "data": "18/08 20:50"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -603,9 +593,19 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
-      "data": "17/08 17:39"
+      "titulo": "Fora da decisão, Freytes viaja com o Fluminense para apoiar elenco e reencontrar ex-clube - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeHF2d1RDMHpqMXlud0pQeE5GeERjdld2a3RtdXdGQllRdmpPanY1SDB4NjBLTUU0N3lJb1NyblhMMldNNWVuWFNuR0xLZVVnUEtpc2JOYnE2NHlBQ2pzRk5wdjhuZ1VhQl85VGNNcjloQ0VFbXV0ZkF5WEdKd2w3M0dEc3pRUGdzZTBnNmVFTE85Y05VZ3p6VzRBN0M1eVZ4OWRCamFUOEhNbkJCRzZiMV9XXzBBbVBEZjJJMXBhdEF4TmR5Y201VmhhOTJSbU56SkxkaWl3SnkxaVNRWl9GMEtHWjEwWUtNcWtVOFB2eUHSAf8BQVVfeXFMUGVMVmZBMGRWZGFHRTBwdk1nMUZYZ3dLMU9QMVVQbzhxbzFvT1JsME01Vi1LZDJycDJVaHlpbzRPUzFQT0pzN0daVkR3bE1LRkVXMzZFT0FGVGhpWDhienZnVUlac2hrU1cwUHVsU0xGQ2lFcTZWVDRWWEIzRFdNNkZ5V05rSVgzZzB3N2lvY0ZnU0ZUV0Qza2VIbFBJTUtRcEJFejRlanQ4d0o2R0w3eVhXUDhKUlYwSGFnVERQa3RiblFPSzVYanNjekMxb3U1X1YyNDdScWFhWkRvVU1LZnh1eGo1UzVhaVpRQ0FHMkpNal9reGJTbHprSXJiUFBv?oc=5",
+      "data": "18/08 17:00"
+    },
+    {
+      "titulo": "Independiente Rivadavia x Fluminense: siga o tempo real do jogo pela Libertadores - Gazeta Esportiva",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakFSd0lkSGdFTTlKWUgyZW41LUI0YjU0b2I5T09hT3dwZG9vNm13dHdONVZHX0dwV0RnY1hTN3RKeWt3LV9hLXhKc2tVUTVVbmc4WWUzZTQ2aVVCR0NXVU9FNzZURTZGcVl1XzVUOUZTSlhVajFTZkM3TjBaaXc3LTNueFFaT284TmhKeVBwMWxKTHhEM2dDZjBPUElNeWV5RVQydlV2alE0WDNRaU1KemRkRi1NMFhPdG41SHhybUM5alFQSWVrTG9R0gHPAUFVX3lxTE1JbEdPOEdrUHV1d2pvWC1pLWpYalRfN0g4ZkZ5QXBLTzVRdC1Hd1B3alVoUl9udXFFbXJmWTY4MjIxYm45S0tKaWVVM0hQQ2lVQ1V1QlVZeGNGOV9DMXFlQXR1UXEwLUNqeVJNOVVsYy13TEtrdGZmS2tOUGxyMXZtOFZHaGpWODhETVF1X2tyNkN3VEhHNW5ibkgzWG91NTdUR2w0LTJIWnd0eFBNMUFSOVhDQ2w3eGJfaTBLYzZWeTVPSkFmZXZwRUhRYWVhQQ?oc=5",
+      "data": "18/08 22:02"
+    },
+    {
+      "titulo": "Heróis da América do Fluminense trazem esperança de volta antes de decisão na Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3Q3Q2ZlSG5LWEJYbFBzRlF3X0h6ZGliSEdCYlpnSzRkbFRBZGFyNXVPanQ5VWltOTkyNEFMRDBpTTRqeFFFTVN2Rmw5Qml2U1ZwbUozbGFod2hZVzl1aUlaZ1FiMG5hYV8xdC1RNVhtR19DUVZ5eXVSbzAyRzlGUmEzQlN3WWhSTnJqazBkbi1ySTJIWGx5aWVWNVhSX2tDaDRmaWhFdTRJUGpqX2p2NS1UYkF5NUNVX25HNGgya2g0QXNfRnZ5OXF5dkFDVmpFMGZNaDFGREcyTDI5SWxwSGJ3Ym1sZHNvdUxLZ3o0N1MyZEnSAYICQVVfeXFMT2hQLTJra1JkUFJEMUw0bWczRUlUdWR3Tm00aU15c2VqYlIxRWZtVERjVFNsNjB0VThIbDRxZ1ZyR1Q3UUJxRUlxZWVkMnpEMmRBWlFCNlZwdC1lRkRjNXhGS3pfbi0yX3lfUFFEUWdGWkwycFREZEtlUDNMRGhKeHBKTWNDdnlVOHBzNEY3S3B4UGlNVGtFTUZzY21NbE9sSG5VSHJlR3gxZFVWM1EyTXhqV2RyY1lsOWVWLUI2Qkhaa0hQNU1kTlZQeGZvOU1uLVZoc3p1eE4zN3QwYTRRZk13Q0hfV1Z1YmU2RFNaREt4QmNJeVp6bGlXRmJYaFFnTzBn?oc=5",
+      "data": "18/08 11:00"
     }
   ],
   "avisos": [
