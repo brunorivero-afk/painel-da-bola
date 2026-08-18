@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "18/08/2026 09:36",
+  "atualizado_em": "18/08/2026 10:38",
   "jogos": [
     {
       "sport": "futebol",
@@ -554,31 +554,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.1,
-      "temp_min": 18.2,
+      "temp_max": 27.2,
+      "temp_min": 18.4,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
       "temp_max": 28.7,
-      "temp_min": 19.6,
+      "temp_min": 18.8,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.0,
-      "temp_min": 13.0,
+      "temp_max": 23.6,
+      "temp_min": 13.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.3,
-      "temp_min": 13.1,
+      "temp_max": 25.2,
+      "temp_min": 13.5,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
@@ -598,14 +598,14 @@
       "data": "18/08 12:20"
     },
     {
+      "titulo": "Fluminense toma decisão sobre novo técnico antes da Libertadores após Marcão ganhar força - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjN5VDdxLXZ3eUFpNEhlZXBZMm5UVGRRaWZNRFBuaXBGM0xNZ29xQ080MTRYZXZMalBSb204cmx0YVZKVkZmNzBPNE43czIzUXRYaGIteG9XZlVVUV90WXRCbDA0ZUR6RXFJQ0VHdGpMbnBnR051THRjYXFrS3Jua2cxVGVORUF3WmM4eXVEQUhkMFducTF4aEMwYXJXNFVtQmRRSWF4WllNSWt1cmJXUXhGeTFzM1k?oc=5",
+      "data": "18/08 12:30"
+    },
+    {
       "titulo": "Fluminense decide vaga nas quartas da Libertadores contra o Independiente Rivadavia - Jornal de Brasília",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnpvMWRELTlVU2Q1SjVDcE1kTDhKVVRyT1F4cGZmMWNGeW5KUmdmbl9ZUnFhRmFwekg0SlMxaWhPQ2hleDA0eXc1WnpMS3VLcjZrN3JBWWVEZk1BWWxqbzBFUWZyLVVBT2FVSTduQ05ueGtOZHluRDlpMXZxTlY5ZzhFR0F5RXAzU3l0Nm9XVHl4eGwxQzVNY3Q1SUZxYXJCd3ZBbVlVd0cxRVJ4WTdEU09PTm1DX3NuT2Fza2hnUE9Bdw?oc=5",
       "data": "18/08 10:10"
-    },
-    {
-      "titulo": "Fortalecido, o Fluminense vai até Mendoza para tentar derrubar o Independiente Rivadavia - A Tribuna",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3pBemZUN2pjZlZQY0luZFAxZHhYdzVjQ1FVT0N3MFFueWM0WUdwVkVKWkRPdFpScmFQekhoMGhLd1dEaVhrbGdHZThuZVpPNDVndThoUWxtTW1zQlRqOXJ5ajVKbWQxbHV5NXJON08tMmxraU12YnFPSGhSWC0ycER6SW9EVWItTVVrcjZuTjdUdHhxSkkzczVUSXZVbWQwQUpjSXFQQUdfMHIwcUJ6RTFkMjZKQ2Z5SHdDbHJIX1VsMmNXbHFLYkdFeTBnSkd0eWpEdXVmSFRtQURkUm5yWQ?oc=5",
-      "data": "18/08 10:38"
     }
   ],
   "avisos": [
