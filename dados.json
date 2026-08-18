@@ -1,28 +1,6 @@
 {
-  "atualizado_em": "17/08/2026 21:57",
+  "atualizado_em": "17/08/2026 23:15",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-17",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Internacional x Remo",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-17",
-      "time": "20:00",
-      "competition": "Brasileirão Série C",
-      "match": "Guarani x Ypiranga-RS",
-      "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-17",
@@ -84,6 +62,28 @@
       "channels": [
         "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-17",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Internacional x Remo",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-17",
+      "time": "20:00",
+      "competition": "Brasileirão Série C",
+      "match": "Guarani x Ypiranga-RS",
+      "channels": [
+        "SPORTYNET",
+        "CANAL DO BENJA"
       ]
     },
     {
@@ -311,19 +311,19 @@
       "data": "17/08 00:24"
     },
     {
+      "titulo": "Escalação do Fluminense: Marcão aprova teste contra o Palmeiras - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkRZTTZwT1FVVGtxblBUUDY2eDdGcXcyTHY4VVAyUE5jQmZMVFhQcjkxTXBkMEhHMkVKYVZvM3Jqa1dZbThCXy1iZGlmLS1kTnhZMTdMcTZYbEhHNS1hYmdZNE9qWm5QYVV6YkxJY2c4V0pYbGNSYUNxbXhZX3VfODNHNTNxUXlreFNQSmVlbkM4eDNxVnhrdjJKVjNSNE4tU3JRTFRn?oc=5",
+      "data": "17/08 22:00"
+    },
+    {
+      "titulo": "Guga explica mudança no Fluminense: 'Não é fácil' - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFJHX3E2bl9vT1dQN3doU1VUdFpkVW1sOHlUTmc2b28tNWs2SjBJYU5iRDljbDAtS3dfcjBHV3hTU3IxWGhQZ0xDSHVqWnF4YlR1QU53SzNfN1Q0c3dGSGRab2tMdTBaQkxOM0FaZmFCR194RUE3RWh3Zk11V1VFSXBQODBGckFQbVpUVmVtT1VJNk5tM21ZNU5Fb3pLc0U3TGRMdjJxRXR4Z0RZbmpKXzU4RVlBcnJE0gG-AUFVX3lxTE9DRV9WRWRLSUE0ZGdjcjZSNTBoZ3F2MURYeTlWNWRMOGFaNXF0MnZlV1ZPRW51UG1nTGt4el9fMTZNY3Q5cmFXX1drcmJOdkVIaDVqLUJNU3V6cVh5SGt0WDY5SS1kWFd1amZhOFV1VEZlYmxqLVRmX3RJck1aSnBIZGFxbmNmV2tUU1NKZVZwaC03Z3g4TE9KczBvWE5rckNZWHJoYklYekU2QVQ3bHJlMzBrVUhSTEVNNHZGNGc?oc=5",
+      "data": "17/08 22:30"
+    },
+    {
       "titulo": "FLUMINENSE DEVE REPETIR O TIME QUE VENCEU O PALMEIRAS. - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0ZxRndyblMxRnJTUHdkd1pvV25CQlI4bDd2Q09rc0lHN1R3RXRZOHV1Y1M3djRORHFyM09mbUhPelJ2TTBnY3ZYTVFsQVVjbnMzWjJhcVdKMmlTWVFWN21fR1lEZGRFN0Jxbk55VzE3SHlSZWNYOVhFRTlZcW5IcnptV3VNdkQteW94NTB4RjFfOXpJX0ZuLQ?oc=5",
       "data": "17/08 23:51"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Marcão aprova teste contra o Palmeiras - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0RLWG5MOXNUSzdMa0ZheHNoak53VTVjSU1vNWRBNm90b28zaVRzT01jWEQzaWhZLTc4VzF3cXVudkZtOC0wdUgwMFJXX3VzWXNhTE1LNEQwQXhIX1JQYk4zMjAwenhid2t6blBYSEhQSDM1cXlQUGlJZFBhbmNsLWZrc2FaVElhbTVtVVNDN2cxbktSVmROR3FsTG5IZkRuUTdOSFYwb0JMYXh3dVhxdC1MMVdfVndSUUNKVXFWU1lmQ3lDTm54QlpYNlhPQdIB0wFBVV95cUxQVktkSlAtX0ZNMVV4OGlkOTBFZGVGMDRRMnI3Y1BNQlNRSjN1VXluQVBtN1lmNS1URW1ZRExzcFoyZTQ4dDA4anFIb0EtRWVEa18tRTVGOU45elh0YlktNDJSaUZfTGxTX2pmYXpvaUVvTFpJcWQ3c3dsempMUzgyX2RBZ3pZOFdwNWFGbGlhVDBSSkF4X2RNZWVkRmt6ZngtTENiM1JnUEdCa2U3SzYydDZ4bDBhQnJ3R1Y1ZWUtQWh3T2M2M2RDZ2hRdTVpM0NGVEtJ?oc=5",
-      "data": "17/08 22:16"
-    },
-    {
-      "titulo": "Ex-Fluminense estreia no futebol árabe com gol e vitória - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDB6azhUZDZyalJubVpsZ2kteFc5UGdSSENYV2d0NWxmV29hSnl2M1BlenBTcmhkbjJTc3pweXpIN1Vtd0lsWUw4UjNwRXBoYkpCaXlWZGxadG9VMDMtYWZxMkNpVngxSUtVZUZHSS1KNHNqZVRNWWZTTGEtVGJaNXAwS1NDaHNpM3lVekYzRUNNODFrMy1FWDBMSGlfNzVtTDlqdlJ0UlowQQ?oc=5",
-      "data": "17/08 20:34"
     }
   ],
   "avisos": [
