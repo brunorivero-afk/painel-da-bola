@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/08/2026 20:18",
+  "atualizado_em": "17/08/2026 21:57",
   "jogos": [
     {
       "sport": "futebol",
@@ -21,17 +21,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTYNET",
         "CANAL DO BENJA"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-17",
-      "time": "20:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ferroviária x Paysandu",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
       ]
     },
     {
@@ -95,6 +84,17 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-17",
+      "time": "20:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ferroviária x Paysandu",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -301,7 +301,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge.globo.com",
+      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb2RJRUZCMVlfNG1EV1RueTVzRW8zRWw1S3c4NkFqRXE3V1pla0pZWklSRWotaG1yZ1VSV2llLUxHZU4zdmdELWlrc2VQbnAtREdXeEVWMzRpZWh4SnNoWDV0c25RMk1POUFoR2tGejhqQmhDbUxOQTlWTW1WZUg1UDhzN3V3amc5SWhiZ1FpTWoyaVlWUG5BczkwMUJPREFXZTJNSno2VDM0RWMtZU5FUFdnX1F1U29tdERFNmtBdXhvMWFaeG1RbU9Tbkx2aU5qM1NldkxXbF9vVk1CejAtMDRSNktXNEtqWDYzM2gwd0t2aGdqN21Ya21OMm5DbTdMUlBrcUwzc9IBlgJBVV95cUxQMDNLM1FfNTdLYjRHb2tZRjI2X3VNbTlqMm5HNFEzMjBUTXlPeFFQdmtCeEtRSmhKM2J6UDdlSnhhdEduQ1I1RDlPUmtUeC05WDFwZkhYUGprRmw1RTNjOUtLcTZoZ09Yc3NqT3ZUeW1zMUJKc1FfV0RNWE1IRDM3WW9rNVNqSlQtdjVwMVdadzA1eVViS0MzeHhkMk9sVFBZa0Yyc3JZTFllaG1ZNlZ6b0xhV0YyWm9wcVNZMTV5M0JvTlNqSjBZNDk3SG9qMHVEbjBzTFRqaUYyUlZaSGZqcjdFbk5PWE5SdDVBbVM2ZjEyTFJIQXVpVVVrMkYxNjFyalF3bFpYTHlocTQ5UjZhMHlYU2d3dw?oc=5",
       "data": "17/08 07:00"
     },
@@ -311,19 +311,19 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Por que André, ex-Fluminense, decidiu ficar no Wolverhampton após o rebaixamento? Entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNY2dwN3lPQVJKX05ONlhRbElWUnVBcVdMNEhoUmVja3JWb1h4cGdVZWJVYWlCRF80cV9UbG55RkZLendVemFWNmNSNGlEYTZ3R2hQR1dRTkFlT3BseEI0RTZjYkNLS0VaZjVMRm5vZHB4MTJWTGZNb1l0OHViTUFpSk9tX0FMZU5id09CTVNpa2MwWmRmNF9vbW1jTU9wdnktUy1nekFoUmNHRkRkcWdsZlhDM0VqMXI2eDFhWmtmY2FnVlRqVVdWdW1RNUw3YnRzVGYxNVJEVVlKUlJxckhqc3NGNEhsTjAyMjg3ekhZNGxXb05fRFhqaEFic2pDRnl2SXJtWA?oc=5",
-      "data": "17/08 19:26"
-    },
-    {
-      "titulo": "Ex-Fluminense comemora gol em estreia no futebol árabe - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDB6azhUZDZyalJubVpsZ2kteFc5UGdSSENYV2d0NWxmV29hSnl2M1BlenBTcmhkbjJTc3pweXpIN1Vtd0lsWUw4UjNwRXBoYkpCaXlWZGxadG9VMDMtYWZxMkNpVngxSUtVZUZHSS1KNHNqZVRNWWZTTGEtVGJaNXAwS1NDaHNpM3lVekYzRUNNODFrMy1FWDBMSGlfNzVtTDlqdlJ0UlowQQ?oc=5",
-      "data": "17/08 20:34"
+      "titulo": "FLUMINENSE DEVE REPETIR O TIME QUE VENCEU O PALMEIRAS. - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0ZxRndyblMxRnJTUHdkd1pvV25CQlI4bDd2Q09rc0lHN1R3RXRZOHV1Y1M3djRORHFyM09mbUhPelJ2TTBnY3ZYTVFsQVVjbnMzWjJhcVdKMmlTWVFWN21fR1lEZGRFN0Jxbk55VzE3SHlSZWNYOVhFRTlZcW5IcnptV3VNdkQteW94NTB4RjFfOXpJX0ZuLQ?oc=5",
+      "data": "17/08 23:51"
     },
     {
       "titulo": "Escalação do Fluminense: Marcão aprova teste contra o Palmeiras - O TEMPO",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0RLWG5MOXNUSzdMa0ZheHNoak53VTVjSU1vNWRBNm90b28zaVRzT01jWEQzaWhZLTc4VzF3cXVudkZtOC0wdUgwMFJXX3VzWXNhTE1LNEQwQXhIX1JQYk4zMjAwenhid2t6blBYSEhQSDM1cXlQUGlJZFBhbmNsLWZrc2FaVElhbTVtVVNDN2cxbktSVmROR3FsTG5IZkRuUTdOSFYwb0JMYXh3dVhxdC1MMVdfVndSUUNKVXFWU1lmQ3lDTm54QlpYNlhPQdIB0wFBVV95cUxQVktkSlAtX0ZNMVV4OGlkOTBFZGVGMDRRMnI3Y1BNQlNRSjN1VXluQVBtN1lmNS1URW1ZRExzcFoyZTQ4dDA4anFIb0EtRWVEa18tRTVGOU45elh0YlktNDJSaUZfTGxTX2pmYXpvaUVvTFpJcWQ3c3dsempMUzgyX2RBZ3pZOFdwNWFGbGlhVDBSSkF4X2RNZWVkRmt6ZngtTENiM1JnUEdCa2U3SzYydDZ4bDBhQnJ3R1Y1ZWUtQWh3T2M2M2RDZ2hRdTVpM0NGVEtJ?oc=5",
       "data": "17/08 22:16"
+    },
+    {
+      "titulo": "Ex-Fluminense estreia no futebol árabe com gol e vitória - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDB6azhUZDZyalJubVpsZ2kteFc5UGdSSENYV2d0NWxmV29hSnl2M1BlenBTcmhkbjJTc3pweXpIN1Vtd0lsWUw4UjNwRXBoYkpCaXlWZGxadG9VMDMtYWZxMkNpVngxSUtVZUZHSS1KNHNqZVRNWWZTTGEtVGJaNXAwS1NDaHNpM3lVekYzRUNNODFrMy1FWDBMSGlfNzVtTDlqdlJ0UlowQQ?oc=5",
+      "data": "17/08 20:34"
     }
   ],
   "avisos": [
