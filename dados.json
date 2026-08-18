@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "18/08/2026 15:30",
+  "atualizado_em": "18/08/2026 16:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -554,28 +554,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.2,
+      "temp_max": 27.8,
       "temp_min": 18.4,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.7,
+      "temp_max": 29.2,
       "temp_min": 18.8,
       "chance_chuva": 0,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.6,
+      "temp_max": 23.4,
       "temp_min": 13.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.2,
+      "temp_max": 24.8,
       "temp_min": 13.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -593,9 +593,9 @@
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Fluminense divulga time com Freytes para decisão na Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWYzWnpyMnplOVBzZDVpRG50WWZnLVA4UWhobHNMMVJDQjA1Z1RfZjk5bFFFWW93T0pqZy04VW1xVk9jR3BtbkN0REFSdmJzRlpzUzc1TEE1QUcxdmpRdS0zRUlaTV9YeUFuS05PTkluV0tBRUJrSE4wRUx0Nm9vSXZ0RzYyODFOcDFUQ1JlMGRqTjFtY0ZqWFFldGJfMVZZNzJyWU5IeE0?oc=5",
-      "data": "18/08 17:22"
+      "titulo": "Fluminense ganha vantagem com 'problema' do Independiente Rivadavia - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWxQcXNOS0RZdjVkR05xeW05RVVJZy1WSDhQeTkwYjJpVmRPX05YSDluMXlYYkZMelBxeTZvcUY3Wmtjd0ZhczFELWdFalRiLXE3enpfVDZZYWRhLUFsQTd0YVNyWGF1MU9oWFRQaGtZbFJUNzFkS2tzMWtfWnN3Z002NFNzN1JBNFo0ckRiSVd6ZDlJM3FEMkhCeTNVNDVIdksybnFhYTVEQQ?oc=5",
+      "data": "18/08 16:37"
     },
     {
       "titulo": "Rivadavia x Fluminense: veja quantas vezes o Tricolor passou nas oitavas da Libertadores fora de casa - Terra",
