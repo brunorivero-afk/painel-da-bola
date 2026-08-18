@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 11:28",
+  "atualizado_em": "18/08/2026 12:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,9 +583,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense avalia técnicos, mas confiança em Marcão ameniza pressa e concentra foco na Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTjZJWktSczZWS2dkQ3dZOVBCaHFVRm5zSzRNWTdneXhoc2U2b1JMT1M0TWtNVnBWYXl5Y1Vfc2pPOEFEQURDaTBPRGFfSFo2ZmRtSXlTUDV4TVpzaU9ja1dWTF9vOXBkU3ktRi1yMnpVakJyT0VfeVR4dEw5ZmtwX1ItQ3kzNkJEaXZ6c1RUS1lCc1BFYWNFSnJMeWpJR2xQRkpGUlI0U05MNFpZZi1veEdLakViTkpXZ2lqZENMbFBIcEdKbnRKdmp6WmdzOTVTTW53RnQxaFJuUHdKVVZBcGd3SEp5WEpQMGdGMmc1cXVzUEgyVksxOXpfX1FlQdIBjAJBVV95cUxQQl9lc3c5LU5ORFo4LWpuR3AyVUszQjRZLU5MRXZJVU0wRThTZ01kUHVmZDA4S2M1V1g0ZS01ejFGbWRQbU9VTmdrdTFyWE5xU3ZHeEc0QTJ4eEZ4LWVudlpaVUJpRG13VFRiYkRTeUVtLWVMTzlMMUJFWnlmQzZSOVpQV1dNRHp6eVBxbVkxa2ptQ2p1RGNxWnFyZk1nc01uT3pnck9YbjlRTVU4V0NsZ05JWDRIbDJQcEwwV3RoY3gwZ0dPOWpiTVRvY2dXSV9oWl82OHd5UDF4WkhfcU90VjJ2VUxvNkpYeG5tRFRxT2dQSFJSM2dMRVEzUGlyQ1N4WDBjNkNzSWgybFU5?oc=5",
-      "data": "18/08 07:00"
+      "titulo": "'Basta acreditar': Fluminense chega renovado contra o Independiente Rivadavia para escrever nova história na Libertadores - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcDhqV2M5dWlZUjNyV05XVm1fVlEySVZiZVhseWl1Y0RNQ3BEeVlubWthaFlZUl9ZNkgtQmExcWxlSDVMSHoxcGtza0Y2Vm5HZ0pibGxYbHQxbHdMdFN3eVo2S0RPdVlwVFNpQjRCNUh6N3pzb2o5cjc2dWgyamZFUDZRWlhfYTA5YjZQZkh2eEMwVjVQbUlyVV83ODFtZkduZUY2d2ltckpwQUxHenQ4Nl9MWkV0Tk9sdzBhUzdmWUtqbldkUTFFS2tjTEE0eFpTdDVmZlZYTlBPQjFlcS1NY0Zfd2lWZWF5OUp2Nzd0YzRmaXJmcUlUbjdWa2NRUmFzUV8wdTA0X3lnaVEwWXVzM0dDRDE0Uk9wdmY1RFRPbElrQdIBsAJBVV95cUxQcmRmY1gxRmpaYmdQM2JqOF84WmZSUE1kWnZvRjJwLUUxWTZsYWhpMGlRS3NKQmdXNGg1MnZuNmNqWGd6eC16Znhxc29yeThzbTVGOUlkcXpqYjFrWTN0aXktOWJfTXFqR1VXWVZMSWhGVGU2VWRKSjk1M2gtSHppUEpka0F6V254Z1F5RnlBdW1NWHJ2Q3dDWE1OZ2pGMDJqM0piaGtnX2NOalNsMV9ubklXalVxWWM5YWxrbUVMTzhwZFU3SkVpcEktS2lDQ25FRXMwRE85Y1gtU3hpMWR4RHZvZFlZOGNiVzRaT1AtbmxrZGJaSXNoNE9XQWVVS0wwN1BJM2hsc3g4VmpqTVhjTTUtWWMySzNVRHB2M1ZwYnlCNHJXMGtObkVOMC1GWDB2?oc=5",
+      "data": "18/08 05:00"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -593,14 +593,14 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "'Basta acreditar': Fluminense chega renovado contra o Independiente Rivadavia para escrever nova história na Libertadores - oglobo.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcDhqV2M5dWlZUjNyV05XVm1fVlEySVZiZVhseWl1Y0RNQ3BEeVlubWthaFlZUl9ZNkgtQmExcWxlSDVMSHoxcGtza0Y2Vm5HZ0pibGxYbHQxbHdMdFN3eVo2S0RPdVlwVFNpQjRCNUh6N3pzb2o5cjc2dWgyamZFUDZRWlhfYTA5YjZQZkh2eEMwVjVQbUlyVV83ODFtZkduZUY2d2ltckpwQUxHenQ4Nl9MWkV0Tk9sdzBhUzdmWUtqbldkUTFFS2tjTEE0eFpTdDVmZlZYTlBPQjFlcS1NY0Zfd2lWZWF5OUp2Nzd0YzRmaXJmcUlUbjdWa2NRUmFzUV8wdTA0X3lnaVEwWXVzM0dDRDE0Uk9wdmY1RFRPbElrQdIBsAJBVV95cUxQcmRmY1gxRmpaYmdQM2JqOF84WmZSUE1kWnZvRjJwLUUxWTZsYWhpMGlRS3NKQmdXNGg1MnZuNmNqWGd6eC16Znhxc29yeThzbTVGOUlkcXpqYjFrWTN0aXktOWJfTXFqR1VXWVZMSWhGVGU2VWRKSjk1M2gtSHppUEpka0F6V254Z1F5RnlBdW1NWHJ2Q3dDWE1OZ2pGMDJqM0piaGtnX2NOalNsMV9ubklXalVxWWM5YWxrbUVMTzhwZFU3SkVpcEktS2lDQ25FRXMwRE85Y1gtU3hpMWR4RHZvZFlZOGNiVzRaT1AtbmxrZGJaSXNoNE9XQWVVS0wwN1BJM2hsc3g4VmpqTVhjTTUtWWMySzNVRHB2M1ZwYnlCNHJXMGtObkVOMC1GWDB2?oc=5",
-      "data": "18/08 05:00"
+      "titulo": "Fluminense toma decisão sobre novo técnico antes da Libertadores após Marcão ganhar força - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjN5VDdxLXZ3eUFpNEhlZXBZMm5UVGRRaWZNRFBuaXBGM0xNZ29xQ080MTRYZXZMalBSb204cmx0YVZKVkZmNzBPNE43czIzUXRYaGIteG9XZlVVUV90WXRCbDA0ZUR6RXFJQ0VHdGpMbnBnR051THRjYXFrS3Jua2cxVGVORUF3WmM4eXVEQUhkMFducTF4aEMwYXJXNFVtQmRRSWF4WllNSWt1cmJXUXhGeTFzM1k?oc=5",
+      "data": "18/08 12:30"
     },
     {
-      "titulo": "Fluminense contrata atacante e quer mais um para reforçar o time principal - Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ29XN2o5SmN4ODJscXNORzE2TEtXVWIza0NZWENSa0dWcUxoVDZJRmgxemZyaHRCZ09XdjVxVXZKQ293WXNhWlRQRGdLbHB0R3Q5M2pJNkpfQVVXMHVFUnYtRXV6VHVuM2tvSlBnMWpiUXRQSUtValZpRTNBeWVNMjEyT2t0NG0wejNSSWJwSEpxV1BTa0xkRG1SRm14cWhNRm13VVhobnN5VlZ1VFV5QWF3c2tsMlE?oc=5",
-      "data": "18/08 10:01"
+      "titulo": "Heróis da América do Fluminense trazem esperança de volta antes de decisão na Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3Q3Q2ZlSG5LWEJYbFBzRlF3X0h6ZGliSEdCYlpnSzRkbFRBZGFyNXVPanQ5VWltOTkyNEFMRDBpTTRqeFFFTVN2Rmw5Qml2U1ZwbUozbGFod2hZVzl1aUlaZ1FiMG5hYV8xdC1RNVhtR19DUVZ5eXVSbzAyRzlGUmEzQlN3WWhSTnJqazBkbi1ySTJIWGx5aWVWNVhSX2tDaDRmaWhFdTRJUGpqX2p2NS1UYkF5NUNVX25HNGgya2g0QXNfRnZ5OXF5dkFDVmpFMGZNaDFGREcyTDI5SWxwSGJ3Ym1sZHNvdUxLZ3o0N1MyZEnSAYICQVVfeXFMT2hQLTJra1JkUFJEMUw0bWczRUlUdWR3Tm00aU15c2VqYlIxRWZtVERjVFNsNjB0VThIbDRxZ1ZyR1Q3UUJxRUlxZWVkMnpEMmRBWlFCNlZwdC1lRkRjNXhGS3pfbi0yX3lfUFFEUWdGWkwycFREZEtlUDNMRGhKeHBKTWNDdnlVOHBzNEY3S3B4UGlNVGtFTUZzY21NbE9sSG5VSHJlR3gxZFVWM1EyTXhqV2RyY1lsOWVWLUI2Qkhaa0hQNU1kTlZQeGZvOU1uLVZoc3p1eE4zN3QwYTRRZk13Q0hfV1Z1YmU2RFNaREt4QmNJeVp6bGlXRmJYaFFnTzBn?oc=5",
+      "data": "18/08 11:00"
     },
     {
       "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
