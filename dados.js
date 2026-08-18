@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 14:22",
+  "atualizado_em": "18/08/2026 15:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,8 +583,8 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "'Basta acreditar': Fluminense chega renovado contra o Independiente Rivadavia para escrever nova história na Libertadores - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcDhqV2M5dWlZUjNyV05XVm1fVlEySVZiZVhseWl1Y0RNQ3BEeVlubWthaFlZUl9ZNkgtQmExcWxlSDVMSHoxcGtza0Y2Vm5HZ0pibGxYbHQxbHdMdFN3eVo2S0RPdVlwVFNpQjRCNUh6N3pzb2o5cjc2dWgyamZFUDZRWlhfYTA5YjZQZkh2eEMwVjVQbUlyVV83ODFtZkduZUY2d2ltckpwQUxHenQ4Nl9MWkV0Tk9sdzBhUzdmWUtqbldkUTFFS2tjTEE0eFpTdDVmZlZYTlBPQjFlcS1NY0Zfd2lWZWF5OUp2Nzd0YzRmaXJmcUlUbjdWa2NRUmFzUV8wdTA0X3lnaVEwWXVzM0dDRDE0Uk9wdmY1RFRPbElrQdIBsAJBVV95cUxQcmRmY1gxRmpaYmdQM2JqOF84WmZSUE1kWnZvRjJwLUUxWTZsYWhpMGlRS3NKQmdXNGg1MnZuNmNqWGd6eC16Znhxc29yeThzbTVGOUlkcXpqYjFrWTN0aXktOWJfTXFqR1VXWVZMSWhGVGU2VWRKSjk1M2gtSHppUEpka0F6V254Z1F5RnlBdW1NWHJ2Q3dDWE1OZ2pGMDJqM0piaGtnX2NOalNsMV9ubklXalVxWWM5YWxrbUVMTzhwZFU3SkVpcEktS2lDQ25FRXMwRE85Y1gtU3hpMWR4RHZvZFlZOGNiVzRaT1AtbmxrZGJaSXNoNE9XQWVVS0wwN1BJM2hsc3g4VmpqTVhjTTUtWWMySzNVRHB2M1ZwYnlCNHJXMGtObkVOMC1GWDB2?oc=5",
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
       "data": "18/08 05:00"
     },
     {
@@ -593,19 +593,19 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
+      "titulo": "Fluminense divulga time com Freytes para decisão na Libertadores - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWYzWnpyMnplOVBzZDVpRG50WWZnLVA4UWhobHNMMVJDQjA1Z1RfZjk5bFFFWW93T0pqZy04VW1xVk9jR3BtbkN0REFSdmJzRlpzUzc1TEE1QUcxdmpRdS0zRUlaTV9YeUFuS05PTkluV0tBRUJrSE4wRUx0Nm9vSXZ0RzYyODFOcDFUQ1JlMGRqTjFtY0ZqWFFldGJfMVZZNzJyWU5IeE0?oc=5",
+      "data": "18/08 17:22"
+    },
+    {
+      "titulo": "Rivadavia x Fluminense: veja quantas vezes o Tricolor passou nas oitavas da Libertadores fora de casa - Terra",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb09uTWpKVXJUdkFYazhyR1NrTkg4MnBQU1pLbGo1WVlvXzhzOUVSdWh6VFNwZEUtZjBENDJtcmJNVWdIRVBFVVh5aHFvY0hTYUV4NEdOb1MxSk81MU96RjRFbmZqTlpLWVp0RF9maVlwblFnRFhBRnRpUWJKMndadWhyTU9WWF9kdUhhX3NYM0xLZ0VKaFczS0VhcHlNLWhMcVFnc2ZSQWtqZjNFZ2UwanhIcUJPa3M2X1lsb1V3U0pvY2hnbE41dEhlZ3JnNHdibWpFSWZmREJrUlNuVWFvVjJoSGI1a2RKb01xYU84Y2JlMlZPWkhkd3NMa0FSS2U0UW95elJ1Rm5sdHBOSWl6MmM5VmtLV3c?oc=5",
+      "data": "18/08 17:17"
+    },
+    {
       "titulo": "Corinthians x Fluminense: onde assistir ao vivo, horário e mais pelo Brasileirão Sub-17 - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTZuUlNfSmtYbUlxbS1EX2w2ek5mbHc4Zi1lU0xld1NwSnlvZllkV0VPaHJMSnQtLWx5VXhVb09iSzJCSlpUM2F4Q1Q0SE1SOUZiQTBVM1pwZWN2dDRwVnc3VmJWa3lRNkppMC1Ec1Qzc1JCOHJoNFkzVko5cnhheldMbXlxNG5QR2FVamg4N1l0ajZlVzNXZzRQV3VZTlJFdDFpRnpnaC1OZkU2N0RpOEVn?oc=5",
       "data": "18/08 14:42"
-    },
-    {
-      "titulo": "Fora da decisão, Freytes viaja com o Fluminense para apoiar elenco e reencontrar ex-clube - GE",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeHF2d1RDMHpqMXlud0pQeE5GeERjdld2a3RtdXdGQllRdmpPanY1SDB4NjBLTUU0N3lJb1NyblhMMldNNWVuWFNuR0xLZVVnUEtpc2JOYnE2NHlBQ2pzRk5wdjhuZ1VhQl85VGNNcjloQ0VFbXV0ZkF5WEdKd2w3M0dEc3pRUGdzZTBnNmVFTE85Y05VZ3p6VzRBN0M1eVZ4OWRCamFUOEhNbkJCRzZiMV9XXzBBbVBEZjJJMXBhdEF4TmR5Y201VmhhOTJSbU56SkxkaWl3SnkxaVNRWl9GMEtHWjEwWUtNcWtVOFB2eUHSAf8BQVVfeXFMUGVMVmZBMGRWZGFHRTBwdk1nMUZYZ3dLMU9QMVVQbzhxbzFvT1JsME01Vi1LZDJycDJVaHlpbzRPUzFQT0pzN0daVkR3bE1LRkVXMzZFT0FGVGhpWDhienZnVUlac2hrU1cwUHVsU0xGQ2lFcTZWVDRWWEIzRFdNNkZ5V05rSVgzZzB3N2lvY0ZnU0ZUV0Qza2VIbFBJTUtRcEJFejRlanQ4d0o2R0w3eVhXUDhKUlYwSGFnVERQa3RiblFPSzVYanNjekMxb3U1X1YyNDdScWFhWkRvVU1LZnh1eGo1UzVhaVpRQ0FHMkpNal9reGJTbHprSXJiUFBv?oc=5",
-      "data": "18/08 17:00"
-    },
-    {
-      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
-      "data": "17/08 17:39"
     }
   ],
   "avisos": [
