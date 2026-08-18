@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 03:34",
+  "atualizado_em": "18/08/2026 04:33",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,7 +583,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge",
+      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb2RJRUZCMVlfNG1EV1RueTVzRW8zRWw1S3c4NkFqRXE3V1pla0pZWklSRWotaG1yZ1VSV2llLUxHZU4zdmdELWlrc2VQbnAtREdXeEVWMzRpZWh4SnNoWDV0c25RMk1POUFoR2tGejhqQmhDbUxOQTlWTW1WZUg1UDhzN3V3amc5SWhiZ1FpTWoyaVlWUG5BczkwMUJPREFXZTJNSno2VDM0RWMtZU5FUFdnX1F1U29tdERFNmtBdXhvMWFaeG1RbU9Tbkx2aU5qM1NldkxXbF9vVk1CejAtMDRSNktXNEtqWDYzM2gwd0t2aGdqN21Ya21OMm5DbTdMUlBrcUwzc9IBlgJBVV95cUxQMDNLM1FfNTdLYjRHb2tZRjI2X3VNbTlqMm5HNFEzMjBUTXlPeFFQdmtCeEtRSmhKM2J6UDdlSnhhdEduQ1I1RDlPUmtUeC05WDFwZkhYUGprRmw1RTNjOUtLcTZoZ09Yc3NqT3ZUeW1zMUJKc1FfV0RNWE1IRDM3WW9rNVNqSlQtdjVwMVdadzA1eVViS0MzeHhkMk9sVFBZa0Yyc3JZTFllaG1ZNlZ6b0xhV0YyWm9wcVNZMTV5M0JvTlNqSjBZNDk3SG9qMHVEbjBzTFRqaUYyUlZaSGZqcjdFbk5PWE5SdDVBbVM2ZjEyTFJIQXVpVVVrMkYxNjFyalF3bFpYTHlocTQ5UjZhMHlYU2d3dw?oc=5",
       "data": "17/08 07:00"
     },
@@ -593,19 +593,19 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
+      "titulo": "Sinais? Fluminense se hospeda na rua 'Rivadavia' para decisão na Libertadores - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnBhUHdjZGFZazZWZl9qLXhZdFVERzV2NllVc2JzdUdINXVwdnc1TTczbVczb0R3THhLTm9nenlwOUdnSUY1R19hbW5NQk1xcTdraTFhbjBJRFVlWHdWTjJ2M25meFlUajdBd2E4QTdYSFhJZWF1UWlDZUcybXAyakl5MFAzV3FlaE9EM1k3WkZLMGt5N0NwWF9RRVRmOVRoSnB4ODNjR2pHQ2thUUxLY3Z0TVY0Zw?oc=5",
+      "data": "18/08 07:06"
+    },
+    {
+      "titulo": "Fluminense avalia técnicos, mas confiança em Marcão ameniza pressa e concentra foco na Libertadores - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTjZJWktSczZWS2dkQ3dZOVBCaHFVRm5zSzRNWTdneXhoc2U2b1JMT1M0TWtNVnBWYXl5Y1Vfc2pPOEFEQURDaTBPRGFfSFo2ZmRtSXlTUDV4TVpzaU9ja1dWTF9vOXBkU3ktRi1yMnpVakJyT0VfeVR4dEw5ZmtwX1ItQ3kzNkJEaXZ6c1RUS1lCc1BFYWNFSnJMeWpJR2xQRkpGUlI0U05MNFpZZi1veEdLakViTkpXZ2lqZENMbFBIcEdKbnRKdmp6WmdzOTVTTW53RnQxaFJuUHdKVVZBcGd3SEp5WEpQMGdGMmc1cXVzUEgyVksxOXpfX1FlQQ?oc=5",
+      "data": "18/08 07:00"
+    },
+    {
       "titulo": "'Basta acreditar': Fluminense chega renovado contra o Independiente Rivadavia para escrever nova história na Libertadores - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcDhqV2M5dWlZUjNyV05XVm1fVlEySVZiZVhseWl1Y0RNQ3BEeVlubWthaFlZUl9ZNkgtQmExcWxlSDVMSHoxcGtza0Y2Vm5HZ0pibGxYbHQxbHdMdFN3eVo2S0RPdVlwVFNpQjRCNUh6N3pzb2o5cjc2dWgyamZFUDZRWlhfYTA5YjZQZkh2eEMwVjVQbUlyVV83ODFtZkduZUY2d2ltckpwQUxHenQ4Nl9MWkV0Tk9sdzBhUzdmWUtqbldkUTFFS2tjTEE0eFpTdDVmZlZYTlBPQjFlcS1NY0Zfd2lWZWF5OUp2Nzd0YzRmaXJmcUlUbjdWa2NRUmFzUV8wdTA0X3lnaVEwWXVzM0dDRDE0Uk9wdmY1RFRPbElrQdIBsAJBVV95cUxQcmRmY1gxRmpaYmdQM2JqOF84WmZSUE1kWnZvRjJwLUUxWTZsYWhpMGlRS3NKQmdXNGg1MnZuNmNqWGd6eC16Znhxc29yeThzbTVGOUlkcXpqYjFrWTN0aXktOWJfTXFqR1VXWVZMSWhGVGU2VWRKSjk1M2gtSHppUEpka0F6V254Z1F5RnlBdW1NWHJ2Q3dDWE1OZ2pGMDJqM0piaGtnX2NOalNsMV9ubklXalVxWWM5YWxrbUVMTzhwZFU3SkVpcEktS2lDQ25FRXMwRE85Y1gtU3hpMWR4RHZvZFlZOGNiVzRaT1AtbmxrZGJaSXNoNE9XQWVVS0wwN1BJM2hsc3g4VmpqTVhjTTUtWWMySzNVRHB2M1ZwYnlCNHJXMGtObkVOMC1GWDB2?oc=5",
       "data": "18/08 05:00"
-    },
-    {
-      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
-      "data": "17/08 17:39"
-    },
-    {
-      "titulo": "Ex-Fluminense estreia no futebol árabe com gol e vitória - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNDB6azhUZDZyalJubVpsZ2kteFc5UGdSSENYV2d0NWxmV29hSnl2M1BlenBTcmhkbjJTc3pweXpIN1Vtd0lsWUw4UjNwRXBoYkpCaXlWZGxadG9VMDMtYWZxMkNpVngxSUtVZUZHSS1KNHNqZVRNWWZTTGEtVGJaNXAwS1NDaHNpM3lVekYzRUNNODFrMy1FWDBMSGlfNzVtTDlqdlJ0UlowQQ?oc=5",
-      "data": "17/08 20:34"
     }
   ],
   "avisos": [
