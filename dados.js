@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 18:18",
+  "atualizado_em": "18/08/2026 19:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,14 +583,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Rivadavia x Fluminense: veja quantas vezes o Tricolor passou nas oitavas da Libertadores fora de casa - Terra",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb09uTWpKVXJUdkFYazhyR1NrTkg4MnBQU1pLbGo1WVlvXzhzOUVSdWh6VFNwZEUtZjBENDJtcmJNVWdIRVBFVVh5aHFvY0hTYUV4NEdOb1MxSk81MU96RjRFbmZqTlpLWVp0RF9maVlwblFnRFhBRnRpUWJKMndadWhyTU9WWF9kdUhhX3NYM0xLZ0VKaFczS0VhcHlNLWhMcVFnc2ZSQWtqZjNFZ2UwanhIcUJPa3M2X1lsb1V3U0pvY2hnbE41dEhlZ3JnNHdibWpFSWZmREJrUlNuVWFvVjJoSGI1a2RKb01xYU84Y2JlMlZPWkhkd3NMa0FSS2U0UW95elJ1Rm5sdHBOSWl6MmM5VmtLV3c?oc=5",
-      "data": "18/08 17:17"
+      "titulo": "Fluminense ganha vantagem com 'problema' do Independiente Rivadavia - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWxQcXNOS0RZdjVkR05xeW05RVVJZy1WSDhQeTkwYjJpVmRPX05YSDluMXlYYkZMelBxeTZvcUY3Wmtjd0ZhczFELWdFalRiLXE3enpfVDZZYWRhLUFsQTd0YVNyWGF1MU9oWFRQaGtZbFJUNzFkS2tzMWtfWnN3Z002NFNzN1JBNFo0ckRiSVd6ZDlJM3FEMkhCeTNVNDVIdksybnFhYTVEQQ?oc=5",
+      "data": "18/08 16:37"
     },
     {
-      "titulo": "Jornalista compara Fábio, do Fluminense, a outros goleiros do Brasileirão - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFdTUGJIMkFoVmNENUtrYnhITDlTbllsSFN0U2V5bER0cEZxX1hkRzJlemtvc3FLQlFsNU5mS3A0ak5ZOFZobk05UWtWS3NyVGV4alljNXFyUXFadFQxYWhUd3Z5OFI4NTRmQTdXWHlDeHhvcTVUX3RxVVk0WXNRejhhRzRkM2VjMGxNT0ZBbGNuVGlFNmJQRlNaT0V3cUU?oc=5",
-      "data": "18/08 20:15"
+      "titulo": "Ex-Atlético vira 'dor de cabeça' na Série B e volta ao Fluminense: 'Só Deus' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzAzZnJMbXdXUjlTQ2xsN2F4bVFzU3pxZk9xZjVIeDBraXRlTzIwMkJPYWJ4b09HRmMwR0FPaEV6aXQtOWJvZy1jMlBwLTdRQkRuWHdaVF9mODF5SU5VTEJEWVJiX25yRkItanp2em1HYU5RNmFPT19oZ0RLYWJ2YkF0RUZRZmVMaGZLQ2pVem1xbnh2MVBrQm1oX29Va1JrRWlyVC1LaFNvODBaZ3Bsald4QXJMaXF6QTUyM3pISzdaTkN0ZFlKZUtHakJFTDA?oc=5",
+      "data": "18/08 21:13"
+    },
+    {
+      "titulo": "Terans retorna ao Fluminense e passará por cirurgia - otempo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzJPTl9WV3oxSGpzNmh1V0Y4N2VzTWszYXFyQ29xY2Ywa3h0eTlacWVqcUFaNklzYl95ekNpS2h1Zno1S0ZHdU1lQVhBbjc0MXJZRVJvemNfcE9ndFBidFFNSXFReGdNVTBncE5DSHpTOGE4dExMbzQ1enNUWHl2YVlHVkRnc2c5X1MyLVItS0M0UTBkUVVoajhyb1lQb19QYmF3bTNtY1NjSE9zUTdXSEZWak1icGZuUmViZEVnQdIBxAFBVV95cUxQTXRXaDVOYlFZeF9xSThBcndISy0tSmRwVDIwYUZxak1INlBURWRMVGRCTl8zT1gzUjBrbmstZ2lWNF9GM2h2NFZhVDc1bk51dVY2eDJwS0pZaWlDTTZwREJHNVlQUi1nb1dtTFBiZFJ0NnRlbkM3bTBBSE1POF8tNDcyYnlQN3lFZWFEZXZwRTN4cmtLSWdieEE0cG5OY1RTdWZwWTBSdEZVS0VzYnpESHF6SEdRNnRGLWtLNU9URXRILXlq?oc=5",
+      "data": "18/08 21:30"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -598,14 +603,9 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Fluminense contrata atacante e quer mais um para reforçar o time principal - Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ29XN2o5SmN4ODJscXNORzE2TEtXVWIza0NZWENSa0dWcUxoVDZJRmgxemZyaHRCZ09XdjVxVXZKQ293WXNhWlRQRGdLbHB0R3Q5M2pJNkpfQVVXMHVFUnYtRXV6VHVuM2tvSlBnMWpiUXRQSUtValZpRTNBeWVNMjEyT2t0NG0wejNSSWJwSEpxV1BTa0xkRG1SRm14cWhNRm13VVhobnN5VlZ1VFV5QWF3c2tsMlE?oc=5",
-      "data": "18/08 10:01"
-    },
-    {
-      "titulo": "Depois de ganhar R$ 350 mil no Fluminense, esse é o salário que Walter aceitou ganhar para seguir no futebol - correiodoestado.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTTQ4M3NKeWZhcTR0M0M5MUp5RUFxaU1mVEUzZUVsZUxlWFZZYXZ6YmFBS0lycjFDWWU5ekdycW9pNExZei1DOVRmdnBfQnYyTEVDczRrcW15VWtkeHBXTXM5Z0FjNnp0TDk2LVR6LV9xd0dxbHUzUmtIbHU2Nm1objlQdG8za05xc1JuRnpEYXRuQ2tTV0RLSC04NEZGSjFzUFVCWUFxOGU5aUUtZ0tmZnM5NG96VWZXMGNWem12Q0E5WGZGS3dCRGxnWmhlR0UwMmFMN1pubEFCd1psdFpQaHlGTQ?oc=5",
-      "data": "17/08 18:22"
+      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
+      "data": "17/08 17:39"
     }
   ],
   "avisos": [
