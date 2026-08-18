@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 12:26",
+  "atualizado_em": "18/08/2026 13:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,8 +583,8 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "'Basta acreditar': Fluminense chega renovado contra o Independiente Rivadavia para escrever nova história na Libertadores - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcDhqV2M5dWlZUjNyV05XVm1fVlEySVZiZVhseWl1Y0RNQ3BEeVlubWthaFlZUl9ZNkgtQmExcWxlSDVMSHoxcGtza0Y2Vm5HZ0pibGxYbHQxbHdMdFN3eVo2S0RPdVlwVFNpQjRCNUh6N3pzb2o5cjc2dWgyamZFUDZRWlhfYTA5YjZQZkh2eEMwVjVQbUlyVV83ODFtZkduZUY2d2ltckpwQUxHenQ4Nl9MWkV0Tk9sdzBhUzdmWUtqbldkUTFFS2tjTEE0eFpTdDVmZlZYTlBPQjFlcS1NY0Zfd2lWZWF5OUp2Nzd0YzRmaXJmcUlUbjdWa2NRUmFzUV8wdTA0X3lnaVEwWXVzM0dDRDE0Uk9wdmY1RFRPbElrQdIBsAJBVV95cUxQcmRmY1gxRmpaYmdQM2JqOF84WmZSUE1kWnZvRjJwLUUxWTZsYWhpMGlRS3NKQmdXNGg1MnZuNmNqWGd6eC16Znhxc29yeThzbTVGOUlkcXpqYjFrWTN0aXktOWJfTXFqR1VXWVZMSWhGVGU2VWRKSjk1M2gtSHppUEpka0F6V254Z1F5RnlBdW1NWHJ2Q3dDWE1OZ2pGMDJqM0piaGtnX2NOalNsMV9ubklXalVxWWM5YWxrbUVMTzhwZFU3SkVpcEktS2lDQ25FRXMwRE85Y1gtU3hpMWR4RHZvZFlZOGNiVzRaT1AtbmxrZGJaSXNoNE9XQWVVS0wwN1BJM2hsc3g4VmpqTVhjTTUtWWMySzNVRHB2M1ZwYnlCNHJXMGtObkVOMC1GWDB2?oc=5",
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
       "data": "18/08 05:00"
     },
     {
@@ -593,19 +593,19 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
+      "titulo": "Fluminense decide temporada contra o Ind. Rivadavia, que joga maior partida da sua história - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmpIcEZ2WVBBbWN6YkdtSkxJTzlOWF96bkx2MEJMS21qSzBfSjlpdzFzUUVrdlpndUFhaEpDUVRNNUxMUUF2bHdmdi03VktoMHY2NVhfeTktY09DZkpGcmtVN0hlQzFzMUMwdGVWOTlFTXJnSGt3NWFfUUwweGRnRTlQRHh6eU5jM1AtV3FQUUUydTZSTm5HQ0phT0lVVTFZSWt0MUlHMnFlOENkYmVibmNUNnE5VkdKUXkxQnVYTlVzVDFic1N4a1J3?oc=5",
+      "data": "18/08 12:20"
+    },
+    {
       "titulo": "Fluminense toma decisão sobre novo técnico antes da Libertadores após Marcão ganhar força - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjN5VDdxLXZ3eUFpNEhlZXBZMm5UVGRRaWZNRFBuaXBGM0xNZ29xQ080MTRYZXZMalBSb204cmx0YVZKVkZmNzBPNE43czIzUXRYaGIteG9XZlVVUV90WXRCbDA0ZUR6RXFJQ0VHdGpMbnBnR051THRjYXFrS3Jua2cxVGVORUF3WmM4eXVEQUhkMFducTF4aEMwYXJXNFVtQmRRSWF4WllNSWt1cmJXUXhGeTFzM1k?oc=5",
       "data": "18/08 12:30"
     },
     {
-      "titulo": "Heróis da América do Fluminense trazem esperança de volta antes de decisão na Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3Q3Q2ZlSG5LWEJYbFBzRlF3X0h6ZGliSEdCYlpnSzRkbFRBZGFyNXVPanQ5VWltOTkyNEFMRDBpTTRqeFFFTVN2Rmw5Qml2U1ZwbUozbGFod2hZVzl1aUlaZ1FiMG5hYV8xdC1RNVhtR19DUVZ5eXVSbzAyRzlGUmEzQlN3WWhSTnJqazBkbi1ySTJIWGx5aWVWNVhSX2tDaDRmaWhFdTRJUGpqX2p2NS1UYkF5NUNVX25HNGgya2g0QXNfRnZ5OXF5dkFDVmpFMGZNaDFGREcyTDI5SWxwSGJ3Ym1sZHNvdUxLZ3o0N1MyZEnSAYICQVVfeXFMT2hQLTJra1JkUFJEMUw0bWczRUlUdWR3Tm00aU15c2VqYlIxRWZtVERjVFNsNjB0VThIbDRxZ1ZyR1Q3UUJxRUlxZWVkMnpEMmRBWlFCNlZwdC1lRkRjNXhGS3pfbi0yX3lfUFFEUWdGWkwycFREZEtlUDNMRGhKeHBKTWNDdnlVOHBzNEY3S3B4UGlNVGtFTUZzY21NbE9sSG5VSHJlR3gxZFVWM1EyTXhqV2RyY1lsOWVWLUI2Qkhaa0hQNU1kTlZQeGZvOU1uLVZoc3p1eE4zN3QwYTRRZk13Q0hfV1Z1YmU2RFNaREt4QmNJeVp6bGlXRmJYaFFnTzBn?oc=5",
-      "data": "18/08 11:00"
-    },
-    {
-      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
-      "data": "17/08 17:39"
+      "titulo": "Ind. Rivadavia x Fluminense: onde assistir e prováveis escalações do jogo pela Libertadores - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORzNnODI1WkppekFuNEtzZE1tN2ZRX1VBVGt3N0VXdGMtMHZFeGQtQWZTNF9IUU02Z2MzZUN2c1djeXpRSEZkUUdvRXVJck95MUNSZHJ0U21DeGlFb1FVRkFVcDE2V1EzY1NaWDUwbU1ydDVxc0Z2Qy1sSDIyZmVkVzRqY21TNGVUOGJZX0ViT0liUTJ6SldQbXM0am1JWEFXV3FYOGZiWDBqaFpyUWt3aWZCaGRfQ3V0Z0h2QWRaUXVjUUdxQ0hLM2ZJVnhUUWk5MzB6QmE3WmhQSmNuQXZz0gHkAUFVX3lxTE1Zc2l6NWx0cmpwSFUyUU1waXpUMHdtTDN3ang2VHkxQ29UWlVhYk1Cd1Z6eWpZclVOOVBlcm1XUU5sTkgzOTY0SW1rQ2xYTnhNa0Jrek9wWXlXLUd3MDQtVV9ncng3U2JtTTNycTV0SFI2NHU1bU0wcDFfNmJtTkcyNWRzYko4b2NLanIxZ0thZUpPQzhyajdCck45VWI4ZDQ1ZHpYY0p5Z2J0andpU1pTQnkwdEg5MHd6WkQ5NVJtU3FSSVpCUGRSVUFOelA2c3FsZDhGemZURjFwTks3bFF5WXA0eQ?oc=5",
+      "data": "18/08 14:00"
     }
   ],
   "avisos": [
