@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 08:20",
+  "atualizado_em": "18/08/2026 09:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -593,19 +593,19 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Sinais? Fluminense se hospeda na rua 'Rivadavia' para decisão na Libertadores - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnBhUHdjZGFZazZWZl9qLXhZdFVERzV2NllVc2JzdUdINXVwdnc1TTczbVczb0R3THhLTm9nenlwOUdnSUY1R19hbW5NQk1xcTdraTFhbjBJRFVlWHdWTjJ2M25meFlUajdBd2E4QTdYSFhJZWF1UWlDZUcybXAyakl5MFAzV3FlaE9EM1k3WkZLMGt5N0NwWF9RRVRmOVRoSnB4ODNjR2pHQ2thUUxLY3Z0TVY0Zw?oc=5",
-      "data": "18/08 07:06"
-    },
-    {
-      "titulo": "Fluminense contrata atacante e quer mais um para reforçar o time principal - Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX09TRkZvZlRSOVJKeXlzbjdZbVhOVllCdUhpWEwxWmFaVnhoUUpIWlNVNG1ob09LbjF4VHVkdzZoZUpTcUJ2WmhLWkxodzBwV09PVlJWSndsa21KazFKZ2x4RW5SbDRQbHpjeWpVTEdlM0FRLWMzZ3JsMUY4ZW9DLXMwZUdJNGlXdUw5ZGs0UDdsY1JQN1pKSUJQbEpHODJWeEJSNi1KODBTQ2RrbFF4NnBYWFBCQnNSV205RnMtOVFxdlZWOWdHcWZYNEpNSGp1eU9fcEdn?oc=5",
-      "data": "18/08 10:01"
+      "titulo": "Ind. Rivadavia faz maior jogo de sua história contra o Fluminense - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmpIcEZ2WVBBbWN6YkdtSkxJTzlOWF96bkx2MEJMS21qSzBfSjlpdzFzUUVrdlpndUFhaEpDUVRNNUxMUUF2bHdmdi03VktoMHY2NVhfeTktY09DZkpGcmtVN0hlQzFzMUMwdGVWOTlFTXJnSGt3NWFfUUwweGRnRTlQRHh6eU5jM1AtV3FQUUUydTZSTm5HQ0phT0lVVTFZSWt0MUlHMnFlOENkYmVibmNUNnE5VkdKUXkxQnVYTlVzVDFic1N4a1J3?oc=5",
+      "data": "18/08 12:20"
     },
     {
       "titulo": "Fluminense decide vaga nas quartas da Libertadores contra o Independiente Rivadavia - Jornal de Brasília",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnpvMWRELTlVU2Q1SjVDcE1kTDhKVVRyT1F4cGZmMWNGeW5KUmdmbl9ZUnFhRmFwekg0SlMxaWhPQ2hleDA0eXc1WnpMS3VLcjZrN3JBWWVEZk1BWWxqbzBFUWZyLVVBT2FVSTduQ05ueGtOZHluRDlpMXZxTlY5ZzhFR0F5RXAzU3l0Nm9XVHl4eGwxQzVNY3Q1SUZxYXJCd3ZBbVlVd0cxRVJ4WTdEU09PTm1DX3NuT2Fza2hnUE9Bdw?oc=5",
       "data": "18/08 10:10"
+    },
+    {
+      "titulo": "Fortalecido, o Fluminense vai até Mendoza para tentar derrubar o Independiente Rivadavia - A Tribuna",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT3pBemZUN2pjZlZQY0luZFAxZHhYdzVjQ1FVT0N3MFFueWM0WUdwVkVKWkRPdFpScmFQekhoMGhLd1dEaVhrbGdHZThuZVpPNDVndThoUWxtTW1zQlRqOXJ5ajVKbWQxbHV5NXJON08tMmxraU12YnFPSGhSWC0ycER6SW9EVWItTVVrcjZuTjdUdHhxSkkzczVUSXZVbWQwQUpjSXFQQUdfMHIwcUJ6RTFkMjZKQ2Z5SHdDbHJIX1VsMmNXbHFLYkdFeTBnSkd0eWpEdXVmSFRtQURkUm5yWQ?oc=5",
+      "data": "18/08 10:38"
     }
   ],
   "avisos": [
