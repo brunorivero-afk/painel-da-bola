@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 04:33",
+  "atualizado_em": "18/08/2026 05:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,7 +583,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge.globo.com",
+      "titulo": "Da quase saída à titularidade e braçadeira, Ganso ressurge em momento-chave da temporada para o Fluminense - ge",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb2RJRUZCMVlfNG1EV1RueTVzRW8zRWw1S3c4NkFqRXE3V1pla0pZWklSRWotaG1yZ1VSV2llLUxHZU4zdmdELWlrc2VQbnAtREdXeEVWMzRpZWh4SnNoWDV0c25RMk1POUFoR2tGejhqQmhDbUxOQTlWTW1WZUg1UDhzN3V3amc5SWhiZ1FpTWoyaVlWUG5BczkwMUJPREFXZTJNSno2VDM0RWMtZU5FUFdnX1F1U29tdERFNmtBdXhvMWFaeG1RbU9Tbkx2aU5qM1NldkxXbF9vVk1CejAtMDRSNktXNEtqWDYzM2gwd0t2aGdqN21Ya21OMm5DbTdMUlBrcUwzc9IBlgJBVV95cUxQMDNLM1FfNTdLYjRHb2tZRjI2X3VNbTlqMm5HNFEzMjBUTXlPeFFQdmtCeEtRSmhKM2J6UDdlSnhhdEduQ1I1RDlPUmtUeC05WDFwZkhYUGprRmw1RTNjOUtLcTZoZ09Yc3NqT3ZUeW1zMUJKc1FfV0RNWE1IRDM3WW9rNVNqSlQtdjVwMVdadzA1eVViS0MzeHhkMk9sVFBZa0Yyc3JZTFllaG1ZNlZ6b0xhV0YyWm9wcVNZMTV5M0JvTlNqSjBZNDk3SG9qMHVEbjBzTFRqaUYyUlZaSGZqcjdFbk5PWE5SdDVBbVM2ZjEyTFJIQXVpVVVrMkYxNjFyalF3bFpYTHlocTQ5UjZhMHlYU2d3dw?oc=5",
       "data": "17/08 07:00"
     },
@@ -593,13 +593,13 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Sinais? Fluminense se hospeda na rua 'Rivadavia' para decisão na Libertadores - LANCE!",
+      "titulo": "Sinais? Fluminense se hospeda na rua 'Rivadavia' para decisão na Libertadores - Lance!",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnBhUHdjZGFZazZWZl9qLXhZdFVERzV2NllVc2JzdUdINXVwdnc1TTczbVczb0R3THhLTm9nenlwOUdnSUY1R19hbW5NQk1xcTdraTFhbjBJRFVlWHdWTjJ2M25meFlUajdBd2E4QTdYSFhJZWF1UWlDZUcybXAyakl5MFAzV3FlaE9EM1k3WkZLMGt5N0NwWF9RRVRmOVRoSnB4ODNjR2pHQ2thUUxLY3Z0TVY0Zw?oc=5",
       "data": "18/08 07:06"
     },
     {
-      "titulo": "Fluminense avalia técnicos, mas confiança em Marcão ameniza pressa e concentra foco na Libertadores - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTjZJWktSczZWS2dkQ3dZOVBCaHFVRm5zSzRNWTdneXhoc2U2b1JMT1M0TWtNVnBWYXl5Y1Vfc2pPOEFEQURDaTBPRGFfSFo2ZmRtSXlTUDV4TVpzaU9ja1dWTF9vOXBkU3ktRi1yMnpVakJyT0VfeVR4dEw5ZmtwX1ItQ3kzNkJEaXZ6c1RUS1lCc1BFYWNFSnJMeWpJR2xQRkpGUlI0U05MNFpZZi1veEdLakViTkpXZ2lqZENMbFBIcEdKbnRKdmp6WmdzOTVTTW53RnQxaFJuUHdKVVZBcGd3SEp5WEpQMGdGMmc1cXVzUEgyVksxOXpfX1FlQQ?oc=5",
+      "titulo": "Fluminense avalia técnicos, mas confiança em Marcão ameniza pressa e concentra foco na Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTjZJWktSczZWS2dkQ3dZOVBCaHFVRm5zSzRNWTdneXhoc2U2b1JMT1M0TWtNVnBWYXl5Y1Vfc2pPOEFEQURDaTBPRGFfSFo2ZmRtSXlTUDV4TVpzaU9ja1dWTF9vOXBkU3ktRi1yMnpVakJyT0VfeVR4dEw5ZmtwX1ItQ3kzNkJEaXZ6c1RUS1lCc1BFYWNFSnJMeWpJR2xQRkpGUlI0U05MNFpZZi1veEdLakViTkpXZ2lqZENMbFBIcEdKbnRKdmp6WmdzOTVTTW53RnQxaFJuUHdKVVZBcGd3SEp5WEpQMGdGMmc1cXVzUEgyVksxOXpfX1FlQdIBjAJBVV95cUxQQl9lc3c5LU5ORFo4LWpuR3AyVUszQjRZLU5MRXZJVU0wRThTZ01kUHVmZDA4S2M1V1g0ZS01ejFGbWRQbU9VTmdrdTFyWE5xU3ZHeEc0QTJ4eEZ4LWVudlpaVUJpRG13VFRiYkRTeUVtLWVMTzlMMUJFWnlmQzZSOVpQV1dNRHp6eVBxbVkxa2ptQ2p1RGNxWnFyZk1nc01uT3pnck9YbjlRTVU4V0NsZ05JWDRIbDJQcEwwV3RoY3gwZ0dPOWpiTVRvY2dXSV9oWl82OHd5UDF4WkhfcU90VjJ2VUxvNkpYeG5tRFRxT2dQSFJSM2dMRVEzUGlyQ1N4WDBjNkNzSWgybFU5?oc=5",
       "data": "18/08 07:00"
     },
     {
