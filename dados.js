@@ -1,167 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 23:19",
+  "atualizado_em": "19/08/2026 00:41",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "21:15",
-      "competition": "Copa Argentina",
-      "match": "Banfield x Midland",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Náutico x Ceará",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Deportes Tolima x Independiente del Valle",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "U. Catolica x Estudiantes",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "São Paulo x Bolívar",
-      "channels": [
-        "SBT",
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "21:35",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Juventude",
-      "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "22:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CS Cartagines x Verdes",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "12:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Chicago FC United",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Fenerbahce x Lyon",
-      "channels": [
-        "SBT",
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Dinamo Zagreb x Viking",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Levski Sofia x AEK Athens FC",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Independ. Rivadavia x Fluminense",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Deportivo Recoleta x Boca Juniors",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Atlético GO",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "20:00",
-      "competition": "Copa Paulista",
-      "match": "Comercial x XV de Piracicaba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-19",
@@ -565,6 +404,155 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "FAS x Municipal",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x SC Paulinense SP U20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Fayha x Al-Hilal",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:30",
+      "competition": "UEFA Conference League",
+      "match": "Atalanta x Hapoel Tel Aviv",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:30",
+      "competition": "UEFA Conference League",
+      "match": "FC Lugano x Maccabi Tel Aviv",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Rayo Vallecano x Alavés",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "LDU de Quito x Mirassol",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Macara x Santos",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Olimpia x Vasco",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x CRB",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x América-MG",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Corinthians x Rosario Central",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Botafogo x Cienciano",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "22:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Alianza FC x CD Olimpia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
       "sport": "volei",
       "date": "2026-08-15",
       "time": "21:00",
@@ -578,38 +566,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.8,
-      "temp_min": 18.4,
+      "temp_max": 30.6,
+      "temp_min": 20.3,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.2,
-      "temp_min": 18.8,
+      "temp_max": 30.1,
+      "temp_min": 17.6,
       "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.8,
-      "temp_min": 13.6,
+      "temp_max": 27.2,
+      "temp_min": 15.0,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.8,
-      "temp_min": 13.5,
+      "temp_max": 27.8,
+      "temp_min": 13.6,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
+      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
+      "data": "19/08 00:14"
+    },
+    {
       "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
       "data": "18/08 05:00"
+    },
+    {
+      "titulo": "Em alta no Fluminense, Marcão aponta até quando seguirá no comando - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbW9pcGM4dS13cHp6djNHNnZ6WUhGTFdadXhTbmp6MUt2NV9oZ29ielZXN0hGUzNzcWMtc0JzeG80aktvdV9TN012Y3pwZERJckNtRVlMVHdYOFZXek9EQ2htWF9rd0VqYXhmWUpQNUxrSlV6dFJxUUlyajJ6bFJ6WVNxMGdoQTdUM1VsTmhuZmQ3N0JYX1RrUTV0R09fcm12aC0zQzFaNXVLQ0NOSlVSbHU5bHd0TmVwcC1EM0d1MHhfNHRhWE1aOTNOTjBDazM4YnVTSDhiSG5GV1hIekxWQ1g3ZEt4R21xb0lj?oc=5",
+      "data": "19/08 01:07"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -620,16 +618,6 @@ window.PAINEL_DATA = {
       "titulo": "Remo foca atenções no Fluminense, 2º melhor mandante da Série A - DOL",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2pTcGNGbzFMU3RGb25OVDBaRmFWYWc1NHVoR1laMlJYWEdJRHZOTkJXYTlUYTdzNFpVNWZhOGxOV19iYXpSLWhhTG4xRHZhdVlSdEZQNlhTRU01LVpKUHBhazFaUF9zY3AtcXdxZGNqS3JJa0pUTmJHZzl2YV9CRVRtOF9HUjZpYjFwdUkwZHpiUmtldlZOclNhZlJZQV9vYUHSAaoBQVVfeXFMT3NpNjR5bFQ0aVRQZzZ5UlNFVDJHVGNWcjJTNjRMRG90WnpmZ3BkNnBBREpqMFRWbHV0N2UtNDFZUmlOV1FXUUFJd3d6aHpadjdCb1paeTJyck5WVVpxbXVyNEcwNzFrbEJnZkU5OVRrRG41S3BXT29rNnF5Ym1lRmVVWHRjeGVWWGRxaUNYb0ZQZzI0NmdtbjlzbUlNa1kzZ3I5QWJQNTY5ZGc?oc=5",
       "data": "18/08 15:16"
-    },
-    {
-      "titulo": "Terans retorna ao Fluminense e passará por cirurgia - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzJPTl9WV3oxSGpzNmh1V0Y4N2VzTWszYXFyQ29xY2Ywa3h0eTlacWVqcUFaNklzYl95ekNpS2h1Zno1S0ZHdU1lQVhBbjc0MXJZRVJvemNfcE9ndFBidFFNSXFReGdNVTBncE5DSHpTOGE4dExMbzQ1enNUWHl2YVlHVkRnc2c5X1MyLVItS0M0UTBkUVVoajhyb1lQb19QYmF3bTNtY1NjSE9zUTdXSEZWak1icGZuUmViZEVnQdIBxAFBVV95cUxQTXRXaDVOYlFZeF9xSThBcndISy0tSmRwVDIwYUZxak1INlBURWRMVGRCTl8zT1gzUjBrbmstZ2lWNF9GM2h2NFZhVDc1bk51dVY2eDJwS0pZaWlDTTZwREJHNVlQUi1nb1dtTFBiZFJ0NnRlbkM3bTBBSE1POF8tNDcyYnlQN3lFZWFEZXZwRTN4cmtLSWdieEE0cG5OY1RTdWZwWTBSdEZVS0VzYnpESHF6SEdRNnRGLWtLNU9URXRILXlq?oc=5",
-      "data": "18/08 21:30"
-    },
-    {
-      "titulo": "Fluminense contrata atacante e quer mais um para reforçar o time principal - Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ29XN2o5SmN4ODJscXNORzE2TEtXVWIza0NZWENSa0dWcUxoVDZJRmgxemZyaHRCZ09XdjVxVXZKQ293WXNhWlRQRGdLbHB0R3Q5M2pJNkpfQVVXMHVFUnYtRXV6VHVuM2tvSlBnMWpiUXRQSUtValZpRTNBeWVNMjEyT2t0NG0wejNSSWJwSEpxV1BTa0xkRG1SRm14cWhNRm13VVhobnN5VlZ1VFV5QWF3c2tsMlE?oc=5",
-      "data": "18/08 10:01"
     }
   ],
   "avisos": [
