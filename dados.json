@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "19/08/2026 04:33",
+  "atualizado_em": "19/08/2026 05:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -119,11 +119,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Sport Recife",
+      "time": "19:15",
+      "competition": "Copa Argentina",
+      "match": "Racing Club x Belgrano Cordoba",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -142,6 +142,16 @@
     {
       "sport": "futebol",
       "date": "2026-08-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Sport Recife",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
       "time": "20:00",
       "competition": "MLS Next Pro",
       "match": "Crown Legacy x Connecticut FC",
@@ -154,7 +164,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Columbus Crew x Montreal Impact",
+      "match": "FC Cincinnati x New York City FC",
       "channels": [
         "APPLE TV"
       ]
@@ -164,7 +174,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "FC Cincinnati x New York City FC",
+      "match": "Columbus Crew x Montreal Impact",
       "channels": [
         "APPLE TV"
       ]
@@ -595,14 +605,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
-      "data": "19/08 00:14"
-    },
-    {
       "titulo": "Marcão credita classificação a jogadores e diz que fica \"até quando o Fluminense precisar\" - GE",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2x2NnpwWW90MkluaGxzOUFpbzNzT0F0bVdPTlJSRURKeDdfZUlpT29wcExMNjBsNHBNcDViM2JLamN2MjVadW95a1BfRURoYkZBSXNsclRfbU0tMnJwa19mMTJULWdaS1pvQlU0cDd0emJUNVlXVS1kVndOYm5NaVZJU0ZCSlRDWmVQVzA0SFNnZURKbnAyUWxPUFZTM2w5eU5pU1RLc2Y1WnJlNmZNZTB4ZEVSTWdQaE9abTBGZ3B3TlZkRW9CetIB1wFBVV95cUxPMERieF94c0tIV3huZ2oyMmNmZ192c1BxU2EzN0VqRy1lRnFQNUVCelgtUUZTOWRRNmVQbzBUYUFybTBNWmZONFQ0LXVBWUxzbDhUN3ZXakhaYXFTTll3RWJoclJfWHBOVGpaakpDcTFKa0RZZW5hS09IZGdfSmVKU2ZUT0JBRXEzY0JBVk16M195QkZTc01hVlZpODRiZlo5YTlQLURiQ21lN3RxdjdSd0lBZTZDTnRNUWJZa09NMW9SUUplNG95VzFBMXdiczBFOWJqRkdhSQ?oc=5",
       "data": "19/08 00:38"
+    },
+    {
+      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
+      "data": "19/08 00:14"
     },
     {
       "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
@@ -610,7 +620,7 @@
       "data": "19/08 04:41"
     },
     {
-      "titulo": "Análise: Marcão se prova como solução do Fluminense para 2026 - LANCE!",
+      "titulo": "Análise: Marcão se prova como solução do Fluminense para 2026 - lance.com.br",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWZSWjUtTy1EWDI1RnViUjRIMGNRMTNkSGFoVWJyTE9RTHBYbDhPWmVDSUdYTTd0MlE0S2tEZDNtNjhMTkhKQkllSUdJS0lpVjQzSXBfTWd5VTRzWnJWZVVrQ3JpM3BFMDVLckxwSjNlRkoybFBaaGl0MUVfelRTeU5BRUlYOUphclZvRHJZRUtkZ2xCYU9YZg?oc=5",
       "data": "19/08 07:00"
     },
