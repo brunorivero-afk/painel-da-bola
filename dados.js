@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/08/2026 21:58",
+  "atualizado_em": "18/08/2026 23:19",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "20:00",
-      "competition": "Copa Paulista",
-      "match": "Comercial x XV de Piracicaba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-18",
@@ -160,6 +150,16 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN 4",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-18",
+      "time": "20:00",
+      "competition": "Copa Paulista",
+      "match": "Comercial x XV de Piracicaba",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -607,14 +607,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo e escalações do jogo da Libertadores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMEl0VEdYM3hkRGJwUVhmUk5NNS1QLXhiR01vWnBuc21XQ0U5YlFnY254bFdVRE9tOU9FYjhKNzV1Y1FmZWZrZFppTlJwSmNmQXktVzRESnY0dzlPa3VHZXE3S2hBWUtTRHNrTWQtZjhfa1UyY0U0UGJGWXVMVVNkQUgxZDA5ZVdsWmFkZ1B0bUR5QzFGX1BWbnE5QkxVYzlFM2RkZmtzQWRKR0xVbnd0em9rVzQ5ZlhlMlEyQWxhdEtMX3hIOVVaMWJwcVJOdUZ4a2I2TFVpcGc0TWRHRXlqbUY5eWlVeFhNY0pGQkZIR28?oc=5",
-      "data": "18/08 20:50"
-    },
-    {
-      "titulo": "Ex-Atlético vira 'dor de cabeça' na Série B e volta ao Fluminense: 'Só Deus' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzAzZnJMbXdXUjlTQ2xsN2F4bVFzU3pxZk9xZjVIeDBraXRlTzIwMkJPYWJ4b09HRmMwR0FPaEV6aXQtOWJvZy1jMlBwLTdRQkRuWHdaVF9mODF5SU5VTEJEWVJiX25yRkItanp2em1HYU5RNmFPT19oZ0RLYWJ2YkF0RUZRZmVMaGZLQ2pVem1xbnh2MVBrQm1oX29Va1JrRWlyVC1LaFNvODBaZ3Bsald4QXJMaXF6QTUyM3pISzdaTkN0ZFlKZUtHakJFTDA?oc=5",
-      "data": "18/08 21:13"
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
+      "data": "18/08 05:00"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -627,9 +622,14 @@ window.PAINEL_DATA = {
       "data": "18/08 15:16"
     },
     {
-      "titulo": "Independiente Rivadavia x Fluminense: siga o tempo real do jogo pela Libertadores - Gazeta Esportiva",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakFSd0lkSGdFTTlKWUgyZW41LUI0YjU0b2I5T09hT3dwZG9vNm13dHdONVZHX0dwV0RnY1hTN3RKeWt3LV9hLXhKc2tVUTVVbmc4WWUzZTQ2aVVCR0NXVU9FNzZURTZGcVl1XzVUOUZTSlhVajFTZkM3TjBaaXc3LTNueFFaT284TmhKeVBwMWxKTHhEM2dDZjBPUElNeWV5RVQydlV2alE0WDNRaU1KemRkRi1NMFhPdG41SHhybUM5alFQSWVrTG9R0gHPAUFVX3lxTE1JbEdPOEdrUHV1d2pvWC1pLWpYalRfN0g4ZkZ5QXBLTzVRdC1Hd1B3alVoUl9udXFFbXJmWTY4MjIxYm45S0tKaWVVM0hQQ2lVQ1V1QlVZeGNGOV9DMXFlQXR1UXEwLUNqeVJNOVVsYy13TEtrdGZmS2tOUGxyMXZtOFZHaGpWODhETVF1X2tyNkN3VEhHNW5ibkgzWG91NTdUR2w0LTJIWnd0eFBNMUFSOVhDQ2w3eGJfaTBLYzZWeTVPSkFmZXZwRUhRYWVhQQ?oc=5",
-      "data": "18/08 22:02"
+      "titulo": "Terans retorna ao Fluminense e passará por cirurgia - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzJPTl9WV3oxSGpzNmh1V0Y4N2VzTWszYXFyQ29xY2Ywa3h0eTlacWVqcUFaNklzYl95ekNpS2h1Zno1S0ZHdU1lQVhBbjc0MXJZRVJvemNfcE9ndFBidFFNSXFReGdNVTBncE5DSHpTOGE4dExMbzQ1enNUWHl2YVlHVkRnc2c5X1MyLVItS0M0UTBkUVVoajhyb1lQb19QYmF3bTNtY1NjSE9zUTdXSEZWak1icGZuUmViZEVnQdIBxAFBVV95cUxQTXRXaDVOYlFZeF9xSThBcndISy0tSmRwVDIwYUZxak1INlBURWRMVGRCTl8zT1gzUjBrbmstZ2lWNF9GM2h2NFZhVDc1bk51dVY2eDJwS0pZaWlDTTZwREJHNVlQUi1nb1dtTFBiZFJ0NnRlbkM3bTBBSE1POF8tNDcyYnlQN3lFZWFEZXZwRTN4cmtLSWdieEE0cG5OY1RTdWZwWTBSdEZVS0VzYnpESHF6SEdRNnRGLWtLNU9URXRILXlq?oc=5",
+      "data": "18/08 21:30"
+    },
+    {
+      "titulo": "Fluminense contrata atacante e quer mais um para reforçar o time principal - Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ29XN2o5SmN4ODJscXNORzE2TEtXVWIza0NZWENSa0dWcUxoVDZJRmgxemZyaHRCZ09XdjVxVXZKQ293WXNhWlRQRGdLbHB0R3Q5M2pJNkpfQVVXMHVFUnYtRXV6VHVuM2tvSlBnMWpiUXRQSUtValZpRTNBeWVNMjEyT2t0NG0wejNSSWJwSEpxV1BTa0xkRG1SRm14cWhNRm13VVhobnN5VlZ1VFV5QWF3c2tsMlE?oc=5",
+      "data": "18/08 10:01"
     }
   ],
   "avisos": [
