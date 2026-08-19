@@ -1,38 +1,6 @@
 {
-  "atualizado_em": "18/08/2026 20:17",
+  "atualizado_em": "18/08/2026 21:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Independ. Rivadavia x Fluminense",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Deportivo Recoleta x Boca Juniors",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-18",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Atlético GO",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-18",
@@ -164,6 +132,38 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-08-18",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Independ. Rivadavia x Fluminense",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-18",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Deportivo Recoleta x Boca Juniors",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-18",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x Atlético GO",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-19",
       "time": "00:00",
       "competition": "CONCACAF Central American Cup",
@@ -199,7 +199,8 @@
       "competition": "Campeonato Espanhol",
       "match": "Atletico Madrid x Malaga",
       "channels": [
-        "YOUTUBE"
+        "YOUTUBE",
+        "CAZÉTV"
       ]
     },
     {
@@ -209,6 +210,7 @@
       "competition": "Champions League",
       "match": "Celtic x Lask Linz",
       "channels": [
+        "SPACE",
         "HBO MAX"
       ]
     },
@@ -218,6 +220,28 @@
       "time": "16:00",
       "competition": "Champions League",
       "match": "NEC Nijmegen x Bodo/Glimt",
+      "channels": [
+        "TNT",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Hapoel Beer Sheva x Sabah FA",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Slovan Bratislava x Celje",
       "channels": [
         "HBO MAX"
       ]
@@ -230,6 +254,16 @@
       "match": "New York City II x FC Cincinnati II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Coquimbo Unido x Platense",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
@@ -251,16 +285,6 @@
       "match": "Uniao Sao Joao x Noroeste",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Coquimbo Unido x Platense",
-      "channels": [
-        "PARAMOUNT+"
       ]
     },
     {
@@ -311,6 +335,16 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
+      "match": "FC Cincinnati x New York City FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
       "match": "DC United x New England",
       "channels": [
         "APPLE TV"
@@ -351,16 +385,6 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Columbus Crew x Montreal Impact",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
       "match": "Philadelphia Union x Inter Miami",
       "channels": [
         "APPLE TV"
@@ -391,7 +415,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "FC Cincinnati x New York City FC",
+      "match": "Columbus Crew x Montreal Impact",
       "channels": [
         "APPLE TV"
       ]
@@ -568,7 +592,7 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.4,
+      "temp_max": 23.8,
       "temp_min": 13.6,
       "chance_chuva": 0,
       "condicao": "Nublado"
@@ -588,24 +612,24 @@
       "data": "18/08 20:50"
     },
     {
+      "titulo": "Ex-Atlético vira 'dor de cabeça' na Série B e volta ao Fluminense: 'Só Deus' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzAzZnJMbXdXUjlTQ2xsN2F4bVFzU3pxZk9xZjVIeDBraXRlTzIwMkJPYWJ4b09HRmMwR0FPaEV6aXQtOWJvZy1jMlBwLTdRQkRuWHdaVF9mODF5SU5VTEJEWVJiX25yRkItanp2em1HYU5RNmFPT19oZ0RLYWJ2YkF0RUZRZmVMaGZLQ2pVem1xbnh2MVBrQm1oX29Va1JrRWlyVC1LaFNvODBaZ3Bsald4QXJMaXF6QTUyM3pISzdaTkN0ZFlKZUtHakJFTDA?oc=5",
+      "data": "18/08 21:13"
+    },
+    {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnN2bkd3b2s2OGZVc3Vrb1dBMWRMWl9Ec3NnU1NScG14V0ZwX25zRl82eHVqa25MSk14NXJOZlotYmtLSnRUV2M5ZktnTURhaldubVFhUkluWG1WeXY1NjloYklLT1hjekNvSlQ1aDFDLWlqX0x6NHUzUmVRZ3k3NXNaM3dIYjNkek13OXp0YTE3S1JPa3R2eHR2N3ltRUlTOUVIZQ?oc=5",
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Fora da decisão, Freytes viaja com o Fluminense para apoiar elenco e reencontrar ex-clube - GE",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeHF2d1RDMHpqMXlud0pQeE5GeERjdld2a3RtdXdGQllRdmpPanY1SDB4NjBLTUU0N3lJb1NyblhMMldNNWVuWFNuR0xLZVVnUEtpc2JOYnE2NHlBQ2pzRk5wdjhuZ1VhQl85VGNNcjloQ0VFbXV0ZkF5WEdKd2w3M0dEc3pRUGdzZTBnNmVFTE85Y05VZ3p6VzRBN0M1eVZ4OWRCamFUOEhNbkJCRzZiMV9XXzBBbVBEZjJJMXBhdEF4TmR5Y201VmhhOTJSbU56SkxkaWl3SnkxaVNRWl9GMEtHWjEwWUtNcWtVOFB2eUHSAf8BQVVfeXFMUGVMVmZBMGRWZGFHRTBwdk1nMUZYZ3dLMU9QMVVQbzhxbzFvT1JsME01Vi1LZDJycDJVaHlpbzRPUzFQT0pzN0daVkR3bE1LRkVXMzZFT0FGVGhpWDhienZnVUlac2hrU1cwUHVsU0xGQ2lFcTZWVDRWWEIzRFdNNkZ5V05rSVgzZzB3N2lvY0ZnU0ZUV0Qza2VIbFBJTUtRcEJFejRlanQ4d0o2R0w3eVhXUDhKUlYwSGFnVERQa3RiblFPSzVYanNjekMxb3U1X1YyNDdScWFhWkRvVU1LZnh1eGo1UzVhaVpRQ0FHMkpNal9reGJTbHprSXJiUFBv?oc=5",
-      "data": "18/08 17:00"
+      "titulo": "Remo foca atenções no Fluminense, 2º melhor mandante da Série A - DOL",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2pTcGNGbzFMU3RGb25OVDBaRmFWYWc1NHVoR1laMlJYWEdJRHZOTkJXYTlUYTdzNFpVNWZhOGxOV19iYXpSLWhhTG4xRHZhdVlSdEZQNlhTRU01LVpKUHBhazFaUF9zY3AtcXdxZGNqS3JJa0pUTmJHZzl2YV9CRVRtOF9HUjZpYjFwdUkwZHpiUmtldlZOclNhZlJZQV9vYUHSAaoBQVVfeXFMT3NpNjR5bFQ0aVRQZzZ5UlNFVDJHVGNWcjJTNjRMRG90WnpmZ3BkNnBBREpqMFRWbHV0N2UtNDFZUmlOV1FXUUFJd3d6aHpadjdCb1paeTJyck5WVVpxbXVyNEcwNzFrbEJnZkU5OVRrRG41S3BXT29rNnF5Ym1lRmVVWHRjeGVWWGRxaUNYb0ZQZzI0NmdtbjlzbUlNa1kzZ3I5QWJQNTY5ZGc?oc=5",
+      "data": "18/08 15:16"
     },
     {
       "titulo": "Independiente Rivadavia x Fluminense: siga o tempo real do jogo pela Libertadores - Gazeta Esportiva",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakFSd0lkSGdFTTlKWUgyZW41LUI0YjU0b2I5T09hT3dwZG9vNm13dHdONVZHX0dwV0RnY1hTN3RKeWt3LV9hLXhKc2tVUTVVbmc4WWUzZTQ2aVVCR0NXVU9FNzZURTZGcVl1XzVUOUZTSlhVajFTZkM3TjBaaXc3LTNueFFaT284TmhKeVBwMWxKTHhEM2dDZjBPUElNeWV5RVQydlV2alE0WDNRaU1KemRkRi1NMFhPdG41SHhybUM5alFQSWVrTG9R0gHPAUFVX3lxTE1JbEdPOEdrUHV1d2pvWC1pLWpYalRfN0g4ZkZ5QXBLTzVRdC1Hd1B3alVoUl9udXFFbXJmWTY4MjIxYm45S0tKaWVVM0hQQ2lVQ1V1QlVZeGNGOV9DMXFlQXR1UXEwLUNqeVJNOVVsYy13TEtrdGZmS2tOUGxyMXZtOFZHaGpWODhETVF1X2tyNkN3VEhHNW5ibkgzWG91NTdUR2w0LTJIWnd0eFBNMUFSOVhDQ2w3eGJfaTBLYzZWeTVPSkFmZXZwRUhRYWVhQQ?oc=5",
       "data": "18/08 22:02"
-    },
-    {
-      "titulo": "Heróis da América do Fluminense trazem esperança de volta antes de decisão na Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNd3Q3Q2ZlSG5LWEJYbFBzRlF3X0h6ZGliSEdCYlpnSzRkbFRBZGFyNXVPanQ5VWltOTkyNEFMRDBpTTRqeFFFTVN2Rmw5Qml2U1ZwbUozbGFod2hZVzl1aUlaZ1FiMG5hYV8xdC1RNVhtR19DUVZ5eXVSbzAyRzlGUmEzQlN3WWhSTnJqazBkbi1ySTJIWGx5aWVWNVhSX2tDaDRmaWhFdTRJUGpqX2p2NS1UYkF5NUNVX25HNGgya2g0QXNfRnZ5OXF5dkFDVmpFMGZNaDFGREcyTDI5SWxwSGJ3Ym1sZHNvdUxLZ3o0N1MyZEnSAYICQVVfeXFMT2hQLTJra1JkUFJEMUw0bWczRUlUdWR3Tm00aU15c2VqYlIxRWZtVERjVFNsNjB0VThIbDRxZ1ZyR1Q3UUJxRUlxZWVkMnpEMmRBWlFCNlZwdC1lRkRjNXhGS3pfbi0yX3lfUFFEUWdGWkwycFREZEtlUDNMRGhKeHBKTWNDdnlVOHBzNEY3S3B4UGlNVGtFTUZzY21NbE9sSG5VSHJlR3gxZFVWM1EyTXhqV2RyY1lsOWVWLUI2Qkhaa0hQNU1kTlZQeGZvOU1uLVZoc3p1eE4zN3QwYTRRZk13Q0hfV1Z1YmU2RFNaREt4QmNJeVp6bGlXRmJYaFFnTzBn?oc=5",
-      "data": "18/08 11:00"
     }
   ],
   "avisos": [
