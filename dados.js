@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 00:41",
+  "atualizado_em": "19/08/2026 01:32",
   "jogos": [
     {
       "sport": "futebol",
@@ -605,14 +605,14 @@ window.PAINEL_DATA = {
       "data": "18/08 05:00"
     },
     {
-      "titulo": "Em alta no Fluminense, Marcão aponta até quando seguirá no comando - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbW9pcGM4dS13cHp6djNHNnZ6WUhGTFdadXhTbmp6MUt2NV9oZ29ielZXN0hGUzNzcWMtc0JzeG80aktvdV9TN012Y3pwZERJckNtRVlMVHdYOFZXek9EQ2htWF9rd0VqYXhmWUpQNUxrSlV6dFJxUUlyajJ6bFJ6WVNxMGdoQTdUM1VsTmhuZmQ3N0JYX1RrUTV0R09fcm12aC0zQzFaNXVLQ0NOSlVSbHU5bHd0TmVwcC1EM0d1MHhfNHRhWE1aOTNOTjBDazM4YnVTSDhiSG5GV1hIekxWQ1g3ZEt4R21xb0lj?oc=5",
-      "data": "19/08 01:07"
-    },
-    {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnN2bkd3b2s2OGZVc3Vrb1dBMWRMWl9Ec3NnU1NScG14V0ZwX25zRl82eHVqa25MSk14NXJOZlotYmtLSnRUV2M5ZktnTURhaldubVFhUkluWG1WeXY1NjloYklLT1hjekNvSlQ1aDFDLWlqX0x6NHUzUmVRZ3k3NXNaM3dIYjNkek13OXp0YTE3S1JPa3R2eHR2N3ltRUlTOUVIZQ?oc=5",
       "data": "17/08 00:24"
+    },
+    {
+      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
+      "data": "17/08 17:39"
     },
     {
       "titulo": "Remo foca atenções no Fluminense, 2º melhor mandante da Série A - DOL",
