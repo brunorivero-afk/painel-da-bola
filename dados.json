@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "19/08/2026 10:40",
+  "atualizado_em": "19/08/2026 11:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -605,11 +605,6 @@
   ],
   "noticias": [
     {
-      "titulo": "Marcão credita classificação a jogadores e diz que fica \"até quando o Fluminense precisar\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2x2NnpwWW90MkluaGxzOUFpbzNzT0F0bVdPTlJSRURKeDdfZUlpT29wcExMNjBsNHBNcDViM2JLamN2MjVadW95a1BfRURoYkZBSXNsclRfbU0tMnJwa19mMTJULWdaS1pvQlU0cDd0emJUNVlXVS1kVndOYm5NaVZJU0ZCSlRDWmVQVzA0SFNnZURKbnAyUWxPUFZTM2w5eU5pU1RLc2Y1WnJlNmZNZTB4ZEVSTWdQaE9abTBGZ3B3TlZkRW9CetIB1wFBVV95cUxPMERieF94c0tIV3huZ2oyMmNmZ192c1BxU2EzN0VqRy1lRnFQNUVCelgtUUZTOWRRNmVQbzBUYUFybTBNWmZONFQ0LXVBWUxzbDhUN3ZXakhaYXFTTll3RWJoclJfWHBOVGpaakpDcTFKa0RZZW5hS09IZGdfSmVKU2ZUT0JBRXEzY0JBVk16M195QkZTc01hVlZpODRiZlo5YTlQLURiQ21lN3RxdjdSd0lBZTZDTnRNUWJZa09NMW9SUUplNG95VzFBMXdiczBFOWJqRkdhSQ?oc=5",
-      "data": "19/08 00:38"
-    },
-    {
       "titulo": "Fluminense cede empate no fim, mas avança nos pênaltis contra o Rivadavia - CNN Brasil",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNzhsY2I4VjlHUXpQdG0wY2ZERklkUmxPalN5M2UtY0hKQzVKenFwSzNkMlBxcDJYRjZsZnRWTUxJejE3RnJ1bngyYVhNTHZ5TmpfNUxQODZFQXZSU1dZSTFUNFdGTWlaVFhmSnJDY3hTUE9Cc3cyNGd3UWF3Q0RONHdLVTRyeXZBWE5SNlNfMFFkWDc5VTlkUnExWXRIb3FPN2JPOWJ1TTY1eGRiN2NHTDFSbWIwNVdqQndNYzJEcEt1SzE0MTg3ZGU3SXg5VGwzTXpCbjI1a1hYOVBRTUNrQTFmTkQ0NlktNnlURGRHeS1LU1ZjVmFGNg?oc=5",
       "data": "19/08 00:16"
@@ -617,7 +612,7 @@
     {
       "titulo": "Em vídeo, craques da brilhante 'Máquina Tricolor' - Terceiro Tempo",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2dPZHlzd0dYVFl3VmZQc1JYR2NMNGtyMHZyZDl4bldJcy1jN19vSTBkUjhSczNuUnZLWVJzd1l2bm8wcnlrZ3YyR0k5OEgtcEVsZlhWbWFmUTVuM2RNa3lOakNWejhKXzYxZFdjenV1Ykc0cVlrTUVDUi01SjRTbHMtcmxhYnV6TUpmT2lHR0tlZw?oc=5",
-      "data": "19/08 13:09"
+      "data": "19/08 13:08"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -625,9 +620,14 @@
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Ex-Atlético vira 'dor de cabeça' na Série B e volta ao Fluminense: 'Só Deus' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzAzZnJMbXdXUjlTQ2xsN2F4bVFzU3pxZk9xZjVIeDBraXRlTzIwMkJPYWJ4b09HRmMwR0FPaEV6aXQtOWJvZy1jMlBwLTdRQkRuWHdaVF9mODF5SU5VTEJEWVJiX25yRkItanp2em1HYU5RNmFPT19oZ0RLYWJ2YkF0RUZRZmVMaGZLQ2pVem1xbnh2MVBrQm1oX29Va1JrRWlyVC1LaFNvODBaZ3Bsald4QXJMaXF6QTUyM3pISzdaTkN0ZFlKZUtHakJFTDA?oc=5",
-      "data": "18/08 21:13"
+      "titulo": "Em alta no Fluminense, Marcão aponta até quando seguirá no comando - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbW9pcGM4dS13cHp6djNHNnZ6WUhGTFdadXhTbmp6MUt2NV9oZ29ielZXN0hGUzNzcWMtc0JzeG80aktvdV9TN012Y3pwZERJckNtRVlMVHdYOFZXek9EQ2htWF9rd0VqYXhmWUpQNUxrSlV6dFJxUUlyajJ6bFJ6WVNxMGdoQTdUM1VsTmhuZmQ3N0JYX1RrUTV0R09fcm12aC0zQzFaNXVLQ0NOSlVSbHU5bHd0TmVwcC1EM0d1MHhfNHRhWE1aOTNOTjBDazM4YnVTSDhiSG5GV1hIekxWQ1g3ZEt4R21xb0lj?oc=5",
+      "data": "19/08 01:07"
+    },
+    {
+      "titulo": "Terans retorna ao Fluminense e passará por cirurgia - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzJPTl9WV3oxSGpzNmh1V0Y4N2VzTWszYXFyQ29xY2Ywa3h0eTlacWVqcUFaNklzYl95ekNpS2h1Zno1S0ZHdU1lQVhBbjc0MXJZRVJvemNfcE9ndFBidFFNSXFReGdNVTBncE5DSHpTOGE4dExMbzQ1enNUWHl2YVlHVkRnc2c5X1MyLVItS0M0UTBkUVVoajhyb1lQb19QYmF3bTNtY1NjSE9zUTdXSEZWak1icGZuUmViZEVnQdIBxAFBVV95cUxQTXRXaDVOYlFZeF9xSThBcndISy0tSmRwVDIwYUZxak1INlBURWRMVGRCTl8zT1gzUjBrbmstZ2lWNF9GM2h2NFZhVDc1bk51dVY2eDJwS0pZaWlDTTZwREJHNVlQUi1nb1dtTFBiZFJ0NnRlbkM3bTBBSE1POF8tNDcyYnlQN3lFZWFEZXZwRTN4cmtLSWdieEE0cG5OY1RTdWZwWTBSdEZVS0VzYnpESHF6SEdRNnRGLWtLNU9URXRILXlq?oc=5",
+      "data": "18/08 21:30"
     }
   ],
   "avisos": [
