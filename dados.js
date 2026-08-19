@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 11:27",
+  "atualizado_em": "19/08/2026 12:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -605,14 +605,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense cede empate no fim, mas avança nos pênaltis contra o Rivadavia - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNzhsY2I4VjlHUXpQdG0wY2ZERklkUmxPalN5M2UtY0hKQzVKenFwSzNkMlBxcDJYRjZsZnRWTUxJejE3RnJ1bngyYVhNTHZ5TmpfNUxQODZFQXZSU1dZSTFUNFdGTWlaVFhmSnJDY3hTUE9Cc3cyNGd3UWF3Q0RONHdLVTRyeXZBWE5SNlNfMFFkWDc5VTlkUnExWXRIb3FPN2JPOWJ1TTY1eGRiN2NHTDFSbWIwNVdqQndNYzJEcEt1SzE0MTg3ZGU3SXg5VGwzTXpCbjI1a1hYOVBRTUNrQTFmTkQ0NlktNnlURGRHeS1LU1ZjVmFGNg?oc=5",
-      "data": "19/08 00:16"
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
+      "data": "18/08 05:00"
     },
     {
-      "titulo": "Em vídeo, craques da brilhante 'Máquina Tricolor' - Terceiro Tempo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2dPZHlzd0dYVFl3VmZQc1JYR2NMNGtyMHZyZDl4bldJcy1jN19vSTBkUjhSczNuUnZLWVJzd1l2bm8wcnlrZ3YyR0k5OEgtcEVsZlhWbWFmUTVuM2RNa3lOakNWejhKXzYxZFdjenV1Ykc0cVlrTUVDUi01SjRTbHMtcmxhYnV6TUpmT2lHR0tlZw?oc=5",
-      "data": "19/08 13:08"
+      "titulo": "Vote! Marcão tem que ser efetivado como técnico do Fluminense? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkVMd25YZnhIUWR4SERXOU5uSERxY3hhckljWDZOeDJyaUhzUWx5OU55LUZYUEk2ZVFlZXI1T01wV0Vtc3E4OFNQQ1h2cGRBUTVpWlphRFl4SlZYb2NjZkJsamgweUxQVnhMM0ZJWTJPS3BWc1VNT0daMUM1aFA1M0ZGemhiY0FNQ2M0bXp6NjNYNWFYN1h1a1Z2dld2WXpoNXE0?oc=5",
+      "data": "19/08 14:57"
+    },
+    {
+      "titulo": "Fluminense monitora Arthur Melo, fora dos planos da Juventus: pode haver avanço? - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWXFMbUh1ZHlvTHRGakthOEZ1UmgxUWFYQ2U1THIzSW9uMmJndVBrUTJfM0J6d0t1amJJXzBIT2QxbFRaWDlkOWV4WUV0RGp4c1hlS0pJMGw0NXhzRjJNdkN1UWIwWExJZ3hINV9pdGEwZ0pUeW42MU5UbGpwTU45bmlyT2FaMExRelNGU2dyZ3pQTEcxSFcyR19hS3ljT243bU5qcjF1SUdpSzFmUnNPRGlCN0pjbWZWNi02Q2lLa01od2NENUY5NGVYU055T0NmRUdDaW5EdGtWSE1LNHdiMHd2bGlfcXgwNjVFRUNTT3RJUFd0Tm5xdg?oc=5",
+      "data": "19/08 14:32"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
@@ -620,14 +625,9 @@ window.PAINEL_DATA = {
       "data": "17/08 00:24"
     },
     {
-      "titulo": "Em alta no Fluminense, Marcão aponta até quando seguirá no comando - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbW9pcGM4dS13cHp6djNHNnZ6WUhGTFdadXhTbmp6MUt2NV9oZ29ielZXN0hGUzNzcWMtc0JzeG80aktvdV9TN012Y3pwZERJckNtRVlMVHdYOFZXek9EQ2htWF9rd0VqYXhmWUpQNUxrSlV6dFJxUUlyajJ6bFJ6WVNxMGdoQTdUM1VsTmhuZmQ3N0JYX1RrUTV0R09fcm12aC0zQzFaNXVLQ0NOSlVSbHU5bHd0TmVwcC1EM0d1MHhfNHRhWE1aOTNOTjBDazM4YnVTSDhiSG5GV1hIekxWQ1g3ZEt4R21xb0lj?oc=5",
-      "data": "19/08 01:07"
-    },
-    {
-      "titulo": "Terans retorna ao Fluminense e passará por cirurgia - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzJPTl9WV3oxSGpzNmh1V0Y4N2VzTWszYXFyQ29xY2Ywa3h0eTlacWVqcUFaNklzYl95ekNpS2h1Zno1S0ZHdU1lQVhBbjc0MXJZRVJvemNfcE9ndFBidFFNSXFReGdNVTBncE5DSHpTOGE4dExMbzQ1enNUWHl2YVlHVkRnc2c5X1MyLVItS0M0UTBkUVVoajhyb1lQb19QYmF3bTNtY1NjSE9zUTdXSEZWak1icGZuUmViZEVnQdIBxAFBVV95cUxQTXRXaDVOYlFZeF9xSThBcndISy0tSmRwVDIwYUZxak1INlBURWRMVGRCTl8zT1gzUjBrbmstZ2lWNF9GM2h2NFZhVDc1bk51dVY2eDJwS0pZaWlDTTZwREJHNVlQUi1nb1dtTFBiZFJ0NnRlbkM3bTBBSE1POF8tNDcyYnlQN3lFZWFEZXZwRTN4cmtLSWdieEE0cG5OY1RTdWZwWTBSdEZVS0VzYnpESHF6SEdRNnRGLWtLNU9URXRILXlq?oc=5",
-      "data": "18/08 21:30"
+      "titulo": "Ex-Atlético vira 'dor de cabeça' na Série B e volta ao Fluminense: 'Só Deus' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzAzZnJMbXdXUjlTQ2xsN2F4bVFzU3pxZk9xZjVIeDBraXRlTzIwMkJPYWJ4b09HRmMwR0FPaEV6aXQtOWJvZy1jMlBwLTdRQkRuWHdaVF9mODF5SU5VTEJEWVJiX25yRkItanp2em1HYU5RNmFPT19oZ0RLYWJ2YkF0RUZRZmVMaGZLQ2pVem1xbnh2MVBrQm1oX29Va1JrRWlyVC1LaFNvODBaZ3Bsald4QXJMaXF6QTUyM3pISzdaTkN0ZFlKZUtHakJFTDA?oc=5",
+      "data": "18/08 21:13"
     }
   ],
   "avisos": [
