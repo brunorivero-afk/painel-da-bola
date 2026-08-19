@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 14:21",
+  "atualizado_em": "19/08/2026 15:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -610,14 +610,14 @@ window.PAINEL_DATA = {
       "data": "19/08 00:16"
     },
     {
-      "titulo": "Fluminense: Thiago Silva é sincero ao falar sobre aposentadoria - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNekZvellpU2xNUDdUM1ZUNzBDWlJRZHE0T3Zrc2xBemdRNk1yNGo2elYzTzdFNU15YXpabGczTklXOWxPUzZHQ0xOSExFQjVmNGV6S1lKcFBPcHBFSHJXdUVabDNha1E4RGNkZW5GQl9nNTd0RFFLSkxpT3Qtc2YtT3FxV0JaMGVKVTBERVlTSzVuUVZEMlo5b1MyTzNsbGJiNHdYUTl1dmhmUTdmMVByVC1TV1pqSFc0STBydlJwajd0UTVXdFAyaGR4QUUwV1RpTTBzc252UXExVzJhcGV1c3MxX0V2TmVW?oc=5",
-      "data": "19/08 16:30"
+      "titulo": "Marcão credita classificação a jogadores e diz que fica \"até quando o Fluminense precisar\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2x2NnpwWW90MkluaGxzOUFpbzNzT0F0bVdPTlJSRURKeDdfZUlpT29wcExMNjBsNHBNcDViM2JLamN2MjVadW95a1BfRURoYkZBSXNsclRfbU0tMnJwa19mMTJULWdaS1pvQlU0cDd0emJUNVlXVS1kVndOYm5NaVZJU0ZCSlRDWmVQVzA0SFNnZURKbnAyUWxPUFZTM2w5eU5pU1RLc2Y1WnJlNmZNZTB4ZEVSTWdQaE9abTBGZ3B3TlZkRW9CetIB1wFBVV95cUxPMERieF94c0tIV3huZ2oyMmNmZ192c1BxU2EzN0VqRy1lRnFQNUVCelgtUUZTOWRRNmVQbzBUYUFybTBNWmZONFQ0LXVBWUxzbDhUN3ZXakhaYXFTTll3RWJoclJfWHBOVGpaakpDcTFKa0RZZW5hS09IZGdfSmVKU2ZUT0JBRXEzY0JBVk16M195QkZTc01hVlZpODRiZlo5YTlQLURiQ21lN3RxdjdSd0lBZTZDTnRNUWJZa09NMW9SUUplNG95VzFBMXdiczBFOWJqRkdhSQ?oc=5",
+      "data": "19/08 00:38"
     },
     {
-      "titulo": "Com um a menos, Fluminense leva empate no fim, mas bate Rivadavia nos pênaltis com brilho de Fábio e avança na Libertadores - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONXktWG4tSEh1U0dBb1kwNVRWWmE3SmowNWx4c2xNSFdqVWdsUjRlYi1WaVU5R2tXdEJ2dHhnWm54cGZPYTlKUUlqUmNXYjRvaWNILU1wNWZqMF9CNWhsWUgweXFhSmZvaGdNcFg4OHBmLWJ5UXBMaE84THJGT01FaF9ReEFqeVVPdUhWSlZFWHU0QnEwOHg2V1VwVG9zWk4tNkhjaXJ3MHZCdjBScndDd0ZZUjNiaU1NeTVYWVduUTZJYmNfLTRNZ3EyZzNBbWhPc1dydzczQ3EwdEE4bDZiSkgzR0NHLWJUSktVeVhMRmIwQV92S1NfVWxPaEJyN0xCVFJSMGk2dFNNeUZGR1NFb2NkUmXSAaMCQVVfeXFMUHpFX05BbUU4Z3pPYzl5cUFRdFJPSWVFZlBuUTlpSE9VVDZBVkxoTGhHWW10MlhXMnVicmZrSUNEQ1ZHTUdISXNkQjF3YVZlN3VsRmlHb2Z5T1g4TXFsRXJFUXY3WkxON2RaR2ZsRnIxVnl0UzFvcnBVQnpjYnBXblZsbEVhOS1uS2dNODQwUDFZYk40UGViY2ktM2xFWEJzRTJwNFF0cDRTOXJwRkZfRVh4R1FUa0x2bkZGQVd5aXByblAxcTRxaTJsTDNwbVB3RVppQ1dtVUNRZ2x2RDM1Mm9CS1AzRlRUbF9pbWppVXZKTHRtb3AwRGE2ZWdfdFVLa21TSzloWXVVX2RtS2ZoeGV4X1p4ZkNuM3dERGdwcUZqeEhB?oc=5",
-      "data": "19/08 00:15"
+      "titulo": "Fluminense não procura treinador após a saída de Zubeldía, mas Marcão mantém cautela sobre efetivação - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON1VYVU9Sb1Vsd1NWR25QY25BZk9icFJrZmtUeUpGYzRzWlQwNXk3WnZmUFVGWlBiZGNUakl4UHR4Z3BhVDVTNzRLMXlwS2trbDEzUXlBdDU4ZXhvRmZtNHhWUFRCRU5GOEJ2UHRmRkRPYU9wWmd6TDBGQlN3aVhIMzU0QjVIRlh2SlNldUdVMHAxYXo0VjBGWlg5dERHcmh0ZE9ib2VVcGRmODlFbmpPS1ROMlc2YXpnbkR5cDlQTGJuMGtDS1lGdkhjeFlrcGd0R2R3c1RkNW1ObHVPSl9yenVVa1VyZjJJYlROR0NuNjVDZ0FRSFVxV1hrUC1wRkFBQUlPaTJIONIBlgJBVV95cUxQcDI2NEtya2RWQXdNODN3VFhLc2plVFlMdXdWN1U1SUg0N3lQVFZnb09ES3VaZ2RzQ2JEdy1MV2l5MVN0VlRHeHVBZFJnVVBiUGlvaXlkWFpGUHExVkIxUWJmQncxS2EwU3RweE0xQ3ZKamFCSWtxYmhQX1BrdktKeGQtQW9TWXFoWF9YNTlzbWZpX0hZS2czYzlaa3p6N2Vhc3BIOFRJdjVoWjVBMWZua1NrQXUtekRoVUJ4N05UOGZnVVJsQTdRazlUaWU2cGJSNnBsREtTbzg2bFptZE5ZaEYwa0lQWnZCSWFPbkdYTGUxYjd5MjZwUW5wejJzNTduaDZpRlRiV2Vxem9iOWRiY19naDdQZw?oc=5",
+      "data": "19/08 17:00"
     },
     {
       "titulo": "Vote! Marcão tem que ser efetivado como técnico do Fluminense? - LANCE!",
