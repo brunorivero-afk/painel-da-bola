@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "19/08/2026 08:20",
+  "atualizado_em": "19/08/2026 09:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -576,43 +576,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.9,
-      "temp_min": 20.1,
+      "temp_max": 29.8,
+      "temp_min": 20.0,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.0,
-      "temp_min": 17.6,
+      "temp_max": 28.6,
+      "temp_min": 17.4,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.2,
-      "temp_min": 14.4,
+      "temp_max": 26.7,
+      "temp_min": 14.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.9,
-      "temp_min": 13.4,
+      "temp_max": 27.6,
+      "temp_min": 13.0,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Marcão credita classificação a jogadores e diz que fica \"até quando o Fluminense precisar\" - GE",
+      "titulo": "Marcão credita classificação a jogadores e diz que fica \"até quando o Fluminense precisar\" - ge",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2x2NnpwWW90MkluaGxzOUFpbzNzT0F0bVdPTlJSRURKeDdfZUlpT29wcExMNjBsNHBNcDViM2JLamN2MjVadW95a1BfRURoYkZBSXNsclRfbU0tMnJwa19mMTJULWdaS1pvQlU0cDd0emJUNVlXVS1kVndOYm5NaVZJU0ZCSlRDWmVQVzA0SFNnZURKbnAyUWxPUFZTM2w5eU5pU1RLc2Y1WnJlNmZNZTB4ZEVSTWdQaE9abTBGZ3B3TlZkRW9CetIB1wFBVV95cUxPMERieF94c0tIV3huZ2oyMmNmZ192c1BxU2EzN0VqRy1lRnFQNUVCelgtUUZTOWRRNmVQbzBUYUFybTBNWmZONFQ0LXVBWUxzbDhUN3ZXakhaYXFTTll3RWJoclJfWHBOVGpaakpDcTFKa0RZZW5hS09IZGdfSmVKU2ZUT0JBRXEzY0JBVk16M195QkZTc01hVlZpODRiZlo5YTlQLURiQ21lN3RxdjdSd0lBZTZDTnRNUWJZa09NMW9SUUplNG95VzFBMXdiczBFOWJqRkdhSQ?oc=5",
       "data": "19/08 00:38"
     },
     {
-      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
-      "data": "19/08 00:14"
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
+      "data": "18/08 05:00"
     },
     {
       "titulo": "Análise: Marcão se prova como solução do Fluminense para 2026 - LANCE!",
@@ -620,14 +620,14 @@
       "data": "19/08 07:00"
     },
     {
-      "titulo": "Quanto o Fluminense ganhou com vaga nas quartas da Libertadores? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaVVfWjZoRWNCSlNTdVBVTHhBLS02S1NHTG1Ebk10OVpqcVpadU9ISjRCb2gyWU83WkxFNEpHUXpXcy1oTUhTbTBNeEc1d2ZEeWtUZkNzd1ZtSzYzeHRkRjBmdjdMd1RiOXFtZUp3YTVSSEswUlBHOHVYRGlRUURuOFpLNVhlTjRCQmFTa0F6RDZ3ak1OMktTWDEzWlJMZGFjZ0VjeHY2T2JYWVJoY2EzR250MW1EcThFcTVhRXZoazY5OFFkMjJIdGZtOEhnYjNtWWxodlRiMEJNQnVZYnhORmM1RHUwaEROem5qbw?oc=5",
-      "data": "19/08 06:35"
+      "titulo": "Ex-Atlético vira 'dor de cabeça' na Série B e volta ao Fluminense: 'Só Deus' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzAzZnJMbXdXUjlTQ2xsN2F4bVFzU3pxZk9xZjVIeDBraXRlTzIwMkJPYWJ4b09HRmMwR0FPaEV6aXQtOWJvZy1jMlBwLTdRQkRuWHdaVF9mODF5SU5VTEJEWVJiX25yRkItanp2em1HYU5RNmFPT19oZ0RLYWJ2YkF0RUZRZmVMaGZLQ2pVem1xbnh2MVBrQm1oX29Va1JrRWlyVC1LaFNvODBaZ3Bsald4QXJMaXF6QTUyM3pISzdaTkN0ZFlKZUtHakJFTDA?oc=5",
+      "data": "18/08 21:13"
     },
     {
-      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo e escalações do jogo da Libertadores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMEl0VEdYM3hkRGJwUVhmUk5NNS1QLXhiR01vWnBuc21XQ0U5YlFnY254bFdVRE9tOU9FYjhKNzV1Y1FmZWZrZFppTlJwSmNmQXktVzRESnY0dzlPa3VHZXE3S2hBWUtTRHNrTWQtZjhfa1UyY0U0UGJGWXVMVVNkQUgxZDA5ZVdsWmFkZ1B0bUR5QzFGX1BWbnE5QkxVYzlFM2RkZmtzQWRKR0xVbnd0em9rVzQ5ZlhlMlEyQWxhdEtMX3hIOVVaMWJwcVJOdUZ4a2I2TFVpcGc0TWRHRXlqbUY5eWlVeFhNY0pGQkZIR28?oc=5",
-      "data": "18/08 20:50"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnN2bkd3b2s2OGZVc3Vrb1dBMWRMWl9Ec3NnU1NScG14V0ZwX25zRl82eHVqa25MSk14NXJOZlotYmtLSnRUV2M5ZktnTURhaldubVFhUkluWG1WeXY1NjloYklLT1hjekNvSlQ1aDFDLWlqX0x6NHUzUmVRZ3k3NXNaM3dIYjNkek13OXp0YTE3S1JPa3R2eHR2N3ltRUlTOUVIZQ?oc=5",
+      "data": "17/08 00:24"
     }
   ],
   "avisos": [
