@@ -1,26 +1,6 @@
 {
-  "atualizado_em": "19/08/2026 01:32",
+  "atualizado_em": "19/08/2026 02:25",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Real Esteli x CS Herediano",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Xelaju x Diriangen",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-19",
@@ -100,7 +80,7 @@
       "date": "2026-08-19",
       "time": "19:00",
       "competition": "Copa Libertadores",
-      "match": "Coquimbo Unido x Platense",
+      "match": "Cerro Porteno x Palmeiras",
       "channels": [
         "PARAMOUNT+"
       ]
@@ -109,11 +89,10 @@
       "sport": "futebol",
       "date": "2026-08-19",
       "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Atlético-MG x RB Bragantino",
+      "competition": "Copa Libertadores",
+      "match": "Coquimbo Unido x Platense",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "PARAMOUNT+"
       ]
     },
     {
@@ -130,10 +109,11 @@
       "sport": "futebol",
       "date": "2026-08-19",
       "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Cerro Porteno x Palmeiras",
+      "competition": "Copa Sul-Americana",
+      "match": "Atlético-MG x RB Bragantino",
       "channels": [
-        "PARAMOUNT+"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -174,7 +154,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "FC Cincinnati x New York City FC",
+      "match": "Columbus Crew x Montreal Impact",
       "channels": [
         "APPLE TV"
       ]
@@ -184,7 +164,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "DC United x New England",
+      "match": "FC Cincinnati x New York City FC",
       "channels": [
         "APPLE TV"
       ]
@@ -204,7 +184,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Orlando City SC x Chicago Fire",
+      "match": "New York Red Bulls x Nashville SC",
       "channels": [
         "APPLE TV"
       ]
@@ -214,7 +194,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "New York Red Bulls x Nashville SC",
+      "match": "Orlando City SC x Chicago Fire",
       "channels": [
         "APPLE TV"
       ]
@@ -254,7 +234,7 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Columbus Crew x Montreal Impact",
+      "match": "DC United x New England",
       "channels": [
         "APPLE TV"
       ]
@@ -267,17 +247,6 @@
       "match": "Sporting Kansas City x St. Louis City",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Criciúma",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
       ]
     },
     {
@@ -300,6 +269,17 @@
         "GLOBO",
         "GE TV",
         "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Criciúma",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -348,16 +328,6 @@
       "date": "2026-08-19",
       "time": "22:30",
       "competition": "MLS",
-      "match": "Colorado Rapids x Los Angeles FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "22:30",
-      "competition": "MLS",
       "match": "Seattle Sounders x Austin",
       "channels": [
         "APPLE TV"
@@ -376,9 +346,9 @@
     {
       "sport": "futebol",
       "date": "2026-08-19",
-      "time": "23:30",
+      "time": "22:30",
       "competition": "MLS",
-      "match": "Los Angeles Galaxy x San Jose Earthquakes",
+      "match": "Colorado Rapids x Los Angeles FC",
       "channels": [
         "APPLE TV"
       ]
@@ -401,6 +371,36 @@
       "match": "Portland Timbers x San Diego",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Los Angeles Galaxy x San Jose Earthquakes",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Real Esteli x CS Herediano",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Xelaju x Diriangen",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -600,6 +600,16 @@
       "data": "19/08 00:14"
     },
     {
+      "titulo": "Marcão credita classificação a jogadores e diz que fica \"até quando o Fluminense precisar\" - GE",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2x2NnpwWW90MkluaGxzOUFpbzNzT0F0bVdPTlJSRURKeDdfZUlpT29wcExMNjBsNHBNcDViM2JLamN2MjVadW95a1BfRURoYkZBSXNsclRfbU0tMnJwa19mMTJULWdaS1pvQlU0cDd0emJUNVlXVS1kVndOYm5NaVZJU0ZCSlRDWmVQVzA0SFNnZURKbnAyUWxPUFZTM2w5eU5pU1RLc2Y1WnJlNmZNZTB4ZEVSTWdQaE9abTBGZ3B3TlZkRW9CetIB1wFBVV95cUxPMERieF94c0tIV3huZ2oyMmNmZ192c1BxU2EzN0VqRy1lRnFQNUVCelgtUUZTOWRRNmVQbzBUYUFybTBNWmZONFQ0LXVBWUxzbDhUN3ZXakhaYXFTTll3RWJoclJfWHBOVGpaakpDcTFKa0RZZW5hS09IZGdfSmVKU2ZUT0JBRXEzY0JBVk16M195QkZTc01hVlZpODRiZlo5YTlQLURiQ21lN3RxdjdSd0lBZTZDTnRNUWJZa09NMW9SUUplNG95VzFBMXdiczBFOWJqRkdhSQ?oc=5",
+      "data": "19/08 00:38"
+    },
+    {
+      "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVjM3NxVkJza0hTNUFCVUxJUkFsQ183bGsyTTFCVF93Smp3SjJENFFoYVNHbkh5RUttVmRaS2Fad0U0c0tSemdlNlp5dVFBZ1FjRk9ZX0stMGs4ek9vMEN5QmVnZnFNTzVNLWxKY2dyNU9hQndDcG41U251SDFtLXFMREtxMWFqM0JtY19id1hjd3d0TEp2bElYLUw1WHZTMW82RUVFSGZTejZzWHNtS2FQeWhyYXFFSlkwbUdyZVpDamtSd3ZyOUR0NFNhQVE1M25EYTBuaWlRSVU?oc=5",
+      "data": "19/08 04:41"
+    },
+    {
       "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
       "data": "18/08 05:00"
@@ -608,16 +618,6 @@
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Remo - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnN2bkd3b2s2OGZVc3Vrb1dBMWRMWl9Ec3NnU1NScG14V0ZwX25zRl82eHVqa25MSk14NXJOZlotYmtLSnRUV2M5ZktnTURhaldubVFhUkluWG1WeXY1NjloYklLT1hjekNvSlQ1aDFDLWlqX0x6NHUzUmVRZ3k3NXNaM3dIYjNkek13OXp0YTE3S1JPa3R2eHR2N3ltRUlTOUVIZQ?oc=5",
       "data": "17/08 00:24"
-    },
-    {
-      "titulo": "Atacante deixa o clube, jogador revela que quase assinou com o Flu e recado de Cano: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdEZEeDlqQ0hRa0FyVkpIanowd0xiM2ZBY2F0WDNtd0VjekVPYzJtVUVCLUp4MEJFTEJ0R2Y1cVBMV0p0d0EzUEtHUFFjZVBGSFpiUklBcVVkdHR5NVI2czBHWm9sS05HbWo1X2xUSWJLYlRxVVBEYU84MTNpdW5BZDk2ZE5kRFhJYzUyRWZnQkRjQjgwNTVlX2tTeFBPWHpJenh5R3NueTYtbV9XdWRHZFI2b19HVG9aQ2NvT2NzSlRrdDRDWi1KeUtTUHhxYXp6WWxVMUIxdkQ2SVZNeURMUjFESUE4WV9XdFU4eHZhbVdkcEV1dHgwNFE5QVc3S0pkaUdjdWFnUmh1R3Y3ZDl5SXhtNEVzZlZpbmJJT0NFR2dKQmRSUXFPNW96Z28tN2dF?oc=5",
-      "data": "17/08 17:39"
-    },
-    {
-      "titulo": "Remo foca atenções no Fluminense, 2º melhor mandante da Série A - DOL",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2pTcGNGbzFMU3RGb25OVDBaRmFWYWc1NHVoR1laMlJYWEdJRHZOTkJXYTlUYTdzNFpVNWZhOGxOV19iYXpSLWhhTG4xRHZhdVlSdEZQNlhTRU01LVpKUHBhazFaUF9zY3AtcXdxZGNqS3JJa0pUTmJHZzl2YV9CRVRtOF9HUjZpYjFwdUkwZHpiUmtldlZOclNhZlJZQV9vYUHSAaoBQVVfeXFMT3NpNjR5bFQ0aVRQZzZ5UlNFVDJHVGNWcjJTNjRMRG90WnpmZ3BkNnBBREpqMFRWbHV0N2UtNDFZUmlOV1FXUUFJd3d6aHpadjdCb1paeTJyck5WVVpxbXVyNEcwNzFrbEJnZkU5OVRrRG41S3BXT29rNnF5Ym1lRmVVWHRjeGVWWGRxaUNYb0ZQZzI0NmdtbjlzbUlNa1kzZ3I5QWJQNTY5ZGc?oc=5",
-      "data": "18/08 15:16"
     }
   ],
   "avisos": [
