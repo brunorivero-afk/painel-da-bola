@@ -1,60 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 17:20",
+  "atualizado_em": "19/08/2026 18:20",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Atletico Madrid x Malaga",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Celtic x Lask Linz",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "NEC Nijmegen x Bodo/Glimt",
-      "channels": [
-        "TNT",
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Hapoel Beer Sheva x Sabah FA",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Slovan Bratislava x Celje",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-19",
@@ -121,11 +67,8 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Fortaleza x São Bernardo",
+      "match": "Avai x Sport Recife",
       "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -134,8 +77,11 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Avai x Sport Recife",
+      "match": "Fortaleza x São Bernardo",
       "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -154,16 +100,6 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "FC Cincinnati x New York City FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
       "match": "Orlando City SC x Chicago Fire",
       "channels": [
         "APPLE TV"
@@ -174,7 +110,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Philadelphia Union x Inter Miami",
+      "match": "New York Red Bulls x Nashville SC",
       "channels": [
         "APPLE TV"
       ]
@@ -194,7 +130,17 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "New York Red Bulls x Nashville SC",
+      "match": "FC Cincinnati x New York City FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Philadelphia Union x Inter Miami",
       "channels": [
         "APPLE TV"
       ]
@@ -253,6 +199,17 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-19",
       "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Criciúma",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:30",
       "competition": "MLS",
       "match": "Minnesota United FC x Atlanta United FC",
       "channels": [
@@ -279,17 +236,6 @@ window.PAINEL_DATA = {
       "match": "Santa Fe x River Plate",
       "channels": [
         "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Criciúma",
-      "channels": [
-        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -411,6 +357,60 @@ window.PAINEL_DATA = {
       "match": "Barcelona x Al Ahly",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Slovan Bratislava x Celje",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Hapoel Beer Sheva x Sabah FA",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "NEC Nijmegen x Bodo/Glimt",
+      "channels": [
+        "TNT",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Celtic x Lask Linz",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Atletico Madrid x Malaga",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
       ]
     },
     {
@@ -615,14 +615,14 @@ window.PAINEL_DATA = {
       "data": "19/08 00:16"
     },
     {
-      "titulo": "Suzano assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbndHNmhCWVZYSUtXWU5VYU5odWI0VGlzN0kyc1VKQlRKMWl0cWhIZU12UVlDNlFuWVA5QkZZTTVVNlhtYWFxdC0yckNRUEg4R3BWbms3UkpxU3BvcGFObkZnaW9jemVlSjZmc2o0b29UZHNLbi1ZdmlMcTFTWlVsN2NSZmFaTkVZWGkwbnd0eGFXN3p3eFBGejNKeHlhU0dk?oc=5",
-      "data": "19/08 20:10"
+      "titulo": "Cria do Fluminense deixa o clube para jogar no exterior - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNME9FUF83M3RWX2w4S1NGZU1tMzR4MnJyUGk0RDRvVU5XT2xwa1dmWF9PZU15bmszd3VJc2o1VnRGUTFPSm5mMG5jSzlWNFlpRkNydzhMYlNBRmNEZHdkVkNOYmVjVWVkYk91alhzQ3lUOUJ5cXVpMXU1aGxJbzVla25RSjd3X09RZjBPUzNYb1BKZy1sdVZyZExJRHd4dEJYc0VQRldaNjVLd3hFcUxjV05lRlhzcU1zcU9DaG1GQVBsU0tUY0ROVU1jOHFYS1g4NmRqcFJINHJoQ282UXlV?oc=5",
+      "data": "19/08 21:10"
     },
     {
-      "titulo": "Fluminense: Thiago Silva é sincero ao falar sobre aposentadoria - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNekZvellpU2xNUDdUM1ZUNzBDWlJRZHE0T3Zrc2xBemdRNk1yNGo2elYzTzdFNU15YXpabGczTklXOWxPUzZHQ0xOSExFQjVmNGV6S1lKcFBPcHBFSHJXdUVabDNha1E4RGNkZW5GQl9nNTd0RFFLSkxpT3Qtc2YtT3FxV0JaMGVKVTBERVlTSzVuUVZEMlo5b1MyTzNsbGJiNHdYUTl1dmhmUTdmMVByVC1TV1pqSFc0STBydlJwajd0UTVXdFAyaGR4QUUwV1RpTTBzc252UXExVzJhcGV1c3MxX0V2TmVW?oc=5",
-      "data": "19/08 16:30"
+      "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
+      "data": "19/08 20:30"
     },
     {
       "titulo": "John Kennedy, do Fluminense, manda recado após cirurgia: 'Cabeça erguida' - LANCE!",
