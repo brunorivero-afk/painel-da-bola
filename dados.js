@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 19:19",
+  "atualizado_em": "19/08/2026 20:18",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York City II x FC Cincinnati II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-19",
@@ -67,16 +57,6 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Avai x Sport Recife",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
       "match": "Fortaleza x São Bernardo",
       "channels": [
         "XSPORTS",
@@ -88,31 +68,21 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Sport Recife",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
       "time": "20:00",
       "competition": "MLS Next Pro",
       "match": "Crown Legacy x Connecticut FC",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Nashville SC",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -163,6 +133,26 @@ window.PAINEL_DATA = {
       "match": "Cuiabá x Operário-PR",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Orlando City SC x Chicago Fire",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -415,6 +405,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "New York City II x FC Cincinnati II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-20",
       "time": "00:00",
       "competition": "CONCACAF Central American Cup",
@@ -615,7 +615,7 @@ window.PAINEL_DATA = {
       "data": "19/08 00:16"
     },
     {
-      "titulo": "Cria do Fluminense deixa o clube para jogar no exterior - Terra",
+      "titulo": "Cria do Fluminense deixa o clube para jogar no exterior - terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNME9FUF83M3RWX2w4S1NGZU1tMzR4MnJyUGk0RDRvVU5XT2xwa1dmWF9PZU15bmszd3VJc2o1VnRGUTFPSm5mMG5jSzlWNFlpRkNydzhMYlNBRmNEZHdkVkNOYmVjVWVkYk91alhzQ3lUOUJ5cXVpMXU1aGxJbzVla25RSjd3X09RZjBPUzNYb1BKZy1sdVZyZExJRHd4dEJYc0VQRldaNjVLd3hFcUxjV05lRlhzcU1zcU9DaG1GQVBsU0tUY0ROVU1jOHFYS1g4NmRqcFJINHJoQ282UXlV?oc=5",
       "data": "19/08 21:10"
     },
