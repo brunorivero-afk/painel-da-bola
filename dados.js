@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 05:31",
+  "atualizado_em": "19/08/2026 06:28",
   "jogos": [
     {
       "sport": "futebol",
@@ -625,9 +625,9 @@ window.PAINEL_DATA = {
       "data": "19/08 07:00"
     },
     {
-      "titulo": "Análise: aposta em Marcão salva o 'fim' da temporada do Fluminense, que volta a sonhar pelo bicampeonato da Libertadores - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOeFpfbkdkR1VMWjVqZWtreWEzMno0UWVjQU5OdEw2T3VGVDVUanVKWk8xTXQxWDkxdkVGN0pWTWlNQ2tmS2JaQjlGc0R4aHE0NDV1RVFHZDZBSlRVSDY5VkNfU3dwZkluZG11cHowYnBUU2VMdmxCWjRZelJiejRNXzNMd2hhaTRBa1ROeXQtUDFiVXdkcGlmT2FmazFKaVlPSXZaNnNiOWFqenh4YUJZTTRINzhqcExWcno1aFdFdjFPbndpd19XTk5EZnIyaE5xYkxMeXpQWGZLWi03SFgwcHV0RS1hZ3QxRGdoY255SmswSDBTNEJwd2gwZWM0MXdxWUxJLWM2dzl3azhHeVRrcThhT01NMTVrUnl6ZXpMb9IBrgJBVV95cUxPNE5GSXdzT1NOTGx1ZWFnM2RyWGxZbzVZQWVJdDVxZUwwYUpzLXVJSzZXcklXMngxYzljZHRXZUxIWDVmdnFxcUhZX1V1emtDLWpiYWJxVmdfU1VQSnpzeE1UTjlrVElKT0ZqTFQzWU5IODZJWEJwLU0tM2hiS1BwTkxBVmZPVER6RVoyYWlMdHFoV2g4TTduekxDZEQ2X0dpdUJfMTEyaHRvLVFseTA1cWg0NDZHNkNTZlpHalllWUw4UjBfbUZzakxVMk5sS05VQnd1ckFUQ0syVGFkbWZhSDB0eml2YnZEVUczeVJoMzV1RE5KeVhxWV82Q2dsdGxwMGtPNmdLR21KYWZaZkhPTW9xN3Q3NGRZLURtZ2lLNG1GSVlPeXdwbjBIQ2FhUQ?oc=5",
-      "data": "19/08 05:10"
+      "titulo": "Independiente Rivadavia x Fluminense: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUUlnWWsycW5zMUFMNnp4X1VpVHAwN243TU1QQzl1LWtfeExXd3FiMF9WU2hKU29aM05nTFlIZFhpMGhfVm5WbVpxZ1ZhRFNzX2lNTnlNZFNzQTlJWTQ1cHQtU1A1N3NIdzlIUDJDeE5kTDhKU1RBVGh6UTBfa1FTSTVWeVJkUDV3czFPcEhzcm1sMVhnSE1WbzRIMjYtU0g4N3lQcEdaVTZUYWd4MjdZQWM4UnQ1bEo0SkY3VHk4U1kwN00yOUl0bTB4eGlpb09EdEUzcjR0akQtcXozWUs3TnZ0X1LSAfMBQVVfeXFMT3JFUzlYa0xhSWhKMmM4SFhXeUIyVWtZUXRna3A4SHE0R0RiaE1JOWd4WjkxcGktZHYzYS1RRlJMLUtUWHZzQU1EM3haSHdIV2N4UnpveHpjREFLMEttUVZUZlNpV1JQaUlrVGlCWTF5cmJFTzlSZ1FkNGg0VVpJSGRzVy02cG9EZEtzcFJOM042bDBrLVRkVUNNWm0yV0tCaGU3ZXRSckIxVV9oTVR5dGhDQnhyZnFMSFh2N1UzZnVqV0pIejNidUJvd1Y3d2pKZ281ZW5lWll3S0tSblktMmVwb2RwVVo0TU9ERXlVX1Y1aXpz?oc=5",
+      "data": "18/08 05:00"
     }
   ],
   "avisos": [
