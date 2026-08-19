@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "19/08/2026 16:20",
+  "atualizado_em": "19/08/2026 17:20",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Barcelona x Al Ahly",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-19",
@@ -174,36 +164,6 @@
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Columbus Crew x Montreal Impact",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Toronto FC x Charlotte",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
       "match": "Orlando City SC x Chicago Fire",
       "channels": [
         "APPLE TV"
@@ -215,6 +175,26 @@
       "time": "20:30",
       "competition": "MLS",
       "match": "Philadelphia Union x Inter Miami",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Columbus Crew x Montreal Impact",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Nashville SC",
       "channels": [
         "APPLE TV"
       ]
@@ -237,6 +217,16 @@
       "match": "Cuiabá x Operário-PR",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Toronto FC x Charlotte",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -285,10 +275,10 @@
       "sport": "futebol",
       "date": "2026-08-19",
       "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Criciúma",
+      "competition": "Copa Sul-Americana",
+      "match": "Santa Fe x River Plate",
       "channels": [
-        "ESPN 4",
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -296,10 +286,10 @@
       "sport": "futebol",
       "date": "2026-08-19",
       "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Santa Fe x River Plate",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Criciúma",
       "channels": [
-        "ESPN",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -338,6 +328,16 @@
       "date": "2026-08-19",
       "time": "22:30",
       "competition": "MLS",
+      "match": "Colorado Rapids x Los Angeles FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "competition": "MLS",
       "match": "Seattle Sounders x Austin",
       "channels": [
         "APPLE TV"
@@ -356,9 +356,9 @@
     {
       "sport": "futebol",
       "date": "2026-08-19",
-      "time": "22:30",
+      "time": "23:30",
       "competition": "MLS",
-      "match": "Colorado Rapids x Los Angeles FC",
+      "match": "Los Angeles Galaxy x San Jose Earthquakes",
       "channels": [
         "APPLE TV"
       ]
@@ -386,16 +386,6 @@
     {
       "sport": "futebol",
       "date": "2026-08-19",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Los Angeles Galaxy x San Jose Earthquakes",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
       "time": "00:00",
       "competition": "CONCACAF Central American Cup",
       "match": "Real Esteli x CS Herediano",
@@ -411,6 +401,16 @@
       "match": "Xelaju x Diriangen",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Barcelona x Al Ahly",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -615,9 +615,9 @@
       "data": "19/08 00:16"
     },
     {
-      "titulo": "John Kennedy, do Fluminense, manda recado após cirurgia: 'Cabeça erguida' - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2h3LUZMbUloQU5henRnX0Z4YjN3Q2ZLR2J3dlFBTmswLUNIZmxzYmUtRnhZb2UtUFNVeUx3cVFmYWRzVVg0YlhQaC16Z2NYT2lILW14d2hybV9BS2hkVXJwMFUydy1ESzVHdjdNV3FLcmlkMUZzd04tOFdfZHZGYWxsSXQtLV92eDZpSGVhTVV4OW5NLTdJRkxUQ282b3BRVE9RVjdMVmVTNmUzUlE?oc=5",
-      "data": "19/08 14:52"
+      "titulo": "Suzano assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbndHNmhCWVZYSUtXWU5VYU5odWI0VGlzN0kyc1VKQlRKMWl0cWhIZU12UVlDNlFuWVA5QkZZTTVVNlhtYWFxdC0yckNRUEg4R3BWbms3UkpxU3BvcGFObkZnaW9jemVlSjZmc2o0b29UZHNLbi1ZdmlMcTFTWlVsN2NSZmFaTkVZWGkwbnd0eGFXN3p3eFBGejNKeHlhU0dk?oc=5",
+      "data": "19/08 20:10"
     },
     {
       "titulo": "Fluminense: Thiago Silva é sincero ao falar sobre aposentadoria - Terra",
@@ -625,9 +625,9 @@
       "data": "19/08 16:30"
     },
     {
-      "titulo": "Vote! Marcão tem que ser efetivado como técnico do Fluminense? - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGVSSmNlV3BIQVRpZ3gxajRCVnVLbVpmYklEbm1CS1FVQ21MRGw4WVZWVkxmNjlEMTVsU1k2MGlHOG9lME5wYXFRc3lxMUZGdDR1Q3B1NzRnNzBtQVd6ZmVicFpsRVhGNENYZTRsaEs5NW1RS3N4OTZMekdmbXVCMGZIeEhnbTV1ZkFXeTZsZzRGMS1HRXZGY1lYckhBREQtWXZtMEFyMU1yV2dwbUEzbmo5eW5OajhrS2hqaDRHWlJRdW50bEVQN1lTVdIB0AFBVV95cUxNQUpGbUItQ0FET2xVeU0wMjVZQmhMVkhHNFIyRUNHRUZuYnRpRUQzelZsLUNKV2s4clF5cjl1Sjg3RE5OS1RZeDdLOXN6amNldEhGa1FVaHNNS0tLQ1VBRW5MTkxYdTZaN1BCenhaY3VvSnNaWkRqWDV5UEs5WTV3U2xpZDd3TGU5U1RrdjltRExtT0ZQNE5RSndKNU5Fc2FRRUhodXozN2hJeVE2QnFSd0xKNHNtdDZudGdkRzZxcksxMnJRTDVCZERYeVg3RG5o?oc=5",
-      "data": "19/08 15:00"
+      "titulo": "John Kennedy, do Fluminense, manda recado após cirurgia: 'Cabeça erguida' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2h3LUZMbUloQU5henRnX0Z4YjN3Q2ZLR2J3dlFBTmswLUNIZmxzYmUtRnhZb2UtUFNVeUx3cVFmYWRzVVg0YlhQaC16Z2NYT2lILW14d2hybV9BS2hkVXJwMFUydy1ESzVHdjdNV3FLcmlkMUZzd04tOFdfZHZGYWxsSXQtLV92eDZpSGVhTVV4OW5NLTdJRkxUQ282b3BRVE9RVjdMVmVTNmUzUlE?oc=5",
+      "data": "19/08 14:52"
     }
   ],
   "avisos": [
