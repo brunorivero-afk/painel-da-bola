@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 15:27",
+  "atualizado_em": "19/08/2026 16:20",
   "jogos": [
     {
       "sport": "futebol",
@@ -583,21 +583,21 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.6,
+      "temp_max": 29.0,
       "temp_min": 17.4,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.7,
+      "temp_max": 26.5,
       "temp_min": 14.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.6,
+      "temp_max": 27.9,
       "temp_min": 13.0,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
@@ -605,29 +605,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Marcão atinge objetivo na Libertadores e tem prazo indefinido no comando do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUXZGY2tidUswa3dTRTlKNnZkeUpyYktwV3o0QUQwbHd2VGZycTR5MW11Q0JrYzdZX0Nza0pRNF9SM0JJbjhsRldiWjFNZk4xbUt4N2x6VDZad1haNllXMnl1dFBKa09kdlNFUUNEU01ObGl6TW9CSkQ2eHl3M1lSM2Y0c081c1Q1eEQ1SXBWdWFjeEZ1YjRjUWM1ZnNJQmRUanEwY3dRb0dtNmVCYUYxdjZFOTZFbzFJMEFnX1FIblkxWHhJLU1OYl9GZllRbko0X3JYdFFldWM0QW5YQmluWGpYcmREeVVDdFVIcnBB0gH8AUFVX3lxTE1oZ015X2NxeVVuS0JQcWpobEYxZnhTb0dNQ0RiTm95Zjh0X011dHRicW5QUjByV3NyMkR4ZHZoNHdZUmVDdnE2dmRVYURvUzAyYVV5a1QzcW9FUjlzYjg4YlA3UE0tUDhpQ1l5NkFzRjBldVJqd2xoUmVncE82Tm85LWlsUmhwUGlpYUZIYXpBdVBiMTFSZ0ZWRzhaM25YWkZVWmlvY3cyVWJjZHQ2QTZaQmF3SzNUYVR3V0JfMFMwT0xoX0lZSkRPbnh1eGVhMXM0OFZKeTVBR2dXRURDaUowUnJQS0J1OWFCZWNfLXlfc0N5dlcxM2NwZzNoMw?oc=5",
+      "data": "19/08 13:00"
+    },
+    {
       "titulo": "Fluminense cede empate no fim, mas avança nos pênaltis contra o Rivadavia - CNN Brasil",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNzhsY2I4VjlHUXpQdG0wY2ZERklkUmxPalN5M2UtY0hKQzVKenFwSzNkMlBxcDJYRjZsZnRWTUxJejE3RnJ1bngyYVhNTHZ5TmpfNUxQODZFQXZSU1dZSTFUNFdGTWlaVFhmSnJDY3hTUE9Cc3cyNGd3UWF3Q0RONHdLVTRyeXZBWE5SNlNfMFFkWDc5VTlkUnExWXRIb3FPN2JPOWJ1TTY1eGRiN2NHTDFSbWIwNVdqQndNYzJEcEt1SzE0MTg3ZGU3SXg5VGwzTXpCbjI1a1hYOVBRTUNrQTFmTkQ0NlktNnlURGRHeS1LU1ZjVmFGNg?oc=5",
       "data": "19/08 00:16"
     },
     {
-      "titulo": "Marcão credita classificação a jogadores e diz que fica \"até quando o Fluminense precisar\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2x2NnpwWW90MkluaGxzOUFpbzNzT0F0bVdPTlJSRURKeDdfZUlpT29wcExMNjBsNHBNcDViM2JLamN2MjVadW95a1BfRURoYkZBSXNsclRfbU0tMnJwa19mMTJULWdaS1pvQlU0cDd0emJUNVlXVS1kVndOYm5NaVZJU0ZCSlRDWmVQVzA0SFNnZURKbnAyUWxPUFZTM2w5eU5pU1RLc2Y1WnJlNmZNZTB4ZEVSTWdQaE9abTBGZ3B3TlZkRW9CetIB1wFBVV95cUxPMERieF94c0tIV3huZ2oyMmNmZ192c1BxU2EzN0VqRy1lRnFQNUVCelgtUUZTOWRRNmVQbzBUYUFybTBNWmZONFQ0LXVBWUxzbDhUN3ZXakhaYXFTTll3RWJoclJfWHBOVGpaakpDcTFKa0RZZW5hS09IZGdfSmVKU2ZUT0JBRXEzY0JBVk16M195QkZTc01hVlZpODRiZlo5YTlQLURiQ21lN3RxdjdSd0lBZTZDTnRNUWJZa09NMW9SUUplNG95VzFBMXdiczBFOWJqRkdhSQ?oc=5",
-      "data": "19/08 00:38"
+      "titulo": "John Kennedy, do Fluminense, manda recado após cirurgia: 'Cabeça erguida' - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2h3LUZMbUloQU5henRnX0Z4YjN3Q2ZLR2J3dlFBTmswLUNIZmxzYmUtRnhZb2UtUFNVeUx3cVFmYWRzVVg0YlhQaC16Z2NYT2lILW14d2hybV9BS2hkVXJwMFUydy1ESzVHdjdNV3FLcmlkMUZzd04tOFdfZHZGYWxsSXQtLV92eDZpSGVhTVV4OW5NLTdJRkxUQ282b3BRVE9RVjdMVmVTNmUzUlE?oc=5",
+      "data": "19/08 14:52"
     },
     {
-      "titulo": "Fluminense não procura treinador após a saída de Zubeldía, mas Marcão mantém cautela sobre efetivação - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON1VYVU9Sb1Vsd1NWR25QY25BZk9icFJrZmtUeUpGYzRzWlQwNXk3WnZmUFVGWlBiZGNUakl4UHR4Z3BhVDVTNzRLMXlwS2trbDEzUXlBdDU4ZXhvRmZtNHhWUFRCRU5GOEJ2UHRmRkRPYU9wWmd6TDBGQlN3aVhIMzU0QjVIRlh2SlNldUdVMHAxYXo0VjBGWlg5dERHcmh0ZE9ib2VVcGRmODlFbmpPS1ROMlc2YXpnbkR5cDlQTGJuMGtDS1lGdkhjeFlrcGd0R2R3c1RkNW1ObHVPSl9yenVVa1VyZjJJYlROR0NuNjVDZ0FRSFVxV1hrUC1wRkFBQUlPaTJIONIBlgJBVV95cUxQcDI2NEtya2RWQXdNODN3VFhLc2plVFlMdXdWN1U1SUg0N3lQVFZnb09ES3VaZ2RzQ2JEdy1MV2l5MVN0VlRHeHVBZFJnVVBiUGlvaXlkWFpGUHExVkIxUWJmQncxS2EwU3RweE0xQ3ZKamFCSWtxYmhQX1BrdktKeGQtQW9TWXFoWF9YNTlzbWZpX0hZS2czYzlaa3p6N2Vhc3BIOFRJdjVoWjVBMWZua1NrQXUtekRoVUJ4N05UOGZnVVJsQTdRazlUaWU2cGJSNnBsREtTbzg2bFptZE5ZaEYwa0lQWnZCSWFPbkdYTGUxYjd5MjZwUW5wejJzNTduaDZpRlRiV2Vxem9iOWRiY19naDdQZw?oc=5",
-      "data": "19/08 17:00"
+      "titulo": "Fluminense: Thiago Silva é sincero ao falar sobre aposentadoria - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNekZvellpU2xNUDdUM1ZUNzBDWlJRZHE0T3Zrc2xBemdRNk1yNGo2elYzTzdFNU15YXpabGczTklXOWxPUzZHQ0xOSExFQjVmNGV6S1lKcFBPcHBFSHJXdUVabDNha1E4RGNkZW5GQl9nNTd0RFFLSkxpT3Qtc2YtT3FxV0JaMGVKVTBERVlTSzVuUVZEMlo5b1MyTzNsbGJiNHdYUTl1dmhmUTdmMVByVC1TV1pqSFc0STBydlJwajd0UTVXdFAyaGR4QUUwV1RpTTBzc252UXExVzJhcGV1c3MxX0V2TmVW?oc=5",
+      "data": "19/08 16:30"
     },
     {
-      "titulo": "Vote! Marcão tem que ser efetivado como técnico do Fluminense? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkVMd25YZnhIUWR4SERXOU5uSERxY3hhckljWDZOeDJyaUhzUWx5OU55LUZYUEk2ZVFlZXI1T01wV0Vtc3E4OFNQQ1h2cGRBUTVpWlphRFl4SlZYb2NjZkJsamgweUxQVnhMM0ZJWTJPS3BWc1VNT0daMUM1aFA1M0ZGemhiY0FNQ2M0bXp6NjNYNWFYN1h1a1Z2dld2WXpoNXE0?oc=5",
-      "data": "19/08 14:57"
-    },
-    {
-      "titulo": "Melhores momentos de Ind. Rivadavia 1 x 1 Fluminense pela Libertadores - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQX0wwQ014WGJULUtUSFQzQkp4TnV4bnhRWW96WjhaQUZFeEk0Vm5kN0FvcTNwRk9ZUV9id0djMnpENTl3THhsbnNoZFY3ak4tOFIwakZtU2FiSjBVUXFyLWQxMDBXZHAxOXF3ajEwZmk0WExIN1JJbzhpQjZWT2FwOFg0RDhOdGFsaEpNQnlzVGJLV3RtbjZ5Y3VxYjBVZVo3TVVIVGcyQUh5NU1OSmlHeFB2VTZwMEJhR0xmYVBQLWNCMW5YcWNvb3F4Y2QxNVJpV0IwaFpxOWpWU1Z6N2FZbmJjb2h6SzRGNE14dnNIYm9iaWs3?oc=5",
-      "data": "19/08 00:58"
+      "titulo": "Vote! Marcão tem que ser efetivado como técnico do Fluminense? - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGVSSmNlV3BIQVRpZ3gxajRCVnVLbVpmYklEbm1CS1FVQ21MRGw4WVZWVkxmNjlEMTVsU1k2MGlHOG9lME5wYXFRc3lxMUZGdDR1Q3B1NzRnNzBtQVd6ZmVicFpsRVhGNENYZTRsaEs5NW1RS3N4OTZMekdmbXVCMGZIeEhnbTV1ZkFXeTZsZzRGMS1HRXZGY1lYckhBREQtWXZtMEFyMU1yV2dwbUEzbmo5eW5OajhrS2hqaDRHWlJRdW50bEVQN1lTVdIB0AFBVV95cUxNQUpGbUItQ0FET2xVeU0wMjVZQmhMVkhHNFIyRUNHRUZuYnRpRUQzelZsLUNKV2s4clF5cjl1Sjg3RE5OS1RZeDdLOXN6amNldEhGa1FVaHNNS0tLQ1VBRW5MTkxYdTZaN1BCenhaY3VvSnNaWkRqWDV5UEs5WTV3U2xpZDd3TGU5U1RrdjltRExtT0ZQNE5RSndKNU5Fc2FRRUhodXozN2hJeVE2QnFSd0xKNHNtdDZudGdkRzZxcksxMnJRTDVCZERYeVg3RG5o?oc=5",
+      "data": "19/08 15:00"
     }
   ],
   "avisos": [
