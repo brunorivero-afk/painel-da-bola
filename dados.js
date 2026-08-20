@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 10:41",
+  "atualizado_em": "20/08/2026 11:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -432,19 +432,19 @@ window.PAINEL_DATA = {
       "data": "19/08 13:00"
     },
     {
-      "titulo": "Veja premiação do Fluminense após avançar às quartas da Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzM4LVJoNFRkV2dpNkFPZVp2Vk5VY3dZZTlNRFJTNmZGanFEZ0JISjZLVkJpYWZ0UUF0aHlpbFRoakJYYkNmOTdaS3V6WmwtMEk5M0xGdFNCZmVzdHdjZ0dLWnJHSTl4UkNkckRlTkpyUlFtYlZYcXB1dTZvUDVWaGpaelFybEJsZVF1MmVfb2RiSW5SdU5kVVRDM3hGaktQcy1mMm42Rk51Y1ZzbkE?oc=5",
-      "data": "19/08 01:52"
-    },
-    {
-      "titulo": "Rescisão com a Juventus: Corinthians e Fluminense aguardam decisão de Arthur Melo - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLUV5U0h5dnpuMlcwb282QXMxa2VtZUVOT0x0TEM5VDBXUjFwNnZ4dFNDeUhQVGI2Y1BER2tsMXlvb0dkSGtCVUp5Ull5THJ6VGtCbjluazUtOTNzLTRVU0lJendyeTNhdUszb0R3cXFqMjZ6dk5xQ3VWWll6UTVFQ24wSGpVem95R09MYmExQXR2aHpnSFdUWEtzOXB6ZnRMSjktcHNBWFF2d3d5OXU1OGlzQXQ2ZkczVXVWWXlGWTZQbU1IX2lIa05lZEItQTNDR055Z0tISi1ERWtWNFhONDRRT25XYU9RYm5WanM0TU1EVE5FbWExY2FwM2E?oc=5",
-      "data": "20/08 09:01"
+      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
+      "data": "19/08 00:14"
     },
     {
       "titulo": "Especulado no Fluminense, volante com salário de R$ 2 milhões pode ficar livre - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVG9HbkN5SXNNaEkyYUZLU1BKV1pVRlhPWUpPdl9tM1EwV3JtVlBzWmRxLVFaT1NjeFNvWDdqaS1PMFBWOHhtZFJWeXAwbVNjZE5OMTVISnlVdzUxdUNGcDNEUHduUnVWZWw3THFFTm41QWtnTzBmMnRPaGdVbXBudXB0eU1WMnFCUk5mbVpFZnRPNWQ4a0luZWVUUlpUa1JEaktWNjZn?oc=5",
       "data": "20/08 12:00"
+    },
+    {
+      "titulo": "Soteldo cresce no Fluminense e vira peça-chave para reta final da temporada - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQng3NkhkUmw2UzN2LUlTN01hTTlyTEg3QjI0dXVOQjRCYjhvNFR1VTh1WVgtellLQkJNc0JINUpxNmdsbWtBeW5HOXUxQ2dtaFljcnczdloxMjNtb2RUQU5WNUEzZlZybm43Z3J1STU1NFkyMGJZaEQtS0txRWdHbjVqam5Mc2EtQWdYbU5vbHdHLUhWMEtXSHQxRU9ra2E1MnFMNThXLTh2MExKdS1jYkViQ1RiYzEyVVRnZWlYbHVGeHVYTXZTVVBIYk42Tk1UbU9KU0FzUjl2WnVJYWJN0gHkAUFVX3lxTE15NGRiZ0M3Q194akQ4b0ZSMnUxUTNkX0VsRkp2cU42NTRQNW9fbTB1T2ZiZzJkLTdnNXFndUNROUZFbGhfYkZDV2Y0OERyTk5SYjRBdFg4M2tQNUtPUGR1WkVHMjExZGdXMXlJVGx4cmc3NjVIYjAzNEpWbVNTOVAweWFGd212TDZRZGRBQnVjMmFkTmVISzFWaGlfSHJRVVFhbmJaQ1dzT3o5am00VXRIU0Q5Y0FPYWt2Sm9Bd21GOW05OUEzYnlraVhCSExLNEUxbUxtTTFPa0ZBUF84a3dWR2lzRw?oc=5",
+      "data": "20/08 13:59"
     },
     {
       "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - LANCE!",
