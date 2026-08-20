@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 06:28",
+  "atualizado_em": "20/08/2026 07:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -437,19 +437,19 @@ window.PAINEL_DATA = {
       "data": "19/08 07:00"
     },
     {
+      "titulo": "Rescisão com a Juventus: Corinthians e Fluminense aguardam decisão de Arthur Melo - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLUV5U0h5dnpuMlcwb282QXMxa2VtZUVOT0x0TEM5VDBXUjFwNnZ4dFNDeUhQVGI2Y1BER2tsMXlvb0dkSGtCVUp5Ull5THJ6VGtCbjluazUtOTNzLTRVU0lJendyeTNhdUszb0R3cXFqMjZ6dk5xQ3VWWll6UTVFQ24wSGpVem95R09MYmExQXR2aHpnSFdUWEtzOXB6ZnRMSjktcHNBWFF2d3d5OXU1OGlzQXQ2ZkczVXVWWXlGWTZQbU1IX2lIa05lZEItQTNDR055Z0tISi1ERWtWNFhONDRRT25XYU9RYm5WanM0TU1EVE5FbWExY2FwM2E?oc=5",
+      "data": "20/08 09:01"
+    },
+    {
       "titulo": "David Terans volta ao Fluminense: por que uruguaio não será reintegrado? - Terra",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUlpGZlFIVThsTnpHdG9IVW95cXByZXMxTlpNU041U3FmN1gzRXg1WV9iclhPQUVBdUFyS2tCQmFVOUxaTDg1RnpDT0FvSFlCeXJuaVM5RGplZHUwMHk3akhkdVJxUmRrOVd0YkJPX0hndnJYRUY4b043Sk9FYjg3X2JYaWN2QmNUTjVoZnFnUmZueXBCR3dhMVozUFJYaTN2aG5VM3dESHlBS25aTzluTHdjZE15Y3RkbjdvbG5FeWRVdG45VjVJM0dKSzdna210dFZsd1Q1TWd1dGs3c3FXZWJKeEpVVmFGeG55Nng0Yw?oc=5",
       "data": "20/08 06:13"
     },
     {
-      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - Lance!",
+      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFVVTHFRQ09jcnlmSGN6aEMzaGliT2RlSnptVEI2MS1uSDlhQ1ljVWhaYVgzdzBSalVxTVVfa2x4aU1qUjNIYl9fZlUxV29haXFDWjVFNXJqMWV4UldHN2FrSzJqNlpyUlFCdWIzYVVJaklnNy1NWk5JMjU3ZWx3dVNtcVFDemJCODZzUlRUcjJVb04yaUY5NTlaRlczZC03NG1zMFIyaFI3bUxQNFVyU1d6ZWQ5SE5xeFF1WDNDVlNXV0xMempMdg?oc=5",
       "data": "19/08 03:00"
-    },
-    {
-      "titulo": "Fluminense enfrentará o Platense nas quartas de final da Conmebol Libertadores - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3VrR0hLQVdyMnlNQmRSOUlhSF9YR3V1LUhBNDEzakFmUkdyeVVBcEFIQTFuRTZJTlc1aGpzeXNWUlA5UTdWZ0V0RzV1QkgtZllyT3FGZnljbXV1ckdPWDhMSzhPNy1SZThSSjN5VFFhNXVtQTg5YWo0eEdEdDYwZEwyTUFpbFhZa3Q4UlNfa0VOSlhidUhWVURqbEdTYkExVFZSMjlJazBWdjdmVFduX0c4QXI3cFE?oc=5",
-      "data": "20/08 00:31"
     }
   ],
   "avisos": [
