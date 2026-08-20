@@ -1,80 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 20:18",
+  "atualizado_em": "19/08/2026 21:57",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Cerro Porteno x Palmeiras",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Coquimbo Unido x Platense",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Paulista",
-      "match": "Uniao Sao Joao x Noroeste",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Atlético-MG x RB Bragantino",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:15",
-      "competition": "Copa Argentina",
-      "match": "Racing Club x Belgrano Cordoba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x São Bernardo",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Sport Recife",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-19",
@@ -83,6 +9,26 @@ window.PAINEL_DATA = {
       "match": "Crown Legacy x Connecticut FC",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Orlando City SC x Chicago Fire",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Nashville SC",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -133,26 +79,6 @@ window.PAINEL_DATA = {
       "match": "Cuiabá x Operário-PR",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x Chicago Fire",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -294,6 +220,16 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "23:30",
       "competition": "MLS",
+      "match": "Portland Timbers x San Diego",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "23:30",
+      "competition": "MLS",
       "match": "Los Angeles Galaxy x San Jose Earthquakes",
       "channels": [
         "APPLE TV"
@@ -305,16 +241,6 @@ window.PAINEL_DATA = {
       "time": "23:30",
       "competition": "MLS",
       "match": "Whitecaps x Houston Dynamo",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Portland Timbers x San Diego",
       "channels": [
         "APPLE TV"
       ]
@@ -411,6 +337,80 @@ window.PAINEL_DATA = {
       "match": "New York City II x FC Cincinnati II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Atlético-MG x RB Bragantino",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Paulista",
+      "match": "Uniao Sao Joao x Noroeste",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Coquimbo Unido x Platense",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Cerro Porteno x Palmeiras",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:15",
+      "competition": "Copa Argentina",
+      "match": "Racing Club x Belgrano Cordoba",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Fortaleza x São Bernardo",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Sport Recife",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -583,14 +583,14 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.0,
+      "temp_max": 29.1,
       "temp_min": 17.4,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.5,
+      "temp_max": 26.7,
       "temp_min": 14.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
@@ -615,7 +615,12 @@ window.PAINEL_DATA = {
       "data": "19/08 00:16"
     },
     {
-      "titulo": "Cria do Fluminense deixa o clube para jogar no exterior - terra.com.br",
+      "titulo": "Fluminense conhece adversário das quartas da Libertadores; veja - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazlfanN3V1RoVW92U0NJeUtPcy1vbGsxTmdzSldDSm5pSE5uS1FaNUx4dm05ZEVYbGp2WkUtUEhEMzJvcWo2Vy1wT29ERDQ1Vjc5SG8xWmNoRGdYWGFSOVFmX2ZHeUJrVThEeVo4dzVQdmx0anhPcTFNXzVvR2ZLUFgtWGFqN2lEZHd4TVJLX2FtN1hOemZtWUY2VjVfWTh6VFBrUVVR?oc=5",
+      "data": "20/08 00:32"
+    },
+    {
+      "titulo": "Cria do Fluminense deixa o clube para jogar no exterior - Terra",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNME9FUF83M3RWX2w4S1NGZU1tMzR4MnJyUGk0RDRvVU5XT2xwa1dmWF9PZU15bmszd3VJc2o1VnRGUTFPSm5mMG5jSzlWNFlpRkNydzhMYlNBRmNEZHdkVkNOYmVjVWVkYk91alhzQ3lUOUJ5cXVpMXU1aGxJbzVla25RSjd3X09RZjBPUzNYb1BKZy1sdVZyZExJRHd4dEJYc0VQRldaNjVLd3hFcUxjV05lRlhzcU1zcU9DaG1GQVBsU0tUY0ROVU1jOHFYS1g4NmRqcFJINHJoQ282UXlV?oc=5",
       "data": "19/08 21:10"
     },
@@ -623,11 +628,6 @@ window.PAINEL_DATA = {
       "titulo": "A resposta do Fluminense se irá liberar Lima para o Santos - Santistas",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByYXZncGJXQ0VDNTdiWGh0OUVaSFEyeDNnMDRqQXMyRk9LRjBQQl9nXzE2QXBWRWNjVFZKU2tOaXd3NEwxVC11U3EzSktzd0MxUUtyWU02MFlWZGlGdUh5ZHVJQ2NNTW1SeDItTEtJQWdBVUp5SG9n?oc=5",
       "data": "19/08 20:59"
-    },
-    {
-      "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
-      "data": "19/08 20:30"
     }
   ],
   "avisos": [
