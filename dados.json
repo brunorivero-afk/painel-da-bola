@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "20/08/2026 03:37",
+  "atualizado_em": "20/08/2026 04:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -328,29 +328,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.7,
-      "temp_min": 20.2,
+      "temp_max": 25.6,
+      "temp_min": 20.3,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.8,
-      "temp_min": 18.2,
+      "temp_max": 29.5,
+      "temp_min": 18.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.6,
-      "temp_min": 16.5,
+      "temp_max": 26.3,
+      "temp_min": 16.3,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.4,
-      "temp_min": 16.5,
+      "temp_max": 26.5,
+      "temp_min": 16.3,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     }
@@ -367,7 +367,7 @@
       "data": "19/08 01:52"
     },
     {
-      "titulo": "David Terans volta ao Fluminense: por que uruguaio não será reintegrado? - terra.com.br",
+      "titulo": "David Terans volta ao Fluminense: por que uruguaio não será reintegrado? - Terra",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUlpGZlFIVThsTnpHdG9IVW95cXByZXMxTlpNU041U3FmN1gzRXg1WV9iclhPQUVBdUFyS2tCQmFVOUxaTDg1RnpDT0FvSFlCeXJuaVM5RGplZHUwMHk3akhkdVJxUmRrOVd0YkJPX0hndnJYRUY4b043Sk9FYjg3X2JYaWN2QmNUTjVoZnFnUmZueXBCR3dhMVozUFJYaTN2aG5VM3dESHlBS25aTzluTHdjZE15Y3RkbjdvbG5FeWRVdG45VjVJM0dKSzdna210dFZsd1Q1TWd1dGs3c3FXZWJKeEpVVmFGeG55Nng0Yw?oc=5",
       "data": "20/08 06:13"
     },
