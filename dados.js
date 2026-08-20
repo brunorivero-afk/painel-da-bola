@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 13:28",
+  "atualizado_em": "20/08/2026 14:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "12:00",
-      "competition": "UEFA Europa League",
-      "match": "Kairat Almaty x Anderlecht",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -80,7 +70,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-20",
       "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "FC Lugano x Maccabi Tel Aviv",
+      "match": "Atalanta x Hapoel Tel Aviv",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -100,7 +90,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-20",
       "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "Atalanta x Hapoel Tel Aviv",
+      "match": "FC Lugano x Maccabi Tel Aviv",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -129,6 +119,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-20",
       "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Olimpia x Vasco",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:00",
       "competition": "Copa Libertadores",
       "match": "LDU de Quito x Mirassol",
       "channels": [
@@ -145,16 +145,6 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Olimpia x Vasco",
-      "channels": [
-        "PARAMOUNT+"
       ]
     },
     {
@@ -218,6 +208,16 @@ window.PAINEL_DATA = {
       "match": "FAS x Municipal",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "12:00",
+      "competition": "UEFA Europa League",
+      "match": "Kairat Almaty x Anderlecht",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -427,29 +427,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Marcão atinge objetivo na Libertadores e tem prazo indefinido no comando do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUXZGY2tidUswa3dTRTlKNnZkeUpyYktwV3o0QUQwbHd2VGZycTR5MW11Q0JrYzdZX0Nza0pRNF9SM0JJbjhsRldiWjFNZk4xbUt4N2x6VDZad1haNllXMnl1dFBKa09kdlNFUUNEU01ObGl6TW9CSkQ2eHl3M1lSM2Y0c081c1Q1eEQ1SXBWdWFjeEZ1YjRjUWM1ZnNJQmRUanEwY3dRb0dtNmVCYUYxdjZFOTZFbzFJMEFnX1FIblkxWHhJLU1OYl9GZllRbko0X3JYdFFldWM0QW5YQmluWGpYcmREeVVDdFVIcnBB0gH8AUFVX3lxTE1oZ015X2NxeVVuS0JQcWpobEYxZnhTb0dNQ0RiTm95Zjh0X011dHRicW5QUjByV3NyMkR4ZHZoNHdZUmVDdnE2dmRVYURvUzAyYVV5a1QzcW9FUjlzYjg4YlA3UE0tUDhpQ1l5NkFzRjBldVJqd2xoUmVncE82Tm85LWlsUmhwUGlpYUZIYXpBdVBiMTFSZ0ZWRzhaM25YWkZVWmlvY3cyVWJjZHQ2QTZaQmF3SzNUYVR3V0JfMFMwT0xoX0lZSkRPbnh1eGVhMXM0OFZKeTVBR2dXRURDaUowUnJQS0J1OWFCZWNfLXlfc0N5dlcxM2NwZzNoMw?oc=5",
-      "data": "19/08 13:00"
-    },
-    {
       "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
       "data": "19/08 00:14"
     },
     {
-      "titulo": "Especulado no Fluminense, volante com salário de R$ 2 milhões pode ficar livre - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVG9HbkN5SXNNaEkyYUZLU1BKV1pVRlhPWUpPdl9tM1EwV3JtVlBzWmRxLVFaT1NjeFNvWDdqaS1PMFBWOHhtZFJWeXAwbVNjZE5OMTVISnlVdzUxdUNGcDNEUHduUnVWZWw3THFFTm41QWtnTzBmMnRPaGdVbXBudXB0eU1WMnFCUk5mbVpFZnRPNWQ4a0luZWVUUlpUa1JEaktWNjZn?oc=5",
-      "data": "20/08 12:00"
-    },
-    {
-      "titulo": "Soteldo cresce no Fluminense e vira peça-chave para reta final da temporada - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQng3NkhkUmw2UzN2LUlTN01hTTlyTEg3QjI0dXVOQjRCYjhvNFR1VTh1WVgtellLQkJNc0JINUpxNmdsbWtBeW5HOXUxQ2dtaFljcnczdloxMjNtb2RUQU5WNUEzZlZybm43Z3J1STU1NFkyMGJZaEQtS0txRWdHbjVqam5Mc2EtQWdYbU5vbHdHLUhWMEtXSHQxRU9ra2E1MnFMNThXLTh2MExKdS1jYkViQ1RiYzEyVVRnZWlYbHVGeHVYTXZTVVBIYk42Tk1UbU9KU0FzUjl2WnVJYWJN0gHkAUFVX3lxTE15NGRiZ0M3Q194akQ4b0ZSMnUxUTNkX0VsRkp2cU42NTRQNW9fbTB1T2ZiZzJkLTdnNXFndUNROUZFbGhfYkZDV2Y0OERyTk5SYjRBdFg4M2tQNUtPUGR1WkVHMjExZGdXMXlJVGx4cmc3NjVIYjAzNEpWbVNTOVAweWFGd212TDZRZGRBQnVjMmFkTmVISzFWaGlfSHJRVVFhbmJaQ1dzT3o5am00VXRIU0Q5Y0FPYWt2Sm9Bd21GOW05OUEzYnlraVhCSExLNEUxbUxtTTFPa0ZBUF84a3dWR2lzRw?oc=5",
-      "data": "20/08 13:59"
+      "titulo": "A resposta do Fluminense se irá liberar Lima para o Santos - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByYXZncGJXQ0VDNTdiWGh0OUVaSFEyeDNnMDRqQXMyRk9LRjBQQl9nXzE2QXBWRWNjVFZKU2tOaXd3NEwxVC11U3EzSktzd0MxUUtyWU02MFlWZGlGdUh5ZHVJQ2NNTW1SeDItTEtJQWdBVUp5SG9n?oc=5",
+      "data": "19/08 20:59"
     },
     {
       "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmk4eUpvTkwyclRiWlJIUjlnMmVzamF6ZTRJMFhzNS1EWmcyQTQyMTJRb2NMaXdibEtKWF9ESERpM2JFMFB1SHpiaU9XZWI2RkNnQi1PbVdkVU90YmVuZ1Rud3RSRkt3REJWUHFMU0ZyLVRkQ2JlN0tpZFUwZmxJU0h4SkhnS0EtZUx5VlA5dnYyQ0pOUFhLMXFVNlNITnJ6bzBLWG40bGRPMkZ0ZlBpRkdkdXNMX3cxeDZSVGlsN2VkUE1LVnVpbk45OEtkbEVHOFVlS3FsNl9lV2ZiX2RpSVNXNlfSAfMBQVVfeXFMTjJBaVdtenhVTUtFU2hTWU5pdGZ6ZnFxOTV0ang4QldYVnFHbVdHdzlYdDR6cVZVMHo5YmRQNTNTUXNxeDVyVEdJcW5OOVcyRUtUbXBMQkJTQ0NNV0YzYW5MNllDRjRDQ2lhZnc2RUNnZkE1ZDBXaXA5MFVBeGk0d3ZQUVhwbXNZb243dmhxaTVSZEVIY0toQ1MzZHlXUE55LVZJNFVRdndkQ01OSF9PeFF0YUFFWVBBbTdVVFk1bjdrd3ZQQkRhei1RX2JsVzJINnc3NU15RWF5eW90OHVtZ1pCblhTbDUyb2Z4YUZub2hZdW1J?oc=5",
       "data": "20/08 15:40"
+    },
+    {
+      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo; confira - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktkN1VfWHMtNWFaeW5QMUFsajhCMVM2ZXNEdTNLQUVWazFwdUpocmRQaF9MRkp3ckcyUnAwTDNJdngySE5wQ3BPMjIwWl9pc28tRW13ZXd4dWxiTk55TXN4d1AxQ1ZPR0g2cnJXOHBCRjdET3JwREdNVEhJX040V3F3R1RsQ2M4SHp6anJrRmpVT2lrQl9yT1lMbFpYVG1PVlJIRkN1WjE?oc=5",
+      "data": "20/08 13:30"
+    },
+    {
+      "titulo": "Fluminense x Remo Palpite – Dicas e notícias (22/08) - Trivela",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakk2c1ZFaWVkX0hpbDd0WEdZeFFNdkJPZGdxX0loXzFSNVF4M1BOOFlaa0lRNGdVd0NnSHlXSWo0WVU3S2JKNGctREhnMDVaNUR1VFpyUDlOdzluOU4yTkszdkcyN1lfaDUyd1FMeWVOQUZUMnNwNUNwRXpERllaNUl2eUp2Qlk?oc=5",
+      "data": "20/08 16:36"
     }
   ],
   "avisos": [
