@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 04:36",
+  "atualizado_em": "20/08/2026 05:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -362,9 +362,9 @@ window.PAINEL_DATA = {
       "data": "19/08 13:00"
     },
     {
-      "titulo": "Veja premiação do Fluminense após avançar às quartas da Libertadores - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzM4LVJoNFRkV2dpNkFPZVp2Vk5VY3dZZTlNRFJTNmZGanFEZ0JISjZLVkJpYWZ0UUF0aHlpbFRoakJYYkNmOTdaS3V6WmwtMEk5M0xGdFNCZmVzdHdjZ0dLWnJHSTl4UkNkckRlTkpyUlFtYlZYcXB1dTZvUDVWaGpaelFybEJsZVF1MmVfb2RiSW5SdU5kVVRDM3hGaktQcy1mMm42Rk51Y1ZzbkE?oc=5",
-      "data": "19/08 01:52"
+      "titulo": "Análise: Fluminense ganha nova vida na Libertadores e reacende esperança na temporada - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObWwzY0h5QUZVaTZlb2NOSUVzeWdrOGVOcHg1Y19RWFZFQ2s5WE40Vm05MzdyWjJ1RUJVbkdxRDFBQXRaWVhHS3BHLTg3VjRITlFjcUt0bkVXdjJxaWMtRG9sU0lLSWI5czQyM1VlNUtuZkhtSUpGN3ZzTFlyV21Xc1dGd2pibXVZTk9hejdtQTNSZUxrbTIyUWNKaWZ6V3owQkIyR0dOYWlKYk14aHFlZVFTNnJBUlptcnNSNVkwUU82U2ppckRBU1F4VzY5TldJbGZ2dHdXZENWX2hVUzNmYlJNZ1J1b2c1QWNV0gH6AUFVX3lxTE12NGFDUkN4bnJ6MWdxazQ1Z3FfOTRRWXpUaFdHZDQwb3lDMk0zQ01KTUQ4cHRiSXpUUXZjalg2aEVCTk5jZW5TWUdJSFZ4ZkJaODVLVHYyeXppbXBJb3FQSEVXdXFSMF9lZGRQRGRlcWlZNW9oTmk3UTRtRHhRcl9yYXhZTlAtRVdBcGZWbTU1amktRnpRMnl2dWhHUWNqQS1YR3RnajBJQ2xQMDNpbDZnT0xHa1RuOVQ3b05xS2t4V3B5dnpUX3JsT2dIR2R6QS1wOGFsMGxNN3FlNk1vZk1JZWZXMXdHWkhmUjhuRUd5dTVHaEVyUHN5UkE?oc=5",
+      "data": "19/08 07:00"
     },
     {
       "titulo": "David Terans volta ao Fluminense: por que uruguaio não será reintegrado? - Terra",
@@ -372,9 +372,9 @@ window.PAINEL_DATA = {
       "data": "20/08 06:13"
     },
     {
-      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - Lance!",
+      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFVVTHFRQ09jcnlmSGN6aEMzaGliT2RlSnptVEI2MS1uSDlhQ1ljVWhaYVgzdzBSalVxTVVfa2x4aU1qUjNIYl9fZlUxV29haXFDWjVFNXJqMWV4UldHN2FrSzJqNlpyUlFCdWIzYVVJaklnNy1NWk5JMjU3ZWx3dVNtcVFDemJCODZzUlRUcjJVb04yaUY5NTlaRlczZC03NG1zMFIyaFI3bUxQNFVyU1d6ZWQ5SE5xeFF1WDNDVlNXV0xMempMdg?oc=5",
-      "data": "20/08 03:08"
+      "data": "20/08 02:54"
     },
     {
       "titulo": "Fluminense enfrentará o Platense nas quartas de final da Conmebol Libertadores - fluminense.com.br",
