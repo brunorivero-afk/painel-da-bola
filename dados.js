@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 02:25",
+  "atualizado_em": "20/08/2026 03:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -331,7 +331,7 @@ window.PAINEL_DATA = {
       "temp_max": 25.7,
       "temp_min": 20.2,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
@@ -345,14 +345,14 @@ window.PAINEL_DATA = {
       "temp_max": 26.6,
       "temp_min": 16.5,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.4,
       "temp_min": 16.5,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
@@ -367,19 +367,19 @@ window.PAINEL_DATA = {
       "data": "19/08 01:52"
     },
     {
-      "titulo": "Chaveamento da Libertadores: veja possíveis confrontos - Lance!",
+      "titulo": "David Terans volta ao Fluminense: por que uruguaio não será reintegrado? - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUlpGZlFIVThsTnpHdG9IVW95cXByZXMxTlpNU041U3FmN1gzRXg1WV9iclhPQUVBdUFyS2tCQmFVOUxaTDg1RnpDT0FvSFlCeXJuaVM5RGplZHUwMHk3akhkdVJxUmRrOVd0YkJPX0hndnJYRUY4b043Sk9FYjg3X2JYaWN2QmNUTjVoZnFnUmZueXBCR3dhMVozUFJYaTN2aG5VM3dESHlBS25aTzluTHdjZE15Y3RkbjdvbG5FeWRVdG45VjVJM0dKSzdna210dFZsd1Q1TWd1dGs3c3FXZWJKeEpVVmFGeG55Nng0Yw?oc=5",
+      "data": "20/08 06:13"
+    },
+    {
+      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - Lance!",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFVVTHFRQ09jcnlmSGN6aEMzaGliT2RlSnptVEI2MS1uSDlhQ1ljVWhaYVgzdzBSalVxTVVfa2x4aU1qUjNIYl9fZlUxV29haXFDWjVFNXJqMWV4UldHN2FrSzJqNlpyUlFCdWIzYVVJaklnNy1NWk5JMjU3ZWx3dVNtcVFDemJCODZzUlRUcjJVb04yaUY5NTlaRlczZC03NG1zMFIyaFI3bUxQNFVyU1d6ZWQ5SE5xeFF1WDNDVlNXV0xMempMdg?oc=5",
-      "data": "20/08 02:54"
+      "data": "20/08 03:08"
     },
     {
       "titulo": "Fluminense enfrentará o Platense nas quartas de final da Conmebol Libertadores - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3VrR0hLQVdyMnlNQmRSOUlhSF9YR3V1LUhBNDEzakFmUkdyeVVBcEFIQTFuRTZJTlc1aGpzeXNWUlA5UTdWZ0V0RzV1QkgtZllyT3FGZnljbXV1ckdPWDhMSzhPNy1SZThSSjN5VFFhNXVtQTg5YWo0eEdEdDYwZEwyTUFpbFhZa3Q4UlNfa0VOSlhidUhWVURqbEdTYkExVFZSMjlJazBWdjdmVFduX0c4QXI3cFE?oc=5",
       "data": "20/08 00:31"
-    },
-    {
-      "titulo": "Fluminense monitora Arthur Melo, fora dos planos da Juventus: pode haver avanço? - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWXFMbUh1ZHlvTHRGakthOEZ1UmgxUWFYQ2U1THIzSW9uMmJndVBrUTJfM0J6d0t1amJJXzBIT2QxbFRaWDlkOWV4WUV0RGp4c1hlS0pJMGw0NXhzRjJNdkN1UWIwWExJZ3hINV9pdGEwZ0pUeW42MU5UbGpwTU45bmlyT2FaMExRelNGU2dyZ3pQTEcxSFcyR19hS3ljT243bU5qcjF1SUdpSzFmUnNPRGlCN0pjbWZWNi02Q2lLa01od2NENUY5NGVYU055T0NmRUdDaW5EdGtWSE1LNHdiMHd2bGlfcXgwNjVFRUNTT3RJUFd0Tm5xdg?oc=5",
-      "data": "19/08 14:32"
     }
   ],
   "avisos": [
