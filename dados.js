@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 12:28",
+  "atualizado_em": "20/08/2026 13:28",
   "jogos": [
     {
       "sport": "futebol",
@@ -432,9 +432,9 @@ window.PAINEL_DATA = {
       "data": "19/08 13:00"
     },
     {
-      "titulo": "Veja premiação do Fluminense após avançar às quartas da Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzM4LVJoNFRkV2dpNkFPZVp2Vk5VY3dZZTlNRFJTNmZGanFEZ0JISjZLVkJpYWZ0UUF0aHlpbFRoakJYYkNmOTdaS3V6WmwtMEk5M0xGdFNCZmVzdHdjZ0dLWnJHSTl4UkNkckRlTkpyUlFtYlZYcXB1dTZvUDVWaGpaelFybEJsZVF1MmVfb2RiSW5SdU5kVVRDM3hGaktQcy1mMm42Rk51Y1ZzbkE?oc=5",
-      "data": "19/08 01:52"
+      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
+      "data": "19/08 00:14"
     },
     {
       "titulo": "Especulado no Fluminense, volante com salário de R$ 2 milhões pode ficar livre - netflu.com.br",
@@ -447,9 +447,9 @@ window.PAINEL_DATA = {
       "data": "20/08 13:59"
     },
     {
-      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFVVTHFRQ09jcnlmSGN6aEMzaGliT2RlSnptVEI2MS1uSDlhQ1ljVWhaYVgzdzBSalVxTVVfa2x4aU1qUjNIYl9fZlUxV29haXFDWjVFNXJqMWV4UldHN2FrSzJqNlpyUlFCdWIzYVVJaklnNy1NWk5JMjU3ZWx3dVNtcVFDemJCODZzUlRUcjJVb04yaUY5NTlaRlczZC03NG1zMFIyaFI3bUxQNFVyU1d6ZWQ5SE5xeFF1WDNDVlNXV0xMempMdg?oc=5",
-      "data": "19/08 03:00"
+      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmk4eUpvTkwyclRiWlJIUjlnMmVzamF6ZTRJMFhzNS1EWmcyQTQyMTJRb2NMaXdibEtKWF9ESERpM2JFMFB1SHpiaU9XZWI2RkNnQi1PbVdkVU90YmVuZ1Rud3RSRkt3REJWUHFMU0ZyLVRkQ2JlN0tpZFUwZmxJU0h4SkhnS0EtZUx5VlA5dnYyQ0pOUFhLMXFVNlNITnJ6bzBLWG40bGRPMkZ0ZlBpRkdkdXNMX3cxeDZSVGlsN2VkUE1LVnVpbk45OEtkbEVHOFVlS3FsNl9lV2ZiX2RpSVNXNlfSAfMBQVVfeXFMTjJBaVdtenhVTUtFU2hTWU5pdGZ6ZnFxOTV0ang4QldYVnFHbVdHdzlYdDR6cVZVMHo5YmRQNTNTUXNxeDVyVEdJcW5OOVcyRUtUbXBMQkJTQ0NNV0YzYW5MNllDRjRDQ2lhZnc2RUNnZkE1ZDBXaXA5MFVBeGk0d3ZQUVhwbXNZb243dmhxaTVSZEVIY0toQ1MzZHlXUE55LVZJNFVRdndkQ01OSF9PeFF0YUFFWVBBbTdVVFk1bjdrd3ZQQkRhei1RX2JsVzJINnc3NU15RWF5eW90OHVtZ1pCblhTbDUyb2Z4YUZub2hZdW1J?oc=5",
+      "data": "20/08 15:40"
     }
   ],
   "avisos": [
