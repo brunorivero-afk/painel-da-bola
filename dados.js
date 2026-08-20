@@ -1,6 +1,56 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 05:31",
+  "atualizado_em": "20/08/2026 06:28",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "12:00",
+      "competition": "UEFA Europa League",
+      "match": "Kairat Almaty x Anderlecht",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "13:00",
+      "competition": "UEFA Europa League",
+      "match": "Mjallby AIF x Red Bull Salzburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "Egnatia Rrogozhine x Lillestrom",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "FC Midtjylland x HNK Rijeka",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "14:45",
+      "competition": "UEFA Conference League",
+      "match": "PAOK x Brann",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -30,7 +80,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-20",
       "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "Atalanta x Hapoel Tel Aviv",
+      "match": "FC Lugano x Maccabi Tel Aviv",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -40,7 +90,17 @@ window.PAINEL_DATA = {
       "date": "2026-08-20",
       "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "FC Lugano x Maccabi Tel Aviv",
+      "match": "Motherwell x SC Freiburg",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:30",
+      "competition": "UEFA Conference League",
+      "match": "Atalanta x Hapoel Tel Aviv",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -53,6 +113,16 @@ window.PAINEL_DATA = {
       "match": "Rayo Vallecano x Alavés",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "match": "Getafe x FK Partizan",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -372,9 +442,9 @@ window.PAINEL_DATA = {
       "data": "20/08 06:13"
     },
     {
-      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - LANCE!",
+      "titulo": "Chaveamento da Libertadores: possíveis confrontos após vitórias de Flamengo e Palmeiras - Lance!",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFVVTHFRQ09jcnlmSGN6aEMzaGliT2RlSnptVEI2MS1uSDlhQ1ljVWhaYVgzdzBSalVxTVVfa2x4aU1qUjNIYl9fZlUxV29haXFDWjVFNXJqMWV4UldHN2FrSzJqNlpyUlFCdWIzYVVJaklnNy1NWk5JMjU3ZWx3dVNtcVFDemJCODZzUlRUcjJVb04yaUY5NTlaRlczZC03NG1zMFIyaFI3bUxQNFVyU1d6ZWQ5SE5xeFF1WDNDVlNXV0xMempMdg?oc=5",
-      "data": "20/08 02:54"
+      "data": "19/08 03:00"
     },
     {
       "titulo": "Fluminense enfrentará o Platense nas quartas de final da Conmebol Libertadores - fluminense.com.br",
