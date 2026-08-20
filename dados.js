@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 00:41",
+  "atualizado_em": "20/08/2026 01:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -372,14 +372,14 @@ window.PAINEL_DATA = {
       "data": "20/08 00:31"
     },
     {
-      "titulo": "Tchamba ganha confiança após retorno e mira vitória do Remo contra o Fluminense | Remo | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd05abzlFTGhGYXRTeTlQVm81NTZJVDVKVlRESzRaSUJKbHNjNjdpcGoyY3FoY3g5TDJBZWNlODhCRUREVWJ1US1oMTFrRFlfT1pMWF9pcVdCTmtGODUtb2x0a0NMdVlmS2M0Rk50QjZ2ZThCcDZZdnJ5YnZKaWl1OEp4LXB0MGs3WmN3WWRGYnF3UnNtemNCQ2oybFVPaTRwZE5pUGJNdGlmdC1zT3NvSFVCLXRiNmZ3TkYxa0RxVTFsVlp5d25V0gHMAUFVX3lxTE5xWk5GQUhsMl9OSjlCenFGM0RXdWIxV3hDS1U1V1hjUzVUcmpYcW9meEt5UUNhWU9zaVQxRFJQbHExODllaFJlaE5FbmZxSzNNaWFwdGUtZmVDd3JZVzJLVFZPV3RUWm85WHRhT3N6SUpHV2JJMHVnQkp6TFdYLW5XNXE3aU9ZUzNoT29jYVVPUTR3RTl4WDctWFpuRVZqOXNtWnpQUnNBT1NQb19abjRzSnEwQ1dFcnZaWTY2cFRYQnJUR1ZYMW9oNzlRXw?oc=5",
-      "data": "20/08 01:17"
-    },
-    {
       "titulo": "Fluminense conhece adversário das quartas da Libertadores; veja - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazlfanN3V1RoVW92U0NJeUtPcy1vbGsxTmdzSldDSm5pSE5uS1FaNUx4dm05ZEVYbGp2WkUtUEhEMzJvcWo2Vy1wT29ERDQ1Vjc5SG8xWmNoRGdYWGFSOVFmX2ZHeUJrVThEeVo4dzVQdmx0anhPcTFNXzVvR2ZLUFgtWGFqN2lEZHd4TVJLX2FtN1hOemZtWUY2VjVfWTh6VFBrUVVR?oc=5",
       "data": "20/08 00:32"
+    },
+    {
+      "titulo": "Platense será o adversário do Fluminense nas quartas de final da Libertadores da América - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWGxiVW5fd2pFcWx1U2gxNVdqOXZOTUhpZk5ud1ZmZWcxSlVac3A2SUhIYmdHeEdZeHZkdXF1S1F2RFhFc19peTRIVkNxZVlhdmd5Ynh1QUx1azZwUDk1R24tbVYzV2owNVhuMnVKaC1lc3Z0UXRFYVVIcnFFejZJTkh6cGVDNjkwak5XMTR3bXQwbFlESFNYOHBJamVwS09SX1loeEJ0X29kbVR6cnh1LVo4M0tRN0ZzelZKZmJwMV8zSHNCNUdUV0dVM0o3U0RmQUVjSE8wNWpXY0xkNndYSEV0XzFxSmN6MzE0Qk1OaGNMQ2otb0t0NmtZS3FNUmEyM1BVTkdiOA?oc=5",
+      "data": "20/08 00:17"
     }
   ],
   "avisos": [
