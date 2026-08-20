@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "20/08/2026 16:26",
+  "atualizado_em": "20/08/2026 17:22",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "14:45",
-      "competition": "UEFA Conference League",
-      "match": "PAOK x Brann",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x SC Paulinense SP U20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -86,10 +65,10 @@
       "sport": "futebol",
       "date": "2026-08-20",
       "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "LDU de Quito x Mirassol",
+      "competition": "Copa Sul-Americana",
+      "match": "Macara x Santos",
       "channels": [
-        "ESPN 4",
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -97,10 +76,10 @@
       "sport": "futebol",
       "date": "2026-08-20",
       "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Macara x Santos",
+      "competition": "Copa Libertadores",
+      "match": "LDU de Quito x Mirassol",
       "channels": [
-        "ESPN",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -210,6 +189,16 @@
     {
       "sport": "futebol",
       "date": "2026-08-20",
+      "time": "14:45",
+      "competition": "UEFA Conference League",
+      "match": "PAOK x Brann",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
       "time": "15:00",
       "competition": "Campeonato Saudita",
       "match": "Al-Fayha x Al-Hilal",
@@ -218,6 +207,17 @@
         "BANDSPORTS",
         "CANAL GOAT",
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x SC Paulinense SP U20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -427,14 +427,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - GE",
+      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmk4eUpvTkwyclRiWlJIUjlnMmVzamF6ZTRJMFhzNS1EWmcyQTQyMTJRb2NMaXdibEtKWF9ESERpM2JFMFB1SHpiaU9XZWI2RkNnQi1PbVdkVU90YmVuZ1Rud3RSRkt3REJWUHFMU0ZyLVRkQ2JlN0tpZFUwZmxJU0h4SkhnS0EtZUx5VlA5dnYyQ0pOUFhLMXFVNlNITnJ6bzBLWG40bGRPMkZ0ZlBpRkdkdXNMX3cxeDZSVGlsN2VkUE1LVnVpbk45OEtkbEVHOFVlS3FsNl9lV2ZiX2RpSVNXNlfSAfMBQVVfeXFMTjJBaVdtenhVTUtFU2hTWU5pdGZ6ZnFxOTV0ang4QldYVnFHbVdHdzlYdDR6cVZVMHo5YmRQNTNTUXNxeDVyVEdJcW5OOVcyRUtUbXBMQkJTQ0NNV0YzYW5MNllDRjRDQ2lhZnc2RUNnZkE1ZDBXaXA5MFVBeGk0d3ZQUVhwbXNZb243dmhxaTVSZEVIY0toQ1MzZHlXUE55LVZJNFVRdndkQ01OSF9PeFF0YUFFWVBBbTdVVFk1bjdrd3ZQQkRhei1RX2JsVzJINnc3NU15RWF5eW90OHVtZ1pCblhTbDUyb2Z4YUZub2hZdW1J?oc=5",
       "data": "20/08 15:40"
     },
     {
-      "titulo": "Análise: Fluminense ganha nova vida na Libertadores e reacende esperança na temporada - GE",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObWwzY0h5QUZVaTZlb2NOSUVzeWdrOGVOcHg1Y19RWFZFQ2s5WE40Vm05MzdyWjJ1RUJVbkdxRDFBQXRaWVhHS3BHLTg3VjRITlFjcUt0bkVXdjJxaWMtRG9sU0lLSWI5czQyM1VlNUtuZkhtSUpGN3ZzTFlyV21Xc1dGd2pibXVZTk9hejdtQTNSZUxrbTIyUWNKaWZ6V3owQkIyR0dOYWlKYk14aHFlZVFTNnJBUlptcnNSNVkwUU82U2ppckRBU1F4VzY5TldJbGZ2dHdXZENWX2hVUzNmYlJNZ1J1b2c1QWNV0gH6AUFVX3lxTE12NGFDUkN4bnJ6MWdxazQ1Z3FfOTRRWXpUaFdHZDQwb3lDMk0zQ01KTUQ4cHRiSXpUUXZjalg2aEVCTk5jZW5TWUdJSFZ4ZkJaODVLVHYyeXppbXBJb3FQSEVXdXFSMF9lZGRQRGRlcWlZNW9oTmk3UTRtRHhRcl9yYXhZTlAtRVdBcGZWbTU1amktRnpRMnl2dWhHUWNqQS1YR3RnajBJQ2xQMDNpbDZnT0xHa1RuOVQ3b05xS2t4V3B5dnpUX3JsT2dIR2R6QS1wOGFsMGxNN3FlNk1vZk1JZWZXMXdHWkhmUjhuRUd5dTVHaEVyUHN5UkE?oc=5",
-      "data": "19/08 07:00"
+      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
+      "data": "19/08 00:14"
     },
     {
       "titulo": "Fisioterapeuta do Fluminense, Filé concorre a Prêmio Confut e lidera votação - LANCE!",
