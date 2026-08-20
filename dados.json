@@ -1,26 +1,6 @@
 {
-  "atualizado_em": "20/08/2026 15:32",
+  "atualizado_em": "20/08/2026 16:26",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "14:00",
-      "competition": "UEFA Europa League",
-      "match": "Egnatia Rrogozhine x Lillestrom",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "14:00",
-      "competition": "UEFA Conference League",
-      "match": "FC Midtjylland x HNK Rijeka",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -40,19 +20,6 @@
       "channels": [
         "YOUTUBE",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Fayha x Al-Hilal",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -163,21 +130,21 @@
       "sport": "futebol",
       "date": "2026-08-20",
       "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Corinthians x Rosario Central",
+      "competition": "Copa Sul-Americana",
+      "match": "Botafogo x Cienciano",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "PARAMOUNT+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-20",
       "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Botafogo x Cienciano",
+      "competition": "Copa Libertadores",
+      "match": "Corinthians x Rosario Central",
       "channels": [
-        "PARAMOUNT+"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -218,6 +185,39 @@
       "match": "Mjallby AIF x Red Bull Salzburg",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "FC Midtjylland x HNK Rijeka",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "Egnatia Rrogozhine x Lillestrom",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Fayha x Al-Hilal",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -398,29 +398,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.4,
+      "temp_max": 24.6,
       "temp_min": 19.8,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.1,
+      "temp_max": 29.0,
       "temp_min": 18.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.7,
+      "temp_max": 25.6,
       "temp_min": 15.7,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.3,
-      "temp_min": 16.0,
+      "temp_max": 26.4,
+      "temp_min": 16.2,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     }
@@ -447,9 +447,9 @@
       "data": "20/08 17:05"
     },
     {
-      "titulo": "Conheça o Platense: próximo adversário do Fluminense na Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2prejBXM3F5bDdxREdMYUhfdkhTOExBQXBjNV81YlJmWFFNRnNjeHBDMFdabjZCQmEwOXNuam1pSEFDdlg3MWFGMVVWck0tQ2N0UHhLVldYMkpXVnozU2pRMm82WnpMVUpaWnZWWTJxblZuN2NZVEl5VnZzamczVmtXdFFQWmlkZThfQW9RNVNEd2RYREpFOUYtZ1VUcFRO?oc=5",
-      "data": "20/08 17:30"
+      "titulo": "Fluminense carimba nove de dez vagas na final de Estaduais de base - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2U2SER3ckFRWG5CUVVNTHo1eXd5MEFJUnZDZXJNXzdZd0lXMldOTlYzSzVkblNLNjB4MXB4RDJJeFI1M3Rmalo3cDEzM3k2MVQwRjdYMGtUbjFORDZmZ2FQTHhQRm9IQkdPOTZCbmRrMGEyQndNeUllb3FOOHFqY21SZnRUZVc2dTBKT0ljNzFVbWtfUUJhRmYyNWRKWlNPUVlzX3E2Zw?oc=5",
+      "data": "20/08 18:30"
     }
   ],
   "avisos": [
