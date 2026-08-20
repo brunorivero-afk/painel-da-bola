@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "20/08/2026 01:31",
+  "atualizado_em": "20/08/2026 02:25",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "FAS x Municipal",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -146,6 +136,16 @@
       "time": "22:00",
       "competition": "CONCACAF Central American Cup",
       "match": "Alianza FC x CD Olimpia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "FAS x Municipal",
       "channels": [
         "DISNEY+"
       ]
@@ -362,9 +362,14 @@
       "data": "19/08 13:00"
     },
     {
-      "titulo": "Veja premiação do Fluminense após avançar às quartas da Libertadores - LANCE!",
+      "titulo": "Veja premiação do Fluminense após avançar às quartas da Libertadores - Lance!",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVzM4LVJoNFRkV2dpNkFPZVp2Vk5VY3dZZTlNRFJTNmZGanFEZ0JISjZLVkJpYWZ0UUF0aHlpbFRoakJYYkNmOTdaS3V6WmwtMEk5M0xGdFNCZmVzdHdjZ0dLWnJHSTl4UkNkckRlTkpyUlFtYlZYcXB1dTZvUDVWaGpaelFybEJsZVF1MmVfb2RiSW5SdU5kVVRDM3hGaktQcy1mMm42Rk51Y1ZzbkE?oc=5",
       "data": "19/08 01:52"
+    },
+    {
+      "titulo": "Chaveamento da Libertadores: veja possíveis confrontos - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFVVTHFRQ09jcnlmSGN6aEMzaGliT2RlSnptVEI2MS1uSDlhQ1ljVWhaYVgzdzBSalVxTVVfa2x4aU1qUjNIYl9fZlUxV29haXFDWjVFNXJqMWV4UldHN2FrSzJqNlpyUlFCdWIzYVVJaklnNy1NWk5JMjU3ZWx3dVNtcVFDemJCODZzUlRUcjJVb04yaUY5NTlaRlczZC03NG1zMFIyaFI3bUxQNFVyU1d6ZWQ5SE5xeFF1WDNDVlNXV0xMempMdg?oc=5",
+      "data": "20/08 02:54"
     },
     {
       "titulo": "Fluminense enfrentará o Platense nas quartas de final da Conmebol Libertadores - fluminense.com.br",
@@ -372,14 +377,9 @@
       "data": "20/08 00:31"
     },
     {
-      "titulo": "Fluminense conhece adversário das quartas da Libertadores; veja - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazlfanN3V1RoVW92U0NJeUtPcy1vbGsxTmdzSldDSm5pSE5uS1FaNUx4dm05ZEVYbGp2WkUtUEhEMzJvcWo2Vy1wT29ERDQ1Vjc5SG8xWmNoRGdYWGFSOVFmX2ZHeUJrVThEeVo4dzVQdmx0anhPcTFNXzVvR2ZLUFgtWGFqN2lEZHd4TVJLX2FtN1hOemZtWUY2VjVfWTh6VFBrUVVR?oc=5",
-      "data": "20/08 00:32"
-    },
-    {
-      "titulo": "Platense será o adversário do Fluminense nas quartas de final da Libertadores da América - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWGxiVW5fd2pFcWx1U2gxNVdqOXZOTUhpZk5ud1ZmZWcxSlVac3A2SUhIYmdHeEdZeHZkdXF1S1F2RFhFc19peTRIVkNxZVlhdmd5Ynh1QUx1azZwUDk1R24tbVYzV2owNVhuMnVKaC1lc3Z0UXRFYVVIcnFFejZJTkh6cGVDNjkwak5XMTR3bXQwbFlESFNYOHBJamVwS09SX1loeEJ0X29kbVR6cnh1LVo4M0tRN0ZzelZKZmJwMV8zSHNCNUdUV0dVM0o3U0RmQUVjSE8wNWpXY0xkNndYSEV0XzFxSmN6MzE0Qk1OaGNMQ2otb0t0NmtZS3FNUmEyM1BVTkdiOA?oc=5",
-      "data": "20/08 00:17"
+      "titulo": "Fluminense monitora Arthur Melo, fora dos planos da Juventus: pode haver avanço? - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWXFMbUh1ZHlvTHRGakthOEZ1UmgxUWFYQ2U1THIzSW9uMmJndVBrUTJfM0J6d0t1amJJXzBIT2QxbFRaWDlkOWV4WUV0RGp4c1hlS0pJMGw0NXhzRjJNdkN1UWIwWExJZ3hINV9pdGEwZ0pUeW42MU5UbGpwTU45bmlyT2FaMExRelNGU2dyZ3pQTEcxSFcyR19hS3ljT243bU5qcjF1SUdpSzFmUnNPRGlCN0pjbWZWNi02Q2lLa01od2NENUY5NGVYU055T0NmRUdDaW5EdGtWSE1LNHdiMHd2bGlfcXgwNjVFRUNTT3RJUFd0Tm5xdg?oc=5",
+      "data": "19/08 14:32"
     }
   ],
   "avisos": [
