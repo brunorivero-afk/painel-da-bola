@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 19:21",
+  "atualizado_em": "20/08/2026 20:20",
   "jogos": [
     {
       "sport": "futebol",
@@ -427,14 +427,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmk4eUpvTkwyclRiWlJIUjlnMmVzamF6ZTRJMFhzNS1EWmcyQTQyMTJRb2NMaXdibEtKWF9ESERpM2JFMFB1SHpiaU9XZWI2RkNnQi1PbVdkVU90YmVuZ1Rud3RSRkt3REJWUHFMU0ZyLVRkQ2JlN0tpZFUwZmxJU0h4SkhnS0EtZUx5VlA5dnYyQ0pOUFhLMXFVNlNITnJ6bzBLWG40bGRPMkZ0ZlBpRkdkdXNMX3cxeDZSVGlsN2VkUE1LVnVpbk45OEtkbEVHOFVlS3FsNl9lV2ZiX2RpSVNXNlfSAfMBQVVfeXFMTjJBaVdtenhVTUtFU2hTWU5pdGZ6ZnFxOTV0ang4QldYVnFHbVdHdzlYdDR6cVZVMHo5YmRQNTNTUXNxeDVyVEdJcW5OOVcyRUtUbXBMQkJTQ0NNV0YzYW5MNllDRjRDQ2lhZnc2RUNnZkE1ZDBXaXA5MFVBeGk0d3ZQUVhwbXNZb243dmhxaTVSZEVIY0toQ1MzZHlXUE55LVZJNFVRdndkQ01OSF9PeFF0YUFFWVBBbTdVVFk1bjdrd3ZQQkRhei1RX2JsVzJINnc3NU15RWF5eW90OHVtZ1pCblhTbDUyb2Z4YUZub2hZdW1J?oc=5",
-      "data": "20/08 15:40"
-    },
-    {
-      "titulo": "Fluminense cede empate no fim, mas avança nos pênaltis contra o Rivadavia - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNzhsY2I4VjlHUXpQdG0wY2ZERklkUmxPalN5M2UtY0hKQzVKenFwSzNkMlBxcDJYRjZsZnRWTUxJejE3RnJ1bngyYVhNTHZ5TmpfNUxQODZFQXZSU1dZSTFUNFdGTWlaVFhmSnJDY3hTUE9Cc3cyNGd3UWF3Q0RONHdLVTRyeXZBWE5SNlNfMFFkWDc5VTlkUnExWXRIb3FPN2JPOWJ1TTY1eGRiN2NHTDFSbWIwNVdqQndNYzJEcEt1SzE0MTg3ZGU3SXg5VGwzTXpCbjI1a1hYOVBRTUNrQTFmTkQ0NlktNnlURGRHeS1LU1ZjVmFGNg?oc=5",
-      "data": "19/08 00:16"
+      "titulo": "Fluminense vence o Rivadavia nos pênaltis e está nas quartas de final da Libertadores - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1ZRYjlJazFBd054a1JrX01QWHBOMFF5YnNBVEZlemtXb1JpOUYxMWtrTlhaS0R3RHExWTA0czM2bjVkY0VHOFZYVGI4NlpWWS1OWWJBSFVZd21UaDRQX2cyTzQ4ellZNXpQal83eWM3a25PX0JiTXBzQW5Xak5EaUZnazV3cm80a1U0TUhWeEEzalpfM1BhanVPcUJNT1FXMHBCdGItY3NQRFpaZEw2NmFnNjFMLWJIa0FjcVpfTlQ?oc=5",
+      "data": "19/08 00:29"
     },
     {
       "titulo": "Após 4 anos, Fluminense volta a ter goleiros na Seleção Brasileira de base - LANCE!",
@@ -447,9 +442,14 @@ window.PAINEL_DATA = {
       "data": "20/08 22:08"
     },
     {
-      "titulo": "Fluminense carimba nove de dez vagas na final de Estaduais de base - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2U2SER3ckFRWG5CUVVNTHo1eXd5MEFJUnZDZXJNXzdZd0lXMldOTlYzSzVkblNLNjB4MXB4RDJJeFI1M3Rmalo3cDEzM3k2MVQwRjdYMGtUbjFORDZmZ2FQTHhQRm9IQkdPOTZCbmRrMGEyQndNeUllb3FOOHFqY21SZnRUZVc2dTBKT0ljNzFVbWtfUUJhRmYyNWRKWlNPUVlzX3E2Zw?oc=5",
-      "data": "20/08 18:30"
+      "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - ge",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTgtRUI3c01LTHRlM1ZYSGotR3BuSzlfWWY2RHdfdzk4U2x4LXoxMHRSNmM0cU5qenJBaWs5N3ZNazFrTFRPSWxmemd2MlMyc1RzUWF2QXJLMmN6QnM2ZVF2bkJLVU41X2NyQ2JsOEFZNEE4QUdFTVk0TXhtTWQwb1ZyVFBHcjVmRlZjZ1ZHNWRRVUk3UXdyRUVHLXU2eTM2TW1zc3BaUnBCWFFDVW16SVpaamN2MERxbEdlRV9xZ0ZiOTRHZ0FCMHFJUldOejlnN1JTdVF6X0daN0hiQmpVY2hlcXdObS05cWhQZEhSWGwxNHBvREg0WTNfUHlDajNx0gGPAkFVX3lxTFB5NnZuR0lJXzBFd1BpRWVVWjVUQjFic3lLajVER0NyQ1NocXpEaU53QVh5NFhPaVdLSnJpeDBKN2lyVnA4Vm94ZzhrYnZjY0tlOXE3OWRSWWlaUzAtUlhtbUhjQ1g5S0taRHVjN1U0a2hrbVhXYUdoRHNfWUozcVZNY0NvUDBWVUtNMDZNMkkwaGU4OFUtcW1mZVZXVjljTFVNeTR5TTd2bWI5MHYxUlZfajB2b3phaVR4TEc5ZVRWMTlCVE5heWlGczNxemplbDE3Y1A3N2phbVNCd1pCa09NSlk2VHBNLU85bDlGZ3h3Zmd0VXphMDAzSzExSE1HZ3llZ2hMTGpMcElKS0FzN1U?oc=5",
+      "data": "20/08 21:33"
+    },
+    {
+      "titulo": "Fluminense fecha com lateral até 2029, enquanto Palmeiras avança para assinar com atacante - Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDFIZWNFTUl2dFRHTm9YWWtYcXhDYVdxM3ZKQlFMRUd1QThwc184VkF6dFp4ZmVnR1NqQnMzNlRZWTA5RWUyY0lfSV9jUFBWQlJfOTladlVBblkzQ2g3U0JpY1ZuZUFlOHNDUnhTNjJTcEtZMEx5NVVOS3lYSWFTZldUbHl3Z2pSUS1NdHV6dmN6X3pjaXpNN3hJY3FlYWlnYVRrd3c5YnQyU1FXb1JIcWhKZjZlNW5DSkgxS2Fud1ZwaVh4M1V0TlJtTQ?oc=5",
+      "data": "20/08 19:44"
     }
   ],
   "avisos": [
