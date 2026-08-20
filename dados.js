@@ -1,6 +1,328 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/08/2026 21:57",
+  "atualizado_em": "19/08/2026 23:17",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Orlando City SC x Chicago Fire",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:00",
+      "competition": "MLS",
+      "match": "Sporting Kansas City x St. Louis City",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Santa Fe x River Plate",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Flamengo x Cruzeiro",
+      "channels": [
+        "GLOBO",
+        "GE TV",
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Minnesota United FC x Atlanta United FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Criciúma",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "21:45",
+      "competition": "MLS Next Pro",
+      "match": "North Texas x Austin II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "22:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Mixco x UMECIT",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "22:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Marathon x Alianza",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "Real Salt Lake x FC Dallas",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "Seattle Sounders x Austin",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "Colorado Rapids x Los Angeles FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Portland Timbers x San Diego",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Whitecaps x Houston Dynamo",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Los Angeles Galaxy x San Jose Earthquakes",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Real Esteli x CS Herediano",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Xelaju x Diriangen",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "15:00",
+      "competition": "Amistosos",
+      "match": "Barcelona x Al Ahly",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Atletico Madrid x Malaga",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Celtic x Lask Linz",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "NEC Nijmegen x Bodo/Glimt",
+      "channels": [
+        "TNT",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Hapoel Beer Sheva x Sabah FA",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Slovan Bratislava x Celje",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "New York City II x FC Cincinnati II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Atlético-MG x RB Bragantino",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Cerro Porteno x Palmeiras",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Coquimbo Unido x Platense",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:00",
+      "competition": "Copa Paulista",
+      "match": "Uniao Sao Joao x Noroeste",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:15",
+      "competition": "Copa Argentina",
+      "match": "Racing Club x Belgrano Cordoba",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Sport Recife",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Fortaleza x São Bernardo",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-08-19",
@@ -16,7 +338,17 @@ window.PAINEL_DATA = {
       "date": "2026-08-19",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Orlando City SC x Chicago Fire",
+      "match": "DC United x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-19",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Toronto FC x Charlotte",
       "channels": [
         "APPLE TV"
       ]
@@ -77,338 +409,6 @@ window.PAINEL_DATA = {
       "time": "20:30",
       "competition": "Brasileirão Série B",
       "match": "Cuiabá x Operário-PR",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Toronto FC x Charlotte",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "DC United x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:00",
-      "competition": "MLS",
-      "match": "Sporting Kansas City x St. Louis City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Criciúma",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Minnesota United FC x Atlanta United FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Flamengo x Cruzeiro",
-      "channels": [
-        "GLOBO",
-        "GE TV",
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Santa Fe x River Plate",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "21:45",
-      "competition": "MLS Next Pro",
-      "match": "North Texas x Austin II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "22:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CD Marathon x Alianza",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "22:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Mixco x UMECIT",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Colorado Rapids x Los Angeles FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Seattle Sounders x Austin",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Real Salt Lake x FC Dallas",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Portland Timbers x San Diego",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Los Angeles Galaxy x San Jose Earthquakes",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Whitecaps x Houston Dynamo",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Real Esteli x CS Herediano",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Xelaju x Diriangen",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "15:00",
-      "competition": "Amistosos",
-      "match": "Barcelona x Al Ahly",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Slovan Bratislava x Celje",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Hapoel Beer Sheva x Sabah FA",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "NEC Nijmegen x Bodo/Glimt",
-      "channels": [
-        "TNT",
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Celtic x Lask Linz",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Atletico Madrid x Malaga",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York City II x FC Cincinnati II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Atlético-MG x RB Bragantino",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Paulista",
-      "match": "Uniao Sao Joao x Noroeste",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Coquimbo Unido x Platense",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Cerro Porteno x Palmeiras",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:15",
-      "competition": "Copa Argentina",
-      "match": "Racing Club x Belgrano Cordoba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x São Bernardo",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Sport Recife",
       "channels": [
         "DISNEY+"
       ]
@@ -620,14 +620,14 @@ window.PAINEL_DATA = {
       "data": "20/08 00:32"
     },
     {
-      "titulo": "Cria do Fluminense deixa o clube para jogar no exterior - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNME9FUF83M3RWX2w4S1NGZU1tMzR4MnJyUGk0RDRvVU5XT2xwa1dmWF9PZU15bmszd3VJc2o1VnRGUTFPSm5mMG5jSzlWNFlpRkNydzhMYlNBRmNEZHdkVkNOYmVjVWVkYk91alhzQ3lUOUJ5cXVpMXU1aGxJbzVla25RSjd3X09RZjBPUzNYb1BKZy1sdVZyZExJRHd4dEJYc0VQRldaNjVLd3hFcUxjV05lRlhzcU1zcU9DaG1GQVBsU0tUY0ROVU1jOHFYS1g4NmRqcFJINHJoQ282UXlV?oc=5",
-      "data": "19/08 21:10"
+      "titulo": "Tchamba ganha confiança após retorno e mira vitória do Remo contra o Fluminense | Remo | O Liberal - O Liberal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd05abzlFTGhGYXRTeTlQVm81NTZJVDVKVlRESzRaSUJKbHNjNjdpcGoyY3FoY3g5TDJBZWNlODhCRUREVWJ1US1oMTFrRFlfT1pMWF9pcVdCTmtGODUtb2x0a0NMdVlmS2M0Rk50QjZ2ZThCcDZZdnJ5YnZKaWl1OEp4LXB0MGs3WmN3WWRGYnF3UnNtemNCQ2oybFVPaTRwZE5pUGJNdGlmdC1zT3NvSFVCLXRiNmZ3TkYxa0RxVTFsVlp5d25V0gHMAUFVX3lxTE5xWk5GQUhsMl9OSjlCenFGM0RXdWIxV3hDS1U1V1hjUzVUcmpYcW9meEt5UUNhWU9zaVQxRFJQbHExODllaFJlaE5FbmZxSzNNaWFwdGUtZmVDd3JZVzJLVFZPV3RUWm85WHRhT3N6SUpHV2JJMHVnQkp6TFdYLW5XNXE3aU9ZUzNoT29jYVVPUTR3RTl4WDctWFpuRVZqOXNtWnpQUnNBT1NQb19abjRzSnEwQ1dFcnZaWTY2cFRYQnJUR1ZYMW9oNzlRXw?oc=5",
+      "data": "20/08 01:17"
     },
     {
-      "titulo": "A resposta do Fluminense se irá liberar Lima para o Santos - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByYXZncGJXQ0VDNTdiWGh0OUVaSFEyeDNnMDRqQXMyRk9LRjBQQl9nXzE2QXBWRWNjVFZKU2tOaXd3NEwxVC11U3EzSktzd0MxUUtyWU02MFlWZGlGdUh5ZHVJQ2NNTW1SeDItTEtJQWdBVUp5SG9n?oc=5",
-      "data": "19/08 20:59"
+      "titulo": "Veja os números de Hércules em 104 jogos pelo Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVJ5ajFBellCRGF3Z1NDWngyb1FaWlRUR2l4VUcxNVRZYlMtOHBIUzQtOVU5akd2SXprSGVSbWFMWDBBMkY0LXVWZlhzSUdDUTJOa0NPVW8zS2laRG1FQlQxTXBJaEhIME5TNFZhYUlmR2xrQTEzbndGU0tWTWJ5SVNkR3ZWWWU4TGlR?oc=5",
+      "data": "19/08 23:55"
     }
   ],
   "avisos": [
