@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 14:23",
+  "atualizado_em": "20/08/2026 15:32",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "13:00",
-      "competition": "UEFA Europa League",
-      "match": "Mjallby AIF x Red Bull Salzburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -222,6 +212,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "13:00",
+      "competition": "UEFA Europa League",
+      "match": "Mjallby AIF x Red Bull Salzburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-21",
       "time": "00:00",
       "competition": "CONCACAF Central American Cup",
@@ -427,29 +427,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
-      "data": "19/08 00:14"
-    },
-    {
-      "titulo": "A resposta do Fluminense se irá liberar Lima para o Santos - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByYXZncGJXQ0VDNTdiWGh0OUVaSFEyeDNnMDRqQXMyRk9LRjBQQl9nXzE2QXBWRWNjVFZKU2tOaXd3NEwxVC11U3EzSktzd0MxUUtyWU02MFlWZGlGdUh5ZHVJQ2NNTW1SeDItTEtJQWdBVUp5SG9n?oc=5",
-      "data": "19/08 20:59"
-    },
-    {
-      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
+      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - GE",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmk4eUpvTkwyclRiWlJIUjlnMmVzamF6ZTRJMFhzNS1EWmcyQTQyMTJRb2NMaXdibEtKWF9ESERpM2JFMFB1SHpiaU9XZWI2RkNnQi1PbVdkVU90YmVuZ1Rud3RSRkt3REJWUHFMU0ZyLVRkQ2JlN0tpZFUwZmxJU0h4SkhnS0EtZUx5VlA5dnYyQ0pOUFhLMXFVNlNITnJ6bzBLWG40bGRPMkZ0ZlBpRkdkdXNMX3cxeDZSVGlsN2VkUE1LVnVpbk45OEtkbEVHOFVlS3FsNl9lV2ZiX2RpSVNXNlfSAfMBQVVfeXFMTjJBaVdtenhVTUtFU2hTWU5pdGZ6ZnFxOTV0ang4QldYVnFHbVdHdzlYdDR6cVZVMHo5YmRQNTNTUXNxeDVyVEdJcW5OOVcyRUtUbXBMQkJTQ0NNV0YzYW5MNllDRjRDQ2lhZnc2RUNnZkE1ZDBXaXA5MFVBeGk0d3ZQUVhwbXNZb243dmhxaTVSZEVIY0toQ1MzZHlXUE55LVZJNFVRdndkQ01OSF9PeFF0YUFFWVBBbTdVVFk1bjdrd3ZQQkRhei1RX2JsVzJINnc3NU15RWF5eW90OHVtZ1pCblhTbDUyb2Z4YUZub2hZdW1J?oc=5",
       "data": "20/08 15:40"
     },
     {
-      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo; confira - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktkN1VfWHMtNWFaeW5QMUFsajhCMVM2ZXNEdTNLQUVWazFwdUpocmRQaF9MRkp3ckcyUnAwTDNJdngySE5wQ3BPMjIwWl9pc28tRW13ZXd4dWxiTk55TXN4d1AxQ1ZPR0g2cnJXOHBCRjdET3JwREdNVEhJX040V3F3R1RsQ2M4SHp6anJrRmpVT2lrQl9yT1lMbFpYVG1PVlJIRkN1WjE?oc=5",
-      "data": "20/08 13:30"
+      "titulo": "Análise: Fluminense ganha nova vida na Libertadores e reacende esperança na temporada - GE",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObWwzY0h5QUZVaTZlb2NOSUVzeWdrOGVOcHg1Y19RWFZFQ2s5WE40Vm05MzdyWjJ1RUJVbkdxRDFBQXRaWVhHS3BHLTg3VjRITlFjcUt0bkVXdjJxaWMtRG9sU0lLSWI5czQyM1VlNUtuZkhtSUpGN3ZzTFlyV21Xc1dGd2pibXVZTk9hejdtQTNSZUxrbTIyUWNKaWZ6V3owQkIyR0dOYWlKYk14aHFlZVFTNnJBUlptcnNSNVkwUU82U2ppckRBU1F4VzY5TldJbGZ2dHdXZENWX2hVUzNmYlJNZ1J1b2c1QWNV0gH6AUFVX3lxTE12NGFDUkN4bnJ6MWdxazQ1Z3FfOTRRWXpUaFdHZDQwb3lDMk0zQ01KTUQ4cHRiSXpUUXZjalg2aEVCTk5jZW5TWUdJSFZ4ZkJaODVLVHYyeXppbXBJb3FQSEVXdXFSMF9lZGRQRGRlcWlZNW9oTmk3UTRtRHhRcl9yYXhZTlAtRVdBcGZWbTU1amktRnpRMnl2dWhHUWNqQS1YR3RnajBJQ2xQMDNpbDZnT0xHa1RuOVQ3b05xS2t4V3B5dnpUX3JsT2dIR2R6QS1wOGFsMGxNN3FlNk1vZk1JZWZXMXdHWkhmUjhuRUd5dTVHaEVyUHN5UkE?oc=5",
+      "data": "19/08 07:00"
     },
     {
-      "titulo": "Fluminense x Remo Palpite – Dicas e notícias (22/08) - Trivela",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakk2c1ZFaWVkX0hpbDd0WEdZeFFNdkJPZGdxX0loXzFSNVF4M1BOOFlaa0lRNGdVd0NnSHlXSWo0WVU3S2JKNGctREhnMDVaNUR1VFpyUDlOdzluOU4yTkszdkcyN1lfaDUyd1FMeWVOQUZUMnNwNUNwRXpERllaNUl2eUp2Qlk?oc=5",
-      "data": "20/08 16:36"
+      "titulo": "Fisioterapeuta do Fluminense, Filé concorre a Prêmio Confut e lidera votação - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXdDOGNNcGUwNjA3YVo5cl94TGY0RTNJcDFWY09SNjdQTmNTbFRaLVdleVFfSUl0ak9waTkxN0ppOEhaRzlSSUtPd2IzTzliUUtJZThFSHE5LVQwSmZ5bnRGa1NRbGxwcW4xVmUzSlZSdnZ3SVFyRl92M3VOLWpTbGx2VEx4TGJfN1B1Y1h2Mk15WlJYRW5CN3VFQ0RBaXh2WGF1OTBVY3VzcUk5Z0xxNUNFTm1rcGc?oc=5",
+      "data": "20/08 18:01"
+    },
+    {
+      "titulo": "Fluminense divulga parcial de ingressos vendidos para o jogo contra o Remo; veja os números | Remo | O Liberal - O Liberal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3ViVGZ4ZldGMDhrU0hHVjFpYlZKbnlyT0NsUV9zS0VvbTBoWkdTQ3labmlkd1RSbEJJa2VRYzMxdU5LaFhuZEVfZkc4Sjh0LTZhN3VxeW4xblhCS0JRSUhUd19EQVpBbzczeDZPTlpPWEJXU0FndXRGSUl1TGJKNmlCM3Q1NHdGMFFoRFlUYUdkd2pEWXhHN2E3eHVXQURzM2Nhc1VYSUFYOWswaVl5RGtmcG02SFg1alV5YUlQTjJad3pjeGF6eFVwNlpGVnEzcURwNFRB0gHbAUFVX3lxTE94WDlKMlJvaFVDZ2ZNbWR1OXpNRF9hNTFTMktLQU9LLV9BQ0hSSFBlV1pZOElrUkktc1VuQXUxbjlGR0ZxU1JRcDBYWFRhZjRXdk1kVE8tY3N4WkpKeUlONlVfR1k3Nnl6c3B1SGo0MWVLdXM0RTZuaFNyMkVBdGZhSmxkSzlRYVI3cC1rdmZDbVgxQVJxRFJlUXNEd2oweXZOQ0JZWDd4MWs4NzVUOW5vMXNXMW9KR0hsTUVaUExwNmloQm00U01mYnR2cGsxbVdMb25QTG1HRnlRZw?oc=5",
+      "data": "20/08 17:05"
+    },
+    {
+      "titulo": "Conheça o Platense: próximo adversário do Fluminense na Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN2prejBXM3F5bDdxREdMYUhfdkhTOExBQXBjNV81YlJmWFFNRnNjeHBDMFdabjZCQmEwOXNuam1pSEFDdlg3MWFGMVVWck0tQ2N0UHhLVldYMkpXVnozU2pRMm82WnpMVUpaWnZWWTJxblZuN2NZVEl5VnZzamczVmtXdFFQWmlkZThfQW9RNVNEd2RYREpFOUYtZ1VUcFRO?oc=5",
+      "data": "20/08 17:30"
     }
   ],
   "avisos": [
