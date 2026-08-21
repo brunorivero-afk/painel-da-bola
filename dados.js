@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 05:35",
+  "atualizado_em": "21/08/2026 06:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -197,9 +197,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Juventud",
+      "competition": "Campeonato Inglês",
+      "match": "Ipswich x Sunderland",
       "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Nottingham Forest x Leeds",
+      "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -218,21 +230,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Ipswich x Sunderland",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Juventud",
       "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Nottingham Forest x Leeds",
-      "channels": [
-        "ESPN",
         "DISNEY+"
       ]
     },
@@ -332,8 +332,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "Primavera SP x Paulista",
+      "match": "São José EC x São Caetano",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -375,9 +376,8 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "São José EC x São Caetano",
+      "match": "Primavera SP x Paulista",
       "channels": [
-        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -456,16 +456,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Real Madrid",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "16:30",
       "competition": "Campeonato Português",
       "match": "Sporting CP x Alverca",
       "channels": [
@@ -476,12 +466,23 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-22",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Real Madrid",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
       "time": "17:00",
       "competition": "Brasileirão Série C",
       "match": "Botafogo PB x Guarani",
       "channels": [
         "SPORTYNET",
-        "CANAL DO BENJA"
+        "CANAL DO BENJA",
+        "YOUTUBE"
       ]
     },
     {
@@ -492,7 +493,9 @@ window.PAINEL_DATA = {
       "match": "Ituano x Paysandu",
       "channels": [
         "BAND",
-        "SPORTYNET"
+        "BAND",
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -530,20 +533,44 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Flamengo (F) x Atlético Mineiro (F)",
+      "match": "Grêmio (F) x Botafogo (F)",
       "channels": [
-        "TV BRASIL"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Londrina",
+      "competition": "Brasileirão Feminino",
+      "match": "Cruzeiro (F) x Palmeiras (F)",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "SPORTV",
+        "SPORTV 3",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "São Paulo (F) x Mixto W",
+      "channels": [
+        "NSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Juventude (F) x Bahia (F)",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -560,50 +587,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Juventude (F) x Bahia (F)",
+      "competition": "Brasileirão Série B",
+      "match": "Ceará x Londrina",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "São Paulo (F) x Mixto W",
-      "channels": [
-        "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Cruzeiro (F) x Palmeiras (F)",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Botafogo (F)",
-      "channels": [
-        "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Vitoria BA W x Santos (F)",
-      "channels": [
-        "YOUTUBE"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -642,12 +630,42 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Flamengo (F) x Atlético Mineiro (F)",
+      "channels": [
+        "TV BRASIL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Vitoria BA W x Santos (F)",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
       "time": "18:30",
       "competition": "Brasileirão Série A",
       "match": "Internacional x Atlético-MG",
       "channels": [
         "SPORTV",
         "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:30",
+      "competition": "Campeonato Argentino",
+      "match": "Independiente x Independ. Rivadavia",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -695,10 +713,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Flamengo",
+      "competition": "MLS",
+      "match": "Montreal Impact x Los Angeles Galaxy",
       "channels": [
-        "PRIME VIDEO"
+        "APPLE TV"
       ]
     },
     {
@@ -746,16 +764,6 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Montreal Impact x Los Angeles Galaxy",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
       "match": "FC Cincinnati x Seattle Sounders",
       "channels": [
         "APPLE TV"
@@ -769,6 +777,16 @@ window.PAINEL_DATA = {
       "match": "Inter Miami x Toronto FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Flamengo",
+      "channels": [
+        "PRIME VIDEO"
       ]
     },
     {
@@ -1024,12 +1042,12 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense conhece adversário das quartas da Libertadores; veja - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazlfanN3V1RoVW92U0NJeUtPcy1vbGsxTmdzSldDSm5pSE5uS1FaNUx4dm05ZEVYbGp2WkUtUEhEMzJvcWo2Vy1wT29ERDQ1Vjc5SG8xWmNoRGdYWGFSOVFmX2ZHeUJrVThEeVo4dzVQdmx0anhPcTFNXzVvR2ZLUFgtWGFqN2lEZHd4TVJLX2FtN1hOemZtWUY2VjVfWTh6VFBrUVVR?oc=5",
-      "data": "20/08 00:32"
+      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar para as quartas da Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeXZWRk5hS3ptN0RDcjRsY2VCQ3BKZGR2RzA0YXlZVWNUaEZQV2xpZDNEWTdqb0gtRm1TMUI0NWtLRnBYTXR0c3NrcTBNcjVmaTRTUHZUN251d3d2WmVzbnVYYjVYQ2ZKdWJnZmxjMFU0Q2pvQ1gtdWNfQVdjdnNEZkwybU1zbXV4RnlIVFRfajBfYjk5Mzg5WGRNaWhlVkYtb19jLS1JTllVeERZNTZtYm9LdFVYeDlraUxGM2hEOWI3N1hJQmFKT1VXTld5ZHdncUpRY1ZIMURNWHFMSlJyc19Qc181LTJ1UXhxQXB0VFhrNzTSAYICQVVfeXFMUDB1UDBNdVIyRUJyeTFKZkhSQ3RycGlROUpjdVNiSDNLRXFWRXBabWxzNHNuOFBDTVJ5VG5QSUcxa0JrVE41TGx5MW5aR3l0cUNaak81RXNpRFM1dGJfMkJfazNwTksxVE9kUVBjZXJMOURicXF2VExYeGtHZ0FPUzdKQlpaN3pyc0s0Q3haVjk1dHhFWHdnY0hwSGNXRDhDbHQtZWhQc3ZkYjNid05fVlczNzNHLVFwTWpfdURRcGtDZFdYeW1FS3Q1ZlQ0RGNrazVNeVM4OWh2UTd3NUQ4QS1MOE5XTnhsb3loVzBzWGZrQlVOWDVwOGtMMHUtUkd6VEh3?oc=5",
+      "data": "19/08 00:14"
     },
     {
-      "titulo": "Ganso retoma espaço no Fluminense em meio a indefinição sobre contrato - ge",
+      "titulo": "Ganso retoma espaço no Fluminense em meio a indefinição sobre contrato - GE",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmFFd3lJTmpxbVZCZXB3LXNWR3JBYm9nS3JCQjkxeGowSzR4V2otTTFhMlhOck80RGtkQU9oM3ZrcDNmZXVtYWRuNjNnWDVMYWNmQ1VvQ2ctMkRBckNRVVFmZ01yV25jMXJkTC1mdkxmUzBMaVJLd20tM2Y5R0JsNkp0VW54SjNPTjFYQ2JpUXotbHIyeDNTRDkzOThoVzNpYmV2LXdWZFBYZEV4OHJDVnExcS1ndE5vallFcHhrYjN5V3pJMVM1c1hGNEE3cVltNjVaQWpFYnY?oc=5",
       "data": "21/08 07:01"
     },
@@ -1039,7 +1057,7 @@ window.PAINEL_DATA = {
       "data": "19/08 20:30"
     },
     {
-      "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - ge",
+      "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - GE",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTgtRUI3c01LTHRlM1ZYSGotR3BuSzlfWWY2RHdfdzk4U2x4LXoxMHRSNmM0cU5qenJBaWs5N3ZNazFrTFRPSWxmemd2MlMyc1RzUWF2QXJLMmN6QnM2ZVF2bkJLVU41X2NyQ2JsOEFZNEE4QUdFTVk0TXhtTWQwb1ZyVFBHcjVmRlZjZ1ZHNWRRVUk3UXdyRUVHLXU2eTM2TW1zc3BaUnBCWFFDVW16SVpaamN2MERxbEdlRV9xZ0ZiOTRHZ0FCMHFJUldOejlnN1JTdVF6X0daN0hiQmpVY2hlcXdObS05cWhQZEhSWGwxNHBvREg0WTNfUHlDajNx0gGPAkFVX3lxTFB5NnZuR0lJXzBFd1BpRWVVWjVUQjFic3lLajVER0NyQ1NocXpEaU53QVh5NFhPaVdLSnJpeDBKN2lyVnA4Vm94ZzhrYnZjY0tlOXE3OWRSWWlaUzAtUlhtbUhjQ1g5S0taRHVjN1U0a2hrbVhXYUdoRHNfWUozcVZNY0NvUDBWVUtNMDZNMkkwaGU4OFUtcW1mZVZXVjljTFVNeTR5TTd2bWI5MHYxUlZfajB2b3phaVR4TEc5ZVRWMTlCVE5heWlGczNxemplbDE3Y1A3N2phbVNCd1pCa09NSlk2VHBNLU85bDlGZ3h3Zmd0VXphMDAzSzExSE1HZ3llZ2hMTGpMcElKS0FzN1U?oc=5",
       "data": "20/08 21:33"
     },
