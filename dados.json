@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "21/08/2026 04:38",
+  "atualizado_em": "21/08/2026 05:35",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,7 +9,10 @@
       "match": "Al Riyadh x Al-Nassr",
       "channels": [
         "XSPORTS",
-        "ONEFOOTBALL"
+        "SPORTV 2",
+        "CANAL GOAT",
+        "ONEFOOTBALL",
+        "YOUTUBE"
       ]
     },
     {
@@ -70,7 +73,8 @@
       "match": "Al-Faisaly FC x Neom",
       "channels": [
         "BANDSPORTS",
-        "ONEFOOTBALL"
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -80,7 +84,10 @@
       "competition": "Campeonato Saudita",
       "match": "Al-Qadisiyah FC x Al-Ittihad FC",
       "channels": [
-        "ONEFOOTBALL"
+        "SPORTV",
+        "ONEFOOTBALL",
+        "CANAL GOAT",
+        "YOUTUBE"
       ]
     },
     {
@@ -1017,19 +1024,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense enfrentará o Platense nas quartas de final da Conmebol Libertadores - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3VrR0hLQVdyMnlNQmRSOUlhSF9YR3V1LUhBNDEzakFmUkdyeVVBcEFIQTFuRTZJTlc1aGpzeXNWUlA5UTdWZ0V0RzV1QkgtZllyT3FGZnljbXV1ckdPWDhMSzhPNy1SZThSSjN5VFFhNXVtQTg5YWo0eEdEdDYwZEwyTUFpbFhZa3Q4UlNfa0VOSlhidUhWVURqbEdTYkExVFZSMjlJazBWdjdmVFduX0c4QXI3cFE?oc=5",
-      "data": "20/08 00:31"
+      "titulo": "Fluminense conhece adversário das quartas da Libertadores; veja - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazlfanN3V1RoVW92U0NJeUtPcy1vbGsxTmdzSldDSm5pSE5uS1FaNUx4dm05ZEVYbGp2WkUtUEhEMzJvcWo2Vy1wT29ERDQ1Vjc5SG8xWmNoRGdYWGFSOVFmX2ZHeUJrVThEeVo4dzVQdmx0anhPcTFNXzVvR2ZLUFgtWGFqN2lEZHd4TVJLX2FtN1hOemZtWUY2VjVfWTh6VFBrUVVR?oc=5",
+      "data": "20/08 00:32"
     },
     {
-      "titulo": "Fluminense cede empate no fim, mas avança nos pênaltis contra o Rivadavia - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNzhsY2I4VjlHUXpQdG0wY2ZERklkUmxPalN5M2UtY0hKQzVKenFwSzNkMlBxcDJYRjZsZnRWTUxJejE3RnJ1bngyYVhNTHZ5TmpfNUxQODZFQXZSU1dZSTFUNFdGTWlaVFhmSnJDY3hTUE9Cc3cyNGd3UWF3Q0RONHdLVTRyeXZBWE5SNlNfMFFkWDc5VTlkUnExWXRIb3FPN2JPOWJ1TTY1eGRiN2NHTDFSbWIwNVdqQndNYzJEcEt1SzE0MTg3ZGU3SXg5VGwzTXpCbjI1a1hYOVBRTUNrQTFmTkQ0NlktNnlURGRHeS1LU1ZjVmFGNg?oc=5",
-      "data": "19/08 00:16"
+      "titulo": "Ganso retoma espaço no Fluminense em meio a indefinição sobre contrato - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmFFd3lJTmpxbVZCZXB3LXNWR3JBYm9nS3JCQjkxeGowSzR4V2otTTFhMlhOck80RGtkQU9oM3ZrcDNmZXVtYWRuNjNnWDVMYWNmQ1VvQ2ctMkRBckNRVVFmZ01yV25jMXJkTC1mdkxmUzBMaVJLd20tM2Y5R0JsNkp0VW54SjNPTjFYQ2JpUXotbHIyeDNTRDkzOThoVzNpYmV2LXdWZFBYZEV4OHJDVnExcS1ndE5vallFcHhrYjN5V3pJMVM1c1hGNEE3cVltNjVaQWpFYnY?oc=5",
+      "data": "21/08 07:01"
     },
     {
-      "titulo": "Soteldo aproveita fase ruim de Savarino para se tornar a válvula de escape no ataque do Fluminense - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWFVsOWtoMWRmclRSbTV6Z2pUalNvMUN2T2hWNzd3aEVDZm05LTJiM3hybDJ4NHJWRkxkalBqVXh1V2ROY1lWcFd1VmF6TkhwRWtvOGtPVTNBODN0WVAyZzRnbHNVTUhDcE1zcFNIU0lqQUNBeGdDVmZwNDFheE9IOWRFckdieDFLQ1lzS3h6QzZpQzBURndjN3Q2dXQwTmtYOUV1b2hFVmVXQVJ4SUNGY054RldEc09tMFc4WnU4NjUzNWlnc1F2SmlMWDRtUjZ5X2ZvemZHek5idjNpNEU4X0Rad0d3NDBqYlo2azJQWDEyeFQ4RTFFZlY4UTVrVHpqLVNoY2t5VdIBlgJBVV95cUxPT2ZiU1hrc1B2UmNhSWFzNXV4Zjc3NmcwU2R1WXZGbm9uQzM2TmF5TGhHeDE5cVFDU1JpekZxLThPOUIzVTd1QzlvcGxHTUJiUTEyYTN1R3FJanpHNkowZVFWZlhsVzhBV1d3cjk1bEhLNFBQTXZjakNoSkVPN2p6V0hFQVAwYmtIZmtONDJYbDZuZXA2WmpiLWJjMXFub3NfYndyOHdQcFdpdUtGUDdqd3NOWUJUV1pGX2NmMjRuS1BDUjBKS0NLOGFrVTVXOEluR2NuNmd2X1ZobTM2SFR6cU5PQnhyalpQYThscTZsTlg0eDV0MlNTb25NNzRDYjNweE5HaUpnQmlOY3prNDZfS2lCUjM5Zw?oc=5",
-      "data": "21/08 07:00"
+      "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
+      "data": "19/08 20:30"
     },
     {
       "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - ge",
@@ -1037,9 +1044,9 @@
       "data": "20/08 21:33"
     },
     {
-      "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
-      "data": "19/08 20:30"
+      "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVjM3NxVkJza0hTNUFCVUxJUkFsQ183bGsyTTFCVF93Smp3SjJENFFoYVNHbkh5RUttVmRaS2Fad0U0c0tSemdlNlp5dVFBZ1FjRk9ZX0stMGs4ek9vMEN5QmVnZnFNTzVNLWxKY2dyNU9hQndDcG41U251SDFtLXFMREtxMWFqM0JtY19id1hjd3d0TEp2bElYLUw1WHZTMW82RUVFSGZTejZzWHNtS2FQeWhyYXFFSlkwbUdyZVpDamtSd3ZyOUR0NFNhQVE1M25EYTBuaWlRSVU?oc=5",
+      "data": "19/08 04:41"
     }
   ],
   "avisos": []
