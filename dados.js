@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 02:27",
+  "atualizado_em": "21/08/2026 03:38",
   "jogos": [
     {
       "sport": "futebol",
@@ -96,6 +96,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-21",
+      "time": "15:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Albion FC x Boston River",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-21",
       "time": "16:00",
       "competition": "Campeonato Espanhol",
       "match": "Real Betis x Real Sociedad",
@@ -111,16 +121,6 @@ window.PAINEL_DATA = {
       "match": "Arsenal x Coventry",
       "channels": [
         "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-21",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Albion FC x Boston River",
-      "channels": [
         "DISNEY+"
       ]
     },
@@ -988,48 +988,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 33.4,
-      "temp_min": 21.0,
+      "temp_max": 33.2,
+      "temp_min": 20.6,
       "chance_chuva": 21,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 32.1,
-      "temp_min": 19.5,
+      "temp_max": 31.7,
+      "temp_min": 19.3,
       "chance_chuva": 58,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.1,
-      "temp_min": 16.5,
+      "temp_max": 28.4,
+      "temp_min": 16.6,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 28.2,
-      "temp_min": 14.4,
+      "temp_min": 13.9,
       "chance_chuva": 100,
-      "condicao": "Chuva fraca"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense vence o Rivadavia nos pênaltis e está nas quartas de final da Libertadores - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1ZRYjlJazFBd054a1JrX01QWHBOMFF5YnNBVEZlemtXb1JpOUYxMWtrTlhaS0R3RHExWTA0czM2bjVkY0VHOFZYVGI4NlpWWS1OWWJBSFVZd21UaDRQX2cyTzQ4ellZNXpQal83eWM3a25PX0JiTXBzQW5Xak5EaUZnazV3cm80a1U0TUhWeEEzalpfM1BhanVPcUJNT1FXMHBCdGItY3NQRFpaZEw2NmFnNjFMLWJIa0FjcVpfTlQ?oc=5",
-      "data": "19/08 00:29"
-    },
-    {
-      "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - GE",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTgtRUI3c01LTHRlM1ZYSGotR3BuSzlfWWY2RHdfdzk4U2x4LXoxMHRSNmM0cU5qenJBaWs5N3ZNazFrTFRPSWxmemd2MlMyc1RzUWF2QXJLMmN6QnM2ZVF2bkJLVU41X2NyQ2JsOEFZNEE4QUdFTVk0TXhtTWQwb1ZyVFBHcjVmRlZjZ1ZHNWRRVUk3UXdyRUVHLXU2eTM2TW1zc3BaUnBCWFFDVW16SVpaamN2MERxbEdlRV9xZ0ZiOTRHZ0FCMHFJUldOejlnN1JTdVF6X0daN0hiQmpVY2hlcXdObS05cWhQZEhSWGwxNHBvREg0WTNfUHlDajNx0gGPAkFVX3lxTFB5NnZuR0lJXzBFd1BpRWVVWjVUQjFic3lLajVER0NyQ1NocXpEaU53QVh5NFhPaVdLSnJpeDBKN2lyVnA4Vm94ZzhrYnZjY0tlOXE3OWRSWWlaUzAtUlhtbUhjQ1g5S0taRHVjN1U0a2hrbVhXYUdoRHNfWUozcVZNY0NvUDBWVUtNMDZNMkkwaGU4OFUtcW1mZVZXVjljTFVNeTR5TTd2bWI5MHYxUlZfajB2b3phaVR4TEc5ZVRWMTlCVE5heWlGczNxemplbDE3Y1A3N2phbVNCd1pCa09NSlk2VHBNLU85bDlGZ3h3Zmd0VXphMDAzSzExSE1HZ3llZ2hMTGpMcElKS0FzN1U?oc=5",
-      "data": "20/08 21:33"
+      "titulo": "Fluminense conhece adversário das quartas da Libertadores; veja - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazlfanN3V1RoVW92U0NJeUtPcy1vbGsxTmdzSldDSm5pSE5uS1FaNUx4dm05ZEVYbGp2WkUtUEhEMzJvcWo2Vy1wT29ERDQ1Vjc5SG8xWmNoRGdYWGFSOVFmX2ZHeUJrVThEeVo4dzVQdmx0anhPcTFNXzVvR2ZLUFgtWGFqN2lEZHd4TVJLX2FtN1hOemZtWUY2VjVfWTh6VFBrUVVR?oc=5",
+      "data": "20/08 00:32"
     },
     {
       "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
       "data": "19/08 20:30"
+    },
+    {
+      "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - ge",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTgtRUI3c01LTHRlM1ZYSGotR3BuSzlfWWY2RHdfdzk4U2x4LXoxMHRSNmM0cU5qenJBaWs5N3ZNazFrTFRPSWxmemd2MlMyc1RzUWF2QXJLMmN6QnM2ZVF2bkJLVU41X2NyQ2JsOEFZNEE4QUdFTVk0TXhtTWQwb1ZyVFBHcjVmRlZjZ1ZHNWRRVUk3UXdyRUVHLXU2eTM2TW1zc3BaUnBCWFFDVW16SVpaamN2MERxbEdlRV9xZ0ZiOTRHZ0FCMHFJUldOejlnN1JTdVF6X0daN0hiQmpVY2hlcXdObS05cWhQZEhSWGwxNHBvREg0WTNfUHlDajNx0gGPAkFVX3lxTFB5NnZuR0lJXzBFd1BpRWVVWjVUQjFic3lLajVER0NyQ1NocXpEaU53QVh5NFhPaVdLSnJpeDBKN2lyVnA4Vm94ZzhrYnZjY0tlOXE3OWRSWWlaUzAtUlhtbUhjQ1g5S0taRHVjN1U0a2hrbVhXYUdoRHNfWUozcVZNY0NvUDBWVUtNMDZNMkkwaGU4OFUtcW1mZVZXVjljTFVNeTR5TTd2bWI5MHYxUlZfajB2b3phaVR4TEc5ZVRWMTlCVE5heWlGczNxemplbDE3Y1A3N2phbVNCd1pCa09NSlk2VHBNLU85bDlGZ3h3Zmd0VXphMDAzSzExSE1HZ3llZ2hMTGpMcElKS0FzN1U?oc=5",
+      "data": "20/08 21:33"
     },
     {
       "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
