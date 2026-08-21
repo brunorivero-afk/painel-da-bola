@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 16:22",
+  "atualizado_em": "21/08/2026 17:19",
   "jogos": [
     {
       "sport": "futebol",
@@ -1052,19 +1052,19 @@ window.PAINEL_DATA = {
       "data": "20/08 20:40"
     },
     {
+      "titulo": "Thiago Neves detona Zubeldía por fala sobre Xerém e manda recado a Fred no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3d5b2lFSEh5Vll0bWNsbVQxNm10eGtfaXUyc2FoNXNUUmdDQmhLR1BtS2pZMkhZRWU4RmRySU0yQ1YwRnVjbGZua2czU3lMZnUwa0VLRXJmRXBKbnBUQ3p2SVphdzAtUU4yelRGWlJsdGhRdXU5N0o2eGtUaEktZDFnM3oyZU56TjI5bHlTX2tfTkVVbjdRVE1yb0RmRk1pZ1JBVFl3NHVEWlJEVmlaQi1n?oc=5",
+      "data": "21/08 17:00"
+    },
+    {
       "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
       "data": "21/08 18:21"
     },
     {
-      "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - ge",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTgtRUI3c01LTHRlM1ZYSGotR3BuSzlfWWY2RHdfdzk4U2x4LXoxMHRSNmM0cU5qenJBaWs5N3ZNazFrTFRPSWxmemd2MlMyc1RzUWF2QXJLMmN6QnM2ZVF2bkJLVU41X2NyQ2JsOEFZNEE4QUdFTVk0TXhtTWQwb1ZyVFBHcjVmRlZjZ1ZHNWRRVUk3UXdyRUVHLXU2eTM2TW1zc3BaUnBCWFFDVW16SVpaamN2MERxbEdlRV9xZ0ZiOTRHZ0FCMHFJUldOejlnN1JTdVF6X0daN0hiQmpVY2hlcXdObS05cWhQZEhSWGwxNHBvREg0WTNfUHlDajNx0gGPAkFVX3lxTFB5NnZuR0lJXzBFd1BpRWVVWjVUQjFic3lLajVER0NyQ1NocXpEaU53QVh5NFhPaVdLSnJpeDBKN2lyVnA4Vm94ZzhrYnZjY0tlOXE3OWRSWWlaUzAtUlhtbUhjQ1g5S0taRHVjN1U0a2hrbVhXYUdoRHNfWUozcVZNY0NvUDBWVUtNMDZNMkkwaGU4OFUtcW1mZVZXVjljTFVNeTR5TTd2bWI5MHYxUlZfajB2b3phaVR4TEc5ZVRWMTlCVE5heWlGczNxemplbDE3Y1A3N2phbVNCd1pCa09NSlk2VHBNLU85bDlGZ3h3Zmd0VXphMDAzSzExSE1HZ3llZ2hMTGpMcElKS0FzN1U?oc=5",
-      "data": "20/08 21:33"
-    },
-    {
-      "titulo": "Vitinho assina primeiro contrato profissional com o Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmlRazRKRFU4dG50OTN6SjU1dXZTN0EwZFpBaU1tamZkTHduVVJ2dmN0Qjh4eEhGT3BHMERucy00elh2VUdjSHBMWkFHVE5ZRkNBOExFV0R0aDlYZzZuYTIyeXlyYlVaUjU1c0kyMWRiSllLVEpSd0FMRFlEQjByV3pvSnFoS3BNMnNMd0l3UC05eG1zOGEzWno3UnFYM1FYSGc?oc=5",
-      "data": "21/08 17:15"
+      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
+      "data": "21/08 14:41"
     }
   ],
   "avisos": []
