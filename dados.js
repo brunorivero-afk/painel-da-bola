@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 13:27",
+  "atualizado_em": "21/08/2026 14:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -1047,14 +1047,9 @@ window.PAINEL_DATA = {
       "data": "21/08 07:01"
     },
     {
-      "titulo": "Fluminense atinge meta na Libertadores e alivia as finanças - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVA2UXdvc1VPQkhraG5LdkFjLWwwSlZPVEt3OGtURWs0MmRSZnZ2ZzI1bEw0ZjM4c3RQSDNpei1qaUlfTHpLTVYtZ0R1ck1KcGVXSXNBWlVLdVlJX0djeFl3bGNiOVJwTkJmSUxoNlRuTjZzMTVhVE4wT0R3RnEyeVFKSF9Oa0kxN2ZycVV2aktsR3g4QkpGR2NJS0VrYlNOX0E?oc=5",
-      "data": "21/08 14:45"
-    },
-    {
-      "titulo": "Fluminense adia cirurgia e define tratamento de Rabello; veja detalhes - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0JwV0t6eFFxTTdFbHUtQlN4NERPcUlhT1l6RDBUenhKWGM1QUJLd29MTVd2Z0NfNDRmaDRKazVpQXdMbThCbm5saC1iUlZ2cmdyeTl1RDJwX29iUXk4WkhGNVhmV2p6dlRyTzZ0amhxVVFKOTkzd0pySmYyVXd4dUo3SktFTHlfb0RuRi1wb19Ub29zQ0tyOGlrWEw?oc=5",
-      "data": "21/08 15:28"
+      "titulo": "Fluminense atropela na base e acumula nove finais em 2026 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVBSS1BLWVh0S1BZZ0pwWk1fcnQxdDd2elU2Nm1kNjhSS3lpREg1d1NKTUFReGpsRGtmYUUwLWdMd19sM0V6M2NzcTgzdTBkZ1RrZGJDQk1rUmY4STdWYlV5amVHNEJQYXlmOUEyRzVZV0RkOHNsN3RWQ1RZbVNHUm9kV1lFZVpzSXRaeXQ3eWd3aDBoY2FKY3VSSQ?oc=5",
+      "data": "20/08 20:40"
     },
     {
       "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
@@ -1065,6 +1060,11 @@ window.PAINEL_DATA = {
       "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
       "data": "21/08 14:41"
+    },
+    {
+      "titulo": "Fluminense adia cirurgia e define tratamento de Rabello; veja detalhes - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0JwV0t6eFFxTTdFbHUtQlN4NERPcUlhT1l6RDBUenhKWGM1QUJLd29MTVd2Z0NfNDRmaDRKazVpQXdMbThCbm5saC1iUlZ2cmdyeTl1RDJwX29iUXk4WkhGNVhmV2p6dlRyTzZ0amhxVVFKOTkzd0pySmYyVXd4dUo3SktFTHlfb0RuRi1wb19Ub29zQ0tyOGlrWEw?oc=5",
+      "data": "21/08 15:28"
     }
   ],
   "avisos": []
