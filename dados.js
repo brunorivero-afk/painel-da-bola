@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 18:19",
+  "atualizado_em": "21/08/2026 19:18",
   "jogos": [
     {
       "sport": "futebol",
@@ -1047,24 +1047,24 @@ window.PAINEL_DATA = {
       "data": "21/08 07:01"
     },
     {
-      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmk4eUpvTkwyclRiWlJIUjlnMmVzamF6ZTRJMFhzNS1EWmcyQTQyMTJRb2NMaXdibEtKWF9ESERpM2JFMFB1SHpiaU9XZWI2RkNnQi1PbVdkVU90YmVuZ1Rud3RSRkt3REJWUHFMU0ZyLVRkQ2JlN0tpZFUwZmxJU0h4SkhnS0EtZUx5VlA5dnYyQ0pOUFhLMXFVNlNITnJ6bzBLWG40bGRPMkZ0ZlBpRkdkdXNMX3cxeDZSVGlsN2VkUE1LVnVpbk45OEtkbEVHOFVlS3FsNl9lV2ZiX2RpSVNXNlfSAfMBQVVfeXFMTjJBaVdtenhVTUtFU2hTWU5pdGZ6ZnFxOTV0ang4QldYVnFHbVdHdzlYdDR6cVZVMHo5YmRQNTNTUXNxeDVyVEdJcW5OOVcyRUtUbXBMQkJTQ0NNV0YzYW5MNllDRjRDQ2lhZnc2RUNnZkE1ZDBXaXA5MFVBeGk0d3ZQUVhwbXNZb243dmhxaTVSZEVIY0toQ1MzZHlXUE55LVZJNFVRdndkQ01OSF9PeFF0YUFFWVBBbTdVVFk1bjdrd3ZQQkRhei1RX2JsVzJINnc3NU15RWF5eW90OHVtZ1pCblhTbDUyb2Z4YUZub2hZdW1J?oc=5",
-      "data": "20/08 15:40"
+      "titulo": "Escalação do Fluminense: Marcão terá desfalques para duelo contra o Remo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkplOS1zY1RMdHVTa0UtX2ZZREZ5cDFrMms1SDRNX0ZfX2Jxdk52ZWFnT1J2Nk9jakZMZHZGZHNoRjhuSC1qVlVvX3FCVEI4M3JGN2dQLWVFU0pjUXdFU0h1YTk4aFVkZVFVOHBZTWpDWDN3cV9CLTZ2NGp0SHViT1oyd2QzN29sTUUwYVFCV3BUX3B3bm56dE5VdE9veXZSUjV4bUl5RUdicnFac1o2dF9PdVBXa2xUVDNLbDdKUktIcEpGdVF0NlJ3anBNWkU0Z0NSQzhiU243d9IB6AFBVV95cUxOZzFHbTktdHp3eEk0ZGQtRXd3eklBTkVDeXhJdWZmSGhrTW9icVRoaTVhUzFwMjl0cVlPSVQweHE4eDVwYWVjTzc1eTlpaXEzR1JoeS1CY3VicEJOQ29GcDNybFFBU2xEY0ZZVzNGMlBRSXBRNFdLTHVheWYxS1Voa2pOeUEzNTczNzZUQm44YU5JSU5wZ2dBS2I0SkFXZGFtb3pySzk2a2cxS2lBUmhuOFFpdDFkLWtnbHJaZk1obDE1QWUxT3JyZXZRX1F3dmxlSncyeWNndzJDYlNfbHBtdmp1cXVyRTBs?oc=5",
+      "data": "21/08 20:35"
+    },
+    {
+      "titulo": "Fluminense x Remo ao vivo: onde assistir, horário e escalações pelo Brasileirão 2026 - JC",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHN6dmdzQ2Q5V0s0Y0dKdDNPY3lJakU2WVpaNEpveUNFTUtTYzRaNmdVYXhhLXZNb3JuakdEQWppSW5ncmt3dERIVmJvOTZIcDBpVEhPTGoyQUJuYTdjSi1qUE92ZGJJZ1dGU0N1NzdZUGo2cHZFbWZYR01paHZSeFVLbDdBOUhpc3VhcXVXcUlOd29sTHNQNTUxMEtaOVNUV3A1Y1VuQkNVY2V0ODlJRlhUWlhhYmdiUUxkWk1zWVk1R1E5TV84RWFRNDVxWVpKc0EzTzNUT0xpdHMwcFM3cXU0MXpIQQ?oc=5",
+      "data": "21/08 12:30"
+    },
+    {
+      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVJUG9UWWo0aWduYkVGN21BQUlnZnEzb2xLSXJUeU4tZUExNFhxVjgwNXVjcU9xbGNBS3pJYUVyTlUxZTdIajB0U0JlLXBUUHRYNkFLUURmaGxBM19jVkg4ZVBxMXhiQ3JMMXNac1drUGNNUHpKRnp2aWQ2TDhHeFVoMEZYWWtPSE1Qb1lNeTNyMENQYWFtVDBVTFh1cDhRNEliaS0yelRkUGZZUEc1dw?oc=5",
+      "data": "21/08 16:34"
     },
     {
       "titulo": "Thiago Neves detona Zubeldía por fala sobre Xerém e manda recado a Fred no Fluminense - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3d5b2lFSEh5Vll0bWNsbVQxNm10eGtfaXUyc2FoNXNUUmdDQmhLR1BtS2pZMkhZRWU4RmRySU0yQ1YwRnVjbGZua2czU3lMZnUwa0VLRXJmRXBKbnBUQ3p2SVphdzAtUU4yelRGWlJsdGhRdXU5N0o2eGtUaEktZDFnM3oyZU56TjI5bHlTX2tfTkVVbjdRVE1yb0RmRk1pZ1JBVFl3NHVEWlJEVmlaQi1n?oc=5",
       "data": "21/08 17:00"
-    },
-    {
-      "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
-      "data": "21/08 18:21"
-    },
-    {
-      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
-      "data": "21/08 14:41"
     }
   ],
   "avisos": []
