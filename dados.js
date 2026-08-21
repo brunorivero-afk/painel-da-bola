@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 14:23",
+  "atualizado_em": "21/08/2026 15:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1052,14 +1052,14 @@ window.PAINEL_DATA = {
       "data": "20/08 20:40"
     },
     {
-      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
-      "data": "21/08 14:05"
-    },
-    {
       "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
       "data": "21/08 14:41"
+    },
+    {
+      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
+      "data": "21/08 14:05"
     },
     {
       "titulo": "Fluminense adia cirurgia e define tratamento de Rabello; veja detalhes - netflu.com.br",
