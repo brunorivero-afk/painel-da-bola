@@ -1,60 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 20:20",
+  "atualizado_em": "20/08/2026 22:01",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Olimpia x Vasco",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Macara x Santos",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "LDU de Quito x Mirassol",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x CRB",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x América-MG",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -150,6 +96,17 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-20",
       "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x SC Paulinense SP U20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "15:00",
       "competition": "Campeonato Saudita",
       "match": "Al-Fayha x Al-Hilal",
       "channels": [
@@ -162,20 +119,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-20",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x SC Paulinense SP U20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
       "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "FC Lugano x Maccabi Tel Aviv",
+      "match": "Atalanta x Hapoel Tel Aviv",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -195,7 +141,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-20",
       "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "Atalanta x Hapoel Tel Aviv",
+      "match": "FC Lugano x Maccabi Tel Aviv",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -218,6 +164,60 @@ window.PAINEL_DATA = {
       "match": "Getafe x FK Partizan",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "LDU de Quito x Mirassol",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Macara x Santos",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Olimpia x Vasco",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x CRB",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x América-MG",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
       ]
     },
     {
@@ -412,7 +412,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.6,
+      "temp_max": 25.7,
       "temp_min": 15.7,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
@@ -420,7 +420,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Teresópolis",
       "temp_max": 26.4,
-      "temp_min": 16.2,
+      "temp_min": 16.5,
       "chance_chuva": 0,
       "condicao": "Parcialmente nublado"
     }
@@ -430,11 +430,6 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense vence o Rivadavia nos pênaltis e está nas quartas de final da Libertadores - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1ZRYjlJazFBd054a1JrX01QWHBOMFF5YnNBVEZlemtXb1JpOUYxMWtrTlhaS0R3RHExWTA0czM2bjVkY0VHOFZYVGI4NlpWWS1OWWJBSFVZd21UaDRQX2cyTzQ4ellZNXpQal83eWM3a25PX0JiTXBzQW5Xak5EaUZnazV3cm80a1U0TUhWeEEzalpfM1BhanVPcUJNT1FXMHBCdGItY3NQRFpaZEw2NmFnNjFMLWJIa0FjcVpfTlQ?oc=5",
       "data": "19/08 00:29"
-    },
-    {
-      "titulo": "Após 4 anos, Fluminense volta a ter goleiros na Seleção Brasileira de base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHNRMTZmNzBtTXZpbDJObWIyZEl1TVcxbjBpSVZLYkt3YU1qOHM4bzRkNE5kNng0Wlp5LWVwYWhnWGJUcVAyRUJhby1ZSzlNWDdkWDZueUhORmw3bUc2NURmd0pHTG1KVUNQMmdNV1pTbzYzVEFwQUJIMFFQNlpPWnJLaDAxSG51RWlZaXJYVDNZcjF5c1dsV0I3WlpRczFxTkRoel80R2RiRDdKMnlwNDJjdnc?oc=5",
-      "data": "20/08 20:51"
     },
     {
       "titulo": "Kevin Serna comemora bom momento do Fluminense e projeta sequência positiva - Terra",
@@ -447,9 +442,14 @@ window.PAINEL_DATA = {
       "data": "20/08 21:33"
     },
     {
-      "titulo": "Fluminense fecha com lateral até 2029, enquanto Palmeiras avança para assinar com atacante - Diário da Região",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDFIZWNFTUl2dFRHTm9YWWtYcXhDYVdxM3ZKQlFMRUd1QThwc184VkF6dFp4ZmVnR1NqQnMzNlRZWTA5RWUyY0lfSV9jUFBWQlJfOTladlVBblkzQ2g3U0JpY1ZuZUFlOHNDUnhTNjJTcEtZMEx5NVVOS3lYSWFTZldUbHl3Z2pSUS1NdHV6dmN6X3pjaXpNN3hJY3FlYWlnYVRrd3c5YnQyU1FXb1JIcWhKZjZlNW5DSkgxS2Fud1ZwaVh4M1V0TlJtTQ?oc=5",
-      "data": "20/08 19:44"
+      "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
+      "data": "19/08 20:30"
+    },
+    {
+      "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVjM3NxVkJza0hTNUFCVUxJUkFsQ183bGsyTTFCVF93Smp3SjJENFFoYVNHbkh5RUttVmRaS2Fad0U0c0tSemdlNlp5dVFBZ1FjRk9ZX0stMGs4ek9vMEN5QmVnZnFNTzVNLWxKY2dyNU9hQndDcG41U251SDFtLXFMREtxMWFqM0JtY19id1hjd3d0TEp2bElYLUw1WHZTMW82RUVFSGZTejZzWHNtS2FQeWhyYXFFSlkwbUdyZVpDamtSd3ZyOUR0NFNhQVE1M25EYTBuaWlRSVU?oc=5",
+      "data": "19/08 04:41"
     }
   ],
   "avisos": [
