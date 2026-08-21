@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 08:21",
+  "atualizado_em": "21/08/2026 09:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -1013,29 +1013,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 33.2,
+      "temp_max": 33.3,
       "temp_min": 20.6,
       "chance_chuva": 22,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.7,
-      "temp_min": 19.3,
+      "temp_max": 33.4,
+      "temp_min": 19.1,
       "chance_chuva": 36,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.4,
-      "temp_min": 16.6,
+      "temp_max": 27.9,
+      "temp_min": 16.5,
       "chance_chuva": 100,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 28.2,
-      "temp_min": 13.9,
+      "temp_min": 14.0,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     }
@@ -1047,9 +1047,14 @@ window.PAINEL_DATA = {
       "data": "21/08 11:04"
     },
     {
-      "titulo": "Ganso retoma espaço no Fluminense em meio a indefinição sobre contrato - GE",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmFFd3lJTmpxbVZCZXB3LXNWR3JBYm9nS3JCQjkxeGowSzR4V2otTTFhMlhOck80RGtkQU9oM3ZrcDNmZXVtYWRuNjNnWDVMYWNmQ1VvQ2ctMkRBckNRVVFmZ01yV25jMXJkTC1mdkxmUzBMaVJLd20tM2Y5R0JsNkp0VW54SjNPTjFYQ2JpUXotbHIyeDNTRDkzOThoVzNpYmV2LXdWZFBYZEV4OHJDVnExcS1ndE5vallFcHhrYjN5V3pJMVM1c1hGNEE3cVltNjVaQWpFYnY?oc=5",
-      "data": "21/08 07:01"
+      "titulo": "Fluminense se posiciona sobre futuro de Ganso após meia recuperar espaço; saiba detalhes - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVVqWVdkdWRpc2xUV1hYeVhuaWlURUpLTFJPRFVYdkQ3WXRvRk1rLVBrV2VrcmJJX0puUzZVTjNfaXBxNUVoY0RHUTVUZ1U5THZYUFVSdjkyOV9tS01xUXhFVl95RXF2RmNUWDh3NW9DSWhxNnZ3RkpBYm9nNktGbzhjZGc3UXRpS0RKQmZBcEFWRW9TcGQ4ekE1cWloVEFtN0NKdGQwT3JRTXJJa2c?oc=5",
+      "data": "21/08 12:04"
+    },
+    {
+      "titulo": "Fisioterapeuta do Fluminense volta a figurar entre melhores da América - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXA5d1VxTVduNHk2WlF0cWNZZ2RMbzkwaHN1S2hpai1ZVGx2eldnV0xITFNYR3Bjd29qeFI1NEZxZm41SWRiY3hDdjVFalBNazNzZjFaYkZ4RTFaU3pTa0JTd1loYlRpaHVQcEdnSHg0UUp4Qk5NSUJmQlVNQWpoUXQtYUgwMll3T1JMd0RDbklndnlsMWRGc1VrdFpSZDZYTGpaenptSjZTeWFnV0VveUt6MkQwWHZ5Nmk3N2R4R19jaFpBaHl5WGdOallfZ9IB0wFBVV95cUxQWjJ4VzVZbW5wRF9QSXdpanRTWE15VEhfSTMteE5NQ1FfZzgwTlJrU1hnRnQ5al9hQUl1enhlRDhLNFpEQnJXYjBtWkdlLWZ3M2k3ZUh6RmhKanhZNU1iN0pwS0JkeF9QcW94cFdla1VqT2VfR0pJRU44NTR5MWtheWZINVlqOUtUSGVNTzNkTHhoMlp3MGYyc2hBWmhoRVNkMEtNLXdOT2xUcWx4Y1NMSk5yeERMLVJwU3NqRXh1YmtEX3lmRnAwSFo5UkVwNEd2NXg4?oc=5",
+      "data": "20/08 19:16"
     },
     {
       "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - GE",
@@ -1060,11 +1065,6 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
       "data": "19/08 20:30"
-    },
-    {
-      "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVjM3NxVkJza0hTNUFCVUxJUkFsQ183bGsyTTFCVF93Smp3SjJENFFoYVNHbkh5RUttVmRaS2Fad0U0c0tSemdlNlp5dVFBZ1FjRk9ZX0stMGs4ek9vMEN5QmVnZnFNTzVNLWxKY2dyNU9hQndDcG41U251SDFtLXFMREtxMWFqM0JtY19id1hjd3d0TEp2bElYLUw1WHZTMW82RUVFSGZTejZzWHNtS2FQeWhyYXFFSlkwbUdyZVpDamtSd3ZyOUR0NFNhQVE1M25EYTBuaWlRSVU?oc=5",
-      "data": "19/08 04:41"
     }
   ],
   "avisos": []
