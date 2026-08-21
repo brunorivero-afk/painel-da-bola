@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 11:29",
+  "atualizado_em": "21/08/2026 12:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -1015,21 +1015,21 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 33.3,
       "temp_min": 20.6,
-      "chance_chuva": 22,
+      "chance_chuva": 27,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 33.4,
       "temp_min": 19.1,
-      "chance_chuva": 36,
+      "chance_chuva": 38,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.9,
       "temp_min": 16.5,
-      "chance_chuva": 100,
+      "chance_chuva": 97,
       "condicao": "Nublado"
     },
     {
@@ -1042,9 +1042,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Após passar pelo Rivadavia, Fluminense terá mais um argentino pela frente - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU1puNlc2S196VE84MGFlek9xTUdyeWRSS0NwTmYtMzk1S3FCdWpDNlF1VFhEcmtuM0R1V1Z5SEp6bDR1T0lvQkZaRktvNXRnU2dPRGltTjhxQzgydDJoSW92S1R4c2duYTRzb1plV05KakdlVmFqUWRXeklkYlZ1aUh4WmNEZm02Nk9BZlFfN3dnZGVGSFNESjdiUzVfLUxMaVBfNWRnVXNYakNMVnVmalBiOFdPelhqYUNPdmswNmhhOG1hOUp6U2pMb0p4eWlFeGlPOVJsNlRQNnYzN2tqOXlXMENjbUx5SHBnRWJmXy1iQ2Jyanc?oc=5",
-      "data": "21/08 11:04"
+      "titulo": "Ganso retoma espaço no Fluminense em meio a indefinição sobre contrato - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmFFd3lJTmpxbVZCZXB3LXNWR3JBYm9nS3JCQjkxeGowSzR4V2otTTFhMlhOck80RGtkQU9oM3ZrcDNmZXVtYWRuNjNnWDVMYWNmQ1VvQ2ctMkRBckNRVVFmZ01yV25jMXJkTC1mdkxmUzBMaVJLd20tM2Y5R0JsNkp0VW54SjNPTjFYQ2JpUXotbHIyeDNTRDkzOThoVzNpYmV2LXdWZFBYZEV4OHJDVnExcS1ndE5vallFcHhrYjN5V3pJMVM1c1hGNEE3cVltNjVaQWpFYnbSAecBQVVfeXFMT0hYZUlLcDdlRzJiMUlIQ2l3dkdvTVRicjRnd2VqVUVpbEc1WFFneXRFaDBaaHdTZ2NWaUF0Nk9mZGoyZTBpQmthdlROMzIxeG5HYVdWVHpWV2hybDJrYU9IWF9MNF83Z1pvbGg1RlZ0dWx1eUdfTTNoaXVmbzJhNEd6NWdEWWU0NmkzOElEZFMtVUV2N2JacmwxNGJHUDhMQXRDUDUzdGNHajg4UGZXLXNXOFRBc3JZb1E4RldMeXFCQnp2MUFDbTNTaDgxWVFrbmRUY1VFRDhMQXFybnZiUXhISnlXRDFn?oc=5",
+      "data": "21/08 07:01"
+    },
+    {
+      "titulo": "Fluminense atinge meta na Libertadores e alivia as finanças - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVA2UXdvc1VPQkhraG5LdkFjLWwwSlZPVEt3OGtURWs0MmRSZnZ2ZzI1bEw0ZjM4c3RQSDNpei1qaUlfTHpLTVYtZ0R1ck1KcGVXSXNBWlVLdVlJX0djeFl3bGNiOVJwTkJmSUxoNlRuTjZzMTVhVE4wT0R3RnEyeVFKSF9Oa0kxN2ZycVV2aktsR3g4QkpGR2NJS0VrYlNOX0E?oc=5",
+      "data": "21/08 14:45"
     },
     {
       "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
@@ -1052,19 +1057,14 @@ window.PAINEL_DATA = {
       "data": "21/08 14:05"
     },
     {
+      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
+      "data": "21/08 14:41"
+    },
+    {
       "titulo": "Especulado no Fluminense, volante fica livre no mercado após ter contrato rescindido - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHptRUtycjNwR1BIWWxUMm9yemFwUHNXUVlRWk1uYTlvXzVHTjFtdHZ5R0p1ZmRvYXQyRlFMODRLVW1ZcW5pSVpmRlczamxrZ0U5bXRYaHdWOTlWVzFpSnNDYjJFVnR1dUNrZC1LZ0tuU1RGV3p3YXVST2pWckJiQThsYldaMHpZZ1ZsTWxDYXpfY0JtUkJlMTVSLTNoeW9aTFhKOVVrVE1DRXIxY2tv?oc=5",
       "data": "21/08 13:36"
-    },
-    {
-      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo; confira - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktkN1VfWHMtNWFaeW5QMUFsajhCMVM2ZXNEdTNLQUVWazFwdUpocmRQaF9MRkp3ckcyUnAwTDNJdngySE5wQ3BPMjIwWl9pc28tRW13ZXd4dWxiTk55TXN4d1AxQ1ZPR0g2cnJXOHBCRjdET3JwREdNVEhJX040V3F3R1RsQ2M4SHp6anJrRmpVT2lrQl9yT1lMbFpYVG1PVlJIRkN1WjE?oc=5",
-      "data": "20/08 13:30"
-    },
-    {
-      "titulo": "Fluminense x Remo ao vivo: onde assistir, horário e escalações pelo Brasileirão 2026 - JC",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHN6dmdzQ2Q5V0s0Y0dKdDNPY3lJakU2WVpaNEpveUNFTUtTYzRaNmdVYXhhLXZNb3JuakdEQWppSW5ncmt3dERIVmJvOTZIcDBpVEhPTGoyQUJuYTdjSi1qUE92ZGJJZ1dGU0N1NzdZUGo2cHZFbWZYR01paHZSeFVLbDdBOUhpc3VhcXVXcUlOd29sTHNQNTUxMEtaOVNUV3A1Y1VuQkNVY2V0ODlJRlhUWlhhYmdiUUxkWk1zWVk1R1E5TV84RWFRNDVxWVpKc0EzTzNUT0xpdHMwcFM3cXU0MXpIQQ?oc=5",
-      "data": "21/08 12:30"
     }
   ],
   "avisos": []
