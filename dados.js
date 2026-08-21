@@ -1,27 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/08/2026 22:01",
+  "atualizado_em": "20/08/2026 23:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Botafogo x Cienciano",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-20",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Corinthians x Rosario Central",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-20",
@@ -218,6 +197,27 @@ window.PAINEL_DATA = {
         "XSPORTS",
         "SPORTYNET",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Corinthians x Rosario Central",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-20",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Botafogo x Cienciano",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
@@ -427,14 +427,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRmk4eUpvTkwyclRiWlJIUjlnMmVzamF6ZTRJMFhzNS1EWmcyQTQyMTJRb2NMaXdibEtKWF9ESERpM2JFMFB1SHpiaU9XZWI2RkNnQi1PbVdkVU90YmVuZ1Rud3RSRkt3REJWUHFMU0ZyLVRkQ2JlN0tpZFUwZmxJU0h4SkhnS0EtZUx5VlA5dnYyQ0pOUFhLMXFVNlNITnJ6bzBLWG40bGRPMkZ0ZlBpRkdkdXNMX3cxeDZSVGlsN2VkUE1LVnVpbk45OEtkbEVHOFVlS3FsNl9lV2ZiX2RpSVNXNlfSAfMBQVVfeXFMTjJBaVdtenhVTUtFU2hTWU5pdGZ6ZnFxOTV0ang4QldYVnFHbVdHdzlYdDR6cVZVMHo5YmRQNTNTUXNxeDVyVEdJcW5OOVcyRUtUbXBMQkJTQ0NNV0YzYW5MNllDRjRDQ2lhZnc2RUNnZkE1ZDBXaXA5MFVBeGk0d3ZQUVhwbXNZb243dmhxaTVSZEVIY0toQ1MzZHlXUE55LVZJNFVRdndkQ01OSF9PeFF0YUFFWVBBbTdVVFk1bjdrd3ZQQkRhei1RX2JsVzJINnc3NU15RWF5eW90OHVtZ1pCblhTbDUyb2Z4YUZub2hZdW1J?oc=5",
+      "data": "20/08 15:40"
+    },
+    {
       "titulo": "Fluminense vence o Rivadavia nos pênaltis e está nas quartas de final da Libertadores - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX1ZRYjlJazFBd054a1JrX01QWHBOMFF5YnNBVEZlemtXb1JpOUYxMWtrTlhaS0R3RHExWTA0czM2bjVkY0VHOFZYVGI4NlpWWS1OWWJBSFVZd21UaDRQX2cyTzQ4ellZNXpQal83eWM3a25PX0JiTXBzQW5Xak5EaUZnazV3cm80a1U0TUhWeEEzalpfM1BhanVPcUJNT1FXMHBCdGItY3NQRFpaZEw2NmFnNjFMLWJIa0FjcVpfTlQ?oc=5",
       "data": "19/08 00:29"
-    },
-    {
-      "titulo": "Kevin Serna comemora bom momento do Fluminense e projeta sequência positiva - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU2hKZkViWGVHLUVVTFRpYThQNXhoRlJmcTZpWW9lZi1oMFF3cUtBalZLdUlkaTFsZThHZTZhQmFBbnFJdVhhR0xqLW9zR05oSFE1bm00Rk5fVjk0SkZkR2V1dXVnNllZb25rNmgyTWphUmJ0RTNvUzJwUmN2OW4yc0FrSmo1Y0VEV0pWQ200S1U1NDhKdWlDa1JpcHRZTUZ1OHE3dks4TjR5X2dQNVNZamQwTUJiazlHZnl6SGltaW82TW9SZ0N1ZHpFd2k4Sk1uRUd4WWxGa2dDU0t0R0RxcUtGcEY2YmNtOEYtZGxZaWJJa2dYUUE?oc=5",
-      "data": "20/08 22:08"
     },
     {
       "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - ge",
@@ -447,9 +447,9 @@ window.PAINEL_DATA = {
       "data": "19/08 20:30"
     },
     {
-      "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVjM3NxVkJza0hTNUFCVUxJUkFsQ183bGsyTTFCVF93Smp3SjJENFFoYVNHbkh5RUttVmRaS2Fad0U0c0tSemdlNlp5dVFBZ1FjRk9ZX0stMGs4ek9vMEN5QmVnZnFNTzVNLWxKY2dyNU9hQndDcG41U251SDFtLXFMREtxMWFqM0JtY19id1hjd3d0TEp2bElYLUw1WHZTMW82RUVFSGZTejZzWHNtS2FQeWhyYXFFSlkwbUdyZVpDamtSd3ZyOUR0NFNhQVE1M25EYTBuaWlRSVU?oc=5",
-      "data": "19/08 04:41"
+      "titulo": "Fluminense fecha com lateral até 2029, enquanto Palmeiras avança para assinar com atacante - Diário da Região",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDFIZWNFTUl2dFRHTm9YWWtYcXhDYVdxM3ZKQlFMRUd1QThwc184VkF6dFp4ZmVnR1NqQnMzNlRZWTA5RWUyY0lfSV9jUFBWQlJfOTladlVBblkzQ2g3U0JpY1ZuZUFlOHNDUnhTNjJTcEtZMEx5NVVOS3lYSWFTZldUbHl3Z2pSUS1NdHV6dmN6X3pjaXpNN3hJY3FlYWlnYVRrd3c5YnQyU1FXb1JIcWhKZjZlNW5DSkgxS2Fud1ZwaVh4M1V0TlJtTQ?oc=5",
+      "data": "20/08 19:44"
     }
   ],
   "avisos": [
