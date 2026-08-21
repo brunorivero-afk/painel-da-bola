@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 10:41",
+  "atualizado_em": "21/08/2026 11:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1047,9 +1047,14 @@ window.PAINEL_DATA = {
       "data": "21/08 11:04"
     },
     {
-      "titulo": "Fluminense se posiciona sobre futuro de Ganso após meia recuperar espaço; saiba detalhes - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVVqWVdkdWRpc2xUV1hYeVhuaWlURUpLTFJPRFVYdkQ3WXRvRk1rLVBrV2VrcmJJX0puUzZVTjNfaXBxNUVoY0RHUTVUZ1U5THZYUFVSdjkyOV9tS01xUXhFVl95RXF2RmNUWDh3NW9DSWhxNnZ3RkpBYm9nNktGbzhjZGc3UXRpS0RKQmZBcEFWRW9TcGQ4ekE1cWloVEFtN0NKdGQwT3JRTXJJa2c?oc=5",
-      "data": "21/08 12:04"
+      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
+      "data": "21/08 14:05"
+    },
+    {
+      "titulo": "Especulado no Fluminense, volante fica livre no mercado após ter contrato rescindido - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOHptRUtycjNwR1BIWWxUMm9yemFwUHNXUVlRWk1uYTlvXzVHTjFtdHZ5R0p1ZmRvYXQyRlFMODRLVW1ZcW5pSVpmRlczamxrZ0U5bXRYaHdWOTlWVzFpSnNDYjJFVnR1dUNrZC1LZ0tuU1RGV3p3YXVST2pWckJiQThsYldaMHpZZ1ZsTWxDYXpfY0JtUkJlMTVSLTNoeW9aTFhKOVVrVE1DRXIxY2tv?oc=5",
+      "data": "21/08 13:36"
     },
     {
       "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo; confira - netflu.com.br",
@@ -1060,11 +1065,6 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense x Remo ao vivo: onde assistir, horário e escalações pelo Brasileirão 2026 - JC",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHN6dmdzQ2Q5V0s0Y0dKdDNPY3lJakU2WVpaNEpveUNFTUtTYzRaNmdVYXhhLXZNb3JuakdEQWppSW5ncmt3dERIVmJvOTZIcDBpVEhPTGoyQUJuYTdjSi1qUE92ZGJJZ1dGU0N1NzdZUGo2cHZFbWZYR01paHZSeFVLbDdBOUhpc3VhcXVXcUlOd29sTHNQNTUxMEtaOVNUV3A1Y1VuQkNVY2V0ODlJRlhUWlhhYmdiUUxkWk1zWVk1R1E5TV84RWFRNDVxWVpKc0EzTzNUT0xpdHMwcFM3cXU0MXpIQQ?oc=5",
       "data": "21/08 12:30"
-    },
-    {
-      "titulo": "Fluminense divulga parcial de ingressos vendidos para o jogo contra o Remo; veja os números | Remo | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3ViVGZ4ZldGMDhrU0hHVjFpYlZKbnlyT0NsUV9zS0VvbTBoWkdTQ3labmlkd1RSbEJJa2VRYzMxdU5LaFhuZEVfZkc4Sjh0LTZhN3VxeW4xblhCS0JRSUhUd19EQVpBbzczeDZPTlpPWEJXU0FndXRGSUl1TGJKNmlCM3Q1NHdGMFFoRFlUYUdkd2pEWXhHN2E3eHVXQURzM2Nhc1VYSUFYOWswaVl5RGtmcG02SFg1alV5YUlQTjJad3pjeGF6eFVwNlpGVnEzcURwNFRB0gHbAUFVX3lxTE94WDlKMlJvaFVDZ2ZNbWR1OXpNRF9hNTFTMktLQU9LLV9BQ0hSSFBlV1pZOElrUkktc1VuQXUxbjlGR0ZxU1JRcDBYWFRhZjRXdk1kVE8tY3N4WkpKeUlONlVfR1k3Nnl6c3B1SGo0MWVLdXM0RTZuaFNyMkVBdGZhSmxkSzlRYVI3cC1rdmZDbVgxQVJxRFJlUXNEd2oweXZOQ0JZWDd4MWs4NzVUOW5vMXNXMW9KR0hsTUVaUExwNmloQm00U01mYnR2cGsxbVdMb25QTG1HRnlRZw?oc=5",
-      "data": "20/08 17:05"
     }
   ],
   "avisos": []
