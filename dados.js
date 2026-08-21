@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 19:18",
+  "atualizado_em": "21/08/2026 20:18",
   "jogos": [
     {
       "sport": "futebol",
@@ -1015,28 +1015,28 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 33.5,
       "temp_min": 21.0,
-      "chance_chuva": 27,
+      "chance_chuva": 39,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 34.5,
       "temp_min": 19.1,
-      "chance_chuva": 38,
+      "chance_chuva": 50,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.0,
       "temp_min": 16.5,
-      "chance_chuva": 97,
+      "chance_chuva": 85,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 28.1,
       "temp_min": 14.4,
-      "chance_chuva": 100,
+      "chance_chuva": 92,
       "condicao": "Garoa forte"
     }
   ],
@@ -1047,24 +1047,24 @@ window.PAINEL_DATA = {
       "data": "21/08 07:01"
     },
     {
+      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
+      "data": "21/08 14:05"
+    },
+    {
+      "titulo": "Fluminense atinge meta na Libertadores e alivia as finanças - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVA2UXdvc1VPQkhraG5LdkFjLWwwSlZPVEt3OGtURWs0MmRSZnZ2ZzI1bEw0ZjM4c3RQSDNpei1qaUlfTHpLTVYtZ0R1ck1KcGVXSXNBWlVLdVlJX0djeFl3bGNiOVJwTkJmSUxoNlRuTjZzMTVhVE4wT0R3RnEyeVFKSF9Oa0kxN2ZycVV2aktsR3g4QkpGR2NJS0VrYlNOX0E?oc=5",
+      "data": "21/08 14:45"
+    },
+    {
       "titulo": "Escalação do Fluminense: Marcão terá desfalques para duelo contra o Remo - ge",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkplOS1zY1RMdHVTa0UtX2ZZREZ5cDFrMms1SDRNX0ZfX2Jxdk52ZWFnT1J2Nk9jakZMZHZGZHNoRjhuSC1qVlVvX3FCVEI4M3JGN2dQLWVFU0pjUXdFU0h1YTk4aFVkZVFVOHBZTWpDWDN3cV9CLTZ2NGp0SHViT1oyd2QzN29sTUUwYVFCV3BUX3B3bm56dE5VdE9veXZSUjV4bUl5RUdicnFac1o2dF9PdVBXa2xUVDNLbDdKUktIcEpGdVF0NlJ3anBNWkU0Z0NSQzhiU243d9IB6AFBVV95cUxOZzFHbTktdHp3eEk0ZGQtRXd3eklBTkVDeXhJdWZmSGhrTW9icVRoaTVhUzFwMjl0cVlPSVQweHE4eDVwYWVjTzc1eTlpaXEzR1JoeS1CY3VicEJOQ29GcDNybFFBU2xEY0ZZVzNGMlBRSXBRNFdLTHVheWYxS1Voa2pOeUEzNTczNzZUQm44YU5JSU5wZ2dBS2I0SkFXZGFtb3pySzk2a2cxS2lBUmhuOFFpdDFkLWtnbHJaZk1obDE1QWUxT3JyZXZRX1F3dmxlSncyeWNndzJDYlNfbHBtdmp1cXVyRTBs?oc=5",
       "data": "21/08 20:35"
     },
     {
-      "titulo": "Fluminense x Remo ao vivo: onde assistir, horário e escalações pelo Brasileirão 2026 - JC",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHN6dmdzQ2Q5V0s0Y0dKdDNPY3lJakU2WVpaNEpveUNFTUtTYzRaNmdVYXhhLXZNb3JuakdEQWppSW5ncmt3dERIVmJvOTZIcDBpVEhPTGoyQUJuYTdjSi1qUE92ZGJJZ1dGU0N1NzdZUGo2cHZFbWZYR01paHZSeFVLbDdBOUhpc3VhcXVXcUlOd29sTHNQNTUxMEtaOVNUV3A1Y1VuQkNVY2V0ODlJRlhUWlhhYmdiUUxkWk1zWVk1R1E5TV84RWFRNDVxWVpKc0EzTzNUT0xpdHMwcFM3cXU0MXpIQQ?oc=5",
-      "data": "21/08 12:30"
-    },
-    {
-      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVJUG9UWWo0aWduYkVGN21BQUlnZnEzb2xLSXJUeU4tZUExNFhxVjgwNXVjcU9xbGNBS3pJYUVyTlUxZTdIajB0U0JlLXBUUHRYNkFLUURmaGxBM19jVkg4ZVBxMXhiQ3JMMXNac1drUGNNUHpKRnp2aWQ2TDhHeFVoMEZYWWtPSE1Qb1lNeTNyMENQYWFtVDBVTFh1cDhRNEliaS0yelRkUGZZUEc1dw?oc=5",
-      "data": "21/08 16:34"
-    },
-    {
-      "titulo": "Thiago Neves detona Zubeldía por fala sobre Xerém e manda recado a Fred no Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3d5b2lFSEh5Vll0bWNsbVQxNm10eGtfaXUyc2FoNXNUUmdDQmhLR1BtS2pZMkhZRWU4RmRySU0yQ1YwRnVjbGZua2czU3lMZnUwa0VLRXJmRXBKbnBUQ3p2SVphdzAtUU4yelRGWlJsdGhRdXU5N0o2eGtUaEktZDFnM3oyZU56TjI5bHlTX2tfTkVVbjdRVE1yb0RmRk1pZ1JBVFl3NHVEWlJEVmlaQi1n?oc=5",
-      "data": "21/08 17:00"
+      "titulo": "Flamengo e Fluminense dizem que acordo do Vasco com Maracanã é inválido: \"Concessionária não assinou\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZFRuZVZjZ0lzZ0ZtQ3pCZFBLajhWeV9rRDE2OC1sak4xSWpSQUp0c05KdUVUUUxqMFhHTmwySDdRMnVrZTBRSm16ZUhTQnF6S2ZUSVNsVk1QdFFMSXB0YjNPTkRvLWF5NjVXZm9Sb1F6V0YtMGF3Tk1ITWVYS05sX2pybG5jOVRoQUhzckZTdTlXa3d4d1FCN2ZGcmpOSDhFZG9yNURpUUpxY3dCVWszbnlCbTFLWEdsSE9sY3R2VlRxSkcyTzEtdzFLTDRDM2ZRUFgyajNqR1RZTWRGTVFpU3FVRXduSFh1bkJZQnZOenTSAf8BQVVfeXFMTlJZODg0UUlROThpakdXQ0pkMkNUUzU3YUJTaTFUMURRTVNmU2NRY19IakxrOEJ1cGVwTlpVWFN4NDVkMWh2aEZ2NVNZMkJnaUJTU1ZVYTFzYVRYcnFLUmdBSGxGbGFOeW9zd3Q1TkkycWptbVZWX2lxdVRzZ1FBWjBVa21ORWVFdEd0cEw2bmN4TlJxTXMyREhOaFp6VGx2VTJoY1VFc0ZtaXJmNHFweS1VN3d6ZHpwOHdvYzBIRmJ6OXhKbGlIZDB3V0NNTmhYdVF1V09rVlNaLS1YSWZYem9EclFSbkZmTkNzeHlzZTI4cWh0bHlUX2EyOTY3eFRB?oc=5",
+      "data": "21/08 20:08"
     }
   ],
   "avisos": []
