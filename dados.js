@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 01:32",
+  "atualizado_em": "21/08/2026 02:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-21",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Firpo x LD Alajuelense",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-21",
@@ -163,6 +153,16 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-21",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Firpo x LD Alajuelense",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -1022,11 +1022,6 @@ window.PAINEL_DATA = {
       "data": "19/08 00:29"
     },
     {
-      "titulo": "Fluminense atropela na base e acumula 9 finais em 2026 - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVBSS1BLWVh0S1BZZ0pwWk1fcnQxdDd2elU2Nm1kNjhSS3lpREg1d1NKTUFReGpsRGtmYUUwLWdMd19sM0V6M2NzcTgzdTBkZ1RrZGJDQk1rUmY4STdWYlV5amVHNEJQYXlmOUEyRzVZV0RkOHNsN3RWQ1RZbVNHUm9kV1lFZVpzSXRaeXQ3eWd3aDBoY2FKY3VSSQ?oc=5",
-      "data": "20/08 20:40"
-    },
-    {
       "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - GE",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTgtRUI3c01LTHRlM1ZYSGotR3BuSzlfWWY2RHdfdzk4U2x4LXoxMHRSNmM0cU5qenJBaWs5N3ZNazFrTFRPSWxmemd2MlMyc1RzUWF2QXJLMmN6QnM2ZVF2bkJLVU41X2NyQ2JsOEFZNEE4QUdFTVk0TXhtTWQwb1ZyVFBHcjVmRlZjZ1ZHNWRRVUk3UXdyRUVHLXU2eTM2TW1zc3BaUnBCWFFDVW16SVpaamN2MERxbEdlRV9xZ0ZiOTRHZ0FCMHFJUldOejlnN1JTdVF6X0daN0hiQmpVY2hlcXdObS05cWhQZEhSWGwxNHBvREg0WTNfUHlDajNx0gGPAkFVX3lxTFB5NnZuR0lJXzBFd1BpRWVVWjVUQjFic3lLajVER0NyQ1NocXpEaU53QVh5NFhPaVdLSnJpeDBKN2lyVnA4Vm94ZzhrYnZjY0tlOXE3OWRSWWlaUzAtUlhtbUhjQ1g5S0taRHVjN1U0a2hrbVhXYUdoRHNfWUozcVZNY0NvUDBWVUtNMDZNMkkwaGU4OFUtcW1mZVZXVjljTFVNeTR5TTd2bWI5MHYxUlZfajB2b3phaVR4TEc5ZVRWMTlCVE5heWlGczNxemplbDE3Y1A3N2phbVNCd1pCa09NSlk2VHBNLU85bDlGZ3h3Zmd0VXphMDAzSzExSE1HZ3llZ2hMTGpMcElKS0FzN1U?oc=5",
       "data": "20/08 21:33"
@@ -1040,6 +1035,11 @@ window.PAINEL_DATA = {
       "titulo": "Isaque Pacheco assina com o Fluminense; veja quanto vale - Terra",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVjM3NxVkJza0hTNUFCVUxJUkFsQ183bGsyTTFCVF93Smp3SjJENFFoYVNHbkh5RUttVmRaS2Fad0U0c0tSemdlNlp5dVFBZ1FjRk9ZX0stMGs4ek9vMEN5QmVnZnFNTzVNLWxKY2dyNU9hQndDcG41U251SDFtLXFMREtxMWFqM0JtY19id1hjd3d0TEp2bElYLUw1WHZTMW82RUVFSGZTejZzWHNtS2FQeWhyYXFFSlkwbUdyZVpDamtSd3ZyOUR0NFNhQVE1M25EYTBuaWlRSVU?oc=5",
       "data": "19/08 04:41"
+    },
+    {
+      "titulo": "Kevin Serna comemora bom momento do Fluminense e projeta sequência positiva - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU2hKZkViWGVHLUVVTFRpYThQNXhoRlJmcTZpWW9lZi1oMFF3cUtBalZLdUlkaTFsZThHZTZhQmFBbnFJdVhhR0xqLW9zR05oSFE1bm00Rk5fVjk0SkZkR2V1dXVnNllZb25rNmgyTWphUmJ0RTNvUzJwUmN2OW4yc0FrSmo1Y0VEV0pWQ200S1U1NDhKdWlDa1JpcHRZTUZ1OHE3dks4TjR5X2dQNVNZamQwTUJiazlHZnl6SGltaW82TW9SZ0N1ZHpFd2k4Sk1uRUd4WWxGa2dDU0t0R0RxcUtGcEY2YmNtOEYtZGxZaWJJa2dYUUE?oc=5",
+      "data": "20/08 22:08"
     }
   ],
   "avisos": []
