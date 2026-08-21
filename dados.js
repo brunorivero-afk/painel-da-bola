@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 09:37",
+  "atualizado_em": "21/08/2026 10:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -1052,19 +1052,19 @@ window.PAINEL_DATA = {
       "data": "21/08 12:04"
     },
     {
-      "titulo": "Fisioterapeuta do Fluminense volta a figurar entre melhores da América - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXA5d1VxTVduNHk2WlF0cWNZZ2RMbzkwaHN1S2hpai1ZVGx2eldnV0xITFNYR3Bjd29qeFI1NEZxZm41SWRiY3hDdjVFalBNazNzZjFaYkZ4RTFaU3pTa0JTd1loYlRpaHVQcEdnSHg0UUp4Qk5NSUJmQlVNQWpoUXQtYUgwMll3T1JMd0RDbklndnlsMWRGc1VrdFpSZDZYTGpaenptSjZTeWFnV0VveUt6MkQwWHZ5Nmk3N2R4R19jaFpBaHl5WGdOallfZ9IB0wFBVV95cUxQWjJ4VzVZbW5wRF9QSXdpanRTWE15VEhfSTMteE5NQ1FfZzgwTlJrU1hnRnQ5al9hQUl1enhlRDhLNFpEQnJXYjBtWkdlLWZ3M2k3ZUh6RmhKanhZNU1iN0pwS0JkeF9QcW94cFdla1VqT2VfR0pJRU44NTR5MWtheWZINVlqOUtUSGVNTzNkTHhoMlp3MGYyc2hBWmhoRVNkMEtNLXdOT2xUcWx4Y1NMSk5yeERMLVJwU3NqRXh1YmtEX3lmRnAwSFo5UkVwNEd2NXg4?oc=5",
-      "data": "20/08 19:16"
+      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo; confira - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUktkN1VfWHMtNWFaeW5QMUFsajhCMVM2ZXNEdTNLQUVWazFwdUpocmRQaF9MRkp3ckcyUnAwTDNJdngySE5wQ3BPMjIwWl9pc28tRW13ZXd4dWxiTk55TXN4d1AxQ1ZPR0g2cnJXOHBCRjdET3JwREdNVEhJX040V3F3R1RsQ2M4SHp6anJrRmpVT2lrQl9yT1lMbFpYVG1PVlJIRkN1WjE?oc=5",
+      "data": "20/08 13:30"
     },
     {
-      "titulo": "Fluminense assina primeiro contrato profissional de joia do sub-17; acordo tem multa de R$ 360 milhões - GE",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTgtRUI3c01LTHRlM1ZYSGotR3BuSzlfWWY2RHdfdzk4U2x4LXoxMHRSNmM0cU5qenJBaWs5N3ZNazFrTFRPSWxmemd2MlMyc1RzUWF2QXJLMmN6QnM2ZVF2bkJLVU41X2NyQ2JsOEFZNEE4QUdFTVk0TXhtTWQwb1ZyVFBHcjVmRlZjZ1ZHNWRRVUk3UXdyRUVHLXU2eTM2TW1zc3BaUnBCWFFDVW16SVpaamN2MERxbEdlRV9xZ0ZiOTRHZ0FCMHFJUldOejlnN1JTdVF6X0daN0hiQmpVY2hlcXdObS05cWhQZEhSWGwxNHBvREg0WTNfUHlDajNx0gGPAkFVX3lxTFB5NnZuR0lJXzBFd1BpRWVVWjVUQjFic3lLajVER0NyQ1NocXpEaU53QVh5NFhPaVdLSnJpeDBKN2lyVnA4Vm94ZzhrYnZjY0tlOXE3OWRSWWlaUzAtUlhtbUhjQ1g5S0taRHVjN1U0a2hrbVhXYUdoRHNfWUozcVZNY0NvUDBWVUtNMDZNMkkwaGU4OFUtcW1mZVZXVjljTFVNeTR5TTd2bWI5MHYxUlZfajB2b3phaVR4TEc5ZVRWMTlCVE5heWlGczNxemplbDE3Y1A3N2phbVNCd1pCa09NSlk2VHBNLU85bDlGZ3h3Zmd0VXphMDAzSzExSE1HZ3llZ2hMTGpMcElKS0FzN1U?oc=5",
-      "data": "20/08 21:33"
+      "titulo": "Fluminense x Remo ao vivo: onde assistir, horário e escalações pelo Brasileirão 2026 - JC",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbHN6dmdzQ2Q5V0s0Y0dKdDNPY3lJakU2WVpaNEpveUNFTUtTYzRaNmdVYXhhLXZNb3JuakdEQWppSW5ncmt3dERIVmJvOTZIcDBpVEhPTGoyQUJuYTdjSi1qUE92ZGJJZ1dGU0N1NzdZUGo2cHZFbWZYR01paHZSeFVLbDdBOUhpc3VhcXVXcUlOd29sTHNQNTUxMEtaOVNUV3A1Y1VuQkNVY2V0ODlJRlhUWlhhYmdiUUxkWk1zWVk1R1E5TV84RWFRNDVxWVpKc0EzTzNUT0xpdHMwcFM3cXU0MXpIQQ?oc=5",
+      "data": "21/08 12:30"
     },
     {
-      "titulo": "Fluminense acerta renovação do contrato do lateral-direito Arthur Ryan - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSFlRaldOWWpxTEc2Sl9XUUxSRzdtaTY3dGwxYnNKd3VoZ1lLZmRsWDNfY3JoUk9fX3hoWEVqMkZYVWlUTG5wemxVd0c0MUh3UUdMZnFSelAzdFlmZWcyYWl6ZURHaVpDb2xxZVpGem9xZEdZVEZ3c21KZkdFOXpEMl9aRUZBazBMV0g1bE9mR1BLbWExbjRDc1l0S3lTMG4teXlOUDZ2emJaeVFZ?oc=5",
-      "data": "19/08 20:30"
+      "titulo": "Fluminense divulga parcial de ingressos vendidos para o jogo contra o Remo; veja os números | Remo | O Liberal - O Liberal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3ViVGZ4ZldGMDhrU0hHVjFpYlZKbnlyT0NsUV9zS0VvbTBoWkdTQ3labmlkd1RSbEJJa2VRYzMxdU5LaFhuZEVfZkc4Sjh0LTZhN3VxeW4xblhCS0JRSUhUd19EQVpBbzczeDZPTlpPWEJXU0FndXRGSUl1TGJKNmlCM3Q1NHdGMFFoRFlUYUdkd2pEWXhHN2E3eHVXQURzM2Nhc1VYSUFYOWswaVl5RGtmcG02SFg1alV5YUlQTjJad3pjeGF6eFVwNlpGVnEzcURwNFRB0gHbAUFVX3lxTE94WDlKMlJvaFVDZ2ZNbWR1OXpNRF9hNTFTMktLQU9LLV9BQ0hSSFBlV1pZOElrUkktc1VuQXUxbjlGR0ZxU1JRcDBYWFRhZjRXdk1kVE8tY3N4WkpKeUlONlVfR1k3Nnl6c3B1SGo0MWVLdXM0RTZuaFNyMkVBdGZhSmxkSzlRYVI3cC1rdmZDbVgxQVJxRFJlUXNEd2oweXZOQ0JZWDd4MWs4NzVUOW5vMXNXMW9KR0hsTUVaUExwNmloQm00U01mYnR2cGsxbVdMb25QTG1HRnlRZw?oc=5",
+      "data": "20/08 17:05"
     }
   ],
   "avisos": []
