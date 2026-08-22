@@ -1,6 +1,27 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 20:18",
+  "atualizado_em": "21/08/2026 21:57",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-08-21",
+      "time": "23:00",
+      "competition": "NWSL Feminina",
+      "match": "San Diego fave (F) x Utah Royals (F)",
+      "channels": [
+        "XSPORTS",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-21",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Firpo x LD Alajuelense",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-08-21",
@@ -11,8 +32,8 @@ window.PAINEL_DATA = {
         "XSPORTS",
         "SPORTV 2",
         "CANAL GOAT",
-        "ONEFOOTBALL",
-        "YOUTUBE"
+        "YOUTUBE",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -73,8 +94,8 @@ window.PAINEL_DATA = {
       "match": "Al-Faisaly FC x Neom",
       "channels": [
         "BANDSPORTS",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -85,9 +106,9 @@ window.PAINEL_DATA = {
       "match": "Al-Qadisiyah FC x Al-Ittihad FC",
       "channels": [
         "SPORTV",
-        "ONEFOOTBALL",
         "CANAL GOAT",
-        "YOUTUBE"
+        "YOUTUBE",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -147,27 +168,6 @@ window.PAINEL_DATA = {
       "time": "19:00",
       "competition": "Campeonato Uruguaio",
       "match": "Liverpool Montevideo x Cerro",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-21",
-      "time": "23:00",
-      "competition": "NWSL Feminina",
-      "match": "San Diego fave (F) x Utah Royals (F)",
-      "channels": [
-        "XSPORTS",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-21",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Firpo x LD Alajuelense",
       "channels": [
         "DISNEY+"
       ]
@@ -1014,37 +1014,47 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 33.5,
-      "temp_min": 21.0,
+      "temp_min": 20.6,
       "chance_chuva": 39,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 34.5,
       "temp_min": 19.1,
       "chance_chuva": 50,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.0,
+      "temp_max": 28.2,
       "temp_min": 16.5,
       "chance_chuva": 85,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 28.1,
       "temp_min": 14.4,
       "chance_chuva": 92,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Ganso retoma espaço no Fluminense em meio a indefinição sobre contrato - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmFFd3lJTmpxbVZCZXB3LXNWR3JBYm9nS3JCQjkxeGowSzR4V2otTTFhMlhOck80RGtkQU9oM3ZrcDNmZXVtYWRuNjNnWDVMYWNmQ1VvQ2ctMkRBckNRVVFmZ01yV25jMXJkTC1mdkxmUzBMaVJLd20tM2Y5R0JsNkp0VW54SjNPTjFYQ2JpUXotbHIyeDNTRDkzOThoVzNpYmV2LXdWZFBYZEV4OHJDVnExcS1ndE5vallFcHhrYjN5V3pJMVM1c1hGNEE3cVltNjVaQWpFYnbSAecBQVVfeXFMT0hYZUlLcDdlRzJiMUlIQ2l3dkdvTVRicjRnd2VqVUVpbEc1WFFneXRFaDBaaHdTZ2NWaUF0Nk9mZGoyZTBpQmthdlROMzIxeG5HYVdWVHpWV2hybDJrYU9IWF9MNF83Z1pvbGg1RlZ0dWx1eUdfTTNoaXVmbzJhNEd6NWdEWWU0NmkzOElEZFMtVUV2N2JacmwxNGJHUDhMQXRDUDUzdGNHajg4UGZXLXNXOFRBc3JZb1E4RldMeXFCQnp2MUFDbTNTaDgxWVFrbmRUY1VFRDhMQXFybnZiUXhISnlXRDFn?oc=5",
-      "data": "21/08 07:01"
+      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVJUG9UWWo0aWduYkVGN21BQUlnZnEzb2xLSXJUeU4tZUExNFhxVjgwNXVjcU9xbGNBS3pJYUVyTlUxZTdIajB0U0JlLXBUUHRYNkFLUURmaGxBM19jVkg4ZVBxMXhiQ3JMMXNac1drUGNNUHpKRnp2aWQ2TDhHeFVoMEZYWWtPSE1Qb1lNeTNyMENQYWFtVDBVTFh1cDhRNEliaS0yelRkUGZZUEc1dw?oc=5",
+      "data": "21/08 16:34"
+    },
+    {
+      "titulo": "Saiba como assistir Fluminense x Remo ao vivo pelo Brasileirão - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNalI4OWVfemwxQ05NTS1ZZ29wSmtVekRvNGgyLUYzci1rYVZocVM5Y19jZzBMWEk1bURUMjJ6ODMyOW1va3J5WnlGel9Qb0VpcF9OWWQ4eHlTbTdzU0NQcVpZcERxUlo1VUt4NWhuZU41OHg5eGN6enJTaFVqdkNzTnIxbFQtMXZzSmFzSDFROVZ6Nm8?oc=5",
+      "data": "21/08 11:29"
+    },
+    {
+      "titulo": "Em reta final de recuperação, Freytes segue fora do Fluminense contra o Remo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVEtmb0xXdTJhZkRxTUJmLTZqY1ZxaVNRSEVoaHVoSTdtRVJid2lDTFhWYkd0Q3lWZGVGa1cwSUZqSFJNdVNoMkdYOERXUzhrbFRRRkYxZkFEaTl0X3FCWmdOLUVIZ3NIeE45My1ya3ZxV3hCMFQySTJGbjNJQnprcFQzZ1dZUi1LdVFCMXo4WDU4MF85V0JmTXZyQVZnb2k1bjlTcEczM0xBZXVyUHFVN0hpZFhpZ2dZM25iR1AzN05yVDN1OWFPRjJELVp3M3FuNXlrTnVIR0c2Y3Y2aFdZ0gHuAUFVX3lxTE9Ud04yWENiU0xCeC12b2lEMmdEcUo3S2dPZm4xN1lCT2FYakNQWUV2czN2eU5GbXlRUzdLUTdDMmxXek13V1ZuekIza2otdDJvNTZtVmIyZFlhTTlMOWFLamEwT2tZeDVyVGRyUjluRnBTR21McnpJblQ4anU0MG42TmhseTFqUnF3bWhsc1lhVWpLcVNrcXZRSUlNYnc0Tm5OeGhmVE9USFRueTlkNjdLYWpGRUJ0dHNGNldZd2twdVU1N2NqTmVuS2lYV01UNDQ5dVV0R1M2bUtqc3c5TXRpaEREd0tHT0otWjczUUE?oc=5",
+      "data": "21/08 17:08"
     },
     {
       "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
@@ -1052,19 +1062,9 @@ window.PAINEL_DATA = {
       "data": "21/08 14:05"
     },
     {
-      "titulo": "Fluminense atinge meta na Libertadores e alivia as finanças - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeVA2UXdvc1VPQkhraG5LdkFjLWwwSlZPVEt3OGtURWs0MmRSZnZ2ZzI1bEw0ZjM4c3RQSDNpei1qaUlfTHpLTVYtZ0R1ck1KcGVXSXNBWlVLdVlJX0djeFl3bGNiOVJwTkJmSUxoNlRuTjZzMTVhVE4wT0R3RnEyeVFKSF9Oa0kxN2ZycVV2aktsR3g4QkpGR2NJS0VrYlNOX0E?oc=5",
-      "data": "21/08 14:45"
-    },
-    {
-      "titulo": "Escalação do Fluminense: Marcão terá desfalques para duelo contra o Remo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkplOS1zY1RMdHVTa0UtX2ZZREZ5cDFrMms1SDRNX0ZfX2Jxdk52ZWFnT1J2Nk9jakZMZHZGZHNoRjhuSC1qVlVvX3FCVEI4M3JGN2dQLWVFU0pjUXdFU0h1YTk4aFVkZVFVOHBZTWpDWDN3cV9CLTZ2NGp0SHViT1oyd2QzN29sTUUwYVFCV3BUX3B3bm56dE5VdE9veXZSUjV4bUl5RUdicnFac1o2dF9PdVBXa2xUVDNLbDdKUktIcEpGdVF0NlJ3anBNWkU0Z0NSQzhiU243d9IB6AFBVV95cUxOZzFHbTktdHp3eEk0ZGQtRXd3eklBTkVDeXhJdWZmSGhrTW9icVRoaTVhUzFwMjl0cVlPSVQweHE4eDVwYWVjTzc1eTlpaXEzR1JoeS1CY3VicEJOQ29GcDNybFFBU2xEY0ZZVzNGMlBRSXBRNFdLTHVheWYxS1Voa2pOeUEzNTczNzZUQm44YU5JSU5wZ2dBS2I0SkFXZGFtb3pySzk2a2cxS2lBUmhuOFFpdDFkLWtnbHJaZk1obDE1QWUxT3JyZXZRX1F3dmxlSncyeWNndzJDYlNfbHBtdmp1cXVyRTBs?oc=5",
-      "data": "21/08 20:35"
-    },
-    {
-      "titulo": "Flamengo e Fluminense dizem que acordo do Vasco com Maracanã é inválido: \"Concessionária não assinou\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZFRuZVZjZ0lzZ0ZtQ3pCZFBLajhWeV9rRDE2OC1sak4xSWpSQUp0c05KdUVUUUxqMFhHTmwySDdRMnVrZTBRSm16ZUhTQnF6S2ZUSVNsVk1QdFFMSXB0YjNPTkRvLWF5NjVXZm9Sb1F6V0YtMGF3Tk1ITWVYS05sX2pybG5jOVRoQUhzckZTdTlXa3d4d1FCN2ZGcmpOSDhFZG9yNURpUUpxY3dCVWszbnlCbTFLWEdsSE9sY3R2VlRxSkcyTzEtdzFLTDRDM2ZRUFgyajNqR1RZTWRGTVFpU3FVRXduSFh1bkJZQnZOenTSAf8BQVVfeXFMTlJZODg0UUlROThpakdXQ0pkMkNUUzU3YUJTaTFUMURRTVNmU2NRY19IakxrOEJ1cGVwTlpVWFN4NDVkMWh2aEZ2NVNZMkJnaUJTU1ZVYTFzYVRYcnFLUmdBSGxGbGFOeW9zd3Q1TkkycWptbVZWX2lxdVRzZ1FBWjBVa21ORWVFdEd0cEw2bmN4TlJxTXMyREhOaFp6VGx2VTJoY1VFc0ZtaXJmNHFweS1VN3d6ZHpwOHdvYzBIRmJ6OXhKbGlIZDB3V0NNTmhYdVF1V09rVlNaLS1YSWZYem9EclFSbkZmTkNzeHlzZTI4cWh0bHlUX2EyOTY3eFRB?oc=5",
-      "data": "21/08 20:08"
+      "titulo": "Igor Rabello confirma cirurgia no fim do ano e segue tratamento conservador - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU5c3Q5MU9nVFpNVVpQVHByNTNjaWpQRHJVbTdDcDlzVnZ2YWFRRWFNZVpVc2lFWUVzMnkwT0xsdExmamxDbEF3Zkxsd0RBTXh0ekdPX0RMak0xNVpVaC1ISFFDWV9ybXlnMUt2RDBPMUk3c3ZUWHdxcmkzbUpIN3dOb0RFeUgyRGpGZlgtX3dJTjFFRjVqOWpqVEM2M1E4V2RsbnF2TDR4SkZhVk1XTlF6Yk5tLVU?oc=5",
+      "data": "22/08 00:38"
     }
   ],
   "avisos": []
