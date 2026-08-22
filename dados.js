@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 00:37",
+  "atualizado_em": "22/08/2026 01:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -1407,9 +1407,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVJUG9UWWo0aWduYkVGN21BQUlnZnEzb2xLSXJUeU4tZUExNFhxVjgwNXVjcU9xbGNBS3pJYUVyTlUxZTdIajB0U0JlLXBUUHRYNkFLUURmaGxBM19jVkg4ZVBxMXhiQ3JMMXNac1drUGNNUHpKRnp2aWQ2TDhHeFVoMEZYWWtPSE1Qb1lNeTNyMENQYWFtVDBVTFh1cDhRNEliaS0yelRkUGZZUEc1dw?oc=5",
-      "data": "21/08 16:34"
+      "titulo": "Saiba como assistir Fluminense x Remo ao vivo pelo Brasileirão - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNalI4OWVfemwxQ05NTS1ZZ29wSmtVekRvNGgyLUYzci1rYVZocVM5Y19jZzBMWEk1bURUMjJ6ODMyOW1va3J5WnlGel9Qb0VpcF9OWWQ4eHlTbTdzU0NQcVpZcERxUlo1VUt4NWhuZU41OHg5eGN6enJTaFVqdkNzTnIxbFQtMXZzSmFzSDFROVZ6Nm8?oc=5",
+      "data": "21/08 11:29"
     },
     {
       "titulo": "Platense tem técnico freguês do Fluminense e ex-alvo tricolor no ataque; conheça - ge",
