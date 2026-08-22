@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 02:22",
+  "atualizado_em": "22/08/2026 03:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -643,16 +643,6 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Austin x Philadelphia Union",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "21:30",
-      "competition": "MLS",
       "match": "St. Louis City x Houston Dynamo",
       "channels": [
         "APPLE TV"
@@ -666,6 +656,16 @@ window.PAINEL_DATA = {
       "match": "North Texas x Minnesota United II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "22:00",
+      "competition": "MLS",
+      "match": "Austin x Philadelphia Union",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -1196,16 +1196,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Houston Dynamo FC II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
       "competition": "Campeonato Mexicano",
       "match": "Atletico San Luis x Pachuca",
       "channels": [
@@ -1218,6 +1208,16 @@ window.PAINEL_DATA = {
       "time": "21:00",
       "competition": "MLS Next Pro",
       "match": "Colorado Rapids II x Real Monarchs",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Houston Dynamo FC II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -1422,14 +1422,14 @@ window.PAINEL_DATA = {
       "data": "22/08 01:52"
     },
     {
-      "titulo": "Igor Rabello fará tratamento conservador de lesão no Fluminense; cirurgia fica para fim do ano - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcVBWdVJQQ2xVcUIyclZDS0JCSGd3N3AwaVRNbkd2aldTdDZ4QmZVbElfUlRFU3h2Z2NOei1EX21MYmhCVXNCbGV1Y0F0X2tTVzFGNEw2eVVqWXZySmhGVVlYVVFXVTBzMDZrR3B0Y2taaExSLXNpeDVqYzQtTzR5YjBxYlpSTFdqMTNlZExuMnJDeEhtTERlVFJGdDJkdks2NURSbVVOUWRNR2Z1MlpkTzU1MGRlTGw4ZzJYWFY4R3FtalhxNjAyRWF0bWNBeTdyc2FnQ195YUFJUEw4R3JFQWdFNE9ESjNrT3FCMENoRlpTQngyTlpJMTdGWnJkVTVGSlRxZ9IBkwJBVV95cUxNaUFNMllTdC1RWk9kemR0OE5kc1pIVUJfcENjTEhIVTlUazUyVV9KZXdMc0d4NDNPX2ExUF9ZMGd2NkVlVG45U0x5RTNlWC1lbE81X0NLdDdlZk5fVzJlaWt6cUdpYVZsVzNYUHpjcXA2YXhPOEM3RkNjRkQ5Ny00SkxDUlV6WDdJSjZMNGlwbkNqSHZrc2lJVFJheE9XbjV3cnF0VnVLR1pvTHVwTHlLVXlRS0lDUWpKN0xrNWJNcmVOaDVsMHR4c0dNR05WMFByZmpSbUEycHFjRlIzRlVUNjBLa19FUkJyaWVsTEY5RTRlQnlsLUZlNWRCVEc4V2dlQy1WdWZOOXc3cUJBNnlMS2VWYw?oc=5",
-      "data": "21/08 14:12"
+      "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
+      "data": "21/08 18:21"
     },
     {
-      "titulo": "Ex-Atlético, zagueiro do Fluminense anuncia cirurgia e manda recado à torcida - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbnlyRVR1M3JtWmF6eDdCVUplbGhQTXVzakg0V1pmd0dSSHhQWHNBUUZNR0JaODBoRUJyaENKSEQ1QUctUXN2NnF5bGZVbTF5YUN6TjFjS2ZqeWxRWmNwTUZCeVJLOFdXNVlpSDFITy00bkhnQkpIMTF3cUh0ZDFBUElQc2RHOHAzTU45dEo3MHRJYjdrZDhQY2VreEtaRzJFVy02WGhlVWROamtJQ09KWWxIOTFQd3dQSll6RjBPUk92eUpGaDdBaTJCN2JnNTVyeVJWbFkyOW9jQVZ4ZWV4UTZfQzI3VWlvbWxISm83X2JZQ3g1UDFmMlFB?oc=5",
-      "data": "22/08 01:38"
+      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
+      "data": "21/08 14:41"
     }
   ],
   "avisos": []
