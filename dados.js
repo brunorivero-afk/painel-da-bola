@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 10:27",
+  "atualizado_em": "22/08/2026 11:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -1423,6 +1423,11 @@ window.PAINEL_DATA = {
       "data": "22/08 06:00"
     },
     {
+      "titulo": "Fluminense a um passo de fazer história: Tricolor busca feito inédito no Brasileirão Feminino - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0tUazJ4bkc1OEUzNVFBV3pZcFN1bDQxWDJVZUszZGFqNzJ3UVZhWU9MTVRvaURsNENMMkg3TU5kZFUwaWVRWkprZ3FXUzY0QWRoelExbklJTTU4RFAzUnBJRk53aGluUlNxQk5zOHFQZXdIc2NvX1ZKN2paVzloNnR3VGVfRkdldW8zcWxTai16Zmd0d2dYNGNSTUdWWnhLUDdYYmZyM1JlalVsd0stVE1vdnpsSzdpR1J3?oc=5",
+      "data": "22/08 13:30"
+    },
+    {
       "titulo": "Soteldo vive maior sequência como titular no Fluminense e destaca disputa: \"Não posso relaxar\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOEw0Qy1SVDNfc1ZSWHdtSnZTSElyMkg4cXdlbDhCNkpqOFUwWUJoQW5Tc0FfTU9aSUl3NDJxX0xLVWJteTJ2OXJpQnRiVHNyU29vZUNxa1JqYWN5dXlwZ1dkUUhsZEtSMWhlNXlLMmd3dUluZmdzNDJtbWJQMFMyRXlmMHpidVMzdTR3VTVzVTdGLS03OVo0eTJvV2ZWSWdMNmZvVTRNLWV0Z3hwX0d1SlBaUkQtaC1PUFFpZU5KTzQwbUN5ai1yUmZ5eHdOcDVpNjJFMTQ1cUtGOXZoWnBwbWpwMlpNYWdpS3RCM3c2MWpUcm5P0gGDAkFVX3lxTE1GdG51R2k4YWZQYXJzdDh4aTZDUHJSUHRkc05weTdBeUwxQWlvWUtobXladS0yYmFIM0hxQzdIVUh1NlBpWWZqNFZscXhza3kyQmRPNVNBNzhXSks1UXVNcWktaUl2Mm5CM1p3cDFJZzREZVM1QVkyQmRxZVA3VGNrMU1TMENfOTU0ajJNaGlya2JSMHZncDg1TTJ1MFJ1aktEVDR0OWtfLXY1b05PRWRSdHQ4X05lbU5iSzFRQ0ZXSzhfYnhNY2NQVWwwVk1McERESW4tTVpEUl94OW84bVVhSTV4czNBRTM2YU55ZlBzLUFsaUYzZ29PaUx3QmJaczV5S0k?oc=5",
       "data": "22/08 13:00"
@@ -1436,11 +1441,6 @@ window.PAINEL_DATA = {
       "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
       "data": "21/08 18:21"
-    },
-    {
-      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
-      "data": "21/08 14:41"
     }
   ],
   "avisos": []
