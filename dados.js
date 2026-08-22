@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 08:16",
+  "atualizado_em": "22/08/2026 09:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1390,27 +1390,27 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.2,
-      "temp_min": 19.6,
+      "temp_min": 19.5,
       "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.9,
-      "temp_min": 20.1,
+      "temp_max": 23.0,
+      "temp_min": 19.8,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.1,
-      "temp_min": 15.3,
+      "temp_max": 21.9,
+      "temp_min": 16.0,
       "chance_chuva": 100,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.8,
+      "temp_max": 17.6,
       "temp_min": 12.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -1418,9 +1418,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Marcão terá desfalques para duelo contra o Remo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkplOS1zY1RMdHVTa0UtX2ZZREZ5cDFrMms1SDRNX0ZfX2Jxdk52ZWFnT1J2Nk9jakZMZHZGZHNoRjhuSC1qVlVvX3FCVEI4M3JGN2dQLWVFU0pjUXdFU0h1YTk4aFVkZVFVOHBZTWpDWDN3cV9CLTZ2NGp0SHViT1oyd2QzN29sTUUwYVFCV3BUX3B3bm56dE5VdE9veXZSUjV4bUl5RUdicnFac1o2dF9PdVBXa2xUVDNLbDdKUktIcEpGdVF0NlJ3anBNWkU0Z0NSQzhiU243d9IB6AFBVV95cUxOZzFHbTktdHp3eEk0ZGQtRXd3eklBTkVDeXhJdWZmSGhrTW9icVRoaTVhUzFwMjl0cVlPSVQweHE4eDVwYWVjTzc1eTlpaXEzR1JoeS1CY3VicEJOQ29GcDNybFFBU2xEY0ZZVzNGMlBRSXBRNFdLTHVheWYxS1Voa2pOeUEzNTczNzZUQm44YU5JSU5wZ2dBS2I0SkFXZGFtb3pySzk2a2cxS2lBUmhuOFFpdDFkLWtnbHJaZk1obDE1QWUxT3JyZXZRX1F3dmxlSncyeWNndzJDYlNfbHBtdmp1cXVyRTBs?oc=5",
-      "data": "21/08 20:35"
+      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
+      "data": "22/08 06:00"
+    },
+    {
+      "titulo": "Em busca do mata-mata inédito no Brasileiro, Fluminense conta com Sochor diante da Ferroviária - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdm5aVmppQzhWVko0S2VUekRtZmpCNEhqQXgtY3RaUUhhcmFIQ3FVdEFRWFBmTUdZamZRZndBWU85TzdkTUtXZXVpbmpkZFpGcFphWHdrR0dxOGpkT0F2WmVOZlo4czRfRzdqRnFVbUxicXBYTEtVQW85bEJ3aXFlYUxoUkhXQjVmTzRVTnk1bTU0d1dwQUJZNlltMzM4SDJMOUlVXzBlcWkyXzQ0bHItaThMb241Tkg4c285N1pFTlNQTDl0NFFPRDFLS0FEMkMyT2RXOFNMb3ozRXBpWk9aa3I2N3o5QdIB9AFBVV95cUxQSE53OXNIQ1E0b3RSNWd6SFBNNEFRVGZtQnBsWnZiOW5VZFhNNmVsXzFMRFVlQ3EwcEtJbFhqRFJXTTdzSkwyTUUyRFY5OFRTdXlWXzJNUE5SckVXc3E3aXRCWVAxOHI2SVZmbXl0bWkza2JDTkVyWWFzRzRRdE5JSHpzcFgzdzBYbFJtM1gyTV9VLUx0ems4RmY2WWc4RDQ0Zlk3WWh5TXFNRTZfbk1pV3BPcG9RUHR4b1ZHQ0VvMEMwVXlSV2YwQ2dWQVo4MmNBLTJNYk5FdmVZMWhUU1NLdUVVM0JidElYc01pMndfcVNabUhm?oc=5",
+      "data": "22/08 11:00"
     },
     {
       "titulo": "Enquete: Marcão deve seguir no comando do Fluminense até o fim do ano? Vote - ge",
@@ -1436,11 +1441,6 @@ window.PAINEL_DATA = {
       "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
       "data": "21/08 18:21"
-    },
-    {
-      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
-      "data": "21/08 14:41"
     }
   ],
   "avisos": []
