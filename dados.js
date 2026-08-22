@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 13:17",
+  "atualizado_em": "22/08/2026 14:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:30",
-      "competition": "Campeonato Holandês",
-      "match": "Fortuna Sittard x AZ Alkmaar",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Athletic Club x Sevilla",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-22",
@@ -66,6 +46,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Celta Vigo",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "14:30",
       "competition": "Campeonato Austríaco",
       "match": "Sturm Graz x Austria Lustenau",
       "channels": [
@@ -75,11 +65,45 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-22",
-      "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Celta Vigo",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Defensor Sporting",
       "channels": [
-        "CAZÉTV"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ahli Jeddah x Abha",
+      "channels": [
+        "BAND",
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "Gremio Prudente x Marília",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "São José EC x São Caetano",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -130,50 +154,6 @@ window.PAINEL_DATA = {
       "match": "Linense x Bandeirante SP",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "São José EC x São Caetano",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Marília",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ahli Jeddah x Abha",
-      "channels": [
-        "BAND",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Defensor Sporting",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -712,11 +692,31 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-22",
+      "time": "11:30",
+      "competition": "Campeonato Holandês",
+      "match": "Fortuna Sittard x AZ Alkmaar",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
       "time": "12:00",
       "competition": "Campeonato Austríaco",
       "match": "SCR Altach x TSV Hartberg",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "12:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Athletic Club x Sevilla",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -1433,14 +1433,14 @@ window.PAINEL_DATA = {
       "data": "22/08 13:00"
     },
     {
-      "titulo": "Fluminense a um passo de fazer história: Tricolor busca feito inédito no Brasileirão Feminino - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb0tUazJ4bkc1OEUzNVFBV3pZcFN1bDQxWDJVZUszZGFqNzJ3UVZhWU9MTVRvaURsNENMMkg3TU5kZFUwaWVRWkprZ3FXUzY0QWRoelExbklJTTU4RFAzUnBJRk53aGluUlNxQk5zOHFQZXdIc2NvX1ZKN2paVzloNnR3VGVfRkdldW8zcWxTai16Zmd0d2dYNGNSTUdWWnhLUDdYYmZyM1JlalVsd0stVE1vdnpsSzdpR1J3?oc=5",
-      "data": "22/08 13:30"
-    },
-    {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
       "data": "22/08 01:52"
+    },
+    {
+      "titulo": "Igor Rabello confirma cirurgia no fim do ano e segue tratamento conservador - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU5c3Q5MU9nVFpNVVpQVHByNTNjaWpQRHJVbTdDcDlzVnZ2YWFRRWFNZVpVc2lFWUVzMnkwT0xsdExmamxDbEF3Zkxsd0RBTXh0ekdPX0RMak0xNVpVaC1ISFFDWV9ybXlnMUt2RDBPMUk3c3ZUWHdxcmkzbUpIN3dOb0RFeUgyRGpGZlgtX3dJTjFFRjVqOWpqVEM2M1E4V2RsbnF2TDR4SkZhVk1XTlF6Yk5tLVU?oc=5",
+      "data": "22/08 00:38"
     }
   ],
   "avisos": []
