@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/08/2026 03:31",
+  "atualizado_em": "22/08/2026 04:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -1379,30 +1379,30 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.2,
-      "temp_min": 19.7,
+      "temp_min": 19.6,
       "chance_chuva": 80,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.4,
-      "temp_min": 20.6,
+      "temp_max": 22.9,
+      "temp_min": 20.1,
       "chance_chuva": 55,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.7,
-      "temp_min": 15.4,
+      "temp_max": 22.1,
+      "temp_min": 15.3,
       "chance_chuva": 96,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.2,
-      "temp_min": 12.2,
+      "temp_max": 17.8,
+      "temp_min": 12.5,
       "chance_chuva": 96,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -1410,11 +1410,6 @@
       "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVJUG9UWWo0aWduYkVGN21BQUlnZnEzb2xLSXJUeU4tZUExNFhxVjgwNXVjcU9xbGNBS3pJYUVyTlUxZTdIajB0U0JlLXBUUHRYNkFLUURmaGxBM19jVkg4ZVBxMXhiQ3JMMXNac1drUGNNUHpKRnp2aWQ2TDhHeFVoMEZYWWtPSE1Qb1lNeTNyMENQYWFtVDBVTFh1cDhRNEliaS0yelRkUGZZUEc1dw?oc=5",
       "data": "21/08 16:34"
-    },
-    {
-      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
-      "data": "21/08 14:05"
     },
     {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
@@ -1430,6 +1425,11 @@
       "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
       "data": "21/08 14:41"
+    },
+    {
+      "titulo": "Thiago Neves revela vontade de ser treinador do Fluminense: 'Espero que me abra as portas' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYWFPV29PeE9JR2wyTm1sRms0MzZUVEw0TDhjd19LN1ZyYkNoNnZVQ3BHOVpxRklEd2J3enkzZ1A0UXhoM200eXgxRzBiT0NwMzVHZkRJOXl4Y3BUSU03cHFNcGhsT2JJZTVRNnV1Uy1MZGhGazR4SkFXSFBicDNCVnRxUFlfOTRwSGNlNVJMM1FUWC1qMGxvZWVRdFVPTE43VFd6elZWUkU4MG0yMVE4TVdKQU40VHpLei1xLTltcFF6eUYxVDEw?oc=5",
+      "data": "21/08 13:28"
     }
   ],
   "avisos": []
