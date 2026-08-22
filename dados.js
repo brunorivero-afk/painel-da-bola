@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/08/2026 21:57",
+  "atualizado_em": "21/08/2026 23:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -1042,7 +1042,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - Lance!",
+      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVJUG9UWWo0aWduYkVGN21BQUlnZnEzb2xLSXJUeU4tZUExNFhxVjgwNXVjcU9xbGNBS3pJYUVyTlUxZTdIajB0U0JlLXBUUHRYNkFLUURmaGxBM19jVkg4ZVBxMXhiQ3JMMXNac1drUGNNUHpKRnp2aWQ2TDhHeFVoMEZYWWtPSE1Qb1lNeTNyMENQYWFtVDBVTFh1cDhRNEliaS0yelRkUGZZUEc1dw?oc=5",
       "data": "21/08 16:34"
     },
@@ -1057,14 +1057,14 @@ window.PAINEL_DATA = {
       "data": "21/08 17:08"
     },
     {
-      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
-      "data": "21/08 14:05"
+      "titulo": "Após passar pelo Rivadavia, Fluminense terá mais um argentino pela frente - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOU1puNlc2S196VE84MGFlek9xTUdyeWRSS0NwTmYtMzk1S3FCdWpDNlF1VFhEcmtuM0R1V1Z5SEp6bDR1T0lvQkZaRktvNXRnU2dPRGltTjhxQzgydDJoSW92S1R4c2duYTRzb1plV05KakdlVmFqUWRXeklkYlZ1aUh4WmNEZm02Nk9BZlFfN3dnZGVGSFNESjdiUzVfLUxMaVBfNWRnVXNYakNMVnVmalBiOFdPelhqYUNPdmswNmhhOG1hOUp6U2pMb0p4eWlFeGlPOVJsNlRQNnYzN2tqOXlXMENjbUx5SHBnRWJmXy1iQ2Jyanc?oc=5",
+      "data": "21/08 11:04"
     },
     {
-      "titulo": "Igor Rabello confirma cirurgia no fim do ano e segue tratamento conservador - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU5c3Q5MU9nVFpNVVpQVHByNTNjaWpQRHJVbTdDcDlzVnZ2YWFRRWFNZVpVc2lFWUVzMnkwT0xsdExmamxDbEF3Zkxsd0RBTXh0ekdPX0RMak0xNVpVaC1ISFFDWV9ybXlnMUt2RDBPMUk3c3ZUWHdxcmkzbUpIN3dOb0RFeUgyRGpGZlgtX3dJTjFFRjVqOWpqVEM2M1E4V2RsbnF2TDR4SkZhVk1XTlF6Yk5tLVU?oc=5",
-      "data": "22/08 00:38"
+      "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
+      "data": "22/08 01:52"
     }
   ],
   "avisos": []
