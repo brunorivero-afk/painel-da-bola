@@ -1,37 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 15:21",
+  "atualizado_em": "22/08/2026 16:19",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Brentford x Tottenham",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "14:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Orlando City II",
-      "channels": [
-        "ESPN",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "14:15",
-      "competition": "Campeonato Russo",
-      "match": "CSKA Moscow x Lokomotiv Moscow",
-      "channels": [
-        "BANDSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-22",
@@ -57,28 +26,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "Primavera SP x Paulista",
+      "match": "Gremio Prudente x Marília",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Noroeste x Comercial",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Santo André x EC São Bernardo",
-      "channels": [
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -107,9 +57,8 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "São José EC x São Caetano",
+      "match": "Santo André x EC São Bernardo",
       "channels": [
-        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -118,7 +67,27 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Marília",
+      "match": "Noroeste x Comercial",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "Primavera SP x Paulista",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "São José EC x São Caetano",
       "channels": [
         "YOUTUBE",
         "YOUTUBE"
@@ -181,21 +150,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Sporting CP x Alverca",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Real Madrid",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Real Madrid",
+      "competition": "Campeonato Português",
+      "match": "Sporting CP x Alverca",
       "channels": [
-        "CAZÉTV"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -717,6 +686,37 @@ window.PAINEL_DATA = {
       "match": "Sport Huancayo x UCV Moquegua",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "13:30",
+      "competition": "Campeonato Inglês",
+      "match": "Brentford x Tottenham",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "14:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Orlando City II",
+      "channels": [
+        "ESPN",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "14:15",
+      "competition": "Campeonato Russo",
+      "match": "CSKA Moscow x Lokomotiv Moscow",
+      "channels": [
+        "BANDSPORTS"
       ]
     },
     {
@@ -1389,28 +1389,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.2,
+      "temp_max": 22.1,
       "temp_min": 19.5,
       "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.0,
-      "temp_min": 19.8,
+      "temp_max": 23.2,
+      "temp_min": 20.3,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.9,
-      "temp_min": 16.0,
+      "temp_max": 21.7,
+      "temp_min": 15.9,
       "chance_chuva": 100,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.6,
+      "temp_max": 15.9,
       "temp_min": 12.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
