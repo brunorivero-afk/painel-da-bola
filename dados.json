@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/08/2026 05:23",
+  "atualizado_em": "22/08/2026 06:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -19,6 +19,7 @@
       "competition": "Campeonato Inglês",
       "match": "Everton x Crystal Palace",
       "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -556,6 +557,16 @@
       "match": "Carolina Core x FC Cincinnati II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "competition": "NWSL Feminina",
+      "match": "North Carolina Courage (F) x Boston Legacy (F)",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -1407,29 +1418,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense divulga parcial de ingressos vendidos para duelo com o Remo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVJUG9UWWo0aWduYkVGN21BQUlnZnEzb2xLSXJUeU4tZUExNFhxVjgwNXVjcU9xbGNBS3pJYUVyTlUxZTdIajB0U0JlLXBUUHRYNkFLUURmaGxBM19jVkg4ZVBxMXhiQ3JMMXNac1drUGNNUHpKRnp2aWQ2TDhHeFVoMEZYWWtPSE1Qb1lNeTNyMENQYWFtVDBVTFh1cDhRNEliaS0yelRkUGZZUEc1dw?oc=5",
-      "data": "21/08 16:34"
+      "titulo": "Ganso retoma espaço no Fluminense em meio a indefinição sobre contrato - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUmFFd3lJTmpxbVZCZXB3LXNWR3JBYm9nS3JCQjkxeGowSzR4V2otTTFhMlhOck80RGtkQU9oM3ZrcDNmZXVtYWRuNjNnWDVMYWNmQ1VvQ2ctMkRBckNRVVFmZ01yV25jMXJkTC1mdkxmUzBMaVJLd20tM2Y5R0JsNkp0VW54SjNPTjFYQ2JpUXotbHIyeDNTRDkzOThoVzNpYmV2LXdWZFBYZEV4OHJDVnExcS1ndE5vallFcHhrYjN5V3pJMVM1c1hGNEE3cVltNjVaQWpFYnbSAecBQVVfeXFMT0hYZUlLcDdlRzJiMUlIQ2l3dkdvTVRicjRnd2VqVUVpbEc1WFFneXRFaDBaaHdTZ2NWaUF0Nk9mZGoyZTBpQmthdlROMzIxeG5HYVdWVHpWV2hybDJrYU9IWF9MNF83Z1pvbGg1RlZ0dWx1eUdfTTNoaXVmbzJhNEd6NWdEWWU0NmkzOElEZFMtVUV2N2JacmwxNGJHUDhMQXRDUDUzdGNHajg4UGZXLXNXOFRBc3JZb1E4RldMeXFCQnp2MUFDbTNTaDgxWVFrbmRUY1VFRDhMQXFybnZiUXhISnlXRDFn?oc=5",
+      "data": "21/08 07:01"
+    },
+    {
+      "titulo": "Escalação do Fluminense: Marcão terá desfalques para duelo contra o Remo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkplOS1zY1RMdHVTa0UtX2ZZREZ5cDFrMms1SDRNX0ZfX2Jxdk52ZWFnT1J2Nk9jakZMZHZGZHNoRjhuSC1qVlVvX3FCVEI4M3JGN2dQLWVFU0pjUXdFU0h1YTk4aFVkZVFVOHBZTWpDWDN3cV9CLTZ2NGp0SHViT1oyd2QzN29sTUUwYVFCV3BUX3B3bm56dE5VdE9veXZSUjV4bUl5RUdicnFac1o2dF9PdVBXa2xUVDNLbDdKUktIcEpGdVF0NlJ3anBNWkU0Z0NSQzhiU243d9IB6AFBVV95cUxOZzFHbTktdHp3eEk0ZGQtRXd3eklBTkVDeXhJdWZmSGhrTW9icVRoaTVhUzFwMjl0cVlPSVQweHE4eDVwYWVjTzc1eTlpaXEzR1JoeS1CY3VicEJOQ29GcDNybFFBU2xEY0ZZVzNGMlBRSXBRNFdLTHVheWYxS1Voa2pOeUEzNTczNzZUQm44YU5JSU5wZ2dBS2I0SkFXZGFtb3pySzk2a2cxS2lBUmhuOFFpdDFkLWtnbHJaZk1obDE1QWUxT3JyZXZRX1F3dmxlSncyeWNndzJDYlNfbHBtdmp1cXVyRTBs?oc=5",
+      "data": "21/08 20:35"
+    },
+    {
+      "titulo": "Enquete: Marcão deve seguir no comando do Fluminense até o fim do ano? Vote - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYUZYblluZ3UwdFRYaHAzWnJQbkRScjBFejA3TkN1WUlKOTlFUGNWMjBLVW9lbXRkbHBaaDNyOG9lOGJpUGwzcFhPYnlFQkZfcThTM0JxY1cySUVtOEVDbDIyNjYtMXBOenE5QTRKWWw1LUw4VV9JWllXcmdXV3JVTkpXRDdEZlJKa3p6SlozYVNlelk3LXBrelFvUEhxQ0NmYmZldUpvanBueTNrb0ZFUHFRbXl1QUpycVo5ZHZ6TlVUVE9HZFc0QVNaZUtaemdpZEtMTHVQSnZROVlp0gHrAUFVX3lxTE96UmhhWVZYRDVfZzNWb0d6Rzc1WE9oWkY1c2p6blUwMXhTTFlGbmZzQnFfaXc4QmNfV0VsZEtITjFfVVZQVTN2OHVLU3ZMUHY4TGJ3dmZNc3RpOVhGMmxkT0FCT0pqekh5OUhUdG5XbHV6RTNwajd6VnlENnNaSGFEbXQ3QXBNREFENzdwTTAwOWZhX2h3WnlZdFhwbFBvVDM0Zm0zQS1zR3RUSWdwZ3R1MHlrY3hPMVZlNUx5NGVCODRwMG1ONk1jNHNzTVZZVEJWZjZqMXdOY2J3dVZSRFVySHJCdHJoTTRKWlk?oc=5",
+      "data": "22/08 09:00"
+    },
+    {
+      "titulo": "Das peladas em Santíssimo a porto seguro do Fluminense, Marcão segue como interino contra o Remo no Brasileirão - Extra online",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSEdXa0ZDd0hHSEo1V3kzejhyYUVYZjVQeGoxeTgwa0tqbnF2anAxOGxvQmZmZFBvRVJyRG1aRU1MNm5JT2lXZ1dCNnp5NHhBaHQtOXNzS0RPQUc3bTY2VWd5X2NiWFR6LUhuZlZTQXVobVU0eU5fUlRQZXp3MU51ZWxWM2F5V1QxSUdaSGsyNTBGZC1URXl5V0pZSTNuU1dMNmNOMFFPRU5wS3FnUENCd1A5elFnZzZkWUZQTXpkT29KTzBxalVncFpRLWN5bnpUOFZ4MUpfaFI3UHRjb2loaTFIdUtRTTNMMGJjYm1vLXVNZU5LZEVxM3NhMTczT2wwODNXZVJn0gGUAkFVX3lxTE9WenVUYnB2eDFuY1ROb0pOUDk2LWl5dnpwR185OEUxV0VHMHhJc2ZaTzZfbWtXeFZxdWQ3T3BTOUVaZ2Fra0g4NE1Hb0s3MEdXS2g3WHJuSTFhX09CRkFGd2RGTjdzY2dYQzdva3hfVkRSOEcwdW1hTUZjbEllSzV6VkFIS1ZPb1N5NEQ4b05sU2hCRlRjV0ZtMXlKZ04xZ0JNZUtiOGduNnNDWC15ZFFxaHd0YU9vekhlSHFiejlTaEQ5X1RRTHB5bVNodlF2aXVJZHY4Y2xlMlNvQ1ZOS0Z0RWZiOFkwZF92MHh6ODh1RW1GWU9zM2cyM1AtNmlDbkJYNDZubzJOOHFQUzZnVjRxdnUyVw?oc=5",
+      "data": "22/08 05:00"
     },
     {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
       "data": "22/08 01:52"
-    },
-    {
-      "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
-      "data": "21/08 18:21"
-    },
-    {
-      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
-      "data": "21/08 14:41"
-    },
-    {
-      "titulo": "Thiago Neves revela vontade de ser treinador do Fluminense: 'Espero que me abra as portas' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYWFPV29PeE9JR2wyTm1sRms0MzZUVEw0TDhjd19LN1ZyYkNoNnZVQ3BHOVpxRklEd2J3enkzZ1A0UXhoM200eXgxRzBiT0NwMzVHZkRJOXl4Y3BUSU03cHFNcGhsT2JJZTVRNnV1Uy1MZGhGazR4SkFXSFBicDNCVnRxUFlfOTRwSGNlNVJMM1FUWC1qMGxvZWVRdFVPTE43VFd6elZWUkU4MG0yMVE4TVdKQU40VHpLei1xLTltcFF6eUYxVDEw?oc=5",
-      "data": "21/08 13:28"
     }
   ],
   "avisos": []
