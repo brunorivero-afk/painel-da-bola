@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/08/2026 07:17",
+  "atualizado_em": "22/08/2026 08:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -1391,28 +1391,28 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 22.2,
       "temp_min": 19.6,
-      "chance_chuva": 80,
+      "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.9,
       "temp_min": 20.1,
-      "chance_chuva": 55,
+      "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.1,
       "temp_min": 15.3,
-      "chance_chuva": 96,
+      "chance_chuva": 100,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 17.8,
       "temp_min": 12.5,
-      "chance_chuva": 96,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
