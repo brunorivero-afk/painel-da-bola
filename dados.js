@@ -1,72 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 18:16",
+  "atualizado_em": "22/08/2026 19:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Real Madrid",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Sporting CP x Alverca",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Guarani",
-      "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ituano x Paysandu",
-      "channels": [
-        "BAND",
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Volta Redonda x Floresta",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x ABC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-22",
@@ -82,11 +16,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Cruzeiro (F) x Palmeiras (F)",
+      "match": "Flamengo (F) x Atlético Mineiro (F)",
       "channels": [
-        "SPORTV",
-        "SPORTV 3",
-        "YOUTUBE"
+        "TV BRASIL"
       ]
     },
     {
@@ -125,11 +57,12 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Londrina",
+      "competition": "Brasileirão Feminino",
+      "match": "Cruzeiro (F) x Palmeiras (F)",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "SPORTV",
+        "SPORTV 3",
+        "YOUTUBE"
       ]
     },
     {
@@ -137,9 +70,10 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Flamengo (F) x Atlético Mineiro (F)",
+      "match": "Grêmio (F) x Botafogo (F)",
       "channels": [
-        "TV BRASIL"
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -147,7 +81,17 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Fluminense (F)",
+      "match": "Vitoria BA W x Santos (F)",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "América MG (F) x RB Bragantino (F)",
       "channels": [
         "YOUTUBE"
       ]
@@ -170,7 +114,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "América MG (F) x RB Bragantino (F)",
+      "match": "Ferroviária (F) x Fluminense (F)",
       "channels": [
         "YOUTUBE"
       ]
@@ -179,30 +123,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Vitoria BA W x Santos (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Botafogo (F)",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
       "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Goiás",
+      "match": "Ceará x Londrina",
       "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -231,10 +155,30 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Goiás",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:30",
       "competition": "Campeonato Uruguaio",
       "match": "Deportivo Maldonado x Penãrol",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Anápolis",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -251,21 +195,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-22",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Anápolis",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
       "time": "20:30",
-      "competition": "MLS",
-      "match": "Charlotte x DC United",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Flamengo",
       "channels": [
-        "APPLE TV"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -286,6 +220,16 @@ window.PAINEL_DATA = {
       "match": "North Carolina Courage (F) x Boston Legacy (F)",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Charlotte x DC United",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -336,16 +280,6 @@ window.PAINEL_DATA = {
       "match": "Inter Miami x Toronto FC",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Flamengo",
-      "channels": [
-        "PRIME VIDEO"
       ]
     },
     {
@@ -599,7 +533,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "Linense x Bandeirante SP",
+      "match": "XV de Piracicaba x Uniao Sao Joao",
       "channels": [
         "YOUTUBE"
       ]
@@ -609,7 +543,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "XV de Piracicaba x Uniao Sao Joao",
+      "match": "Linense x Bandeirante SP",
       "channels": [
         "YOUTUBE"
       ]
@@ -717,6 +651,72 @@ window.PAINEL_DATA = {
       "channels": [
         "PREMIERE FC",
         "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Real Madrid",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "Sporting CP x Alverca",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x ABC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Guarani",
+      "channels": [
+        "SPORTYNET",
+        "CANAL DO BENJA",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ituano x Paysandu",
+      "channels": [
+        "BAND",
+        "BAND",
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Volta Redonda x Floresta",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -1418,19 +1418,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Enquete: Marcão deve seguir no comando do Fluminense até o fim do ano? Vote - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYUZYblluZ3UwdFRYaHAzWnJQbkRScjBFejA3TkN1WUlKOTlFUGNWMjBLVW9lbXRkbHBaaDNyOG9lOGJpUGwzcFhPYnlFQkZfcThTM0JxY1cySUVtOEVDbDIyNjYtMXBOenE5QTRKWWw1LUw4VV9JWllXcmdXV3JVTkpXRDdEZlJKa3p6SlozYVNlelk3LXBrelFvUEhxQ0NmYmZldUpvanBueTNrb0ZFUHFRbXl1QUpycVo5ZHZ6TlVUVE9HZFc0QVNaZUtaemdpZEtMTHVQSnZROVlp0gHrAUFVX3lxTE96UmhhWVZYRDVfZzNWb0d6Rzc1WE9oWkY1c2p6blUwMXhTTFlGbmZzQnFfaXc4QmNfV0VsZEtITjFfVVZQVTN2OHVLU3ZMUHY4TGJ3dmZNc3RpOVhGMmxkT0FCT0pqekh5OUhUdG5XbHV6RTNwajd6VnlENnNaSGFEbXQ3QXBNREFENzdwTTAwOWZhX2h3WnlZdFhwbFBvVDM0Zm0zQS1zR3RUSWdwZ3R1MHlrY3hPMVZlNUx5NGVCODRwMG1ONk1jNHNzTVZZVEJWZjZqMXdOY2J3dVZSRFVySHJCdHJoTTRKWlk?oc=5",
+      "data": "22/08 09:00"
+    },
+    {
       "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
       "data": "22/08 06:00"
     },
     {
-      "titulo": "Com gol de Hulk, Remo perde de virada para o Fluminense e segue no Z4 da Série A | Remo | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnN3ZXNFa2Q0VzU0MUx1cW4yemtNc0JvYzNya3pZQmtWeWwwRUlJQXRJNzY5bkJ0Q3JvUnR1aXRUNnM2N2lZbzZpRHJqc0hWeUdqN0pqUURLamJWa29BZ3FXcHZhcnFtcTV4SlJUYUNpSnJ0N2lTMFRnQnRiWDUwUHJpTDgxUmZ2YmdaZHFJNk5Oc1YyOU9jNnNYZXQ3NEJrNm1mLWJrLXJmVndhYVd3ZTBHaXRISmdraE14SklSUmpsTTRnbm4w0gHMAUFVX3lxTFBDdlFkS3pIek4wUnR0RVZ4WkFvbGUteHVCWDVWY0szdHJsZzFPaG1SeVd6VXpaaWhxTGRSaTJrbXhBYVlMRHRCUUpJWmZKYlliUi1wS0pJMTROWXFQSzJtdXZGN244VUo1akNzekdSOVNoYXZSN0ZHVmRfQm9OT2RUZlpMUmkzM2dwMHZMNVU4cjlMbWdyU3ZKWHRVZFlGc3hBbF9sUkRiM05IRjlBVE1SR3NTa3FoUndPMXZENzlVZlpsRWtEYno4SUtsRQ?oc=5",
-      "data": "22/08 21:03"
-    },
-    {
-      "titulo": "Ex-Atlético, zagueiro do Fluminense anuncia cirurgia e manda recado à torcida - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbnlyRVR1M3JtWmF6eDdCVUplbGhQTXVzakg0V1pmd0dSSHhQWHNBUUZNR0JaODBoRUJyaENKSEQ1QUctUXN2NnF5bGZVbTF5YUN6TjFjS2ZqeWxRWmNwTUZCeVJLOFdXNVlpSDFITy00bkhnQkpIMTF3cUh0ZDFBUElQc2RHOHAzTU45dEo3MHRJYjdrZDhQY2VreEtaRzJFVy02WGhlVWROamtJQ09KWWxIOTFQd3dQSll6RjBPUk92eUpGaDdBaTJCN2JnNTVyeVJWbFkyOW9jQVZ4ZWV4UTZfQzI3VWlvbWxISm83X2JZQ3g1UDFmMlFB?oc=5",
-      "data": "22/08 01:38"
+      "titulo": "NOTA – MARCÃO - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oUkRmaUN1Z0ZDYjNFRnBZWkdjUnhfaHd3eDNsTVQ4WVBDUU9HblBvVkZnNFd0ckVUcVY3TjViNzF2aVV0TmREX0k3N2hJMmdvS3d2N3c0UmUtS2ZuSmc?oc=5",
+      "data": "22/08 21:46"
     },
     {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
@@ -1438,9 +1438,9 @@ window.PAINEL_DATA = {
       "data": "22/08 01:52"
     },
     {
-      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
-      "data": "21/08 14:05"
+      "titulo": "Igor Rabello confirma cirurgia no fim do ano e segue tratamento conservador - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU5c3Q5MU9nVFpNVVpQVHByNTNjaWpQRHJVbTdDcDlzVnZ2YWFRRWFNZVpVc2lFWUVzMnkwT0xsdExmamxDbEF3Zkxsd0RBTXh0ekdPX0RMak0xNVpVaC1ISFFDWV9ybXlnMUt2RDBPMUk3c3ZUWHdxcmkzbUpIN3dOb0RFeUgyRGpGZlgtX3dJTjFFRjVqOWpqVEM2M1E4V2RsbnF2TDR4SkZhVk1XTlF6Yk5tLVU?oc=5",
+      "data": "22/08 00:38"
     }
   ],
   "avisos": []
