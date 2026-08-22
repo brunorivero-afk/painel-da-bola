@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 11:16",
+  "atualizado_em": "22/08/2026 12:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -38,17 +38,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "11:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "West Ham x Charlton",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:00",
       "competition": "Campeonato Uruguaio",
       "match": "Central Espanol x Juventud",
       "channels": [
@@ -69,20 +58,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Athletic Club x Sevilla",
+      "competition": "Campeonato Austríaco",
+      "match": "SCR Altach x TSV Hartberg",
       "channels": [
-        "CAZÉTV"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "SCR Altach x TSV Hartberg",
+      "competition": "Campeonato Espanhol",
+      "match": "Athletic Club x Sevilla",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "CAZÉTV"
       ]
     },
     {
@@ -150,20 +139,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Primavera SP x Paulista",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Defensor Sporting",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Defensor Sporting",
+      "competition": "Copa Paulista",
+      "match": "Primavera SP x Paulista",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -308,9 +297,12 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x ABC",
+      "competition": "Brasileirão Série C",
+      "match": "Ituano x Paysandu",
       "channels": [
+        "BAND",
+        "BAND",
+        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -328,12 +320,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ituano x Paysandu",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x ABC",
       "channels": [
-        "BAND",
-        "BAND",
-        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -351,31 +340,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Londrina",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York City II x New England II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Juventude (F) x Bahia (F)",
+      "match": "Grêmio (F) x Botafogo (F)",
       "channels": [
-        "YOUTUBE",
+        "NSPORTS",
         "YOUTUBE"
       ]
     },
@@ -384,9 +352,8 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "São Paulo (F) x Mixto W",
+      "match": "Vitoria BA W x Santos (F)",
       "channels": [
-        "NSPORTS",
         "YOUTUBE"
       ]
     },
@@ -407,7 +374,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Botafogo (F)",
+      "match": "São Paulo (F) x Mixto W",
       "channels": [
         "NSPORTS",
         "YOUTUBE"
@@ -418,9 +385,31 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "América MG (F) x RB Bragantino (F)",
+      "match": "Juventude (F) x Bahia (F)",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "New York City II x New England II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Ceará x Londrina",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -461,7 +450,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Vitoria BA W x Santos (F)",
+      "match": "América MG (F) x RB Bragantino (F)",
       "channels": [
         "YOUTUBE"
       ]
@@ -716,6 +705,17 @@ window.PAINEL_DATA = {
       "match": "Hull City x Manchester United",
       "channels": [
         "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "11:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "West Ham x Charlton",
+      "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -1433,14 +1433,14 @@ window.PAINEL_DATA = {
       "data": "22/08 13:00"
     },
     {
+      "titulo": "Em busca do mata-mata inédito no Brasileiro, Fluminense conta com Sochor diante da Ferroviária - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdm5aVmppQzhWVko0S2VUekRtZmpCNEhqQXgtY3RaUUhhcmFIQ3FVdEFRWFBmTUdZamZRZndBWU85TzdkTUtXZXVpbmpkZFpGcFphWHdrR0dxOGpkT0F2WmVOZlo4czRfRzdqRnFVbUxicXBYTEtVQW85bEJ3aXFlYUxoUkhXQjVmTzRVTnk1bTU0d1dwQUJZNlltMzM4SDJMOUlVXzBlcWkyXzQ0bHItaThMb241Tkg4c285N1pFTlNQTDl0NFFPRDFLS0FEMkMyT2RXOFNMb3ozRXBpWk9aa3I2N3o5QdIB9AFBVV95cUxQSE53OXNIQ1E0b3RSNWd6SFBNNEFRVGZtQnBsWnZiOW5VZFhNNmVsXzFMRFVlQ3EwcEtJbFhqRFJXTTdzSkwyTUUyRFY5OFRTdXlWXzJNUE5SckVXc3E3aXRCWVAxOHI2SVZmbXl0bWkza2JDTkVyWWFzRzRRdE5JSHpzcFgzdzBYbFJtM1gyTV9VLUx0ems4RmY2WWc4RDQ0Zlk3WWh5TXFNRTZfbk1pV3BPcG9RUHR4b1ZHQ0VvMEMwVXlSV2YwQ2dWQVo4MmNBLTJNYk5FdmVZMWhUU1NLdUVVM0JidElYc01pMndfcVNabUhm?oc=5",
+      "data": "22/08 11:00"
+    },
+    {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
       "data": "22/08 01:52"
-    },
-    {
-      "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
-      "data": "21/08 18:21"
     }
   ],
   "avisos": []
