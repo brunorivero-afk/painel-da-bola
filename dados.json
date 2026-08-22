@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "22/08/2026 14:16",
+  "atualizado_em": "22/08/2026 15:21",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Huancayo x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-22",
@@ -46,16 +36,6 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Celta Vigo",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "14:30",
       "competition": "Campeonato Austríaco",
       "match": "Sturm Graz x Austria Lustenau",
       "channels": [
@@ -65,45 +45,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Defensor Sporting",
+      "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Celta Vigo",
       "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ahli Jeddah x Abha",
-      "channels": [
-        "BAND",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Marília",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "São José EC x São Caetano",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
+        "CAZÉTV"
       ]
     },
     {
@@ -159,6 +105,50 @@
     {
       "sport": "futebol",
       "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "São José EC x São Caetano",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "Gremio Prudente x Marília",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ahli Jeddah x Abha",
+      "channels": [
+        "BAND",
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Defensor Sporting",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
       "time": "15:15",
       "competition": "Campeonato Peruano",
       "match": "UTC x Comerciantes Unidos",
@@ -191,21 +181,21 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Real Madrid",
+      "competition": "Campeonato Português",
+      "match": "Sporting CP x Alverca",
       "channels": [
-        "CAZÉTV"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Sporting CP x Alverca",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Real Madrid",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -717,6 +707,16 @@
       "match": "Athletic Club x Sevilla",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Huancayo x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -1428,14 +1428,14 @@
       "data": "22/08 15:17"
     },
     {
-      "titulo": "Soteldo vive maior sequência como titular no Fluminense e destaca disputa: \"Não posso relaxar\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOEw0Qy1SVDNfc1ZSWHdtSnZTSElyMkg4cXdlbDhCNkpqOFUwWUJoQW5Tc0FfTU9aSUl3NDJxX0xLVWJteTJ2OXJpQnRiVHNyU29vZUNxa1JqYWN5dXlwZ1dkUUhsZEtSMWhlNXlLMmd3dUluZmdzNDJtbWJQMFMyRXlmMHpidVMzdTR3VTVzVTdGLS03OVo0eTJvV2ZWSWdMNmZvVTRNLWV0Z3hwX0d1SlBaUkQtaC1PUFFpZU5KTzQwbUN5ai1yUmZ5eHdOcDVpNjJFMTQ1cUtGOXZoWnBwbWpwMlpNYWdpS3RCM3c2MWpUcm5P0gGDAkFVX3lxTE1GdG51R2k4YWZQYXJzdDh4aTZDUHJSUHRkc05weTdBeUwxQWlvWUtobXladS0yYmFIM0hxQzdIVUh1NlBpWWZqNFZscXhza3kyQmRPNVNBNzhXSks1UXVNcWktaUl2Mm5CM1p3cDFJZzREZVM1QVkyQmRxZVA3VGNrMU1TMENfOTU0ajJNaGlya2JSMHZncDg1TTJ1MFJ1aktEVDR0OWtfLXY1b05PRWRSdHQ4X05lbU5iSzFRQ0ZXSzhfYnhNY2NQVWwwVk1McERESW4tTVpEUl94OW84bVVhSTV4czNBRTM2YU55ZlBzLUFsaUYzZ29PaUx3QmJaczV5S0k?oc=5",
-      "data": "22/08 13:00"
-    },
-    {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
       "data": "22/08 01:52"
+    },
+    {
+      "titulo": "Ex-Atlético, zagueiro do Fluminense anuncia cirurgia e manda recado à torcida - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbnlyRVR1M3JtWmF6eDdCVUplbGhQTXVzakg0V1pmd0dSSHhQWHNBUUZNR0JaODBoRUJyaENKSEQ1QUctUXN2NnF5bGZVbTF5YUN6TjFjS2ZqeWxRWmNwTUZCeVJLOFdXNVlpSDFITy00bkhnQkpIMTF3cUh0ZDFBUElQc2RHOHAzTU45dEo3MHRJYjdrZDhQY2VreEtaRzJFVy02WGhlVWROamtJQ09KWWxIOTFQd3dQSll6RjBPUk92eUpGaDdBaTJCN2JnNTVyeVJWbFkyOW9jQVZ4ZWV4UTZfQzI3VWlvbWxISm83X2JZQ3g1UDFmMlFB?oc=5",
+      "data": "22/08 01:38"
     },
     {
       "titulo": "Igor Rabello confirma cirurgia no fim do ano e segue tratamento conservador - LANCE!",
