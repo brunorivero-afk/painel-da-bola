@@ -1,27 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/08/2026 17:16",
+  "atualizado_em": "22/08/2026 18:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Fenerbahce x Konyaspor",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Remo",
-      "channels": [
-        "PREMIERE FC",
-        "PREMIERE 2"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-22",
@@ -103,9 +82,10 @@ window.PAINEL_DATA = {
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Juventude (F) x Bahia (F)",
+      "match": "Cruzeiro (F) x Palmeiras (F)",
       "channels": [
-        "YOUTUBE",
+        "SPORTV",
+        "SPORTV 3",
         "YOUTUBE"
       ]
     },
@@ -117,6 +97,28 @@ window.PAINEL_DATA = {
       "match": "New York City II x New England II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Juventude (F) x Bahia (F)",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "São Paulo (F) x Mixto W",
+      "channels": [
+        "NSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -197,32 +199,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Cruzeiro (F) x Palmeiras (F)",
-      "channels": [
-        "SPORTV",
-        "SPORTV 3",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "São Paulo (F) x Mixto W",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
       "time": "18:30",
-      "competition": "Campeonato Argentino",
-      "match": "Independiente x Independ. Rivadavia",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Goiás",
       "channels": [
         "DISNEY+"
       ]
@@ -242,8 +221,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Goiás",
+      "competition": "Campeonato Argentino",
+      "match": "Independiente x Independ. Rivadavia",
       "channels": [
         "DISNEY+"
       ]
@@ -717,6 +696,27 @@ window.PAINEL_DATA = {
       "match": "UTC x Comerciantes Unidos",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Fenerbahce x Konyaspor",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x Remo",
+      "channels": [
+        "PREMIERE FC",
+        "PREMIERE 2"
       ]
     },
     {
@@ -1418,14 +1418,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - ge",
+      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - GE",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
       "data": "22/08 06:00"
     },
     {
-      "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
-      "data": "22/08 01:52"
+      "titulo": "Com gol de Hulk, Remo perde de virada para o Fluminense e segue no Z4 da Série A | Remo | O Liberal - O Liberal",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnN3ZXNFa2Q0VzU0MUx1cW4yemtNc0JvYzNya3pZQmtWeWwwRUlJQXRJNzY5bkJ0Q3JvUnR1aXRUNnM2N2lZbzZpRHJqc0hWeUdqN0pqUURLamJWa29BZ3FXcHZhcnFtcTV4SlJUYUNpSnJ0N2lTMFRnQnRiWDUwUHJpTDgxUmZ2YmdaZHFJNk5Oc1YyOU9jNnNYZXQ3NEJrNm1mLWJrLXJmVndhYVd3ZTBHaXRISmdraE14SklSUmpsTTRnbm4w0gHMAUFVX3lxTFBDdlFkS3pIek4wUnR0RVZ4WkFvbGUteHVCWDVWY0szdHJsZzFPaG1SeVd6VXpaaWhxTGRSaTJrbXhBYVlMRHRCUUpJWmZKYlliUi1wS0pJMTROWXFQSzJtdXZGN244VUo1akNzekdSOVNoYXZSN0ZHVmRfQm9OT2RUZlpMUmkzM2dwMHZMNVU4cjlMbWdyU3ZKWHRVZFlGc3hBbF9sUkRiM05IRjlBVE1SR3NTa3FoUndPMXZENzlVZlpsRWtEYno4SUtsRQ?oc=5",
+      "data": "22/08 21:03"
     },
     {
       "titulo": "Ex-Atlético, zagueiro do Fluminense anuncia cirurgia e manda recado à torcida - Rádio Itatiaia",
@@ -1433,14 +1433,14 @@ window.PAINEL_DATA = {
       "data": "22/08 01:38"
     },
     {
-      "titulo": "Igor Rabello confirma cirurgia no fim do ano e segue tratamento conservador - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazU5c3Q5MU9nVFpNVVpQVHByNTNjaWpQRHJVbTdDcDlzVnZ2YWFRRWFNZVpVc2lFWUVzMnkwT0xsdExmamxDbEF3Zkxsd0RBTXh0ekdPX0RMak0xNVpVaC1ISFFDWV9ybXlnMUt2RDBPMUk3c3ZUWHdxcmkzbUpIN3dOb0RFeUgyRGpGZlgtX3dJTjFFRjVqOWpqVEM2M1E4V2RsbnF2TDR4SkZhVk1XTlF6Yk5tLVU?oc=5",
-      "data": "22/08 00:38"
+      "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
+      "data": "22/08 01:52"
     },
     {
-      "titulo": "Igor Rabello fará tratamento conservador de lesão no Fluminense; cirurgia fica para fim do ano - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcVBWdVJQQ2xVcUIyclZDS0JCSGd3N3AwaVRNbkd2aldTdDZ4QmZVbElfUlRFU3h2Z2NOei1EX21MYmhCVXNCbGV1Y0F0X2tTVzFGNEw2eVVqWXZySmhGVVlYVVFXVTBzMDZrR3B0Y2taaExSLXNpeDVqYzQtTzR5YjBxYlpSTFdqMTNlZExuMnJDeEhtTERlVFJGdDJkdks2NURSbVVOUWRNR2Z1MlpkTzU1MGRlTGw4ZzJYWFY4R3FtalhxNjAyRWF0bWNBeTdyc2FnQ195YUFJUEw4R3JFQWdFNE9ESjNrT3FCMENoRlpTQngyTlpJMTdGWnJkVTVGSlRxZ9IBkwJBVV95cUxNaUFNMllTdC1RWk9kemR0OE5kc1pIVUJfcENjTEhIVTlUazUyVV9KZXdMc0d4NDNPX2ExUF9ZMGd2NkVlVG45U0x5RTNlWC1lbE81X0NLdDdlZk5fVzJlaWt6cUdpYVZsVzNYUHpjcXA2YXhPOEM3RkNjRkQ5Ny00SkxDUlV6WDdJSjZMNGlwbkNqSHZrc2lJVFJheE9XbjV3cnF0VnVLR1pvTHVwTHlLVXlRS0lDUWpKN0xrNWJNcmVOaDVsMHR4c0dNR05WMFByZmpSbUEycHFjRlIzRlVUNjBLa19FUkJyaWVsTEY5RTRlQnlsLUZlNWRCVEc4V2dlQy1WdWZOOXc3cUJBNnlMS2VWYw?oc=5",
-      "data": "21/08 14:12"
+      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
+      "data": "21/08 14:05"
     }
   ],
   "avisos": []
