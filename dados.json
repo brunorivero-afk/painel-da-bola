@@ -1,17 +1,6 @@
 {
-  "atualizado_em": "22/08/2026 09:29",
+  "atualizado_em": "22/08/2026 10:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "08:30",
-      "competition": "Campeonato Inglês",
-      "match": "Hull City x Manchester United",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-22",
@@ -162,9 +151,8 @@
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "São José EC x São Caetano",
+      "match": "Primavera SP x Paulista",
       "channels": [
-        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -206,8 +194,9 @@
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "Primavera SP x Paulista",
+      "match": "São José EC x São Caetano",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -286,21 +275,21 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Sporting CP x Alverca",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Real Madrid",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Real Madrid",
+      "competition": "Campeonato Português",
+      "match": "Sporting CP x Alverca",
       "channels": [
-        "CAZÉTV"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -319,12 +308,9 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ituano x Paysandu",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x ABC",
       "channels": [
-        "BAND",
-        "BAND",
-        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -342,9 +328,12 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x ABC",
+      "competition": "Brasileirão Série C",
+      "match": "Ituano x Paysandu",
       "channels": [
+        "BAND",
+        "BAND",
+        "SPORTYNET",
         "YOUTUBE"
       ]
     },
@@ -362,8 +351,40 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Ceará x Londrina",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "New York City II x New England II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Botafogo (F)",
+      "match": "Juventude (F) x Bahia (F)",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "São Paulo (F) x Mixto W",
       "channels": [
         "NSPORTS",
         "YOUTUBE"
@@ -386,42 +407,10 @@
       "date": "2026-08-22",
       "time": "18:00",
       "competition": "Brasileirão Feminino",
-      "match": "São Paulo (F) x Mixto W",
+      "match": "Grêmio (F) x Botafogo (F)",
       "channels": [
         "NSPORTS",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Juventude (F) x Bahia (F)",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York City II x New England II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Londrina",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -717,6 +706,17 @@
       "match": "San Jose Earthquakes x Minnesota United FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "08:30",
+      "competition": "Campeonato Inglês",
+      "match": "Hull City x Manchester United",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -1423,14 +1423,9 @@
       "data": "22/08 06:00"
     },
     {
-      "titulo": "Em busca do mata-mata inédito no Brasileiro, Fluminense conta com Sochor diante da Ferroviária - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdm5aVmppQzhWVko0S2VUekRtZmpCNEhqQXgtY3RaUUhhcmFIQ3FVdEFRWFBmTUdZamZRZndBWU85TzdkTUtXZXVpbmpkZFpGcFphWHdrR0dxOGpkT0F2WmVOZlo4czRfRzdqRnFVbUxicXBYTEtVQW85bEJ3aXFlYUxoUkhXQjVmTzRVTnk1bTU0d1dwQUJZNlltMzM4SDJMOUlVXzBlcWkyXzQ0bHItaThMb241Tkg4c285N1pFTlNQTDl0NFFPRDFLS0FEMkMyT2RXOFNMb3ozRXBpWk9aa3I2N3o5QdIB9AFBVV95cUxQSE53OXNIQ1E0b3RSNWd6SFBNNEFRVGZtQnBsWnZiOW5VZFhNNmVsXzFMRFVlQ3EwcEtJbFhqRFJXTTdzSkwyTUUyRFY5OFRTdXlWXzJNUE5SckVXc3E3aXRCWVAxOHI2SVZmbXl0bWkza2JDTkVyWWFzRzRRdE5JSHpzcFgzdzBYbFJtM1gyTV9VLUx0ems4RmY2WWc4RDQ0Zlk3WWh5TXFNRTZfbk1pV3BPcG9RUHR4b1ZHQ0VvMEMwVXlSV2YwQ2dWQVo4MmNBLTJNYk5FdmVZMWhUU1NLdUVVM0JidElYc01pMndfcVNabUhm?oc=5",
-      "data": "22/08 11:00"
-    },
-    {
-      "titulo": "Enquete: Marcão deve seguir no comando do Fluminense até o fim do ano? Vote - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYUZYblluZ3UwdFRYaHAzWnJQbkRScjBFejA3TkN1WUlKOTlFUGNWMjBLVW9lbXRkbHBaaDNyOG9lOGJpUGwzcFhPYnlFQkZfcThTM0JxY1cySUVtOEVDbDIyNjYtMXBOenE5QTRKWWw1LUw4VV9JWllXcmdXV3JVTkpXRDdEZlJKa3p6SlozYVNlelk3LXBrelFvUEhxQ0NmYmZldUpvanBueTNrb0ZFUHFRbXl1QUpycVo5ZHZ6TlVUVE9HZFc0QVNaZUtaemdpZEtMTHVQSnZROVlp0gHrAUFVX3lxTE96UmhhWVZYRDVfZzNWb0d6Rzc1WE9oWkY1c2p6blUwMXhTTFlGbmZzQnFfaXc4QmNfV0VsZEtITjFfVVZQVTN2OHVLU3ZMUHY4TGJ3dmZNc3RpOVhGMmxkT0FCT0pqekh5OUhUdG5XbHV6RTNwajd6VnlENnNaSGFEbXQ3QXBNREFENzdwTTAwOWZhX2h3WnlZdFhwbFBvVDM0Zm0zQS1zR3RUSWdwZ3R1MHlrY3hPMVZlNUx5NGVCODRwMG1ONk1jNHNzTVZZVEJWZjZqMXdOY2J3dVZSRFVySHJCdHJoTTRKWlk?oc=5",
-      "data": "22/08 09:00"
+      "titulo": "Soteldo vive maior sequência como titular no Fluminense e destaca disputa: \"Não posso relaxar\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOEw0Qy1SVDNfc1ZSWHdtSnZTSElyMkg4cXdlbDhCNkpqOFUwWUJoQW5Tc0FfTU9aSUl3NDJxX0xLVWJteTJ2OXJpQnRiVHNyU29vZUNxa1JqYWN5dXlwZ1dkUUhsZEtSMWhlNXlLMmd3dUluZmdzNDJtbWJQMFMyRXlmMHpidVMzdTR3VTVzVTdGLS03OVo0eTJvV2ZWSWdMNmZvVTRNLWV0Z3hwX0d1SlBaUkQtaC1PUFFpZU5KTzQwbUN5ai1yUmZ5eHdOcDVpNjJFMTQ1cUtGOXZoWnBwbWpwMlpNYWdpS3RCM3c2MWpUcm5P0gGDAkFVX3lxTE1GdG51R2k4YWZQYXJzdDh4aTZDUHJSUHRkc05weTdBeUwxQWlvWUtobXladS0yYmFIM0hxQzdIVUh1NlBpWWZqNFZscXhza3kyQmRPNVNBNzhXSks1UXVNcWktaUl2Mm5CM1p3cDFJZzREZVM1QVkyQmRxZVA3VGNrMU1TMENfOTU0ajJNaGlya2JSMHZncDg1TTJ1MFJ1aktEVDR0OWtfLXY1b05PRWRSdHQ4X05lbU5iSzFRQ0ZXSzhfYnhNY2NQVWwwVk1McERESW4tTVpEUl94OW84bVVhSTV4czNBRTM2YU55ZlBzLUFsaUYzZ29PaUx3QmJaczV5S0k?oc=5",
+      "data": "22/08 13:00"
     },
     {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
@@ -1441,6 +1436,11 @@
       "titulo": "Thiago Neves admite desejo de treinar Fluminense: 'Espero que um dia' - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUZOQXd5dHNLY0dST0FUYzI4dGtnLTJwN3diQjFySnhyck03WVh3X3hiN0tJNXF2YXRkWkREODBablNfSk5PTUU1LVZxVFh2TllCNHY1ZjFLRWE5Vldra0ZjSWxRRF9Ddzk3RG1SN29TYXRrdEd1VWY2WC0xUC1FMUdJaktoLW05dHk1bmMtUEZWam9DdzlBMjVJTmdtTGQyVE9RNXNhTDI2SW1CUWxnMi1YVEJLUGhmQ2NrT1ZnT016UTdpRDRHX9IBzgFBVV95cUxOUk4xaHIzbUh3bWdDbktscGE0a1NkZG1LN2Z1Wlh2QUlpbHR6bjYyOFRYS1JlVC1CaVo4MmUxcXd4bHZWRTAwamxXOWxuOERoN09DRWJuWEd3cVpFOVNTNUlFeXZhZ2tWUk8wS1Jwa2hZc0JUSHQ2a1Rvc0FxcHV5ZUhDckZpS1dINFlwdjlTbkUzcVpDV1RVWm45ZFBzTlRDWHlPc1hLSkNmMUxyb3RydEo1aWstOWgyOFBSUWdFSG9zeGtzSjNPNjY3X196UQ?oc=5",
       "data": "21/08 18:21"
+    },
+    {
+      "titulo": "Campeão pelo Fluminense revela sonho de treinar o clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmpMQXBUMUxmajE1eE5yUUJNNHBiU05FaWdTbHg5RUtKbzRlNzhHb01lTFJMNnlkeW00ZWFpNU5CSE5JSkJvUUs4NUo5VGVHT091eHVWejh0VGtPZVlEb3VzdnJYVC1fRHE5c0h6b0k3YzNvcDQ0UnFXZ05CUFVnbTRnMmxULVMyR0wzTVh2ZGdNZkFRSXFTVXljUEJJX1FlVDFwaC05SjBYR0hWOWJLbXFzdHd5eUE4Nm9TbnNZa2NLTldDWWNWVkItU1oyWmtmZHc4QllteTF1cmFrQmR3?oc=5",
+      "data": "21/08 14:41"
     }
   ],
   "avisos": []
