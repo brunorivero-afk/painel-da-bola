@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "23/08/2026 01:31",
+  "atualizado_em": "23/08/2026 02:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "00:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Cruz Azul x Atlas",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -203,7 +193,7 @@
       "date": "2026-08-23",
       "time": "16:00",
       "competition": "Brasileirão Série C",
-      "match": "Maringá x Barra",
+      "match": "Brusque x Amazonas",
       "channels": [
         "SPORTYNET"
       ]
@@ -213,7 +203,7 @@
       "date": "2026-08-23",
       "time": "16:00",
       "competition": "Brasileirão Série C",
-      "match": "Brusque x Amazonas",
+      "match": "Maringá x Barra",
       "channels": [
         "SPORTYNET"
       ]
@@ -363,10 +353,13 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Ferroviária",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Fortaleza",
       "channels": [
-        "SPORTYNET"
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "DISNEY+"
       ]
     },
     {
@@ -393,13 +386,10 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Fortaleza",
+      "competition": "Brasileirão Série C",
+      "match": "Ypiranga-RS x Ferroviária",
       "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "DISNEY+"
+        "SPORTYNET"
       ]
     },
     {
@@ -534,6 +524,16 @@
       "match": "U.N.A.M. - Pumas x Necaxa",
       "channels": [
         "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "00:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Cruz Azul x Atlas",
+      "channels": [
         "YOUTUBE"
       ]
     },
@@ -752,7 +752,7 @@
   ],
   "noticias": [
     {
-      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - ge",
+      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - GE",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
       "data": "22/08 21:42"
     },
@@ -762,19 +762,19 @@
       "data": "21/08 14:05"
     },
     {
-      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
-      "data": "22/08 06:00"
-    },
-    {
-      "titulo": "Torcedores do Fluminense aprovam efetivação de Marcão em enquete do ge - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkVWRGtWTVBNcUVJZzk2TVpkb1h5R1VjUG9pSVpMVkI4bHR6LVBPUjhmZm4zb0lLVGhFZ04xcWVzZnotT0lpV2tJdGowaHlfak9OcHVkbkFJV3hHdWRBS2Z2R2xUWnlGRGVjRjJ3UTNFTmE4Y3BoRlZCb29JemdIOXZueWQwWjVMMjJiUmRvYlVyTExwMWg5R2hCYWJpLTRQUzdHZmJTYjlJcW5JbURPdU5PXzFIU0FzZkh0bW5Uc21mcUVoUk5IY2FfZVRlMEhCUlVWdGV4UVfSAecBQVVfeXFMT2pYVFVTS2h1aHY2cWRXemt4OExSOXNxRXBmTWxEbjI0VW5iMllfMkpZcmdmNGtSNXRHVWhPSFNVcmZkdVBJd012cDFoc0xucW8yMjMzeE1YMHFrVHVsMTdWU1JFMXhCY01PdGhiMVlrYU5QbElEM0p2MFRWQXVObUQtNkhvVjFpQlNVaGgxcEQtOGFFUGNLN1dZMVhIWWR0S3VLSFVEQzJ2NXpPSmt3eUZBeHR6QkpsWHVWS3cwYURJQ0pydTRhTWtTWHktTmpENmYzZUN0WmFyb1E2dk9PUEYtNkM1UkxB?oc=5",
-      "data": "23/08 00:08"
+      "titulo": "Brasileirão: Fluminense supera vaias, vira sobre o Remo e continua invicto com Marcão - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBlZS1hZWRaR3pndVJEZ2tnclhKUF9FVlBTMWhBbUxwV25DbHpOemVXbVZnUndFMFRVbkpzeFVlQWVOamNwczh6aXVYRWZEeVZfajh3aHlnbTRsT2xIcERMUUY4ZEl6ZzBLem5yTmVlUWVHZnZ1TFdXZy00eGNhY25yVjdJLXdnWjFOQzViZkhyME9VUGdha1VaMkE4dmxaUl9ETW5aUFBYZlpPZDZoUzZFbFI2RWZrRTdz?oc=5",
+      "data": "22/08 20:54"
     },
     {
       "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
       "data": "22/08 01:52"
+    },
+    {
+      "titulo": "Presidente efetiva Marcão no Fluminense: \"Vamos até o fim\" - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd21Oblg4Z1ZOTXc4STl5Z0lPSlUwSHFGaGR2ajdacWhRVlhuejJXVFdSVVNWQmdTTnE1YVVEZWgtXzVDRWpEMlRPdWNuV0tiUWlMYzVIUDZJOE03LWJSek1PajVqd3ZCWVpiZ1RuaUhsTklhSEVlYVpSSlBjVjlhVjdKa1BZSVIwZFBOUjNXeVZSSWNOaUg1WmdwZVFKTXI3VFRFa09SUFFLNDN2OFVJUEQtdHU0aUVsSElfVkFtajNieDAyOGJPUExUN2xpaGItRkFwQXdscFRTVWs?oc=5",
+      "data": "22/08 22:05"
     }
   ],
   "avisos": []
