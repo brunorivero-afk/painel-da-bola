@@ -1,36 +1,6 @@
 {
-  "atualizado_em": "23/08/2026 13:19",
+  "atualizado_em": "23/08/2026 14:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Guimaraes x Nacional",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "11:45",
-      "competition": "Campeonato Holandês",
-      "match": "Cambuur x Feyenoord",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Atletico Madrid x Villarreal",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -57,21 +27,21 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "14:00",
-      "competition": "Campeonato Russo",
-      "match": "Spartak Moscow x Zenit Saint",
+      "competition": "Campeonato Português",
+      "match": "Santa Clara x Famalicão",
       "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Santa Clara x Famalicão",
+      "competition": "Campeonato Russo",
+      "match": "Spartak Moscow x Zenit Saint",
       "channels": [
-        "DISNEY+"
+        "XSPORTS",
+        "BANDSPORTS"
       ]
     },
     {
@@ -128,27 +98,6 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Avai",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Bahia",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "Palmeiras x Vasco",
       "channels": [
@@ -167,6 +116,27 @@
       "channels": [
         "GLOBO",
         "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Bahia",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Avai",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -539,6 +509,36 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "11:30",
+      "competition": "Campeonato Português",
+      "match": "Guimaraes x Nacional",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "11:45",
+      "competition": "Campeonato Holandês",
+      "match": "Cambuur x Feyenoord",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "12:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Atletico Madrid x Villarreal",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-24",
       "time": "13:40",
       "competition": "Campeonato Saudita",
@@ -607,16 +607,6 @@
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Montreal, Canadá",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -702,7 +692,7 @@
   ],
   "noticias": [
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - ge",
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
       "data": "23/08 09:00"
     },
@@ -717,14 +707,14 @@
       "data": "23/08 12:57"
     },
     {
-      "titulo": "Fluminense confirma Marcão como técnico efetivo até o final da temporada - Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3pBb2ZTSFk5NmY4MVZlZjN4dkxScVhfcGV3UXZwUWFiMmQ3OGxRYnlGczItLWRfYlBkb01UR3QxVzdsYWNMdWdTZWd3OVZ6ZzNDbDEteVl2R1QtRURfWWJSY2hJSkl5UTUzTXdVTmhLcVU0ZlpXcmtiVkphb1BiRWJRZFplOWZ6WkZ6Qk9tRlUtOU1FT2JMWk9iMzF2TVNCVkgxX3dzVkZXYjloQ3hjd0QxZVcxZ3FxUnNLeFY5OHVaYVRfN01LUjFR0gHPAUFVX3lxTE9WOWNtRlFia3lqaGRFNUxBekdIRkQwSmFJU0NEelMyNG53eDlra1l0SUFCMjZGaW9DdnhKLUNFM3p1NXFJWmxTdi01TVFDWnBBTlU1TV9OTEVkc3RBZ284aW9fQUlCUi1qOUYwWVR2WUpfcndIQXdvRW81dG5OdUtkekJYWGNJY25FTHFDWUoyUVJoalY3bUUyZmNETVdTVDJUZTN3QTFqQnQ4S3hvdk04dnNYRk9xNHp4NENnUXZ1RG8wVHlPVmJWWk41aXZIRQ?oc=5",
-      "data": "23/08 12:11"
+      "titulo": "Fluminense bate o martelo e define novo comandante - Galáticos Online",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXFDSEt3SWZNeEUtQnZ4QWRENUJkWUFHQzRYdzZIYjBXNTB0UUI0eTZkbXo1SGh4VVJTcUY1N1BNeVJPRGNzLTg5REJ0NVVYaWhMbEczQUFDcnFLTWF1Smhmd3BLUUVsVTBwaW5ONU4zdXVDRXN5NVllbE12VURyLXVfMVhveTRQV2lkamw4RjhVRlZmNlctZkRFWXhYZ3FFWUdsaDV4WE9TZExm?oc=5",
+      "data": "23/08 16:07"
     },
     {
-      "titulo": "Metade dos gols de Hulk na Série A foram contra o Remo e marcados por dois clubes diferentes | Esportes | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUFFKbXliMVE3elhHeWFXWkl6cmdMQndUWWE0QzNHRnJYTmFfeWFnZEFoY20tVzgwSHZ5LVNkdkc3aGs3X01PTVVHWEk3TldLYkphM0NWWTJ3U3dvaUZlVUk1SG9Jb2VfOXExOHNzNGZVdlN5ZmxfNi1OSi1jaUFiZ3lGU0VKcHNQMTFyemVoMWJqNUYtUXRTOHFOLTU0R3Y4ZU9SMVJHanh2N21UWUZ4eDMxRTBEQ19rYWtEOTVhUFI4UUhSTzNRS3BialZMRTFwT1HSAdcBQVVfeXFMT2ZZN0hLY0F4N2tKQmg4MUVaQVdsNnVSc2ctSWNyYnhYLXFiOTFSUlY4Z25qMVlmYk13a1BreDFhRlN3SjIzVVdXRDcxVHBGNzhjYXM3b1YwSW5fUkNRZUM4SE44cEhRQlpGcmVybURNcEN1MHQzZjZhTUJNUE1oN3h4ZllLNjJfRG9wZDVOSjBYZUdRZE1XRjN4NTU0eE1TcTRSRU9kcl9mN1VDWldaZEJvSW5YQjJBWDRHX3RBTHF4ejUyaFpJTUtZSG4ySUVqbXBxYXJlNUk?oc=5",
-      "data": "23/08 14:06"
+      "titulo": "“Esquecido” com Zubeldía, Riquelme ressurge e atinge marca pessoal no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2paLUhXcVZyVU41cDJoT2N0OXg3em1mZW9wTFE5NWRESmdRMlhXYVh4NlFOSlI3endQUWpwZERfZW4wVGJxWUtxWXpETGdNWDdPRFpXbDg3VVB0SmxxMEZvTloyMnZSOWNwbW94TkpObjNTeUp1QV85V2tObFQ4ZDUwamRFQ0JGeWpIR2Vva2o5OWprQ2tWVmNzWWlmaWNEdmt5TlNwdw?oc=5",
+      "data": "23/08 15:00"
     }
   ],
   "avisos": []
