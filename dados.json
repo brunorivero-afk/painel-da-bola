@@ -1,26 +1,15 @@
 {
-  "atualizado_em": "23/08/2026 14:16",
+  "atualizado_em": "23/08/2026 15:21",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-23",
-      "time": "12:30",
-      "competition": "Campeonato Inglês",
-      "match": "Newcastle x Liverpool",
+      "time": "14:00",
+      "competition": "Campeonato Russo",
+      "match": "Spartak Moscow x Zenit Saint",
       "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Trabzonspor x Istanbul Basaksehir",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
+        "XSPORTS",
+        "BANDSPORTS"
       ]
     },
     {
@@ -31,17 +20,6 @@
       "match": "Santa Clara x Famalicão",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "14:00",
-      "competition": "Campeonato Russo",
-      "match": "Spartak Moscow x Zenit Saint",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
       ]
     },
     {
@@ -98,45 +76,31 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Vasco",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Barra",
       "channels": [
-        "GLOBO",
-        "PREMIERE 2",
-        "PREMIERE FC",
-        "GE TV"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Grêmio",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Amazonas",
       "channels": [
-        "GLOBO",
-        "PREMIERE 3"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Bahia",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Figueirense",
       "channels": [
-        "GLOBO",
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Avai",
-      "channels": [
-        "DISNEY+"
+        "SPORTYNET",
+        "CANAL DO BENJA"
       ]
     },
     {
@@ -155,31 +119,45 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Figueirense",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Avai",
       "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Amazonas",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Bahia",
       "channels": [
-        "SPORTYNET"
+        "GLOBO",
+        "PREMIERE 4"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Barra",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Vasco",
       "channels": [
-        "SPORTYNET"
+        "GLOBO",
+        "PREMIERE 2",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Grêmio",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 3"
       ]
     },
     {
@@ -539,6 +517,28 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "12:30",
+      "competition": "Campeonato Inglês",
+      "match": "Newcastle x Liverpool",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "13:00",
+      "competition": "Campeonato Turco",
+      "match": "Trabzonspor x Istanbul Basaksehir",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-24",
       "time": "13:40",
       "competition": "Campeonato Saudita",
@@ -607,16 +607,6 @@
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-23",
-      "time": "14:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Montreal, Canadá",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -702,19 +692,19 @@
       "data": "21/08 14:05"
     },
     {
-      "titulo": "Marcão revela ter discordado de Zubeldía e explica escolha por Ganso no Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlpEZm1JY2RtT1hRVDJnc2g4TVQwdzVsamtCQUNnNi1lNEczZGZGY2JXbkdNNFI1RnhaQmZmc3Vjb05taFhpZjVxM0xlLXhaSWphaWI2T2Vpa25RZUhfellDYzMtdEFVaEVLYThYZ2JnWnAtaHBkVUFUakt6ZHpnZDlhbmNQRUNKRDNPZ09Md1NUNWRXZEN6X0wxQXFyQVFhcFNHNzQzN3J0VUFBaGc?oc=5",
-      "data": "23/08 12:57"
-    },
-    {
-      "titulo": "Fluminense bate o martelo e define novo comandante - Galáticos Online",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXFDSEt3SWZNeEUtQnZ4QWRENUJkWUFHQzRYdzZIYjBXNTB0UUI0eTZkbXo1SGh4VVJTcUY1N1BNeVJPRGNzLTg5REJ0NVVYaWhMbEczQUFDcnFLTWF1Smhmd3BLUUVsVTBwaW5ONU4zdXVDRXN5NVllbE12VURyLXVfMVhveTRQV2lkamw4RjhVRlZmNlctZkRFWXhYZ3FFWUdsaDV4WE9TZExm?oc=5",
-      "data": "23/08 16:07"
+      "titulo": "Ex-Fluminense é oferecido e pode assinar com o São Paulo de Rafinha - Nação Tricolor",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b3VQUDI4RTZhN1NHc1FCV0ZNZ241Ung2NzFRMWVyaUxsQVctd2lNWFR6WVlFdWZqZWVJMVhlMlkteFBrSUl0aDBJYnJSTlVKejBhYVQ3b19iUGpwRlZFUUZUTk5jbzJyMUZidW5oR1BzOG4yQ3FGOVprS2M5bXc?oc=5",
+      "data": "23/08 17:44"
     },
     {
       "titulo": "“Esquecido” com Zubeldía, Riquelme ressurge e atinge marca pessoal no Fluminense - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2paLUhXcVZyVU41cDJoT2N0OXg3em1mZW9wTFE5NWRESmdRMlhXYVh4NlFOSlI3endQUWpwZERfZW4wVGJxWUtxWXpETGdNWDdPRFpXbDg3VVB0SmxxMEZvTloyMnZSOWNwbW94TkpObjNTeUp1QV85V2tObFQ4ZDUwamRFQ0JGeWpIR2Vva2o5OWprQ2tWVmNzWWlmaWNEdmt5TlNwdw?oc=5",
       "data": "23/08 15:00"
+    },
+    {
+      "titulo": "Fluminense bate o martelo e define novo comandante - Galáticos Online",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXFDSEt3SWZNeEUtQnZ4QWRENUJkWUFHQzRYdzZIYjBXNTB0UUI0eTZkbXo1SGh4VVJTcUY1N1BNeVJPRGNzLTg5REJ0NVVYaWhMbEczQUFDcnFLTWF1Smhmd3BLUUVsVTBwaW5ONU4zdXVDRXN5NVllbE12VURyLXVfMVhveTRQV2lkamw4RjhVRlZmNlctZkRFWXhYZ3FFWUdsaDV4WE9TZExm?oc=5",
+      "data": "23/08 16:06"
     }
   ],
   "avisos": []
