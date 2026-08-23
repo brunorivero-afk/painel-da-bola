@@ -1,38 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 19:16",
+  "atualizado_em": "23/08/2026 20:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "17:30",
-      "competition": "MLS",
-      "match": "New England x New York City FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "FBC Melgar x Alianza Lima",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Vila Nova",
-      "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -123,20 +91,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "20:00",
-      "competition": "MLS",
-      "match": "Atlanta United FC x Sporting Kansas City",
+      "competition": "MLS Next Pro",
+      "match": "Crown Legacy x Chattanooga",
       "channels": [
-        "APPLE TV"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Crown Legacy x Chattanooga",
+      "competition": "MLS",
+      "match": "Atlanta United FC x Sporting Kansas City",
       "channels": [
-        "ONEFOOTBALL"
+        "APPLE TV"
       ]
     },
     {
@@ -382,20 +350,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x Cienciano",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Wanderers",
       "channels": [
-        "FANATIZ"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Wanderers",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x Cienciano",
       "channels": [
-        "DISNEY+"
+        "FANATIZ"
       ]
     },
     {
@@ -412,45 +380,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Avai",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "RB Bragantino x Grêmio",
       "channels": [
         "GLOBO",
         "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Vasco",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 2",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Bahia",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 4"
       ]
     },
     {
@@ -499,6 +433,40 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Avai",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Bahia",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Vasco",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 2",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
       "time": "16:30",
       "competition": "Campeonato Português",
       "match": "FC Porto x Arouca",
@@ -534,6 +502,38 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Argentino",
       "match": "Belgrano Cordoba x Defensa Y Justicia",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "FBC Melgar x Alianza Lima",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "17:30",
+      "competition": "MLS",
+      "match": "New England x New York City FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Vila Nova",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
         "DISNEY+"
       ]
     },
@@ -657,25 +657,27 @@ window.PAINEL_DATA = {
       "data": "22/08 21:42"
     },
     {
-      "titulo": "Santos pode aplicar chapéu no São Paulo de Dorival para fechar com meia - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXY2Uko0MWo5QktIMHFmLXVUSllmczNhZVZ2YlBsMnNHN3pvd1U5NnJjLXBUcHl2WEI4cG5RR2xwYmV6MS1GRlJ5TjltZXluVFdoeXM0TFBHdXdzVEhDQUxsdlhHRUhRd2QzY0pBM20?oc=5",
-      "data": "23/08 18:27"
+      "titulo": "Marcão fala pela primeira vez como técnico efetivo do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdDFjTnQ2dWhNWldYYjFDcXBQLXBrbUR1dm5PY0ZidGVKbF9VSm9UM2RXenFrSzNJR3BFR092M0ttRUx2UjVxZHpEdVFIcGdwTWpMMk5JdWxEb2FtU1l0QnhpSnBMbjZsRmNrc19rQnN1a1poOG9rdGNOaEhqZzRhX2tOaXVKZWFfT0hNWWt6UlFGRTBfWnpiTlI4ZDFKUjA2cm1rWWVzQlhIbGY4Y0E5Qmc1NzdfNHprRTVFY2dueU0tb01xd2JMbl92eDRac3RoclJHOTJKNmZaeHJKYmYwdVM2MF84WGpZa0Fr?oc=5",
+      "data": "23/08 22:58"
     },
     {
-      "titulo": "Aprovado? Veja os números de Fidelis em Fluminense x Remo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY1gxVkR5ejhqVldRYkNYYVkzT2RxUUt4Z2tvQUwwRkFVSW9CX0xWekJ0d0U4dm9vanNyVVJBVEpRXzJQM0pZci15VUJDdjNoRzZtOXNJc21xSTdrVVpVcWlkbnpOcEd4aUNqQXJibGpwc1hrTFh6bndUMUVpeS1UZkVmMnc2eC1DU2tj?oc=5",
-      "data": "23/08 17:30"
+      "titulo": "Fluminense domina como mandante no Brasileirão e iguala Palmeiras em marca nesta década - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQVZDQUE4ZmhiWFFIbm1LcC1PcFRGcEJ4WEJraHpzcmxtTktDLXB1Mk8wQ1ZBSG9yRXZ4MkE3YjhvLWh1WVhiaS1VbWNLN1pnT3RaOFVyZDlTbEwxd3F1bVB2dGRJQ0Y1WHpCcmFER0hzSUN1aEItSXFrdnBEQ2k5d05NV0dkc1lSYUphSmpmYTJtTUNoR2plZ3VpQlcwVWtNUzE0bkZxLU16d1cwbVlNUnlzTUY?oc=5",
+      "data": "23/08 18:30"
     },
     {
-      "titulo": "Ex-Fluminense é oferecido e pode assinar com o São Paulo de Rafinha - Nação Tricolor",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b3VQUDI4RTZhN1NHc1FCV0ZNZ241Ung2NzFRMWVyaUxsQVctd2lNWFR6WVlFdWZqZWVJMVhlMlkteFBrSUl0aDBJYnJSTlVKejBhYVQ3b19iUGpwRlZFUUZUTk5jbzJyMUZidW5oR1BzOG4yQ3FGOVprS2M5bXc?oc=5",
-      "data": "23/08 17:44"
+      "titulo": "Marcão fala sobre responsabilidade de ser técnico do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOW1yRWlURF9BaFFSenpLQjVwYmVpZGs4ODY0N2hTM2szUkQ4OEY1Nl9aNV9RMDZ1bXl5WVlCemxlOGtPMS1ORkdIUi0tLUdrLWtRSk0xOVl5b2dndGNaY1J2MXI2SXh1RFd0NFRWQUpfSGxhcGw5V1ZVeks1cGNYX1daNk9FTldUd2lGQ1lYWS1NY1E2?oc=5",
+      "data": "23/08 21:31"
     },
     {
-      "titulo": "Brasileirão: Fluminense supera vaias, vira sobre o Remo e continua invicto com Marcão - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBlZS1hZWRaR3pndVJEZ2tnclhKUF9FVlBTMWhBbUxwV25DbHpOemVXbVZnUndFMFRVbkpzeFVlQWVOamNwczh6aXVYRWZEeVZfajh3aHlnbTRsT2xIcERMUUY4ZEl6ZzBLem5yTmVlUWVHZnZ1TFdXZy00eGNhY25yVjdJLXdnWjFOQzViZkhyME9VUGdha1VaMkE4dmxaUl9ETW5aUFBYZlpPZDZoUzZFbFI2RWZrRTdz?oc=5",
-      "data": "22/08 20:54"
+      "titulo": "Atuações do Fluminense: Hulk faz o melhor jogo com a camisa tricolor; dê suas notas - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZV9ianVOdjFjWUdIT05selNYQ3BTaGlXN2R4R3BwQ1U0dHExZEtNS1JqOVhab2JlaWJ4djZGR0tJcXVUSmh1ZnNuQ0FCWHpPVm1DWWw0dlpCaHRvbWFQOVBWUmx0LTNvUWpPTkduTklTWXhHNF96OW8xUUQxWXdpSnA4NGFBeDdOc25JcVJnSmlrUDY1VmlMRGdGTFVDWDhTM0M0b0ZmTi1rbjVLZlFOdUJHRHd0Z254VFZNWUhwUjI4RnAyb0JFOFBScFl6REFRRVNQRG84Y3NVZlBSeV9FQ3dEem4wOEw3LUZfbW1FOWJQa25zb0ZwZEtCWdIBigJBVV95cUxNZzNxZko1Qy14cG9YbG8tWnhiU0tNTF9GWTY3UXZ1dm14blVrX0hYT1h1TG5SNWVrZGxZOU5jRi1iZE4ycHU0dll1cFpZTEU1ZlducGNUa1cyWmFTNmZPM2dMcF9Rb3pyb1dPVENqZTFpX1VCTWpaand4bnRVbVo1aVFNbWZDTHFzN3BXcl9qNkNYZDhoanJDLUVJcGdWQTkwOE5qSE9lVHA3WTdEZW42TTVuNXdBU251THJoeDdPb0lYQ3BCVmFDQTBWMWRWdnR5TGJaLW1fQ2J6S0Rmd3g2YmpFdWdKd0pkNkl6VDl2OEk4RklFc281NElqYU5kR0VheXN1VzJwWXRHUQ?oc=5",
+      "data": "22/08 21:02"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+  ]
 };
