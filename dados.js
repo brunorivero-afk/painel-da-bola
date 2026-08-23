@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 09:30",
+  "atualizado_em": "23/08/2026 10:28",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "08:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "West Brom x Burnley",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -192,54 +181,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Amazonas",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Barra",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Figueirense",
-      "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Náutico",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "Vitória x Bahia",
+      "match": "RB Bragantino x Grêmio",
       "channels": [
         "GLOBO",
-        "PREMIERE 4"
+        "PREMIERE 3"
       ]
     },
     {
@@ -260,10 +206,10 @@ window.PAINEL_DATA = {
       "date": "2026-08-23",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Grêmio",
+      "match": "Vitória x Bahia",
       "channels": [
         "GLOBO",
-        "PREMIERE 3"
+        "PREMIERE 4"
       ]
     },
     {
@@ -279,11 +225,44 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-23",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Elche x Barcelona",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Náutico",
       "channels": [
-        "YOUTUBE"
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Figueirense",
+      "channels": [
+        "SPORTYNET",
+        "CANAL DO BENJA"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Amazonas",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Barra",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -295,6 +274,16 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN 4",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Elche x Barcelona",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -353,6 +342,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Progreso",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "18:30",
       "competition": "Brasileirão Série B",
       "match": "Criciúma x Fortaleza",
       "channels": [
@@ -366,18 +365,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Progreso",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "18:30",
       "competition": "Brasileirão Série C",
-      "match": "Maranhão x Itabaiana",
+      "match": "Ypiranga-RS x Ferroviária",
       "channels": [
         "SPORTYNET"
       ]
@@ -387,7 +376,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-23",
       "time": "18:30",
       "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Ferroviária",
+      "match": "Maranhão x Itabaiana",
       "channels": [
         "SPORTYNET"
       ]
@@ -439,18 +428,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "20:00",
-      "competition": "MLS",
-      "match": "Atlanta United FC x Sporting Kansas City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Crown Legacy x Chattanooga",
+      "match": "St. Louis City II x Houston Dynamo FC II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -480,9 +459,19 @@ window.PAINEL_DATA = {
       "date": "2026-08-23",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Houston Dynamo FC II",
+      "match": "Crown Legacy x Chattanooga",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
+      "competition": "MLS",
+      "match": "Atlanta United FC x Sporting Kansas City",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -535,6 +524,17 @@ window.PAINEL_DATA = {
       "match": "Cruz Azul x Atlas",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "08:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "West Brom x Burnley",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -607,16 +607,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-23",
-      "time": "09:20",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Sorriso, MT",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -752,19 +742,19 @@ window.PAINEL_DATA = {
       "data": "21/08 14:05"
     },
     {
-      "titulo": "Fluminense confirma Marcão como técnico efetivo até o final da temporada - correiobraziliense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3pBb2ZTSFk5NmY4MVZlZjN4dkxScVhfcGV3UXZwUWFiMmQ3OGxRYnlGczItLWRfYlBkb01UR3QxVzdsYWNMdWdTZWd3OVZ6ZzNDbDEteVl2R1QtRURfWWJSY2hJSkl5UTUzTXdVTmhLcVU0ZlpXcmtiVkphb1BiRWJRZFplOWZ6WkZ6Qk9tRlUtOU1FT2JMWk9iMzF2TVNCVkgxX3dzVkZXYjloQ3hjd0QxZVcxZ3FxUnNLeFY5OHVaYVRfN01LUjFR0gHPAUFVX3lxTE9WOWNtRlFia3lqaGRFNUxBekdIRkQwSmFJU0NEelMyNG53eDlra1l0SUFCMjZGaW9DdnhKLUNFM3p1NXFJWmxTdi01TVFDWnBBTlU1TV9OTEVkc3RBZ284aW9fQUlCUi1qOUYwWVR2WUpfcndIQXdvRW81dG5OdUtkekJYWGNJY25FTHFDWUoyUVJoalY3bUUyZmNETVdTVDJUZTN3QTFqQnQ4S3hvdk04dnNYRk9xNHp4NENnUXZ1RG8wVHlPVmJWWk41aXZIRQ?oc=5",
-      "data": "23/08 12:11"
-    },
-    {
       "titulo": "Marcão projeta o futuro do Fluminense: 'Foi construída uma equipe para isso' - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUUpWbFlmTFVxenpKaGlKT3hxd3VTTldBalpWZGlwaFYtNFdqVGQ5UFh2aUFxc1oybkhheG5jMFl4YVFxeWwybXFiRl9hSWRrdHgyeXlhY0ZlOGlmQnI1SmlaVkZkYV9XMFgyQ1BnOUItalRtcDFoRE5BTUkwVTBjMGJ0akh2NmswZW41UkZxS054bjFwa0NoUlU1b0hYbXF4cVdtakMySFlBUGl0STlBQk9rQW5vUmtYOW10d1d6NzJCMXI5YmlmQVV6bjRmQUV0WkN2QVQyWVd6UkZ6X2NaM2RIdGdTYi0tMDhCZ1dCeWVMbzdUYUE?oc=5",
       "data": "23/08 09:27"
     },
     {
-      "titulo": "Riquelme: jovem brilha em virada do Fluminense e volta a ser opção - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSFZvMUxzX2k3enoxbnI1RmRkbkd6ZW5rRG1EdlpqR1RKZERUcVEwRDBLYTdJQlRFZkQtYjd0RENLNXd0bGNUdEtzZzhadi03OUhJZldZRFFjbjFHcEprc1FnTXYwSTA5VVp3YmIwc2JjR1VuZThvMEZNbzlheVZUMWp1Q29YUVR3MFo2M2VuZWxXY3laM0h6N1dJSDh5czAxNUJ5czcycENET0xDdmRrRkNRZ3JhUE9zS2N6WFV6LU1BV2dIMldBSXljTVBqczFOQnRsYUtPLUNHcEtwTGRSZG8xNnZmNm1teUVxT0NvUQ?oc=5",
-      "data": "23/08 12:00"
+      "titulo": "Fluminense confirma Marcão como técnico efetivo até o final da temporada - correiobraziliense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3pBb2ZTSFk5NmY4MVZlZjN4dkxScVhfcGV3UXZwUWFiMmQ3OGxRYnlGczItLWRfYlBkb01UR3QxVzdsYWNMdWdTZWd3OVZ6ZzNDbDEteVl2R1QtRURfWWJSY2hJSkl5UTUzTXdVTmhLcVU0ZlpXcmtiVkphb1BiRWJRZFplOWZ6WkZ6Qk9tRlUtOU1FT2JMWk9iMzF2TVNCVkgxX3dzVkZXYjloQ3hjd0QxZVcxZ3FxUnNLeFY5OHVaYVRfN01LUjFR0gHPAUFVX3lxTE9WOWNtRlFia3lqaGRFNUxBekdIRkQwSmFJU0NEelMyNG53eDlra1l0SUFCMjZGaW9DdnhKLUNFM3p1NXFJWmxTdi01TVFDWnBBTlU1TV9OTEVkc3RBZ284aW9fQUlCUi1qOUYwWVR2WUpfcndIQXdvRW81dG5OdUtkekJYWGNJY25FTHFDWUoyUVJoalY3bUUyZmNETVdTVDJUZTN3QTFqQnQ4S3hvdk04dnNYRk9xNHp4NENnUXZ1RG8wVHlPVmJWWk41aXZIRQ?oc=5",
+      "data": "23/08 12:11"
+    },
+    {
+      "titulo": "Brasileirão: Fluminense supera vaias, vira sobre o Remo e continua invicto com Marcão - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBlZS1hZWRaR3pndVJEZ2tnclhKUF9FVlBTMWhBbUxwV25DbHpOemVXbVZnUndFMFRVbkpzeFVlQWVOamNwczh6aXVYRWZEeVZfajh3aHlnbTRsT2xIcERMUUY4ZEl6ZzBLem5yTmVlUWVHZnZ1TFdXZy00eGNhY25yVjdJLXdnWjFOQzViZkhyME9VUGdha1VaMkE4dmxaUl9ETW5aUFBYZlpPZDZoUzZFbFI2RWZrRTdz?oc=5",
+      "data": "22/08 20:54"
     }
   ],
   "avisos": []
