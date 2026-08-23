@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 02:23",
+  "atualizado_em": "23/08/2026 03:32",
   "jogos": [
     {
       "sport": "futebol",
@@ -479,6 +479,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Houston Dynamo FC II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
       "competition": "Campeonato Mexicano",
       "match": "Atletico San Luis x Pachuca",
       "channels": [
@@ -491,16 +501,6 @@ window.PAINEL_DATA = {
       "time": "21:00",
       "competition": "MLS Next Pro",
       "match": "Colorado Rapids II x Real Monarchs",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Houston Dynamo FC II",
       "channels": [
         "ONEFOOTBALL"
       ]
