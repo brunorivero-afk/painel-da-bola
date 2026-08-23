@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 04:29",
+  "atualizado_em": "23/08/2026 05:23",
   "jogos": [
     {
       "sport": "futebol",
