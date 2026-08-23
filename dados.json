@@ -1,724 +1,6 @@
 {
-  "atualizado_em": "22/08/2026 23:57",
+  "atualizado_em": "23/08/2026 00:51",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "21:45",
-      "competition": "MLS Next Pro",
-      "match": "North Texas x Minnesota United II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "22:00",
-      "competition": "MLS",
-      "match": "Austin x Philadelphia Union",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Whitecaps x FC Dallas",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "San Jose Earthquakes x Minnesota United FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "San Diego x Colorado Rapids",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Los Angeles FC x Portland Timbers",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "08:30",
-      "competition": "Campeonato Inglês",
-      "match": "Hull City x Manchester United",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Everton x Crystal Palace",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Ipswich x Sunderland",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Nottingham Forest x Leeds",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "West Ham x Charlton",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Juventud",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "11:30",
-      "competition": "Campeonato Holandês",
-      "match": "Fortuna Sittard x AZ Alkmaar",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "SCR Altach x TSV Hartberg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "12:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Athletic Club x Sevilla",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Huancayo x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Brentford x Tottenham",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "14:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Orlando City II",
-      "channels": [
-        "ESPN",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "14:15",
-      "competition": "Campeonato Russo",
-      "match": "CSKA Moscow x Lokomotiv Moscow",
-      "channels": [
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Celta Vigo",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Sturm Graz x Austria Lustenau",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Santo André x EC São Bernardo",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Linense x Bandeirante SP",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Defensor Sporting",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "XV de Piracicaba x Uniao Sao Joao",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Noroeste x Comercial",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Primavera SP x Paulista",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "São José EC x São Caetano",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Marília",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ahli Jeddah x Abha",
-      "channels": [
-        "BAND",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:15",
-      "competition": "Campeonato Peruano",
-      "match": "UTC x Comerciantes Unidos",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Fenerbahce x Konyaspor",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Remo",
-      "channels": [
-        "PREMIERE FC",
-        "PREMIERE 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Real Madrid",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Sporting CP x Alverca",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x ABC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Guarani",
-      "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ituano x Paysandu",
-      "channels": [
-        "BAND",
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Volta Redonda x Floresta",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x ADT",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Vitoria BA W x Santos (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Londrina",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Flamengo (F) x Atlético Mineiro (F)",
-      "channels": [
-        "TV BRASIL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Fluminense (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x Internacional (F)",
-      "channels": [
-        "SPORTV",
-        "SPORTV 2",
-        "GE TV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "América MG (F) x RB Bragantino (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Botafogo (F)",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Cruzeiro (F) x Palmeiras (F)",
-      "channels": [
-        "SPORTV",
-        "SPORTV 3",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "São Paulo (F) x Mixto W",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Juventude (F) x Bahia (F)",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York City II x New England II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Campeonato Argentino",
-      "match": "Independiente x Independ. Rivadavia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Internacional x Atlético-MG",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Goiás",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Caxias",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Anápolis",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "FC Cincinnati x Seattle Sounders",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Flamengo",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS Next Pro",
-      "match": "Carolina Core x FC Cincinnati II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "NWSL Feminina",
-      "match": "North Carolina Courage (F) x Boston Legacy (F)",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Charlotte x DC United",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x Real Salt Lake",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x Los Angeles Galaxy",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Inter Miami x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "21:00",
-      "competition": "Campeonato Peruano",
-      "match": "Deportivo Garcilaso x Cusco",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Nashville SC x Columbus Crew",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "St. Louis City x Houston Dynamo",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -1256,8 +538,80 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "13:40",
+      "competition": "Campeonato Saudita",
+      "match": "Neom x Al-Qadisiyah FC",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Osasuna x Levante",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "16:00",
+      "competition": "Campeonato Inglês",
+      "match": "Fulham x Chelsea",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Malaga x Deportivo La Coruna",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x Novorizontino",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Sport Recife x América-MG",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x Athletico PR",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "08:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Sorriso, MT",
@@ -1267,7 +621,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "09:20",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Sorriso, MT",
@@ -1277,7 +631,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "10:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Sorriso, MT",
@@ -1287,7 +641,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "11:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Montreal, Canadá",
@@ -1297,7 +651,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "12:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Montreal, Canadá",
@@ -1307,7 +661,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "13:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Montreal, Canadá",
@@ -1317,7 +671,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "14:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Montreal, Canadá",
@@ -1327,7 +681,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "16:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Montreal, Canadá",
@@ -1337,7 +691,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "17:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar - Montreal, Canadá",
@@ -1347,7 +701,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "18:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Montreal, Canadá",
@@ -1357,7 +711,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "19:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Montreal, Canadá",
@@ -1369,31 +723,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.1,
-      "temp_min": 19.3,
-      "chance_chuva": 98,
-      "condicao": "Garoa"
+      "temp_max": 22.7,
+      "temp_min": 18.5,
+      "chance_chuva": 44,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.2,
-      "temp_min": 20.0,
-      "chance_chuva": 100,
+      "temp_max": 21.7,
+      "temp_min": 18.6,
+      "chance_chuva": 49,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.7,
-      "temp_min": 15.7,
-      "chance_chuva": 100,
+      "temp_max": 20.0,
+      "temp_min": 14.1,
+      "chance_chuva": 73,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 15.9,
-      "temp_min": 12.6,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 19.9,
+      "temp_min": 12.5,
+      "chance_chuva": 93,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -1423,5 +777,7 @@
       "data": "22/08 22:45"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 }
