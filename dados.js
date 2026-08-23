@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 03:32",
+  "atualizado_em": "23/08/2026 04:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -723,36 +723,36 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.7,
-      "temp_min": 18.5,
+      "temp_max": 22.3,
+      "temp_min": 18.3,
       "chance_chuva": 44,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.7,
-      "temp_min": 18.6,
+      "temp_max": 22.1,
+      "temp_min": 18.5,
       "chance_chuva": 49,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 20.0,
-      "temp_min": 14.1,
+      "temp_min": 14.0,
       "chance_chuva": 73,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.9,
+      "temp_max": 19.8,
       "temp_min": 12.5,
       "chance_chuva": 93,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - GE",
+      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
       "data": "22/08 21:42"
     },
