@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "23/08/2026 12:17",
+  "atualizado_em": "23/08/2026 13:19",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -138,23 +128,10 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Vasco",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Avai",
       "channels": [
-        "GLOBO",
-        "PREMIERE 2",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Barra",
-      "channels": [
-        "SPORTYNET"
+        "DISNEY+"
       ]
     },
     {
@@ -172,10 +149,24 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Avai",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Vasco",
       "channels": [
-        "DISNEY+"
+        "GLOBO",
+        "PREMIERE 2",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Grêmio",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 3"
       ]
     },
     {
@@ -215,11 +206,10 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Grêmio",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Barra",
       "channels": [
-        "GLOBO",
-        "PREMIERE 3"
+        "SPORTYNET"
       ]
     },
     {
@@ -539,6 +529,16 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Racing Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-24",
       "time": "13:40",
       "competition": "Campeonato Saudita",
@@ -607,16 +607,6 @@
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-23",
-      "time": "12:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Montreal, Canadá",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
