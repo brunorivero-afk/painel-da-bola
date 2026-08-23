@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 07:18",
+  "atualizado_em": "23/08/2026 08:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -752,7 +752,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - ge",
+      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - GE",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
       "data": "22/08 21:42"
     },
