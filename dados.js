@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 08:16",
+  "atualizado_em": "23/08/2026 09:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -612,16 +612,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-23",
-      "time": "08:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar - Sorriso, MT",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-23",
       "time": "09:20",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Sorriso, MT",
@@ -724,35 +714,35 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.3,
-      "temp_min": 18.3,
-      "chance_chuva": 44,
+      "temp_min": 18.2,
+      "chance_chuva": 88,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.1,
-      "temp_min": 18.5,
-      "chance_chuva": 49,
-      "condicao": "Garoa"
+      "temp_min": 18.7,
+      "chance_chuva": 65,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 20.0,
-      "temp_min": 14.0,
-      "chance_chuva": 73,
+      "temp_min": 13.9,
+      "chance_chuva": 89,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.8,
-      "temp_min": 12.5,
-      "chance_chuva": 93,
-      "condicao": "Garoa"
+      "temp_max": 20.0,
+      "temp_min": 12.3,
+      "chance_chuva": 98,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - GE",
+      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
       "data": "22/08 21:42"
     },
@@ -762,19 +752,19 @@ window.PAINEL_DATA = {
       "data": "21/08 14:05"
     },
     {
+      "titulo": "Fluminense confirma Marcão como técnico efetivo até o final da temporada - correiobraziliense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3pBb2ZTSFk5NmY4MVZlZjN4dkxScVhfcGV3UXZwUWFiMmQ3OGxRYnlGczItLWRfYlBkb01UR3QxVzdsYWNMdWdTZWd3OVZ6ZzNDbDEteVl2R1QtRURfWWJSY2hJSkl5UTUzTXdVTmhLcVU0ZlpXcmtiVkphb1BiRWJRZFplOWZ6WkZ6Qk9tRlUtOU1FT2JMWk9iMzF2TVNCVkgxX3dzVkZXYjloQ3hjd0QxZVcxZ3FxUnNLeFY5OHVaYVRfN01LUjFR0gHPAUFVX3lxTE9WOWNtRlFia3lqaGRFNUxBekdIRkQwSmFJU0NEelMyNG53eDlra1l0SUFCMjZGaW9DdnhKLUNFM3p1NXFJWmxTdi01TVFDWnBBTlU1TV9OTEVkc3RBZ284aW9fQUlCUi1qOUYwWVR2WUpfcndIQXdvRW81dG5OdUtkekJYWGNJY25FTHFDWUoyUVJoalY3bUUyZmNETVdTVDJUZTN3QTFqQnQ4S3hvdk04dnNYRk9xNHp4NENnUXZ1RG8wVHlPVmJWWk41aXZIRQ?oc=5",
+      "data": "23/08 12:11"
+    },
+    {
       "titulo": "Marcão projeta o futuro do Fluminense: 'Foi construída uma equipe para isso' - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUUpWbFlmTFVxenpKaGlKT3hxd3VTTldBalpWZGlwaFYtNFdqVGQ5UFh2aUFxc1oybkhheG5jMFl4YVFxeWwybXFiRl9hSWRrdHgyeXlhY0ZlOGlmQnI1SmlaVkZkYV9XMFgyQ1BnOUItalRtcDFoRE5BTUkwVTBjMGJ0akh2NmswZW41UkZxS054bjFwa0NoUlU1b0hYbXF4cVdtakMySFlBUGl0STlBQk9rQW5vUmtYOW10d1d6NzJCMXI5YmlmQVV6bjRmQUV0WkN2QVQyWVd6UkZ6X2NaM2RIdGdTYi0tMDhCZ1dCeWVMbzdUYUE?oc=5",
       "data": "23/08 09:27"
     },
     {
-      "titulo": "Fluminense confirma Marcão como técnico efetivo até o final da temporada - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbnRBLWJmY1dBeTJKZ1dSRjgwOWEwUzhlaGhtcmVjbzhLUzNhQjBDMndvMUJJU01PWk95VkZMeHROOGFrOXBFbVJ4TnFOTjJkWGZMVGtsbnU0UUV6azV3MmpndTVxQ29Hb1JrRzJDNVNJb3IydFBNMHpxUlQ4RmFrQTBVZnpKT2FwRlkwaVh2d1pFdzVjU2QyY1ROTkJBb3JJY3I0ZlUxeWFqY29vTUYzMA?oc=5",
-      "data": "23/08 09:14"
-    },
-    {
-      "titulo": "Brasileirão: Fluminense supera vaias, vira sobre o Remo e continua invicto com Marcão - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBlZS1hZWRaR3pndVJEZ2tnclhKUF9FVlBTMWhBbUxwV25DbHpOemVXbVZnUndFMFRVbkpzeFVlQWVOamNwczh6aXVYRWZEeVZfajh3aHlnbTRsT2xIcERMUUY4ZEl6ZzBLem5yTmVlUWVHZnZ1TFdXZy00eGNhY25yVjdJLXdnWjFOQzViZkhyME9VUGdha1VaMkE4dmxaUl9ETW5aUFBYZlpPZDZoUzZFbFI2RWZrRTdz?oc=5",
-      "data": "22/08 20:54"
+      "titulo": "Riquelme: jovem brilha em virada do Fluminense e volta a ser opção - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSFZvMUxzX2k3enoxbnI1RmRkbkd6ZW5rRG1EdlpqR1RKZERUcVEwRDBLYTdJQlRFZkQtYjd0RENLNXd0bGNUdEtzZzhadi03OUhJZldZRFFjbjFHcEprc1FnTXYwSTA5VVp3YmIwc2JjR1VuZThvMEZNbzlheVZUMWp1Q29YUVR3MFo2M2VuZWxXY3laM0h6N1dJSDh5czAxNUJ5czcycENET0xDdmRrRkNRZ3JhUE9zS2N6WFV6LU1BV2dIMldBSXljTVBqczFOQnRsYUtPLUNHcEtwTGRSZG8xNnZmNm1teUVxT0NvUQ?oc=5",
+      "data": "23/08 12:00"
     }
   ],
   "avisos": []
