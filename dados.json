@@ -1,176 +1,6 @@
 {
-  "atualizado_em": "22/08/2026 20:15",
+  "atualizado_em": "22/08/2026 22:02",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Flamengo (F) x Atlético Mineiro (F)",
-      "channels": [
-        "TV BRASIL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Juventude (F) x Bahia (F)",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "São Paulo (F) x Mixto W",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Cruzeiro (F) x Palmeiras (F)",
-      "channels": [
-        "SPORTV",
-        "SPORTV 3",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Grêmio (F) x Botafogo (F)",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Vitoria BA W x Santos (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "América MG (F) x RB Bragantino (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x Internacional (F)",
-      "channels": [
-        "SPORTV",
-        "SPORTV 2",
-        "GE TV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Ferroviária (F) x Fluminense (F)",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Internacional x Atlético-MG",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Campeonato Argentino",
-      "match": "Independiente x Independ. Rivadavia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Goiás",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Caxias",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Confiança x Anápolis",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "FC Cincinnati x Seattle Sounders",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-22",
@@ -187,6 +17,16 @@
       "time": "20:30",
       "competition": "MLS",
       "match": "Inter Miami x Toronto FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "FC Cincinnati x Seattle Sounders",
       "channels": [
         "APPLE TV"
       ]
@@ -502,8 +342,9 @@
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
-      "match": "Noroeste x Comercial",
+      "match": "Gremio Prudente x Marília",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -542,6 +383,16 @@
       "date": "2026-08-22",
       "time": "15:00",
       "competition": "Copa Paulista",
+      "match": "Noroeste x Comercial",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "15:00",
+      "competition": "Copa Paulista",
       "match": "Primavera SP x Paulista",
       "channels": [
         "YOUTUBE"
@@ -553,17 +404,6 @@
       "time": "15:00",
       "competition": "Copa Paulista",
       "match": "São José EC x São Caetano",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Marília",
       "channels": [
         "YOUTUBE",
         "YOUTUBE"
@@ -647,16 +487,6 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x ABC",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-22",
-      "time": "17:00",
       "competition": "Brasileirão Série C",
       "match": "Botafogo PB x Guarani",
       "channels": [
@@ -691,11 +521,85 @@
     {
       "sport": "futebol",
       "date": "2026-08-22",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x ABC",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
       "time": "17:30",
       "competition": "Campeonato Peruano",
       "match": "Juan Pablo II College x ADT",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Flamengo (F) x Atlético Mineiro (F)",
+      "channels": [
+        "TV BRASIL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "Ceará x Londrina",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Vitoria BA W x Santos (F)",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Ferroviária (F) x Fluminense (F)",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Corinthians (F) x Internacional (F)",
+      "channels": [
+        "SPORTV",
+        "SPORTV 2",
+        "GE TV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "América MG (F) x RB Bragantino (F)",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -712,11 +616,107 @@
       "sport": "futebol",
       "date": "2026-08-22",
       "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Londrina",
+      "competition": "Brasileirão Feminino",
+      "match": "Juventude (F) x Bahia (F)",
       "channels": [
-        "ESPN",
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "São Paulo (F) x Mixto W",
+      "channels": [
+        "NSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Cruzeiro (F) x Palmeiras (F)",
+      "channels": [
+        "SPORTV",
+        "SPORTV 3",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Grêmio (F) x Botafogo (F)",
+      "channels": [
+        "NSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Penãrol",
+      "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Goiás",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:30",
+      "competition": "Campeonato Argentino",
+      "match": "Independiente x Independ. Rivadavia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Internacional x Atlético-MG",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Confiança x Anápolis",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-22",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Caxias",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -1258,16 +1258,6 @@
     {
       "sport": "volei",
       "date": "2026-08-22",
-      "time": "20:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal - Sorriso, MT",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-22",
       "time": "21:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal - Sorriso, MT",
@@ -1390,28 +1380,28 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.1,
-      "temp_min": 19.5,
+      "temp_min": 19.3,
       "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.2,
-      "temp_min": 20.3,
+      "temp_min": 20.0,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.7,
-      "temp_min": 15.9,
+      "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 15.9,
-      "temp_min": 12.5,
+      "temp_min": 12.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
@@ -1423,9 +1413,9 @@
       "data": "22/08 09:00"
     },
     {
-      "titulo": "Fluminense x Remo: onde assistir, horário e escalação do jogo do Brasileirão - Olhar Digital",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZVo2TjQyTUlHMllSNFZxZUtvWlRZZWktdUtVZEEzRlNwd2hMYkNDWGdYd0MyX2hPa3gzNk5Iczg3eVNiSHhtLV9OcWhUM3FkTWdpSWdpZE1FUXFJa1NFb1pWVUsyOXJTNFk4dngzblNtaThRVTRfZHdTdkxkTk5IVEVWZEhmazAxQks1endqUFk1T2syZDgwQUllWktWaGV2WXFXSG5EYzFjUHU1dGd3Q3g3UVlpYUlVeWdlNW5TVGoxQm1HZ0R1UzZQWGZUTi0xMjJGRnpR?oc=5",
-      "data": "22/08 08:00"
+      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
+      "data": "22/08 06:00"
     },
     {
       "titulo": "NOTA – MARCÃO - fluminense.com.br",
