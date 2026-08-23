@@ -1,27 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 15:21",
+  "atualizado_em": "23/08/2026 16:18",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "14:00",
-      "competition": "Campeonato Russo",
-      "match": "Spartak Moscow x Zenit Saint",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Santa Clara x Famalicão",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -77,42 +56,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-23",
       "time": "16:00",
       "competition": "Brasileirão Série C",
-      "match": "Maringá x Barra",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
       "match": "Brusque x Amazonas",
       "channels": [
         "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Figueirense",
-      "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Náutico",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
       ]
     },
     {
@@ -158,6 +104,39 @@ window.PAINEL_DATA = {
       "channels": [
         "GLOBO",
         "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Náutico",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Figueirense",
+      "channels": [
+        "SPORTYNET",
+        "CANAL DO BENJA"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Barra",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -237,6 +216,19 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Fortaleza",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "18:30",
       "competition": "Brasileirão Série A",
       "match": "Chapecoense-sc x São Paulo",
       "channels": [
@@ -253,19 +245,6 @@ window.PAINEL_DATA = {
       "match": "Santos x Mirassol",
       "channels": [
         "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Fortaleza",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "DISNEY+"
       ]
     },
     {
@@ -539,6 +518,27 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "14:00",
+      "competition": "Campeonato Português",
+      "match": "Santa Clara x Famalicão",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "14:00",
+      "competition": "Campeonato Russo",
+      "match": "Spartak Moscow x Zenit Saint",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-24",
       "time": "13:40",
       "competition": "Campeonato Saudita",
@@ -653,28 +653,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.3,
+      "temp_max": 22.9,
       "temp_min": 18.2,
       "chance_chuva": 88,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.1,
+      "temp_max": 22.3,
       "temp_min": 18.7,
       "chance_chuva": 65,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.0,
+      "temp_max": 19.3,
       "temp_min": 13.9,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.0,
+      "temp_max": 20.1,
       "temp_min": 12.3,
       "chance_chuva": 94,
       "condicao": "Garoa fraca"
@@ -682,14 +682,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
-      "data": "23/08 09:00"
+      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - GE",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
+      "data": "22/08 21:42"
     },
     {
-      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
-      "data": "21/08 14:05"
+      "titulo": "Santos pode aplicar chapéu no São Paulo de Dorival para fechar com meia - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXY2Uko0MWo5QktIMHFmLXVUSllmczNhZVZ2YlBsMnNHN3pvd1U5NnJjLXBUcHl2WEI4cG5RR2xwYmV6MS1GRlJ5TjltZXluVFdoeXM0TFBHdXdzVEhDQUxsdlhHRUhRd2QzY0pBM20?oc=5",
+      "data": "23/08 18:27"
     },
     {
       "titulo": "Ex-Fluminense é oferecido e pode assinar com o São Paulo de Rafinha - Nação Tricolor",
@@ -702,9 +702,9 @@ window.PAINEL_DATA = {
       "data": "23/08 15:00"
     },
     {
-      "titulo": "Fluminense bate o martelo e define novo comandante - Galáticos Online",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXFDSEt3SWZNeEUtQnZ4QWRENUJkWUFHQzRYdzZIYjBXNTB0UUI0eTZkbXo1SGh4VVJTcUY1N1BNeVJPRGNzLTg5REJ0NVVYaWhMbEczQUFDcnFLTWF1Smhmd3BLUUVsVTBwaW5ONU4zdXVDRXN5NVllbE12VURyLXVfMVhveTRQV2lkamw4RjhVRlZmNlctZkRFWXhYZ3FFWUdsaDV4WE9TZExm?oc=5",
-      "data": "23/08 16:06"
+      "titulo": "Brasileirão: Fluminense supera vaias, vira sobre o Remo e continua invicto com Marcão - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBlZS1hZWRaR3pndVJEZ2tnclhKUF9FVlBTMWhBbUxwV25DbHpOemVXbVZnUndFMFRVbkpzeFVlQWVOamNwczh6aXVYRWZEeVZfajh3aHlnbTRsT2xIcERMUUY4ZEl6ZzBLem5yTmVlUWVHZnZ1TFdXZy00eGNhY25yVjdJLXdnWjFOQzViZkhyME9VUGdha1VaMkE4dmxaUl9ETW5aUFBYZlpPZDZoUzZFbFI2RWZrRTdz?oc=5",
+      "data": "22/08 20:54"
     }
   ],
   "avisos": []
