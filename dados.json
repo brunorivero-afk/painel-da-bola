@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "23/08/2026 10:28",
+  "atualizado_em": "23/08/2026 11:18",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "09:15",
-      "competition": "Campeonato Russo",
-      "match": "Dinamo Moscow x Rodina Moskva",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -27,9 +17,9 @@
       "date": "2026-08-23",
       "time": "10:00",
       "competition": "Campeonato Inglês",
-      "match": "Manchester City x Bournemouth",
+      "match": "Brighton x Aston Villa",
       "channels": [
-        "CAZÉTV",
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -38,9 +28,9 @@
       "date": "2026-08-23",
       "time": "10:00",
       "competition": "Campeonato Inglês",
-      "match": "Brighton x Aston Villa",
+      "match": "Manchester City x Bournemouth",
       "channels": [
-        "ESPN",
+        "CAZÉTV",
         "DISNEY+"
       ]
     },
@@ -182,34 +172,21 @@
       "date": "2026-08-23",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Grêmio",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Vasco",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 2",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
       "match": "Vitória x Bahia",
       "channels": [
         "GLOBO",
         "PREMIERE 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Figueirense",
+      "channels": [
+        "SPORTYNET",
+        "CANAL DO BENJA"
       ]
     },
     {
@@ -238,11 +215,24 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Figueirense",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Vasco",
       "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA"
+        "GLOBO",
+        "PREMIERE 2",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Grêmio",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 3"
       ]
     },
     {
@@ -269,21 +259,21 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "FC Porto x Arouca",
+      "competition": "Campeonato Espanhol",
+      "match": "Elche x Barcelona",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Elche x Barcelona",
+      "competition": "Campeonato Português",
+      "match": "FC Porto x Arouca",
       "channels": [
-        "YOUTUBE"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -342,10 +332,10 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Progreso",
+      "competition": "Brasileirão Série A",
+      "match": "Santos x Mirassol",
       "channels": [
-        "DISNEY+"
+        "PREMIERE 3"
       ]
     },
     {
@@ -375,6 +365,18 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Chapecoense-sc x São Paulo",
+      "channels": [
+        "RECORD",
+        "PREMIERE 4",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "18:30",
       "competition": "Brasileirão Série C",
       "match": "Maranhão x Itabaiana",
       "channels": [
@@ -385,22 +387,10 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Santos x Mirassol",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Progreso",
       "channels": [
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Chapecoense-sc x São Paulo",
-      "channels": [
-        "RECORD",
-        "PREMIERE 4",
-        "CAZÉTV"
+        "DISNEY+"
       ]
     },
     {
@@ -428,10 +418,10 @@
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Houston Dynamo FC II",
+      "competition": "Campeonato Mexicano",
+      "match": "Atletico San Luis x Pachuca",
       "channels": [
-        "ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -459,6 +449,16 @@
       "date": "2026-08-23",
       "time": "20:00",
       "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Houston Dynamo FC II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
       "match": "Crown Legacy x Chattanooga",
       "channels": [
         "ONEFOOTBALL"
@@ -472,16 +472,6 @@
       "match": "Atlanta United FC x Sporting Kansas City",
       "channels": [
         "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atletico San Luis x Pachuca",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -535,6 +525,16 @@
       "channels": [
         "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "09:15",
+      "competition": "Campeonato Russo",
+      "match": "Dinamo Moscow x Rodina Moskva",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -607,16 +607,6 @@
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-23",
-      "time": "10:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Sorriso, MT",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -732,9 +722,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
-      "data": "22/08 21:42"
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
+      "data": "23/08 09:00"
     },
     {
       "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
@@ -742,14 +732,14 @@
       "data": "21/08 14:05"
     },
     {
-      "titulo": "Marcão projeta o futuro do Fluminense: 'Foi construída uma equipe para isso' - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUUpWbFlmTFVxenpKaGlKT3hxd3VTTldBalpWZGlwaFYtNFdqVGQ5UFh2aUFxc1oybkhheG5jMFl4YVFxeWwybXFiRl9hSWRrdHgyeXlhY0ZlOGlmQnI1SmlaVkZkYV9XMFgyQ1BnOUItalRtcDFoRE5BTUkwVTBjMGJ0akh2NmswZW41UkZxS054bjFwa0NoUlU1b0hYbXF4cVdtakMySFlBUGl0STlBQk9rQW5vUmtYOW10d1d6NzJCMXI5YmlmQVV6bjRmQUV0WkN2QVQyWVd6UkZ6X2NaM2RIdGdTYi0tMDhCZ1dCeWVMbzdUYUE?oc=5",
-      "data": "23/08 09:27"
-    },
-    {
       "titulo": "Fluminense confirma Marcão como técnico efetivo até o final da temporada - correiobraziliense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3pBb2ZTSFk5NmY4MVZlZjN4dkxScVhfcGV3UXZwUWFiMmQ3OGxRYnlGczItLWRfYlBkb01UR3QxVzdsYWNMdWdTZWd3OVZ6ZzNDbDEteVl2R1QtRURfWWJSY2hJSkl5UTUzTXdVTmhLcVU0ZlpXcmtiVkphb1BiRWJRZFplOWZ6WkZ6Qk9tRlUtOU1FT2JMWk9iMzF2TVNCVkgxX3dzVkZXYjloQ3hjd0QxZVcxZ3FxUnNLeFY5OHVaYVRfN01LUjFR0gHPAUFVX3lxTE9WOWNtRlFia3lqaGRFNUxBekdIRkQwSmFJU0NEelMyNG53eDlra1l0SUFCMjZGaW9DdnhKLUNFM3p1NXFJWmxTdi01TVFDWnBBTlU1TV9OTEVkc3RBZ284aW9fQUlCUi1qOUYwWVR2WUpfcndIQXdvRW81dG5OdUtkekJYWGNJY25FTHFDWUoyUVJoalY3bUUyZmNETVdTVDJUZTN3QTFqQnQ4S3hvdk04dnNYRk9xNHp4NENnUXZ1RG8wVHlPVmJWWk41aXZIRQ?oc=5",
       "data": "23/08 12:11"
+    },
+    {
+      "titulo": "Marcão revela ter discordado de Zubeldía e explica escolha por Ganso no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlpEZm1JY2RtT1hRVDJnc2g4TVQwdzVsamtCQUNnNi1lNEczZGZGY2JXbkdNNFI1RnhaQmZmc3Vjb05taFhpZjVxM0xlLXhaSWphaWI2T2Vpa25RZUhfellDYzMtdEFVaEVLYThYZ2JnWnAtaHBkVUFUakt6ZHpnZDlhbmNQRUNKRDNPZ09Md1NUNWRXZEN6X0wxQXFyQVFhcFNHNzQzN3J0VUFBaGc?oc=5",
+      "data": "23/08 12:57"
     },
     {
       "titulo": "Brasileirão: Fluminense supera vaias, vira sobre o Remo e continua invicto com Marcão - UOL",
