@@ -1,47 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 18:16",
+  "atualizado_em": "23/08/2026 19:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Elche x Barcelona",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "FC Porto x Arouca",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Belgrano Cordoba x Defensa Y Justicia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Gama",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -71,16 +30,6 @@ window.PAINEL_DATA = {
       "channels": [
         "REDETV!",
         "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Progreso",
-      "channels": [
         "DISNEY+"
       ]
     },
@@ -137,6 +86,16 @@ window.PAINEL_DATA = {
       "match": "Maranhão x Itabaiana",
       "channels": [
         "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Progreso",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -453,10 +412,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Barra",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Avai",
       "channels": [
-        "SPORTYNET"
+        "DISNEY+"
       ]
     },
     {
@@ -498,22 +457,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Avai",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Barra",
       "channels": [
-        "DISNEY+"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Náutico",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Amazonas",
       "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
+        "SPORTYNET"
       ]
     },
     {
@@ -531,10 +488,53 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Amazonas",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Náutico",
       "channels": [
-        "SPORTYNET"
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "FC Porto x Arouca",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Elche x Barcelona",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Gama",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Belgrano Cordoba x Defensa Y Justicia",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -612,16 +612,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-08-23",
-      "time": "18:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final - Montreal, Canadá",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-08-23",
       "time": "19:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final - Montreal, Canadá",
@@ -662,14 +652,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - GE",
+      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
       "data": "22/08 21:42"
-    },
-    {
-      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
-      "data": "21/08 14:05"
     },
     {
       "titulo": "Santos pode aplicar chapéu no São Paulo de Dorival para fechar com meia - Santistas",
@@ -685,6 +670,11 @@ window.PAINEL_DATA = {
       "titulo": "Ex-Fluminense é oferecido e pode assinar com o São Paulo de Rafinha - Nação Tricolor",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92b3VQUDI4RTZhN1NHc1FCV0ZNZ241Ung2NzFRMWVyaUxsQVctd2lNWFR6WVlFdWZqZWVJMVhlMlkteFBrSUl0aDBJYnJSTlVKejBhYVQ3b19iUGpwRlZFUUZUTk5jbzJyMUZidW5oR1BzOG4yQ3FGOVprS2M5bXc?oc=5",
       "data": "23/08 17:44"
+    },
+    {
+      "titulo": "Brasileirão: Fluminense supera vaias, vira sobre o Remo e continua invicto com Marcão - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXBlZS1hZWRaR3pndVJEZ2tnclhKUF9FVlBTMWhBbUxwV25DbHpOemVXbVZnUndFMFRVbkpzeFVlQWVOamNwczh6aXVYRWZEeVZfajh3aHlnbTRsT2xIcERMUUY4ZEl6ZzBLem5yTmVlUWVHZnZ1TFdXZy00eGNhY25yVjdJLXdnWjFOQzViZkhyME9VUGdha1VaMkE4dmxaUl9ETW5aUFBYZlpPZDZoUzZFbFI2RWZrRTdz?oc=5",
+      "data": "22/08 20:54"
     }
   ],
   "avisos": []
