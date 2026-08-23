@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 00:51",
+  "atualizado_em": "23/08/2026 01:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -752,9 +752,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Enquete: Marcão deve seguir no comando do Fluminense até o fim do ano? Vote - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYUZYblluZ3UwdFRYaHAzWnJQbkRScjBFejA3TkN1WUlKOTlFUGNWMjBLVW9lbXRkbHBaaDNyOG9lOGJpUGwzcFhPYnlFQkZfcThTM0JxY1cySUVtOEVDbDIyNjYtMXBOenE5QTRKWWw1LUw4VV9JWllXcmdXV3JVTkpXRDdEZlJKa3p6SlozYVNlelk3LXBrelFvUEhxQ0NmYmZldUpvanBueTNrb0ZFUHFRbXl1QUpycVo5ZHZ6TlVUVE9HZFc0QVNaZUtaemdpZEtMTHVQSnZROVlp0gHrAUFVX3lxTE96UmhhWVZYRDVfZzNWb0d6Rzc1WE9oWkY1c2p6blUwMXhTTFlGbmZzQnFfaXc4QmNfV0VsZEtITjFfVVZQVTN2OHVLU3ZMUHY4TGJ3dmZNc3RpOVhGMmxkT0FCT0pqekh5OUhUdG5XbHV6RTNwajd6VnlENnNaSGFEbXQ3QXBNREFENzdwTTAwOWZhX2h3WnlZdFhwbFBvVDM0Zm0zQS1zR3RUSWdwZ3R1MHlrY3hPMVZlNUx5NGVCODRwMG1ONk1jNHNzTVZZVEJWZjZqMXdOY2J3dVZSRFVySHJCdHJoTTRKWlk?oc=5",
-      "data": "22/08 09:00"
+      "titulo": "Efetivado, Marcão quer o Fluminense \"alegre, leve e organizado\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQk5rNzBlaTB1TV9YQ1FuUXJtbHhoUTBndFJmU1BhY2VtNTBRRGt4T01TYWROMjljNUNjWHVNbV95amFBRkdnOS1uUFY1dENCS2lWR3FIUGhxdlItbTdmQ3BENHpmUXZCSnc4WTl3ckhqNkdhbzhfQVpOV19QdHV1ZVBnUTFGMEZVZ2s5SXFibmJ3QXI5d29rTDRnX3F0UDRBMjJnY3cyNTZPY2JudUxpUjVPVnlSXzdHdTdFbFllb2t1SXdvYk9rbUNDOFhadlhuazB30gHiAUFVX3lxTE94dFZibDBOa0VwNTlFaXVQdzlFbF9kOXFYS0lQdkxQOVp3aHRUel9CTW1pS2xtLTVCM3RlbFJTRVRqTzdueWJFM2hsaGRnajQxN1hnOG1VX0E0dkhabmVwTGc2R1g2aEd5V1pvR1VGWjhEczRudTBIOS0zQ0lBOFc3M1lLSzdWUDFGTjcyMUtqQ3h2NVRpbFVWbUJLVjMtZzRfQmlhdU1sWHJZelRsVUNkV1VvM21YbFlCMGJYZTlPYVJyWXBTVk9oUzY4YkVOemwxMFk4Wkh4U19JQnV4M0dYQnc?oc=5",
+      "data": "22/08 21:42"
     },
     {
       "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
@@ -762,22 +762,20 @@ window.PAINEL_DATA = {
       "data": "21/08 14:05"
     },
     {
-      "titulo": "Marcão celebra efetivação no Fluminense: ‘Vou me entregar por inteiro’ - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkVmdnFjWWdwTEFPUk9ZMFhZZG9UTUd5enNqaGhjcHJnZUhjcDlyekk3VmtTdXA2X1FhWVBxQ2RRTmRjR3lIRHNqRlo5UFdkYzd3Y3VfUVdwUDVxNWpNN015clg3a1NSSzFXRFowSjFWMFVTekpTblA5bXpWYV9aSVQ1WVFJZE5aX2EwcU9TcXFFZjlTSU9BUmFpUWVDcm1NZEw5ZnIxdGN6OG0zby1iRGdpWVhHSHVfeFVBTE41TVlranVCOTlEa1JR0gHPAUFVX3lxTE9xUG51bm9ic3BkQXJMd0FYODVDUlJIZlBlTVNYOGd6c3BtVm9nQnpYYjUwQkRHdnp0VWg1c3BIM29xWU0tTTBnTkFoVmRIRTMxQXdKVEN6OG5RSGNBOXdSQXYyS3U1Q25PYnNtckt5RG5wMmQzdUxvREhjZ3NjOHpFeWoxN0w0UTR0dHN3N1ZYdlRyaE0yZHlBbXNDNWRsWXcxd0tyNDBSZnhITWh4bmJvbHg1UjZ4YkZZSmd3UVc5bHByREozSHNzSjhNUUpsdw?oc=5",
-      "data": "22/08 23:19"
-    },
-    {
-      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - GE",
+      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
       "data": "22/08 06:00"
     },
     {
-      "titulo": "Fluminense confirma nome de seu novo treinador - GZH",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYS1jYnlQX1NfRWZBeVhYM2lwY3hGVjBmZlRKSTRYTzJpWVpoVWJKYW9iMXI0MGxHOG55clpYVGVWM3ZhZWFZVkR3SERSSmk2NXFoNmRIa3F5U2JsYXlkOTJiV1FRQnRfdzdLdTVwSk5jME9CVXJuRjl4a1pRSldiTzYxdzJoT3o1Q3Jkdm1KRnJ1WTdJSnNSdENQQ0pwMzFvR21tTTVaOFY2ZnAzSlpmbkFIQUhqNzFCcUlDVWVrZHZwNnVOd2ttLWxjSWl6aUU?oc=5",
-      "data": "22/08 22:45"
+      "titulo": "Torcedores do Fluminense aprovam efetivação de Marcão em enquete do ge - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkVWRGtWTVBNcUVJZzk2TVpkb1h5R1VjUG9pSVpMVkI4bHR6LVBPUjhmZm4zb0lLVGhFZ04xcWVzZnotT0lpV2tJdGowaHlfak9OcHVkbkFJV3hHdWRBS2Z2R2xUWnlGRGVjRjJ3UTNFTmE4Y3BoRlZCb29JemdIOXZueWQwWjVMMjJiUmRvYlVyTExwMWg5R2hCYWJpLTRQUzdHZmJTYjlJcW5JbURPdU5PXzFIU0FzZkh0bW5Uc21mcUVoUk5IY2FfZVRlMEhCUlVWdGV4UVfSAecBQVVfeXFMT2pYVFVTS2h1aHY2cWRXemt4OExSOXNxRXBmTWxEbjI0VW5iMllfMkpZcmdmNGtSNXRHVWhPSFNVcmZkdVBJd012cDFoc0xucW8yMjMzeE1YMHFrVHVsMTdWU1JFMXhCY01PdGhiMVlrYU5QbElEM0p2MFRWQXVObUQtNkhvVjFpQlNVaGgxcEQtOGFFUGNLN1dZMVhIWWR0S3VLSFVEQzJ2NXpPSmt3eUZBeHR6QkpsWHVWS3cwYURJQ0pydTRhTWtTWHktTmpENmYzZUN0WmFyb1E2dk9PUEYtNkM1UkxB?oc=5",
+      "data": "23/08 00:08"
+    },
+    {
+      "titulo": "Ex-Fluminense celebra primeiro gol por time dos Estados Unidos - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNLeWRpbndHWUJWZnp6UEkxeEZNaDhkODExVTd0ZU01ZGp2M2xUUHJDR2I4SjJrbjFRUEdIWmRqZnBXOVZNLXR0WFNKRWo0V3RHaDZtNm9jZVptcWYyRnN4OTh5cTFrQlhNNFpBa3lBdWZyQ3lORG1BcVAxUVR4ejZuTkozTkZFeHp3ZjdEdWdiQ2dranQ0cDRUNzl2MnFBZ09oVnVPNmRuY1h5Nk1GYy1IeGbSAboBQVVfeXFMTVFwTjByS1RGalRDd0g1WE1QYnBPdElENlhzdDBEUllXM21BNW1Hdnotb3JsVUtSY3UxX2dEQjd2c2tUaTNxYzV3T29reTFLelpmQzBYcmtGRE1TME9wTDdGR0hETm5UYkN0Wk5lT011Q2syemtnc3hFRmhzc2cxdHFVUDNhQ01VdVo4SkN2VmtFYXBKMmRNYVk4UEVhSEhHNkhIRFpWZENRSWh6M2VHcE5fc2tDQm5rOTJ3?oc=5",
+      "data": "22/08 01:52"
     }
   ],
-  "avisos": [
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
