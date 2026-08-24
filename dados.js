@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/08/2026 12:34",
+  "atualizado_em": "24/08/2026 13:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -278,14 +278,14 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 20.3,
       "temp_min": 18.7,
-      "chance_chuva": 99,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 21.1,
       "temp_min": 19.4,
-      "chance_chuva": 92,
+      "chance_chuva": 91,
       "condicao": "Garoa fraca"
     },
     {
@@ -305,29 +305,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - ge",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
       "data": "23/08 09:00"
     },
     {
-      "titulo": "Fluminense ganha semana cheia para ajustes antes de confrontos decisivos no Brasileirão e na Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVY5VVlDLTVKVzY0N1VRdHNWXzVlYkx6a2ljTTI3SkI1d3BSOUlndzIxMFF5RHoyZGthR1NuYlYxUUhCRGp6OTVuVFpCZkNKQ2N0azhqclE1Y0dKRHNKak4ta0JkU0tZeVRVMUMzV0dUcDVSbmVnQXlOd3EtX2lPNEloeHBpVTlxQm1sRV94TXptTXc3MDVnbVR6T2JfS2VyQUpoal9talV2R3EyLTdXZVBvejFGUFNRWWI2LURFQWg4Z2RmQlZ3Um9lUC1GRmZwTTNCTC1aSGt1NFFiUkEyZTFQNWpSc1VLOE1Ra1F1bTNyeVJKd2xNUEp3c0c3THd3Q3E4ckRVSdIBlgJBVV95cUxOZ09GenJ0dklEQjhtSnZvMzVESnJqbGJ1Yy0teV90THdOS0xXNzJJY0NBSVlOekU1NUdSaW5EWWJ4cDJLcGJrZWQ3dmp3cWh5TTlBRmJYLVdUbks4NGRKc2ItRDNuMEpmUFZzX2l0VEFBUHMxVjh4SjZhbUozeE9lTURRQUtWVTNHUFVTMzdiZFdobE1nU0V0N0lBYnozTnRTT3hGTWZkNURQV1ZiV3V5V0dEdENwMTFVUFdLMUx5UjBHaV9ERlNTQWlucHRXSHRIeUhmelRnbzZocXg2Q3J0aHFzeWl2am1aWG9Ud3JGdG5MSXI3WEwzcmFaVDdfNWI2bGtSd3NrbmVSYjdDS2V6S1N4SXFuQQ?oc=5",
-      "data": "24/08 11:00"
+      "titulo": "Marcão espera boas notícias para ter ‘reforços caseiros’ no Fluminense contra Athletico-PR - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHdwT2Q0a0pfaGFSeFRUb29ja2hrUFc2NFY4V3JLYUV3c1I4ZXRKN2pOaV9JTExPUDVUYWtlcVB3VXNuZWRJaWRsTXhDODVGelRBZXB3Q0d5MzQ5YkUybDltZW94YnRwZi05el95VXRRMjlnT3hrSy1SN2VuMU5GbnpiRnItdXJFNFFNYUdNMTFFaTUxMlpWdFE0VjJxMGtwVmFhYTdMSE04bWpGV1BWOFAtdVBPUQ?oc=5",
+      "data": "24/08 13:30"
+    },
+    {
+      "titulo": "Hulk dá resposta após vaias e vira líder do Fluminense em estatística decisiva - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0hLd29iR2RmMGtVNFZYNVNOeTZmTkhxU25jNl92NDMxLUlfLU5qNVhsVUlZWHduMDQ0MHRvV0I0UlJ4NHNlb0F5OFNZbjhqVjZxN1pKQVUzNjIyR2dzclJBeTJPQVoyOGU1ck41V3JQNUp4M185SnpBQ1JVcXRJM2pYVi1pUUkzTmtwQ2pzZzRiOVF4R19TVTVGaC12M3VkczE4U1RJdVQ?oc=5",
+      "data": "24/08 14:55"
+    },
+    {
+      "titulo": "Marcão ganha trunfo no Fluminense antes de decisões e vibra: “Se organizar melhor e estar preparado” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmdIN2V1OVpqWjhJaThnU0RRelVGWnhfTm5hbUhUMHFndDItM1VacXBmYnVFS3VjNVJtVzlwcXBILWduVVBrb2xCZG1rVXVISkhHZXFlVk9VNE9FRUVIX05Fdkl6TVp3Q0VOM3pmUmwwczFWV0l5ZlNUU004c19lUklWU3RhTDNZS0MtRzd5ZXBoM00yemRFc3Y4RDJHZFVMejZBYXdrQUdmOXFNcXZORkJHYnZ1cXI5VWhnY0VJRWdFUQ?oc=5",
+      "data": "24/08 15:30"
     },
     {
       "titulo": "Fez carreira por Flamengo e Fluminense e agora fatura milhões com 400 escolas de futebol - A Crítica",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa1poRVlOOFd1bF9IWDdtT2kxX3FHakF2TXpmM1l3X3Nzb2Q4RXg1M0wwd1YyMlNIejFrUnpwdnlMTFNFOWhEci04S3ppVzc2S1k0d3RpRkpFclc1WGNjbE1wSVAyNVdkamxsMzE0Ym5KaUx6a2ZEYW04OHlkckpkZHBlTmxTa2pmLW1mcEYtVWJramhRNmU2c2N6b2wtOVVkY2FFVlA2Q1hJdkdoRTFHb05HbFRvYUhMX0Rvby1DMG10dU1tbDBFSHJ3bzVKZmZ4c0tyaHdxWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3lhSkdKS29MUzRKTzNyQ0NCTG03T05Rb1Z4c1h0VDNnU1VQRzhGLUd2QVlUbmxOYktXM0VGQWRVUXZxcl95bUtTQmJ3Z1hZTnZhRE5KYXFadGU3MWh3Yzd1WF9Eek4tcG1BeXBWTnB6TG9EOUE2c19Ea3VERFBrT0Z3bEhMVFJNUlZKbkNCSVd5MzdSdXA2UGZFN3VmSEdybTlNOXlaUlhmYzg1RE5MUmZUbnFqUjNa?oc=5",
       "data": "24/08 14:35"
-    },
-    {
-      "titulo": "Com gol de Hulk, Remo perde de virada para o Fluminense e segue no Z4 da Série A | Remo | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnN3ZXNFa2Q0VzU0MUx1cW4yemtNc0JvYzNya3pZQmtWeWwwRUlJQXRJNzY5bkJ0Q3JvUnR1aXRUNnM2N2lZbzZpRHJqc0hWeUdqN0pqUURLamJWa29BZ3FXcHZhcnFtcTV4SlJUYUNpSnJ0N2lTMFRnQnRiWDUwUHJpTDgxUmZ2YmdaZHFJNk5Oc1YyOU9jNnNYZXQ3NEJrNm1mLWJrLXJmVndhYVd3ZTBHaXRISmdraE14SklSUmpsTTRnbm4w0gHMAUFVX3lxTFBDdlFkS3pIek4wUnR0RVZ4WkFvbGUteHVCWDVWY0szdHJsZzFPaG1SeVd6VXpaaWhxTGRSaTJrbXhBYVlMRHRCUUpJWmZKYlliUi1wS0pJMTROWXFQSzJtdXZGN244VUo1akNzekdSOVNoYXZSN0ZHVmRfQm9OT2RUZlpMUmkzM2dwMHZMNVU4cjlMbWdyU3ZKWHRVZFlGc3hBbF9sUkRiM05IRjlBVE1SR3NTa3FoUndPMXZENzlVZlpsRWtEYno4SUtsRQ?oc=5",
-      "data": "22/08 21:03"
-    },
-    {
-      "titulo": "FLUMINENSE 2 X 1 REMO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO. - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE53OXpPVG8ydUNQYWxnSWVnaWZJNUx4QW03dkg2eFVIUWozVzJwSTZpUzJxaHpZTjFxYUczNHlPZHdFVkd6bnFJNC1jNmFzUVo2YlRmVmNuWElwQnpjOV9RTEtfbVhsRDZSdmdqZ3JNN0dEbVJPVUUxUmNtdFVLNnFmeDB0anlxQ2pnenlHdXY3bE5tOWdTUw?oc=5",
-      "data": "21/08 07:00"
     }
   ],
   "avisos": [
