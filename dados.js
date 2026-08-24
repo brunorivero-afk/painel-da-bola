@@ -1,88 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/08/2026 22:00",
+  "atualizado_em": "23/08/2026 23:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atletico San Luis x Pachuca",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Houston Dynamo FC II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Huntsville City x Columbus Crew II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Crown Legacy x Chattanooga",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "20:00",
-      "competition": "MLS",
-      "match": "Atlanta United FC x Sporting Kansas City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Colorado Rapids II x Real Monarchs",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "21:30",
-      "competition": "Campeonato Argentino",
-      "match": "Racing Club x Boca Juniors",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "22:00",
-      "competition": "Campeonato Mexicano",
-      "match": "U.N.A.M. - Pumas x Necaxa",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-23",
@@ -284,11 +202,43 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Bahia",
+      "competition": "Brasileirão Série C",
+      "match": "Maringá x Barra",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Amazonas",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Figueirense",
+      "channels": [
+        "SPORTYNET",
+        "CANAL DO BENJA"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Náutico",
       "channels": [
         "GLOBO",
-        "PREMIERE 4"
+        "SPORTV",
+        "PREMIERE 5"
       ]
     },
     {
@@ -296,10 +246,10 @@ window.PAINEL_DATA = {
       "date": "2026-08-23",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Grêmio",
+      "match": "Vitória x Bahia",
       "channels": [
         "GLOBO",
-        "PREMIERE 3"
+        "PREMIERE 4"
       ]
     },
     {
@@ -319,53 +269,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Grêmio",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "16:00",
       "competition": "Brasileirão Série B",
       "match": "Ponte Preta x Avai",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Náutico",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Figueirense",
-      "channels": [
-        "SPORTYNET",
-        "CANAL DO BENJA"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Amazonas",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Barra",
-      "channels": [
-        "SPORTYNET"
       ]
     },
     {
@@ -393,16 +311,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Gama",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-23",
-      "time": "17:00",
       "competition": "Campeonato Argentino",
       "match": "Belgrano Cordoba x Defensa Y Justicia",
       "channels": [
@@ -412,11 +320,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-23",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "FBC Melgar x Alianza Lima",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Gama",
       "channels": [
-        "FANATIZ"
+        "YOUTUBE"
       ]
     },
     {
@@ -427,6 +335,16 @@ window.PAINEL_DATA = {
       "match": "New England x New York City FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "FBC Melgar x Alianza Lima",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -446,7 +364,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-23",
       "time": "18:30",
       "competition": "Brasileirão Série C",
-      "match": "Maranhão x Itabaiana",
+      "match": "Ypiranga-RS x Ferroviária",
       "channels": [
         "SPORTYNET"
       ]
@@ -466,7 +384,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-23",
       "time": "18:30",
       "competition": "Brasileirão Série C",
-      "match": "Ypiranga-RS x Ferroviária",
+      "match": "Maranhão x Itabaiana",
       "channels": [
         "SPORTYNET"
       ]
@@ -531,10 +449,92 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-23",
       "time": "20:00",
+      "competition": "MLS",
+      "match": "Atlanta United FC x Sporting Kansas City",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Crown Legacy x Chattanooga",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Huntsville City x Columbus Crew II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
       "competition": "MLS Next Pro",
       "match": "New York RB II x Toronto II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "St. Louis City II x Houston Dynamo FC II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "20:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Atletico San Luis x Pachuca",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "Colorado Rapids II x Real Monarchs",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "21:30",
+      "competition": "Campeonato Argentino",
+      "match": "Racing Club x Boca Juniors",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-23",
+      "time": "22:00",
+      "competition": "Campeonato Mexicano",
+      "match": "U.N.A.M. - Pumas x Necaxa",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -674,19 +674,19 @@ window.PAINEL_DATA = {
       "data": "23/08 22:58"
     },
     {
-      "titulo": "Ganso rasga elogios à joia do Fluminense: “Craque de bola!” - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXRldEJhYUFNOExEYTRtdUtVLXZRd2Rkb1FvcW9CNmhNM2d6MGQ3bUlXMjFCZmQ3RE9KdWs0Y183cXFBbHBJUU9wLS1LbDVkVTFtTVpPYmJhWGRZdzRKNC15VjV5SXdXcC1fdVVUcDVCRkVfM25LWUxaR19jWGZmTGl2NGU3ZWtIVEE?oc=5",
-      "data": "23/08 23:35"
-    },
-    {
       "titulo": "FLUMINENSE 2 X 1 REMO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO. - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE53OXpPVG8ydUNQYWxnSWVnaWZJNUx4QW03dkg2eFVIUWozVzJwSTZpUzJxaHpZTjFxYUczNHlPZHdFVkd6bnFJNC1jNmFzUVo2YlRmVmNuWElwQnpjOV9RTEtfbVhsRDZSdmdqZ3JNN0dEbVJPVUUxUmNtdFVLNnFmeDB0anlxQ2pnenlHdXY3bE5tOWdTUw?oc=5",
       "data": "21/08 07:00"
     },
     {
-      "titulo": "Metade dos gols de Hulk na Série A foram contra o Remo e marcados por dois clubes diferentes | Esportes | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUFFKbXliMVE3elhHeWFXWkl6cmdMQndUWWE0QzNHRnJYTmFfeWFnZEFoY20tVzgwSHZ5LVNkdkc3aGs3X01PTVVHWEk3TldLYkphM0NWWTJ3U3dvaUZlVUk1SG9Jb2VfOXExOHNzNGZVdlN5ZmxfNi1OSi1jaUFiZ3lGU0VKcHNQMTFyemVoMWJqNUYtUXRTOHFOLTU0R3Y4ZU9SMVJHanh2N21UWUZ4eDMxRTBEQ19rYWtEOTVhUFI4UUhSTzNRS3BialZMRTFwT1HSAdcBQVVfeXFMT2ZZN0hLY0F4N2tKQmg4MUVaQVdsNnVSc2ctSWNyYnhYLXFiOTFSUlY4Z25qMVlmYk13a1BreDFhRlN3SjIzVVdXRDcxVHBGNzhjYXM3b1YwSW5fUkNRZUM4SE44cEhRQlpGcmVybURNcEN1MHQzZjZhTUJNUE1oN3h4ZllLNjJfRG9wZDVOSjBYZUdRZE1XRjN4NTU0eE1TcTRSRU9kcl9mN1VDWldaZEJvSW5YQjJBWDRHX3RBTHF4ejUyaFpJTUtZSG4ySUVqbXBxYXJlNUk?oc=5",
-      "data": "23/08 14:06"
+      "titulo": "Ganso rasga elogios à joia do Fluminense: “Craque de bola!” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXRldEJhYUFNOExEYTRtdUtVLXZRd2Rkb1FvcW9CNmhNM2d6MGQ3bUlXMjFCZmQ3RE9KdWs0Y183cXFBbHBJUU9wLS1LbDVkVTFtTVpPYmJhWGRZdzRKNC15VjV5SXdXcC1fdVVUcDVCRkVfM25LWUxaR19jWGZmTGl2NGU3ZWtIVEE?oc=5",
+      "data": "23/08 23:35"
+    },
+    {
+      "titulo": "Santos pode aplicar chapéu no São Paulo de Dorival para fechar com meia - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXY2Uko0MWo5QktIMHFmLXVUSllmczNhZVZ2YlBsMnNHN3pvd1U5NnJjLXBUcHl2WEI4cG5RR2xwYmV6MS1GRlJ5TjltZXluVFdoeXM0TFBHdXdzVEhDQUxsdlhHRUhRd2QzY0pBM20?oc=5",
+      "data": "23/08 18:27"
     }
   ],
   "avisos": [
