@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "24/08/2026 15:33",
+  "atualizado_em": "24/08/2026 16:24",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-24",
-      "time": "13:40",
-      "competition": "Campeonato Saudita",
-      "match": "Neom x Al-Qadisiyah FC",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-24",
-      "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Osasuna x Levante",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-24",
@@ -84,6 +63,27 @@
       "channels": [
         "SPORTV",
         "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "13:40",
+      "competition": "Campeonato Saudita",
+      "match": "Neom x Al-Qadisiyah FC",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Osasuna x Levante",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -276,29 +276,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.3,
-      "temp_min": 18.7,
+      "temp_max": 20.8,
+      "temp_min": 18.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.1,
-      "temp_min": 19.4,
+      "temp_max": 21.7,
+      "temp_min": 19.5,
       "chance_chuva": 91,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.9,
+      "temp_max": 21.2,
       "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.3,
-      "temp_min": 13.1,
+      "temp_max": 15.6,
+      "temp_min": 13.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
@@ -320,9 +320,9 @@
       "data": "24/08 17:59"
     },
     {
-      "titulo": "Hulk dá resposta após vaias e vira líder do Fluminense em estatística decisiva - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0hLd29iR2RmMGtVNFZYNVNOeTZmTkhxU25jNl92NDMxLUlfLU5qNVhsVUlZWHduMDQ0MHRvV0I0UlJ4NHNlb0F5OFNZbjhqVjZxN1pKQVUzNjIyR2dzclJBeTJPQVoyOGU1ck41V3JQNUp4M185SnpBQ1JVcXRJM2pYVi1pUUkzTmtwQ2pzZzRiOVF4R19TVTVGaC12M3VkczE4U1RJdVQ?oc=5",
-      "data": "24/08 14:55"
+      "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
+      "data": "24/08 19:02"
     },
     {
       "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - ge",
