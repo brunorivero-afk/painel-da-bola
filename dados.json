@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/08/2026 09:39",
+  "atualizado_em": "24/08/2026 10:46",
   "jogos": [
     {
       "sport": "futebol",
@@ -279,35 +279,40 @@
       "temp_max": 20.3,
       "temp_min": 18.7,
       "chance_chuva": 99,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.0,
-      "temp_min": 19.5,
+      "temp_max": 21.1,
+      "temp_min": 19.4,
       "chance_chuva": 92,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.7,
+      "temp_max": 21.9,
       "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 15.9,
-      "temp_min": 12.8,
+      "temp_max": 16.3,
+      "temp_min": 13.1,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense ganha semana cheia para ajustes antes de confrontos decisivos no Brasileirão e na Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVY5VVlDLTVKVzY0N1VRdHNWXzVlYkx6a2ljTTI3SkI1d3BSOUlndzIxMFF5RHoyZGthR1NuYlYxUUhCRGp6OTVuVFpCZkNKQ2N0azhqclE1Y0dKRHNKak4ta0JkU0tZeVRVMUMzV0dUcDVSbmVnQXlOd3EtX2lPNEloeHBpVTlxQm1sRV94TXptTXc3MDVnbVR6T2JfS2VyQUpoal9talV2R3EyLTdXZVBvejFGUFNRWWI2LURFQWg4Z2RmQlZ3Um9lUC1GRmZwTTNCTC1aSGt1NFFiUkEyZTFQNWpSc1VLOE1Ra1F1bTNyeVJKd2xNUEp3c0c3THd3Q3E4ckRVSdIBlgJBVV95cUxOZ09GenJ0dklEQjhtSnZvMzVESnJqbGJ1Yy0teV90THdOS0xXNzJJY0NBSVlOekU1NUdSaW5EWWJ4cDJLcGJrZWQ3dmp3cWh5TTlBRmJYLVdUbks4NGRKc2ItRDNuMEpmUFZzX2l0VEFBUHMxVjh4SjZhbUozeE9lTURRQUtWVTNHUFVTMzdiZFdobE1nU0V0N0lBYnozTnRTT3hGTWZkNURQV1ZiV3V5V0dEdENwMTFVUFdLMUx5UjBHaV9ERlNTQWlucHRXSHRIeUhmelRnbzZocXg2Q3J0aHFzeWl2am1aWG9Ud3JGdG5MSXI3WEwzcmFaVDdfNWI2bGtSd3NrbmVSYjdDS2V6S1N4SXFuQQ?oc=5",
-      "data": "24/08 11:00"
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
+      "data": "23/08 09:00"
+    },
+    {
+      "titulo": "Marcão espera boas notícias para ter ‘reforços caseiros’ no Fluminense contra Athletico-PR - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHdwT2Q0a0pfaGFSeFRUb29ja2hrUFc2NFY4V3JLYUV3c1I4ZXRKN2pOaV9JTExPUDVUYWtlcVB3VXNuZWRJaWRsTXhDODVGelRBZXB3Q0d5MzQ5YkUybDltZW94YnRwZi05el95VXRRMjlnT3hrSy1SN2VuMU5GbnpiRnItdXJFNFFNYUdNMTFFaTUxMlpWdFE0VjJxMGtwVmFhYTdMSE04bWpGV1BWOFAtdVBPUQ?oc=5",
+      "data": "24/08 13:30"
     },
     {
       "titulo": "Fluminense confirma Marcão como técnico. Saiba detalhes! - OFuxico",
@@ -315,19 +320,14 @@
       "data": "24/08 09:42"
     },
     {
+      "titulo": "Fluminense ganha semana cheia para ajustes antes de confrontos decisivos no Brasileirão e na Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVY5VVlDLTVKVzY0N1VRdHNWXzVlYkx6a2ljTTI3SkI1d3BSOUlndzIxMFF5RHoyZGthR1NuYlYxUUhCRGp6OTVuVFpCZkNKQ2N0azhqclE1Y0dKRHNKak4ta0JkU0tZeVRVMUMzV0dUcDVSbmVnQXlOd3EtX2lPNEloeHBpVTlxQm1sRV94TXptTXc3MDVnbVR6T2JfS2VyQUpoal9talV2R3EyLTdXZVBvejFGUFNRWWI2LURFQWg4Z2RmQlZ3Um9lUC1GRmZwTTNCTC1aSGt1NFFiUkEyZTFQNWpSc1VLOE1Ra1F1bTNyeVJKd2xNUEp3c0c3THd3Q3E4ckRVSdIBlgJBVV95cUxOZ09GenJ0dklEQjhtSnZvMzVESnJqbGJ1Yy0teV90THdOS0xXNzJJY0NBSVlOekU1NUdSaW5EWWJ4cDJLcGJrZWQ3dmp3cWh5TTlBRmJYLVdUbks4NGRKc2ItRDNuMEpmUFZzX2l0VEFBUHMxVjh4SjZhbUozeE9lTURRQUtWVTNHUFVTMzdiZFdobE1nU0V0N0lBYnozTnRTT3hGTWZkNURQV1ZiV3V5V0dEdENwMTFVUFdLMUx5UjBHaV9ERlNTQWlucHRXSHRIeUhmelRnbzZocXg2Q3J0aHFzeWl2am1aWG9Ud3JGdG5MSXI3WEwzcmFaVDdfNWI2bGtSd3NrbmVSYjdDS2V6S1N4SXFuQQ?oc=5",
+      "data": "24/08 11:00"
+    },
+    {
       "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
       "data": "22/08 06:00"
-    },
-    {
-      "titulo": "Marcão fala pela primeira vez como técnico efetivo do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdDFjTnQ2dWhNWldYYjFDcXBQLXBrbUR1dm5PY0ZidGVKbF9VSm9UM2RXenFrSzNJR3BFR092M0ttRUx2UjVxZHpEdVFIcGdwTWpMMk5JdWxEb2FtU1l0QnhpSnBMbjZsRmNrc19rQnN1a1poOG9rdGNOaEhqZzRhX2tOaXVKZWFfT0hNWWt6UlFGRTBfWnpiTlI4ZDFKUjA2cm1rWWVzQlhIbGY4Y0E5Qmc1NzdfNHprRTVFY2dueU0tb01xd2JMbl92eDRac3RoclJHOTJKNmZaeHJKYmYwdVM2MF84WGpZa0Fr?oc=5",
-      "data": "23/08 22:58"
-    },
-    {
-      "titulo": "FLUMINENSE 2 X 1 REMO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO. - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE53OXpPVG8ydUNQYWxnSWVnaWZJNUx4QW03dkg2eFVIUWozVzJwSTZpUzJxaHpZTjFxYUczNHlPZHdFVkd6bnFJNC1jNmFzUVo2YlRmVmNuWElwQnpjOV9RTEtfbVhsRDZSdmdqZ3JNN0dEbVJPVUUxUmNtdFVLNnFmeDB0anlxQ2pnenlHdXY3bE5tOWdTUw?oc=5",
-      "data": "21/08 07:00"
     }
   ],
   "avisos": [
