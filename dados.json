@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/08/2026 02:33",
+  "atualizado_em": "24/08/2026 03:47",
   "jogos": [
     {
       "sport": "futebol",
@@ -275,31 +275,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.7,
-      "temp_min": 18.8,
+      "temp_max": 20.3,
+      "temp_min": 18.7,
       "chance_chuva": 93,
-      "condicao": "Pancadas de chuva"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 21.5,
-      "temp_min": 19.5,
-      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 21.0,
+      "temp_min": 19.5,
+      "chance_chuva": 100,
+      "condicao": "Garoa fraca"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.5,
-      "temp_min": 15.6,
+      "temp_max": 21.7,
+      "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.0,
-      "temp_min": 13.3,
+      "temp_max": 15.9,
+      "temp_min": 12.8,
       "chance_chuva": 100,
-      "condicao": "Chuva fraca"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
@@ -314,6 +314,11 @@
       "data": "22/08 06:00"
     },
     {
+      "titulo": "Marcão celebra efetivação no Fluminense: ‘Vou me entregar por inteiro’ - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkVmdnFjWWdwTEFPUk9ZMFhZZG9UTUd5enNqaGhjcHJnZUhjcDlyekk3VmtTdXA2X1FhWVBxQ2RRTmRjR3lIRHNqRlo5UFdkYzd3Y3VfUVdwUDVxNWpNN015clg3a1NSSzFXRFowSjFWMFVTekpTblA5bXpWYV9aSVQ1WVFJZE5aX2EwcU9TcXFFZjlTSU9BUmFpUWVDcm1NZEw5ZnIxdGN6OG0zby1iRGdpWVhHSHVfeFVBTE41TVlranVCOTlEa1JR0gHPAUFVX3lxTE9xUG51bm9ic3BkQXJMd0FYODVDUlJIZlBlTVNYOGd6c3BtVm9nQnpYYjUwQkRHdnp0VWg1c3BIM29xWU0tTTBnTkFoVmRIRTMxQXdKVEN6OG5RSGNBOXdSQXYyS3U1Q25PYnNtckt5RG5wMmQzdUxvREhjZ3NjOHpFeWoxN0w0UTR0dHN3N1ZYdlRyaE0yZHlBbXNDNWRsWXcxd0tyNDBSZnhITWh4bmJvbHg1UjZ4YkZZSmd3UVc5bHByREozSHNzSjhNUUpsdw?oc=5",
+      "data": "22/08 23:19"
+    },
+    {
       "titulo": "NOTA – MARCÃO - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oUkRmaUN1Z0ZDYjNFRnBZWkdjUnhfaHd3eDNsTVQ4WVBDUU9HblBvVkZnNFd0ckVUcVY3TjViNzF2aVV0TmREX0k3N2hJMmdvS3d2N3c0UmUtS2ZuSmc?oc=5",
       "data": "22/08 21:46"
@@ -322,11 +327,6 @@
       "titulo": "FLUMINENSE 2 X 1 REMO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO. - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE53OXpPVG8ydUNQYWxnSWVnaWZJNUx4QW03dkg2eFVIUWozVzJwSTZpUzJxaHpZTjFxYUczNHlPZHdFVkd6bnFJNC1jNmFzUVo2YlRmVmNuWElwQnpjOV9RTEtfbVhsRDZSdmdqZ3JNN0dEbVJPVUUxUmNtdFVLNnFmeDB0anlxQ2pnenlHdXY3bE5tOWdTUw?oc=5",
       "data": "21/08 07:00"
-    },
-    {
-      "titulo": "Santos pode aplicar chapéu no São Paulo de Dorival para fechar com meia - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXY2Uko0MWo5QktIMHFmLXVUSllmczNhZVZ2YlBsMnNHN3pvd1U5NnJjLXBUcHl2WEI4cG5RR2xwYmV6MS1GRlJ5TjltZXluVFdoeXM0TFBHdXdzVEhDQUxsdlhHRUhRd2QzY0pBM20?oc=5",
-      "data": "23/08 18:27"
     }
   ],
   "avisos": [
