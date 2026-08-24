@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/08/2026 06:41",
+  "atualizado_em": "24/08/2026 07:32",
   "jogos": [
     {
       "sport": "futebol",
@@ -305,29 +305,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
-      "data": "23/08 09:00"
+      "titulo": "Fluminense confirma Marcão como técnico. Saiba detalhes! - OFuxico",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzVxUUFfbjhLQ1ZUU3ItN0djQzBTaERZNUM3bHRDcWZCYkhuTFVDclliMDJoZTlaU3ZVLXNhSkkySFhJOGpaVS1EaVBFRnRVbktMYUJJampScmxZSHljeVRoX3ByVVRvcGtnRGpnaElNanZBdEVQWGNEQjZUZUV3aDJtUWZIZHdNREdvcVVaNA?oc=5",
+      "data": "24/08 09:42"
     },
     {
-      "titulo": "Atuações do Fluminense: Hulk faz o melhor jogo com a camisa tricolor; dê suas notas - GE",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZV9ianVOdjFjWUdIT05selNYQ3BTaGlXN2R4R3BwQ1U0dHExZEtNS1JqOVhab2JlaWJ4djZGR0tJcXVUSmh1ZnNuQ0FCWHpPVm1DWWw0dlpCaHRvbWFQOVBWUmx0LTNvUWpPTkduTklTWXhHNF96OW8xUUQxWXdpSnA4NGFBeDdOc25JcVJnSmlrUDY1VmlMRGdGTFVDWDhTM0M0b0ZmTi1rbjVLZlFOdUJHRHd0Z254VFZNWUhwUjI4RnAyb0JFOFBScFl6REFRRVNQRG84Y3NVZlBSeV9FQ3dEem4wOEw3LUZfbW1FOWJQa25zb0ZwZEtCWdIBigJBVV95cUxNZzNxZko1Qy14cG9YbG8tWnhiU0tNTF9GWTY3UXZ1dm14blVrX0hYT1h1TG5SNWVrZGxZOU5jRi1iZE4ycHU0dll1cFpZTEU1ZlducGNUa1cyWmFTNmZPM2dMcF9Rb3pyb1dPVENqZTFpX1VCTWpaand4bnRVbVo1aVFNbWZDTHFzN3BXcl9qNkNYZDhoanJDLUVJcGdWQTkwOE5qSE9lVHA3WTdEZW42TTVuNXdBU251THJoeDdPb0lYQ3BCVmFDQTBWMWRWdnR5TGJaLW1fQ2J6S0Rmd3g2YmpFdWdKd0pkNkl6VDl2OEk4RklFc281NElqYU5kR0VheXN1VzJwWXRHUQ?oc=5",
-      "data": "22/08 21:02"
-    },
-    {
-      "titulo": "Marcão celebra efetivação no Fluminense: ‘Vou me entregar por inteiro’ - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkVmdnFjWWdwTEFPUk9ZMFhZZG9UTUd5enNqaGhjcHJnZUhjcDlyekk3VmtTdXA2X1FhWVBxQ2RRTmRjR3lIRHNqRlo5UFdkYzd3Y3VfUVdwUDVxNWpNN015clg3a1NSSzFXRFowSjFWMFVTekpTblA5bXpWYV9aSVQ1WVFJZE5aX2EwcU9TcXFFZjlTSU9BUmFpUWVDcm1NZEw5ZnIxdGN6OG0zby1iRGdpWVhHSHVfeFVBTE41TVlranVCOTlEa1JR0gHPAUFVX3lxTE9xUG51bm9ic3BkQXJMd0FYODVDUlJIZlBlTVNYOGd6c3BtVm9nQnpYYjUwQkRHdnp0VWg1c3BIM29xWU0tTTBnTkFoVmRIRTMxQXdKVEN6OG5RSGNBOXdSQXYyS3U1Q25PYnNtckt5RG5wMmQzdUxvREhjZ3NjOHpFeWoxN0w0UTR0dHN3N1ZYdlRyaE0yZHlBbXNDNWRsWXcxd0tyNDBSZnhITWh4bmJvbHg1UjZ4YkZZSmd3UVc5bHByREozSHNzSjhNUUpsdw?oc=5",
-      "data": "22/08 23:19"
-    },
-    {
-      "titulo": "NOTA – MARCÃO - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oUkRmaUN1Z0ZDYjNFRnBZWkdjUnhfaHd3eDNsTVQ4WVBDUU9HblBvVkZnNFd0ckVUcVY3TjViNzF2aVV0TmREX0k3N2hJMmdvS3d2N3c0UmUtS2ZuSmc?oc=5",
-      "data": "22/08 21:46"
+      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
+      "data": "22/08 06:00"
     },
     {
       "titulo": "FLUMINENSE 2 X 1 REMO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO. - Lance!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE53OXpPVG8ydUNQYWxnSWVnaWZJNUx4QW03dkg2eFVIUWozVzJwSTZpUzJxaHpZTjFxYUczNHlPZHdFVkd6bnFJNC1jNmFzUVo2YlRmVmNuWElwQnpjOV9RTEtfbVhsRDZSdmdqZ3JNN0dEbVJPVUUxUmNtdFVLNnFmeDB0anlxQ2pnenlHdXY3bE5tOWdTUw?oc=5",
       "data": "21/08 07:00"
+    },
+    {
+      "titulo": "Marcão fala pela primeira vez como técnico efetivo do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdDFjTnQ2dWhNWldYYjFDcXBQLXBrbUR1dm5PY0ZidGVKbF9VSm9UM2RXenFrSzNJR3BFR092M0ttRUx2UjVxZHpEdVFIcGdwTWpMMk5JdWxEb2FtU1l0QnhpSnBMbjZsRmNrc19rQnN1a1poOG9rdGNOaEhqZzRhX2tOaXVKZWFfT0hNWWt6UlFGRTBfWnpiTlI4ZDFKUjA2cm1rWWVzQlhIbGY4Y0E5Qmc1NzdfNHprRTVFY2dueU0tb01xd2JMbl92eDRac3RoclJHOTJKNmZaeHJKYmYwdVM2MF84WGpZa0Fr?oc=5",
+      "data": "23/08 22:58"
+    },
+    {
+      "titulo": "Ganso rasga elogios à joia do Fluminense: “Craque de bola!” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXRldEJhYUFNOExEYTRtdUtVLXZRd2Rkb1FvcW9CNmhNM2d6MGQ3bUlXMjFCZmQ3RE9KdWs0Y183cXFBbHBJUU9wLS1LbDVkVTFtTVpPYmJhWGRZdzRKNC15VjV5SXdXcC1fdVVUcDVCRkVfM25LWUxaR19jWGZmTGl2NGU3ZWtIVEE?oc=5",
+      "data": "23/08 23:35"
     }
   ],
   "avisos": [
