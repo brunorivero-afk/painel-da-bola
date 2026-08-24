@@ -1,27 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/08/2026 17:24",
+  "atualizado_em": "24/08/2026 18:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-24",
-      "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Fulham x Chelsea",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-24",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "GIL Vicente x Casa Pia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-24",
@@ -84,6 +63,27 @@ window.PAINEL_DATA = {
       "channels": [
         "CAZÉTV",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "16:00",
+      "competition": "Campeonato Inglês",
+      "match": "Fulham x Chelsea",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-24",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "GIL Vicente x Casa Pia",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -310,9 +310,9 @@ window.PAINEL_DATA = {
       "data": "24/08 16:41"
     },
     {
-      "titulo": "Clube russo não chega a acordo por atleta revelado no Fluminense; negociação segue - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHNJbnFLWDlsSmdtRHBZR0Y1Um9EQ1VoanprQ29xaGVRa2tDdGc0N1RQaGZUVkZzN0N1ckpjbXdKV3c0bVRSN00wdnViLUlvaWtHMVJaelkzMEZVeVN2d1Q1R3h5ZFdsUDNNZk9laXlIT0VfcVppUWN1QVhEZzFyZGlUTkpzQkk2elNGRTR6REQwcDFid09VWE13SDFDc1duUTZKOVJ1ckFjbWI3?oc=5",
-      "data": "24/08 19:27"
+      "titulo": "Clube do exterior desiste de contratar atacante no radar do Fluminense; entenda - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHAzYUtRNFV6NEVYN0NqdGhIal9zSmlrM0NzUEQwclNMOVZmT09Md2I4akc3c1JHSDNsc21pU0VKQXFtVGtieHFMb184dWM4bzVtVDhPNDJtZjRvV1NVVExkNldmTF9lcDJ6RGJLVlJHNTliMzBKY2xmdFo5YTVHcEpocnJRelNsWGU5Wmdlbk53RnRSRHpEWGdJcXhOWi1vcjl0Yk5UREk?oc=5",
+      "data": "24/08 17:59"
     },
     {
       "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
