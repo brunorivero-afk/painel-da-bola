@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/08/2026 05:41",
+  "atualizado_em": "24/08/2026 06:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -18,7 +18,8 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Espanhol",
       "match": "Osasuna x Levante",
       "channels": [
-        "CAZÉTV"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -304,14 +305,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - ge",
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
       "data": "23/08 09:00"
     },
     {
-      "titulo": "Fluminense x Remo: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbm92WWIxNUMtelhvUHctQ3JrTGIzQVVIcC1ZRGxYek5kQVM3ckQwUmNLallMTmpLemNiRzJ0a212VF9EZ0pQZnYtMnd1UU00dXcxLXAzbm5sd3VNMEh6WU52bzNRdmEtWjFBYW1CT0ZsSnVkc2VVak9EVXFuMDIwZnNGTGNXNmtndkh0a3JFd3VPUXVnbk9wQ2VBWFRUemNFeWFXTnhVcHpVSWdrdEY2Q25hbjBrRmtXSy12VWd5UEU0S2U2M2VhZ3hOem1JRlHSAd4BQVVfeXFMUDZiOFMtUmdkSkNKQzhkeEhiWXB6V3RFNjh3RHFkWWt0blNWTktwcFhxNk1rWWZMc012M3hhMlhkSklEUEhqdUExQjYtSGY3djg1ZGx3ajZ4ekF3SDF3SlFlNmNqMUZtbW5hVGdUREFVNWNHSWNYX3gxYVhWTjVCZnZ6MmRCOVZZeUZ0blpYWVRramJuWVVNd3BlanVtcmQzYU5zckhQNm5fNHdDNkN6dXliWk9Ldk1PdW1qTlE3RndoNldGNDk4RTJmLU1WazRSU0R5ZWphQ2o2SndhU21R?oc=5",
-      "data": "22/08 06:00"
+      "titulo": "Atuações do Fluminense: Hulk faz o melhor jogo com a camisa tricolor; dê suas notas - GE",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZV9ianVOdjFjWUdIT05selNYQ3BTaGlXN2R4R3BwQ1U0dHExZEtNS1JqOVhab2JlaWJ4djZGR0tJcXVUSmh1ZnNuQ0FCWHpPVm1DWWw0dlpCaHRvbWFQOVBWUmx0LTNvUWpPTkduTklTWXhHNF96OW8xUUQxWXdpSnA4NGFBeDdOc25JcVJnSmlrUDY1VmlMRGdGTFVDWDhTM0M0b0ZmTi1rbjVLZlFOdUJHRHd0Z254VFZNWUhwUjI4RnAyb0JFOFBScFl6REFRRVNQRG84Y3NVZlBSeV9FQ3dEem4wOEw3LUZfbW1FOWJQa25zb0ZwZEtCWdIBigJBVV95cUxNZzNxZko1Qy14cG9YbG8tWnhiU0tNTF9GWTY3UXZ1dm14blVrX0hYT1h1TG5SNWVrZGxZOU5jRi1iZE4ycHU0dll1cFpZTEU1ZlducGNUa1cyWmFTNmZPM2dMcF9Rb3pyb1dPVENqZTFpX1VCTWpaand4bnRVbVo1aVFNbWZDTHFzN3BXcl9qNkNYZDhoanJDLUVJcGdWQTkwOE5qSE9lVHA3WTdEZW42TTVuNXdBU251THJoeDdPb0lYQ3BCVmFDQTBWMWRWdnR5TGJaLW1fQ2J6S0Rmd3g2YmpFdWdKd0pkNkl6VDl2OEk4RklFc281NElqYU5kR0VheXN1VzJwWXRHUQ?oc=5",
+      "data": "22/08 21:02"
     },
     {
       "titulo": "Marcão celebra efetivação no Fluminense: ‘Vou me entregar por inteiro’ - O Dia",
@@ -324,7 +325,7 @@ window.PAINEL_DATA = {
       "data": "22/08 21:46"
     },
     {
-      "titulo": "FLUMINENSE 2 X 1 REMO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO. - LANCE!",
+      "titulo": "FLUMINENSE 2 X 1 REMO | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO. - Lance!",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObE53OXpPVG8ydUNQYWxnSWVnaWZJNUx4QW03dkg2eFVIUWozVzJwSTZpUzJxaHpZTjFxYUczNHlPZHdFVkd6bnFJNC1jNmFzUVo2YlRmVmNuWElwQnpjOV9RTEtfbVhsRDZSdmdqZ3JNN0dEbVJPVUUxUmNtdFVLNnFmeDB0anlxQ2pnenlHdXY3bE5tOWdTUw?oc=5",
       "data": "21/08 07:00"
     }
