@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/08/2026 19:20",
+  "atualizado_em": "24/08/2026 20:18",
   "jogos": [
     {
       "sport": "futebol",
@@ -305,14 +305,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
+      "data": "21/08 14:05"
+    },
+    {
       "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
       "data": "24/08 19:02"
     },
     {
-      "titulo": "Clube do exterior desiste de contratar atacante no radar do Fluminense; entenda - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWHAzYUtRNFV6NEVYN0NqdGhIal9zSmlrM0NzUEQwclNMOVZmT09Md2I4akc3c1JHSDNsc21pU0VKQXFtVGtieHFMb184dWM4bzVtVDhPNDJtZjRvV1NVVExkNldmTF9lcDJ6RGJLVlJHNTliMzBKY2xmdFo5YTVHcEpocnJRelNsWGU5Wmdlbk53RnRSRHpEWGdJcXhOWi1vcjl0Yk5UREk?oc=5",
-      "data": "24/08 17:59"
+      "titulo": "Remo volta a repetir sequência negativa do início da temporada; veja os números | Remo | O Liberal - O Liberal",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTlPTEZkN2liX3lTNUpnSTUwcEdjRzM1N2hQS2tzZHF6SUVrVFUtVUF0ZGQxM1pub1ZGOGxXU0MwUTNBMmc1b1c4WDRXTVk3ZC03Wm1wTkx2ajZHU2sxTVdVR2FUTVhWTVh3d3RHMnctdEdNaVJaTlNaTWNTUFFHdzJMMVVsQW5TS2NfSGxCWTNwTnpLQU9rQWRwYnpXaW5MbUF0ZDZOaHpsQWRQTkMzZjYtS0hTTkYzLUlMc0NUZE9zR1pEUVHSAcsBQVVfeXFMUGFWTGZ6eTVmOEZYTURCSHc2bTlyWU5LdmpKQndORkFDYzdmTXhzempMTFdmNEdvOVZtOE4yS3Z1TWlDVERJaEh0WXZkY2RIRnVEbHd1dmduanZCN0FXWUJwNDl3eGtoWGlKZEpvdnRDVUItNi01Rm55eFh2WjlYN1F6a3lqQnZFMTcxLXpRTjNsN0hiZjlJYmpWbmZ1eWtBSElESWNDbjB0LWh6bUQ4THFsVFFkQ18tMmZ0SjE1M0Rkb3JBWUVsZjZhbDQ?oc=5",
+      "data": "24/08 21:37"
     },
     {
       "titulo": "Clube russo não chega a acordo por atleta revelado no Fluminense; negociação segue - netflu.com.br",
@@ -323,11 +328,6 @@ window.PAINEL_DATA = {
       "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
       "data": "23/08 09:00"
-    },
-    {
-      "titulo": "Fez carreira por Flamengo e Fluminense e agora fatura milhões com 400 escolas de futebol - A Crítica",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3lhSkdKS29MUzRKTzNyQ0NCTG03T05Rb1Z4c1h0VDNnU1VQRzhGLUd2QVlUbmxOYktXM0VGQWRVUXZxcl95bUtTQmJ3Z1hZTnZhRE5KYXFadGU3MWh3Yzd1WF9Eek4tcG1BeXBWTnB6TG9EOUE2c19Ea3VERFBrT0Z3bEhMVFJNUlZKbkNCSVd5MzdSdXA2UGZFN3VmSEdybTlNOXlaUlhmYzg1RE5MUmZUbnFqUjNa?oc=5",
-      "data": "24/08 14:35"
     }
   ],
   "avisos": [
