@@ -1,38 +1,6 @@
 {
-  "atualizado_em": "25/08/2026 17:23",
+  "atualizado_em": "25/08/2026 18:22",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Southampton x West Ham",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Sheffield Wednesday x Wolves",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Real Betis",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-25",
@@ -42,30 +10,6 @@
       "channels": [
         "SPACE",
         "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Bodo/Glimt x NEC Nijmegen",
-      "channels": [
-        "SBT",
-        "TNT",
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Nottingham Forest x Leeds",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -175,6 +119,62 @@
         "SPORTV",
         "ONEFOOTBALL",
         "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Southampton x West Ham",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Sheffield Wednesday x Wolves",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Real Betis",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Bodo/Glimt x NEC Nijmegen",
+      "channels": [
+        "SBT",
+        "TNT",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Nottingham Forest x Leeds",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -429,17 +429,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
-      "data": "23/08 09:00"
+      "titulo": "Fluminense faz primeiro treino com Marcão efetivado e completa elenco com jogadores do sub-20 - GE",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDBMQ2J5QU0zQk5la3o4c2FnSTA4RU1Kdk9CZ0g5MGlQNjBBZ3RYcDJiRmt5MWNNMUNYVmhqX3plYk51VnpOWUQzbGhUWVZiSkI3dVNtSGZKd1pDU0MtZ2ZGeWJLd21wZENadHE1VVJOeW5aZGxmemNWenFHSDF3N0RCS0pfd3JqQVFqUjlqaDQ4SlNaQnpxMDZIdW9aRnRFbmMwNTNLYVRuSFc4Zmc2UFlmN1MwZWNlYWVHZDJMMmJoaXktVGZTVkd3S0tBbXVuWDQxRlctdl9LU0FUSzNnSE5KNjRadHBGOTFEVEpLT2FIZlpUajFR0gGGAkFVX3lxTFBNakgxYTlqdWxnVlR4WDdVNnVTX1BTaDVhN2hXUC1uR3RSVXJRYlJfbVFEQTByUVNGRU90a0d5RXd6RFRfNlRqOGViZ2x0c2tiLXBTNWZRTVFzaTRsamxIT1A3NHFsdGVwNGRkU0VqempnNTRZdnNSX2wtTksycjhkVWVWZ1lFdTl2QUZlUUZIOWthTXYyOXpSbFU4dG1ReGNjekd3VlRZVkQ4YVpHaFk5RlN2UmxfVTVCQ01vSFVLWExwZTJaUExkWWtxMUtEQ2ZUclJwb2taWnRBS1BOUDdyeXJSMEktT1BQTmNIZjlocHQ3M3dJckpWcElnX29nbW5IeG9jQXc?oc=5",
+      "data": "25/08 18:23"
     },
     {
-      "titulo": "Fluminense assina contrato com joia da base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVW5RRk1NQ0FmSmtha3RjbnN3RjFIQ050N3ptaGFEenpLMEdoY1V5TVIzZmVWcHFaRnAtWmNQVGRSVlozZXV3R0FYb2EtZ2N5dlMtcHpHeG1zVUtYT0xwSzJ0OEFpc3JvRl9Zbk5DWFprZ0gyNE5jeDJCampnWVdCSm9rMHc1dnFIMDJveXRNSDczVE5rVDZXXy15c2JUTTQ?oc=5",
-      "data": "25/08 17:10"
-    },
-    {
-      "titulo": "Desfalque por lesão, PH Ganso ganha moral e declaração sobre Marcão: as últimas notícias do Fluminense - terra.com.br",
+      "titulo": "Desfalque por lesão, PH Ganso ganha moral e declaração sobre Marcão: as últimas notícias do Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOV0VtTzd3ejdEanFsbWtvNDF6V1NYdllCNVB0TWYyY3N0U0hPTzQwQkd0UGQ4VTRxNldPYXE5STF5Zk42X2JkaFljTzN0cXZISjhkaTBsYWRXc3M1VXJ3OXdYX2RqeDdRRkxVTlpFQ3h1TXZNOXM1U0tCSXUtYmdpeXhLRTMzQ0RwUGF6TXBzWlZpQVVIQmRtRHBGU0RvNTM3MS1scDVheE1LdVFnRzhBeHpXMlktVHFfMk1ZMFA1OWFxeDdfNV9ER3JrUEVqY0tUMkluSDVtakZ1Z0tsS2h1N3lTWUZjR0NIdFk4bDJsT05XakFacXF3R3FIUy02V2VlUlNFZ0dVQjlnYVN6c085ZVljSUFPMDlNdEw0?oc=5",
       "data": "25/08 19:42"
     },
@@ -447,6 +442,11 @@
       "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTQ3M1haN2h3dnIxUUIxTS1OUXE3bkI4a29laXRkXzVKT3cxTkhxbmdSUTE2SEx5RHdkM1FIR0xQdjh4cF94dVZuRlR4azc1S3c2cnpFUEgxVlA5QmVVUTJBVHlIaW8zNzR6ZHJvN1dTaDVzcklEOEJqMENOMGI4SHRTeTRDNlJmNjRzekRkaWxBNklO?oc=5",
       "data": "24/08 23:00"
+    },
+    {
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
+      "data": "23/08 09:00"
     },
     {
       "titulo": "Fluminense volta a se impor e se torna o melhor mandante da Série A em 2026 - Rádio Itatiaia",
