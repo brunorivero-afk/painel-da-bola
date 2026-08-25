@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 03:37",
+  "atualizado_em": "25/08/2026 04:39",
   "jogos": [
     {
       "sport": "futebol",
@@ -399,28 +399,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.5,
-      "temp_min": 18.7,
+      "temp_max": 22.0,
+      "temp_min": 18.9,
       "chance_chuva": 96,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.8,
-      "temp_min": 19.6,
+      "temp_max": 22.0,
+      "temp_min": 19.7,
       "chance_chuva": 86,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.7,
-      "temp_min": 15.4,
+      "temp_max": 20.6,
+      "temp_min": 15.5,
       "chance_chuva": 86,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.3,
+      "temp_max": 19.1,
       "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Garoa"
