@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 07:26",
+  "atualizado_em": "25/08/2026 08:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -429,14 +429,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Longevidade de Marcão no Fluminense é trunfo para usar mais jovens de Xerém - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3ZVNGh1eWdkTlJhM01Vd0daQ2hlRjZUZUZMOUZGVGc5VTlwZjMwZFZKbllSMGFFQldzSGpFV0dSZVNtYnpzSWZpNVFuQUpBQm93Z2R2QndfQUNMbEpTNS0yQl81V21aV3l4Y1JVQjlnLTUtQ3o0eHAwNWRNNEZFdkVzdVJ6UG5RUE5XQ0VkUURNcDhmTXR2c180NTFjRTVaSXJjV1hCdENWcWxDb3JtNVFDbmR4MlNtci16QUwzVFFITDZnS0JzZEV2UWtRWXlxNzFRdncyX2J6X3B5Ti000gHuAUFVX3lxTFBUNnZwUUNRck1oQnNwU2taOHFTREVqTVlXVnktczM3R200WmhRN29nLVNmRUxxNjNDUkl6OE9meVplVW5Vemgyd2JnWFZ4dkV6a1hFVGRwQ2M5U2RMa3JYZTlLWHI4WU0yWXNPajIxbDJyZ3ktZ3k5MzNxN2VxcnQtOHYyX0xrOG15cUNRRnl1dHNYU25PMGZ2cDZxcV95c1Z6WkxzLUdjYXM5YjhnMlpOQlFral9HRkJoQ3lhX2F6cGlna0Y2VWc5Q1pDLUJRQV94VEd2Wmc3OUMwdkRBVlV4LUhDV0NTakVrWjdQZUE?oc=5",
-      "data": "25/08 06:00"
-    },
-    {
       "titulo": "Fluminense volta a se impor e se torna o melhor mandante da Série A em 2026 - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVhRbmZqMGluQlFIajNRQnZucGNPY1ZDOTZVVzUzN2xULTBVMFd6blJrVVk0R0RNYzAzejh3QjF0WTYza2ZXTElGcHc5aV9NeEg3SzQyUHRFbERxVDlRaG9ST09YVUNfM0puNmJBNTJfLVRsdDJPS2lHcEp3Ty1LdzlkSVJJZ0F5TjY5TnRfRGJlYkk0SlBGQlppb2ZjU2dGdDFWd0JvOHN2SXFYdHpQZGFMVWlUTWc4U0l4aTZiRm8wNVZTTVBkbE9kalE3QnZ4N1lwZl9PVER1MjBfTDVNQzF1VG5hNUUtUUhVT0V2OHNVNUhhVlFUYw?oc=5",
       "data": "25/08 10:04"
+    },
+    {
+      "titulo": "Longevidade de Marcão no Fluminense é trunfo para usar mais jovens de Xerém - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3ZVNGh1eWdkTlJhM01Vd0daQ2hlRjZUZUZMOUZGVGc5VTlwZjMwZFZKbllSMGFFQldzSGpFV0dSZVNtYnpzSWZpNVFuQUpBQm93Z2R2QndfQUNMbEpTNS0yQl81V21aV3l4Y1JVQjlnLTUtQ3o0eHAwNWRNNEZFdkVzdVJ6UG5RUE5XQ0VkUURNcDhmTXR2c180NTFjRTVaSXJjV1hCdENWcWxDb3JtNVFDbmR4MlNtci16QUwzVFFITDZnS0JzZEV2UWtRWXlxNzFRdncyX2J6X3B5Ti000gHuAUFVX3lxTFBUNnZwUUNRck1oQnNwU2taOHFTREVqTVlXVnktczM3R200WmhRN29nLVNmRUxxNjNDUkl6OE9meVplVW5Vemgyd2JnWFZ4dkV6a1hFVGRwQ2M5U2RMa3JYZTlLWHI4WU0yWXNPajIxbDJyZ3ktZ3k5MzNxN2VxcnQtOHYyX0xrOG15cUNRRnl1dHNYU25PMGZ2cDZxcV95c1Z6WkxzLUdjYXM5YjhnMlpOQlFral9HRkJoQ3lhX2F6cGlna0Y2VWc5Q1pDLUJRQV94VEd2Wmc3OUMwdkRBVlV4LUhDV0NTakVrWjdQZUE?oc=5",
+      "data": "25/08 06:00"
     },
     {
       "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
@@ -444,14 +444,14 @@ window.PAINEL_DATA = {
       "data": "24/08 23:00"
     },
     {
-      "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
-      "data": "24/08 19:02"
-    },
-    {
       "titulo": "Remo volta a repetir sequência negativa do início da temporada; veja os números | Remo | O Liberal - O Liberal",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTlPTEZkN2liX3lTNUpnSTUwcEdjRzM1N2hQS2tzZHF6SUVrVFUtVUF0ZGQxM1pub1ZGOGxXU0MwUTNBMmc1b1c4WDRXTVk3ZC03Wm1wTkx2ajZHU2sxTVdVR2FUTVhWTVh3d3RHMnctdEdNaVJaTlNaTWNTUFFHdzJMMVVsQW5TS2NfSGxCWTNwTnpLQU9rQWRwYnpXaW5MbUF0ZDZOaHpsQWRQTkMzZjYtS0hTTkYzLUlMc0NUZE9zR1pEUVHSAcsBQVVfeXFMUGFWTGZ6eTVmOEZYTURCSHc2bTlyWU5LdmpKQndORkFDYzdmTXhzempMTFdmNEdvOVZtOE4yS3Z1TWlDVERJaEh0WXZkY2RIRnVEbHd1dmduanZCN0FXWUJwNDl3eGtoWGlKZEpvdnRDVUItNi01Rm55eFh2WjlYN1F6a3lqQnZFMTcxLXpRTjNsN0hiZjlJYmpWbmZ1eWtBSElESWNDbjB0LWh6bUQ4THFsVFFkQ18tMmZ0SjE1M0Rkb3JBWUVsZjZhbDQ?oc=5",
       "data": "24/08 21:37"
+    },
+    {
+      "titulo": "Fluminense confirma Marcão como técnico. Saiba detalhes! - OFuxico",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzVxUUFfbjhLQ1ZUU3ItN0djQzBTaERZNUM3bHRDcWZCYkhuTFVDclliMDJoZTlaU3ZVLXNhSkkySFhJOGpaVS1EaVBFRnRVbktMYUJJampScmxZSHljeVRoX3ByVVRvcGtnRGpnaElNanZBdEVQWGNEQjZUZUV3aDJtUWZIZHdNREdvcVVaNA?oc=5",
+      "data": "24/08 09:42"
     }
   ],
   "avisos": [
