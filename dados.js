@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 09:38",
+  "atualizado_em": "25/08/2026 10:44",
   "jogos": [
     {
       "sport": "futebol",
@@ -439,9 +439,9 @@ window.PAINEL_DATA = {
       "data": "25/08 10:04"
     },
     {
-      "titulo": "Longevidade de Marcão no Fluminense é trunfo para usar mais jovens de Xerém - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3ZVNGh1eWdkTlJhM01Vd0daQ2hlRjZUZUZMOUZGVGc5VTlwZjMwZFZKbllSMGFFQldzSGpFV0dSZVNtYnpzSWZpNVFuQUpBQm93Z2R2QndfQUNMbEpTNS0yQl81V21aV3l4Y1JVQjlnLTUtQ3o0eHAwNWRNNEZFdkVzdVJ6UG5RUE5XQ0VkUURNcDhmTXR2c180NTFjRTVaSXJjV1hCdENWcWxDb3JtNVFDbmR4MlNtci16QUwzVFFITDZnS0JzZEV2UWtRWXlxNzFRdncyX2J6X3B5Ti000gHuAUFVX3lxTFBUNnZwUUNRck1oQnNwU2taOHFTREVqTVlXVnktczM3R200WmhRN29nLVNmRUxxNjNDUkl6OE9meVplVW5Vemgyd2JnWFZ4dkV6a1hFVGRwQ2M5U2RMa3JYZTlLWHI4WU0yWXNPajIxbDJyZ3ktZ3k5MzNxN2VxcnQtOHYyX0xrOG15cUNRRnl1dHNYU25PMGZ2cDZxcV95c1Z6WkxzLUdjYXM5YjhnMlpOQlFral9HRkJoQ3lhX2F6cGlna0Y2VWc5Q1pDLUJRQV94VEd2Wmc3OUMwdkRBVlV4LUhDV0NTakVrWjdQZUE?oc=5",
-      "data": "25/08 06:00"
+      "titulo": "Marcão tem carta na manga no Fluminense para resgatar Xerém - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWNNNVhaVXJuSVU3TUpxZjU2azVnLUppMmNtUzZjY3gybWd1QmJrc1hIM1NrUjd6SEUzQ3ExcnB3YW4xcU91QXlJRWo5c1BTdUxHdWhqT3RIZG9xeUQ4eG1qekZYT01xNW9aUjFGQ2FCaThqVG05dVVvWnNrNTBPZU5NQm9fdHlDLXNXSzlQRQ?oc=5",
+      "data": "25/08 13:00"
     },
     {
       "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
