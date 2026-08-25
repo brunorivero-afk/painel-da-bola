@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 05:36",
+  "atualizado_em": "25/08/2026 06:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -286,6 +286,7 @@ window.PAINEL_DATA = {
       "competition": "Copa Sul-Americana",
       "match": "River Plate x Santa Fe",
       "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
