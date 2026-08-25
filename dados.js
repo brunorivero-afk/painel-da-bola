@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 12:37",
+  "atualizado_em": "25/08/2026 13:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -434,6 +434,11 @@ window.PAINEL_DATA = {
       "data": "23/08 09:00"
     },
     {
+      "titulo": "Ex-atacante do Flamengo afirma que Fábio, do Fluminense, é melhor que Rossi: “Não acho no nível” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejM1MTVTaVdrMDFmbVd5LWVvVTJvWFhiRVFzVk56RndrRGNVT3RBMlRXSzRoRk9wWEx4N3JfaFdfdjE1bUFjOFk3cUtsX3BuaUVvS3RuYkJlQml0TGlYbzlBWTNpZ0hoRW5VSFQyLXllLWhEMDAtYnVTalc1V1dHaTBPTTAxRENqTmhfczdDRmMxVGU4TnQ5a0NHNFpfWmxYdnluVTZ6TUhyU3d6d2lISnE0Vi1udlozYVE?oc=5",
+      "data": "25/08 15:30"
+    },
+    {
       "titulo": "Marcão tem carta na manga no Fluminense para resgatar Xerém - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOWNNNVhaVXJuSVU3TUpxZjU2azVnLUppMmNtUzZjY3gybWd1QmJrc1hIM1NrUjd6SEUzQ3ExcnB3YW4xcU91QXlJRWo5c1BTdUxHdWhqT3RIZG9xeUQ4eG1qekZYT01xNW9aUjFGQ2FCaThqVG05dVVvWnNrNTBPZU5NQm9fdHlDLXNXSzlQRQ?oc=5",
       "data": "25/08 13:00"
@@ -447,11 +452,6 @@ window.PAINEL_DATA = {
       "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTQ3M1haN2h3dnIxUUIxTS1OUXE3bkI4a29laXRkXzVKT3cxTkhxbmdSUTE2SEx5RHdkM1FIR0xQdjh4cF94dVZuRlR4azc1S3c2cnpFUEgxVlA5QmVVUTJBVHlIaW8zNzR6ZHJvN1dTaDVzcklEOEJqMENOMGI4SHRTeTRDNlJmNjRzekRkaWxBNklO?oc=5",
       "data": "24/08 23:00"
-    },
-    {
-      "titulo": "Fluminense volta a se impor e se torna o melhor mandante da Série A em 2026 - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVhRbmZqMGluQlFIajNRQnZucGNPY1ZDOTZVVzUzN2xULTBVMFd6blJrVVk0R0RNYzAzejh3QjF0WTYza2ZXTElGcHc5aV9NeEg3SzQyUHRFbERxVDlRaG9ST09YVUNfM0puNmJBNTJfLVRsdDJPS2lHcEp3Ty1LdzlkSVJJZ0F5TjY5TnRfRGJlYkk0SlBGQlppb2ZjU2dGdDFWd0JvOHN2SXFYdHpQZGFMVWlUTWc4U0l4aTZiRm8wNVZTTVBkbE9kalE3QnZ4N1lwZl9PVER1MjBfTDVNQzF1VG5hNUUtUUhVT0V2OHNVNUhhVlFUYw?oc=5",
-      "data": "25/08 10:04"
     }
   ],
   "avisos": [
