@@ -1,19 +1,6 @@
 {
-  "atualizado_em": "25/08/2026 16:27",
+  "atualizado_em": "25/08/2026 17:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ettifaq x Al-Nassr",
-      "channels": [
-        "XSPORTS",
-        "SPORTV",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-25",
@@ -175,6 +162,19 @@
       "match": "Sabah FA x Hapoel Beer Sheva",
       "channels": [
         "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ettifaq x Al-Nassr",
+      "channels": [
+        "XSPORTS",
+        "SPORTV",
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -439,19 +439,19 @@
       "data": "25/08 17:10"
     },
     {
-      "titulo": "Fluminense tem apenas 26,6% de aproveitamento contra Athletico-PR no sintético; veja números - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0U5RjBTdVVVOEtVdDF2ajJ5SmRZb2xOZ3VIYzFTaWlwdktWMFVTSGhxaURabFp3OU5MR0FKZDR0M0VtbV80T25icUhqNHk2UklNLVZoTVNiSG5XT2VzR1AwS0wwbWRUZnJBajgxR1J2REJrQ0Jrd0VxMlI3S1IwUzFCbFJlNkZHNTlPQTllaHR6N2NURmlOOXAwZ0tmOExtX0xRa0lzSjJ2Mk91RHBHU3dtSTlhaVk?oc=5",
-      "data": "25/08 16:30"
-    },
-    {
-      "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
-      "data": "24/08 19:02"
+      "titulo": "Desfalque por lesão, PH Ganso ganha moral e declaração sobre Marcão: as últimas notícias do Fluminense - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOV0VtTzd3ejdEanFsbWtvNDF6V1NYdllCNVB0TWYyY3N0U0hPTzQwQkd0UGQ4VTRxNldPYXE5STF5Zk42X2JkaFljTzN0cXZISjhkaTBsYWRXc3M1VXJ3OXdYX2RqeDdRRkxVTlpFQ3h1TXZNOXM1U0tCSXUtYmdpeXhLRTMzQ0RwUGF6TXBzWlZpQVVIQmRtRHBGU0RvNTM3MS1scDVheE1LdVFnRzhBeHpXMlktVHFfMk1ZMFA1OWFxeDdfNV9ER3JrUEVqY0tUMkluSDVtakZ1Z0tsS2h1N3lTWUZjR0NIdFk4bDJsT05XakFacXF3R3FIUy02V2VlUlNFZ0dVQjlnYVN6c085ZVljSUFPMDlNdEw0?oc=5",
+      "data": "25/08 19:42"
     },
     {
       "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTQ3M1haN2h3dnIxUUIxTS1OUXE3bkI4a29laXRkXzVKT3cxTkhxbmdSUTE2SEx5RHdkM1FIR0xQdjh4cF94dVZuRlR4azc1S3c2cnpFUEgxVlA5QmVVUTJBVHlIaW8zNzR6ZHJvN1dTaDVzcklEOEJqMENOMGI4SHRTeTRDNlJmNjRzekRkaWxBNklO?oc=5",
       "data": "24/08 23:00"
+    },
+    {
+      "titulo": "Fluminense volta a se impor e se torna o melhor mandante da Série A em 2026 - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVhRbmZqMGluQlFIajNRQnZucGNPY1ZDOTZVVzUzN2xULTBVMFd6blJrVVk0R0RNYzAzejh3QjF0WTYza2ZXTElGcHc5aV9NeEg3SzQyUHRFbERxVDlRaG9ST09YVUNfM0puNmJBNTJfLVRsdDJPS2lHcEp3Ty1LdzlkSVJJZ0F5TjY5TnRfRGJlYkk0SlBGQlppb2ZjU2dGdDFWd0JvOHN2SXFYdHpQZGFMVWlUTWc4U0l4aTZiRm8wNVZTTVBkbE9kalE3QnZ4N1lwZl9PVER1MjBfTDVNQzF1VG5hNUUtUUhVT0V2OHNVNUhhVlFUYw?oc=5",
+      "data": "25/08 10:04"
     }
   ],
   "avisos": [
