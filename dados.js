@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 15:33",
+  "atualizado_em": "25/08/2026 16:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Sabah FA x Hapoel Beer Sheva",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-25",
@@ -175,6 +165,16 @@ window.PAINEL_DATA = {
       "match": "Leon x Real Salt Lake",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Sabah FA x Hapoel Beer Sheva",
+      "channels": [
+        "HBO MAX"
       ]
     },
     {
@@ -400,51 +400,51 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.4,
+      "temp_max": 22.0,
       "temp_min": 18.8,
       "chance_chuva": 94,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.7,
+      "temp_max": 21.8,
       "temp_min": 19.4,
       "chance_chuva": 47,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.0,
+      "temp_max": 19.6,
       "temp_min": 15.4,
       "chance_chuva": 98,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.0,
+      "temp_max": 19.4,
       "temp_min": 12.8,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
+      "data": "23/08 09:00"
+    },
     {
       "titulo": "Fluminense assina contrato com joia da base - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVW5RRk1NQ0FmSmtha3RjbnN3RjFIQ050N3ptaGFEenpLMEdoY1V5TVIzZmVWcHFaRnAtWmNQVGRSVlozZXV3R0FYb2EtZ2N5dlMtcHpHeG1zVUtYT0xwSzJ0OEFpc3JvRl9Zbk5DWFprZ0gyNE5jeDJCampnWVdCSm9rMHc1dnFIMDJveXRNSDczVE5rVDZXXy15c2JUTTQ?oc=5",
       "data": "25/08 17:10"
     },
     {
-      "titulo": "Ex-atacante do Flamengo afirma que Fábio, do Fluminense, é melhor que Rossi: “Não acho no nível” - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejM1MTVTaVdrMDFmbVd5LWVvVTJvWFhiRVFzVk56RndrRGNVT3RBMlRXSzRoRk9wWEx4N3JfaFdfdjE1bUFjOFk3cUtsX3BuaUVvS3RuYkJlQml0TGlYbzlBWTNpZ0hoRW5VSFQyLXllLWhEMDAtYnVTalc1V1dHaTBPTTAxRENqTmhfczdDRmMxVGU4TnQ5a0NHNFpfWmxYdnluVTZ6TUhyU3d6d2lISnE0Vi1udlozYVE?oc=5",
-      "data": "25/08 15:30"
+      "titulo": "Fluminense tem apenas 26,6% de aproveitamento contra Athletico-PR no sintético; veja números - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM0U5RjBTdVVVOEtVdDF2ajJ5SmRZb2xOZ3VIYzFTaWlwdktWMFVTSGhxaURabFp3OU5MR0FKZDR0M0VtbV80T25icUhqNHk2UklNLVZoTVNiSG5XT2VzR1AwS0wwbWRUZnJBajgxR1J2REJrQ0Jrd0VxMlI3S1IwUzFCbFJlNkZHNTlPQTllaHR6N2NURmlOOXAwZ0tmOExtX0xRa0lzSjJ2Mk91RHBHU3dtSTlhaVk?oc=5",
+      "data": "25/08 16:30"
     },
     {
-      "titulo": "Longevidade de Marcão no Fluminense é trunfo para usar mais jovens de Xerém - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3ZVNGh1eWdkTlJhM01Vd0daQ2hlRjZUZUZMOUZGVGc5VTlwZjMwZFZKbllSMGFFQldzSGpFV0dSZVNtYnpzSWZpNVFuQUpBQm93Z2R2QndfQUNMbEpTNS0yQl81V21aV3l4Y1JVQjlnLTUtQ3o0eHAwNWRNNEZFdkVzdVJ6UG5RUE5XQ0VkUURNcDhmTXR2c180NTFjRTVaSXJjV1hCdENWcWxDb3JtNVFDbmR4MlNtci16QUwzVFFITDZnS0JzZEV2UWtRWXlxNzFRdncyX2J6X3B5Ti000gHuAUFVX3lxTFBUNnZwUUNRck1oQnNwU2taOHFTREVqTVlXVnktczM3R200WmhRN29nLVNmRUxxNjNDUkl6OE9meVplVW5Vemgyd2JnWFZ4dkV6a1hFVGRwQ2M5U2RMa3JYZTlLWHI4WU0yWXNPajIxbDJyZ3ktZ3k5MzNxN2VxcnQtOHYyX0xrOG15cUNRRnl1dHNYU25PMGZ2cDZxcV95c1Z6WkxzLUdjYXM5YjhnMlpOQlFral9HRkJoQ3lhX2F6cGlna0Y2VWc5Q1pDLUJRQV94VEd2Wmc3OUMwdkRBVlV4LUhDV0NTakVrWjdQZUE?oc=5",
-      "data": "25/08 06:00"
-    },
-    {
-      "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
+      "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - terra.com.br",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
       "data": "24/08 19:02"
     },
