@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 01:33",
+  "atualizado_em": "25/08/2026 02:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -428,14 +428,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Sócios elegem novo desenho do ônibus do Fluminense; confira - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHNKMWJibHZtUndCQTRXLWhHS1o4Yjg5NVk5T3I4bnh3Vy1fa0JVM1VuUzdmQmZOMW44RnJDc05SSkxvdWgtYUxvYi1KZTF6ZGhUSllTbjVUa2Yyd2MyX2lLd29KWDhHSUJPaEdpM29XZHdIcXlVS1M5Q0dfWWRiTnhpTS1Jc2ZSZk1TUTdn?oc=5",
-      "data": "25/08 00:31"
+      "titulo": "Rodada do Brasileirão termina com resultado ruim para o Fluminense nesta segunda-feira - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUxVeVJnZ2RMQkU2TDZpWWgyXy13TzVyTVhJRVlRaHVaUUJkWE5scTltdE5SdWYyLW9JVTU5Q3R2RzZ3ZS00bEY0amJMdWFxeV92RFJzdVdjaWdmcDZmZ1JxZVpMOFV2ZTQ1dzZDTVJvWW1acmd1elRUWm41WWxhOERJTkl4d1plbUxVa3EzYmJmdWpGVUQyUlh1dldEdFRyTHQ4ZjdjT0dnSmwxdnVuZ09KMA?oc=5",
+      "data": "25/08 01:00"
     },
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
-      "data": "23/08 09:00"
+      "titulo": "Fluminense ganha semana cheia para ajustes antes de confrontos decisivos no Brasileirão e na Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNVY5VVlDLTVKVzY0N1VRdHNWXzVlYkx6a2ljTTI3SkI1d3BSOUlndzIxMFF5RHoyZGthR1NuYlYxUUhCRGp6OTVuVFpCZkNKQ2N0azhqclE1Y0dKRHNKak4ta0JkU0tZeVRVMUMzV0dUcDVSbmVnQXlOd3EtX2lPNEloeHBpVTlxQm1sRV94TXptTXc3MDVnbVR6T2JfS2VyQUpoal9talV2R3EyLTdXZVBvejFGUFNRWWI2LURFQWg4Z2RmQlZ3Um9lUC1GRmZwTTNCTC1aSGt1NFFiUkEyZTFQNWpSc1VLOE1Ra1F1bTNyeVJKd2xNUEp3c0c3THd3Q3E4ckRVSdIBlgJBVV95cUxOZ09GenJ0dklEQjhtSnZvMzVESnJqbGJ1Yy0teV90THdOS0xXNzJJY0NBSVlOekU1NUdSaW5EWWJ4cDJLcGJrZWQ3dmp3cWh5TTlBRmJYLVdUbks4NGRKc2ItRDNuMEpmUFZzX2l0VEFBUHMxVjh4SjZhbUozeE9lTURRQUtWVTNHUFVTMzdiZFdobE1nU0V0N0lBYnozTnRTT3hGTWZkNURQV1ZiV3V5V0dEdENwMTFVUFdLMUx5UjBHaV9ERlNTQWlucHRXSHRIeUhmelRnbzZocXg2Q3J0aHFzeWl2am1aWG9Ud3JGdG5MSXI3WEwzcmFaVDdfNWI2bGtSd3NrbmVSYjdDS2V6S1N4SXFuQQ?oc=5",
+      "data": "24/08 11:00"
     },
     {
       "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
@@ -443,14 +443,14 @@ window.PAINEL_DATA = {
       "data": "24/08 19:02"
     },
     {
-      "titulo": "Remo volta a repetir sequência negativa do início da temporada; veja os números | Remo | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTlPTEZkN2liX3lTNUpnSTUwcEdjRzM1N2hQS2tzZHF6SUVrVFUtVUF0ZGQxM1pub1ZGOGxXU0MwUTNBMmc1b1c4WDRXTVk3ZC03Wm1wTkx2ajZHU2sxTVdVR2FUTVhWTVh3d3RHMnctdEdNaVJaTlNaTWNTUFFHdzJMMVVsQW5TS2NfSGxCWTNwTnpLQU9rQWRwYnpXaW5MbUF0ZDZOaHpsQWRQTkMzZjYtS0hTTkYzLUlMc0NUZE9zR1pEUVHSAcsBQVVfeXFMUGFWTGZ6eTVmOEZYTURCSHc2bTlyWU5LdmpKQndORkFDYzdmTXhzempMTFdmNEdvOVZtOE4yS3Z1TWlDVERJaEh0WXZkY2RIRnVEbHd1dmduanZCN0FXWUJwNDl3eGtoWGlKZEpvdnRDVUItNi01Rm55eFh2WjlYN1F6a3lqQnZFMTcxLXpRTjNsN0hiZjlJYmpWbmZ1eWtBSElESWNDbjB0LWh6bUQ4THFsVFFkQ18tMmZ0SjE1M0Rkb3JBWUVsZjZhbDQ?oc=5",
-      "data": "24/08 21:37"
+      "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTQ3M1haN2h3dnIxUUIxTS1OUXE3bkI4a29laXRkXzVKT3cxTkhxbmdSUTE2SEx5RHdkM1FIR0xQdjh4cF94dVZuRlR4azc1S3c2cnpFUEgxVlA5QmVVUTJBVHlIaW8zNzR6ZHJvN1dTaDVzcklEOEJqMENOMGI4SHRTeTRDNlJmNjRzekRkaWxBNklO?oc=5",
+      "data": "24/08 23:00"
     },
     {
-      "titulo": "Fez carreira por Flamengo e Fluminense e agora fatura milhões com 400 escolas de futebol - A Crítica",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3lhSkdKS29MUzRKTzNyQ0NCTG03T05Rb1Z4c1h0VDNnU1VQRzhGLUd2QVlUbmxOYktXM0VGQWRVUXZxcl95bUtTQmJ3Z1hZTnZhRE5KYXFadGU3MWh3Yzd1WF9Eek4tcG1BeXBWTnB6TG9EOUE2c19Ea3VERFBrT0Z3bEhMVFJNUlZKbkNCSVd5MzdSdXA2UGZFN3VmSEdybTlNOXlaUlhmYzg1RE5MUmZUbnFqUjNa?oc=5",
-      "data": "24/08 14:35"
+      "titulo": "Fluminense confirma Marcão como técnico. Saiba detalhes! - OFuxico",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzVxUUFfbjhLQ1ZUU3ItN0djQzBTaERZNUM3bHRDcWZCYkhuTFVDclliMDJoZTlaU3ZVLXNhSkkySFhJOGpaVS1EaVBFRnRVbktMYUJJampScmxZSHljeVRoX3ByVVRvcGtnRGpnaElNanZBdEVQWGNEQjZUZUV3aDJtUWZIZHdNREdvcVVaNA?oc=5",
+      "data": "24/08 09:42"
     }
   ],
   "avisos": [
