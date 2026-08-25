@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/08/2026 21:59",
+  "atualizado_em": "24/08/2026 23:20",
   "jogos": [
     {
       "sport": "futebol",
@@ -305,24 +305,24 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Sócios escolherão o desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVhNMjFodnJwbnFXUzFWakhmN2QtWE5BTzlKY0g0c0ZPRzdQZnQyVDhkWnhkQ3VRdXA0Mk5GY2pPcUNuVUdkT2x5ZkRRMUhFNFlrNjN6NVVUMVdoV0lvUWlKVW1LXzc4aUVLek8wSXJycWFtMThqTE1ET0xkN3JDS09zUWVFVzNSSWZCUzAxSkszekZMaW5Bbm9n?oc=5",
-      "data": "21/08 14:05"
-    },
-    {
       "titulo": "Sócios elegem novo desenho do ônibus do Fluminense; confira - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHNKMWJibHZtUndCQTRXLWhHS1o4Yjg5NVk5T3I4bnh3Vy1fa0JVM1VuUzdmQmZOMW44RnJDc05SSkxvdWgtYUxvYi1KZTF6ZGhUSllTbjVUa2Yyd2MyX2lLd29KWDhHSUJPaEdpM29XZHdIcXlVS1M5Q0dfWWRiTnhpTS1Jc2ZSZk1TUTdn?oc=5",
       "data": "25/08 00:31"
     },
     {
-      "titulo": "Marcão conta com \"auxiliar\" Thiago Silva para corrigir bola aérea do Fluminense - GE",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaVBIemlXekp6SXEtVWtTQ3ZlZ2l5WEJ4QU5BbGxWSkE4SFVoVFRmYUl5NlV2Z0J2bzE4UHdMZnBZVkpmczZub3oyVmJuUjFpVFFUNFN1TU4xaWRqUnVJLVZDUmFpTGVYdG9feDR5aHNJdHE5WG9tUERRSGk0VWE2R0NUUEViVkV6aG5HenpsdmQ0YWlOUjBfMnJxRG1NVGx5TDl5NzZaem1EaHVrZW9mTm9BZU0xY245VmhCQ2VHRHhlVlpZUHNYZHhCTEY2cS1iQ2NQa2Q5Y0w0OUhlckZYTmNR0gHwAUFVX3lxTFBBQjAxbmpGamRJanFUcVlJdU1uOTZPQUJyc2g2bTVwV1VvNlZ5VXZKOC1PcjlNbFdnSTA5LUM1M1AwZmxHODJSS2wxWXhfSm12Sm56YTA3S0V2UW1PdF90X2hyenJFb25oWW9zaW5zY0VybS1ZQWRMdUFZYUhlcnFxdmNTN1RXM09KSGx2bDlEZVkzRzJzdWNwejRWS3NaOG5ZN2dZbF9hbEpSUGU3NTJzSi1GaHFPMXVWRk41Ynd2MXRKNGxwYnB2UnZ3ak9HZXozcmNwZDQtaEJ5UmZQWG9vSTByX0tJX2MzZzdta18tdQ?oc=5",
-      "data": "24/08 07:01"
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
+      "data": "23/08 09:00"
     },
     {
       "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
       "data": "24/08 19:02"
+    },
+    {
+      "titulo": "Remo volta a repetir sequência negativa do início da temporada; veja os números | Remo | O Liberal - O Liberal",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTlPTEZkN2liX3lTNUpnSTUwcEdjRzM1N2hQS2tzZHF6SUVrVFUtVUF0ZGQxM1pub1ZGOGxXU0MwUTNBMmc1b1c4WDRXTVk3ZC03Wm1wTkx2ajZHU2sxTVdVR2FUTVhWTVh3d3RHMnctdEdNaVJaTlNaTWNTUFFHdzJMMVVsQW5TS2NfSGxCWTNwTnpLQU9rQWRwYnpXaW5MbUF0ZDZOaHpsQWRQTkMzZjYtS0hTTkYzLUlMc0NUZE9zR1pEUVHSAcsBQVVfeXFMUGFWTGZ6eTVmOEZYTURCSHc2bTlyWU5LdmpKQndORkFDYzdmTXhzempMTFdmNEdvOVZtOE4yS3Z1TWlDVERJaEh0WXZkY2RIRnVEbHd1dmduanZCN0FXWUJwNDl3eGtoWGlKZEpvdnRDVUItNi01Rm55eFh2WjlYN1F6a3lqQnZFMTcxLXpRTjNsN0hiZjlJYmpWbmZ1eWtBSElESWNDbjB0LWh6bUQ4THFsVFFkQ18tMmZ0SjE1M0Rkb3JBWUVsZjZhbDQ?oc=5",
+      "data": "24/08 21:37"
     },
     {
       "titulo": "Fluminense terá desfalques e retornos em 'decisão' contra o Athletico-PR - LANCE!",
