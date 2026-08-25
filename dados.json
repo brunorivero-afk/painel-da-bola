@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/08/2026 08:22",
+  "atualizado_em": "25/08/2026 09:38",
   "jogos": [
     {
       "sport": "futebol",
@@ -400,34 +400,39 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.0,
-      "temp_min": 18.9,
-      "chance_chuva": 96,
+      "temp_max": 22.4,
+      "temp_min": 18.8,
+      "chance_chuva": 94,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.0,
-      "temp_min": 19.7,
-      "chance_chuva": 86,
+      "temp_max": 21.7,
+      "temp_min": 19.4,
+      "chance_chuva": 45,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.6,
-      "temp_min": 15.5,
-      "chance_chuva": 86,
+      "temp_max": 21.0,
+      "temp_min": 15.4,
+      "chance_chuva": 98,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.1,
-      "temp_min": 13.1,
+      "temp_max": 21.0,
+      "temp_min": 12.8,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
+      "data": "23/08 09:00"
+    },
     {
       "titulo": "Fluminense volta a se impor e se torna o melhor mandante da Série A em 2026 - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVhRbmZqMGluQlFIajNRQnZucGNPY1ZDOTZVVzUzN2xULTBVMFd6blJrVVk0R0RNYzAzejh3QjF0WTYza2ZXTElGcHc5aV9NeEg3SzQyUHRFbERxVDlRaG9ST09YVUNfM0puNmJBNTJfLVRsdDJPS2lHcEp3Ty1LdzlkSVJJZ0F5TjY5TnRfRGJlYkk0SlBGQlppb2ZjU2dGdDFWd0JvOHN2SXFYdHpQZGFMVWlUTWc4U0l4aTZiRm8wNVZTTVBkbE9kalE3QnZ4N1lwZl9PVER1MjBfTDVNQzF1VG5hNUUtUUhVT0V2OHNVNUhhVlFUYw?oc=5",
@@ -444,14 +449,9 @@
       "data": "24/08 23:00"
     },
     {
-      "titulo": "Remo volta a repetir sequência negativa do início da temporada; veja os números | Remo | O Liberal - O Liberal",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRTlPTEZkN2liX3lTNUpnSTUwcEdjRzM1N2hQS2tzZHF6SUVrVFUtVUF0ZGQxM1pub1ZGOGxXU0MwUTNBMmc1b1c4WDRXTVk3ZC03Wm1wTkx2ajZHU2sxTVdVR2FUTVhWTVh3d3RHMnctdEdNaVJaTlNaTWNTUFFHdzJMMVVsQW5TS2NfSGxCWTNwTnpLQU9rQWRwYnpXaW5MbUF0ZDZOaHpsQWRQTkMzZjYtS0hTTkYzLUlMc0NUZE9zR1pEUVHSAcsBQVVfeXFMUGFWTGZ6eTVmOEZYTURCSHc2bTlyWU5LdmpKQndORkFDYzdmTXhzempMTFdmNEdvOVZtOE4yS3Z1TWlDVERJaEh0WXZkY2RIRnVEbHd1dmduanZCN0FXWUJwNDl3eGtoWGlKZEpvdnRDVUItNi01Rm55eFh2WjlYN1F6a3lqQnZFMTcxLXpRTjNsN0hiZjlJYmpWbmZ1eWtBSElESWNDbjB0LWh6bUQ4THFsVFFkQ18tMmZ0SjE1M0Rkb3JBWUVsZjZhbDQ?oc=5",
-      "data": "24/08 21:37"
-    },
-    {
-      "titulo": "Fluminense confirma Marcão como técnico. Saiba detalhes! - OFuxico",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNzVxUUFfbjhLQ1ZUU3ItN0djQzBTaERZNUM3bHRDcWZCYkhuTFVDclliMDJoZTlaU3ZVLXNhSkkySFhJOGpaVS1EaVBFRnRVbktMYUJJampScmxZSHljeVRoX3ByVVRvcGtnRGpnaElNanZBdEVQWGNEQjZUZUV3aDJtUWZIZHdNREdvcVVaNA?oc=5",
-      "data": "24/08 09:42"
+      "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
+      "data": "24/08 19:02"
     }
   ],
   "avisos": [
