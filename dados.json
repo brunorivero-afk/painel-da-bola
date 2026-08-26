@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/08/2026 13:13",
+  "atualizado_em": "26/08/2026 15:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -347,28 +347,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.7,
+      "temp_max": 23.6,
       "temp_min": 19.7,
       "chance_chuva": 75,
-      "condicao": "Garoa fraca"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 23.7,
-      "temp_min": 18.9,
-      "chance_chuva": 76,
       "condicao": "Garoa"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 23.3,
+      "temp_min": 18.9,
+      "chance_chuva": 76,
+      "condicao": "Garoa fraca"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.4,
+      "temp_max": 23.6,
       "temp_min": 16.7,
       "chance_chuva": 75,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.9,
+      "temp_max": 19.6,
       "temp_min": 14.1,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -376,9 +376,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense-PI empresta meia Tilico ao Athletico-PR após destaque no sub-20 e equipe profissional - GE",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ3g0aTlqbVVMYVFhVDNIS2NxY3Jwa01jM3RNR0x3NUVjcjNBZ1hieXd1TnZUQmJnZHRZUzNaanVIRXNzUnBDNjlWRmxmb2JqU3FoQmhFRlk5WlZXd0d3V01ZMkFQWVJ0bEZBa3VQYi1weW5QVlRfdHVjVTU4a1VJNWNzYWQzRHdyTElkRU5fMkk2d1ZnWnduS1U2UE1hdkdpYUUyaWtMOHZRVUt2WGd1MUg0bjBUWWptUU9ieDRjRHdGV253d2tEYm5TSkZobjhxRjFFUFpvWDdPSFFVYVdHbm5IRUtjaW9v0gH3AUFVX3lxTE9GX2o4RC1zeTZyck5zdlZkY3RNRjlNZGtYSGw2eEsyR21fZEVHdTBwSzNmTmlMaFZydEFNOHBqbFQ5NHFGYTdRLVFpSFBhYXVTVjVyTjdFbjB1Z1Nkdm8ybjlOZ19sVHZhV3pPOWRZUDZlMTlzVGExUjdOdXJZZE5GYlFqbzZ6RUxkWHduNVJJRUtfWVdZcE90RjlabFFWU1JNVWxobVBTMGdidkxxWUdhcXkxTEZnRGF3YW80TWtnUXlUb2xIWVduNlY3LV9zV3k1X0ZtZE04dC0yUTk3TkhTNThKaExFb2VzWVFMeWdzXzktU0dHSkE?oc=5",
-      "data": "26/08 15:33"
+      "titulo": "Saiba o que mudou na comissão técnica do Fluminense após efetivação de Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTJnMmFnaVpYN0gwNlF2UHJNOGt2d2kweWFodzBQdVlXLWRSUkF5VkpUMjdyNk1QRXNlNjdReXpNaG1XaFIzbEQwQ2NEYlEtTHh6NzFIeklNNVZJNUpiS05xQ1hOTkcyc192cHhEVUJkZDBvdzFVbDRISDl1U2lPM2E4SUZIZkVHbUlybU0yXzZvU1k2SmFXcU9adzN2S3BNcTVMbmFVd1ZvZENFeTROanhsMmpWWjUyYmwtRUlwSVlfVlJfd2Y3SHNsTUJ4YzlwM1NFdGRmUmJIdnFwZjBDc3Bn0gHwAUFVX3lxTFA3N1RHV3FSbUVYdk9YNDRra1EzOXhjSFhHTFNNdE9RNjdkWjhGV2wwWjBYSEJXQTBEQXpTZ25RMy1uOXVWcVlqLWUxX1hMX0pJQmV0My1qTWdXa1ZsdU1QQWRsczV4MWxTTGhJUFRUZC1GTy1yWm5ET1loaE84VUt6MTNJeklHc2FGb2VnUTFSZDhwLUZyQmpfVTVISTRiZlFzOXBrYVVNdW9RY2RqYVlTVWpDZW5mazhVVGhHMGU2SDBIeUFQNWVYNS1DUmt0aUdiM1REM01zbi13SkFxLUpZdWYzZDlmbFNtbFpkRUZ6ZQ?oc=5",
+      "data": "26/08 07:01"
     },
     {
       "titulo": "Savarino perde espaço, e precisa de volta por cima no Fluminense - O Dia",
@@ -386,19 +386,19 @@
       "data": "26/08 14:41"
     },
     {
-      "titulo": "Thiago Silva é dúvida no Fluminense contra Athletico-PR; saiba motivo e possíveis substitutos - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjROcTc0TzN3S3JWMUc1MEZuRGMwV1BFNkNEdENmZERPN3lzSW84YVo4OThHa1VldHJRdnZwdzBUSThnMnBHT2Q5NV9WQ2I1U2pUVEZ2SEtvMUpSSkk1Xy1CQkNwQ3V0Zkt1N0xWLWVkNk01ZHBuWWx5VU9IUzhmVnpKTF83S1lwanRWUl8xNFdMZnRpR0lSOGFmajRyZFNFdUV5aFRCUUZoSjFTY3JfMzBUSE5oUk1lYjNn?oc=5",
-      "data": "26/08 14:58"
+      "titulo": "Thiago Silva pode desfalcar Fluminense contra o Athletico-PR - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUGxIQnF6QU9HRXpPd1JtaTcwX2JyZEstcE11QjFsdjVhZS0tRFdsR2VkSzJKWC1WYndJbnlhTTRMRnpnYVVUYTU3bUN3VzFWb05TRkplay1YVVNQLXpPSlBmTUNBSmJGRktyaTBrQ0MyQlBzRXpMZGZpR3p3eXIxektPRTl6NjV3TUVnUGs5M1NFNEwyMU9VbHlvM2hlN01WS2ZtSDhhdnJlTG5jSG1XYWlwTkdDTm9qbzdXRElwZXVWZWVOY0pHVE1GbnA5QUdvTXNJbXFaZ1Y3a3E1SDZyUVFBU0xsaEIzcFhKQnpxR083VjA?oc=5",
+      "data": "26/08 17:05"
     },
     {
-      "titulo": "Fluminense lidera ranking de mandantes no Brasileirão; veja os números - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYUxTblNseDUtR1VneGl6dl8tdjUzTS1SRXhOZFhwVWg5U2NkeHAydGhtMmIxLUtzNmRKVDN2QzNiQ2QyMEFFSEJnQUpJY2hmdWN3dFBWVUFZRFdKclhOVXNCVWU2Uy1mbUJvRmIyLXZlcHlfVmxIaUtOWk04QXc1SDBEVS1EWWpieHo0M3RNUXhmTXRqNWVialpTbHFOclZyNndHenpOYTNQVG8xSTd6djdOQ0dVNWpGQXlaSFgzRDI5M1ZXN2VGZnNxZEtkNXlSZElidU5RVGtEUDFWR3hEb2RXVm8tcldRRTd2WEdn?oc=5",
-      "data": "25/08 07:53"
+      "titulo": "Natural de Regeneração, Tilico, de 16 anos, é emprestado pelo Fluminense-PI ao Athletico-PR - Somos Notícia",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RNTRhWkl3clJOdndiRlVwTmFkOUgyd2ZBU3lwR29PQUtJUFBuNTd5aGlaZ2doTUNlMzlkNTZYNm1iY2ttNzFKT3ZRQzFtQ3NENkZOak9ZUXV4SEVNTm9wdWxzckhCYk8yd1RIY0g5V3pnRmZaMlNwQ296ZE9iQQ?oc=5",
+      "data": "26/08 17:37"
     },
     {
-      "titulo": "Saiba o que mudou na comissão técnica do Fluminense após efetivação de Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTJnMmFnaVpYN0gwNlF2UHJNOGt2d2kweWFodzBQdVlXLWRSUkF5VkpUMjdyNk1QRXNlNjdReXpNaG1XaFIzbEQwQ2NEYlEtTHh6NzFIeklNNVZJNUpiS05xQ1hOTkcyc192cHhEVUJkZDBvdzFVbDRISDl1U2lPM2E4SUZIZkVHbUlybU0yXzZvU1k2SmFXcU9adzN2S3BNcTVMbmFVd1ZvZENFeTROanhsMmpWWjUyYmwtRUlwSVlfVlJfd2Y3SHNsTUJ4YzlwM1NFdGRmUmJIdnFwZjBDc3Bn0gHwAUFVX3lxTFA3N1RHV3FSbUVYdk9YNDRra1EzOXhjSFhHTFNNdE9RNjdkWjhGV2wwWjBYSEJXQTBEQXpTZ25RMy1uOXVWcVlqLWUxX1hMX0pJQmV0My1qTWdXa1ZsdU1QQWRsczV4MWxTTGhJUFRUZC1GTy1yWm5ET1loaE84VUt6MTNJeklHc2FGb2VnUTFSZDhwLUZyQmpfVTVISTRiZlFzOXBrYVVNdW9RY2RqYVlTVWpDZW5mazhVVGhHMGU2SDBIeUFQNWVYNS1DUmt0aUdiM1REM01zbi13SkFxLUpZdWYzZDlmbFNtbFpkRUZ6ZQ?oc=5",
-      "data": "26/08 07:01"
+      "titulo": "Fluminense assina contrato com joia da base - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVW5RRk1NQ0FmSmtha3RjbnN3RjFIQ050N3ptaGFEenpLMEdoY1V5TVIzZmVWcHFaRnAtWmNQVGRSVlozZXV3R0FYb2EtZ2N5dlMtcHpHeG1zVUtYT0xwSzJ0OEFpc3JvRl9Zbk5DWFprZ0gyNE5jeDJCampnWVdCSm9rMHc1dnFIMDJveXRNSDczVE5rVDZXXy15c2JUTTQ?oc=5",
+      "data": "25/08 17:10"
     }
   ],
   "avisos": []
