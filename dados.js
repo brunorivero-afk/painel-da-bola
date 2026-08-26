@@ -1,108 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/08/2026 15:54",
+  "atualizado_em": "26/08/2026 18:36",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al Diriyah x Al Kholood",
-      "channels": [
-        "BANDSPORTS",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Newcastle x West Brom",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Tottenham x Charlton",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Bradford x Burnley",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Madrid x Real Sociedad",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Lyon x Fenerbahce",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "AEK Athens FC x Levski Sofia",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Viking x Dinamo Zagreb",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Celje x Slovan Bratislava",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Preston x Everton",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-26",
@@ -127,10 +25,47 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-26",
       "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "River Plate x Santa Fe",
+      "competition": "Leagues Cup",
+      "match": "Toluca x Austin",
       "channels": [
-        "ESPN",
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "21:30",
+      "competition": "Copa Do Brasil",
+      "match": "Vasco x Vitória",
+      "channels": [
+        "GLOBO",
+        "SPORTV 2",
+        "PREMIERE 2",
+        "GE TV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "21:30",
+      "competition": "Copa Do Brasil",
+      "match": "Palmeiras x Santos",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE FC",
+        "GE TV",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "21:30",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Marathon x Real Esteli",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -148,46 +83,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-26",
       "time": "21:30",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CD Marathon x Real Esteli",
+      "competition": "Copa Sul-Americana",
+      "match": "River Plate x Santa Fe",
       "channels": [
+        "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "21:30",
-      "competition": "Copa Do Brasil",
-      "match": "Palmeiras x Santos",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "21:30",
-      "competition": "Copa Do Brasil",
-      "match": "Vasco x Vitória",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE FC",
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-26",
-      "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Toluca x Austin",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -205,7 +105,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-26",
       "time": "23:30",
       "competition": "CONCACAF Central American Cup",
-      "match": "LD Alajuelense x Plaza Amador",
+      "match": "Xelaju x Firpo",
       "channels": [
         "DISNEY+"
       ]
@@ -215,7 +115,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-26",
       "time": "23:30",
       "competition": "CONCACAF Central American Cup",
-      "match": "Xelaju x Firpo",
+      "match": "LD Alajuelense x Plaza Amador",
       "channels": [
         "DISNEY+"
       ]
@@ -232,6 +132,122 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Diriyah x Al Kholood",
+      "channels": [
+        "BANDSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Bradford x Burnley",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Tottenham x Charlton",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Newcastle x West Brom",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Preston x Everton",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Celje x Slovan Bratislava",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Viking x Dinamo Zagreb",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "AEK Athens FC x Levski Sofia",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Lyon x Fenerbahce",
+      "channels": [
+        "SBT",
+        "TNT",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Madrid x Real Sociedad",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "SC Freiburg x Motherwell",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-27",
       "time": "13:45",
       "competition": "UEFA Conference League",
@@ -243,12 +259,72 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-27",
+      "time": "14:00",
+      "competition": "UEFA Europa League",
+      "match": "Red Bull Salzburg x Mjallby AIF",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "Inter Club d&#39;Escaldes x Drita",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "Hradec Kralove x Panathinaikos",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "Riga x KI Klaksvik",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "15:00",
+      "competition": "UEFA Europa League",
+      "match": "Aarhus x Benfica",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "15:00",
+      "competition": "UEFA Europa League",
+      "match": "FC Thun x Lech Poznan",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
       "time": "15:30",
       "competition": "Campeonato Espanhol",
       "match": "Celta Vigo x Osasuna",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "SPORTYNET",
+        "CAZÉTV"
       ]
     },
     {
@@ -376,29 +452,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Thiago Silva pode ser poupado pelo Fluminense contra o Athletico-PR - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1gyclMyQ2JFU2Y1dmNzUVJ4aDFCN2xQTi1XYWk0Ujdjak5uUUFEN3hRS1hEcW9NWnZQb2tFb192eURuU1RnSk1wbHRKMUZWS3BnXzRqLVZKVGpEZ3RZYm1lVG4tX0RUdWFZMzNJWm5BNE9vWG1iVk10OWRjcXVaRjJXaVhwaFJyTGh0Y2tnOVRabmtGQjlQNFlVY1I1REVHeGVjYmpFdl9PZkRwZ0xyQUpqUlZSUzAzNjMtWlVPVnFQaEp1dkd4bkln0gHPAUFVX3lxTFBVSTBHWTNUME1zcmdhY1pDdy1uSGJ1Y0xwV2JHc0NLZ2NsazY3Uy00RGEzc3JDeHBHTUtwWGNLaUR2cTNCMkw3bm5MQUI3ZXM1aXRWdEhVZjBRTm1ERlZ1Zm5JVldybUV4QTJUaTNxeFQ0WVVtVThwb3pHaG9KWEJpRmRZSHREbWN3X1RuNzFmYUZyaFh4eEtlMVlJZzhJNzFSTEFGWEdwYTZ3TDlJSjhkVlV4MUJHR3JFTVN5dzZsNjF3aXpMdzhyQ3pfRHUxSQ?oc=5",
+      "data": "26/08 18:45"
+    },
+    {
+      "titulo": "Fluminense abrirá resgate de ingressos para partida contra o Athletico-PR - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTjhpdER1c3dCbkJaNDc4OGQxRUt3QmNQQWlKWkRWWGpMMW95bU81cktJWXpHWVliR1FxQm9wcVZYTWhiMkdmOURjSGNZVFdUMzVxNlp0ck1JRklpck43U1NGM3Z2WnJ1bnAtZ0U2S25jek5YQzJ4TUxLZTY3eGNvai1odWdHTUtualdRcGFrdjhPRVNaUGFMSkxsRzdhU1I5allQNXo0SVVORHdBTnV2Tg?oc=5",
+      "data": "26/08 20:36"
+    },
+    {
+      "titulo": "Ex-Fluminense ganha destaque no exterior e torna-se peça chave - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM25YZjM2OUVWUlpPMGVuYk5ZSjloSE0wTVJzWWhSTF9sblpRWWlqTWtpbm4tbTZBQmczMldOWWlUeUFkNVNwenN3WGhNdTNaanFPYWRPS0V0YzlaY3dyZUFhZ09xQXVNYm1VdlFZbkhWNFhic3dEdlIwVmktUjB2WEYtV2FGUm9BaXVEcWFfZFFtWmpMOVpUMnAxajduQUlhcklQcXRPM1d1M1kxdURWUjNKV3FBVng5OUY1VXh2TVhtUVg4NE0tZzhoeDNZUXc4NjM2VDliSllscEEybFpmZVdWMnotX2k0?oc=5",
+      "data": "26/08 20:47"
+    },
+    {
       "titulo": "Saiba o que mudou na comissão técnica do Fluminense após efetivação de Marcão - GE",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTJnMmFnaVpYN0gwNlF2UHJNOGt2d2kweWFodzBQdVlXLWRSUkF5VkpUMjdyNk1QRXNlNjdReXpNaG1XaFIzbEQwQ2NEYlEtTHh6NzFIeklNNVZJNUpiS05xQ1hOTkcyc192cHhEVUJkZDBvdzFVbDRISDl1U2lPM2E4SUZIZkVHbUlybU0yXzZvU1k2SmFXcU9adzN2S3BNcTVMbmFVd1ZvZENFeTROanhsMmpWWjUyYmwtRUlwSVlfVlJfd2Y3SHNsTUJ4YzlwM1NFdGRmUmJIdnFwZjBDc3Bn0gHwAUFVX3lxTFA3N1RHV3FSbUVYdk9YNDRra1EzOXhjSFhHTFNNdE9RNjdkWjhGV2wwWjBYSEJXQTBEQXpTZ25RMy1uOXVWcVlqLWUxX1hMX0pJQmV0My1qTWdXa1ZsdU1QQWRsczV4MWxTTGhJUFRUZC1GTy1yWm5ET1loaE84VUt6MTNJeklHc2FGb2VnUTFSZDhwLUZyQmpfVTVISTRiZlFzOXBrYVVNdW9RY2RqYVlTVWpDZW5mazhVVGhHMGU2SDBIeUFQNWVYNS1DUmt0aUdiM1REM01zbi13SkFxLUpZdWYzZDlmbFNtbFpkRUZ6ZQ?oc=5",
       "data": "26/08 07:01"
     },
     {
-      "titulo": "Savarino perde espaço, e precisa de volta por cima no Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGRZOV94dURpZk9kbzF0YVQzWnlfYm1VZnEtSVEzdWxKRnhIT281M0lpYTE1bWVXc0FQU3o3cXczeXkxUnRMYjY4M1RjVlk5bEVBWDgyTXY3RzRjRXJxR3VIYXZWeENrc1BWNjNFWXpTTWN1am0zbXlFOThDY3FvcEZnS25IbkF3cl9FaFNBTDRYR3JHLTQyQnUzSkJvMVZsbDc0dldLZEFFVHpxLUFSdXRDWVJFb2dFbnBaZ2FNU2VNQlhq0gHKAUFVX3lxTE93OHVmd2hxejQwd1d6a1FEMnJRRG8zbS1nR1VFY3NRMFgwMElTakpWQjNLQ1l6dHdpdFJGdTFaM3VncEpDbXduZHB6YmtINXg1V2IzTW5BbmV2cGl6a2ZKYms4di1FbEZ6b01QN1lDbnNnVXpRNnhGYlFjc0tITDBzNEZlU3Nzbl9TU0ZmTWo4Wk1Rb1dkdFZPQl8za0JJTndYdGNXcF9PYV9yVnNMOEwyNWp5Vi1sOTdERlB3NkkyenVoaDRDczVZWnc?oc=5",
-      "data": "26/08 14:41"
-    },
-    {
-      "titulo": "Thiago Silva pode desfalcar Fluminense contra o Athletico-PR - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUGxIQnF6QU9HRXpPd1JtaTcwX2JyZEstcE11QjFsdjVhZS0tRFdsR2VkSzJKWC1WYndJbnlhTTRMRnpnYVVUYTU3bUN3VzFWb05TRkplay1YVVNQLXpPSlBmTUNBSmJGRktyaTBrQ0MyQlBzRXpMZGZpR3p3eXIxektPRTl6NjV3TUVnUGs5M1NFNEwyMU9VbHlvM2hlN01WS2ZtSDhhdnJlTG5jSG1XYWlwTkdDTm9qbzdXRElwZXVWZWVOY0pHVE1GbnA5QUdvTXNJbXFaZ1Y3a3E1SDZyUVFBU0xsaEIzcFhKQnpxR083VjA?oc=5",
-      "data": "26/08 17:05"
-    },
-    {
-      "titulo": "Natural de Regeneração, Tilico, de 16 anos, é emprestado pelo Fluminense-PI ao Athletico-PR - Somos Notícia",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RNTRhWkl3clJOdndiRlVwTmFkOUgyd2ZBU3lwR29PQUtJUFBuNTd5aGlaZ2doTUNlMzlkNTZYNm1iY2ttNzFKT3ZRQzFtQ3NENkZOak9ZUXV4SEVNTm9wdWxzckhCYk8yd1RIY0g5V3pnRmZaMlNwQ296ZE9iQQ?oc=5",
-      "data": "26/08 17:37"
-    },
-    {
-      "titulo": "Fluminense assina contrato com joia da base - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVW5RRk1NQ0FmSmtha3RjbnN3RjFIQ050N3ptaGFEenpLMEdoY1V5TVIzZmVWcHFaRnAtWmNQVGRSVlozZXV3R0FYb2EtZ2N5dlMtcHpHeG1zVUtYT0xwSzJ0OEFpc3JvRl9Zbk5DWFprZ0gyNE5jeDJCampnWVdCSm9rMHc1dnFIMDJveXRNSDczVE5rVDZXXy15c2JUTTQ?oc=5",
-      "data": "25/08 17:10"
+      "titulo": "Marcão atinge marca expressiva pelo Fluminense no Brasileirão - iG Esportes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFRR21uYUNOeGdPT2YyYmMyM2xCaTBrYVNaV2t2RWljOExkdEN2cFFFWGpISlFGYzdBQ0dDT3RDazdOd093ME9TcHBkZEw0WUJuZ0VOeEFrTHc4VG5MdTF4dk9yemhNcHJ6YmxRcUJqMGRIaVRWQ0sybzF4eVZPUFZfS084YmJaLXAxYVdURGdiM3YydnJDQnQ0NTFBYmtzWWtDaWIzUzVKS0xWbk15eGphc2w2VFZrVmE2My1oa9IBxAFBVV95cUxNY2ZTZ25XYUJMeGlaYXZKUktwcGZ4aURPVDE5bFBvV2tqekVGTFpSNzRBNjNHMVNrUzV5S3ljTG1rZkpSeWpqcjl2bGdkN2dxYUtqLWpiYkk2aWZQcTNxTWphSlBMb1g4R1ZjY2U2Q2dsZk9mOVNuV2VKUjFUaWlWbzJFWTRnS3ZESktreEFmZUdQYmxUZXBtbFhkMnlkX1R0RHJGak5rdUw4c3FiZ3IwdFdLa0lIWVVqNVZGUlJuSDlwSVpP?oc=5",
+      "data": "26/08 17:06"
     }
   ],
   "avisos": []
