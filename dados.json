@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/08/2026 01:42",
+  "atualizado_em": "26/08/2026 02:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -401,5 +401,8 @@
       "data": "25/08 10:04"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+  ]
 }
