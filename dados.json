@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/08/2026 03:39",
+  "atualizado_em": "26/08/2026 04:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -347,38 +347,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.0,
-      "temp_min": 19.7,
+      "temp_max": 23.7,
+      "temp_min": 19.5,
       "chance_chuva": 51,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.7,
-      "temp_min": 17.7,
+      "temp_max": 23.8,
+      "temp_min": 18.0,
       "chance_chuva": 81,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.8,
-      "temp_min": 16.9,
+      "temp_max": 24.5,
+      "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.6,
-      "temp_min": 14.7,
+      "temp_max": 20.9,
+      "temp_min": 14.1,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
-      "data": "23/08 09:00"
+      "titulo": "Saiba o que mudou na comissão técnica do Fluminense após efetivação de Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTJnMmFnaVpYN0gwNlF2UHJNOGt2d2kweWFodzBQdVlXLWRSUkF5VkpUMjdyNk1QRXNlNjdReXpNaG1XaFIzbEQwQ2NEYlEtTHh6NzFIeklNNVZJNUpiS05xQ1hOTkcyc192cHhEVUJkZDBvdzFVbDRISDl1U2lPM2E4SUZIZkVHbUlybU0yXzZvU1k2SmFXcU9adzN2S3BNcTVMbmFVd1ZvZENFeTROanhsMmpWWjUyYmwtRUlwSVlfVlJfd2Y3SHNsTUJ4YzlwM1NFdGRmUmJIdnFwZjBDc3Bn?oc=5",
+      "data": "26/08 07:01"
     },
     {
       "titulo": "São Paulo estuda contratar jogador do Fluminense; Bragantino negocia venda de zagueiro - jornalcruzeiro.com.br",
@@ -386,14 +386,14 @@
       "data": "25/08 22:02"
     },
     {
-      "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTQ3M1haN2h3dnIxUUIxTS1OUXE3bkI4a29laXRkXzVKT3cxTkhxbmdSUTE2SEx5RHdkM1FIR0xQdjh4cF94dVZuRlR4azc1S3c2cnpFUEgxVlA5QmVVUTJBVHlIaW8zNzR6ZHJvN1dTaDVzcklEOEJqMENOMGI4SHRTeTRDNlJmNjRzekRkaWxBNklO?oc=5",
-      "data": "24/08 23:00"
-    },
-    {
       "titulo": "Desfalque por lesão, PH Ganso ganha moral e declaração sobre Marcão: as últimas notícias do Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOV0VtTzd3ejdEanFsbWtvNDF6V1NYdllCNVB0TWYyY3N0U0hPTzQwQkd0UGQ4VTRxNldPYXE5STF5Zk42X2JkaFljTzN0cXZISjhkaTBsYWRXc3M1VXJ3OXdYX2RqeDdRRkxVTlpFQ3h1TXZNOXM1U0tCSXUtYmdpeXhLRTMzQ0RwUGF6TXBzWlZpQVVIQmRtRHBGU0RvNTM3MS1scDVheE1LdVFnRzhBeHpXMlktVHFfMk1ZMFA1OWFxeDdfNV9ER3JrUEVqY0tUMkluSDVtakZ1Z0tsS2h1N3lTWUZjR0NIdFk4bDJsT05XakFacXF3R3FIUy02V2VlUlNFZ0dVQjlnYVN6c085ZVljSUFPMDlNdEw0?oc=5",
       "data": "25/08 19:42"
+    },
+    {
+      "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORTQ3M1haN2h3dnIxUUIxTS1OUXE3bkI4a29laXRkXzVKT3cxTkhxbmdSUTE2SEx5RHdkM1FIR0xQdjh4cF94dVZuRlR4azc1S3c2cnpFUEgxVlA5QmVVUTJBVHlIaW8zNzR6ZHJvN1dTaDVzcklEOEJqMENOMGI4SHRTeTRDNlJmNjRzekRkaWxBNklO?oc=5",
+      "data": "24/08 23:00"
     },
     {
       "titulo": "Fluminense volta a se impor e se torna o melhor mandante da Série A em 2026 - Rádio Itatiaia",
