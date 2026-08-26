@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/08/2026 08:24",
+  "atualizado_em": "26/08/2026 09:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -348,30 +348,30 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 23.7,
-      "temp_min": 19.5,
-      "chance_chuva": 51,
-      "condicao": "Nublado"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 23.8,
-      "temp_min": 18.0,
-      "chance_chuva": 81,
+      "temp_min": 19.7,
+      "chance_chuva": 45,
       "condicao": "Garoa fraca"
     },
     {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.5,
-      "temp_min": 16.7,
-      "chance_chuva": 100,
+      "cidade": "Araruama",
+      "temp_max": 23.7,
+      "temp_min": 18.9,
+      "chance_chuva": 55,
       "condicao": "Garoa"
     },
     {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 24.4,
+      "temp_min": 16.7,
+      "chance_chuva": 93,
+      "condicao": "Pancadas de chuva"
+    },
+    {
       "cidade": "Teresópolis",
-      "temp_max": 20.9,
+      "temp_max": 19.9,
       "temp_min": 14.1,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -382,7 +382,7 @@ window.PAINEL_DATA = {
     },
     {
       "titulo": "Saiba o que mudou na comissão técnica do Fluminense após efetivação de Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTJnMmFnaVpYN0gwNlF2UHJNOGt2d2kweWFodzBQdVlXLWRSUkF5VkpUMjdyNk1QRXNlNjdReXpNaG1XaFIzbEQwQ2NEYlEtTHh6NzFIeklNNVZJNUpiS05xQ1hOTkcyc192cHhEVUJkZDBvdzFVbDRISDl1U2lPM2E4SUZIZkVHbUlybU0yXzZvU1k2SmFXcU9adzN2S3BNcTVMbmFVd1ZvZENFeTROanhsMmpWWjUyYmwtRUlwSVlfVlJfd2Y3SHNsTUJ4YzlwM1NFdGRmUmJIdnFwZjBDc3Bn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTJnMmFnaVpYN0gwNlF2UHJNOGt2d2kweWFodzBQdVlXLWRSUkF5VkpUMjdyNk1QRXNlNjdReXpNaG1XaFIzbEQwQ2NEYlEtTHh6NzFIeklNNVZJNUpiS05xQ1hOTkcyc192cHhEVUJkZDBvdzFVbDRISDl1U2lPM2E4SUZIZkVHbUlybU0yXzZvU1k2SmFXcU9adzN2S3BNcTVMbmFVd1ZvZENFeTROanhsMmpWWjUyYmwtRUlwSVlfVlJfd2Y3SHNsTUJ4YzlwM1NFdGRmUmJIdnFwZjBDc3Bn0gHwAUFVX3lxTFA3N1RHV3FSbUVYdk9YNDRra1EzOXhjSFhHTFNNdE9RNjdkWjhGV2wwWjBYSEJXQTBEQXpTZ25RMy1uOXVWcVlqLWUxX1hMX0pJQmV0My1qTWdXa1ZsdU1QQWRsczV4MWxTTGhJUFRUZC1GTy1yWm5ET1loaE84VUt6MTNJeklHc2FGb2VnUTFSZDhwLUZyQmpfVTVISTRiZlFzOXBrYVVNdW9RY2RqYVlTVWpDZW5mazhVVGhHMGU2SDBIeUFQNWVYNS1DUmt0aUdiM1REM01zbi13SkFxLUpZdWYzZDlmbFNtbFpkRUZ6ZQ?oc=5",
       "data": "26/08 07:01"
     },
     {
