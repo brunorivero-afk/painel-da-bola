@@ -1,28 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 20:20",
+  "atualizado_em": "25/08/2026 22:01",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Botafogo SP",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x CRB",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-25",
@@ -179,6 +157,28 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Botafogo SP",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x CRB",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-26",
       "time": "15:00",
       "competition": "Campeonato Saudita",
@@ -193,9 +193,29 @@ window.PAINEL_DATA = {
       "date": "2026-08-26",
       "time": "15:45",
       "competition": "Copa da liga Inglesa",
+      "match": "Newcastle x West Brom",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
       "match": "Tottenham x Charlton",
       "channels": [
         "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-26",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Bradford x Burnley",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -294,23 +314,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-26",
       "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Toluca x Austin",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CS Herediano x Antigua GFC",
       "channels": [
-        "APPLE TV"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-26",
       "time": "21:30",
-      "competition": "Copa Do Brasil",
-      "match": "Vasco x Vitória",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Marathon x Real Esteli",
       "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE FC",
-        "PRIME VIDEO"
+        "DISNEY+"
       ]
     },
     {
@@ -330,20 +347,23 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-26",
       "time": "21:30",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CD Marathon x Real Esteli",
+      "competition": "Copa Do Brasil",
+      "match": "Vasco x Vitória",
       "channels": [
-        "DISNEY+"
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE FC",
+        "PRIME VIDEO"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-26",
       "time": "21:30",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CS Herediano x Antigua GFC",
+      "competition": "Leagues Cup",
+      "match": "Toluca x Austin",
       "channels": [
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
@@ -414,7 +434,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.6,
+      "temp_max": 19.7,
       "temp_min": 15.4,
       "chance_chuva": 98,
       "condicao": "Garoa fraca"
@@ -434,19 +454,19 @@ window.PAINEL_DATA = {
       "data": "25/08 21:50"
     },
     {
-      "titulo": "Desfalque por lesão, PH Ganso ganha moral e declaração sobre Marcão: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOV0VtTzd3ejdEanFsbWtvNDF6V1NYdllCNVB0TWYyY3N0U0hPTzQwQkd0UGQ4VTRxNldPYXE5STF5Zk42X2JkaFljTzN0cXZISjhkaTBsYWRXc3M1VXJ3OXdYX2RqeDdRRkxVTlpFQ3h1TXZNOXM1U0tCSXUtYmdpeXhLRTMzQ0RwUGF6TXBzWlZpQVVIQmRtRHBGU0RvNTM3MS1scDVheE1LdVFnRzhBeHpXMlktVHFfMk1ZMFA1OWFxeDdfNV9ER3JrUEVqY0tUMkluSDVtakZ1Z0tsS2h1N3lTWUZjR0NIdFk4bDJsT05XakFacXF3R3FIUy02V2VlUlNFZ0dVQjlnYVN6c085ZVljSUFPMDlNdEw0?oc=5",
-      "data": "25/08 19:42"
-    },
-    {
       "titulo": "São Paulo estuda contratar jogador do Fluminense; Bragantino negocia venda de zagueiro - jornalcruzeiro.com.br",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0lKSGp6S3NTXzB3Zno3QjdVVkFNMEJtUl9hTTdMWE5pVmdadk1IWjlTcS04ZnVpckRFM2U0eGtqYk1jb19kb3lPc2tYeGZhMXM3UFNlOEZrZWpRNE1mLXlJTDNOVXc1YzAxeldFb0tRbEJhNEFSTWc5UXBQMUpVVUpyVzM0N1k1YW9mTUMzUFQ4N0x0MFJhRTdseGlDbGszUFVzLUtOSTVYU1FjaEhjVHNDMDlIaWJ6ZFhRTU81MWFMREd5bUd1aHM1YkxYbHFlcW5jYmVkSlpBc01OeHVGOXVQU3NsVkRJMWc?oc=5",
       "data": "25/08 22:02"
     },
     {
-      "titulo": "Fluminense faz primeiro treino com Marcão efetivado e completa elenco com jogadores do sub-20 - GE",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaDBMQ2J5QU0zQk5la3o4c2FnSTA4RU1Kdk9CZ0g5MGlQNjBBZ3RYcDJiRmt5MWNNMUNYVmhqX3plYk51VnpOWUQzbGhUWVZiSkI3dVNtSGZKd1pDU0MtZ2ZGeWJLd21wZENadHE1VVJOeW5aZGxmemNWenFHSDF3N0RCS0pfd3JqQVFqUjlqaDQ4SlNaQnpxMDZIdW9aRnRFbmMwNTNLYVRuSFc4Zmc2UFlmN1MwZWNlYWVHZDJMMmJoaXktVGZTVkd3S0tBbXVuWDQxRlctdl9LU0FUSzNnSE5KNjRadHBGOTFEVEpLT2FIZlpUajFR0gGGAkFVX3lxTFBNakgxYTlqdWxnVlR4WDdVNnVTX1BTaDVhN2hXUC1uR3RSVXJRYlJfbVFEQTByUVNGRU90a0d5RXd6RFRfNlRqOGViZ2x0c2tiLXBTNWZRTVFzaTRsamxIT1A3NHFsdGVwNGRkU0VqempnNTRZdnNSX2wtTksycjhkVWVWZ1lFdTl2QUZlUUZIOWthTXYyOXpSbFU4dG1ReGNjekd3VlRZVkQ4YVpHaFk5RlN2UmxfVTVCQ01vSFVLWExwZTJaUExkWWtxMUtEQ2ZUclJwb2taWnRBS1BOUDdyeXJSMEktT1BQTmNIZjlocHQ3M3dJckpWcElnX29nbW5IeG9jQXc?oc=5",
-      "data": "25/08 18:23"
+      "titulo": "Desde 2024, Fluminense não foi vazado em metade dos jogos que teve Thiago Silva em campo - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpDZDRyci1HXzNfTThHUXotZEZ2NDlpQVBrNmhEWl9tdWpFWUdIR0NfR09SSEVnRzJBM3JfYXRROFc2dHg0MHVsbjcwY1liY1BrSFVFQmF5dVJPdU9Pc1BZeERyNF9MdW9qZF9CNDFxbENyQzJlZ1RtTDBlOGJIRDJWTC00Q1BrY2NVdkdWNjI3ZzA2TzVzNW5MdmdEYU5haHRqMHZhSnZkTUVsMnVqd2YzVU4?oc=5",
+      "data": "25/08 23:40"
+    },
+    {
+      "titulo": "Longevidade de Marcão no Fluminense é trunfo para usar mais jovens de Xerém - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3ZVNGh1eWdkTlJhM01Vd0daQ2hlRjZUZUZMOUZGVGc5VTlwZjMwZFZKbllSMGFFQldzSGpFV0dSZVNtYnpzSWZpNVFuQUpBQm93Z2R2QndfQUNMbEpTNS0yQl81V21aV3l4Y1JVQjlnLTUtQ3o0eHAwNWRNNEZFdkVzdVJ6UG5RUE5XQ0VkUURNcDhmTXR2c180NTFjRTVaSXJjV1hCdENWcWxDb3JtNVFDbmR4MlNtci16QUwzVFFITDZnS0JzZEV2UWtRWXlxNzFRdncyX2J6X3B5Ti000gHuAUFVX3lxTFBUNnZwUUNRck1oQnNwU2taOHFTREVqTVlXVnktczM3R200WmhRN29nLVNmRUxxNjNDUkl6OE9meVplVW5Vemgyd2JnWFZ4dkV6a1hFVGRwQ2M5U2RMa3JYZTlLWHI4WU0yWXNPajIxbDJyZ3ktZ3k5MzNxN2VxcnQtOHYyX0xrOG15cUNRRnl1dHNYU25PMGZ2cDZxcV95c1Z6WkxzLUdjYXM5YjhnMlpOQlFral9HRkJoQ3lhX2F6cGlna0Y2VWc5Q1pDLUJRQV94VEd2Wmc3OUMwdkRBVlV4LUhDV0NTakVrWjdQZUE?oc=5",
+      "data": "25/08 06:00"
     },
     {
       "titulo": "Fluminense assina contrato com joia da base - LANCE!",
