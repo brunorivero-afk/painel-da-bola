@@ -1,40 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/08/2026 22:01",
+  "atualizado_em": "25/08/2026 23:59",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "21:00",
-      "competition": "Copa Do Brasil",
-      "match": "Cruzeiro x Atlético-MG",
-      "channels": [
-        "SPORTV",
-        "PREMIERE",
-        "PREMIERE 2",
-        "PREMIERE FC",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Independiente del Valle x Deportes Tolima",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-25",
-      "time": "21:30",
-      "competition": "Leagues Cup",
-      "match": "Monterrey x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-25",
@@ -175,6 +141,40 @@ window.PAINEL_DATA = {
         "XSPORTS",
         "SPORTYNET",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "21:00",
+      "competition": "Copa Do Brasil",
+      "match": "Cruzeiro x Atlético-MG",
+      "channels": [
+        "SPORTV",
+        "PREMIERE",
+        "PREMIERE 2",
+        "PREMIERE FC",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Independiente del Valle x Deportes Tolima",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-25",
+      "time": "21:30",
+      "competition": "Leagues Cup",
+      "match": "Monterrey x Chicago Fire",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -429,7 +429,7 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 21.8,
       "temp_min": 19.4,
-      "chance_chuva": 57,
+      "chance_chuva": 65,
       "condicao": "Garoa fraca"
     },
     {
@@ -441,22 +441,22 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.4,
-      "temp_min": 12.8,
+      "temp_max": 20.6,
+      "temp_min": 14.7,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Bom começo de ex-Fluminense no futebol espanhol surpreende torcedores - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdExzQUJ3Y2pLZjJOOV9aREhaZGhwQXpjeXdVdTR1YUxtSmNuR0NNQ3kzclFNZUNYT1pGSW9oM1RKYl9NXy1hWjBjalVFNlNJNHNVbWo5U1g4Q1BZNlRqbklMVHNkZFZ1eWl4X2FCOElmWEVOT1U1b1p2NGQ5bmt3dnZSOXNtRkxWVmxmMm01OUw2MjEwTGVKVVNYcXc5ZGYzRnMzZGNnMVJEeVhOMVdTTGdzNnVaaHQ3NWd4VEpUbGxmQ0VOVzVmOFRFR0nSAdIBQVVfeXFMTlRHWFJ1MHNrT2cwOTl1NHJjakJSTXlwZGZhRER0WWlWSURXTTdFdlpGMms4Y2pXWHpTb3FNQTNjMi1zZEJOQ0FmbmtGNF9YZWoyVjEwMjh6YWo1VnZScnRoMGl3bERLV21oVGRWUDNaNkc2MVJhWmZZMGhzWi01S0RXd09tT3dVcVpEU19IOG1rQjBCNFhucGkyWFpqT0Y3Z2QxOFJjVUVYdXhmQU1rWml0X0x1T2ktV3R5T2JDWE13cWx4UEprdnBTdzljR0lCRzhB?oc=5",
-      "data": "25/08 21:50"
+      "titulo": "Entenda os motivos para a efetivação e os planos do Fluminense para Marcão - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2kyNmtCQWJ0Ti1SMHc1YVJINDNaQ3FYZjZ6S0JnbTVuNGtjWlFNR2lIdGpGdEhCR0VtRDFNQkJpOTRQSzAtdXgtQkVPcTlNNEMtV0kwZ1E5MHZxaHZrTkxQcmhHdVhTUUd6TzhUWHFsdVpxQUQyZU1SZ1VaMk5sbzR1aG1JckFYT3FLdmplTEtqYTMwOUF6QlRXTEVRNHhFREZLVlEwQmdUaWVjZWRwSFhxRkJXWTFTc29xODVvTjRCWDhtbHBxVk04UGlBMVd4Y3Bya0Nibm9RNm5zZVHSAewBQVVfeXFMUEJmWHhLUEVKckxWWEkyX1d1Qm9OQ0M5TUJLOEZJZU1jdmRPMkpsSVR6b2phOG1LdTJOV190N2VJU0I2VGpTN1Q2ci00OWFpMmY4ZjZyRG52S1N4WXBjMzNLRzBJc1FTUjZDUnlhWHc5eHdKOGt1V2dzRzB1SngxT0FCNFZoUWFQYTJBWkRXLTBmU0xfREMwTUt4U2QxeFNNMWc2cUpMMXpUVEtwZmN6UmR2MlkyLVdWem5vbGY0YlFoTmUyYkQ3blhnV1VVUVZGdl9XQmhPSmhaMVh5QjdNTEktWVBVbUlVd1locmI?oc=5",
+      "data": "23/08 09:00"
     },
     {
       "titulo": "São Paulo estuda contratar jogador do Fluminense; Bragantino negocia venda de zagueiro - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0lKSGp6S3NTXzB3Zno3QjdVVkFNMEJtUl9hTTdMWE5pVmdadk1IWjlTcS04ZnVpckRFM2U0eGtqYk1jb19kb3lPc2tYeGZhMXM3UFNlOEZrZWpRNE1mLXlJTDNOVXc1YzAxeldFb0tRbEJhNEFSTWc5UXBQMUpVVUpyVzM0N1k1YW9mTUMzUFQ4N0x0MFJhRTdseGlDbGszUFVzLUtOSTVYU1FjaEhjVHNDMDlIaWJ6ZFhRTU81MWFMREd5bUd1aHM1YkxYbHFlcW5jYmVkSlpBc01OeHVGOXVQU3NsVkRJMWc?oc=5",
-      "data": "25/08 22:02"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1hLN0w4SmZ2b2pPRnotWGVaZ1RxWVItV19XLXRudTdWcG01OGVXQ3htdjVlbTFoOVpVN2R3X3dQbGU2Q2xGWGthTGFNampoNUNGR3dCS05VSm9lS1NSSUZMeHhPTUZibDB6RnNRYWJYU3VrMjVFeFp2MHplQVEyTldDb0VuZmt5eXZvajhPZDNKXzNjVFo2U0RmdU9LNFFKNTRMWndiTXRDSGlKNWc3dDlZZ0tDNF9EMmtoTWF3Y3BvUl80MGNScXNoUQ?oc=5",
+      "data": "26/08 01:02"
     },
     {
       "titulo": "Desde 2024, Fluminense não foi vazado em metade dos jogos que teve Thiago Silva em campo - netflu.com.br",
@@ -464,14 +464,14 @@ window.PAINEL_DATA = {
       "data": "25/08 23:40"
     },
     {
+      "titulo": "Ex-Vasco e Fluminense se aproxima de clube da Série A - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHMxMjdkSlpPVFZIcExVdkd6VTktcy1jRGhYWFF2VjRXOEd6eVBWVmdkZ1E5RTNCdGFMeDhuVkFRRkxqMTRSUi0yZWhPT0xBT0cxa05Pc3c1YW5GLVdTTDg2OWxRUTE1Q0I1OHEtN241R1pnQnhPamdaNFhrUl9FdVVSSy0xX2pUSDBQV1RSNjNpQTB2T3BwY1FPUUM2U1o5UU1vLW5iekjSAa4BQVVfeXFMTnJ4dlhnUHd2cTVYUE51dVhEN2xKN3BmWjRFbUJzejVlRUhJSUxWYVR4WmQ0MkVkVndsVVNaUFFJMGtSRUVLMy1uVUNkNW81MEt0cmVmYS1zaDRyVWRpejhYeFN1WWl0QXZrRmhoRDZUaFBXN0kxVEwzWmFEcV91ZExKMWo3QUVZb1d0U25Qeld6NktZbVZaTUN3SDllYVpkcXNhQnZmZTAwd0huVU53?oc=5",
+      "data": "25/08 22:50"
+    },
+    {
       "titulo": "Longevidade de Marcão no Fluminense é trunfo para usar mais jovens de Xerém - GE",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3ZVNGh1eWdkTlJhM01Vd0daQ2hlRjZUZUZMOUZGVGc5VTlwZjMwZFZKbllSMGFFQldzSGpFV0dSZVNtYnpzSWZpNVFuQUpBQm93Z2R2QndfQUNMbEpTNS0yQl81V21aV3l4Y1JVQjlnLTUtQ3o0eHAwNWRNNEZFdkVzdVJ6UG5RUE5XQ0VkUURNcDhmTXR2c180NTFjRTVaSXJjV1hCdENWcWxDb3JtNVFDbmR4MlNtci16QUwzVFFITDZnS0JzZEV2UWtRWXlxNzFRdncyX2J6X3B5Ti000gHuAUFVX3lxTFBUNnZwUUNRck1oQnNwU2taOHFTREVqTVlXVnktczM3R200WmhRN29nLVNmRUxxNjNDUkl6OE9meVplVW5Vemgyd2JnWFZ4dkV6a1hFVGRwQ2M5U2RMa3JYZTlLWHI4WU0yWXNPajIxbDJyZ3ktZ3k5MzNxN2VxcnQtOHYyX0xrOG15cUNRRnl1dHNYU25PMGZ2cDZxcV95c1Z6WkxzLUdjYXM5YjhnMlpOQlFral9HRkJoQ3lhX2F6cGlna0Y2VWc5Q1pDLUJRQV94VEd2Wmc3OUMwdkRBVlV4LUhDV0NTakVrWjdQZUE?oc=5",
       "data": "25/08 06:00"
-    },
-    {
-      "titulo": "Fluminense assina contrato com joia da base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVW5RRk1NQ0FmSmtha3RjbnN3RjFIQ050N3ptaGFEenpLMEdoY1V5TVIzZmVWcHFaRnAtWmNQVGRSVlozZXV3R0FYb2EtZ2N5dlMtcHpHeG1zVUtYT0xwSzJ0OEFpc3JvRl9Zbk5DWFprZ0gyNE5jeDJCampnWVdCSm9rMHc1dnFIMDJveXRNSDczVE5rVDZXXy15c2JUTTQ?oc=5",
-      "data": "25/08 17:10"
     }
   ],
   "avisos": [
