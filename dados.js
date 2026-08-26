@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/08/2026 00:58",
+  "atualizado_em": "26/08/2026 01:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -383,12 +383,7 @@ window.PAINEL_DATA = {
     {
       "titulo": "São Paulo estuda contratar jogador do Fluminense; Bragantino negocia venda de zagueiro - jornalcruzeiro.com.br",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ1hLN0w4SmZ2b2pPRnotWGVaZ1RxWVItV19XLXRudTdWcG01OGVXQ3htdjVlbTFoOVpVN2R3X3dQbGU2Q2xGWGthTGFNampoNUNGR3dCS05VSm9lS1NSSUZMeHhPTUZibDB6RnNRYWJYU3VrMjVFeFp2MHplQVEyTldDb0VuZmt5eXZvajhPZDNKXzNjVFo2U0RmdU9LNFFKNTRMWndiTXRDSGlKNWc3dDlZZ0tDNF9EMmtoTWF3Y3BvUl80MGNScXNoUQ?oc=5",
-      "data": "26/08 01:02"
-    },
-    {
-      "titulo": "Desde 2024, Fluminense não foi vazado em metade dos jogos que teve Thiago Silva em campo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUpDZDRyci1HXzNfTThHUXotZEZ2NDlpQVBrNmhEWl9tdWpFWUdIR0NfR09SSEVnRzJBM3JfYXRROFc2dHg0MHVsbjcwY1liY1BrSFVFQmF5dVJPdU9Pc1BZeERyNF9MdW9qZF9CNDFxbENyQzJlZ1RtTDBlOGJIRDJWTC00Q1BrY2NVdkdWNjI3ZzA2TzVzNW5MdmdEYU5haHRqMHZhSnZkTUVsMnVqd2YzVU4?oc=5",
-      "data": "25/08 23:40"
+      "data": "25/08 22:02"
     },
     {
       "titulo": "Sócios escolhem desenho do novo ônibus do Fluminense - fluminense.com.br",
@@ -399,6 +394,11 @@ window.PAINEL_DATA = {
       "titulo": "Hulk iguala Neymar após superar início difícil no Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelliUExLeHlrVG40MmtRbTFMZnlaQ2w5U2E3Vmlfc1FPQTgxamNUWGRKTlhFVzgtWEg3dE1XTXlsTGZFQWhFVFg2QXFNQ0tDU25hUEtDdzU2RGpJcFgxbjVNN195dEo0Y05WWGpfR1dRVHZBQ1JXSVRpZk5Ba3lqeFljNnFOYWZuU0R5RXd4UmtiVk9jVGhmY1Z5amgyUHJNNDVyOFd1Y3M5YVd4Vk9VOGFmczBYazVhNy1jSUVoNThoUE82cW44TEJ1M1MyZEUtMExvWFc0U1liRDQ1SHV5SDlR?oc=5",
       "data": "24/08 19:02"
+    },
+    {
+      "titulo": "Fluminense volta a se impor e se torna o melhor mandante da Série A em 2026 - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeVhRbmZqMGluQlFIajNRQnZucGNPY1ZDOTZVVzUzN2xULTBVMFd6blJrVVk0R0RNYzAzejh3QjF0WTYza2ZXTElGcHc5aV9NeEg3SzQyUHRFbERxVDlRaG9ST09YVUNfM0puNmJBNTJfLVRsdDJPS2lHcEp3Ty1LdzlkSVJJZ0F5TjY5TnRfRGJlYkk0SlBGQlppb2ZjU2dGdDFWd0JvOHN2SXFYdHpQZGFMVWlUTWc4U0l4aTZiRm8wNVZTTVBkbE9kalE3QnZ4N1lwZl9PVER1MjBfTDVNQzF1VG5hNUUtUUhVT0V2OHNVNUhhVlFUYw?oc=5",
+      "data": "25/08 10:04"
     }
   ],
   "avisos": []
