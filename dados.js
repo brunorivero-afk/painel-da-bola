@@ -1,6 +1,57 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/08/2026 10:39",
+  "atualizado_em": "27/08/2026 20:31",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "19:00",
+      "competition": "Copa Argentina",
+      "match": "Estudiantes x Barracas Central",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "20:00",
+      "competition": "Copa Do Brasil",
+      "match": "Internacional x Grêmio",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "21:00",
+      "competition": "Brasileirão Série D",
+      "match": "Nacional AM x CSA",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "23:30",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Mixco x Alianza FC",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "23:30",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Olimpia x Deportivo Saprissa",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-08-27",
@@ -17,6 +68,16 @@ window.PAINEL_DATA = {
       "time": "13:45",
       "competition": "UEFA Conference League",
       "match": "Monaco x Gornik Zabrze",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "14:00",
+      "competition": "UEFA Conference League",
+      "match": "Riga x KI Klaksvik",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -74,29 +135,19 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-27",
-      "time": "14:00",
-      "competition": "UEFA Conference League",
-      "match": "Riga x KI Klaksvik",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
-      "time": "15:00",
-      "competition": "UEFA Conference League",
-      "match": "Hapoel Tel Aviv x Atalanta",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
       "time": "15:00",
       "competition": "UEFA Europa League",
-      "match": "Aarhus x Benfica",
+      "match": "FC Thun x Lech Poznan",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "15:00",
+      "competition": "UEFA Conference League",
+      "match": "FC ST. Gallen x FC Nordsjaelland",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -115,8 +166,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-27",
       "time": "15:00",
-      "competition": "UEFA Conference League",
-      "match": "FC ST. Gallen x FC Nordsjaelland",
+      "competition": "UEFA Europa League",
+      "match": "Aarhus x Benfica",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -125,8 +176,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-27",
       "time": "15:00",
-      "competition": "UEFA Europa League",
-      "match": "FC Thun x Lech Poznan",
+      "competition": "UEFA Conference League",
+      "match": "Hapoel Tel Aviv x Atalanta",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -145,8 +196,19 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-27",
       "time": "15:30",
+      "competition": "Copa da liga Inglesa",
+      "match": "Chelsea x Luton",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-27",
+      "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "Borac Banja Luka x Vikingur Reykjavik",
+      "match": "Brighton x Tromso",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -166,20 +228,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-27",
       "time": "15:30",
       "competition": "UEFA Conference League",
-      "match": "Brighton x Tromso",
+      "match": "Borac Banja Luka x Vikingur Reykjavik",
       "channels": [
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
-      "time": "15:30",
-      "competition": "Copa da liga Inglesa",
-      "match": "Chelsea x Luton",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -208,57 +259,6 @@ window.PAINEL_DATA = {
       "time": "16:00",
       "competition": "Copa da liga Inglesa",
       "match": "Fulham x AFC Wimbledon",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
-      "time": "19:00",
-      "competition": "Copa Argentina",
-      "match": "Estudiantes x Barracas Central",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
-      "time": "20:00",
-      "competition": "Copa Do Brasil",
-      "match": "Internacional x Grêmio",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
-      "time": "21:00",
-      "competition": "Brasileirão Série D",
-      "match": "Nacional AM x CSA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
-      "time": "23:30",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CD Olimpia x Deportivo Saprissa",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-27",
-      "time": "23:30",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Mixco x Alianza FC",
       "channels": [
         "DISNEY+"
       ]
@@ -551,48 +551,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.4,
-      "temp_min": 19.2,
+      "temp_max": 22.5,
+      "temp_min": 19.4,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
+    },
+    {
+      "cidade": "Araruama",
+      "temp_max": 21.9,
+      "temp_min": 19.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
-      "cidade": "Araruama",
-      "temp_max": 21.3,
-      "temp_min": 19.7,
-      "chance_chuva": 99,
-      "condicao": "Chuva fraca"
-    },
-    {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 18.6,
-      "temp_min": 15.5,
+      "temp_min": 14.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 17.2,
-      "temp_min": 14.8,
+      "temp_min": 13.3,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Desfalque por lesão, PH Ganso ganha moral e declaração sobre Marcão: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOV0VtTzd3ejdEanFsbWtvNDF6V1NYdllCNVB0TWYyY3N0U0hPTzQwQkd0UGQ4VTRxNldPYXE5STF5Zk42X2JkaFljTzN0cXZISjhkaTBsYWRXc3M1VXJ3OXdYX2RqeDdRRkxVTlpFQ3h1TXZNOXM1U0tCSXUtYmdpeXhLRTMzQ0RwUGF6TXBzWlZpQVVIQmRtRHBGU0RvNTM3MS1scDVheE1LdVFnRzhBeHpXMlktVHFfMk1ZMFA1OWFxeDdfNV9ER3JrUEVqY0tUMkluSDVtakZ1Z0tsS2h1N3lTWUZjR0NIdFk4bDJsT05XakFacXF3R3FIUy02V2VlUlNFZ0dVQjlnYVN6c085ZVljSUFPMDlNdEw0?oc=5",
-      "data": "25/08 19:42"
-    },
-    {
-      "titulo": "Saiba o que mudou na comissão técnica do Fluminense após efetivação de Marcão - GE",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTJnMmFnaVpYN0gwNlF2UHJNOGt2d2kweWFodzBQdVlXLWRSUkF5VkpUMjdyNk1QRXNlNjdReXpNaG1XaFIzbEQwQ2NEYlEtTHh6NzFIeklNNVZJNUpiS05xQ1hOTkcyc192cHhEVUJkZDBvdzFVbDRISDl1U2lPM2E4SUZIZkVHbUlybU0yXzZvU1k2SmFXcU9adzN2S3BNcTVMbmFVd1ZvZENFeTROanhsMmpWWjUyYmwtRUlwSVlfVlJfd2Y3SHNsTUJ4YzlwM1NFdGRmUmJIdnFwZjBDc3Bn0gHwAUFVX3lxTFA3N1RHV3FSbUVYdk9YNDRra1EzOXhjSFhHTFNNdE9RNjdkWjhGV2wwWjBYSEJXQTBEQXpTZ25RMy1uOXVWcVlqLWUxX1hMX0pJQmV0My1qTWdXa1ZsdU1QQWRsczV4MWxTTGhJUFRUZC1GTy1yWm5ET1loaE84VUt6MTNJeklHc2FGb2VnUTFSZDhwLUZyQmpfVTVISTRiZlFzOXBrYVVNdW9RY2RqYVlTVWpDZW5mazhVVGhHMGU2SDBIeUFQNWVYNS1DUmt0aUdiM1REM01zbi13SkFxLUpZdWYzZDlmbFNtbFpkRUZ6ZQ?oc=5",
-      "data": "26/08 07:01"
-    },
-    {
-      "titulo": "Marcão atinge marca expressiva pelo Fluminense no Brasileirão - iG Esportes",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUFRR21uYUNOeGdPT2YyYmMyM2xCaTBrYVNaV2t2RWljOExkdEN2cFFFWGpISlFGYzdBQ0dDT3RDazdOd093ME9TcHBkZEw0WUJuZ0VOeEFrTHc4VG5MdTF4dk9yemhNcHJ6YmxRcUJqMGRIaVRWQ0sybzF4eVZPUFZfS084YmJaLXAxYVdURGdiM3YydnJDQnQ0NTFBYmtzWWtDaWIzUzVKS0xWbk15eGphc2w2VFZrVmE2My1oa9IBxAFBVV95cUxNY2ZTZ25XYUJMeGlaYXZKUktwcGZ4aURPVDE5bFBvV2tqekVGTFpSNzRBNjNHMVNrUzV5S3ljTG1rZkpSeWpqcjl2bGdkN2dxYUtqLWpiYkk2aWZQcTNxTWphSlBMb1g4R1ZjY2U2Q2dsZk9mOVNuV2VKUjFUaWlWbzJFWTRnS3ZESktreEFmZUdQYmxUZXBtbFhkMnlkX1R0RHJGak5rdUw4c3FiZ3IwdFdLa0lIWVVqNVZGUlJuSDlwSVpP?oc=5",
-      "data": "26/08 17:06"
+      "titulo": "Fluminense recebe advertência de agência de fair play por parcelas vencidas de dívidas - GE",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0JkM002dVJuRnFwb2xpRUF2NndJQklLRWxxQmgzbllMdGJySTVhaHhCN2ZfNzk2VFFoWWZfcVdDb3hOc3hEWlBCdjhVZXgwQU1CeWUzZWhRRDhnYzh4TUhhS01XaUUwYnpzbzFGcjVCa01hTlBpcVdaTzZRLWFOaXdwdEpsZjRnek93YXVMMWo3dmxmZFlwa1lJYjJqSGZEY2RwQkxmXzBzZGQwdmFMTjZteUgtcHJaaUh0TUlNazQ4NjlUd1NSLU5lVXpoRzZ3elZLV3MzUWZfLWE1NUM5TmljeFBwUDFyWG1kWnhR?oc=5",
+      "data": "27/08 21:14"
     },
     {
       "titulo": "Bom começo de ex-Fluminense no futebol espanhol surpreende torcedores - O Dia",
@@ -600,10 +590,22 @@ window.PAINEL_DATA = {
       "data": "25/08 21:50"
     },
     {
-      "titulo": "Thiago Silva pode ser poupado pelo Fluminense contra o Athletico-PR - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1gyclMyQ2JFU2Y1dmNzUVJ4aDFCN2xQTi1XYWk0Ujdjak5uUUFEN3hRS1hEcW9NWnZQb2tFb192eURuU1RnSk1wbHRKMUZWS3BnXzRqLVZKVGpEZ3RZYm1lVG4tX0RUdWFZMzNJWm5BNE9vWG1iVk10OWRjcXVaRjJXaVhwaFJyTGh0Y2tnOVRabmtGQjlQNFlVY1I1REVHeGVjYmpFdl9PZkRwZ0xyQUpqUlZSUzAzNjMtWlVPVnFQaEp1dkd4bkln0gHPAUFVX3lxTFBVSTBHWTNUME1zcmdhY1pDdy1uSGJ1Y0xwV2JHc0NLZ2NsazY3Uy00RGEzc3JDeHBHTUtwWGNLaUR2cTNCMkw3bm5MQUI3ZXM1aXRWdEhVZjBRTm1ERlZ1Zm5JVldybUV4QTJUaTNxeFQ0WVVtVThwb3pHaG9KWEJpRmRZSHREbWN3X1RuNzFmYUZyaFh4eEtlMVlJZzhJNzFSTEFGWEdwYTZ3TDlJSjhkVlV4MUJHR3JFTVN5dzZsNjF3aXpMdzhyQ3pfRHUxSQ?oc=5",
-      "data": "26/08 18:45"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Vasco - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZJQlo0NFRHOUxia3MyUTRhaXlnSFVPODlpazdMc3hWbHhIX0xBNGljdjBpTHoyRVBteUtUZUdlUWtQSDRKdzZQb1M4VVdFNXBIYWY1aGlBbl9pSGNLd2lKdmRkb09ibVpDOF9rcjlYcmNXcGpqRTRJS2otTlc1RDRUemJaV0w0S0pydTRJNHd4RDh0LWJMbThtWk9HR0xWamVrN1RB?oc=5",
+      "data": "27/08 20:58"
+    },
+    {
+      "titulo": "Pedro, Luiz Henrique, André, Gerson, Jhon Arias, Kauã Elias, Richarlison, João Pedro, Facundo Bernal e Kayky: as maiores vendas da história do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVkVIQ2hCTU1ralE3ZXZCTDNUMXZtenlHaS1mbGt3N1FPbWMzTl83eDNjbnFQbXozUWFLNzZqbERwazJlbHRqSEhTLWplNWFKV29YMExLY2ZaaThNOGxvYkd4a3YwdTJpR3c3NllNR1EtZzNfZlNoZWdlNS1GYllWX3RyTEZPRms1QjRiZFpUVzVUMEhHOFVCekc0bHljLXFJWWJPTVJpWGFYTkMwb0dYMzdRWGRKSkdwTzhTaWxmdnlmRnVRS1pLeG96WDAtdjMxbjVhN05PRUxHeEJUdm9uV1g2dV9lb3o0MXFYbVFrTVRzWEs1OWplRnhXMWhyeTFwUW42YjJVa0NabHZacDVMakVYUzNiRVpROEJKV2xEQkZBRzE4ZnBhN2xWcDU1TmpGZ3ZZdWc3c09FaEg3RHhYYVdBdEJVZ1VxOTdLeUFJVlFGR0w2U3c?oc=5",
+      "data": "27/08 22:51"
+    },
+    {
+      "titulo": "NOTA – Esclarecimentos sobre ingressos esgotados para Athletico-PR x Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYU53WnE0azdZREI1TDNVa0dOWld0X204VnNCZThQMWdKcWFZX3NudlhNbkMxVGUxSmxfLWlqSFVnVWluM3V5OVkxSUM2cEhXank4ZzhBdVEtZHoyMjE4UERITHFhcE1OUlBnU2xFdjlKNXBNYTZwWDZxeUs3ZEdpY1VrbDFTSWczajZGX1VoSWhGU0FmcHRqX3paRkFwTU9iaklEVEVtMGxaVUNSYmVXckpzRDNPZw?oc=5",
+      "data": "27/08 20:40"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+  ]
 };
