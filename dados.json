@@ -1,103 +1,6 @@
 {
-  "atualizado_em": "28/08/2026 05:45",
+  "atualizado_em": "28/08/2026 17:38",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Eintracht Braunschweig x Hertha Berlin",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL BOCHUM x VfL Osnabruck",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Elche",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Fortuna Dusseldorf x Stuttgart II",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Austria Lustenau x Tirol",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al Khaleej Saihat x Al-Hilal",
-      "channels": [
-        "BANDSPORTS",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Nassr x Al Taawon",
-      "channels": [
-        "XSPORTS",
-        "SPORTV 2",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "15:30",
-      "competition": "Campeonato Alemão",
-      "match": "Bayern x VfB Stuttgart",
-      "channels": [
-        "SPORTV",
-        "SPORTYNET",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-28",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Genclerbirligi x Erzurum BB",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-28",
@@ -113,21 +16,21 @@
       "sport": "futebol",
       "date": "2026-08-28",
       "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Crystal Palace x Manchester City",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Wrexham x Birmingham",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "ESPN 2"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-28",
       "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Wrexham x Birmingham",
+      "competition": "Campeonato Inglês",
+      "match": "Crystal Palace x Manchester City",
       "channels": [
-        "ESPN 2"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -177,8 +80,8 @@
       "sport": "futebol",
       "date": "2026-08-28",
       "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Union Santa Fe x Sarmiento Junin",
+      "competition": "Campeonato Uruguaio",
+      "match": "Wanderers x Central Espanol",
       "channels": [
         "DISNEY+"
       ]
@@ -187,8 +90,8 @@
       "sport": "futebol",
       "date": "2026-08-28",
       "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Wanderers x Central Espanol",
+      "competition": "Campeonato Argentino",
+      "match": "Union Santa Fe x Sarmiento Junin",
       "channels": [
         "DISNEY+"
       ]
@@ -274,6 +177,103 @@
       "match": "San Diego fave (F) x Racing Louisville (F)",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x Hertha Berlin",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "VfL BOCHUM x VfL Osnabruck",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Fortuna Dusseldorf x Stuttgart II",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "14:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Elche",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "14:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Austria Lustenau x Tirol",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al Taawon",
+      "channels": [
+        "XSPORTS",
+        "SPORTV 2",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Khaleej Saihat x Al-Hilal",
+      "channels": [
+        "BANDSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Genclerbirligi x Erzurum BB",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-28",
+      "time": "15:30",
+      "competition": "Campeonato Alemão",
+      "match": "Bayern x VfB Stuttgart",
+      "channels": [
+        "SPORTV",
+        "SPORTYNET",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1079,36 +1079,36 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.1,
-      "temp_min": 18.4,
+      "temp_max": 26.9,
+      "temp_min": 18.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.0,
-      "temp_min": 19.6,
+      "temp_max": 26.6,
+      "temp_min": 19.5,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 24.2,
-      "temp_min": 15.6,
+      "temp_min": 15.7,
       "chance_chuva": 0,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.6,
-      "temp_min": 15.0,
+      "temp_max": 25.5,
+      "temp_min": 14.9,
       "chance_chuva": 0,
       "condicao": "Nublado"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense recebe advertência de agência de fair play por parcelas vencidas de dívidas - GE",
+      "titulo": "Fluminense recebe advertência de agência de fair play por parcelas vencidas de dívidas - ge",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0JkM002dVJuRnFwb2xpRUF2NndJQklLRWxxQmgzbllMdGJySTVhaHhCN2ZfNzk2VFFoWWZfcVdDb3hOc3hEWlBCdjhVZXgwQU1CeWUzZWhRRDhnYzh4TUhhS01XaUUwYnpzbzFGcjVCa01hTlBpcVdaTzZRLWFOaXdwdEpsZjRnek93YXVMMWo3dmxmZFlwa1lJYjJqSGZEY2RwQkxmXzBzZGQwdmFMTjZteUgtcHJaaUh0TUlNazQ4NjlUd1NSLU5lVXpoRzZ3elZLV3MzUWZfLWE1NUM5TmljeFBwUDFyWG1kWnhR0gH8AUFVX3lxTE9DZzZ4X1pXM1BFMC1Zb2wxbC1JR25VMnVIME5LdXVyc1E1VHFBNDhQbEo4LVVja3dpby1BSzNmQ0FkYTVXM211TjIyN05fLUlrbGc3WU5DOUxPcmhKZnB0MW9GOEcxNDhaSlkyMlhYMUt3OWxIS1FFazA3dFFwY0dmemlOWjladVpDeEx2QVJXX2NOVENiRm9lQmFnUUhnOHoxdVh5MHpQUmtUU0doMWFTdVZlTzdmZXZjSVF1ZlNRNGl2c2pSYUFpeHpYd29XZUpLeXZkLWhvam1UZ0g2djloNHRNVjlXM3JRUFlObU5xZ1Z2YUJJVmNjMkJFSA?oc=5",
       "data": "27/08 21:14"
     },
@@ -1118,19 +1118,19 @@
       "data": "25/08 21:50"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Vasco - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVZJQlo0NFRHOUxia3MyUTRhaXlnSFVPODlpazdMc3hWbHhIX0xBNGljdjBpTHoyRVBteUtUZUdlUWtQSDRKdzZQb1M4VVdFNXBIYWY1aGlBbl9pSGNLd2lKdmRkb09ibVpDOF9rcjlYcmNXcGpqRTRJS2otTlc1RDRUemJaV0w0S0pydTRJNHd4RDh0LWJMbThtWk9HR0xWamVrN1RB?oc=5",
-      "data": "27/08 20:58"
+      "titulo": "Libertadores 2026: Informações de ingressos para Fluminense x Platense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1V2STBQbW5CUE1Oai02MzlmcHNmemQwdUUtZzNrY1JFa1d1MlBUN1hqbHZVaUo5TFhLdFgybVM5Y0RCdnRUSGtEV0hyLVRYMklNUHVFYVhGQlJkTHItYlU1cjBjQVRKOVJZUzZQTWJZa0xycXlpOGR1OG9jNTFjd25abmVfdzRqRTJBX1FuRnhIZmRxSk9wc29ESVo3dDk3YUNndHAwX3NXdzA?oc=5",
+      "data": "28/08 20:25"
     },
     {
-      "titulo": "Pedro, Luiz Henrique, André, Gerson, Jhon Arias, Kauã Elias, Richarlison, João Pedro, Facundo Bernal e Kayky: as maiores vendas da história do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQVkVIQ2hCTU1ralE3ZXZCTDNUMXZtenlHaS1mbGt3N1FPbWMzTl83eDNjbnFQbXozUWFLNzZqbERwazJlbHRqSEhTLWplNWFKV29YMExLY2ZaaThNOGxvYkd4a3YwdTJpR3c3NllNR1EtZzNfZlNoZWdlNS1GYllWX3RyTEZPRms1QjRiZFpUVzVUMEhHOFVCekc0bHljLXFJWWJPTVJpWGFYTkMwb0dYMzdRWGRKSkdwTzhTaWxmdnlmRnVRS1pLeG96WDAtdjMxbjVhN05PRUxHeEJUdm9uV1g2dV9lb3o0MXFYbVFrTVRzWEs1OWplRnhXMWhyeTFwUW42YjJVa0NabHZacDVMakVYUzNiRVpROEJKV2xEQkZBRzE4ZnBhN2xWcDU1TmpGZ3ZZdWc3c09FaEg3RHhYYVdBdEJVZ1VxOTdLeUFJVlFGR0w2U3c?oc=5",
-      "data": "27/08 22:51"
+      "titulo": "Zagueiro do Fluminense deixa DM e pode reforçar a equipe - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUVuaHBYMnpWbUYzMWZIQU95ZmhJUUZIUmgyWmhUVkRpel9ZUzFnU1lIT1BvNU5TbENYLTUtbjcwUVh6ZEZyMUFsNlFwNVBPVk91Ty1PU0xraEZCclVZYmVFQWk3dTlYWGx3b2c5NFRINE1BeGJXY3VRNjhueXA5YlpWMmVDcnBZV2FuQlVLWmVnYm5CYVlxM2hpenVWbk15QldTS0FvcEdxZllsXy1zeUJuWlBnLS03?oc=5",
+      "data": "28/08 15:14"
     },
     {
-      "titulo": "Athletico x Fluminense: Furacão nega pedido do Flu e faz promoção de ingressos - UmDois Esportes",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTJUYVAtS05tOTVjbzJVV2FCMl9jUW8wWHRvTm9zaGNReGZQWS1IQ2RWcFpVUnNiaVUxNGUtcldKb2xnWWZYS3J6M3I3amZpZUh5YVZEejN0Wkt2dnd1OFFVS01tNlgzMlhzSzVfQTNJU3RPcnp3YU12N3BBUnVEOHd5bmsyZEJrYmo4NENTVmVrRzIyUnc?oc=5",
-      "data": "27/08 19:32"
+      "titulo": "Fluminense ataca Athletico por venda de ingressos, mas vê própria torcida se revoltar: “Frouxos” - Banda B",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzU1RUkzYmhrb294OGFORmc4UHNsclY1dWFrR0tiLW93U2g5YUFiRGZOdi1fMFBEMnhiaHJ5b0ROQ081TUM2bmt3cWxPdUVabmVZb1ZMSDBISFc1RHhVZ3BmcWtMT1RLWUZYTzdNNDJ3RW42UW5QYm9DQjNJMVpQdWpxNDRTWWNqbkgxVTRZRjVrM3NjVGZlR25WZXVZTTlfazNxT0E0ONIBrAFBVV95cUxNNHAwMXd4OE1LMHNEcHFpbkc3T2JUUjlkT3RVNTl2SWpwY2xzMWxMVEhXMXlMTm80WE16bGtVYmlCQ3F1ZWRzTlFHR2U4VGN6Y0Z5V2hoeFNNdG9OYVhZRl9kVEx5ZjV3NjRwRTJBZjlSRldvYVVkdnAxb1lOUDVMbFhvMHJJVzZaR25ZeDJoMDlyVFdmMkt0elBpNGMweUlMeDNfbFlnMndZbXpN?oc=5",
+      "data": "28/08 00:27"
     }
   ],
   "avisos": [
