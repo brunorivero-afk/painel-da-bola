@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/08/2026 00:02",
+  "atualizado_em": "29/08/2026 07:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -78,9 +78,31 @@ window.PAINEL_DATA = {
       "date": "2026-08-29",
       "time": "10:30",
       "competition": "Campeonato Alemão",
-      "match": "FSV Mainz 05 x SC Paderborn 07",
+      "match": "SV Elversberg x Bayer Leverkusen",
       "channels": [
-        "YOUTUBE",
+        "CAZÉTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "FC Koln x 1899 Hoffenheim",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Union Berlin x Eintracht Frankfurt",
+      "channels": [
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -101,31 +123,9 @@ window.PAINEL_DATA = {
       "date": "2026-08-29",
       "time": "10:30",
       "competition": "Campeonato Alemão",
-      "match": "Union Berlin x Eintracht Frankfurt",
+      "match": "FSV Mainz 05 x SC Paderborn 07",
       "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "FC Koln x 1899 Hoffenheim",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "SV Elversberg x Bayer Leverkusen",
-      "channels": [
-        "CAZÉTV",
+        "YOUTUBE",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -144,8 +144,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Danubio",
+      "competition": "Campeonato Inglês",
+      "match": "Coventry x Hull City",
       "channels": [
         "DISNEY+"
       ]
@@ -154,8 +154,18 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Coventry x Hull City",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Cardiff x Sheffield Utd",
+      "channels": [
+        "NSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Danubio",
       "channels": [
         "DISNEY+"
       ]
@@ -199,17 +209,8 @@ window.PAINEL_DATA = {
       "match": "Al Kholood x Al-Ahli Jeddah",
       "channels": [
         "BANDSPORTS",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Monza x Udinese",
-      "channels": [
-        "DISNEY+"
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -220,6 +221,16 @@ window.PAINEL_DATA = {
       "match": "Tottenham x Newcastle",
       "channels": [
         "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "13:30",
+      "competition": "Campeonato Italiano",
+      "match": "Sassuolo x Torino",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -240,7 +251,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-29",
       "time": "13:30",
       "competition": "Campeonato Italiano",
-      "match": "Sassuolo x Torino",
+      "match": "Monza x Udinese",
       "channels": [
         "DISNEY+"
       ]
@@ -270,21 +281,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Sociedad x Espanyol",
+      "competition": "Campeonato Uruguaio",
+      "match": "Juventud x Deportivo Maldonado",
       "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "14:00",
-      "competition": "Campeonato Russo",
-      "match": "Lokomotiv Moscow x Dinamo Moscow",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Cerro",
       "channels": [
-        "XSPORTS"
+        "DISNEY+"
       ]
     },
     {
@@ -302,20 +312,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "14:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Juventud x Deportivo Maldonado",
+      "competition": "Campeonato Russo",
+      "match": "Lokomotiv Moscow x Dinamo Moscow",
       "channels": [
-        "DISNEY+"
+        "XSPORTS"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "14:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Cerro",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Sociedad x Espanyol",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE",
+        "CAZÉTV"
       ]
     },
     {
@@ -336,7 +347,8 @@ window.PAINEL_DATA = {
       "match": "Al-Fateh x Al-Ittihad FC",
       "channels": [
         "BANDSPORTS",
-        "ONEFOOTBALL"
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -357,6 +369,7 @@ window.PAINEL_DATA = {
       "competition": "2ª Divisão Alemã",
       "match": "FC Nurnberg x Arminia Bielefeld",
       "channels": [
+        "YOUTUBE",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -385,11 +398,24 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Sevilla x Atletico Madrid",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "16:30",
       "competition": "Brasileirão Feminino",
       "match": "Grêmio (F) x São Paulo (F)",
       "channels": [
         "GLOBO",
         "TV BRASIL",
+        "SPORTV",
+        "SPORTV 2",
         "SPORTV 4"
       ]
     },
@@ -400,18 +426,13 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Feminino",
       "match": "Flamengo (F) x Ferroviária (F)",
       "channels": [
-        "GLOBO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Sevilla x Atletico Madrid",
-      "channels": [
+        "GLOBO",
+        "TV BRASIL",
+        "SPORTV",
+        "SPORTV 2",
+        "GE TV",
         "YOUTUBE",
-        "CAZÉTV"
+        "YOUTUBE"
       ]
     },
     {
@@ -682,16 +703,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-08-29",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Columbus Crew x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
       "time": "21:20",
       "competition": "Brasileirão Série A",
       "match": "Vasco x Cruzeiro",
@@ -738,6 +749,7 @@ window.PAINEL_DATA = {
       "competition": "MLS",
       "match": "Minnesota United FC x Orlando City SC",
       "channels": [
+        "NSPORTS",
         "APPLE TV"
       ]
     },
@@ -1102,8 +1114,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-30",
       "time": "15:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Club Nacional",
+      "competition": "Campeonato Turco",
+      "match": "Samsunspor x Fenerbahce",
       "channels": [
         "DISNEY+"
       ]
@@ -1112,8 +1124,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-08-30",
       "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Samsunspor x Fenerbahce",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Club Nacional",
       "channels": [
         "DISNEY+"
       ]
@@ -1147,7 +1159,8 @@ window.PAINEL_DATA = {
       "match": "Corinthians x Santos",
       "channels": [
         "GLOBO",
-        "PREMIERE 2"
+        "PREMIERE 2",
+        "PREMIERE 3"
       ]
     },
     {
@@ -1222,6 +1235,16 @@ window.PAINEL_DATA = {
       "match": "ABC x Uberlandia",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "17:30",
+      "competition": "MLS",
+      "match": "Columbus Crew x New England",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -1409,34 +1432,39 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 33.3,
-      "temp_min": 21.5,
+      "temp_max": 34.9,
+      "temp_min": 21.8,
       "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 32.7,
-      "temp_min": 18.9,
+      "temp_min": 19.3,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.8,
+      "temp_max": 28.7,
       "temp_min": 17.3,
       "chance_chuva": 8,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 30.1,
-      "temp_min": 16.6,
+      "temp_max": 29.3,
+      "temp_min": 16.7,
       "chance_chuva": 10,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Libertadores 2026: Informações de ingressos para Fluminense x Platense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1V2STBQbW5CUE1Oai02MzlmcHNmemQwdUUtZzNrY1JFa1d1MlBUN1hqbHZVaUo5TFhLdFgybVM5Y0RCdnRUSGtEV0hyLVRYMklNUHVFYVhGQlJkTHItYlU1cjBjQVRKOVJZUzZQTWJZa0xycXlpOGR1OG9jNTFjd25abmVfdzRqRTJBX1FuRnhIZmRxSk9wc29ESVo3dDk3YUNndHAwX3NXdzA?oc=5",
+      "data": "28/08 20:25"
+    },
     {
       "titulo": "Fluminense recebe advertência de agência de fair play por parcelas vencidas de dívidas - ge",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0JkM002dVJuRnFwb2xpRUF2NndJQklLRWxxQmgzbllMdGJySTVhaHhCN2ZfNzk2VFFoWWZfcVdDb3hOc3hEWlBCdjhVZXgwQU1CeWUzZWhRRDhnYzh4TUhhS01XaUUwYnpzbzFGcjVCa01hTlBpcVdaTzZRLWFOaXdwdEpsZjRnek93YXVMMWo3dmxmZFlwa1lJYjJqSGZEY2RwQkxmXzBzZGQwdmFMTjZteUgtcHJaaUh0TUlNazQ4NjlUd1NSLU5lVXpoRzZ3elZLV3MzUWZfLWE1NUM5TmljeFBwUDFyWG1kWnhR0gH8AUFVX3lxTE9DZzZ4X1pXM1BFMC1Zb2wxbC1JR25VMnVIME5LdXVyc1E1VHFBNDhQbEo4LVVja3dpby1BSzNmQ0FkYTVXM211TjIyN05fLUlrbGc3WU5DOUxPcmhKZnB0MW9GOEcxNDhaSlkyMlhYMUt3OWxIS1FFazA3dFFwY0dmemlOWjladVpDeEx2QVJXX2NOVENiRm9lQmFnUUhnOHoxdVh5MHpQUmtUU0doMWFTdVZlTzdmZXZjSVF1ZlNRNGl2c2pSYUFpeHpYd29XZUpLeXZkLWhvam1UZ0g2djloNHRNVjlXM3JRUFlObU5xZ1Z2YUJJVmNjMkJFSA?oc=5",
@@ -1453,14 +1481,9 @@ window.PAINEL_DATA = {
       "data": "27/08 23:02"
     },
     {
-      "titulo": "MPRJ investiga possível superlotação em jogos de Urubu e Fluminense no Maracanã - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjNWdkJrdWlfQl9KMGlnU082NzJrRVI2eWI5WllyVUVOTkludW1icmNwbTB1U016XzVsSGJnS0dnb0dBYURIRk0wV2N5djc4ZXlLWXVJR3NTaFoyRlpRLTBGc2p2ZFphQldpY0dncmNpbjZzMXRkeDVUU2E4ZWJhY2dlOE56eDV1c01ZV2w0eFhFa3VaUVpwZHRYazZ5M21BTzhXMHVzVEZTUVpLSTdVQkFB?oc=5",
-      "data": "29/08 01:07"
-    },
-    {
-      "titulo": "Libertadores 2026: Informações de ingressos para Fluminense x Platense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1V2STBQbW5CUE1Oai02MzlmcHNmemQwdUUtZzNrY1JFa1d1MlBUN1hqbHZVaUo5TFhLdFgybVM5Y0RCdnRUSGtEV0hyLVRYMklNUHVFYVhGQlJkTHItYlU1cjBjQVRKOVJZUzZQTWJZa0xycXlpOGR1OG9jNTFjd25abmVfdzRqRTJBX1FuRnhIZmRxSk9wc29ESVo3dDk3YUNndHAwX3NXdzA?oc=5",
-      "data": "28/08 20:25"
+      "titulo": "Fluminense recebe sondagens da Europa por Hércules; veja cenário - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOXZZdTNOcWh0dFdGTFp6R2JsWVV5d0RjVFhwbmUySkdVVi1NUWc3MHB4VnZxcUJpNjdXUTh5cHYtaTBoUWRmNHhQdFlwcXJzb2dfWWI4S0wwU09hVkVBalpWM3BNSkdkNHlySW9Gak8yV0NCTzFqOERXLWNOdDM0ZVZSbVRQVDRlRHFieklWQUJCdUV4QkFRbGhCMHNSQ1JJd2RjR1NweTExUEc2b09IVXhETGo3dGQtY2RpU0NwbDhlcmR0a2VJNl9LV0ZGaDJIa0xoTnNGSDlLRlpYZWdDUHBmNnE4Zw?oc=5",
+      "data": "29/08 06:56"
     }
   ],
   "avisos": [
