@@ -1,99 +1,12 @@
 {
-  "atualizado_em": "30/08/2026 17:27",
+  "atualizado_em": "30/08/2026 20:05",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-08-30",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Lazio x Genoa",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Cagliari x Inter",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Santos",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 2",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Flamengo x Botafogo",
-      "channels": [
-        "GLOBO",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Ponte Preta",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Atlético GO",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "16:00",
-      "competition": "Brasileirão Série D",
-      "match": "Gama x ASA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Celta Vigo x Athletic Club",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "17:00",
+      "time": "18:30",
       "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x Austin II",
+      "match": "Real Monarchs x Tacoma Defiance",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -101,42 +14,13 @@
     {
       "sport": "futebol",
       "date": "2026-08-30",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ABC x Uberlandia",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "17:30",
-      "competition": "MLS",
-      "match": "Columbus Crew x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x Sporting Cristal",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "18:00",
+      "time": "18:30",
       "competition": "Brasileirão Série B",
-      "match": "CRB x Criciúma",
+      "match": "Vila Nova x Ceará",
       "channels": [
-        "REDETV!",
-        "CANAL GOAT",
+        "XSPORTS",
+        "SPORTYNET",
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -159,29 +43,6 @@
       "channels": [
         "PREMIERE FC",
         "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Vila Nova x Ceará",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "18:30",
-      "competition": "MLS Next Pro",
-      "match": "Real Monarchs x Tacoma Defiance",
-      "channels": [
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -210,18 +71,8 @@
       "sport": "futebol",
       "date": "2026-08-30",
       "time": "20:00",
-      "competition": "MLS",
-      "match": "St. Louis City x FC Dallas",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Houston Dynamo FC II x Minnesota United II",
+      "match": "Orlando City II x Crown Legacy",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -241,7 +92,7 @@
       "date": "2026-08-30",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Orlando City II x Crown Legacy",
+      "match": "Houston Dynamo FC II x Minnesota United II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -249,11 +100,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-30",
-      "time": "21:00",
-      "competition": "Campeonato Peruano",
-      "match": "Cienciano x Cusco",
+      "time": "20:00",
+      "competition": "MLS",
+      "match": "St. Louis City x FC Dallas",
       "channels": [
-        "FANATIZ"
+        "APPLE TV"
       ]
     },
     {
@@ -265,6 +116,16 @@
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "21:00",
+      "competition": "Campeonato Peruano",
+      "match": "Cienciano x Cusco",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -600,6 +461,16 @@
       "sport": "futebol",
       "date": "2026-08-30",
       "time": "15:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Club Nacional",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "15:30",
       "competition": "Campeonato Turco",
       "match": "Samsunspor x Fenerbahce",
       "channels": [
@@ -609,10 +480,139 @@
     {
       "sport": "futebol",
       "date": "2026-08-30",
-      "time": "15:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Club Nacional",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Cagliari x Inter",
       "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Lazio x Genoa",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "16:00",
+      "competition": "Brasileirão Série D",
+      "match": "Gama x ASA",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Atlético GO",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Ponte Preta",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Flamengo x Botafogo",
+      "channels": [
+        "GLOBO",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Santos",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 2",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Celta Vigo x Athletic Club",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ABC x Uberlandia",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x Austin II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x Sporting Cristal",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "17:30",
+      "competition": "MLS",
+      "match": "Columbus Crew x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "18:00",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Criciúma",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
         "DISNEY+"
       ]
     },
@@ -862,19 +862,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Clube propõe R$ 2,2 milhões para recomprar direitos de investidor da FFU - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWw2NklyWTdRZGVkakZGTU9UOWFNbG1KTENuNV9abm5uVGVGSGtJcXBSOFlsSzZDZnhMX0RDUjJSd2ZoLXBkOHIwQWRTQ3gwYk1XWnFIZGRRZnhYWEhvWWR1UFZXZGR0MVBZOGFnWS1vaU9uZUp1TVQ2aDAxZDFPZnVyN3E4S1ZadXNTSDBma2RmMlQyaDhMUWthdFV2RkkyY3BJVWkzcVh6SXA0TjV4VlJmamE4QzdzbjBsSnlEVm5TQnQxOGxtWHpIYklRbGJORk1TMUVmRDZSUQ?oc=5",
-      "data": "30/08 17:23"
-    },
-    {
-      "titulo": "Roma faz proposta por André, ex-Fluminense, mas Wolverhampton dificulta saída do brasileiro - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVlc1YUFocUY5ZzlVeTdXUE4tc3huZkU0d2ZvVWh3T2dfVXc2V3BEVzZzQmt3b2piTkF1bmIyaWVXbnZXTHNSRmY4OVJuZE9feFpqWkVWaW1rNVo1bWhmX3V1MUxVS2hiNnpoWjlFTXdscjdielpYZ2N5YzNrOVoxOTNvLW9aUFBEZFpTMWxialBUUGxtbE16RzdVdU9BZlE3em5PTkRZaXd3ZkRRa3JZa1NKeFYtX2V0Y0Zha3d4UXlYWS0wcDdrWTBacFROdnVOTVFNd0ZzRHFVWnF1ZlZiWFJGdlZucmZIZmw4XzBkQTNvc1JFZXJMT9IBhwJBVV95cUxON1RUWkxZMXlaYzhXWkpvWk41Q0gtdnh6c3lDYm5qbF81WlRTdGNXYTFKTkFlYzBBdlpTdUxZaUhtd3VNOVAxS2RLWmtGZVEzTXRQaklQVktrM3pETUwyS0NmdnV5eDluSmYwejRKQ195Z2FpYzVPT2d4MGpjV3lzTGdmMlQ1VXdHSEgzeS1YZTlydExiNElYeVMyOEZEZWJhVUZfNjd0VEVrMjNSVThYeUZLZlJLczhCZlZCNWZMYjhYN2NfZE5DQkw1RHNwcEhmWjY3VFBWa1pwMEdQaF9aMkJkdDExdDdGNXVET21yV3VZNXd2OG94UGhUbHkzMEhxUFBuUXhYNA?oc=5",
-      "data": "30/08 17:30"
-    },
-    {
       "titulo": "Athletico x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEpDUGhJQzJJaVdtQnVldjkzZFNYcjVCXzRGMzFtcmpBa3ljeGZNeGN4R0dyUVhIOVBEY1lBdl9OYlp5WDNBYzVPSHhBY2xUTmp2UjhndnFPWTdoTmN5bFc3WThmNmtUVC1OQlh6NVlORUZ4QTRGQVN4Rjc3cjk5b2FYY1UzQUhoN2E1YktfV0pWbGU3WU5ndW1oN3FqTk40Z3lJb2lCZ0JYZGVkOGt6OFBGTDNQWWVhUVl1SnJBS0dIa2hYcDlpNTFmVEw5Y2RIV1lhVDlTZ0Rxd9IB6AFBVV95cUxNLWh1RTN0WjVTcEM1NzBsZlB2enpvejBMYWhZTW9jYjhWTWdqRC1fNGV3dDZQQTVzWWhieGx2emFsU1UtM2hDSVhFSEItX0NWXzdWUmhfb3VDYkxuS01uUVEzSzd6NFVrMllEeVNDbDZGWWQ4SjR2MWVEUHh0YkFXYlJZeFZuNmVCSjJiMFd6emkxaU1DWTBvZUg1YWI4blJkc1dyR3VvVVh6UWdMaFNSb0oxM0l0SFJKYnU1QndPSHUzUnVONnExdWdRb0c1bVE5NGQ2SzB2SmRRSzVQdW85M3h4emZDMkNy?oc=5",
       "data": "29/08 21:00"
+    },
+    {
+      "titulo": "Roma tem interesse em André, ex-Fluminense, e Richard Ríos, ex-Palmeiras, diz jornalista - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaGphYmZhRkFaLWkyOGR6MEZkbjZFcGdNbUtJc1lEQWZlQ0c1NlVFTXpHNFdBWWxnd1Z0VnJKZllSaV9fbGhLUUZCSFpkQzZsOGh4NHgzNE92bjFVWklBWjJFSXNsQzk3UFJFQnVfd0tGTGYxYTBsZHlvUU1iSVdSNTRQaE1jQkQ2RjZLeEpNemQyVWpEaEVhbDhWX0lFa0FBWUN6MUhpTXQ4THZuS0RXcTA1QVNzLTdTLVlDaXN6d3lBMFJHaERibVgzQXBXazhIcHJzcVVvYTl0UjFOSUhURWRRNjhaTlgyU0NiY1Rrai1Ga3E1XzA4Z9IBhwJBVV95cUxOOEhIX0pHOTU3V194Rzc1aURGeEdhS0FORm5MVjFHMldCbzNaTmkxeFltTTR1aEdjUDVreHZrQ0dYY0JoMHQycnM0X0FIWDFfN01EajB0SmFLMEFhSGRRSzg2RUxuSUlhOS1xSUlLWkJTZmkzREtERFJJN0tVUEpBUkR6NUwzSE80UkRZTThqY3oyNDljWnRlbHQxS2Z4UUp6RDZuREFhV01SSE56bGdiY2FrdUJ2Nkw0eWtZeXlLa1pTbVh2aWdHMmd5QklTOHhPUlJUdUFrMVFQQVpHOEFyM1FYRHpyVExRVXhIX3RFOUZkMEprMVpQTjQ4NXdCbk9oS29Ub0wzaw?oc=5",
+      "data": "30/08 12:19"
+    },
+    {
+      "titulo": "Clube propõe R$ 2,2 milhões para recomprar direitos de investidor da FFU - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWw2NklyWTdRZGVkakZGTU9UOWFNbG1KTENuNV9abm5uVGVGSGtJcXBSOFlsSzZDZnhMX0RDUjJSd2ZoLXBkOHIwQWRTQ3gwYk1XWnFIZGRRZnhYWEhvWWR1UFZXZGR0MVBZOGFnWS1vaU9uZUp1TVQ2aDAxZDFPZnVyN3E4S1ZadXNTSDBma2RmMlQyaDhMUWthdFV2RkkyY3BJVWkzcVh6SXA0TjV4VlJmamE4QzdzbjBsSnlEVm5TQnQxOGxtWHpIYklRbGJORk1TMUVmRDZSUQ?oc=5",
+      "data": "30/08 20:46"
     },
     {
       "titulo": "Libertadores 2026: Informações de ingressos para Fluminense x Platense - fluminense.com.br",
@@ -882,9 +882,9 @@
       "data": "28/08 20:25"
     },
     {
-      "titulo": "Athletico-PR x Fluminense: acompanhe a partida em tempo real - Gazeta Esportiva",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVBXWVJETjMwdWg1blNyemotOWE3QUFjRUxzazRGdXM4aDhiMHJuMms2bVU0bTEzbVJRX09VRGg0VE1BMnFmVHZ5VUREMUF0Vzh2cjJKclpNSEYzbFR0ZDdwakE3YUpMbzVsYjNFcnZ1bTNwOVVpdlFORUp5b3hHVHpBNHVPV21UWWVNS1lnTlJkdTV0OXZYZjh0a3lJNzVndEVRTnNTaWVwUXZEeE1EVdIBtgFBVV95cUxQNzd0ZUdQd1ZjbnBMaEhsakhNR3dxVng5U0w4UlN5a0VkTnBWYTFKaUluaE9yVWNhX1JSM2J0Q0RSSzN1TVQ5ajQybGFKUllJR2d0blVSRmZvSHYzeVNLTkpLQmRMS3M0WENhVlVUNXZBRlBua2thSFVMWmg0LVh2ejFjcHBzYXpLcmpwUF9TeF9QTHdUWmh1ZkhBUGwyaTI4dVpRXzM1WXY0T3VmZGRxYVR2SmNFZw?oc=5",
-      "data": "30/08 13:55"
+      "titulo": "MPRJ investiga possível superlotação em jogos de Urubu e Fluminense no Maracanã - NETVASCO",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjNWdkJrdWlfQl9KMGlnU082NzJrRVI2eWI5WllyVUVOTkludW1icmNwbTB1U016XzVsSGJnS0dnb0dBYURIRk0wV2N5djc4ZXlLWXVJR3NTaFoyRlpRLTBGc2p2ZFphQldpY0dncmNpbjZzMXRkeDVUU2E4ZWJhY2dlOE56eDV1c01ZV2w0eFhFa3VaUVpwZHRYazZ5M21BTzhXMHVzVEZTUVpLSTdVQkFB?oc=5",
+      "data": "29/08 01:07"
     }
   ],
   "avisos": [
