@@ -1,154 +1,6 @@
 {
-  "atualizado_em": "30/08/2026 14:09",
+  "atualizado_em": "30/08/2026 17:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "12:30",
-      "competition": "Campeonato Inglês",
-      "match": "Manchester United x Ipswich",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "12:30",
-      "competition": "Campeonato Alemão",
-      "match": "FC Augsburg x FC Schalke 04",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "UCV Moquegua x Alianza Atletico",
-      "channels": [
-        "YOUTUBE",
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Napoli x como",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Red Bull Salzburg x Austria Vienna",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "competition": "Campeonato Russo",
-      "match": "Rubin x Makhachkala",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "competition": "MLS Next Pro",
-      "match": "Columbus Crew II x Chicago FC United",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Deportivo La Coruna x Valencia",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "14:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC Viktoria Koln x Preussen Munster",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "15:00",
-      "competition": "Campeonato Argentino",
-      "match": "Banfield x River Plate",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Qadisiyah FC x Al-Faisaly FC",
-      "channels": [
-        "ONEFOOTBALL",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "15:15",
-      "competition": "Campeonato Peruano",
-      "match": "ADT x Sport Huancayo",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Samsunspor x Fenerbahce",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "15:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Club Nacional",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-30",
@@ -240,16 +92,6 @@
       "sport": "futebol",
       "date": "2026-08-30",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ABC x Uberlandia",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "17:00",
       "competition": "MLS Next Pro",
       "match": "Portland Timbers II x Austin II",
       "channels": [
@@ -259,11 +101,11 @@
     {
       "sport": "futebol",
       "date": "2026-08-30",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x Sporting Cristal",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ABC x Uberlandia",
       "channels": [
-        "FANATIZ"
+        "YOUTUBE"
       ]
     },
     {
@@ -274,6 +116,16 @@
       "match": "Columbus Crew x New England",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x Sporting Cristal",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -293,10 +145,9 @@
       "date": "2026-08-30",
       "time": "18:30",
       "competition": "Brasileirão Série A",
-      "match": "Grêmio x Chapecoense-sc",
+      "match": "Mirassol x Palmeiras",
       "channels": [
-        "PREMIERE FC",
-        "SPORTV"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -304,9 +155,10 @@
       "date": "2026-08-30",
       "time": "18:30",
       "competition": "Brasileirão Série A",
-      "match": "Mirassol x Palmeiras",
+      "match": "Grêmio x Chapecoense-sc",
       "channels": [
-        "PRIME VIDEO"
+        "PREMIERE FC",
+        "SPORTV"
       ]
     },
     {
@@ -504,17 +356,6 @@
       "date": "2026-08-30",
       "time": "10:00",
       "competition": "Campeonato Inglês",
-      "match": "Sunderland x Fulham",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "10:00",
-      "competition": "Campeonato Inglês",
       "match": "Chelsea x Brighton",
       "channels": [
         "ESPN",
@@ -529,6 +370,17 @@
       "match": "Leeds x Brentford",
       "channels": [
         "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "10:00",
+      "competition": "Campeonato Inglês",
+      "match": "Sunderland x Fulham",
+      "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -614,6 +466,154 @@
       "match": "Rapid Vienna x Sturm Graz",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "12:30",
+      "competition": "Campeonato Alemão",
+      "match": "FC Augsburg x FC Schalke 04",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "12:30",
+      "competition": "Campeonato Inglês",
+      "match": "Manchester United x Ipswich",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "UCV Moquegua x Alianza Atletico",
+      "channels": [
+        "YOUTUBE",
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "13:30",
+      "competition": "Campeonato Italiano",
+      "match": "Napoli x como",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "14:00",
+      "competition": "MLS Next Pro",
+      "match": "Columbus Crew II x Chicago FC United",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "14:00",
+      "competition": "Campeonato Russo",
+      "match": "Rubin x Makhachkala",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "14:00",
+      "competition": "Campeonato Austríaco",
+      "match": "Red Bull Salzburg x Austria Vienna",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Deportivo La Coruna x Valencia",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "14:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC Viktoria Koln x Preussen Munster",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "competition": "Campeonato Argentino",
+      "match": "Banfield x River Plate",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Qadisiyah FC x Al-Faisaly FC",
+      "channels": [
+        "ONEFOOTBALL",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "15:15",
+      "competition": "Campeonato Peruano",
+      "match": "ADT x Sport Huancayo",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Samsunspor x Fenerbahce",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "15:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Club Nacional",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -833,28 +833,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.2,
-      "temp_min": 21.7,
+      "temp_max": 28.1,
+      "temp_min": 22.2,
       "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.5,
-      "temp_min": 21.9,
+      "temp_max": 28.4,
+      "temp_min": 22.1,
       "chance_chuva": 96,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.4,
+      "temp_max": 29.6,
       "temp_min": 19.5,
       "chance_chuva": 98,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.5,
+      "temp_max": 27.1,
       "temp_min": 18.3,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -862,14 +862,19 @@
   ],
   "noticias": [
     {
+      "titulo": "Clube propõe R$ 2,2 milhões para recomprar direitos de investidor da FFU - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWw2NklyWTdRZGVkakZGTU9UOWFNbG1KTENuNV9abm5uVGVGSGtJcXBSOFlsSzZDZnhMX0RDUjJSd2ZoLXBkOHIwQWRTQ3gwYk1XWnFIZGRRZnhYWEhvWWR1UFZXZGR0MVBZOGFnWS1vaU9uZUp1TVQ2aDAxZDFPZnVyN3E4S1ZadXNTSDBma2RmMlQyaDhMUWthdFV2RkkyY3BJVWkzcVh6SXA0TjV4VlJmamE4QzdzbjBsSnlEVm5TQnQxOGxtWHpIYklRbGJORk1TMUVmRDZSUQ?oc=5",
+      "data": "30/08 17:23"
+    },
+    {
+      "titulo": "Roma faz proposta por André, ex-Fluminense, mas Wolverhampton dificulta saída do brasileiro - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVlc1YUFocUY5ZzlVeTdXUE4tc3huZkU0d2ZvVWh3T2dfVXc2V3BEVzZzQmt3b2piTkF1bmIyaWVXbnZXTHNSRmY4OVJuZE9feFpqWkVWaW1rNVo1bWhmX3V1MUxVS2hiNnpoWjlFTXdscjdielpYZ2N5YzNrOVoxOTNvLW9aUFBEZFpTMWxialBUUGxtbE16RzdVdU9BZlE3em5PTkRZaXd3ZkRRa3JZa1NKeFYtX2V0Y0Zha3d4UXlYWS0wcDdrWTBacFROdnVOTVFNd0ZzRHFVWnF1ZlZiWFJGdlZucmZIZmw4XzBkQTNvc1JFZXJMT9IBhwJBVV95cUxON1RUWkxZMXlaYzhXWkpvWk41Q0gtdnh6c3lDYm5qbF81WlRTdGNXYTFKTkFlYzBBdlpTdUxZaUhtd3VNOVAxS2RLWmtGZVEzTXRQaklQVktrM3pETUwyS0NmdnV5eDluSmYwejRKQ195Z2FpYzVPT2d4MGpjV3lzTGdmMlQ1VXdHSEgzeS1YZTlydExiNElYeVMyOEZEZWJhVUZfNjd0VEVrMjNSVThYeUZLZlJLczhCZlZCNWZMYjhYN2NfZE5DQkw1RHNwcEhmWjY3VFBWa1pwMEdQaF9aMkJkdDExdDdGNXVET21yV3VZNXd2OG94UGhUbHkzMEhxUFBuUXhYNA?oc=5",
+      "data": "30/08 17:30"
+    },
+    {
       "titulo": "Athletico x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEpDUGhJQzJJaVdtQnVldjkzZFNYcjVCXzRGMzFtcmpBa3ljeGZNeGN4R0dyUVhIOVBEY1lBdl9OYlp5WDNBYzVPSHhBY2xUTmp2UjhndnFPWTdoTmN5bFc3WThmNmtUVC1OQlh6NVlORUZ4QTRGQVN4Rjc3cjk5b2FYY1UzQUhoN2E1YktfV0pWbGU3WU5ndW1oN3FqTk40Z3lJb2lCZ0JYZGVkOGt6OFBGTDNQWWVhUVl1SnJBS0dIa2hYcDlpNTFmVEw5Y2RIV1lhVDlTZ0Rxd9IB6AFBVV95cUxNLWh1RTN0WjVTcEM1NzBsZlB2enpvejBMYWhZTW9jYjhWTWdqRC1fNGV3dDZQQTVzWWhieGx2emFsU1UtM2hDSVhFSEItX0NWXzdWUmhfb3VDYkxuS01uUVEzSzd6NFVrMllEeVNDbDZGWWQ4SjR2MWVEUHh0YkFXYlJZeFZuNmVCSjJiMFd6emkxaU1DWTBvZUg1YWI4blJkc1dyR3VvVVh6UWdMaFNSb0oxM0l0SFJKYnU1QndPSHUzUnVONnExdWdRb0c1bVE5NGQ2SzB2SmRRSzVQdW85M3h4emZDMkNy?oc=5",
       "data": "29/08 21:00"
-    },
-    {
-      "titulo": "Negociando com Luiz Henrique, Roma sonda ex-Fluminense e ex-Palmeiras - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcDcyQXNDTXVQOGFKelNXMWUySS1fNWJKakJlMU5raHRXZXlPeWVPSi1wME9nYXhHM3NPeVJWVjZhS0ZzenlTOFpzSklHSHRjbzNVTUNFOWhjY2RwQU1SU3cwSlVwUEZycVNZbE5ZWGlGZUl0ZlY0UGNwOWtPMmdvX0lWbklFWk1JUHU5aXdqdVJHdGZUX0dIeFNTQ3NLeDhoV1ZURHVUSmRBN25QRE9NTmpldTh3TC1kWlJrbnVZU3N1Ny1yTDl5Q2tWMVlEa0FBcmpPa1M1Qy1QMmR2TlZ5RHlLT2JzdVJoejducm9YQUJ0SDJ2b21BN0J5cUhWYW8?oc=5",
-      "data": "30/08 16:05"
     },
     {
       "titulo": "Libertadores 2026: Informações de ingressos para Fluminense x Platense - fluminense.com.br",
@@ -880,11 +885,6 @@
       "titulo": "Athletico-PR x Fluminense: acompanhe a partida em tempo real - Gazeta Esportiva",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVBXWVJETjMwdWg1blNyemotOWE3QUFjRUxzazRGdXM4aDhiMHJuMms2bVU0bTEzbVJRX09VRGg0VE1BMnFmVHZ5VUREMUF0Vzh2cjJKclpNSEYzbFR0ZDdwakE3YUpMbzVsYjNFcnZ1bTNwOVVpdlFORUp5b3hHVHpBNHVPV21UWWVNS1lnTlJkdTV0OXZYZjh0a3lJNzVndEVRTnNTaWVwUXZEeE1EVdIBtgFBVV95cUxQNzd0ZUdQd1ZjbnBMaEhsakhNR3dxVng5U0w4UlN5a0VkTnBWYTFKaUluaE9yVWNhX1JSM2J0Q0RSSzN1TVQ5ajQybGFKUllJR2d0blVSRmZvSHYzeVNLTkpLQmRMS3M0WENhVlVUNXZBRlBua2thSFVMWmg0LVh2ejFjcHBzYXpLcmpwUF9TeF9QTHdUWmh1ZkhBUGwyaTI4dVpRXzM1WXY0T3VmZGRxYVR2SmNFZw?oc=5",
       "data": "30/08 13:55"
-    },
-    {
-      "titulo": "Adversário do Athletico-PR, Fluminense tem desfalque de peso; confira - Furacao.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OdGV1MGNBRTdsZU5jQzhPU1o2eTBYX0JLYVpGRi15Q2dzdzYxVzBLZXVKWU1UcVp4OEdVdF91X0RrVktLZkhtdEJ3RGFjRjN5eEtmUnhQUnJJaEU4NkhVNVZQNXU2SmlTdnpRcHduZEY?oc=5",
-      "data": "29/08 13:08"
     }
   ],
   "avisos": [
