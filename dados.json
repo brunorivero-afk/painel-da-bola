@@ -1,59 +1,6 @@
 {
-  "atualizado_em": "29/08/2026 19:14",
+  "atualizado_em": "29/08/2026 21:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "17:30",
-      "competition": "MLS",
-      "match": "Seattle Sounders x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "UTC x Universitario",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "18:00",
-      "competition": "Copa Paulista",
-      "match": "Uniao Sao Joao x Bandeirante SP",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Vitória",
-      "channels": [
-        "PREMIERE 2",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Cuiabá",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-29",
@@ -100,16 +47,6 @@
       "date": "2026-08-29",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Toronto FC x New York City FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "20:30",
-      "competition": "MLS",
       "match": "Inter Miami x Montreal Impact",
       "channels": [
         "APPLE TV"
@@ -131,6 +68,16 @@
       "time": "20:30",
       "competition": "MLS",
       "match": "New York Red Bulls x Philadelphia Union",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Toronto FC x New York City FC",
       "channels": [
         "APPLE TV"
       ]
@@ -325,40 +272,6 @@
       "date": "2026-08-29",
       "time": "10:30",
       "competition": "Campeonato Alemão",
-      "match": "FSV Mainz 05 x SC Paderborn 07",
-      "channels": [
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "RB Leipzig x Borussia M",
-      "channels": [
-        "XSPORTS",
-        "SPORTV",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Union Berlin x Eintracht Frankfurt",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
       "match": "FC Koln x 1899 Hoffenheim",
       "channels": [
         "CANAL GOAT",
@@ -379,9 +292,54 @@
     {
       "sport": "futebol",
       "date": "2026-08-29",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Union Berlin x Eintracht Frankfurt",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "RB Leipzig x Borussia M",
+      "channels": [
+        "XSPORTS",
+        "SPORTV",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "FSV Mainz 05 x SC Paderborn 07",
+      "channels": [
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
       "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Danubio",
+      "competition": "Campeonato Inglês",
+      "match": "Bournemouth x Everton",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Coventry x Hull City",
       "channels": [
         "DISNEY+"
       ]
@@ -400,20 +358,9 @@
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Coventry x Hull City",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Danubio",
       "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Bournemouth x Everton",
-      "channels": [
-        "ESPN",
         "DISNEY+"
       ]
     },
@@ -464,10 +411,22 @@
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Monza x Udinese",
+      "competition": "Campeonato Inglês",
+      "match": "Tottenham x Newcastle",
       "channels": [
+        "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "13:30",
+      "competition": "Campeonato Alemão",
+      "match": "Borussia Dortmund x Hamburger SV",
+      "channels": [
+        "CAZÉTV",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -496,22 +455,10 @@
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Tottenham x Newcastle",
+      "competition": "Campeonato Italiano",
+      "match": "Monza x Udinese",
       "channels": [
-        "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "13:30",
-      "competition": "Campeonato Alemão",
-      "match": "Borussia Dortmund x Hamburger SV",
-      "channels": [
-        "CAZÉTV",
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -521,38 +468,6 @@
       "competition": "Campeonato Holandês",
       "match": "AZ Alkmaar x GO Ahead Eagles",
       "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Sociedad x Espanyol",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "competition": "Campeonato Russo",
-      "match": "Lokomotiv Moscow x Dinamo Moscow",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Academico Viseu x FC Porto",
-      "channels": [
-        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -574,6 +489,38 @@
       "match": "Boston River x Cerro",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "14:00",
+      "competition": "Campeonato Português",
+      "match": "Academico Viseu x FC Porto",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "14:00",
+      "competition": "Campeonato Russo",
+      "match": "Lokomotiv Moscow x Dinamo Moscow",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "14:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Sociedad x Espanyol",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
       ]
     },
     {
@@ -686,18 +633,8 @@
       "sport": "futebol",
       "date": "2026-08-29",
       "time": "17:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Atletico Torque",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-29",
-      "time": "17:00",
       "competition": "Brasileirão Série C",
-      "match": "Figueirense x Maranhão",
+      "match": "Guarani x Brusque",
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
@@ -708,7 +645,7 @@
       "date": "2026-08-29",
       "time": "17:00",
       "competition": "Brasileirão Série C",
-      "match": "Guarani x Brusque",
+      "match": "Figueirense x Maranhão",
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
@@ -801,6 +738,69 @@
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "17:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Atletico Torque",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "17:30",
+      "competition": "MLS",
+      "match": "Seattle Sounders x Chicago Fire",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "UTC x Universitario",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "18:00",
+      "competition": "Copa Paulista",
+      "match": "Uniao Sao Joao x Bandeirante SP",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Vitória",
+      "channels": [
+        "PREMIERE 2",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-29",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Cuiabá",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -1432,31 +1432,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 34.8,
+      "temp_max": 34.5,
       "temp_min": 21.8,
-      "chance_chuva": 7,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 22,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 32.7,
       "temp_min": 19.1,
-      "chance_chuva": 2,
-      "condicao": "Trovoada"
+      "chance_chuva": 26,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.3,
+      "temp_max": 29.5,
       "temp_min": 17.4,
-      "chance_chuva": 6,
-      "condicao": "Nublado"
+      "chance_chuva": 30,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 29.0,
       "temp_min": 16.9,
-      "chance_chuva": 12,
-      "condicao": "Nublado"
+      "chance_chuva": 31,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -1471,19 +1471,19 @@
       "data": "29/08 07:00"
     },
     {
-      "titulo": "NOTA – Esclarecimentos sobre ingressos esgotados para Athletico-PR x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYU53WnE0azdZREI1TDNVa0dOWld0X204VnNCZThQMWdKcWFZX3NudlhNbkMxVGUxSmxfLWlqSFVnVWluM3V5OVkxSUM2cEhXank4ZzhBdVEtZHoyMjE4UERITHFhcE1OUlBnU2xFdjlKNXBNYTZwWDZxeUs3ZEdpY1VrbDFTSWczajZGX1VoSWhGU0FmcHRqX3paRkFwTU9iaklEVEVtMGxaVUNSYmVXckpzRDNPZw?oc=5",
-      "data": "27/08 20:40"
-    },
-    {
-      "titulo": "Roma formaliza proposta astronômica ao Zenit por Luiz Henrique; Fluminense pode lucrar - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQmdodXpEdkFiNmVQNm9Ba0Jqclk4SGw2RklZelZFM0FtY1ZKVl9HMkRybU9wa3pwRnVWYkNLaEEwREFCaXBTZHhHY0xzUE5kNXJDcmZENU9RYi0zSktyckp4SFF5QnE3eVFua2thNWlUY1g1N3c4OHhyaTRIaGJRWFZiUjNiVm9ncjdIQUtXWnp6aE4wMmhzcDdUc28wVlFiazQ3X2pOd01xeHgtMEtpRDR3?oc=5",
-      "data": "29/08 19:48"
+      "titulo": "Fluminense visita Athletico-PR em cenário oposto ao de 2024 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0t3T0Z5UHJnUG1IaGcxd2JUYTVsQkR4d29ULVM2cHJaV2pRQ3pPQm1MbnpremRRQndBcVdpTE1veE1KemZQWW9jOUVzbWthNWFnRWcxX3Zhc2JXVElOYmUxU1d0Q3N6TXNGSlpha3hvWVpzT0F4cWl5VU14MlBacWRNbnpSaEVBUTRWVEpvbnJFVDYxWmtoaC1vOHZKSVFnR3c?oc=5",
+      "data": "29/08 18:27"
     },
     {
       "titulo": "Libertadores 2026: Informações de ingressos para Fluminense x Platense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1V2STBQbW5CUE1Oai02MzlmcHNmemQwdUUtZzNrY1JFa1d1MlBUN1hqbHZVaUo5TFhLdFgybVM5Y0RCdnRUSGtEV0hyLVRYMklNUHVFYVhGQlJkTHItYlU1cjBjQVRKOVJZUzZQTWJZa0xycXlpOGR1OG9jNTFjd25abmVfdzRqRTJBX1FuRnhIZmRxSk9wc29ESVo3dDk3YUNndHAwX3NXdzA?oc=5",
       "data": "28/08 20:25"
+    },
+    {
+      "titulo": "Fluminense recebe sondagens da Europa por Hércules; veja cenário - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOXZZdTNOcWh0dFdGTFp6R2JsWVV5d0RjVFhwbmUySkdVVi1NUWc3MHB4VnZxcUJpNjdXUTh5cHYtaTBoUWRmNHhQdFlwcXJzb2dfWWI4S0wwU09hVkVBalpWM3BNSkdkNHlySW9Gak8yV0NCTzFqOERXLWNOdDM0ZVZSbVRQVDRlRHFieklWQUJCdUV4QkFRbGhCMHNSQ1JJd2RjR1NweTExUEc2b09IVXhETGo3dGQtY2RpU0NwbDhlcmR0a2VJNl9LV0ZGaDJIa0xoTnNGSDlLRlpYZWdDUHBmNnE4Zw?oc=5",
+      "data": "29/08 06:56"
     }
   ],
   "avisos": [
