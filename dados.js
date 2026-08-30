@@ -1,33 +1,12 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "30/08/2026 03:21",
+  "atualizado_em": "30/08/2026 09:32",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "07:15",
-      "competition": "Campeonato Holandês",
-      "match": "Utrecht x PSV Eindhoven",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-30",
       "time": "08:30",
       "competition": "2ª Divisão Alemã",
       "match": "FC Magdeburg x Holstein Kiel",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-30",
-      "time": "08:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC Saarbrücken x Hansa Rostock",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -50,6 +29,16 @@ window.PAINEL_DATA = {
       "match": "FC St. Pauli x FC Kaiserslautern",
       "channels": [
         "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "08:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC Saarbrücken x Hansa Rostock",
+      "channels": [
         "PPV ONEFOOTBALL"
       ]
     },
@@ -154,7 +143,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-30",
       "time": "12:00",
       "competition": "Campeonato Austríaco",
-      "match": "TSV Hartberg x Ried",
+      "match": "Rapid Vienna x Sturm Graz",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -164,7 +153,7 @@ window.PAINEL_DATA = {
       "date": "2026-08-30",
       "time": "12:00",
       "competition": "Campeonato Austríaco",
-      "match": "Rapid Vienna x Sturm Graz",
+      "match": "TSV Hartberg x Ried",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -618,6 +607,17 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-08-30",
+      "time": "07:15",
+      "competition": "Campeonato Holandês",
+      "match": "Utrecht x PSV Eindhoven",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-08-31",
       "time": "13:30",
       "competition": "Campeonato Italiano",
@@ -833,34 +833,39 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.5,
-      "temp_min": 21.8,
+      "temp_max": 26.2,
+      "temp_min": 21.7,
       "chance_chuva": 4,
-      "condicao": "Nublado"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 27.5,
-      "temp_min": 22.0,
+      "temp_min": 21.9,
       "chance_chuva": 14,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.9,
-      "temp_min": 19.9,
+      "temp_max": 29.4,
+      "temp_min": 19.5,
       "chance_chuva": 39,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.6,
-      "temp_min": 19.0,
+      "temp_max": 28.5,
+      "temp_min": 18.3,
       "chance_chuva": 73,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Roma tem interesse em André, ex-Fluminense, e Richard Ríos, ex-Palmeiras, diz jornalista - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaGphYmZhRkFaLWkyOGR6MEZkbjZFcGdNbUtJc1lEQWZlQ0c1NlVFTXpHNFdBWWxnd1Z0VnJKZllSaV9fbGhLUUZCSFpkQzZsOGh4NHgzNE92bjFVWklBWjJFSXNsQzk3UFJFQnVfd0tGTGYxYTBsZHlvUU1iSVdSNTRQaE1jQkQ2RjZLeEpNemQyVWpEaEVhbDhWX0lFa0FBWUN6MUhpTXQ4THZuS0RXcTA1QVNzLTdTLVlDaXN6d3lBMFJHaERibVgzQXBXazhIcHJzcVVvYTl0UjFOSUhURWRRNjhaTlgyU0NiY1Rrai1Ga3E1XzA4Z9IBhwJBVV95cUxOOEhIX0pHOTU3V194Rzc1aURGeEdhS0FORm5MVjFHMldCbzNaTmkxeFltTTR1aEdjUDVreHZrQ0dYY0JoMHQycnM0X0FIWDFfN01EajB0SmFLMEFhSGRRSzg2RUxuSUlhOS1xSUlLWkJTZmkzREtERFJJN0tVUEpBUkR6NUwzSE80UkRZTThqY3oyNDljWnRlbHQxS2Z4UUp6RDZuREFhV01SSE56bGdiY2FrdUJ2Nkw0eWtZeXlLa1pTbVh2aWdHMmd5QklTOHhPUlJUdUFrMVFQQVpHOEFyM1FYRHpyVExRVXhIX3RFOUZkMEprMVpQTjQ4NXdCbk9oS29Ub0wzaw?oc=5",
+      "data": "30/08 12:19"
+    },
     {
       "titulo": "Athletico x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEpDUGhJQzJJaVdtQnVldjkzZFNYcjVCXzRGMzFtcmpBa3ljeGZNeGN4R0dyUVhIOVBEY1lBdl9OYlp5WDNBYzVPSHhBY2xUTmp2UjhndnFPWTdoTmN5bFc3WThmNmtUVC1OQlh6NVlORUZ4QTRGQVN4Rjc3cjk5b2FYY1UzQUhoN2E1YktfV0pWbGU3WU5ndW1oN3FqTk40Z3lJb2lCZ0JYZGVkOGt6OFBGTDNQWWVhUVl1SnJBS0dIa2hYcDlpNTFmVEw5Y2RIV1lhVDlTZ0Rxd9IB6AFBVV95cUxNLWh1RTN0WjVTcEM1NzBsZlB2enpvejBMYWhZTW9jYjhWTWdqRC1fNGV3dDZQQTVzWWhieGx2emFsU1UtM2hDSVhFSEItX0NWXzdWUmhfb3VDYkxuS01uUVEzSzd6NFVrMllEeVNDbDZGWWQ4SjR2MWVEUHh0YkFXYlJZeFZuNmVCSjJiMFd6emkxaU1DWTBvZUg1YWI4blJkc1dyR3VvVVh6UWdMaFNSb0oxM0l0SFJKYnU1QndPSHUzUnVONnExdWdRb0c1bVE5NGQ2SzB2SmRRSzVQdW85M3h4emZDMkNy?oc=5",
@@ -870,11 +875,6 @@ window.PAINEL_DATA = {
       "titulo": "Libertadores 2026: Informações de ingressos para Fluminense x Platense - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc1V2STBQbW5CUE1Oai02MzlmcHNmemQwdUUtZzNrY1JFa1d1MlBUN1hqbHZVaUo5TFhLdFgybVM5Y0RCdnRUSGtEV0hyLVRYMklNUHVFYVhGQlJkTHItYlU1cjBjQVRKOVJZUzZQTWJZa0xycXlpOGR1OG9jNTFjd25abmVfdzRqRTJBX1FuRnhIZmRxSk9wc29ESVo3dDk3YUNndHAwX3NXdzA?oc=5",
       "data": "28/08 20:25"
-    },
-    {
-      "titulo": "Fluminense recebe sondagens da Europa por Hércules; veja cenário - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOXZZdTNOcWh0dFdGTFp6R2JsWVV5d0RjVFhwbmUySkdVVi1NUWc3MHB4VnZxcUJpNjdXUTh5cHYtaTBoUWRmNHhQdFlwcXJzb2dfWWI4S0wwU09hVkVBalpWM3BNSkdkNHlySW9Gak8yV0NCTzFqOERXLWNOdDM0ZVZSbVRQVDRlRHFieklWQUJCdUV4QkFRbGhCMHNSQ1JJd2RjR1NweTExUEc2b09IVXhETGo3dGQtY2RpU0NwbDhlcmR0a2VJNl9LV0ZGaDJIa0xoTnNGSDlLRlpYZWdDUHBmNnE4Zw?oc=5",
-      "data": "29/08 06:56"
     },
     {
       "titulo": "MPRJ investiga possível superlotação em jogos de Urubu e Fluminense no Maracanã - NETVASCO",
