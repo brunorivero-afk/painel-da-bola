@@ -1,114 +1,6 @@
 {
-  "atualizado_em": "31/08/2026 14:49",
+  "atualizado_em": "31/08/2026 19:20",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Lecce x Roma",
-      "channels": [
-        "CAZÉTV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Osasuna x Getafe",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Besiktas x Çorum",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Amed x Trabzonspor",
-      "channels": [
-        "ESPN 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Albion FC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Atalanta x Bologna",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Aston Villa x Arsenal",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "Benfica x Estoril",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x Guimaraes",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Barcelona x Rayo Vallecano",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-08-31",
@@ -133,17 +25,6 @@
       "sport": "futebol",
       "date": "2026-08-31",
       "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Operário-PR",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "19:30",
       "competition": "Copa Paulista",
       "match": "Gremio Prudente x Paulista",
       "channels": [
@@ -153,11 +34,12 @@
     {
       "sport": "futebol",
       "date": "2026-08-31",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Remo x Coritiba",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Fortaleza x Operário-PR",
       "channels": [
-        "PREMIERE"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -169,6 +51,16 @@
       "channels": [
         "YOUTUBE",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Remo x Coritiba",
+      "channels": [
+        "PREMIERE"
       ]
     },
     {
@@ -202,6 +94,114 @@
         "SPORTV",
         "NSPORTS",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "13:30",
+      "competition": "Campeonato Italiano",
+      "match": "Lecce x Roma",
+      "channels": [
+        "CAZÉTV",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Osasuna x Getafe",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "15:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Albion FC",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Amed x Trabzonspor",
+      "channels": [
+        "ESPN 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Besiktas x Çorum",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Atalanta x Bologna",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "16:00",
+      "competition": "Campeonato Inglês",
+      "match": "Aston Villa x Arsenal",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x Guimaraes",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "Benfica x Estoril",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-08-31",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Barcelona x Rayo Vallecano",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
       ]
     },
     {
@@ -272,48 +272,48 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.7,
+      "temp_max": 26.1,
       "temp_min": 21.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.2,
+      "temp_max": 26.6,
       "temp_min": 21.5,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.1,
+      "temp_max": 25.0,
       "temp_min": 17.9,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.6,
+      "temp_max": 25.4,
       "temp_min": 16.8,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Renato Gaúcho ganha força para assumir rival do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVZVTUM0SmkxZFoxcUVkRHNhZklYa1VQdmg0TVRjNV9hRkpTRTJ5dW9BaWhJZENDNVdrTUNOaUNEdEx3bkl2aW92MXQ4MTEwN1I1ME5nWGliMTloQ04tazUwVmdicmdfQktLY1o1S1dZMXZrYTBmUG9qUk96R0RmbXF3cnBxWHBrTm9nejVB?oc=5",
-      "data": "31/08 13:01"
+      "titulo": "Ignácio se consolida entre titulares e vive fase artilheira no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZE5uTk9jRnBXeEZjZEtYVmJ0UzExV2NZT0tSaDNwbEVmLXFBbEFzS2JDTHlndkd4Vi04T0lYUnpDeXZVXzNiWmtMSzB4N2oyY3FqMEpVTFI4eVZNbEdMUTEzRjl6QThGZzRFS1Y4ejE3MEFFdW05N2NYOFoxbEZ6RmtQcF9UcWJRZ0ZGVnhKb0N1bkNmMjVjNGhiUHFocnNVY29rbWRmaS1XZkxlTFVYZHlyT3ZIRTNKdllvV21jVzMyQkpheXRsakk2QTZBalpZM2NNVktleTFITmp60gHrAUFVX3lxTE4tQmFlNlpmV2NIRURNdDRXYTU3S183OWpza2hXTkozM3Zyc2xuOUZkWktOeG4wV19STG9tWnR5cndDOVFYZEdtLVZrS0JudHZQM3l3aXp6STRoRUtiQWJGUGNrd2xJR28xRnlZZHdRTzFPQnhZMlNOUVp4THdYR3Vvc1BYbDZ2bE42QlVwUzhRMFF4MU4xZ3A2YU4zODI2NXFGOE5McGVma2FjSmd3SGNRUkxxT2JmRnhjR1V3ZmF5X1JHblJzV0Y4TVNWMWh5eDUtZHo4bjJWVWhUZ2RoR2NIam9oRkRfeGRMVzA?oc=5",
+      "data": "31/08 18:41"
     },
     {
-      "titulo": "Marcão chega a seis jogos de invencibilidade no comando do Fluminense; veja números - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVFPTHhqSV93Vks4TmFqTUZFS0hCQ1lxUWNNaTY1MTcxM3FhaGZqS09XR0tZSlRqTzhndmtiTWF3Z0owQzlEX285NHZxRzhhbEVDeVRWTkIyTlFHZENIbU41aDNCVldhVnJYak8wbm5hV0NUdEUzTTh3NE9wZVVSbWlKTXlBaWFMY0hac244eTdjMGk0NTlUNmNpODFITDhMeWhRcFEyTVY3QUdPOGc?oc=5",
-      "data": "31/08 16:00"
+      "titulo": "Comentado no Fluminense, volante é anunciado como reforço de clube da Série A do Brasileirão - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRllGcWZqRThTUGphdHRMdjQzSlAtUDdGYWlURm5lMzVzd2txa2RuRTUxck9KQnNKTkJoS0lDLWI2cXlOcmh0cUF4T2dyaGNZRmlrS25ZckhqVWN3NUZCeW0zRWxnVm1SbzY4R3pFUHNpaHlmQ1B2dWsxbmNJUWpqaFgwektVQjNjTVdqRWpLM1ZoSmJFc3hPUE1QRmZhMFV3Ym5IVk9mc3FNS2VHZFkyQUdEWm1MRGlJUlE?oc=5",
+      "data": "31/08 18:35"
     },
     {
-      "titulo": "Clássico, decisão e mais: veja os próximos jogos do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmVPdHFSSzBvakdLd2ZxUlB6N0UyNDFFWlRXa2NuaTZPbzFJaXRCejVHRFF0dEYySGVMcm10OWhUd1cyejFNQTUyLUplaUJFeTR5aFVtRnFQcHpMSWIzS3BkblhMZHlIZF8wd3Vxc01rcGttXzM2TkktUFpDdlNzTl9FQzFCR2NQU1NTdEc1MkE?oc=5",
-      "data": "31/08 15:30"
+      "titulo": "Alvo do Fluminense, zagueiro deve ficar mais uma janela no Zenit - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUW9RSHFiUUcyZzBSTEVSc2l0VGI0NU1paFBlbE03UUUzTjZWbnFfUXZQdHRpb29PUlBCb2U0bHdyZGJ6NjRVQl9YVXlrelUwUFlOVmE0YU5zYU9mSUxhZHBVYzlmUzdkMEZPVFdlOGdUR0hibDFvbC1paXFQb1FJWEdoeURTTHFiQUp2V3MxR1BXUjhT?oc=5",
+      "data": "31/08 19:18"
     },
     {
       "titulo": "Clube propõe R$ 2,2 milhões para recomprar direitos de investidor da FFU - UOL",
@@ -321,9 +321,9 @@
       "data": "30/08 21:22"
     },
     {
-      "titulo": "Roma faz proposta por André, ex-Fluminense, mas Wolverhampton dificulta saída do brasileiro - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVlc1YUFocUY5ZzlVeTdXUE4tc3huZkU0d2ZvVWh3T2dfVXc2V3BEVzZzQmt3b2piTkF1bmIyaWVXbnZXTHNSRmY4OVJuZE9feFpqWkVWaW1rNVo1bWhmX3V1MUxVS2hiNnpoWjlFTXdscjdielpYZ2N5YzNrOVoxOTNvLW9aUFBEZFpTMWxialBUUGxtbE16RzdVdU9BZlE3em5PTkRZaXd3ZkRRa3JZa1NKeFYtX2V0Y0Zha3d4UXlYWS0wcDdrWTBacFROdnVOTVFNd0ZzRHFVWnF1ZlZiWFJGdlZucmZIZmw4XzBkQTNvc1JFZXJMT9IBhwJBVV95cUxON1RUWkxZMXlaYzhXWkpvWk41Q0gtdnh6c3lDYm5qbF81WlRTdGNXYTFKTkFlYzBBdlpTdUxZaUhtd3VNOVAxS2RLWmtGZVEzTXRQaklQVktrM3pETUwyS0NmdnV5eDluSmYwejRKQ195Z2FpYzVPT2d4MGpjV3lzTGdmMlQ1VXdHSEgzeS1YZTlydExiNElYeVMyOEZEZWJhVUZfNjd0VEVrMjNSVThYeUZLZlJLczhCZlZCNWZMYjhYN2NfZE5DQkw1RHNwcEhmWjY3VFBWa1pwMEdQaF9aMkJkdDExdDdGNXVET21yV3VZNXd2OG94UGhUbHkzMEhxUFBuUXhYNA?oc=5",
-      "data": "30/08 17:30"
+      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
+      "data": "31/08 00:30"
     }
   ],
   "avisos": [
