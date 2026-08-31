@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "31/08/2026 00:13",
+  "atualizado_em": "31/08/2026 07:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -272,43 +272,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.7,
-      "temp_min": 21.5,
-      "chance_chuva": 8,
-      "condicao": "Nublado"
+      "temp_max": 26.7,
+      "temp_min": 21.3,
+      "chance_chuva": 10,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.0,
+      "temp_max": 27.9,
       "temp_min": 21.5,
-      "chance_chuva": 2,
-      "condicao": "Nublado"
+      "chance_chuva": 4,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.6,
-      "temp_min": 19.2,
-      "chance_chuva": 26,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 26.0,
+      "temp_min": 18.3,
+      "chance_chuva": 18,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.8,
-      "temp_min": 18.0,
-      "chance_chuva": 24,
-      "condicao": "Nublado"
+      "temp_max": 27.0,
+      "temp_min": 16.5,
+      "chance_chuva": 27,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
-      "data": "31/08 00:30"
+      "titulo": "Hulk supera fase de adaptação no Fluminense e tem uma participação em gol por jogo com Marcão - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOS0ROVWd3Mk84bWp5Zy1SYnNBY0FvTTFkS1ZTRkZBaW5XMDY3Z0FmWFZiUTBBRlFPcE9haHVaZGQ4THIxTHVCdDB4VW1Ub2pPdnh6VVlZaW1kd2RTcXByYnhna0NaU2YxVEptLUdqdndzMGV4UDZpbmN4S1g0RU84WU53bjhBQnk1UnM1Wjhha0N4MXZFS20wdTVuSlVLS1lmT0FWMEZISFJJZ0V3SWV5TDVHNzMxQmJtckJHM2dqTkFrZTMtZEplRW5JZThQcWN0eXdMT1V1RXNZeDdLb2N4VGpKQlFiQ0pwY2E3cTA1VUppT2xmTktv0gGGAkFVX3lxTE1hdHlYbjZYNkxDQ3p2eGhZMVdjLWU4RFRKNFVuaFBua20tYlpXdFdDVWRJUlpVbEdmdmh6VWhDZTBLdkZWRS00RjU5Q1RlMTYyVmxNVzdBVU1SUmdYQzN5bzBvWmlCTzVIc0h2bWN3YWZMU0dEUkhnZjAzQ3ZyQUxIWkZZSXA5RkJGeE0yTk02dzdxbEpRY2JFQnFqaGllXzFMVFBjc3N2VjlwZm40QXJFamVXNnk0S0VGN2t2aDg5Z1dBVHZxWW9PMUpESmtzeVF1VHpnZ09ZWjV6aTY1TjFpV0JPQjBoTUFtODJBSmZzeHBNYjRQWjhNeUZMdS1pVUlUd2oyd3c?oc=5",
+      "data": "31/08 07:01"
     },
     {
-      "titulo": "Hulk, Martinelli, Lucho Acosta, John Kennedy, Canobbio, Serna, Savarino, Castillo, Hércules e Ignácio: os jogadores do Fluminense com mais participações em gols no Brasileirão - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPRG1xRUY1dHNHcFlYMHpPN3hVZ3g3bkVMRjU0QlU3X2Z6UkE1WDc1MjRTZmNoRXVpVDZwVnN3bV9xUkQzbnNIQ1Rra2QwTk9LV3RWRVc0WDRTMUNXamo4YkprTUctdFFhdGNtU0R1emF3QTBwa3VSWk1pZ0hJX0NnNWpFUlFTdC1yRFIxS0NpM0p5d2dCWDVmcllqcTlueTMxeVFZdFMxX0pReGdEYmR4UVkzdEQ4blJ1SzVsTUEyX3BIVWdPZlRnT3BnYk1uSjJSSEt6OFptUU9qWFZpZU9obk4tdFBaeXFEcHE0YWhfeXBySHg4X0l5ajZDRUhqZ01GTThVMm9nSVpKQWo0UWZxM2Y3SjhEWU5lR0UybjFVLV9QUnpwelQyaTZualRMaktYRUZuZzBIc3ozNm9QaDdUM3kxUXNuMkZVYjh6ejJnTW9xYkdBSTgxODJEcFNHYVppdV83YUFDVGVWbm1vQWVXMjNkNA?oc=5",
-      "data": "31/08 00:44"
+      "titulo": "Thiago Silva 'auxiliar-técnico' tem atuação elogiada no Flu - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDBGMmdvWHJzYUdld0NoXzU3SmZfU2czSTM2VjZvU3R1YUo5NlZxYldwdy1rdEQ2d0JkaEYzaWxpeERaaTFNMFVXbUlwdkNrLTFEN1FPSWV1dFY2OXZ2bG1WTldFQXRXTGNOejRGVEtEYktIRDFrMXd1SE9QOVo4ZERLYXlZVGRGOFFnTG5NTkZCNjJuQ2c4amhPNVdrOW5jWTdacGswZF8?oc=5",
+      "data": "31/08 09:50"
     },
     {
       "titulo": "Clube propõe R$ 2,2 milhões para recomprar direitos de investidor da FFU - UOL",
@@ -316,14 +316,14 @@ window.PAINEL_DATA = {
       "data": "30/08 21:22"
     },
     {
-      "titulo": "Roma tem interesse em André, ex-Fluminense, e Richard Ríos, ex-Palmeiras, diz jornalista - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaGphYmZhRkFaLWkyOGR6MEZkbjZFcGdNbUtJc1lEQWZlQ0c1NlVFTXpHNFdBWWxnd1Z0VnJKZllSaV9fbGhLUUZCSFpkQzZsOGh4NHgzNE92bjFVWklBWjJFSXNsQzk3UFJFQnVfd0tGTGYxYTBsZHlvUU1iSVdSNTRQaE1jQkQ2RjZLeEpNemQyVWpEaEVhbDhWX0lFa0FBWUN6MUhpTXQ4THZuS0RXcTA1QVNzLTdTLVlDaXN6d3lBMFJHaERibVgzQXBXazhIcHJzcVVvYTl0UjFOSUhURWRRNjhaTlgyU0NiY1Rrai1Ga3E1XzA4Z9IBhwJBVV95cUxOOEhIX0pHOTU3V194Rzc1aURGeEdhS0FORm5MVjFHMldCbzNaTmkxeFltTTR1aEdjUDVreHZrQ0dYY0JoMHQycnM0X0FIWDFfN01EajB0SmFLMEFhSGRRSzg2RUxuSUlhOS1xSUlLWkJTZmkzREtERFJJN0tVUEpBUkR6NUwzSE80UkRZTThqY3oyNDljWnRlbHQxS2Z4UUp6RDZuREFhV01SSE56bGdiY2FrdUJ2Nkw0eWtZeXlLa1pTbVh2aWdHMmd5QklTOHhPUlJUdUFrMVFQQVpHOEFyM1FYRHpyVExRVXhIX3RFOUZkMEprMVpQTjQ4NXdCbk9oS29Ub0wzaw?oc=5",
-      "data": "30/08 12:19"
+      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
+      "data": "31/08 00:30"
     },
     {
-      "titulo": "Athletico x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEpDUGhJQzJJaVdtQnVldjkzZFNYcjVCXzRGMzFtcmpBa3ljeGZNeGN4R0dyUVhIOVBEY1lBdl9OYlp5WDNBYzVPSHhBY2xUTmp2UjhndnFPWTdoTmN5bFc3WThmNmtUVC1OQlh6NVlORUZ4QTRGQVN4Rjc3cjk5b2FYY1UzQUhoN2E1YktfV0pWbGU3WU5ndW1oN3FqTk40Z3lJb2lCZ0JYZGVkOGt6OFBGTDNQWWVhUVl1SnJBS0dIa2hYcDlpNTFmVEw5Y2RIV1lhVDlTZ0Rxd9IB6AFBVV95cUxNLWh1RTN0WjVTcEM1NzBsZlB2enpvejBMYWhZTW9jYjhWTWdqRC1fNGV3dDZQQTVzWWhieGx2emFsU1UtM2hDSVhFSEItX0NWXzdWUmhfb3VDYkxuS01uUVEzSzd6NFVrMllEeVNDbDZGWWQ4SjR2MWVEUHh0YkFXYlJZeFZuNmVCSjJiMFd6emkxaU1DWTBvZUg1YWI4blJkc1dyR3VvVVh6UWdMaFNSb0oxM0l0SFJKYnU1QndPSHUzUnVONnExdWdRb0c1bVE5NGQ2SzB2SmRRSzVQdW85M3h4emZDMkNy?oc=5",
-      "data": "29/08 21:00"
+      "titulo": "Brasileiro: Athletico e Flu sonham, mas só empatam em jogo com vacilos dos goleiros - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeHpidWloaEdHVjhUdTBCem92eWQ2c1JwZ0twQnExZGpEWThsaVpPOGVoN0ZLZnJzZHVCTXh3UHJNSTZIdEtZSUtuT3RUSTM5MWdGeUhzOWp5dUNFeWwyVUkzaVRLaWZSZTEtbmp6a3lYSlVtMXpjR2xuZ0xWME1CUFJWeEZwRXNyT1hmVVVRNV94QnVtZDR3d2JJYXJLRWk4M0FGeV84MzhCUUlKbWp6NkdhMlNBOG1xMmdiMzFoZ1kxRW5adVo5RDM4aGFHQmoydnBn?oc=5",
+      "data": "30/08 16:06"
     }
   ],
   "avisos": [
