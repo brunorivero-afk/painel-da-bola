@@ -1,29 +1,6 @@
 {
-  "atualizado_em": "01/09/2026 14:17",
+  "atualizado_em": "01/09/2026 17:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Wolfsberger AC x Lask Linz",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Hilal x Al-Ahli Jeddah",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-01",
@@ -66,6 +43,29 @@
         "SPORTV",
         "PREMIERE FC",
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-01",
+      "time": "14:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Wolfsberger AC x Lask Linz",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-01",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Hilal x Al-Ahli Jeddah",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -182,58 +182,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.8,
-      "temp_min": 20.1,
+      "temp_max": 26.4,
+      "temp_min": 20.2,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.1,
-      "temp_min": 21.3,
+      "temp_max": 27.3,
+      "temp_min": 21.1,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.2,
+      "temp_max": 25.1,
       "temp_min": 17.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.0,
-      "temp_min": 16.2,
+      "temp_max": 26.2,
+      "temp_min": 16.4,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
-      "data": "01/09 07:00"
-    },
-    {
       "titulo": "Saiba quanto o Fluminense pode lucrar com transferência de André na Europa - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTM4X2pZR1dVVWRqODlrNTBDOUVmeUx1bEVaa0hDNENIclBqN1dHLUJqZTNlWWV1U3l0X0pmeFR2WTU5TDNCNUxHb1BHZ2h4TEMxV0toOWVWSHlCZXM0VE50c1V1eENidGJHbVVkQWFYSGNzb1VHVUdZbktGM3Exanp4bUsxWXR2WUlWT2QxQXlWVncwV1JsRlgxaUlCQWxaV2RB?oc=5",
-      "data": "01/09 13:00"
+      "data": "01/09 14:13"
     },
     {
-      "titulo": "Lucho Acosta, Canobbio, Martinelli, Fábio, Freytes, Renê, Serna, Jemmes, Hércules e Samuel Xavier: os jogadores do Fluminense com mais jogos como titular no Brasileirão - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPcDRwUmNmZ0pUbFI4dVZvTGlpQlR3NWF5b0EyYWJROG1qVDZZc09NRWdfTzZmNGpTbTB0clIzRjJtOUM5SXJpb205bzduV014bVZ3S0lqb3Zkdk9leEhfZmstWUlVcGhOMEVwajhMczR0b1ZiRGxvM1FoSjBKeGdWZWhvZVY1cUVBcERUdTRib3BoMmVkWmE0VVJSVGh0WEZyMjg4T2R1TjBwbmhjeGdmUUdXWVpRaUJkUHk4NHNwNWk2LS01cW9KSDJuelRMNmxIdS1Uc2hES2xJQ0wzamtRQUZubWJCNVI3RldHMjNRQldiVURCQl9Ka1JPQkUxNGYtNE84SjdxMEZkTXEwRGVGYldQWTNhUzJJQ2Y4R0hEbnRzODJ3Z2pRV1RWSm5MRmlvaW1NaW9XdVdDblFrd1N0UUFnUWcwZTFDaVFsc1Q5cFRuUE4xWks3a1NxbkZJcDNzMi1GVlVZN2dmQQ?oc=5",
-      "data": "01/09 14:51"
+      "titulo": "Fluminense acerta contratação de zagueiro paraguaio de 19 anos - ge",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTFZbnNJYzA3NjFCNzRsT01CVTN3cVlhTjJ5MHhnMm1YQWo0RERXNVprUXo1b2lBa3F0MzZodUVzY2dHY1JFeDJfQ3BWeVFFZzZVVjNVUWk4SjVoTTBiT1RkNEtZb0w0V0dxMUJMTk9tMHNUNnM4THZvVEtORG9XNk5MempPTG9memg0ZVltdXFaRU04ZWpjVjQwSjZTOHh0dFNGOGhrV05WYjdoU0tzX2dfQVJZb01KT3FPQ1RWeU96Tm5XY2Q2MlZpSGtwd9IB3AFBVV95cUxNcHN4azB3X1ZFemtuYlFtRHdOZWFLUkxkaFpQUDZEbjJ2R0l0V3FEeW1RVWtVd05mSmgwNWR6SmpHVGJCbFNoLTJLVzY5NWRtVzFRcjctQlFmRW9VWTJ0MVZwaTBxSDUtZ2NIdGNKN0dvc2l4WG5lbXFQMzF6bnFmTjEtUXB2MjZya2VwaUpVWmltcENFODVHbW1FZ0lYclAtVGUyTkJVRDNiZTJZVC1fUUxqZE9lU0toMjBfV2hoeVRVT2t0eW9yYzFHbF9jZWEtVjk4WERiQ1lEMzdz?oc=5",
+      "data": "01/09 16:07"
     },
     {
-      "titulo": "Fluminense parabeniza Abel Braga, multicampeão pelo Clube - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWi1vUkJ1Z3EtbHBKQ1duM1BseUhGaEVmLURWRTJsSFByU01tQ0xvUzJhbFoxallTeUNDWWw2TDJVWnl6X19hX0NYRVFQZm0xNmZrbWdxZW9FX0Jtam1MWVA1SllCdTlDdkFBcFdCTGZ5b0FVUVZhLXF2aDZpbVlxTHJic25fakNkRktV?oc=5",
-      "data": "01/09 15:00"
+      "titulo": "Hulk ganha carta 85 no EA Sports FC 27 mesmo com Fluminense fora do novo jogo - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFNaN1VqQ0NjVHFaWlhPNF93cjhmZUluSGtZSXVBRWY4M3dSZUtKa3BnN1F5aDR1bGp5MVV1ZmZjc2pnY3ZHalhpaEk3MlV4NG1ndWhxMkl0N3ZrdEoxX3lsZ18tX3U0cEt1U0ZORDdEc1dpVHFaYkVLVzNFZ19UWm1qLWlvVUhhRGN2NzlYTkROaEYxNG4tVVZucWliSW5hR2FianVHYU1naWIzSWQxcmdlWE4?oc=5",
+      "data": "01/09 18:02"
     },
     {
-      "titulo": "Mário Bittencourt revela acordo com Marcão no Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3lYQWxxdWhrX2tuQ2QwTlJzZVRYNnBHVHVSRV9PeGk2OUg2SkpsNlhtRnNkb0FFd0p5ZkxfMlQzSThFOEItbjBZWktPSmRBblRvVUhDR3FwNGw2dFhYZjNacmdLSmhZR1dnRjRicUN5ME5Yc0FQRExVM2pxQkQwLW8xSWNZaVM2eE5feWJkM2pHV0NMeWxPZzAzUmxpQQ?oc=5",
-      "data": "31/08 23:45"
+      "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemJ2WVRtWFcwRmh3SkpIQVJQcy14emFOc3paUjdVV3ZrcmVWekIxeWVySEZ5aUliTE9YR185OUhnTE9xUHdUVzMxWm1SUm9TRlVvcnd0eXBORnpOQURmTnZYNkhjNlBDeFBrX3NPb3BfU3RDanJUR3BRSUV0NE1IWmRDcEJSa1dfaDlTMWItMUpfRmNVb2JqbWp4di1WYUJIRFVzeU5OMFVZSTFaVjZFZlR3aDJISGRCdnJhM3F0bUFQekg0eWdXYk95dUxmaVZqOGJmY3pGXzVNdF80dWU5UWp0OTh3TDczTWpzVDR1NTI0c0U?oc=5",
+      "data": "01/09 18:35"
+    },
+    {
+      "titulo": "Mário diz que efetivação temporária de Marcão no Fluminense visa a preservá-lo: 'Se vira técnico, algum dia temos que tirar' - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQjRib2FmWjRKaVBOX0IzTjhFN3AwMnB4T1pQSDEtcTNBMDNYNGd1VURnY1d3TFhrTlBNenQ0ZjNsVEd6N0lkczdTWVBmRnVqd0VWM1IwaTF3Qk02czVpR2l5RXpFZzRNMlFOQVpwRFhXbzZKbmJHNVMyeDIwUHR6WUNrQ0FFWk82WVZLYVBqWTFSVWZvaDBDX1BjdXhDSnpWYWRzaTlsRkxfLTNpTmkybHlMVUlxcjJMbjRYVnVkQ2NUVlJDWEd4RV95UzNPSW1oOFdBS3EyV3hGckdWaUNYUlpTTW9kVFI4ZDBHYzVLZzZDZFg4VDk3QW5oRHBBeW5FSE5OOGVBUzdFVy1qM0gzRWxjdU9JU1QxUUhVeVN4SUdEMG9sdzJkR0Jhd9IBugJBVV95cUxObHA0Yk81UUlydFE0TXlmUVlDUjVVNXRjdjBSWWdkdEhNVElyOHFlLVFjbWVfS1VHbDZEbVBQY00wOHJqT0lmOGxQQVo0S0U0eVh6dmt6VnNFaVhNcnNSRjByWVNjNHAtcVU3YjdUb0hLay1KX2hCS2ItNzVEdVdQSUlqZkJyUzg1NVhfU1RwZ0prdEJDXzd1TE5yQW9rMy1lSVBneEFDLUJsTXduNi1nZ0txVHVvY25TUnpxQlRoSDU2Y0MtWXpVRTl5VzdGcUI1S0V2ZmRRLVJnRjZfNEt1MkpVTzJldHV3Z1lrSUUzOEc3Mmk1dzNrQnVkVUJ4ZlpJTHFmVFY4X01Dd1BEdHZxNTl5WlJ0WnAzUk43eGNmaU0temlnOGFZYVlNcWdyMVRCTmQtTVhkam1XQQ?oc=5",
+      "data": "31/08 21:50"
     }
   ],
   "avisos": [
