@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/09/2026 04:09",
+  "atualizado_em": "01/09/2026 10:00",
   "jogos": [
     {
       "sport": "futebol",
@@ -30,7 +30,8 @@
       "competition": "Inglês 2ª Divisão",
       "match": "Stoke City x Norwich",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "NSPORTS"
       ]
     },
     {
@@ -176,29 +177,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.2,
-      "temp_min": 20.4,
+      "temp_max": 26.8,
+      "temp_min": 20.1,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.7,
-      "temp_min": 20.6,
+      "temp_max": 26.1,
+      "temp_min": 21.3,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.6,
-      "temp_min": 17.9,
+      "temp_max": 26.2,
+      "temp_min": 17.8,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.6,
-      "temp_min": 16.1,
+      "temp_max": 27.0,
+      "temp_min": 16.2,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -210,24 +211,24 @@
       "data": "01/09 07:00"
     },
     {
-      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
-      "data": "31/08 00:30"
-    },
-    {
-      "titulo": "Sport recusa proposta do Fluminense por Arthur Maron - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQmVqRldxQURTNzdYTldmR2M0UDJEYWpOTW5hdEx3SDBQVlFJQ0Q1djJHa3V2MlE5YXJ1ZlVIamNZLW1XQ3BTaGhDT1NNOTVRZllPZVZ6NmRLb25BQWV1cFJuOXp4MzdRUzhqVlNIMmtqWHBuZUtsRHZpdFRNR3FyU3dmMUFkeWtVQ3dvYmJKeHVDQ0NMY0JMVTRCRGNXMUd6Y3F3RFM1TTZwWDFoZk9QZXFCbV9uclZLMjBtTndqcnRocDRlZkIyTXI1LWJ5QzBrVVFpUGlMWF9KMmE2SUN1eFRsYzg0Q2VSb0dWSw?oc=5",
-      "data": "01/09 01:47"
-    },
-    {
-      "titulo": "'Fluminense sai muito chateado' por pênalti, diz presidente do clube - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXFDS1ZrRGxCcVlpLWUxekFqdG1BQjgtZHNlQzdVeFlBSXBHaEY1VTF1aWZlRVR3Sm92SV9ucnRsNU4zN1F2aVNYU1pfcDRZZFgydFhHYlUzeG4tdVJmS1ZuRHdtWTdfcU85Q3BLRjhvMzMzN2RjZUNtUjdOZW8zM0Q1WkxDdFg5d1dXc1otN0tRZ1M3M1FvR1R4aFNtRjg2cmcxTnJ4djBjdw?oc=5",
-      "data": "30/08 18:04"
+      "titulo": "Mário Bittencourt revela acordo com Marcão no Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3lYQWxxdWhrX2tuQ2QwTlJzZVRYNnBHVHVSRV9PeGk2OUg2SkpsNlhtRnNkb0FFd0p5ZkxfMlQzSThFOEItbjBZWktPSmRBblRvVUhDR3FwNGw2dFhYZjNacmdLSmhZR1dnRjRicUN5ME5Yc0FQRExVM2pxQkQwLW8xSWNZaVM2eE5feWJkM2pHV0NMeWxPZzAzUmxpQQ?oc=5",
+      "data": "31/08 23:45"
     },
     {
       "titulo": "Mário diz que efetivação temporária de Marcão no Fluminense visa a preservá-lo: 'Se vira técnico, algum dia temos que tirar' - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQjRib2FmWjRKaVBOX0IzTjhFN3AwMnB4T1pQSDEtcTNBMDNYNGd1VURnY1d3TFhrTlBNenQ0ZjNsVEd6N0lkczdTWVBmRnVqd0VWM1IwaTF3Qk02czVpR2l5RXpFZzRNMlFOQVpwRFhXbzZKbmJHNVMyeDIwUHR6WUNrQ0FFWk82WVZLYVBqWTFSVWZvaDBDX1BjdXhDSnpWYWRzaTlsRkxfLTNpTmkybHlMVUlxcjJMbjRYVnVkQ2NUVlJDWEd4RV95UzNPSW1oOFdBS3EyV3hGckdWaUNYUlpTTW9kVFI4ZDBHYzVLZzZDZFg4VDk3QW5oRHBBeW5FSE5OOGVBUzdFVy1qM0gzRWxjdU9JU1QxUUhVeVN4SUdEMG9sdzJkR0Jhd9IBugJBVV95cUxObHA0Yk81UUlydFE0TXlmUVlDUjVVNXRjdjBSWWdkdEhNVElyOHFlLVFjbWVfS1VHbDZEbVBQY00wOHJqT0lmOGxQQVo0S0U0eVh6dmt6VnNFaVhNcnNSRjByWVNjNHAtcVU3YjdUb0hLay1KX2hCS2ItNzVEdVdQSUlqZkJyUzg1NVhfU1RwZ0prdEJDXzd1TE5yQW9rMy1lSVBneEFDLUJsTXduNi1nZ0txVHVvY25TUnpxQlRoSDU2Y0MtWXpVRTl5VzdGcUI1S0V2ZmRRLVJnRjZfNEt1MkpVTzJldHV3Z1lrSUUzOEc3Mmk1dzNrQnVkVUJ4ZlpJTHFmVFY4X01Dd1BEdHZxNTl5WlJ0WnAzUk43eGNmaU0temlnOGFZYVlNcWdyMVRCTmQtTVhkam1XQQ?oc=5",
       "data": "31/08 21:50"
+    },
+    {
+      "titulo": "Presidente do Fluminense revela motivo para não efetivar Marcão como técnico - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2p3TFNsTmdDVXl2U29iOEsxb1VwY2hSeVRNdmtSeGdqc2J0OXhrcjExa2Rha1BFbF9wN21vbWlIRkd2TVFDSno0QUhFTGVfQWpfRHpnR1hCXzBDRXk1MkFzYkR6UXNiUUZiRmtoSWxIbThXV1RTQkI3clJhOEFZSWpjRDZtOUl3c1Z1dVRSMjVrUDFBVXcxaFBiTVpFU2ZCX2RlZnpGakhCbFU5RlRFaFJCejRmM3JSZUZOOHNpdkpBWjlCbnkzWGxaQnRjSHNMN1ZXeG9YY1VhTVdCb2ZBUG1DdWhUbk9QOG8tN0Q2NnJHakg0ZGYybDc2cw?oc=5",
+      "data": "01/09 10:35"
+    },
+    {
+      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
+      "data": "31/08 00:30"
     }
   ],
   "avisos": [
