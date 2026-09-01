@@ -1,28 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/09/2026 17:27",
+  "atualizado_em": "01/09/2026 19:57",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Stoke City x Norwich",
-      "channels": [
-        "ESPN 4",
-        "NSPORTS",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x FBC Melgar",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-01",
@@ -66,6 +44,28 @@ window.PAINEL_DATA = {
         "BANDSPORTS",
         "CANAL GOAT",
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-01",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Stoke City x Norwich",
+      "channels": [
+        "ESPN 4",
+        "NSPORTS",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-01",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Atletico Grau x FBC Melgar",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -211,29 +211,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Saiba quanto o Fluminense pode lucrar com transferência de André na Europa - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTM4X2pZR1dVVWRqODlrNTBDOUVmeUx1bEVaa0hDNENIclBqN1dHLUJqZTNlWWV1U3l0X0pmeFR2WTU5TDNCNUxHb1BHZ2h4TEMxV0toOWVWSHlCZXM0VE50c1V1eENidGJHbVVkQWFYSGNzb1VHVUdZbktGM3Exanp4bUsxWXR2WUlWT2QxQXlWVncwV1JsRlgxaUlCQWxaV2RB?oc=5",
-      "data": "01/09 14:13"
+      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
+      "data": "01/09 07:00"
     },
     {
-      "titulo": "Fluminense acerta contratação de zagueiro paraguaio de 19 anos - ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTFZbnNJYzA3NjFCNzRsT01CVTN3cVlhTjJ5MHhnMm1YQWo0RERXNVprUXo1b2lBa3F0MzZodUVzY2dHY1JFeDJfQ3BWeVFFZzZVVjNVUWk4SjVoTTBiT1RkNEtZb0w0V0dxMUJMTk9tMHNUNnM4THZvVEtORG9XNk5MempPTG9memg0ZVltdXFaRU04ZWpjVjQwSjZTOHh0dFNGOGhrV05WYjdoU0tzX2dfQVJZb01KT3FPQ1RWeU96Tm5XY2Q2MlZpSGtwd9IB3AFBVV95cUxNcHN4azB3X1ZFemtuYlFtRHdOZWFLUkxkaFpQUDZEbjJ2R0l0V3FEeW1RVWtVd05mSmgwNWR6SmpHVGJCbFNoLTJLVzY5NWRtVzFRcjctQlFmRW9VWTJ0MVZwaTBxSDUtZ2NIdGNKN0dvc2l4WG5lbXFQMzF6bnFmTjEtUXB2MjZya2VwaUpVWmltcENFODVHbW1FZ0lYclAtVGUyTkJVRDNiZTJZVC1fUUxqZE9lU0toMjBfV2hoeVRVT2t0eW9yYzFHbF9jZWEtVjk4WERiQ1lEMzdz?oc=5",
-      "data": "01/09 16:07"
-    },
-    {
-      "titulo": "Hulk ganha carta 85 no EA Sports FC 27 mesmo com Fluminense fora do novo jogo - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFNaN1VqQ0NjVHFaWlhPNF93cjhmZUluSGtZSXVBRWY4M3dSZUtKa3BnN1F5aDR1bGp5MVV1ZmZjc2pnY3ZHalhpaEk3MlV4NG1ndWhxMkl0N3ZrdEoxX3lsZ18tX3U0cEt1U0ZORDdEc1dpVHFaYkVLVzNFZ19UWm1qLWlvVUhhRGN2NzlYTkROaEYxNG4tVVZucWliSW5hR2FianVHYU1naWIzSWQxcmdlWE4?oc=5",
-      "data": "01/09 18:02"
-    },
-    {
-      "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemJ2WVRtWFcwRmh3SkpIQVJQcy14emFOc3paUjdVV3ZrcmVWekIxeWVySEZ5aUliTE9YR185OUhnTE9xUHdUVzMxWm1SUm9TRlVvcnd0eXBORnpOQURmTnZYNkhjNlBDeFBrX3NPb3BfU3RDanJUR3BRSUV0NE1IWmRDcEJSa1dfaDlTMWItMUpfRmNVb2JqbWp4di1WYUJIRFVzeU5OMFVZSTFaVjZFZlR3aDJISGRCdnJhM3F0bUFQekg0eWdXYk95dUxmaVZqOGJmY3pGXzVNdF80dWU5UWp0OTh3TDczTWpzVDR1NTI0c0U?oc=5",
-      "data": "01/09 18:35"
+      "titulo": "Joia do futebol mineiro, atacante do Sport é alvo do Fluminense; saiba detalhes - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak41aTE2WF9oUDhSY25aU3hOMTc1dFB2UjlLWjZ2MlJoUmhDNzVqYXYzZmlGOThiNkNjc0cxWXBreml6S0YzOFRIMkZ2cks1VzFsTFQzVk81Y1lGYm9kNGZ5LUppdFZkeXotSnhWM1Q5S0pwT2N5YmJhSWZtVUt6aVNVTEcwOTFkZWJSOWpHcHE4QlJrYzFZX1BfNnpuTDNfckJ6SmNEY2htZl9lOEVxRkRxb0pQc21FV1lvWHQxbkxEejlVclBYZ1RnX0N6emJIczFTSEl3?oc=5",
+      "data": "01/09 15:20"
     },
     {
       "titulo": "Mário diz que efetivação temporária de Marcão no Fluminense visa a preservá-lo: 'Se vira técnico, algum dia temos que tirar' - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQjRib2FmWjRKaVBOX0IzTjhFN3AwMnB4T1pQSDEtcTNBMDNYNGd1VURnY1d3TFhrTlBNenQ0ZjNsVEd6N0lkczdTWVBmRnVqd0VWM1IwaTF3Qk02czVpR2l5RXpFZzRNMlFOQVpwRFhXbzZKbmJHNVMyeDIwUHR6WUNrQ0FFWk82WVZLYVBqWTFSVWZvaDBDX1BjdXhDSnpWYWRzaTlsRkxfLTNpTmkybHlMVUlxcjJMbjRYVnVkQ2NUVlJDWEd4RV95UzNPSW1oOFdBS3EyV3hGckdWaUNYUlpTTW9kVFI4ZDBHYzVLZzZDZFg4VDk3QW5oRHBBeW5FSE5OOGVBUzdFVy1qM0gzRWxjdU9JU1QxUUhVeVN4SUdEMG9sdzJkR0Jhd9IBugJBVV95cUxObHA0Yk81UUlydFE0TXlmUVlDUjVVNXRjdjBSWWdkdEhNVElyOHFlLVFjbWVfS1VHbDZEbVBQY00wOHJqT0lmOGxQQVo0S0U0eVh6dmt6VnNFaVhNcnNSRjByWVNjNHAtcVU3YjdUb0hLay1KX2hCS2ItNzVEdVdQSUlqZkJyUzg1NVhfU1RwZ0prdEJDXzd1TE5yQW9rMy1lSVBneEFDLUJsTXduNi1nZ0txVHVvY25TUnpxQlRoSDU2Y0MtWXpVRTl5VzdGcUI1S0V2ZmRRLVJnRjZfNEt1MkpVTzJldHV3Z1lrSUUzOEc3Mmk1dzNrQnVkVUJ4ZlpJTHFmVFY4X01Dd1BEdHZxNTl5WlJ0WnAzUk43eGNmaU0temlnOGFZYVlNcWdyMVRCTmQtTVhkam1XQQ?oc=5",
       "data": "31/08 21:50"
+    },
+    {
+      "titulo": "Mário Bittencourt revela acordo com Marcão no Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3lYQWxxdWhrX2tuQ2QwTlJzZVRYNnBHVHVSRV9PeGk2OUg2SkpsNlhtRnNkb0FFd0p5ZkxfMlQzSThFOEItbjBZWktPSmRBblRvVUhDR3FwNGw2dFhYZjNacmdLSmhZR1dnRjRicUN5ME5Yc0FQRExVM2pxQkQwLW8xSWNZaVM2eE5feWJkM2pHV0NMeWxPZzAzUmxpQQ?oc=5",
+      "data": "31/08 23:45"
+    },
+    {
+      "titulo": "Presidente do Fluminense revela motivo para não efetivar Marcão como técnico - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2p3TFNsTmdDVXl2U29iOEsxb1VwY2hSeVRNdmtSeGdqc2J0OXhrcjExa2Rha1BFbF9wN21vbWlIRkd2TVFDSno0QUhFTGVfQWpfRHpnR1hCXzBDRXk1MkFzYkR6UXNiUUZiRmtoSWxIbThXV1RTQkI3clJhOEFZSWpjRDZtOUl3c1Z1dVRSMjVrUDFBVXcxaFBiTVpFU2ZCX2RlZnpGakhCbFU5RlRFaFJCejRmM3JSZUZOOHNpdkpBWjlCbnkzWGxaQnRjSHNMN1ZXeG9YY1VhTVdCb2ZBUG1DdWhUbk9QOG8tN0Q2NnJHakg0ZGYybDc2cw?oc=5",
+      "data": "01/09 10:35"
     }
   ],
   "avisos": [
