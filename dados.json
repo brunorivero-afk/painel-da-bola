@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/09/2026 10:00",
+  "atualizado_em": "01/09/2026 14:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -20,6 +20,7 @@
       "channels": [
         "XSPORTS",
         "BANDSPORTS",
+        "CANAL GOAT",
         "ONEFOOTBALL"
       ]
     },
@@ -31,7 +32,8 @@
       "match": "Stoke City x Norwich",
       "channels": [
         "ESPN 4",
-        "NSPORTS"
+        "NSPORTS",
+        "DISNEY+"
       ]
     },
     {
@@ -62,7 +64,7 @@
       "match": "Atlético-MG x Cruzeiro",
       "channels": [
         "SPORTV",
-        "PREMIERE",
+        "PREMIERE FC",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -93,7 +95,8 @@
       "competition": "Inglês 2ª Divisão",
       "match": "Burnley x Middlesbrough",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -113,7 +116,7 @@
       "competition": "Brasileirão Série A",
       "match": "Flamengo x Mirassol",
       "channels": [
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -136,7 +139,8 @@
       "channels": [
         "GLOBO",
         "SPORTV",
-        "PREMIERE",
+        "PREMIERE FC",
+        "GE TV",
         "PRIME VIDEO"
       ]
     },
@@ -148,8 +152,9 @@
       "match": "Vitória x Vasco",
       "channels": [
         "GLOBO",
-        "SPORTV",
-        "PREMIERE",
+        "SPORTV 2",
+        "PREMIERE 2",
+        "GE TV",
         "PRIME VIDEO"
       ]
     },
@@ -206,29 +211,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge",
+      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
       "data": "01/09 07:00"
+    },
+    {
+      "titulo": "Saiba quanto o Fluminense pode lucrar com transferência de André na Europa - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTM4X2pZR1dVVWRqODlrNTBDOUVmeUx1bEVaa0hDNENIclBqN1dHLUJqZTNlWWV1U3l0X0pmeFR2WTU5TDNCNUxHb1BHZ2h4TEMxV0toOWVWSHlCZXM0VE50c1V1eENidGJHbVVkQWFYSGNzb1VHVUdZbktGM3Exanp4bUsxWXR2WUlWT2QxQXlWVncwV1JsRlgxaUlCQWxaV2RB?oc=5",
+      "data": "01/09 13:00"
+    },
+    {
+      "titulo": "Lucho Acosta, Canobbio, Martinelli, Fábio, Freytes, Renê, Serna, Jemmes, Hércules e Samuel Xavier: os jogadores do Fluminense com mais jogos como titular no Brasileirão - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPcDRwUmNmZ0pUbFI4dVZvTGlpQlR3NWF5b0EyYWJROG1qVDZZc09NRWdfTzZmNGpTbTB0clIzRjJtOUM5SXJpb205bzduV014bVZ3S0lqb3Zkdk9leEhfZmstWUlVcGhOMEVwajhMczR0b1ZiRGxvM1FoSjBKeGdWZWhvZVY1cUVBcERUdTRib3BoMmVkWmE0VVJSVGh0WEZyMjg4T2R1TjBwbmhjeGdmUUdXWVpRaUJkUHk4NHNwNWk2LS01cW9KSDJuelRMNmxIdS1Uc2hES2xJQ0wzamtRQUZubWJCNVI3RldHMjNRQldiVURCQl9Ka1JPQkUxNGYtNE84SjdxMEZkTXEwRGVGYldQWTNhUzJJQ2Y4R0hEbnRzODJ3Z2pRV1RWSm5MRmlvaW1NaW9XdVdDblFrd1N0UUFnUWcwZTFDaVFsc1Q5cFRuUE4xWks3a1NxbkZJcDNzMi1GVlVZN2dmQQ?oc=5",
+      "data": "01/09 14:51"
+    },
+    {
+      "titulo": "Fluminense parabeniza Abel Braga, multicampeão pelo Clube - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWi1vUkJ1Z3EtbHBKQ1duM1BseUhGaEVmLURWRTJsSFByU01tQ0xvUzJhbFoxallTeUNDWWw2TDJVWnl6X19hX0NYRVFQZm0xNmZrbWdxZW9FX0Jtam1MWVA1SllCdTlDdkFBcFdCTGZ5b0FVUVZhLXF2aDZpbVlxTHJic25fakNkRktV?oc=5",
+      "data": "01/09 15:00"
     },
     {
       "titulo": "Mário Bittencourt revela acordo com Marcão no Fluminense - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3lYQWxxdWhrX2tuQ2QwTlJzZVRYNnBHVHVSRV9PeGk2OUg2SkpsNlhtRnNkb0FFd0p5ZkxfMlQzSThFOEItbjBZWktPSmRBblRvVUhDR3FwNGw2dFhYZjNacmdLSmhZR1dnRjRicUN5ME5Yc0FQRExVM2pxQkQwLW8xSWNZaVM2eE5feWJkM2pHV0NMeWxPZzAzUmxpQQ?oc=5",
       "data": "31/08 23:45"
-    },
-    {
-      "titulo": "Mário diz que efetivação temporária de Marcão no Fluminense visa a preservá-lo: 'Se vira técnico, algum dia temos que tirar' - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQjRib2FmWjRKaVBOX0IzTjhFN3AwMnB4T1pQSDEtcTNBMDNYNGd1VURnY1d3TFhrTlBNenQ0ZjNsVEd6N0lkczdTWVBmRnVqd0VWM1IwaTF3Qk02czVpR2l5RXpFZzRNMlFOQVpwRFhXbzZKbmJHNVMyeDIwUHR6WUNrQ0FFWk82WVZLYVBqWTFSVWZvaDBDX1BjdXhDSnpWYWRzaTlsRkxfLTNpTmkybHlMVUlxcjJMbjRYVnVkQ2NUVlJDWEd4RV95UzNPSW1oOFdBS3EyV3hGckdWaUNYUlpTTW9kVFI4ZDBHYzVLZzZDZFg4VDk3QW5oRHBBeW5FSE5OOGVBUzdFVy1qM0gzRWxjdU9JU1QxUUhVeVN4SUdEMG9sdzJkR0Jhd9IBugJBVV95cUxObHA0Yk81UUlydFE0TXlmUVlDUjVVNXRjdjBSWWdkdEhNVElyOHFlLVFjbWVfS1VHbDZEbVBQY00wOHJqT0lmOGxQQVo0S0U0eVh6dmt6VnNFaVhNcnNSRjByWVNjNHAtcVU3YjdUb0hLay1KX2hCS2ItNzVEdVdQSUlqZkJyUzg1NVhfU1RwZ0prdEJDXzd1TE5yQW9rMy1lSVBneEFDLUJsTXduNi1nZ0txVHVvY25TUnpxQlRoSDU2Y0MtWXpVRTl5VzdGcUI1S0V2ZmRRLVJnRjZfNEt1MkpVTzJldHV3Z1lrSUUzOEc3Mmk1dzNrQnVkVUJ4ZlpJTHFmVFY4X01Dd1BEdHZxNTl5WlJ0WnAzUk43eGNmaU0temlnOGFZYVlNcWdyMVRCTmQtTVhkam1XQQ?oc=5",
-      "data": "31/08 21:50"
-    },
-    {
-      "titulo": "Presidente do Fluminense revela motivo para não efetivar Marcão como técnico - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2p3TFNsTmdDVXl2U29iOEsxb1VwY2hSeVRNdmtSeGdqc2J0OXhrcjExa2Rha1BFbF9wN21vbWlIRkd2TVFDSno0QUhFTGVfQWpfRHpnR1hCXzBDRXk1MkFzYkR6UXNiUUZiRmtoSWxIbThXV1RTQkI3clJhOEFZSWpjRDZtOUl3c1Z1dVRSMjVrUDFBVXcxaFBiTVpFU2ZCX2RlZnpGakhCbFU5RlRFaFJCejRmM3JSZUZOOHNpdkpBWjlCbnkzWGxaQnRjSHNMN1ZXeG9YY1VhTVdCb2ZBUG1DdWhUbk9QOG8tN0Q2NnJHakg0ZGYybDc2cw?oc=5",
-      "data": "01/09 10:35"
-    },
-    {
-      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
-      "data": "31/08 00:30"
     }
   ],
   "avisos": [
