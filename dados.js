@@ -1,209 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "31/08/2026 22:34",
+  "atualizado_em": "01/09/2026 04:09",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x FBC Melgar",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "21:00",
-      "competition": "NWSL Feminina",
-      "match": "Boston Legacy (F) x Angel City (F)",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Tigre x Barracas Central",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "21:30",
-      "competition": "Brasileirão Feminino",
-      "match": "Bahia (F) x Palmeiras (F)",
-      "channels": [
-        "TV BRASIL",
-        "SPORTV",
-        "NSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Lecce x Roma",
-      "channels": [
-        "CAZÉTV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Osasuna x Getafe",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Albion FC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Amed x Trabzonspor",
-      "channels": [
-        "ESPN 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Besiktas x Çorum",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Atalanta x Bologna",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Aston Villa x Arsenal",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "Benfica x Estoril",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x Guimaraes",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Barcelona x Rayo Vallecano",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "19:15",
-      "competition": "Brasileirão Feminino",
-      "match": "Cruzeiro (F) x Corinthians (F)",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Operário-PR",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Paulista",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Remo x Coritiba",
-      "channels": [
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-08-31",
-      "time": "20:00",
-      "competition": "Copa Paulista",
-      "match": "Comercial x EC São Bernardo",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-01",
@@ -239,6 +36,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-01",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Atletico Grau x FBC Melgar",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-01",
       "time": "19:30",
       "competition": "Brasileirão Série B",
       "match": "Londrina x Juventude",
@@ -259,6 +66,103 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "13:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Austria Vienna x Tirol",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "15:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Red Bull Salzburg x Rapid Vienna",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x Middlesbrough",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "19:00",
+      "competition": "Brasileirão Série D",
+      "match": "Goiatuba EC x São José",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Flamengo x Mirassol",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "21:15",
+      "competition": "Copa Argentina",
+      "match": "Velez Sarsfield x Boca Juniors",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "21:30",
+      "competition": "Copa Do Brasil",
+      "match": "Santos x Palmeiras",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "21:30",
+      "competition": "Copa Do Brasil",
+      "match": "Vitória x Vasco",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE",
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "22:00",
+      "competition": "Leagues Cup",
+      "match": "Toluca x Leon",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
       "sport": "volei",
       "date": "2026-08-27",
       "time": "18:30",
@@ -272,48 +176,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.1,
-      "temp_min": 21.7,
+      "temp_max": 26.2,
+      "temp_min": 20.4,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.6,
-      "temp_min": 21.5,
+      "temp_max": 27.7,
+      "temp_min": 20.6,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.8,
+      "temp_max": 27.6,
       "temp_min": 17.9,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.4,
-      "temp_min": 16.8,
+      "temp_max": 27.6,
+      "temp_min": 16.1,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Mário diz que efetivação temporária de Marcão no Fluminense visa a preservá-lo: 'Se vira técnico, algum dia temos que tirar' - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQjRib2FmWjRKaVBOX0IzTjhFN3AwMnB4T1pQSDEtcTNBMDNYNGd1VURnY1d3TFhrTlBNenQ0ZjNsVEd6N0lkczdTWVBmRnVqd0VWM1IwaTF3Qk02czVpR2l5RXpFZzRNMlFOQVpwRFhXbzZKbmJHNVMyeDIwUHR6WUNrQ0FFWk82WVZLYVBqWTFSVWZvaDBDX1BjdXhDSnpWYWRzaTlsRkxfLTNpTmkybHlMVUlxcjJMbjRYVnVkQ2NUVlJDWEd4RV95UzNPSW1oOFdBS3EyV3hGckdWaUNYUlpTTW9kVFI4ZDBHYzVLZzZDZFg4VDk3QW5oRHBBeW5FSE5OOGVBUzdFVy1qM0gzRWxjdU9JU1QxUUhVeVN4SUdEMG9sdzJkR0Jhd9IBugJBVV95cUxObHA0Yk81UUlydFE0TXlmUVlDUjVVNXRjdjBSWWdkdEhNVElyOHFlLVFjbWVfS1VHbDZEbVBQY00wOHJqT0lmOGxQQVo0S0U0eVh6dmt6VnNFaVhNcnNSRjByWVNjNHAtcVU3YjdUb0hLay1KX2hCS2ItNzVEdVdQSUlqZkJyUzg1NVhfU1RwZ0prdEJDXzd1TE5yQW9rMy1lSVBneEFDLUJsTXduNi1nZ0txVHVvY25TUnpxQlRoSDU2Y0MtWXpVRTl5VzdGcUI1S0V2ZmRRLVJnRjZfNEt1MkpVTzJldHV3Z1lrSUUzOEc3Mmk1dzNrQnVkVUJ4ZlpJTHFmVFY4X01Dd1BEdHZxNTl5WlJ0WnAzUk43eGNmaU0temlnOGFZYVlNcWdyMVRCTmQtTVhkam1XQQ?oc=5",
-      "data": "31/08 21:50"
-    },
-    {
-      "titulo": "Mário Bittencourt revela acordo com Marcão no Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3lYQWxxdWhrX2tuQ2QwTlJzZVRYNnBHVHVSRV9PeGk2OUg2SkpsNlhtRnNkb0FFd0p5ZkxfMlQzSThFOEItbjBZWktPSmRBblRvVUhDR3FwNGw2dFhYZjNacmdLSmhZR1dnRjRicUN5ME5Yc0FQRExVM2pxQkQwLW8xSWNZaVM2eE5feWJkM2pHV0NMeWxPZzAzUmxpQQ?oc=5",
-      "data": "31/08 23:45"
-    },
-    {
-      "titulo": "Diretor do Fluminense revela motivo para não efetivar Marcão como técnico: ‘É uma decisão da gestão’ - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEFNaE1mLVZSNkIwczNYSUo1dTNidlpvcEVWeTZTQ0N4OFpseTdyVDJtM216LTZOanFNSDZMOHBOZ2REdUx3ZENZUUthT0JzUG14QzMtZFQxM0w2Qkk3WTFEbXhKT3J3WnJjN1VvSWxBb3o5X2RhNldNMTVjelJlNDBMeDF1ZFUxQW9YMWlnbW5ZSnRoLVJjQks5ZFhoa1NXbU1fUVpXbXVTUXl5WXQ4aXZTZkM4Y0VOUFg1S2tPaXFlUlM3d2hsTVlYbXdUZG1VVEY1dUY3X01KYWhwR19CcC130gHnAUFVX3lxTFBDV1NfTzlMeU1lV0xBU0VEeXpzemtsRXQ5eXl2eFdRc0NIUk5oSzMtMkVFamVkVUVuN0JxUHljOEhnY1lNVkdWV3VOMlB5a2I0TVVWcmxGem1kb3NxS1ZFcl9OT3VvbU1waDZnZUVfQ1ZzTk1aSEFRSkQ2UHEydVNnYWdDeG1FNWNwWkJpckctRWF2ZVR3eURvcDBjakI2OGNKaWdMcWl3dEM5VUVvZVBSRG0zVGNPQW5nTG1Ya0taRVNKQkRfbmpLcWphYlJfTFBXNXdqTXNtOXpBM0Z3NTR1OW54SVc1MA?oc=5",
-      "data": "01/09 00:34"
+      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
+      "data": "01/09 07:00"
     },
     {
       "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
@@ -321,9 +215,19 @@ window.PAINEL_DATA = {
       "data": "31/08 00:30"
     },
     {
-      "titulo": "Clube propõe R$ 2,2 milhões para recomprar direitos de investidor da FFU - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObWw2NklyWTdRZGVkakZGTU9UOWFNbG1KTENuNV9abm5uVGVGSGtJcXBSOFlsSzZDZnhMX0RDUjJSd2ZoLXBkOHIwQWRTQ3gwYk1XWnFIZGRRZnhYWEhvWWR1UFZXZGR0MVBZOGFnWS1vaU9uZUp1TVQ2aDAxZDFPZnVyN3E4S1ZadXNTSDBma2RmMlQyaDhMUWthdFV2RkkyY3BJVWkzcVh6SXA0TjV4VlJmamE4QzdzbjBsSnlEVm5TQnQxOGxtWHpIYklRbGJORk1TMUVmRDZSUQ?oc=5",
-      "data": "30/08 21:22"
+      "titulo": "Sport recusa proposta do Fluminense por Arthur Maron - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQmVqRldxQURTNzdYTldmR2M0UDJEYWpOTW5hdEx3SDBQVlFJQ0Q1djJHa3V2MlE5YXJ1ZlVIamNZLW1XQ3BTaGhDT1NNOTVRZllPZVZ6NmRLb25BQWV1cFJuOXp4MzdRUzhqVlNIMmtqWHBuZUtsRHZpdFRNR3FyU3dmMUFkeWtVQ3dvYmJKeHVDQ0NMY0JMVTRCRGNXMUd6Y3F3RFM1TTZwWDFoZk9QZXFCbV9uclZLMjBtTndqcnRocDRlZkIyTXI1LWJ5QzBrVVFpUGlMWF9KMmE2SUN1eFRsYzg0Q2VSb0dWSw?oc=5",
+      "data": "01/09 01:47"
+    },
+    {
+      "titulo": "'Fluminense sai muito chateado' por pênalti, diz presidente do clube - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXFDS1ZrRGxCcVlpLWUxekFqdG1BQjgtZHNlQzdVeFlBSXBHaEY1VTF1aWZlRVR3Sm92SV9ucnRsNU4zN1F2aVNYU1pfcDRZZFgydFhHYlUzeG4tdVJmS1ZuRHdtWTdfcU85Q3BLRjhvMzMzN2RjZUNtUjdOZW8zM0Q1WkxDdFg5d1dXc1otN0tRZ1M3M1FvR1R4aFNtRjg2cmcxTnJ4djBjdw?oc=5",
+      "data": "30/08 18:04"
+    },
+    {
+      "titulo": "Mário diz que efetivação temporária de Marcão no Fluminense visa a preservá-lo: 'Se vira técnico, algum dia temos que tirar' - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQjRib2FmWjRKaVBOX0IzTjhFN3AwMnB4T1pQSDEtcTNBMDNYNGd1VURnY1d3TFhrTlBNenQ0ZjNsVEd6N0lkczdTWVBmRnVqd0VWM1IwaTF3Qk02czVpR2l5RXpFZzRNMlFOQVpwRFhXbzZKbmJHNVMyeDIwUHR6WUNrQ0FFWk82WVZLYVBqWTFSVWZvaDBDX1BjdXhDSnpWYWRzaTlsRkxfLTNpTmkybHlMVUlxcjJMbjRYVnVkQ2NUVlJDWEd4RV95UzNPSW1oOFdBS3EyV3hGckdWaUNYUlpTTW9kVFI4ZDBHYzVLZzZDZFg4VDk3QW5oRHBBeW5FSE5OOGVBUzdFVy1qM0gzRWxjdU9JU1QxUUhVeVN4SUdEMG9sdzJkR0Jhd9IBugJBVV95cUxObHA0Yk81UUlydFE0TXlmUVlDUjVVNXRjdjBSWWdkdEhNVElyOHFlLVFjbWVfS1VHbDZEbVBQY00wOHJqT0lmOGxQQVo0S0U0eVh6dmt6VnNFaVhNcnNSRjByWVNjNHAtcVU3YjdUb0hLay1KX2hCS2ItNzVEdVdQSUlqZkJyUzg1NVhfU1RwZ0prdEJDXzd1TE5yQW9rMy1lSVBneEFDLUJsTXduNi1nZ0txVHVvY25TUnpxQlRoSDU2Y0MtWXpVRTl5VzdGcUI1S0V2ZmRRLVJnRjZfNEt1MkpVTzJldHV3Z1lrSUUzOEc3Mmk1dzNrQnVkVUJ4ZlpJTHFmVFY4X01Dd1BEdHZxNTl5WlJ0WnAzUk43eGNmaU0temlnOGFZYVlNcWdyMVRCTmQtTVhkam1XQQ?oc=5",
+      "data": "31/08 21:50"
     }
   ],
   "avisos": [
