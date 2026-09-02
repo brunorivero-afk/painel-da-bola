@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/09/2026 02:23",
+  "atualizado_em": "02/09/2026 07:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -190,58 +190,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.0,
-      "temp_min": 18.9,
+      "temp_max": 22.9,
+      "temp_min": 19.0,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.0,
-      "temp_min": 19.1,
+      "temp_max": 23.1,
+      "temp_min": 18.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.3,
-      "temp_min": 14.0,
+      "temp_max": 21.9,
+      "temp_min": 14.4,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.2,
-      "temp_min": 12.0,
+      "temp_max": 17.7,
+      "temp_min": 12.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense acerta contratação de zagueiro paraguaio de 19 anos - ge.globo.com",
+      "titulo": "Fluminense acerta contratação de zagueiro paraguaio de 19 anos - ge",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTFZbnNJYzA3NjFCNzRsT01CVTN3cVlhTjJ5MHhnMm1YQWo0RERXNVprUXo1b2lBa3F0MzZodUVzY2dHY1JFeDJfQ3BWeVFFZzZVVjNVUWk4SjVoTTBiT1RkNEtZb0w0V0dxMUJMTk9tMHNUNnM4THZvVEtORG9XNk5MempPTG9memg0ZVltdXFaRU04ZWpjVjQwSjZTOHh0dFNGOGhrV05WYjdoU0tzX2dfQVJZb01KT3FPQ1RWeU96Tm5XY2Q2MlZpSGtwd9IB3AFBVV95cUxNcHN4azB3X1ZFemtuYlFtRHdOZWFLUkxkaFpQUDZEbjJ2R0l0V3FEeW1RVWtVd05mSmgwNWR6SmpHVGJCbFNoLTJLVzY5NWRtVzFRcjctQlFmRW9VWTJ0MVZwaTBxSDUtZ2NIdGNKN0dvc2l4WG5lbXFQMzF6bnFmTjEtUXB2MjZya2VwaUpVWmltcENFODVHbW1FZ0lYclAtVGUyTkJVRDNiZTJZVC1fUUxqZE9lU0toMjBfV2hoeVRVT2t0eW9yYzFHbF9jZWEtVjk4WERiQ1lEMzdz?oc=5",
       "data": "01/09 16:07"
     },
     {
-      "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemJ2WVRtWFcwRmh3SkpIQVJQcy14emFOc3paUjdVV3ZrcmVWekIxeWVySEZ5aUliTE9YR185OUhnTE9xUHdUVzMxWm1SUm9TRlVvcnd0eXBORnpOQURmTnZYNkhjNlBDeFBrX3NPb3BfU3RDanJUR3BRSUV0NE1IWmRDcEJSa1dfaDlTMWItMUpfRmNVb2JqbWp4di1WYUJIRFVzeU5OMFVZSTFaVjZFZlR3aDJISGRCdnJhM3F0bUFQekg0eWdXYk95dUxmaVZqOGJmY3pGXzVNdF80dWU5UWp0OTh3TDczTWpzVDR1NTI0c0U?oc=5",
-      "data": "01/09 18:35"
+      "titulo": "Fluminense pode ganhar bolada com venda de André na Europa; veja quanto - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU2s2d1Z2dWx2UVlRS3lPblNQakU0VGhhbF9NZVJXaHRIRzRWNlFKRkwydGVGb3N1ZTVDb3p3dzRNSVF0V2NlSWt2WWljYk8zT2FuNmxSMWsyX2hJd20yZndnVzM4VjNKQUNjZWZyNHBnUU1kRkVMdENWWGl0VVV4dGZyQmRHZ09fb0ZYNVhkczgwcHVhYmh5Q3VRdF9IU0EtODRQZExTekd6b2ViSkJIWnpMWURTQTVHTTUxaTNsNkM3c041XzE5YWc5ek5rTldEQWpZQWtsNi1PLUU2cy1lMkdSR0dnNk5KWVlRRlFhYU9sakE?oc=5",
+      "data": "02/09 09:10"
     },
     {
-      "titulo": "Joia do futebol mineiro, atacante do Sport é alvo do Fluminense; saiba detalhes - itatiaia.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak41aTE2WF9oUDhSY25aU3hOMTc1dFB2UjlLWjZ2MlJoUmhDNzVqYXYzZmlGOThiNkNjc0cxWXBreml6S0YzOFRIMkZ2cks1VzFsTFQzVk81Y1lGYm9kNGZ5LUppdFZkeXotSnhWM1Q5S0pwT2N5YmJhSWZtVUt6aVNVTEcwOTFkZWJSOWpHcHE4QlJrYzFZX1BfNnpuTDNfckJ6SmNEY2htZl9lOEVxRkRxb0pQc21FV1lvWHQxbkxEejlVclBYZ1RnX0N6emJIczFTSEl3?oc=5",
-      "data": "01/09 15:20"
+      "titulo": "Roma faz proposta por André, ex-Fluminense, mas Wolverhampton dificulta saída do brasileiro - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVlc1YUFocUY5ZzlVeTdXUE4tc3huZkU0d2ZvVWh3T2dfVXc2V3BEVzZzQmt3b2piTkF1bmIyaWVXbnZXTHNSRmY4OVJuZE9feFpqWkVWaW1rNVo1bWhmX3V1MUxVS2hiNnpoWjlFTXdscjdielpYZ2N5YzNrOVoxOTNvLW9aUFBEZFpTMWxialBUUGxtbE16RzdVdU9BZlE3em5PTkRZaXd3ZkRRa3JZa1NKeFYtX2V0Y0Zha3d4UXlYWS0wcDdrWTBacFROdnVOTVFNd0ZzRHFVWnF1ZlZiWFJGdlZucmZIZmw4XzBkQTNvc1JFZXJMT9IBhwJBVV95cUxON1RUWkxZMXlaYzhXWkpvWk41Q0gtdnh6c3lDYm5qbF81WlRTdGNXYTFKTkFlYzBBdlpTdUxZaUhtd3VNOVAxS2RLWmtGZVEzTXRQaklQVktrM3pETUwyS0NmdnV5eDluSmYwejRKQ195Z2FpYzVPT2d4MGpjV3lzTGdmMlQ1VXdHSEgzeS1YZTlydExiNElYeVMyOEZEZWJhVUZfNjd0VEVrMjNSVThYeUZLZlJLczhCZlZCNWZMYjhYN2NfZE5DQkw1RHNwcEhmWjY3VFBWa1pwMEdQaF9aMkJkdDExdDdGNXVET21yV3VZNXd2OG94UGhUbHkzMEhxUFBuUXhYNA?oc=5",
+      "data": "30/08 17:30"
     },
     {
-      "titulo": "Hulk ganha carta 85 no EA Sports FC 27 mesmo com Fluminense fora do novo jogo - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFNaN1VqQ0NjVHFaWlhPNF93cjhmZUluSGtZSXVBRWY4M3dSZUtKa3BnN1F5aDR1bGp5MVV1ZmZjc2pnY3ZHalhpaEk3MlV4NG1ndWhxMkl0N3ZrdEoxX3lsZ18tX3U0cEt1U0ZORDdEc1dpVHFaYkVLVzNFZ19UWm1qLWlvVUhhRGN2NzlYTkROaEYxNG4tVVZucWliSW5hR2FianVHYU1naWIzSWQxcmdlWE4?oc=5",
-      "data": "01/09 18:02"
+      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
+      "data": "31/08 00:30"
     },
     {
-      "titulo": "Mário Bittencourt explica por que Fluminense não efetiva Marcão como técnico - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZDRMWjNRNGw3WWMxUWxDaVJCWUFaazJGVFhqVGlTQkJkckNCMzZLN2hNMWlZMXl6VVZGbWNIcWZfZzVESXFsa1BFNVNNcVp5ZWhNNzJnMkxoLTlPS000Yy03Q3ZkaU5tbXloTFdhZURLNC15OWpLN05scGhCQ21OWURpOHY3VlpJOFZWNjdkQ0hkRDNMdnVOZEhhT1Q2eUJBbEk5TnBsNlRZRlEzSDR6Rkd5czdXMkt2djVxVUZLYUFTdUNpQmlBbmpnNG1CMkFFYjhETFRvUnJxT2F1WDZnaNIB7wFBVV95cUxNM2tLU3VvRXZjcnNiTDZtUkdERDVZSnBrQm5kOUtTUnRNTXRfSXd6ZXNhMHNoRHRleFB3dktWVElPUVFLUDhKdmZKdXltNllZNE4yMFZuTjBZY0xzSlpLVkR1bTF0QjA2czZwQTVoUHFpck5VT2Z2cDcwYjhqaUxyS2JzYnJHRUFUbnhBd3BMM0V4WnRhZzFUdWtlb3Q1WWpOWk1MckNrWXFGVEJLU0Q4SjVyYlQtWEpIemxzTlZ3TElGQy1Vb3l0OGxZdWp4bmdMY3V3ZjZLX3ZNbDVwZlRMMHNMVGktZ0ZoQk9LQlVISQ?oc=5",
-      "data": "31/08 22:46"
+      "titulo": "Mário Bittencourt revela acordo com Marcão no Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3lYQWxxdWhrX2tuQ2QwTlJzZVRYNnBHVHVSRV9PeGk2OUg2SkpsNlhtRnNkb0FFd0p5ZkxfMlQzSThFOEItbjBZWktPSmRBblRvVUhDR3FwNGw2dFhYZjNacmdLSmhZR1dnRjRicUN5ME5Yc0FQRExVM2pxQkQwLW8xSWNZaVM2eE5feWJkM2pHV0NMeWxPZzAzUmxpQQ?oc=5",
+      "data": "31/08 23:45"
     }
   ],
   "avisos": [
