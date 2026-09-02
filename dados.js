@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/09/2026 07:29",
+  "atualizado_em": "02/09/2026 11:55",
   "jogos": [
     {
       "sport": "futebol",
@@ -190,28 +190,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.9,
-      "temp_min": 19.0,
+      "temp_max": 22.8,
+      "temp_min": 19.1,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.1,
-      "temp_min": 18.1,
+      "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.9,
-      "temp_min": 14.4,
+      "temp_max": 21.4,
+      "temp_min": 14.5,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.7,
+      "temp_max": 17.5,
       "temp_min": 12.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -224,24 +224,24 @@ window.PAINEL_DATA = {
       "data": "01/09 16:07"
     },
     {
-      "titulo": "Fluminense pode ganhar bolada com venda de André na Europa; veja quanto - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU2s2d1Z2dWx2UVlRS3lPblNQakU0VGhhbF9NZVJXaHRIRzRWNlFKRkwydGVGb3N1ZTVDb3p3dzRNSVF0V2NlSWt2WWljYk8zT2FuNmxSMWsyX2hJd20yZndnVzM4VjNKQUNjZWZyNHBnUU1kRkVMdENWWGl0VVV4dGZyQmRHZ09fb0ZYNVhkczgwcHVhYmh5Q3VRdF9IU0EtODRQZExTekd6b2ViSkJIWnpMWURTQTVHTTUxaTNsNkM3c041XzE5YWc5ek5rTldEQWpZQWtsNi1PLUU2cy1lMkdSR0dnNk5KWVlRRlFhYU9sakE?oc=5",
-      "data": "02/09 09:10"
+      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
+      "data": "01/09 07:00"
     },
     {
-      "titulo": "Roma faz proposta por André, ex-Fluminense, mas Wolverhampton dificulta saída do brasileiro - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVlc1YUFocUY5ZzlVeTdXUE4tc3huZkU0d2ZvVWh3T2dfVXc2V3BEVzZzQmt3b2piTkF1bmIyaWVXbnZXTHNSRmY4OVJuZE9feFpqWkVWaW1rNVo1bWhmX3V1MUxVS2hiNnpoWjlFTXdscjdielpYZ2N5YzNrOVoxOTNvLW9aUFBEZFpTMWxialBUUGxtbE16RzdVdU9BZlE3em5PTkRZaXd3ZkRRa3JZa1NKeFYtX2V0Y0Zha3d4UXlYWS0wcDdrWTBacFROdnVOTVFNd0ZzRHFVWnF1ZlZiWFJGdlZucmZIZmw4XzBkQTNvc1JFZXJMT9IBhwJBVV95cUxON1RUWkxZMXlaYzhXWkpvWk41Q0gtdnh6c3lDYm5qbF81WlRTdGNXYTFKTkFlYzBBdlpTdUxZaUhtd3VNOVAxS2RLWmtGZVEzTXRQaklQVktrM3pETUwyS0NmdnV5eDluSmYwejRKQ195Z2FpYzVPT2d4MGpjV3lzTGdmMlQ1VXdHSEgzeS1YZTlydExiNElYeVMyOEZEZWJhVUZfNjd0VEVrMjNSVThYeUZLZlJLczhCZlZCNWZMYjhYN2NfZE5DQkw1RHNwcEhmWjY3VFBWa1pwMEdQaF9aMkJkdDExdDdGNXVET21yV3VZNXd2OG94UGhUbHkzMEhxUFBuUXhYNA?oc=5",
-      "data": "30/08 17:30"
+      "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemJ2WVRtWFcwRmh3SkpIQVJQcy14emFOc3paUjdVV3ZrcmVWekIxeWVySEZ5aUliTE9YR185OUhnTE9xUHdUVzMxWm1SUm9TRlVvcnd0eXBORnpOQURmTnZYNkhjNlBDeFBrX3NPb3BfU3RDanJUR3BRSUV0NE1IWmRDcEJSa1dfaDlTMWItMUpfRmNVb2JqbWp4di1WYUJIRFVzeU5OMFVZSTFaVjZFZlR3aDJISGRCdnJhM3F0bUFQekg0eWdXYk95dUxmaVZqOGJmY3pGXzVNdF80dWU5UWp0OTh3TDczTWpzVDR1NTI0c0U?oc=5",
+      "data": "01/09 18:35"
     },
     {
-      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
-      "data": "31/08 00:30"
+      "titulo": "Joia do futebol mineiro, atacante do Sport é alvo do Fluminense; saiba detalhes - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak41aTE2WF9oUDhSY25aU3hOMTc1dFB2UjlLWjZ2MlJoUmhDNzVqYXYzZmlGOThiNkNjc0cxWXBreml6S0YzOFRIMkZ2cks1VzFsTFQzVk81Y1lGYm9kNGZ5LUppdFZkeXotSnhWM1Q5S0pwT2N5YmJhSWZtVUt6aVNVTEcwOTFkZWJSOWpHcHE4QlJrYzFZX1BfNnpuTDNfckJ6SmNEY2htZl9lOEVxRkRxb0pQc21FV1lvWHQxbkxEejlVclBYZ1RnX0N6emJIczFTSEl3?oc=5",
+      "data": "01/09 15:20"
     },
     {
-      "titulo": "Mário Bittencourt revela acordo com Marcão no Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3lYQWxxdWhrX2tuQ2QwTlJzZVRYNnBHVHVSRV9PeGk2OUg2SkpsNlhtRnNkb0FFd0p5ZkxfMlQzSThFOEItbjBZWktPSmRBblRvVUhDR3FwNGw2dFhYZjNacmdLSmhZR1dnRjRicUN5ME5Yc0FQRExVM2pxQkQwLW8xSWNZaVM2eE5feWJkM2pHV0NMeWxPZzAzUmxpQQ?oc=5",
-      "data": "31/08 23:45"
+      "titulo": "Athletico-PR 3-3 Fluminense: Viveros marca no fim e salva empate - VAVEL.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlBWMHJucnBMbndvck1IeWt6TC14ZGFueTRyOEx1Y0FPMVBDZHE4UkZfaHJ3QWFzX0pGakQ5U21YM2pydDNSZ2I1ZWltX3R3Z3ROSjZ2MFQwbjYxTUJmR2NqTTFZNzQwajJZZXdwaTJHMklXdldEckJfOEtlM2hkQ2N5Y2pmTzdrU1hOLUhNZ1daZ2VKU3Fib1pGVF9FMHJhelFFTWhJS3lSd25CeFFR0gG0AUFVX3lxTFBUcmNSdUY4SklkNE1xcE51UEpUR0V3QjNoQ3dhNV8yel9rV1ZFX2J5b3lTcGg4R1NBbUlKUEQ5SDNKVk50MXp3bDdkZWFEMk9val8xUWtxbThhNWplNGlMZkk5T1otLUh0cE5ydzFWZmFRR2FNaVMtdVdkdzhySVJtSzNBTWVwMXVQNHQxODZKbjRjQU1XNThqMFBrNHdhNFBuNzJITG54akZWVU1wT3F4Wlkwag?oc=5",
+      "data": "31/08 10:00"
     }
   ],
   "avisos": [
