@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "02/09/2026 11:55",
+  "atualizado_em": "02/09/2026 15:22",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-02",
-      "time": "13:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Austria Vienna x Tirol",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-02",
@@ -99,6 +89,16 @@
       "match": "Toluca x Leon",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "13:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Austria Vienna x Tirol",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -219,19 +219,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense acerta contratação de zagueiro paraguaio de 19 anos - ge",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTFZbnNJYzA3NjFCNzRsT01CVTN3cVlhTjJ5MHhnMm1YQWo0RERXNVprUXo1b2lBa3F0MzZodUVzY2dHY1JFeDJfQ3BWeVFFZzZVVjNVUWk4SjVoTTBiT1RkNEtZb0w0V0dxMUJMTk9tMHNUNnM4THZvVEtORG9XNk5MempPTG9memg0ZVltdXFaRU04ZWpjVjQwSjZTOHh0dFNGOGhrV05WYjdoU0tzX2dfQVJZb01KT3FPQ1RWeU96Tm5XY2Q2MlZpSGtwd9IB3AFBVV95cUxNcHN4azB3X1ZFemtuYlFtRHdOZWFLUkxkaFpQUDZEbjJ2R0l0V3FEeW1RVWtVd05mSmgwNWR6SmpHVGJCbFNoLTJLVzY5NWRtVzFRcjctQlFmRW9VWTJ0MVZwaTBxSDUtZ2NIdGNKN0dvc2l4WG5lbXFQMzF6bnFmTjEtUXB2MjZya2VwaUpVWmltcENFODVHbW1FZ0lYclAtVGUyTkJVRDNiZTJZVC1fUUxqZE9lU0toMjBfV2hoeVRVT2t0eW9yYzFHbF9jZWEtVjk4WERiQ1lEMzdz?oc=5",
-      "data": "01/09 16:07"
-    },
-    {
-      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
-      "data": "01/09 07:00"
-    },
-    {
-      "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemJ2WVRtWFcwRmh3SkpIQVJQcy14emFOc3paUjdVV3ZrcmVWekIxeWVySEZ5aUliTE9YR185OUhnTE9xUHdUVzMxWm1SUm9TRlVvcnd0eXBORnpOQURmTnZYNkhjNlBDeFBrX3NPb3BfU3RDanJUR3BRSUV0NE1IWmRDcEJSa1dfaDlTMWItMUpfRmNVb2JqbWp4di1WYUJIRFVzeU5OMFVZSTFaVjZFZlR3aDJISGRCdnJhM3F0bUFQekg0eWdXYk95dUxmaVZqOGJmY3pGXzVNdF80dWU5UWp0OTh3TDczTWpzVDR1NTI0c0U?oc=5",
-      "data": "01/09 18:35"
+      "titulo": "Fluminense recebe auxiliar-técnico da Seleção Brasileira Sub-20 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUs4ZWh4LVFZMVNoempJakJJRmVaUFh3SjltS1R2ODdHZVBpX3FjWUxYNmoyMUNlbVVhLWNLcFdSV2sxczZhdUNlQkJpU1pzZUdual9lN3FIckZGd05PbGdsV1N2M3dMY1FNaHFFYjE5aklTS2VjMUtNR0lZeDdwR0pNRGNTVDViWERERVhoemJsc0QwWjJpdUJEMGJsOUxFTTRV?oc=5",
+      "data": "02/09 17:40"
     },
     {
       "titulo": "Joia do futebol mineiro, atacante do Sport é alvo do Fluminense; saiba detalhes - Rádio Itatiaia",
@@ -239,9 +229,19 @@
       "data": "01/09 15:20"
     },
     {
-      "titulo": "Athletico-PR 3-3 Fluminense: Viveros marca no fim e salva empate - VAVEL.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlBWMHJucnBMbndvck1IeWt6TC14ZGFueTRyOEx1Y0FPMVBDZHE4UkZfaHJ3QWFzX0pGakQ5U21YM2pydDNSZ2I1ZWltX3R3Z3ROSjZ2MFQwbjYxTUJmR2NqTTFZNzQwajJZZXdwaTJHMklXdldEckJfOEtlM2hkQ2N5Y2pmTzdrU1hOLUhNZ1daZ2VKU3Fib1pGVF9FMHJhelFFTWhJS3lSd25CeFFR0gG0AUFVX3lxTFBUcmNSdUY4SklkNE1xcE51UEpUR0V3QjNoQ3dhNV8yel9rV1ZFX2J5b3lTcGg4R1NBbUlKUEQ5SDNKVk50MXp3bDdkZWFEMk9val8xUWtxbThhNWplNGlMZkk5T1otLUh0cE5ydzFWZmFRR2FNaVMtdVdkdzhySVJtSzNBTWVwMXVQNHQxODZKbjRjQU1XNThqMFBrNHdhNFBuNzJITG54akZWVU1wT3F4Wlkwag?oc=5",
-      "data": "31/08 10:00"
+      "titulo": "Fluminense pode ganhar bolada com venda de André na Europa; veja quanto - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU2s2d1Z2dWx2UVlRS3lPblNQakU0VGhhbF9NZVJXaHRIRzRWNlFKRkwydGVGb3N1ZTVDb3p3dzRNSVF0V2NlSWt2WWljYk8zT2FuNmxSMWsyX2hJd20yZndnVzM4VjNKQUNjZWZyNHBnUU1kRkVMdENWWGl0VVV4dGZyQmRHZ09fb0ZYNVhkczgwcHVhYmh5Q3VRdF9IU0EtODRQZExTekd6b2ViSkJIWnpMWURTQTVHTTUxaTNsNkM3c041XzE5YWc5ek5rTldEQWpZQWtsNi1PLUU2cy1lMkdSR0dnNk5KWVlRRlFhYU9sakE?oc=5",
+      "data": "02/09 09:10"
+    },
+    {
+      "titulo": "Saiba quanto o Fluminense pode lucrar com transferência de André na Europa - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTM4X2pZR1dVVWRqODlrNTBDOUVmeUx1bEVaa0hDNENIclBqN1dHLUJqZTNlWWV1U3l0X0pmeFR2WTU5TDNCNUxHb1BHZ2h4TEMxV0toOWVWSHlCZXM0VE50c1V1eENidGJHbVVkQWFYSGNzb1VHVUdZbktGM3Exanp4bUsxWXR2WUlWT2QxQXlWVncwV1JsRlgxaUlCQWxaV2RB?oc=5",
+      "data": "01/09 14:13"
+    },
+    {
+      "titulo": "Roma oferece R$ 240 milhões por ex-volante do Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1lcmVEN0hoMXFkMUJuQUhuNnhtWXN2dzdmUVZYeWhPMHhDcnBBdlAxMUQ4cUY5eGc2QVNRVGxZVHdjbXBreE51d05xdUVEWlFVOXI1b1hjLTlHcjNYQ01TbVoxTE05b1J2R0RIV056MjFtZE0yZ0lBWFNXVnF3R2REb1hPMktVbFFtZmtfb3JXNEc3cFdRQV90clVZd2R3QnFSVGhhQWhvU09M0gGyAUFVX3lxTE1RSXdDQWRXMzBtTVpKVVZvVENmQVdjU3FEc250cTBBWTkyUE9TaWMyZVJRdnR3V0FVTzBXdm0tSXRTOVl3RDVZTTg0OHNENGF0X05CQlNsNnpHTE9wNTNuakRUZGRTM042SWZNSXJGYnc1Um0wSFNwbG9SSno1eDZVYmpTR0pVZWRkNm52RlM5TGFzcE9Ub3dPS0QtWXRpTWJoXy1WQUpWaTJEYXdIVS1KQUE?oc=5",
+      "data": "31/08 00:30"
     }
   ],
   "avisos": [
