@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/09/2026 18:32",
+  "atualizado_em": "02/09/2026 20:47",
   "jogos": [
     {
       "sport": "futebol",
@@ -219,29 +219,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense recebe auxiliar-técnico da Seleção Brasileira Sub-20 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUs4ZWh4LVFZMVNoempJakJJRmVaUFh3SjltS1R2ODdHZVBpX3FjWUxYNmoyMUNlbVVhLWNLcFdSV2sxczZhdUNlQkJpU1pzZUdual9lN3FIckZGd05PbGdsV1N2M3dMY1FNaHFFYjE5aklTS2VjMUtNR0lZeDdwR0pNRGNTVDViWERERVhoemJsc0QwWjJpdUJEMGJsOUxFTTRV?oc=5",
-      "data": "02/09 17:40"
+      "titulo": "Léo Jance retorna ao Fluminense após empréstimo; clube quer dar rodagem ao jovem - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkk4N3FnaGdnTjllbGZMd2RtR1c0ajA2Vm1POFBDLXFLQS00OFE0S3JJM3NJZWdJdEtwcUR3UkhHNUg0RkhSbjg5Umk1UHVuazF1UEMxN2l6eG4tN29QTVMza2VoYXE1dXlJdHhjZko0cWRLUERPLWRMMy1IVklPRmF3ckExamIyamVCcGRNUFlnNzZNRWFnX19JZkRYb2xyQWNILUpqZFhqRFN2d2ZLcnNjV296UzJkSXhBZw?oc=5",
+      "data": "02/09 20:18"
     },
     {
-      "titulo": "Atacantes do Fluminense estão no top-5 maiores artilheiros do Brasileirão na década - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamJOYmtWNngwLXlsZGk3ZmxzOUZhQl9wQkkxUE5ZTHd1dWk5TjJLTGVyQXdiYWRkSW9Pbmc3eWhvYXZoRFdDS1J5V2pOdzcyaC12dWZhU2pPNVFxMFJtdHQxczRtTjV4aUtWa3lENDNuXzFXX3JiT21pdmRiMkJ5WTlUcXd6UUdpRG85TFl4VVdBVkVHd3FUNEFlZW9Eb1Q3blFWaDFCM1ZjVk9IdmZJ?oc=5",
-      "data": "02/09 20:51"
+      "titulo": "Ganso, do Fluminense, revela jogadores que o inspiraram - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1JIZndoc2RMM0RIZGVuSlhVSG9XN2poR2Nvek5uSFJ3cFZYSUp4dDR5UlNhbnZVanh6Und1U2tqLWVGek1rbVNRNUZOZWtZSklfRE9vdzQzNnduWTJkZ29DN1R3NEIwWl9UMGxKZTRiWXhQLXlLOG5rZlU4MUw2elJzeFVBeW8?oc=5",
+      "data": "02/09 23:35"
     },
     {
-      "titulo": "Léo Jance retorna ao Fluminense após empréstimo; clube quer dar rodagem ao jovem - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVjJka21rNlpWdGMxb0RCRUtMNkV2c19jVTRhUE1ld2E0QUl4M0pzSVBNY1hfa29GRHRoNnFOTmc4TEV2MnhXVWZVVEpTYkdYeFFkRnhkRmhZdFNIZ1pnSmE4QjRVYnVmdE95NVJjdjJ1ZUM3R0lxVEQxaTRmQXItMG1jNmxFVVEyLWQ5UDQwdi15bnlCazRkaXA3NGF1ZEtVUEhPeERTVUtJdjVBQThDQS0wSHFaYXdqR3FSZkhBaFpwUDgyWkJmVjdwdEQ4dDRSLWdiR3JPVnFGaXMwODM0SkV1NNIB6AFBVV95cUxQVlE4cWw1NUI4bjdOYzdVdklxdzVqM1ZpT2ZRTTNzYm5scFlSOGlKLVh4bnEzRlBRRk5LakFpVklLSmdXWEoyTVBrcDMwLVB6a3Q5UVJSQ2FxNWR2dTF5NVRHRlFpNjRLWFVvaEo1Qm94dmFaQl9yRnRoUjFyWkMydU5EbkR6cFpkQWo1aGliQ2ZnZVlmOVVhR0dISkNZbzEwLTJBRjhDQnRYbm9EbVhfaDNPOE03bjJad3FGTXJ5S1FqTnBaVU1rMWZfOW54eEZ3WDZ0Z3o0ODJLUkstemtOVE10T3NhbWQz?oc=5",
-      "data": "02/09 20:30"
+      "titulo": "Ganso revela ter sido chamado para rescindir com o Fluminense várias vezes: \"Acabei ficando\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTEhFSy1ERXFzQ2ZMUlI5Vm9WcXoxUzRUaVI1U1lKbmNib1c2Y0RRS3lWNjYxOXdwTXNETnROYVp0NDZMQVAzOGhpUDJYeU1oeXJUVDBtcGIwMHMxdWJPX0d5ZTJseXQyR1BKZUVuN1o3a2ZKY3cyUDlzSnV2c0FEQVZQZXFZM1NPejBGZmNsMndoN2xkbmJIMUdtUXpYUjZZczYzOHBaZzA0U1pJeFA1WEh0UklYeWZ6NE42SW9sODJfWXA5VW9yWVNVdlRPdVk3ZTZsOU9UQWJkUUZNcWY2RNIB7wFBVV95cUxNdVNyS2EwOUVIbzlMQUhmT2d2bkQ1bWd3Zm9BSGVqaWdyMnhUZThlYUlxbTN4bS1HVmV5TDN0VG9QemgzaGNDbjMteC05anBwTnRiaFhLd3BEZlprb0dtb0xNTjNweTlCd1BxcE14M3paTmdHWGs2THJMUDdJZm9uUTFjdlpldkRBYkI4ekpFNEZHV25wM2dpdmhjbkxhVjNPekcyVE1WUERGVzl4VlN3aFBqUFdRVG03MGlIQ1JLbzhrSEF3UTVBYXN4ZmFscDVIV1pjeEluLUstTkNnUldFSW53U2pGRFN6U1FvWVhtcw?oc=5",
+      "data": "02/09 17:08"
     },
     {
-      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
-      "data": "01/09 07:00"
+      "titulo": "Fluminense busca reforço para o meio, mas descarta medalhão; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMG8wZWEyNHBveTVwS1M4M3hhUmRKSFRXN2pkQktsQXFrSWxtNWtmVENqZVBrV3F4MHo1dnFibkdoLTNhR0pwbFN2NkRQU2lnSTBPNmQtZUU3a0N0bGhGZFBnOXFNYzNXNWZEV052MDhUamZuQjc3WFZELXJ6NHpNTWlWNlhkZnVEa3I0dVZQdFU1MDVseWthd1EwTXJJc0h4eTZYTm5hYTNMVmNxeklVS2hVajJGbE1XaHhHMmN0cVpOdzMtUEVsLVFYMExXaEZuZklybzJJNVdwTjRoOFhkS1BzS0NqUTc2OWc?oc=5",
+      "data": "02/09 17:59"
     },
     {
-      "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOemJ2WVRtWFcwRmh3SkpIQVJQcy14emFOc3paUjdVV3ZrcmVWekIxeWVySEZ5aUliTE9YR185OUhnTE9xUHdUVzMxWm1SUm9TRlVvcnd0eXBORnpOQURmTnZYNkhjNlBDeFBrX3NPb3BfU3RDanJUR3BRSUV0NE1IWmRDcEJSa1dfaDlTMWItMUpfRmNVb2JqbWp4di1WYUJIRFVzeU5OMFVZSTFaVjZFZlR3aDJISGRCdnJhM3F0bUFQekg0eWdXYk95dUxmaVZqOGJmY3pGXzVNdF80dWU5UWp0OTh3TDczTWpzVDR1NTI0c0U?oc=5",
-      "data": "01/09 18:35"
+      "titulo": "Saiba quanto o Fluminense pode lucrar com transferência de André na Europa - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTM4X2pZR1dVVWRqODlrNTBDOUVmeUx1bEVaa0hDNENIclBqN1dHLUJqZTNlWWV1U3l0X0pmeFR2WTU5TDNCNUxHb1BHZ2h4TEMxV0toOWVWSHlCZXM0VE50c1V1eENidGJHbVVkQWFYSGNzb1VHVUdZbktGM3Exanp4bUsxWXR2WUlWT2QxQXlWVncwV1JsRlgxaUlCQWxaV2RB?oc=5",
+      "data": "01/09 14:13"
     }
   ],
   "avisos": [
