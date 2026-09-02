@@ -1,73 +1,6 @@
 {
-  "atualizado_em": "01/09/2026 21:52",
+  "atualizado_em": "02/09/2026 02:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "21:00",
-      "competition": "Copa Do Brasil",
-      "match": "Atlético-MG x Cruzeiro",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Wolfsberger AC x Lask Linz",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Hilal x Al-Ahli Jeddah",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Stoke City x Norwich",
-      "channels": [
-        "ESPN 4",
-        "NSPORTS",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x FBC Melgar",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-01",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Juventude",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-02",
@@ -169,6 +102,81 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "00:30",
+      "competition": "Leagues Cup",
+      "match": "Club America x Monterrey",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "13:30",
+      "competition": "Campeonato Saudita",
+      "match": "Neom x Al Khaleej Saihat",
+      "channels": [
+        "BANDSPORTS",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Diriyah x Al-Qadisiyah FC",
+      "channels": [
+        "XSPORTS",
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Sociedad x Celta Vigo",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "20:00",
+      "competition": "Brasileirão Série B",
+      "match": "Náutico x Botafogo SP",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "20:00",
+      "competition": "Copa Do Brasil",
+      "match": "Grêmio x Internacional",
+      "channels": [
+        "PRIME VIDEO",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "20:00",
+      "competition": "Brasileirão Série D",
+      "match": "CSA x Nacional AM",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
       "sport": "volei",
       "date": "2026-08-27",
       "time": "18:30",
@@ -182,38 +190,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.4,
-      "temp_min": 20.8,
+      "temp_max": 23.0,
+      "temp_min": 18.9,
       "chance_chuva": 100,
-      "condicao": "Chuva"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.3,
-      "temp_min": 21.4,
+      "temp_max": 23.0,
+      "temp_min": 19.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.1,
-      "temp_min": 17.8,
+      "temp_max": 21.3,
+      "temp_min": 14.0,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.2,
-      "temp_min": 16.4,
+      "temp_max": 16.2,
+      "temp_min": 12.0,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense entra em reta final de janela de transferências com lacunas preenchidas e um último alvo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTzd0WVNfOUE5bGJsNXlPY1h4TS0xRGFkR2NDRk5kZV9oY2pJcTFZQVBfNHJOdDluNktoSmhheWw1MV9HTnBXaFc5R0RZY0xaNjJvZ1MzODJIbnM2b1RkbjVpcjdZVnAtYnhPUkJRbERUbGMxLTNIVVVrRHFLMWNJMXU3dEJhN2pyMlJaTEtHTXR1emVpZkdaT2dmaHhnRGI3SzZJZXIxZUpHY0FBOUV5TnF2cWRQdzZhNVkzcThncVUwczJRazJUTUZ6YVc2dFcxSjVoZVBlQ1pNUWxvUUpBVHF5ajFDUm1vel9ZclAzbUYzZGhWZWw3d3FtTmlLYkHSAY4CQVVfeXFMTk5yOVZiR2M2Q0kySzlqRmFEVTJHN29aaUhncTI0ZEwtYm5UQWhJLTBVYmNGWGl5WGxxc3dnb2szZnlPeEExNXloWElUTVlQUFBVcVFtNTNGWkI3RklUbGVCa255ckQwaTl1UlZqajZDWXNQbENxSFgzRlNkU1BRZGtjb2xhWE95ekJ2U1g3a2V3NFl2OTlvcF9iZXlzbzNZY19ULTM3MGd5VUxZdHFlOHJ3UWVvRm1qdGdiVW1QUHVFRW9iZld1OGZtQkVTLUkyNVg2dHNKUnlwbVZyd21nWmcwcHl4VDZJd2RzbUZORGxNTzB2VTh2NUcwYnB2WVpOelNVY005TXNkN0pIN1dn?oc=5",
-      "data": "01/09 07:00"
+      "titulo": "Fluminense acerta contratação de zagueiro paraguaio de 19 anos - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRTFZbnNJYzA3NjFCNzRsT01CVTN3cVlhTjJ5MHhnMm1YQWo0RERXNVprUXo1b2lBa3F0MzZodUVzY2dHY1JFeDJfQ3BWeVFFZzZVVjNVUWk4SjVoTTBiT1RkNEtZb0w0V0dxMUJMTk9tMHNUNnM4THZvVEtORG9XNk5MempPTG9memg0ZVltdXFaRU04ZWpjVjQwSjZTOHh0dFNGOGhrV05WYjdoU0tzX2dfQVJZb01KT3FPQ1RWeU96Tm5XY2Q2MlZpSGtwd9IB3AFBVV95cUxNcHN4azB3X1ZFemtuYlFtRHdOZWFLUkxkaFpQUDZEbjJ2R0l0V3FEeW1RVWtVd05mSmgwNWR6SmpHVGJCbFNoLTJLVzY5NWRtVzFRcjctQlFmRW9VWTJ0MVZwaTBxSDUtZ2NIdGNKN0dvc2l4WG5lbXFQMzF6bnFmTjEtUXB2MjZya2VwaUpVWmltcENFODVHbW1FZ0lYclAtVGUyTkJVRDNiZTJZVC1fUUxqZE9lU0toMjBfV2hoeVRVT2t0eW9yYzFHbF9jZWEtVjk4WERiQ1lEMzdz?oc=5",
+      "data": "01/09 16:07"
     },
     {
       "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - Terra",
@@ -221,7 +229,7 @@
       "data": "01/09 18:35"
     },
     {
-      "titulo": "Joia do futebol mineiro, atacante do Sport é alvo do Fluminense; saiba detalhes - Rádio Itatiaia",
+      "titulo": "Joia do futebol mineiro, atacante do Sport é alvo do Fluminense; saiba detalhes - itatiaia.com.br",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQak41aTE2WF9oUDhSY25aU3hOMTc1dFB2UjlLWjZ2MlJoUmhDNzVqYXYzZmlGOThiNkNjc0cxWXBreml6S0YzOFRIMkZ2cks1VzFsTFQzVk81Y1lGYm9kNGZ5LUppdFZkeXotSnhWM1Q5S0pwT2N5YmJhSWZtVUt6aVNVTEcwOTFkZWJSOWpHcHE4QlJrYzFZX1BfNnpuTDNfckJ6SmNEY2htZl9lOEVxRkRxb0pQc21FV1lvWHQxbkxEejlVclBYZ1RnX0N6emJIczFTSEl3?oc=5",
       "data": "01/09 15:20"
     },
@@ -231,9 +239,9 @@
       "data": "01/09 18:02"
     },
     {
-      "titulo": "'Fluminense sai muito chateado' por pênalti, diz presidente do clube - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbXFDS1ZrRGxCcVlpLWUxekFqdG1BQjgtZHNlQzdVeFlBSXBHaEY1VTF1aWZlRVR3Sm92SV9ucnRsNU4zN1F2aVNYU1pfcDRZZFgydFhHYlUzeG4tdVJmS1ZuRHdtWTdfcU85Q3BLRjhvMzMzN2RjZUNtUjdOZW8zM0Q1WkxDdFg5d1dXc1otN0tRZ1M3M1FvR1R4aFNtRjg2cmcxTnJ4djBjdw?oc=5",
-      "data": "30/08 18:04"
+      "titulo": "Mário Bittencourt explica por que Fluminense não efetiva Marcão como técnico - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZDRMWjNRNGw3WWMxUWxDaVJCWUFaazJGVFhqVGlTQkJkckNCMzZLN2hNMWlZMXl6VVZGbWNIcWZfZzVESXFsa1BFNVNNcVp5ZWhNNzJnMkxoLTlPS000Yy03Q3ZkaU5tbXloTFdhZURLNC15OWpLN05scGhCQ21OWURpOHY3VlpJOFZWNjdkQ0hkRDNMdnVOZEhhT1Q2eUJBbEk5TnBsNlRZRlEzSDR6Rkd5czdXMkt2djVxVUZLYUFTdUNpQmlBbmpnNG1CMkFFYjhETFRvUnJxT2F1WDZnaNIB7wFBVV95cUxNM2tLU3VvRXZjcnNiTDZtUkdERDVZSnBrQm5kOUtTUnRNTXRfSXd6ZXNhMHNoRHRleFB3dktWVElPUVFLUDhKdmZKdXltNllZNE4yMFZuTjBZY0xzSlpLVkR1bTF0QjA2czZwQTVoUHFpck5VT2Z2cDcwYjhqaUxyS2JzYnJHRUFUbnhBd3BMM0V4WnRhZzFUdWtlb3Q1WWpOWk1MckNrWXFGVEJLU0Q4SjVyYlQtWEpIemxzTlZ3TElGQy1Vb3l0OGxZdWp4bmdMY3V3ZjZLX3ZNbDVwZlRMMHNMVGktZ0ZoQk9LQlVISQ?oc=5",
+      "data": "31/08 22:46"
     }
   ],
   "avisos": [
