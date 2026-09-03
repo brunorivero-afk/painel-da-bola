@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/09/2026 04:41",
+  "atualizado_em": "03/09/2026 09:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -255,6 +255,16 @@
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Belgrano Cordoba x Huracan",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "19:00",
       "competition": "Brasileiro Sub-20",
       "match": "Palmeiras Sub-20 x Vasco Sub-20",
       "channels": [
@@ -445,6 +455,7 @@
     }
   ],
   "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
+    "Falha ao buscar notícias do Fluminense: RSS não retornou itens."
   ]
 }
