@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/09/2026 09:31",
+  "atualizado_em": "03/09/2026 13:52",
   "jogos": [
     {
       "sport": "futebol",
@@ -400,62 +400,61 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.2,
-      "temp_min": 18.3,
+      "temp_max": 24.9,
+      "temp_min": 18.1,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.3,
-      "temp_min": 17.5,
+      "temp_max": 24.9,
+      "temp_min": 17.3,
       "chance_chuva": 0,
-      "condicao": "Céu limpo"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.7,
-      "temp_min": 12.6,
+      "temp_max": 19.8,
+      "temp_min": 12.1,
       "chance_chuva": 2,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.8,
-      "temp_min": 10.5,
+      "temp_max": 20.6,
+      "temp_min": 9.5,
       "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Nublado"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Contas apertam no Fluminense após R$ 151 milhões investidos no futebol - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEpoN09pOHMzZ2ZkOHd2TGdsMWNrZ2J3Zi1IM09oNTZzeE55aTdsQjluMUhMV09DMXRjejVNYk9IZlFBelI0TDNTdUNUZVVrRi1SRWkyWHlDMlJzUVBaN1g5WHFyM1loMFlMdElVbFBUUWtNekpZYW9wWHp4WVFsSTNzUExDY2JoUTF5ZURXQzdtVERZMnRCdmxfMjQ?oc=5",
+      "data": "03/09 13:00"
+    },
+    {
+      "titulo": "Marcão ‘ignora’ reforço de R$ 66 milhões, que é esquecido no Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2tDZ0RTYWVlUG13VzhFV1JPWDdRcFhfWVJtQ2JLOG1jaU5ROS1uSXpqS256UjRtb1N5bEwxVWZYeGdYbFlRVTk0dW1wUmdEVk02VllCYkNNLUJxZHQ4azdPb0hPNFFRWHF0RnNMamRlUTBKQWpLTXlSTUkwcGMwN1lmeVZGdkJMTXFfbGVHX2N0S0FzSkZyN1l3?oc=5",
+      "data": "03/09 12:30"
+    },
+    {
+      "titulo": "Base do Fluminense impressiona Seleção Brasileira, que exalta trabalho em Xerém - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVpiVy01dTVBc2R6a1dzcnB0LTZ6ZFpKR2Y0VVBqNC02d0YyelpfM21LNnUwTnNCdndLTVdkNG0xU01uM3BjRF9HbW5RSWgycHZIWDF4OEdpZmFMXy1icFN3UGZOT3lRLWJkM2YzYkRTUUk3a21mY1VDWTBldExBN18yNjV0RThqVEJVaTN5eEE1ZmhPTnlOVDQ2VHFqMFJOQ2s1SG13TXg?oc=5",
+      "data": "03/09 16:00"
+    },
     {
       "titulo": "Ganso revela ter sido chamado para rescindir com o Fluminense várias vezes: \"Acabei ficando\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTEhFSy1ERXFzQ2ZMUlI5Vm9WcXoxUzRUaVI1U1lKbmNib1c2Y0RRS3lWNjYxOXdwTXNETnROYVp0NDZMQVAzOGhpUDJYeU1oeXJUVDBtcGIwMHMxdWJPX0d5ZTJseXQyR1BKZUVuN1o3a2ZKY3cyUDlzSnV2c0FEQVZQZXFZM1NPejBGZmNsMndoN2xkbmJIMUdtUXpYUjZZczYzOHBaZzA0U1pJeFA1WEh0UklYeWZ6NE42SW9sODJfWXA5VW9yWVNVdlRPdVk3ZTZsOU9UQWJkUUZNcWY2RNIB7wFBVV95cUxNdVNyS2EwOUVIbzlMQUhmT2d2bkQ1bWd3Zm9BSGVqaWdyMnhUZThlYUlxbTN4bS1HVmV5TDN0VG9QemgzaGNDbjMteC05anBwTnRiaFhLd3BEZlprb0dtb0xNTjNweTlCd1BxcE14M3paTmdHWGs2THJMUDdJZm9uUTFjdlpldkRBYkI4ekpFNEZHV25wM2dpdmhjbkxhVjNPekcyVE1WUERGVzl4VlN3aFBqUFdRVG03MGlIQ1JLbzhrSEF3UTVBYXN4ZmFscDVIV1pjeEluLUstTkNnUldFSW53U2pGRFN6U1FvWVhtcw?oc=5",
       "data": "02/09 17:08"
     },
     {
-      "titulo": "Fluminense recebe auxiliar-técnico da Seleção Brasileira Sub-20 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUs4ZWh4LVFZMVNoempJakJJRmVaUFh3SjltS1R2ODdHZVBpX3FjWUxYNmoyMUNlbVVhLWNLcFdSV2sxczZhdUNlQkJpU1pzZUdual9lN3FIckZGd05PbGdsV1N2M3dMY1FNaHFFYjE5aklTS2VjMUtNR0lZeDdwR0pNRGNTVDViWERERVhoemJsc0QwWjJpdUJEMGJsOUxFTTRV?oc=5",
-      "data": "02/09 17:40"
-    },
-    {
-      "titulo": "Ganso abre o jogo sobre demissão de Zubeldía no Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjcyRlFwR2dFRTBjX2Qxd25ETHh5RWRMVEl3ZTFtZlJQeUlodGZyZzhESWQ3QUVLSjhzS05PRWhOUUszTWgwVklIX0FxMV82M2lyRWFvZUxBaV85QUktUVotSFIxZFdkdDNSbTlxYkFxamhRZnJicVVLanN6Z2xINHNlNDVQX0JkZFdvVXN3?oc=5",
-      "data": "02/09 23:17"
-    },
-    {
-      "titulo": "Presidente do Fluminense revela motivo para não efetivar Marcão como técnico - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2p3TFNsTmdDVXl2U29iOEsxb1VwY2hSeVRNdmtSeGdqc2J0OXhrcjExa2Rha1BFbF9wN21vbWlIRkd2TVFDSno0QUhFTGVfQWpfRHpnR1hCXzBDRXk1MkFzYkR6UXNiUUZiRmtoSWxIbThXV1RTQkI3clJhOEFZSWpjRDZtOUl3c1Z1dVRSMjVrUDFBVXcxaFBiTVpFU2ZCX2RlZnpGakhCbFU5RlRFaFJCejRmM3JSZUZOOHNpdkpBWjlCbnkzWGxaQnRjSHNMN1ZXeG9YY1VhTVdCb2ZBUG1DdWhUbk9QOG8tN0Q2NnJHakg0ZGYybDc2cw?oc=5",
-      "data": "01/09 10:35"
-    },
-    {
-      "titulo": "Guga lamenta empate do Fluminense e projeta clássico contra o Vasco: 'Decisão' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlY1STc0emV6OGM5Q3FFQnVFbzIxOHByeG5wYmdPN0UxYnhKNVNkN3NMZE1taFhEa2hLUXdidGU3RTJlQTU2UXNYUkthN25JbU9QUGd0R2ZpeEtLTE9DMXF5bUdWOXZ2ZGptUGZXTnhMMkx1V0pub1VmY0F2Q3ZUVGxSRnJQT3pPb2pEaEZGSXZSakVMYXcwTFFHTzFTM2ZFM1dmTU9odHJSbzU1ZDZDVkl2WnpHZVk?oc=5",
-      "data": "31/08 19:43"
+      "titulo": "Léo Jance retorna ao Fluminense após empréstimo; clube quer dar rodagem ao jovem - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkk4N3FnaGdnTjllbGZMd2RtR1c0ajA2Vm1POFBDLXFLQS00OFE0S3JJM3NJZWdJdEtwcUR3UkhHNUg0RkhSbjg5Umk1UHVuazF1UEMxN2l6eG4tN29QTVMza2VoYXE1dXlJdHhjZko0cWRLUERPLWRMMy1IVklPRmF3ckExamIyamVCcGRNUFlnNzZNRWFnX19JZkRYb2xyQWNILUpqZFhqRFN2d2ZLcnNjV296UzJkSXhBZw?oc=5",
+      "data": "02/09 20:18"
     }
   ],
   "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
-    "Falha ao buscar notícias do Fluminense: RSS não retornou itens."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
   ]
 }
