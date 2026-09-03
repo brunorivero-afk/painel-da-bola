@@ -1,28 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "03/09/2026 16:36",
+  "atualizado_em": "03/09/2026 19:11",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-03",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al Diriyah x Al-Qadisiyah FC",
-      "channels": [
-        "XSPORTS",
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-03",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Sociedad x Celta Vigo",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-03",
@@ -74,6 +52,28 @@ window.PAINEL_DATA = {
       "channels": [
         "BANDSPORTS",
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Diriyah x Al-Qadisiyah FC",
+      "channels": [
+        "XSPORTS",
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-03",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Sociedad x Celta Vigo",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
       ]
     },
     {
@@ -429,29 +429,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Santos avança na contratação do meio-campista Lima, do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xJNkZBdVU2OHg3YW0yWkh5ZWRoYlA3clNIbXJSZ1ZlUE45ZFlzX2hZeDJmaXk5el9IWnYwWEZXbEhjb0NYNXEyYnh4Q09DZ3NHOTl1cHhtT0FFSHI5dEVrQndybThZUV9qendhR1lBRW9GYUZ0RmNFNWJJWDgwdFY4SDRXVFI5UjhVcXZKRTliOGhPMlFLVWdPbUl1WlhKd3dPNXpuRVZ5UFdGQWIzMHU4M295akE5UXlaSGtvekptR1QtaGwwdkZiN1RHeG1FVTdvOWRjdnBTMkoyYWVnYV9RSTHSAfMBQVVfeXFMUGo0cmxtQkQ0VS1pNERIaWFjdVBReDY1UXdXcjgyN0RDYXNDRS1CVTJMTER0am9vcWRBbENCbWhiZkVTQzl1WlhkazN2RWcyUDRScHRYTjVDcVI0dV9kbjdWMDUwNy1UM1Vkd1NKNzZuMXJ0aFUtUXh0RlF4clk3MmFWTnB5MnQ5R0FaWkNieGg3dTdrQlNQMDJCZmlVZWZ4NmJtUWVrNHczNmR2QUJKeGRvWmlFZkVVVkRNVkJNRTFnWTd2TjMzdGRNLWVYMEUtb3hhQ3B5dS1sYm4zVUVnNEpiaXhHdXZMNEp4c2VJdVgzMUpz?oc=5",
-      "data": "03/09 17:00"
+      "titulo": "Recuperado de lesão, Freytes deve voltar ao Fluminense contra o Vasco - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORzZpdmQtNkRVMDNKd0ZlUWU0NWZtZmdsUEFlQzI1LW14bWtnNFRlMkVnZE5TNG9xMWlhQTZCS1JqZTZmeC1BYlBHR0dPNVhNTmtCQ0VodENTV1lTY3F5eVk5VUpZVENZWXRXWlB6aXJxZ3Z0ZDhfSzIwSF9JWE1zX0xYdUduVHJOdThWQ3J1MEx4OU90ZndOYko2WEtBX3UxREQzUERmUEppMFdCRVhueVNTRjFRU2tWeVdzQzdaSmNIdDkzMGhRbktDdWtRZVN3bmNmMtIB4wFBVV95cUxQbEZJZTIxYU1oVjB3Q1FWSjNKTGdONnJJMWhXSXhVRndNR1NFRE04Yi1LcHotYXpzOVNXdjF6QzNVTWpXb3BzUUlDM1VFSzlOLV8tcmtwcXpIZVJjdjRSVnJGcllNSnB6UUhDR29YV25IX3I0M1VBREhkLWQ4akZxUWhCQXB5NEIySkdnTjBOU2c5Ni1oTkwwVEZuZm1BVjMwVWZtUDUzQ08tUnFycHJ2Sy02NFF3bGVPbnVJNGRQNzhjdEhsX1ItUldRT3hOajhLRUlncHpqVEw2YjRiZXBNc3psUQ?oc=5",
+      "data": "03/09 18:35"
     },
     {
-      "titulo": "Base do Fluminense impressiona Seleção Brasileira, que exalta trabalho em Xerém - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVpiVy01dTVBc2R6a1dzcnB0LTZ6ZFpKR2Y0VVBqNC02d0YyelpfM21LNnUwTnNCdndLTVdkNG0xU01uM3BjRF9HbW5RSWgycHZIWDF4OEdpZmFMXy1icFN3UGZOT3lRLWJkM2YzYkRTUUk3a21mY1VDWTBldExBN18yNjV0RThqVEJVaTN5eEE1ZmhPTnlOVDQ2VHFqMFJOQ2s1SG13TXg?oc=5",
-      "data": "03/09 16:00"
+      "titulo": "Platense contrata atacante para enfrentar o Fluminense na Liberta - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDFJaVVSSG1scm1mVEtJbmE5aGY4WFNxWVBkTTJobnpoaF9HSzNDcEQyaGxQU215VlJDSjk5dmZQRDBPMUtmRnRGeEs4MnN1T09GejFqTlRia3RqcGI0dEhnYk10QmtoYUFDWlRsalBMWmVfcGlZekdoMlViS2w4TDRjX3ZiNlMxZ0cwRXE5MkdLeS1Yc2RGRnZhay1UUGVqRkpvQVlNZFVRb3lKV2dyZnctVEdBZElXRUZHODln?oc=5",
+      "data": "03/09 20:39"
     },
     {
-      "titulo": "Lucho Acosta perde espaço no Fluminense; veja os motivos - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORG9nRkV2eUFUakpQaEhXTmw1c2xjemlnSVFKeEhlbFRTN1JvRVVKSW1ONTFvbW9SOHpHcEFrRUFhQV9fWGxJN2NhaUJkak1IRmxhUlA3ZXdUZEpfYWhmMjZnWHc2RVFPSnlTVU1ldUxySWk2bXhuSzJKTDVxeDNEUmR2NlhFMFE1c25ESlRsZVd0V2dSTkNNVlBuSGk0RkdDeFM4d0NDeGU4Yldva05YbllERU1FMjBuVUZUeDc3MldoSTFPSWVEaGdfZXcyYzdISTA1NHFKWjNfOGM?oc=5",
-      "data": "03/09 07:55"
+      "titulo": "Santos avança pela contratação do meia Lima, do Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXVmLUJlMmV0WUg1RGN3amVvUnlvZjRBR3pYU3RkMjEtYTd1eTVGbmQ4R2tXWUhNeHRhSnhpTkEwcVFVT2U4TUJaUmFnYnRuYkJPN0pjdU9XWUx4elNmS0dITGNsaXRZSEFpZk0zUks5REhUV0wzSVhXV0ZMcUtQTHlpMFBOMy1LOVF6eHZMNVZwcUYwMDlNZVNXeFNCejYxZlJRMHZXOFpBc1hlaEJ6dzBORXRLTEJOSkJaX9IBwgFBVV95cUxOdmxuMU1iX3otV0h3OVpzeGlfRGdsb1J2OW1CUXdSWkpIcGcwSVpCaWxDSFAyTWE4ajBrTEdTdUJqVTk0S0RNTmpoQXd0WHExZWUxQ05UbVJXSDI3NzBHUmFFdm9TUkJpeW9OWXllNWU0b0JEMHJUMnpYc0RGY0JCa2htNXBrWUFkUnZUdzJJSGpQVjhZR2lwcXVJTV8zZXE5cXM0dUlYSW1Ebnd6eFJGNWVrX0hnSm1DYXRvLV9lZTFnZw?oc=5",
+      "data": "03/09 17:45"
     },
     {
-      "titulo": "Léo Jance retorna ao Fluminense após empréstimo; clube quer dar rodagem ao jovem - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkk4N3FnaGdnTjllbGZMd2RtR1c0ajA2Vm1POFBDLXFLQS00OFE0S3JJM3NJZWdJdEtwcUR3UkhHNUg0RkhSbjg5Umk1UHVuazF1UEMxN2l6eG4tN29QTVMza2VoYXE1dXlJdHhjZko0cWRLUERPLWRMMy1IVklPRmF3ckExamIyamVCcGRNUFlnNzZNRWFnX19JZkRYb2xyQWNILUpqZFhqRFN2d2ZLcnNjV296UzJkSXhBZw?oc=5",
-      "data": "02/09 20:18"
+      "titulo": "Fluminense acerta pendência com elenco antes de clássico no Brasileiro - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQk0wbmVNczI2SW13c2x3VnVvZHFLWmF3Y2QzVDdMMmlEbnhhcXMyQk00NFhsdUd6R0hyMzVHS0k2dVN1SWxmRmo2QjdudGhoX2pUU0ZlcDYxRnFteENjUFViNDNyQmFoMVcxX3lSSFNpWWVsZTF6NW9IZ01TU292UnB3MU1OMW1KZHZjRU1iZFpJaGFOS0NTeVE1NWllakkyUnp2QXQyN0RRUWg5RHA3NzMweWlwa2hkLU9VbkNHTjY4NTFsRzF1YWZWUi1HcTlsQ1JfbWxTbzRVOV9SblNYZkVpYXJSTm42YkZhMEc4VU9MODQ?oc=5",
+      "data": "03/09 20:10"
     },
     {
-      "titulo": "Fluminense volta a vencer fora de casa e mantém vice-liderança do Brasileirão Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmozUVZMSXBEU3d2X3gwX1FSSV9WTGhDM2ZqTUZKcmtsS3R2NXN5V3ZoTlI1V1BJYjFyT18yZU1yWnpJRWVxZ2JWc2hOdmV4bWpRcXUxaTFrU0ZRX011RmVUOFlOT0FmaEI3QjdzUEc5NWdoZGpaTGZtaVU0YU5TaURGRjBnMmVGNEJKREVDSW1IU0dBMGY3M2NjUXpxLTMwaUtIam1nWnhUX3pzQlBvRnh1aFJhT1ZsaElCUnJzSQ?oc=5",
-      "data": "02/09 20:00"
+      "titulo": "Millán desabafa sobre frustração no Fluminense: “O mais importante é…” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVscUZKQjNZWm1DTHRCSDhZVzB0U2hyQmFqaDB0a2FBR3lrZVd4QmRuMFBTYzNnZExPRmVXd2psTjBTQmZqRl9yaGl2bUhJak5fNUFOUmlKYkoxbXB0ZU4wejRHaTFrOGJEdUtIUXBXWXpCWDRSSG96bjZoTWd0c2FKczZQSzV3ZGpPM0tZTkpDSWZfZEx0aw?oc=5",
+      "data": "03/09 14:00"
     }
   ],
   "avisos": [
