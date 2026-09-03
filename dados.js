@@ -1,6 +1,47 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/09/2026 20:47",
+  "atualizado_em": "02/09/2026 23:42",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "22:00",
+      "competition": "Leagues Cup",
+      "match": "Toluca x Leon",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "13:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Austria Vienna x Tirol",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "15:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Red Bull Salzburg x Rapid Vienna",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-02",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x Middlesbrough",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-09-02",
@@ -58,47 +99,6 @@ window.PAINEL_DATA = {
         "PREMIERE 2",
         "GE TV",
         "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-02",
-      "time": "22:00",
-      "competition": "Leagues Cup",
-      "match": "Toluca x Leon",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-02",
-      "time": "13:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Austria Vienna x Tirol",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-02",
-      "time": "15:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Red Bull Salzburg x Rapid Vienna",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-02",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Burnley x Middlesbrough",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
       ]
     },
     {
@@ -198,14 +198,14 @@ window.PAINEL_DATA = {
     {
       "cidade": "Araruama",
       "temp_max": 23.7,
-      "temp_min": 18.1,
+      "temp_min": 18.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.6,
-      "temp_min": 14.3,
+      "temp_min": 14.5,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
@@ -218,11 +218,6 @@ window.PAINEL_DATA = {
     }
   ],
   "noticias": [
-    {
-      "titulo": "Léo Jance retorna ao Fluminense após empréstimo; clube quer dar rodagem ao jovem - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkk4N3FnaGdnTjllbGZMd2RtR1c0ajA2Vm1POFBDLXFLQS00OFE0S3JJM3NJZWdJdEtwcUR3UkhHNUg0RkhSbjg5Umk1UHVuazF1UEMxN2l6eG4tN29QTVMza2VoYXE1dXlJdHhjZko0cWRLUERPLWRMMy1IVklPRmF3ckExamIyamVCcGRNUFlnNzZNRWFnX19JZkRYb2xyQWNILUpqZFhqRFN2d2ZLcnNjV296UzJkSXhBZw?oc=5",
-      "data": "02/09 20:18"
-    },
     {
       "titulo": "Ganso, do Fluminense, revela jogadores que o inspiraram - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1JIZndoc2RMM0RIZGVuSlhVSG9XN2poR2Nvek5uSFJ3cFZYSUp4dDR5UlNhbnZVanh6Und1U2tqLWVGek1rbVNRNUZOZWtZSklfRE9vdzQzNnduWTJkZ29DN1R3NEIwWl9UMGxKZTRiWXhQLXlLOG5rZlU4MUw2elJzeFVBeW8?oc=5",
@@ -239,9 +234,14 @@ window.PAINEL_DATA = {
       "data": "02/09 17:59"
     },
     {
-      "titulo": "Saiba quanto o Fluminense pode lucrar com transferência de André na Europa - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTM4X2pZR1dVVWRqODlrNTBDOUVmeUx1bEVaa0hDNENIclBqN1dHLUJqZTNlWWV1U3l0X0pmeFR2WTU5TDNCNUxHb1BHZ2h4TEMxV0toOWVWSHlCZXM0VE50c1V1eENidGJHbVVkQWFYSGNzb1VHVUdZbktGM3Exanp4bUsxWXR2WUlWT2QxQXlWVncwV1JsRlgxaUlCQWxaV2RB?oc=5",
-      "data": "01/09 14:13"
+      "titulo": "Léo Jance retorna ao Fluminense após empréstimo; clube quer dar rodagem ao jovem - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkk4N3FnaGdnTjllbGZMd2RtR1c0ajA2Vm1POFBDLXFLQS00OFE0S3JJM3NJZWdJdEtwcUR3UkhHNUg0RkhSbjg5Umk1UHVuazF1UEMxN2l6eG4tN29QTVMza2VoYXE1dXlJdHhjZko0cWRLUERPLWRMMy1IVklPRmF3ckExamIyamVCcGRNUFlnNzZNRWFnX19JZkRYb2xyQWNILUpqZFhqRFN2d2ZLcnNjV296UzJkSXhBZw?oc=5",
+      "data": "02/09 20:18"
+    },
+    {
+      "titulo": "Fluminense observa de perto possível venda de André no futebol europeu - iG Esportes",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzFhZHl5LTZMeTZsbEZGVXlBaE56OVJRNlk5RUVoOTU2b0EtR0lEa1p0MFZuSm1ma0kySVJqR0lMQzdMMWNtY3FoNHNWU2pEOGFfcDhSc3BHQzFnR29kdzFwTW1IcGxidUdTbUc0T2pDR3pRNVlDcVJzTUpuWWJleTQtSGVSQ1loWmFXTTNxTmNaQ0JJTEtPeHpqU3dUQWs3NW5NMHA0Vm5hSVBhYnE1NzA1NUVHc0JpNFhzZW45eW5nWGU5c0RqN2hHMNIB0AFBVV95cUxNRlBIeDdDbnNjOVg4cHdrMjBQQXM4RnFqUFhCaFNrNGpKcFAxMFItZmpwVWdhVDMyVE9KQnhLdzZJdXZEbWpEWVV6RHhrSnBfQ3RYUHpCVi1rc1RIc2p3VGtNZlJSZHcwOVJPbG5FclNHb3cxdjZYeG1ITnZBdUdoX3c0cHZ6LWJLb3ZDZUxHUWFGUldMUk53MmFXaC0tOG5ObVFIUnU0ZkMybkc0VmNLYWJrSlBfN3FMR2Vza0RPcV9hcWpVa1N4X21fZjlvUzdT?oc=5",
+      "data": "01/09 18:36"
     }
   ],
   "avisos": [
