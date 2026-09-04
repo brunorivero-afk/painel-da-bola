@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/09/2026 02:24",
+  "atualizado_em": "04/09/2026 07:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -89,7 +89,8 @@
       "competition": "Campeonato Saudita",
       "match": "Al-Ahli Jeddah x Al Riyadh",
       "channels": [
-        "ONEFOOTBALL"
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -99,7 +100,9 @@
       "competition": "Campeonato Saudita",
       "match": "Al Shabab x Al-Hilal",
       "channels": [
-        "ONEFOOTBALL"
+        "BANDSPORTS",
+        "ONEFOOTBALL",
+        "YOUTUBE"
       ]
     },
     {
@@ -717,6 +720,7 @@
       "competition": "Brasileirão Série A",
       "match": "RB Bragantino x Bahia",
       "channels": [
+        "SPORTV",
         "PREMIERE 4"
       ]
     },
@@ -1077,48 +1081,48 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.5,
-      "temp_min": 19.2,
+      "temp_max": 28.9,
+      "temp_min": 19.3,
       "chance_chuva": 8,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.1,
-      "temp_min": 17.2,
+      "temp_max": 26.7,
+      "temp_min": 17.0,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.4,
-      "temp_min": 13.5,
+      "temp_max": 26.5,
+      "temp_min": 13.9,
       "chance_chuva": 27,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.1,
-      "temp_min": 13.8,
+      "temp_min": 14.1,
       "chance_chuva": 24,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Campeão da Libertadores pelo Fluminense faz gol em final europeia e dá primeiro título ao clube - ge.globo.com",
+      "titulo": "Campeão da Libertadores pelo Fluminense faz gol em final europeia e dá primeiro título ao clube - ge",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR1E1UE5SNm5yZDNPM21nR1VLcW9JVlZzTHhPV3N0bUNJQzhYb3pOR2M0c005Sk90MnJLeGtiLVE0WHlTanFHQjdsWHdmWW1XNGo2UW9Rb19zdjJPUFhLRE5jVEIwSWh2dGNnNkhyWC1vOENIb0U5UFpJYkZhYll6RWFyM0hTN294RFVmX3dWdkg0c2Qtckw5RU9KTnJsZWVXdGdVZnN1QUF0dDNtTHl0eVVyRnNwR1hkY1g3NGVmX0NfbUpmcjR2ZXgzWXF5ZjBaMC1Ld1VvcndXcHlHWllYS0xxek1rYUY2LUplUVl6TjhldXBRRjVjU0RR0gGIAkFVX3lxTFAySHJPdFF0Mmd3YmpHZVhpTVpJMnVMaDA4bmlkaEdseGVHUU00cmFLT3VtMW1Ma0pDVEp1RmJreDYzdlliemxGVjRBXzFOXzBfQ1JPMnFtbFBJNmhPTG9ITm04dmJnZEUxdVBPWVVsYUFNRjFEMWFpODlWd0luV2F5d1luZnBLS2JuWDdHMm40WFd4SktqWFlSMXJaQ1VTdEtrVDlxd2hqUktRcDQ0SVV4X3JmblJxRGlvVzVjUXRVYUJNRmk4a2ctV3dHejdBYnVyTFdvLWduNXh0X1Z1VzQtR3Z1eFhsckZoTHRLSk4yVE5ZTFZLX2dmUUNqREZGbTA2MzZUbUZrSw?oc=5",
       "data": "03/09 20:20"
     },
     {
-      "titulo": "Millán desabafa sobre frustração no Fluminense: “O mais importante é…” - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVscUZKQjNZWm1DTHRCSDhZVzB0U2hyQmFqaDB0a2FBR3lrZVd4QmRuMFBTYzNnZExPRmVXd2psTjBTQmZqRl9yaGl2bUhJak5fNUFOUmlKYkoxbXB0ZU4wejRHaTFrOGJEdUtIUXBXWXpCWDRSSG96bjZoTWd0c2FKczZQSzV3ZGpPM0tZTkpDSWZfZEx0aw?oc=5",
-      "data": "03/09 14:00"
+      "titulo": "Às vésperas da Libertadores, veja como o Fluminense encara o clássico contra o Vasco - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQXR2WG9Vbi1mQTR4RnZGczlpVGdUNjA1ZTZ3X0Z1NHplb21vSUtGVXVQZVdXYVBjT05tWHZvLW8ySVo0cEsyUG9XVC1uZ2NCam1mWTRVNVpCWlM5N2JpQm1wUURTSGNMZkJRekVmNnpPa184YmNTUi14YXRUMHlZRV9VQUhiWEtQRWw2VTlESEh5aXpjc1ZfbDZrQkhCR091WkhXdmUxd1ZkSDVQV2dUN01tbHQ5SG9YSkVOWHJHNXY0WnVkMG93cmQ0TW9rYkhwQ05uSXRPaEhZVmpJdGFwdFJmTTBqcnlZRGfSAfgBQVVfeXFMUHVEUGI0dFFlLS1GdlltUTRBa201NDZrN205T01LX2dqSXllT3pnWDNUV3c1VjlGOWNaZDN6VTY3S3ladzMzUXBTLS10UDhHOS14SkJyaWVsNUNCSUVkNXZkMlZPSnd2MnZFWTQ4anlmcDk3Yncza21EeTlpTUdZeEI2TVNndHpSbDlkRDk5XzZFQTdmRkhHRVVScGlIVWJsUThHWnZ0UHZfLWhrZ0MzRG5tckYyMHZwOTZIM1M5Nzd5R01yX0RiX2FONTBra05HbjFLT0JiXzdMeTUtcUtOdEU5VTRPNWRMRTJhY2plQTNuVXNGdXptdG4?oc=5",
+      "data": "04/09 07:00"
     },
     {
-      "titulo": "Santos chega a acordo com Fluminense por Lima e fica próximo de anunciar contratação do meia - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWVCVno2LVpHc21aLWFVZTA0LTJMcHFnQ3hLeEtGUGRkZUlmNURlRVJhMEJaVE03RWZVM2dFdzM5TEhDNEtGcl9tV0JGbTZ2dHZneHpxcFFmamZGS01fcV9jZVd1SEF6b3pRaUlVNENlTVdjMUZoVjFGcEtWN2hEWGNpeXVVQjVUNjc2cFZPRktFUFlRSnNfeFRxY2MyX3VjZ2ZzeGg1dmpYZEp5ZFB2RUxTdkl3NVZxSEttV2hwdDluX2hucFphbW9KOEtXaEhCTmhXODdXNWlUcVdyN2dESVA3cXl4clk3bFhjVThR?oc=5",
-      "data": "03/09 22:14"
+      "titulo": "Santos avança pela contratação do meia Lima, do Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXVmLUJlMmV0WUg1RGN3amVvUnlvZjRBR3pYU3RkMjEtYTd1eTVGbmQ4R2tXWUhNeHRhSnhpTkEwcVFVT2U4TUJaUmFnYnRuYkJPN0pjdU9XWUx4elNmS0dITGNsaXRZSEFpZk0zUks5REhUV0wzSVhXV0ZMcUtQTHlpMFBOMy1LOVF6eHZMNVZwcUYwMDlNZVNXeFNCejYxZlJRMHZXOFpBc1hlaEJ6dzBORXRLTEJOSkJaX9IBwgFBVV95cUxOdmxuMU1iX3otV0h3OVpzeGlfRGdsb1J2OW1CUXdSWkpIcGcwSVpCaWxDSFAyTWE4ajBrTEdTdUJqVTk0S0RNTmpoQXd0WHExZWUxQ05UbVJXSDI3NzBHUmFFdm9TUkJpeW9OWXllNWU0b0JEMHJUMnpYc0RGY0JCa2htNXBrWUFkUnZUdzJJSGpQVjhZR2lwcXVJTV8zZXE5cXM0dUlYSW1Ebnd6eFJGNWVrX0hnSm1DYXRvLV9lZTFnZw?oc=5",
+      "data": "03/09 17:45"
     },
     {
       "titulo": "Platense contrata atacante para enfrentar o Fluminense na Liberta - LANCE!",
