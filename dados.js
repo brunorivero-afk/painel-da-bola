@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/09/2026 07:27",
+  "atualizado_em": "04/09/2026 11:43",
   "jogos": [
     {
       "sport": "futebol",
@@ -1083,29 +1083,29 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 28.9,
       "temp_min": 19.3,
-      "chance_chuva": 8,
-      "condicao": "Céu limpo"
+      "chance_chuva": 6,
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.7,
-      "temp_min": 17.0,
+      "temp_max": 27.2,
+      "temp_min": 17.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.5,
-      "temp_min": 13.9,
-      "chance_chuva": 27,
+      "temp_max": 26.4,
+      "temp_min": 14.3,
+      "chance_chuva": 16,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.1,
+      "temp_max": 27.0,
       "temp_min": 14.1,
-      "chance_chuva": 24,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 15,
+      "condicao": "Parcialmente nublado"
     }
   ],
   "noticias": [
@@ -1115,24 +1115,24 @@ window.PAINEL_DATA = {
       "data": "03/09 20:20"
     },
     {
-      "titulo": "Às vésperas da Libertadores, veja como o Fluminense encara o clássico contra o Vasco - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQXR2WG9Vbi1mQTR4RnZGczlpVGdUNjA1ZTZ3X0Z1NHplb21vSUtGVXVQZVdXYVBjT05tWHZvLW8ySVo0cEsyUG9XVC1uZ2NCam1mWTRVNVpCWlM5N2JpQm1wUURTSGNMZkJRekVmNnpPa184YmNTUi14YXRUMHlZRV9VQUhiWEtQRWw2VTlESEh5aXpjc1ZfbDZrQkhCR091WkhXdmUxd1ZkSDVQV2dUN01tbHQ5SG9YSkVOWHJHNXY0WnVkMG93cmQ0TW9rYkhwQ05uSXRPaEhZVmpJdGFwdFJmTTBqcnlZRGfSAfgBQVVfeXFMUHVEUGI0dFFlLS1GdlltUTRBa201NDZrN205T01LX2dqSXllT3pnWDNUV3c1VjlGOWNaZDN6VTY3S3ladzMzUXBTLS10UDhHOS14SkJyaWVsNUNCSUVkNXZkMlZPSnd2MnZFWTQ4anlmcDk3Yncza21EeTlpTUdZeEI2TVNndHpSbDlkRDk5XzZFQTdmRkhHRVVScGlIVWJsUThHWnZ0UHZfLWhrZ0MzRG5tckYyMHZwOTZIM1M5Nzd5R01yX0RiX2FONTBra05HbjFLT0JiXzdMeTUtcUtOdEU5VTRPNWRMRTJhY2plQTNuVXNGdXptdG4?oc=5",
-      "data": "04/09 07:00"
+      "titulo": "Ex-Fluminense e Grêmio, Lima acerta com novo clube da Série A após deixar o América do México - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSEVZRktHQWhzUm1oQWlZWEdGcUdMRk93UUVrM1FLZ0MtSEUwazNlNGxyeUxLeUo1MEl5clBvcGtrM01INW5fTnlIdnFmS1FqYUZZSko1Rk9TU3lXSG9TMWJVeTUydGd6ZFNUYnNWTnFRRTBabVZQVjJhNjY5WWF3NFZuSWh4SWZpc1dZNFgzMFNLdGxmZ3lDNnp2NzJDVjRFQUhBVGwzdlVneXdCaFY1ZVlxYlpyOG5HVjBHb0pRaG1JbXBYTWQxTQ?oc=5",
+      "data": "04/09 11:37"
     },
     {
-      "titulo": "Santos avança pela contratação do meia Lima, do Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXVmLUJlMmV0WUg1RGN3amVvUnlvZjRBR3pYU3RkMjEtYTd1eTVGbmQ4R2tXWUhNeHRhSnhpTkEwcVFVT2U4TUJaUmFnYnRuYkJPN0pjdU9XWUx4elNmS0dITGNsaXRZSEFpZk0zUks5REhUV0wzSVhXV0ZMcUtQTHlpMFBOMy1LOVF6eHZMNVZwcUYwMDlNZVNXeFNCejYxZlJRMHZXOFpBc1hlaEJ6dzBORXRLTEJOSkJaX9IBwgFBVV95cUxOdmxuMU1iX3otV0h3OVpzeGlfRGdsb1J2OW1CUXdSWkpIcGcwSVpCaWxDSFAyTWE4ajBrTEdTdUJqVTk0S0RNTmpoQXd0WHExZWUxQ05UbVJXSDI3NzBHUmFFdm9TUkJpeW9OWXllNWU0b0JEMHJUMnpYc0RGY0JCa2htNXBrWUFkUnZUdzJJSGpQVjhZR2lwcXVJTV8zZXE5cXM0dUlYSW1Ebnd6eFJGNWVrX0hnSm1DYXRvLV9lZTFnZw?oc=5",
-      "data": "03/09 17:45"
+      "titulo": "Santos avança na contratação do meio-campista Lima, do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xJNkZBdVU2OHg3YW0yWkh5ZWRoYlA3clNIbXJSZ1ZlUE45ZFlzX2hZeDJmaXk5el9IWnYwWEZXbEhjb0NYNXEyYnh4Q09DZ3NHOTl1cHhtT0FFSHI5dEVrQndybThZUV9qendhR1lBRW9GYUZ0RmNFNWJJWDgwdFY4SDRXVFI5UjhVcXZKRTliOGhPMlFLVWdPbUl1WlhKd3dPNXpuRVZ5UFdGQWIzMHU4M295akE5UXlaSGtvekptR1QtaGwwdkZiN1RHeG1FVTdvOWRjdnBTMkoyYWVnYV9RSTHSAfMBQVVfeXFMUGo0cmxtQkQ0VS1pNERIaWFjdVBReDY1UXdXcjgyN0RDYXNDRS1CVTJMTER0am9vcWRBbENCbWhiZkVTQzl1WlhkazN2RWcyUDRScHRYTjVDcVI0dV9kbjdWMDUwNy1UM1Vkd1NKNzZuMXJ0aFUtUXh0RlF4clk3MmFWTnB5MnQ5R0FaWkNieGg3dTdrQlNQMDJCZmlVZWZ4NmJtUWVrNHczNmR2QUJKeGRvWmlFZkVVVkRNVkJNRTFnWTd2TjMzdGRNLWVYMEUtb3hhQ3B5dS1sYm4zVUVnNEpiaXhHdXZMNEp4c2VJdVgzMUpz?oc=5",
+      "data": "03/09 17:00"
     },
     {
-      "titulo": "Platense contrata atacante para enfrentar o Fluminense na Liberta - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDFJaVVSSG1scm1mVEtJbmE5aGY4WFNxWVBkTTJobnpoaF9HSzNDcEQyaGxQU215VlJDSjk5dmZQRDBPMUtmRnRGeEs4MnN1T09GejFqTlRia3RqcGI0dEhnYk10QmtoYUFDWlRsalBMWmVfcGlZekdoMlViS2w4TDRjX3ZiNlMxZ0cwRXE5MkdLeS1Yc2RGRnZhay1UUGVqRkpvQVlNZFVRb3lKV2dyZnctVEdBZElXRUZHODln?oc=5",
-      "data": "03/09 20:39"
+      "titulo": "Santos chega a acordo com Fluminense por Lima e fica próximo de anunciar contratação do meia - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWVCVno2LVpHc21aLWFVZTA0LTJMcHFnQ3hLeEtGUGRkZUlmNURlRVJhMEJaVE03RWZVM2dFdzM5TEhDNEtGcl9tV0JGbTZ2dHZneHpxcFFmamZGS01fcV9jZVd1SEF6b3pRaUlVNENlTVdjMUZoVjFGcEtWN2hEWGNpeXVVQjVUNjc2cFZPRktFUFlRSnNfeFRxY2MyX3VjZ2ZzeGg1dmpYZEp5ZFB2RUxTdkl3NVZxSEttV2hwdDluX2hucFphbW9KOEtXaEhCTmhXODdXNWlUcVdyN2dESVA3cXl4clk3bFhjVThR?oc=5",
+      "data": "03/09 22:14"
     },
     {
-      "titulo": "Fluminense acerta pendência com elenco antes de clássico no Brasileiro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQk0wbmVNczI2SW13c2x3VnVvZHFLWmF3Y2QzVDdMMmlEbnhhcXMyQk00NFhsdUd6R0hyMzVHS0k2dVN1SWxmRmo2QjdudGhoX2pUU0ZlcDYxRnFteENjUFViNDNyQmFoMVcxX3lSSFNpWWVsZTF6NW9IZ01TU292UnB3MU1OMW1KZHZjRU1iZFpJaGFOS0NTeVE1NWllakkyUnp2QXQyN0RRUWg5RHA3NzMweWlwa2hkLU9VbkNHTjY4NTFsRzF1YWZWUi1HcTlsQ1JfbWxTbzRVOV9SblNYZkVpYXJSTm42YkZhMEc4VU9MODQ?oc=5",
-      "data": "03/09 20:10"
+      "titulo": "O Herói que o Fluminense precisava - Terra",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTM5dFZXZ2pJSU5JbXhjamwwdXJSY1ZvbDk1V3M5Y1h0cmpUVXJMeGVra0s1bHVrY1B0Y2ZBdnAyb1BCUzNMaUdXdlkzeGp0Zi1lQk9XQzZFVlNqRlR0NUNSNUtiMFZDS2oxelROOU9GVTNncW0xeDJsdXYzSE9ac0d5d2hsX3RTQ3o1aXpoLVQzSk5fbzVNdEthTzkwcjZBdFMzeVVEenA2SS0wTGUxS3liUlgxcTZCUGVVNXE1SQ?oc=5",
+      "data": "04/09 11:04"
     }
   ],
   "avisos": [
