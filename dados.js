@@ -1,36 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/09/2026 18:11",
+  "atualizado_em": "04/09/2026 20:39",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "FC Porto x Moreirense",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "17:15",
-      "competition": "Campeonato Peruano",
-      "match": "Alianza Atletico x UTC",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "18:30",
-      "competition": "MLS Next Pro",
-      "match": "Crown Legacy x Chicago FC United",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-04",
@@ -312,6 +282,36 @@ window.PAINEL_DATA = {
       "channels": [
         "CAZÉTV",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "FC Porto x Moreirense",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "17:15",
+      "competition": "Campeonato Peruano",
+      "match": "Alianza Atletico x UTC",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "18:30",
+      "competition": "MLS Next Pro",
+      "match": "Crown Legacy x Chicago FC United",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -1083,28 +1083,28 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 30.1,
       "temp_min": 19.3,
-      "chance_chuva": 2,
+      "chance_chuva": 14,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
       "temp_max": 29.4,
       "temp_min": 17.2,
-      "chance_chuva": 0,
+      "chance_chuva": 2,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 25.9,
       "temp_min": 14.3,
-      "chance_chuva": 18,
+      "chance_chuva": 39,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.8,
       "temp_min": 14.1,
-      "chance_chuva": 19,
+      "chance_chuva": 31,
       "condicao": "Parcialmente nublado"
     }
   ],
@@ -1115,28 +1115,27 @@ window.PAINEL_DATA = {
       "data": "03/09 20:20"
     },
     {
-      "titulo": "Santos chega a acordo com Fluminense por Lima e fica próximo de anunciar contratação do meia - espn.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUWVCVno2LVpHc21aLWFVZTA0LTJMcHFnQ3hLeEtGUGRkZUlmNURlRVJhMEJaVE03RWZVM2dFdzM5TEhDNEtGcl9tV0JGbTZ2dHZneHpxcFFmamZGS01fcV9jZVd1SEF6b3pRaUlVNENlTVdjMUZoVjFGcEtWN2hEWGNpeXVVQjVUNjc2cFZPRktFUFlRSnNfeFRxY2MyX3VjZ2ZzeGg1dmpYZEp5ZFB2RUxTdkl3NVZxSEttV2hwdDluX2hucFphbW9KOEtXaEhCTmhXODdXNWlUcVdyN2dESVA3cXl4clk3bFhjVThR?oc=5",
-      "data": "03/09 22:14"
+      "titulo": "Fluminense mira recorde de público diante do Platense: veja quanto já foi vendido - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcWZEZTNCNGdqNHB3eVpNbnpRZ1l4NHB4V0RDRVhYQXoxLUlUaFJKa1JUcS1oNjhKWGhGQ0k0N3BJQ3lSR2RaOFU2bGl3eG51Q2ZTT09Pcl9zNjJfSDZZQUlMQTBmeF9NVnFwQnY0NmtYOXljV2x3R1BTdWQ5UndMUmtCenRLSGpfTTlqNWVyaC05cEFWNmZGRWZNaHR3QUlyOGhhUnFlLWoyTmpFRUlYLTlkclNfbmdDYUdVZENNNUszNUJ2cnlfM1RzWklDVHd1blBDbzJseFcxcHEwVjJUR0tnOG9SRl81NWVmNFNVX2k1TURHd3BpR3dfMWw?oc=5",
+      "data": "04/09 18:55"
     },
     {
-      "titulo": "Que situação! Fluminense enfrenta aperto financeiro após investir R$ 151 milhões no futebol - Terra",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMXp1UzlDRnJMNXVZNDhqT2gwbjQzQnAtc0pNY0tlNmhubXk5U3VacHdPVEQzVDFDWl9uYmJUVGozSW5MSk9lWDNVQkRGVVJIX1N4U2hBOWkybVpXbEkzdEo2YXVZekc0YlNkaWQzb1k2RDYyTGpJTk9TZkZKdUt1c3BuTFQySVpvM2thV09TZ29mZk0taVJEVWcyNlBCM2lvSHlNd0xtUjRxUmsxYm15Ui1VeWpzUWRlZldwWkxJLVdQdEJVRFdiUERxVllpREFjNldYT1dFd3ZfcEVlXzAzY1k0eU1GQWpaRUxlRUxqRVltOFlOTGFkbzRHdWRCalhJWkFVbnkta1B2ZzhC?oc=5",
-      "data": "04/09 17:22"
+      "titulo": "Bastidores: como o Fluminense encontra jovens no mercado sul-americano? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWhwVkxaZ2FzSnpOMkpvU1FHUW83eUlIWkw3aENCVXpvWTZkTkc2RWtLeDM1NGRzZDFjX0Nyb0plUFQtbkl3VVFjUVNFeUJqTnIxVVF5SEl3cU1tRmZqdkNhV09ESlctb0tRcVZ6STB4TEE4NGp4VDZndWhwTUdqLXR5WEYtYnoxMTZiRm10bWNBdll3VzBkb1hLblMyYzlCek55c0NuOWlPaUdDV1dR?oc=5",
+      "data": "04/09 20:16"
     },
     {
-      "titulo": "Hulk revela 'obsessão' no Fluminense e manda recado à torcida - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzJMNWZDSExIaHl6ZGJKTmRMZnM1MlhFU2xhYjZxcm9iX0EyLU1nWExkNk43SExkZFd3SGQ5M0IxdEdmSElWNXRpRGdsUF9fYTQta3VsdVZsWkU3YmNjVXpGNW9WRkhKY1ctcDhuejR2OU8xeXVLVHRDaTFud0tQR1U4V19lQm1ncGdjdTkxWVkwdDhXM3BpbGxMb3c5QUQxQlE?oc=5",
-      "data": "04/09 16:17"
+      "titulo": "Acordo com Marcão, busca por reforço e jogadores com mais desarmes: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPYTJvbXhGeEkwWDVEeXhUaHV4R1VxNWROWmJhUm4teDB2R0M0Mk1fVWhhSEZrbXd6VVR2bFByU0t4eTlmNEcycFRueHlpRmpwcFpmaVBUTzk5emdYZEIwRkdnY1BTYTBhMkV0ZkVyenNDTGdKZENvT1ZwMHlwb0VtcHJKR1VmLS1LVEVXaFhyaTRXN29YUVVXQzB0U3FKaHhPNkwxLTBieFVNQ1F1ZC1sT3lBZ0VPUGV5RDBhSnNoLXJKZmk2Y3hhbENHcVE4RFVabFk0aV9iLXdPNk1sTU1VRHQwaWx3RVFBSkVYREZsbVlzN3V4VkItX0tXT19JWktKU185ZE5zUVlxRV9xMUhmOHU0bmNHTHNvYnc?oc=5",
+      "data": "04/09 21:50"
     },
     {
-      "titulo": "Às vésperas da Libertadores, veja como o Fluminense encara o clássico contra o Vasco - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQXR2WG9Vbi1mQTR4RnZGczlpVGdUNjA1ZTZ3X0Z1NHplb21vSUtGVXVQZVdXYVBjT05tWHZvLW8ySVo0cEsyUG9XVC1uZ2NCam1mWTRVNVpCWlM5N2JpQm1wUURTSGNMZkJRekVmNnpPa184YmNTUi14YXRUMHlZRV9VQUhiWEtQRWw2VTlESEh5aXpjc1ZfbDZrQkhCR091WkhXdmUxd1ZkSDVQV2dUN01tbHQ5SG9YSkVOWHJHNXY0WnVkMG93cmQ0TW9rYkhwQ05uSXRPaEhZVmpJdGFwdFJmTTBqcnlZRGfSAfgBQVVfeXFMUHVEUGI0dFFlLS1GdlltUTRBa201NDZrN205T01LX2dqSXllT3pnWDNUV3c1VjlGOWNaZDN6VTY3S3ladzMzUXBTLS10UDhHOS14SkJyaWVsNUNCSUVkNXZkMlZPSnd2MnZFWTQ4anlmcDk3Yncza21EeTlpTUdZeEI2TVNndHpSbDlkRDk5XzZFQTdmRkhHRVVScGlIVWJsUThHWnZ0UHZfLWhrZ0MzRG5tckYyMHZwOTZIM1M5Nzd5R01yX0RiX2FONTBra05HbjFLT0JiXzdMeTUtcUtOdEU5VTRPNWRMRTJhY2plQTNuVXNGdXptdG4?oc=5",
-      "data": "04/09 07:00"
+      "titulo": "Santos avança na contratação do meio-campista Lima, do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xJNkZBdVU2OHg3YW0yWkh5ZWRoYlA3clNIbXJSZ1ZlUE45ZFlzX2hZeDJmaXk5el9IWnYwWEZXbEhjb0NYNXEyYnh4Q09DZ3NHOTl1cHhtT0FFSHI5dEVrQndybThZUV9qendhR1lBRW9GYUZ0RmNFNWJJWDgwdFY4SDRXVFI5UjhVcXZKRTliOGhPMlFLVWdPbUl1WlhKd3dPNXpuRVZ5UFdGQWIzMHU4M295akE5UXlaSGtvekptR1QtaGwwdkZiN1RHeG1FVTdvOWRjdnBTMkoyYWVnYV9RSTHSAfMBQVVfeXFMUGo0cmxtQkQ0VS1pNERIaWFjdVBReDY1UXdXcjgyN0RDYXNDRS1CVTJMTER0am9vcWRBbENCbWhiZkVTQzl1WlhkazN2RWcyUDRScHRYTjVDcVI0dV9kbjdWMDUwNy1UM1Vkd1NKNzZuMXJ0aFUtUXh0RlF4clk3MmFWTnB5MnQ5R0FaWkNieGg3dTdrQlNQMDJCZmlVZWZ4NmJtUWVrNHczNmR2QUJKeGRvWmlFZkVVVkRNVkJNRTFnWTd2TjMzdGRNLWVYMEUtb3hhQ3B5dS1sYm4zVUVnNEpiaXhHdXZMNEp4c2VJdVgzMUpz?oc=5",
+      "data": "03/09 17:00"
     }
   ],
   "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
-    "Falha ao buscar notícias do Fluminense: RSS não retornou itens."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
   ]
 };
