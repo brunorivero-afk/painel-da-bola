@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/09/2026 19:11",
+  "atualizado_em": "03/09/2026 21:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -414,7 +414,7 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.9,
+      "temp_max": 20.2,
       "temp_min": 12.1,
       "chance_chuva": 2,
       "condicao": "Garoa fraca"
@@ -429,19 +429,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Recuperado de lesão, Freytes deve voltar ao Fluminense contra o Vasco - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORzZpdmQtNkRVMDNKd0ZlUWU0NWZtZmdsUEFlQzI1LW14bWtnNFRlMkVnZE5TNG9xMWlhQTZCS1JqZTZmeC1BYlBHR0dPNVhNTmtCQ0VodENTV1lTY3F5eVk5VUpZVENZWXRXWlB6aXJxZ3Z0ZDhfSzIwSF9JWE1zX0xYdUduVHJOdThWQ3J1MEx4OU90ZndOYko2WEtBX3UxREQzUERmUEppMFdCRVhueVNTRjFRU2tWeVdzQzdaSmNIdDkzMGhRbktDdWtRZVN3bmNmMtIB4wFBVV95cUxQbEZJZTIxYU1oVjB3Q1FWSjNKTGdONnJJMWhXSXhVRndNR1NFRE04Yi1LcHotYXpzOVNXdjF6QzNVTWpXb3BzUUlDM1VFSzlOLV8tcmtwcXpIZVJjdjRSVnJGcllNSnB6UUhDR29YV25IX3I0M1VBREhkLWQ4akZxUWhCQXB5NEIySkdnTjBOU2c5Ni1oTkwwVEZuZm1BVjMwVWZtUDUzQ08tUnFycHJ2Sy02NFF3bGVPbnVJNGRQNzhjdEhsX1ItUldRT3hOajhLRUlncHpqVEw2YjRiZXBNc3psUQ?oc=5",
-      "data": "03/09 18:35"
-    },
-    {
-      "titulo": "Platense contrata atacante para enfrentar o Fluminense na Liberta - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDFJaVVSSG1scm1mVEtJbmE5aGY4WFNxWVBkTTJobnpoaF9HSzNDcEQyaGxQU215VlJDSjk5dmZQRDBPMUtmRnRGeEs4MnN1T09GejFqTlRia3RqcGI0dEhnYk10QmtoYUFDWlRsalBMWmVfcGlZekdoMlViS2w4TDRjX3ZiNlMxZ0cwRXE5MkdLeS1Yc2RGRnZhay1UUGVqRkpvQVlNZFVRb3lKV2dyZnctVEdBZElXRUZHODln?oc=5",
-      "data": "03/09 20:39"
-    },
-    {
-      "titulo": "Santos avança pela contratação do meia Lima, do Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXVmLUJlMmV0WUg1RGN3amVvUnlvZjRBR3pYU3RkMjEtYTd1eTVGbmQ4R2tXWUhNeHRhSnhpTkEwcVFVT2U4TUJaUmFnYnRuYkJPN0pjdU9XWUx4elNmS0dITGNsaXRZSEFpZk0zUks5REhUV0wzSVhXV0ZMcUtQTHlpMFBOMy1LOVF6eHZMNVZwcUYwMDlNZVNXeFNCejYxZlJRMHZXOFpBc1hlaEJ6dzBORXRLTEJOSkJaX9IBwgFBVV95cUxOdmxuMU1iX3otV0h3OVpzeGlfRGdsb1J2OW1CUXdSWkpIcGcwSVpCaWxDSFAyTWE4ajBrTEdTdUJqVTk0S0RNTmpoQXd0WHExZWUxQ05UbVJXSDI3NzBHUmFFdm9TUkJpeW9OWXllNWU0b0JEMHJUMnpYc0RGY0JCa2htNXBrWUFkUnZUdzJJSGpQVjhZR2lwcXVJTV8zZXE5cXM0dUlYSW1Ebnd6eFJGNWVrX0hnSm1DYXRvLV9lZTFnZw?oc=5",
-      "data": "03/09 17:45"
+      "titulo": "Millán desabafa sobre frustração no Fluminense: “O mais importante é…” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVscUZKQjNZWm1DTHRCSDhZVzB0U2hyQmFqaDB0a2FBR3lrZVd4QmRuMFBTYzNnZExPRmVXd2psTjBTQmZqRl9yaGl2bUhJak5fNUFOUmlKYkoxbXB0ZU4wejRHaTFrOGJEdUtIUXBXWXpCWDRSSG96bjZoTWd0c2FKczZQSzV3ZGpPM0tZTkpDSWZfZEx0aw?oc=5",
+      "data": "03/09 14:00"
     },
     {
       "titulo": "Fluminense acerta pendência com elenco antes de clássico no Brasileiro - Terra",
@@ -449,9 +439,19 @@
       "data": "03/09 20:10"
     },
     {
-      "titulo": "Millán desabafa sobre frustração no Fluminense: “O mais importante é…” - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjVscUZKQjNZWm1DTHRCSDhZVzB0U2hyQmFqaDB0a2FBR3lrZVd4QmRuMFBTYzNnZExPRmVXd2psTjBTQmZqRl9yaGl2bUhJak5fNUFOUmlKYkoxbXB0ZU4wejRHaTFrOGJEdUtIUXBXWXpCWDRSSG96bjZoTWd0c2FKczZQSzV3ZGpPM0tZTkpDSWZfZEx0aw?oc=5",
-      "data": "03/09 14:00"
+      "titulo": "Platense contrata atacante para enfrentar o Fluminense na Liberta - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDFJaVVSSG1scm1mVEtJbmE5aGY4WFNxWVBkTTJobnpoaF9HSzNDcEQyaGxQU215VlJDSjk5dmZQRDBPMUtmRnRGeEs4MnN1T09GejFqTlRia3RqcGI0dEhnYk10QmtoYUFDWlRsalBMWmVfcGlZekdoMlViS2w4TDRjX3ZiNlMxZ0cwRXE5MkdLeS1Yc2RGRnZhay1UUGVqRkpvQVlNZFVRb3lKV2dyZnctVEdBZElXRUZHODln?oc=5",
+      "data": "03/09 20:39"
+    },
+    {
+      "titulo": "Fluminense protesta e clubes fazem cobrança em reunião de arbitragem - iG Esportes",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkpFZjZIUFJOaDJid2czc0hNbUNVbGNqT1RESkdqY3VkUERYaXRMaGd3cHdyVGRVa3c0cUx2TEplaEFBLW8yN0FjWUFCVjR0VVdSa1RWUkp1ZmxOc3FOekVKRXNwTWtOMm5CZkF6S0xhX3ZuelJ1NnUtQWlfYjUwQXBRWGVLOGhLcTlCaTdYTkUtY21MSWdCbmV5Y3oxWll0UFBDd0lRejlZTzZIYS1QLUhpcnhoOC0tT3Badzd4T2xaVHhxMkxhNNIBzgFBVV95cUxOdDVCWWc1LXE1dUdvWXhGNGNDUHVSSFNKbW14TWdaS3diaERubk5GOGZZcnoxQnpBd0p6dEZZRHZadFJNblJmNHRSajYzU3lWeDNoa1RXQWJLWDZRNHJXR3dsWVkxTXFQVEYzbTg2RElTUHhLYXR0QUR5SEhPOFZEVmZ2WkIzVmUwc0MtNXo5Qjlhek1sTGNtazB0Ni10OE9WdHVDUE1pazRYZVpydV92TUVKb29OSi1LQk9PV0puVUtlQlBUaGlVSFFRSHR3Zw?oc=5",
+      "data": "03/09 22:44"
+    },
+    {
+      "titulo": "Santos avança na contratação do meio-campista Lima, do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xJNkZBdVU2OHg3YW0yWkh5ZWRoYlA3clNIbXJSZ1ZlUE45ZFlzX2hZeDJmaXk5el9IWnYwWEZXbEhjb0NYNXEyYnh4Q09DZ3NHOTl1cHhtT0FFSHI5dEVrQndybThZUV9qendhR1lBRW9GYUZ0RmNFNWJJWDgwdFY4SDRXVFI5UjhVcXZKRTliOGhPMlFLVWdPbUl1WlhKd3dPNXpuRVZ5UFdGQWIzMHU4M295akE5UXlaSGtvekptR1QtaGwwdkZiN1RHeG1FVTdvOWRjdnBTMkoyYWVnYV9RSTHSAfMBQVVfeXFMUGo0cmxtQkQ0VS1pNERIaWFjdVBReDY1UXdXcjgyN0RDYXNDRS1CVTJMTER0am9vcWRBbENCbWhiZkVTQzl1WlhkazN2RWcyUDRScHRYTjVDcVI0dV9kbjdWMDUwNy1UM1Vkd1NKNzZuMXJ0aFUtUXh0RlF4clk3MmFWTnB5MnQ5R0FaWkNieGg3dTdrQlNQMDJCZmlVZWZ4NmJtUWVrNHczNmR2QUJKeGRvWmlFZkVVVkRNVkJNRTFnWTd2TjMzdGRNLWVYMEUtb3hhQ3B5dS1sYm4zVUVnNEpiaXhHdXZMNEp4c2VJdVgzMUpz?oc=5",
+      "data": "03/09 17:00"
     }
   ],
   "avisos": [
