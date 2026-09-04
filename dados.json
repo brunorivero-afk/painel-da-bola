@@ -1,154 +1,6 @@
 {
-  "atualizado_em": "04/09/2026 15:01",
+  "atualizado_em": "04/09/2026 18:11",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Arminia Bielefeld x FC St. Pauli",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Hannover 96 x Karlsruher SC",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC Ingolstadt 04 x Alemannia Aachen",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Istanbul Basaksehir x Galatasaray",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x Cienciano",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Desportivo Brasil Sub-20 x São Paulo U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Portuguesa Santista Sub20 x Santos Sub-20",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Bento Sub-20 x Corinthians Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ahli Jeddah x Al Riyadh",
-      "channels": [
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al Shabab x Al-Hilal",
-      "channels": [
-        "BANDSPORTS",
-        "ONEFOOTBALL",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:30",
-      "competition": "Campeonato Alemão",
-      "match": "VfB Stuttgart x FC Koln",
-      "channels": [
-        "SPORTV",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Genoa x como",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Betis x Real Madrid",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Ipswich x Liverpool",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-04",
@@ -183,8 +35,8 @@
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Belgrano Cordoba x Huracan",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Cerro Largo",
       "channels": [
         "DISNEY+"
       ]
@@ -203,10 +55,20 @@
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Cerro Largo",
+      "competition": "Campeonato Argentino",
+      "match": "Belgrano Cordoba x Huracan",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "competition": "MLS Next Pro",
+      "match": "Carolina Core x New England II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -223,9 +85,19 @@
     {
       "sport": "futebol",
       "date": "2026-09-04",
-      "time": "19:30",
+      "time": "20:00",
+      "competition": "Copa Paulista",
+      "match": "Bandeirante SP x Uniao Sao Joao",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Carolina Core x New England II",
+      "match": "Toronto II x FC Cincinnati II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -243,36 +115,6 @@
     {
       "sport": "futebol",
       "date": "2026-09-04",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Toronto II x FC Cincinnati II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "20:00",
-      "competition": "Copa Paulista",
-      "match": "Bandeirante SP x Uniao Sao Joao",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Vila Nova",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
       "time": "20:30",
       "competition": "MLS",
       "match": "New York City FC x Nashville SC",
@@ -283,12 +125,10 @@
     {
       "sport": "futebol",
       "date": "2026-09-04",
-      "time": "21:30",
+      "time": "20:30",
       "competition": "Brasileirão Série B",
-      "match": "CRB x América-MG",
+      "match": "Athletic Club x Vila Nova",
       "channels": [
-        "XSPORTS",
-        "SPORTYNET",
         "DISNEY+"
       ]
     },
@@ -307,11 +147,171 @@
     {
       "sport": "futebol",
       "date": "2026-09-04",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x América-MG",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
       "time": "21:45",
       "competition": "MLS Next Pro",
       "match": "North Texas x Real Monarchs",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Arminia Bielefeld x FC St. Pauli",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Hannover 96 x Karlsruher SC",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Istanbul Basaksehir x Galatasaray",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC Ingolstadt 04 x Alemannia Aachen",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Shabab x Al-Hilal",
+      "channels": [
+        "BANDSPORTS",
+        "ONEFOOTBALL",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ahli Jeddah x Al Riyadh",
+      "channels": [
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Bento Sub-20 x Corinthians Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Portuguesa Santista Sub20 x Santos Sub-20",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Desportivo Brasil Sub-20 x São Paulo U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x Cienciano",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:30",
+      "competition": "Campeonato Alemão",
+      "match": "VfB Stuttgart x FC Koln",
+      "channels": [
+        "SPORTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Genoa x como",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "16:00",
+      "competition": "Campeonato Inglês",
+      "match": "Ipswich x Liverpool",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Betis x Real Madrid",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -1081,28 +1081,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.9,
+      "temp_max": 30.1,
       "temp_min": 19.3,
       "chance_chuva": 2,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.2,
+      "temp_max": 29.4,
       "temp_min": 17.2,
       "chance_chuva": 0,
       "condicao": "Céu limpo"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.4,
+      "temp_max": 25.9,
       "temp_min": 14.3,
       "chance_chuva": 18,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.0,
+      "temp_max": 26.8,
       "temp_min": 14.1,
       "chance_chuva": 19,
       "condicao": "Parcialmente nublado"
@@ -1136,6 +1136,7 @@
     }
   ],
   "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout).",
+    "Falha ao buscar notícias do Fluminense: RSS não retornou itens."
   ]
 }
