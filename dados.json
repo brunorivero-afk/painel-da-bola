@@ -1,68 +1,6 @@
 {
-  "atualizado_em": "05/09/2026 08:33",
+  "atualizado_em": "05/09/2026 11:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "Holstein Kiel x FC Nurnberg",
-      "channels": [
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL Wolfsburg x Energie Cottbus",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Kaiserslautern x SV Darmstadt 98",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "08:30",
-      "competition": "Campeonato Inglês",
-      "match": "Newcastle x Bournemouth",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "08:30",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Preston x Blackburn",
-      "channels": [
-        "ESPN 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "09:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Hansa Rostock x SV Wehen",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-05",
@@ -143,11 +81,10 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Fulham x Crystal Palace",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x Bristol City",
       "channels": [
-        "YOUTUBE",
-        "DISNEY+"
+        "NSPORTS"
       ]
     },
     {
@@ -155,18 +92,7 @@
       "date": "2026-09-05",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Manchester City x Coventry",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Brighton x Leeds",
+      "match": "Nottingham Forest x Tottenham",
       "channels": [
         "DISNEY+"
       ]
@@ -187,7 +113,7 @@
       "date": "2026-09-05",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Nottingham Forest x Tottenham",
+      "match": "Brighton x Leeds",
       "channels": [
         "DISNEY+"
       ]
@@ -196,10 +122,22 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "11:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Burnley x Bristol City",
+      "competition": "Campeonato Inglês",
+      "match": "Manchester City x Coventry",
       "channels": [
-        "NSPORTS"
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Fulham x Crystal Palace",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
       ]
     },
     {
@@ -381,21 +319,21 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Nice x Le Mans",
+      "competition": "Campeonato Italiano",
+      "match": "Roma x Atalanta",
       "channels": [
-        "CAZÉTV"
+        "CAZÉTV",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Roma x Atalanta",
+      "competition": "Campeonato Francês",
+      "match": "Nice x Le Mans",
       "channels": [
-        "CAZÉTV",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -413,10 +351,13 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Villarreal x Deportivo La Coruna",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Fortaleza",
       "channels": [
-        "CAZÉTV"
+        "REDETV!",
+        "SPORTYNET",
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -433,13 +374,10 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Fortaleza",
+      "competition": "Campeonato Espanhol",
+      "match": "Villarreal x Deportivo La Coruna",
       "channels": [
-        "REDETV!",
-        "SPORTYNET",
-        "ESPN",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -580,20 +518,20 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atletico San Luis x Guadalajara Chivas",
+      "competition": "Campeonato Peruano",
+      "match": "Cusco x UCV Moquegua",
       "channels": [
-        "DISNEY+"
+        "FANATIZ"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "20:00",
-      "competition": "Campeonato Peruano",
-      "match": "Cusco x UCV Moquegua",
+      "competition": "Campeonato Mexicano",
+      "match": "Atletico San Luis x Guadalajara Chivas",
       "channels": [
-        "FANATIZ"
+        "DISNEY+"
       ]
     },
     {
@@ -670,22 +608,22 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Minnesota United II x Colorado Rapids II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "21:00",
       "competition": "Brasileirão Série A",
       "match": "Fluminense x Vasco",
       "channels": [
         "SPORTV",
         "PREMIERE 2",
         "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "Minnesota United II x Colorado Rapids II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -777,6 +715,68 @@
       "match": "Portland Timbers x Minnesota United FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Kaiserslautern x SV Darmstadt 98",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "Holstein Kiel x FC Nurnberg",
+      "channels": [
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "VfL Wolfsburg x Energie Cottbus",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "08:30",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Preston x Blackburn",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "08:30",
+      "competition": "Campeonato Inglês",
+      "match": "Newcastle x Bournemouth",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "09:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Hansa Rostock x SV Wehen",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1431,58 +1431,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.2,
-      "temp_min": 20.8,
+      "temp_max": 25.5,
+      "temp_min": 20.9,
       "chance_chuva": 75,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.0,
-      "temp_min": 20.9,
+      "temp_max": 27.4,
+      "temp_min": 20.5,
       "chance_chuva": 59,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.8,
+      "temp_max": 26.4,
       "temp_min": 15.6,
       "chance_chuva": 98,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.4,
-      "temp_min": 15.4,
+      "temp_max": 27.0,
+      "temp_min": 15.0,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Chuva fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Hércules e Thiago Silva voltam, e Marcão vai com força máxima contra o Vasco - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOXVuVXk5aDZqX1g5UWItanV4MUo5NjkxdGJBYnctY1dJa2RTM2ZaZThtX01tc3JMMi1kWFNzU2dPWW9mYm5HLXRqV2xIeFo1TmdBZmVndE84YWtNX1lUMmdhWVJHcGdQc3E5NGUtaUZUQUN1bDBGNzdTWVMwcURwWjBBRG9yNjhra1FCYXFJOXhrc2Zia2FId09ZT1lzRW45ZnYtaTN2N2tES2Jxb0lPNUZfZTZNeUhFS2Z5VlBiVDRrVzhkbEZjZ1d1Z1pOakllZDczWmJtbTJIaHN3bFB4VktxSmE3TF9ZMU96bXlnTzFtYmJsZWxybzFzNVBlYnfSAY4CQVVfeXFMTXhqWVkxRlZBNkRpMW1mX19uTHk2czhZSGw0eXY4dXh0OVpESXhxSjZNZkQtVWdkN2pVdE9HMFJkSkFrOHBxSFAtbEZ1S3RpUVVYNnJfWUNoMU9GR09UeEpkQTA4OUhyQ0V4NGpYblhvXzluVVVxZm1VWXVIVkM4dEExVnhpNExkb19wN3FtaUhlc0FVSlJBSDR6S2RQMWMwZ0tsLU1FZ2hLejhvV0x3ZnVSazVHWEdZN0d0WkJBMldoTXVQMFZrQV9YV1J1dkNBbGkwanpId1BmMGE3MU5jSXpDOXRQeFY1OHZNSDBSUGxpaEhhaXVDZ2VPbzVZWUtFUGFCa1lxRld5V3VLQmxB?oc=5",
-      "data": "04/09 20:04"
+      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejZoOC1ZTUgxNlRjd3ZYbnJYbmdwNF9OTlA0VU9uaV8yRWY4UEpiR0huTGV5NUlqRkRlRmNqN2ZrRUJJdlNSMUtWMTNlRWhva2VVTkhiVWJkaUlNY1hCUTk0aWFBT3owby01MFFzNTV0WmhkZWVQR2lNRDJEcjAwdHF2LTJJNk5wNG92ZXFja0RCSmdUMm9TZWxQUGRkU3BCOU9OYTFxUHlqZzRKblVoaXp0TUxXaFYtNjNBYWlPcTAwbklZSEV2bDRKb0ZHUk9RQVYzVNIB4wFBVV95cUxORGdGZnpySFd2TkNodjJZTHAyYXI5eml5MWVmS1VVUlNYZjVLTmR4SnZNYjFwNkRBS1NBaVlOYVh5Rm9ma0kyUXhnNXl5bjJwVzNCQVNYWDVPMEdqMUc3TTZfanlhbFEzbHJvX1lZV2JmLUJmR3Jxdm8zdzRYMm8xV29MTTFBdHpTVi1EYUdMXzg3YlNoZHJ2WjNnQU0yX1o4SXRZc0c0STlSazRyeWFwZ1NMekxTMkFfdEg3RTJnTGJ5UGZBRllNVlBrRFFza1dlOHE3Q3hCMzgtQkFaT3VSMndZUQ?oc=5",
+      "data": "05/09 06:00"
     },
     {
-      "titulo": "Santos anuncia a contratação de Lima, ex-Fluminense - O Dia",
+      "titulo": "Santos anuncia a contratação de Lima, ex-Fluminense - odia.ig.com.br",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2g2b0loZzdDMG40MVFaMTFvYU5hTHBVMWpORktrWlNuRkJJTHFNTG0yeTAwY1Bpbi1LN0w5aEVOSlJncmo0QUloaGJXamhaZGdUOFdOUVBpSjRXUElUYXdrMUxJYlhlSjI2ZHNveC1zOUd0Y3hTcXVvYTFBeS1xWElja0E2SG5vS1VWM3h2dHFzMk1XVXBYcmNzaExBSUVhVWdjUtIBqgFBVV95cUxPX211X05USmFiVTVkVjhOaGU2a0F0TUgzQ3R0OWh4VkdPNFp6eXVlYm94UjFEeDlHSVhySUM3S1g4eDFOUVpsUFdJRnNLSXBiSV9VRjFnd0Qxb0FFRjlCSjlldDRxMVZvNU5DTjdFNFZMWFJ0R2haRVhnS1liZWpGYlJPSXQ4Q0dUempTcVMtRmZYMUllbEhlN0g5TkJFWm9hU1NxQjhEYzJtdw?oc=5",
       "data": "04/09 16:16"
     },
     {
-      "titulo": "Santos avança na contratação do meio-campista Lima, do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xJNkZBdVU2OHg3YW0yWkh5ZWRoYlA3clNIbXJSZ1ZlUE45ZFlzX2hZeDJmaXk5el9IWnYwWEZXbEhjb0NYNXEyYnh4Q09DZ3NHOTl1cHhtT0FFSHI5dEVrQndybThZUV9qendhR1lBRW9GYUZ0RmNFNWJJWDgwdFY4SDRXVFI5UjhVcXZKRTliOGhPMlFLVWdPbUl1WlhKd3dPNXpuRVZ5UFdGQWIzMHU4M295akE5UXlaSGtvekptR1QtaGwwdkZiN1RHeG1FVTdvOWRjdnBTMkoyYWVnYV9RSTHSAfMBQVVfeXFMUGo0cmxtQkQ0VS1pNERIaWFjdVBReDY1UXdXcjgyN0RDYXNDRS1CVTJMTER0am9vcWRBbENCbWhiZkVTQzl1WlhkazN2RWcyUDRScHRYTjVDcVI0dV9kbjdWMDUwNy1UM1Vkd1NKNzZuMXJ0aFUtUXh0RlF4clk3MmFWTnB5MnQ5R0FaWkNieGg3dTdrQlNQMDJCZmlVZWZ4NmJtUWVrNHczNmR2QUJKeGRvWmlFZkVVVkRNVkJNRTFnWTd2TjMzdGRNLWVYMEUtb3hhQ3B5dS1sYm4zVUVnNEpiaXhHdXZMNEp4c2VJdVgzMUpz?oc=5",
-      "data": "03/09 17:00"
+      "titulo": "O Herói que o Fluminense precisava - Terra",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTM5dFZXZ2pJSU5JbXhjamwwdXJSY1ZvbDk1V3M5Y1h0cmpUVXJMeGVra0s1bHVrY1B0Y2ZBdnAyb1BCUzNMaUdXdlkzeGp0Zi1lQk9XQzZFVlNqRlR0NUNSNUtiMFZDS2oxelROOU9GVTNncW0xeDJsdXYzSE9ac0d5d2hsX3RTQ3o1aXpoLVQzSk5fbzVNdEthTzkwcjZBdFMzeVVEenA2SS0wTGUxS3liUlgxcTZCUGVVNXE1SQ?oc=5",
+      "data": "04/09 11:04"
     },
     {
-      "titulo": "Ex-Fluminense e Grêmio, Lima acerta com novo clube da Série A após deixar o América do México - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSEVZRktHQWhzUm1oQWlZWEdGcUdMRk93UUVrM1FLZ0MtSEUwazNlNGxyeUxLeUo1MEl5clBvcGtrM01INW5fTnlIdnFmS1FqYUZZSko1Rk9TU3lXSG9TMWJVeTUydGd6ZFNUYnNWTnFRRTBabVZQVjJhNjY5WWF3NFZuSWh4SWZpc1dZNFgzMFNLdGxmZ3lDNnp2NzJDVjRFQUhBVGwzdlVneXdCaFY1ZVlxYlpyOG5HVjBHb0pRaG1JbXBYTWQxTQ?oc=5",
-      "data": "04/09 11:37"
+      "titulo": "Ex-Fluminense é decisivo em título histórico no futebol europeu - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUJaUTFXZWd2Rnd4ZUZEX3NnRlJIREY3ZE5ieUpUOGhZcnN1XzZaZG5TSjhQdDc5amt2WHZldDVsU1FpSUhhRVotdEFQRUdMUXZCX3RhUHlEVzhjMFNkcVV6UVo4RDd1RkxqUUFieHhwUGMzOG1IbUlnX2FJMmRDcEFKb2VpMDZ5TnlmS3lubm8?oc=5",
+      "data": "04/09 13:34"
     },
     {
-      "titulo": "Fluminense mira recorde de público diante do Platense: veja quanto já foi vendido - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcWZEZTNCNGdqNHB3eVpNbnpRZ1l4NHB4V0RDRVhYQXoxLUlUaFJKa1JUcS1oNjhKWGhGQ0k0N3BJQ3lSR2RaOFU2bGl3eG51Q2ZTT09Pcl9zNjJfSDZZQUlMQTBmeF9NVnFwQnY0NmtYOXljV2x3R1BTdWQ5UndMUmtCenRLSGpfTTlqNWVyaC05cEFWNmZGRWZNaHR3QUlyOGhhUnFlLWoyTmpFRUlYLTlkclNfbmdDYUdVZENNNUszNUJ2cnlfM1RzWklDVHd1blBDbzJseFcxcHEwVjJUR0tnOG9SRl81NWVmNFNVX2k1TURHd3BpR3dfMWw?oc=5",
-      "data": "04/09 18:55"
+      "titulo": "Ganso revela diversas conversas para rescindir com o Fluminense - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3ZnLXlYQzRCVzNRTm5qSlY5ZDFaOVg4SFNuRUc2TVphU3dRdG55endTNVpFbWV3WFhuMi1tcmRlUWs0cE4zRGZLRnFlX0l4RUFFdjVrLW5wUngtbXdWdVd5YnA4enV4dU5SaGFGZEloM1lrTVc4bE5JQm5Bd3EtMktoeVp6a0JVUjhPcHRDY243NUhKRnRLSWFXYmFWcDNkTFctd0xZbU5yMFNGVGMxTE02TjlVZ1h4V2JqM0FPZEU1YVlBcWc1V3FQbHFMNXdMRTZZa2VtUWZaX3FDWTJxd2w5Z1BUb004?oc=5",
+      "data": "02/09 20:27"
     }
   ],
   "avisos": []
