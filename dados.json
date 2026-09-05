@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/09/2026 04:19",
+  "atualizado_em": "05/09/2026 08:33",
   "jogos": [
     {
       "sport": "futebol",
@@ -78,11 +78,20 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "1899 Hoffenheim x Borussia Dortmund",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x CSKA Moscow",
       "channels": [
-        "XSPORTS",
-        "CANAL GOAT",
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Werder Bremen x RB Leipzig",
+      "channels": [
+        "CAZÉTV",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -91,8 +100,19 @@
       "date": "2026-09-05",
       "time": "10:30",
       "competition": "Campeonato Alemão",
-      "match": "SC Paderborn 07 x SC Freiburg",
+      "match": "Borussia M x SV Elversberg",
       "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "1899 Hoffenheim x Borussia Dortmund",
+      "channels": [
+        "XSPORTS",
         "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
@@ -113,30 +133,10 @@
       "date": "2026-09-05",
       "time": "10:30",
       "competition": "Campeonato Alemão",
-      "match": "Borussia M x SV Elversberg",
+      "match": "SC Paderborn 07 x SC Freiburg",
       "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Werder Bremen x RB Leipzig",
-      "channels": [
-        "CAZÉTV",
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x CSKA Moscow",
-      "channels": [
-        "BANDSPORTS"
       ]
     },
     {
@@ -195,6 +195,16 @@
     {
       "sport": "futebol",
       "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x Bristol City",
+      "channels": [
+        "NSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
       "time": "11:15",
       "competition": "Campeonato Espanhol",
       "match": "Athletic Club x Atletico Madrid",
@@ -202,6 +212,16 @@
         "SPORTYNET",
         "CAZÉTV",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:30",
+      "competition": "Campeonato Holandês",
+      "match": "NEC Nijmegen x Feyenoord",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -217,11 +237,11 @@
     {
       "sport": "futebol",
       "date": "2026-09-05",
-      "time": "11:30",
-      "competition": "Campeonato Holandês",
-      "match": "NEC Nijmegen x Feyenoord",
+      "time": "12:15",
+      "competition": "Campeonato Francês",
+      "match": "Lens x Lorient",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -242,7 +262,6 @@
       "competition": "Campeonato Espanhol",
       "match": "Rayo Vallecano x Racing Santander",
       "channels": [
-        "YOUTUBE",
         "CAZÉTV"
       ]
     },
@@ -299,6 +318,7 @@
       "competition": "Campeonato Turco",
       "match": "Fenerbahce x Besiktas",
       "channels": [
+        "ESPN 3",
         "DISNEY+"
       ]
     },
@@ -317,10 +337,14 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Penãrol",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ittihad FC x Al-Nassr",
       "channels": [
-        "DISNEY+"
+        "BAND",
+        "BANDSPORTS",
+        "CANAL GOAT",
+        "ONEFOOTBALL",
+        "YOUTUBE"
       ]
     },
     {
@@ -337,13 +361,10 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ittihad FC x Al-Nassr",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Penãrol",
       "channels": [
-        "BAND",
-        "BANDSPORTS",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
+        "DISNEY+"
       ]
     },
     {
@@ -354,6 +375,16 @@
       "match": "Dynamo Dresden x VfL BOCHUM",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Nice x Le Mans",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -371,22 +402,11 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Swansea x Wrexham",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Bahia",
       "channels": [
-        "ESPN 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Fortaleza",
-      "channels": [
-        "REDETV!",
-        "SPORTYNET",
-        "DISNEY+"
+        "SPORTV",
+        "PREMIERE 4"
       ]
     },
     {
@@ -396,19 +416,7 @@
       "competition": "Campeonato Espanhol",
       "match": "Villarreal x Deportivo La Coruna",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Bahia",
-      "channels": [
-        "SPORTV",
-        "PREMIERE 4"
+        "CAZÉTV"
       ]
     },
     {
@@ -424,10 +432,24 @@
     {
       "sport": "futebol",
       "date": "2026-09-05",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Fortaleza",
+      "channels": [
+        "REDETV!",
+        "SPORTYNET",
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
       "time": "16:30",
       "competition": "Campeonato Argentino",
       "match": "Gimnasia M. x Boca Juniors",
       "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -438,6 +460,7 @@
       "competition": "Campeonato Português",
       "match": "Sporting CP x Nacional",
       "channels": [
+        "NSPORTS",
         "YOUTUBE",
         "DISNEY+"
       ]
@@ -451,6 +474,7 @@
       "channels": [
         "GLOBO",
         "SBT",
+        "SPORTV 2",
         "GE TV"
       ]
     },
@@ -462,7 +486,6 @@
       "match": "São Paulo (F) x Grêmio (F)",
       "channels": [
         "GLOBO",
-        "SPORTV",
         "SPORTV 3"
       ]
     },
@@ -503,9 +526,12 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "18:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Wanderers",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x Atlético GO",
       "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "CANAL GOAT",
         "DISNEY+"
       ]
     },
@@ -513,11 +539,9 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "18:00",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x Atlético GO",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Wanderers",
       "channels": [
-        "XSPORTS",
-        "SPORTYNET",
         "DISNEY+"
       ]
     },
@@ -556,16 +580,6 @@
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "20:00",
-      "competition": "Campeonato Peruano",
-      "match": "Cusco x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "20:00",
       "competition": "Campeonato Mexicano",
       "match": "Atletico San Luis x Guadalajara Chivas",
       "channels": [
@@ -575,49 +589,29 @@
     {
       "sport": "futebol",
       "date": "2026-09-05",
+      "time": "20:00",
+      "competition": "Campeonato Peruano",
+      "match": "Cusco x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Inter Miami x Atlanta United FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
       "time": "20:30",
       "competition": "MLS",
       "match": "Philadelphia Union x Montreal Impact",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Charlotte x Houston Dynamo",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Toronto FC x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Columbus Crew x Colorado Rapids",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x San Diego",
       "channels": [
         "APPLE TV"
       ]
@@ -637,9 +631,49 @@
       "date": "2026-09-05",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Inter Miami x Atlanta United FC",
+      "match": "Orlando City SC x San Diego",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Columbus Crew x Colorado Rapids",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Toronto FC x Chicago Fire",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Charlotte x Houston Dynamo",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "21:00",
+      "competition": "MLS Next Pro",
+      "match": "Minnesota United II x Colorado Rapids II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -657,20 +691,11 @@
     {
       "sport": "futebol",
       "date": "2026-09-05",
-      "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Minnesota United II x Colorado Rapids II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
       "time": "21:15",
       "competition": "Campeonato Argentino",
       "match": "Velez Sarsfield x Estudiantes",
       "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -1264,10 +1289,140 @@
     },
     {
       "sport": "volei",
-      "date": "2026-08-27",
-      "time": "18:30",
+      "date": "2026-09-05",
+      "time": "09:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Guarulhos x Campinas",
+      "match": "Vôlei de Praia - Semifinal Feminina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "10:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal Feminina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal Masculina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "12:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal Masculina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "15:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar Feminina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "16:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Disputa de 3º Lugar Masculina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "17:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Final Feminina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "18:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Final Masculina - João Pessoa-PB",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Colômbia x Chile",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "16:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Peru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "19:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Chile x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "16:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Colômbia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-05",
+      "time": "19:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Peru",
       "channels": [
         "SporTV2"
       ]
@@ -1278,28 +1433,28 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 24.2,
       "temp_min": 20.8,
-      "chance_chuva": 63,
+      "chance_chuva": 75,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.0,
       "temp_min": 20.9,
-      "chance_chuva": 41,
+      "chance_chuva": 59,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 25.8,
       "temp_min": 15.6,
-      "chance_chuva": 84,
+      "chance_chuva": 98,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 25.4,
       "temp_min": 15.4,
-      "chance_chuva": 98,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
@@ -1310,27 +1465,25 @@
       "data": "04/09 20:04"
     },
     {
-      "titulo": "Fluminense e Vasco se reencontram no Brasileiro em alta e com diversas mudanças um mês após mata-mata - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVDFBbW5BTDZtc3Bsb3FsYlJhQ2NIdzFWUGp4cWJaaFczc3BlZ0lmWU14cmJYeFlLb0p0ZXltR2dNWUFMR1E3RldTcGh2d0xwUlVUUWYwQU9YcnUwVWt5SU5oZ2hyb2E0Ml9PbWtGNWVGdlU2a1hBb2Q0THJxczN1QnlDMGtmaS1qSUx3LTVlNlBqM1NCRWg3VjdoTlkxM2J4cnJuNDlPR1dnS3hqS2tFWXhyd0ZpdUt1SXJTZ2NEcjRmSGlyVGpydFlHdnh1UlZCSmo1SXFkWHJHOURIOUxvYkNQQXM2WV92WTM2QWZaM1U5UTZxUXNRSDZR0gGIAkFVX3lxTE1zS1E0Q1pEaU84bE0yazAwVkFNeGhsZFBiMUVWbUZKcGFLUTRtbEdQbVVrSk5LZ2Y5WkpldklnclVycE80bV9WWms5dW5XVkNDSVcwOWs4ZTJ0RnJteDBmaDNCUFZxLTVBd2VNYld0aXZEZWM5QjlEdEtVSU9kTVMtZHR3RVE5WXUtTlBQYUt1dVpsT080bzFxYTBkYy03UUNoRGxFNWFJZzhTR2g5VlA1c1NGcXQ2X2xYbW5hSkgzbG1JT1pTaUowNzByQVZJMmZFQTdfdjNwVUZUQ0c5SFlHWHNEcTVieWlxQUo4UEdrMnFrWW5FbWJNbU1DN3djRVh5WWx3M3IyOQ?oc=5",
-      "data": "05/09 06:00"
-    },
-    {
       "titulo": "Santos anuncia a contratação de Lima, ex-Fluminense - O Dia",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2g2b0loZzdDMG40MVFaMTFvYU5hTHBVMWpORktrWlNuRkJJTHFNTG0yeTAwY1Bpbi1LN0w5aEVOSlJncmo0QUloaGJXamhaZGdUOFdOUVBpSjRXUElUYXdrMUxJYlhlSjI2ZHNveC1zOUd0Y3hTcXVvYTFBeS1xWElja0E2SG5vS1VWM3h2dHFzMk1XVXBYcmNzaExBSUVhVWdjUtIBqgFBVV95cUxPX211X05USmFiVTVkVjhOaGU2a0F0TUgzQ3R0OWh4VkdPNFp6eXVlYm94UjFEeDlHSVhySUM3S1g4eDFOUVpsUFdJRnNLSXBiSV9VRjFnd0Qxb0FFRjlCSjlldDRxMVZvNU5DTjdFNFZMWFJ0R2haRVhnS1liZWpGYlJPSXQ4Q0dUempTcVMtRmZYMUllbEhlN0g5TkJFWm9hU1NxQjhEYzJtdw?oc=5",
       "data": "04/09 16:16"
     },
     {
-      "titulo": "O Herói que o Fluminense precisava - Terra",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTM5dFZXZ2pJSU5JbXhjamwwdXJSY1ZvbDk1V3M5Y1h0cmpUVXJMeGVra0s1bHVrY1B0Y2ZBdnAyb1BCUzNMaUdXdlkzeGp0Zi1lQk9XQzZFVlNqRlR0NUNSNUtiMFZDS2oxelROOU9GVTNncW0xeDJsdXYzSE9ac0d5d2hsX3RTQ3o1aXpoLVQzSk5fbzVNdEthTzkwcjZBdFMzeVVEenA2SS0wTGUxS3liUlgxcTZCUGVVNXE1SQ?oc=5",
-      "data": "04/09 11:04"
+      "titulo": "Santos avança na contratação do meio-campista Lima, do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xJNkZBdVU2OHg3YW0yWkh5ZWRoYlA3clNIbXJSZ1ZlUE45ZFlzX2hZeDJmaXk5el9IWnYwWEZXbEhjb0NYNXEyYnh4Q09DZ3NHOTl1cHhtT0FFSHI5dEVrQndybThZUV9qendhR1lBRW9GYUZ0RmNFNWJJWDgwdFY4SDRXVFI5UjhVcXZKRTliOGhPMlFLVWdPbUl1WlhKd3dPNXpuRVZ5UFdGQWIzMHU4M295akE5UXlaSGtvekptR1QtaGwwdkZiN1RHeG1FVTdvOWRjdnBTMkoyYWVnYV9RSTHSAfMBQVVfeXFMUGo0cmxtQkQ0VS1pNERIaWFjdVBReDY1UXdXcjgyN0RDYXNDRS1CVTJMTER0am9vcWRBbENCbWhiZkVTQzl1WlhkazN2RWcyUDRScHRYTjVDcVI0dV9kbjdWMDUwNy1UM1Vkd1NKNzZuMXJ0aFUtUXh0RlF4clk3MmFWTnB5MnQ5R0FaWkNieGg3dTdrQlNQMDJCZmlVZWZ4NmJtUWVrNHczNmR2QUJKeGRvWmlFZkVVVkRNVkJNRTFnWTd2TjMzdGRNLWVYMEUtb3hhQ3B5dS1sYm4zVUVnNEpiaXhHdXZMNEp4c2VJdVgzMUpz?oc=5",
+      "data": "03/09 17:00"
     },
     {
-      "titulo": "Bastidores: como o Fluminense encontra jovens no mercado sul-americano? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWhwVkxaZ2FzSnpOMkpvU1FHUW83eUlIWkw3aENCVXpvWTZkTkc2RWtLeDM1NGRzZDFjX0Nyb0plUFQtbkl3VVFjUVNFeUJqTnIxVVF5SEl3cU1tRmZqdkNhV09ESlctb0tRcVZ6STB4TEE4NGp4VDZndWhwTUdqLXR5WEYtYnoxMTZiRm10bWNBdll3VzBkb1hLblMyYzlCek55c0NuOWlPaUdDV1dR?oc=5",
-      "data": "04/09 20:16"
+      "titulo": "Ex-Fluminense e Grêmio, Lima acerta com novo clube da Série A após deixar o América do México - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSEVZRktHQWhzUm1oQWlZWEdGcUdMRk93UUVrM1FLZ0MtSEUwazNlNGxyeUxLeUo1MEl5clBvcGtrM01INW5fTnlIdnFmS1FqYUZZSko1Rk9TU3lXSG9TMWJVeTUydGd6ZFNUYnNWTnFRRTBabVZQVjJhNjY5WWF3NFZuSWh4SWZpc1dZNFgzMFNLdGxmZ3lDNnp2NzJDVjRFQUhBVGwzdlVneXdCaFY1ZVlxYlpyOG5HVjBHb0pRaG1JbXBYTWQxTQ?oc=5",
+      "data": "04/09 11:37"
+    },
+    {
+      "titulo": "Fluminense mira recorde de público diante do Platense: veja quanto já foi vendido - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcWZEZTNCNGdqNHB3eVpNbnpRZ1l4NHB4V0RDRVhYQXoxLUlUaFJKa1JUcS1oNjhKWGhGQ0k0N3BJQ3lSR2RaOFU2bGl3eG51Q2ZTT09Pcl9zNjJfSDZZQUlMQTBmeF9NVnFwQnY0NmtYOXljV2x3R1BTdWQ5UndMUmtCenRLSGpfTTlqNWVyaC05cEFWNmZGRWZNaHR3QUlyOGhhUnFlLWoyTmpFRUlYLTlkclNfbmdDYUdVZENNNUszNUJ2cnlfM1RzWklDVHd1blBDbzJseFcxcHEwVjJUR0tnOG9SRl81NWVmNFNVX2k1TURHd3BpR3dfMWw?oc=5",
+      "data": "04/09 18:55"
     }
   ],
-  "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
-  ]
+  "avisos": []
 }
