@@ -1,177 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "05/09/2026 11:27",
+  "atualizado_em": "05/09/2026 14:04",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Fiorentina x Torino",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x CSKA Moscow",
-      "channels": [
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Werder Bremen x RB Leipzig",
-      "channels": [
-        "CAZÉTV",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Borussia M x SV Elversberg",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "1899 Hoffenheim x Borussia Dortmund",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Bayer Leverkusen x Union Berlin",
-      "channels": [
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "SC Paderborn 07 x SC Freiburg",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Burnley x Bristol City",
-      "channels": [
-        "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Nottingham Forest x Tottenham",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Brentford x Sunderland",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Brighton x Leeds",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Manchester City x Coventry",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Fulham x Crystal Palace",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:15",
-      "competition": "Campeonato Espanhol",
-      "match": "Athletic Club x Atletico Madrid",
-      "channels": [
-        "SPORTYNET",
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:30",
-      "competition": "Campeonato Holandês",
-      "match": "NEC Nijmegen x Feyenoord",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Rot-weiss Essen x FC Viktoria Koln",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-05",
@@ -197,10 +26,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Rayo Vallecano x Racing Santander",
+      "competition": "Campeonato Inglês",
+      "match": "Hull City x Aston Villa",
       "channels": [
-        "CAZÉTV"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -220,11 +50,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Hull City x Aston Villa",
+      "competition": "Campeonato Espanhol",
+      "match": "Rayo Vallecano x Racing Santander",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -232,7 +61,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-05",
       "time": "14:00",
       "competition": "Campeonato Português",
-      "match": "Maritimo x Benfica",
+      "match": "Alverca x SC Braga",
       "channels": [
         "YOUTUBE",
         "DISNEY+"
@@ -243,7 +72,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-05",
       "time": "14:00",
       "competition": "Campeonato Português",
-      "match": "Alverca x SC Braga",
+      "match": "Maritimo x Benfica",
       "channels": [
         "YOUTUBE",
         "DISNEY+"
@@ -319,21 +148,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Roma x Atalanta",
+      "competition": "Campeonato Francês",
+      "match": "Nice x Le Mans",
       "channels": [
-        "CAZÉTV",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-05",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Nice x Le Mans",
+      "competition": "Campeonato Italiano",
+      "match": "Roma x Atalanta",
       "channels": [
-        "CAZÉTV"
+        "CAZÉTV",
+        "DISNEY+"
       ]
     },
     {
@@ -722,7 +551,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-05",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "FC Kaiserslautern x SV Darmstadt 98",
+      "match": "VfL Wolfsburg x Energie Cottbus",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -743,19 +572,9 @@ window.PAINEL_DATA = {
       "date": "2026-09-05",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "VfL Wolfsburg x Energie Cottbus",
+      "match": "FC Kaiserslautern x SV Darmstadt 98",
       "channels": [
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-05",
-      "time": "08:30",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Preston x Blackburn",
-      "channels": [
-        "ESPN 4"
       ]
     },
     {
@@ -772,11 +591,192 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-05",
+      "time": "08:30",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Preston x Blackburn",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
       "time": "09:00",
       "competition": "3ª Divisão Alemã",
       "match": "Hansa Rostock x SV Wehen",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Fiorentina x Torino",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "1899 Hoffenheim x Borussia Dortmund",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x CSKA Moscow",
+      "channels": [
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Werder Bremen x RB Leipzig",
+      "channels": [
+        "CAZÉTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Borussia M x SV Elversberg",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Bayer Leverkusen x Union Berlin",
+      "channels": [
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "SC Paderborn 07 x SC Freiburg",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Fulham x Crystal Palace",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Manchester City x Coventry",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Brighton x Leeds",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Brentford x Sunderland",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Nottingham Forest x Tottenham",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Burnley x Bristol City",
+      "channels": [
+        "NSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:15",
+      "competition": "Campeonato Espanhol",
+      "match": "Athletic Club x Atletico Madrid",
+      "channels": [
+        "SPORTYNET",
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Rot-weiss Essen x FC Viktoria Koln",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-05",
+      "time": "11:30",
+      "competition": "Campeonato Holandês",
+      "match": "NEC Nijmegen x Feyenoord",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -1460,29 +1460,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Veja os inscritos do Fluminense para as quartas da Libertadores - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUhXTDdVNE0xbHplRTlqSGpHRGJTeU4tNEY1ZVFzd19xei1ZUHczUDgtS0FwLVlVVjYzMXE0WDg3SmZwaFFnVVVUekFBc0UxdG1rSTNUZXhkcXdMUWpMWUFaNGx4bDNhaGNDR1k4RGNQSWdhX2hlYnJObl9sY2c3ZjFZUWp0ZWs3cjZ5QVpOQ3hlbE9Bb2l2NU1QcHNybHNLb3VRTmpPb0tnRE83M3ltTE82aw?oc=5",
+      "data": "05/09 16:20"
+    },
+    {
       "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejZoOC1ZTUgxNlRjd3ZYbnJYbmdwNF9OTlA0VU9uaV8yRWY4UEpiR0huTGV5NUlqRkRlRmNqN2ZrRUJJdlNSMUtWMTNlRWhva2VVTkhiVWJkaUlNY1hCUTk0aWFBT3owby01MFFzNTV0WmhkZWVQR2lNRDJEcjAwdHF2LTJJNk5wNG92ZXFja0RCSmdUMm9TZWxQUGRkU3BCOU9OYTFxUHlqZzRKblVoaXp0TUxXaFYtNjNBYWlPcTAwbklZSEV2bDRKb0ZHUk9RQVYzVNIB4wFBVV95cUxORGdGZnpySFd2TkNodjJZTHAyYXI5eml5MWVmS1VVUlNYZjVLTmR4SnZNYjFwNkRBS1NBaVlOYVh5Rm9ma0kyUXhnNXl5bjJwVzNCQVNYWDVPMEdqMUc3TTZfanlhbFEzbHJvX1lZV2JmLUJmR3Jxdm8zdzRYMm8xV29MTTFBdHpTVi1EYUdMXzg3YlNoZHJ2WjNnQU0yX1o4SXRZc0c0STlSazRyeWFwZ1NMekxTMkFfdEg3RTJnTGJ5UGZBRllNVlBrRFFza1dlOHE3Q3hCMzgtQkFaT3VSMndZUQ?oc=5",
       "data": "05/09 06:00"
     },
     {
-      "titulo": "Santos anuncia a contratação de Lima, ex-Fluminense - odia.ig.com.br",
+      "titulo": "Sul-africano é inscrito pelo Fluminense na Libertadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQODBFdFd1a2FsaEVEaVd5dEQ1Y3ZzYUxxTUZPMzJsT0RUX1NNbXRPZDd6elFHSVEyWW9WMDloRndRWXY1aXNrSVFDdGVSaV85LVBsU3FINlVYcFVzV1VfVGh5cGpzaktNRXkwOERiNVdCYm1VMm5oaHJJWVN6d1pIaHUyUjI0cEVrcll4dW4xNWRGZl9VTjdLa2QxbHI5WGhGT3JpNFhUSHRlUW5WMVhFNU4tTTU0OWJhcGNRSElpbzBueWk0SGVKNW8zMm5PcTU4WEZiSUE0al8zS0ZvR2dn?oc=5",
+      "data": "05/09 16:46"
+    },
+    {
+      "titulo": "Santos anuncia a contratação de Lima, ex-Fluminense - O Dia",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2g2b0loZzdDMG40MVFaMTFvYU5hTHBVMWpORktrWlNuRkJJTHFNTG0yeTAwY1Bpbi1LN0w5aEVOSlJncmo0QUloaGJXamhaZGdUOFdOUVBpSjRXUElUYXdrMUxJYlhlSjI2ZHNveC1zOUd0Y3hTcXVvYTFBeS1xWElja0E2SG5vS1VWM3h2dHFzMk1XVXBYcmNzaExBSUVhVWdjUtIBqgFBVV95cUxPX211X05USmFiVTVkVjhOaGU2a0F0TUgzQ3R0OWh4VkdPNFp6eXVlYm94UjFEeDlHSVhySUM3S1g4eDFOUVpsUFdJRnNLSXBiSV9VRjFnd0Qxb0FFRjlCSjlldDRxMVZvNU5DTjdFNFZMWFJ0R2haRVhnS1liZWpGYlJPSXQ4Q0dUempTcVMtRmZYMUllbEhlN0g5TkJFWm9hU1NxQjhEYzJtdw?oc=5",
       "data": "04/09 16:16"
     },
     {
-      "titulo": "O Herói que o Fluminense precisava - Terra",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTM5dFZXZ2pJSU5JbXhjamwwdXJSY1ZvbDk1V3M5Y1h0cmpUVXJMeGVra0s1bHVrY1B0Y2ZBdnAyb1BCUzNMaUdXdlkzeGp0Zi1lQk9XQzZFVlNqRlR0NUNSNUtiMFZDS2oxelROOU9GVTNncW0xeDJsdXYzSE9ac0d5d2hsX3RTQ3o1aXpoLVQzSk5fbzVNdEthTzkwcjZBdFMzeVVEenA2SS0wTGUxS3liUlgxcTZCUGVVNXE1SQ?oc=5",
-      "data": "04/09 11:04"
-    },
-    {
-      "titulo": "Ex-Fluminense é decisivo em título histórico no futebol europeu - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUJaUTFXZWd2Rnd4ZUZEX3NnRlJIREY3ZE5ieUpUOGhZcnN1XzZaZG5TSjhQdDc5amt2WHZldDVsU1FpSUhhRVotdEFQRUdMUXZCX3RhUHlEVzhjMFNkcVV6UVo4RDd1RkxqUUFieHhwUGMzOG1IbUlnX2FJMmRDcEFKb2VpMDZ5TnlmS3lubm8?oc=5",
-      "data": "04/09 13:34"
-    },
-    {
-      "titulo": "Ganso revela diversas conversas para rescindir com o Fluminense - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ3ZnLXlYQzRCVzNRTm5qSlY5ZDFaOVg4SFNuRUc2TVphU3dRdG55endTNVpFbWV3WFhuMi1tcmRlUWs0cE4zRGZLRnFlX0l4RUFFdjVrLW5wUngtbXdWdVd5YnA4enV4dU5SaGFGZEloM1lrTVc4bE5JQm5Bd3EtMktoeVp6a0JVUjhPcHRDY243NUhKRnRLSWFXYmFWcDNkTFctd0xZbU5yMFNGVGMxTE02TjlVZ1h4V2JqM0FPZEU1YVlBcWc1V3FQbHFMNXdMRTZZa2VtUWZaX3FDWTJxd2w5Z1BUb004?oc=5",
-      "data": "02/09 20:27"
+      "titulo": "Campeão da Libertadores pelo Fluminense é novo reforço do Santos - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeEdNVWQtdWJ2ZkNfNWROVDl5c0MwNTd0OEZGUzFuRkp4NXYyMDFSajRSNHdCeXNKWWlCc0l4NWw0ZHRtU2dZMHFUSm41VE13M3VUZEE5Z0NyZXVzbHhCTXBfR2FUeGZIQU85eGQwSWJxU1Z3dlFJU3p0ckNBVndzNWJjMkJJVnMyLUZDUExzNEIxUjdQaF8tS2dQcUxfaDJoUU1OWkZOWWNFZEtpUmVUS012cUc1TE9kWUFwM1QzZVFMeDVxakNXMG1QTF90cGhWSV9EcHNpUUk5SGg2NmJMbWhDZ3VBcXc?oc=5",
+      "data": "04/09 15:46"
     }
   ],
   "avisos": []
