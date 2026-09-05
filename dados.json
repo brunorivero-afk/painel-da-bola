@@ -1,107 +1,6 @@
 {
-  "atualizado_em": "04/09/2026 20:39",
+  "atualizado_em": "04/09/2026 23:40",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "19:00",
-      "competition": "Brasileiro Sub-20",
-      "match": "Palmeiras Sub-20 x Vasco Sub-20",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Belgrano Cordoba x Huracan",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "19:30",
-      "competition": "MLS Next Pro",
-      "match": "Carolina Core x New England II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Cuiabá",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "20:00",
-      "competition": "Copa Paulista",
-      "match": "Bandeirante SP x Uniao Sao Joao",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Toronto II x FC Cincinnati II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Houston Dynamo FC II x Austin II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York City FC x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Vila Nova",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-04",
@@ -112,18 +11,6 @@
         "TV BRASIL",
         "SPORTV",
         "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x América-MG",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
       ]
     },
     {
@@ -180,6 +67,16 @@
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x Cienciano",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "15:00",
       "competition": "Campeonato Saudita",
       "match": "Al Shabab x Al-Hilal",
       "channels": [
@@ -192,11 +89,10 @@
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ahli Jeddah x Al Riyadh",
+      "competition": "Paulista Sub-20",
+      "match": "São Bento Sub-20 x Corinthians Sub-20",
       "channels": [
-        "ONEFOOTBALL",
-        "CANAL GOAT"
+        "YOUTUBE"
       ]
     },
     {
@@ -204,7 +100,7 @@
       "date": "2026-09-04",
       "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "São Bento Sub-20 x Corinthians Sub-20",
+      "match": "Desportivo Brasil Sub-20 x São Paulo U20",
       "channels": [
         "YOUTUBE"
       ]
@@ -224,20 +120,11 @@
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Desportivo Brasil Sub-20 x São Paulo U20",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ahli Jeddah x Al Riyadh",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-04",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x Cienciano",
-      "channels": [
-        "FANATIZ"
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -266,22 +153,22 @@
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Ipswich x Liverpool",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Betis x Real Madrid",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-04",
       "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Betis x Real Madrid",
+      "competition": "Campeonato Inglês",
+      "match": "Ipswich x Liverpool",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -312,6 +199,119 @@
       "match": "Crown Legacy x Chicago FC United",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Belgrano Cordoba x Huracan",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "19:00",
+      "competition": "Brasileiro Sub-20",
+      "match": "Palmeiras Sub-20 x Vasco Sub-20",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Cerro Largo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Cuiabá",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "competition": "MLS Next Pro",
+      "match": "Carolina Core x New England II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Houston Dynamo FC II x Austin II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Toronto II x FC Cincinnati II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "20:00",
+      "competition": "Copa Paulista",
+      "match": "Bandeirante SP x Uniao Sao Joao",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Athletic Club x Vila Nova",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York City FC x Nashville SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-04",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x América-MG",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
       ]
     },
     {
@@ -1084,7 +1084,7 @@
       "temp_max": 30.1,
       "temp_min": 19.3,
       "chance_chuva": 14,
-      "condicao": "Poucas nuvens"
+      "condicao": "Céu limpo"
     },
     {
       "cidade": "Araruama",
@@ -1095,7 +1095,7 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.9,
+      "temp_max": 26.4,
       "temp_min": 14.3,
       "chance_chuva": 39,
       "condicao": "Parcialmente nublado"
@@ -1105,34 +1105,34 @@
       "temp_max": 26.8,
       "temp_min": 14.1,
       "chance_chuva": 31,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Campeão da Libertadores pelo Fluminense faz gol em final europeia e dá primeiro título ao clube - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR1E1UE5SNm5yZDNPM21nR1VLcW9JVlZzTHhPV3N0bUNJQzhYb3pOR2M0c005Sk90MnJLeGtiLVE0WHlTanFHQjdsWHdmWW1XNGo2UW9Rb19zdjJPUFhLRE5jVEIwSWh2dGNnNkhyWC1vOENIb0U5UFpJYkZhYll6RWFyM0hTN294RFVmX3dWdkg0c2Qtckw5RU9KTnJsZWVXdGdVZnN1QUF0dDNtTHl0eVVyRnNwR1hkY1g3NGVmX0NfbUpmcjR2ZXgzWXF5ZjBaMC1Ld1VvcndXcHlHWllYS0xxek1rYUY2LUplUVl6TjhldXBRRjVjU0RR0gGIAkFVX3lxTFAySHJPdFF0Mmd3YmpHZVhpTVpJMnVMaDA4bmlkaEdseGVHUU00cmFLT3VtMW1Ma0pDVEp1RmJreDYzdlliemxGVjRBXzFOXzBfQ1JPMnFtbFBJNmhPTG9ITm04dmJnZEUxdVBPWVVsYUFNRjFEMWFpODlWd0luV2F5d1luZnBLS2JuWDdHMm40WFd4SktqWFlSMXJaQ1VTdEtrVDlxd2hqUktRcDQ0SVV4X3JmblJxRGlvVzVjUXRVYUJNRmk4a2ctV3dHejdBYnVyTFdvLWduNXh0X1Z1VzQtR3Z1eFhsckZoTHRLSk4yVE5ZTFZLX2dmUUNqREZGbTA2MzZUbUZrSw?oc=5",
-      "data": "03/09 20:20"
-    },
-    {
-      "titulo": "Fluminense mira recorde de público diante do Platense: veja quanto já foi vendido - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcWZEZTNCNGdqNHB3eVpNbnpRZ1l4NHB4V0RDRVhYQXoxLUlUaFJKa1JUcS1oNjhKWGhGQ0k0N3BJQ3lSR2RaOFU2bGl3eG51Q2ZTT09Pcl9zNjJfSDZZQUlMQTBmeF9NVnFwQnY0NmtYOXljV2x3R1BTdWQ5UndMUmtCenRLSGpfTTlqNWVyaC05cEFWNmZGRWZNaHR3QUlyOGhhUnFlLWoyTmpFRUlYLTlkclNfbmdDYUdVZENNNUszNUJ2cnlfM1RzWklDVHd1blBDbzJseFcxcHEwVjJUR0tnOG9SRl81NWVmNFNVX2k1TURHd3BpR3dfMWw?oc=5",
-      "data": "04/09 18:55"
-    },
-    {
-      "titulo": "Bastidores: como o Fluminense encontra jovens no mercado sul-americano? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWhwVkxaZ2FzSnpOMkpvU1FHUW83eUlIWkw3aENCVXpvWTZkTkc2RWtLeDM1NGRzZDFjX0Nyb0plUFQtbkl3VVFjUVNFeUJqTnIxVVF5SEl3cU1tRmZqdkNhV09ESlctb0tRcVZ6STB4TEE4NGp4VDZndWhwTUdqLXR5WEYtYnoxMTZiRm10bWNBdll3VzBkb1hLblMyYzlCek55c0NuOWlPaUdDV1dR?oc=5",
-      "data": "04/09 20:16"
-    },
-    {
-      "titulo": "Acordo com Marcão, busca por reforço e jogadores com mais desarmes: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPYTJvbXhGeEkwWDVEeXhUaHV4R1VxNWROWmJhUm4teDB2R0M0Mk1fVWhhSEZrbXd6VVR2bFByU0t4eTlmNEcycFRueHlpRmpwcFpmaVBUTzk5emdYZEIwRkdnY1BTYTBhMkV0ZkVyenNDTGdKZENvT1ZwMHlwb0VtcHJKR1VmLS1LVEVXaFhyaTRXN29YUVVXQzB0U3FKaHhPNkwxLTBieFVNQ1F1ZC1sT3lBZ0VPUGV5RDBhSnNoLXJKZmk2Y3hhbENHcVE4RFVabFk0aV9iLXdPNk1sTU1VRHQwaWx3RVFBSkVYREZsbVlzN3V4VkItX0tXT19JWktKU185ZE5zUVlxRV9xMUhmOHU0bmNHTHNvYnc?oc=5",
-      "data": "04/09 21:50"
+      "titulo": "Escalação do Fluminense: Hércules e Thiago Silva voltam, e Marcão vai com força máxima contra o Vasco - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOXVuVXk5aDZqX1g5UWItanV4MUo5NjkxdGJBYnctY1dJa2RTM2ZaZThtX01tc3JMMi1kWFNzU2dPWW9mYm5HLXRqV2xIeFo1TmdBZmVndE84YWtNX1lUMmdhWVJHcGdQc3E5NGUtaUZUQUN1bDBGNzdTWVMwcURwWjBBRG9yNjhra1FCYXFJOXhrc2Zia2FId09ZT1lzRW45ZnYtaTN2N2tES2Jxb0lPNUZfZTZNeUhFS2Z5VlBiVDRrVzhkbEZjZ1d1Z1pOakllZDczWmJtbTJIaHN3bFB4VktxSmE3TF9ZMU96bXlnTzFtYmJsZWxybzFzNVBlYnfSAY4CQVVfeXFMTXhqWVkxRlZBNkRpMW1mX19uTHk2czhZSGw0eXY4dXh0OVpESXhxSjZNZkQtVWdkN2pVdE9HMFJkSkFrOHBxSFAtbEZ1S3RpUVVYNnJfWUNoMU9GR09UeEpkQTA4OUhyQ0V4NGpYblhvXzluVVVxZm1VWXVIVkM4dEExVnhpNExkb19wN3FtaUhlc0FVSlJBSDR6S2RQMWMwZ0tsLU1FZ2hLejhvV0x3ZnVSazVHWEdZN0d0WkJBMldoTXVQMFZrQV9YV1J1dkNBbGkwanpId1BmMGE3MU5jSXpDOXRQeFY1OHZNSDBSUGxpaEhhaXVDZ2VPbzVZWUtFUGFCa1lxRld5V3VLQmxB?oc=5",
+      "data": "04/09 20:04"
     },
     {
       "titulo": "Santos avança na contratação do meio-campista Lima, do Fluminense - ge",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR2xJNkZBdVU2OHg3YW0yWkh5ZWRoYlA3clNIbXJSZ1ZlUE45ZFlzX2hZeDJmaXk5el9IWnYwWEZXbEhjb0NYNXEyYnh4Q09DZ3NHOTl1cHhtT0FFSHI5dEVrQndybThZUV9qendhR1lBRW9GYUZ0RmNFNWJJWDgwdFY4SDRXVFI5UjhVcXZKRTliOGhPMlFLVWdPbUl1WlhKd3dPNXpuRVZ5UFdGQWIzMHU4M295akE5UXlaSGtvekptR1QtaGwwdkZiN1RHeG1FVTdvOWRjdnBTMkoyYWVnYV9RSTHSAfMBQVVfeXFMUGo0cmxtQkQ0VS1pNERIaWFjdVBReDY1UXdXcjgyN0RDYXNDRS1CVTJMTER0am9vcWRBbENCbWhiZkVTQzl1WlhkazN2RWcyUDRScHRYTjVDcVI0dV9kbjdWMDUwNy1UM1Vkd1NKNzZuMXJ0aFUtUXh0RlF4clk3MmFWTnB5MnQ5R0FaWkNieGg3dTdrQlNQMDJCZmlVZWZ4NmJtUWVrNHczNmR2QUJKeGRvWmlFZkVVVkRNVkJNRTFnWTd2TjMzdGRNLWVYMEUtb3hhQ3B5dS1sYm4zVUVnNEpiaXhHdXZMNEp4c2VJdVgzMUpz?oc=5",
       "data": "03/09 17:00"
+    },
+    {
+      "titulo": "O Herói que o Fluminense precisava - Terra",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTM5dFZXZ2pJSU5JbXhjamwwdXJSY1ZvbDk1V3M5Y1h0cmpUVXJMeGVra0s1bHVrY1B0Y2ZBdnAyb1BCUzNMaUdXdlkzeGp0Zi1lQk9XQzZFVlNqRlR0NUNSNUtiMFZDS2oxelROOU9GVTNncW0xeDJsdXYzSE9ac0d5d2hsX3RTQ3o1aXpoLVQzSk5fbzVNdEthTzkwcjZBdFMzeVVEenA2SS0wTGUxS3liUlgxcTZCUGVVNXE1SQ?oc=5",
+      "data": "04/09 11:04"
+    },
+    {
+      "titulo": "Bastidores: como o Fluminense encontra jovens no mercado sul-americano? - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWhwVkxaZ2FzSnpOMkpvU1FHUW83eUlIWkw3aENCVXpvWTZkTkc2RWtLeDM1NGRzZDFjX0Nyb0plUFQtbkl3VVFjUVNFeUJqTnIxVVF5SEl3cU1tRmZqdkNhV09ESlctb0tRcVZ6STB4TEE4NGp4VDZndWhwTUdqLXR5WEYtYnoxMTZiRm10bWNBdll3VzBkb1hLblMyYzlCek55c0NuOWlPaUdDV1dR?oc=5",
+      "data": "04/09 20:16"
+    },
+    {
+      "titulo": "Saiba como assistir Fluminense x Vasco ao vivo pelo Brasileirão 2026 - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTFlIYjRvMlJzWTFGSkJvMHAySC1nc29RZE51VTFGaExUWjJwcXRjWXpOeU90eVNUaVpLd0JxODluNW1QYmdjZlNkUXpPdHJIZmtfX3EycGsxbWhwWDNwazlDQ3NJakRCemhFQlFVRGk1dnJtWHhjeExRYnRma2p4RlhXNFZPS1ZPdVNCcTlET2dWSWZjQTdNam1tNA?oc=5",
+      "data": "04/09 11:30"
     }
   ],
   "avisos": [
