@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/09/2026 04:32",
+  "atualizado_em": "06/09/2026 08:53",
   "jogos": [
     {
       "sport": "futebol",
@@ -652,6 +652,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-07",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "Estoril x Arouca",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
       "time": "16:30",
       "competition": "Campeonato Espanhol",
       "match": "Elche x Real Sociedad",
@@ -850,33 +860,63 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-06",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Chile",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-06",
+      "time": "16:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Venezuela x Peru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-06",
+      "time": "19:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Colômbia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.6,
-      "temp_min": 20.1,
-      "chance_chuva": 75,
+      "temp_max": 21.1,
+      "temp_min": 17.0,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 20.3,
-      "temp_min": 17.4,
+      "temp_max": 20.7,
+      "temp_min": 17.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 18.5,
-      "temp_min": 13.0,
+      "temp_min": 13.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.7,
+      "temp_max": 16.6,
       "temp_min": 11.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -884,32 +924,30 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - GE",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejZoOC1ZTUgxNlRjd3ZYbnJYbmdwNF9OTlA0VU9uaV8yRWY4UEpiR0huTGV5NUlqRkRlRmNqN2ZrRUJJdlNSMUtWMTNlRWhva2VVTkhiVWJkaUlNY1hCUTk0aWFBT3owby01MFFzNTV0WmhkZWVQR2lNRDJEcjAwdHF2LTJJNk5wNG92ZXFja0RCSmdUMm9TZWxQUGRkU3BCOU9OYTFxUHlqZzRKblVoaXp0TUxXaFYtNjNBYWlPcTAwbklZSEV2bDRKb0ZHUk9RQVYzVNIB4wFBVV95cUxORGdGZnpySFd2TkNodjJZTHAyYXI5eml5MWVmS1VVUlNYZjVLTmR4SnZNYjFwNkRBS1NBaVlOYVh5Rm9ma0kyUXhnNXl5bjJwVzNCQVNYWDVPMEdqMUc3TTZfanlhbFEzbHJvX1lZV2JmLUJmR3Jxdm8zdzRYMm8xV29MTTFBdHpTVi1EYUdMXzg3YlNoZHJ2WjNnQU0yX1o4SXRZc0c0STlSazRyeWFwZ1NMekxTMkFfdEg3RTJnTGJ5UGZBRllNVlBrRFFza1dlOHE3Q3hCMzgtQkFaT3VSMndZUQ?oc=5",
-      "data": "05/09 06:00"
+      "titulo": "Fluminense derrota Vasco, encerra jejum e mantém rival no Z4 do Brasileirão - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDdhdXZLSTBaYVJma2VjZ296UEFSZENNeXFRSkhKRGVJZC1Yak5MMFRqT2o2cXpwTmFHcmZxd2RpMjhwdC1EdkJ1aHYxYzV6dndrMm9ELVRnN1pnN1NxczdqMWM1dnRHcTVoemhkSElaakp5TzZLUkZHYmZtX211RDNRVkROcUoxMFloUDRhaDRjTUlhODJYdGNkU0FMeGRMREtzOVQ5WUs2LXB0V1BZNlRab0pqTEg1WnBQdFdIOHlxZDQ?oc=5",
+      "data": "06/09 02:00"
     },
     {
-      "titulo": "Fluminense faz mudança na lista da Libertadores para as quartas; veja quem entrou - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3FwT2VsWnNEcFh4dGxFUHBFX2NCVEo1OTJwTmN1Zlp6Qy02SXlxclQ3S2pLcFpBMTA1SVZtSDNlSVNFd28tWlNFQ3V4RTE3NExsYlpfVjFxamo4YnNfRmlac0s5bHE4Z2xmaHV6Qy1Pcy1VVmsxelVaLTVOYlotX1A1WVVQa1dNZG93QVlWa25BZDVxSXdOUC1nR3lqbEhNTU1kblBYQ2I0RmM?oc=5",
-      "data": "05/09 15:00"
+      "titulo": "Por que Rodrigo Castillo sumiu no Fluminense? Entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN05CYnZTWHU0cThqU1BULTJsZTRpLTEzeDlteTl6Slh3Qi1MZ05VbWhqMVBhTmt3X19mQXJMdDFSX3ZRSi03ek9LNERhdWxJTnZWWVcxMXRHZDZUUlF3NV81N000Mk0yRE1pSFZpLWpZX0N2VU1SRzkwdktsNWRnVGJQT2xBbGdnT1NRSmd3bnJ5Z0ZZUVJocktxRE0xcDhGaGNQeGktcnZ1M2RraUFZa1dybUNOYXBmQWhjN2drV01OVWpRUFJqY0ZQRGRadHdLVG9yMWJiWQ?oc=5",
+      "data": "05/09 17:59"
     },
     {
-      "titulo": "Fluminense inscreve joia sul-africana de 18 anos nas quartas de final da Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFZId2J6d3lVQzhIMFhtcjlwcmxJSktkdThnTGxwM0RIMlk4VXRpN2dydkZfU24tcTB1RS1WZTB3NXdXM3laTzNTUzNNV05UdVZJdjktN2tUbzEzTVRCNlBqclByMlBTYXFjd3QyYW1fTjRES1RRVHQ4UDU2ZVhudUdpTEV1M2FqRHJfSDNBcEhQRnlfTDNrS284V1g2S2twLXJ3VURBdzU3ZXg4cTBNUEp3bkp1OUY5clJ5b2VKODcxNjFFOWpXRFJVT2JSZzg5RlM1UGFkdHdiOTFWMEHSAewBQVVfeXFMTWxlZDVKaW5SMEdoSUN1SE9yMTdEMks0R0xkaHc5a3lMTUdvZW01NzQ2RGF0VG04UjM1bEJGb1M1MGpUcW5RX1NVY0NIdE9hdmx6ZTJVa1EtUGVfQXFkWXNBV2lvS0xyZWhnVC1HVW50bnF3ME8xZEtoanRsc0d2OUd4TWZsd0dqalNNN1M0cTRkZzlNckdsOWNGVVU2RTl6clFNMVVQTENrQ2UtS09mQUpFZ0RVTk9LYjNhQWZEWV9QeHJoUFZ4bDNPdXFzVVotVkVnUlh5cnRFOE1OQk5pUWdWeW5zTkhqZE14clE?oc=5",
-      "data": "05/09 15:14"
+      "titulo": "O bom filho! Ex-Fluminense retoma história em clube da MLS - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdWw3M083SlpCRndDb1JLTGxnSUExOTJSU2dHdEdpSmliWnJnR1R2OGhSa2JOdkVfdGdCeXBXaC15N1hhT2tIVGVScjUzV0xJTUJobEo2Uk1iZ3ZxQjZuR2UtSGV1cHgxR1pYZmpjT0doRlp0cGVVNnVuQ1lpQkRtN2d1S2RuWWdUY2MyeTJKRTNaVWRmUndnZGJpM1pyRGpvLUxUMVc1WURwOTFMWnZvckFCc3ZrMHRISkdIcW16UXRxWllpNmdOU3RTR3BPRjc2Wng0Z2pKUGE0RE5BTFI1WjFn?oc=5",
+      "data": "05/09 20:35"
     },
     {
-      "titulo": "Veja os inscritos do Fluminense para as quartas da Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYUhXTDdVNE0xbHplRTlqSGpHRGJTeU4tNEY1ZVFzd19xei1ZUHczUDgtS0FwLVlVVjYzMXE0WDg3SmZwaFFnVVVUekFBc0UxdG1rSTNUZXhkcXdMUWpMWUFaNGx4bDNhaGNDR1k4RGNQSWdhX2hlYnJObl9sY2c3ZjFZUWp0ZWs3cjZ5QVpOQ3hlbE9Bb2l2NU1QcHNybHNLb3VRTmpPb0tnRE83M3ltTE82aw?oc=5",
-      "data": "05/09 16:20"
+      "titulo": "Revelado pelo Fluminense, lateral Calegari é anunciado em novo clube - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDI0bFJpblN2ek1ZYndCZml4NG1IZmdkMjJTTVJ4ZU5fSmVvNUVzQ2NqSGxGZW9HRmVzZG0yY242ajVDc2VEcHpkdmMxbi1kWWZzNFBtX1hNTnZCaUZLWk5pbVd1bERjV1VkWkJsdGR2bFktRks0cmFYVWVacGRLdzJxWGhmMU9iOFJVbERIajNlRUhhenlNWmo5OEpUS0FtUEZTR3Q4TQ?oc=5",
+      "data": "05/09 19:59"
     },
     {
-      "titulo": "Fluminense tem novo patrocinador no uniforme do futebol profissional - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTlEcEhkTDNKVm5pcGdPazB1anhpamdXQmFGU2dXTkM0OWs1SGp1c1RnUlFDQ251T2hGeEdjX1VvQnVpV19FY2dZelVZSlEwanRkbGc2RnpieUgxbmd1Umc1SDJadnFHMEF3NERDZl9nZFNHS0NVZUxsR2Y5eWxNdzhOd2VZeG12U0MzTkpJR3dsUGVkaU5CY3RiYWdTdENqdEswQTFIdVNHaHUweUFv?oc=5",
-      "data": "05/09 22:27"
+      "titulo": "Cuiabano ex-Fluminense retorna aos Estados Unidos para defender o Los Angeles Galaxy - GE",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3RNMHZobmNrREREZnVTOU5qNnZ1U3ZaMjZXQWNHbG5zWmlURnJIWWNjN1lVMXpYS2F4QzJqYVN2amcwYndsenA5ejFrYU5XUTZfYXc5UjJ5czRiWnJVMU41LWNuaFpnUEZvNWJmVUdqcTlzXzNwOW02Qlc1bURlaXZZRng5Ri1ZcWdvNWtzUGFBTlY4dms0ZGl5NmxYM1h2Tjlzc2haN21JdVNxYlJ0ajdwUmJmM1pYamJobDYzdmtKMDJMczVadWk1ZUV0QjNuRGltallLMDDSAecBQVVfeXFMTUN5a2E3dzdTRkJtVi1RYUFKMzRPMDRfcWdxX2xJWHZPalJObGMzeGdicHE3RjJBenJXWFNraGlhd0pVQzBFdmd6MTFhdFgzVmFxZWF5TVBNbHJnNDJadkV1Nzl4NGpnMUlfZmVSZGZUWG9oZHJUSUIyYzV5QWZTSGswYjRreUtHLVBpbllpczRVZk42NDFNYk9PLXd1WGFHdUxzOGZxWUpWNkcyNTRQOXQ0Y0tDekNqN3FneUtBTFRyMHVHVDR5bHZnQlE1QWlqR08wdkFMU2NHaEh4d1o5ckNMaVVyZ3Zv?oc=5",
+      "data": "03/09 23:15"
     }
   ],
-  "avisos": [
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-  ]
+  "avisos": []
 };
