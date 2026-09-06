@@ -1,124 +1,6 @@
 {
-  "atualizado_em": "06/09/2026 16:54",
+  "atualizado_em": "06/09/2026 18:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "15:00",
-      "competition": "NWSL Feminina",
-      "match": "Denver Summit (F) x NJ/NY Gotham FC (F)",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "15:30",
-      "competition": "Campeonato Peruano",
-      "match": "Deportivo Garcilaso x Atletico Grau",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Juventus x AC Milan",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Marseille x Paris FC",
-      "channels": [
-        "XSPORTS",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Athletico PR",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Internacional x Santos",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Remo x Flamengo",
-      "channels": [
-        "GLOBO",
-        "PREMIERE FC",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Sevilla",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Maringá",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "GIL Vicente x Academico Viseu",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Juventud",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-06",
@@ -143,12 +25,11 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Palmeiras",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Botafogo PB",
       "channels": [
-        "RECORD",
-        "PREMIERE FC",
-        "CAZÉTV"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -165,11 +46,12 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Botafogo PB",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x Palmeiras",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
+        "RECORD",
+        "PREMIERE FC",
+        "CAZÉTV"
       ]
     },
     {
@@ -197,20 +79,20 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Chapecoense-sc",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Boston River",
       "channels": [
-        "PRIME VIDEO"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Boston River",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Chapecoense-sc",
       "channels": [
-        "DISNEY+"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -570,6 +452,124 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "15:00",
+      "competition": "NWSL Feminina",
+      "match": "Denver Summit (F) x NJ/NY Gotham FC (F)",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "15:30",
+      "competition": "Campeonato Peruano",
+      "match": "Deportivo Garcilaso x Atletico Grau",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Marseille x Paris FC",
+      "channels": [
+        "XSPORTS",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Juventus x AC Milan",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Maringá",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Sevilla",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Remo x Flamengo",
+      "channels": [
+        "GLOBO",
+        "PREMIERE FC",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Internacional x Santos",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Athletico PR",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Juventud",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "GIL Vicente x Academico Viseu",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-09-07",
       "time": "13:30",
       "competition": "Campeonato Russo",
@@ -724,26 +724,6 @@
     {
       "sport": "volei",
       "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar Masculina - João Pessoa-PB",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final Feminina - João Pessoa-PB",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-06",
       "time": "18:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Final Masculina - João Pessoa-PB",
@@ -874,19 +854,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - GE",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejZoOC1ZTUgxNlRjd3ZYbnJYbmdwNF9OTlA0VU9uaV8yRWY4UEpiR0huTGV5NUlqRkRlRmNqN2ZrRUJJdlNSMUtWMTNlRWhva2VVTkhiVWJkaUlNY1hCUTk0aWFBT3owby01MFFzNTV0WmhkZWVQR2lNRDJEcjAwdHF2LTJJNk5wNG92ZXFja0RCSmdUMm9TZWxQUGRkU3BCOU9OYTFxUHlqZzRKblVoaXp0TUxXaFYtNjNBYWlPcTAwbklZSEV2bDRKb0ZHUk9RQVYzVNIB4wFBVV95cUxORGdGZnpySFd2TkNodjJZTHAyYXI5eml5MWVmS1VVUlNYZjVLTmR4SnZNYjFwNkRBS1NBaVlOYVh5Rm9ma0kyUXhnNXl5bjJwVzNCQVNYWDVPMEdqMUc3TTZfanlhbFEzbHJvX1lZV2JmLUJmR3Jxdm8zdzRYMm8xV29MTTFBdHpTVi1EYUdMXzg3YlNoZHJ2WjNnQU0yX1o4SXRZc0c0STlSazRyeWFwZ1NMekxTMkFfdEg3RTJnTGJ5UGZBRllNVlBrRFFza1dlOHE3Q3hCMzgtQkFaT3VSMndZUQ?oc=5",
-      "data": "05/09 06:00"
+      "titulo": "Em nota, Fluminense critica arbitragem do jogo contra o Vasco - NETVASCO",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYV9ObXlhS0d4YXg5N0dlUUxmY2NGX2UtdzdfYzY2NHdOM1BuMWtmNS1YR0RqX3BxMllHaW1aRF8xT0cydFNnMVF3U3F4ZlowM3FERmU2WDhhS1p3d2I2N0NvTzN0T2F2dnJFZ0cwUFRRWk1kSDR2MkltU1p5eEN6SjFvMkgwekpuUjlNc21lSE5TS3BLbk1EZTZKMlVPdw?oc=5",
+      "data": "06/09 14:35"
     },
     {
-      "titulo": "Fluminense inscreve joia sul-africana de 18 anos nas quartas de final da Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFZId2J6d3lVQzhIMFhtcjlwcmxJSktkdThnTGxwM0RIMlk4VXRpN2dydkZfU24tcTB1RS1WZTB3NXdXM3laTzNTUzNNV05UdVZJdjktN2tUbzEzTVRCNlBqclByMlBTYXFjd3QyYW1fTjRES1RRVHQ4UDU2ZVhudUdpTEV1M2FqRHJfSDNBcEhQRnlfTDNrS284V1g2S2twLXJ3VURBdzU3ZXg4cTBNUEp3bkp1OUY5clJ5b2VKODcxNjFFOWpXRFJVT2JSZzg5RlM1UGFkdHdiOTFWMEHSAewBQVVfeXFMTWxlZDVKaW5SMEdoSUN1SE9yMTdEMks0R0xkaHc5a3lMTUdvZW01NzQ2RGF0VG04UjM1bEJGb1M1MGpUcW5RX1NVY0NIdE9hdmx6ZTJVa1EtUGVfQXFkWXNBV2lvS0xyZWhnVC1HVW50bnF3ME8xZEtoanRsc0d2OUd4TWZsd0dqalNNN1M0cTRkZzlNckdsOWNGVVU2RTl6clFNMVVQTENrQ2UtS09mQUpFZ0RVTk9LYjNhQWZEWV9QeHJoUFZ4bDNPdXFzVVotVkVnUlh5cnRFOE1OQk5pUWdWeW5zTkhqZE14clE?oc=5",
-      "data": "05/09 15:14"
-    },
-    {
-      "titulo": "Fluminense emite nota e se diz prejudicado pela arbitragem no Brasileirão - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVGJYZHJxMzZBaHpWeDNvWTQ5NWxvdEN5bW9NdEtnNE1XNElFbl8tQ0dOSkxjdVN3UjBQekJoRnVyZzV6aG42emhNX1g0cXgybERRZ2ZzTVA3YXNmdEdzeWdDdTlfSEliM19lbUtQU3J3Y1l4QkVqRTAtajVoQmNMakliTjlfNUJnNTE2Zm5zbmQ3Z1RCUjcxeTZIemlUZmJUWnpuWGItaTRsVEVjOVg2NE9jaFViYS1FZWtjMEMySHZsVkh1VTZ4QXdKOVVpdXN4MlkydHlpWjgxODBaWE9BOTZuRC1LUHVOTURpU3JJdEo2T0U?oc=5",
-      "data": "06/09 15:14"
+      "titulo": "Ex-Fluminense decide título inédito na Europa e entra para a história - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX0FnTzdxd0wwc015RHpYNkdtSVZleWlLRG1ZX1JoTDJsNDRrN1gzYmljekFWaUxSTUdxdHFSNFVGZEg5eC1qOUt0Y2dKMzhkUHZxcnR1SVZrUVhDVFIyaWVhMzh1dXc1XzU4bHhnUDZ5cEVXZ3l2Ykx6dmVJQzNtQnVUOVdLajctbGNCWG92OHdkQVR0NUxVNEpXZzV1c3ZMSXFwM2U4MHc5b0ZjQndVSE5xb1N2ODktUkpvQThGTEZMVmRLN0JtZ2t0Z1dEQVU4TlZvc0VwZ25YWnJTMG52WFI2RDJ6dnpRQkpxbHBheGZNZw?oc=5",
+      "data": "06/09 18:10"
     },
     {
       "titulo": "Manu Astori se torna a atleta do Flu com a melhor campanha da história do José Finkel de Natação - fluminense.com.br",
@@ -894,9 +869,14 @@
       "data": "06/09 15:58"
     },
     {
-      "titulo": "Fluminense vai às redes protestar sobre arbitragem contra o Vasco: 'Absoluta falta de critério' - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnVtRnplYkZ4Y1pxSURjSTZDMUhYQ0tsZkxVRWp4blk0U3ZXZV9hUG9Hcm0ydlZVZGdMVmw1T3FwVGhlcnZwenI2N19VWEJBUFlxXzQxNFE5bXhBdnNqbHh2ajF6QTlHZGczbDRWZE8wLVlFTnl1ZEFfY2xMcUZsYTB1cWFsZm5tV1NhUjJaYmNxMkh5MnpsanVhVzBBM3J5bUsxczE2enFVSndjMm9sRUwxN0JDVGpRZDVlY0E5emhjb0ZvNEZtVHlMR29GSXNjd2ttNzgtTHhsZko0eklrczVTVWZrbXAzZmV2WDVrbUJ5cTdCS0E?oc=5",
-      "data": "06/09 15:56"
+      "titulo": "Desabafo de Guga amplia lista de reclamações de jogadores contra gramado do Maracanã: 'Desesperador' - oglobo.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMHk3VFZLbnZMVzJKS2JoRHkxSmNqbl9FLXJhU3N1NEZxOGQ0b24yQWEwZHFzX2JlWFp0Y04tMnd4Ni11V2hiVERFNVFpNGJheXBJREVYdVlNZ2dtclA1T3RrZ0Eyb05hNDZTU3NZUTBwRUkzSTNoRlo0cW5kM0kyTjl5QXI0QnRvSGxLQVRjVUhLXzFWb3BaVnVTbHRCZld1Z3J2Z3paRXU3OS0wcHkwTnhxbnBNVzhpNldybVMwYy1YbDlXNHpxeWpuS0tzUW1BZ0ZnVU11MVNLZGs5cUZGRlYxdlktSTgyRUJYZGpZZDNKbmJlS2NvNmR5a09zTlNVUEJFbWp30gGUAkFVX3lxTE9teVZaQ1NDMTJVUC1zR29RQWxEanRWWFM4WEhCRVdqTWZtcjN1b1QweXY3ajZic180VTA4NWdSRldJd0I4Q1c1cnUwQjB4X3RTQzBVM0xDb2R4QkVtVlNxOWd3Y0c0WVA4akZZeEJPMkpuOW9EYl8zdF9wM1UzNzk2cTVCeW9YaFBOTXpyWHF5UGZkVFVpemV3VlFOWVAtbGN1S2NFUzd2WnhMQmFUWlBWbTNEVkZPaVpJNW1sbDJWS0FfVXAxYmVUUkMxVTZRNjhjN0NOZFF0ZE1QZW9EcTBUNzNwMmYyaTFubmxGVl9KWjhhMHBQLVhIekdOSUtidloteE5NaHRNSnVyUDY1a1RGMFd2WA?oc=5",
+      "data": "06/09 19:26"
+    },
+    {
+      "titulo": "De 'peitada' a pênalti: Fluminense se manifesta sobre polêmicas de arbitragem em vitória sobre Vasco - espn.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmhEMnFUTlZTWkR0X0NySWlIUlh3TWJOZFp4ODFqeWdrQnlZYXA4MEYtTS1BSWVOVmo4Mi1EcVNRSFd0VjMyWVlVck5nS3VJcjdjVGxLc0lWaXZRNEdtVnBNcG52RWJqSGFXV1ROMUlRMU1uNW4zM08wRjRSV0lCUFZkMUVxNnM2N3FGT0lPZjAxR0k1RE1mX183M25ILXVLR3k3bUZlTW5HT085Y3hpME1pREVmNFQ2TVV6Mkp5QWd3LXluVlV4QjV5QlFaaDU1?oc=5",
+      "data": "06/09 15:40"
     }
   ],
   "avisos": []
