@@ -1,132 +1,6 @@
 {
-  "atualizado_em": "06/09/2026 11:49",
+  "atualizado_em": "06/09/2026 14:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "competition": "Campeonato Inglês",
-      "match": "Everton x Manchester United",
-      "channels": [
-        "CAZÉTV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Frosinone x Venezia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Parma x Monza",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "competition": "Campeonato Francês",
-      "match": "Estac Troyes x Strasbourg",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Hamburger SV x FSV Mainz 05",
-      "channels": [
-        "SPORTYNET",
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Operário-PR",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Coritiba x Mirassol",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "11:15",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Barcelona",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "SG Sonnenhof Grossaspach x Hoffenheim II",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Santa Clara x Rio Ave",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "12:15",
-      "competition": "Campeonato Francês",
-      "match": "Angers x Rennes",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-06",
@@ -136,18 +10,6 @@
       "channels": [
         "XSPORTS",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "12:30",
-      "competition": "Campeonato Alemão",
-      "match": "Eintracht Frankfurt x FC Augsburg",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -165,16 +27,6 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "Bologna x Sassuolo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "13:00",
       "competition": "Campeonato Uruguaio",
       "match": "Central Espanol x Defensor Sporting",
       "channels": [
@@ -184,12 +36,11 @@
     {
       "sport": "futebol",
       "date": "2026-09-06",
-      "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Malaga x Levante",
+      "time": "13:00",
+      "competition": "Campeonato Italiano",
+      "match": "Bologna x Sassuolo",
       "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -206,11 +57,12 @@
     {
       "sport": "futebol",
       "date": "2026-09-06",
-      "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Guimaraes x Casa Pia",
+      "time": "13:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Malaga x Levante",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV",
+        "YOUTUBE"
       ]
     },
     {
@@ -221,6 +73,16 @@
       "match": "Trabzonspor x Genclerbirligi",
       "channels": [
         "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "14:00",
+      "competition": "Campeonato Português",
+      "match": "Guimaraes x Casa Pia",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -268,22 +130,22 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Juventus x AC Milan",
+      "competition": "Campeonato Francês",
+      "match": "Marseille x Paris FC",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "XSPORTS",
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Marseille x Paris FC",
+      "competition": "Campeonato Italiano",
+      "match": "Juventus x AC Milan",
       "channels": [
-        "XSPORTS",
-        "CAZÉTV"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -302,10 +164,11 @@
       "date": "2026-09-06",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "Internacional x Santos",
+      "match": "Remo x Flamengo",
       "channels": [
         "GLOBO",
-        "PREMIERE 3"
+        "PREMIERE FC",
+        "GE TV"
       ]
     },
     {
@@ -313,11 +176,10 @@
       "date": "2026-09-06",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "Remo x Flamengo",
+      "match": "Internacional x Santos",
       "channels": [
         "GLOBO",
-        "PREMIERE FC",
-        "GE TV"
+        "PREMIERE 3"
       ]
     },
     {
@@ -386,18 +248,6 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Palmeiras",
-      "channels": [
-        "RECORD",
-        "PREMIERE FC",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "18:30",
       "competition": "Brasileirão Série B",
       "match": "Ponte Preta x São Bernardo",
       "channels": [
@@ -413,6 +263,18 @@
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x Palmeiras",
+      "channels": [
+        "RECORD",
+        "PREMIERE FC",
+        "CAZÉTV"
       ]
     },
     {
@@ -522,8 +384,9 @@
       "date": "2026-09-06",
       "time": "08:30",
       "competition": "2ª Divisão Alemã",
-      "match": "VfL Osnabruck x Eintracht Braunschweig",
+      "match": "Hertha Berlin x FC Magdeburg",
       "channels": [
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -542,9 +405,8 @@
       "date": "2026-09-06",
       "time": "08:30",
       "competition": "2ª Divisão Alemã",
-      "match": "Hertha Berlin x FC Magdeburg",
+      "match": "VfL Osnabruck x Eintracht Braunschweig",
       "channels": [
-        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -566,6 +428,144 @@
       "match": "Heerenveen x AZ Alkmaar",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Parma x Monza",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
+      "competition": "Campeonato Inglês",
+      "match": "Everton x Manchester United",
+      "channels": [
+        "CAZÉTV",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Frosinone x Venezia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Racing Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
+      "competition": "Campeonato Francês",
+      "match": "Estac Troyes x Strasbourg",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Hamburger SV x FSV Mainz 05",
+      "channels": [
+        "SPORTYNET",
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "11:00",
+      "competition": "Brasileirão Série A",
+      "match": "Coritiba x Mirassol",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x Operário-PR",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "11:15",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Barcelona",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "11:30",
+      "competition": "Campeonato Português",
+      "match": "Santa Clara x Rio Ave",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "11:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "SG Sonnenhof Grossaspach x Hoffenheim II",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "12:15",
+      "competition": "Campeonato Francês",
+      "match": "Angers x Rennes",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "12:30",
+      "competition": "Campeonato Alemão",
+      "match": "Eintracht Frankfurt x FC Augsburg",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -719,26 +719,6 @@
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-06",
-      "time": "11:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal Masculina - João Pessoa-PB",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-06",
-      "time": "12:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal Masculina - João Pessoa-PB",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -904,19 +884,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - GE",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejZoOC1ZTUgxNlRjd3ZYbnJYbmdwNF9OTlA0VU9uaV8yRWY4UEpiR0huTGV5NUlqRkRlRmNqN2ZrRUJJdlNSMUtWMTNlRWhva2VVTkhiVWJkaUlNY1hCUTk0aWFBT3owby01MFFzNTV0WmhkZWVQR2lNRDJEcjAwdHF2LTJJNk5wNG92ZXFja0RCSmdUMm9TZWxQUGRkU3BCOU9OYTFxUHlqZzRKblVoaXp0TUxXaFYtNjNBYWlPcTAwbklZSEV2bDRKb0ZHUk9RQVYzVNIB4wFBVV95cUxORGdGZnpySFd2TkNodjJZTHAyYXI5eml5MWVmS1VVUlNYZjVLTmR4SnZNYjFwNkRBS1NBaVlOYVh5Rm9ma0kyUXhnNXl5bjJwVzNCQVNYWDVPMEdqMUc3TTZfanlhbFEzbHJvX1lZV2JmLUJmR3Jxdm8zdzRYMm8xV29MTTFBdHpTVi1EYUdMXzg3YlNoZHJ2WjNnQU0yX1o4SXRZc0c0STlSazRyeWFwZ1NMekxTMkFfdEg3RTJnTGJ5UGZBRllNVlBrRFFza1dlOHE3Q3hCMzgtQkFaT3VSMndZUQ?oc=5",
-      "data": "05/09 06:00"
+      "titulo": "Fluminense derrota Vasco, encerra jejum e mantém rival no Z4 do Brasileirão - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDdhdXZLSTBaYVJma2VjZ296UEFSZENNeXFRSkhKRGVJZC1Yak5MMFRqT2o2cXpwTmFHcmZxd2RpMjhwdC1EdkJ1aHYxYzV6dndrMm9ELVRnN1pnN1NxczdqMWM1dnRHcTVoemhkSElaakp5TzZLUkZHYmZtX211RDNRVkROcUoxMFloUDRhaDRjTUlhODJYdGNkU0FMeGRMREtzOVQ5WUs2LXB0V1BZNlRab0pqTEg1WnBQdFdIOHlxZDQ?oc=5",
+      "data": "06/09 02:00"
     },
     {
-      "titulo": "Fluminense detona arbitragem após pênalti não marcado e \"peitada\" em Canobbio - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkVIVWdrVDlPd0JFOFV4ZDhqWXduOVRlQk92ZXpLeGpLQzhjVTZLand2bXU0c0tPR1hIRHZXaGE2OHFfd0k1WEhONlduaHRhRDJPOU9JdGkxSjVQVWxFU0NocXp4UVBGcjMyTG1PTmhpRlAyMkZneEM3elg0YWRFNDl0OHdndFNMeFpSbFNwVmhLS3EzMy1UZ245bXV0TjNfUUU5eQ?oc=5",
-      "data": "06/09 13:49"
-    },
-    {
-      "titulo": "Fluminense tem novo patrocinador no uniforme do futebol profissional - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTlEcEhkTDNKVm5pcGdPazB1anhpamdXQmFGU2dXTkM0OWs1SGp1c1RnUlFDQ251T2hGeEdjX1VvQnVpV19FY2dZelVZSlEwanRkbGc2RnpieUgxbmd1Umc1SDJadnFHMEF3NERDZl9nZFNHS0NVZUxsR2Y5eWxNdzhOd2VZeG12U0MzTkpJR3dsUGVkaU5CY3RiYWdTdENqdEswQTFIdVNHaHUweUFv?oc=5",
-      "data": "05/09 22:27"
+      "titulo": "Manu Astori se torna a atleta do Flu com a melhor campanha da história do José Finkel de Natação - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQampkNkhXZGk0YWpSTG04VEM5anJKVVFRc1ByNDlhRS1jN2ZVZmE5S2dwWVNTRkZiV1ZXOUthZ05YNGRJdWxYR2cyWThlU1FiLVZ4WEFWSHZtWVl0b0JEcW82TFluNTZBSlFmbjlhRTU2Q1h3YjhiaUlIVG1tQUtoQUtmNU5RMWpxNmxnanNRUnI4akFxOU5yZEpHOE5kMjZoRmVnNHhaVEh5ekh5X2M2QXBXYmgtYWNNVVJfdVF0ZFhkQkg3M29uV3N6QzhlLXM?oc=5",
+      "data": "06/09 15:58"
     },
     {
       "titulo": "Por que Rodrigo Castillo sumiu no Fluminense? Entenda - Terra",
@@ -924,9 +899,14 @@
       "data": "05/09 17:59"
     },
     {
-      "titulo": "Revelado pelo Fluminense, lateral Calegari é anunciado em novo clube - nsctotal.com.br",
+      "titulo": "Revelado pelo Fluminense, lateral Calegari é anunciado em novo clube - NSC Total",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDI0bFJpblN2ek1ZYndCZml4NG1IZmdkMjJTTVJ4ZU5fSmVvNUVzQ2NqSGxGZW9HRmVzZG0yY242ajVDc2VEcHpkdmMxbi1kWWZzNFBtX1hNTnZCaUZLWk5pbVd1bERjV1VkWkJsdGR2bFktRks0cmFYVWVacGRLdzJxWGhmMU9iOFJVbERIajNlRUhhenlNWmo5OEpUS0FtUEZTR3Q4TQ?oc=5",
       "data": "05/09 19:59"
+    },
+    {
+      "titulo": "Fluminense detona arbitragem após pênalti não marcado e \"peitada\" em Canobbio - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkVIVWdrVDlPd0JFOFV4ZDhqWXduOVRlQk92ZXpLeGpLQzhjVTZLand2bXU0c0tPR1hIRHZXaGE2OHFfd0k1WEhONlduaHRhRDJPOU9JdGkxSjVQVWxFU0NocXp4UVBGcjMyTG1PTmhpRlAyMkZneEM3elg0YWRFNDl0OHdndFNMeFpSbFNwVmhLS3EzMy1UZ245bXV0TjNfUUU5eQ?oc=5",
+      "data": "06/09 13:49"
     }
   ],
   "avisos": []
