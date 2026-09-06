@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/09/2026 18:55",
+  "atualizado_em": "06/09/2026 20:26",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Uberlandia",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Alianza Lima",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-06",
@@ -93,16 +73,6 @@ window.PAINEL_DATA = {
       "match": "Corinthians x Chapecoense-sc",
       "channels": [
         "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "20:00",
-      "competition": "NWSL Feminina",
-      "match": "Orlando Pride (F) x Houston Dash (F)",
-      "channels": [
-        "XSPORTS"
       ]
     },
     {
@@ -392,7 +362,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-06",
       "time": "13:30",
       "competition": "Campeonato Espanhol",
-      "match": "Malaga x Levante",
+      "match": "Alavés x Osasuna",
       "channels": [
         "CAZÉTV",
         "YOUTUBE"
@@ -403,7 +373,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-06",
       "time": "13:30",
       "competition": "Campeonato Espanhol",
-      "match": "Alavés x Osasuna",
+      "match": "Malaga x Levante",
       "channels": [
         "CAZÉTV",
         "YOUTUBE"
@@ -496,6 +466,28 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Internacional x Santos",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Athletico PR",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "16:00",
       "competition": "Brasileirão Série C",
       "match": "Floresta x Maringá",
       "channels": [
@@ -529,28 +521,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Internacional x Santos",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Athletico PR",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
       "time": "16:30",
       "competition": "Campeonato Uruguaio",
       "match": "Club Nacional x Juventud",
@@ -566,6 +536,36 @@ window.PAINEL_DATA = {
       "match": "GIL Vicente x Academico Viseu",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Uberlandia",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Juan Pablo II College x Alianza Lima",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "20:00",
+      "competition": "NWSL Feminina",
+      "match": "Orlando Pride (F) x Houston Dash (F)",
+      "channels": [
+        "XSPORTS"
       ]
     },
     {
@@ -616,7 +616,8 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Saudita",
       "match": "Al-Hilal x Neom",
       "channels": [
-        "ONEFOOTBALL"
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -626,6 +627,7 @@ window.PAINEL_DATA = {
       "competition": "Copa Paulista",
       "match": "Paulista x Gremio Prudente",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -719,16 +721,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTV",
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-06",
-      "time": "18:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Final Masculina - João Pessoa-PB",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -855,28 +847,28 @@ window.PAINEL_DATA = {
   "noticias": [
     {
       "titulo": "Em nota, Fluminense critica arbitragem do jogo contra o Vasco - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYV9ObXlhS0d4YXg5N0dlUUxmY2NGX2UtdzdfYzY2NHdOM1BuMWtmNS1YR0RqX3BxMllHaW1aRF8xT0cydFNnMVF3U3F4ZlowM3FERmU2WDhhS1p3d2I2N0NvTzN0T2F2dnJFZ0cwUFRRWk1kSDR2MkltU1p5eEN6SjFvMkgwekpuUjlNc21lSE5TS3BLbk1EZTZKMlVPdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHdRQmhUY2VuVm9HTTRQX0R0dHFoRkw0MjdWQlJMbnNYUTBxRVBWTm1JaW01aHV1cW4tRUFpcE81ZXlGZzVXMTdQWjJob1hZNVZta0FLRkE2bUM5UkV4dzNMX1QzaHd4TUc0U3ZzSFVqd3ZNTHlPT2M5c0FfUGdRakYzRl9JaldvdEtRXzAySXpKd2RyVmVORw?oc=5",
       "data": "06/09 14:35"
     },
     {
-      "titulo": "Ex-Fluminense decide título inédito na Europa e entra para a história - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX0FnTzdxd0wwc015RHpYNkdtSVZleWlLRG1ZX1JoTDJsNDRrN1gzYmljekFWaUxSTUdxdHFSNFVGZEg5eC1qOUt0Y2dKMzhkUHZxcnR1SVZrUVhDVFIyaWVhMzh1dXc1XzU4bHhnUDZ5cEVXZ3l2Ykx6dmVJQzNtQnVUOVdLajctbGNCWG92OHdkQVR0NUxVNEpXZzV1c3ZMSXFwM2U4MHc5b0ZjQndVSE5xb1N2ODktUkpvQThGTEZMVmRLN0JtZ2t0Z1dEQVU4TlZvc0VwZ25YWnJTMG52WFI2RDJ6dnpRQkpxbHBheGZNZw?oc=5",
-      "data": "06/09 18:10"
+      "titulo": "Thiago Silva e Hércules treinam e reforçam o Fluminense na Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLTF1QUdVRzZ1N09ZcWZtYTJhbHNGR1RpRmxrR2JGbDl0OVFDaXlBbFpIVmlwUmtvYjRSUDVVa3lzWnVZSUVvdFBTZk1Qd09hamVYUzFnUW9tUjZvQjJNcGN0ckkwX0MwU0lVcWdna09nQVd0bnVPVGdVbDgxcWoyY1FacUJUbU1CamN6bk5Fa2x5VVl0ZHg0N2JUUS15T19FbUJ0MmhjbUpDWFpsQV9oU3pTdzBKQ3F6bHdHcWRoUWRnSTR3aWNuTFZCTWtrOGVPcjdqZExEQXh5b2huUW9ub3BkNXFYWDNxWlNwb1dWZDYtUdIBgAJBVV95cUxNZGFhRW8wSlNqZzBGRHpGLUtqNUdDOVdqSld1TUl2djVFTFdwdTRpNHZyV1UxOHhYVmsxaE56S0syZEhkeXlYTlU3bFZRdzYzTFNob0hQMHFpU3N0Tm1FM002X0pURUJ3YTJfdEtfVlpKbnhsVkYzTjQ3S2o0TTdXaE5VOTY1aHRHMERlRVd5em8zZnN3V1FzcTNIMklXRUhXeXl0MFd2cXdSMkhEcURQRFhQTWhJbG1uWEtsbUg1dFdmNTNmUkY5LUZmTDBxcU5TYTZWckFJcUJFNTIxVmFUcnpIenRQR20xamxMUlJvX25DX1RQNnpCTmJGSUd4bnlG?oc=5",
+      "data": "06/09 19:50"
     },
     {
-      "titulo": "Manu Astori se torna a atleta do Flu com a melhor campanha da história do José Finkel de Natação - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQampkNkhXZGk0YWpSTG04VEM5anJKVVFRc1ByNDlhRS1jN2ZVZmE5S2dwWVNTRkZiV1ZXOUthZ05YNGRJdWxYR2cyWThlU1FiLVZ4WEFWSHZtWVl0b0JEcW82TFluNTZBSlFmbjlhRTU2Q1h3YjhiaUlIVG1tQUtoQUtmNU5RMWpxNmxnanNRUnI4akFxOU5yZEpHOE5kMjZoRmVnNHhaVEh5ekh5X2M2QXBXYmgtYWNNVVJfdVF0ZFhkQkg3M29uV3N6QzhlLXM?oc=5",
-      "data": "06/09 15:58"
+      "titulo": "Peitada de árbitro em Canobbio chama atenção na Europa: 'Nunca visto' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRENZZDNubHdFZVJsSGhUMXFUNFgwSXNtYzZTWENoMkg3YXRVTWd5MEJSU1NjR0RxU1VZS1NHOUYzdjNOdDlLdVR3ZjZwZzNxcDFOMm9IU3NxNFJ1clVvZHJVWU11Y1VNRnY2M2JxMzNaWTdDQjlyMEcxeTdxYUs2Nzc4OVhZMUQyRE5ybHJRZFhKblg3eENIbDVCTGFzcnc2UDI2X0ZYN1NtV2VNZ01PNDdxLTZQVGotSnc?oc=5",
+      "data": "06/09 12:55"
     },
     {
-      "titulo": "Desabafo de Guga amplia lista de reclamações de jogadores contra gramado do Maracanã: 'Desesperador' - oglobo.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMHk3VFZLbnZMVzJKS2JoRHkxSmNqbl9FLXJhU3N1NEZxOGQ0b24yQWEwZHFzX2JlWFp0Y04tMnd4Ni11V2hiVERFNVFpNGJheXBJREVYdVlNZ2dtclA1T3RrZ0Eyb05hNDZTU3NZUTBwRUkzSTNoRlo0cW5kM0kyTjl5QXI0QnRvSGxLQVRjVUhLXzFWb3BaVnVTbHRCZld1Z3J2Z3paRXU3OS0wcHkwTnhxbnBNVzhpNldybVMwYy1YbDlXNHpxeWpuS0tzUW1BZ0ZnVU11MVNLZGs5cUZGRlYxdlktSTgyRUJYZGpZZDNKbmJlS2NvNmR5a09zTlNVUEJFbWp30gGUAkFVX3lxTE9teVZaQ1NDMTJVUC1zR29RQWxEanRWWFM4WEhCRVdqTWZtcjN1b1QweXY3ajZic180VTA4NWdSRldJd0I4Q1c1cnUwQjB4X3RTQzBVM0xDb2R4QkVtVlNxOWd3Y0c0WVA4akZZeEJPMkpuOW9EYl8zdF9wM1UzNzk2cTVCeW9YaFBOTXpyWHF5UGZkVFVpemV3VlFOWVAtbGN1S2NFUzd2WnhMQmFUWlBWbTNEVkZPaVpJNW1sbDJWS0FfVXAxYmVUUkMxVTZRNjhjN0NOZFF0ZE1QZW9EcTBUNzNwMmYyaTFubmxGVl9KWjhhMHBQLVhIekdOSUtidloteE5NaHRNSnVyUDY1a1RGMFd2WA?oc=5",
-      "data": "06/09 19:26"
+      "titulo": "Revelado pelo Fluminense, lateral Calegari é anunciado em novo clube - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDI0bFJpblN2ek1ZYndCZml4NG1IZmdkMjJTTVJ4ZU5fSmVvNUVzQ2NqSGxGZW9HRmVzZG0yY242ajVDc2VEcHpkdmMxbi1kWWZzNFBtX1hNTnZCaUZLWk5pbVd1bERjV1VkWkJsdGR2bFktRks0cmFYVWVacGRLdzJxWGhmMU9iOFJVbERIajNlRUhhenlNWmo5OEpUS0FtUEZTR3Q4TQ?oc=5",
+      "data": "05/09 19:59"
     },
     {
-      "titulo": "De 'peitada' a pênalti: Fluminense se manifesta sobre polêmicas de arbitragem em vitória sobre Vasco - espn.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmhEMnFUTlZTWkR0X0NySWlIUlh3TWJOZFp4ODFqeWdrQnlZYXA4MEYtTS1BSWVOVmo4Mi1EcVNRSFd0VjMyWVlVck5nS3VJcjdjVGxLc0lWaXZRNEdtVnBNcG52RWJqSGFXV1ROMUlRMU1uNW4zM08wRjRSV0lCUFZkMUVxNnM2N3FGT0lPZjAxR0k1RE1mX183M25ILXVLR3k3bUZlTW5HT085Y3hpME1pREVmNFQ2TVV6Mkp5QWd3LXluVlV4QjV5QlFaaDU1?oc=5",
-      "data": "06/09 15:40"
+      "titulo": "Mega Seguros é a nova patrocinadora do Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2dPQlAxOGd6Zlp3WFVEZUNSOE5SQS1ybDhaRTRCd2F3SDlHMmp4eEdtN1AxRV9MdDZLWDVVbDJrcy12QWZ0MllPLXdxNkw4dkxuamtLTVNxNGRycHVzRTZFRkdxQUdybl9taGNGVDE5VFZQb3YwOWlWamNhZWJPQV9XdmVUTGhwYmNpaFNpdFU?oc=5",
+      "data": "05/09 21:45"
     }
   ],
   "avisos": []
