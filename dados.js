@@ -1,111 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/09/2026 14:27",
+  "atualizado_em": "06/09/2026 16:54",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "12:30",
-      "competition": "Campeonato Russo",
-      "match": "Dinamo Moscow x Spartak Moscow",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "12:30",
-      "competition": "Campeonato Inglês",
-      "match": "Arsenal x Chelsea",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Defensor Sporting",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "Bologna x Sassuolo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Alavés x Osasuna",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Malaga x Levante",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Trabzonspor x Genclerbirligi",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Guimaraes x Casa Pia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "14:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Fortuna Koln x Fortuna Dusseldorf",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "14:45",
-      "competition": "Campeonato Argentino",
-      "match": "Rosario Central x Newells Old Boys",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-06",
@@ -130,22 +25,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Marseille x Paris FC",
+      "competition": "Campeonato Italiano",
+      "match": "Juventus x AC Milan",
       "channels": [
-        "XSPORTS",
-        "CAZÉTV"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Juventus x AC Milan",
+      "competition": "Campeonato Francês",
+      "match": "Marseille x Paris FC",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "XSPORTS",
+        "CAZÉTV"
       ]
     },
     {
@@ -164,11 +59,10 @@ window.PAINEL_DATA = {
       "date": "2026-09-06",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "Remo x Flamengo",
+      "match": "Internacional x Santos",
       "channels": [
         "GLOBO",
-        "PREMIERE FC",
-        "GE TV"
+        "PREMIERE 3"
       ]
     },
     {
@@ -176,10 +70,11 @@ window.PAINEL_DATA = {
       "date": "2026-09-06",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "Internacional x Santos",
+      "match": "Remo x Flamengo",
       "channels": [
         "GLOBO",
-        "PREMIERE 3"
+        "PREMIERE FC",
+        "GE TV"
       ]
     },
     {
@@ -228,6 +123,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Uberlandia",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "17:00",
       "competition": "Campeonato Peruano",
       "match": "Juan Pablo II College x Alianza Lima",
       "channels": [
@@ -237,11 +142,13 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-06",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Uberlandia",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x Palmeiras",
       "channels": [
-        "YOUTUBE"
+        "RECORD",
+        "PREMIERE FC",
+        "CAZÉTV"
       ]
     },
     {
@@ -263,18 +170,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Palmeiras",
-      "channels": [
-        "RECORD",
-        "PREMIERE FC",
-        "CAZÉTV"
       ]
     },
     {
@@ -434,17 +329,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Parma x Monza",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
       "competition": "Campeonato Inglês",
       "match": "Everton x Manchester United",
       "channels": [
@@ -459,6 +343,17 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Italiano",
       "match": "Frosinone x Venezia",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Parma x Monza",
+      "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -560,12 +455,117 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "12:30",
+      "competition": "Campeonato Russo",
+      "match": "Dinamo Moscow x Spartak Moscow",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "12:30",
       "competition": "Campeonato Alemão",
       "match": "Eintracht Frankfurt x FC Augsburg",
       "channels": [
         "SPORTYNET",
         "YOUTUBE",
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "12:30",
+      "competition": "Campeonato Inglês",
+      "match": "Arsenal x Chelsea",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "competition": "Campeonato Italiano",
+      "match": "Bologna x Sassuolo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "13:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Defensor Sporting",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "13:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Malaga x Levante",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "13:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Alavés x Osasuna",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "14:00",
+      "competition": "Campeonato Português",
+      "match": "Guimaraes x Casa Pia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Trabzonspor x Genclerbirligi",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "14:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Fortuna Koln x Fortuna Dusseldorf",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "14:45",
+      "competition": "Campeonato Argentino",
+      "match": "Rosario Central x Newells Old Boys",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -724,16 +724,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-06",
-      "time": "15:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Disputa de 3º Lugar Feminina - João Pessoa-PB",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-06",
       "time": "16:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Disputa de 3º Lugar Masculina - João Pessoa-PB",
@@ -856,37 +846,47 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 21.1,
-      "temp_min": 16.9,
+      "temp_min": 17.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 20.7,
-      "temp_min": 17.4,
+      "temp_min": 18.0,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.2,
-      "temp_min": 13.4,
+      "temp_max": 18.5,
+      "temp_min": 13.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 16.6,
-      "temp_min": 11.2,
+      "temp_min": 11.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense derrota Vasco, encerra jejum e mantém rival no Z4 do Brasileirão - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDdhdXZLSTBaYVJma2VjZ296UEFSZENNeXFRSkhKRGVJZC1Yak5MMFRqT2o2cXpwTmFHcmZxd2RpMjhwdC1EdkJ1aHYxYzV6dndrMm9ELVRnN1pnN1NxczdqMWM1dnRHcTVoemhkSElaakp5TzZLUkZHYmZtX211RDNRVkROcUoxMFloUDRhaDRjTUlhODJYdGNkU0FMeGRMREtzOVQ5WUs2LXB0V1BZNlRab0pqTEg1WnBQdFdIOHlxZDQ?oc=5",
-      "data": "06/09 02:00"
+      "titulo": "Fluminense x Vasco: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejZoOC1ZTUgxNlRjd3ZYbnJYbmdwNF9OTlA0VU9uaV8yRWY4UEpiR0huTGV5NUlqRkRlRmNqN2ZrRUJJdlNSMUtWMTNlRWhva2VVTkhiVWJkaUlNY1hCUTk0aWFBT3owby01MFFzNTV0WmhkZWVQR2lNRDJEcjAwdHF2LTJJNk5wNG92ZXFja0RCSmdUMm9TZWxQUGRkU3BCOU9OYTFxUHlqZzRKblVoaXp0TUxXaFYtNjNBYWlPcTAwbklZSEV2bDRKb0ZHUk9RQVYzVNIB4wFBVV95cUxORGdGZnpySFd2TkNodjJZTHAyYXI5eml5MWVmS1VVUlNYZjVLTmR4SnZNYjFwNkRBS1NBaVlOYVh5Rm9ma0kyUXhnNXl5bjJwVzNCQVNYWDVPMEdqMUc3TTZfanlhbFEzbHJvX1lZV2JmLUJmR3Jxdm8zdzRYMm8xV29MTTFBdHpTVi1EYUdMXzg3YlNoZHJ2WjNnQU0yX1o4SXRZc0c0STlSazRyeWFwZ1NMekxTMkFfdEg3RTJnTGJ5UGZBRllNVlBrRFFza1dlOHE3Q3hCMzgtQkFaT3VSMndZUQ?oc=5",
+      "data": "05/09 06:00"
+    },
+    {
+      "titulo": "Fluminense inscreve joia sul-africana de 18 anos nas quartas de final da Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWFZId2J6d3lVQzhIMFhtcjlwcmxJSktkdThnTGxwM0RIMlk4VXRpN2dydkZfU24tcTB1RS1WZTB3NXdXM3laTzNTUzNNV05UdVZJdjktN2tUbzEzTVRCNlBqclByMlBTYXFjd3QyYW1fTjRES1RRVHQ4UDU2ZVhudUdpTEV1M2FqRHJfSDNBcEhQRnlfTDNrS284V1g2S2twLXJ3VURBdzU3ZXg4cTBNUEp3bkp1OUY5clJ5b2VKODcxNjFFOWpXRFJVT2JSZzg5RlM1UGFkdHdiOTFWMEHSAewBQVVfeXFMTWxlZDVKaW5SMEdoSUN1SE9yMTdEMks0R0xkaHc5a3lMTUdvZW01NzQ2RGF0VG04UjM1bEJGb1M1MGpUcW5RX1NVY0NIdE9hdmx6ZTJVa1EtUGVfQXFkWXNBV2lvS0xyZWhnVC1HVW50bnF3ME8xZEtoanRsc0d2OUd4TWZsd0dqalNNN1M0cTRkZzlNckdsOWNGVVU2RTl6clFNMVVQTENrQ2UtS09mQUpFZ0RVTk9LYjNhQWZEWV9QeHJoUFZ4bDNPdXFzVVotVkVnUlh5cnRFOE1OQk5pUWdWeW5zTkhqZE14clE?oc=5",
+      "data": "05/09 15:14"
+    },
+    {
+      "titulo": "Fluminense emite nota e se diz prejudicado pela arbitragem no Brasileirão - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVGJYZHJxMzZBaHpWeDNvWTQ5NWxvdEN5bW9NdEtnNE1XNElFbl8tQ0dOSkxjdVN3UjBQekJoRnVyZzV6aG42emhNX1g0cXgybERRZ2ZzTVA3YXNmdEdzeWdDdTlfSEliM19lbUtQU3J3Y1l4QkVqRTAtajVoQmNMakliTjlfNUJnNTE2Zm5zbmQ3Z1RCUjcxeTZIemlUZmJUWnpuWGItaTRsVEVjOVg2NE9jaFViYS1FZWtjMEMySHZsVkh1VTZ4QXdKOVVpdXN4MlkydHlpWjgxODBaWE9BOTZuRC1LUHVOTURpU3JJdEo2T0U?oc=5",
+      "data": "06/09 15:14"
     },
     {
       "titulo": "Manu Astori se torna a atleta do Flu com a melhor campanha da história do José Finkel de Natação - fluminense.com.br",
@@ -894,19 +894,9 @@ window.PAINEL_DATA = {
       "data": "06/09 15:58"
     },
     {
-      "titulo": "Por que Rodrigo Castillo sumiu no Fluminense? Entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN05CYnZTWHU0cThqU1BULTJsZTRpLTEzeDlteTl6Slh3Qi1MZ05VbWhqMVBhTmt3X19mQXJMdDFSX3ZRSi03ek9LNERhdWxJTnZWWVcxMXRHZDZUUlF3NV81N000Mk0yRE1pSFZpLWpZX0N2VU1SRzkwdktsNWRnVGJQT2xBbGdnT1NRSmd3bnJ5Z0ZZUVJocktxRE0xcDhGaGNQeGktcnZ1M2RraUFZa1dybUNOYXBmQWhjN2drV01OVWpRUFJqY0ZQRGRadHdLVG9yMWJiWQ?oc=5",
-      "data": "05/09 17:59"
-    },
-    {
-      "titulo": "Revelado pelo Fluminense, lateral Calegari é anunciado em novo clube - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDI0bFJpblN2ek1ZYndCZml4NG1IZmdkMjJTTVJ4ZU5fSmVvNUVzQ2NqSGxGZW9HRmVzZG0yY242ajVDc2VEcHpkdmMxbi1kWWZzNFBtX1hNTnZCaUZLWk5pbVd1bERjV1VkWkJsdGR2bFktRks0cmFYVWVacGRLdzJxWGhmMU9iOFJVbERIajNlRUhhenlNWmo5OEpUS0FtUEZTR3Q4TQ?oc=5",
-      "data": "05/09 19:59"
-    },
-    {
-      "titulo": "Fluminense detona arbitragem após pênalti não marcado e \"peitada\" em Canobbio - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkVIVWdrVDlPd0JFOFV4ZDhqWXduOVRlQk92ZXpLeGpLQzhjVTZLand2bXU0c0tPR1hIRHZXaGE2OHFfd0k1WEhONlduaHRhRDJPOU9JdGkxSjVQVWxFU0NocXp4UVBGcjMyTG1PTmhpRlAyMkZneEM3elg0YWRFNDl0OHdndFNMeFpSbFNwVmhLS3EzMy1UZ245bXV0TjNfUUU5eQ?oc=5",
-      "data": "06/09 13:49"
+      "titulo": "Fluminense vai às redes protestar sobre arbitragem contra o Vasco: 'Absoluta falta de critério' - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSnVtRnplYkZ4Y1pxSURjSTZDMUhYQ0tsZkxVRWp4blk0U3ZXZV9hUG9Hcm0ydlZVZGdMVmw1T3FwVGhlcnZwenI2N19VWEJBUFlxXzQxNFE5bXhBdnNqbHh2ajF6QTlHZGczbDRWZE8wLVlFTnl1ZEFfY2xMcUZsYTB1cWFsZm5tV1NhUjJaYmNxMkh5MnpsanVhVzBBM3J5bUsxczE2enFVSndjMm9sRUwxN0JDVGpRZDVlY0E5emhjb0ZvNEZtVHlMR29GSXNjd2ttNzgtTHhsZko0eklrczVTVWZrbXAzZmV2WDVrbUJ5cTdCS0E?oc=5",
+      "data": "06/09 15:56"
     }
   ],
   "avisos": []
