@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/09/2026 04:50",
+  "atualizado_em": "07/09/2026 10:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -132,7 +132,8 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série C",
       "match": "Paysandu x Brusque",
       "channels": [
-        "SPORTYNET"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -229,7 +230,8 @@ window.PAINEL_DATA = {
       "competition": "Copa da liga Inglesa",
       "match": "Bournemouth x Lincoln",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -283,7 +285,8 @@ window.PAINEL_DATA = {
       "competition": "Copa da liga Inglesa",
       "match": "Millwall x Newcastle",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -476,38 +479,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 19.7,
-      "temp_min": 16.7,
+      "temp_max": 18.5,
+      "temp_min": 16.2,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 20.3,
-      "temp_min": 17.3,
+      "temp_max": 19.7,
+      "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 16.8,
-      "temp_min": 12.2,
+      "temp_max": 16.3,
+      "temp_min": 11.9,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 12.7,
-      "temp_min": 10.2,
+      "temp_max": 13.0,
+      "temp_min": 9.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Veja o gol da vitória do Fluminense sobre o Vasco no Brasileirão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUFhTVFlQWZkQmRLS1c1a1RqZXNRX2VKYVQ5ejQzQk5JNDRTdjN5WS1JdzNSMmhVVlo1OGlnZExYQVFwWFM0cXZYLU9RcHlUdjZadWc3M0JvWmZfYWJiMnJaald0V05aR2RXSHRUVTBhT181SFNQdlZud05CYk9NNWZtbi1jQjZjQTV2dk16YmVoVTZLRUN4WU5IVU1Wa2cteTBiblU1WQ?oc=5",
-      "data": "06/09 01:30"
+      "titulo": "Análise: Fluminense supera fantasma contra o Vasco e confirma boa fase antes da Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeVVXRlZCTWloUWhlOUNoR3llV2V3clg5UTlLcGJYeXlBWHJBYkJOSzlrOExtQ2NERkxJZkIwU3RQXzZ5SXQyRjdfN1ZTT1ByQlFlU1RrWW1pRmRoNFBWbVVfanFITnJsdDBkSEJleFNvZmRBaXR2bTlNR1g0UjVESmlGWVU0N3JnNUJpcFZIWkpPWHBpOGZyT2czcTljSHZfaGRFQzhVb2o4U3FLNWlqSENLUW1uS0Ewb3dKSWJBOWRIeE1YcmVjaE5QY2ZJaTBQdWJiTXhXTVJHeVJ5NlJwNHJCWC1BaUMtRlJkZFBXTEl6RmdN0gGDAkFVX3lxTE9CVk5pSnc1b3dPTy1GY2JPUG81aUJzVmkzaUZyVFFldkNoNGFHUVl0aVJURTZVeVlLdm9LeVgtamhxa1FFaHpBMW4wRzBCc2RkZUlXYTluY0NYbHFHWDZxbWF0WEVKaUY2OERfNHFiLTFxcWdLWmpJMVgzRnFOOE5Lb3FEZzVDMVVtOWpGVHA3U19XWE8tdWlVcUVXZmxTc1VGWGFMQ1R5bUlmOXExcHRza0doaHhIcTRUSERjeWhzMWlDRWVUQkhzVGY1TTJ3RGxaVjZ5MkttX0otdGxhT0RfVlFSLVc4UDA5dkstXzJUSHdWX2thWG1kbVZqc29DWGp6bjg?oc=5",
+      "data": "06/09 07:00"
+    },
+    {
+      "titulo": "Banco de reservas do Fluminense mostra estrela e decide últimos jogos - GE",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEh6S3dhS3JocElRemlFa2tsSFFWX1ZiYWVnZTV6SG93V3RvQ0xpenhLTHktSVBWaGxZbkxycnBrRjlMYWkwTzlyMHhMamV0WmF2N1VaOEt1eG9DTHpZSS0tQkFmd3dSR1lhOGdONXZNZmhSbnhpa1BCUkV5OFBVLVZTMGtsUHotSmNCNWo3bTh5OGI1RFJiQTEwbjFwcGtuc1Z0aFYwVUFyMmJlYk5LVkJFWWVhZ2g4OGhSYW9OQmhIZ1h2UWRCanhDYkxpc2kxNWlxcHRRUdIB5gFBVV95cUxQLXc1TEVVOUpjbzQtdlo3QmpkT2cxMlpDal9rbjlvdzlUMEZRTURPX0xRS1k2aDc2aEIyNkFrR044UG1yZ1R4Y0NHTHdZQjJaSFVFN1kwUXd4dkVXeWNVakp0UFhacVprd2ZJTWNhYjNSejFGVXRFb1d3SzlISkN2cTZzcWxRWV9WQXRuSXllcG1Bd2dCZk85RUg4STNtUnpVX1hILWQtajFYd0NWZ0ZzWDR3cXdtQkJpTlJxbEZmdGt3ZGMwNkxhVXE5X1QxbXVtU18wbUV1eGRRclQ4dmd3YnpfS2lsZw?oc=5",
+      "data": "07/09 07:00"
     },
     {
       "titulo": "Em nota, Fluminense critica arbitragem do jogo contra o Vasco - NETVASCO",
@@ -515,19 +523,14 @@ window.PAINEL_DATA = {
       "data": "06/09 14:35"
     },
     {
-      "titulo": "Thiago Silva e Hércules treinam e reforçam o Fluminense na Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLTF1QUdVRzZ1N09ZcWZtYTJhbHNGR1RpRmxrR2JGbDl0OVFDaXlBbFpIVmlwUmtvYjRSUDVVa3lzWnVZSUVvdFBTZk1Qd09hamVYUzFnUW9tUjZvQjJNcGN0ckkwX0MwU0lVcWdna09nQVd0bnVPVGdVbDgxcWoyY1FacUJUbU1CamN6bk5Fa2x5VVl0ZHg0N2JUUS15T19FbUJ0MmhjbUpDWFpsQV9oU3pTdzBKQ3F6bHdHcWRoUWRnSTR3aWNuTFZCTWtrOGVPcjdqZExEQXh5b2huUW9ub3BkNXFYWDNxWlNwb1dWZDYtUdIBgAJBVV95cUxNZGFhRW8wSlNqZzBGRHpGLUtqNUdDOVdqSld1TUl2djVFTFdwdTRpNHZyV1UxOHhYVmsxaE56S0syZEhkeXlYTlU3bFZRdzYzTFNob0hQMHFpU3N0Tm1FM002X0pURUJ3YTJfdEtfVlpKbnhsVkYzTjQ3S2o0TTdXaE5VOTY1aHRHMERlRVd5em8zZnN3V1FzcTNIMklXRUhXeXl0MFd2cXdSMkhEcURQRFhQTWhJbG1uWEtsbUg1dFdmNTNmUkY5LUZmTDBxcU5TYTZWckFJcUJFNTIxVmFUcnpIenRQR20xamxMUlJvX25DX1RQNnpCTmJGSUd4bnlG?oc=5",
-      "data": "06/09 19:50"
-    },
-    {
-      "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - O Dia",
+      "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - odia.ig.com.br",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXhOZG5haGN1WkRfYVA0bVQ2a1BlVml0b3VsSDI5T2R3UWk2S2QzNjFwd0xfbTgyWDgzdXlmRHBFVm5zcmRObzUzcXh3ZHBWQV9ieU9WWkVDdW9IUm9wcmJJS3FEQW0wNG5lT0p5b0lxSXg3QzZTVkhGZ0FMV1dKSTItSWs3UksyR2sxYlBzZnRxajkwTjNvQklweGtfVDI4dHZ1VFZNdUZtal9iWV9lYndyYlVFY19ENVFfWGR0Y054UmdIT2IzVS1R0gHPAUFVX3lxTE1yd2kxazk1NlFHRVlkaDQ0Q0ZoWER4X3liektGTXJVb25vbk1iTXdTVU1Yams1ekp5bndjTlJHb2Rma3ZVSWpzUGQ5Ql8wamNNZmlLZmRCM2VXNktBeTJJbVpEUF9ORTlpRG1ObWZvZHptZEgtcDdjTkhqTDVIM0ZZQVlMOTd2MWJGOEh4cTQyaHBERlpoQnBKS2dnY3Q3UWtoTlVNZ0hwZ1phZ2ZmM3diU3AxdjZmUTd4SmxmTnhBWjNtUG9BMW1XT2lwdWxxbw?oc=5",
       "data": "07/09 01:08"
     },
     {
-      "titulo": "Peitada de árbitro em Canobbio chama atenção na Europa: 'Nunca visto' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRENZZDNubHdFZVJsSGhUMXFUNFgwSXNtYzZTWENoMkg3YXRVTWd5MEJSU1NjR0RxU1VZS1NHOUYzdjNOdDlLdVR3ZjZwZzNxcDFOMm9IU3NxNFJ1clVvZHJVWU11Y1VNRnY2M2JxMzNaWTdDQjlyMEcxeTdxYUs2Nzc4OVhZMUQyRE5ybHJRZFhKblg3eENIbDVCTGFzcnc2UDI2X0ZYN1NtV2VNZ01PNDdxLTZQVGotSnc?oc=5",
-      "data": "06/09 12:55"
+      "titulo": "Dublagem revela fala de Hulk em confusão no clássico entre Fluminense e Vasco: \"Moleque do caralh*\" - Terra",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOM1UzeXhWaTczck5yVTNkaFU2X1owNWlnellfLWFOTFVtTEl0QmY4NUhuS0Fwa3g3aU5wbXpoanRTenVER2Zlb1ZVcEE2NHlUcUNsZjY5dnhDY1FIb1FtQWZhX0d4UEpJQUxGTVFOQnd5MVNKRzM3cjlZTENBeW9FczBtZ0d2SXZWT1BISTlMMWVWTXdJUVo4NVRGYXFESUxYanZfa3JFV3dVZmZJRG1aQWk2T3B3bjRMemRWZzBQdlZ4OWVhV1Y3MDJGQ1pPd3V1a2pZSENRWU5pR0MxMy0xb0Z5UHh3SVYwWFFJSXY1R0p6YkJac2ZKZUFNUmdqb2NVT1RNdC1TTExfN0dobUxPNg?oc=5",
+      "data": "07/09 09:52"
     }
   ],
   "avisos": []
