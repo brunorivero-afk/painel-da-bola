@@ -1,90 +1,6 @@
 {
-  "atualizado_em": "06/09/2026 20:26",
+  "atualizado_em": "06/09/2026 23:35",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Botafogo PB",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x São Bernardo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Palmeiras",
-      "channels": [
-        "RECORD",
-        "PREMIERE FC",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "19:00",
-      "competition": "Leagues Cup",
-      "match": "Leon x Club America",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "19:15",
-      "competition": "Campeonato Argentino",
-      "match": "River Plate x Independ. Rivadavia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Boston River",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Chapecoense-sc",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "20:30",
-      "competition": "Campeonato Peruano",
-      "match": "FBC Melgar x ADT",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-06",
@@ -131,6 +47,16 @@
       "date": "2026-09-06",
       "time": "08:30",
       "competition": "2ª Divisão Alemã",
+      "match": "VfL Osnabruck x Eintracht Braunschweig",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
       "match": "Hertha Berlin x FC Magdeburg",
       "channels": [
         "CANAL GOAT",
@@ -143,16 +69,6 @@
       "time": "08:30",
       "competition": "2ª Divisão Alemã",
       "match": "SpVgg Greuther Furth x FC Heidenheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL Osnabruck x Eintracht Braunschweig",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -181,11 +97,32 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Parma x Monza",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
       "competition": "Campeonato Inglês",
       "match": "Everton x Manchester United",
       "channels": [
         "CAZÉTV",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "10:00",
+      "competition": "Campeonato Francês",
+      "match": "Estac Troyes x Strasbourg",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -202,31 +139,10 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Parma x Monza",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
       "competition": "Campeonato Uruguaio",
       "match": "Cerro x Racing Montevideo",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "10:00",
-      "competition": "Campeonato Francês",
-      "match": "Estac Troyes x Strasbourg",
-      "channels": [
-        "CAZÉTV"
       ]
     },
     {
@@ -307,23 +223,23 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "12:30",
-      "competition": "Campeonato Russo",
-      "match": "Dinamo Moscow x Spartak Moscow",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "12:30",
       "competition": "Campeonato Alemão",
       "match": "Eintracht Frankfurt x FC Augsburg",
       "channels": [
         "SPORTYNET",
         "YOUTUBE",
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "12:30",
+      "competition": "Campeonato Russo",
+      "match": "Dinamo Moscow x Spartak Moscow",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -341,8 +257,8 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "Bologna x Sassuolo",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Defensor Sporting",
       "channels": [
         "DISNEY+"
       ]
@@ -351,8 +267,8 @@
       "sport": "futebol",
       "date": "2026-09-06",
       "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Defensor Sporting",
+      "competition": "Campeonato Italiano",
+      "match": "Bologna x Sassuolo",
       "channels": [
         "DISNEY+"
       ]
@@ -467,17 +383,6 @@
       "date": "2026-09-06",
       "time": "16:00",
       "competition": "Brasileirão Série A",
-      "match": "Internacional x Santos",
-      "channels": [
-        "GLOBO",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-06",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
       "match": "Cruzeiro x Athletico PR",
       "channels": [
         "GLOBO",
@@ -521,11 +426,12 @@
     {
       "sport": "futebol",
       "date": "2026-09-06",
-      "time": "16:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Juventud",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Internacional x Santos",
       "channels": [
-        "DISNEY+"
+        "GLOBO",
+        "PREMIERE 3"
       ]
     },
     {
@@ -541,11 +447,11 @@
     {
       "sport": "futebol",
       "date": "2026-09-06",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "ASA x Uberlandia",
+      "time": "16:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Juventud",
       "channels": [
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -561,11 +467,105 @@
     {
       "sport": "futebol",
       "date": "2026-09-06",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "ASA x Uberlandia",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x Palmeiras",
+      "channels": [
+        "RECORD",
+        "PREMIERE FC",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x São Bernardo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Botafogo PB",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "19:00",
+      "competition": "Leagues Cup",
+      "match": "Leon x Club America",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "19:15",
+      "competition": "Campeonato Argentino",
+      "match": "River Plate x Independ. Rivadavia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Chapecoense-sc",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "19:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Boston River",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
       "time": "20:00",
       "competition": "NWSL Feminina",
       "match": "Orlando Pride (F) x Houston Dash (F)",
       "channels": [
         "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-06",
+      "time": "20:30",
+      "competition": "Campeonato Peruano",
+      "match": "FBC Melgar x ADT",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -818,57 +818,57 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 21.1,
-      "temp_min": 17.2,
+      "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 20.7,
-      "temp_min": 18.0,
+      "temp_min": 17.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 18.5,
-      "temp_min": 13.5,
+      "temp_min": 12.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 16.6,
-      "temp_min": 11.3,
+      "temp_min": 10.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Em nota, Fluminense critica arbitragem do jogo contra o Vasco - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHdRQmhUY2VuVm9HTTRQX0R0dHFoRkw0MjdWQlJMbnNYUTBxRVBWTm1JaW01aHV1cW4tRUFpcE81ZXlGZzVXMTdQWjJob1hZNVZta0FLRkE2bUM5UkV4dzNMX1QzaHd4TUc0U3ZzSFVqd3ZNTHlPT2M5c0FfUGdRakYzRl9JaldvdEtRXzAySXpKd2RyVmVORw?oc=5",
-      "data": "06/09 14:35"
+      "titulo": "Veja o gol da vitória do Fluminense sobre o Vasco no Brasileirão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONUFhTVFlQWZkQmRLS1c1a1RqZXNRX2VKYVQ5ejQzQk5JNDRTdjN5WS1JdzNSMmhVVlo1OGlnZExYQVFwWFM0cXZYLU9RcHlUdjZadWc3M0JvWmZfYWJiMnJaald0V05aR2RXSHRUVTBhT181SFNQdlZud05CYk9NNWZtbi1jQjZjQTV2dk16YmVoVTZLRUN4WU5IVU1Wa2cteTBiblU1WQ?oc=5",
+      "data": "06/09 01:30"
     },
     {
-      "titulo": "Thiago Silva e Hércules treinam e reforçam o Fluminense na Libertadores - GE",
+      "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXhOZG5haGN1WkRfYVA0bVQ2a1BlVml0b3VsSDI5T2R3UWk2S2QzNjFwd0xfbTgyWDgzdXlmRHBFVm5zcmRObzUzcXh3ZHBWQV9ieU9WWkVDdW9IUm9wcmJJS3FEQW0wNG5lT0p5b0lxSXg3QzZTVkhGZ0FMV1dKSTItSWs3UksyR2sxYlBzZnRxajkwTjNvQklweGtfVDI4dHZ1VFZNdUZtal9iWV9lYndyYlVFY19ENVFfWGR0Y054UmdIT2IzVS1R0gHPAUFVX3lxTE1yd2kxazk1NlFHRVlkaDQ0Q0ZoWER4X3liektGTXJVb25vbk1iTXdTVU1Yams1ekp5bndjTlJHb2Rma3ZVSWpzUGQ5Ql8wamNNZmlLZmRCM2VXNktBeTJJbVpEUF9ORTlpRG1ObWZvZHptZEgtcDdjTkhqTDVIM0ZZQVlMOTd2MWJGOEh4cTQyaHBERlpoQnBKS2dnY3Q3UWtoTlVNZ0hwZ1phZ2ZmM3diU3AxdjZmUTd4SmxmTnhBWjNtUG9BMW1XT2lwdWxxbw?oc=5",
+      "data": "07/09 01:08"
+    },
+    {
+      "titulo": "Fábio se torna o quinto goleiro com mais jogos pelo Fluminense; veja lista - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2FrUmN4SUc1bGxWY0l6RE8wX1hUbXRlS1hnN0FMbG1JZ2VkX3ZsOWFKVjFxU205dkpralYtN0F6Rkc4S2N4Zlh3WVRydkdCSlBYaHJ4MHdOX29GZ2NqbFVIbkI5TGdqSEt3ZWZNblNWRzEzeGpCMGcwN2g1ci1rdDBrb216eWl1emstdURrWDZqRE1xNW1WT25NamU3OUdUUnc?oc=5",
+      "data": "07/09 02:05"
+    },
+    {
+      "titulo": "Canobbio, Martinelli, Serna, John Kennedy, Lucho Acosta, Hércules, Samuel Xavier, Renê e Freytes: os jogadores do Fluminense com mais faltas cometidas no Brasileirão - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNdnc4enE2VUhnVUpIbEU5Q1lTT2FyZFVwckRNa240MVVMdi1WckJYYktHdVBJVVZpazdfSUFNakRwNml2Uk1CZ0RZVS1YLURpUEhtR0ZZY19SYXR6SThYR0lPWXFTZEY3Ul9CcHN3MXBiNE9kSjM3cnBFMEVtajZSbF9fTWg5djcwYTBka1h6ZThMWUIxUXFrNkt2RjdBb1g0bjJTdHRPWTNnenhJWFZ1ejZ1bGUtTkREOU10VWRpRm1XdURCZEJBVUo4M2ZiZkI2Y3F3empiQlNKa3l4aUF1Z3JLcVI1b0JSN0g1UkdINnhjcEdVSFNzbTFzNXc1V2JULTAwWDc1V0JkTzluSWdXUUdLbmp4R2RKRVByMU1xQk5heHA3S1ZaNEstOVMwZ05wVU1kVjhlT1VGWmYxRnpmZzYzd0Y1NXI3SkFxSjNkNUVodVo1QXlVN1F4T1NQcDlySnJUc0Q5aw?oc=5",
+      "data": "07/09 00:12"
+    },
+    {
+      "titulo": "Flu vence clássico, entra no G4 e mantém Vasco no Z4 - GE",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLTF1QUdVRzZ1N09ZcWZtYTJhbHNGR1RpRmxrR2JGbDl0OVFDaXlBbFpIVmlwUmtvYjRSUDVVa3lzWnVZSUVvdFBTZk1Qd09hamVYUzFnUW9tUjZvQjJNcGN0ckkwX0MwU0lVcWdna09nQVd0bnVPVGdVbDgxcWoyY1FacUJUbU1CamN6bk5Fa2x5VVl0ZHg0N2JUUS15T19FbUJ0MmhjbUpDWFpsQV9oU3pTdzBKQ3F6bHdHcWRoUWRnSTR3aWNuTFZCTWtrOGVPcjdqZExEQXh5b2huUW9ub3BkNXFYWDNxWlNwb1dWZDYtUdIBgAJBVV95cUxNZGFhRW8wSlNqZzBGRHpGLUtqNUdDOVdqSld1TUl2djVFTFdwdTRpNHZyV1UxOHhYVmsxaE56S0syZEhkeXlYTlU3bFZRdzYzTFNob0hQMHFpU3N0Tm1FM002X0pURUJ3YTJfdEtfVlpKbnhsVkYzTjQ3S2o0TTdXaE5VOTY1aHRHMERlRVd5em8zZnN3V1FzcTNIMklXRUhXeXl0MFd2cXdSMkhEcURQRFhQTWhJbG1uWEtsbUg1dFdmNTNmUkY5LUZmTDBxcU5TYTZWckFJcUJFNTIxVmFUcnpIenRQR20xamxMUlJvX25DX1RQNnpCTmJGSUd4bnlG?oc=5",
       "data": "06/09 19:50"
-    },
-    {
-      "titulo": "Peitada de árbitro em Canobbio chama atenção na Europa: 'Nunca visto' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRENZZDNubHdFZVJsSGhUMXFUNFgwSXNtYzZTWENoMkg3YXRVTWd5MEJSU1NjR0RxU1VZS1NHOUYzdjNOdDlLdVR3ZjZwZzNxcDFOMm9IU3NxNFJ1clVvZHJVWU11Y1VNRnY2M2JxMzNaWTdDQjlyMEcxeTdxYUs2Nzc4OVhZMUQyRE5ybHJRZFhKblg3eENIbDVCTGFzcnc2UDI2X0ZYN1NtV2VNZ01PNDdxLTZQVGotSnc?oc=5",
-      "data": "06/09 12:55"
-    },
-    {
-      "titulo": "Revelado pelo Fluminense, lateral Calegari é anunciado em novo clube - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDI0bFJpblN2ek1ZYndCZml4NG1IZmdkMjJTTVJ4ZU5fSmVvNUVzQ2NqSGxGZW9HRmVzZG0yY242ajVDc2VEcHpkdmMxbi1kWWZzNFBtX1hNTnZCaUZLWk5pbVd1bERjV1VkWkJsdGR2bFktRks0cmFYVWVacGRLdzJxWGhmMU9iOFJVbERIajNlRUhhenlNWmo5OEpUS0FtUEZTR3Q4TQ?oc=5",
-      "data": "05/09 19:59"
-    },
-    {
-      "titulo": "Mega Seguros é a nova patrocinadora do Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2dPQlAxOGd6Zlp3WFVEZUNSOE5SQS1ybDhaRTRCd2F3SDlHMmp4eEdtN1AxRV9MdDZLWDVVbDJrcy12QWZ0MllPLXdxNkw4dkxuamtLTVNxNGRycHVzRTZFRkdxQUdybl9taGNGVDE5VFZQb3YwOWlWamNhZWJPQV9XdmVUTGhwYmNpaFNpdFU?oc=5",
-      "data": "05/09 21:45"
     }
   ],
   "avisos": []
