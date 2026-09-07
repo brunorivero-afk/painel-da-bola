@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/09/2026 18:52",
+  "atualizado_em": "07/09/2026 20:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x Whitecaps II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-07",
@@ -19,27 +9,6 @@ window.PAINEL_DATA = {
       "match": "Corinthians (F) x Cruzeiro (F)",
       "channels": [
         "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "18:00",
-      "competition": "Brasileirão Série C",
-      "match": "Paysandu x Brusque",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Barracas Central x Argentinos JRS",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -155,6 +124,37 @@ window.PAINEL_DATA = {
       "channels": [
         "YOUTUBE",
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x Whitecaps II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "18:00",
+      "competition": "Brasileirão Série C",
+      "match": "Paysandu x Brusque",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Barracas Central x Argentinos JRS",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -508,9 +508,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Análise: Fluminense supera fantasma contra o Vasco e confirma boa fase antes da Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeVVXRlZCTWloUWhlOUNoR3llV2V3clg5UTlLcGJYeXlBWHJBYkJOSzlrOExtQ2NERkxJZkIwU3RQXzZ5SXQyRjdfN1ZTT1ByQlFlU1RrWW1pRmRoNFBWbVVfanFITnJsdDBkSEJleFNvZmRBaXR2bTlNR1g0UjVESmlGWVU0N3JnNUJpcFZIWkpPWHBpOGZyT2czcTljSHZfaGRFQzhVb2o4U3FLNWlqSENLUW1uS0Ewb3dKSWJBOWRIeE1YcmVjaE5QY2ZJaTBQdWJiTXhXTVJHeVJ5NlJwNHJCWC1BaUMtRlJkZFBXTEl6RmdN0gGDAkFVX3lxTE9CVk5pSnc1b3dPTy1GY2JPUG81aUJzVmkzaUZyVFFldkNoNGFHUVl0aVJURTZVeVlLdm9LeVgtamhxa1FFaHpBMW4wRzBCc2RkZUlXYTluY0NYbHFHWDZxbWF0WEVKaUY2OERfNHFiLTFxcWdLWmpJMVgzRnFOOE5Lb3FEZzVDMVVtOWpGVHA3U19XWE8tdWlVcUVXZmxTc1VGWGFMQ1R5bUlmOXExcHRza0doaHhIcTRUSERjeWhzMWlDRWVUQkhzVGY1TTJ3RGxaVjZ5MkttX0otdGxhT0RfVlFSLVc4UDA5dkstXzJUSHdWX2thWG1kbVZqc29DWGp6bjg?oc=5",
-      "data": "06/09 07:00"
+      "titulo": "Fluminense emite nota contra arbitragem após vitória sobre o Vasco e questiona postura de árbitro - Terra",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRW1jaV8ySy1LUE9ydVFvUnpDaGxuMU5QWEd5bWloelpEMkk3b2M4b2d5VDZlYWpBLVhCSkN2MmlPaGNvZE0xRjd6YXhmR0NLdURJbUhFa0hsd0pIQjJVWERlbDNkbWxxc2w1c1NQTWxhY1ZYbFBQMm5hdVhzbHZPSzN4RUdLN2xFUmp6VC1EZVdCNXB5aEhSbzNLRFdXaXVEbGgtZC1IRF8wTjF6alMxX3d4X0llUHRQMC1qU29KNEdnZDRrbEFPRGxzTzdTdkVsdVVFaFBlUnA0ZWZlSDFnU2o5YXBsNkxWajVrUE5FbWdQeFQ1SnBHZVg4UE9xMkRYeWpWZExpTF96WW5NSFNVRWhDYw?oc=5",
+      "data": "06/09 18:13"
     },
     {
       "titulo": "Escalação do Fluminense: Marcão tem desfalque no ataque em decisão na Libertadores - GE",
@@ -519,8 +519,8 @@ window.PAINEL_DATA = {
     },
     {
       "titulo": "Força, Angioni! Diretor executivo de futebol do Fluminense enfrenta problema de saúde - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ18wU3ZEaUZERGU5UGdpZ0Z2TkRfMUpCSlZ0aG1LbUhOTFEyTG9vS1dFX0hOX1htVjBVakJDdkRNMXJtaWJaVFR1eEVrSkMzY2gtNmsyakdDREZqQnV2TEMxemNadDRBRnpXX0JVMU1BdGZRWThlY3BfTGxsR3cyWG1XcTM5ZDlpc0p4ZXlVWWlFdFBFdnY5dlZyN3h0VjRJSXA2eWJtdm4wMzYtLW5R?oc=5",
-      "data": "07/09 17:50"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnQ3WS10RUZBdmx6QkQ3N1hRY3hseWE5d1VnQ2dFbjM1dzZtRWROcGQ3dExOa01SaXNfYWRTWnBlYktNTlRnRk81RTMtNzh5TDltcmxZRVRQYmNsSWhEU2g5djI3eU56YUxIZmNQQ0c3RWNkd1hzVjhOYnpCdWw0M05nQ3ZnbV80OEJXc1NMNl9GWEgtdlFaUTIzV0ZCb2RVTzU0Q0dZZ2ZKd1RxWmRieHZydjBGckU?oc=5",
+      "data": "07/09 19:16"
     },
     {
       "titulo": "Richarlison no Brasil? Encostado no Tottenham, atacante vira alvo de torcida rival do Fluminense - Terra",
@@ -530,7 +530,7 @@ window.PAINEL_DATA = {
     {
       "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXhOZG5haGN1WkRfYVA0bVQ2a1BlVml0b3VsSDI5T2R3UWk2S2QzNjFwd0xfbTgyWDgzdXlmRHBFVm5zcmRObzUzcXh3ZHBWQV9ieU9WWkVDdW9IUm9wcmJJS3FEQW0wNG5lT0p5b0lxSXg3QzZTVkhGZ0FMV1dKSTItSWs3UksyR2sxYlBzZnRxajkwTjNvQklweGtfVDI4dHZ1VFZNdUZtal9iWV9lYndyYlVFY19ENVFfWGR0Y054UmdIT2IzVS1R0gHPAUFVX3lxTE1yd2kxazk1NlFHRVlkaDQ0Q0ZoWER4X3liektGTXJVb25vbk1iTXdTVU1Yams1ekp5bndjTlJHb2Rma3ZVSWpzUGQ5Ql8wamNNZmlLZmRCM2VXNktBeTJJbVpEUF9ORTlpRG1ObWZvZHptZEgtcDdjTkhqTDVIM0ZZQVlMOTd2MWJGOEh4cTQyaHBERlpoQnBKS2dnY3Q3UWtoTlVNZ0hwZ1phZ2ZmM3diU3AxdjZmUTd4SmxmTnhBWjNtUG9BMW1XT2lwdWxxbw?oc=5",
-      "data": "07/09 01:08"
+      "data": "06/09 20:45"
     }
   ],
   "avisos": []
