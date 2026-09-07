@@ -1,6 +1,78 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/09/2026 15:33",
+  "atualizado_em": "07/09/2026 18:52",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x Whitecaps II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "17:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Corinthians (F) x Cruzeiro (F)",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "18:00",
+      "competition": "Brasileirão Série C",
+      "match": "Paysandu x Brusque",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Barracas Central x Argentinos JRS",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Grêmio",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "13:30",
+      "competition": "Campeonato Russo",
+      "match": "Rubin x Akhmat Grozny",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "13:30",
+      "competition": "Campeonato Italiano",
+      "match": "Cagliari x Lecce",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-09-07",
@@ -83,78 +155,6 @@ window.PAINEL_DATA = {
       "channels": [
         "YOUTUBE",
         "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x Whitecaps II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "17:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x Cruzeiro (F)",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "18:00",
-      "competition": "Brasileirão Série C",
-      "match": "Paysandu x Brusque",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Barracas Central x Argentinos JRS",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Grêmio",
-      "channels": [
-        "SPORTV",
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "13:30",
-      "competition": "Campeonato Russo",
-      "match": "Rubin x Akhmat Grozny",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Cagliari x Lecce",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -479,14 +479,14 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 18.5,
+      "temp_max": 17.9,
       "temp_min": 16.2,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 19.7,
+      "temp_max": 19.4,
       "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -500,7 +500,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 13.0,
+      "temp_max": 12.8,
       "temp_min": 9.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -513,19 +513,19 @@ window.PAINEL_DATA = {
       "data": "06/09 07:00"
     },
     {
+      "titulo": "Escalação do Fluminense: Marcão tem desfalque no ataque em decisão na Libertadores - GE",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3NYc082VE92WlNsbG5BY3R5T1F0NnZvVXNvVF9QWEVJYm5vOFFYeURQRTgxUUI3Z09yNURURi1VTDU3enNTUDFYUEhRdzJRTlN3OFZQUE13MlZ4X2Qxb3VZUEhHdkF1alVfWWJvNmdvVEx2djg1UGluNWZtS2RsZERmal8zWUo3NzJfQk1ycnVWSll4bVNTSUVKYkFra2hESDhxTldFMl9KVm9PWnd0OXJILWF4MEhxMWE5QUZRZTRBWWVRMjk2Z3pWMHRKLXBhM1NCTEI4NkNFLWdwNzFkS1BuYjRiSUnSAfYBQVVfeXFMUDJhQW0yVXE0QzVidHVhQWJLZ1ZSNk1aM1NCLUp6NVpuSkNVbDN0X1AyRFlsd1hTcTdnTjdJb2lBel9RODZLVUgyWUQwZldRd2s2U203RzF6Q2ZWbkxGT015S3JXUE8xUWFqa0ZQSGJlQVVHSmhtby1XMWYyUXExOHRYZk1nM3FtSElDMVlGUktmLWdoT0kwN0ZNZDhWMGJ3eEg3Q2N6RFlna3lvMFFWeVBsNEdRcHlfbkNfazJtNjdhTE91ejVQRTJrc0FZTko4M0p3QmVtRXhNcmxLY0VudVBNV1BsTjhHMk5wOFRzTmt2WDY2OEpR?oc=5",
+      "data": "07/09 20:43"
+    },
+    {
       "titulo": "Força, Angioni! Diretor executivo de futebol do Fluminense enfrenta problema de saúde - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ18wU3ZEaUZERGU5UGdpZ0Z2TkRfMUpCSlZ0aG1LbUhOTFEyTG9vS1dFX0hOX1htVjBVakJDdkRNMXJtaWJaVFR1eEVrSkMzY2gtNmsyakdDREZqQnV2TEMxemNadDRBRnpXX0JVMU1BdGZRWThlY3BfTGxsR3cyWG1XcTM5ZDlpc0p4ZXlVWWlFdFBFdnY5dlZyN3h0VjRJSXA2eWJtdm4wMzYtLW5R?oc=5",
       "data": "07/09 17:50"
     },
     {
-      "titulo": "Árbitro relata em súmula cobrança do presidente do Fluminense: \"Não tem coragem. Está com medo\" - GE",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU1paaVJXbHYzU0V3OHpWQ0UyZU96cG5jdE5rc0R1SW04dnJIOC1vWXVVWjRSdW42TUtFY2tTMnJWcUloRHE3cDBZdkF1VnB0Q2lMYXFnWE5RVWVTTVJrbGFiQi14ODlLeTVJZlBsdkEzMmJTX3Z1aGNtcE85VU03Nk55ajVFVzcwNXpCM1pQSEV4T3pLYjBkdmxnbWpLMWx2Q0xxdmR4T04zNmxIdjl4d2l0cmo5cXFuUXhzaFdQYlEzVkE3akJXakY3RWlTMm5GMmpJSmU2QzlFcVhReXpWMy11eWZ3YVh4SjFRaFREd0VJTE5l0gGDAkFVX3lxTE90eUFObThyelo5ZHRobnFFUXBURTNOLVEyTFlCaGRNVEVkUDQ5c2I4bnE0aDNWdi1jd1N4ZzlwTWM3WnU3ekRhX2tvSGxzQTFuc1dLck9PU0RXLURTU0VhdW50V3Y0b1JoYzRZRzhQQUp2Zm4ycllxenNHdkV2eVFYNlROdWgtek1IN3lqWHlTdzUzOGc3NS01c1V6ZHR1OFI3LTd1cEdyZFM2cHJGaHVJbTZrcVBZUGQ4WUF3UlkzNEpSazM1NGF3M3lvdnlfOFJvMlpvNkdsMVBrZm5FMTJ1UV9BYUExbHpSdWZvcEV1ZTBfRUZUOENiMFVIU1liMXdhZ2M?oc=5",
-      "data": "07/09 15:51"
-    },
-    {
-      "titulo": "Stiven vistia o Hyper antes de novo desafio no Fluminense - Futebol Interior",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43YXVLOEFXRXpnWW9qWUpNRG9PcGU5V3hUYklaMEpOa04xVV91NE9zZEtXNTdPUXM1UlItcV9YVDJTRzktWmdfTXRTZUE0LUpFaExOb3M3MHc5bzdlNzlKTlEtRVh2bUUzNW9oay1KV0twTTZ6RWlnSXVrRXo?oc=5",
-      "data": "07/09 16:59"
+      "titulo": "Richarlison no Brasil? Encostado no Tottenham, atacante vira alvo de torcida rival do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUkV2bzVXYXQ2am5RQUpleXZxbGNoYk1LRHlkakJpbTYtMWZCWEp6YlJCR0RoaUwzem5reXFlVnpGamVkU3FscXNUUXpudTc2Y29lU0ZCUW84MXNIMzQ2X21WbkNNNDJCSkhVY21lV3Iwa0hkQzUxUGRndEZzUzZXSGs1R0VRTVJNdVlsQlVGdkNxZDVYUG5Gcy14bHhfTWpMUjZsQWIxemk3Y2hHelVZOHVXbGprTk1KYVhhZ2s0bTduUHhadlI4ampuR3EzcDZfOEdLblFqQ2dVZnMzUnVTeTI4c2NhUkNuTUxDZkZ0VUdCRlI0NmJQM0IySmFWREdzTk9pSGdZLWFnNFZIMFpTSnFKVQ?oc=5",
+      "data": "07/09 19:15"
     },
     {
       "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - O Dia",
