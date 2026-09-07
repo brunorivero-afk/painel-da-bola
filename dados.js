@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/09/2026 10:54",
+  "atualizado_em": "07/09/2026 15:33",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "13:30",
-      "competition": "Campeonato Russo",
-      "match": "Rubin x Akhmat Grozny",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Cagliari x Lecce",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-07",
@@ -155,6 +135,26 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTV",
         "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "13:30",
+      "competition": "Campeonato Russo",
+      "match": "Rubin x Akhmat Grozny",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "13:30",
+      "competition": "Campeonato Italiano",
+      "match": "Cagliari x Lecce",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -513,24 +513,24 @@ window.PAINEL_DATA = {
       "data": "06/09 07:00"
     },
     {
-      "titulo": "Banco de reservas do Fluminense mostra estrela e decide últimos jogos - GE",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEh6S3dhS3JocElRemlFa2tsSFFWX1ZiYWVnZTV6SG93V3RvQ0xpenhLTHktSVBWaGxZbkxycnBrRjlMYWkwTzlyMHhMamV0WmF2N1VaOEt1eG9DTHpZSS0tQkFmd3dSR1lhOGdONXZNZmhSbnhpa1BCUkV5OFBVLVZTMGtsUHotSmNCNWo3bTh5OGI1RFJiQTEwbjFwcGtuc1Z0aFYwVUFyMmJlYk5LVkJFWWVhZ2g4OGhSYW9OQmhIZ1h2UWRCanhDYkxpc2kxNWlxcHRRUdIB5gFBVV95cUxQLXc1TEVVOUpjbzQtdlo3QmpkT2cxMlpDal9rbjlvdzlUMEZRTURPX0xRS1k2aDc2aEIyNkFrR044UG1yZ1R4Y0NHTHdZQjJaSFVFN1kwUXd4dkVXeWNVakp0UFhacVprd2ZJTWNhYjNSejFGVXRFb1d3SzlISkN2cTZzcWxRWV9WQXRuSXllcG1Bd2dCZk85RUg4STNtUnpVX1hILWQtajFYd0NWZ0ZzWDR3cXdtQkJpTlJxbEZmdGt3ZGMwNkxhVXE5X1QxbXVtU18wbUV1eGRRclQ4dmd3YnpfS2lsZw?oc=5",
-      "data": "07/09 07:00"
+      "titulo": "Força, Angioni! Diretor executivo de futebol do Fluminense enfrenta problema de saúde - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ18wU3ZEaUZERGU5UGdpZ0Z2TkRfMUpCSlZ0aG1LbUhOTFEyTG9vS1dFX0hOX1htVjBVakJDdkRNMXJtaWJaVFR1eEVrSkMzY2gtNmsyakdDREZqQnV2TEMxemNadDRBRnpXX0JVMU1BdGZRWThlY3BfTGxsR3cyWG1XcTM5ZDlpc0p4ZXlVWWlFdFBFdnY5dlZyN3h0VjRJSXA2eWJtdm4wMzYtLW5R?oc=5",
+      "data": "07/09 17:50"
     },
     {
-      "titulo": "Em nota, Fluminense critica arbitragem do jogo contra o Vasco - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHdRQmhUY2VuVm9HTTRQX0R0dHFoRkw0MjdWQlJMbnNYUTBxRVBWTm1JaW01aHV1cW4tRUFpcE81ZXlGZzVXMTdQWjJob1hZNVZta0FLRkE2bUM5UkV4dzNMX1QzaHd4TUc0U3ZzSFVqd3ZNTHlPT2M5c0FfUGdRakYzRl9JaldvdEtRXzAySXpKd2RyVmVORw?oc=5",
-      "data": "06/09 14:35"
+      "titulo": "Árbitro relata em súmula cobrança do presidente do Fluminense: \"Não tem coragem. Está com medo\" - GE",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU1paaVJXbHYzU0V3OHpWQ0UyZU96cG5jdE5rc0R1SW04dnJIOC1vWXVVWjRSdW42TUtFY2tTMnJWcUloRHE3cDBZdkF1VnB0Q2lMYXFnWE5RVWVTTVJrbGFiQi14ODlLeTVJZlBsdkEzMmJTX3Z1aGNtcE85VU03Nk55ajVFVzcwNXpCM1pQSEV4T3pLYjBkdmxnbWpLMWx2Q0xxdmR4T04zNmxIdjl4d2l0cmo5cXFuUXhzaFdQYlEzVkE3akJXakY3RWlTMm5GMmpJSmU2QzlFcVhReXpWMy11eWZ3YVh4SjFRaFREd0VJTE5l0gGDAkFVX3lxTE90eUFObThyelo5ZHRobnFFUXBURTNOLVEyTFlCaGRNVEVkUDQ5c2I4bnE0aDNWdi1jd1N4ZzlwTWM3WnU3ekRhX2tvSGxzQTFuc1dLck9PU0RXLURTU0VhdW50V3Y0b1JoYzRZRzhQQUp2Zm4ycllxenNHdkV2eVFYNlROdWgtek1IN3lqWHlTdzUzOGc3NS01c1V6ZHR1OFI3LTd1cEdyZFM2cHJGaHVJbTZrcVBZUGQ4WUF3UlkzNEpSazM1NGF3M3lvdnlfOFJvMlpvNkdsMVBrZm5FMTJ1UV9BYUExbHpSdWZvcEV1ZTBfRUZUOENiMFVIU1liMXdhZ2M?oc=5",
+      "data": "07/09 15:51"
     },
     {
-      "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - odia.ig.com.br",
+      "titulo": "Stiven vistia o Hyper antes de novo desafio no Fluminense - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43YXVLOEFXRXpnWW9qWUpNRG9PcGU5V3hUYklaMEpOa04xVV91NE9zZEtXNTdPUXM1UlItcV9YVDJTRzktWmdfTXRTZUE0LUpFaExOb3M3MHc5bzdlNzlKTlEtRVh2bUUzNW9oay1KV0twTTZ6RWlnSXVrRXo?oc=5",
+      "data": "07/09 16:59"
+    },
+    {
+      "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXhOZG5haGN1WkRfYVA0bVQ2a1BlVml0b3VsSDI5T2R3UWk2S2QzNjFwd0xfbTgyWDgzdXlmRHBFVm5zcmRObzUzcXh3ZHBWQV9ieU9WWkVDdW9IUm9wcmJJS3FEQW0wNG5lT0p5b0lxSXg3QzZTVkhGZ0FMV1dKSTItSWs3UksyR2sxYlBzZnRxajkwTjNvQklweGtfVDI4dHZ1VFZNdUZtal9iWV9lYndyYlVFY19ENVFfWGR0Y054UmdIT2IzVS1R0gHPAUFVX3lxTE1yd2kxazk1NlFHRVlkaDQ0Q0ZoWER4X3liektGTXJVb25vbk1iTXdTVU1Yams1ekp5bndjTlJHb2Rma3ZVSWpzUGQ5Ql8wamNNZmlLZmRCM2VXNktBeTJJbVpEUF9ORTlpRG1ObWZvZHptZEgtcDdjTkhqTDVIM0ZZQVlMOTd2MWJGOEh4cTQyaHBERlpoQnBKS2dnY3Q3UWtoTlVNZ0hwZ1phZ2ZmM3diU3AxdjZmUTd4SmxmTnhBWjNtUG9BMW1XT2lwdWxxbw?oc=5",
       "data": "07/09 01:08"
-    },
-    {
-      "titulo": "Dublagem revela fala de Hulk em confusão no clássico entre Fluminense e Vasco: \"Moleque do caralh*\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOM1UzeXhWaTczck5yVTNkaFU2X1owNWlnellfLWFOTFVtTEl0QmY4NUhuS0Fwa3g3aU5wbXpoanRTenVER2Zlb1ZVcEE2NHlUcUNsZjY5dnhDY1FIb1FtQWZhX0d4UEpJQUxGTVFOQnd5MVNKRzM3cjlZTENBeW9FczBtZ0d2SXZWT1BISTlMMWVWTXdJUVo4NVRGYXFESUxYanZfa3JFV3dVZmZJRG1aQWk2T3B3bjRMemRWZzBQdlZ4OWVhV1Y3MDJGQ1pPd3V1a2pZSENRWU5pR0MxMy0xb0Z5UHh3SVYwWFFJSXY1R0p6YkJac2ZKZUFNUmdqb2NVT1RNdC1TTExfN0dobUxPNg?oc=5",
-      "data": "07/09 09:52"
     }
   ],
   "avisos": []
