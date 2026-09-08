@@ -1,6 +1,137 @@
 {
-  "atualizado_em": "08/09/2026 17:37",
+  "atualizado_em": "08/09/2026 20:07",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Santa Fe x Vasco",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Fluminense x Platense",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Athletic Club",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Boca Juniors x São Paulo",
+      "channels": [
+        "SBT",
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Juventude",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "12:30",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ettifaq x Al-Faisaly FC",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Club Brugge KV x Aston Villa",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "AEK Athens FC x Lask Linz",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ittihad FC x Al-Fayha",
+      "channels": [
+        "XSPORTS",
+        "SPORTV",
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Qadisiyah FC x Al-Ahli Jeddah",
+      "channels": [
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "15:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Connecticut FC",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Crystal Palace x Middlesbrough",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-09-08",
@@ -8,6 +139,17 @@
       "competition": "Copa da liga Inglesa",
       "match": "Sunderland x Hull City",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Bournemouth x Lincoln",
+      "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -90,37 +232,6 @@
     {
       "sport": "futebol",
       "date": "2026-09-08",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Santa Fe x Vasco",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Fluminense x Platense",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "New York City II x New York RB II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
       "time": "20:00",
       "competition": "MLS Next Pro",
       "match": "Toronto II x Columbus Crew II",
@@ -131,122 +242,11 @@
     {
       "sport": "futebol",
       "date": "2026-09-08",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Athletic Club",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Boca Juniors x São Paulo",
-      "channels": [
-        "SBT",
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Juventude",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "12:30",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ettifaq x Al-Faisaly FC",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "AEK Athens FC x Lask Linz",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Club Brugge KV x Aston Villa",
-      "channels": [
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ittihad FC x Al-Fayha",
-      "channels": [
-        "XSPORTS",
-        "SPORTV",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Qadisiyah FC x Al-Ahli Jeddah",
-      "channels": [
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "15:00",
+      "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Connecticut FC",
+      "match": "New York City II x New York RB II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Crystal Palace x Middlesbrough",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Bournemouth x Lincoln",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -267,6 +267,7 @@
       "competition": "Champions League",
       "match": "VfB Stuttgart x Viking",
       "channels": [
+        "SPACE",
         "HBO MAX"
       ]
     },
@@ -277,6 +278,7 @@
       "competition": "Champions League",
       "match": "Barcelona x Feyenoord",
       "channels": [
+        "TNT",
         "HBO MAX"
       ]
     },
@@ -299,6 +301,7 @@
       "competition": "Champions League",
       "match": "Liverpool x Atletico Madrid",
       "channels": [
+        "TNT",
         "HBO MAX"
       ]
     },
@@ -329,6 +332,8 @@
       "competition": "Champions League",
       "match": "Napoli x Arsenal",
       "channels": [
+        "SPACE",
+        "YOUTUBE",
         "HBO MAX"
       ]
     },
@@ -613,16 +618,6 @@
     {
       "sport": "volei",
       "date": "2026-09-08",
-      "time": "16:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Argentina x Peru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-08",
       "time": "19:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Venezuela",
@@ -703,7 +698,7 @@
       "cidade": "Araruama",
       "temp_max": 23.3,
       "temp_min": 16.7,
-      "chance_chuva": 98,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
@@ -723,19 +718,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Recordista, Fábio celebra 100 jogos do Fluminense na Libertadores e projeta duelo contra o Platense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMnNzZW1zNXpXczM1MlJsZUVxMm9sdnBoNEh1b0tHT2VuSEdRQTNoZGFJTmtMVk1KRzVJZ3VURlpXTlpETjJLSXIzcDcxejlweWNSU09vYTVINDZmNTR0MEw2Mzd0WlJ0STFfWXpwSjZoMVRWXzFXMkNsV1BYQkI0SGFJZ3A5RE1fYmo5YmY1ekVYR01rUXVtV090UUFzaVlIeXFRamZBQnJfZGxMX1hFT3d3QkE0OEN1N2d5SDZHYlY4bDFSSFVlRml0SXNfY0JDQ2E2RUY0THZoSDhEOHQyeF9hdTlvLTBLZ0plRU1EVkJ5bG5VR0tUYnJmR3Rpd9IBjAJBVV95cUxQWXhxRGJwblhZUkJVNXVwb2ZjNkxWU1hSTmtXd3lRZkZnWjQzYzZQT2FOM3dNcFptUmIyd1ZPY3M3ODNLQlY0OEZZN0lsV3U2UTlyM25Xckl6ZGZuZERMalRjNjlKazEteGlLLVVFbEVsbGkwZnYxLWhDbWk0bTlWbWV1bnNaMzBoM1kycTVXbnVsNGotblNObkhGU0s4aXFIT0dWcmwxcW1VcnhvOE9jVlpiMlhfWGpDU0V2WjhaSVVzcjVXSDUxeDlhR20xSHVLNm1IOXg4eWt1Q1hQQVVhdkIzcmJfbG5sZDQzcDdiSVhsOXphVjVKR0tUMmpTTS1wbjBQQzR2WVZkMlV0?oc=5",
-      "data": "08/09 16:58"
+      "titulo": "Fluminense x Platense: onde assistir ao vivo, horário e escalações - GE",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2NRMzNrQkNRU2VqM0dIZUhhMUtlN3JUY1JqMEtqU2dTaHUtMnZVWllPLXY5R3hsM2YxQnM4TTBjUjZwRC12OGVYbzN1VmdHWFRBTjlrZGdySHVoa3NIa3hKdl93NzZKLXA3RUZnZDhXSWc5Z01yaWxYdmxqaGRCRlNvbW53aUg2SUFzay1CU1JyMWtrTXN3Z2w2b3BfdVJWSE4zY19EMVhuUkhRX3lTNTVvMFllQzJFSUxFb3dxMkpIOUEyR1o0TXBjYkl5NXFz0gHfAUFVX3lxTE1aUE9EcER5ZUwwUURWVHB6SHZ3OHQyZFlHTnlDYWpMVnhOWG5NRVN2N0U3bHlONGFMN2ZaZ1ZRaVhtX0FhejZuN2tXaDloVlZ0OFhWSjZmQjZTTnkwV3kya05Zbjc3WTJhLTN2bUlkY1Q0NkJhb1hNLXA1LVBJYUtuYTZFY09qaU5PUEJEY2xDSVgzQkl1Ny1HMUpFeE9VRHNpeFJrNWdFbXhlM3FjX3kzNXNFdGd4c0xKNU9DdmZhQTdLeDJ4UTV2cGxaS2tHNGF5V08wcWhkU05qTkJKQnc?oc=5",
+      "data": "08/09 06:00"
     },
     {
-      "titulo": "Em nota, Fluminense critica arbitragem do jogo contra o Vasco - NETVASCO",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRHdRQmhUY2VuVm9HTTRQX0R0dHFoRkw0MjdWQlJMbnNYUTBxRVBWTm1JaW01aHV1cW4tRUFpcE81ZXlGZzVXMTdQWjJob1hZNVZta0FLRkE2bUM5UkV4dzNMX1QzaHd4TUc0U3ZzSFVqd3ZNTHlPT2M5c0FfUGdRakYzRl9JaldvdEtRXzAySXpKd2RyVmVORw?oc=5",
-      "data": "06/09 14:35"
+      "titulo": "Ex-Fluminense não jogará no Vasco; regra da FIFA impede negociação - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGlzOVVnRWlPMEhreHdSR2ZRbDhudFBTTHU5a3NQaTlaUFIwcE43VGZEcmRjRmtQbHdINnlUUUxUYVpXcDJXcFNhWDdnREZoNjBJSXFsWVZHeHpmY09UTUlhVWhFWC1HaWlucTh4N2cwa1FBNnpVLXVmMHFHUnBZeGJqUUJDSlc4ZnB1TjJJSm41QUV3UEow?oc=5",
+      "data": "08/09 19:00"
     },
     {
-      "titulo": "Ex-Fluminense, Richarlison é disputado por dois times brasileiros, diz jornalista - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnJoQVNKWTROMmJnOF9qRjVMemhFR3VSLUJuX1FZd29NZVl5S011S0Z1RDA1Yks4NnJoY01qMW9qYmZCTDFlR1BxVmRvdjllSmttamVmYmVlSnVsZldhSUNjcXc3cU4taUlpOFpERzR0QmlqUjZ0VThVbEk5ZXZUTEFJUjBPd2x6VG01bUJwTjdQeDBoNVQ1VDVpR2lIc0czSVhZNnM1MklKUQ?oc=5",
-      "data": "08/09 12:00"
+      "titulo": "Como Marcão 'jogador' impressionava antes mesmo de virar técnico e rendeu até profecia de ex-Fluminense: 'Tinha certeza que iria deslanchar' - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOV2pfOUxUQ3dyYjZlamVuai03RmVoZ1dxTExsTjNBTFFuWTJZS3JvM3IybnlDZjFPckhQUkdrMzdmWXZMdG1qMjVmTFlrdjB5ZFdSOXcxZGN5VFhHVWptX29BVEhnSlVkREtwN3h4WXFOOGQ2cl8tcEx3X1ZLUjF1RkN1UERLc1V4aG9iVTBXZWw0VjNRMVRyd2ZtZzUycW1kUVFXUWZFZzBjQnFMOGllek1uN2tKa3pRSzA0VFRBYkItS0hyZHc1ZGpZQTltTzFjNURzR25aazVLQU41UWZpaWxxX0lTTGZteGQ0V0dmZlVaY1VMdUZ2RWViQllOcmo0OG1JV2JWNS1UZUZOZ3Y0MFVuTkpDaVZPY0E?oc=5",
+      "data": "08/09 10:31"
     },
     {
       "titulo": "Richarlison deixa Atlético-MG, Flamengo e Fluminense de lado e escolhe onde quer jogar no Brasil - jornalcruzeiro.com.br",
@@ -743,9 +738,9 @@
       "data": "08/09 19:11"
     },
     {
-      "titulo": "Richarlison no Brasil? Encostado no Tottenham, atacante vira alvo de torcida rival do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUkV2bzVXYXQ2am5RQUpleXZxbGNoYk1LRHlkakJpbTYtMWZCWEp6YlJCR0RoaUwzem5reXFlVnpGamVkU3FscXNUUXpudTc2Y29lU0ZCUW84MXNIMzQ2X21WbkNNNDJCSkhVY21lV3Iwa0hkQzUxUGRndEZzUzZXSGs1R0VRTVJNdVlsQlVGdkNxZDVYUG5Gcy14bHhfTWpMUjZsQWIxemk3Y2hHelVZOHVXbGprTk1KYVhhZ2s0bTduUHhadlI4ampuR3EzcDZfOEdLblFqQ2dVZnMzUnVTeTI4c2NhUkNuTUxDZkZ0VUdCRlI0NmJQM0IySmFWREdzTk9pSGdZLWFnNFZIMFpTSnFKVQ?oc=5",
-      "data": "07/09 19:15"
+      "titulo": "Neom vence Al-Hilal e derruba invencibilidade que durava desde o Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVNiWEViaHRDWHpKamxDZmhpaF9ocldDMVNQekptMlRPb0xLbFc0enJtNlg2d3k0cFlzMzFnMkRsVld2eEEyVmhlWFdyQWhNaElFbVhkUVpGTUpsVkpkMU9nMkJrSFNVTDQwRzlJM05DZDY5cThROHdMd1AxS292a3dKTDZiLWV1ZHZUeS1wRWI2VF95SEg1bzVvZ0g4c0RJOGhLdVdacXd4Zw?oc=5",
+      "data": "07/09 19:57"
     }
   ],
   "avisos": []
