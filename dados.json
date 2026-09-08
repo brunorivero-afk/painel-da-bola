@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/09/2026 04:46",
+  "atualizado_em": "08/09/2026 09:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -706,46 +706,36 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 22.7,
       "temp_min": 16.9,
-      "chance_chuva": 75,
+      "chance_chuva": 84,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.2,
       "temp_min": 16.7,
-      "chance_chuva": 90,
+      "chance_chuva": 94,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 18.4,
       "temp_min": 12.0,
-      "chance_chuva": 88,
+      "chance_chuva": 75,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 18.2,
       "temp_min": 11.5,
-      "chance_chuva": 100,
+      "chance_chuva": 96,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Marcão tem desfalque no ataque em decisão na Libertadores - GE",
+      "titulo": "Escalação do Fluminense: Marcão tem desfalque no ataque em decisão na Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3NYc082VE92WlNsbG5BY3R5T1F0NnZvVXNvVF9QWEVJYm5vOFFYeURQRTgxUUI3Z09yNURURi1VTDU3enNTUDFYUEhRdzJRTlN3OFZQUE13MlZ4X2Qxb3VZUEhHdkF1alVfWWJvNmdvVEx2djg1UGluNWZtS2RsZERmal8zWUo3NzJfQk1ycnVWSll4bVNTSUVKYkFra2hESDhxTldFMl9KVm9PWnd0OXJILWF4MEhxMWE5QUZRZTRBWWVRMjk2Z3pWMHRKLXBhM1NCTEI4NkNFLWdwNzFkS1BuYjRiSUnSAfYBQVVfeXFMUDJhQW0yVXE0QzVidHVhQWJLZ1ZSNk1aM1NCLUp6NVpuSkNVbDN0X1AyRFlsd1hTcTdnTjdJb2lBel9RODZLVUgyWUQwZldRd2s2U203RzF6Q2ZWbkxGT015S3JXUE8xUWFqa0ZQSGJlQVVHSmhtby1XMWYyUXExOHRYZk1nM3FtSElDMVlGUktmLWdoT0kwN0ZNZDhWMGJ3eEg3Q2N6RFlna3lvMFFWeVBsNEdRcHlfbkNfazJtNjdhTE91ejVQRTJrc0FZTko4M0p3QmVtRXhNcmxLY0VudVBNV1BsTjhHMk5wOFRzTmt2WDY2OEpR?oc=5",
       "data": "07/09 20:43"
-    },
-    {
-      "titulo": "Resumo do Dia: Retornos de Thiago Silva e Hércules, bastidores do clássico e ingressos para a Libertadores (07/09) - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS240WTRtWGtCbzNZY3M5SUxOQVRtNnBlTUZhVXVSZG5oSXlQcmJqLUtEZHVoUXZPa0lIZnE2eEx2NjVSdG15YS1rd1hZcmd2WTRpZDBSRF9KQnhqNklYSkJ1aUh4ellGRVIyZ1BMLVRjTmRsVEpkU0p5LU5qa2dVblVLWVlJeG4tVVNINmp3Vm5TSzFoTTdZbWNwNzZudlhXcUFhd3lUWW00RTBLS3ZoUGNhSHFOMzhtdG9JNjdLLVJfRVVPLUNoWjdabTBNYnZRVkMw?oc=5",
-      "data": "08/09 02:15"
-    },
-    {
-      "titulo": "Fluminense x Platense: onde assistir ao vivo, horário, palpite e escalações do jogo da Libertadores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVWNWbng5UUVFbzRfY01ITDRkVWppRmNldVUyRnFDVGJqUzF2RWx3NnYybGt5TGJxQ3JoOHRKRWZJcTYxRDNpUmtXMWxCNlpUaGZiSVdHZWhPamRuNEdCeS1XcDljaHNDNGxWa1pndWFHSURjb3FQR0NvSDVZdzdnMkZadXFaV1NZcW9pS2M4dGJDSVgwV3NuOEQ4WnJNNVk2Ql9ubF9jZUFORHN5aUFBQmJ1N21EZGh6a0t6Z0FVTlhBUG5HdkJha19wLWhlODlVVC1sdUt3bnNYN2dWUzBhVVBvWkpzdmc?oc=5",
-      "data": "07/09 19:35"
     },
     {
       "titulo": "Fluminense emite nota contra arbitragem após vitória sobre o Vasco e questiona postura de árbitro - Terra",
@@ -753,9 +743,19 @@
       "data": "06/09 18:13"
     },
     {
-      "titulo": "Internacional faz movimento por técnico que enfrenta o Fluminense na Libertadores; saiba detalhes - Terra",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSGdOeHpHdV9wY0JWdFkyZkVycnFpbVJzb0J0TWFQclhPdHM0M0pMQmI2ZUhETjlOVUhRSEJYbEZtQ2JOZ0hQZUZYd2FMdHBTdHc0S1ZtUGMtRmlDQ1R0SXRoMWNMemtZRG9UWkpGb2RPTUpQR3BPZ0NhZWZPQ2lOZmNKSVhHUXBLTm5nYmI5cEIxVlMtVEs5Wkk2Z09QNVFtc2ZuNlVBdkl0M255WlZCRkd3aVc1eHU3Nlk0cEE3RGNHU1piVGxQWGs3a2RNWU4yWVNPamtkRzBsc19XTU9iWks5emxweEU1X3E3Q3FZLWRHMGdDRGd0cEd4R2xzNEpqNkF0bjc5ejQ5RFpPRURZeVBn?oc=5",
-      "data": "08/09 07:05"
+      "titulo": "Como Marcão 'jogador' impressionava antes mesmo de virar técnico e rendeu até profecia de ex-Fluminense: 'Tinha certeza que iria deslanchar' - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOV2pfOUxUQ3dyYjZlamVuai03RmVoZ1dxTExsTjNBTFFuWTJZS3JvM3IybnlDZjFPckhQUkdrMzdmWXZMdG1qMjVmTFlrdjB5ZFdSOXcxZGN5VFhHVWptX29BVEhnSlVkREtwN3h4WXFOOGQ2cl8tcEx3X1ZLUjF1RkN1UERLc1V4aG9iVTBXZWw0VjNRMVRyd2ZtZzUycW1kUVFXUWZFZzBjQnFMOGllek1uN2tKa3pRSzA0VFRBYkItS0hyZHc1ZGpZQTltTzFjNURzR25aazVLQU41UWZpaWxxX0lTTGZteGQ0V0dmZlVaY1VMdUZ2RWViQllOcmo0OG1JV2JWNS1UZUZOZ3Y0MFVuTkpDaVZPY0E?oc=5",
+      "data": "08/09 10:31"
+    },
+    {
+      "titulo": "Neom vence Al-Hilal e derruba invencibilidade que durava desde o Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVNiWEViaHRDWHpKamxDZmhpaF9ocldDMVNQekptMlRPb0xLbFc0enJtNlg2d3k0cFlzMzFnMkRsVld2eEEyVmhlWFdyQWhNaElFbVhkUVpGTUpsVkpkMU9nMkJrSFNVTDQwRzlJM05DZDY5cThROHdMd1AxS292a3dKTDZiLWV1ZHZUeS1wRWI2VF95SEg1bzVvZ0g4c0RJOGhLdVdacXd4Zw?oc=5",
+      "data": "07/09 19:57"
+    },
+    {
+      "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXhOZG5haGN1WkRfYVA0bVQ2a1BlVml0b3VsSDI5T2R3UWk2S2QzNjFwd0xfbTgyWDgzdXlmRHBFVm5zcmRObzUzcXh3ZHBWQV9ieU9WWkVDdW9IUm9wcmJJS3FEQW0wNG5lT0p5b0lxSXg3QzZTVkhGZ0FMV1dKSTItSWs3UksyR2sxYlBzZnRxajkwTjNvQklweGtfVDI4dHZ1VFZNdUZtal9iWV9lYndyYlVFY19ENVFfWGR0Y054UmdIT2IzVS1R0gHPAUFVX3lxTE1yd2kxazk1NlFHRVlkaDQ0Q0ZoWER4X3liektGTXJVb25vbk1iTXdTVU1Yams1ekp5bndjTlJHb2Rma3ZVSWpzUGQ5Ql8wamNNZmlLZmRCM2VXNktBeTJJbVpEUF9ORTlpRG1ObWZvZHptZEgtcDdjTkhqTDVIM0ZZQVlMOTd2MWJGOEh4cTQyaHBERlpoQnBKS2dnY3Q3UWtoTlVNZ0hwZ1phZ2ZmM3diU3AxdjZmUTd4SmxmTnhBWjNtUG9BMW1XT2lwdWxxbw?oc=5",
+      "data": "06/09 20:45"
     }
   ],
   "avisos": []
