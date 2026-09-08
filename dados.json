@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "07/09/2026 20:55",
+  "atualizado_em": "07/09/2026 23:50",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "17:00",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x Cruzeiro (F)",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-07",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Grêmio",
-      "channels": [
-        "SPORTV",
-        "PREMIERE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-07",
@@ -139,6 +118,16 @@
     {
       "sport": "futebol",
       "date": "2026-09-07",
+      "time": "17:00",
+      "competition": "Brasileirão Feminino",
+      "match": "Corinthians (F) x Cruzeiro (F)",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
       "time": "18:00",
       "competition": "Brasileirão Série C",
       "match": "Paysandu x Brusque",
@@ -155,6 +144,17 @@
       "match": "Barracas Central x Argentinos JRS",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-07",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Grêmio",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
       ]
     },
     {
@@ -237,11 +237,30 @@
     {
       "sport": "futebol",
       "date": "2026-09-08",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Crystal Palace x Middlesbrough",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Sunderland x Hull City",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Borussia Dortmund x Villarreal",
+      "match": "Lille x Real Betis",
       "channels": [
-        "YOUTUBE",
         "HBO MAX"
       ]
     },
@@ -273,8 +292,9 @@
       "date": "2026-09-08",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Lille x Real Betis",
+      "match": "Borussia Dortmund x Villarreal",
       "channels": [
+        "YOUTUBE",
         "HBO MAX"
       ]
     },
@@ -479,14 +499,14 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 17.9,
+      "temp_max": 17.8,
       "temp_min": 16.2,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 19.4,
+      "temp_max": 18.7,
       "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -508,29 +528,29 @@
   ],
   "noticias": [
     {
+      "titulo": "Escalação do Fluminense: Marcão tem desfalque no ataque em decisão na Libertadores - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3NYc082VE92WlNsbG5BY3R5T1F0NnZvVXNvVF9QWEVJYm5vOFFYeURQRTgxUUI3Z09yNURURi1VTDU3enNTUDFYUEhRdzJRTlN3OFZQUE13MlZ4X2Qxb3VZUEhHdkF1alVfWWJvNmdvVEx2djg1UGluNWZtS2RsZERmal8zWUo3NzJfQk1ycnVWSll4bVNTSUVKYkFra2hESDhxTldFMl9KVm9PWnd0OXJILWF4MEhxMWE5QUZRZTRBWWVRMjk2Z3pWMHRKLXBhM1NCTEI4NkNFLWdwNzFkS1BuYjRiSUnSAfYBQVVfeXFMUDJhQW0yVXE0QzVidHVhQWJLZ1ZSNk1aM1NCLUp6NVpuSkNVbDN0X1AyRFlsd1hTcTdnTjdJb2lBel9RODZLVUgyWUQwZldRd2s2U203RzF6Q2ZWbkxGT015S3JXUE8xUWFqa0ZQSGJlQVVHSmhtby1XMWYyUXExOHRYZk1nM3FtSElDMVlGUktmLWdoT0kwN0ZNZDhWMGJ3eEg3Q2N6RFlna3lvMFFWeVBsNEdRcHlfbkNfazJtNjdhTE91ejVQRTJrc0FZTko4M0p3QmVtRXhNcmxLY0VudVBNV1BsTjhHMk5wOFRzTmt2WDY2OEpR?oc=5",
+      "data": "07/09 20:43"
+    },
+    {
+      "titulo": "Internacional faz movimento por técnico que enfrenta o Fluminense na Libertadores; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSGdOeHpHdV9wY0JWdFkyZkVycnFpbVJzb0J0TWFQclhPdHM0M0pMQmI2ZUhETjlOVUhRSEJYbEZtQ2JOZ0hQZUZYd2FMdHBTdHc0S1ZtUGMtRmlDQ1R0SXRoMWNMemtZRG9UWkpGb2RPTUpQR3BPZ0NhZWZPQ2lOZmNKSVhHUXBLTm5nYmI5cEIxVlMtVEs5Wkk2Z09QNVFtc2ZuNlVBdkl0M255WlZCRkd3aVc1eHU3Nlk0cEE3RGNHU1piVGxQWGs3a2RNWU4yWVNPamtkRzBsc19XTU9iWks5emxweEU1X3E3Q3FZLWRHMGdDRGd0cEd4R2xzNEpqNkF0bjc5ejQ5RFpPRURZeVBn?oc=5",
+      "data": "08/09 01:23"
+    },
+    {
+      "titulo": "Fluminense x Platense: onde assistir ao vivo, horário, palpite e escalações do jogo da Libertadores - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVWNWbng5UUVFbzRfY01ITDRkVWppRmNldVUyRnFDVGJqUzF2RWx3NnYybGt5TGJxQ3JoOHRKRWZJcTYxRDNpUmtXMWxCNlpUaGZiSVdHZWhPamRuNEdCeS1XcDljaHNDNGxWa1pndWFHSURjb3FQR0NvSDVZdzdnMkZadXFaV1NZcW9pS2M4dGJDSVgwV3NuOEQ4WnJNNVk2Ql9ubF9jZUFORHN5aUFBQmJ1N21EZGh6a0t6Z0FVTlhBUG5HdkJha19wLWhlODlVVC1sdUt3bnNYN2dWUzBhVVBvWkpzdmc?oc=5",
+      "data": "07/09 19:35"
+    },
+    {
       "titulo": "Fluminense emite nota contra arbitragem após vitória sobre o Vasco e questiona postura de árbitro - Terra",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRW1jaV8ySy1LUE9ydVFvUnpDaGxuMU5QWEd5bWloelpEMkk3b2M4b2d5VDZlYWpBLVhCSkN2MmlPaGNvZE0xRjd6YXhmR0NLdURJbUhFa0hsd0pIQjJVWERlbDNkbWxxc2w1c1NQTWxhY1ZYbFBQMm5hdVhzbHZPSzN4RUdLN2xFUmp6VC1EZVdCNXB5aEhSbzNLRFdXaXVEbGgtZC1IRF8wTjF6alMxX3d4X0llUHRQMC1qU29KNEdnZDRrbEFPRGxzTzdTdkVsdVVFaFBlUnA0ZWZlSDFnU2o5YXBsNkxWajVrUE5FbWdQeFQ1SnBHZVg4UE9xMkRYeWpWZExpTF96WW5NSFNVRWhDYw?oc=5",
       "data": "06/09 18:13"
     },
     {
-      "titulo": "Escalação do Fluminense: Marcão tem desfalque no ataque em decisão na Libertadores - GE",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3NYc082VE92WlNsbG5BY3R5T1F0NnZvVXNvVF9QWEVJYm5vOFFYeURQRTgxUUI3Z09yNURURi1VTDU3enNTUDFYUEhRdzJRTlN3OFZQUE13MlZ4X2Qxb3VZUEhHdkF1alVfWWJvNmdvVEx2djg1UGluNWZtS2RsZERmal8zWUo3NzJfQk1ycnVWSll4bVNTSUVKYkFra2hESDhxTldFMl9KVm9PWnd0OXJILWF4MEhxMWE5QUZRZTRBWWVRMjk2Z3pWMHRKLXBhM1NCTEI4NkNFLWdwNzFkS1BuYjRiSUnSAfYBQVVfeXFMUDJhQW0yVXE0QzVidHVhQWJLZ1ZSNk1aM1NCLUp6NVpuSkNVbDN0X1AyRFlsd1hTcTdnTjdJb2lBel9RODZLVUgyWUQwZldRd2s2U203RzF6Q2ZWbkxGT015S3JXUE8xUWFqa0ZQSGJlQVVHSmhtby1XMWYyUXExOHRYZk1nM3FtSElDMVlGUktmLWdoT0kwN0ZNZDhWMGJ3eEg3Q2N6RFlna3lvMFFWeVBsNEdRcHlfbkNfazJtNjdhTE91ejVQRTJrc0FZTko4M0p3QmVtRXhNcmxLY0VudVBNV1BsTjhHMk5wOFRzTmt2WDY2OEpR?oc=5",
-      "data": "07/09 20:43"
-    },
-    {
-      "titulo": "Força, Angioni! Diretor executivo de futebol do Fluminense enfrenta problema de saúde - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnQ3WS10RUZBdmx6QkQ3N1hRY3hseWE5d1VnQ2dFbjM1dzZtRWROcGQ3dExOa01SaXNfYWRTWnBlYktNTlRnRk81RTMtNzh5TDltcmxZRVRQYmNsSWhEU2g5djI3eU56YUxIZmNQQ0c3RWNkd1hzVjhOYnpCdWw0M05nQ3ZnbV80OEJXc1NMNl9GWEgtdlFaUTIzV0ZCb2RVTzU0Q0dZZ2ZKd1RxWmRieHZydjBGckU?oc=5",
-      "data": "07/09 19:16"
-    },
-    {
-      "titulo": "Richarlison no Brasil? Encostado no Tottenham, atacante vira alvo de torcida rival do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUkV2bzVXYXQ2am5RQUpleXZxbGNoYk1LRHlkakJpbTYtMWZCWEp6YlJCR0RoaUwzem5reXFlVnpGamVkU3FscXNUUXpudTc2Y29lU0ZCUW84MXNIMzQ2X21WbkNNNDJCSkhVY21lV3Iwa0hkQzUxUGRndEZzUzZXSGs1R0VRTVJNdVlsQlVGdkNxZDVYUG5Gcy14bHhfTWpMUjZsQWIxemk3Y2hHelVZOHVXbGprTk1KYVhhZ2s0bTduUHhadlI4ampuR3EzcDZfOEdLblFqQ2dVZnMzUnVTeTI4c2NhUkNuTUxDZkZ0VUdCRlI0NmJQM0IySmFWREdzTk9pSGdZLWFnNFZIMFpTSnFKVQ?oc=5",
-      "data": "07/09 19:15"
-    },
-    {
-      "titulo": "Fábio atinge marca histórica após vitória do Fluminense em clássico - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXhOZG5haGN1WkRfYVA0bVQ2a1BlVml0b3VsSDI5T2R3UWk2S2QzNjFwd0xfbTgyWDgzdXlmRHBFVm5zcmRObzUzcXh3ZHBWQV9ieU9WWkVDdW9IUm9wcmJJS3FEQW0wNG5lT0p5b0lxSXg3QzZTVkhGZ0FMV1dKSTItSWs3UksyR2sxYlBzZnRxajkwTjNvQklweGtfVDI4dHZ1VFZNdUZtal9iWV9lYndyYlVFY19ENVFfWGR0Y054UmdIT2IzVS1R0gHPAUFVX3lxTE1yd2kxazk1NlFHRVlkaDQ0Q0ZoWER4X3liektGTXJVb25vbk1iTXdTVU1Yams1ekp5bndjTlJHb2Rma3ZVSWpzUGQ5Ql8wamNNZmlLZmRCM2VXNktBeTJJbVpEUF9ORTlpRG1ObWZvZHptZEgtcDdjTkhqTDVIM0ZZQVlMOTd2MWJGOEh4cTQyaHBERlpoQnBKS2dnY3Q3UWtoTlVNZ0hwZ1phZ2ZmM3diU3AxdjZmUTd4SmxmTnhBWjNtUG9BMW1XT2lwdWxxbw?oc=5",
-      "data": "06/09 20:45"
+      "titulo": "Hulk comenta início complicado no Fluminense, cobrança da torcida e celebra boa fase - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkNDVFJaMWFMQVdteGJaZHU0dTJKcmRRdkdkNy1SVGg2aVQ4VGlSUlB1dEJwdWdQQXRTUVJSRmZHaWZQMG1OZFpuZ0RrYTh3Z0tRYTRTcEFfY3JsQUMyMWxQVTVueWxkNTdQbGFBLVJXQ0FvTnpwbmNBS3lMRGZiSGRDZFBCaXJwVGJoY3NpWmoxVFVFejA3d2JpWkNlUkRlVVN4X0kwcDFGb01JVW5J?oc=5",
+      "data": "08/09 01:45"
     }
   ],
   "avisos": []
