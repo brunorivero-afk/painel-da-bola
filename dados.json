@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/09/2026 09:40",
+  "atualizado_em": "09/09/2026 13:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -654,56 +654,56 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 28.3,
       "temp_min": 19.7,
-      "chance_chuva": 78,
+      "chance_chuva": 77,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 28.5,
       "temp_min": 20.7,
-      "chance_chuva": 61,
+      "chance_chuva": 53,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 23.0,
       "temp_min": 15.0,
-      "chance_chuva": 88,
+      "chance_chuva": 89,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 23.0,
       "temp_min": 14.4,
-      "chance_chuva": 90,
+      "chance_chuva": 84,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense derrota Vasco, encerra jejum e mantém rival no Z4 do Brasileirão - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDdhdXZLSTBaYVJma2VjZ296UEFSZENNeXFRSkhKRGVJZC1Yak5MMFRqT2o2cXpwTmFHcmZxd2RpMjhwdC1EdkJ1aHYxYzV6dndrMm9ELVRnN1pnN1NxczdqMWM1dnRHcTVoemhkSElaakp5TzZLUkZHYmZtX211RDNRVkROcUoxMFloUDRhaDRjTUlhODJYdGNkU0FMeGRMREtzOVQ5WUs2LXB0V1BZNlRab0pqTEg1WnBQdFdIOHlxZDQ?oc=5",
-      "data": "06/09 02:00"
+      "titulo": "Ganso dá volta por cima e recupera protagonismo no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbXA2bUxIUjV2WTVLd1AyS3FvUVdkdExMb2hWVHU4anY0V2FGVDhvcGRDYUZwc3l2SUtnVzVKSlpCLUdncVM1NlFrWEFXVTA4cG9FdGJUUEUzVmpfQ05ISEQxaG1fNUpGdG5KOGNvMG1mLTJMNFI0V3ZnRmlrQmttS2M2TjFxMG5GY0l0VDdpUWw5UktkbFgwR1E3cllRdHI1dTItVkZ1bHNwZHJYeXFodFFsZmZHRHJsMm5yQ0drMGhINTFPU19DcW53Vzk5RnMwb2ZPWVdBdnRRR193MEdac3ZaMURRbFU?oc=5",
+      "data": "09/09 13:28"
     },
     {
-      "titulo": "Martinelli, do Fluminense, nutre expectativa por Seleção: \"Trabalhando por esse sonho\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSjhDWFNQU3A5QUhyTU1LOElpdzVrYUhnaWZMbHB5VWdLNVBjSldyQ2dEQjBiVTBGc3N5VjFFWUppUHVydDJUZXplbzFIdHBlcm1CRkFaNm9QWW4tYmtMRHoyNGp0bGVyR0l2RHd3N3FpTkVqZjhibURHLW5ranN0QkpnaHJ6VThMTXlmVGlCblJ5aEZwTXRiQ1J5MWFwYndHa2sxWThiLXdINjJ6dzZVUkppaDVTSjU1V0V2VHVHWFZubXFXY3B4dGpzdEZGSXBxWGdQUk9kSmFTdmtVR1RaanRpUzhSTW_SAfYBQVVfeXFMUC1uRHhHeUV0R2RrYzZTWEtyVzBsZG9BZmQ5ejBraEhHVy1KMnY2Z1hvRXZHTHM3NkVOZHNJZHJDeXNxdEpnN1pKLUhJR05uN3JJWGJZSWRNbFNLZXBuZWlnN3U3b3ZTVG5UUjhmeWtvZW5IdV9rRTFxRjlKMUNzWE9uc3ZsQVJob3VPSUN2NDZnSUxVNnhuUmNnU3dHSGVONDB6S2t1emFfTkRUbHpDLXducTBJVndyOE5wR0VQYk11NlRGYU5FcjZlMEYwVzJGdy1jMVhaeHREWmJIc1RPTl8wOU5ha3kzOUpFZ2twcG9STmp5ZDZn?oc=5",
-      "data": "09/09 09:00"
-    },
-    {
-      "titulo": "Hulk atinge a mesma marca do Atlético no Fluminense com menos jogos; veja - itatiaia.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc1RxdHliMHNWbXZCVjZQU1M3czdlYTRYMUI3ZUJuY3ZRR1hiWnU5eEFnQmpFV3VxTlNrUTNEWjZtb1BFeUZ2T2t5UXlCaTZQd20zVXhQcWhhSnhkTWZPN2NncXk2QXJ1bDM5RjZ1LTBrc3NramJOSFBoaW5uQ3pNM2tMRUw1eUZ6eHVqZXhtdDNtVmtxUlpRaUY3RmZJdnhYMHFkRTRUSWpFTk45c0wxUVNDQXZoeDJZdkJkUzNaMjY2TVJrbGJFSzRpZGdldDc1NFRIazJvQ0ZWakUzeVlKOFd6Y29SM3lIZFZnU0U3M3BYc3k0?oc=5",
-      "data": "09/09 09:42"
-    },
-    {
-      "titulo": "Thiago Silva critica Ancelotti por excluir experientes da Seleção - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3BLSE55ZWhqNkxuTjhZQlktc2lvb3VvSjN6WWN4azg0Vmh3SWFyUF9FZG9fT0E3Z2hGUi1RMXlGU0x6VnZoMUltYVNCWHNkTG5wb0pab3FJamh3VDdLV0dNdzVybzNoTHZEeVNGSUtoMkxoWWlabXRTMm9tQ2lCZFl5LUJpUWFpOGp0UVRmenhBaEJ5N3RxZmF4LWFNSDZyRlFNWjFMaDhMRzlXZW9fOEZjX1Y1NGpQOTVxdlo4LUNJY3QzY0Zj0gHMAUFVX3lxTE1WR1BKNFM0UGhSNnlCVjJESU9TWEt0YWtiLUhwMGtqaEd6YmphS0dKeFNBSGxxR0dZbU12TFZqT0R4WWFFT2JfQ0o2R3BqMDZwMFd1WHp4WmotdGlKRHpjU1Zib2dSY1BoVW8yRzlFcUtmNkF0NnpNZ2hnQlJqWHUxLVhCdTF4d3Y3eUx3YTRiNEgzaWU2cEE3b2xLM29YRFlWQWt6OG9xeTRhSkhiTnB2TlMzakFZQ0lKdUJZY0NxUy02bmhFZlMzNW05SA?oc=5",
-      "data": "09/09 12:00"
+      "titulo": "Thiago Silva critica reformulação de Ancelotti: \"Não pode tirar todo mundo\" - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdElybzRacXBPNG5IblVMeXphejBHMEtHbTFfbThrQjBsYjJrS0phanhrUWpwazBkVWdPWWpORndDRDVGb0VJS25xUGxtN2p6Y1ZJUmdZVDBGMElIUE41QWdUY0FlRTNTNUtLaW1YUnkxS1FGX1FfUE1PQ05mbFF4X2s5UkJ6VGxUSHN0ZE04UkN0d2lSNmxrMDZjYVA1WXFwVTllQ3FnVTM0d3ZSUlBPaVJPRTdaWE1qc1hadUNmZWNPSW5adExjM2J3?oc=5",
+      "data": "09/09 12:50"
     },
     {
       "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
-      "data": "08/09 23:55"
+      "data": "09/09 03:55"
+    },
+    {
+      "titulo": "Fluminense 2 x 0 Platense: a maestria anacrônica de Ganso - Correio Braziliense",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVB3NVFEMks1V19idTQ5WGd4YjZTQjRjYTVsQ2ZMS0NKdE00QlpnZGE4eFZ3V1VHeE9TckExbnhXQXg5bWZhZGU1cEVBd1ZyR3YwRl9qeVpCRktIRV9XeFdLWjB2bzNHVnBaQjROYlpJLWl4M3o1RGxhanlfMFBxQnhOWE5MeGlPdkhjOGtjbDJWV1QxUDZkbzc1dHdJSEl6M25yQTl5WWFNWC1CVGVvRw?oc=5",
+      "data": "09/09 02:33"
+    },
+    {
+      "titulo": "Richarlison deixa Atlético-MG, Flamengo e Fluminense de lado e escolhe onde quer jogar no Brasil - jornalcruzeiro.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTk9GSkVaZWdhOFNaenhQZ2lvcFVoR05PNm1qS0JTa2w0b0d1aWU3QmhfOEtocUduZzdMZmZ3Y2U5V1BiVERYVy13bXlYbmF4Q3ZQY25YSWMxM0YzVm91Z0JLa2plUnYzNHRXUGI2dXBlY3dxX01YbFZKWDF5Z3VvaU5VWURJcUlaeXZ5c0k2MzdhOVdjdDJVTUozNm9Iay03bmMwbmVsZWV5YUxFUmI4VzFveUlIckVaYW9pWUNJVWVzSDlGZFB5UTBCRkRqMlFVUDBzZmxwcGE?oc=5",
+      "data": "08/09 16:02"
     }
   ],
   "avisos": []
