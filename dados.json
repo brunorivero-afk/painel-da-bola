@@ -1,82 +1,6 @@
 {
-  "atualizado_em": "09/09/2026 16:38",
+  "atualizado_em": "09/09/2026 19:11",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Nassr x Abha",
-      "channels": [
-        "XSPORTS",
-        "SPORTV",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Liverpool x Atletico Madrid",
-      "channels": [
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "PSG x Slovan Bratislava",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Sporting CP x Galatasaray",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Napoli x Arsenal",
-      "channels": [
-        "SPACE",
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Chelsea x Leeds",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "16:45",
-      "competition": "Campeonato Português",
-      "match": "Moreirense x Benfica",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-09",
@@ -103,9 +27,8 @@
       "date": "2026-09-09",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Avai",
+      "match": "Botafogo SP x Novorizontino",
       "channels": [
-        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -114,8 +37,9 @@
       "date": "2026-09-09",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Novorizontino",
+      "match": "Fortaleza x Avai",
       "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -143,10 +67,10 @@
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x CRB",
+      "competition": "MLS",
+      "match": "Montreal Impact x Charlotte",
       "channels": [
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
@@ -154,7 +78,7 @@
       "date": "2026-09-09",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Atlanta United FC x Orlando City SC",
+      "match": "DC United x Columbus Crew",
       "channels": [
         "APPLE TV"
       ]
@@ -174,9 +98,19 @@
       "date": "2026-09-09",
       "time": "20:30",
       "competition": "MLS",
-      "match": "DC United x Columbus Crew",
+      "match": "Atlanta United FC x Orlando City SC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x CRB",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -187,16 +121,6 @@
       "match": "América-MG x Náutico",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x Charlotte",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -213,20 +137,20 @@
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "21:00",
-      "competition": "MLS",
-      "match": "New York City FC x New England",
+      "competition": "MLS Next Pro",
+      "match": "Huntsville City x Chattanooga",
       "channels": [
-        "APPLE TV"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Huntsville City x Chattanooga",
+      "competition": "MLS",
+      "match": "New York City FC x New England",
       "channels": [
-        "ONEFOOTBALL"
+        "APPLE TV"
       ]
     },
     {
@@ -395,6 +319,82 @@
       "channels": [
         "SPACE",
         "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Abha",
+      "channels": [
+        "XSPORTS",
+        "SPORTV",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Chelsea x Leeds",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Napoli x Arsenal",
+      "channels": [
+        "SPACE",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Sporting CP x Galatasaray",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "PSG x Slovan Bratislava",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Liverpool x Atletico Madrid",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "16:45",
+      "competition": "Campeonato Português",
+      "match": "Moreirense x Benfica",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -581,16 +581,6 @@
     {
       "sport": "volei",
       "date": "2026-09-09",
-      "time": "16:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Argentina x Colômbia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-09",
       "time": "19:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Peru",
@@ -671,19 +661,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Lazuli aumenta proposta para compra da SAF do Fluminense; veja o que muda - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWs3aUlJYUNyaWJmOG0yeTJCN0pxM2pmeGoxTmNyazlJTUFMYjZOVXNSajZmYldzYmxsRFZVcWdReldPU1JCOFNYWEtCREx6SzQwLW03bEk3ZXVhSTd2T243X0MwUDd1VVRqdXdCRmg5WXRnckkwNFRINmlWMm9mSE1wRzUwMXBSbnBEY1FVMFppUzNCNDFNMUJReWUyQ0xEWmc?oc=5",
-      "data": "09/09 16:41"
-    },
-    {
-      "titulo": "Proposta por SAF do Fluminense completa um ano em compasso de espera - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnYtUllqWm1saFRLT3d2LXd0NXZ0elBpM3FOOVFHUFczNjVGMy1XS3UwcWsyTkl0UXI3dll2VnlETzlCZ3FkVTIyd3YyNHY4UENpTFQtQVl2dHB0Ml9fdDZBV2N1UWZteElGYTRQTUpFbTNPTTJQSGNHa1ZxQTZ4NlNPMktaNmVSMzlLcmRlWkdsREp1NWpGWG5zenhpdm1sZUVtZG81OXBIaEZpTktTUVpBTnZKXzZlQnFVdXdSOTJ1Rk5Cdlo5X3FCUUpNRDBHODRoNy1R0gHkAUFVX3lxTE5uVWZFSmdUbWlYVHIzdXpTTXJXd2hhaFYwRUtieFh4M1R3RHV0MlNCY0RFZmVCTHk0TWtVam1VbjlFbFdVaUE4dXVuMGdBVU5pTkhGSVNIUER0R1o0cVNNMEUta3J6ZjBISERIZURyWnhYU0V3aWlrRmk2NUJ5V2gxUkJoY1MyTU5oSWo0QWFJRmJGN291V1Ffc3FuRHh4S3M3WWJpY0h1c3NHcVpGM1RZMjhISHAxUjVPRzlPQ2xJUWVqaXdCSmFyUFRwcEZmLW9qTE15RTRCTThGc0RPNUJVWEJSTg?oc=5",
-      "data": "08/09 13:00"
-    },
-    {
-      "titulo": "Fluminense negocia nova proposta para a SAF com valor maior - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc0h4SDc4dXN5bk9oS3VNMDhBTXdTTVB6TFp2d3U0VHQyQWxTWnpBaVFrLVFyLXhqblU3TUNXOWhERkxxNkdFb0laR1VzNVY5X3pGREgtX0xMV0s0MWNscEhJMjNxNGJFWmNOdjV0b3dQLXhHYjdZa1BhOVoxRFJlSng2UDVZdk0zX3VUVklvNWdKWDZfbDh6WVJxMXlUa2VZUlhaZ1I4Y2RfSU5YWTRVRDVCUGk3RlQ2VHAxWV9rRDV3UXBGX1RGaHc0Z25ubU1fb3ROLWtYRmFfNEVFOXFudTVhYTNzS2lYa3Z6WjdSeV8zT3puTXFJ?oc=5",
-      "data": "09/09 17:00"
+      "titulo": "Hulk recupera perfil decisivo e vira referência do Fluminense; veja números - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0lNSlJOTGVIYU5VYTFzb0phbXlPU0dybm56OUpwc2o4bmtTMHRLUTFMRFRDNVBxUkEtRFFqWWxJS0k1enBiYWI2d1AzZ09aN2t6aHdHX055VjZZd0hPVE5nelJCa3FqbDFab2ZFbF9TMUhaYWwzQlp0MzdyM3hkNW1qTnNlSTlaZW9XWjBZaFZuaTVJM3kwS2pfazFJSmdWUHliQXpQN3AtX2Jncm9LbXVWeFZzZw?oc=5",
+      "data": "09/09 20:43"
     },
     {
       "titulo": "Hulk desfalca Fluminense contra Atlético-MG por cláusula; saiba detalhes - Terra",
@@ -691,9 +671,19 @@
       "data": "09/09 15:22"
     },
     {
+      "titulo": "Hulk valoriza boa fase no Fluminense e revela ajuda de diretor do clube - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2pLYmEtSUFMWTk5dXlzNGN3YWtoM1dDbUdZclFNWEdheHJWNERsUmlYTG9YUVdQZWpMSWpaVWFCRnAzTUY4MHhOaUE2T1FSbjBoOEhHSER0dXQ3VnBEMHlpamIzWVZvdUp3aVUzcF9ENTU1S2ZlZ0pORHpHOFpaUkJ2cmwzVG42b3FwaURYdmxoUDJaV094ZjFmN1UxUkVkOWthaW9qYjh4WmoyLVNTSU9nT2ZlR2JSdlFKX1puQXBuVEg5VG1DbA?oc=5",
+      "data": "09/09 03:00"
+    },
+    {
       "titulo": "Thiago Silva critica reformulação de Ancelotti na Seleção: \"Aqui não funciona assim\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbWhXQ1AxZW5XbUZuc04yRnRxYlh6NGljLVJGOTRSaE1IUVdsYXUzNG1rd3BiSFVqck4yZXgwRkVEdVBrekthSUpyREpYdzNtYkc3Y0Z5OWRsYlNFVlFHejRiVm1BTlU3S002N1NTaFpncFJBam5qYTBJRmhjbkNuRktlcGl2dVc4ZTdnMElLMWNES1ZoSnFnZzdTR2J6ZGFTVmJYeHZreWtUM2draUZYQzEzcUpVdTRZLUQyZ21rdWJMS2dmbnk3Sm8zellLa005UThxNG1ZQ2dLTmRhcWpqTDIya21lY1dzQTJ4dWQwaEFKMDlUM2JkZl9R0gGIAkFVX3lxTFBDcms1Q1VDSXZaeFJ3RmNlX3JuRlBmcmNTalB2VlgtYTNKaDRJVHBPTHdfMm5wbDFaN3J4emNjcFRhV1hBSXphRE5obE5SeFYzeVFfVzdsTnJmc2pHNEo0bGFQTjdsSG0zNjVhYzE5NnI2YW1TMXZYWHJWRDhsUGNkeFVqTkY3dXVQQ3hNRjhzUkdLNkhtU3BCb2dnZjVQOWFOWDNPWUhqa2l3UG9GNndvd0ZnakFQTlNEWkg5OW85RTUydHdGSFJ5ZFpVTVJ3VDVjZDZDM1RDLWJqTWg3eWVKUHI0azJzZERwWmhUc09zYURYaUFRbHU5aWFIVVhpb3VNa3U2d0ZaVA?oc=5",
       "data": "09/09 02:33"
+    },
+    {
+      "titulo": "Thiago Silva critica Ancelotti por excluir experientes da Seleção - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3BLSE55ZWhqNkxuTjhZQlktc2lvb3VvSjN6WWN4azg0Vmh3SWFyUF9FZG9fT0E3Z2hGUi1RMXlGU0x6VnZoMUltYVNCWHNkTG5wb0pab3FJamh3VDdLV0dNdzVybzNoTHZEeVNGSUtoMkxoWWlabXRTMm9tQ2lCZFl5LUJpUWFpOGp0UVRmenhBaEJ5N3RxZmF4LWFNSDZyRlFNWjFMaDhMRzlXZW9fOEZjX1Y1NGpQOTVxdlo4LUNJY3QzY0Zj0gHMAUFVX3lxTE1WR1BKNFM0UGhSNnlCVjJESU9TWEt0YWtiLUhwMGtqaEd6YmphS0dKeFNBSGxxR0dZbU12TFZqT0R4WWFFT2JfQ0o2R3BqMDZwMFd1WHp4WmotdGlKRHpjU1Zib2dSY1BoVW8yRzlFcUtmNkF0NnpNZ2hnQlJqWHUxLVhCdTF4d3Y3eUx3YTRiNEgzaWU2cEE3b2xLM29YRFlWQWt6OG9xeTRhSkhiTnB2TlMzakFZQ0lKdUJZY0NxUy02bmhFZlMzNW05SA?oc=5",
+      "data": "09/09 12:00"
     }
   ],
   "avisos": []
