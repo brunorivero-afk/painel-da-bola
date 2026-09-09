@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/09/2026 04:48",
+  "atualizado_em": "09/09/2026 09:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -637,63 +637,73 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-09",
+      "time": "21:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesi-Bauru x Osasco",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.0,
-      "temp_min": 19.5,
-      "chance_chuva": 59,
+      "temp_max": 28.3,
+      "temp_min": 19.7,
+      "chance_chuva": 78,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.1,
-      "temp_min": 20.5,
-      "chance_chuva": 57,
-      "condicao": "Trovoada"
+      "temp_max": 28.5,
+      "temp_min": 20.7,
+      "chance_chuva": 61,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.1,
+      "temp_max": 23.0,
       "temp_min": 15.0,
-      "chance_chuva": 76,
-      "condicao": "Chuva fraca"
+      "chance_chuva": 88,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.6,
+      "temp_max": 23.0,
       "temp_min": 14.4,
-      "chance_chuva": 61,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 90,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
+      "titulo": "Fluminense derrota Vasco, encerra jejum e mantém rival no Z4 do Brasileirão - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZDdhdXZLSTBaYVJma2VjZ296UEFSZENNeXFRSkhKRGVJZC1Yak5MMFRqT2o2cXpwTmFHcmZxd2RpMjhwdC1EdkJ1aHYxYzV6dndrMm9ELVRnN1pnN1NxczdqMWM1dnRHcTVoemhkSElaakp5TzZLUkZHYmZtX211RDNRVkROcUoxMFloUDRhaDRjTUlhODJYdGNkU0FMeGRMREtzOVQ5WUs2LXB0V1BZNlRab0pqTEg1WnBQdFdIOHlxZDQ?oc=5",
+      "data": "06/09 02:00"
+    },
+    {
+      "titulo": "Martinelli, do Fluminense, nutre expectativa por Seleção: \"Trabalhando por esse sonho\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSjhDWFNQU3A5QUhyTU1LOElpdzVrYUhnaWZMbHB5VWdLNVBjSldyQ2dEQjBiVTBGc3N5VjFFWUppUHVydDJUZXplbzFIdHBlcm1CRkFaNm9QWW4tYmtMRHoyNGp0bGVyR0l2RHd3N3FpTkVqZjhibURHLW5ranN0QkpnaHJ6VThMTXlmVGlCblJ5aEZwTXRiQ1J5MWFwYndHa2sxWThiLXdINjJ6dzZVUkppaDVTSjU1V0V2VHVHWFZubXFXY3B4dGpzdEZGSXBxWGdQUk9kSmFTdmtVR1RaanRpUzhSTW_SAfYBQVVfeXFMUC1uRHhHeUV0R2RrYzZTWEtyVzBsZG9BZmQ5ejBraEhHVy1KMnY2Z1hvRXZHTHM3NkVOZHNJZHJDeXNxdEpnN1pKLUhJR05uN3JJWGJZSWRNbFNLZXBuZWlnN3U3b3ZTVG5UUjhmeWtvZW5IdV9rRTFxRjlKMUNzWE9uc3ZsQVJob3VPSUN2NDZnSUxVNnhuUmNnU3dHSGVONDB6S2t1emFfTkRUbHpDLXducTBJVndyOE5wR0VQYk11NlRGYU5FcjZlMEYwVzJGdy1jMVhaeHREWmJIc1RPTl8wOU5ha3kzOUpFZ2twcG9STmp5ZDZn?oc=5",
+      "data": "09/09 09:00"
+    },
+    {
+      "titulo": "Hulk atinge a mesma marca do Atlético no Fluminense com menos jogos; veja - itatiaia.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc1RxdHliMHNWbXZCVjZQU1M3czdlYTRYMUI3ZUJuY3ZRR1hiWnU5eEFnQmpFV3VxTlNrUTNEWjZtb1BFeUZ2T2t5UXlCaTZQd20zVXhQcWhhSnhkTWZPN2NncXk2QXJ1bDM5RjZ1LTBrc3NramJOSFBoaW5uQ3pNM2tMRUw1eUZ6eHVqZXhtdDNtVmtxUlpRaUY3RmZJdnhYMHFkRTRUSWpFTk45c0wxUVNDQXZoeDJZdkJkUzNaMjY2TVJrbGJFSzRpZGdldDc1NFRIazJvQ0ZWakUzeVlKOFd6Y29SM3lIZFZnU0U3M3BYc3k0?oc=5",
+      "data": "09/09 09:42"
+    },
+    {
+      "titulo": "Thiago Silva critica Ancelotti por excluir experientes da Seleção - odia.ig.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3BLSE55ZWhqNkxuTjhZQlktc2lvb3VvSjN6WWN4azg0Vmh3SWFyUF9FZG9fT0E3Z2hGUi1RMXlGU0x6VnZoMUltYVNCWHNkTG5wb0pab3FJamh3VDdLV0dNdzVybzNoTHZEeVNGSUtoMkxoWWlabXRTMm9tQ2lCZFl5LUJpUWFpOGp0UVRmenhBaEJ5N3RxZmF4LWFNSDZyRlFNWjFMaDhMRzlXZW9fOEZjX1Y1NGpQOTVxdlo4LUNJY3QzY0Zj0gHMAUFVX3lxTE1WR1BKNFM0UGhSNnlCVjJESU9TWEt0YWtiLUhwMGtqaEd6YmphS0dKeFNBSGxxR0dZbU12TFZqT0R4WWFFT2JfQ0o2R3BqMDZwMFd1WHp4WmotdGlKRHpjU1Zib2dSY1BoVW8yRzlFcUtmNkF0NnpNZ2hnQlJqWHUxLVhCdTF4d3Y3eUx3YTRiNEgzaWU2cEE3b2xLM29YRFlWQWt6OG9xeTRhSkhiTnB2TlMzakFZQ0lKdUJZY0NxUy02bmhFZlMzNW05SA?oc=5",
+      "data": "09/09 12:00"
+    },
+    {
       "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
       "data": "08/09 23:55"
-    },
-    {
-      "titulo": "Alisson vive ostracismo no Fluminense após troca de técnico; entenda - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMVJ2a3MwTTZHSnlHWTgxVTBfd2tqN3B4RG9ONW5MMmR4eGhfa0ZPdGhWc2ZoZWt4RXBEd0Y5blBuYVVTZmJwdHgyQi1CM20tNU40cUM3dFRORGN2NkNTbVhnQlNuSlE0MlJzTWVZamdsbFJ1Z25rbUdIT0ZGR2NlN2s4Ui1lSkNCZ0NfcWRuYkNXeUsyZm5fZ2pZbTdodFl0Y1VGcGJzY3loRVhRclVBRUZZZXdHT3lCSnZZUTBaX1VKTUtaelF6TDh0SVlKTEFSVU84VTdTaENJcWVyX3c3cldoSTF6ZjBRdnpn?oc=5",
-      "data": "09/09 04:46"
-    },
-    {
-      "titulo": "Richarlison deixa Atlético-MG, Flamengo e Fluminense de lado e escolhe onde quer jogar no Brasil - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTk9GSkVaZWdhOFNaenhQZ2lvcFVoR05PNm1qS0JTa2w0b0d1aWU3QmhfOEtocUduZzdMZmZ3Y2U5V1BiVERYVy13bXlYbmF4Q3ZQY25YSWMxM0YzVm91Z0JLa2plUnYzNHRXUGI2dXBlY3dxX01YbFZKWDF5Z3VvaU5VWURJcUlaeXZ5c0k2MzdhOVdjdDJVTUozNm9Iay03bmMwbmVsZWV5YUxFUmI4VzFveUlIckVaYW9pWUNJVWVzSDlGZFB5UTBCRkRqMlFVUDBzZmxwcGE?oc=5",
-      "data": "08/09 16:02"
-    },
-    {
-      "titulo": "Madiba é convocado para Seleção Sul-Africana Sub-20 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzFfUFVGNVI2UTZITW1GRElQRnRDTTFWdkEtUDFubHVoeFZtcmtScFYxMDc0dE1BSG1QQ0g4VFdUNEU5QzZ6WDY3Y283OXZVMlVTZGdkaHFOZUNKb3FSLURGZmtBckdCSVpoc0xPZEdlenc0TXh0ZENvZ3ZseEdqM3R1d2FadHhiZkFVcU5fcy1LWWc?oc=5",
-      "data": "08/09 13:00"
-    },
-    {
-      "titulo": "Árbitro relata em súmula cobrança do presidente do Fluminense: \"Não tem coragem. Está com medo\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQU1paaVJXbHYzU0V3OHpWQ0UyZU96cG5jdE5rc0R1SW04dnJIOC1vWXVVWjRSdW42TUtFY2tTMnJWcUloRHE3cDBZdkF1VnB0Q2lMYXFnWE5RVWVTTVJrbGFiQi14ODlLeTVJZlBsdkEzMmJTX3Z1aGNtcE85VU03Nk55ajVFVzcwNXpCM1pQSEV4T3pLYjBkdmxnbWpLMWx2Q0xxdmR4T04zNmxIdjl4d2l0cmo5cXFuUXhzaFdQYlEzVkE3akJXakY3RWlTMm5GMmpJSmU2QzlFcVhReXpWMy11eWZ3YVh4SjFRaFREd0VJTE5l0gGDAkFVX3lxTE90eUFObThyelo5ZHRobnFFUXBURTNOLVEyTFlCaGRNVEVkUDQ5c2I4bnE0aDNWdi1jd1N4ZzlwTWM3WnU3ekRhX2tvSGxzQTFuc1dLck9PU0RXLURTU0VhdW50V3Y0b1JoYzRZRzhQQUp2Zm4ycllxenNHdkV2eVFYNlROdWgtek1IN3lqWHlTdzUzOGc3NS01c1V6ZHR1OFI3LTd1cEdyZFM2cHJGaHVJbTZrcVBZUGQ4WUF3UlkzNEpSazM1NGF3M3lvdnlfOFJvMlpvNkdsMVBrZm5FMTJ1UV9BYUExbHpSdWZvcEV1ZTBfRUZUOENiMFVIU1liMXdhZ2M?oc=5",
-      "data": "07/09 15:51"
     }
   ],
   "avisos": []
