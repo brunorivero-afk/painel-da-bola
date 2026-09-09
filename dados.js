@@ -1,61 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/09/2026 20:07",
+  "atualizado_em": "08/09/2026 23:47",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Santa Fe x Vasco",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Fluminense x Platense",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Athletic Club",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Boca Juniors x São Paulo",
-      "channels": [
-        "SBT",
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Juventude",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-08",
@@ -92,13 +37,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-08",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ittihad FC x Al-Fayha",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Connecticut FC",
       "channels": [
-        "XSPORTS",
-        "SPORTV",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -116,10 +58,24 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-08",
       "time": "15:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Connecticut FC",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ittihad FC x Al-Fayha",
       "channels": [
-        "ONEFOOTBALL"
+        "XSPORTS",
+        "SPORTV",
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Bournemouth x Lincoln",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -145,38 +101,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-08",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Bournemouth x Lincoln",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Bolton x West Ham",
-      "channels": [
-        "ESPN 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Millwall x Newcastle",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-08",
       "time": "16:00",
       "competition": "Champions League",
       "match": "Lille x Real Betis",
@@ -189,9 +113,10 @@ window.PAINEL_DATA = {
       "date": "2026-09-08",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Borussia Dortmund x Villarreal",
+      "match": "Real Madrid x Inter",
       "channels": [
-        "YOUTUBE",
+        "SBT",
+        "TNT",
         "HBO MAX"
       ]
     },
@@ -211,11 +136,31 @@ window.PAINEL_DATA = {
       "date": "2026-09-08",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Real Madrid x Inter",
+      "match": "Borussia Dortmund x Villarreal",
       "channels": [
-        "SBT",
-        "TNT",
+        "YOUTUBE",
         "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Millwall x Newcastle",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Bolton x West Ham",
+      "channels": [
+        "ESPN 3"
       ]
     },
     {
@@ -227,6 +172,27 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Fluminense x Platense",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Santa Fe x Vasco",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
@@ -247,6 +213,40 @@ window.PAINEL_DATA = {
       "match": "New York City II x New York RB II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Athletic Club",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Juventude",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-08",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Boca Juniors x São Paulo",
+      "channels": [
+        "SBT",
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -618,16 +618,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-08",
-      "time": "19:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Venezuela",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-08",
       "time": "13:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Chile x Venezuela",
@@ -689,7 +679,7 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.0,
+      "temp_max": 23.1,
       "temp_min": 16.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -703,7 +693,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.7,
+      "temp_max": 17.4,
       "temp_min": 11.9,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
@@ -718,29 +708,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Platense: onde assistir ao vivo, horário e escalações - GE",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2NRMzNrQkNRU2VqM0dIZUhhMUtlN3JUY1JqMEtqU2dTaHUtMnZVWllPLXY5R3hsM2YxQnM4TTBjUjZwRC12OGVYbzN1VmdHWFRBTjlrZGdySHVoa3NIa3hKdl93NzZKLXA3RUZnZDhXSWc5Z01yaWxYdmxqaGRCRlNvbW53aUg2SUFzay1CU1JyMWtrTXN3Z2w2b3BfdVJWSE4zY19EMVhuUkhRX3lTNTVvMFllQzJFSUxFb3dxMkpIOUEyR1o0TXBjYkl5NXFz0gHfAUFVX3lxTE1aUE9EcER5ZUwwUURWVHB6SHZ3OHQyZFlHTnlDYWpMVnhOWG5NRVN2N0U3bHlONGFMN2ZaZ1ZRaVhtX0FhejZuN2tXaDloVlZ0OFhWSjZmQjZTTnkwV3kya05Zbjc3WTJhLTN2bUlkY1Q0NkJhb1hNLXA1LVBJYUtuYTZFY09qaU5PUEJEY2xDSVgzQkl1Ny1HMUpFeE9VRHNpeFJrNWdFbXhlM3FjX3kzNXNFdGd4c0xKNU9DdmZhQTdLeDJ4UTV2cGxaS2tHNGF5V08wcWhkU05qTkJKQnc?oc=5",
-      "data": "08/09 06:00"
+      "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
+      "data": "09/09 00:12"
+    },
+    {
+      "titulo": "Richarlison deixa Atlético-MG, Flamengo e Fluminense de lado e escolhe onde quer jogar no Brasil - jornalcruzeiro.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTk9GSkVaZWdhOFNaenhQZ2lvcFVoR05PNm1qS0JTa2w0b0d1aWU3QmhfOEtocUduZzdMZmZ3Y2U5V1BiVERYVy13bXlYbmF4Q3ZQY25YSWMxM0YzVm91Z0JLa2plUnYzNHRXUGI2dXBlY3dxX01YbFZKWDF5Z3VvaU5VWURJcUlaeXZ5c0k2MzdhOVdjdDJVTUozNm9Iay03bmMwbmVsZWV5YUxFUmI4VzFveUlIckVaYW9pWUNJVWVzSDlGZFB5UTBCRkRqMlFVUDBzZmxwcGE?oc=5",
+      "data": "08/09 16:02"
+    },
+    {
+      "titulo": "Madiba é convocado para Seleção Sul-Africana Sub-20 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzFfUFVGNVI2UTZITW1GRElQRnRDTTFWdkEtUDFubHVoeFZtcmtScFYxMDc0dE1BSG1QQ0g4VFdUNEU5QzZ6WDY3Y283OXZVMlVTZGdkaHFOZUNKb3FSLURGZmtBckdCSVpoc0xPZEdlenc0TXh0ZENvZ3ZseEdqM3R1d2FadHhiZkFVcU5fcy1LWWc?oc=5",
+      "data": "08/09 13:00"
+    },
+    {
+      "titulo": "Proposta da SAF completa um ano, e Fluminense negocia melhores condições - iG Esportes",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZU5jSVlCY1hOODFCRE5CUVc5Y09vMTRzckl2QjJzRWgyRF9nQUZpOUhkTXJ1YkROUXRHRHBINFpXaWVtQUx4dWYzMmFoQzBsdzhxVVZqSXJuRGROOHQ0NUR3X19MdktqVTNuYl9XZ010ZTFpZEI0UVV1Q18zTkV4bTE2dG5oVWhRZ3U3dEFqa2s1cUZUaVV3cDhPaDlfUVhUbERiSHhnRkFFblY1ckhXZ24tTEVmQ2xoUGtlQzBFQnc5bEQyTkREMDlISnpuUdIB0wFBVV95cUxOblBnZlJGTUdXVHJpYm0wenlOMmxxS1dDbC04cXdLX1hSQmF1ZmtkTGE0QjdHSWMxbWVGQmFWSTlVajBkUGZMSTNGT1Awd0JKbG9kNXMzWElnNDdBNlNFNmx6RjBvOFkwTVdUUHNvMXA4WllTYTNBYlpscFA2Uk9lYzZBS29UUHFrX3NkY3RZRVZKVGlINzJuaFNzNlk5RkUzN2FEYm5BODBBQXVqSThYWXduWDhGaEJTTGM2cWp5cERGVWZ4VlVNOUVQRllfODExc2dV?oc=5",
+      "data": "08/09 15:48"
     },
     {
       "titulo": "Ex-Fluminense não jogará no Vasco; regra da FIFA impede negociação - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGlzOVVnRWlPMEhreHdSR2ZRbDhudFBTTHU5a3NQaTlaUFIwcE43VGZEcmRjRmtQbHdINnlUUUxUYVpXcDJXcFNhWDdnREZoNjBJSXFsWVZHeHpmY09UTUlhVWhFWC1HaWlucTh4N2cwa1FBNnpVLXVmMHFHUnBZeGJqUUJDSlc4ZnB1TjJJSm41QUV3UEow?oc=5",
       "data": "08/09 19:00"
-    },
-    {
-      "titulo": "Como Marcão 'jogador' impressionava antes mesmo de virar técnico e rendeu até profecia de ex-Fluminense: 'Tinha certeza que iria deslanchar' - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOV2pfOUxUQ3dyYjZlamVuai03RmVoZ1dxTExsTjNBTFFuWTJZS3JvM3IybnlDZjFPckhQUkdrMzdmWXZMdG1qMjVmTFlrdjB5ZFdSOXcxZGN5VFhHVWptX29BVEhnSlVkREtwN3h4WXFOOGQ2cl8tcEx3X1ZLUjF1RkN1UERLc1V4aG9iVTBXZWw0VjNRMVRyd2ZtZzUycW1kUVFXUWZFZzBjQnFMOGllek1uN2tKa3pRSzA0VFRBYkItS0hyZHc1ZGpZQTltTzFjNURzR25aazVLQU41UWZpaWxxX0lTTGZteGQ0V0dmZlVaY1VMdUZ2RWViQllOcmo0OG1JV2JWNS1UZUZOZ3Y0MFVuTkpDaVZPY0E?oc=5",
-      "data": "08/09 10:31"
-    },
-    {
-      "titulo": "Richarlison deixa Atlético-MG, Flamengo e Fluminense de lado e escolhe onde quer jogar no Brasil - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTk9GSkVaZWdhOFNaenhQZ2lvcFVoR05PNm1qS0JTa2w0b0d1aWU3QmhfOEtocUduZzdMZmZ3Y2U5V1BiVERYVy13bXlYbmF4Q3ZQY25YSWMxM0YzVm91Z0JLa2plUnYzNHRXUGI2dXBlY3dxX01YbFZKWDF5Z3VvaU5VWURJcUlaeXZ5c0k2MzdhOVdjdDJVTUozNm9Iay03bmMwbmVsZWV5YUxFUmI4VzFveUlIckVaYW9pWUNJVWVzSDlGZFB5UTBCRkRqMlFVUDBzZmxwcGE?oc=5",
-      "data": "08/09 19:11"
-    },
-    {
-      "titulo": "Neom vence Al-Hilal e derruba invencibilidade que durava desde o Fluminense - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVNiWEViaHRDWHpKamxDZmhpaF9ocldDMVNQekptMlRPb0xLbFc0enJtNlg2d3k0cFlzMzFnMkRsVld2eEEyVmhlWFdyQWhNaElFbVhkUVpGTUpsVkpkMU9nMkJrSFNVTDQwRzlJM05DZDY5cThROHdMd1AxS292a3dKTDZiLWV1ZHZUeS1wRWI2VF95SEg1bzVvZ0g4c0RJOGhLdVdacXd4Zw?oc=5",
-      "data": "07/09 19:57"
     }
   ],
   "avisos": []
