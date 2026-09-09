@@ -1,49 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/09/2026 13:59",
+  "atualizado_em": "09/09/2026 16:38",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "12:55",
-      "competition": "Campeonato Saudita",
-      "match": "Al Kholood x Al Shabab",
-      "channels": [
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "13:00",
-      "competition": "Copa do Mundo Sub-20 (F)",
-      "match": "Japan U20 (F) x EUA Sub-20 (F)",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Barcelona x Feyenoord",
-      "channels": [
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "VfB Stuttgart x Viking",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-09",
@@ -146,16 +103,6 @@ window.PAINEL_DATA = {
       "date": "2026-09-09",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Novorizontino",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
       "match": "Fortaleza x Avai",
       "channels": [
         "ESPN 4",
@@ -165,9 +112,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-09",
-      "time": "20:00",
-      "competition": "Caribbean Cup",
-      "match": "Portmore United x Mount Pleasant Academy",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Novorizontino",
       "channels": [
         "DISNEY+"
       ]
@@ -185,9 +132,39 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-09",
+      "time": "20:00",
+      "competition": "Caribbean Cup",
+      "match": "Portmore United x Mount Pleasant Academy",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x CRB",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Montreal Impact x Charlotte",
+      "match": "Atlanta United FC x Orlando City SC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Toronto FC x Nashville SC",
       "channels": [
         "APPLE TV"
       ]
@@ -206,26 +183,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "20:30",
-      "competition": "MLS",
-      "match": "Atlanta United FC x Orlando City SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x CRB",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "20:30",
       "competition": "Brasileirão Série B",
       "match": "América-MG x Náutico",
       "channels": [
@@ -237,7 +194,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-09",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Toronto FC x Nashville SC",
+      "match": "Montreal Impact x Charlotte",
       "channels": [
         "APPLE TV"
       ]
@@ -276,22 +233,13 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "21:30",
-      "competition": "MLS",
-      "match": "Austin x Colorado Rapids",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Ceará",
       "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Estudiantes x Corinthians",
-      "channels": [
-        "GLOBO",
-        "GE TV",
-        "PARAMOUNT+"
+        "XSPORTS",
+        "SPORTYNET",
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -299,7 +247,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-09",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Houston Dynamo x Real Salt Lake",
+      "match": "Chicago Fire x Inter Miami",
       "channels": [
         "APPLE TV"
       ]
@@ -319,7 +267,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-09",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Chicago Fire x Inter Miami",
+      "match": "Austin x Colorado Rapids",
       "channels": [
         "APPLE TV"
       ]
@@ -328,13 +276,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Ceará",
+      "competition": "MLS",
+      "match": "Houston Dynamo x Real Salt Lake",
       "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ESPN",
-        "DISNEY+"
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Estudiantes x Corinthians",
+      "channels": [
+        "GLOBO",
+        "GE TV",
+        "PARAMOUNT+"
       ]
     },
     {
@@ -395,6 +352,49 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers x St. Louis City",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "12:55",
+      "competition": "Campeonato Saudita",
+      "match": "Al Kholood x Al Shabab",
+      "channels": [
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "13:00",
+      "competition": "Copa do Mundo Sub-20 (F)",
+      "match": "Japan U20 (F) x EUA Sub-20 (F)",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Barcelona x Feyenoord",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "VfB Stuttgart x Viking",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
       ]
     },
     {
@@ -581,16 +581,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-09",
-      "time": "13:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Chile x Venezuela",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-09",
       "time": "16:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Argentina x Colômbia",
@@ -652,58 +642,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.3,
+      "temp_max": 23.6,
       "temp_min": 19.7,
       "chance_chuva": 77,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.5,
+      "temp_max": 25.1,
       "temp_min": 20.7,
       "chance_chuva": 53,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.0,
+      "temp_max": 20.3,
       "temp_min": 15.0,
       "chance_chuva": 89,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.0,
+      "temp_max": 20.8,
       "temp_min": 14.4,
       "chance_chuva": 84,
-      "condicao": "Garoa"
+      "condicao": "Chuva fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Ganso dá volta por cima e recupera protagonismo no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbXA2bUxIUjV2WTVLd1AyS3FvUVdkdExMb2hWVHU4anY0V2FGVDhvcGRDYUZwc3l2SUtnVzVKSlpCLUdncVM1NlFrWEFXVTA4cG9FdGJUUEUzVmpfQ05ISEQxaG1fNUpGdG5KOGNvMG1mLTJMNFI0V3ZnRmlrQmttS2M2TjFxMG5GY0l0VDdpUWw5UktkbFgwR1E3cllRdHI1dTItVkZ1bHNwZHJYeXFodFFsZmZHRHJsMm5yQ0drMGhINTFPU19DcW53Vzk5RnMwb2ZPWVdBdnRRR193MEdac3ZaMURRbFU?oc=5",
-      "data": "09/09 13:28"
+      "titulo": "Lazuli aumenta proposta para compra da SAF do Fluminense; veja o que muda - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWs3aUlJYUNyaWJmOG0yeTJCN0pxM2pmeGoxTmNyazlJTUFMYjZOVXNSajZmYldzYmxsRFZVcWdReldPU1JCOFNYWEtCREx6SzQwLW03bEk3ZXVhSTd2T243X0MwUDd1VVRqdXdCRmg5WXRnckkwNFRINmlWMm9mSE1wRzUwMXBSbnBEY1FVMFppUzNCNDFNMUJReWUyQ0xEWmc?oc=5",
+      "data": "09/09 16:41"
     },
     {
-      "titulo": "Thiago Silva critica reformulação de Ancelotti: \"Não pode tirar todo mundo\" - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdElybzRacXBPNG5IblVMeXphejBHMEtHbTFfbThrQjBsYjJrS0phanhrUWpwazBkVWdPWWpORndDRDVGb0VJS25xUGxtN2p6Y1ZJUmdZVDBGMElIUE41QWdUY0FlRTNTNUtLaW1YUnkxS1FGX1FfUE1PQ05mbFF4X2s5UkJ6VGxUSHN0ZE04UkN0d2lSNmxrMDZjYVA1WXFwVTllQ3FnVTM0d3ZSUlBPaVJPRTdaWE1qc1hadUNmZWNPSW5adExjM2J3?oc=5",
-      "data": "09/09 12:50"
+      "titulo": "Proposta por SAF do Fluminense completa um ano em compasso de espera - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnYtUllqWm1saFRLT3d2LXd0NXZ0elBpM3FOOVFHUFczNjVGMy1XS3UwcWsyTkl0UXI3dll2VnlETzlCZ3FkVTIyd3YyNHY4UENpTFQtQVl2dHB0Ml9fdDZBV2N1UWZteElGYTRQTUpFbTNPTTJQSGNHa1ZxQTZ4NlNPMktaNmVSMzlLcmRlWkdsREp1NWpGWG5zenhpdm1sZUVtZG81OXBIaEZpTktTUVpBTnZKXzZlQnFVdXdSOTJ1Rk5Cdlo5X3FCUUpNRDBHODRoNy1R0gHkAUFVX3lxTE5uVWZFSmdUbWlYVHIzdXpTTXJXd2hhaFYwRUtieFh4M1R3RHV0MlNCY0RFZmVCTHk0TWtVam1VbjlFbFdVaUE4dXVuMGdBVU5pTkhGSVNIUER0R1o0cVNNMEUta3J6ZjBISERIZURyWnhYU0V3aWlrRmk2NUJ5V2gxUkJoY1MyTU5oSWo0QWFJRmJGN291V1Ffc3FuRHh4S3M3WWJpY0h1c3NHcVpGM1RZMjhISHAxUjVPRzlPQ2xJUWVqaXdCSmFyUFRwcEZmLW9qTE15RTRCTThGc0RPNUJVWEJSTg?oc=5",
+      "data": "08/09 13:00"
     },
     {
-      "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
-      "data": "09/09 03:55"
+      "titulo": "Fluminense negocia nova proposta para a SAF com valor maior - Diário do Rio",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc0h4SDc4dXN5bk9oS3VNMDhBTXdTTVB6TFp2d3U0VHQyQWxTWnpBaVFrLVFyLXhqblU3TUNXOWhERkxxNkdFb0laR1VzNVY5X3pGREgtX0xMV0s0MWNscEhJMjNxNGJFWmNOdjV0b3dQLXhHYjdZa1BhOVoxRFJlSng2UDVZdk0zX3VUVklvNWdKWDZfbDh6WVJxMXlUa2VZUlhaZ1I4Y2RfSU5YWTRVRDVCUGk3RlQ2VHAxWV9rRDV3UXBGX1RGaHc0Z25ubU1fb3ROLWtYRmFfNEVFOXFudTVhYTNzS2lYa3Z6WjdSeV8zT3puTXFJ?oc=5",
+      "data": "09/09 17:00"
     },
     {
-      "titulo": "Fluminense 2 x 0 Platense: a maestria anacrônica de Ganso - Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVB3NVFEMks1V19idTQ5WGd4YjZTQjRjYTVsQ2ZMS0NKdE00QlpnZGE4eFZ3V1VHeE9TckExbnhXQXg5bWZhZGU1cEVBd1ZyR3YwRl9qeVpCRktIRV9XeFdLWjB2bzNHVnBaQjROYlpJLWl4M3o1RGxhanlfMFBxQnhOWE5MeGlPdkhjOGtjbDJWV1QxUDZkbzc1dHdJSEl6M25yQTl5WWFNWC1CVGVvRw?oc=5",
+      "titulo": "Hulk desfalca Fluminense contra Atlético-MG por cláusula; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNThFSVkzNm1ibEZvYnVxc3Faa2J6X2VrT2JzaEo5OWVaZHNzWXdBemF5bURITkRPb0xKTlhBNVJObDdROXM0ZVhiaGtfQjZTRUIzMHExQWhXY2JPSzcxX2tlYzJiX3huOVA2MHBGN2NFcXk2dDYyZ19GN1Ztak9vNTd6OHgtY2thbDlsMVpLaUROSVh2OXR1MUFSVXg2bjMxLXQ1c2p3Q0dIWWx2Qkd2cl8yUE1ta054bkM0WkFqWkNXUUViSHl1Wm4xVDlFS0prU3ZxWEpXVE54YkhseDBEdVowRXMwVEJjaERyN3p0YUU?oc=5",
+      "data": "09/09 15:22"
+    },
+    {
+      "titulo": "Thiago Silva critica reformulação de Ancelotti na Seleção: \"Aqui não funciona assim\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbWhXQ1AxZW5XbUZuc04yRnRxYlh6NGljLVJGOTRSaE1IUVdsYXUzNG1rd3BiSFVqck4yZXgwRkVEdVBrekthSUpyREpYdzNtYkc3Y0Z5OWRsYlNFVlFHejRiVm1BTlU3S002N1NTaFpncFJBam5qYTBJRmhjbkNuRktlcGl2dVc4ZTdnMElLMWNES1ZoSnFnZzdTR2J6ZGFTVmJYeHZreWtUM2draUZYQzEzcUpVdTRZLUQyZ21rdWJMS2dmbnk3Sm8zellLa005UThxNG1ZQ2dLTmRhcWpqTDIya21lY1dzQTJ4dWQwaEFKMDlUM2JkZl9R0gGIAkFVX3lxTFBDcms1Q1VDSXZaeFJ3RmNlX3JuRlBmcmNTalB2VlgtYTNKaDRJVHBPTHdfMm5wbDFaN3J4emNjcFRhV1hBSXphRE5obE5SeFYzeVFfVzdsTnJmc2pHNEo0bGFQTjdsSG0zNjVhYzE5NnI2YW1TMXZYWHJWRDhsUGNkeFVqTkY3dXVQQ3hNRjhzUkdLNkhtU3BCb2dnZjVQOWFOWDNPWUhqa2l3UG9GNndvd0ZnakFQTlNEWkg5OW85RTUydHdGSFJ5ZFpVTVJ3VDVjZDZDM1RDLWJqTWg3eWVKUHI0azJzZERwWmhUc09zYURYaUFRbHU5aWFIVVhpb3VNa3U2d0ZaVA?oc=5",
       "data": "09/09 02:33"
-    },
-    {
-      "titulo": "Richarlison deixa Atlético-MG, Flamengo e Fluminense de lado e escolhe onde quer jogar no Brasil - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTk9GSkVaZWdhOFNaenhQZ2lvcFVoR05PNm1qS0JTa2w0b0d1aWU3QmhfOEtocUduZzdMZmZ3Y2U5V1BiVERYVy13bXlYbmF4Q3ZQY25YSWMxM0YzVm91Z0JLa2plUnYzNHRXUGI2dXBlY3dxX01YbFZKWDF5Z3VvaU5VWURJcUlaeXZ5c0k2MzdhOVdjdDJVTUozNm9Iay03bmMwbmVsZWV5YUxFUmI4VzFveUlIckVaYW9pWUNJVWVzSDlGZFB5UTBCRkRqMlFVUDBzZmxwcGE?oc=5",
-      "data": "08/09 16:02"
     }
   ],
   "avisos": []
