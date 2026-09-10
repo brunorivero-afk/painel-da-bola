@@ -1,48 +1,6 @@
 {
-  "atualizado_em": "09/09/2026 19:11",
+  "atualizado_em": "09/09/2026 21:46",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "19:00",
-      "competition": "Copa Libertadores",
-      "match": "Palmeiras x LDU de Quito",
-      "channels": [
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Santos x Atlético-MG",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Novorizontino",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Avai",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-09",
@@ -137,20 +95,20 @@
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Huntsville City x Chattanooga",
+      "competition": "MLS",
+      "match": "New York City FC x New England",
       "channels": [
-        "ONEFOOTBALL"
+        "APPLE TV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-09",
       "time": "21:00",
-      "competition": "MLS",
-      "match": "New York City FC x New England",
+      "competition": "MLS Next Pro",
+      "match": "Huntsville City x Chattanooga",
       "channels": [
-        "APPLE TV"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -243,6 +201,16 @@
       "date": "2026-09-09",
       "time": "23:30",
       "competition": "MLS",
+      "match": "Portland Timbers x St. Louis City",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "23:30",
+      "competition": "MLS",
       "match": "Los Angeles FC x New York Red Bulls",
       "channels": [
         "APPLE TV"
@@ -264,16 +232,6 @@
       "time": "23:30",
       "competition": "MLS",
       "match": "San Diego x San Jose Earthquakes",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-09",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Portland Timbers x St. Louis City",
       "channels": [
         "APPLE TV"
       ]
@@ -393,6 +351,48 @@
       "time": "16:45",
       "competition": "Campeonato Português",
       "match": "Moreirense x Benfica",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Santos x Atlético-MG",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "competition": "Copa Libertadores",
+      "match": "Palmeiras x LDU de Quito",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Fortaleza x Avai",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-09",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Novorizontino",
       "channels": [
         "DISNEY+"
       ]
@@ -632,43 +632,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.6,
+      "temp_max": 22.8,
       "temp_min": 19.7,
-      "chance_chuva": 77,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.1,
       "temp_min": 20.7,
-      "chance_chuva": 53,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.3,
+      "temp_max": 20.0,
       "temp_min": 15.0,
-      "chance_chuva": 89,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.8,
       "temp_min": 14.4,
-      "chance_chuva": 84,
-      "condicao": "Chuva fraca"
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Hulk recupera perfil decisivo e vira referência do Fluminense; veja números - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0lNSlJOTGVIYU5VYTFzb0phbXlPU0dybm56OUpwc2o4bmtTMHRLUTFMRFRDNVBxUkEtRFFqWWxJS0k1enBiYWI2d1AzZ09aN2t6aHdHX055VjZZd0hPVE5nelJCa3FqbDFab2ZFbF9TMUhaYWwzQlp0MzdyM3hkNW1qTnNlSTlaZW9XWjBZaFZuaTVJM3kwS2pfazFJSmdWUHliQXpQN3AtX2Jncm9LbXVWeFZzZw?oc=5",
-      "data": "09/09 20:43"
-    },
-    {
       "titulo": "Hulk desfalca Fluminense contra Atlético-MG por cláusula; saiba detalhes - Terra",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNThFSVkzNm1ibEZvYnVxc3Faa2J6X2VrT2JzaEo5OWVaZHNzWXdBemF5bURITkRPb0xKTlhBNVJObDdROXM0ZVhiaGtfQjZTRUIzMHExQWhXY2JPSzcxX2tlYzJiX3huOVA2MHBGN2NFcXk2dDYyZ19GN1Ztak9vNTd6OHgtY2thbDlsMVpLaUROSVh2OXR1MUFSVXg2bjMxLXQ1c2p3Q0dIWWx2Qkd2cl8yUE1ta054bkM0WkFqWkNXUUViSHl1Wm4xVDlFS0prU3ZxWEpXVE54YkhseDBEdVowRXMwVEJjaERyN3p0YUU?oc=5",
       "data": "09/09 15:22"
+    },
+    {
+      "titulo": "Hulk recupera perfil decisivo e vira referência do Fluminense; veja números - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0lNSlJOTGVIYU5VYTFzb0phbXlPU0dybm56OUpwc2o4bmtTMHRLUTFMRFRDNVBxUkEtRFFqWWxJS0k1enBiYWI2d1AzZ09aN2t6aHdHX055VjZZd0hPVE5nelJCa3FqbDFab2ZFbF9TMUhaYWwzQlp0MzdyM3hkNW1qTnNlSTlaZW9XWjBZaFZuaTVJM3kwS2pfazFJSmdWUHliQXpQN3AtX2Jncm9LbXVWeFZzZw?oc=5",
+      "data": "09/09 20:43"
     },
     {
       "titulo": "Hulk valoriza boa fase no Fluminense e revela ajuda de diretor do clube - CNN Brasil",
