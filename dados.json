@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "10/09/2026 02:31",
+  "atualizado_em": "10/09/2026 07:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -418,63 +418,163 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "10:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "13:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Chile",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "16:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Colômbia x Peru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "18:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesi-Bauru x Suzano",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "08:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Colômbia x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "11:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Argentina",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "14:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Chile x Peru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "16:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Colômbia x Bolívia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-10",
+      "time": "19:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Chile",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.3,
-      "temp_min": 21.1,
+      "temp_max": 29.1,
+      "temp_min": 21.5,
       "chance_chuva": 90,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.1,
-      "temp_min": 20.8,
+      "temp_max": 29.5,
+      "temp_min": 21.7,
       "chance_chuva": 82,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.7,
-      "temp_min": 17.5,
+      "temp_max": 24.4,
+      "temp_min": 17.6,
       "chance_chuva": 92,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.7,
-      "temp_min": 17.1,
+      "temp_max": 24.8,
+      "temp_min": 17.0,
       "chance_chuva": 90,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Thiago Silva critica reformulação de Ancelotti na Seleção: \"Aqui não funciona assim\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbWhXQ1AxZW5XbUZuc04yRnRxYlh6NGljLVJGOTRSaE1IUVdsYXUzNG1rd3BiSFVqck4yZXgwRkVEdVBrekthSUpyREpYdzNtYkc3Y0Z5OWRsYlNFVlFHejRiVm1BTlU3S002N1NTaFpncFJBam5qYTBJRmhjbkNuRktlcGl2dVc4ZTdnMElLMWNES1ZoSnFnZzdTR2J6ZGFTVmJYeHZreWtUM2draUZYQzEzcUpVdTRZLUQyZ21rdWJMS2dmbnk3Sm8zellLa005UThxNG1ZQ2dLTmRhcWpqTDIya21lY1dzQTJ4dWQwaEFKMDlUM2JkZl9R0gGIAkFVX3lxTFBDcms1Q1VDSXZaeFJ3RmNlX3JuRlBmcmNTalB2VlgtYTNKaDRJVHBPTHdfMm5wbDFaN3J4emNjcFRhV1hBSXphRE5obE5SeFYzeVFfVzdsTnJmc2pHNEo0bGFQTjdsSG0zNjVhYzE5NnI2YW1TMXZYWHJWRDhsUGNkeFVqTkY3dXVQQ3hNRjhzUkdLNkhtU3BCb2dnZjVQOWFOWDNPWUhqa2l3UG9GNndvd0ZnakFQTlNEWkg5OW85RTUydHdGSFJ5ZFpVTVJ3VDVjZDZDM1RDLWJqTWg3eWVKUHI0azJzZERwWmhUc09zYURYaUFRbHU5aWFIVVhpb3VNa3U2d0ZaVA?oc=5",
-      "data": "09/09 02:33"
+      "titulo": "Fluminense larga na frente do Platense por vaga na semi da Libertadores - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV3N0bTU0VHhIZTl3YVY5MFRCQ19pV0hjMVZGUGtpdnM3U3hoWWptYlZrRXZyOWFKbktpMUJBRlVadHV0WGYwQ0xhcnMtSzRDSXN6RnpOS1lJRjR6bFp6VmNNd2lIVF90dVJISjNvNjZCUnEtM1pYS2UtQ3I4WnRObnVGVnRScHU1RndDT21hU1N3cDRqT2NKRW5PZU1oYWlSVExaZTdrX2lhQ0RXOWtGUUFPdk5PSmJKSWFaVWtibEYyYVg1OWdrc3U0QVNSUkR0QkFjTU54bHBKemUzWW9RSnpybnN5NlUxOFo4RGwtcGtvNmhmRTJJ?oc=5",
+      "data": "08/09 23:54"
     },
     {
-      "titulo": "Thiago Silva critica Ancelotti por excluir experientes da Seleção - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3BLSE55ZWhqNkxuTjhZQlktc2lvb3VvSjN6WWN4azg0Vmh3SWFyUF9FZG9fT0E3Z2hGUi1RMXlGU0x6VnZoMUltYVNCWHNkTG5wb0pab3FJamh3VDdLV0dNdzVybzNoTHZEeVNGSUtoMkxoWWlabXRTMm9tQ2lCZFl5LUJpUWFpOGp0UVRmenhBaEJ5N3RxZmF4LWFNSDZyRlFNWjFMaDhMRzlXZW9fOEZjX1Y1NGpQOTVxdlo4LUNJY3QzY0Zj0gHMAUFVX3lxTE1WR1BKNFM0UGhSNnlCVjJESU9TWEt0YWtiLUhwMGtqaEd6YmphS0dKeFNBSGxxR0dZbU12TFZqT0R4WWFFT2JfQ0o2R3BqMDZwMFd1WHp4WmotdGlKRHpjU1Zib2dSY1BoVW8yRzlFcUtmNkF0NnpNZ2hnQlJqWHUxLVhCdTF4d3Y3eUx3YTRiNEgzaWU2cEE3b2xLM29YRFlWQWt6OG9xeTRhSkhiTnB2TlMzakFZQ0lKdUJZY0NxUy02bmhFZlMzNW05SA?oc=5",
-      "data": "09/09 12:00"
+      "titulo": "Millán cresce ao lado de Thiago Silva e acirra disputa por vaga na defesa do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY2l2em9BSDYzejJFVE1JQzRocFhNZzVCRzBMdi11eml0Z3FmXzU1ZnZEaXpReThsNmFYemhiRE5CZk1hdFdrQXF4dm9yazJRRS0zX0YxT3FiejBaa2RaRFFldTZ2V3diOWVJdFh3QVNTcGkzMVZ2MW1Tb09EQzlOMkhmZXZrWDJEd0xDN3F1aTQyYzFCMlpHeUJlUlJwd1BlWURyTE1MZzJmSU5xNzl1U05ucjlHdENmamZGRU5DR0Y4aHJYZWJWZ0M0bExZcWFYNUpISjVXTnlUUzdkcnlCbzhReWlmQUxGckRwMWdzTdIB_gFBVV95cUxQd2I0elNhT0d2ckllUmR3emllalZrcWd3MkFtWV9wTDVFVm1rcmhlX3RhejRtTi0yNGRKT3ZmcEdTQ3RsMDdPR3lkRk5EcF91ZmFBaFNDYmpjeWdkTDdoOUpVdTBnZVhWZjZZWmNScTQyaEswTlRtdFZJeUZVVDVlRlRmYWFKeEh1aVdMTlgxTGV6RjV5Z2RnaHp5ajFKc1F2eTdNaDZaWlk0MXdSWGs0VWxXNlNRWU9sVnkxWHQxSjdnRGRMeFFyVVp1NENISmxabTJvWDZpVGZiajUwdnNRNkN6TDJxWF9YY2ZBRGZ4VWFkYlE1M2c1U250TDZ3QQ?oc=5",
+      "data": "10/09 06:00"
     },
     {
-      "titulo": "Thiago Silva critica reformulação de Ancelotti: \"Não pode tirar todo mundo\" - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdElybzRacXBPNG5IblVMeXphejBHMEtHbTFfbThrQjBsYjJrS0phanhrUWpwazBkVWdPWWpORndDRDVGb0VJS25xUGxtN2p6Y1ZJUmdZVDBGMElIUE41QWdUY0FlRTNTNUtLaW1YUnkxS1FGX1FfUE1PQ05mbFF4X2s5UkJ6VGxUSHN0ZE04UkN0d2lSNmxrMDZjYVA1WXFwVTllQ3FnVTM0d3ZSUlBPaVJPRTdaWE1qc1hadUNmZWNPSW5adExjM2J3?oc=5",
-      "data": "09/09 12:50"
+      "titulo": "Hulk desfalca Fluminense contra Atlético-MG por cláusula; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNThFSVkzNm1ibEZvYnVxc3Faa2J6X2VrT2JzaEo5OWVaZHNzWXdBemF5bURITkRPb0xKTlhBNVJObDdROXM0ZVhiaGtfQjZTRUIzMHExQWhXY2JPSzcxX2tlYzJiX3huOVA2MHBGN2NFcXk2dDYyZ19GN1Ztak9vNTd6OHgtY2thbDlsMVpLaUROSVh2OXR1MUFSVXg2bjMxLXQ1c2p3Q0dIWWx2Qkd2cl8yUE1ta054bkM0WkFqWkNXUUViSHl1Wm4xVDlFS0prU3ZxWEpXVE54YkhseDBEdVowRXMwVEJjaERyN3p0YUU?oc=5",
+      "data": "09/09 15:22"
     },
     {
-      "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
-      "data": "09/09 03:55"
+      "titulo": "Hulk recupera perfil decisivo e vira referência do Fluminense; veja números - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0lNSlJOTGVIYU5VYTFzb0phbXlPU0dybm56OUpwc2o4bmtTMHRLUTFMRFRDNVBxUkEtRFFqWWxJS0k1enBiYWI2d1AzZ09aN2t6aHdHX055VjZZd0hPVE5nelJCa3FqbDFab2ZFbF9TMUhaYWwzQlp0MzdyM3hkNW1qTnNlSTlaZW9XWjBZaFZuaTVJM3kwS2pfazFJSmdWUHliQXpQN3AtX2Jncm9LbXVWeFZzZw?oc=5",
+      "data": "09/09 20:43"
     },
     {
-      "titulo": "Jogadores do Fluminense homenageiam Angione, internado com câncer - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3RjbE1XTVd0YWNUQVBrR0xpTE1yX2FFOE1tbXR3c2owX1FUanNUYlB0UVFlZnpmVGFabEJaMXY1VEpSNGhLTWlTTFExRGI2YUpEZ2UzYk1xZ2piUmllSU8yanJtTDhIRW5ucXpSeThWX2dlQm13QlI0SzlRR1ZmNWFzWDRoOTBOSm1hVzBROVdha1o0SHFxSDJQV2RKZ0tkeEd1QjFJRjNMVG1jWEtEQU1FaGpBNkJJWWNKVWsta2RFSTU5OWfSAcsBQVVfeXFMTmVLTTVyNG5qRFR0dmtRb2psVnJ6emlKZS1rNnd2YXA1c3VUd0w4eTJ2TV8xLTRkVTNlZVg4Ynl6ME0xZUlybUd2MlJkaGpDVEsweDlYSjFFb3diZFFRRXdVSDZpRU5pYWlsS2FmMElmeURMbERNb3dxazdxMEliOGNYcG9yLTJfUXRIdWpCNGlURVJoOFBIdjhGZlk5X1BBR1lfN1dqUWhUZ2NQbVZPaTdPRDFPQjhnaURNbnB6M0RYMHBpU0d3bnVhc2c?oc=5",
-      "data": "09/09 10:00"
+      "titulo": "Hulk exalta boa fase no Fluminense e revela ajuda de diretor: 'Futebol requer leveza' - itatiaia.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMVpCYmpxVTh4aUNEd19SeGpXWFJvUTVFRzdsdF9MVTFPdmpyZ3d0enpuc0tRdHBUc3M4S0VaOFRZN2cxS1ZUSUtBcUU1X0gxZDFjMW52QjhfZGJrYXU1R3JUSnc1N2xiVEtyNllORHVtdUJpU2FETVZTOXJnNGY3YWJsQXh4dlF5RHhlTDJ3ZEttdFFqSmhVRXc5QUViYlpabDZuQ2RLQ0tiUE9mWTRYLV9FQm1BRTQyblhKODJlYUpGWDJtU1NhY1ZmM1d5LUJKYWxyNEdiNHVzQkJKUU1kcjZsXzc5U2pFLU5KalBQc1hka0VKcUpjZmViSm1fVkM1RGc?oc=5",
+      "data": "09/09 01:56"
     }
   ],
   "avisos": []
