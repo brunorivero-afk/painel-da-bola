@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "10/09/2026 11:44",
+  "atualizado_em": "10/09/2026 15:01",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "13:00",
-      "competition": "Copa do Mundo Sub-20 (F)",
-      "match": "Colômbia Sub-20 (F) x Portugal U20 (F)",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-10",
@@ -38,10 +28,10 @@
       "sport": "futebol",
       "date": "2026-09-10",
       "time": "16:00",
-      "competition": "Champions League",
-      "match": "como x RB Leipzig",
+      "competition": "Inglês 3ª Divisão",
+      "match": "Stevenage x Luton",
       "channels": [
-        "HBO MAX"
+        "DISNEY+"
       ]
     },
     {
@@ -49,8 +39,9 @@
       "date": "2026-09-10",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Slavia Praha x Lens",
+      "match": "Manchester United x Sabah FA",
       "channels": [
+        "SPACE",
         "HBO MAX"
       ]
     },
@@ -70,9 +61,8 @@
       "date": "2026-09-10",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Manchester United x Sabah FA",
+      "match": "Slavia Praha x Lens",
       "channels": [
-        "SPACE",
         "HBO MAX"
       ]
     },
@@ -80,10 +70,10 @@
       "sport": "futebol",
       "date": "2026-09-10",
       "time": "16:00",
-      "competition": "Inglês 3ª Divisão",
-      "match": "Stevenage x Luton",
+      "competition": "Champions League",
+      "match": "como x RB Leipzig",
       "channels": [
-        "DISNEY+"
+        "HBO MAX"
       ]
     },
     {
@@ -131,6 +121,17 @@
       "sport": "futebol",
       "date": "2026-09-10",
       "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Independiente del Valle x Flamengo",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "21:30",
       "competition": "Brasileirão Série B",
       "match": "Sport Recife x Ponte Preta",
       "channels": [
@@ -154,17 +155,6 @@
     {
       "sport": "futebol",
       "date": "2026-09-10",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Independiente del Valle x Flamengo",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
       "time": "22:06",
       "competition": "CONCACAF Central American Cup",
       "match": "CD Marathon x LD Alajuelense",
@@ -180,6 +170,16 @@
       "match": "CD Motagua x Alianza",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "13:00",
+      "competition": "Copa do Mundo Sub-20 (F)",
+      "match": "Colômbia Sub-20 (F) x Portugal U20 (F)",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -525,28 +525,28 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 28.1,
       "temp_min": 21.6,
-      "chance_chuva": 99,
+      "chance_chuva": 83,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 29.1,
       "temp_min": 21.8,
-      "chance_chuva": 96,
+      "chance_chuva": 79,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 23.5,
       "temp_min": 17.6,
-      "chance_chuva": 100,
+      "chance_chuva": 94,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 24.0,
       "temp_min": 17.0,
-      "chance_chuva": 100,
+      "chance_chuva": 93,
       "condicao": "Trovoada"
     }
   ],
@@ -572,9 +572,9 @@
       "data": "08/09 20:46"
     },
     {
-      "titulo": "Castillo pode ganhar primeira chance com Marcão no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOWI1OVlYS1NuUnVPbHd5OXA2X0ZqakZJczdrSHUyZ2pYZG13X0c3UTI5SmdnNnJaY1kzdnFSd2g2ZDNzTDBEQXNINGMtdS0zTjhHOEtMX3FyQ2VSeTVOWHRGRjVZaXZjMjB1UENIeV9KcDJNOEpVaDRhYzdPdTF3VU54SldMNHg5V0JfRHZyQUlQWlJncHgzQW1TbEN3QTZwMUFId1dJb29JNUNqdzY0emNtNGRpdmppMkxqdlJsLTROSmd4c282OGhwREw1QWhybUVJS2l1azJ2dDZ6SVY5UWJveURkQ1E?oc=5",
-      "data": "10/09 13:10"
+      "titulo": "Tottenham recusa proposta do Vasco por ex-Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanM3YnV6MTBLUHVPMEdneTBGZDRsVTlEU2xPSm1IdFhmTkN5aTdkLWRPd2p3ZG8zTkNlZG1hbFo2bDdqVUxSa3JFblZMbFBodjdodEEyT0NXemNVMXBnWEpZZEpRaFRzZkJ4N0Q1RjhfMmZKOEJuUExjOWdlekI4eDhiWXJ6Zw?oc=5",
+      "data": "10/09 17:32"
     }
   ],
   "avisos": []
