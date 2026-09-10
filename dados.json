@@ -1,87 +1,12 @@
 {
-  "atualizado_em": "10/09/2026 15:01",
+  "atualizado_em": "10/09/2026 18:20",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-09-10",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "PSV Eindhoven x Shakhtar Donetsk",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Fenerbahce x Roma",
-      "channels": [
-        "TNT",
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "16:00",
-      "competition": "Inglês 3ª Divisão",
-      "match": "Stevenage x Luton",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Manchester United x Sabah FA",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Bayern x Bodo/Glimt",
-      "channels": [
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Slavia Praha x Lens",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "como x RB Leipzig",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "Estrela x SC Braga",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Vila Nova x Goiás",
       "channels": [
         "DISNEY+"
       ]
@@ -95,16 +20,6 @@
       "channels": [
         "SPORTV",
         "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Vila Nova x Goiás",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -132,6 +47,16 @@
       "sport": "futebol",
       "date": "2026-09-10",
       "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Cienciano x Atletico Torque",
+      "channels": [
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "21:30",
       "competition": "Brasileirão Série B",
       "match": "Sport Recife x Ponte Preta",
       "channels": [
@@ -140,16 +65,6 @@
         "SPORTYNET",
         "YOUTUBE",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-10",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Cienciano x Atletico Torque",
-      "channels": [
-        "PARAMOUNT+"
       ]
     },
     {
@@ -180,6 +95,91 @@
       "match": "Colômbia Sub-20 (F) x Portugal U20 (F)",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Fenerbahce x Roma",
+      "channels": [
+        "TNT",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "PSV Eindhoven x Shakhtar Donetsk",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "como x RB Leipzig",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Slavia Praha x Lens",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Bayern x Bodo/Glimt",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Manchester United x Sabah FA",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "competition": "Inglês 3ª Divisão",
+      "match": "Stevenage x Luton",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-10",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "Estrela x SC Braga",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -303,6 +303,7 @@
       "competition": "Campeonato Francês",
       "match": "Rennes x Marseille",
       "channels": [
+        "XSPORTS",
         "CAZÉTV"
       ]
     },
@@ -377,16 +378,6 @@
       "match": "Angel City (F) x Denver Summit (F)",
       "channels": [
         "XSPORTS"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-10",
-      "time": "13:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Argentina x Chile",
-      "channels": [
-        "SporTV2"
       ]
     },
     {
@@ -523,34 +514,49 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.1,
-      "temp_min": 21.6,
+      "temp_max": 25.3,
+      "temp_min": 21.3,
       "chance_chuva": 83,
-      "condicao": "Pancadas de chuva"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 29.1,
-      "temp_min": 21.8,
-      "chance_chuva": 79,
       "condicao": "Trovoada"
     },
     {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.5,
-      "temp_min": 17.6,
-      "chance_chuva": 94,
+      "cidade": "Araruama",
+      "temp_max": 27.4,
+      "temp_min": 21.8,
+      "chance_chuva": 79,
       "condicao": "Pancadas de chuva"
     },
     {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 21.4,
+      "temp_min": 17.6,
+      "chance_chuva": 94,
+      "condicao": "Trovoada"
+    },
+    {
       "cidade": "Teresópolis",
-      "temp_max": 24.0,
+      "temp_max": 22.0,
       "temp_min": 17.0,
       "chance_chuva": 93,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
+      "data": "09/09 03:55"
+    },
+    {
+      "titulo": "Hulk desfalca Fluminense contra Atlético-MG por cláusula; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNThFSVkzNm1ibEZvYnVxc3Faa2J6X2VrT2JzaEo5OWVaZHNzWXdBemF5bURITkRPb0xKTlhBNVJObDdROXM0ZVhiaGtfQjZTRUIzMHExQWhXY2JPSzcxX2tlYzJiX3huOVA2MHBGN2NFcXk2dDYyZ19GN1Ztak9vNTd6OHgtY2thbDlsMVpLaUROSVh2OXR1MUFSVXg2bjMxLXQ1c2p3Q0dIWWx2Qkd2cl8yUE1ta054bkM0WkFqWkNXUUViSHl1Wm4xVDlFS0prU3ZxWEpXVE54YkhseDBEdVowRXMwVEJjaERyN3p0YUU?oc=5",
+      "data": "09/09 15:22"
+    },
+    {
+      "titulo": "Thiago Silva critica Ancelotti por excluir experientes da Seleção - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3BLSE55ZWhqNkxuTjhZQlktc2lvb3VvSjN6WWN4azg0Vmh3SWFyUF9FZG9fT0E3Z2hGUi1RMXlGU0x6VnZoMUltYVNCWHNkTG5wb0pab3FJamh3VDdLV0dNdzVybzNoTHZEeVNGSUtoMkxoWWlabXRTMm9tQ2lCZFl5LUJpUWFpOGp0UVRmenhBaEJ5N3RxZmF4LWFNSDZyRlFNWjFMaDhMRzlXZW9fOEZjX1Y1NGpQOTVxdlo4LUNJY3QzY0Zj0gHMAUFVX3lxTE1WR1BKNFM0UGhSNnlCVjJESU9TWEt0YWtiLUhwMGtqaEd6YmphS0dKeFNBSGxxR0dZbU12TFZqT0R4WWFFT2JfQ0o2R3BqMDZwMFd1WHp4WmotdGlKRHpjU1Zib2dSY1BoVW8yRzlFcUtmNkF0NnpNZ2hnQlJqWHUxLVhCdTF4d3Y3eUx3YTRiNEgzaWU2cEE3b2xLM29YRFlWQWt6OG9xeTRhSkhiTnB2TlMzakFZQ0lKdUJZY0NxUy02bmhFZlMzNW05SA?oc=5",
+      "data": "09/09 12:00"
+    },
     {
       "titulo": "Lazuli aumenta proposta para compra da SAF do Fluminense; veja o que muda - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWs3aUlJYUNyaWJmOG0yeTJCN0pxM2pmeGoxTmNyazlJTUFMYjZOVXNSajZmYldzYmxsRFZVcWdReldPU1JCOFNYWEtCREx6SzQwLW03bEk3ZXVhSTd2T243X0MwUDd1VVRqdXdCRmg5WXRnckkwNFRINmlWMm9mSE1wRzUwMXBSbnBEY1FVMFppUzNCNDFNMUJReWUyQ0xEWmc?oc=5",
@@ -560,21 +566,6 @@
       "titulo": "Proposta por SAF do Fluminense completa um ano em compasso de espera - ge",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQnYtUllqWm1saFRLT3d2LXd0NXZ0elBpM3FOOVFHUFczNjVGMy1XS3UwcWsyTkl0UXI3dll2VnlETzlCZ3FkVTIyd3YyNHY4UENpTFQtQVl2dHB0Ml9fdDZBV2N1UWZteElGYTRQTUpFbTNPTTJQSGNHa1ZxQTZ4NlNPMktaNmVSMzlLcmRlWkdsREp1NWpGWG5zenhpdm1sZUVtZG81OXBIaEZpTktTUVpBTnZKXzZlQnFVdXdSOTJ1Rk5Cdlo5X3FCUUpNRDBHODRoNy1R0gHkAUFVX3lxTE5uVWZFSmdUbWlYVHIzdXpTTXJXd2hhaFYwRUtieFh4M1R3RHV0MlNCY0RFZmVCTHk0TWtVam1VbjlFbFdVaUE4dXVuMGdBVU5pTkhGSVNIUER0R1o0cVNNMEUta3J6ZjBISERIZURyWnhYU0V3aWlrRmk2NUJ5V2gxUkJoY1MyTU5oSWo0QWFJRmJGN291V1Ffc3FuRHh4S3M3WWJpY0h1c3NHcVpGM1RZMjhISHAxUjVPRzlPQ2xJUWVqaXdCSmFyUFRwcEZmLW9qTE15RTRCTThGc0RPNUJVWEJSTg?oc=5",
       "data": "08/09 13:00"
-    },
-    {
-      "titulo": "Fluminense negocia nova proposta para a SAF com valor maior - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNU5YYU9BWE1MaGp4NW1mNk04X3g4R2xlcm1xTUJYX2U1cEhLcHRoQUt0YUZuWjl4LU45ajk5Yl9sV3Z0TFg4QTQtckxvcUVycHZ5Q3JUVjFmMVc0QjJ2c0VMcnVLY3QtMXdRamk0TnJUankwMHpQTEpOSFFUSEwybkdSX3pVRXBPOE00SklMZHlnNzhPcVYySFc5Z1BHX081LVltYXpsM3ZvRHA1SEV1dGZNSGZIMmUxOWR3YmNCOA?oc=5",
-      "data": "09/09 17:00"
-    },
-    {
-      "titulo": "Fluminense x Platense: Onde Assistir, Horário, Escalações e Informações da Libertadores - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVlg3VXRMeGJIbjFtQUNkMklINTdzdF9UMVB2RnZyajQyT2pDYzljVkIxWnJXUENmX0U4MUxYMlpfSTNTRW8tam5RWmcxOXp1cGZsTGQzc2VVUnJob1N0MkxBWUZWamF6MHhUaVRjRUZ6Z2RiU2ZQTGJwUlNVcmIyRDQ2X1oxRjdCNWI0QVJNLVcwOVUwaHZqR1BlN01tMjlfN0w2b2dqOUlnMmhnaVMwcDczbTlPREdOVjhpTWNnMGVydTl2cDBOQ3JiTUItOExsQlBYNkR4SXdyRXptQldNSGxmbFM2QUlMNVFLVEhJaFRSVHJscWdxaGVTTTRXMUZtYWc?oc=5",
-      "data": "08/09 20:46"
-    },
-    {
-      "titulo": "Tottenham recusa proposta do Vasco por ex-Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanM3YnV6MTBLUHVPMEdneTBGZDRsVTlEU2xPSm1IdFhmTkN5aTdkLWRPd2p3ZG8zTkNlZG1hbFo2bDdqVUxSa3JFblZMbFBodjdodEEyT0NXemNVMXBnWEpZZEpRaFRzZkJ4N0Q1RjhfMmZKOEJuUExjOWdlekI4eDhiWXJ6Zw?oc=5",
-      "data": "10/09 17:32"
     }
   ],
   "avisos": []
