@@ -1,82 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/09/2026 16:23",
+  "atualizado_em": "11/09/2026 19:10",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Ried x Red Bull Salzburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x Willem II",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "15:30",
-      "competition": "Campeonato Alemão",
-      "match": "Union Berlin x FC Schalke 04",
-      "channels": [
-        "SPORTV",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Rennes x Marseille",
-      "channels": [
-        "XSPORTS",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Venezia x Fiorentina",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "West Ham x Wrexham",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Sevilla x Valencia",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-11",
@@ -211,6 +135,82 @@ window.PAINEL_DATA = {
       "match": "FC Viktoria Koln x Hansa Rostock",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "14:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Ried x Red Bull Salzburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x Willem II",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "15:30",
+      "competition": "Campeonato Alemão",
+      "match": "Union Berlin x FC Schalke 04",
+      "channels": [
+        "SPORTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Venezia x Fiorentina",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Rennes x Marseille",
+      "channels": [
+        "XSPORTS",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Sevilla x Valencia",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "West Ham x Wrexham",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -1199,29 +1199,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Jornal europeu se encanta por Ganso e Hulk, do Fluminense: 'Conexão letal' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdTFHeFl6Wk9IVlIwMndLZjNMOHYzRXlublZ0NXo0Z1NCQzR2LUtISC1TNjBZdzZlWHpoamRDRDJfdk50THZ4VzN1Ym5QZ2t5OFh5X2tILW0xby1MV3BXRVF3bktfOERTTnhaVDB5WGFYUGppbTlsSEZQU3V5MWFhWk9JTmtZT0RRWjFxZklXeFhpYUd4NzBlZF81dkpCYzJMMF9mVG9NbjliVEpa?oc=5",
-      "data": "09/09 12:44"
+      "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
+      "data": "09/09 03:55"
     },
     {
-      "titulo": "Fluminense esperava vender mais jogadores na janela e busca compensar com premiação da Libertadores - oglobo.globo.com",
+      "titulo": "Fluminense esperava vender mais jogadores na janela e busca compensar com premiação da Libertadores - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUXdIUjJXbWdFNS04bGdTRkdqSFNrWHRWSXFvYUl6VUFpTkQ2dUFVOVcyaWlZeHAwNG4zRzR6Vi1xeVNEcnU0b0YtVUNPdThxZUEzQzhrTEVWZ0FwVDBrNVM1VjE2VUlxVlhRWXRBcXZ5WkxCR1ZZcVRBd1FXeFB1TG90MlF2Q2hfQ2UyMzZsaGpMaDB3SGNET2hzay1Ub2dORlUwVHZFS3laV3ZuUkdFQmFwYUo2RnJjT3JxYWpEamk3VVFfaDliQ1FocFZlbDFXWnRtTl9VRGxseTBsc1dtOHc3emNsX2sxZDI0WERCZWp4SXBwVy1DVEJTRlBwdHZDWDE4dmQwVGvSAZcCQVVfeXFMT1JjXzFWeGh5aWktc0dNUDk1LU9kRVpTd1JfNWZOOXJWLU9tMi01ek5JNUg2Q0FNTXhNell1UklNUW1GQ3Q4VzNYZTdpOWdCVFZlbHMzbUNIa3otOU1IWjJza3Z4cTlLU0c1d2d3TXV3Y2huUFcyMHpPcFlZdVQ5RGQxR2VodjVTZUEtUXZWaUtoMFJpaXJjc1ZhOWtFclVqdjNJTDVJMFdIQThwYWNMdEExcGZKOGFNbmJ3OTJjTDRjcTFDRzlqUzhlYl9zN1I0MVhqLWtuWHFvRjd5aE45ZkhUOTlCVnduSkE1QlBFYXpUOHNQcmRTNm9ZbXR3RjY4QnAxaVNYcTluVlg4VmNyd0pUQVNUc0JZ?oc=5",
       "data": "10/09 20:43"
     },
     {
-      "titulo": "Ganso dá volta por cima e recupera protagonismo no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbXA2bUxIUjV2WTVLd1AyS3FvUVdkdExMb2hWVHU4anY0V2FGVDhvcGRDYUZwc3l2SUtnVzVKSlpCLUdncVM1NlFrWEFXVTA4cG9FdGJUUEUzVmpfQ05ISEQxaG1fNUpGdG5KOGNvMG1mLTJMNFI0V3ZnRmlrQmttS2M2TjFxMG5GY0l0VDdpUWw5UktkbFgwR1E3cllRdHI1dTItVkZ1bHNwZHJYeXFodFFsZmZHRHJsMm5yQ0drMGhINTFPU19DcW53Vzk5RnMwb2ZPWVdBdnRRR193MEdac3ZaMURRbFU?oc=5",
-      "data": "09/09 13:28"
+      "titulo": "Fluminense x Platense: Onde Assistir, Horário, Escalações e Informações da Libertadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVlg3VXRMeGJIbjFtQUNkMklINTdzdF9UMVB2RnZyajQyT2pDYzljVkIxWnJXUENmX0U4MUxYMlpfSTNTRW8tam5RWmcxOXp1cGZsTGQzc2VVUnJob1N0MkxBWUZWamF6MHhUaVRjRUZ6Z2RiU2ZQTGJwUlNVcmIyRDQ2X1oxRjdCNWI0QVJNLVcwOVUwaHZqR1BlN01tMjlfN0w2b2dqOUlnMmhnaVMwcDczbTlPREdOVjhpTWNnMGVydTl2cDBOQ3JiTUItOExsQlBYNkR4SXdyRXptQldNSGxmbFM2QUlMNVFLVEhJaFRSVHJscWdxaGVTTTRXMUZtYWc?oc=5",
+      "data": "08/09 20:46"
     },
     {
-      "titulo": "Fluminense confirma lesões de Germán Cano e Ignácio; Veja previsão de recuperação - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhrQjVfNTB6ZWtRVXdhaVVlTXdzVHp5eV9zcTlKQXBHWFBmclU4Rk1GVWxpQkhDMnNZUmUydDVvVHBEOGxsUW9Xd2dCNXFKUlpxQ19iMGo1Y18zbXRHMklPbE1wdnpmYlpoSmFvU0hpdHVtWnM1UDZXNmVFSmE0WVdXRGxkbU1Jc2VQeDlfU2JENm9iRUxHTTdiZDdRNDhqZDRzM0NuNGMxWlk?oc=5",
-      "data": "10/09 22:52"
+      "titulo": "Fluminense perde dois jogadores por lesão muscular para sequência fora de casa - esportenewsmundo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0dxeFZ0Y3otc1Y0R2FYS0JRa2tTcHF1d1I5RWNORXFsaTE5bk5Id2NDbnlFZnkxVmg2bDlxZDNvRjVvZU5SS0RRMXVaYzBIRWdLcmNaX3ozeEU0LURzbHEtRUdzXzRsdkpMdmZ4azMyeldZdFhFaU5GWUVBVHpSbWg2TW5HMzJJWDQ3Smw3c21XUE41ZDdZeG0tRDAyeEw1RkpPalFYRFZEdkc4ZXo2c9IBtgFBVV95cUxObnJNZzh5TmFOLTRhUUNxTlZpdTdxdEJ0aEVHb3V4VmpLSUR2a2lPd2t3cW44T2RJQnhRNTl6UGtXSHFTWk5mMmJzUlA5TUJRclJDdV9GYjk2MmF1emRmbFAzc0RXcjNFeXBkcnFVcFYwcmQzV0xSSGtZVWlZYmZYZlJFdlVTZXdyM1VIOTdMcWl0OW9fSEhYN3FDLVVtSTdpLTB1aDNWVE9CYnZYUFZ5blN1MjZVZw?oc=5",
+      "data": "11/09 01:49"
     },
     {
-      "titulo": "Sem Ignácio e Thiago Silva, Marcão ganha dor de cabeça no Fluminense; entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeFpfSmh6Y3dOOXpCOHlvOEtKcWhuQWRINFdqQndtYWxQS1hiZE1wR1BabUFNYWV3WkhuNExDMUZTb05UeVNaM0FjOVRld3Z2OEU3T1JrQXF3Mk9CcDVjOWZaQ3JTREp4eHV4RHktbkx2RElsV0JNa2NwZzh5TlRBRklkQWYzWWJOVkRNY3JBMWxkdFVwcmI2TTdLUlhMbUZjVEthbHRsTlg5T1Y3Y3VLdW93YkVobGVRVFRzWU8wMXh2cmpTdkN2SHVwdERHR0djYXNkd1Q0YmpoTDk5SnMxM1hKaDNSejhGWHdvNVhPSVN4OC1wc0E?oc=5",
-      "data": "11/09 12:01"
+      "titulo": "Ex-Fluminense, Richarlison descarta contrato longo com rival e negociação é encerrada - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkw3d1ZvSXhDYUkxd3RhZlhhMkRRaERPSTdQOFQtamlxOEsxZzJfNE1FZnJTMWp0WmR5dVFFYU83bHpPT3BMQ2l6T1lwVmk4TWtENktWMEF5QVZuOE55TWIxTHFRXy1tTWxuV2w5ZFREQmRYUVV0cnczVmx6Y0xWLUdRMzRqNVdYWVlqbTJ2djZzZlVXTDhIMG9PalhjYS12QVc2UHg3RTZKeklpd0hldw?oc=5",
+      "data": "11/09 19:24"
     }
   ],
   "avisos": []
