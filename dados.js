@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/09/2026 09:31",
+  "atualizado_em": "11/09/2026 13:51",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "10:00",
-      "competition": "Copa do Mundo Sub-20 (F)",
-      "match": "England U20 W x Brasil Sub-20 (F)",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-11",
@@ -165,21 +155,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-11",
       "time": "21:00",
-      "competition": "Brasileirão Série A",
-      "match": "Coritiba x Athletico PR",
+      "competition": "Campeonato Peruano",
+      "match": "Cusco x FBC Melgar",
       "channels": [
-        "SPORTV",
-        "PREMIERE"
+        "FANATIZ"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-11",
       "time": "21:00",
-      "competition": "Campeonato Peruano",
-      "match": "Cusco x FBC Melgar",
+      "competition": "Brasileirão Série A",
+      "match": "Coritiba x Athletico PR",
       "channels": [
-        "FANATIZ"
+        "SPORTV",
+        "PREMIERE"
       ]
     },
     {
@@ -211,6 +201,16 @@ window.PAINEL_DATA = {
       "match": "Firpo x CD Olimpia",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "10:00",
+      "competition": "Copa do Mundo Sub-20 (F)",
+      "match": "England U20 W x Brasil Sub-20 (F)",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -1199,29 +1199,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Flu bate Platense com brilho de Hulk e se aproxima da semi da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZxRXU1SVpGb3oxdDl2c0t3c001YW9IdDdWdERBeVBGN0JYTTY4SE5WYzktb0JxdGhhN3pwcDBzMS1meHlhbExseGNuX1M3ZGFybHNQMHVyUG5aR3VYX2d1eEFUT1ViRjNEd3FFTTJQMHB0emc0YnZFU0xwaEhpMEtQcGd0MXJMLXFfa3hfOXFGeXQ5RXdFR1B3T3pEV3p5QkR4eUNhdldEb28zMTZOOVBRSC05N3pFMEMxYXF2eVZpUWxZ?oc=5",
-      "data": "09/09 03:55"
+      "titulo": "Fluminense esperava vender mais atletas na janela e quer compensar com premiação da Libertadores, diz jornal - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVRYWXk3WUxWNk5BMVRWQkJPZENuOFNCOEhnWEdfRlJFRXNQSHBnVVh0STdvV1NtRUlaY1VQY3h3bjlNeDN5eHZCcGJxVG45OHBmVngzMU9rbVFNcjFkTkFTRkFsS21WUGs1Ym1aY2dRZEcyN3d5eThtUUJjUEltdUd5RG5HLW1IS2hMamVPMUdTVmFlaTJXWDMwa3F2Yy1hc3J3TE9pcm5SWTVwdkZPN1hjblRHemlaQjU5RlhYbVo0aEhmSXVoYnNBTGhvZ1E?oc=5",
+      "data": "10/09 22:50"
     },
     {
-      "titulo": "Thiago Silva critica reformulação de Ancelotti na Seleção: \"Aqui não funciona assim\" - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbWhXQ1AxZW5XbUZuc04yRnRxYlh6NGljLVJGOTRSaE1IUVdsYXUzNG1rd3BiSFVqck4yZXgwRkVEdVBrekthSUpyREpYdzNtYkc3Y0Z5OWRsYlNFVlFHejRiVm1BTlU3S002N1NTaFpncFJBam5qYTBJRmhjbkNuRktlcGl2dVc4ZTdnMElLMWNES1ZoSnFnZzdTR2J6ZGFTVmJYeHZreWtUM2draUZYQzEzcUpVdTRZLUQyZ21rdWJMS2dmbnk3Sm8zellLa005UThxNG1ZQ2dLTmRhcWpqTDIya21lY1dzQTJ4dWQwaEFKMDlUM2JkZl9R0gGIAkFVX3lxTFBDcms1Q1VDSXZaeFJ3RmNlX3JuRlBmcmNTalB2VlgtYTNKaDRJVHBPTHdfMm5wbDFaN3J4emNjcFRhV1hBSXphRE5obE5SeFYzeVFfVzdsTnJmc2pHNEo0bGFQTjdsSG0zNjVhYzE5NnI2YW1TMXZYWHJWRDhsUGNkeFVqTkY3dXVQQ3hNRjhzUkdLNkhtU3BCb2dnZjVQOWFOWDNPWUhqa2l3UG9GNndvd0ZnakFQTlNEWkg5OW85RTUydHdGSFJ5ZFpVTVJ3VDVjZDZDM1RDLWJqTWg3eWVKUHI0azJzZERwWmhUc09zYURYaUFRbHU5aWFIVVhpb3VNa3U2d0ZaVA?oc=5",
-      "data": "09/09 02:33"
+      "titulo": "Fluminense perde dois jogadores por lesão muscular para sequência fora de casa - Esporte News Mundo",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0dxeFZ0Y3otc1Y0R2FYS0JRa2tTcHF1d1I5RWNORXFsaTE5bk5Id2NDbnlFZnkxVmg2bDlxZDNvRjVvZU5SS0RRMXVaYzBIRWdLcmNaX3ozeEU0LURzbHEtRUdzXzRsdkpMdmZ4azMyeldZdFhFaU5GWUVBVHpSbWg2TW5HMzJJWDQ3Smw3c21XUE41ZDdZeG0tRDAyeEw1RkpPalFYRFZEdkc4ZXo2c9IBtgFBVV95cUxObnJNZzh5TmFOLTRhUUNxTlZpdTdxdEJ0aEVHb3V4VmpLSUR2a2lPd2t3cW44T2RJQnhRNTl6UGtXSHFTWk5mMmJzUlA5TUJRclJDdV9GYjk2MmF1emRmbFAzc0RXcjNFeXBkcnFVcFYwcmQzV0xSSGtZVWlZYmZYZlJFdlVTZXdyM1VIOTdMcWl0OW9fSEhYN3FDLVVtSTdpLTB1aDNWVE9CYnZYUFZ5blN1MjZVZw?oc=5",
+      "data": "11/09 01:49"
     },
     {
-      "titulo": "Bastidores: Fluminense é surpreendido por ausência de Martinelli na Seleção Brasileira - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV2g1dDRLOVRJRlhaZzJNNzdQSEZtTnpiLTk0Q3dMeF9SRDFTR29kQzUzQzlDaldhYUFKaUV0RG1QMmFuMmpuQTFTWnAwZWNnQl9iTmhMVUNCdHNXRW5mUUhsR2l1QjE1TXV4UWF4NGhoNVpNMVpxeDNDNHVFR29iaWJxN0doTy02RGFISmlCVW9FOGhfV2laYTFZZXVJRnpqek1QeGxVdUVzbW9YRjV1ZDYzeWxOY3lLQXE5Sk11Z3U3RHoyUmJfRGdmU0xzbFNldWRCcjlDNlU0alVzdGxkdEtiRjk5bEktSUxRemZLMEQtMnBzRHBvamd0dU1qRmVJMXY0?oc=5",
-      "data": "10/09 22:13"
+      "titulo": "Investigação aponta como Fla e Flu colocam à venda mais ingressos que o permitido no Maracanã - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTVIzdTFJUXpVZnlJTE92dlhDam5nbXFzSmxZSG5OaXczSU1tQWNkMVNra242aVFsY0tfNDhCR3ZDdzQwX1ZKdWprcFhmZU5ObGRkeFo5MFNYVkpLaGRZbEZlZU04Ty1wcFJ6b0l4bXpUTEEtTmx6UnA3LV8tTXF1bElZZ1p0aE9DMDJfQWowRHBIWEtUVHg1d2RqMkxEa1luZlBHRWh5eDJNLTcwQ3kyUWY0RHJXZVEycTR0eUc2bjdiUEpRVGVyYWJIM3dnSkpfMlpWZmpXaFdKRU1JcVh6VW5GTUExQXNTXzI2Qm1YQdIB_gFBVV95cUxOV2p6Qkd4WTdyV1ZQQ1ZQOS1KVVNHZDJpRXpDZEF6OTRIWkFFU1BZWUMySl9FWE9iemdzdktQREFJT2ZsNndRMWhORGhOcHY1M1ppT3dYNlFkR2Q1SWdTRlAwSjlhNVhfaWJaVWZldFNpRlpQdlJiYVluUlBDd0ZnU2hCX2hJSXNONERVUUFtdmNQUnVYUTQ4dDFWZG5yTFgxRWhFMG9TdnFONkNZRDFhOVN4ZXVuTzZoWTB4ZnotWVB5YWRwMlZNNWxMUVpWUWtXd2NCdlFIYmZJaUZENUhCY19tT0t2NElRSEludno5a3cwenNETkNvRTU0bklsUQ?oc=5",
+      "data": "11/09 06:00"
     },
     {
-      "titulo": "Sem Ignácio e Thiago Silva, Marcão ganha dor de cabeça no Fluminense; entenda - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeFpfSmh6Y3dOOXpCOHlvOEtKcWhuQWRINFdqQndtYWxQS1hiZE1wR1BabUFNYWV3WkhuNExDMUZTb05UeVNaM0FjOVRld3Z2OEU3T1JrQXF3Mk9CcDVjOWZaQ3JTREp4eHV4RHktbkx2RElsV0JNa2NwZzh5TlRBRklkQWYzWWJOVkRNY3JBMWxkdFVwcmI2TTdLUlhMbUZjVEthbHRsTlg5T1Y3Y3VLdW93YkVobGVRVFRzWU8wMXh2cmpTdkN2SHVwdERHR0djYXNkd1Q0YmpoTDk5SnMxM1hKaDNSejhGWHdvNVhPSVN4OC1wc0E?oc=5",
-      "data": "11/09 12:01"
+      "titulo": "Flamengo e Fluminense podem perder mando de campo por até seis meses - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPXzJaWExzMS1Wb3plZ3BMLTM1LUhwWE9uYXdIOEdud1RDQWJfR3NFTGlqMW53VnNKODJ2aGdMdDlIZ0hoeU16WW5Hb2wxNDhSZHFfOG54OExlUHEwbHE4bmRoZzRrYzhncUdRY0pHWFR6YUc0V2FMQzJyekJMZ1lHcW9FYmJRckNhU3RPM1JOekpGQWhlTzFqTFJzRi0zSEcyYkVkVFJHbFlRbFJmV0lmTzBXUDlzWnViMnFxLUZHeUpBQ2tKNklURU5WRW1sLXJmTUVtdWJhRFFoWVRZX1FVbFY1andpdnhlWFF4Xw?oc=5",
+      "data": "11/09 14:00"
     },
     {
-      "titulo": "Ganso retoma protagonismo no Fluminense e lidera estatística impressionante pelo clube - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSXdXdjNZRDBuT2ZrenR6UkE5eUJvV3hHNWFxcnl3SHZlRGlvT0JYcXR6dDdxOG1lZGszWmRqbDFyRU5sNFM3LXlRa0JwWFluYWNNMWlOQnFoTWMwYWVPMUpyR2ZwUlFVa0VaUF8ySHRlVFJfWmNaRE5OX3Q3cDhXcFcxdnhLNFp3akM2VGRZcUlvQWsxM2tqQjM1WnBLX2d1ck9wejlmb0V6U2t2TTU1Mlltaw?oc=5",
-      "data": "11/09 11:44"
+      "titulo": "Maracanã: MP investiga desvio de R$ 1 milhão por mês em ingressos - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1V1VUl1d2xzcF9BTDhzZFFTdHJEclA0U2RvR3hXVzhleEZHQWxuRzBHX1ByVDI4NnhGU0htcHpVYlFUbkNId29VRk9QRlNBUnFWLTA3ci1mNmlUaE5YUkJfd1hFakRycUZjWFRibUU4WkRHcnlhVURubFRvdjRWUklnZmx4eUZyQ2g0cWRmWi14bVYtUFBzd3p0NkVuSE4xbmZSa3FLU2l3VWxDV2lR?oc=5",
+      "data": "11/09 14:52"
     }
   ],
   "avisos": []
