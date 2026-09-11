@@ -1,70 +1,6 @@
 {
-  "atualizado_em": "11/09/2026 13:51",
+  "atualizado_em": "11/09/2026 16:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "12:25",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Qadisiyah FC x Al-Ettifaq",
-      "channels": [
-        "ONEFOOTBALL",
-        "CANAL GOAT",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "12:45",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Faisaly FC x Al-Ittihad FC",
-      "channels": [
-        "BANDSPORTS",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Nurnberg x Hannover 96",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "SV Darmstadt 98 x Arminia Bielefeld",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC Viktoria Koln x Hansa Rostock",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Besiktas x Erzurum BB",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-11",
@@ -100,6 +36,17 @@
       "sport": "futebol",
       "date": "2026-09-11",
       "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Rennes x Marseille",
+      "channels": [
+        "XSPORTS",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "15:45",
       "competition": "Campeonato Italiano",
       "match": "Venezia x Fiorentina",
       "channels": [
@@ -111,12 +58,12 @@
     {
       "sport": "futebol",
       "date": "2026-09-11",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Rennes x Marseille",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "West Ham x Wrexham",
       "channels": [
-        "XSPORTS",
-        "CAZÉTV"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -128,17 +75,6 @@
       "channels": [
         "CAZÉTV",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-11",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "West Ham x Wrexham",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -211,6 +147,70 @@
       "match": "England U20 W x Brasil Sub-20 (F)",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "12:25",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Qadisiyah FC x Al-Ettifaq",
+      "channels": [
+        "ONEFOOTBALL",
+        "CANAL GOAT",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "12:45",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Faisaly FC x Al-Ittihad FC",
+      "channels": [
+        "BANDSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "SV Darmstadt 98 x Arminia Bielefeld",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Nurnberg x Hannover 96",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Besiktas x Erzurum BB",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-11",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC Viktoria Koln x Hansa Rostock",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1170,58 +1170,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.4,
+      "temp_max": 26.9,
       "temp_min": 21.1,
       "chance_chuva": 90,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.3,
+      "temp_max": 26.1,
       "temp_min": 21.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.6,
+      "temp_max": 24.2,
       "temp_min": 17.5,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.7,
+      "temp_max": 25.1,
       "temp_min": 16.9,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense esperava vender mais atletas na janela e quer compensar com premiação da Libertadores, diz jornal - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTVRYWXk3WUxWNk5BMVRWQkJPZENuOFNCOEhnWEdfRlJFRXNQSHBnVVh0STdvV1NtRUlaY1VQY3h3bjlNeDN5eHZCcGJxVG45OHBmVngzMU9rbVFNcjFkTkFTRkFsS21WUGs1Ym1aY2dRZEcyN3d5eThtUUJjUEltdUd5RG5HLW1IS2hMamVPMUdTVmFlaTJXWDMwa3F2Yy1hc3J3TE9pcm5SWTVwdkZPN1hjblRHemlaQjU5RlhYbVo0aEhmSXVoYnNBTGhvZ1E?oc=5",
-      "data": "10/09 22:50"
+      "titulo": "Jornal europeu se encanta por Ganso e Hulk, do Fluminense: 'Conexão letal' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdTFHeFl6Wk9IVlIwMndLZjNMOHYzRXlublZ0NXo0Z1NCQzR2LUtISC1TNjBZdzZlWHpoamRDRDJfdk50THZ4VzN1Ym5QZ2t5OFh5X2tILW0xby1MV3BXRVF3bktfOERTTnhaVDB5WGFYUGppbTlsSEZQU3V5MWFhWk9JTmtZT0RRWjFxZklXeFhpYUd4NzBlZF81dkpCYzJMMF9mVG9NbjliVEpa?oc=5",
+      "data": "09/09 12:44"
     },
     {
-      "titulo": "Fluminense perde dois jogadores por lesão muscular para sequência fora de casa - Esporte News Mundo",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0dxeFZ0Y3otc1Y0R2FYS0JRa2tTcHF1d1I5RWNORXFsaTE5bk5Id2NDbnlFZnkxVmg2bDlxZDNvRjVvZU5SS0RRMXVaYzBIRWdLcmNaX3ozeEU0LURzbHEtRUdzXzRsdkpMdmZ4azMyeldZdFhFaU5GWUVBVHpSbWg2TW5HMzJJWDQ3Smw3c21XUE41ZDdZeG0tRDAyeEw1RkpPalFYRFZEdkc4ZXo2c9IBtgFBVV95cUxObnJNZzh5TmFOLTRhUUNxTlZpdTdxdEJ0aEVHb3V4VmpLSUR2a2lPd2t3cW44T2RJQnhRNTl6UGtXSHFTWk5mMmJzUlA5TUJRclJDdV9GYjk2MmF1emRmbFAzc0RXcjNFeXBkcnFVcFYwcmQzV0xSSGtZVWlZYmZYZlJFdlVTZXdyM1VIOTdMcWl0OW9fSEhYN3FDLVVtSTdpLTB1aDNWVE9CYnZYUFZ5blN1MjZVZw?oc=5",
-      "data": "11/09 01:49"
+      "titulo": "Fluminense esperava vender mais jogadores na janela e busca compensar com premiação da Libertadores - oglobo.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUXdIUjJXbWdFNS04bGdTRkdqSFNrWHRWSXFvYUl6VUFpTkQ2dUFVOVcyaWlZeHAwNG4zRzR6Vi1xeVNEcnU0b0YtVUNPdThxZUEzQzhrTEVWZ0FwVDBrNVM1VjE2VUlxVlhRWXRBcXZ5WkxCR1ZZcVRBd1FXeFB1TG90MlF2Q2hfQ2UyMzZsaGpMaDB3SGNET2hzay1Ub2dORlUwVHZFS3laV3ZuUkdFQmFwYUo2RnJjT3JxYWpEamk3VVFfaDliQ1FocFZlbDFXWnRtTl9VRGxseTBsc1dtOHc3emNsX2sxZDI0WERCZWp4SXBwVy1DVEJTRlBwdHZDWDE4dmQwVGvSAZcCQVVfeXFMT1JjXzFWeGh5aWktc0dNUDk1LU9kRVpTd1JfNWZOOXJWLU9tMi01ek5JNUg2Q0FNTXhNell1UklNUW1GQ3Q4VzNYZTdpOWdCVFZlbHMzbUNIa3otOU1IWjJza3Z4cTlLU0c1d2d3TXV3Y2huUFcyMHpPcFlZdVQ5RGQxR2VodjVTZUEtUXZWaUtoMFJpaXJjc1ZhOWtFclVqdjNJTDVJMFdIQThwYWNMdEExcGZKOGFNbmJ3OTJjTDRjcTFDRzlqUzhlYl9zN1I0MVhqLWtuWHFvRjd5aE45ZkhUOTlCVnduSkE1QlBFYXpUOHNQcmRTNm9ZbXR3RjY4QnAxaVNYcTluVlg4VmNyd0pUQVNUc0JZ?oc=5",
+      "data": "10/09 20:43"
     },
     {
-      "titulo": "Investigação aponta como Fla e Flu colocam à venda mais ingressos que o permitido no Maracanã - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTVIzdTFJUXpVZnlJTE92dlhDam5nbXFzSmxZSG5OaXczSU1tQWNkMVNra242aVFsY0tfNDhCR3ZDdzQwX1ZKdWprcFhmZU5ObGRkeFo5MFNYVkpLaGRZbEZlZU04Ty1wcFJ6b0l4bXpUTEEtTmx6UnA3LV8tTXF1bElZZ1p0aE9DMDJfQWowRHBIWEtUVHg1d2RqMkxEa1luZlBHRWh5eDJNLTcwQ3kyUWY0RHJXZVEycTR0eUc2bjdiUEpRVGVyYWJIM3dnSkpfMlpWZmpXaFdKRU1JcVh6VW5GTUExQXNTXzI2Qm1YQdIB_gFBVV95cUxOV2p6Qkd4WTdyV1ZQQ1ZQOS1KVVNHZDJpRXpDZEF6OTRIWkFFU1BZWUMySl9FWE9iemdzdktQREFJT2ZsNndRMWhORGhOcHY1M1ppT3dYNlFkR2Q1SWdTRlAwSjlhNVhfaWJaVWZldFNpRlpQdlJiYVluUlBDd0ZnU2hCX2hJSXNONERVUUFtdmNQUnVYUTQ4dDFWZG5yTFgxRWhFMG9TdnFONkNZRDFhOVN4ZXVuTzZoWTB4ZnotWVB5YWRwMlZNNWxMUVpWUWtXd2NCdlFIYmZJaUZENUhCY19tT0t2NElRSEludno5a3cwenNETkNvRTU0bklsUQ?oc=5",
-      "data": "11/09 06:00"
+      "titulo": "Ganso dá volta por cima e recupera protagonismo no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbXA2bUxIUjV2WTVLd1AyS3FvUVdkdExMb2hWVHU4anY0V2FGVDhvcGRDYUZwc3l2SUtnVzVKSlpCLUdncVM1NlFrWEFXVTA4cG9FdGJUUEUzVmpfQ05ISEQxaG1fNUpGdG5KOGNvMG1mLTJMNFI0V3ZnRmlrQmttS2M2TjFxMG5GY0l0VDdpUWw5UktkbFgwR1E3cllRdHI1dTItVkZ1bHNwZHJYeXFodFFsZmZHRHJsMm5yQ0drMGhINTFPU19DcW53Vzk5RnMwb2ZPWVdBdnRRR193MEdac3ZaMURRbFU?oc=5",
+      "data": "09/09 13:28"
     },
     {
-      "titulo": "Flamengo e Fluminense podem perder mando de campo por até seis meses - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPXzJaWExzMS1Wb3plZ3BMLTM1LUhwWE9uYXdIOEdud1RDQWJfR3NFTGlqMW53VnNKODJ2aGdMdDlIZ0hoeU16WW5Hb2wxNDhSZHFfOG54OExlUHEwbHE4bmRoZzRrYzhncUdRY0pHWFR6YUc0V2FMQzJyekJMZ1lHcW9FYmJRckNhU3RPM1JOekpGQWhlTzFqTFJzRi0zSEcyYkVkVFJHbFlRbFJmV0lmTzBXUDlzWnViMnFxLUZHeUpBQ2tKNklURU5WRW1sLXJmTUVtdWJhRFFoWVRZX1FVbFY1andpdnhlWFF4Xw?oc=5",
-      "data": "11/09 14:00"
+      "titulo": "Fluminense confirma lesões de Germán Cano e Ignácio; Veja previsão de recuperação - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObjhrQjVfNTB6ZWtRVXdhaVVlTXdzVHp5eV9zcTlKQXBHWFBmclU4Rk1GVWxpQkhDMnNZUmUydDVvVHBEOGxsUW9Xd2dCNXFKUlpxQ19iMGo1Y18zbXRHMklPbE1wdnpmYlpoSmFvU0hpdHVtWnM1UDZXNmVFSmE0WVdXRGxkbU1Jc2VQeDlfU2JENm9iRUxHTTdiZDdRNDhqZDRzM0NuNGMxWlk?oc=5",
+      "data": "10/09 22:52"
     },
     {
-      "titulo": "Maracanã: MP investiga desvio de R$ 1 milhão por mês em ingressos - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1V1VUl1d2xzcF9BTDhzZFFTdHJEclA0U2RvR3hXVzhleEZHQWxuRzBHX1ByVDI4NnhGU0htcHpVYlFUbkNId29VRk9QRlNBUnFWLTA3ci1mNmlUaE5YUkJfd1hFakRycUZjWFRibUU4WkRHcnlhVURubFRvdjRWUklnZmx4eUZyQ2g0cWRmWi14bVYtUFBzd3p0NkVuSE4xbmZSa3FLU2l3VWxDV2lR?oc=5",
-      "data": "11/09 14:52"
+      "titulo": "Sem Ignácio e Thiago Silva, Marcão ganha dor de cabeça no Fluminense; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeFpfSmh6Y3dOOXpCOHlvOEtKcWhuQWRINFdqQndtYWxQS1hiZE1wR1BabUFNYWV3WkhuNExDMUZTb05UeVNaM0FjOVRld3Z2OEU3T1JrQXF3Mk9CcDVjOWZaQ3JTREp4eHV4RHktbkx2RElsV0JNa2NwZzh5TlRBRklkQWYzWWJOVkRNY3JBMWxkdFVwcmI2TTdLUlhMbUZjVEthbHRsTlg5T1Y3Y3VLdW93YkVobGVRVFRzWU8wMXh2cmpTdkN2SHVwdERHR0djYXNkd1Q0YmpoTDk5SnMxM1hKaDNSejhGWHdvNVhPSVN4OC1wc0E?oc=5",
+      "data": "11/09 12:01"
     }
   ],
   "avisos": []
