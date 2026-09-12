@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "12/09/2026 02:20",
+  "atualizado_em": "12/09/2026 06:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -35,12 +35,11 @@
     {
       "sport": "futebol",
       "date": "2026-09-12",
-      "time": "09:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Alavés",
+      "time": "08:30",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Derby x Birmingham",
       "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
+        "ESPN"
       ]
     },
     {
@@ -51,6 +50,17 @@
       "match": "Fortuna Dusseldorf x MSV Duisburg",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "09:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Alavés",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
       ]
     },
     {
@@ -365,12 +375,10 @@
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al Khaleej Saihat x Al-Nassr",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x America-SP U20",
       "channels": [
-        "BAND",
-        "BANDSPORTS",
-        "CANAL GOAT",
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -378,18 +386,8 @@
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "Fortuna Sittard x Ajax",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x União São João U20",
+      "match": "Palmeiras Sub-20 x Sfera U20",
       "channels": [
         "YOUTUBE"
       ]
@@ -409,7 +407,7 @@
       "date": "2026-09-12",
       "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x Sfera U20",
+      "match": "São Paulo U20 x União São João U20",
       "channels": [
         "YOUTUBE"
       ]
@@ -418,10 +416,22 @@
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x America-SP U20",
+      "competition": "Campeonato Holandês",
+      "match": "Fortuna Sittard x Ajax",
       "channels": [
-        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Khaleej Saihat x Al-Nassr",
+      "channels": [
+        "BAND",
+        "BANDSPORTS",
+        "CANAL GOAT",
         "YOUTUBE"
       ]
     },
@@ -433,38 +443,6 @@
       "match": "FC St. Pauli x VfL Wolfsburg",
       "channels": [
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Atalanta x Cagliari",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Paris FC x Lyon",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "LE Havre x Angers",
-      "channels": [
-        "YOUTUBE",
-        "CAZÉTV"
       ]
     },
     {
@@ -487,6 +465,49 @@
       "channels": [
         "CAZÉTV",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "LE Havre x Angers",
+      "channels": [
+        "YOUTUBE",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Paris FC x Lyon",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Atalanta x Cagliari",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Fluminense",
+      "channels": [
+        "PREMIERE 2",
+        "PREMIERE 3"
       ]
     },
     {
@@ -523,23 +544,13 @@
     {
       "sport": "futebol",
       "date": "2026-09-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Fluminense",
-      "channels": [
-        "PREMIERE 2",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Academico Viseu x Guimaraes",
+      "competition": "Brasileirão Feminino",
+      "match": "Flamengo (F) x São Paulo (F)",
       "channels": [
-        "YOUTUBE",
-        "DISNEY+"
+        "GLOBO",
+        "SPORTV",
+        "GE TV"
       ]
     },
     {
@@ -556,24 +567,11 @@
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "16:30",
-      "competition": "Brasileirão Feminino",
-      "match": "Flamengo (F) x São Paulo (F)",
+      "competition": "Campeonato Português",
+      "match": "Academico Viseu x Guimaraes",
       "channels": [
-        "GLOBO",
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Floresta",
-      "channels": [
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
+        "YOUTUBE",
+        "DISNEY+"
       ]
     },
     {
@@ -586,6 +584,18 @@
         "RECORD",
         "PREMIERE 5",
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Floresta",
+      "channels": [
+        "BAND",
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -655,8 +665,8 @@
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Central Espanol",
+      "competition": "Campeonato Argentino",
+      "match": "Talleres Cordoba x Union Santa Fe",
       "channels": [
         "DISNEY+"
       ]
@@ -665,19 +675,8 @@
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Toluca x Atlas",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "20:00",
-      "competition": "Campeonato Argentino",
-      "match": "Talleres Cordoba x Union Santa Fe",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Central Espanol",
       "channels": [
         "DISNEY+"
       ]
@@ -690,6 +689,17 @@
       "match": "Crown Legacy x Carolina Core",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "20:05",
+      "competition": "Campeonato Mexicano",
+      "match": "Toluca x Atlas",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -1400,6 +1410,16 @@
       "sport": "futebol",
       "date": "2026-09-13",
       "time": "20:00",
+      "competition": "NWSL Feminina",
+      "match": "Portland Thorns (F) x Chicago Red Stars (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "20:00",
       "competition": "MLS Next Pro",
       "match": "New York RB II x FC Cincinnati II",
       "channels": [
@@ -1570,43 +1590,48 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.6,
-      "temp_min": 21.7,
+      "temp_max": 28.0,
+      "temp_min": 21.9,
       "chance_chuva": 83,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.9,
-      "temp_min": 22.1,
+      "temp_max": 27.5,
+      "temp_min": 21.6,
       "chance_chuva": 64,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.2,
-      "temp_min": 18.7,
+      "temp_max": 27.1,
+      "temp_min": 19.6,
       "chance_chuva": 98,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.0,
-      "temp_min": 17.3,
+      "temp_max": 24.2,
+      "temp_min": 17.2,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense esperava vender mais jogadores na janela e busca compensar com premiação da Libertadores - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUXdIUjJXbWdFNS04bGdTRkdqSFNrWHRWSXFvYUl6VUFpTkQ2dUFVOVcyaWlZeHAwNG4zRzR6Vi1xeVNEcnU0b0YtVUNPdThxZUEzQzhrTEVWZ0FwVDBrNVM1VjE2VUlxVlhRWXRBcXZ5WkxCR1ZZcVRBd1FXeFB1TG90MlF2Q2hfQ2UyMzZsaGpMaDB3SGNET2hzay1Ub2dORlUwVHZFS3laV3ZuUkdFQmFwYUo2RnJjT3JxYWpEamk3VVFfaDliQ1FocFZlbDFXWnRtTl9VRGxseTBsc1dtOHc3emNsX2sxZDI0WERCZWp4SXBwVy1DVEJTRlBwdHZDWDE4dmQwVGvSAZcCQVVfeXFMT1JjXzFWeGh5aWktc0dNUDk1LU9kRVpTd1JfNWZOOXJWLU9tMi01ek5JNUg2Q0FNTXhNell1UklNUW1GQ3Q4VzNYZTdpOWdCVFZlbHMzbUNIa3otOU1IWjJza3Z4cTlLU0c1d2d3TXV3Y2huUFcyMHpPcFlZdVQ5RGQxR2VodjVTZUEtUXZWaUtoMFJpaXJjc1ZhOWtFclVqdjNJTDVJMFdIQThwYWNMdEExcGZKOGFNbmJ3OTJjTDRjcTFDRzlqUzhlYl9zN1I0MVhqLWtuWHFvRjd5aE45ZkhUOTlCVnduSkE1QlBFYXpUOHNQcmRTNm9ZbXR3RjY4QnAxaVNYcTluVlg4VmNyd0pUQVNUc0JZ?oc=5",
-      "data": "10/09 20:43"
-    },
-    {
       "titulo": "Após levar 32 pontos em acidente na infância, Ruan Sales chega ao profissional do Fluminense: 'Minha perna poderia encolher' - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPRW5kYkFTRlVta0ZjTFM5R0dUcWFHaU1tbWhveW16Uk5ib0FWeXlwZjRWUW9GcGxmNVdOMEw3RDU2a3UwRGxfR1Vkc0FWU0xTZFlFSmtWdjQ1U1hhUklhSW9jLS1HZTBCbi1HMkFQYWdHSDdrZkFRVDZpWnRRdFpWTmdqbTk4YWNRaFhYbVNyTUlyMXZpaTRWUTBJaE5ZOHQ1S1BPUzUzd2p4V2RkMVZMYUVYQTRIYXMzMlJwWS0zbXc2ZkpOalpXYWRKZnBGbjFDTExfSlpxbEJnSXctcFJGdHFVZTZHbUFUa2lFQXBKZ3hXZDRTUWVBVWkyVGpmSlRTZHMyRUp0ODZleXl2VDdEdi1pZ3pUYVduRmU1bTlwR2dGSmk40gGzAkFVX3lxTFA5dG0wdDZDdk5id0I0LWNDX3BCek5DbG9YcHZiMHp0SExORUVnRURpNmFRZE5QMGo4R0JhWmtaaVRwaHhyZktsSU5UTmZwM2VSYUhVbHNqZVZjOXhCOGxUbENPM3JEWDBEbEU2YUFZOVhwUGdhdjl0c3RUeFFUajFuUVNKSGZUUWZUOUlHWDUwcWFsSUZYa05na3B5aTlFYjdwMF9rQVc4SVlnRDJfa1J3YnF3SklxUXBncm9FOTY5TEtlNDJ5Unp4Vy1XUUNzdTgwbHBhMnZUTGFhSFBXdVZNWGFoVG93emMxanhiX2t2a184YW5yakdRcFQtNE1TaTlrcUNWa2syM0ZjWXBvbHNHeE8xbGw2SGF6dEZmV0xjbXR4SzBTY3lBMmljbkY2MTZlU2c?oc=5",
       "data": "12/09 05:00"
+    },
+    {
+      "titulo": "Com perfil introvertido, Castillo busca superar dificuldade de adaptação e sair da sombra no Fluminense - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY3FKMzFYMjR2NHp4UmRYWW5wME5PTnFDajRXZDhqandKSE1qRFJ2UDE2aW9LYnFKSTZwTkZYMEI5eFNsM3dOZ1RZNGlxb3kxanBzTlp6bmxTT1lLSWQzM3ctQkN5R1lEWnBYcTRfbDZNVk5ONFhKN2lwZTh5M2xXUGRCS3Z1N2lJOGhFa3l2SGVsbGc4eHAwZUJIT1dwbk9HeHpJN25EYTFoQlhGbzRYVnQwMTN0YnBWWjQ0VWFVcE1WQ01WbjhaeThtd1RzYmxiN0tCSWxoN1dwbnhFQ2Iyb1JkMzdVTE5QODlFQ1N2TnNocXA0QnpiMWZHSk5NTGJDSVd3WEgwQjlrVWw10gGbAkFVX3lxTE9pNDJ0S0hUYTZNbm5JS3YybEJEYlBUWjAtZ0dEMV9VS2dzUWNibktKZURoR29wZGtWR3dxZFZleDZCLVNGaWRnR05ibXQ4RE9HekFBaTBrdUJwTkN1eVBhQVZFdWNWYzVVdTZxMXU5Zjc3UjFLSnozS3ZKYk9Xekx4MFBLQ0c1NWxfNkJBUXQ5QWY5QTVoZW9qVTlNS2N6b3doV0s5SjVCaFJYSjAzMHhSTndsRVdOdXIwSkFHUkRTUlppYUQ3TjlqbC1xOEk3OUYyUG5EVUJYbWVmRFNBZEtERW5HbWtlaWtHLXRoZGFHYm1fYnBjQjNjRzM5dTBtSnZJZTBhTlVUSXlXbkFvQ0gydzdQT19Zd0pIeVk?oc=5",
+      "data": "12/09 07:00"
+    },
+    {
+      "titulo": "MP investiga venda irregular de ingressos e superlotação no Maracanã em jogos de Flamengo e Fluminense - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ3Z3cFFnTzhFYlR3Um00aENILWRrN0UwaTRPNFZJb19JLU9UVV9WRmk4NnFYZjh5cUw5emdqeGRzbTJGWU1jdnlwSWVJYnROMzYzd0JjajlOSG9Lb2hHbFBhSHBPci1ETmo2ODV2N3EtNWNQRXdxQzJZNm1HcEcyUW1ER0NKRG5ZdkF4RVZlT3RZbzVLZkpNaG1qZDhaNmd6RDBIOXItLWVqUkhTTXN0cjV5V0lHcUNaM2pfRjNVZWRpRWh2a0RvSzRJU3JmNkgtTVdqYWxjWlg5amRyYUhNa1FpTTNtQQ?oc=5",
+      "data": "11/09 15:45"
     },
     {
       "titulo": "Investigação aponta como Fla e Flu colocam à venda mais ingressos que o permitido no Maracanã - O GLOBO",
@@ -1614,14 +1639,9 @@
       "data": "11/09 06:00"
     },
     {
-      "titulo": "Flamengo e Fluminense podem perder mando de campo por até seis meses - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPXzJaWExzMS1Wb3plZ3BMLTM1LUhwWE9uYXdIOEdud1RDQWJfR3NFTGlqMW53VnNKODJ2aGdMdDlIZ0hoeU16WW5Hb2wxNDhSZHFfOG54OExlUHEwbHE4bmRoZzRrYzhncUdRY0pHWFR6YUc0V2FMQzJyekJMZ1lHcW9FYmJRckNhU3RPM1JOekpGQWhlTzFqTFJzRi0zSEcyYkVkVFJHbFlRbFJmV0lmTzBXUDlzWnViMnFxLUZHeUpBQ2tKNklURU5WRW1sLXJmTUVtdWJhRFFoWVRZX1FVbFY1andpdnhlWFF4Xw?oc=5",
-      "data": "11/09 14:00"
-    },
-    {
-      "titulo": "MP investiga venda irregular de ingressos e superlotação no Maracanã em jogos de Flamengo e Fluminense - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ3Z3cFFnTzhFYlR3Um00aENILWRrN0UwaTRPNFZJb19JLU9UVV9WRmk4NnFYZjh5cUw5emdqeGRzbTJGWU1jdnlwSWVJYnROMzYzd0JjajlOSG9Lb2hHbFBhSHBPci1ETmo2ODV2N3EtNWNQRXdxQzJZNm1HcEcyUW1ER0NKRG5ZdkF4RVZlT3RZbzVLZkpNaG1qZDhaNmd6RDBIOXItLWVqUkhTTXN0cjV5V0lHcUNaM2pfRjNVZWRpRWh2a0RvSzRJU3JmNkgtTVdqYWxjWlg5amRyYUhNa1FpTTNtQQ?oc=5",
-      "data": "11/09 15:45"
+      "titulo": "Maracanã: MP investiga desvio de R$ 1 milhão por mês em ingressos - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1V1VUl1d2xzcF9BTDhzZFFTdHJEclA0U2RvR3hXVzhleEZHQWxuRzBHX1ByVDI4NnhGU0htcHpVYlFUbkNId29VRk9QRlNBUnFWLTA3ci1mNmlUaE5YUkJfd1hFakRycUZjWFRibUU4WkRHcnlhVURubFRvdjRWUklnZmx4eUZyQ2g0cWRmWi14bVYtUFBzd3p0NkVuSE4xbmZSa3FLU2l3VWxDV2lR?oc=5",
+      "data": "11/09 14:52"
     }
   ],
   "avisos": []
