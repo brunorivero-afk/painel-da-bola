@@ -1,37 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/09/2026 06:58",
+  "atualizado_em": "12/09/2026 10:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Magdeburg x FC Kaiserslautern",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL BOCHUM x SpVgg Greuther Furth",
-      "channels": [
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "Eintracht Braunschweig x Dynamo Dresden",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-12",
@@ -89,9 +58,10 @@ window.PAINEL_DATA = {
       "date": "2026-09-12",
       "time": "10:30",
       "competition": "Campeonato Alemão",
-      "match": "SC Freiburg x Borussia M",
+      "match": "FSV Mainz 05 x Eintracht Frankfurt",
       "channels": [
-        "CANAL GOAT"
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -99,10 +69,9 @@ window.PAINEL_DATA = {
       "date": "2026-09-12",
       "time": "10:30",
       "competition": "Campeonato Alemão",
-      "match": "FSV Mainz 05 x Eintracht Frankfurt",
+      "match": "SC Freiburg x Borussia M",
       "channels": [
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
+        "CANAL GOAT"
       ]
     },
     {
@@ -145,8 +114,30 @@ window.PAINEL_DATA = {
       "date": "2026-09-12",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Bournemouth x Brentford",
+      "match": "Crystal Palace x Ipswich",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Chelsea x Hull City",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Aston Villa x Nottingham Forest",
+      "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -165,30 +156,8 @@ window.PAINEL_DATA = {
       "date": "2026-09-12",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Aston Villa x Nottingham Forest",
+      "match": "Bournemouth x Brentford",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Crystal Palace x Ipswich",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Chelsea x Hull City",
-      "channels": [
-        "ESPN",
         "DISNEY+"
       ]
     },
@@ -322,10 +291,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Casa Pia x FC Porto",
+      "competition": "Campeonato Turco",
+      "match": "Konyaspor x Trabzonspor",
       "channels": [
-        "ESPN 3",
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -333,10 +302,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Konyaspor x Trabzonspor",
+      "competition": "Campeonato Português",
+      "match": "Casa Pia x FC Porto",
       "channels": [
-        "ESPN 2",
+        "ESPN 3",
         "DISNEY+"
       ]
     },
@@ -449,6 +418,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Atalanta x Cagliari",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "15:45",
       "competition": "Campeonato Francês",
       "match": "Lorient x Toulouse",
       "channels": [
@@ -492,27 +471,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-12",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Atalanta x Cagliari",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Fluminense",
-      "channels": [
-        "PREMIERE 2",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-12",
       "time": "16:00",
       "competition": "Brasileirão Série A",
       "match": "Grêmio x Vasco",
@@ -535,6 +493,17 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Fluminense",
+      "channels": [
+        "PREMIERE 2",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "16:00",
       "competition": "Campeonato Inglês",
       "match": "Sunderland x Arsenal",
       "channels": [
@@ -545,12 +514,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "16:30",
-      "competition": "Brasileirão Feminino",
-      "match": "Flamengo (F) x São Paulo (F)",
+      "competition": "Campeonato Português",
+      "match": "Academico Viseu x Guimaraes",
       "channels": [
-        "GLOBO",
-        "SPORTV",
-        "GE TV"
+        "YOUTUBE",
+        "DISNEY+"
       ]
     },
     {
@@ -567,11 +535,12 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Academico Viseu x Guimaraes",
+      "competition": "Brasileirão Feminino",
+      "match": "Flamengo (F) x São Paulo (F)",
       "channels": [
-        "YOUTUBE",
-        "DISNEY+"
+        "GLOBO",
+        "SPORTV",
+        "GE TV"
       ]
     },
     {
@@ -675,20 +644,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Central Espanol",
+      "competition": "MLS Next Pro",
+      "match": "Crown Legacy x Carolina Core",
       "channels": [
-        "DISNEY+"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Crown Legacy x Carolina Core",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Central Espanol",
       "channels": [
-        "ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -706,10 +675,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x RB Bragantino",
+      "competition": "MLS",
+      "match": "Orlando City SC x Toronto FC",
       "channels": [
-        "PRIME VIDEO"
+        "APPLE TV"
       ]
     },
     {
@@ -746,10 +715,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x Toronto FC",
+      "competition": "Brasileirão Série A",
+      "match": "Botafogo x RB Bragantino",
       "channels": [
-        "APPLE TV"
+        "PRIME VIDEO"
       ]
     },
     {
@@ -766,21 +735,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "21:00",
-      "competition": "MLS Next Pro",
-      "match": "Minnesota United II x Whitecaps II",
+      "competition": "Brasileirão Série A",
+      "match": "Santos x Cruzeiro",
       "channels": [
-        "ONEFOOTBALL"
+        "SPORTV",
+        "PREMIERE 2"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-12",
       "time": "21:00",
-      "competition": "Brasileirão Série A",
-      "match": "Santos x Cruzeiro",
+      "competition": "MLS Next Pro",
+      "match": "Minnesota United II x Whitecaps II",
       "channels": [
-        "SPORTV",
-        "PREMIERE 2"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -872,6 +841,37 @@ window.PAINEL_DATA = {
       "match": "San Jose Earthquakes x Houston Dynamo",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x Dynamo Dresden",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Magdeburg x FC Kaiserslautern",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-12",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "VfL BOCHUM x SpVgg Greuther Furth",
+      "channels": [
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1590,48 +1590,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.0,
-      "temp_min": 21.9,
-      "chance_chuva": 83,
-      "condicao": "Garoa"
+      "temp_max": 29.2,
+      "temp_min": 21.5,
+      "chance_chuva": 55,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.5,
-      "temp_min": 21.6,
-      "chance_chuva": 64,
+      "temp_max": 29.3,
+      "temp_min": 21.4,
+      "chance_chuva": 31,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.1,
-      "temp_min": 19.6,
-      "chance_chuva": 98,
-      "condicao": "Garoa"
+      "temp_max": 28.1,
+      "temp_min": 18.1,
+      "chance_chuva": 90,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.2,
-      "temp_min": 17.2,
-      "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "temp_max": 26.3,
+      "temp_min": 15.5,
+      "chance_chuva": 94,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Morre Paulo Angioni, diretor do Fluminense, aos 80 anos - UOL",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUlhwclVmdldEWlQyeVU5Mko1TGJkal9lcS0tZV9XZHVvNnY5cUFfRnJJd2J3bk9oWjYweVFkc09sWmw2blVheFhJNk1qNTBSNlNBS2xzendZOEV0eXptbGhZNC1WRTQ1dXcwTzZmblZmWWtZZFdvMldZYnVFeE5BVFBSdGVfQXcyUlpiRUk1RVNwSmRCR0U4UzZSOHdaZVBKc21sNjZTOC1xM0p5YnBFZDZXSHRncC1wN3ZiVEwwMnpOUlZsWFE?oc=5",
+      "data": "12/09 11:54"
+    },
     {
       "titulo": "Após levar 32 pontos em acidente na infância, Ruan Sales chega ao profissional do Fluminense: 'Minha perna poderia encolher' - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPRW5kYkFTRlVta0ZjTFM5R0dUcWFHaU1tbWhveW16Uk5ib0FWeXlwZjRWUW9GcGxmNVdOMEw3RDU2a3UwRGxfR1Vkc0FWU0xTZFlFSmtWdjQ1U1hhUklhSW9jLS1HZTBCbi1HMkFQYWdHSDdrZkFRVDZpWnRRdFpWTmdqbTk4YWNRaFhYbVNyTUlyMXZpaTRWUTBJaE5ZOHQ1S1BPUzUzd2p4V2RkMVZMYUVYQTRIYXMzMlJwWS0zbXc2ZkpOalpXYWRKZnBGbjFDTExfSlpxbEJnSXctcFJGdHFVZTZHbUFUa2lFQXBKZ3hXZDRTUWVBVWkyVGpmSlRTZHMyRUp0ODZleXl2VDdEdi1pZ3pUYVduRmU1bTlwR2dGSmk40gGzAkFVX3lxTFA5dG0wdDZDdk5id0I0LWNDX3BCek5DbG9YcHZiMHp0SExORUVnRURpNmFRZE5QMGo4R0JhWmtaaVRwaHhyZktsSU5UTmZwM2VSYUhVbHNqZVZjOXhCOGxUbENPM3JEWDBEbEU2YUFZOVhwUGdhdjl0c3RUeFFUajFuUVNKSGZUUWZUOUlHWDUwcWFsSUZYa05na3B5aTlFYjdwMF9rQVc4SVlnRDJfa1J3YnF3SklxUXBncm9FOTY5TEtlNDJ5Unp4Vy1XUUNzdTgwbHBhMnZUTGFhSFBXdVZNWGFoVG93emMxanhiX2t2a184YW5yakdRcFQtNE1TaTlrcUNWa2syM0ZjWXBvbHNHeE8xbGw2SGF6dEZmV0xjbXR4SzBTY3lBMmljbkY2MTZlU2c?oc=5",
       "data": "12/09 05:00"
     },
     {
-      "titulo": "Com perfil introvertido, Castillo busca superar dificuldade de adaptação e sair da sombra no Fluminense - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY3FKMzFYMjR2NHp4UmRYWW5wME5PTnFDajRXZDhqandKSE1qRFJ2UDE2aW9LYnFKSTZwTkZYMEI5eFNsM3dOZ1RZNGlxb3kxanBzTlp6bmxTT1lLSWQzM3ctQkN5R1lEWnBYcTRfbDZNVk5ONFhKN2lwZTh5M2xXUGRCS3Z1N2lJOGhFa3l2SGVsbGc4eHAwZUJIT1dwbk9HeHpJN25EYTFoQlhGbzRYVnQwMTN0YnBWWjQ0VWFVcE1WQ01WbjhaeThtd1RzYmxiN0tCSWxoN1dwbnhFQ2Iyb1JkMzdVTE5QODlFQ1N2TnNocXA0QnpiMWZHSk5NTGJDSVd3WEgwQjlrVWw10gGbAkFVX3lxTE9pNDJ0S0hUYTZNbm5JS3YybEJEYlBUWjAtZ0dEMV9VS2dzUWNibktKZURoR29wZGtWR3dxZFZleDZCLVNGaWRnR05ibXQ4RE9HekFBaTBrdUJwTkN1eVBhQVZFdWNWYzVVdTZxMXU5Zjc3UjFLSnozS3ZKYk9Xekx4MFBLQ0c1NWxfNkJBUXQ5QWY5QTVoZW9qVTlNS2N6b3doV0s5SjVCaFJYSjAzMHhSTndsRVdOdXIwSkFHUkRTUlppYUQ3TjlqbC1xOEk3OUYyUG5EVUJYbWVmRFNBZEtERW5HbWtlaWtHLXRoZGFHYm1fYnBjQjNjRzM5dTBtSnZJZTBhTlVUSXlXbkFvQ0gydzdQT19Zd0pIeVk?oc=5",
-      "data": "12/09 07:00"
-    },
-    {
-      "titulo": "MP investiga venda irregular de ingressos e superlotação no Maracanã em jogos de Flamengo e Fluminense - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ3Z3cFFnTzhFYlR3Um00aENILWRrN0UwaTRPNFZJb19JLU9UVV9WRmk4NnFYZjh5cUw5emdqeGRzbTJGWU1jdnlwSWVJYnROMzYzd0JjajlOSG9Lb2hHbFBhSHBPci1ETmo2ODV2N3EtNWNQRXdxQzJZNm1HcEcyUW1ER0NKRG5ZdkF4RVZlT3RZbzVLZkpNaG1qZDhaNmd6RDBIOXItLWVqUkhTTXN0cjV5V0lHcUNaM2pfRjNVZWRpRWh2a0RvSzRJU3JmNkgtTVdqYWxjWlg5amRyYUhNa1FpTTNtQQ?oc=5",
-      "data": "11/09 15:45"
+      "titulo": "Flamengo e Fluminense podem perder mando de campo por até seis meses - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPXzJaWExzMS1Wb3plZ3BMLTM1LUhwWE9uYXdIOEdud1RDQWJfR3NFTGlqMW53VnNKODJ2aGdMdDlIZ0hoeU16WW5Hb2wxNDhSZHFfOG54OExlUHEwbHE4bmRoZzRrYzhncUdRY0pHWFR6YUc0V2FMQzJyekJMZ1lHcW9FYmJRckNhU3RPM1JOekpGQWhlTzFqTFJzRi0zSEcyYkVkVFJHbFlRbFJmV0lmTzBXUDlzWnViMnFxLUZHeUpBQ2tKNklURU5WRW1sLXJmTUVtdWJhRFFoWVRZX1FVbFY1andpdnhlWFF4Xw?oc=5",
+      "data": "11/09 14:00"
     },
     {
       "titulo": "Investigação aponta como Fla e Flu colocam à venda mais ingressos que o permitido no Maracanã - O GLOBO",
@@ -1639,9 +1639,9 @@ window.PAINEL_DATA = {
       "data": "11/09 06:00"
     },
     {
-      "titulo": "Maracanã: MP investiga desvio de R$ 1 milhão por mês em ingressos - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1V1VUl1d2xzcF9BTDhzZFFTdHJEclA0U2RvR3hXVzhleEZHQWxuRzBHX1ByVDI4NnhGU0htcHpVYlFUbkNId29VRk9QRlNBUnFWLTA3ci1mNmlUaE5YUkJfd1hFakRycUZjWFRibUU4WkRHcnlhVURubFRvdjRWUklnZmx4eUZyQ2g0cWRmWi14bVYtUFBzd3p0NkVuSE4xbmZSa3FLU2l3VWxDV2lR?oc=5",
-      "data": "11/09 14:52"
+      "titulo": "MP investiga venda irregular de ingressos e superlotação no Maracanã em jogos de Flamengo e Fluminense - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZ3Z3cFFnTzhFYlR3Um00aENILWRrN0UwaTRPNFZJb19JLU9UVV9WRmk4NnFYZjh5cUw5emdqeGRzbTJGWU1jdnlwSWVJYnROMzYzd0JjajlOSG9Lb2hHbFBhSHBPci1ETmo2ODV2N3EtNWNQRXdxQzJZNm1HcEcyUW1ER0NKRG5ZdkF4RVZlT3RZbzVLZkpNaG1qZDhaNmd6RDBIOXItLWVqUkhTTXN0cjV5V0lHcUNaM2pfRjNVZWRpRWh2a0RvSzRJU3JmNkgtTVdqYWxjWlg5amRyYUhNa1FpTTNtQQ?oc=5",
+      "data": "11/09 15:45"
     }
   ],
   "avisos": []
