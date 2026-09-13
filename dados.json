@@ -1,102 +1,6 @@
 {
-  "atualizado_em": "13/09/2026 17:12",
+  "atualizado_em": "13/09/2026 19:48",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Sassuolo x Juventus",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Mirassol x Vitória",
-      "channels": [
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Criciúma",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "competition": "MLS Next Pro",
-      "match": "Chattanooga x Atlanta United II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Sociedad x Atletico Madrid",
-      "channels": [
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Deportivo Maldonado",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Ferroviária x Paysandu",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "competition": "Copa Paulista",
-      "match": "Comercial x São José EC",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Famalicão x Sporting CP",
-      "channels": [
-        "NSPORTS",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-13",
@@ -105,38 +9,6 @@
       "match": "Portland Timbers II x St. Louis City II",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x ASA",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "17:15",
-      "competition": "Campeonato Peruano",
-      "match": "Atletico Grau x Alianza Atletico",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "17:30",
-      "competition": "Brasileirão Série A",
-      "match": "Flamengo x Corinthians",
-      "channels": [
-        "GLOBO",
-        "PREMIERE FC",
-        "GE TV"
       ]
     },
     {
@@ -386,11 +258,20 @@
       "sport": "futebol",
       "date": "2026-09-13",
       "time": "10:00",
-      "competition": "Campeonato Inglês",
-      "match": "Coventry x Brighton",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Cerro",
       "channels": [
-        "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "10:00",
+      "competition": "Campeonato Francês",
+      "match": "Lille x Estac Troyes",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -407,20 +288,11 @@
       "sport": "futebol",
       "date": "2026-09-13",
       "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Cerro",
+      "competition": "Campeonato Inglês",
+      "match": "Coventry x Brighton",
       "channels": [
+        "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "10:00",
-      "competition": "Campeonato Francês",
-      "match": "Lille x Estac Troyes",
-      "channels": [
-        "CAZÉTV"
       ]
     },
     {
@@ -593,6 +465,16 @@
       "sport": "futebol",
       "date": "2026-09-13",
       "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x Deportivo Garcilaso",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "15:00",
       "competition": "Campeonato Holandês",
       "match": "PSV Eindhoven x Sparta Rotterdam",
       "channels": [
@@ -602,11 +484,129 @@
     {
       "sport": "futebol",
       "date": "2026-09-13",
-      "time": "15:00",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Sassuolo x Juventus",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "competition": "Copa Paulista",
+      "match": "Comercial x São José EC",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Mirassol x Vitória",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Criciúma",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "competition": "MLS Next Pro",
+      "match": "Chattanooga x Atlanta United II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Sociedad x Atletico Madrid",
+      "channels": [
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Deportivo Maldonado",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ferroviária x Paysandu",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "Famalicão x Sporting CP",
+      "channels": [
+        "NSPORTS",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "17:00",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x ASA",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "17:15",
       "competition": "Campeonato Peruano",
-      "match": "Sport Boys x Deportivo Garcilaso",
+      "match": "Atletico Grau x Alianza Atletico",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "17:30",
+      "competition": "Brasileirão Série A",
+      "match": "Flamengo x Corinthians",
+      "channels": [
+        "GLOBO",
+        "PREMIERE FC",
+        "GE TV"
       ]
     },
     {
@@ -837,14 +837,14 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 21.7,
       "temp_min": 19.9,
-      "chance_chuva": 96,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.9,
       "temp_min": 21.0,
-      "chance_chuva": 80,
+      "chance_chuva": 86,
       "condicao": "Garoa fraca"
     },
     {
@@ -869,24 +869,24 @@
       "data": "12/09 11:38"
     },
     {
+      "titulo": "Fluminense treinará no CT do Boca Juniors em Buenos Aires; Confira a programação semanal - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVll3YnVDUEZQSmJPRmI0ZTBfYUFfRFJqWFQtRmdrWDhMYkVnelhBQ0dpaDNDZGEweld3Z2Jhb0w3aUhHRHo4elBuSTFia1gtX3ZjU0hLSnBWMjJ0YnlvY194bGZVNHVLMktZNFNYWUIzcFRybE9LNUFGMGtYQkItTGhzT29RQnhsNEdUZGo2YUNuY0R6ekYzZmJ4U2l0OWNtUm1FRTVieklDS0hUZ0VyQkc5T1Y?oc=5",
+      "data": "13/09 21:08"
+    },
+    {
       "titulo": "Atlético-MG x Fluminense pelo Brasileirão: onde assistir ao vivo, horário e escalação - Terra",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUFJ6ZlZ3clZoRUphZjU2TEd4U1hpaDBIT19lVzIzcXZEWTZGeFduYXRjR0ZlMnIzMU1VTTR0c0RXV25CcktWMC1INUZVQU5lX24yN3hlUWROdFVNOVQzNGVsdXRCWlVRX2w1akY1amhya291MldTU1ZPd2JXSFNIVDVPbEJvdWQwWWpWSnlJb010ZVhnZzN5M3ExaVhBbUFSQ2k0ZVVCX29lNGowLTRDUnkwV1ZpOTF3MlRIRWRjMWR6WGw4b3piS01JbnROZ1hSX0d4MlFUT0YwREpjb0pkc2hodFZXRW5YRkdNQnR0cDZZNkZvckJNV0tic1hxaUZX?oc=5",
       "data": "12/09 18:12"
     },
     {
-      "titulo": "Fluminense recebe o Botafogo pela última rodada da primeira fase do Carioca Feminino Sub-20 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdm1FeXpSakFpeHZpSEtyU0dmM0oxMFBDVDFDaFN6bGo4d0lWTVFQLWhTaXV2eC1RaldYbFpjQV93dFozM0JfbXNsaEliZWthMXJNd1pKQWtTTW1odnU4WjZFcDloNVZUUnMzam9QQ2c0X1lBbV9SYlgxTmxUQTdWakdWcTBJSS1Jck5IZjhXWVhfVDFFUkJVcDJNZ1U5aHFuTHMzazRfUExUN2l5bU56bmRQX3VRMEVNRkdKbUQ0aWhibEROM0hyRg?oc=5",
-      "data": "12/09 10:00"
+      "titulo": "Fluminense fecha janela com dois reforços de peso, mas deixa lacuna - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdGVWRyS1NoUTZXV2pQZlNfWlBWakU5ZzhUdGhRbWVYS2ItRVV6Q0hVWEwyM0NjLVlRaEg2SDJfbUYxamo5MXppc1RqVExpTVphMDNlb0JHNlMtMXhTM3daYW5JOW04VVlTN2k0SDc2WXJ5MFp0a0xMZGtSTHNKT19idm9QRVB4WmQyMjNRUTg0cVVESExaSWZYUmhHc3hJRVVoUGQ5dDFfRWc?oc=5",
+      "data": "12/09 09:35"
     },
     {
-      "titulo": "Diniz vai ao velório de diretor do Fluminense antes de confronto contra o Flamengo - Portal ABC do ABC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RNWdVUWpRcnVETTh4cWxub05kY3M4TVRzckdxMzBBMnNjRm9aWENwTTV5dm40MU1ReGlXaDlObHZ4V1RZRTh2Yk5OeEQ0WEZmX1p2QUc2MTFMY3dzdEhwSmdVN3V1NkpVS2NCaV9rd0ozWkw5Y0Uxa21EYTRwLUU?oc=5",
-      "data": "13/09 18:10"
-    },
-    {
-      "titulo": "Ex-Fluminense, Richarlison descarta contrato longo com rival e negociação é encerrada - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkw3d1ZvSXhDYUkxd3RhZlhhMkRRaERPSTdQOFQtamlxOEsxZzJfNE1FZnJTMWp0WmR5dVFFYU83bHpPT3BMQ2l6T1lwVmk4TWtENktWMEF5QVZuOE55TWIxTHFRXy1tTWxuV2w5ZFREQmRYUVV0cnczVmx6Y0xWLUdRMzRqNVdYWVlqbTJ2djZzZlVXTDhIMG9PalhjYS12QVc2UHg3RTZKeklpd0hldw?oc=5",
-      "data": "11/09 19:24"
+      "titulo": "Com perfil introvertido, Castillo busca superar dificuldade de adaptação e sair da sombra no Fluminense - Extra online",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdzBDbDg5VHNxMHpuZTA4VXB4clZnSWFmeUU3RnU3bWd4Ykw4VU9DQk9vR3lrMjFqOU5KQVhCV2s2Zm1xcXl1d29rdmh3X0Y0U3d3XzRNR3pMdEtPVUtocHRPX2J5MDdhR0FlVXNMN0ZEazBZVVVUa0dmTm5JQkgzZmx1OEM3eFFybXV3RHFYMG1NeFVKSG9DdWpFdXRYbnloeXVYTHRLdFBxWUhFRFFhdnBPY2VnVWxtaFRKU3NiaXVhZU92RllkMGtTTzZnVUdSTnc1elFaXzB1ODkwZnc4dU5OcDVPamtrTkdUTHNTMXJnUXRRTm9pR2dKVdIBigJBVV95cUxONjlUMHhjYWx2U3RncFZ3eHZHT19hbDZKMUlpQjQyZ1RtQWkxUndOWkZyT2ZvMjMtUzA4ekM5Tld4aW1lT0d6UnRtUjM2aHhSejByb0swSWRPd1pjVnBGR2x2S1RkSGpuWmV6OUdoSklIaDZmMHNYYXZ6WUVaQjhHeU1nZXFUemdPdjZsTVoxeWNaUjZGd1VpdEU4LWdiUkxDVGl0YlAwRlBtOEFPWm54M21oZ0dubXpRQVR1ZC1Qb3V6Rm1fUGhEOE5uYzhEQjdaeEVLeERaYnJfUnVleUlPdEZLVWVfOGpWOEowUUpZS1FPVk9uanFIQzlHTGV5Vi1GMmRhMGNpNEdQZw?oc=5",
+      "data": "12/09 07:00"
     }
   ],
   "avisos": []
