@@ -1,131 +1,6 @@
 {
-  "atualizado_em": "13/09/2026 14:11",
+  "atualizado_em": "13/09/2026 17:12",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "12:30",
-      "competition": "Campeonato Inglês",
-      "match": "Manchester United x Manchester City",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "12:30",
-      "competition": "Campeonato Alemão",
-      "match": "SV Elversberg x Bayern",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Juventud x Danubio",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "Napoli x Bologna",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "13:20",
-      "competition": "Campeonato Saudita",
-      "match": "Neom x Al-Fateh",
-      "channels": [
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Getafe x Deportivo La Coruna",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "13:30",
-      "competition": "Campeonato Russo",
-      "match": "Krasnodar x Akron",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Benfica x GIL Vicente",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Arouca x Santa Clara",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Galatasaray x Kocaelispor",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "PSV Eindhoven x Sparta Rotterdam",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x Deportivo Garcilaso",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-13",
@@ -226,20 +101,20 @@
       "sport": "futebol",
       "date": "2026-09-13",
       "time": "17:00",
-      "competition": "Brasileirão Série D",
-      "match": "Uberlandia x ASA",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x St. Louis City II",
       "channels": [
-        "YOUTUBE"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-13",
       "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x St. Louis City II",
+      "competition": "Brasileirão Série D",
+      "match": "Uberlandia x ASA",
       "channels": [
-        "ONEFOOTBALL"
+        "YOUTUBE"
       ]
     },
     {
@@ -611,6 +486,131 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "12:30",
+      "competition": "Campeonato Alemão",
+      "match": "SV Elversberg x Bayern",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "12:30",
+      "competition": "Campeonato Inglês",
+      "match": "Manchester United x Manchester City",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "13:00",
+      "competition": "Campeonato Italiano",
+      "match": "Napoli x Bologna",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "13:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Juventud x Danubio",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "13:20",
+      "competition": "Campeonato Saudita",
+      "match": "Neom x Al-Fateh",
+      "channels": [
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "13:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Getafe x Deportivo La Coruna",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "13:30",
+      "competition": "Campeonato Russo",
+      "match": "Krasnodar x Akron",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "14:00",
+      "competition": "Campeonato Português",
+      "match": "Benfica x GIL Vicente",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "14:00",
+      "competition": "Campeonato Português",
+      "match": "Arouca x Santa Clara",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Galatasaray x Kocaelispor",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "PSV Eindhoven x Sparta Rotterdam",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-13",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x Deportivo Garcilaso",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-09-14",
       "time": "13:30",
       "competition": "Campeonato Italiano",
@@ -774,16 +774,6 @@
     {
       "sport": "volei",
       "date": "2026-09-13",
-      "time": "14:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Chile x Peru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-13",
       "time": "13:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Argentina x Venezuela",
@@ -846,57 +836,57 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 21.7,
-      "temp_min": 19.7,
+      "temp_min": 19.9,
       "chance_chuva": 96,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.7,
-      "temp_min": 20.9,
+      "temp_max": 22.9,
+      "temp_min": 21.0,
       "chance_chuva": 80,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.9,
+      "temp_max": 22.7,
       "temp_min": 17.2,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.4,
-      "temp_min": 13.9,
+      "temp_max": 17.5,
+      "temp_min": 14.2,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Morre Paulo Angioni, diretor do Fluminense, aos 80 anos - UOL",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUlhwclVmdldEWlQyeVU5Mko1TGJkal9lcS0tZV9XZHVvNnY5cUFfRnJJd2J3bk9oWjYweVFkc09sWmw2blVheFhJNk1qNTBSNlNBS2xzendZOEV0eXptbGhZNC1WRTQ1dXcwTzZmblZmWWtZZFdvMldZYnVFeE5BVFBSdGVfQXcyUlpiRUk1RVNwSmRCR0U4UzZSOHdaZVBKc21sNjZTOC1xM0p5YnBFZDZXSHRncC1wN3ZiVEwwMnpOUlZsWFE?oc=5",
-      "data": "12/09 11:54"
+      "titulo": "Morre Paulo Angioni, diretor de futebol do Fluminense e com mais de 40 anos de serviços no futebol - ge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEVvWTFRS29PTUdRMmdkN1VLSjlTeDhGejRsUlZwSkJZMXpjRUREUzM4YU1XOXRQUjhRMC01aXJYaVdNYXFYa0RETzVEbkZkdWlqcHJFOVlDbzVNNWRDTHZnQnJaSXRuRWdTY2ZrdE9yRlRXb3FHbDRUY3A5Uko0bHFwbk5zSkFoa1ByTDN1OEdubnpB0gGjAUFVX3lxTFByaVNRbURVeTd4OU1PWmdWMll0a09zZ001VmdYaW4yUmR5U2NGWjh6STN3OEw1MklHQWxqVVhIN3VwN1ptR2ZiZ2tSaU5UcmtGeFVleVp4WWdKaEdRNTh3bjhad0VyTmtIWl8wZC1rTTRkOXY0Rk95dkZHUTNjVjZuVDk1ZVZaSjE1VjByaGYtUVlKOUo2LTJ2YXRmcTNOT1VOSTg?oc=5",
+      "data": "12/09 11:38"
     },
     {
-      "titulo": "Atlético x Fluminense tem reencontros dos dois lados - iG Esportes",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlo2blVqQUdOUHg1aURzNHRVUFBSaXFDQ3JUMEF2Tl9NLUxubktwb2o1eENTZmdhd0FYYVFScC15N09uTDduT3hEVlFGaXl4UHpwMzUtR2hCQlJtdk9WZHRNUHV0Umc1dlF2OGxucDg0QXNnR2FKc2FmMF9EZHp1MDNORzRxbm03cVp3cmtzUW1VaklnUGNNTENJNWtlM0dvQnk5OHJvTUdDRXZfbzVLdmtyTdIBuAFBVV95cUxQa3JUUmFzVFFUTFhpMzBhd1UtdmlGajdDRWNvdEVvNmF6c20xZXRnNF9EM2cwOGlBX3AyWWxjU2ZFOUJPamh0bXNQNWlzVHFvVmlUaWNyRFpJcEtiQVFLMUNTcDExZWZJODFObHFUQVdPVnlpUkdDWHMwRThQOHBJXzc2M083ODFtU0xic0xCZTNfay1vUmsybjVnajExbHZZMjlDRHo5YW9EM05xN3NfNWxDN0c1bnph?oc=5",
-      "data": "12/09 19:33"
-    },
-    {
-      "titulo": "Marcão conhece sua primeira derrota nesta nova passagem pelo Fluminense, mas saldo ainda é positivo - Terra",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONXROTUViM2lhTzN5N2FjMFdQcS1aOElZaXIyNURsempIT3BJMWZSSVBEaU13d0JNQ2d3TDJDUkRBa09GSG9rMWdtNHUtR1UzMEVQeTdpN3E3MmxTOXVDM29UamdsQXRNdjdwQmRPcjlIenpxTkx4NmhyOUdRVE9ITmpJaFZxN1dLRUY3aTZsTm5kMUhjSTlWQkpCU3NrdzhTZmluOWkyQnNZV3dnVHlxZG9QZE42bWM1Z1habHNjNGFnRjJFSkM5bmprWmFIZEpPTjRIWWtPTkZYTkdOQVZYck5CazBLM0lScVRFbjdnQlRuV2ppeWVBMU9jdklWUUpWcXE4dUlRSTJselVkV2xTREdGT28?oc=5",
-      "data": "13/09 11:06"
-    },
-    {
-      "titulo": "Fluminense fecha janela com dois reforços de peso, mas deixa lacuna - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdGVWRyS1NoUTZXV2pQZlNfWlBWakU5ZzhUdGhRbWVYS2ItRVV6Q0hVWEwyM0NjLVlRaEg2SDJfbUYxamo5MXppc1RqVExpTVphMDNlb0JHNlMtMXhTM3daYW5JOW04VVlTN2k0SDc2WXJ5MFp0a0xMZGtSTHNKT19idm9QRVB4WmQyMjNRUTg0cVVESExaSWZYUmhHc3hJRVVoUGQ5dDFfRWc?oc=5",
-      "data": "12/09 09:35"
+      "titulo": "Atlético-MG x Fluminense pelo Brasileirão: onde assistir ao vivo, horário e escalação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUFJ6ZlZ3clZoRUphZjU2TEd4U1hpaDBIT19lVzIzcXZEWTZGeFduYXRjR0ZlMnIzMU1VTTR0c0RXV25CcktWMC1INUZVQU5lX24yN3hlUWROdFVNOVQzNGVsdXRCWlVRX2w1akY1amhya291MldTU1ZPd2JXSFNIVDVPbEJvdWQwWWpWSnlJb010ZVhnZzN5M3ExaVhBbUFSQ2k0ZVVCX29lNGowLTRDUnkwV1ZpOTF3MlRIRWRjMWR6WGw4b3piS01JbnROZ1hSX0d4MlFUT0YwREpjb0pkc2hodFZXRW5YRkdNQnR0cDZZNkZvckJNV0tic1hxaUZX?oc=5",
+      "data": "12/09 18:12"
     },
     {
       "titulo": "Fluminense recebe o Botafogo pela última rodada da primeira fase do Carioca Feminino Sub-20 - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdm1FeXpSakFpeHZpSEtyU0dmM0oxMFBDVDFDaFN6bGo4d0lWTVFQLWhTaXV2eC1RaldYbFpjQV93dFozM0JfbXNsaEliZWthMXJNd1pKQWtTTW1odnU4WjZFcDloNVZUUnMzam9QQ2c0X1lBbV9SYlgxTmxUQTdWakdWcTBJSS1Jck5IZjhXWVhfVDFFUkJVcDJNZ1U5aHFuTHMzazRfUExUN2l5bU56bmRQX3VRMEVNRkdKbUQ0aWhibEROM0hyRg?oc=5",
       "data": "12/09 10:00"
+    },
+    {
+      "titulo": "Diniz vai ao velório de diretor do Fluminense antes de confronto contra o Flamengo - Portal ABC do ABC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RNWdVUWpRcnVETTh4cWxub05kY3M4TVRzckdxMzBBMnNjRm9aWENwTTV5dm40MU1ReGlXaDlObHZ4V1RZRTh2Yk5OeEQ0WEZmX1p2QUc2MTFMY3dzdEhwSmdVN3V1NkpVS2NCaV9rd0ozWkw5Y0Uxa21EYTRwLUU?oc=5",
+      "data": "13/09 18:10"
+    },
+    {
+      "titulo": "Ex-Fluminense, Richarlison descarta contrato longo com rival e negociação é encerrada - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkw3d1ZvSXhDYUkxd3RhZlhhMkRRaERPSTdQOFQtamlxOEsxZzJfNE1FZnJTMWp0WmR5dVFFYU83bHpPT3BMQ2l6T1lwVmk4TWtENktWMEF5QVZuOE55TWIxTHFRXy1tTWxuV2w5ZFREQmRYUVV0cnczVmx6Y0xWLUdRMzRqNVdYWVlqbTJ2djZzZlVXTDhIMG9PalhjYS12QVc2UHg3RTZKeklpd0hldw?oc=5",
+      "data": "11/09 19:24"
     }
   ],
   "avisos": []
