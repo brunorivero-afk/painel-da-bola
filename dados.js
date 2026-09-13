@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/09/2026 04:56",
+  "atualizado_em": "13/09/2026 10:07",
   "jogos": [
     {
       "sport": "futebol",
@@ -224,7 +224,8 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Saudita",
       "match": "Neom x Al-Fateh",
       "channels": [
-        "ONEFOOTBALL"
+        "ONEFOOTBALL",
+        "CANAL GOAT"
       ]
     },
     {
@@ -864,51 +865,51 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.9,
-      "temp_min": 20.0,
-      "chance_chuva": 94,
-      "condicao": "Garoa"
+      "temp_max": 21.7,
+      "temp_min": 19.7,
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.7,
-      "temp_min": 20.7,
-      "chance_chuva": 53,
+      "temp_min": 20.9,
+      "chance_chuva": 70,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.1,
-      "temp_min": 16.9,
+      "temp_max": 21.9,
+      "temp_min": 17.2,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.1,
-      "temp_min": 13.8,
+      "temp_max": 16.4,
+      "temp_min": 13.9,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Atlético-MG x Fluminense pelo Brasileirão: onde assistir ao vivo, horário e escalação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUFJ6ZlZ3clZoRUphZjU2TEd4U1hpaDBIT19lVzIzcXZEWTZGeFduYXRjR0ZlMnIzMU1VTTR0c0RXV25CcktWMC1INUZVQU5lX24yN3hlUWROdFVNOVQzNGVsdXRCWlVRX2w1akY1amhya291MldTU1ZPd2JXSFNIVDVPbEJvdWQwWWpWSnlJb010ZVhnZzN5M3ExaVhBbUFSQ2k0ZVVCX29lNGowLTRDUnkwV1ZpOTF3MlRIRWRjMWR6WGw4b3piS01JbnROZ1hSX0d4MlFUT0YwREpjb0pkc2hodFZXRW5YRkdNQnR0cDZZNkZvckJNV0tic1hxaUZX?oc=5",
-      "data": "12/09 18:12"
-    },
-    {
-      "titulo": "Morre Paulo Angioni, diretor do Fluminense, aos 80 anos - uol.com.br",
+      "titulo": "Morre Paulo Angioni, diretor do Fluminense, aos 80 anos - UOL",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUlhwclVmdldEWlQyeVU5Mko1TGJkal9lcS0tZV9XZHVvNnY5cUFfRnJJd2J3bk9oWjYweVFkc09sWmw2blVheFhJNk1qNTBSNlNBS2xzendZOEV0eXptbGhZNC1WRTQ1dXcwTzZmblZmWWtZZFdvMldZYnVFeE5BVFBSdGVfQXcyUlpiRUk1RVNwSmRCR0U4UzZSOHdaZVBKc21sNjZTOC1xM0p5YnBFZDZXSHRncC1wN3ZiVEwwMnpOUlZsWFE?oc=5",
       "data": "12/09 11:54"
     },
     {
-      "titulo": "Como MP comprovou irregularidades de Flamengo e Fluminense no Maracanã; consórcio dificultou ação - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMnVrVXFvSU8tNVo0YWROQWs3VV96NWp2dEJjMnI2VExnbGJkRFEzSTNDTmRvU0d3RjA1b2Q2clNTSUM0UzJSZmJ0WmRnYlZabXllam04cExZaFhaRnVCa1gxWENIT1ViSUdwUHVDVlFGeE8xYlB2LWF0N1NqeGsxaXpDdkxKbDFJejJjRU1Cc1NNTFU5dzR3MG11NUJMaVBsNmE0ZjBuaFNTTFFNVjFURVpNSWNwTFRDYTlTODBPaU56dDNVcUVtWnA3T0JMT1NVaTNpN1VzOExiOHg3ZXByUVBOQ3dZR3p1aVM4RkluWE1QWDDSAYICQVVfeXFMTmN6ZXFDWHVRcGJJbHlxZGZiX1dlUGk4UTdnSnhwTmZ1RFQ0Y3ozLTB4d3JPYWtDalpPSHI4SWp5dUJuNUM2SHA5MFRJaGhDS0hWaFlRdG9SQ3VjVVBjNzU2UlFvZzF1Y1U2M2NpVVVsOGpLQ09hbnpVNXZRcHVLTkxsZ0Q3QzloVm5YNDFNS3lSd3FsdVpXWEpQa2w4MURiY2tEWXFtYlZKN2ZfN01CZ1V6MVJhc0VXZU9NZDg5dHZ6WFZSNTFKSVl3NXg3SVowTTBDcFUwQ1pmR0RNYlBqQU1YY3VyX0JiSVBUOU1ETkVhUUxUN20tRnJRdlFhNF9IbXZR?oc=5",
-      "data": "12/09 04:00"
+      "titulo": "Marcão conhece sua primeira derrota nesta nova passagem pelo Fluminense, mas saldo ainda é positivo - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxONXROTUViM2lhTzN5N2FjMFdQcS1aOElZaXIyNURsempIT3BJMWZSSVBEaU13d0JNQ2d3TDJDUkRBa09GSG9rMWdtNHUtR1UzMEVQeTdpN3E3MmxTOXVDM29UamdsQXRNdjdwQmRPcjlIenpxTkx4NmhyOUdRVE9ITmpJaFZxN1dLRUY3aTZsTm5kMUhjSTlWQkpCU3NrdzhTZmluOWkyQnNZV3dnVHlxZG9QZE42bWM1Z1habHNjNGFnRjJFSkM5bmprWmFIZEpPTjRIWWtPTkZYTkdOQVZYck5CazBLM0lScVRFbjdnQlRuV2ppeWVBMU9jdklWUUpWcXE4dUlRSTJselVkV2xTREdGT28?oc=5",
+      "data": "13/09 11:06"
     },
     {
-      "titulo": "Fluminense fecha janela com dois reforços de peso, mas deixa lacuna - lance.com.br",
+      "titulo": "Atlético-MG deslancha no 2º tempo, domina e vence o Flu em Belo Horizonte - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGpMT2duaG55LU9UMEpFTjVZQzhqaDlCTU5fRi1UWjRZcmZtREh4NmljZXJ5cWZWSXFfMktMaFNlM0VqbTZqMmtVRXZESDhUeml4QXp0dVV4cDZlQlUta2ZRM2tEMWFGREIxNUlzZU9QVUN5WkJwY2xPQ3RIWWpsSHFrS0FNWnpsMXJtSnJLMkpxcS1nNjFEVmpQdWEzd2hodFpsalE0QmYteVJidTBPNU1fNkFlS3c2aVE?oc=5",
+      "data": "12/09 20:55"
+    },
+    {
+      "titulo": "Fluminense fecha janela com dois reforços de peso, mas deixa lacuna - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdGVWRyS1NoUTZXV2pQZlNfWlBWakU5ZzhUdGhRbWVYS2ItRVV6Q0hVWEwyM0NjLVlRaEg2SDJfbUYxamo5MXppc1RqVExpTVphMDNlb0JHNlMtMXhTM3daYW5JOW04VVlTN2k0SDc2WXJ5MFp0a0xMZGtSTHNKT19idm9QRVB4WmQyMjNRUTg0cVVESExaSWZYUmhHc3hJRVVoUGQ5dDFfRWc?oc=5",
       "data": "12/09 09:35"
     },
