@@ -1,6 +1,91 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/09/2026 14:31",
+  "atualizado_em": "14/09/2026 18:21",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "16:45",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x Estoril",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x St. Louis City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Deportivo Riestra x Lanus",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x São Bernardo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Goiás",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Bahia x Remo",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "21:30",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Vila Nova",
+      "channels": [
+        "XSPORTS",
+        "ESPN 4",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-09-14",
@@ -85,91 +170,6 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Português",
       "match": "Moreirense x Maritimo",
       "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "16:45",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x Estoril",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x St. Louis City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Deportivo Riestra x Lanus",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Liverpool Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x São Bernardo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Goiás",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Bahia x Remo",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Vila Nova",
-      "channels": [
-        "XSPORTS",
-        "ESPN 4",
-        "SPORTYNET",
         "DISNEY+"
       ]
     },
@@ -458,28 +458,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.2,
+      "temp_max": 22.8,
       "temp_min": 18.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.1,
+      "temp_max": 21.1,
       "temp_min": 19.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.5,
-      "temp_min": 15.2,
+      "temp_max": 16.7,
+      "temp_min": 14.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.6,
+      "temp_max": 17.4,
       "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -489,12 +489,12 @@ window.PAINEL_DATA = {
     {
       "titulo": "Mauro Cezar Pereira: Fluminense encara o maior intruso da Libertadores em 2026 - UOL",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXpJNTNSVHNZd0JIemtMa3E3eFVnT0dqM2M2WHEyc1plRGN5ai04c2N3MXBXS2FieFRwdmhEQnBGQllOc2xhNW9VY3VOemhnaGduem5nbHhwclRHQnZTLV9wZUF2UW9tMHVFRi1NeEFMSTFRRGcyZERWLURldDFCRUJpdzBKS1RsUUxnQ2JnYllhbG9zWDFVYTdCR0pUZFZMbjBqTVdaeGFYdEhJMnk4UTRFbUUyekM3MGM3dnI4cFZvcm82YjFQcTlIejJUZ0NWVWlOSThR?oc=5",
-      "data": "14/09 16:02"
+      "data": "14/09 19:59"
     },
     {
-      "titulo": "“Juntos pela vaga!”; Fluminense divulga bastidores de viagem para decisão na Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmN5RFB0c1JDVk5kcFJLczA3ZGNLSC00SEJ2SGlHOW5DRnQyd3R2MjBTbmRYbkM0RHg0VEUteW85c3pIMjlvaDVDUnB5S0xfSUFLREx6ZzlCX2g3R2l1VDZHRXhMck5VUkZXdkdzLUZUMHNkWjZsX1JnLVhnYVlSZ2VGQ0hFQk9NU0ZibEV4Q0U0eEJFMmtBZF80MGVIYUFFRHluTm0zcW9FYnhRcExYNVJR?oc=5",
-      "data": "14/09 13:30"
+      "titulo": "Árbitro de Platense x Fluminense esteve na Copa do Mundo e tem histórico recente com os dois times - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQkdTU1dGQU9fbmIwRVpSY0E2bUxmNGVUcEdzZ2oyRTIybUJ2eFRacVFvRGNCUTZmU3dsRnE4b3B4NlRQZkw1clZhN1VHamNHbmRCVXhUQXRRREVGZ2g5T215Z2FyYnY2UWZuLWFYU3VvdXBaMUxJQ2xLZkE0dTkwNzNnQXNHY0ZSNjRQT0xORFc3NWR0VmIwLXdsbm5QVmVSZFRla0MwU0VJanFtUzQyOVJ0SGZLb3F3Yi00X0hRVTBWRWFtdmw0c2RnQVM4V05lYU5IbkhR?oc=5",
+      "data": "14/09 18:08"
     },
     {
       "titulo": "Adversário do Fluminense, Platense surgiu em um Hipódromo e tem ligação com apostas em cavalos; entenda - ge",
@@ -502,14 +502,14 @@ window.PAINEL_DATA = {
       "data": "14/09 11:00"
     },
     {
-      "titulo": "Ryan disputa clássico visando classificação antecipada no Brasileirão Sub-17: 'Motivação a mais' - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakI3SUNJLWkxdTFNZWxhTVZEUnVHN05TcHBDZ05wWjllU3gyTHhwNUlFcmVFQmFBRVRXeXBrT2dRN3dEb2EzWUQ4WGZaQi11RVdEWDM3UnBac1pzV0xUWElMQXZrQWg5S1RkNHZmVmFVRnB5azV3RTRCNUpkSTlUOU9BdW9kc2x2YzQxX1NBRkI3TWgwd0NBT3YyVlVrTGZyQjJmSmZGWXlLRlJjTnRVMF9sNDVTUER6RHpfUW16Y1NUTVBlTnllaHBTMA?oc=5",
-      "data": "14/09 13:00"
-    },
-    {
       "titulo": "Marcão volta à Argentina no comando do Fluminense e vive cenário oposto ao das oitavas da Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOUo0UFZOMG1YUTBRQzh1eFNvSmRadnNkemd6WGN1dnpDUXVWdmwtaDNrTU1VVnlubjlJM3RTS3ZUeUN6eE5udWFnNXRMOS1uYkdkN1dFYk1CaFJmdlY0UEtMS1B5NE15ZGt6TDBnbHZXQ3dLbm91RjN6el9GeGVCaW5QNnNIWGhqb1FLTUFPYmR3ekQ0QTlDQ0lsdjRwbUdiU2VPbjA2X1labjA0LWtsVk5HTVQyZDFJUXNRX1NrMklaek44UXB6MUEzdTZpcGtnVGhPSDNfNTdPSWtEZUM0TWJsOUt3NXhsdXNCVTF4YVRaSWRnNk91RHZ1b3ZMaVlfakhR0gGSAkFVX3lxTE9fNUItTTNHZG8tUUxnX2xSV1h5NkdRcWdLTUN0VmU3RFFGS1BENGU5c05NZm8zX0s1TXhrRkhOcnNlY0lrZ3REMjU4VXBaeTJpZkVTU0hGV2xBNXExUnRqZm1KWGFSLTRhWkV2bWk4eDdNYkpKOHM5THFERnkyYnpUamV3U2ZhMVJVWlk0d29nb1VTcVVFdEtBSUJ1cmhfdnc2TTRDUGN3bG1na1RVbE5qVUlpcHdMSWtWMExEeVNvUExkTUJqaHU0X01YUkREYlhwaThqc2UxNUxzeW5sSDNSM1FEY3NzTy1kYUZYM2dnWHpaV1prQkhzNzVWSEF2b0ZlOWd2WVlXeVRXZnB4dVU3aHc?oc=5",
       "data": "14/09 07:00"
+    },
+    {
+      "titulo": "Morre Paulo Angioni, diretor de futebol do Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZqTUR5OEZVMlllay1takdrR1phLUc3SnVLd3IxTVFlQnFUZjRYbXVPdnpDSU5sTVRzZ3NZbTFuckoxUjhqWGpUVDd5aGNESTEzMk90RnNWemhoeHZDRkFydTMzMUNYcGhPQk9GN1hfT1ZGd1U5enNjTHByQUlXMUVOc1BVVTBnSUlYWVpqSFdTSmlUQkpaTnBmMFdhaXZh?oc=5",
+      "data": "12/09 12:10"
     }
   ],
   "avisos": []
