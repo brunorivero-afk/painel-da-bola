@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/09/2026 02:42",
+  "atualizado_em": "14/09/2026 08:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -96,6 +96,16 @@ window.PAINEL_DATA = {
       "match": "SC Braga x Estoril",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x St. Louis City II",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -448,58 +458,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.0,
+      "temp_max": 22.6,
       "temp_min": 18.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.4,
-      "temp_min": 19.8,
+      "temp_max": 22.3,
+      "temp_min": 19.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.0,
-      "temp_min": 15.4,
+      "temp_max": 18.4,
+      "temp_min": 15.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.6,
-      "temp_min": 13.8,
+      "temp_max": 18.5,
+      "temp_min": 13.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Morre Paulo Angioni, diretor de futebol do Fluminense e com mais de 40 anos de serviços no futebol - ge",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEVvWTFRS29PTUdRMmdkN1VLSjlTeDhGejRsUlZwSkJZMXpjRUREUzM4YU1XOXRQUjhRMC01aXJYaVdNYXFYa0RETzVEbkZkdWlqcHJFOVlDbzVNNWRDTHZnQnJaSXRuRWdTY2ZrdE9yRlRXb3FHbDRUY3A5Uko0bHFwbk5zSkFoa1ByTDN1OEdubnpB0gGjAUFVX3lxTFByaVNRbURVeTd4OU1PWmdWMll0a09zZ001VmdYaW4yUmR5U2NGWjh6STN3OEw1MklHQWxqVVhIN3VwN1ptR2ZiZ2tSaU5UcmtGeFVleVp4WWdKaEdRNTh3bjhad0VyTmtIWl8wZC1rTTRkOXY0Rk95dkZHUTNjVjZuVDk1ZVZaSjE1VjByaGYtUVlKOUo2LTJ2YXRmcTNOT1VOSTg?oc=5",
-      "data": "12/09 11:38"
+      "titulo": "Lideranças do Fluminense se emocionam em despedida de Paulo Angioni - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUTFjWnc4SE0yNlNiblJabmk0SDIybG5tMXhtQmdBVFZUU3l6WWRsZG9yNU8wR0tyOVZsYVJLdUF6RFBuMThVcEl1QU9KamZuSWViNnRsRmxBUXg0d3gwQk1sbnFtNjB4U0hiNExEZ1VaX201Tk1BaUFyY0E3TmlydG5oODZ1RGEzZlNWUk5wZVdJNWRERXBKQ1FBNzlkdEhfTFJfbjN1SlpFU2NHRm9OYXJNQ2FBTHNIQk5hTU53c2lHSmhLX2dKOWk2S1lWZ0VPVmlfdHRUbmVmZzhMaXNTSTJwaXlKNGh4cFNmUlJkRQ?oc=5",
+      "data": "13/09 21:50"
     },
     {
-      "titulo": "Fluminense fecha janela com dois reforços de peso, mas deixa lacuna - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEdGVWRyS1NoUTZXV2pQZlNfWlBWakU5ZzhUdGhRbWVYS2ItRVV6Q0hVWEwyM0NjLVlRaEg2SDJfbUYxamo5MXppc1RqVExpTVphMDNlb0JHNlMtMXhTM3daYW5JOW04VVlTN2k0SDc2WXJ5MFp0a0xMZGtSTHNKT19idm9QRVB4WmQyMjNRUTg0cVVESExaSWZYUmhHc3hJRVVoUGQ5dDFfRWc?oc=5",
-      "data": "12/09 09:35"
+      "titulo": "Marcão volta à Argentina no comando do Fluminense e vive cenário oposto ao das oitavas da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOUo0UFZOMG1YUTBRQzh1eFNvSmRadnNkemd6WGN1dnpDUXVWdmwtaDNrTU1VVnlubjlJM3RTS3ZUeUN6eE5udWFnNXRMOS1uYkdkN1dFYk1CaFJmdlY0UEtMS1B5NE15ZGt6TDBnbHZXQ3dLbm91RjN6el9GeGVCaW5QNnNIWGhqb1FLTUFPYmR3ekQ0QTlDQ0lsdjRwbUdiU2VPbjA2X1labjA0LWtsVk5HTVQyZDFJUXNRX1NrMklaek44UXB6MUEzdTZpcGtnVGhPSDNfNTdPSWtEZUM0TWJsOUt3NXhsdXNCVTF4YVRaSWRnNk91RHZ1b3ZMaVlfakhR0gGSAkFVX3lxTE9fNUItTTNHZG8tUUxnX2xSV1h5NkdRcWdLTUN0VmU3RFFGS1BENGU5c05NZm8zX0s1TXhrRkhOcnNlY0lrZ3REMjU4VXBaeTJpZkVTU0hGV2xBNXExUnRqZm1KWGFSLTRhWkV2bWk4eDdNYkpKOHM5THFERnkyYnpUamV3U2ZhMVJVWlk0d29nb1VTcVVFdEtBSUJ1cmhfdnc2TTRDUGN3bG1na1RVbE5qVUlpcHdMSWtWMExEeVNvUExkTUJqaHU0X01YUkREYlhwaThqc2UxNUxzeW5sSDNSM1FEY3NzTy1kYUZYM2dnWHpaV1prQkhzNzVWSEF2b0ZlOWd2WVlXeVRXZnB4dVU3aHc?oc=5",
+      "data": "14/09 07:00"
     },
     {
-      "titulo": "Atlético-MG x Fluminense pelo Brasileirão: onde assistir ao vivo, horário e escalação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUFJ6ZlZ3clZoRUphZjU2TEd4U1hpaDBIT19lVzIzcXZEWTZGeFduYXRjR0ZlMnIzMU1VTTR0c0RXV25CcktWMC1INUZVQU5lX24yN3hlUWROdFVNOVQzNGVsdXRCWlVRX2w1akY1amhya291MldTU1ZPd2JXSFNIVDVPbEJvdWQwWWpWSnlJb010ZVhnZzN5M3ExaVhBbUFSQ2k0ZVVCX29lNGowLTRDUnkwV1ZpOTF3MlRIRWRjMWR6WGw4b3piS01JbnROZ1hSX0d4MlFUT0YwREpjb0pkc2hodFZXRW5YRkdNQnR0cDZZNkZvckJNV0tic1hxaUZX?oc=5",
-      "data": "12/09 18:12"
+      "titulo": "Platense x Fluminense Palpite – Análise e notícias (15/09) - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnpYUTF0VFJqT2JlT0VvWmd0SDVQU0VMcUptbzdTLTloM0Rpdng5Nno2ZlR6UmNvcThZWWRoelQ4RUtkU2I4ZUxnT0hTcEhiUDJEemhaQXZPVUtJUVZzRXNvbV9fcWpySXNSZTlwUFhaS0ozZ1ExalBid0JvSUl0NWkydlA3RzJnb3FZa2NkV294dw?oc=5",
+      "data": "14/09 10:17"
+    },
+    {
+      "titulo": "Atlético-MG deslancha no 2º tempo, domina e vence o Flu em Belo Horizonte - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGpMT2duaG55LU9UMEpFTjVZQzhqaDlCTU5fRi1UWjRZcmZtREh4NmljZXJ5cWZWSXFfMktMaFNlM0VqbTZqMmtVRXZESDhUeml4QXp0dVV4cDZlQlUta2ZRM2tEMWFGREIxNUlzZU9QVUN5WkJwY2xPQ3RIWWpsSHFrS0FNWnpsMXJtSnJLMkpxcS1nNjFEVmpQdWEzd2hodFpsalE0QmYteVJidTBPNU1fNkFlS3c2aVE?oc=5",
+      "data": "12/09 20:55"
     },
     {
       "titulo": "Fluminense treinará no CT do Boca Juniors em Buenos Aires; Confira a programação semanal - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVll3YnVDUEZQSmJPRmI0ZTBfYUFfRFJqWFQtRmdrWDhMYkVnelhBQ0dpaDNDZGEweld3Z2Jhb0w3aUhHRHo4elBuSTFia1gtX3ZjU0hLSnBWMjJ0YnlvY194bGZVNHVLMktZNFNYWUIzcFRybE9LNUFGMGtYQkItTGhzT29RQnhsNEdUZGo2YUNuY0R6ekYzZmJ4U2l0OWNtUm1FRTVieklDS0hUZ0VyQkc5T1Y?oc=5",
       "data": "13/09 21:08"
-    },
-    {
-      "titulo": "Fluminense x Platense pela Libertadores; acompanhe AO VIVO - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYkJGUW40UHRxQXY0Z2ZKM0F1REFLdUdNUVIxRDM2bWxYQVpEOFhpdGd1eTQxTHVmSnFwcENxSW9mcE04NVdYWnZBODdZVTN5emdhRmVXMGdZVmY1LTFKMVA4bEVJWURkYmdybm52dDB1NE5QSUowMjVlUXhKdEo2WXB3eTlCS0xfQW02Vld6VU85Z0hvNV9mSW5MdEcyZ2owbGR6UU5qZ3VLQ2tNZjViLWMyVk5pcHF3S0VEckxVS20xNnR3bjJvTWphSzJqUk9ITnJ5OGlqcTJHS2ZVZ0RfcTJxbWl5cVQyeFZnX0Z0NA?oc=5",
-      "data": "09/09 02:23"
     }
   ],
   "avisos": []
