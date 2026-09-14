@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/09/2026 08:36",
+  "atualizado_em": "14/09/2026 14:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -458,58 +458,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.6,
-      "temp_min": 18.9,
+      "temp_max": 23.2,
+      "temp_min": 18.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.3,
-      "temp_min": 19.6,
+      "temp_max": 22.1,
+      "temp_min": 19.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.4,
-      "temp_min": 15.1,
+      "temp_max": 19.5,
+      "temp_min": 15.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.5,
-      "temp_min": 13.4,
+      "temp_max": 18.6,
+      "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Lideranças do Fluminense se emocionam em despedida de Paulo Angioni - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUTFjWnc4SE0yNlNiblJabmk0SDIybG5tMXhtQmdBVFZUU3l6WWRsZG9yNU8wR0tyOVZsYVJLdUF6RFBuMThVcEl1QU9KamZuSWViNnRsRmxBUXg0d3gwQk1sbnFtNjB4U0hiNExEZ1VaX201Tk1BaUFyY0E3TmlydG5oODZ1RGEzZlNWUk5wZVdJNWRERXBKQ1FBNzlkdEhfTFJfbjN1SlpFU2NHRm9OYXJNQ2FBTHNIQk5hTU53c2lHSmhLX2dKOWk2S1lWZ0VPVmlfdHRUbmVmZzhMaXNTSTJwaXlKNGh4cFNmUlJkRQ?oc=5",
-      "data": "13/09 21:50"
+      "titulo": "Mauro Cezar Pereira: Fluminense encara o maior intruso da Libertadores em 2026 - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXpJNTNSVHNZd0JIemtMa3E3eFVnT0dqM2M2WHEyc1plRGN5ai04c2N3MXBXS2FieFRwdmhEQnBGQllOc2xhNW9VY3VOemhnaGduem5nbHhwclRHQnZTLV9wZUF2UW9tMHVFRi1NeEFMSTFRRGcyZERWLURldDFCRUJpdzBKS1RsUUxnQ2JnYllhbG9zWDFVYTdCR0pUZFZMbjBqTVdaeGFYdEhJMnk4UTRFbUUyekM3MGM3dnI4cFZvcm82YjFQcTlIejJUZ0NWVWlOSThR?oc=5",
+      "data": "14/09 16:02"
+    },
+    {
+      "titulo": "“Juntos pela vaga!”; Fluminense divulga bastidores de viagem para decisão na Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmN5RFB0c1JDVk5kcFJLczA3ZGNLSC00SEJ2SGlHOW5DRnQyd3R2MjBTbmRYbkM0RHg0VEUteW85c3pIMjlvaDVDUnB5S0xfSUFLREx6ZzlCX2g3R2l1VDZHRXhMck5VUkZXdkdzLUZUMHNkWjZsX1JnLVhnYVlSZ2VGQ0hFQk9NU0ZibEV4Q0U0eEJFMmtBZF80MGVIYUFFRHluTm0zcW9FYnhRcExYNVJR?oc=5",
+      "data": "14/09 13:30"
+    },
+    {
+      "titulo": "Adversário do Fluminense, Platense surgiu em um Hipódromo e tem ligação com apostas em cavalos; entenda - ge",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUXl6MXRzU2R5WEVUMm5oMDJ1el9FVy14MGE0ZmdFWlVwRHphX3NjUlBBSW56Nm9qbGd0aTFGc0NWNlBuWVRCTGZoeTNNR3VsY251S0lwUUFLRXg4OE5KXzNtZHpWdXdVVUg2NWVVQlVOS0tTNFY1a1RQbW0zdDJVZklBZTNPaW1ZUGR2ZmR0U29XSHJzWWdRWVZMMzhaRmw4SXJuQ3M2SFhJQU52LWYwNVV0OC1Nb3NiX2FEWDliT1kxa3FVZEUzcGNJUjVSMWJFM3k4NkFJalNHQjJDMjd6RW9YT2tfMmJLdVdDaFhPcU9zY1VJRVNCVHdURmFQSlRuY3fSAZACQVVfeXFMUFhaNDRrdnpDNHJ2Sjh4cnpfNG9WbEQyaEppa0xXdndUSThTOGZVdWM1Y19WSTRIdTdSbVhtaW5XWDByRkhNZnFMd3RjeTJ6cVJrZHNRcVhEUmpXc1h0azZsU09qcE42N292NkZsYkZKeTNTeWZtaW5vcW1uV3NqbXR0SHNzS0dxQTZaSmZjLUFPX2xxQWpTalB4Z1gyZ3Z2UUhwcDM4dC1VdkwxdDlqN2Z5SWhJSlVBSm9lUjI3OEdQdDhrTkx2M1JDems2Z04taHAyZlJqU2xuSE1wald2S2pfRThObUN4empLRHVNTWtwbm5vWHF3S0NvaDQwdU52SFN3ZVRORDI0Q2VkTzB1NmE?oc=5",
+      "data": "14/09 11:00"
+    },
+    {
+      "titulo": "Ryan disputa clássico visando classificação antecipada no Brasileirão Sub-17: 'Motivação a mais' - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakI3SUNJLWkxdTFNZWxhTVZEUnVHN05TcHBDZ05wWjllU3gyTHhwNUlFcmVFQmFBRVRXeXBrT2dRN3dEb2EzWUQ4WGZaQi11RVdEWDM3UnBac1pzV0xUWElMQXZrQWg5S1RkNHZmVmFVRnB5azV3RTRCNUpkSTlUOU9BdW9kc2x2YzQxX1NBRkI3TWgwd0NBT3YyVlVrTGZyQjJmSmZGWXlLRlJjTnRVMF9sNDVTUER6RHpfUW16Y1NUTVBlTnllaHBTMA?oc=5",
+      "data": "14/09 13:00"
     },
     {
       "titulo": "Marcão volta à Argentina no comando do Fluminense e vive cenário oposto ao das oitavas da Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOUo0UFZOMG1YUTBRQzh1eFNvSmRadnNkemd6WGN1dnpDUXVWdmwtaDNrTU1VVnlubjlJM3RTS3ZUeUN6eE5udWFnNXRMOS1uYkdkN1dFYk1CaFJmdlY0UEtMS1B5NE15ZGt6TDBnbHZXQ3dLbm91RjN6el9GeGVCaW5QNnNIWGhqb1FLTUFPYmR3ekQ0QTlDQ0lsdjRwbUdiU2VPbjA2X1labjA0LWtsVk5HTVQyZDFJUXNRX1NrMklaek44UXB6MUEzdTZpcGtnVGhPSDNfNTdPSWtEZUM0TWJsOUt3NXhsdXNCVTF4YVRaSWRnNk91RHZ1b3ZMaVlfakhR0gGSAkFVX3lxTE9fNUItTTNHZG8tUUxnX2xSV1h5NkdRcWdLTUN0VmU3RFFGS1BENGU5c05NZm8zX0s1TXhrRkhOcnNlY0lrZ3REMjU4VXBaeTJpZkVTU0hGV2xBNXExUnRqZm1KWGFSLTRhWkV2bWk4eDdNYkpKOHM5THFERnkyYnpUamV3U2ZhMVJVWlk0d29nb1VTcVVFdEtBSUJ1cmhfdnc2TTRDUGN3bG1na1RVbE5qVUlpcHdMSWtWMExEeVNvUExkTUJqaHU0X01YUkREYlhwaThqc2UxNUxzeW5sSDNSM1FEY3NzTy1kYUZYM2dnWHpaV1prQkhzNzVWSEF2b0ZlOWd2WVlXeVRXZnB4dVU3aHc?oc=5",
       "data": "14/09 07:00"
-    },
-    {
-      "titulo": "Platense x Fluminense Palpite – Análise e notícias (15/09) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnpYUTF0VFJqT2JlT0VvWmd0SDVQU0VMcUptbzdTLTloM0Rpdng5Nno2ZlR6UmNvcThZWWRoelQ4RUtkU2I4ZUxnT0hTcEhiUDJEemhaQXZPVUtJUVZzRXNvbV9fcWpySXNSZTlwUFhaS0ozZ1ExalBid0JvSUl0NWkydlA3RzJnb3FZa2NkV294dw?oc=5",
-      "data": "14/09 10:17"
-    },
-    {
-      "titulo": "Atlético-MG deslancha no 2º tempo, domina e vence o Flu em Belo Horizonte - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGpMT2duaG55LU9UMEpFTjVZQzhqaDlCTU5fRi1UWjRZcmZtREh4NmljZXJ5cWZWSXFfMktMaFNlM0VqbTZqMmtVRXZESDhUeml4QXp0dVV4cDZlQlUta2ZRM2tEMWFGREIxNUlzZU9QVUN5WkJwY2xPQ3RIWWpsSHFrS0FNWnpsMXJtSnJLMkpxcS1nNjFEVmpQdWEzd2hodFpsalE0QmYteVJidTBPNU1fNkFlS3c2aVE?oc=5",
-      "data": "12/09 20:55"
-    },
-    {
-      "titulo": "Fluminense treinará no CT do Boca Juniors em Buenos Aires; Confira a programação semanal - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVll3YnVDUEZQSmJPRmI0ZTBfYUFfRFJqWFQtRmdrWDhMYkVnelhBQ0dpaDNDZGEweld3Z2Jhb0w3aUhHRHo4elBuSTFia1gtX3ZjU0hLSnBWMjJ0YnlvY194bGZVNHVLMktZNFNYWUIzcFRybE9LNUFGMGtYQkItTGhzT29RQnhsNEdUZGo2YUNuY0R6ekYzZmJ4U2l0OWNtUm1FRTVieklDS0hUZ0VyQkc5T1Y?oc=5",
-      "data": "13/09 21:08"
     }
   ],
   "avisos": []
