@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/09/2026 02:43",
+  "atualizado_em": "15/09/2026 07:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -462,48 +462,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.3,
-      "temp_min": 19.1,
+      "temp_max": 21.5,
+      "temp_min": 19.0,
       "chance_chuva": 84,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.1,
-      "temp_min": 18.2,
+      "temp_max": 22.4,
+      "temp_min": 18.6,
       "chance_chuva": 88,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.3,
-      "temp_min": 13.5,
+      "temp_max": 24.5,
+      "temp_min": 13.8,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.2,
-      "temp_min": 13.4,
+      "temp_min": 13.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Thiago Silva e Millán formam dupla de zaga promissora para defender vaga do Fluminense na semifinal da Libertadores - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZkY4V3A4WDhTa3ZEbUtHX3VTM1Zabnp4cUFlczhjWUZjaV9DaE82OVVvSmtNNTJMVjVRaC1jckZsSW1VTDViZGdSSHFlN3pibjdPcmtXY05pZVJEWFJqMmVRMTFPTFEzNGZMckRWdktVcDMzRjFOWlQxMXhERnp6SHN4RW0wQnFnbHczMDgzLThiWFF0Q3A4X213Q2Nab2NxQlZsRWJjUk8zSEM4a3BqOFlIRDB3MVNKOFpHWVoydm5pLWxmdnpmbkZoZ1NRUUY3Q1Jvcm5sYl96N0xpbURqNnhzTWZLb0hiQTB6NXZjN2FZOG1tb2dwTjFRSmVWX1poWEVVdHc1QnJ0bFNC0gGbAkFVX3lxTFAtb0JsSkdqRGJaRkJhQ2xyRGZ2UWlsTmIzXzk5VFZxOTRicEVLVmlZSGFhekpqa3ZIV1VoNUlObkhPTXpxTjg3YWgyY3JnNHNCd043S3BhMkpWSmlEYWpaZk1uU05NWEZIRXZkR3J1UHN0bnJZS05nMlpVTGwteXJwU1BfYks1amdHSFFxSUlBMEdHQlFWZjNUUkMwYUFiVUp5SlJwYkJjQ3RpT255VkxzZWJlUV95dklhbV9FbHhWWVVXeDN4bUpoS1dhb2NyOVJ3S1phdjlMc2Z2eGVRZzVCTjBJQ0p0X0FxREEwNXpRN3ZlV1pDT3ZKOVVTenBRcGZReGlkN2R6b2xmOEVtTDhXY3RHbjlzbm94NTg?oc=5",
-      "data": "15/09 05:00"
+      "titulo": "Serna, Canobbio, Martinelli, Savarino, Guga, Castillo, Otávio, Hércules, Arana e Nonato: os jogadores do Fluminense com maior distância percorrida no Brasileirão 2026 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOQkxDZGtwbjJWV21UbmJpNldkYW9yUVhLVVBfd1FlSXRrU2tGWlRURndMRzVBdVBuMXg4VGNEVFFXSDFjQ25JM1hjUE1Ed2UxRkM5QXc1WGZXeTZhYURnX1FWWnhkeDJTQTVoejlaWXozWkZ3U3FJS2JaUDh1STRuaFJheW1RRUpSLTFRb2xILUMzaEVoby1MVHRqVDcwZkgxWGF0a3RIemhmSkpPOE5UQ0RyZ25uRGVTTV9uTkwyTEV2S1ZSM1hNdlRZX2VFMERSaExKQkUtYmdzSnJkOXdxSjdNWGdKclhvU0phNUNvRVVWeG5vX091Z0dSV2F6THRwa25FSGp2T0ZhMFNFSG9UanJoYy14Vk4yQzVMM05idVprYnU3TGJmVll0ZnEzMGNxMXgwSkd5b1RoRVFWcnRIbkdNd25jZ0JfdmU0bFpvX1pVTGFnajlZbjAzX2o2UWJIMFFtdDNCRQ?oc=5",
+      "data": "15/09 09:13"
     },
     {
-      "titulo": "Platense (ARG) x Fluminense: onde assistir, escalações e arbitragem - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNkxoRHNBVE1uR29VVkxBRnVuNVJEejA4R3dMLVM0UFZqb1d2MTBxSDFJQ0lpUnN0Q3RPdlNtMU9waDVPcGcwbmJQMG5pN1drcm9BVzQ0bWJhbHdmTl9ScC1vNlp5c1ZIcWxVbXNTYnV2aGtBWTFTelhtY3FwNWVZUFdrYWpiMWhjb0RlNzIwMHFMTmk3c2Z2b2lXZFlWekoydXM5OVhjTVQtRnRVaXVyZUR6ckRLZXRBbEV6M3ZIY2hKZzF2b1JmLXFFdnZ2M0hZcmd1eGc0R09Ga3NnLUhRZmtZbnlBWXJzSkE?oc=5",
-      "data": "14/09 19:14"
+      "titulo": "Em vantagem, Fluminense visita o Platense por vaga na semi da Libertadores - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUEpvaDVOMzdsRUhxQVQxOVZZNjhVeGRnRTdhWWhLbllQeFRDRXhlcmNFNVp3T0JzLVViTmRSYzBoSU5VM1luUTdIUjJwZ2UtUkpfaTJRZHBzMlIxd3pEcnBvOWpFYmFnczBENzRvR1pWOWt0X2NZbFJlTG53R2hWR0pJLTNtOUVZMVZfSS1oclgyUE1pNl9YbWxpZzRGU1RVQ05qWlE2V2FjMVlFUHZZdE9FdUpabGJVdHRGcjZobnI1YXlwSGVOcUxKRkxEWTNzMUpOZ2pfRTRsSjdQaTZoa1ZlTnJUMXJJaXZnV0NFUUxoN3VWQkRBdEdn?oc=5",
+      "data": "15/09 10:02"
     },
     {
-      "titulo": "Árbitro de Platense x Fluminense esteve na Copa do Mundo e tem histórico recente com os dois times - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQkdTU1dGQU9fbmIwRVpSY0E2bUxmNGVUcEdzZ2oyRTIybUJ2eFRacVFvRGNCUTZmU3dsRnE4b3B4NlRQZkw1clZhN1VHamNHbmRCVXhUQXRRREVGZ2g5T215Z2FyYnY2UWZuLWFYU3VvdXBaMUxJQ2xLZkE0dTkwNzNnQXNHY0ZSNjRQT0xORFc3NWR0VmIwLXdsbm5QVmVSZFRla0MwU0VJanFtUzQyOVJ0SGZLb3F3Yi00X0hRVTBWRWFtdmw0c2RnQVM4V05lYU5IbkhR?oc=5",
-      "data": "14/09 18:08"
+      "titulo": "Marcão brinca com pitacos de Thiago Silva no Fluminense: \"Se exagerar, eu falo: 'juvenil, segura'\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFJSNUM2SHZWdG9YMFBLV3JiSE9ib09jTDRwczNoT3Z5c2dJR1p5REQ1TFFnbHlvbTJBemxnM3pfMF9jQzYxU3JjTW10RkdmcmRqX2tpUUF1Tl9LRWdkOXBpclZXWFhkNy1GLTd1Tlg5b0stTzA5Tmo1LXNBSnc2U09GVkl2WFJ5N3RaVS1mNU5ZS0FPWXcwNVhWWHU2b01zeWxyY1lwWXdQaE8wOUh0bWJMcURleDNiaW1kUTlXTkRjUmxVSWlqUHAzczBmMVQyUkt3NVN5ZVFzX0htWFZndmltdlgxRDl1MTJyYUNSZW1IeTTSAYICQVVfeXFMTTRSX2xkY1hwSjJESkowUl9wVm5mUlJvZnZ6dmpMdWRLTzFrNVFYUmJNdzNieUJGWDd5ZTk5Ym1QaWtjNVdldVN2MGZGblJSd0pxVG9odHlQUkozQTVPZWs4WUdKdjdUdUJyQzZUUmh1UERHOWxyUUdKa1J2Q3M4QkNFRGE4bEw1VjZLbk5TVURRbnVreGFDSWtndWFoa2ZMeXNWQXlzVXlfYnNyQmkxeVZUSWxjdC1FbjNKS3BoZGR5T0t6N3dELWFQbGZoQnNMT0RBRGw3ZUpVV0xwckJMZ2tyR2FRU1k2bVJ1bzR2MDdjc2Q3VzBRWHo1ZkNqVFg5WFhR?oc=5",
+      "data": "14/09 23:01"
     },
     {
       "titulo": "Vôlei masculino do Fluminense disputa jogos-treino contra seleções da Bolívia e Chile - fluminense.com.br",
@@ -511,9 +511,9 @@ window.PAINEL_DATA = {
       "data": "14/09 17:33"
     },
     {
-      "titulo": "Morre Paulo Angioni, diretor de futebol do Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZqTUR5OEZVMlllay1takdrR1phLUc3SnVLd3IxTVFlQnFUZjRYbXVPdnpDSU5sTVRzZ3NZbTFuckoxUjhqWGpUVDd5aGNESTEzMk90RnNWemhoeHZDRkFydTMzMUNYcGhPQk9GN1hfT1ZGd1U5enNjTHByQUlXMUVOc1BVVTBnSUlYWVpqSFdTSmlUQkpaTnBmMFdhaXZh?oc=5",
-      "data": "12/09 12:10"
+      "titulo": "Mauro Cezar Pereira: Fluminense encara o maior intruso da Libertadores em 2026 - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXpJNTNSVHNZd0JIemtMa3E3eFVnT0dqM2M2WHEyc1plRGN5ai04c2N3MXBXS2FieFRwdmhEQnBGQllOc2xhNW9VY3VOemhnaGduem5nbHhwclRHQnZTLV9wZUF2UW9tMHVFRi1NeEFMSTFRRGcyZERWLURldDFCRUJpdzBKS1RsUUxnQ2JnYllhbG9zWDFVYTdCR0pUZFZMbjBqTVdaeGFYdEhJMnk4UTRFbUUyekM3MGM3dnI4cFZvcm82YjFQcTlIejJUZ0NWVWlOSThR?oc=5",
+      "data": "14/09 19:59"
     }
   ],
   "avisos": []
