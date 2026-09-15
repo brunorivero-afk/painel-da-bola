@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/09/2026 07:58",
+  "atualizado_em": "15/09/2026 12:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -462,28 +462,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.5,
-      "temp_min": 19.0,
-      "chance_chuva": 84,
-      "condicao": "Garoa fraca"
+      "temp_max": 21.6,
+      "temp_min": 19.1,
+      "chance_chuva": 92,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.4,
-      "temp_min": 18.6,
-      "chance_chuva": 88,
+      "temp_max": 22.8,
+      "temp_min": 18.7,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.5,
-      "temp_min": 13.8,
+      "temp_max": 24.2,
+      "temp_min": 14.4,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.2,
+      "temp_max": 20.1,
       "temp_min": 13.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -491,29 +491,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Serna, Canobbio, Martinelli, Savarino, Guga, Castillo, Otávio, Hércules, Arana e Nonato: os jogadores do Fluminense com maior distância percorrida no Brasileirão 2026 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOQkxDZGtwbjJWV21UbmJpNldkYW9yUVhLVVBfd1FlSXRrU2tGWlRURndMRzVBdVBuMXg4VGNEVFFXSDFjQ25JM1hjUE1Ed2UxRkM5QXc1WGZXeTZhYURnX1FWWnhkeDJTQTVoejlaWXozWkZ3U3FJS2JaUDh1STRuaFJheW1RRUpSLTFRb2xILUMzaEVoby1MVHRqVDcwZkgxWGF0a3RIemhmSkpPOE5UQ0RyZ25uRGVTTV9uTkwyTEV2S1ZSM1hNdlRZX2VFMERSaExKQkUtYmdzSnJkOXdxSjdNWGdKclhvU0phNUNvRVVWeG5vX091Z0dSV2F6THRwa25FSGp2T0ZhMFNFSG9UanJoYy14Vk4yQzVMM05idVprYnU3TGJmVll0ZnEzMGNxMXgwSkd5b1RoRVFWcnRIbkdNd25jZ0JfdmU0bFpvX1pVTGFnajlZbjAzX2o2UWJIMFFtdDNCRQ?oc=5",
-      "data": "15/09 09:13"
-    },
-    {
-      "titulo": "Em vantagem, Fluminense visita o Platense por vaga na semi da Libertadores - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUEpvaDVOMzdsRUhxQVQxOVZZNjhVeGRnRTdhWWhLbllQeFRDRXhlcmNFNVp3T0JzLVViTmRSYzBoSU5VM1luUTdIUjJwZ2UtUkpfaTJRZHBzMlIxd3pEcnBvOWpFYmFnczBENzRvR1pWOWt0X2NZbFJlTG53R2hWR0pJLTNtOUVZMVZfSS1oclgyUE1pNl9YbWxpZzRGU1RVQ05qWlE2V2FjMVlFUHZZdE9FdUpabGJVdHRGcjZobnI1YXlwSGVOcUxKRkxEWTNzMUpOZ2pfRTRsSjdQaTZoa1ZlTnJUMXJJaXZnV0NFUUxoN3VWQkRBdEdn?oc=5",
-      "data": "15/09 10:02"
-    },
-    {
       "titulo": "Marcão brinca com pitacos de Thiago Silva no Fluminense: \"Se exagerar, eu falo: 'juvenil, segura'\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFJSNUM2SHZWdG9YMFBLV3JiSE9ib09jTDRwczNoT3Z5c2dJR1p5REQ1TFFnbHlvbTJBemxnM3pfMF9jQzYxU3JjTW10RkdmcmRqX2tpUUF1Tl9LRWdkOXBpclZXWFhkNy1GLTd1Tlg5b0stTzA5Tmo1LXNBSnc2U09GVkl2WFJ5N3RaVS1mNU5ZS0FPWXcwNVhWWHU2b01zeWxyY1lwWXdQaE8wOUh0bWJMcURleDNiaW1kUTlXTkRjUmxVSWlqUHAzczBmMVQyUkt3NVN5ZVFzX0htWFZndmltdlgxRDl1MTJyYUNSZW1IeTTSAYICQVVfeXFMTTRSX2xkY1hwSjJESkowUl9wVm5mUlJvZnZ6dmpMdWRLTzFrNVFYUmJNdzNieUJGWDd5ZTk5Ym1QaWtjNVdldVN2MGZGblJSd0pxVG9odHlQUkozQTVPZWs4WUdKdjdUdUJyQzZUUmh1UERHOWxyUUdKa1J2Q3M4QkNFRGE4bEw1VjZLbk5TVURRbnVreGFDSWtndWFoa2ZMeXNWQXlzVXlfYnNyQmkxeVZUSWxjdC1FbjNKS3BoZGR5T0t6N3dELWFQbGZoQnNMT0RBRGw3ZUpVV0xwckJMZ2tyR2FRU1k2bVJ1bzR2MDdjc2Q3VzBRWHo1ZkNqVFg5WFhR?oc=5",
       "data": "14/09 23:01"
     },
     {
-      "titulo": "Vôlei masculino do Fluminense disputa jogos-treino contra seleções da Bolívia e Chile - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX2tpSG5Rb2RtRUd0N2ZUNFlab21IMVhhd3I5bEFucnkxdnVQd2xIODhPQTZUS2Z3M1VKMW1rSjRrc3ZVVTdOR3pTVnBFeG9QRGt5UmZVdTNIUU9GMGZVbTR1WWNkM1JGVzgtbzNRdFVzbjdOVXZBcXpza0NLb0FyRDdrQTZLMzhra0IzR0JyRDJJUVdTbnNYRXVkNTd1NnRnX2NmTmRUZ0VWMmowY1V4eHI4dHZPTlNKYmxFUmFfR3Y?oc=5",
-      "data": "14/09 17:33"
+      "titulo": "Fluminense bate Botafogo e carimba vaga nas quartas de final do Brasileirão Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVBOYjNLMjhCMTBOeGxBMVZTdUhNTDd4cVlfblo5ei1RRVllczRKNGV1dDNUU2o4VnVhNVhQYXBhV2V6MlpweWRKWTJlRjA3WnJnRUh2eW8weHc0OVlUM2QtVktwYTR1R0htRndoRE5Hcmpra3Q5RWdteV9mc1JDY2J2Mkx2X01WZGxzS19tWXNjeDFTSDFQMW1LVS1mT2prV0J4TmlfWnBqNEVQb0wzamw5U0VQYlNBS2U0dw?oc=5",
+      "data": "14/09 20:00"
     },
     {
-      "titulo": "Mauro Cezar Pereira: Fluminense encara o maior intruso da Libertadores em 2026 - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXpJNTNSVHNZd0JIemtMa3E3eFVnT0dqM2M2WHEyc1plRGN5ai04c2N3MXBXS2FieFRwdmhEQnBGQllOc2xhNW9VY3VOemhnaGduem5nbHhwclRHQnZTLV9wZUF2UW9tMHVFRi1NeEFMSTFRRGcyZERWLURldDFCRUJpdzBKS1RsUUxnQ2JnYllhbG9zWDFVYTdCR0pUZFZMbjBqTVdaeGFYdEhJMnk4UTRFbUUyekM3MGM3dnI4cFZvcm82YjFQcTlIejJUZ0NWVWlOSThR?oc=5",
-      "data": "14/09 19:59"
+      "titulo": "Serna, Canobbio, Martinelli, Savarino, Guga, Castillo, Otávio, Hércules, Arana e Nonato: os jogadores do Fluminense com maior distância percorrida no Brasileirão 2026 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOQkxDZGtwbjJWV21UbmJpNldkYW9yUVhLVVBfd1FlSXRrU2tGWlRURndMRzVBdVBuMXg4VGNEVFFXSDFjQ25JM1hjUE1Ed2UxRkM5QXc1WGZXeTZhYURnX1FWWnhkeDJTQTVoejlaWXozWkZ3U3FJS2JaUDh1STRuaFJheW1RRUpSLTFRb2xILUMzaEVoby1MVHRqVDcwZkgxWGF0a3RIemhmSkpPOE5UQ0RyZ25uRGVTTV9uTkwyTEV2S1ZSM1hNdlRZX2VFMERSaExKQkUtYmdzSnJkOXdxSjdNWGdKclhvU0phNUNvRVVWeG5vX091Z0dSV2F6THRwa25FSGp2T0ZhMFNFSG9UanJoYy14Vk4yQzVMM05idVprYnU3TGJmVll0ZnEzMGNxMXgwSkd5b1RoRVFWcnRIbkdNd25jZ0JfdmU0bFpvX1pVTGFnajlZbjAzX2o2UWJIMFFtdDNCRQ?oc=5",
+      "data": "15/09 09:13"
+    },
+    {
+      "titulo": "Além de Boca e River: veja como é um jogo de futebol raiz na casa do Platense, adversário do Fluminense na Libertadores - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZHJjSHZVNFFlREk2cVR3dlZtYzFPd3pKeHJXYWVVa1JXbGdMQmhoZ2xqdHNMYmtXa1ZsM083YVZ2bzRvZS13RjNYVXBrLUItNzhLUF9mbzBrb0hfcS02bndKaUdLNTZiSzRuLVJhUUtWZGp4UlNoVkpZRHZhV2dQelU0ZDRyTWNWMDRrV09ZcDRQSHpTR3BDZkprNU50OW5HcEl4TW4wb1JPb0Q0MHJaX3pLWnU0SUdCUmx5VjNUOTBOVkNHRDdDdnNNRXFqeVhMaHY2S0VWY3FsS1phR1lFOHpza1pJOWdEbU1qbWNNTDFqVTJBZkNXUDEzZ3JRNWRNd0lTRzV0QVNFZWVKX1ppQk1jVnRkMTBWQlQwYmo3clTSAa8CQVVfeXFMUFhpaDhYT2cyakZMZGZuZy1OdnFWM3VldmRIV2hfTlJqY29mMThma29pRS1NV1lfbWpYUzlkNTg5MUNxc3ZENXJZSWFFUkJqeFdWc2R1bDN0eTRjTEhPY3NBeWdaN210cWd1enpDVFNMSHBod1Frc1FxTWRsQVZMcG9sSklDaFZCWkdEZkp6N1hLMzNmR0N3aGs2X1lRSHpjQklkZlBWdlpuSGFBSEdKY20xZExMeFJNcWZNUGlMdk0zcG4yY045Slpickp6UW1MNkUteURoRXhBaGZIOFhjNWU5dlA1Sm5lc0JPWFlKM19GNl9CTjhiaXZCU0pxZWwtYjFYNFZIaDhTZWRiZm1MUzRkUkhKS1JiQjhsSEhTdXJnSTFNQTFWa3dNR2d5aUh3?oc=5",
+      "data": "15/09 06:00"
+    },
+    {
+      "titulo": "Fluminense anuncia volante estadunidense como reforço para o sub-20 - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOE90cDRwUS1zaXdIbnQwNkREbjVoZDZJaV9Fcy1UaE5ZRXpqZ1VGaU85M0hPaGVsT1haY2NmWkZuTU1wbzlhbUliMjR6RWpDV2RrNWVYQ3hBTVVUaE1uLV9kOFhsOUNhSm93MDA2dHBvWGdYUzRId28yM0hHVXJ5VlpwbnJJTEhFc0VBSU81ekZLakQ4Nzl0RHhtYTB2dU5NWGdObGR3OU94dGZSeTBpWU9aNjhFVmdoU3RLM3M4aXo4eEVCejFJNW9B0gHPAUFVX3lxTE9zOGJpNmt6Vzd2eHNrVmtQaU00eURDMUo3dG9oMkxMd3MwRXlmWldyeWNLZ0FJX0xwMkhvV0RXcTM1Z1VITVQxTUFTYjhYMkQ0YVRlUlhzcm9sSDVyd2F4ek9FSWdDV240X0pTZmVidFNucFBZem85bHFDUU9sNTdxMlZCdjJwblFqSDI2bEgzRXlkTzRCR29fRExCZnhQNXBnbkJZS3BFSXBMMHFxVE9yWTlBNzhaMFhKNUQwZVBRUjRkb0Qybi1xSnlYd0sxbw?oc=5",
+      "data": "15/09 00:50"
     }
   ],
   "avisos": []
