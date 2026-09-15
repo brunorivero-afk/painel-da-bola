@@ -1,36 +1,6 @@
 {
-  "atualizado_em": "15/09/2026 12:26",
+  "atualizado_em": "15/09/2026 16:28",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Jahn Regensburg x Fortuna Dusseldorf",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "MSV Duisburg x Havelse",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Rayo Vallecano x Espanyol",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-15",
@@ -138,6 +108,16 @@
       "sport": "futebol",
       "date": "2026-09-15",
       "time": "19:30",
+      "competition": "Copa Paulista",
+      "match": "Gremio Prudente x Linense",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "19:30",
       "competition": "Brasileirão Série B",
       "match": "Londrina x Ponte Preta",
       "channels": [
@@ -158,19 +138,9 @@
     {
       "sport": "futebol",
       "date": "2026-09-15",
-      "time": "19:30",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Linense",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
       "time": "20:00",
       "competition": "Caribbean Cup",
-      "match": "Violette AC x Club Sando",
+      "match": "Delfines Del Este x Defence Force",
       "channels": [
         "DISNEY+"
       ]
@@ -180,7 +150,7 @@
       "date": "2026-09-15",
       "time": "20:00",
       "competition": "Caribbean Cup",
-      "match": "Delfines Del Este x Defence Force",
+      "match": "Violette AC x Club Sando",
       "channels": [
         "DISNEY+"
       ]
@@ -220,6 +190,36 @@
         "TV BRASIL",
         "SPORTV",
         "NSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "MSV Duisburg x Havelse",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Jahn Regensburg x Fortuna Dusseldorf",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "14:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Rayo Vallecano x Espanyol",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -401,16 +401,6 @@
     {
       "sport": "volei",
       "date": "2026-09-15",
-      "time": "13:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Argentina x Venezuela",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-15",
       "time": "16:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Colômbia x Bolívia",
@@ -462,28 +452,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.6,
+      "temp_max": 21.7,
       "temp_min": 19.1,
       "chance_chuva": 92,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.8,
+      "temp_max": 22.7,
       "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.2,
+      "temp_max": 23.8,
       "temp_min": 14.4,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.1,
+      "temp_max": 18.3,
       "temp_min": 13.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -491,29 +481,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Marcão brinca com pitacos de Thiago Silva no Fluminense: \"Se exagerar, eu falo: 'juvenil, segura'\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFJSNUM2SHZWdG9YMFBLV3JiSE9ib09jTDRwczNoT3Z5c2dJR1p5REQ1TFFnbHlvbTJBemxnM3pfMF9jQzYxU3JjTW10RkdmcmRqX2tpUUF1Tl9LRWdkOXBpclZXWFhkNy1GLTd1Tlg5b0stTzA5Tmo1LXNBSnc2U09GVkl2WFJ5N3RaVS1mNU5ZS0FPWXcwNVhWWHU2b01zeWxyY1lwWXdQaE8wOUh0bWJMcURleDNiaW1kUTlXTkRjUmxVSWlqUHAzczBmMVQyUkt3NVN5ZVFzX0htWFZndmltdlgxRDl1MTJyYUNSZW1IeTTSAYICQVVfeXFMTTRSX2xkY1hwSjJESkowUl9wVm5mUlJvZnZ6dmpMdWRLTzFrNVFYUmJNdzNieUJGWDd5ZTk5Ym1QaWtjNVdldVN2MGZGblJSd0pxVG9odHlQUkozQTVPZWs4WUdKdjdUdUJyQzZUUmh1UERHOWxyUUdKa1J2Q3M4QkNFRGE4bEw1VjZLbk5TVURRbnVreGFDSWtndWFoa2ZMeXNWQXlzVXlfYnNyQmkxeVZUSWxjdC1FbjNKS3BoZGR5T0t6N3dELWFQbGZoQnNMT0RBRGw3ZUpVV0xwckJMZ2tyR2FRU1k2bVJ1bzR2MDdjc2Q3VzBRWHo1ZkNqVFg5WFhR?oc=5",
-      "data": "14/09 23:01"
-    },
-    {
-      "titulo": "Fluminense bate Botafogo e carimba vaga nas quartas de final do Brasileirão Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVBOYjNLMjhCMTBOeGxBMVZTdUhNTDd4cVlfblo5ei1RRVllczRKNGV1dDNUU2o4VnVhNVhQYXBhV2V6MlpweWRKWTJlRjA3WnJnRUh2eW8weHc0OVlUM2QtVktwYTR1R0htRndoRE5Hcmpra3Q5RWdteV9mc1JDY2J2Mkx2X01WZGxzS19tWXNjeDFTSDFQMW1LVS1mT2prV0J4TmlfWnBqNEVQb0wzamw5U0VQYlNBS2U0dw?oc=5",
-      "data": "14/09 20:00"
-    },
-    {
-      "titulo": "Serna, Canobbio, Martinelli, Savarino, Guga, Castillo, Otávio, Hércules, Arana e Nonato: os jogadores do Fluminense com maior distância percorrida no Brasileirão 2026 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOQkxDZGtwbjJWV21UbmJpNldkYW9yUVhLVVBfd1FlSXRrU2tGWlRURndMRzVBdVBuMXg4VGNEVFFXSDFjQ25JM1hjUE1Ed2UxRkM5QXc1WGZXeTZhYURnX1FWWnhkeDJTQTVoejlaWXozWkZ3U3FJS2JaUDh1STRuaFJheW1RRUpSLTFRb2xILUMzaEVoby1MVHRqVDcwZkgxWGF0a3RIemhmSkpPOE5UQ0RyZ25uRGVTTV9uTkwyTEV2S1ZSM1hNdlRZX2VFMERSaExKQkUtYmdzSnJkOXdxSjdNWGdKclhvU0phNUNvRVVWeG5vX091Z0dSV2F6THRwa25FSGp2T0ZhMFNFSG9UanJoYy14Vk4yQzVMM05idVprYnU3TGJmVll0ZnEzMGNxMXgwSkd5b1RoRVFWcnRIbkdNd25jZ0JfdmU0bFpvX1pVTGFnajlZbjAzX2o2UWJIMFFtdDNCRQ?oc=5",
-      "data": "15/09 09:13"
-    },
-    {
-      "titulo": "Além de Boca e River: veja como é um jogo de futebol raiz na casa do Platense, adversário do Fluminense na Libertadores - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZHJjSHZVNFFlREk2cVR3dlZtYzFPd3pKeHJXYWVVa1JXbGdMQmhoZ2xqdHNMYmtXa1ZsM083YVZ2bzRvZS13RjNYVXBrLUItNzhLUF9mbzBrb0hfcS02bndKaUdLNTZiSzRuLVJhUUtWZGp4UlNoVkpZRHZhV2dQelU0ZDRyTWNWMDRrV09ZcDRQSHpTR3BDZkprNU50OW5HcEl4TW4wb1JPb0Q0MHJaX3pLWnU0SUdCUmx5VjNUOTBOVkNHRDdDdnNNRXFqeVhMaHY2S0VWY3FsS1phR1lFOHpza1pJOWdEbU1qbWNNTDFqVTJBZkNXUDEzZ3JRNWRNd0lTRzV0QVNFZWVKX1ppQk1jVnRkMTBWQlQwYmo3clTSAa8CQVVfeXFMUFhpaDhYT2cyakZMZGZuZy1OdnFWM3VldmRIV2hfTlJqY29mMThma29pRS1NV1lfbWpYUzlkNTg5MUNxc3ZENXJZSWFFUkJqeFdWc2R1bDN0eTRjTEhPY3NBeWdaN210cWd1enpDVFNMSHBod1Frc1FxTWRsQVZMcG9sSklDaFZCWkdEZkp6N1hLMzNmR0N3aGs2X1lRSHpjQklkZlBWdlpuSGFBSEdKY20xZExMeFJNcWZNUGlMdk0zcG4yY045Slpickp6UW1MNkUteURoRXhBaGZIOFhjNWU5dlA1Sm5lc0JPWFlKM19GNl9CTjhiaXZCU0pxZWwtYjFYNFZIaDhTZWRiZm1MUzRkUkhKS1JiQjhsSEhTdXJnSTFNQTFWa3dNR2d5aUh3?oc=5",
+      "titulo": "Platense x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS21hRVhrcVBvZmpmWERVWU9jajlnZkptZGdVN25qSHZKUTl1dmZUc2p1YW5FTHFqc2FjczRtVGJqeHNsRkVUUXJVY1NNc25nOGxCUXRVZWlQMzNJME9XazJBeF9vN0ozeGRIc19fd2hOM0dtdmZRTlUwZ01sMWdjZVpRanJWNW1EYkhrWmQ1SlVzSG5XSTdfdlBqUC02MFFTMFVmaTl1YzZQVy0tNUdtV0tPanEwUFk0RF9zWC01M2l0NHJGZFFTdXJOeVdYbWtr0gHfAUFVX3lxTE42WmdWX281RVEtaV84ZVNlRzktaDVOU1RmN0lOaV93Z3hHbnd4R1Iyc2pZeHdkbTBER1ZJd1ZkT1RKNEp3RVRpMWxjU1dMQzBpaGgxS0JodnAzeTNKeEhXSE5zOElDdDNDa05WcmJGNW9ZV3ZpUFV0d2JYdU11WlJCaElkVEVOVGFEYlk0UnRBUnRHUXFLdU9sX1Fhc2xvOGlzNWhIOGJaeGUwd1BwTzYtMjEybWFfSVpGMFZ2X05XeHQyRDRSc0R6LUlyTkNjc1dXYzhZRk8tTzFESUZmUEU?oc=5",
       "data": "15/09 06:00"
     },
     {
-      "titulo": "Fluminense anuncia volante estadunidense como reforço para o sub-20 - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOE90cDRwUS1zaXdIbnQwNkREbjVoZDZJaV9Fcy1UaE5ZRXpqZ1VGaU85M0hPaGVsT1haY2NmWkZuTU1wbzlhbUliMjR6RWpDV2RrNWVYQ3hBTVVUaE1uLV9kOFhsOUNhSm93MDA2dHBvWGdYUzRId28yM0hHVXJ5VlpwbnJJTEhFc0VBSU81ekZLakQ4Nzl0RHhtYTB2dU5NWGdObGR3OU94dGZSeTBpWU9aNjhFVmdoU3RLM3M4aXo4eEVCejFJNW9B0gHPAUFVX3lxTE9zOGJpNmt6Vzd2eHNrVmtQaU00eURDMUo3dG9oMkxMd3MwRXlmWldyeWNLZ0FJX0xwMkhvV0RXcTM1Z1VITVQxTUFTYjhYMkQ0YVRlUlhzcm9sSDVyd2F4ek9FSWdDV240X0pTZmVidFNucFBZem85bHFDUU9sNTdxMlZCdjJwblFqSDI2bEgzRXlkTzRCR29fRExCZnhQNXBnbkJZS3BFSXBMMHFxVE9yWTlBNzhaMFhKNUQwZVBRUjRkb0Qybi1xSnlYd0sxbw?oc=5",
-      "data": "15/09 00:50"
+      "titulo": "Fluminense acerta contratação do atacante Murilo Dourado para time Sub-20 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGxNTTJZUngtT1pZRkw3Sm5LQlhCcTgxWkRnUjhtcFllTUxuZlphY211ZEw0N25kSHFLUEZvQjZNN2oxb3lNaGhFcXV6Q3hBTFlOS3JWUTVSQWVNdmhzcmNTSk1HbWotY3hQMENqMkZOeGJoZWJ1Q0hXRG5kdzE5SWFOVEF6Y3FkMmJOTVF0Y1BhVWhwQnJ2azNkeUU5SnNWcXkySmdjRHRzcnp5RGxKeA?oc=5",
+      "data": "15/09 17:30"
+    },
+    {
+      "titulo": "Rafael Reis: Argentina vira 'freguesa', e Brasil vence 84% dos mata-matas da Liberta - uol.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM290RWR3bm1Rc281dU5YeGhQVzRscVNld0Y0SG5vRkVkUHVfd28wMUxDbnFxR1Z3d2xHeUJoaDNFOTJTcWNSdktSaUxTU205RnpSU0J0TUM2LVR2NDBOLWJxQTEwYjFSQ205NXF0OHlEcHFLa01lOTlDY21HeUNuOTJVRnc3aUY4enpSWmVIQ2NfbVVOaEJJOVdmbDV1V0VhelNaaVh4WTQ1enB3UHhaSFdJSHlSQ2EySTNuZTFrU1AzN1FYa0JFMWNzRW1VWmhfNGMydWJ6M2w?oc=5",
+      "data": "15/09 12:30"
+    },
+    {
+      "titulo": "Fluminense fecha nova contratação; São Paulo pode fazer nova venda - jornalcruzeiro.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTJIX2loSXpkN1JCMm5McWhEbHZSZFNLbWh4WUVtcUgxeDNydkwyS192RkMwLUdUN2pJWmMyUDB5N3ItakN3V1YtYXd5aHZ4WnFKQnQ1SWR0SkRycUNDUW8yNlNBTnNnZjFSX3BlSDcyYXhSclNvSGtXMXFnOVBPX2JGblJUYmZJWkVEdUd0U1VPdlcxaTRSTUZROVp3LVByWmtQbElHU2d4My1zZVZwVA?oc=5",
+      "data": "15/09 15:42"
+    },
+    {
+      "titulo": "Lideranças do Fluminense se emocionam em despedida de Paulo Angioni - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUTFjWnc4SE0yNlNiblJabmk0SDIybG5tMXhtQmdBVFZUU3l6WWRsZG9yNU8wR0tyOVZsYVJLdUF6RFBuMThVcEl1QU9KamZuSWViNnRsRmxBUXg0d3gwQk1sbnFtNjB4U0hiNExEZ1VaX201Tk1BaUFyY0E3TmlydG5oODZ1RGEzZlNWUk5wZVdJNWRERXBKQ1FBNzlkdEhfTFJfbjN1SlpFU2NHRm9OYXJNQ2FBTHNIQk5hTU53c2lHSmhLX2dKOWk2S1lWZ0VPVmlfdHRUbmVmZzhMaXNTSTJwaXlKNGh4cFNmUlJkRQ?oc=5",
+      "data": "13/09 21:50"
     }
   ],
   "avisos": []
