@@ -1,46 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/09/2026 18:21",
+  "atualizado_em": "14/09/2026 21:11",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "16:45",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x Estoril",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "17:00",
-      "competition": "MLS Next Pro",
-      "match": "Portland Timbers II x St. Louis City II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Deportivo Riestra x Lanus",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-14",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Liverpool Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-14",
@@ -169,6 +129,46 @@ window.PAINEL_DATA = {
       "time": "16:15",
       "competition": "Campeonato Português",
       "match": "Moreirense x Maritimo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "16:45",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x Estoril",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "17:00",
+      "competition": "MLS Next Pro",
+      "match": "Portland Timbers II x St. Louis City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Deportivo Riestra x Lanus",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-14",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Liverpool Montevideo",
       "channels": [
         "DISNEY+"
       ]
@@ -487,14 +487,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Mauro Cezar Pereira: Fluminense encara o maior intruso da Libertadores em 2026 - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXpJNTNSVHNZd0JIemtMa3E3eFVnT0dqM2M2WHEyc1plRGN5ai04c2N3MXBXS2FieFRwdmhEQnBGQllOc2xhNW9VY3VOemhnaGduem5nbHhwclRHQnZTLV9wZUF2UW9tMHVFRi1NeEFMSTFRRGcyZERWLURldDFCRUJpdzBKS1RsUUxnQ2JnYllhbG9zWDFVYTdCR0pUZFZMbjBqTVdaeGFYdEhJMnk4UTRFbUUyekM3MGM3dnI4cFZvcm82YjFQcTlIejJUZ0NWVWlOSThR?oc=5",
-      "data": "14/09 19:59"
+      "titulo": "Marcão brinca com pitacos de Thiago Silva no Fluminense: \"Se exagerar, eu falo: 'juvenil, segura'\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFJSNUM2SHZWdG9YMFBLV3JiSE9ib09jTDRwczNoT3Z5c2dJR1p5REQ1TFFnbHlvbTJBemxnM3pfMF9jQzYxU3JjTW10RkdmcmRqX2tpUUF1Tl9LRWdkOXBpclZXWFhkNy1GLTd1Tlg5b0stTzA5Tmo1LXNBSnc2U09GVkl2WFJ5N3RaVS1mNU5ZS0FPWXcwNVhWWHU2b01zeWxyY1lwWXdQaE8wOUh0bWJMcURleDNiaW1kUTlXTkRjUmxVSWlqUHAzczBmMVQyUkt3NVN5ZVFzX0htWFZndmltdlgxRDl1MTJyYUNSZW1IeTTSAYICQVVfeXFMTTRSX2xkY1hwSjJESkowUl9wVm5mUlJvZnZ6dmpMdWRLTzFrNVFYUmJNdzNieUJGWDd5ZTk5Ym1QaWtjNVdldVN2MGZGblJSd0pxVG9odHlQUkozQTVPZWs4WUdKdjdUdUJyQzZUUmh1UERHOWxyUUdKa1J2Q3M4QkNFRGE4bEw1VjZLbk5TVURRbnVreGFDSWtndWFoa2ZMeXNWQXlzVXlfYnNyQmkxeVZUSWxjdC1FbjNKS3BoZGR5T0t6N3dELWFQbGZoQnNMT0RBRGw3ZUpVV0xwckJMZ2tyR2FRU1k2bVJ1bzR2MDdjc2Q3VzBRWHo1ZkNqVFg5WFhR?oc=5",
+      "data": "14/09 23:01"
     },
     {
-      "titulo": "Árbitro de Platense x Fluminense esteve na Copa do Mundo e tem histórico recente com os dois times - LANCE!",
+      "titulo": "Árbitro de Platense x Fluminense tem histórico com o Tricolor; veja - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQkdTU1dGQU9fbmIwRVpSY0E2bUxmNGVUcEdzZ2oyRTIybUJ2eFRacVFvRGNCUTZmU3dsRnE4b3B4NlRQZkw1clZhN1VHamNHbmRCVXhUQXRRREVGZ2g5T215Z2FyYnY2UWZuLWFYU3VvdXBaMUxJQ2xLZkE0dTkwNzNnQXNHY0ZSNjRQT0xORFc3NWR0VmIwLXdsbm5QVmVSZFRla0MwU0VJanFtUzQyOVJ0SGZLb3F3Yi00X0hRVTBWRWFtdmw0c2RnQVM4V05lYU5IbkhR?oc=5",
-      "data": "14/09 18:08"
+      "data": "14/09 21:04"
     },
     {
       "titulo": "Adversário do Fluminense, Platense surgiu em um Hipódromo e tem ligação com apostas em cavalos; entenda - ge",
@@ -502,14 +502,14 @@ window.PAINEL_DATA = {
       "data": "14/09 11:00"
     },
     {
-      "titulo": "Marcão volta à Argentina no comando do Fluminense e vive cenário oposto ao das oitavas da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOUo0UFZOMG1YUTBRQzh1eFNvSmRadnNkemd6WGN1dnpDUXVWdmwtaDNrTU1VVnlubjlJM3RTS3ZUeUN6eE5udWFnNXRMOS1uYkdkN1dFYk1CaFJmdlY0UEtMS1B5NE15ZGt6TDBnbHZXQ3dLbm91RjN6el9GeGVCaW5QNnNIWGhqb1FLTUFPYmR3ekQ0QTlDQ0lsdjRwbUdiU2VPbjA2X1labjA0LWtsVk5HTVQyZDFJUXNRX1NrMklaek44UXB6MUEzdTZpcGtnVGhPSDNfNTdPSWtEZUM0TWJsOUt3NXhsdXNCVTF4YVRaSWRnNk91RHZ1b3ZMaVlfakhR0gGSAkFVX3lxTE9fNUItTTNHZG8tUUxnX2xSV1h5NkdRcWdLTUN0VmU3RFFGS1BENGU5c05NZm8zX0s1TXhrRkhOcnNlY0lrZ3REMjU4VXBaeTJpZkVTU0hGV2xBNXExUnRqZm1KWGFSLTRhWkV2bWk4eDdNYkpKOHM5THFERnkyYnpUamV3U2ZhMVJVWlk0d29nb1VTcVVFdEtBSUJ1cmhfdnc2TTRDUGN3bG1na1RVbE5qVUlpcHdMSWtWMExEeVNvUExkTUJqaHU0X01YUkREYlhwaThqc2UxNUxzeW5sSDNSM1FEY3NzTy1kYUZYM2dnWHpaV1prQkhzNzVWSEF2b0ZlOWd2WVlXeVRXZnB4dVU3aHc?oc=5",
-      "data": "14/09 07:00"
+      "titulo": "Fluminense x Platense pela Libertadores; acompanhe AO VIVO - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYkJGUW40UHRxQXY0Z2ZKM0F1REFLdUdNUVIxRDM2bWxYQVpEOFhpdGd1eTQxTHVmSnFwcENxSW9mcE04NVdYWnZBODdZVTN5emdhRmVXMGdZVmY1LTFKMVA4bEVJWURkYmdybm52dDB1NE5QSUowMjVlUXhKdEo2WXB3eTlCS0xfQW02Vld6VU85Z0hvNV9mSW5MdEcyZ2owbGR6UU5qZ3VLQ2tNZjViLWMyVk5pcHF3S0VEckxVS20xNnR3bjJvTWphSzJqUk9ITnJ5OGlqcTJHS2ZVZ0RfcTJxbWl5cVQyeFZnX0Z0NA?oc=5",
+      "data": "09/09 02:23"
     },
     {
-      "titulo": "Morre Paulo Angioni, diretor de futebol do Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzZqTUR5OEZVMlllay1takdrR1phLUc3SnVLd3IxTVFlQnFUZjRYbXVPdnpDSU5sTVRzZ3NZbTFuckoxUjhqWGpUVDd5aGNESTEzMk90RnNWemhoeHZDRkFydTMzMUNYcGhPQk9GN1hfT1ZGd1U5enNjTHByQUlXMUVOc1BVVTBnSUlYWVpqSFdTSmlUQkpaTnBmMFdhaXZh?oc=5",
-      "data": "12/09 12:10"
+      "titulo": "Morre Paulo Angioni, diretor de futebol do Fluminense e com mais de 40 anos de serviços no futebol - ge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWEVvWTFRS29PTUdRMmdkN1VLSjlTeDhGejRsUlZwSkJZMXpjRUREUzM4YU1XOXRQUjhRMC01aXJYaVdNYXFYa0RETzVEbkZkdWlqcHJFOVlDbzVNNWRDTHZnQnJaSXRuRWdTY2ZrdE9yRlRXb3FHbDRUY3A5Uko0bHFwbk5zSkFoa1ByTDN1OEdubnpB0gGjAUFVX3lxTFByaVNRbURVeTd4OU1PWmdWMll0a09zZ001VmdYaW4yUmR5U2NGWjh6STN3OEw1MklHQWxqVVhIN3VwN1ptR2ZiZ2tSaU5UcmtGeFVleVp4WWdKaEdRNTh3bjhad0VyTmtIWl8wZC1rTTRkOXY0Rk95dkZHUTNjVjZuVDk1ZVZaSjE1VjByaGYtUVlKOUo2LTJ2YXRmcTNOT1VOSTg?oc=5",
+      "data": "12/09 11:38"
     }
   ],
   "avisos": []
