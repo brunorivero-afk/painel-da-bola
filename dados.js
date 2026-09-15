@@ -1,86 +1,14 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/09/2026 16:28",
+  "atualizado_em": "15/09/2026 19:40",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-09-15",
-      "time": "15:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Alavés x Valencia",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Vasco x Santa Fe",
       "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "Ajax x Willem II",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "15:30",
-      "competition": "Copa da liga Inglesa",
-      "match": "Peterborough x Barnsley",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "15:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "West Ham x Fulham",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Liverpool x Tottenham",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Reading x Brentford",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Ipswich x Arsenal",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Elche x Real Madrid",
-      "channels": [
-        "CAZÉTV"
+        "PARAMOUNT+"
       ]
     },
     {
@@ -92,16 +20,6 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Vasco x Santa Fe",
-      "channels": [
-        "PARAMOUNT+"
       ]
     },
     {
@@ -119,9 +37,10 @@ window.PAINEL_DATA = {
       "date": "2026-09-15",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Londrina x Ponte Preta",
+      "match": "Náutico x Operário-PR",
       "channels": [
-        "DISNEY+"
+        "SPORTV",
+        "PREMIERE 2"
       ]
     },
     {
@@ -129,10 +48,9 @@ window.PAINEL_DATA = {
       "date": "2026-09-15",
       "time": "19:30",
       "competition": "Brasileirão Série B",
-      "match": "Náutico x Operário-PR",
+      "match": "Londrina x Ponte Preta",
       "channels": [
-        "SPORTV",
-        "PREMIERE 2"
+        "DISNEY+"
       ]
     },
     {
@@ -172,18 +90,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-15",
       "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "São Paulo x Boca Juniors",
-      "channels": [
-        "SBT",
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-15",
-      "time": "21:30",
       "competition": "Brasileirão Feminino",
       "match": "Bahia (F) x Corinthians (F)",
       "channels": [
@@ -195,11 +101,13 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-15",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "MSV Duisburg x Havelse",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "São Paulo x Boca Juniors",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "SBT",
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -216,8 +124,100 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-15",
       "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "MSV Duisburg x Havelse",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "14:00",
       "competition": "Campeonato Espanhol",
       "match": "Rayo Vallecano x Espanyol",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "Ajax x Willem II",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "15:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Alavés x Valencia",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "15:30",
+      "competition": "Copa da liga Inglesa",
+      "match": "Peterborough x Barnsley",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "15:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "West Ham x Fulham",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Ipswich x Arsenal",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Reading x Brentford",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Liverpool x Tottenham",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-15",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Elche x Real Madrid",
       "channels": [
         "CAZÉTV"
       ]
@@ -401,16 +401,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-15",
-      "time": "16:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Colômbia x Bolívia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-15",
       "time": "19:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Chile",
@@ -486,19 +476,19 @@ window.PAINEL_DATA = {
       "data": "15/09 06:00"
     },
     {
-      "titulo": "Fluminense acerta contratação do atacante Murilo Dourado para time Sub-20 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGxNTTJZUngtT1pZRkw3Sm5LQlhCcTgxWkRnUjhtcFllTUxuZlphY211ZEw0N25kSHFLUEZvQjZNN2oxb3lNaGhFcXV6Q3hBTFlOS3JWUTVSQWVNdmhzcmNTSk1HbWotY3hQMENqMkZOeGJoZWJ1Q0hXRG5kdzE5SWFOVEF6Y3FkMmJOTVF0Y1BhVWhwQnJ2azNkeUU5SnNWcXkySmdjRHRzcnp5RGxKeA?oc=5",
-      "data": "15/09 17:30"
+      "titulo": "Marcão brinca com pitacos de Thiago Silva no Fluminense: \"Se exagerar, eu falo: 'juvenil, segura'\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFJSNUM2SHZWdG9YMFBLV3JiSE9ib09jTDRwczNoT3Z5c2dJR1p5REQ1TFFnbHlvbTJBemxnM3pfMF9jQzYxU3JjTW10RkdmcmRqX2tpUUF1Tl9LRWdkOXBpclZXWFhkNy1GLTd1Tlg5b0stTzA5Tmo1LXNBSnc2U09GVkl2WFJ5N3RaVS1mNU5ZS0FPWXcwNVhWWHU2b01zeWxyY1lwWXdQaE8wOUh0bWJMcURleDNiaW1kUTlXTkRjUmxVSWlqUHAzczBmMVQyUkt3NVN5ZVFzX0htWFZndmltdlgxRDl1MTJyYUNSZW1IeTTSAYICQVVfeXFMTTRSX2xkY1hwSjJESkowUl9wVm5mUlJvZnZ6dmpMdWRLTzFrNVFYUmJNdzNieUJGWDd5ZTk5Ym1QaWtjNVdldVN2MGZGblJSd0pxVG9odHlQUkozQTVPZWs4WUdKdjdUdUJyQzZUUmh1UERHOWxyUUdKa1J2Q3M4QkNFRGE4bEw1VjZLbk5TVURRbnVreGFDSWtndWFoa2ZMeXNWQXlzVXlfYnNyQmkxeVZUSWxjdC1FbjNKS3BoZGR5T0t6N3dELWFQbGZoQnNMT0RBRGw3ZUpVV0xwckJMZ2tyR2FRU1k2bVJ1bzR2MDdjc2Q3VzBRWHo1ZkNqVFg5WFhR?oc=5",
+      "data": "14/09 23:01"
     },
     {
-      "titulo": "Rafael Reis: Argentina vira 'freguesa', e Brasil vence 84% dos mata-matas da Liberta - uol.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM290RWR3bm1Rc281dU5YeGhQVzRscVNld0Y0SG5vRkVkUHVfd28wMUxDbnFxR1Z3d2xHeUJoaDNFOTJTcWNSdktSaUxTU205RnpSU0J0TUM2LVR2NDBOLWJxQTEwYjFSQ205NXF0OHlEcHFLa01lOTlDY21HeUNuOTJVRnc3aUY4enpSWmVIQ2NfbVVOaEJJOVdmbDV1V0VhelNaaVh4WTQ1enB3UHhaSFdJSHlSQ2EySTNuZTFrU1AzN1FYa0JFMWNzRW1VWmhfNGMydWJ6M2w?oc=5",
-      "data": "15/09 12:30"
+      "titulo": "Fluminense bate Botafogo e carimba vaga nas quartas de final do Brasileirão Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVBOYjNLMjhCMTBOeGxBMVZTdUhNTDd4cVlfblo5ei1RRVllczRKNGV1dDNUU2o4VnVhNVhQYXBhV2V6MlpweWRKWTJlRjA3WnJnRUh2eW8weHc0OVlUM2QtVktwYTR1R0htRndoRE5Hcmpra3Q5RWdteV9mc1JDY2J2Mkx2X01WZGxzS19tWXNjeDFTSDFQMW1LVS1mT2prV0J4TmlfWnBqNEVQb0wzamw5U0VQYlNBS2U0dw?oc=5",
+      "data": "14/09 20:00"
     },
     {
-      "titulo": "Fluminense fecha nova contratação; São Paulo pode fazer nova venda - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTJIX2loSXpkN1JCMm5McWhEbHZSZFNLbWh4WUVtcUgxeDNydkwyS192RkMwLUdUN2pJWmMyUDB5N3ItakN3V1YtYXd5aHZ4WnFKQnQ1SWR0SkRycUNDUW8yNlNBTnNnZjFSX3BlSDcyYXhSclNvSGtXMXFnOVBPX2JGblJUYmZJWkVEdUd0U1VPdlcxaTRSTUZROVp3LVByWmtQbElHU2d4My1zZVZwVA?oc=5",
-      "data": "15/09 15:42"
+      "titulo": "Fluminense anuncia volante estadunidense como reforço para o sub-20 - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOE90cDRwUS1zaXdIbnQwNkREbjVoZDZJaV9Fcy1UaE5ZRXpqZ1VGaU85M0hPaGVsT1haY2NmWkZuTU1wbzlhbUliMjR6RWpDV2RrNWVYQ3hBTVVUaE1uLV9kOFhsOUNhSm93MDA2dHBvWGdYUzRId28yM0hHVXJ5VlpwbnJJTEhFc0VBSU81ekZLakQ4Nzl0RHhtYTB2dU5NWGdObGR3OU94dGZSeTBpWU9aNjhFVmdoU3RLM3M4aXo4eEVCejFJNW9B0gHPAUFVX3lxTE9zOGJpNmt6Vzd2eHNrVmtQaU00eURDMUo3dG9oMkxMd3MwRXlmWldyeWNLZ0FJX0xwMkhvV0RXcTM1Z1VITVQxTUFTYjhYMkQ0YVRlUlhzcm9sSDVyd2F4ek9FSWdDV240X0pTZmVidFNucFBZem85bHFDUU9sNTdxMlZCdjJwblFqSDI2bEgzRXlkTzRCR29fRExCZnhQNXBnbkJZS3BFSXBMMHFxVE9yWTlBNzhaMFhKNUQwZVBRUjRkb0Qybi1xSnlYd0sxbw?oc=5",
+      "data": "15/09 00:50"
     },
     {
       "titulo": "Lideranças do Fluminense se emocionam em despedida de Paulo Angioni - Terra",
