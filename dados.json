@@ -1,88 +1,6 @@
 {
-  "atualizado_em": "16/09/2026 17:47",
+  "atualizado_em": "16/09/2026 20:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Manchester United x Brighton",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Coventry x Aston Villa",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Bayer Leverkusen x Celje",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "AC Milan x Benfica",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Olympiakos Piraeus x Jagiellonia",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Anderlecht x Lyon",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Hapoel Beer Sheva x Dinamo Zagreb",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Sunderland x AZ Alkmaar",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-16",
@@ -245,6 +163,88 @@
       "match": "Everton x Wolves",
       "channels": [
         "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Bayer Leverkusen x Celje",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "AC Milan x Benfica",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Olympiakos Piraeus x Jagiellonia",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Anderlecht x Lyon",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Hapoel Beer Sheva x Dinamo Zagreb",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Sunderland x AZ Alkmaar",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Coventry x Aston Villa",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "16:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Manchester United x Brighton",
+      "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -425,16 +425,6 @@
     {
       "sport": "volei",
       "date": "2026-09-16",
-      "time": "16:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Venezuela x Chile",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-16",
       "time": "19:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Bolívia",
@@ -485,19 +475,19 @@
       "data": "16/09 20:00"
     },
     {
-      "titulo": "Martinelli, do Fluminense, é convocado para a seleção brasileira no lugar de João Pedro - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOclF3aGtNRWFhcC1rMGt4VDFGRTJBRXR2S3JDdFBNS00zdV9xM08wV3p2MUhkYlhBWVp0NzY1XzkyWDFWazJUcE1ZT3dDODFtSVA1d1VUb2lzQlFZOHE5T0VVSlhFRkRBczd1M2lOdHk4Y3p1eFRRVkljZkNkdlZYbG9odTRxZllEVFhlbDFkTy1MR3Z1aHRHN3NjWmktYmtEVlFYVnFhelA5MDVEYzZMbXVDSUpmS0VTbmtHMGJ5eDZnTGlaY1N4MzRJZldnbkNaVlhPQlVRU0RyUHotSGVOaVRBLVR4V1JSRXhySl95a9IB_gFBVV95cUxPSS1HN3V4dEpPOWswNzcwTkZ0WnNJQU43SnhCa290VzZWLVZVVDNoTl9wczY2dzZ5SGVMN1REd1lTa05kVmVXTzdCbTVBRDVFb0tPZXJONVExcF9GcThGOFZiRHR5QS1aaXItMkkwcVpYRmZ4bWtSeGp4bHhLYUhWSHlnbGY3Z20zdEZNQ3VqYlF0VF9iTVVyRnRMRW5HbFhaTVI0ejcyRklFVVJWdnhweWVHQ3RTUFZyck92Tl9LZXRsQ05zS25CUm9ZRUtaWG15RmFPSzVJMlViM25zcHY0MmVWUHNNWEhUOGtTekNaN3JiWnAwZDFlUXRQRndUQQ?oc=5",
-      "data": "16/09 16:24"
+      "titulo": "Bastidores: Martinelli descobriu convocação pelo telefone após volta de jogo do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ05WbHFyM21FcnBjSDBHM2dfcDJVWTlhcVRXN21RWTRvaTdXVkQ1SVdpQmQ1UUhnaU9CQkNjTzlMQ1VPeWQ0MktHUEhDYnU1eU1nVVhOUENrWWppckFsdWxSTXlZeU9rRUl5VEh6QWQ2OG1Qa0lIUW9DWUZ5YWtVQlV2bmJERTJQMm1uU09kVlBocmVqVUNtQjZxU3dHR3hMMUpLR0I1c2d0YUd1Z214Q0ttazV1NlczaDBpVjMxWl9QMVZTajFLRl9waFNFRVlvNzM5MnZxVmsyTHRlUndINkRld0pJb09xYkpJOHZUejJZQdIBgAJBVV95cUxPR0pRalA3ZnQ0d0dQWTVuNHN3c2VGdE9YR0FzWlNPcFU4T3A5Q2pfcm9OeXZGMjdLQkd5RDcxQV9Jb1lDaVRyYmhzQ2VMNkZ3bkVBMXhmTjVLUEFRdkcxdnVWcmZVQ3dMb3FlVHFFUnY5YjRZR2swUGZUX3NhYTItSVJSa2NGa1ducmZJbTZ1U2pLejlscnRqRjBhU3lkT2w4eDJTbzRJaUI3aVVHc04yZVdKZVhFOGNqcThvRlVNa3d6a3ZHX3RiT0R5X1lRc2VGOFJZRUhMUTJxbEpJRmhUUXFOUVhCVVJCVUVveDFEdnhXZ2lZQlhUT2ZDZVRxdHk4?oc=5",
+      "data": "16/09 20:16"
     },
     {
-      "titulo": "Martinelli é convocado para a Seleção Brasileira - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXBhN2RBcG5oUk1oS0dPR0U0NHZDRU1XQTZ3UVBTZDY1TmQ5cnBDR05zdnpqVkF6eXpPai1SWmx3VDhmTjhvSmw3OEVVT0lXNmdCZmpMc0lEOGFoOFFGSE9INEN0bE83d0lJY2tiazl4ZnFGWnhEOEROaU5QQnRFYVBIVlRsSEJsb2FhbGZ4bw?oc=5",
-      "data": "16/09 16:41"
+      "titulo": "Por que Juan Freytes deixou de ser titular no Fluminense? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWcxWndEeWQxd2Y1LW50MWVBbUNuZlhPOHBnUnJBODBLZmIzWVFna1pFazhfejFFRE8xNkYzUjVGUnNLVGNFTS02UkF1MktFSlBUdC1MUjdvTFI1SnZxbHhHaGF0Z0VyQ19LTjFsb1FvUVMwZzRqZUJZYnZrRy1zYmpUVDB3UmcyVGJTdEtmQTViS0tWeGlvRWJxazVlXzVnRkN6ZFNaVVlmb2JwZ3dKU1Zrck4ySXFYclZ1dHdvOFdmYzNrNUNhM0Vwa2FvUUstWTV6dXNpZlJxd3BTUGJyTjV1MA?oc=5",
+      "data": "16/09 12:39"
     },
     {
-      "titulo": "Martinelli, do Fluminense, é convocado para amistosos da Seleção Brasileira - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWE1JTk5LLXFKeDNPWG9scXZXdkViQ1dyUTNYWlY3RG9SQ1lYQVNKZ0ZSZVMtV1ZUOXdXX3I3OGl4RmtsYUsxb0V4ZzhUT09LeHdrTTcxOE1KYUdfWDB6ek1pd2c2Rm5kaG9vUWtCUGVuWUtqQ3lyN3ZtOFdhcUJzZXg4LURMdGh0Zm5GUmJZRThpRnBSbk1PRXd6c0VWeW5lbEQ5TzBSVFRCR1pqbl91eVNmbkRXSUR5M0g5eENfVHFrUkx0Q19sX1lkaDZ1NF83UEFxTFR3?oc=5",
-      "data": "16/09 16:44"
+      "titulo": "Fluminense acerta a contratação de ex-jogador do Palmeiras; Flamengo acerta a venda de atacante - jornalcruzeiro.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekJVVG0tOWdHSDVVc3hmOUpiWmxkcjlEb01qbkZFRnlSREc1STNOYVJXaUkzVTc4Z1h1algxLVE0T2w0UEoxck1IN2g2T2xDSmp2Q1YtQ05qT0VjQ21ydlpFX29KVUNZWFZQejFUVmQwZHljVzJONjNsMmZrR3k5RXdwRUgxOTFHcFJrWXFwa3hNRnhNa0xHdy01Nkt4bHVMajhndFdrZ0xORmtJQkE4UVZWVXZhamJjWVlkWHFLeGcwS0wzc2Q1R0xTVWY3Wk9NaEZBMXJWYw?oc=5",
+      "data": "15/09 21:55"
     }
   ],
   "avisos": []
