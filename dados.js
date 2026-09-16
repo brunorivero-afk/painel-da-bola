@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/09/2026 10:02",
+  "atualizado_em": "16/09/2026 14:54",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-16",
-      "time": "10:00",
-      "competition": "Copa do Mundo Sub-20 (F)",
-      "match": "Brasil Sub-20 (F) x EUA Sub-20 (F)",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-16",
@@ -260,6 +250,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "10:00",
+      "competition": "Copa do Mundo Sub-20 (F)",
+      "match": "Brasil Sub-20 (F) x EUA Sub-20 (F)",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-09-17",
       "time": "00:15",
       "competition": "CONCACAF Central American Cup",
@@ -485,29 +485,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Platense x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS21hRVhrcVBvZmpmWERVWU9jajlnZkptZGdVN25qSHZKUTl1dmZUc2p1YW5FTHFqc2FjczRtVGJqeHNsRkVUUXJVY1NNc25nOGxCUXRVZWlQMzNJME9XazJBeF9vN0ozeGRIc19fd2hOM0dtdmZRTlUwZ01sMWdjZVpRanJWNW1EYkhrWmQ1SlVzSG5XSTdfdlBqUC02MFFTMFVmaTl1YzZQVy0tNUdtV0tPanEwUFk0RF9zWC01M2l0NHJGZFFTdXJOeVdYbWtr0gHfAUFVX3lxTE42WmdWX281RVEtaV84ZVNlRzktaDVOU1RmN0lOaV93Z3hHbnd4R1Iyc2pZeHdkbTBER1ZJd1ZkT1RKNEp3RVRpMWxjU1dMQzBpaGgxS0JodnAzeTNKeEhXSE5zOElDdDNDa05WcmJGNW9ZV3ZpUFV0d2JYdU11WlJCaElkVEVOVGFEYlk0UnRBUnRHUXFLdU9sX1Fhc2xvOGlzNWhIOGJaeGUwd1BwTzYtMjEybWFfSVpGMFZ2X05XeHQyRDRSc0R6LUlyTkNjc1dXYzhZRk8tTzFESUZmUEU?oc=5",
-      "data": "15/09 06:00"
+      "titulo": "Análise: Fluminense supera atuação ruim diante do Platense, mas precisa melhorar para ser campeão da Libertadores - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbjJhNUljWEVGa2pZak8wdDNPd1JUMWNRd19ESC1SbzNrUDVvRDV0Wk5qNjI0SU51bElPNy1XM05VZThVRFZSbHFKSk1pRlM3cW12OEtQaFdseVBUUktocG1Ya0pkS05BNHJSTEtYRjdIN0l3WEgtcVdVU1p3Y01WZm9DLU1XdGFSTWJZX1U5SExoanhrRE5zcVNfbmo5cjBFaXFON2toUVNaY3dBZWFrYlF3VTRMV19mRFZLR0FiSHgyVnZLZGYxVmlfazN5cGZGcElaQzgzVm80TENnczNDcmNxZ1g2TXVOaFZnTDJseUJDbnRwMXRSNW50SktTSGlHOVJoU0M4T3ZuX1ZRQW8wd2owakd1Mi1s0gGnAkFVX3lxTFBQRFYtSEE4c09BNXBseXpkem5WNllkRlcxUjJSdjB3OU9fWVhXM2FBMFBLMHNHdGRSS0RuWEhuaWNoNEYtWkpPc2dzSVplNXR5M1huQ2g1OU15eW1DX29VNnJGd0ppOXF1enR5ZklUMVFyTlQ3aEJVcnZXeVZFb2NQVGlrenNPN0VTRlRKS1BHV2kyQjVKNm9JNkhYdEFtZWVCaGlBUDl5dlFETEVlTDJ5ampKRmxGb25hT3M4WllGaFlBWnAxYUZsVVlLTWtFYVl0ZWQxQ29IUUNYckdrZ00wOE1HcmlQaExLWFRKSXNOenYyOFBsNHNGNjlqQUt5dUJhUVNObFM1R2I1dExJcTVncG9sd1VHaVJPeG8tYktCb2JoRWRXVjQ?oc=5",
+      "data": "16/09 10:22"
     },
     {
-      "titulo": "Por que Juan Freytes deixou de ser titular no Fluminense? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWcxWndEeWQxd2Y1LW50MWVBbUNuZlhPOHBnUnJBODBLZmIzWVFna1pFazhfejFFRE8xNkYzUjVGUnNLVGNFTS02UkF1MktFSlBUdC1MUjdvTFI1SnZxbHhHaGF0Z0VyQ19LTjFsb1FvUVMwZzRqZUJZYnZrRy1zYmpUVDB3UmcyVGJTdEtmQTViS0tWeGlvRWJxazVlXzVnRkN6ZFNaVVlmb2JwZ3dKU1Zrck4ySXFYclZ1dHdvOFdmYzNrNUNhM0Vwa2FvUUstWTV6dXNpZlJxd3BTUGJyTjV1MA?oc=5",
-      "data": "16/09 12:39"
+      "titulo": "Fluminense e New Era lançam coleção para celebrar o NFL Rio Game - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWll6SXIyVGp3eXp6X1hEMjhZV0plYXh4Z3FzSzB2dmRfS3VuS3Q2WDJKdTUtbVZtSEItak5KR29veVAzTjN0bXhQZlA5bE1tajFfcURZcnpYbWZGTG44eUhMQVJNa2RsQm1lcGE2YVpnb0lkWkN1ME41T3RlRW5DeEtSeGcwNGpucFl0OGVxbG5qOUZoU3JhQUUzTUJRbVU5WDVlTw?oc=5",
+      "data": "16/09 16:50"
     },
     {
-      "titulo": "Técnico argentino se rende a Hulk: ‘É uma besta’ - No Ataque",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3luckQ3MVZ0S2h4NmRMaUEzeXRHa0JEUzRDN0pzUnJkV29fZnp3RUstM1oxVFJjLWpXTV92MW1Oek9WaHZKN3paRGZ6S056djl6TjdndUZfSnI0N2dSbVBKSjZMVFllUGlOaWlyU2VQblJzeUhHd2hFWWJocHFQUkRMWWJzZklBV3pRUVE2LTVKYXprQXpMWXp2TXgxVXNJODRXc2dvZUpaSTkzZWQwWWZ6SQ?oc=5",
-      "data": "16/09 02:09"
+      "titulo": "Canobbio dedica classificação do Fluminense a Paulo Angioni: “Jogamos por ele” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWNpZTVocEpnLWVTbGh4azJ3azhjZlUtTDFRRHV4eEhOSXo0a1JtTmFTaHdpNGNXUzdsV2ZaSmtWbWdfYTdRTWJmS0JQV3E3Umh0enR6R0xFV3RWVnE5MWZXRERxRnpsRkJqRng0eTZtN3ZqamRaZ3JOclJLR29wb0MtclEzbU1TWHU4R0d1d3ZLaTdFMTdTTU9RZTJ0czdfaldYbQ?oc=5",
+      "data": "16/09 13:30"
     },
     {
-      "titulo": "Fluminense bate Botafogo e carimba vaga nas quartas de final do Brasileirão Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVBOYjNLMjhCMTBOeGxBMVZTdUhNTDd4cVlfblo5ei1RRVllczRKNGV1dDNUU2o4VnVhNVhQYXBhV2V6MlpweWRKWTJlRjA3WnJnRUh2eW8weHc0OVlUM2QtVktwYTR1R0htRndoRE5Hcmpra3Q5RWdteV9mc1JDY2J2Mkx2X01WZGxzS19tWXNjeDFTSDFQMW1LVS1mT2prV0J4TmlfWnBqNEVQb0wzamw5U0VQYlNBS2U0dw?oc=5",
-      "data": "14/09 20:00"
+      "titulo": "Canobbio dedica classificação do Fluminense a Paulo Angioni: \"Jogamos por ele\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUlg3ZDh5Q2ltZEs4RVpQN2lBXzlScEI2Ymw5aktHeTREbHJYOEZ5ZDUteXpDYndIeWE5dGNxbXRjV056ZGFQQW1RV0lubndjUUFJOE1oQk1VMV9UZkJ1eEF6dzNhLVRmUFkwbUVvVUZKMTRsVDEzWWhlQkRUN3J1NWhtb0ZXWFd2ZmZBdVljOEd3anloSC1OZDViVlRFNk9mM0sxRWFYMlVoUFVoS2V3ODhoQ3l4T3JJS3Z1QTNDNDN4eHB5dS0xRS1aSVFaUjdQdlZEeklwaG1BSHZMcGcw0gHuAUFVX3lxTE9HZFg3aGdSMlBtRjRFaEh0RDJIZGVGaWtjNzU0dFVkTk5Jc3c3TFc4QnI2eHJGUVBheXVEN3hxQ0JpcHdScmtyS3plM0d1U3hxZXM0dkZMSWRmaFdfOV9vVDRzOXFIVmVSSElvUW9mbmtFd1RQTDJOUzNxdGVCVHU3YUh0TWVNRXdZeFdlUm9Id21CSDBSV21aLTF6aXAzbm0ybEE0SFhoMUIxeFJTeTdGUlEzbDI3bmZPbW1WNWRLREhjend5TVhTZFlhWmppX1pjY3pNQnZvWnBGWTFoVmVFczRfZkY4ZGFqR3VmaWc?oc=5",
+      "data": "16/09 01:40"
     },
     {
-      "titulo": "Fluminense contrata volante vindo do exterior - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzV0MmtOTy1nMDNranJXOXBUM1RGbUoxOVRzZW9RMFVPYWhyZTFZOTN0aGF4RzM1WUI5VkItYkdJUmFMVkFYVkg5YzktdmFmNkpMejdFZXMwc29IUHBCaVBTbnVPSTE2dHlTQklHZFdIRHBvTXNETVdDRl9jLWJwUUY1ZVNQUFRJcXd1MU96UkJCMkJmTkpac2hXVDRkTHcxRXNZU3h1ZmlWT3YtRHpoS3lRaDZBZ1VqTERrck9DVEozdjBvbUtfeHdEVUZrcmJEd2c?oc=5",
-      "data": "16/09 02:55"
+      "titulo": "Emocionados, Diniz e Cano se abraçam em velório de Paulo Angioni no Rio - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTlhueUZXUzlUVndYQ190YkFNZkNvRnhGZzFjSHV6OWxyd1FuaC1POTBCZmRlNDZWbkJseS1rbUlYOEZOVVdDS21qQVJTUl9BLUFjYm52S3BGV3FvcnQ1VE9aREpxeUpyOUVjM2tjN0cwTEhBRW41emJ0ZXFMaXhia0ZKZzVzRldJUVE3MDdtTHRHZml1WDQ4Rm80ZmdfU0d5LWRYM2ZGeVREaGJEaFZzSlBTb01kbHgweHNjTUk1QTFQNU92QlV4YWd4TkxLbTlqWm9lRWYzcmhkMnhmZzgtNzlGS19jMFc1T1M5Mzh3WWdYLW8?oc=5",
+      "data": "14/09 21:09"
     }
   ],
   "avisos": []
