@@ -1,6 +1,16 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/09/2026 04:07",
+  "atualizado_em": "16/09/2026 10:02",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-09-16",
+      "time": "10:00",
+      "competition": "Copa do Mundo Sub-20 (F)",
+      "match": "Brasil Sub-20 (F) x EUA Sub-20 (F)",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-09-16",
@@ -69,6 +79,7 @@ window.PAINEL_DATA = {
       "competition": "Copa da liga Inglesa",
       "match": "Everton x Wolves",
       "channels": [
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -77,7 +88,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-16",
       "time": "16:00",
       "competition": "UEFA Europa League",
-      "match": "Anderlecht x Lyon",
+      "match": "Olympiakos Piraeus x Jagiellonia",
       "channels": [
         "CAZÉTV"
       ]
@@ -107,7 +118,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-16",
       "time": "16:00",
       "competition": "UEFA Europa League",
-      "match": "Olympiakos Piraeus x Jagiellonia",
+      "match": "Anderlecht x Lyon",
       "channels": [
         "CAZÉTV"
       ]
@@ -447,56 +458,56 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 21.4,
       "temp_min": 19.0,
-      "chance_chuva": 96,
+      "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.9,
+      "temp_max": 22.3,
       "temp_min": 18.9,
-      "chance_chuva": 88,
+      "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.6,
-      "temp_min": 13.9,
+      "temp_max": 22.1,
+      "temp_min": 14.0,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.6,
+      "temp_max": 16.8,
       "temp_min": 12.5,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Flu perde para Platense, mas passa no agregado e vai à semi da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSV9EQ0dRZGFlTG8wTlZ2cnJuRUsxaEx1LUxyUXNlVDNyWGJTTnhvd3AzcVFXQk1TbUtOV2Qwb1VyRDdkVDVwVFNqcG95Qkh1d3BBX19yaTJSTFAxSEhxOWlnNkxlUmczQTI2S3AwWXJ3bmwwT0JtRHh0QjhPa2UzeUFGQm13RW1abVVCOWwtSDR5RlZhbVRrSkh3dS1naWFtSURGVmMtMVhndDRvR0E?oc=5",
-      "data": "15/09 23:54"
+      "titulo": "Platense x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS21hRVhrcVBvZmpmWERVWU9jajlnZkptZGdVN25qSHZKUTl1dmZUc2p1YW5FTHFqc2FjczRtVGJqeHNsRkVUUXJVY1NNc25nOGxCUXRVZWlQMzNJME9XazJBeF9vN0ozeGRIc19fd2hOM0dtdmZRTlUwZ01sMWdjZVpRanJWNW1EYkhrWmQ1SlVzSG5XSTdfdlBqUC02MFFTMFVmaTl1YzZQVy0tNUdtV0tPanEwUFk0RF9zWC01M2l0NHJGZFFTdXJOeVdYbWtr0gHfAUFVX3lxTE42WmdWX281RVEtaV84ZVNlRzktaDVOU1RmN0lOaV93Z3hHbnd4R1Iyc2pZeHdkbTBER1ZJd1ZkT1RKNEp3RVRpMWxjU1dMQzBpaGgxS0JodnAzeTNKeEhXSE5zOElDdDNDa05WcmJGNW9ZV3ZpUFV0d2JYdU11WlJCaElkVEVOVGFEYlk0UnRBUnRHUXFLdU9sX1Fhc2xvOGlzNWhIOGJaeGUwd1BwTzYtMjEybWFfSVpGMFZ2X05XeHQyRDRSc0R6LUlyTkNjc1dXYzhZRk8tTzFESUZmUEU?oc=5",
+      "data": "15/09 06:00"
     },
     {
-      "titulo": "Fluminense contrata volante vindo do exterior - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzV0MmtOTy1nMDNranJXOXBUM1RGbUoxOVRzZW9RMFVPYWhyZTFZOTN0aGF4RzM1WUI5VkItYkdJUmFMVkFYVkg5YzktdmFmNkpMejdFZXMwc29IUHBCaVBTbnVPSTE2dHlTQklHZFdIRHBvTXNETVdDRl9jLWJwUUY1ZVNQUFRJcXd1MU96UkJCMkJmTkpac2hXVDRkTHcxRXNZU3h1ZmlWT3YtRHpoS3lRaDZBZ1VqTERrck9DVEozdjBvbUtfeHdEVUZrcmJEd2c?oc=5",
-      "data": "16/09 02:55"
+      "titulo": "Por que Juan Freytes deixou de ser titular no Fluminense? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWcxWndEeWQxd2Y1LW50MWVBbUNuZlhPOHBnUnJBODBLZmIzWVFna1pFazhfejFFRE8xNkYzUjVGUnNLVGNFTS02UkF1MktFSlBUdC1MUjdvTFI1SnZxbHhHaGF0Z0VyQ19LTjFsb1FvUVMwZzRqZUJZYnZrRy1zYmpUVDB3UmcyVGJTdEtmQTViS0tWeGlvRWJxazVlXzVnRkN6ZFNaVVlmb2JwZ3dKU1Zrck4ySXFYclZ1dHdvOFdmYzNrNUNhM0Vwa2FvUUstWTV6dXNpZlJxd3BTUGJyTjV1MA?oc=5",
+      "data": "16/09 12:39"
     },
     {
-      "titulo": "Fluminense anuncia volante estadunidense como reforço para o sub-20 - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOE90cDRwUS1zaXdIbnQwNkREbjVoZDZJaV9Fcy1UaE5ZRXpqZ1VGaU85M0hPaGVsT1haY2NmWkZuTU1wbzlhbUliMjR6RWpDV2RrNWVYQ3hBTVVUaE1uLV9kOFhsOUNhSm93MDA2dHBvWGdYUzRId28yM0hHVXJ5VlpwbnJJTEhFc0VBSU81ekZLakQ4Nzl0RHhtYTB2dU5NWGdObGR3OU94dGZSeTBpWU9aNjhFVmdoU3RLM3M4aXo4eEVCejFJNW9B0gHPAUFVX3lxTE9zOGJpNmt6Vzd2eHNrVmtQaU00eURDMUo3dG9oMkxMd3MwRXlmWldyeWNLZ0FJX0xwMkhvV0RXcTM1Z1VITVQxTUFTYjhYMkQ0YVRlUlhzcm9sSDVyd2F4ek9FSWdDV240X0pTZmVidFNucFBZem85bHFDUU9sNTdxMlZCdjJwblFqSDI2bEgzRXlkTzRCR29fRExCZnhQNXBnbkJZS3BFSXBMMHFxVE9yWTlBNzhaMFhKNUQwZVBRUjRkb0Qybi1xSnlYd0sxbw?oc=5",
-      "data": "15/09 00:50"
-    },
-    {
-      "titulo": "Fluminense acerta a contratação de ex-jogador do Palmeiras; Flamengo acerta a venda de atacante - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekJVVG0tOWdHSDVVc3hmOUpiWmxkcjlEb01qbkZFRnlSREc1STNOYVJXaUkzVTc4Z1h1algxLVE0T2w0UEoxck1IN2g2T2xDSmp2Q1YtQ05qT0VjQ21ydlpFX29KVUNZWFZQejFUVmQwZHljVzJONjNsMmZrR3k5RXdwRUgxOTFHcFJrWXFwa3hNRnhNa0xHdy01Nkt4bHVMajhndFdrZ0xORmtJQkE4UVZWVXZhamJjWVlkWHFLeGcwS0wzc2Q1R0xTVWY3Wk9NaEZBMXJWYw?oc=5",
-      "data": "15/09 21:55"
+      "titulo": "Técnico argentino se rende a Hulk: ‘É uma besta’ - No Ataque",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3luckQ3MVZ0S2h4NmRMaUEzeXRHa0JEUzRDN0pzUnJkV29fZnp3RUstM1oxVFJjLWpXTV92MW1Oek9WaHZKN3paRGZ6S056djl6TjdndUZfSnI0N2dSbVBKSjZMVFllUGlOaWlyU2VQblJzeUhHd2hFWWJocHFQUkRMWWJzZklBV3pRUVE2LTVKYXprQXpMWXp2TXgxVXNJODRXc2dvZUpaSTkzZWQwWWZ6SQ?oc=5",
+      "data": "16/09 02:09"
     },
     {
       "titulo": "Fluminense bate Botafogo e carimba vaga nas quartas de final do Brasileirão Sub-17 - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVBOYjNLMjhCMTBOeGxBMVZTdUhNTDd4cVlfblo5ei1RRVllczRKNGV1dDNUU2o4VnVhNVhQYXBhV2V6MlpweWRKWTJlRjA3WnJnRUh2eW8weHc0OVlUM2QtVktwYTR1R0htRndoRE5Hcmpra3Q5RWdteV9mc1JDY2J2Mkx2X01WZGxzS19tWXNjeDFTSDFQMW1LVS1mT2prV0J4TmlfWnBqNEVQb0wzamw5U0VQYlNBS2U0dw?oc=5",
       "data": "14/09 20:00"
+    },
+    {
+      "titulo": "Fluminense contrata volante vindo do exterior - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzV0MmtOTy1nMDNranJXOXBUM1RGbUoxOVRzZW9RMFVPYWhyZTFZOTN0aGF4RzM1WUI5VkItYkdJUmFMVkFYVkg5YzktdmFmNkpMejdFZXMwc29IUHBCaVBTbnVPSTE2dHlTQklHZFdIRHBvTXNETVdDRl9jLWJwUUY1ZVNQUFRJcXd1MU96UkJCMkJmTkpac2hXVDRkTHcxRXNZU3h1ZmlWT3YtRHpoS3lRaDZBZ1VqTERrck9DVEozdjBvbUtfeHdEVUZrcmJEd2c?oc=5",
+      "data": "16/09 02:55"
     }
   ],
   "avisos": []
