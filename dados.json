@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/09/2026 06:07",
+  "atualizado_em": "17/09/2026 11:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -58,27 +58,17 @@
       "date": "2026-09-17",
       "time": "16:00",
       "competition": "UEFA Europa League",
-      "match": "Crystal Palace x Lech Poznan",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Celtic x Ferencvarosi TC",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
       "match": "Juventus x NEC Nijmegen",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Besiktas x Marseille",
       "channels": [
         "CAZÉTV"
       ]
@@ -98,7 +88,17 @@
       "date": "2026-09-17",
       "time": "16:00",
       "competition": "UEFA Europa League",
-      "match": "Besiktas x Marseille",
+      "match": "Celtic x Ferencvarosi TC",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Crystal Palace x Lech Poznan",
       "channels": [
         "CAZÉTV"
       ]
@@ -132,6 +132,16 @@
       "match": "Cibao x Portmore United",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "21:30",
+      "competition": "Copa Sul-Americana",
+      "match": "Atletico Torque x Cienciano",
+      "channels": [
+        "PARAMOUNT+"
       ]
     },
     {
@@ -458,22 +468,22 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.2,
-      "temp_min": 18.8,
-      "chance_chuva": 35,
+      "temp_max": 21.9,
+      "temp_min": 19.0,
+      "chance_chuva": 75,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.1,
-      "temp_min": 18.5,
-      "chance_chuva": 8,
+      "temp_max": 22.0,
+      "temp_min": 18.7,
+      "chance_chuva": 27,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.3,
-      "temp_min": 14.5,
+      "temp_max": 18.7,
+      "temp_min": 14.4,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
@@ -487,9 +497,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Análise: Fluminense flerta com eliminação e volta da Argentina com misto de alegria e alívio - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS09qQndLeWNhMmM4SVF4VU5YLVlTLWVmZGJnWTNkYTdYMlAydVJQWnBXbm5WWnZibXRyTWZKaHl4YTgyaWVSYjMtX0R4TG5QN19VLVF2TEZMcUtMQ00wcXNNbGY2eFNLa2xjVnkzdFJGV2ZCSVAtWG1XbXlwOVlBOTloelp5b0FMOVdpWHlYNGlDM25XN29pV0ZxNWZqbmREN3FWQVhvUm9VRk9LeTZIQkVlR0RMeDktYWJVZ0lTQjFteWUxdjl3MFlKRWxmVGRSMGxVR3RUZFNydDBWS1liOXR5RTY5bHprdnVPa05pOHZqLVht0gGDAkFVX3lxTE5LbjY1R2hvcV91Mlp5LUNNemNzNmJrcVVTbGt1cUM3RExYSEVvdkl0Y3RKZ0JZTktEaXkwWGUzZWExS3Z0aU9UdU9TaXJpLTgxeGotVjViZGRtc0NGVzB2a3dwTGQ0TmlQZkk4UkJFc29KcGFucV9hbDJUUFBnR2ItOE1mZWp2SGJCUmlZSEM4TWcySnhYNmQ3ZTk3anFZTkdBWWxYUzd6bmM4ZUMwUWJxcGZyNXJNN1RDcEpsblRGZHd6Yk52dE43QlU4UTJCdW5iZmVrcmM2MzRwb01OV1ZrcVVYTlJoc21NS2hfdmc5cmhHTW9yRkV0OG9FbjJhaW1VMGs?oc=5",
-      "data": "16/09 06:00"
+      "titulo": "Fluminense enfrentará o Palmeiras na semifinal da Conmebol Libertadores - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGI2VUpwRDc1VERQNjAxWUZXVFVRRmdPVFh6bXlJaUFhdXc1dW1SRVROdlF5V284NUhkdVZKV04xbnJTcWEySjhQQ1VzZXJHZTFWSGdVQ29aNGUzeWFyWHBHNm1zQUhFNjNoQ3ZOeFUwTXhpbm00d3FQV3NtRFhON3ZNMWhEYkh1T1J3cGczdDZfZTlQbTE4TUxwRXJJVFdXbVVrcVFxa2M?oc=5",
+      "data": "17/09 00:07"
+    },
+    {
+      "titulo": "Fluminense encerra jejum de dois anos com convocação de Martinelli - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWhkTHBycjNidWRHRld1VC1ZZkw4ejNISGZQU1ViMzBrcHI0eE9TSVY0TkZUbFdoVVpheU9oUXNSQzR2U29BbnMwMkc3dG5JZHJHb1V2UTNyalJwSmlXM3U2Z01nY3JwTXE0N1NrZXhwVzJpdTRmTUhJZUY4VHBLOFQ3SzBHN0h6Y0p5REVlYzdUVEVxVEp1U1gzeGxCSnhDQXFlTFBDWTZIOHc?oc=5",
+      "data": "17/09 12:30"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Corinthians x Fluminense - fluminense.com.br",
@@ -497,14 +512,9 @@
       "data": "16/09 20:00"
     },
     {
-      "titulo": "Por que Juan Freytes deixou de ser titular no Fluminense? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWcxWndEeWQxd2Y1LW50MWVBbUNuZlhPOHBnUnJBODBLZmIzWVFna1pFazhfejFFRE8xNkYzUjVGUnNLVGNFTS02UkF1MktFSlBUdC1MUjdvTFI1SnZxbHhHaGF0Z0VyQ19LTjFsb1FvUVMwZzRqZUJZYnZrRy1zYmpUVDB3UmcyVGJTdEtmQTViS0tWeGlvRWJxazVlXzVnRkN6ZFNaVVlmb2JwZ3dKU1Zrck4ySXFYclZ1dHdvOFdmYzNrNUNhM0Vwa2FvUUstWTV6dXNpZlJxd3BTUGJyTjV1MA?oc=5",
-      "data": "16/09 12:39"
-    },
-    {
-      "titulo": "Técnico argentino se rende a Hulk: ‘É uma besta’ - noataque.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3luckQ3MVZ0S2h4NmRMaUEzeXRHa0JEUzRDN0pzUnJkV29fZnp3RUstM1oxVFJjLWpXTV92MW1Oek9WaHZKN3paRGZ6S056djl6TjdndUZfSnI0N2dSbVBKSjZMVFllUGlOaWlyU2VQblJzeUhHd2hFWWJocHFQUkRMWWJzZklBV3pRUVE2LTVKYXprQXpMWXp2TXgxVXNJODRXc2dvZUpaSTkzZWQwWWZ6SQ?oc=5",
-      "data": "16/09 02:09"
+      "titulo": "Do Hyper ao Fluminense: Stiven Jimenez inicia novo capítulo - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YSWRjUEl4UWh0aEw4S3gyWGRkcVVidlBCUzVaR01aNFVhNk1wYl9yM3pEUW14RTMyUllGWXhkSXVpdGpEaTZHWEVEeW5rZXN5MHFDNXdOTlNqdkdFTl9KclhVQUpPMWZqdzRmUnBXQTR1d2w3UC05UFNOZGhDdw?oc=5",
+      "data": "16/09 19:45"
     },
     {
       "titulo": "Fluminense acerta a contratação de ex-jogador do Palmeiras; Flamengo acerta a venda de atacante - jornalcruzeiro.com.br",
