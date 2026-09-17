@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/09/2026 00:07",
+  "atualizado_em": "17/09/2026 06:07",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "00:15",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Alianza x CD Motagua",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-17",
@@ -161,6 +151,16 @@ window.PAINEL_DATA = {
       "time": "21:30",
       "competition": "CONCACAF Central American Cup",
       "match": "LD Alajuelense x CD Marathon",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "00:15",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Alianza x CD Motagua",
       "channels": [
         "DISNEY+"
       ]
@@ -366,10 +366,90 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Chile",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
+      "time": "16:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bolívia x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
       "time": "19:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Bolívia",
+      "match": "Brasil x Colômbia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
+      "time": "18:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Pinheiros x São Caetano",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
+      "time": "21:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Sesi-Bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
+      "time": "10:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Bolívia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
+      "time": "16:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Chile x Colômbia",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-17",
+      "time": "09:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Argentina",
       "channels": [
         "SporTV2"
       ]
@@ -378,42 +458,42 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.0,
-      "temp_min": 19.2,
+      "temp_max": 22.2,
+      "temp_min": 18.8,
       "chance_chuva": 35,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.3,
-      "temp_min": 19.5,
+      "temp_max": 22.1,
+      "temp_min": 18.5,
       "chance_chuva": 8,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.6,
-      "temp_min": 14.6,
+      "temp_max": 18.3,
+      "temp_min": 14.5,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.3,
-      "temp_min": 12.2,
+      "temp_max": 18.1,
+      "temp_min": 12.0,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Flu perde para Platense, mas passa no agregado e vai à semi da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSV9EQ0dRZGFlTG8wTlZ2cnJuRUsxaEx1LUxyUXNlVDNyWGJTTnhvd3AzcVFXQk1TbUtOV2Qwb1VyRDdkVDVwVFNqcG95Qkh1d3BBX19yaTJSTFAxSEhxOWlnNkxlUmczQTI2S3AwWXJ3bmwwT0JtRHh0QjhPa2UzeUFGQm13RW1abVVCOWwtSDR5RlZhbVRrSkh3dS1naWFtSURGVmMtMVhndDRvR0E?oc=5",
-      "data": "15/09 23:54"
+      "titulo": "Análise: Fluminense flerta com eliminação e volta da Argentina com misto de alegria e alívio - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS09qQndLeWNhMmM4SVF4VU5YLVlTLWVmZGJnWTNkYTdYMlAydVJQWnBXbm5WWnZibXRyTWZKaHl4YTgyaWVSYjMtX0R4TG5QN19VLVF2TEZMcUtMQ00wcXNNbGY2eFNLa2xjVnkzdFJGV2ZCSVAtWG1XbXlwOVlBOTloelp5b0FMOVdpWHlYNGlDM25XN29pV0ZxNWZqbmREN3FWQVhvUm9VRk9LeTZIQkVlR0RMeDktYWJVZ0lTQjFteWUxdjl3MFlKRWxmVGRSMGxVR3RUZFNydDBWS1liOXR5RTY5bHprdnVPa05pOHZqLVht0gGDAkFVX3lxTE5LbjY1R2hvcV91Mlp5LUNNemNzNmJrcVVTbGt1cUM3RExYSEVvdkl0Y3RKZ0JZTktEaXkwWGUzZWExS3Z0aU9UdU9TaXJpLTgxeGotVjViZGRtc0NGVzB2a3dwTGQ0TmlQZkk4UkJFc29KcGFucV9hbDJUUFBnR2ItOE1mZWp2SGJCUmlZSEM4TWcySnhYNmQ3ZTk3anFZTkdBWWxYUzd6bmM4ZUMwUWJxcGZyNXJNN1RDcEpsblRGZHd6Yk52dE43QlU4UTJCdW5iZmVrcmM2MzRwb01OV1ZrcVVYTlJoc21NS2hfdmc5cmhHTW9yRkV0OG9FbjJhaW1VMGs?oc=5",
+      "data": "16/09 06:00"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Corinthians x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnN2TzlYZzNzZEItUVc0cGcyNG1MVVFMckJxalM4V2p3UjFiTXcwMkM3dzMwRnRfU0JRZHBPYmJUdlZ4UEVrNmZyTVpGNlpYeGx4V2dHX3drQl9BTkt5d0NfRXJZR0RHQ0NlNjROQ21xclNDNTNWcEM1WGpaQ2xRSnBIZ1dUVlpCN1BFSDljeVFTRGd5ZHYxQ1U0MHMyNDlOazZRYUxqZkVpQXFKckE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3JHRllJbHJ0Uk9fUU1WQnJVNUNHZ0xxcjVXc0VPQl9CcHdhQ25QbEdUUF9yZFVtZWJ1dDgzaDZ2M0RWbEk2Y1l1OWtxQ3NDUUtIUXZiWU55S1MxTEJ1bkU1UE4xRElndTNTQndaOHRpWnV6ckxmaXp0MzgzY0w2ZDQ3UjQtanhtU0JVbGdDV2pidkVEVVExM1M2QXE0ZjlzM0RmU0NSVkk?oc=5",
       "data": "16/09 20:00"
     },
     {
@@ -422,17 +502,15 @@ window.PAINEL_DATA = {
       "data": "16/09 12:39"
     },
     {
+      "titulo": "Técnico argentino se rende a Hulk: ‘É uma besta’ - noataque.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3luckQ3MVZ0S2h4NmRMaUEzeXRHa0JEUzRDN0pzUnJkV29fZnp3RUstM1oxVFJjLWpXTV92MW1Oek9WaHZKN3paRGZ6S056djl6TjdndUZfSnI0N2dSbVBKSjZMVFllUGlOaWlyU2VQblJzeUhHd2hFWWJocHFQUkRMWWJzZklBV3pRUVE2LTVKYXprQXpMWXp2TXgxVXNJODRXc2dvZUpaSTkzZWQwWWZ6SQ?oc=5",
+      "data": "16/09 02:09"
+    },
+    {
       "titulo": "Fluminense acerta a contratação de ex-jogador do Palmeiras; Flamengo acerta a venda de atacante - jornalcruzeiro.com.br",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekJVVG0tOWdHSDVVc3hmOUpiWmxkcjlEb01qbkZFRnlSREc1STNOYVJXaUkzVTc4Z1h1algxLVE0T2w0UEoxck1IN2g2T2xDSmp2Q1YtQ05qT0VjQ21ydlpFX29KVUNZWFZQejFUVmQwZHljVzJONjNsMmZrR3k5RXdwRUgxOTFHcFJrWXFwa3hNRnhNa0xHdy01Nkt4bHVMajhndFdrZ0xORmtJQkE4UVZWVXZhamJjWVlkWHFLeGcwS0wzc2Q1R0xTVWY3Wk9NaEZBMXJWYw?oc=5",
       "data": "15/09 21:55"
-    },
-    {
-      "titulo": "Técnico argentino se rende a Hulk: ‘É uma besta’ - No Ataque",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3luckQ3MVZ0S2h4NmRMaUEzeXRHa0JEUzRDN0pzUnJkV29fZnp3RUstM1oxVFJjLWpXTV92MW1Oek9WaHZKN3paRGZ6S056djl6TjdndUZfSnI0N2dSbVBKSjZMVFllUGlOaWlyU2VQblJzeUhHd2hFWWJocHFQUkRMWWJzZklBV3pRUVE2LTVKYXprQXpMWXp2TXgxVXNJODRXc2dvZUpaSTkzZWQwWWZ6SQ?oc=5",
-      "data": "16/09 02:09"
     }
   ],
-  "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
-  ]
+  "avisos": []
 };
