@@ -1,97 +1,14 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/09/2026 15:45",
+  "atualizado_em": "17/09/2026 18:52",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-09-17",
-      "time": "14:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Betis x Getafe",
+      "time": "20:00",
+      "competition": "Caribbean Cup",
+      "match": "Cibao x Portmore United",
       "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "14:45",
-      "competition": "Campeonato Russo",
-      "match": "Makhachkala x CSKA Moscow",
-      "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "15:30",
-      "competition": "Copa da liga Inglesa",
-      "match": "Manchester City x Norwich",
-      "channels": [
-        "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Crystal Palace x Lech Poznan",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Celtic x Ferencvarosi TC",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Juventus x NEC Nijmegen",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Real Sociedad x Bournemouth",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Besiktas x Marseille",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "16:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Malaga x Villarreal",
-      "channels": [
-        "SPORTYNET",
-        "CAZÉTV"
       ]
     },
     {
@@ -100,16 +17,6 @@ window.PAINEL_DATA = {
       "time": "20:00",
       "competition": "Caribbean Cup",
       "match": "Mount Pleasant Academy x Cavalier",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-17",
-      "time": "20:00",
-      "competition": "Caribbean Cup",
-      "match": "Cibao x Portmore United",
       "channels": [
         "DISNEY+"
       ]
@@ -172,6 +79,99 @@ window.PAINEL_DATA = {
       "competition": "UEFA Europa League",
       "match": "Levski Sofia x Red Bull Salzburg",
       "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "14:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Betis x Getafe",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "14:45",
+      "competition": "Campeonato Russo",
+      "match": "Makhachkala x CSKA Moscow",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "15:30",
+      "competition": "Copa da liga Inglesa",
+      "match": "Manchester City x Norwich",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Celtic x Ferencvarosi TC",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Juventus x NEC Nijmegen",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Real Sociedad x Bournemouth",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Besiktas x Marseille",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Crystal Palace x Lech Poznan",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-17",
+      "time": "16:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Malaga x Villarreal",
+      "channels": [
+        "SPORTYNET",
         "CAZÉTV"
       ]
     },
@@ -377,16 +377,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-17",
-      "time": "13:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Argentina x Chile",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-17",
       "time": "16:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Bolívia x Venezuela",
@@ -502,9 +492,9 @@ window.PAINEL_DATA = {
       "data": "17/09 00:07"
     },
     {
-      "titulo": "\"Geração de Ouro\" da base do Fluminense chega a quatro convocados para a Seleção - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZTYzZUQ5Ti1HQ090S1g1cmVacGxjcE5lV3UwUTBJMy05bWQtYkY5N0F0cmJaX0ZaQmhld1pHMFVpVHhGR0k3YVZtanZReUxkZmxoYWk5N3BFdEM2UTJwZEdBUEtjVHJSSllnZF9FZDhiZEkzTjg2cFVNdWNwdk9TVmstODg4QlNwRHg4dHczWTYxUjVDeTFyVHY3OUY0Q29EUHhHRjFHRndPNFdZMUh0UU1Sdlh3cUhpVVV3cjlIMkVXZllVU3M5enNhUk1OaURFVkNSTlZzSTdCR0RuOGRWX2RSTdIB8gFBVV95cUxQaG1mUDc2OEptTXowOVZMdU5zZ2lkLUZoa3hiUkRDUkJDZnJpM09MeUdQSnprNTZuLXhXZTBiWVNObjhfQnBCOF9pRllsS3RkZ0pmdkpwNVVKcDFwaG9qMkVZSy1vR05SY20yUlVBYlZNUGNsNGM5RFFhRklKaWZLZmJFOUlIWV93c2wwU05iNjJJQXR0aUJoUmhNeDl5dXVuRmkwclR5NG52bnZ0aVBoYW1CeVRUT2dpRzRQMDlaX1ZIYS1EaDh0ZFdQWno1cEtULUdzei05NmFzcDR0dGFSTk9fY1B2TlFlQ0JCLXBYNzFoZw?oc=5",
-      "data": "17/09 12:00"
+      "titulo": "Lucho Acosta deve escapar de denúncia, mas Fluminense segue em alerta no STJD - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakRTRmRPOWFfNFRnRDZPOEhvNjh3QUNpZXQyRjdPdWtZWjc2bXV4OFJGc0pYbllacFpSVjFsMGYybVBoWXRHMkxvNEVsNW5Qcjh4NkoxOGZkT05xN3o1bjE1NldmX04tckpnY3VFOFRoYTVjd2JVSTBPZnpKV2FSNEl1eTcybF8zTmRtRGNGUDB6cFdES2FYeVI1OFdYdE9tS0ZGOW5IWEdNcXV3UHJPeFVvUGJ6bk1zZmhaR09fcUdBWDZGUTRPVkR2aHR4dm5UTjVLc245cmlBbXdHcGJocdIB7wFBVV95cUxPS25vX1lmTlZ4QTJxeW1FMnoxaFR0bTdsQk9MY3NBejdHTktnZHRzS3RtWHNxdTlCRE5ra2tKRWhBQmowMHpnbk5Na3VZOFg4ZndwRGlkb21zVUlhc1RULVBkRVVqZEhIMjJFdWhVc1NfRVdFSnFwX3VIMDZvWDZkVVh6ZGhha1VhMzMwTWtueGx5c0syakdLSkVEa3cyWlJXU29oOGZGNVNmNFRabVh2TkppSHNGNlpGWXZnQThKdnhGZ2JhTlloMGFVZExxWGo0Z2otVTF4OWVRdjdVSkdtUUlXM0RHQ1NtNEVOT0J5UQ?oc=5",
+      "data": "17/09 19:49"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Corinthians x Fluminense - fluminense.com.br",
@@ -512,14 +502,14 @@ window.PAINEL_DATA = {
       "data": "16/09 20:00"
     },
     {
-      "titulo": "Fluminense acerta a contratação de ex-jogador do Palmeiras; Flamengo acerta a venda de atacante - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekJVVG0tOWdHSDVVc3hmOUpiWmxkcjlEb01qbkZFRnlSREc1STNOYVJXaUkzVTc4Z1h1algxLVE0T2w0UEoxck1IN2g2T2xDSmp2Q1YtQ05qT0VjQ21ydlpFX29KVUNZWFZQejFUVmQwZHljVzJONjNsMmZrR3k5RXdwRUgxOTFHcFJrWXFwa3hNRnhNa0xHdy01Nkt4bHVMajhndFdrZ0xORmtJQkE4UVZWVXZhamJjWVlkWHFLeGcwS0wzc2Q1R0xTVWY3Wk9NaEZBMXJWYw?oc=5",
-      "data": "15/09 21:55"
+      "titulo": "\"Geração de Ouro\" da base do Fluminense chega a quatro convocados para a Seleção - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZTYzZUQ5Ti1HQ090S1g1cmVacGxjcE5lV3UwUTBJMy05bWQtYkY5N0F0cmJaX0ZaQmhld1pHMFVpVHhGR0k3YVZtanZReUxkZmxoYWk5N3BFdEM2UTJwZEdBUEtjVHJSSllnZF9FZDhiZEkzTjg2cFVNdWNwdk9TVmstODg4QlNwRHg4dHczWTYxUjVDeTFyVHY3OUY0Q29EUHhHRjFHRndPNFdZMUh0UU1Sdlh3cUhpVVV3cjlIMkVXZllVU3M5enNhUk1OaURFVkNSTlZzSTdCR0RuOGRWX2RSTdIB8gFBVV95cUxQaG1mUDc2OEptTXowOVZMdU5zZ2lkLUZoa3hiUkRDUkJDZnJpM09MeUdQSnprNTZuLXhXZTBiWVNObjhfQnBCOF9pRllsS3RkZ0pmdkpwNVVKcDFwaG9qMkVZSy1vR05SY20yUlVBYlZNUGNsNGM5RFFhRklKaWZLZmJFOUlIWV93c2wwU05iNjJJQXR0aUJoUmhNeDl5dXVuRmkwclR5NG52bnZ0aVBoYW1CeVRUT2dpRzRQMDlaX1ZIYS1EaDh0ZFdQWno1cEtULUdzei05NmFzcDR0dGFSTk9fY1B2TlFlQ0JCLXBYNzFoZw?oc=5",
+      "data": "17/09 12:00"
     },
     {
-      "titulo": "Fluminense contrata volante vindo do exterior - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzV0MmtOTy1nMDNranJXOXBUM1RGbUoxOVRzZW9RMFVPYWhyZTFZOTN0aGF4RzM1WUI5VkItYkdJUmFMVkFYVkg5YzktdmFmNkpMejdFZXMwc29IUHBCaVBTbnVPSTE2dHlTQklHZFdIRHBvTXNETVdDRl9jLWJwUUY1ZVNQUFRJcXd1MU96UkJCMkJmTkpac2hXVDRkTHcxRXNZU3h1ZmlWT3YtRHpoS3lRaDZBZ1VqTERrck9DVEozdjBvbUtfeHdEVUZrcmJEd2c?oc=5",
-      "data": "16/09 02:55"
+      "titulo": "Fluminense encerra jejum de dois anos com convocação de Martinelli - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWhkTHBycjNidWRHRld1VC1ZZkw4ejNISGZQU1ViMzBrcHI0eE9TSVY0TkZUbFdoVVpheU9oUXNSQzR2U29BbnMwMkc3dG5JZHJHb1V2UTNyalJwSmlXM3U2Z01nY3JwTXE0N1NrZXhwVzJpdTRmTUhJZUY4VHBLOFQ3SzBHN0h6Y0p5REVlYzdUVEVxVEp1U1gzeGxCSnhDQXFlTFBDWTZIOHc?oc=5",
+      "data": "17/09 12:30"
     }
   ],
   "avisos": []
