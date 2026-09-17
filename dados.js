@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/09/2026 18:52",
+  "atualizado_em": "17/09/2026 20:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -377,16 +377,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-17",
-      "time": "16:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bolívia x Venezuela",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-17",
       "time": "19:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasil x Colômbia",
@@ -467,7 +457,7 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 21.9,
       "temp_min": 18.7,
-      "chance_chuva": 27,
+      "chance_chuva": 61,
       "condicao": "Garoa fraca"
     },
     {
@@ -497,19 +487,19 @@ window.PAINEL_DATA = {
       "data": "17/09 19:49"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Corinthians x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnN2TzlYZzNzZEItUVc0cGcyNG1MVVFMckJxalM4V2p3UjFiTXcwMkM3dzMwRnRfU0JRZHBPYmJUdlZ4UEVrNmZyTVpGNlpYeGx4V2dHX3drQl9BTkt5d0NfRXJZR0RHQ0NlNjROQ21xclNDNTNWcEM1WGpaQ2xRSnBIZ1dUVlpCN1BFSDljeVFTRGd5ZHYxQ1U0MHMyNDlOazZRYUxqZkVpQXFKckE?oc=5",
-      "data": "16/09 20:00"
+      "titulo": "O FIM DO FUTEBOL BRASILEIRO - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hWnBDdHZGeDY1U3J1UF9xNlRsRnNNUXA1VGU4QS1PUHJIZEdjdEJkWDRVX3ZnaXFWeHNlaHlYN3ZMSnc2bmFyTG4yVVZmUXFaUWJzcFpLOUpvLWFkT0VFbTlYLXZJQXdEV3AzYVVpVUpCU2M?oc=5",
+      "data": "17/09 22:00"
+    },
+    {
+      "titulo": "Em nota conjunta com outros clubes, Fluminense demonstra preocupação sobre o futebol brasileiro - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdLTGFqR0cwZy04Q00yaEtPdlowWi1FV0JqaUo1NWl6R2oyVXpldy1OVFpPX2tTSFh4ckd1M0htYXlYTy1Ub3phWmxzc0xlcWNZeHdCQW5JTjJfdENJWW5aaW84MDZSM0JnU2Q2M3ZEQThTNDNZcW9jOTNHbmNwOTY1TUx2RFllTUVEUkhUaUlBYUk0OGRkTUVRdXdJNENseXJqWW4xM283aDEyR1JNbGhLeUZvcW1LU0FFd3B3?oc=5",
+      "data": "17/09 23:00"
     },
     {
       "titulo": "\"Geração de Ouro\" da base do Fluminense chega a quatro convocados para a Seleção - ge",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZTYzZUQ5Ti1HQ090S1g1cmVacGxjcE5lV3UwUTBJMy05bWQtYkY5N0F0cmJaX0ZaQmhld1pHMFVpVHhGR0k3YVZtanZReUxkZmxoYWk5N3BFdEM2UTJwZEdBUEtjVHJSSllnZF9FZDhiZEkzTjg2cFVNdWNwdk9TVmstODg4QlNwRHg4dHczWTYxUjVDeTFyVHY3OUY0Q29EUHhHRjFHRndPNFdZMUh0UU1Sdlh3cUhpVVV3cjlIMkVXZllVU3M5enNhUk1OaURFVkNSTlZzSTdCR0RuOGRWX2RSTdIB8gFBVV95cUxQaG1mUDc2OEptTXowOVZMdU5zZ2lkLUZoa3hiUkRDUkJDZnJpM09MeUdQSnprNTZuLXhXZTBiWVNObjhfQnBCOF9pRllsS3RkZ0pmdkpwNVVKcDFwaG9qMkVZSy1vR05SY20yUlVBYlZNUGNsNGM5RFFhRklKaWZLZmJFOUlIWV93c2wwU05iNjJJQXR0aUJoUmhNeDl5dXVuRmkwclR5NG52bnZ0aVBoYW1CeVRUT2dpRzRQMDlaX1ZIYS1EaDh0ZFdQWno1cEtULUdzei05NmFzcDR0dGFSTk9fY1B2TlFlQ0JCLXBYNzFoZw?oc=5",
       "data": "17/09 12:00"
-    },
-    {
-      "titulo": "Fluminense encerra jejum de dois anos com convocação de Martinelli - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWhkTHBycjNidWRHRld1VC1ZZkw4ejNISGZQU1ViMzBrcHI0eE9TSVY0TkZUbFdoVVpheU9oUXNSQzR2U29BbnMwMkc3dG5JZHJHb1V2UTNyalJwSmlXM3U2Z01nY3JwTXE0N1NrZXhwVzJpdTRmTUhJZUY4VHBLOFQ3SzBHN0h6Y0p5REVlYzdUVEVxVEp1U1gzeGxCSnhDQXFlTFBDWTZIOHc?oc=5",
-      "data": "17/09 12:30"
     }
   ],
   "avisos": []
