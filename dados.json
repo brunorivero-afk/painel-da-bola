@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "18/09/2026 04:55",
+  "atualizado_em": "18/09/2026 09:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -289,6 +289,17 @@
       "match": "Bologna x Torino",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "Werder Bremen x FC Augsburg",
+      "channels": [
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -979,6 +990,46 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-18",
+      "time": "18:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Pinheiros x Sesi-Bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-18",
+      "time": "13:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Argentina x Chile",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-18",
+      "time": "16:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Bolívia x Venezuela",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-18",
+      "time": "19:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brasil x Colômbia",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -986,14 +1037,14 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 23.5,
       "temp_min": 18.1,
-      "chance_chuva": 5,
+      "chance_chuva": 18,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.0,
       "temp_min": 18.3,
-      "chance_chuva": 75,
+      "chance_chuva": 90,
       "condicao": "Garoa fraca"
     },
     {
@@ -1013,9 +1064,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense enfrentará o Palmeiras na semifinal da Conmebol Libertadores - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGI2VUpwRDc1VERQNjAxWUZXVFVRRmdPVFh6bXlJaUFhdXc1dW1SRVROdlF5V284NUhkdVZKV04xbnJTcWEySjhQQ1VzZXJHZTFWSGdVQ29aNGUzeWFyWHBHNm1zQUhFNjNoQ3ZOeFUwTXhpbm00d3FQV3NtRFhON3ZNMWhEYkh1T1J3cGczdDZfZTlQbTE4TUxwRXJJVFdXbVVrcVFxa2M?oc=5",
-      "data": "17/09 00:07"
+      "titulo": "Fluminense pode ter força máxima na Libertadores contra o Palmeiras - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON011cmIyX2VEcTRuX0trMGRoTTNxM0NVZkRWSmdDamV4c0FmVGVDdFJRLUFHNHk4aXNmZGo0TXpkbXJBdUh1RmlIZVpVOVBBYXVPN2ZfVXJvYmxWNmVMR1U4Ylkxc2N4OU01dlpFOXFmU1BtX08xcm5ZTlQySnNVd3ZIVGV4c0tlb3ljVVNlVU1zRXJyWUczdjFRSTRXM0ZXTFV4ZmhJSzNfM3Nua2hRRXU0RzV5OG1LRGh5UVl6Y3ZxX1Z4UkhFU0dmbUpZT3VjeW1qQjdnQWJTaVN5ZmJUZEFETzJhQTg4T1gyMmNR?oc=5",
+      "data": "18/09 09:34"
     },
     {
       "titulo": "\"Geração de Ouro\" da base do Fluminense chega a quatro convocados para a Seleção - ge",
@@ -1023,14 +1074,14 @@
       "data": "17/09 12:00"
     },
     {
-      "titulo": "Fluminense divulga recepção de Martinelli no clube após convocação; assista - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmo1US13VG1veVJueGNpdlNZTzhiUGF4Q3NYd3hPTTlBNUVJbkhRWVRoV09DSnFnYzlVZ1BRLXRuZnhMSXZFSm9SUEx5cDYyTFpIa2dDY2JhSkxLQ2pSZzRCUVplV2dtdHJIeUNOTTZoTk54T0FhWVA4VzcxVDJaMzNZaEdfOUJCTm0yTFp4akNYbGxzYnpLck5aNFpfYnh0eTdr?oc=5",
-      "data": "17/09 15:00"
-    },
-    {
       "titulo": "Fluminense encerra jejum de dois anos com convocação de Martinelli - Lance!",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWhkTHBycjNidWRHRld1VC1ZZkw4ejNISGZQU1ViMzBrcHI0eE9TSVY0TkZUbFdoVVpheU9oUXNSQzR2U29BbnMwMkc3dG5JZHJHb1V2UTNyalJwSmlXM3U2Z01nY3JwTXE0N1NrZXhwVzJpdTRmTUhJZUY4VHBLOFQ3SzBHN0h6Y0p5REVlYzdUVEVxVEp1U1gzeGxCSnhDQXFlTFBDWTZIOHc?oc=5",
       "data": "17/09 12:30"
+    },
+    {
+      "titulo": "Martinelli é convocado para a Seleção Brasileira - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXBhN2RBcG5oUk1oS0dPR0U0NHZDRU1XQTZ3UVBTZDY1TmQ5cnBDR05zdnpqVkF6eXpPai1SWmx3VDhmTjhvSmw3OEVVT0lXNmdCZmpMc0lEOGFoOFFGSE9INEN0bE83d0lJY2tiazl4ZnFGWnhEOEROaU5QQnRFYVBIVlRsSEJsb2FhbGZ4bw?oc=5",
+      "data": "16/09 16:41"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Corinthians x Fluminense - fluminense.com.br",
