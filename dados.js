@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/09/2026 09:40",
+  "atualizado_em": "18/09/2026 13:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -1035,58 +1035,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.5,
+      "temp_max": 23.6,
       "temp_min": 18.1,
-      "chance_chuva": 18,
+      "chance_chuva": 6,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.0,
+      "temp_max": 22.4,
       "temp_min": 18.3,
       "chance_chuva": 90,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.3,
-      "temp_min": 14.0,
+      "temp_max": 20.7,
+      "temp_min": 14.1,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.0,
+      "temp_max": 19.0,
       "temp_min": 13.3,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense pode ter força máxima na Libertadores contra o Palmeiras - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON011cmIyX2VEcTRuX0trMGRoTTNxM0NVZkRWSmdDamV4c0FmVGVDdFJRLUFHNHk4aXNmZGo0TXpkbXJBdUh1RmlIZVpVOVBBYXVPN2ZfVXJvYmxWNmVMR1U4Ylkxc2N4OU01dlpFOXFmU1BtX08xcm5ZTlQySnNVd3ZIVGV4c0tlb3ljVVNlVU1zRXJyWUczdjFRSTRXM0ZXTFV4ZmhJSzNfM3Nua2hRRXU0RzV5OG1LRGh5UVl6Y3ZxX1Z4UkhFU0dmbUpZT3VjeW1qQjdnQWJTaVN5ZmJUZEFETzJhQTg4T1gyMmNR?oc=5",
-      "data": "18/09 09:34"
+      "titulo": "Veja quanto o Fluminense receberá de premiação por avançar à semifinal da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRll5bjN5cnhoV0tmbHhVSHRKeW9kVTVER2l2akhEaVpCa2NEbnRLZmFkX1JZTVNfTjRpekV2UHhmX0Z5NVBNOTZtaWVNRTlnb2VJRmJXOVpEZlNSQ094NHZtYm9oMFlSS2tiWlVQMWcxbjQycVdTMUVURXJwOGw1UnBjazJTZkIxUXBsWFpFbkNLd1UyMndoajRodF8yYVdpV25rSVNUSC02cjN4SE5VTGplNW1LTzk4VlFkUDBhX2JmSU1sMzBJanc3bERobVQ4TW9YaXptWUtpbVZUR2UzMVVxaWxTS0l4dUU2bmp30gH8AUFVX3lxTFBkU0pkcDFZWFNUX1Q3dDk5WEpaZkQyMVAtRlNzS0lQV3dNSGQ3YlZ3OVllZHI0em5pbHRwd3JiS25kNU1HQXBuUF9jYmk0U1AyWFo3Sk42XzVJRmFnenNaZ2lWM2ZMeDlISHN0ZzhNNllNOVBkSmQwQWQxSVhOOUlTQWotSE9vZmEwUFM0cTdNR0ZNT3JFYUpiakVyY1pEaGdDQVdWemtDNEdpTEVJWFJaZ1NnU0tBWTBIM3VHQXp1U05KcUFScWFzaVI1cGRzd3hiMWxGOGVCTWx4VzhPekFHMDFKSHU3VUFFQ2hEbUZxam1sSk5pUURXSXU2UA?oc=5",
+      "data": "15/09 23:54"
     },
     {
-      "titulo": "\"Geração de Ouro\" da base do Fluminense chega a quatro convocados para a Seleção - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZTYzZUQ5Ti1HQ090S1g1cmVacGxjcE5lV3UwUTBJMy05bWQtYkY5N0F0cmJaX0ZaQmhld1pHMFVpVHhGR0k3YVZtanZReUxkZmxoYWk5N3BFdEM2UTJwZEdBUEtjVHJSSllnZF9FZDhiZEkzTjg2cFVNdWNwdk9TVmstODg4QlNwRHg4dHczWTYxUjVDeTFyVHY3OUY0Q29EUHhHRjFHRndPNFdZMUh0UU1Sdlh3cUhpVVV3cjlIMkVXZllVU3M5enNhUk1OaURFVkNSTlZzSTdCR0RuOGRWX2RSTdIB8gFBVV95cUxQaG1mUDc2OEptTXowOVZMdU5zZ2lkLUZoa3hiUkRDUkJDZnJpM09MeUdQSnprNTZuLXhXZTBiWVNObjhfQnBCOF9pRllsS3RkZ0pmdkpwNVVKcDFwaG9qMkVZSy1vR05SY20yUlVBYlZNUGNsNGM5RFFhRklKaWZLZmJFOUlIWV93c2wwU05iNjJJQXR0aUJoUmhNeDl5dXVuRmkwclR5NG52bnZ0aVBoYW1CeVRUT2dpRzRQMDlaX1ZIYS1EaDh0ZFdQWno1cEtULUdzei05NmFzcDR0dGFSTk9fY1B2TlFlQ0JCLXBYNzFoZw?oc=5",
-      "data": "17/09 12:00"
+      "titulo": "Ignácio treina com elenco e volta a ser opção para Marcão no setor defensivo do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU3EyVzFhOUpLX1N0azM5VUpyTnhMaWh2NWdhWXNVektNWFpMVFZkQUNNSjFVdU5xLUVpMFVtcWpON0oxLXlWbmxCQldGbjYyWVdLZm5LLUVOQ1lUd0l4SFhYb3pLaHRyQlQ0RjZ0Uzk3LVFLNWRyUlNNNFJqOHNRVTd5MlFNSmhMeWVVQnBpa2xXY0N0eDVQdW42X3VVaWdVZ0VXdmRGODc3bUJvNWpQUnRaZVJsTDRnMHMybXNBWUIwTXVtcFdUY3YwRy10b2ZXQlhnMTU0bS15MmRlSDFFUNIB7wFBVV95cUxNcjFuck1Ic0k3MGNBWmRNTWEzOVFyYzF2QlVranBRR085QVBXQ3UxbkZwbEJlSTlXdnV1OFBxUlBUM2pPYXc4Mk9PNkhEQVZtTTNuSTRYXzBmMENfVHJuZWF3MTRSOFFWOUg1T3RLUU5Ob3lHSC02QlZBZEZILWpHLTNIZkpDX282UWt0TmhJOTZFSXN0VllEckh1cTloNnIyUVZZd0FDdHM5ekZVSE5ZMlhGTWVqVEhoYzljcVVCZk11V2JucHFlUWpYTVkzdXdFSHJhdDhfemtrRTFmOGJndm8ybFlzUkV4NFBpd0NVcw?oc=5",
+      "data": "18/09 14:49"
     },
     {
-      "titulo": "Fluminense encerra jejum de dois anos com convocação de Martinelli - Lance!",
+      "titulo": "Gramado do Maracanã é dilema para Flamengo e Fluminense - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3dqMEhobjZYZG9pTThjY2NOTm9RcXpMVHMyNDJoUG9wc2FWazlFOVU5UDBFTG1CeWdob01OOE4wN3NUSXVPTEdiWmJDYnVicDlCaXBqaFFRbmxmWXRGQnRGQzA4SFBYaDRhNkFYWjhMVUZvMkVRcjdGSEt0MVU4aWNoY0Vkd0dFRlZySG1mbG9xR2xES1dSWGo3ZU5Oc2NBblc3YWdqWnM4OFk?oc=5",
+      "data": "18/09 15:45"
+    },
+    {
+      "titulo": "Fuel Eyewear e Fluminense lançam coleção de óculos inspirada na história do clube - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3p6MnJpTEtDODVqUTh3bm45aW9UTUpvQzlGdXBwQkRVWGJ5TXB5OUlkR0RHZHBUYkt6U0J0b29tNTJIVlFIXzYyV181M1p6QkFyUUlDOS02TU82THdiODlxTTlFNFFKbE5PTXF2bm9hOFNkd05hV3J4VEdvZ0NjX0V2SHZ0SHVCNUNTSGF4ZVVEd0dHTkVMVG40LVl3TGVGNXRBSlZsS0Z2VnB3S3p2WW1hWm92Mk5WbnJ3?oc=5",
+      "data": "18/09 14:23"
+    },
+    {
+      "titulo": "Fluminense encerra jejum de dois anos com convocação de Martinelli - lance.com.br",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcWhkTHBycjNidWRHRld1VC1ZZkw4ejNISGZQU1ViMzBrcHI0eE9TSVY0TkZUbFdoVVpheU9oUXNSQzR2U29BbnMwMkc3dG5JZHJHb1V2UTNyalJwSmlXM3U2Z01nY3JwTXE0N1NrZXhwVzJpdTRmTUhJZUY4VHBLOFQ3SzBHN0h6Y0p5REVlYzdUVEVxVEp1U1gzeGxCSnhDQXFlTFBDWTZIOHc?oc=5",
       "data": "17/09 12:30"
-    },
-    {
-      "titulo": "Martinelli é convocado para a Seleção Brasileira - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXBhN2RBcG5oUk1oS0dPR0U0NHZDRU1XQTZ3UVBTZDY1TmQ5cnBDR05zdnpqVkF6eXpPai1SWmx3VDhmTjhvSmw3OEVVT0lXNmdCZmpMc0lEOGFoOFFGSE9INEN0bE83d0lJY2tiazl4ZnFGWnhEOEROaU5QQnRFYVBIVlRsSEJsb2FhbGZ4bw?oc=5",
-      "data": "16/09 16:41"
-    },
-    {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Corinthians x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbnN2TzlYZzNzZEItUVc0cGcyNG1MVVFMckJxalM4V2p3UjFiTXcwMkM3dzMwRnRfU0JRZHBPYmJUdlZ4UEVrNmZyTVpGNlpYeGx4V2dHX3drQl9BTkt5d0NfRXJZR0RHQ0NlNjROQ21xclNDNTNWcEM1WGpaQ2xRSnBIZ1dUVlpCN1BFSDljeVFTRGd5ZHYxQ1U0MHMyNDlOazZRYUxqZkVpQXFKckE?oc=5",
-      "data": "16/09 20:00"
     }
   ],
   "avisos": []
