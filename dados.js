@@ -1,77 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/09/2026 07:12",
+  "atualizado_em": "19/09/2026 11:08",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Kaiserslautern x Eintracht Braunschweig",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "Holstein Kiel x VfL Osnabruck",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "Karlsruher SC x FC Nurnberg",
-      "channels": [
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "08:30",
-      "competition": "Campeonato Inglês",
-      "match": "Tottenham x Aston Villa",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "08:30",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Millwall x West Ham",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "09:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Osasuna x Rayo Vallecano",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "09:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Alemannia Aachen x Fortuna Dusseldorf",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-19",
@@ -141,9 +70,8 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Newcastle x Hull City",
+      "match": "Brighton x Arsenal",
       "channels": [
-        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -162,8 +90,9 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Brighton x Arsenal",
+      "match": "Newcastle x Hull City",
       "channels": [
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -337,20 +266,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-19",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Le Mans x Lorient",
+      "competition": "Campeonato Italiano",
+      "match": "Venezia x Lazio",
       "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Toulouse x LE Havre",
-      "channels": [
-        "YOUTUBE"
+        "ESPN 2",
+        "DISNEY+"
       ]
     },
     {
@@ -378,11 +298,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-19",
       "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Venezia x Lazio",
+      "competition": "Campeonato Francês",
+      "match": "Toulouse x LE Havre",
       "channels": [
-        "ESPN 2",
-        "DISNEY+"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Le Mans x Lorient",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -543,20 +472,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-19",
       "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atletico San Luis x Necaxa",
+      "competition": "Campeonato Peruano",
+      "match": "Deportivo Garcilaso x Universitario",
       "channels": [
-        "DISNEY+"
+        "FANATIZ"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-19",
       "time": "20:00",
-      "competition": "Campeonato Peruano",
-      "match": "Deportivo Garcilaso x Universitario",
+      "competition": "Campeonato Mexicano",
+      "match": "Atletico San Luis x Necaxa",
       "channels": [
-        "FANATIZ"
+        "DISNEY+"
       ]
     },
     {
@@ -626,27 +555,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Sporting Kansas City x Philadelphia Union",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "St. Louis City x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "FC Dallas x Austin",
+      "match": "Minnesota United FC x Los Angeles Galaxy",
       "channels": [
         "APPLE TV"
       ]
@@ -666,7 +575,27 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Minnesota United FC x Los Angeles Galaxy",
+      "match": "Sporting Kansas City x Philadelphia Union",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "FC Dallas x Austin",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "St. Louis City x Toronto FC",
       "channels": [
         "APPLE TV"
       ]
@@ -730,6 +659,77 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers x Atlanta United FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "Karlsruher SC x FC Nurnberg",
+      "channels": [
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Kaiserslautern x Eintracht Braunschweig",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "Holstein Kiel x VfL Osnabruck",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "08:30",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Millwall x West Ham",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "08:30",
+      "competition": "Campeonato Inglês",
+      "match": "Tottenham x Aston Villa",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "09:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Alemannia Aachen x Fortuna Dusseldorf",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "09:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Osasuna x Rayo Vallecano",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -1527,58 +1527,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.1,
-      "temp_min": 18.8,
-      "chance_chuva": 6,
+      "temp_max": 25.5,
+      "temp_min": 18.9,
+      "chance_chuva": 61,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.5,
-      "temp_min": 18.9,
-      "chance_chuva": 14,
+      "temp_max": 23.6,
+      "temp_min": 19.0,
+      "chance_chuva": 31,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.9,
-      "temp_min": 14.5,
-      "chance_chuva": 82,
+      "temp_max": 20.3,
+      "temp_min": 14.3,
+      "chance_chuva": 57,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.5,
-      "temp_min": 14.0,
+      "temp_max": 21.7,
+      "temp_min": 13.8,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense enfrentará o Palmeiras na semifinal da Conmebol Libertadores - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGI2VUpwRDc1VERQNjAxWUZXVFVRRmdPVFh6bXlJaUFhdXc1dW1SRVROdlF5V284NUhkdVZKV04xbnJTcWEySjhQQ1VzZXJHZTFWSGdVQ29aNGUzeWFyWHBHNm1zQUhFNjNoQ3ZOeFUwTXhpbm00d3FQV3NtRFhON3ZNMWhEYkh1T1J3cGczdDZfZTlQbTE4TUxwRXJJVFdXbVVrcVFxa2M?oc=5",
-      "data": "17/09 00:07"
+      "titulo": "Fluminense x Palmeiras: histórico dos confrontos em mata-mata - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1g2SjVXNnhHaXFWcEY2Z25od1NqM2hLMjJxT241dFFpOE0zWFJrdXF1SlFzajNRUWk5NGo4S0owUjJKd3FoQ0ZRbVNEdUR2WnBNNmdZZHhHMFZBcUFZUjc2Tm9SSDNEcko4c3Z2UUtGUnVqazZ1UklkbENCNjhwODZPYTJNVTByTkVEMV80UzF4eGRPVWk4TWtNOTFvRlg3OXphakFSQ0RFOFVGYU8wdXJ5S1BFbUpnNVlxaXB4OGM?oc=5",
+      "data": "17/09 00:13"
     },
     {
-      "titulo": "Flu Experience em Orlando: Inscrições abertas para seletiva de setembro em Xerém - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNHh5MjB0T3NZQS1FdDgxWV95VWdzYkt4SXpXMjA0OE8zalBSNDN5bDlpVmdnSG1TOWFBOW9jNEFBQnI3T1ZnWXRaZVVnSnhDNi1YeGc0QWl0ejlpU1pMRlRjanpJZFAtNVk4SUdpWFV2c0tsUWpxYjg2MmlsUjNFc2FhM0duTkdsQ3RBckFJM2RPT09XdDZyMzdqcGg1WHdxelVhbC1kUmdQZW1xV0VxUTFIdmFWcWVQ?oc=5",
-      "data": "18/09 15:11"
+      "titulo": "Fluminense deve ter retorno importante para enfrentar o Corinthians no Brasileirão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGxVYmJmOVJJdEl4c05iUDZaVEtaY1R3UTlZWFQwdzRqeU8yY0ZEYWlUeVdJZTBMMk56RmVPYVAzWHFEOGdseG9NWTc5ZXpkYmtINVpIb25Ia3J5TFV5VHFaem9scjl4bGg4TndqSXlIc3piSjg0ZTlERmdKam1UNlpvYU5Yck15dEw1MzR3bFowVE5VX19ocm9JRWplb2o0ZkR3TEY0T1JiVEV1eTU0MWlHcDdWTmhXZFFtT05paDA?oc=5",
+      "data": "19/09 13:10"
     },
     {
-      "titulo": "Thiago Silva emociona vestiário do Fluminense antes de decisão - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHlGNGN3a21wN25BNU92X3VOSWFmZGhzc1kzNUJlTGtTTzYtbDY2SHJDY284RzRJS1c5SVNDUU1USVU1MlVRNlIxZU5GTXlLWE83UWtsaXhSaXpoUEdvaVgtTmZZZGVnMS1BOHZVV3NhSkZOUVBmMkN3YlZRR0cxcWQ0LS0wdV9jUlBuNlF5WW1hRnI1RlJ6TVMyM0lwdWRXX3pYLWtzN2VtQnFaaGZ4SVd3TGxCLVZJeXpralEtRlBsMVhwZ2E2WkIyNlF6Z28?oc=5",
-      "data": "19/09 00:03"
+      "titulo": "Platense é punido após invasão e briga em jogo contra o Fluminense; Conmebol não se pronunciou - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2Y5SXhvdy1nUnpib05Hc2VNd3pFbGhCcFF3S2t1RTRjLW1PelVGZlo3VTlvYk1KLTZoWEJlM2NhWWMxampxS0ZuWGhsSnpJblY1X0h6cWZWNFluSVFkeXY4RTVka3lpRExTNks2YVdBQ1RqRW4tOURka09lYTFDdUxNZXBzMzQtd3BpRnVDUHgyWVpPM05ONWV5VmZFRkpWQVp4cV9pVktlckJzaU5wVmR3TVZ4TTJ4WlNPQ2ZCbHg1ZVY0Wno2Y1VRMDNXVUR3UTl2SNIB2gFBVV95cUxNWFBGcmRfQ1FpaTVRc0lHMkVtTEs4Tm96M3c5RDRUR0VfR2d5ZURBZGR1bjZxSk9QelY1ZzZ4ZDFvbl9xU1pRekhyNFg1ajNxaXZZUlQzb3gzYkhiYUlWUFhPWC10cWdRa2ZrQ2o4Um90QXhDbXRhNGhoTWVULXBJT0pEemV2UlpIT1Q5T3dmWUJKLWdWeVBPM2NaMHRIdmtrdU16aHR4a1lyTVBvLU82SDNvS3JQREl4YUdxUTAyR25qTXVNeU1WdXJIUTlxUHpIOHQ0MFlFeXJGUQ?oc=5",
+      "data": "19/09 11:13"
     },
     {
-      "titulo": "Corinthians x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "titulo": "Fluminense disputa Campeonato Carioca de Basquete; conheça o elenco - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVd4QVkzV1lVclczNU1tTVFiQ284OHdmZG9SWTRYWERuc0M2WG9zaVFTNWNBTXhxbExXd3MxM216bHNvbjI3X0NZZV9HMEhTT25FY04xRklyeDk2bjNJaS1RMS1CX3IwaDZOMXdaVkQ3dTNwOXF3ZzlTNXBtRW9FZ1NMTTIyUUdPVV9JUjJxU05OTDZTRFl4aUFtTVhQTjJOVlRkb3A3VQ?oc=5",
+      "data": "18/09 19:53"
+    },
+    {
+      "titulo": "Corinthians x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - espn.com.br",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNXBRM1RndC1QVURoUms2VC1scVZFVlFzZWQ2cUQ1OTl5MG9vR3owcXE4T0NXdG00WmtmSnNBMzNFeWpVVVU2VzY4N3JScldNc2tua3BhX2oyRXh6aHZmRm5KU0NoVGxWV2VuVkk5RDZWVzJobjBSVUxsclN4bmtsbGJrT1FFak9GS1p2cHhyOHBqM1RSMmpkeGpHUkdaSEZoYUNJZjVaSVZIZVc1Sk1pWnE2MjBMTnY2dEQ5alMzcjhCb1BwT0xGNUhKekZ2NzM2UWxXNF9ULXF3RXp6dW5mRG9JRkFCekRzQ0JfZkk3bG1Xb0J6YjRRRw?oc=5",
       "data": "18/09 18:44"
-    },
-    {
-      "titulo": "Briga em Platense x Fluminense rende punição aos argentinos - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORDVwSmJrQzN6Z2FDOTN4b1llem5zYmRfSW9FVUtlZUFPUEVRTDNaWjVOaUVza2pLbHV5VkRValBjNnJLUlhjYjdtTDdGSmExM3JGSmdkWmhLOEVuajNQWkwtaDlMQkE3aEs0VTZ4Q2l5elBKSHpwYkhwcTZHZlBhalUwS3prZ3duOExoT0NHcXFDZmhSRnU3VDRfRmVLcmpKLXVlQkYzakpNWkRtU00zYld6Q21lTlZqVWFzcjJHWjRzQm9NQkNBeUFDSVhiVXVwb01kUmVjRnlyVFBZMmkwSGY3eGU?oc=5",
-      "data": "18/09 23:24"
     }
   ],
   "avisos": []
