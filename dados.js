@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/09/2026 02:26",
+  "atualizado_em": "19/09/2026 07:12",
   "jogos": [
     {
       "sport": "futebol",
@@ -1081,10 +1081,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Santa Clara x SC Braga",
+      "competition": "Campeonato Turco",
+      "match": "Amed x Besiktas",
       "channels": [
-        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -1092,9 +1091,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Amed x Besiktas",
+      "competition": "Campeonato Português",
+      "match": "Santa Clara x SC Braga",
       "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -1217,20 +1217,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Floresta",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Fluminense",
       "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Real Sociedad",
-      "channels": [
-        "YOUTUBE"
+        "GLOBO",
+        "PREMIERE"
       ]
     },
     {
@@ -1249,21 +1240,30 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Fluminense",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Avai",
       "channels": [
-        "GLOBO",
-        "PREMIERE"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Avai",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Real Sociedad",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Floresta",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -1301,17 +1301,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-20",
       "time": "18:00",
       "competition": "MLS Next Pro",
-      "match": "St. Louis City II x Austin II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "Tacoma Defiance x Portland Timbers II",
+      "match": "Minnesota United II x Los Angeles II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -1331,7 +1321,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-20",
       "time": "18:00",
       "competition": "MLS Next Pro",
-      "match": "Minnesota United II x Los Angeles II",
+      "match": "St. Louis City II x Austin II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -1340,6 +1330,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "Tacoma Defiance x Portland Timbers II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "18:05",
       "competition": "NWSL Feminina",
       "match": "Chicago Red Stars (F) x Washington Spirit (F)",
       "channels": [
@@ -1434,6 +1434,16 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "20:05",
+      "competition": "NWSL Feminina",
+      "match": "Bay FC x Racing Louisville (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
       "sport": "volei",
       "date": "2026-09-19",
       "time": "10:30",
@@ -1517,38 +1527,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.9,
-      "temp_min": 18.9,
+      "temp_max": 25.1,
+      "temp_min": 18.8,
       "chance_chuva": 6,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.8,
-      "temp_min": 19.4,
+      "temp_max": 23.5,
+      "temp_min": 18.9,
       "chance_chuva": 14,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.4,
-      "temp_min": 14.4,
+      "temp_max": 19.9,
+      "temp_min": 14.5,
       "chance_chuva": 82,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.7,
-      "temp_min": 13.9,
+      "temp_max": 20.5,
+      "temp_min": 14.0,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Meio-campo vira ponto de atenção no Fluminense de Marcão antes da semifinal da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWGsyNmd5ekU2VmdabU01Q21JSzhzMTdmbDVWWFAwUDR5WXVubnV6S24tV0ZtdXMzN21UWl9kcXY4VTFESzFKTlBCWmUxSkkyQmpNakEwdWppS3N3Q1RUYUpaTDRSTDdRZi1OdWFBTEY5R1AyS1Z6QjhFX1FTWHhpTzVxQXVNRkU1MU9aSldWNFNqNW5nWWRtZVI4UG1XOWZxWmVLSlcyMzZFQkl2bTZDc3A4VUJwY2xtY2Yxc1pKQ0YyLVFHV2VMMEcyLV9obVJhOVRPOGE3X3ppcmRMSHoyWW9yWExnZUxCckZkc0d5cE50djJw0gGDAkFVX3lxTFBtRU5UcE56a25rakR6cUF4XzZWZnBQMS1pR1JvVE1EUk9pWXdQclV5MDE5M2RjOEREUjk1dGZOQUJ3SlByNDd4Tk9hMTJjdVZ3WHBFQnlOdlpIU0NKbEg0cG9UMlpkV0hGajNtMXdOVTZaTTgtY3Jvb1EzTDYzZVZIaHREY1JqRGhVOHZlV3hyNjdoM0lFOHNaOC1ENWtLOFNNYm9ZOEdJWVU5akhWMmpzSDZsR19SQWM2cWw0WndtM3k5TW1FbS1KYjVpSEVITmtsblRxcWRXZThvWFBobzZxa0xXQ3FzNE1yT0Jaa1VReHI2Y1VJNFJhT29EV2J1TV9RQkk?oc=5",
-      "data": "18/09 06:00"
+      "titulo": "Fluminense enfrentará o Palmeiras na semifinal da Conmebol Libertadores - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGI2VUpwRDc1VERQNjAxWUZXVFVRRmdPVFh6bXlJaUFhdXc1dW1SRVROdlF5V284NUhkdVZKV04xbnJTcWEySjhQQ1VzZXJHZTFWSGdVQ29aNGUzeWFyWHBHNm1zQUhFNjNoQ3ZOeFUwTXhpbm00d3FQV3NtRFhON3ZNMWhEYkh1T1J3cGczdDZfZTlQbTE4TUxwRXJJVFdXbVVrcVFxa2M?oc=5",
+      "data": "17/09 00:07"
     },
     {
       "titulo": "Flu Experience em Orlando: Inscrições abertas para seletiva de setembro em Xerém - fluminense.com.br",
@@ -1556,7 +1566,7 @@ window.PAINEL_DATA = {
       "data": "18/09 15:11"
     },
     {
-      "titulo": "Thiago Silva emociona vestiário do Fluminense antes de decisão - LANCE!",
+      "titulo": "Thiago Silva emociona vestiário do Fluminense antes de decisão - lance.com.br",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHlGNGN3a21wN25BNU92X3VOSWFmZGhzc1kzNUJlTGtTTzYtbDY2SHJDY284RzRJS1c5SVNDUU1USVU1MlVRNlIxZU5GTXlLWE83UWtsaXhSaXpoUEdvaVgtTmZZZGVnMS1BOHZVV3NhSkZOUVBmMkN3YlZRR0cxcWQ0LS0wdV9jUlBuNlF5WW1hRnI1RlJ6TVMyM0lwdWRXX3pYLWtzN2VtQnFaaGZ4SVd3TGxCLVZJeXpralEtRlBsMVhwZ2E2WkIyNlF6Z28?oc=5",
       "data": "19/09 00:03"
     },
@@ -1566,9 +1576,9 @@ window.PAINEL_DATA = {
       "data": "18/09 18:44"
     },
     {
-      "titulo": "Corinthians x Fluminense Palpite – Dicas e notícias (20/09) - Trivela",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3FkSkV0eVlkRFNid0xWVmRUb0ZSYkk2RGw5SEdQWEd3M1JDcmhNQkFkSGhRMWp5dWJUcV9xam9naFJCYm5jTzJveHU5Q21vRzVLemZzNEZEYzV6RE5GMF9LeklCaGc0cWFzQU1KaE9sM093Y0dzSUhjaGJwT2lRY1llbm9ZTlRzNWoxa01DNWE?oc=5",
-      "data": "19/09 05:22"
+      "titulo": "Briga em Platense x Fluminense rende punição aos argentinos - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORDVwSmJrQzN6Z2FDOTN4b1llem5zYmRfSW9FVUtlZUFPUEVRTDNaWjVOaUVza2pLbHV5VkRValBjNnJLUlhjYjdtTDdGSmExM3JGSmdkWmhLOEVuajNQWkwtaDlMQkE3aEs0VTZ4Q2l5elBKSHpwYkhwcTZHZlBhalUwS3prZ3duOExoT0NHcXFDZmhSRnU3VDRfRmVLcmpKLXVlQkYzakpNWkRtU00zYld6Q21lTlZqVWFzcjJHWjRzQm9NQkNBeUFDSVhiVXVwb01kUmVjRnlyVFBZMmkwSGY3eGU?oc=5",
+      "data": "18/09 23:24"
     }
   ],
   "avisos": []
