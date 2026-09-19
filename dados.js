@@ -1,102 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/09/2026 14:43",
+  "atualizado_em": "19/09/2026 16:57",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "Roma x Inter",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Nottingham Forest x Coventry",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "13:30",
-      "competition": "Campeonato Alemão",
-      "match": "VfB Stuttgart x Borussia Dortmund",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "CAZÉTV",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Celta Vigo x Racing Santander",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Trabzonspor x Galatasaray",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Grazer AK x Austria Vienna",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "14:30",
-      "competition": "Campeonato Argentino",
-      "match": "Gimnasia M. x Deportivo Riestra",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "14:30",
-      "competition": "Campeonato Argentino",
-      "match": "Gimnasia L.P. x Banfield",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "Ajax x Excelsior",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-19",
@@ -105,16 +9,6 @@ window.PAINEL_DATA = {
       "match": "FC Cajamarca x Cusco",
       "channels": [
         "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "15:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Dynamo Dresden x Hertha Berlin",
-      "channels": [
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -130,23 +24,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-19",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Lyon x Rennes",
+      "time": "15:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Dynamo Dresden x Hertha Berlin",
       "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-19",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Venezia x Lazio",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -154,7 +36,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "15:45",
       "competition": "Campeonato Francês",
-      "match": "Angers x Estac Troyes",
+      "match": "Le Mans x Lorient",
       "channels": [
         "YOUTUBE"
       ]
@@ -174,7 +56,18 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "15:45",
       "competition": "Campeonato Francês",
-      "match": "Le Mans x Lorient",
+      "match": "Lyon x Rennes",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Angers x Estac Troyes",
       "channels": [
         "YOUTUBE"
       ]
@@ -182,11 +75,12 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-19",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Chapecoense-sc",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Venezia x Lazio",
       "channels": [
-        "PREMIERE"
+        "ESPN 2",
+        "DISNEY+"
       ]
     },
     {
@@ -202,14 +96,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-19",
-      "time": "16:30",
-      "competition": "Brasileirão Série B",
-      "match": "Sport Recife x Juventude",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Chapecoense-sc",
       "channels": [
-        "REDETV!",
-        "SPORTYNET",
-        "ESPN",
-        "DISNEY+"
+        "PREMIERE"
       ]
     },
     {
@@ -233,6 +124,19 @@ window.PAINEL_DATA = {
         "GLOBO",
         "SPORTV",
         "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "16:30",
+      "competition": "Brasileirão Série B",
+      "match": "Sport Recife x Juventude",
+      "channels": [
+        "REDETV!",
+        "SPORTYNET",
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -420,7 +324,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Houston Dynamo x FC Cincinnati",
+      "match": "Minnesota United FC x Los Angeles Galaxy",
       "channels": [
         "APPLE TV"
       ]
@@ -460,7 +364,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Minnesota United FC x Los Angeles Galaxy",
+      "match": "Houston Dynamo x FC Cincinnati",
       "channels": [
         "APPLE TV"
       ]
@@ -666,9 +570,8 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Newcastle x Hull City",
+      "match": "Everton x Ipswich",
       "channels": [
-        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -677,8 +580,9 @@ window.PAINEL_DATA = {
       "date": "2026-09-19",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Everton x Ipswich",
+      "match": "Newcastle x Hull City",
       "channels": [
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -730,6 +634,102 @@ window.PAINEL_DATA = {
       "match": "Paris FC x Strasbourg",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "13:00",
+      "competition": "Campeonato Italiano",
+      "match": "Roma x Inter",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "13:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Celta Vigo x Racing Santander",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "13:30",
+      "competition": "Campeonato Alemão",
+      "match": "VfB Stuttgart x Borussia Dortmund",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "CAZÉTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "13:30",
+      "competition": "Campeonato Inglês",
+      "match": "Nottingham Forest x Coventry",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Trabzonspor x Galatasaray",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "14:30",
+      "competition": "Campeonato Argentino",
+      "match": "Gimnasia L.P. x Banfield",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "14:30",
+      "competition": "Campeonato Argentino",
+      "match": "Gimnasia M. x Deportivo Riestra",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "14:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Grazer AK x Austria Vienna",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-19",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "Ajax x Excelsior",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
       ]
     },
     {
@@ -1446,16 +1446,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-19",
-      "time": "13:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Argentina x Bolívia",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-19",
       "time": "16:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Chile x Colômbia",
@@ -1517,28 +1507,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.5,
+      "temp_max": 25.7,
       "temp_min": 18.9,
       "chance_chuva": 61,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.6,
+      "temp_max": 23.4,
       "temp_min": 19.0,
       "chance_chuva": 25,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.3,
+      "temp_max": 20.4,
       "temp_min": 14.3,
       "chance_chuva": 24,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.7,
+      "temp_max": 21.9,
       "temp_min": 13.8,
       "chance_chuva": 82,
       "condicao": "Garoa fraca"
@@ -1546,29 +1536,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Ranking de premiações: Flamengo é líder, e Fluminense passa Corinthians após classificação - ge",
+      "titulo": "Ranking de premiações: Flamengo é líder, e Fluminense passa Corinthians após classificação - GE",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN21JaGItSndnUFA2R3c3MmVqRjdUVmZWNFdZeVNWVWhyQmp2OXY5V0J6VUlSV3hOWlhXVHRzMlB5QVdoMHNvWHo5X2FSSGVJeWU5WUxjcWd0TVNEdlF4b1FEVGFrS2J6cjVEUWlmUlJEeTZxa2xSanRiS1BKdl9HUE9tVUhtVHdtNFR6SWxONTIteFB4WlB5SThUWDViMnoxbEtVTFMtdWpfb3ZDbXdzQzM4SGFGOTd0V1I0Y0pzSjFLY3dIUm9KWmNDLTZoT0lZZEFVaUVqVVlmbi1mdWZJ0gHuAUFVX3lxTE5SdktZTTJRT0JhWjh5NlJkaUFnbFZISllpWm9pU2V6c0o0OFBxajJtX2R2a0pjaEdfcG9QUk1hc1VJODRXVE9Da1kxeHd0SjBVNzhOWEtkQWRPaVNCOFZuXzNxSW9WRDJTd2h6ZHRtX2NLTHJMalpiU1pMMEhrR1VVNFdjRVNKdDdabXo4bkxENWhBSjcxSjNrY2IyR095Ty1WdGljQl9FMmsydW5zclR6akdBbUVWalluNUZkOUNTcjl4VnZ5WkQtc3cwbEhQQU52WEtXSEwtZEVPd0hNZlFhTlF3N2N4dTc0RjlHelE?oc=5",
       "data": "18/09 15:00"
     },
     {
-      "titulo": "Corinthians x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNXBRM1RndC1QVURoUms2VC1scVZFVlFzZWQ2cUQ1OTl5MG9vR3owcXE4T0NXdG00WmtmSnNBMzNFeWpVVVU2VzY4N3JScldNc2tua3BhX2oyRXh6aHZmRm5KU0NoVGxWV2VuVkk5RDZWVzJobjBSVUxsclN4bmtsbGJrT1FFak9GS1p2cHhyOHBqM1RSMmpkeGpHUkdaSEZoYUNJZjVaSVZIZVc1Sk1pWnE2MjBMTnY2dEQ5alMzcjhCb1BwT0xGNUhKekZ2NzM2UWxXNF9ULXF3RXp6dW5mRG9JRkFCekRzQ0JfZkk3bG1Xb0J6YjRRRw?oc=5",
-      "data": "18/09 18:44"
+      "titulo": "Escalação do Corinthians: Diniz prepara mudanças para enfrentar o Fluminense - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY3E4LU54cUlXSnFFdDluUjVpZExManlXbFJuUklLVDBJSXVpa0ZDTmhEM0FUaDN0VmlIU1Q5bkF0bkJSb0pBV2dxUDFRd3FqaHI5RWJxbTRadGl1Znp3MEYxd1gweGNwWnBqcUI1b3dkXzBLRDFYQi13Rkh1d0o0WEFVWGs2QUFKVW9KMjE2Z2toYzViZEVoTXlNbE50UUZyVVZXSl92NS1EOVM3TlZTVDFVWHJxQTlyZFYtU0hZT2xKdkxCNm82emFvY0xEc094Q3Y5LTVzZDdVZ0FSY09aQ9IB7wFBVV95cUxNbEhuOWpSU0lIaVBNQ0ZjcExUMGVHLTUxYnlMNmJuNl9GZjM2TEFKaXZ3SHZyRVcxaHJyRTNfTDlYc09EOHlqZDBBa2VhSE1vQjJmRGJkY05MV3NzS1U0czdRRjhvT0tZMTlNcjRRbm1UVGd1S2RZNHNocUFGODR3STBDTFY0RTNrX2RIcDRQMHFPUDJjckFlbmlxT0tORmhCbkx6VmNJenl6TnRJaFk2SkVvLTRuT2pDT0RUMHJXanB6QnM4NXJadnlVUHdKZEdubGVsUE9idzlMRnpWUHF0eEhvSGhja3gzUmVnUXJRbw?oc=5",
+      "data": "19/09 18:08"
     },
     {
-      "titulo": "Fluminense deve ter retorno importante para enfrentar o Corinthians no Brasileirão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMGxVYmJmOVJJdEl4c05iUDZaVEtaY1R3UTlZWFQwdzRqeU8yY0ZEYWlUeVdJZTBMMk56RmVPYVAzWHFEOGdseG9NWTc5ZXpkYmtINVpIb25Ia3J5TFV5VHFaem9scjl4bGg4TndqSXlIc3piSjg0ZTlERmdKam1UNlpvYU5Yck15dEw1MzR3bFowVE5VX19ocm9JRWplb2o0ZkR3TEY0T1JiVEV1eTU0MWlHcDdWTmhXZFFtT05paDA?oc=5",
-      "data": "19/09 13:10"
+      "titulo": "Corinthians x Fluminense: onde assistir, horário e escalações pelo Brasileirão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ25iNVpLaHYwaHdZVVpxQmo0NmRITmE2N2hjaDFQd1VjaTF6bWdQNzlFR0JtTzluRDZvc05uc0hNVTU3dFVzcl9XMDE4ZTIyS1lnQVAwVE9Ga0ZwNklLSXlxd1B2N3lQQUJFU25xSDRFLVN1Q0g0Tksycmc2OFQ1UldFUUx2T0NnT24tY1NpT2tQU1A2VV9lWXRIWWpPMWphMkUwMmh3?oc=5",
+      "data": "19/09 13:01"
+    },
+    {
+      "titulo": "Bastidores: Thiago Silva lidera vestiário do Fluminense antes de classificação na Libertadores - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHlGNGN3a21wN25BNU92X3VOSWFmZGhzc1kzNUJlTGtTTzYtbDY2SHJDY284RzRJS1c5SVNDUU1USVU1MlVRNlIxZU5GTXlLWE83UWtsaXhSaXpoUEdvaVgtTmZZZGVnMS1BOHZVV3NhSkZOUVBmMkN3YlZRR0cxcWQ0LS0wdV9jUlBuNlF5WW1hRnI1RlJ6TVMyM0lwdWRXX3pYLWtzN2VtQnFaaGZ4SVd3TGxCLVZJeXpralEtRlBsMVhwZ2E2WkIyNlF6Z28?oc=5",
+      "data": "19/09 00:03"
     },
     {
       "titulo": "Keven Samuel se isola na artilharia do Flu no Carioca Sub-20 e exalta trabalho de Fred: 'Crescer com ele' - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN29vRjB3WVJCNlU0LXFaTV9OVUFzYURRc0p3SUN2Q0ZUZ0luTF9pak5VY050a2dGUmNKd2Y0SmZjRGFtVFhicmtjMG5JRGJQdWFqWXJkTmJJUE9MR2VLNjA3aGRqWnZJajJvOGEtZkxVTHNESjRlcnI3eTJ5QldsRGhXQWcxb1hMSEJRWklxUUtzRlRGSmFiUmE5QlJ2bTZOYkptdGpVbU50YjB4VnhBTW5SdU1zZ0JPZEVfTFFoaksxb3Z6d0NYTTVFQjBDVGVFOUowODZlVQ?oc=5",
       "data": "19/09 13:00"
-    },
-    {
-      "titulo": "Platense é punido após invasão e briga em jogo contra o Fluminense; Conmebol não se pronunciou - Terra",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGczajlVME5uLTJUWU82LUdGV3NDWU5WUENjUjBiX1E4cC1BQ1I5MG5hMmtXbTRJSUlHSXpxSkxsQ1VHV3FTVExubkxzUG1UMEdEZlNpSDBVc0EzZTJ6dzFuU25jUFI0ZXRHV1RIR3k0eE12VGRTYUN0MUNwLUxmUjB4bHNkczNfRVBOcEs5Nko4QnlMdF95RUxSYkxJc2xLZGdDR2c1SDEwX19oSHkwbDNMLVZPcnlSSk9LNkNCZWN0YmhUOUUtelVGeHRvX1U4YUdkd2FCd1U2YmJTN09zODV2N1FPSE14OHdqR3BXc2tFbW5QNGlrcnE2ZjhEaVlFWUNVNlZOUm56cTlFMkVfMXVB?oc=5",
-      "data": "19/09 11:23"
     }
   ],
   "avisos": []
