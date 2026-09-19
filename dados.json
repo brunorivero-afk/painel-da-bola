@@ -1,28 +1,6 @@
 {
-  "atualizado_em": "18/09/2026 19:12",
+  "atualizado_em": "18/09/2026 21:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-18",
-      "time": "18:00",
-      "competition": "Campeonato Argentino",
-      "match": "Central Cordoba x Defensa Y Justicia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-18",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Vila Nova x América-MG",
-      "channels": [
-        "ESPN",
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-18",
@@ -153,20 +131,20 @@
       "sport": "futebol",
       "date": "2026-09-18",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Monaco x Lens",
+      "competition": "Campeonato Italiano",
+      "match": "Monza x Sassuolo",
       "channels": [
-        "CAZÉTV"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-18",
       "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Monza x Sassuolo",
+      "competition": "Campeonato Francês",
+      "match": "Monaco x Lens",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -198,6 +176,28 @@
       "match": "Alianza Atletico x Comerciantes Unidos",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-18",
+      "time": "18:00",
+      "competition": "Campeonato Argentino",
+      "match": "Central Cordoba x Defensa Y Justicia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-18",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Vila Nova x América-MG",
+      "channels": [
+        "ESPN",
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -934,16 +934,6 @@
     {
       "sport": "volei",
       "date": "2026-09-18",
-      "time": "18:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Pinheiros x São Caetano",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-18",
       "time": "21:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Sesi-Bauru",
@@ -1064,9 +1054,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense pode ter força máxima na Libertadores contra o Palmeiras - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON011cmIyX2VEcTRuX0trMGRoTTNxM0NVZkRWSmdDamV4c0FmVGVDdFJRLUFHNHk4aXNmZGo0TXpkbXJBdUh1RmlIZVpVOVBBYXVPN2ZfVXJvYmxWNmVMR1U4Ylkxc2N4OU01dlpFOXFmU1BtX08xcm5ZTlQySnNVd3ZIVGV4c0tlb3ljVVNlVU1zRXJyWUczdjFRSTRXM0ZXTFV4ZmhJSzNfM3Nua2hRRXU0RzV5OG1LRGh5UVl6Y3ZxX1Z4UkhFU0dmbUpZT3VjeW1qQjdnQWJTaVN5ZmJUZEFETzJhQTg4T1gyMmNR?oc=5",
-      "data": "18/09 09:34"
+      "titulo": "Fluminense enfrentará o Palmeiras na semifinal da Conmebol Libertadores - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeGI2VUpwRDc1VERQNjAxWUZXVFVRRmdPVFh6bXlJaUFhdXc1dW1SRVROdlF5V284NUhkdVZKV04xbnJTcWEySjhQQ1VzZXJHZTFWSGdVQ29aNGUzeWFyWHBHNm1zQUhFNjNoQ3ZOeFUwTXhpbm00d3FQV3NtRFhON3ZNMWhEYkh1T1J3cGczdDZfZTlQbTE4TUxwRXJJVFdXbVVrcVFxa2M?oc=5",
+      "data": "17/09 00:07"
+    },
+    {
+      "titulo": "Thiago Silva emociona vestiário do Fluminense antes de decisão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHlGNGN3a21wN25BNU92X3VOSWFmZGhzc1kzNUJlTGtTTzYtbDY2SHJDY284RzRJS1c5SVNDUU1USVU1MlVRNlIxZU5GTXlLWE83UWtsaXhSaXpoUEdvaVgtTmZZZGVnMS1BOHZVV3NhSkZOUVBmMkN3YlZRR0cxcWQ0LS0wdV9jUlBuNlF5WW1hRnI1RlJ6TVMyM0lwdWRXX3pYLWtzN2VtQnFaaGZ4SVd3TGxCLVZJeXpralEtRlBsMVhwZ2E2WkIyNlF6Z28?oc=5",
+      "data": "19/09 00:03"
+    },
+    {
+      "titulo": "Flu Experience em Orlando: Inscrições abertas para seletiva de setembro em Xerém - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNHh5MjB0T3NZQS1FdDgxWV95VWdzYkt4SXpXMjA0OE8zalBSNDN5bDlpVmdnSG1TOWFBOW9jNEFBQnI3T1ZnWXRaZVVnSnhDNi1YeGc0QWl0ejlpU1pMRlRjanpJZFAtNVk4SUdpWFV2c0tsUWpxYjg2MmlsUjNFc2FhM0duTkdsQ3RBckFJM2RPT09XdDZyMzdqcGg1WHdxelVhbC1kUmdQZW1xV0VxUTFIdmFWcWVQ?oc=5",
+      "data": "18/09 15:11"
     },
     {
       "titulo": "Corinthians x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
@@ -1074,19 +1074,9 @@
       "data": "18/09 18:44"
     },
     {
-      "titulo": "Fluminense disputa Campeonato Carioca de Basquete; conheça o elenco - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVd4QVkzV1lVclczNU1tTVFiQ284OHdmZG9SWTRYWERuc0M2WG9zaVFTNWNBTXhxbExXd3MxM216bHNvbjI3X0NZZV9HMEhTT25FY04xRklyeDk2bjNJaS1RMS1CX3IwaDZOMXdaVkQ3dTNwOXF3ZzlTNXBtRW9FZ1NMTTIyUUdPVV9JUjJxU05OTDZTRFl4aUFtTVhQTjJOVlRkb3A3VQ?oc=5",
-      "data": "18/09 19:53"
-    },
-    {
-      "titulo": "Gramado do Maracanã é dilema para Flamengo e Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3dqMEhobjZYZG9pTThjY2NOTm9RcXpMVHMyNDJoUG9wc2FWazlFOVU5UDBFTG1CeWdob01OOE4wN3NUSXVPTEdiWmJDYnVicDlCaXBqaFFRbmxmWXRGQnRGQzA4SFBYaDRhNkFYWjhMVUZvMkVRcjdGSEt0MVU4aWNoY0Vkd0dFRlZySG1mbG9xR2xES1dSWGo3ZU5Oc2NBblc3YWdqWnM4OFk?oc=5",
-      "data": "18/09 15:45"
-    },
-    {
       "titulo": "Corinthians x Fluminense Palpite – Dicas e notícias (20/09) - Trivela",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3FkSkV0eVlkRFNid0xWVmRUb0ZSYkk2RGw5SEdQWEd3M1JDcmhNQkFkSGhRMWp5dWJUcV9xam9naFJCYm5jTzJveHU5Q21vRzVLemZzNEZEYzV6RE5GMF9LeklCaGc0cWFzQU1KaE9sM093Y0dzSUhjaGJwT2lRY1llbm9ZTlRzNWoxa01DNWE?oc=5",
-      "data": "18/09 17:22"
+      "data": "18/09 23:22"
     }
   ],
   "avisos": []
