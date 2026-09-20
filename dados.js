@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/09/2026 02:39",
+  "atualizado_em": "20/09/2026 07:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -833,29 +833,9 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-20",
-      "time": "13:40",
+      "time": "18:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Argentina x Chile",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-20",
-      "time": "16:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Bolívia x Venezuela",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-20",
-      "time": "19:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasil x Colômbia",
+      "match": "Sesc RJ Flamengo x Fluminense",
       "channels": [
         "SporTV2"
       ]
@@ -864,58 +844,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.5,
-      "temp_min": 19.3,
+      "temp_max": 27.0,
+      "temp_min": 19.7,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.4,
-      "temp_min": 20.0,
+      "temp_max": 27.8,
+      "temp_min": 20.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.6,
-      "temp_min": 14.7,
+      "temp_max": 22.0,
+      "temp_min": 14.8,
       "chance_chuva": 3,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 22.3,
-      "temp_min": 14.8,
+      "temp_min": 15.1,
       "chance_chuva": 1,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Guga é poupado, e Serna ganha chance no ataque - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTlJd3NReFFiMWJLZFNxVG1VY1llV2ZVVkpfR3M3NlZXR3UzV2ppbldkX2p4a0NIMXQ3N0toNnN3dXRwRDB4OU5WOG52TUdOa1F2RXlqemdwRnZKRlFETUdTOEZ5MXpYeWl4LTQ3T0hoMWFWQ2ZTXy1sVUVYVEpfWUNPb05xQjd6R2U4Q0draU5QZjdJWENncTA3bWFWWmZVSUtUYU5YdUxaNWdHLVVTeUNuMGpNVHN6bi1yYmJ0cFdTWUp1MFg3RHVzakkxWVJCdC0yUEF5VdIB5gFBVV95cUxPMHNJdzVqbldxWW5YdDhfZ0ZnQ1QxakVGVDlFZWdSdVg4QllVUFpwQWZaQWpGaFR4TUZVLXNFS2dUWWN5UzR2eDFRdlVPZDdZZkVOVm5KY3BZeW4zZGNOMEpfOXV5YXk5ekpUT25WU3lPUGZtZ24tTEZtWEZRQ1h2YktGQllEX2RFXzNkam9yb0FLWW9vWGt6WG5qUy1hS0RybnRkRGpSYm54YzBtYm1EUk1HQk9DUnFQT2F2b3JrU1pXMU5YczBidnM5Q3J5c3ZrcUwxVWNrVzNKQ2tySTI3Ty1zeGl4Zw?oc=5",
-      "data": "19/09 18:01"
+      "titulo": "Corinthians x Fluminense: onde assistir, escalações e arbitragem - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2syS1BrUkNrb3BETHdZOU1kbGQxUnlhYzcxVVVOTHNJXzI3WVZJbUthOGVNbExXZDJtU3k0ZDJkcUd4SEtjWlJVUEZHZk1lX1JWV2xPeDQyUGZBRW43VGZpNEFOM0tOaVJITGVqVVVKZzFISjhjMjVCRlFWRzdOYlpfN24xRTZMYnZZN1pGYTgzZjhJYkUwdDdUTHhsNFNkRXZJSUdPQ2dSVU1SZjgzSFdPX294czlkZlNqYllPOXdlTmVfeE15N1B3NWtHQW1YYUp6d1hjLXRlRFd0R1h4OUFBSkFrUnM3Rnc?oc=5",
+      "data": "19/09 15:06"
     },
     {
-      "titulo": "Canobbio, do Fluminense, condena ataques pessoais no futebol: 'O que mais gera conteúdo é crítica, xingamento e ódio' - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRFdnT0ZsSlRnM1FDSV9UaDJoTmlITUw4Z1lpRTlJVDl5bGFiU214RklPc1BhdlcyR2ZNM1A4M3RWY0ZnYUlZSk1JRzhPMUl0cmxfbVhjUV82OTVyNXFCTDFQTWtuN1Rncjg1X1RTUVVsLUkxQmZQR1U3QlZDZTBWNW9tOUZjbGhic1ZXRHRvOFg1enJHTXpNV1R3SnRXMmt0RF9uWjJGYTVDMWdqR0phUlhhNXJYb1V4Vnl3endKbUxqcHJjSlpmZGRBSUhCNHJkVVRTb1BESlNKUUNpT3MyWVdFUVQ4V0tRcXhCU2dEcmtTSGxZSWdHMGcwY1AzTGhobXRqdlVadHU3RDVRR3U5dkVKU2ZvUkdp0gGnAkFVX3lxTE0yTi1sQUdsNUhWYll3a0p0MmFMRXpDMGRqd0FReW9iVUxmbEFCWmJfX0pzeFl2UzlEQkFESmVVYVRULTBJd1JoemdSVjN0emdPTHljVjlfNWpRbERIN1d6ZXNMZGkxM1RmN1ZYVTdQLW1SaFVEU3pnUWxXOFVXQ2pOM3hZNVRxSHVtNXNZazZZSDBaOE5DdHlaSXZvamV3UXhzbmdTaHRlVnY1Q2x2YUZFWmRwWlpuY1lQQlNwV1NyYU5qeDRyRlg4VU1KVHoyLTVZZlBhczNhQ3RxSnBqMUcxX1ZNdF9Hck9UTzlLX3llTUc5cF84OEdTa2V0OC1ZOVl0enpEVU50TVY0NzU4RXJpRG1hSFNnZmg4ZWVTVndTS1M3OHdzeDg?oc=5",
-      "data": "20/09 04:00"
+      "titulo": "Renê, do Fluminense, diz que é substimado e avalia carreira: \"Jogo em estádios que cabem minha cidade toda\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQM2REblRDc2hRRkwzTWtLSTNVSHNzVkNOOVBjOGZzQkZUVi1Tc0JDejJkV1VpSXpfZy12ajljRWZnQXZ6WnpaYnBmZURxbVVkcHQxT2dlc3VSWEp0R2tIQnRXMzdrS0I3YUF4dG9EX2w3R0doWnkxNnlGdkFOTVhqUEpjQ25oczVheVdlbjZOYnhxdUlETTIyZzNZNnlRX3I0ek0wS2xkYnctSFA1SVRuX2tlT0w0Ym1xbUtuT01Qc2NkVjV2VXZPZDhMSEE5U1VmbVR1Q2g5ZE9rYlEtb2VaUnBOZ0RMWHdwdzJ2OGNyN0RaT25pU2lMRmh2LXdDekg2YXhB0gGSAkFVX3lxTFBTcEZCVXl1NDd4Uy13RUEwQUJlaFRGeHZLZEQ5cy1XMFRWNjJVdWd0NFFBWEhxT0pDY3I0WE02SVhXUGs2RmVGLWF6VVIxR09kTW5rRjVaeWthTUE2T3k5LUduTkFzTG94N2JkcDRQU05XTlVHSTRRR21fMHBRcGdQVG0yVE9EVloxZHVzTlhXOEFSdFJSb3lCYU1JeGlsZGlQdlVYQ0Z6SFhmN01HWkNUb2RnczlQSHYzYW5XMDVHdVR0UGtqVnFHb2xmRjBiVFJkTGw3MDZ4THVQckh1LTFicHJsMk1rbm5IaW44SF9hdENUNmJYVm9TSFVpMWlNTllJd2ltQk9yNnh0TS1HR1NucGc?oc=5",
+      "data": "20/09 10:00"
     },
     {
-      "titulo": "Renê é honesto sobre situação no Fluminense: \"Onde chego, me colocam como reserva…\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQR2U2RlR2SkFIRG13TTVDaWtIUFRtX25lYmE4WHJETVVKQWIzSm9ZckJ5U1M0VnN6VThEMVJnUDNvVlphaHI5RkUyS1NJcVpILUNRSG5kX2MwUDhHV09YalZyRVkzaHpBNkp3SXVnWlNZR0UyMk1Zakl3UVBpMjF4WHlJTHBYVlhmOEI4UnRYRnoxbjRMTUhtczN6ZWtzOEV2LVFJSEJOakNfZ1lPWFJKZncxVnFRTks1ZHRpSVItRFlzam1HM2k1WWhKTDVBX2hiSVR5YkU3cktGeXZUNjZVQkJPRDNoM1JITUtGZEtmVUtaWXllOFI1bUI1YVRSdw?oc=5",
-      "data": "20/09 01:33"
+      "titulo": "Palmeiras tenta reduzir carga de ingressos, mas Fluminense exige cumprimento do regulamento da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTk4zcm5JQWJpNmpHNENnWjdvT3pPclhvSVdsdllRVDZYMmRlbjg0eUtfRzZYbzVqRXZRZFZTemxtd0RCMk53WU42R20tRnpoRGI1RVhiZk5nbkxXb1YwOGtxUUFWNEFmRWJVeUVGRmtpTEhwYUVFQlh2aGtvZU9FOTZhMnRzMkE3QXlqQ2hkMUlPVXdNZl9hbEU0SG5CUzFQWEpUWHlkZUY2NzQ4S1lJMWVQZHp2SS1mUjMxSjMxRUo4R0xtbWFkSGVJZ28xbVR5eTJGelNZdllmZDZPRDNjcGJmcEZPTGVvUEV0ZGFuRHpLWFZUd0pQTGNtZ281Y1E3R0J1REtVdFLSAZcCQVVfeXFMUEtSX2hLRm4wYzF3VGJVMGxicnJwZTRnNUJ4endvcWNTWm5GQ3F6akpBSUJ3dU1vTmZob0hDY1d2ZFNPS2RtLWtJbEZBZWZ5WDFxc1piZnBCUXNISDM1Y1RQcHFmTm8tc1dySjNsbGNRRVl3azFNdDNmRGFtVWpaWk51eVRDSVVnUEtOTHQ1bG9EZ0s3cjlNVjRJYV9lb2lCMjV6X1lVN0lQODRhWXBMbkxYZWNLb1NXdW4wN1paMWdVQnhxSGhnSDExOEQ3Mm9hakFDcUc2R3BQeDNKdldOMVdPSHN5MW5ha1dKeXJINEoyVDMtQWVSenJPaWluQld2bTFwQ19IVEFqRXJnNUk1VG5zN3RoVkpr?oc=5",
+      "data": "19/09 21:21"
     },
     {
-      "titulo": "Fluminense segue irredutível por 4 mil torcedores em semi da Libertadores com o Palmeiras - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzhmT3pzNHRCMTBjU2xTN2pXdUd6cDlBdlQ5RWFBX2dDeUJJZGhXc3NkcnVoeHdjVG9ScHFYSUkzNkp6eDlLaUtvUzhRMlpGU0JvbjlubUpTa0ZUZGNfbkpNSWJISTJWX1N0YzF5dmtXUHRMaHNsUVU3YWNvVE9wRlFfTllzVGp4dG1VQ0VfOFE4azZFSXg1SzZ2My1ka2o2Y2xSdHhtTDNXQXlYLVk0aXdCMGFaa0hHb3NVZWViaUNaZXNyZ2JtVmttN3RwMWk4SkE?oc=5",
-      "data": "19/09 21:42"
+      "titulo": "Fluminense vence o Alianza Lima e fica com o terceiro lugar da Brasil Cup - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXVqelJIMHI4QmFtQjJPbE1IeC1PdU4tUVZsN09ub1loYmdpZjZMSjkyU0pBaTdPTHIwMWJHMDc1QnhiNE9NMDRaV3Q3a2lrVmNwR2dJWGg5LU8wbXVDbXEyb1RwX2l5WWlnYWZ1NGVQNFlhYmhCbUpZMDZBU1Yya2NDVU91T0hXcjlFTFgwSjRHbEtaM0ZRTVVRdTNBcE5PV0xKdloyMzdFUl9KNjZxSA?oc=5",
+      "data": "19/09 21:07"
     },
     {
-      "titulo": "Keven Samuel se isola na artilharia do Flu no Carioca Sub-20 e exalta trabalho de Fred: 'Crescer com ele' - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN29vRjB3WVJCNlU0LXFaTV9OVUFzYURRc0p3SUN2Q0ZUZ0luTF9pak5VY050a2dGUmNKd2Y0SmZjRGFtVFhicmtjMG5JRGJQdWFqWXJkTmJJUE9MR2VLNjA3aGRqWnZJajJvOGEtZkxVTHNESjRlcnI3eTJ5QldsRGhXQWcxb1hMSEJRWklxUUtzRlRGSmFiUmE5QlJ2bTZOYkptdGpVbU50YjB4VnhBTW5SdU1zZ0JPZEVfTFFoaksxb3Z6d0NYTTVFQjBDVGVFOUowODZlVQ?oc=5",
-      "data": "19/09 13:00"
+      "titulo": "Platense é punido após invasão e briga em jogo contra o Fluminense; Conmebol não se pronunciou - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2Y5SXhvdy1nUnpib05Hc2VNd3pFbGhCcFF3S2t1RTRjLW1PelVGZlo3VTlvYk1KLTZoWEJlM2NhWWMxampxS0ZuWGhsSnpJblY1X0h6cWZWNFluSVFkeXY4RTVka3lpRExTNks2YVdBQ1RqRW4tOURka09lYTFDdUxNZXBzMzQtd3BpRnVDUHgyWVpPM05ONWV5VmZFRkpWQVp4cV9pVktlckJzaU5wVmR3TVZ4TTJ4WlNPQ2ZCbHg1ZVY0Wno2Y1VRMDNXVUR3UTl2SNIB2gFBVV95cUxNWFBGcmRfQ1FpaTVRc0lHMkVtTEs4Tm96M3c5RDRUR0VfR2d5ZURBZGR1bjZxSk9QelY1ZzZ4ZDFvbl9xU1pRekhyNFg1ajNxaXZZUlQzb3gzYkhiYUlWUFhPWC10cWdRa2ZrQ2o4Um90QXhDbXRhNGhoTWVULXBJT0pEemV2UlpIT1Q5T3dmWUJKLWdWeVBPM2NaMHRIdmtrdU16aHR4a1lyTVBvLU82SDNvS3JQREl4YUdxUTAyR25qTXVNeU1WdXJIUTlxUHpIOHQ0MFlFeXJGUQ?oc=5",
+      "data": "19/09 11:13"
     }
   ],
   "avisos": []
