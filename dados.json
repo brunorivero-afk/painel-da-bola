@@ -1,12 +1,12 @@
 {
-  "atualizado_em": "20/09/2026 07:31",
+  "atualizado_em": "20/09/2026 11:26",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-09-20",
-      "time": "07:15",
-      "competition": "Campeonato Holandês",
-      "match": "Feyenoord x Utrecht",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Albion FC x Juventud",
       "channels": [
         "DISNEY+"
       ]
@@ -14,103 +14,35 @@
     {
       "sport": "futebol",
       "date": "2026-09-20",
-      "time": "07:30",
-      "competition": "Campeonato Italiano",
-      "match": "Fiorentina x Napoli",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "Linense x Gremio Prudente",
       "channels": [
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Arminia Bielefeld x FC Heidenheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Hannover 96 x VfL BOCHUM",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "08:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Rot-weiss Essen x Hansa Rostock",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Energie Cottbus x FC St. Pauli",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "09:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Getafe x Malaga",
-      "channels": [
+        "XSPORTS",
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-20",
-      "time": "09:30",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x Telstar",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Parma x Genoa",
       "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-20",
-      "time": "09:30",
-      "competition": "Campeonato Holandês",
-      "match": "Twente x PSV Eindhoven",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Frosinone x como",
       "channels": [
-        "ESPN 2",
+        "SPORTYNET",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "09:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Ried x Wolfsberger AC",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "09:30",
-      "competition": "Campeonato Austríaco",
-      "match": "TSV Hartberg x Lask Linz",
-      "channels": [
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -148,50 +80,6 @@
     {
       "sport": "futebol",
       "date": "2026-09-20",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Frosinone x como",
-      "channels": [
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Parma x Genoa",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "Linense x Gremio Prudente",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Albion FC x Juventud",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
       "time": "10:30",
       "competition": "Campeonato Alemão",
       "match": "Bayer Leverkusen x RB Leipzig",
@@ -205,10 +93,10 @@
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "11:00",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x Palmeiras",
+      "competition": "Campeonato Turco",
+      "match": "Fenerbahce x Eyupspor",
       "channels": [
-        "PREMIERE"
+        "DISNEY+"
       ]
     },
     {
@@ -225,10 +113,10 @@
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "11:00",
-      "competition": "Campeonato Turco",
-      "match": "Fenerbahce x Eyupspor",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x Palmeiras",
       "channels": [
-        "DISNEY+"
+        "PREMIERE"
       ]
     },
     {
@@ -245,21 +133,21 @@
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Guimaraes x Moreirense",
+      "competition": "3ª Divisão Alemã",
+      "match": "Waldhof Mannheim x Preussen Munster",
       "channels": [
-        "YOUTUBE",
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Waldhof Mannheim x Preussen Munster",
+      "competition": "Campeonato Português",
+      "match": "Guimaraes x Moreirense",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "YOUTUBE",
+        "DISNEY+"
       ]
     },
     {
@@ -351,9 +239,10 @@
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Amed x Besiktas",
+      "competition": "Campeonato Português",
+      "match": "Santa Clara x SC Braga",
       "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -361,10 +250,9 @@
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "14:00",
-      "competition": "Campeonato Português",
-      "match": "Santa Clara x SC Braga",
+      "competition": "Campeonato Turco",
+      "match": "Amed x Besiktas",
       "channels": [
-        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -497,20 +385,11 @@
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "16:00",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Floresta",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Fluminense",
       "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-20",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Real Sociedad",
-      "channels": [
-        "YOUTUBE"
+        "GLOBO",
+        "PREMIERE"
       ]
     },
     {
@@ -529,21 +408,30 @@
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Fluminense",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Avai",
       "channels": [
-        "GLOBO",
-        "PREMIERE"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-20",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Avai",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Real Sociedad",
       "channels": [
-        "DISNEY+"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "16:00",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Floresta",
+      "channels": [
+        "SPORTYNET"
       ]
     },
     {
@@ -726,6 +614,118 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "07:15",
+      "competition": "Campeonato Holandês",
+      "match": "Feyenoord x Utrecht",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "07:30",
+      "competition": "Campeonato Italiano",
+      "match": "Fiorentina x Napoli",
+      "channels": [
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "08:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Rot-weiss Essen x Hansa Rostock",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Energie Cottbus x FC St. Pauli",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Arminia Bielefeld x FC Heidenheim",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Hannover 96 x VfL BOCHUM",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "09:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Getafe x Malaga",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "09:30",
+      "competition": "Campeonato Austríaco",
+      "match": "TSV Hartberg x Lask Linz",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "09:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Ried x Wolfsberger AC",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "09:30",
+      "competition": "Campeonato Holandês",
+      "match": "Twente x PSV Eindhoven",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-20",
+      "time": "09:30",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x Telstar",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-09-21",
       "time": "15:00",
       "competition": "Paulista Sub-20",
@@ -844,58 +844,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.0,
-      "temp_min": 19.7,
-      "chance_chuva": 0,
-      "condicao": "Nublado"
+      "temp_max": 27.4,
+      "temp_min": 20.2,
+      "chance_chuva": 6,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.8,
+      "temp_max": 27.5,
       "temp_min": 20.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.0,
-      "temp_min": 14.8,
-      "chance_chuva": 3,
+      "temp_max": 22.2,
+      "temp_min": 14.9,
+      "chance_chuva": 11,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.3,
+      "temp_max": 22.2,
       "temp_min": 15.1,
-      "chance_chuva": 1,
+      "chance_chuva": 3,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Corinthians x Fluminense: onde assistir, escalações e arbitragem - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2syS1BrUkNrb3BETHdZOU1kbGQxUnlhYzcxVVVOTHNJXzI3WVZJbUthOGVNbExXZDJtU3k0ZDJkcUd4SEtjWlJVUEZHZk1lX1JWV2xPeDQyUGZBRW43VGZpNEFOM0tOaVJITGVqVVVKZzFISjhjMjVCRlFWRzdOYlpfN24xRTZMYnZZN1pGYTgzZjhJYkUwdDdUTHhsNFNkRXZJSUdPQ2dSVU1SZjgzSFdPX294czlkZlNqYllPOXdlTmVfeE15N1B3NWtHQW1YYUp6d1hjLXRlRFd0R1h4OUFBSkFrUnM3Rnc?oc=5",
-      "data": "19/09 15:06"
+      "titulo": "Mauro Cezar Pereira: Só torcida única pode tirar do Fluminense 4 mil ingressos contra Palmeiras - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWW04S243S1podEZERnZESU1jdzZLQ255UC1Ibl9tSkRxeUt5STA1SzBNUElFYVdfX2p0XzBiUHR4UzNLa0tNbXhROXVzYkxWQ0J1bnZtWWJOU1dkSUZhRk9rNTliMk5JQUt3Rlp6dk9aQjEycEJZNEtmU2txdWQwLWlNNWZDMjlyb09NV1FvcGo4SEUwWkJfZDloSkJWYzZXR20xb1N4R0VYS0Jvbl9qTkR0amJ3bW8xRUo3bDBMZU93cTZVUXVFaTdMelh0c1lCUzFKLXpONWYyLWxNNmxoc0JzdVdVQllOWldWQQ?oc=5",
+      "data": "20/09 02:47"
     },
     {
-      "titulo": "Renê, do Fluminense, diz que é substimado e avalia carreira: \"Jogo em estádios que cabem minha cidade toda\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQM2REblRDc2hRRkwzTWtLSTNVSHNzVkNOOVBjOGZzQkZUVi1Tc0JDejJkV1VpSXpfZy12ajljRWZnQXZ6WnpaYnBmZURxbVVkcHQxT2dlc3VSWEp0R2tIQnRXMzdrS0I3YUF4dG9EX2w3R0doWnkxNnlGdkFOTVhqUEpjQ25oczVheVdlbjZOYnhxdUlETTIyZzNZNnlRX3I0ek0wS2xkYnctSFA1SVRuX2tlT0w0Ym1xbUtuT01Qc2NkVjV2VXZPZDhMSEE5U1VmbVR1Q2g5ZE9rYlEtb2VaUnBOZ0RMWHdwdzJ2OGNyN0RaT25pU2lMRmh2LXdDekg2YXhB0gGSAkFVX3lxTFBTcEZCVXl1NDd4Uy13RUEwQUJlaFRGeHZLZEQ5cy1XMFRWNjJVdWd0NFFBWEhxT0pDY3I0WE02SVhXUGs2RmVGLWF6VVIxR09kTW5rRjVaeWthTUE2T3k5LUduTkFzTG94N2JkcDRQU05XTlVHSTRRR21fMHBRcGdQVG0yVE9EVloxZHVzTlhXOEFSdFJSb3lCYU1JeGlsZGlQdlVYQ0Z6SFhmN01HWkNUb2RnczlQSHYzYW5XMDVHdVR0UGtqVnFHb2xmRjBiVFJkTGw3MDZ4THVQckh1LTFicHJsMk1rbm5IaW44SF9hdENUNmJYVm9TSFVpMWlNTllJd2ltQk9yNnh0TS1HR1NucGc?oc=5",
-      "data": "20/09 10:00"
+      "titulo": "Ranking de premiações: Flamengo é líder, e Fluminense passa Corinthians após classificação - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN21JaGItSndnUFA2R3c3MmVqRjdUVmZWNFdZeVNWVWhyQmp2OXY5V0J6VUlSV3hOWlhXVHRzMlB5QVdoMHNvWHo5X2FSSGVJeWU5WUxjcWd0TVNEdlF4b1FEVGFrS2J6cjVEUWlmUlJEeTZxa2xSanRiS1BKdl9HUE9tVUhtVHdtNFR6SWxONTIteFB4WlB5SThUWDViMnoxbEtVTFMtdWpfb3ZDbXdzQzM4SGFGOTd0V1I0Y0pzSjFLY3dIUm9KWmNDLTZoT0lZZEFVaUVqVVlmbi1mdWZJ0gHuAUFVX3lxTE5SdktZTTJRT0JhWjh5NlJkaUFnbFZISllpWm9pU2V6c0o0OFBxajJtX2R2a0pjaEdfcG9QUk1hc1VJODRXVE9Da1kxeHd0SjBVNzhOWEtkQWRPaVNCOFZuXzNxSW9WRDJTd2h6ZHRtX2NLTHJMalpiU1pMMEhrR1VVNFdjRVNKdDdabXo4bkxENWhBSjcxSjNrY2IyR095Ty1WdGljQl9FMmsydW5zclR6akdBbUVWalluNUZkOUNTcjl4VnZ5WkQtc3cwbEhQQU52WEtXSEwtZEVPd0hNZlFhTlF3N2N4dTc0RjlHelE?oc=5",
+      "data": "18/09 15:00"
     },
     {
-      "titulo": "Palmeiras tenta reduzir carga de ingressos, mas Fluminense exige cumprimento do regulamento da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTk4zcm5JQWJpNmpHNENnWjdvT3pPclhvSVdsdllRVDZYMmRlbjg0eUtfRzZYbzVqRXZRZFZTemxtd0RCMk53WU42R20tRnpoRGI1RVhiZk5nbkxXb1YwOGtxUUFWNEFmRWJVeUVGRmtpTEhwYUVFQlh2aGtvZU9FOTZhMnRzMkE3QXlqQ2hkMUlPVXdNZl9hbEU0SG5CUzFQWEpUWHlkZUY2NzQ4S1lJMWVQZHp2SS1mUjMxSjMxRUo4R0xtbWFkSGVJZ28xbVR5eTJGelNZdllmZDZPRDNjcGJmcEZPTGVvUEV0ZGFuRHpLWFZUd0pQTGNtZ281Y1E3R0J1REtVdFLSAZcCQVVfeXFMUEtSX2hLRm4wYzF3VGJVMGxicnJwZTRnNUJ4endvcWNTWm5GQ3F6akpBSUJ3dU1vTmZob0hDY1d2ZFNPS2RtLWtJbEZBZWZ5WDFxc1piZnBCUXNISDM1Y1RQcHFmTm8tc1dySjNsbGNRRVl3azFNdDNmRGFtVWpaWk51eVRDSVVnUEtOTHQ1bG9EZ0s3cjlNVjRJYV9lb2lCMjV6X1lVN0lQODRhWXBMbkxYZWNLb1NXdW4wN1paMWdVQnhxSGhnSDExOEQ3Mm9hakFDcUc2R3BQeDNKdldOMVdPSHN5MW5ha1dKeXJINEoyVDMtQWVSenJPaWluQld2bTFwQ19IVEFqRXJnNUk1VG5zN3RoVkpr?oc=5",
-      "data": "19/09 21:21"
+      "titulo": "Cano é sincero sobre possível final entre Fluminense e Flamengo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVEzN1UtVHl4Z19vcVpibTVDR0hVU0dOMTNwWVVTYTROQlZESUNoSGRxaE9ycjk1Mk55M1pUWWFkVXRHREZiM0ZRTm5QNXlGZ1FqWEFpMXdIRjlrSHZSRWx1UktMNkowb0lMX0laZmd2ZzJIVnVHWVNlTm5HZ0dpVkhSTktXVndsZlNxNWE1cHo0V2dSSV9GVm5kdUQzTGVQc1RkZWRtWXFFX3EzLVd4VnlTMmNoZw?oc=5",
+      "data": "20/09 12:00"
     },
     {
-      "titulo": "Fluminense vence o Alianza Lima e fica com o terceiro lugar da Brasil Cup - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXVqelJIMHI4QmFtQjJPbE1IeC1PdU4tUVZsN09ub1loYmdpZjZMSjkyU0pBaTdPTHIwMWJHMDc1QnhiNE9NMDRaV3Q3a2lrVmNwR2dJWGg5LU8wbXVDbXEyb1RwX2l5WWlnYWZ1NGVQNFlhYmhCbUpZMDZBU1Yya2NDVU91T0hXcjlFTFgwSjRHbEtaM0ZRTVVRdTNBcE5PV0xKdloyMzdFUl9KNjZxSA?oc=5",
-      "data": "19/09 21:07"
+      "titulo": "Basquete do Fluminense abre temporada contra o Flamengo pelo Campeonato Carioca - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUhyZmYtWlV2eGYwSDRSZXR1YndqU0hpSkh3UVJxVUhSbEJVMHpPRXJQSl81aDAxOGlTZnVVa0Y3ZXByUTVDOWlwcjVocXJXTENnQmRqblBYVXhQcklxcU9FbUpmR3Z3VHUtQzVGbDFzaDlGTUlQamtfelNJSnN1WjBoaEFuRTVmMDVZUDg3OTZHcEU2UzJLWVhVODgzYnRiOWUwX1JjNS1PMS1wY0R3SENuZlFOV0NO?oc=5",
+      "data": "20/09 13:21"
     },
     {
-      "titulo": "Platense é punido após invasão e briga em jogo contra o Fluminense; Conmebol não se pronunciou - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2Y5SXhvdy1nUnpib05Hc2VNd3pFbGhCcFF3S2t1RTRjLW1PelVGZlo3VTlvYk1KLTZoWEJlM2NhWWMxampxS0ZuWGhsSnpJblY1X0h6cWZWNFluSVFkeXY4RTVka3lpRExTNks2YVdBQ1RqRW4tOURka09lYTFDdUxNZXBzMzQtd3BpRnVDUHgyWVpPM05ONWV5VmZFRkpWQVp4cV9pVktlckJzaU5wVmR3TVZ4TTJ4WlNPQ2ZCbHg1ZVY0Wno2Y1VRMDNXVUR3UTl2SNIB2gFBVV95cUxNWFBGcmRfQ1FpaTVRc0lHMkVtTEs4Tm96M3c5RDRUR0VfR2d5ZURBZGR1bjZxSk9QelY1ZzZ4ZDFvbl9xU1pRekhyNFg1ajNxaXZZUlQzb3gzYkhiYUlWUFhPWC10cWdRa2ZrQ2o4Um90QXhDbXRhNGhoTWVULXBJT0pEemV2UlpIT1Q5T3dmWUJKLWdWeVBPM2NaMHRIdmtrdU16aHR4a1lyTVBvLU82SDNvS3JQREl4YUdxUTAyR25qTXVNeU1WdXJIUTlxUHpIOHQ0MFlFeXJGUQ?oc=5",
-      "data": "19/09 11:13"
+      "titulo": "Platense x Fluminense pela Libertadores; acompanhe ao vivo - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTlJCVUs0NHlYWW5mbGpmZWVCS01mOEg5MXoybUpoOU5jLUJpNkZWb3NwTkFYMFExRG9sRTNDbmNBdElvM1Y3ZVp2cUFNNFdnTlZKX184S1RNUmZaVEVTQXZMMU0wbGZWdnU0X1dVYmZWQl82X0pTMmRNUVFnTjJGUDJwWHVwWUtnS3U3S0hySU5IYWVuYW9Ncjl6RklHWlZIdmxqaWREd1JZelFPM2ctXy00RUZaS1FTSE5KdHd2MHVTNWdfTmhDcURRc3JwLTUwVldKMkJMMWR4NFpEZkM2bTRPQThiOXR0MmREV1FUWQ?oc=5",
+      "data": "15/09 22:00"
     }
   ],
   "avisos": []
