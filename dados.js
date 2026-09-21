@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/09/2026 08:50",
+  "atualizado_em": "21/09/2026 14:45",
   "jogos": [
     {
       "sport": "futebol",
@@ -111,58 +111,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.9,
+      "temp_max": 29.9,
       "temp_min": 21.0,
-      "chance_chuva": 37,
-      "condicao": "Chuva fraca"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 27.5,
-      "temp_min": 20.4,
-      "chance_chuva": 43,
+      "chance_chuva": 88,
       "condicao": "Garoa"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 28.6,
+      "temp_min": 20.4,
+      "chance_chuva": 51,
+      "condicao": "Nublado"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.6,
-      "temp_min": 15.9,
-      "chance_chuva": 61,
+      "temp_max": 23.5,
+      "temp_min": 16.2,
+      "chance_chuva": 98,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.7,
-      "temp_min": 15.5,
-      "chance_chuva": 61,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 23.6,
+      "temp_min": 15.7,
+      "chance_chuva": 96,
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Mauro Cezar Pereira: Só torcida única pode tirar do Fluminense 4 mil ingressos contra Palmeiras - uol.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWW04S243S1podEZERnZESU1jdzZLQ255UC1Ibl9tSkRxeUt5STA1SzBNUElFYVdfX2p0XzBiUHR4UzNLa0tNbXhROXVzYkxWQ0J1bnZtWWJOU1dkSUZhRk9rNTliMk5JQUt3Rlp6dk9aQjEycEJZNEtmU2txdWQwLWlNNWZDMjlyb09NV1FvcGo4SEUwWkJfZDloSkJWYzZXR20xb1N4R0VYS0Jvbl9qTkR0amJ3bW8xRUo3bDBMZU93cTZVUXVFaTdMelh0c1lCUzFKLXpONWYyLWxNNmxoc0JzdVdVQllOWldWQQ?oc=5",
-      "data": "20/09 02:47"
+      "titulo": "Hulk faz dois, Fluminense bate o Corinthians e afunda rival em crise - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDlmVHlOdGR4Q1dlVlNXcXhOMllzVUljcUNsbWxWQ2Q4M283OUpOS0dvWV9WTWduNGU1SzNIamp0cWpmRGdNZnlMQUVaNG5HSVFiRzMtNFVNNzVDR1JoUjlubF9ucjVXY2dLbU9RUlZ3SFFuM0JqYzUwMFpxYVh3cEFGZzI5UDdfZkk4dG9hSXF1cmFFR3RVdjkzYjRVUW5zeFFSc3BBSFpZaWJPY3d0emtfYUlzNUJ1a1VOQTFYNFhudWpNajRpSE1KcEhqWi1TeTUtSzFIMmJ0OFZGWHVHeC0tcC0wWXZIalBuUmhwdS1zV0N3dS1YQzhNT183cExuSVdtcQ?oc=5",
+      "data": "20/09 21:06"
     },
     {
-      "titulo": "Palmeiras tenta reduzir carga de ingressos, mas Fluminense exige cumprimento do regulamento da Libertadores - ge",
+      "titulo": "Ex-Fluminense, Zubeldía vira alvo prioritário de clube ameaçado pelo rebaixamento; veja detalhes - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXUzMkRPZHdWZ3cyejVnM3BzOWpFYXhvUFhndUtVbVNGN21na3ZpMXNabklzNzctR2g4TVRlYm1vb29xYUdzQ0o1bDFZaFp0bTF4Y3lPX1FuWEJ3QWtuUHhOY2w1NUpleHlfRHZPRUpOeS15N2JScVF6eUtoUEYyaXFGdzNtZlpmMHRyZEdNUWFTcVJkVUM4TE9nSWlGNEZEN0J2azBLUVBiWG5hS1Nkc08waVE3aFU1dlExVFNB?oc=5",
+      "data": "21/09 15:00"
+    },
+    {
+      "titulo": "Internacional negocia contratação de técnico ex-São Paulo e Fluminense - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV29vZE14ak5DN2NwcXZnTG1YdjhaY2ZfcnUtOVdQSFVHQmliRkMxdkZ0SGJ0WVI3alptZ0JrR01DaFdtZ0NlbU9KczJfMkdmSWVZSVJDM05rZ09HUWJqNmpwMk1XTTJyb284WFJkUkxrUGN4OGQtd1dsbGhsMENPSjl4dTgyRXFKVExicWlweGNPLVA0TmZSTm51MkppV0FYUWtqRFZNZlFRZGMyVUl1bkhZNi1GZHJyTWJJSEZ2S2Nia3dQSFY2cExycjdXR0E?oc=5",
+      "data": "21/09 14:49"
+    },
+    {
+      "titulo": "Palmeiras tenta reduzir carga de ingressos, mas Fluminense exige cumprimento do regulamento da Libertadores - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTk4zcm5JQWJpNmpHNENnWjdvT3pPclhvSVdsdllRVDZYMmRlbjg0eUtfRzZYbzVqRXZRZFZTemxtd0RCMk53WU42R20tRnpoRGI1RVhiZk5nbkxXb1YwOGtxUUFWNEFmRWJVeUVGRmtpTEhwYUVFQlh2aGtvZU9FOTZhMnRzMkE3QXlqQ2hkMUlPVXdNZl9hbEU0SG5CUzFQWEpUWHlkZUY2NzQ4S1lJMWVQZHp2SS1mUjMxSjMxRUo4R0xtbWFkSGVJZ28xbVR5eTJGelNZdllmZDZPRDNjcGJmcEZPTGVvUEV0ZGFuRHpLWFZUd0pQTGNtZ281Y1E3R0J1REtVdFLSAZcCQVVfeXFMUEtSX2hLRm4wYzF3VGJVMGxicnJwZTRnNUJ4endvcWNTWm5GQ3F6akpBSUJ3dU1vTmZob0hDY1d2ZFNPS2RtLWtJbEZBZWZ5WDFxc1piZnBCUXNISDM1Y1RQcHFmTm8tc1dySjNsbGNRRVl3azFNdDNmRGFtVWpaWk51eVRDSVVnUEtOTHQ1bG9EZ0s3cjlNVjRJYV9lb2lCMjV6X1lVN0lQODRhWXBMbkxYZWNLb1NXdW4wN1paMWdVQnhxSGhnSDExOEQ3Mm9hakFDcUc2R3BQeDNKdldOMVdPSHN5MW5ha1dKeXJINEoyVDMtQWVSenJPaWluQld2bTFwQ19IVEFqRXJnNUk1VG5zN3RoVkpr?oc=5",
       "data": "19/09 21:21"
     },
     {
-      "titulo": "Fluminense segue irredutível por 4 mil torcedores em semi da Libertadores com o Palmeiras - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzhmT3pzNHRCMTBjU2xTN2pXdUd6cDlBdlQ5RWFBX2dDeUJJZGhXc3NkcnVoeHdjVG9ScHFYSUkzNkp6eDlLaUtvUzhRMlpGU0JvbjlubUpTa0ZUZGNfbkpNSWJISTJWX1N0YzF5dmtXUHRMaHNsUVU3YWNvVE9wRlFfTllzVGp4dG1VQ0VfOFE4azZFSXg1SzZ2My1ka2o2Y2xSdHhtTDNXQXlYLVk0aXdCMGFaa0hHb3NVZWViaUNaZXNyZ2JtVmttN3RwMWk4SkE?oc=5",
-      "data": "19/09 21:42"
-    },
-    {
-      "titulo": "Fluminense aproveita pausa antes da reta final da temporada decisiva para recuperar o elenco - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQkVMUnF3RS1xcHRYSFJLNE1TaEJVMnZLSnBXOEY5Nkl2M3RQRi04aU8xOEdHb0ZlZTRBZ0lRZTU2d3d3U0x3dWlOYm5Kc1E3SFRjZjRuMXRURW9HT1NjaEJkNmFBMU9CU1c2RGVyUlJEWXVmYlpDSVRpNjd3SkRCLURPaE00R05Hd0ZvR1JfaFhWU055czI3RzU0enFOUnZOUHRtd2tBa2I1ZmFDTl96YnhYMkdqZ29aZHVHRlJVbzZrdkJrWXBCdmVPWFJMNUpvZkViRW84ZTR5S0R3WkRIVkdqbGttVW1kU3BxVnBTQWZETE5oZkUwWDk4M2J3RDhDVFN3V0hNR3hrbV93UjlqZw?oc=5",
-      "data": "21/09 11:09"
-    },
-    {
-      "titulo": "Fluminense respira antes de reta decisiva e ganha tempo para afinar o time - otempo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREJ0TGFnaTRBOThiSGVCUDBPb2lITXBSdnR0dVBnV0hrcnhKeEU2WTBHemh5WFk1U0dHaEhldm9TUW4weUhWZ3JBT1FXelYwVUR0UUtHNDNvOV9naTRMbnQ0ODBDbzFfZkw3OTg0QW1lSTBvcXUxM05nUGw1QWU5b1FBZVJCczFDY1FpT1g4aVdPVnNIRHFvd09lQ2lpb2c4VmttUDBoZVljSFVTWGRGSDdtMDBSS2ljZk9Dc1kxR0ZucTk0RjZsNUR1MnpIZzNHeU1fUmYtcmtQMzVSUnfSAeMBQVVfeXFMT0lLd0Vub2R5eXFLX1R5MTVUVjAtb1c0ZEVXbVZiS3BSTWNzeFRzSTVlTjZISWs2UUQzZEVDZGVRSDhOSjZPQkUyLUpaZXc2NHhZbndCbW5TcmtLNlZ5cGZWVF81Y1FCLXVyZG9kVHdJVkE0SmU5T1FHVUV2OHF4eGVKcWhMU09nd29SWlg5OTlBQVB5cERHUGJsUFR6VUdJWGVNdUlNT0EtTkc4TVpYODRTcDFHTWZqbVF0bWJXMHZzVzZrcEtld253UG84VEVwVFp3SG9CSmVSZDdhdHZzeTZJazA?oc=5",
-      "data": "21/09 08:45"
+      "titulo": "Mauro Cezar Pereira: Só torcida única pode tirar do Fluminense 4 mil ingressos contra Palmeiras - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWW04S243S1podEZERnZESU1jdzZLQ255UC1Ibl9tSkRxeUt5STA1SzBNUElFYVdfX2p0XzBiUHR4UzNLa0tNbXhROXVzYkxWQ0J1bnZtWWJOU1dkSUZhRk9rNTliMk5JQUt3Rlp6dk9aQjEycEJZNEtmU2txdWQwLWlNNWZDMjlyb09NV1FvcGo4SEUwWkJfZDloSkJWYzZXR20xb1N4R0VYS0Jvbl9qTkR0amJ3bW8xRUo3bDBMZU93cTZVUXVFaTdMelh0c1lCUzFKLXpONWYyLWxNNmxoc0JzdVdVQllOWldWQQ?oc=5",
+      "data": "20/09 02:47"
     }
   ],
   "avisos": []
