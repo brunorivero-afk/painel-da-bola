@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/09/2026 07:51",
+  "atualizado_em": "22/09/2026 12:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -45,31 +45,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.4,
-      "temp_min": 21.7,
-      "chance_chuva": 93,
+      "temp_max": 26.5,
+      "temp_min": 21.3,
+      "chance_chuva": 96,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.8,
-      "temp_min": 21.1,
-      "chance_chuva": 79,
+      "temp_max": 27.2,
+      "temp_min": 21.0,
+      "chance_chuva": 83,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.0,
+      "temp_max": 24.9,
       "temp_min": 17.8,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.3,
-      "temp_min": 16.5,
+      "temp_max": 24.7,
+      "temp_min": 16.6,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
@@ -79,14 +79,9 @@ window.PAINEL_DATA = {
       "data": "21/09 23:47"
     },
     {
-      "titulo": "Palmeiras pede aumento da carga de ingressos para torcida do Fluminense na Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHg3dV9VQUc3MUFaWktXMklqcWZhSHU2TGdxX1JITk80VGd4V1JWazcxY1RVMVd3YzhKQ2NDWWRIN0NBZV9aR0U3d3NCWXZ6bGhzekhvNU11aFRFeVZsSWgwOTVZdHlfS3lwdzVpVEdCLXFIRTZVMlNUejlSYkhWcE9Ja1JpcWZBNDZ5eWlsV2xTckhYZDVZSjhHNTlnLTBJQUo0LWF6SVJrd3ZPVUpGSXBuTGpZekpVY0Njc0pvSQ?oc=5",
-      "data": "21/09 20:32"
-    },
-    {
-      "titulo": "PM vê 'alto risco', mas ainda aguarda Palmeiras para definir torcida do Fluminense na semifinal da Libertadores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXdPaFFlSnhGREJEUXozRHRha1pIZy1ocTRJdFBrMjREU3RVS3hCT0dOc01fWFpXVVJBTGNkdTZhYUVQdmhSNzREOHVKTjB5RmxCdjIwWG1aS1gwN1hmeGhrM1duRl9tRGRFX08yRWhyRk1tWjN4LUJUazBiS0djTFowSUhKZm9lWlhnV0xzMkNfZ0NYVFZxLWIxeGxqb1R5ejNIZG9odVN6R0J4NFpobkxXTjNVaUwyc1NhckNLc0JLVnU1alZIUTMwdmc3cUlsa2lIUVJaMkFTNUYtaUE?oc=5",
-      "data": "21/09 17:31"
+      "titulo": "Fluminense lamenta morte de Zuenir Ventura, referência no jornalismo e tricolor apaixonado - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1hENDlDZE05X3VHYVZVNWhOQUx4Vy1KYTNBcmsweXRfOUFGUVJsU1Fsano1X0pnLW56TTkzTklnUVhUXzdOaDRpN2RNNWZQSDlvcWMtbTgzZUl0aXNwNmd6WHR1ajAxMVR6WHNCSE1hZUFESWs4VnExRkgyNEtPOU04NzZkQkEyU2dPRURRSld2My1VVDBjYWFTQ2UxeVk0MGt0RWJ3NGJ1eXdqUVZkWmozSXljZ2xUeTBrbmp6MWRMcjBVQnVfQ0lLWUtIQQ?oc=5",
+      "data": "22/09 14:47"
     },
     {
       "titulo": "Casagrande destaca atuação do Fluminense contra o Corinthians: 'Aula' - O Dia",
@@ -94,9 +89,14 @@ window.PAINEL_DATA = {
       "data": "21/09 17:50"
     },
     {
-      "titulo": "Quem é Keven Samuel, joia do Fluminense que encanta Marcão? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzFsYzBVMlB6RkgtZW45cEIyTGx5UU43T2Jta2doSFdaQlJjZGlQeFVoN2RvcldCZ2VWUWtRQnUxbV9NelVnWGdSejlCVktSMWZGbWtrRVczQ2E5ZmctTTZsOVRCVmt4OE16YmY5Uk43cXpUNFdiM0FXSmhDY012RWVCcjR1b0NyLUpYYVNxNlVESW5VNE8ySFlORXcyRDhpazNPYnR4Sl9EbnJhbGJIX09JUDIxQ290a2lVRG8xWE9Lanp3Vi1kMWR0Sk84VGNqS3BVSzFyV21OLWFFWDNkUTV1dHc?oc=5",
-      "data": "22/09 05:57"
+      "titulo": "Fluminense parabeniza Thiago Silva por aniversário: 'Um privilégio' - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQUNWYXcycFdscVY1a3dhXzgzSkFqN0dTbUowd2xSNzljbGh4S01kYkZGMzY4NTJpY0ItUXF4OGJ2ZmR1a01DLTNzWUxrbUgwY2p4RHFoaU5Wel9nSmZ1ZkEzSFhxNGtyQTN2cFRVWDFtT3JiNC1vbUpSNFJWRzdJNnRxdHZqb2tPdGRVbEZrSXJwYjNwNXBKeTVTTUItQWZWVUpWS3M3ZDdtY1hOMkpLejhob2RVdVJEell3VTJ5VU54ejJJQXZ2Y0J5Nnhfc3k0N2pjQUx1UFRxbjZtNmJlc2szS240Q0hzUlE?oc=5",
+      "data": "22/09 13:12"
+    },
+    {
+      "titulo": "José Neto encara Athletico-PR após nono jogo sem sofrer gol no Brasileirão Sub-17: 'Muito trabalho e suor' - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTV9yWUQxQkt3WE9vX2MtRW9tU011dmRhSlZXQkV1MkRQMUhITm4td09pc0IxUkgzLXZ4V01CWFVaSWRaWDVaeXFHY2g2RW9IMzlvWDdEb0tVYWlheURhZHlCQjJUWXhJVU5nLVlGMlU3b29XZ3dBV1phX1dPbDByb3YtZ2JiZE8xcGJPRVhiUDZURmFNdDFEZmtoUzk1RUlCZVBEcm9MWGlNaWZYNmhXYjA2TzY0dlduclFwQzNZMEU2VUo2UHR5T1pFMnN1NFJ2U1hiMGMtOUc?oc=5",
+      "data": "22/09 13:00"
     }
   ],
   "avisos": []
