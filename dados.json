@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "21/09/2026 18:37",
+  "atualizado_em": "21/09/2026 21:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -111,7 +111,7 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.6,
+      "temp_max": 30.4,
       "temp_min": 21.0,
       "chance_chuva": 88,
       "condicao": "Garoa"
@@ -120,19 +120,19 @@
       "cidade": "Araruama",
       "temp_max": 29.3,
       "temp_min": 20.4,
-      "chance_chuva": 51,
+      "chance_chuva": 69,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.5,
+      "temp_max": 23.7,
       "temp_min": 16.2,
       "chance_chuva": 98,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.5,
+      "temp_max": 23.8,
       "temp_min": 15.7,
       "chance_chuva": 96,
       "condicao": "Pancadas de chuva"
@@ -140,9 +140,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Hulk faz dois, Fluminense bate o Corinthians e afunda rival em crise - terra.com.br",
+      "titulo": "Hulk faz dois, Fluminense bate o Corinthians e afunda rival em crise - Terra",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDlmVHlOdGR4Q1dlVlNXcXhOMllzVUljcUNsbWxWQ2Q4M283OUpOS0dvWV9WTWduNGU1SzNIamp0cWpmRGdNZnlMQUVaNG5HSVFiRzMtNFVNNzVDR1JoUjlubF9ucjVXY2dLbU9RUlZ3SFFuM0JqYzUwMFpxYVh3cEFGZzI5UDdfZkk4dG9hSXF1cmFFR3RVdjkzYjRVUW5zeFFSc3BBSFpZaWJPY3d0emtfYUlzNUJ1a1VOQTFYNFhudWpNajRpSE1KcEhqWi1TeTUtSzFIMmJ0OFZGWHVHeC0tcC0wWXZIalBuUmhwdS1zV0N3dS1YQzhNT183cExuSVdtcQ?oc=5",
       "data": "20/09 21:06"
+    },
+    {
+      "titulo": "PM vê 'alto risco', mas ainda aguarda Palmeiras para definir torcida do Fluminense na semifinal da Libertadores - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXdPaFFlSnhGREJEUXozRHRha1pIZy1ocTRJdFBrMjREU3RVS3hCT0dOc01fWFpXVVJBTGNkdTZhYUVQdmhSNzREOHVKTjB5RmxCdjIwWG1aS1gwN1hmeGhrM1duRl9tRGRFX08yRWhyRk1tWjN4LUJUazBiS0djTFowSUhKZm9lWlhnV0xzMkNfZ0NYVFZxLWIxeGxqb1R5ejNIZG9odVN6R0J4NFpobkxXTjNVaUwyc1NhckNLc0JLVnU1alZIUTMwdmc3cUlsa2lIUVJaMkFTNUYtaUE?oc=5",
+      "data": "21/09 17:31"
     },
     {
       "titulo": "Palmeiras pede aumento da carga de ingressos para torcida do Fluminense na Libertadores - netflu.com.br",
@@ -150,19 +155,14 @@
       "data": "21/09 18:42"
     },
     {
-      "titulo": "Palmeiras tenta reduzir carga de ingressos, mas Fluminense exige cumprimento do regulamento da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTk4zcm5JQWJpNmpHNENnWjdvT3pPclhvSVdsdllRVDZYMmRlbjg0eUtfRzZYbzVqRXZRZFZTemxtd0RCMk53WU42R20tRnpoRGI1RVhiZk5nbkxXb1YwOGtxUUFWNEFmRWJVeUVGRmtpTEhwYUVFQlh2aGtvZU9FOTZhMnRzMkE3QXlqQ2hkMUlPVXdNZl9hbEU0SG5CUzFQWEpUWHlkZUY2NzQ4S1lJMWVQZHp2SS1mUjMxSjMxRUo4R0xtbWFkSGVJZ28xbVR5eTJGelNZdllmZDZPRDNjcGJmcEZPTGVvUEV0ZGFuRHpLWFZUd0pQTGNtZ281Y1E3R0J1REtVdFLSAZcCQVVfeXFMUEtSX2hLRm4wYzF3VGJVMGxicnJwZTRnNUJ4endvcWNTWm5GQ3F6akpBSUJ3dU1vTmZob0hDY1d2ZFNPS2RtLWtJbEZBZWZ5WDFxc1piZnBCUXNISDM1Y1RQcHFmTm8tc1dySjNsbGNRRVl3azFNdDNmRGFtVWpaWk51eVRDSVVnUEtOTHQ1bG9EZ0s3cjlNVjRJYV9lb2lCMjV6X1lVN0lQODRhWXBMbkxYZWNLb1NXdW4wN1paMWdVQnhxSGhnSDExOEQ3Mm9hakFDcUc2R3BQeDNKdldOMVdPSHN5MW5ha1dKeXJINEoyVDMtQWVSenJPaWluQld2bTFwQ19IVEFqRXJnNUk1VG5zN3RoVkpr?oc=5",
-      "data": "19/09 21:21"
+      "titulo": "Palmeiras quer 10% dos ingressos no Maracanã e amplia a crise com o Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRldqdUExSUVxS1FsWUdrb3hzN0lqYWpXVmpSQlBfUDZLTXRHODJ2OWhINnhqUS1XNVBYTzFPcFBGbUxzX256UjJrZzdpREJDLWRBV2FzVFg1UmNBQVlMZ0JqNVdoUm5TdVdLaXFMeTFmQU9MZ3pHWmVoQU5neThmQk1Bc05wbTZvZG56Sy1XRlE4R1JkU0F2T2ZjcVVHcTUxSUFvN1BweUh5R2puOXBDNUdKcUNrTXdLMzE5ZGJvRHowZTlVT0tvaG1lZDRlNkVibXRhMFJveldsYlg4MDJMbTFrYS1VdWtSWUlMUldfa1ZxNXVjTWxoUmxnVQ?oc=5",
+      "data": "21/09 23:25"
     },
     {
-      "titulo": "Palmeiras pedirá às autoridades o aumento da carga de visitantes na semifinal da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ0xicUY5bldJMF83RHA5bUxtZVlDZVYtVG1jUmFqRWExLUJLaTlWQlFyQ2Fibi0zREU0QUIyRlZzMEliLUh1ZzQ0ai0zYlZsdnJfcURLVWQybU01ejR5bkJqRFU5VWNfQ2trWFdZemNvaEdFd3FYRE9mOFVXN1FCSXBlb2o3eHlqR1FjVEUtMEVRNDFLbk1HbUVTdnNzMnBxWUtzV2R3SmlIc2hQSENzUEdTWXc0ZkJzRXNNM0JLMXgzRVJ0Z3NHdTh3cVl3aWdPbGt1MWZwOHJxUlZLZXozbGVmUm5KN0d6emNmNDFWS2JPY1ZGaEHSAYQCQVVfeXFMTUVOai1udS1ZVG9LSU5VT2pyakJ4NV9VSzEzVllDd1lsSXljWVVTbkpzUnV2QjBfLUJKNXlCS0xKaUpjMmFpQ1B1UHAtNzI5ekFGMkFzLVBPSUFmNTA2ZzBKMUFoSVVzNWF2SENOaURNUTZWeFVEUHE3dGpTVERfNGM2UE05MVRkYURiMjBfZ0E5RXdNVEJ0MFpKMXRuRGR0RGcxNWkyLUJwSFVrSGFhVV9yT1Nta1J5WGxkTmp4cFZUWlF2SnZ5SWg3azBiVEY3MVpkdEtqMlQtamJtQmNRZnJyMzBjUU5iZWlhb3JzVTBzTWVSTExKb21pTkFLMG9fLWlUSkU?oc=5",
-      "data": "21/09 18:20"
-    },
-    {
-      "titulo": "Canobbio abre o jogo sobre negativas para deixar o Fluminense - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV3NCZjhRSThBQUNjVDltX2lxR3kxMFZ4OTZUQjM2VTBYa0EtWFdyTWpxTHZCckVoSG5jWmJSQ3ljazVQWlEzTXZQTGFXN1BNQ3VZSGxMOVloYUJ3Z0hDNWhtMFBZRi1NNmQtOWprX2RjaE1Bb3FmQ1ROS0hBa1l3UE16ZkhJYXpkQldDc0tUaHBZbGlYV2ROVVJabWpJTnNYRWMtT2hvb2dxSDZBQ2pKMFFFcWFEbGJLRWxzcW1XY2JIZ1dILXhJSmRTZm5iSF9zeHczaDBmNnNfb2ZLX1ZhckJPQk14T2s?oc=5",
-      "data": "21/09 19:28"
+      "titulo": "Clubes aprovam redução no limite de estrangeiros no Brasileirão; entenda - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTh1aG82ZkMzNmRwRjRXc1pfd21fTlplTEZfRHlmZEpwekIyS05qdGgyQ3JoMWp2Y1VxOUJUOU1TZFRONUJ5Q0QxWnhiZHk4anFQQkc5SUFoWkxhdHE1cGtsVWxNQ2FtcWVnTFVMR0Rfc3d0bk5KSWtzYXA0bC1jdm5VY0k1dGZLV1ppQmtEX29ZZk5QUi02MHI1TjFvSVU?oc=5",
+      "data": "21/09 20:57"
     }
   ],
   "avisos": []
