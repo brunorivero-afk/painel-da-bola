@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/09/2026 16:30",
+  "atualizado_em": "22/09/2026 19:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -79,24 +79,24 @@ window.PAINEL_DATA = {
       "data": "21/09 23:47"
     },
     {
-      "titulo": "Entenda como a nova regra de jogadores estrangeiros afetará o Fluminense até 2030 - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFo3UHJHTkJOSDNSM29ZelRWS2lIS3NZeTlacHBIWlpKRlpKRTlXZ1AtUUhNMlUzLUFyZUtMUXZVOUN4WXB0eWU5ZXJQc21jRkpram5Xekdwc3V2UkZ2bTNlUTlCekhPVHlISGJYM2xwdFB1ZDZLSnA3NUhmS3A0QzBTbzg2TktfZ19zSVV1OUNRM3BMSnNlYTFUMXZKODV6Z2dGQm9ZOTJIRE12QzBMeVFmbnNseUR5bzJqbmd6Zw?oc=5",
-      "data": "22/09 17:38"
+      "titulo": "Após recusa de técnico ex-Fluminense, clube da Série A encontra dificuldades para contratar treinador - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkFiMGd6NVI2bk1mSGVyVy1UV1pPMUN4QmwyUG1jU2dmVnJyTVRlZDQ4Y1JoVWZqQ0h6N044UjFVMndYUnVGaVRjd2xERHpVajI2eGZCSnQtVktMeGdoMWl5MFp4VURPZ2lEZlFWTFpwTkdsMmNIMTNPQlpXZnNxZFVUVVR5c2xRbHRuNmk5X19IcWdHcVdqZ0ZBMnEwRVNNdF82dVhReW0yMTJjaThaWWRrVVhDWWxrNWd0Y3hwN0ZydENGREE?oc=5",
+      "data": "22/09 19:12"
     },
     {
-      "titulo": "Fluminense parabeniza Thiago Silva pelos 42 anos: \"Maior da história\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcXVFYlVTWS1GZDJaMnVvOHotbzV2RFFpN0ZtX0NmR3luc19FbmlCalExZFlkOHNDamlSaUZBZlNtMEtYZlN6MGNNaFZRMmd2aDBMRUhscHZMbHNFVUNCWVZNUmwybjgyaENzQW9jTFl2TTI1SE9wOHdLMTQ4RV91OHQtSHdmamFHUkFDeS1reFFaYzZNWDhlaUZKb3F3SFhiempVRU4wQlNzQ3lMRTE2d3ZfSnBucHJfWjA3RDFzeFFiUmxFbTd4RXpsSXJkSG1IT1l2RGhFMTVxaVRvM2RNMW1uU2phNUU5UWdCNnN3?oc=5",
-      "data": "22/09 17:40"
+      "titulo": "Limite de estrangeiros pode encerrar passagem de Cano no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcjlHRFJvOTFrY1dla2x3TTlRbmh0WUVGZHkzV21Uckp3NUlOaTlVcm0yVlZKWkctVlN6bkU5NFhQSFBsWHdsZmJuYUhzU2czMkRzcUlrSVNneTJFVEFVV3gwSnhMX2dNLVFwTHFHM19oRGVDRlRUeFAxR1VFcmdLYlhVYVV5Nk1fZm1hVTVzS2ppbDhNWHZkOVJlbGY4bHYzUHhKS25odFc4NU1DVlFXenBKUnlaRlVHbklqTWlBTG5QdkZjRXdLdXZTUVVpdmFpSUdMTWVobV9weV9ieXFwck40MmdZbElUWXBtMURDbw?oc=5",
+      "data": "22/09 18:22"
     },
     {
-      "titulo": "Thiago Silva, do Fluminense, completa 42 anos e 23º de carreira; zagueiro é mais velho da Série A - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOFUtMXd6UmFNYnFNRXNMMGY0cDRPX3RfcDZhcTZwbWxKbDhBdUVjakZqNmNOWmw4UFdsd21zbGN5YnFuZHBzLUo4dzBTUmxSdVlhQ29ZMEVNa0xaV0tSbng4cXkzOVViNmIxazRtdHEzMjhxME5vYzBSVGVud0xKZ04zODFoS3dLXzBybnM3X042WGZWckJXTXB1Q3FxSXdtMlRtN2s4dm8xNjlBMDBOYjY5dGFES3l4NWgtUjdnamU2eDZWb1Y0NllHclhaVmx3NDJzS1prZng1RThLeTB3ZG9US21RM1drdVoyWlZBeGZ4RmdEbWxQbdIBhwJBVV95cUxNV3RvQmNlb184RWljeUJtVlI2dXNDdnhoc3RKcTNRYW9qWnNqQjNrM1RPMk5wOGwybjlNSVFmSnZSSmRMYlpfTTlSci0tTUZKa25zOExfOUFUSVpuUFdYOXRWRnVtaW9DRG1rY01FYkRQdFV0TXgyOGlXQmJDV2FFUzJMbXJKM2ZTSXVuVlI4UnRiWmFwT3BOd21Zbi1INXFDa2hfTFBFZHFIYnYtWWpHSUJMcFRlNnVOREtMLVdiblBJMHI2Q0xnT0lBZ05kal9uVDdwNWR0NkZ3S2ZwUmxPbllzdjhLa3pHd2dkR3o1MFBjalBBMURNSTk1Z0lNUFh4SHIxRGVRQQ?oc=5",
-      "data": "22/09 17:29"
+      "titulo": "Canobbio explica sobre ofertas recusadas para o deixar o Fluminense - itatiaia.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcWw2ZUxUcUJTR25KWExzcWkwQ1VkbUZDaDcwNVNlUzV2RFZTSHg3RTNESWtySUFzT0JILVVKbi1mM2Z3UE1OcFZJTzZDeGJTNDl5bXhzYmNLaXdvMFJ5YWJCVl9pNXlvLVlGYXNBZzVVUkhHZlNQV1hrSHVOMkh0WjFWSUU2ZEtxeE5aUU1CUGg1R2VkWFRzX3FEYzVXc3Z0ck9jeTNnSWctVV90eUFrZEpRLXlyUnlKYTVDMU95dWtRWDd3TDZ0MUlYY2RKNnAxYVp2Y0pGVklMSE83bXF2Mm1COGxFSGd6Tk5KY3BR?oc=5",
+      "data": "22/09 19:41"
     },
     {
-      "titulo": "Conhecer Diniz foi decisivo? Thiago Silva revela bastidores de vitória do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEhncU5aVE1YblJBa0pBc3RQdHhiQWxBd2pOdUxucDZVZTQ3dlRKZDZFOUZxVWlmV2t5a0o1cmZRb0xUYTNoUUYwWXhZNDBhSzFUcHoyNjAyVUN5QXhIY3BONElVWHpvbnVULTlkdDFjQlZTd2lDRENlQTk5Q2Vjc2czald1X19TSzIxSUVPUUlpaGpDOGNsdHZmRjdWcHVxeFNfQThJUUkxQlM1YXFj?oc=5",
-      "data": "21/09 13:00"
+      "titulo": "Fluminense parabeniza Thiago Silva pelos 42 anos - SBT Sports",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNDN1Sjd5Vnk0ZklCUnEybldOSGJSUC1tV3pfZklmYnVoT1VDYklaZTJqSVJmenJ2S2YtTUhqWFZsYnkwZmZnTEtiSnFJZnpXa0M1MFVDenNBdkxsYUlIdW9XQVI2dnIweTdRbWJONENPbU5mOXlUNDhSeVJBQXJtc0JDTG54SUdCUU1uTDRfdlJUSkdkczJpZTl3OA?oc=5",
+      "data": "22/09 14:38"
     }
   ],
   "avisos": []
