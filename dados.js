@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/09/2026 02:47",
+  "atualizado_em": "22/09/2026 07:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -45,36 +45,36 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.6,
+      "temp_max": 28.4,
       "temp_min": 21.7,
       "chance_chuva": 93,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.6,
-      "temp_min": 20.0,
+      "temp_max": 28.8,
+      "temp_min": 21.1,
       "chance_chuva": 79,
-      "condicao": "Garoa"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.9,
-      "temp_min": 17.7,
+      "temp_max": 27.0,
+      "temp_min": 17.8,
       "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.9,
-      "temp_min": 17.3,
+      "temp_max": 28.3,
+      "temp_min": 16.5,
       "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge.globo.com",
+      "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUpuT2JpYmJHZkVSNkkzTlRub1dBQXQ5UUUzMEtUYjZ0S1dtZlA2STdpLUl2M1Myb2QwWk9tYWdHdHczc2NqZVlWbUtmYmNpRi1hVXQ0d0tvRjc3SVZRWi1BbmlIckQ2cGJUWlVNLXMzZlA3WmN3dlBmVVg1aWlNZEctZ2pfLWtrZ2ptRUZTZzN5NVNRS25OdjItTW82YXRicG03RllwcWpjUmVlSnBmRDEzSHlrQ1huZk5rRF9ZSVpDSTk5Sm9WN0JZRVFFWW4zdFllWXBxZDhLYXJfQTNRV1ZtQUFzdVFiZUJHd09td2xWTXJiMFhJdTJmQVBwOWfSAY4CQVVfeXFMTUIxZXpBWGx5d3RJUGJXSUVqQTkwSnN4RGtaREJNU2loSGEyZzBMMTBDMTJwNWNjMnc2OWZXYmRIYVFwTFdTakJOZjBFcXVjNURjZVVCbVJrS3VGV1MwazJRNWxwbEpmNzFBQzVGb004bTdqNGx0WmZZaHBKQnZlMS05UmRWS2dYeGs5S0h3czJyckJWVmlfbUw4ajhYOUJCRE43VFBtOFQ2bTV6a2Z2TTlXdzdGb2I1SVZNTFVWWnFfMzF3Tjg3R0NlVFNQUGNMTzd0MmItd3NiS0JHd2xvSndCbmZaMlMzRW5MZlJ0eEdzcGxoRGItb2ktV3dxTnUtQThYRkdGaWthbFRxd2Jn?oc=5",
       "data": "21/09 23:47"
     },
@@ -84,19 +84,19 @@ window.PAINEL_DATA = {
       "data": "21/09 20:32"
     },
     {
-      "titulo": "PM vê 'alto risco', mas ainda aguarda Palmeiras para definir torcida do Fluminense na semifinal da Libertadores - espn.com.br",
+      "titulo": "PM vê 'alto risco', mas ainda aguarda Palmeiras para definir torcida do Fluminense na semifinal da Libertadores - ESPN Brasil",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXdPaFFlSnhGREJEUXozRHRha1pIZy1ocTRJdFBrMjREU3RVS3hCT0dOc01fWFpXVVJBTGNkdTZhYUVQdmhSNzREOHVKTjB5RmxCdjIwWG1aS1gwN1hmeGhrM1duRl9tRGRFX08yRWhyRk1tWjN4LUJUazBiS0djTFowSUhKZm9lWlhnV0xzMkNfZ0NYVFZxLWIxeGxqb1R5ejNIZG9odVN6R0J4NFpobkxXTjNVaUwyc1NhckNLc0JLVnU1alZIUTMwdmc3cUlsa2lIUVJaMkFTNUYtaUE?oc=5",
       "data": "21/09 17:31"
     },
     {
-      "titulo": "Hulk faz dois, Fluminense bate o Corinthians e afunda rival em crise - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDlmVHlOdGR4Q1dlVlNXcXhOMllzVUljcUNsbWxWQ2Q4M283OUpOS0dvWV9WTWduNGU1SzNIamp0cWpmRGdNZnlMQUVaNG5HSVFiRzMtNFVNNzVDR1JoUjlubF9ucjVXY2dLbU9RUlZ3SFFuM0JqYzUwMFpxYVh3cEFGZzI5UDdfZkk4dG9hSXF1cmFFR3RVdjkzYjRVUW5zeFFSc3BBSFpZaWJPY3d0emtfYUlzNUJ1a1VOQTFYNFhudWpNajRpSE1KcEhqWi1TeTUtSzFIMmJ0OFZGWHVHeC0tcC0wWXZIalBuUmhwdS1zV0N3dS1YQzhNT183cExuSVdtcQ?oc=5",
-      "data": "20/09 21:06"
+      "titulo": "Casagrande destaca atuação do Fluminense contra o Corinthians: 'Aula' - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdTMtbElWYjFCSHRfeEpmM1d2YTNBTUN4ejlfVUpYamQ5RDVfbjRjbU10RW41aFN0dm1HZEVGWXZNRGc4dnA1OWY4VmZfWloxX21oaWRKb243bWJVUXdZM3o5b1p4YXp2U1pMNW15ZkJia3JBUHp1MW9MeUo2cWRDWkVpQXVQSDhrVGlqOXI5b3dUbWpaVkxhZDhjLUVlUmZZSGNtYXo0RG5BRmZINUJxakxta01oQmhDY2NNMk9vTFVBeUhCd1ZuVNIBzgFBVV95cUxOckJSVmtoRlZ6cEIwWDRtMEtTaDJucnRqYjdYVDNMVXVCLUdOTUhTSXRadXljLUNMT1BaYzFETVJBdFVjOE93cU15bjdoUUtmZHpmVnI4eUJpR3RNcXpZcENseW1IbTRRRHZaRllpWnhYMFBJNnVIcGdkdFFfVkMtUXFMTzd5dzRIWUw4RWh0Q24zck1UU0U4WVFZRFlDZnZ0MEthNkRxbU5MaUZ1Sjhzc0Z0cGY1b2JWejRTdHdEVjVYc3FTOU5BSVBSbkh5Zw?oc=5",
+      "data": "21/09 17:50"
     },
     {
-      "titulo": "Carlos Miguel chega a seis gols nos últimos sete jogos no Brasileirão Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3FZOFkxR0tlLWEwVjNGRlRTMXdhMjhnWlFyMmUtdGl5S19ZeGxpMS1vbjR4cWFxM3RLZzNRRDVlUXllVHAtOVFVUnJwZjB0YV9qdGVWeGJHX1lhMFQ0QjdDY2V2UlJuNXdjdWloSGdYQUY5RUV6TDFLUGFuV3dtT3k2V0NUdXp5dGo5TGtzRER6OWFWcXNad0tuSDNuczBWbWtrMmxEMmE2NGdnQXRjSGI1MHk?oc=5",
-      "data": "21/09 14:30"
+      "titulo": "Quem é Keven Samuel, joia do Fluminense que encanta Marcão? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRzFsYzBVMlB6RkgtZW45cEIyTGx5UU43T2Jta2doSFdaQlJjZGlQeFVoN2RvcldCZ2VWUWtRQnUxbV9NelVnWGdSejlCVktSMWZGbWtrRVczQ2E5ZmctTTZsOVRCVmt4OE16YmY5Uk43cXpUNFdiM0FXSmhDY012RWVCcjR1b0NyLUpYYVNxNlVESW5VNE8ySFlORXcyRDhpazNPYnR4Sl9EbnJhbGJIX09JUDIxQ290a2lVRG8xWE9Lanp3Vi1kMWR0Sk84VGNqS3BVSzFyV21OLWFFWDNkUTV1dHc?oc=5",
+      "data": "22/09 05:57"
     }
   ],
   "avisos": []
