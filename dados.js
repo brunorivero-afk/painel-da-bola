@@ -1,95 +1,29 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/09/2026 21:31",
+  "atualizado_em": "22/09/2026 02:47",
   "jogos": [
     {
       "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Operário-PR",
+      "date": "2026-09-23",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "ADT x Cienciano",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "FANATIZ"
       ]
     },
     {
       "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Atletico Torque",
+      "date": "2026-09-23",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "Seattle Sounders x Real Salt Lake",
       "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "20:30",
-      "competition": "Copa Paulista",
-      "match": "Juventus x Uniao Sao Joao",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "21:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Náutico",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "21:30",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x Bahia (F)",
-      "channels": [
-        "TV BRASIL",
-        "SPORTV",
-        "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "EC São Bernardo Sub-20 x São Paulo U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Jabaquara U20 x Santos Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-21",
-      "time": "16:00",
-      "competition": "Paulista Sub-20",
-      "match": "Ituano Sub-20 x Palmeiras Sub-20",
-      "channels": [
-        "XSPORTS"
+        "APPLE TV"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "time": "18:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Pinheiros x Sesi-Bauru",
@@ -99,7 +33,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Fluminense",
@@ -111,58 +45,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.4,
-      "temp_min": 21.0,
-      "chance_chuva": 88,
-      "condicao": "Garoa"
+      "temp_max": 31.6,
+      "temp_min": 21.7,
+      "chance_chuva": 93,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.3,
-      "temp_min": 20.4,
-      "chance_chuva": 69,
-      "condicao": "Garoa fraca"
+      "temp_max": 30.6,
+      "temp_min": 20.0,
+      "chance_chuva": 79,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.7,
-      "temp_min": 16.2,
-      "chance_chuva": 98,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 26.9,
+      "temp_min": 17.7,
+      "chance_chuva": 100,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.8,
-      "temp_min": 15.7,
-      "chance_chuva": 96,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 27.9,
+      "temp_min": 17.3,
+      "chance_chuva": 100,
+      "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUpuT2JpYmJHZkVSNkkzTlRub1dBQXQ5UUUzMEtUYjZ0S1dtZlA2STdpLUl2M1Myb2QwWk9tYWdHdHczc2NqZVlWbUtmYmNpRi1hVXQ0d0tvRjc3SVZRWi1BbmlIckQ2cGJUWlVNLXMzZlA3WmN3dlBmVVg1aWlNZEctZ2pfLWtrZ2ptRUZTZzN5NVNRS25OdjItTW82YXRicG03RllwcWpjUmVlSnBmRDEzSHlrQ1huZk5rRF9ZSVpDSTk5Sm9WN0JZRVFFWW4zdFllWXBxZDhLYXJfQTNRV1ZtQUFzdVFiZUJHd09td2xWTXJiMFhJdTJmQVBwOWfSAY4CQVVfeXFMTUIxZXpBWGx5d3RJUGJXSUVqQTkwSnN4RGtaREJNU2loSGEyZzBMMTBDMTJwNWNjMnc2OWZXYmRIYVFwTFdTakJOZjBFcXVjNURjZVVCbVJrS3VGV1MwazJRNWxwbEpmNzFBQzVGb004bTdqNGx0WmZZaHBKQnZlMS05UmRWS2dYeGs5S0h3czJyckJWVmlfbUw4ajhYOUJCRE43VFBtOFQ2bTV6a2Z2TTlXdzdGb2I1SVZNTFVWWnFfMzF3Tjg3R0NlVFNQUGNMTzd0MmItd3NiS0JHd2xvSndCbmZaMlMzRW5MZlJ0eEdzcGxoRGItb2ktV3dxTnUtQThYRkdGaWthbFRxd2Jn?oc=5",
+      "data": "21/09 23:47"
+    },
+    {
+      "titulo": "Palmeiras pede aumento da carga de ingressos para torcida do Fluminense na Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHg3dV9VQUc3MUFaWktXMklqcWZhSHU2TGdxX1JITk80VGd4V1JWazcxY1RVMVd3YzhKQ2NDWWRIN0NBZV9aR0U3d3NCWXZ6bGhzekhvNU11aFRFeVZsSWgwOTVZdHlfS3lwdzVpVEdCLXFIRTZVMlNUejlSYkhWcE9Ja1JpcWZBNDZ5eWlsV2xTckhYZDVZSjhHNTlnLTBJQUo0LWF6SVJrd3ZPVUpGSXBuTGpZekpVY0Njc0pvSQ?oc=5",
+      "data": "21/09 20:32"
+    },
+    {
+      "titulo": "PM vê 'alto risco', mas ainda aguarda Palmeiras para definir torcida do Fluminense na semifinal da Libertadores - espn.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXdPaFFlSnhGREJEUXozRHRha1pIZy1ocTRJdFBrMjREU3RVS3hCT0dOc01fWFpXVVJBTGNkdTZhYUVQdmhSNzREOHVKTjB5RmxCdjIwWG1aS1gwN1hmeGhrM1duRl9tRGRFX08yRWhyRk1tWjN4LUJUazBiS0djTFowSUhKZm9lWlhnV0xzMkNfZ0NYVFZxLWIxeGxqb1R5ejNIZG9odVN6R0J4NFpobkxXTjNVaUwyc1NhckNLc0JLVnU1alZIUTMwdmc3cUlsa2lIUVJaMkFTNUYtaUE?oc=5",
+      "data": "21/09 17:31"
+    },
     {
       "titulo": "Hulk faz dois, Fluminense bate o Corinthians e afunda rival em crise - Terra",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObDlmVHlOdGR4Q1dlVlNXcXhOMllzVUljcUNsbWxWQ2Q4M283OUpOS0dvWV9WTWduNGU1SzNIamp0cWpmRGdNZnlMQUVaNG5HSVFiRzMtNFVNNzVDR1JoUjlubF9ucjVXY2dLbU9RUlZ3SFFuM0JqYzUwMFpxYVh3cEFGZzI5UDdfZkk4dG9hSXF1cmFFR3RVdjkzYjRVUW5zeFFSc3BBSFpZaWJPY3d0emtfYUlzNUJ1a1VOQTFYNFhudWpNajRpSE1KcEhqWi1TeTUtSzFIMmJ0OFZGWHVHeC0tcC0wWXZIalBuUmhwdS1zV0N3dS1YQzhNT183cExuSVdtcQ?oc=5",
       "data": "20/09 21:06"
     },
     {
-      "titulo": "PM vê 'alto risco', mas ainda aguarda Palmeiras para definir torcida do Fluminense na semifinal da Libertadores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXdPaFFlSnhGREJEUXozRHRha1pIZy1ocTRJdFBrMjREU3RVS3hCT0dOc01fWFpXVVJBTGNkdTZhYUVQdmhSNzREOHVKTjB5RmxCdjIwWG1aS1gwN1hmeGhrM1duRl9tRGRFX08yRWhyRk1tWjN4LUJUazBiS0djTFowSUhKZm9lWlhnV0xzMkNfZ0NYVFZxLWIxeGxqb1R5ejNIZG9odVN6R0J4NFpobkxXTjNVaUwyc1NhckNLc0JLVnU1alZIUTMwdmc3cUlsa2lIUVJaMkFTNUYtaUE?oc=5",
-      "data": "21/09 17:31"
-    },
-    {
-      "titulo": "Palmeiras pede aumento da carga de ingressos para torcida do Fluminense na Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHg3dV9VQUc3MUFaWktXMklqcWZhSHU2TGdxX1JITk80VGd4V1JWazcxY1RVMVd3YzhKQ2NDWWRIN0NBZV9aR0U3d3NCWXZ6bGhzekhvNU11aFRFeVZsSWgwOTVZdHlfS3lwdzVpVEdCLXFIRTZVMlNUejlSYkhWcE9Ja1JpcWZBNDZ5eWlsV2xTckhYZDVZSjhHNTlnLTBJQUo0LWF6SVJrd3ZPVUpGSXBuTGpZekpVY0Njc0pvSQ?oc=5",
-      "data": "21/09 18:42"
-    },
-    {
-      "titulo": "Palmeiras quer 10% dos ingressos no Maracanã e amplia a crise com o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRldqdUExSUVxS1FsWUdrb3hzN0lqYWpXVmpSQlBfUDZLTXRHODJ2OWhINnhqUS1XNVBYTzFPcFBGbUxzX256UjJrZzdpREJDLWRBV2FzVFg1UmNBQVlMZ0JqNVdoUm5TdVdLaXFMeTFmQU9MZ3pHWmVoQU5neThmQk1Bc05wbTZvZG56Sy1XRlE4R1JkU0F2T2ZjcVVHcTUxSUFvN1BweUh5R2puOXBDNUdKcUNrTXdLMzE5ZGJvRHowZTlVT0tvaG1lZDRlNkVibXRhMFJveldsYlg4MDJMbTFrYS1VdWtSWUlMUldfa1ZxNXVjTWxoUmxnVQ?oc=5",
-      "data": "21/09 23:25"
-    },
-    {
-      "titulo": "Clubes aprovam redução no limite de estrangeiros no Brasileirão; entenda - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTh1aG82ZkMzNmRwRjRXc1pfd21fTlplTEZfRHlmZEpwekIyS05qdGgyQ3JoMWp2Y1VxOUJUOU1TZFRONUJ5Q0QxWnhiZHk4anFQQkc5SUFoWkxhdHE1cGtsVWxNQ2FtcWVnTFVMR0Rfc3d0bk5KSWtzYXA0bC1jdm5VY0k1dGZLV1ppQmtEX29ZZk5QUi02MHI1TjFvSVU?oc=5",
-      "data": "21/09 20:57"
+      "titulo": "Carlos Miguel chega a seis gols nos últimos sete jogos no Brasileirão Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3FZOFkxR0tlLWEwVjNGRlRTMXdhMjhnWlFyMmUtdGl5S19ZeGxpMS1vbjR4cWFxM3RLZzNRRDVlUXllVHAtOVFVUnJwZjB0YV9qdGVWeGJHX1lhMFQ0QjdDY2V2UlJuNXdjdWloSGdYQUY5RUV6TDFLUGFuV3dtT3k2V0NUdXp5dGo5TGtzRER6OWFWcXNad0tuSDNuczBWbWtrMmxEMmE2NGdnQXRjSGI1MHk?oc=5",
+      "data": "21/09 14:30"
     }
   ],
   "avisos": []
