@@ -1,14 +1,46 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/09/2026 10:17",
+  "atualizado_em": "23/09/2026 15:11",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-09-23",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Gibraltar x Sao Tome and Principe",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "OH Leuven (F) x Roma (F)",
       "channels": [
-        "SPORTV 3"
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Servette Chenois (F) x Lyon (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "16:00",
+      "competition": "Champions League Feminina",
+      "match": "Chelsea (F) x Austria (F)ien (F)",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "16:00",
+      "competition": "Champions League Feminina",
+      "match": "Barcelona (F) x Paris FC (F)",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -29,6 +61,169 @@ window.PAINEL_DATA = {
       "match": "Seattle Sounders x Real Salt Lake",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Azerbaijão x Tajiquistão",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Gibraltar x Sao Tome and Principe",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Andorra x Malta",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Sérvia x Grécia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Portugal x Gales",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Áustria x Israel",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Noruega x Dinamarca",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Liechtenstein x Lituânia",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Kosovo x Irlanda",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Holanda x Alemanha",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Puerto Rico x Guyana",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "República Dominicana x Nicarágua",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "21:10",
+      "competition": "CONCACAF Nations League",
+      "match": "Cayman Islands x Dominica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "21:20",
+      "competition": "CONCACAF Nations League",
+      "match": "Haiti x Trinidad and Tobago",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "22:00",
+      "competition": "2ª Divisão Mexicana",
+      "match": "Alebrijes de Oaxaca x CA La Paz",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "23:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Costa Rica x Curaçao",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -104,29 +299,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense já tem problema para resolver com nova regra de estrangeiros no Brasileirão; veja cenário - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOankwUHdmVmdZMWc4TV9FWHlnTkVHNVI3UVZDbWM4bzZzZDN4YmJ0cUlsOUtnMC1pSFUySjdMYngxRHZ4ZkEwRkJXMkxhTGk0LTRELXN6Q1NQTVktX29mdFV0UEFicVNqWUVzSmRGWXBLbi1uTHlkNDBGU1JVUUhQOUJicGsyR19GRmRISEZZeTNNT1B4M1RELXFia3VOZ19CTms2Q2RUUXRkamlUVU1OZ3Q2YS16S3hENEFEdFV5MUUyVTNB?oc=5",
-      "data": "22/09 13:00"
-    },
-    {
-      "titulo": "Estrangeiros emprestados pelo Fluminense podem ser impactados por nova regra; entenda - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZXNzh6RjZpYnBCX0VpY25NMUFLNTVuNHlVWWdqd0ZDYkRGY29lTXZqYXBYQ2lwQnoxRVdHR3hnX25jOV94SzBQcW5ZcndqMjMyUHMzNkVMVFBIbVVvVzdwN1JoVDgwS0J6dXN0dGZON2VyR19KbVRHUVE1U202U2NCRUlVcnRvVHNWclR1Vy05S2lmNE9pUmZyVkdBVXFCSjA4bG9sSU5vSzJsMUVvaFhQLUZ0dV9CRFh5WjJ0ZWdGRS1pQld2d0I4NDQxZThXOHdWZ3F6M2toVzBNMHRlQlFxcW9tTFE1ZlMwatIB-wFBVV95cUxOeXVpVUpRN1MyRkl6TkhZdW8wa1hoU19teU14VTdYQk8zTDNUTW9iRzh6TS03RXVzX0JMbGljU2o2aHY5cnBvN2k3TjlPc3pJZDhDQnkyZ3phUE44UjlZbXRralFCV2plNkJMVk5ocDhITEpsUUxWVF95ZTFTb3J3cEhUTDFkU09sTHRnXzRBbi03WC1CTG5QaHRPSUgwOGd0X0U5c3FQeGxTUmgweWhELUxqX3pVWVkyR1B0X0V3NnUzd2x0Rk1lX2ZuLWxLVmRrdzRxeU1qLXpPVFRVU1FVS0FkeldUU1dBU2hjb2VlcUtYNldMSEk0Qzlfbw?oc=5",
-      "data": "22/09 20:01"
-    },
-    {
-      "titulo": "Lavega, Lezcano e mais: como ficam os emprestados do Fluminense após mudança de regra? - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3JuZ1RDcEkxNENFUTg2SGhGRWNXc19sRDd3VkZ3bG1jd3lwalRUSFZ6cGpINlA0VTNUaFdDOGRMYTBJc05IejJsUExIT0VndjE4b09RdlN6RGxIeUtLaGVuZjRhc3oyUkxsM2M4ZDVabWZ0QVU1Xy00X29TNFFkUWFRd2JoQ21qNzc0Z3pwVkNKcnZCcFlCVGhSVUNCbVRRVDQ5bUc3WlpLUlcwTlZB?oc=5",
-      "data": "23/09 12:00"
-    },
-    {
-      "titulo": "Veja os jogadores mais utilizados por Marcão no Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2NPUGJvanpDay04elFvTHlkLTQ1VmJURlV3ZEszRXRPQXNTZXZULTZJYnpBY3NSbThfVGQ1LUJmWEEwVl9WR0N3aHNIcEVlMWxpZXBPUDJjSEVmY0pld2FqeXJEVXVTcC1PN1BER3FHSW1VVmkyVDJ0aWhSZ092emw5WGpPSlJJa05rbHZ3VWpodVJMYzJpRk5DVFhiay02aEtHS3JmZTB4S3lDOEQ3dzRfcGMwQmI0TWZsRGVvM0I2UQ?oc=5",
-      "data": "23/09 10:33"
-    },
-    {
       "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUpuT2JpYmJHZkVSNkkzTlRub1dBQXQ5UUUzMEtUYjZ0S1dtZlA2STdpLUl2M1Myb2QwWk9tYWdHdHczc2NqZVlWbUtmYmNpRi1hVXQ0d0tvRjc3SVZRWi1BbmlIckQ2cGJUWlVNLXMzZlA3WmN3dlBmVVg1aWlNZEctZ2pfLWtrZ2ptRUZTZzN5NVNRS25OdjItTW82YXRicG03RllwcWpjUmVlSnBmRDEzSHlrQ1huZk5rRF9ZSVpDSTk5Sm9WN0JZRVFFWW4zdFllWXBxZDhLYXJfQTNRV1ZtQUFzdVFiZUJHd09td2xWTXJiMFhJdTJmQVBwOWfSAY4CQVVfeXFMTUIxZXpBWGx5d3RJUGJXSUVqQTkwSnN4RGtaREJNU2loSGEyZzBMMTBDMTJwNWNjMnc2OWZXYmRIYVFwTFdTakJOZjBFcXVjNURjZVVCbVJrS3VGV1MwazJRNWxwbEpmNzFBQzVGb004bTdqNGx0WmZZaHBKQnZlMS05UmRWS2dYeGs5S0h3czJyckJWVmlfbUw4ajhYOUJCRE43VFBtOFQ2bTV6a2Z2TTlXdzdGb2I1SVZNTFVWWnFfMzF3Tjg3R0NlVFNQUGNMTzd0MmItd3NiS0JHd2xvSndCbmZaMlMzRW5MZlJ0eEdzcGxoRGItb2ktV3dxTnUtQThYRkdGaWthbFRxd2Jn?oc=5",
       "data": "21/09 23:47"
+    },
+    {
+      "titulo": "PM dá resposta ao Palmeiras para ampliar setor da torcida do Fluminense na Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVFZd1NPZGxPVFFhLXhyWHc4UXZGVzR3SU1BNHdYSkMxQUQ4QzRRM1pvVkNtWFJ4TEVPbkdjY29FVUtFVzd3bHBRemIzM3Fuam96dTh6eF9rMUxsc2ZwQzF0c2s1Ykt0NTdNWHp0cmVGczQ3UkNQMEJQcWNxdWE2VldCN0ZfbE43amREYWR5WV9HRlkzeXRHZEdGMk04S1RJVzZiQThxVkxmMzFGdmFBOGgteFM?oc=5",
+      "data": "22/09 17:54"
+    },
+    {
+      "titulo": "MP-SP recomenda 4 mil ingressos para torcida do Flu contra o Palmeiras - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSkNlUnBId1BKMy1XS3dIb0RQZGFPRy1EM0J3V29vcFp2ZThOWFEyQlRkSXMzTXdIYmFpS3N6NWl2dndKOTdCelVpamdkdTlZd25ENkpuUFNCZHU2YkphRUhpZE1TOHJ0NEJfY3lQa0M3azlld2pqSkxsdFVrSXlXaUM1STJ6ZG1rN3lNRllkU2pxc2J1QW1DalhkeUVwNVB1TVBQSEdQVzBLMXFiNUNOMk10ZWFpbWdFUVBEbVhvejJOcms3N3RqNjJRUmg2Njlad3RWeHV0UFBXTnBGUE0zYjJGLXJOWm1USm5Wb3FlQTlTcTA?oc=5",
+      "data": "23/09 17:44"
+    },
+    {
+      "titulo": "Fred será o técnico do Fluminense em 2027? Entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2NSQmQtVm5ld1hIaXFNcVdSdE82TUF5NnBQTm9ucEFrWDVrWDhMbHExb21adDZkeGo3c2w1TURPVkRyeUYwTjdXMG16UnhXYlNwWWd0QlktcEplTHhaVl9DbmhHTVRlZjlaNHRLNHFLeHkyUm9nRVMwUDZxZE9EemFQajduaHhqX3k3S3N2MjY1anRRZ01EYXhxT3h0WDRfSHl2dU15Z29tcXJpUVlnbWVIeGdLNmRkbDRuY3Zyc1o0TXJCYjRwV29FWHNiaGJpamRF?oc=5",
+      "data": "23/09 17:16"
+    },
+    {
+      "titulo": "Fred cita quatro ex-técnicos do Fluminense como referências em nova profissão - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHZod3FhbWRCNUp4eVM1ZDB4VnEzQ044T2pxcWdjYkNjYll5ZUV4M3hEakJsQ05JMlRkUXVfS0JLOEp3X2tSb1B6cmhoYjJiTURwcGNseDdKcHhMYkF0VXhnTTAycWVzRElKelFUMkh2RXJRVXQwYzZTN3pDTzg1c2NWcU40b004M2U1V1d0UkF0Y0NlY3Exa2dmanZnOHdOUE43ZXZWbw?oc=5",
+      "data": "23/09 15:00"
     }
   ],
   "avisos": []
