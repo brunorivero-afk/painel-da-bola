@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/09/2026 19:40",
+  "atualizado_em": "22/09/2026 22:11",
   "jogos": [
     {
       "sport": "futebol",
@@ -45,8 +45,8 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.1,
-      "temp_min": 20.9,
+      "temp_max": 27.4,
+      "temp_min": 21.0,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
@@ -54,14 +54,14 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 25.5,
       "temp_min": 21.0,
-      "chance_chuva": 84,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 24.9,
       "temp_min": 17.8,
-      "chance_chuva": 95,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
@@ -74,29 +74,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge.globo.com",
+      "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUpuT2JpYmJHZkVSNkkzTlRub1dBQXQ5UUUzMEtUYjZ0S1dtZlA2STdpLUl2M1Myb2QwWk9tYWdHdHczc2NqZVlWbUtmYmNpRi1hVXQ0d0tvRjc3SVZRWi1BbmlIckQ2cGJUWlVNLXMzZlA3WmN3dlBmVVg1aWlNZEctZ2pfLWtrZ2ptRUZTZzN5NVNRS25OdjItTW82YXRicG03RllwcWpjUmVlSnBmRDEzSHlrQ1huZk5rRF9ZSVpDSTk5Sm9WN0JZRVFFWW4zdFllWXBxZDhLYXJfQTNRV1ZtQUFzdVFiZUJHd09td2xWTXJiMFhJdTJmQVBwOWfSAY4CQVVfeXFMTUIxZXpBWGx5d3RJUGJXSUVqQTkwSnN4RGtaREJNU2loSGEyZzBMMTBDMTJwNWNjMnc2OWZXYmRIYVFwTFdTakJOZjBFcXVjNURjZVVCbVJrS3VGV1MwazJRNWxwbEpmNzFBQzVGb004bTdqNGx0WmZZaHBKQnZlMS05UmRWS2dYeGs5S0h3czJyckJWVmlfbUw4ajhYOUJCRE43VFBtOFQ2bTV6a2Z2TTlXdzdGb2I1SVZNTFVWWnFfMzF3Tjg3R0NlVFNQUGNMTzd0MmItd3NiS0JHd2xvSndCbmZaMlMzRW5MZlJ0eEdzcGxoRGItb2ktV3dxTnUtQThYRkdGaWthbFRxd2Jn?oc=5",
       "data": "21/09 23:47"
     },
     {
-      "titulo": "Após recusa de técnico ex-Fluminense, clube da Série A encontra dificuldades para contratar treinador - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWkFiMGd6NVI2bk1mSGVyVy1UV1pPMUN4QmwyUG1jU2dmVnJyTVRlZDQ4Y1JoVWZqQ0h6N044UjFVMndYUnVGaVRjd2xERHpVajI2eGZCSnQtVktMeGdoMWl5MFp4VURPZ2lEZlFWTFpwTkdsMmNIMTNPQlpXZnNxZFVUVVR5c2xRbHRuNmk5X19IcWdHcVdqZ0ZBMnEwRVNNdF82dVhReW0yMTJjaThaWWRrVVhDWWxrNWd0Y3hwN0ZydENGREE?oc=5",
-      "data": "22/09 19:12"
+      "titulo": "Ex-técnico do Fluminense recusa o Internacional - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWTItdU01MDZsc0pESVNReHpyVUQyV2dqQzZ5a2thd2g5elM3NFlxZC1GNTI3LUdxcndfQ01VNUZadUxxSXo4NG0zcUpFaVZBcE9mUV9ITDBqN3liUngzZW9Od3drTXlFMmFmMnlub19LdFp2bXRDcXdXMVZ2OW8?oc=5",
+      "data": "21/09 22:14"
     },
     {
-      "titulo": "Limite de estrangeiros pode encerrar passagem de Cano no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcjlHRFJvOTFrY1dla2x3TTlRbmh0WUVGZHkzV21Uckp3NUlOaTlVcm0yVlZKWkctVlN6bkU5NFhQSFBsWHdsZmJuYUhzU2czMkRzcUlrSVNneTJFVEFVV3gwSnhMX2dNLVFwTHFHM19oRGVDRlRUeFAxR1VFcmdLYlhVYVV5Nk1fZm1hVTVzS2ppbDhNWHZkOVJlbGY4bHYzUHhKS25odFc4NU1DVlFXenBKUnlaRlVHbklqTWlBTG5QdkZjRXdLdXZTUVVpdmFpSUdMTWVobV9weV9ieXFwck40MmdZbElUWXBtMURDbw?oc=5",
-      "data": "22/09 18:22"
+      "titulo": "Canobbio recusa ofertas para seguir no Fluminense: \"Tomei a melhor decisão\" - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDk0UGtpMThnd2s2OFVIVUlPV0RQRS05OEtNRVdCWkExYUJUaFBXd0lrTy1lcXhjMFpyNFV0VEMzQnV6TzVzbWJyRXVDeVNtVWZjdTNMZXJQSVI2alc4Q1BpQy1oRXJaZ3pFMlRJX2ZxeGJVWjBZU0pNYmxGUjZ2YmpOZ2hiczl5SEtkdWY1WEhOV1h0LUN5WnIycmxFLU1uelM0eHkwUDVFbU9SY3VJN3ZmdGdCeFVaT0trWERvQ2c2SzV4YUktME1R?oc=5",
+      "data": "22/09 20:58"
     },
     {
-      "titulo": "Canobbio explica sobre ofertas recusadas para o deixar o Fluminense - itatiaia.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcWw2ZUxUcUJTR25KWExzcWkwQ1VkbUZDaDcwNVNlUzV2RFZTSHg3RTNESWtySUFzT0JILVVKbi1mM2Z3UE1OcFZJTzZDeGJTNDl5bXhzYmNLaXdvMFJ5YWJCVl9pNXlvLVlGYXNBZzVVUkhHZlNQV1hrSHVOMkh0WjFWSUU2ZEtxeE5aUU1CUGg1R2VkWFRzX3FEYzVXc3Z0ck9jeTNnSWctVV90eUFrZEpRLXlyUnlKYTVDMU95dWtRWDd3TDZ0MUlYY2RKNnAxYVp2Y0pGVklMSE83bXF2Mm1COGxFSGd6Tk5KY3BR?oc=5",
-      "data": "22/09 19:41"
+      "titulo": "Entenda como a nova regra de jogadores estrangeiros afetará o Fluminense até 2030 - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFo3UHJHTkJOSDNSM29ZelRWS2lIS3NZeTlacHBIWlpKRlpKRTlXZ1AtUUhNMlUzLUFyZUtMUXZVOUN4WXB0eWU5ZXJQc21jRkpram5Xekdwc3V2UkZ2bTNlUTlCekhPVHlISGJYM2xwdFB1ZDZLSnA3NUhmS3A0QzBTbzg2TktfZ19zSVV1OUNRM3BMSnNlYTFUMXZKODV6Z2dGQm9ZOTJIRE12QzBMeVFmbnNseUR5bzJqbmd6Zw?oc=5",
+      "data": "22/09 17:38"
     },
     {
-      "titulo": "Fluminense parabeniza Thiago Silva pelos 42 anos - SBT Sports",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNDN1Sjd5Vnk0ZklCUnEybldOSGJSUC1tV3pfZklmYnVoT1VDYklaZTJqSVJmenJ2S2YtTUhqWFZsYnkwZmZnTEtiSnFJZnpXa0M1MFVDenNBdkxsYUlIdW9XQVI2dnIweTdRbWJONENPbU5mOXlUNDhSeVJBQXJtc0JDTG54SUdCUU1uTDRfdlJUSkdkczJpZTl3OA?oc=5",
-      "data": "22/09 14:38"
+      "titulo": "Fluminense parabeniza Thiago Silva pelos 42 anos: \"Maior da história\" - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcXVFYlVTWS1GZDJaMnVvOHotbzV2RFFpN0ZtX0NmR3luc19FbmlCalExZFlkOHNDamlSaUZBZlNtMEtYZlN6MGNNaFZRMmd2aDBMRUhscHZMbHNFVUNCWVZNUmwybjgyaENzQW9jTFl2TTI1SE9wOHdLMTQ4RV91OHQtSHdmamFHUkFDeS1reFFaYzZNWDhlaUZKb3F3SFhiempVRU4wQlNzQ3lMRTE2d3ZfSnBucHJfWjA3RDFzeFFiUmxFbTd4RXpsSXJkSG1IT1l2RGhFMTVxaVRvM2RNMW1uU2phNUU5UWdCNnN3?oc=5",
+      "data": "22/09 17:40"
     }
   ],
   "avisos": []
