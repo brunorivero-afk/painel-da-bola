@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/09/2026 22:11",
+  "atualizado_em": "23/09/2026 04:14",
   "jogos": [
     {
       "sport": "futebol",
@@ -23,7 +23,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Pinheiros x Sesi-Bauru",
@@ -33,7 +33,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Fluminense",
@@ -45,51 +45,51 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.4,
-      "temp_min": 21.0,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 25.5,
-      "temp_min": 21.0,
+      "temp_max": 20.7,
+      "temp_min": 18.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 21.7,
+      "temp_min": 19.2,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.9,
-      "temp_min": 17.8,
+      "temp_max": 20.2,
+      "temp_min": 14.8,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.4,
-      "temp_min": 16.6,
+      "temp_max": 17.0,
+      "temp_min": 12.7,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva fortes"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUpuT2JpYmJHZkVSNkkzTlRub1dBQXQ5UUUzMEtUYjZ0S1dtZlA2STdpLUl2M1Myb2QwWk9tYWdHdHczc2NqZVlWbUtmYmNpRi1hVXQ0d0tvRjc3SVZRWi1BbmlIckQ2cGJUWlVNLXMzZlA3WmN3dlBmVVg1aWlNZEctZ2pfLWtrZ2ptRUZTZzN5NVNRS25OdjItTW82YXRicG03RllwcWpjUmVlSnBmRDEzSHlrQ1huZk5rRF9ZSVpDSTk5Sm9WN0JZRVFFWW4zdFllWXBxZDhLYXJfQTNRV1ZtQUFzdVFiZUJHd09td2xWTXJiMFhJdTJmQVBwOWfSAY4CQVVfeXFMTUIxZXpBWGx5d3RJUGJXSUVqQTkwSnN4RGtaREJNU2loSGEyZzBMMTBDMTJwNWNjMnc2OWZXYmRIYVFwTFdTakJOZjBFcXVjNURjZVVCbVJrS3VGV1MwazJRNWxwbEpmNzFBQzVGb004bTdqNGx0WmZZaHBKQnZlMS05UmRWS2dYeGs5S0h3czJyckJWVmlfbUw4ajhYOUJCRE43VFBtOFQ2bTV6a2Z2TTlXdzdGb2I1SVZNTFVWWnFfMzF3Tjg3R0NlVFNQUGNMTzd0MmItd3NiS0JHd2xvSndCbmZaMlMzRW5MZlJ0eEdzcGxoRGItb2ktV3dxTnUtQThYRkdGaWthbFRxd2Jn?oc=5",
-      "data": "21/09 23:47"
+      "titulo": "Fluminense aprova carga máxima de ingressos para semifinal da Libertadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc3hBVHBGN01tUFFrRUQ2dVVadU9CWnRjdjZlSkpwS2REc2l4VGRya0psU3hRbjJqU3lWVFpwOU1vRkNmYUlIWTE5WlB3aUtVMEhBNHJIRUFUYUd5Qk82WE9Hb2Z2U2Z1Z3U1TlFjekNLRzlGX3Qtb3JCSjF0dHFULVU4WW43aDlUYl9WRURQVFYzSm1QOVZHYkg1SllTQVJjQWgwOWZ4alk3T3VDSmd6X1BleDZwbnBUTm5QOFowNnk3cHhOUHJfNnBub2VMaElIS0NuSlF3anNCR2lqSkpfN0pFSTI0TnhtS0w1TUxFUnQtRTIx?oc=5",
+      "data": "22/09 13:19"
     },
     {
-      "titulo": "Ex-técnico do Fluminense recusa o Internacional - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWTItdU01MDZsc0pESVNReHpyVUQyV2dqQzZ5a2thd2g5elM3NFlxZC1GNTI3LUdxcndfQ01VNUZadUxxSXo4NG0zcUpFaVZBcE9mUV9ITDBqN3liUngzZW9Od3drTXlFMmFmMnlub19LdFp2bXRDcXdXMVZ2OW8?oc=5",
-      "data": "21/09 22:14"
+      "titulo": "Estrangeiros emprestados pelo Fluminense podem ser impactados por nova regra; entenda - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZXNzh6RjZpYnBCX0VpY25NMUFLNTVuNHlVWWdqd0ZDYkRGY29lTXZqYXBYQ2lwQnoxRVdHR3hnX25jOV94SzBQcW5ZcndqMjMyUHMzNkVMVFBIbVVvVzdwN1JoVDgwS0J6dXN0dGZON2VyR19KbVRHUVE1U202U2NCRUlVcnRvVHNWclR1Vy05S2lmNE9pUmZyVkdBVXFCSjA4bG9sSU5vSzJsMUVvaFhQLUZ0dV9CRFh5WjJ0ZWdGRS1pQld2d0I4NDQxZThXOHdWZ3F6M2toVzBNMHRlQlFxcW9tTFE1ZlMwatIB-wFBVV95cUxOeXVpVUpRN1MyRkl6TkhZdW8wa1hoU19teU14VTdYQk8zTDNUTW9iRzh6TS03RXVzX0JMbGljU2o2aHY5cnBvN2k3TjlPc3pJZDhDQnkyZ3phUE44UjlZbXRralFCV2plNkJMVk5ocDhITEpsUUxWVF95ZTFTb3J3cEhUTDFkU09sTHRnXzRBbi03WC1CTG5QaHRPSUgwOGd0X0U5c3FQeGxTUmgweWhELUxqX3pVWVkyR1B0X0V3NnUzd2x0Rk1lX2ZuLWxLVmRrdzRxeU1qLXpPVFRVU1FVS0FkeldUU1dBU2hjb2VlcUtYNldMSEk0Qzlfbw?oc=5",
+      "data": "22/09 20:01"
     },
     {
-      "titulo": "Canobbio recusa ofertas para seguir no Fluminense: \"Tomei a melhor decisão\" - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDk0UGtpMThnd2s2OFVIVUlPV0RQRS05OEtNRVdCWkExYUJUaFBXd0lrTy1lcXhjMFpyNFV0VEMzQnV6TzVzbWJyRXVDeVNtVWZjdTNMZXJQSVI2alc4Q1BpQy1oRXJaZ3pFMlRJX2ZxeGJVWjBZU0pNYmxGUjZ2YmpOZ2hiczl5SEtkdWY1WEhOV1h0LUN5WnIycmxFLU1uelM0eHkwUDVFbU9SY3VJN3ZmdGdCeFVaT0trWERvQ2c2SzV4YUktME1R?oc=5",
-      "data": "22/09 20:58"
+      "titulo": "Fluminense já tem problema para resolver com nova regra de estrangeiros no Brasileirão; veja cenário - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOankwUHdmVmdZMWc4TV9FWHlnTkVHNVI3UVZDbWM4bzZzZDN4YmJ0cUlsOUtnMC1pSFUySjdMYngxRHZ4ZkEwRkJXMkxhTGk0LTRELXN6Q1NQTVktX29mdFV0UEFicVNqWUVzSmRGWXBLbi1uTHlkNDBGU1JVUUhQOUJicGsyR19GRmRISEZZeTNNT1B4M1RELXFia3VOZ19CTms2Q2RUUXRkamlUVU1OZ3Q2YS16S3hENEFEdFV5MUUyVTNB?oc=5",
+      "data": "22/09 13:00"
     },
     {
-      "titulo": "Entenda como a nova regra de jogadores estrangeiros afetará o Fluminense até 2030 - LANCE!",
+      "titulo": "Entenda como a nova regra de jogadores estrangeiros afetará o Fluminense até 2030 - Lance!",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFo3UHJHTkJOSDNSM29ZelRWS2lIS3NZeTlacHBIWlpKRlpKRTlXZ1AtUUhNMlUzLUFyZUtMUXZVOUN4WXB0eWU5ZXJQc21jRkpram5Xekdwc3V2UkZ2bTNlUTlCekhPVHlISGJYM2xwdFB1ZDZLSnA3NUhmS3A0QzBTbzg2TktfZ19zSVV1OUNRM3BMSnNlYTFUMXZKODV6Z2dGQm9ZOTJIRE12QzBMeVFmbnNseUR5bzJqbmd6Zw?oc=5",
       "data": "22/09 17:38"
     },
