@@ -1,6 +1,36 @@
 {
-  "atualizado_em": "23/09/2026 15:11",
+  "atualizado_em": "23/09/2026 18:59",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "22:30",
+      "competition": "MLS",
+      "match": "Seattle Sounders x Real Salt Lake",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Azerbaijão x Tajiquistão",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-23",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Gibraltar x Sao Tome and Principe",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-09-23",
@@ -51,36 +81,6 @@
       "match": "ADT x Cienciano",
       "channels": [
         "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Seattle Sounders x Real Salt Lake",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Azerbaijão x Tajiquistão",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Gibraltar x Sao Tome and Principe",
-      "channels": [
-        "SPORTV 3"
       ]
     },
     {
@@ -277,41 +277,41 @@
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.1,
-      "temp_min": 19.3,
+      "temp_max": 21.0,
+      "temp_min": 19.0,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.1,
-      "temp_min": 14.9,
+      "temp_max": 19.2,
+      "temp_min": 15.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 17.1,
-      "temp_min": 12.6,
+      "temp_min": 12.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Palmeiras, pela Libertadores, terá carga máxima de ingressos à venda - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdUpuT2JpYmJHZkVSNkkzTlRub1dBQXQ5UUUzMEtUYjZ0S1dtZlA2STdpLUl2M1Myb2QwWk9tYWdHdHczc2NqZVlWbUtmYmNpRi1hVXQ0d0tvRjc3SVZRWi1BbmlIckQ2cGJUWlVNLXMzZlA3WmN3dlBmVVg1aWlNZEctZ2pfLWtrZ2ptRUZTZzN5NVNRS25OdjItTW82YXRicG03RllwcWpjUmVlSnBmRDEzSHlrQ1huZk5rRF9ZSVpDSTk5Sm9WN0JZRVFFWW4zdFllWXBxZDhLYXJfQTNRV1ZtQUFzdVFiZUJHd09td2xWTXJiMFhJdTJmQVBwOWfSAY4CQVVfeXFMTUIxZXpBWGx5d3RJUGJXSUVqQTkwSnN4RGtaREJNU2loSGEyZzBMMTBDMTJwNWNjMnc2OWZXYmRIYVFwTFdTakJOZjBFcXVjNURjZVVCbVJrS3VGV1MwazJRNWxwbEpmNzFBQzVGb004bTdqNGx0WmZZaHBKQnZlMS05UmRWS2dYeGs5S0h3czJyckJWVmlfbUw4ajhYOUJCRE43VFBtOFQ2bTV6a2Z2TTlXdzdGb2I1SVZNTFVWWnFfMzF3Tjg3R0NlVFNQUGNMTzd0MmItd3NiS0JHd2xvSndCbmZaMlMzRW5MZlJ0eEdzcGxoRGItb2ktV3dxTnUtQThYRkdGaWthbFRxd2Jn?oc=5",
-      "data": "21/09 23:47"
+      "titulo": "Estrangeiros emprestados pelo Fluminense podem ser impactados por nova regra; entenda - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZXNzh6RjZpYnBCX0VpY25NMUFLNTVuNHlVWWdqd0ZDYkRGY29lTXZqYXBYQ2lwQnoxRVdHR3hnX25jOV94SzBQcW5ZcndqMjMyUHMzNkVMVFBIbVVvVzdwN1JoVDgwS0J6dXN0dGZON2VyR19KbVRHUVE1U202U2NCRUlVcnRvVHNWclR1Vy05S2lmNE9pUmZyVkdBVXFCSjA4bG9sSU5vSzJsMUVvaFhQLUZ0dV9CRFh5WjJ0ZWdGRS1pQld2d0I4NDQxZThXOHdWZ3F6M2toVzBNMHRlQlFxcW9tTFE1ZlMwatIB-wFBVV95cUxOeXVpVUpRN1MyRkl6TkhZdW8wa1hoU19teU14VTdYQk8zTDNUTW9iRzh6TS03RXVzX0JMbGljU2o2aHY5cnBvN2k3TjlPc3pJZDhDQnkyZ3phUE44UjlZbXRralFCV2plNkJMVk5ocDhITEpsUUxWVF95ZTFTb3J3cEhUTDFkU09sTHRnXzRBbi03WC1CTG5QaHRPSUgwOGd0X0U5c3FQeGxTUmgweWhELUxqX3pVWVkyR1B0X0V3NnUzd2x0Rk1lX2ZuLWxLVmRrdzRxeU1qLXpPVFRVU1FVS0FkeldUU1dBU2hjb2VlcUtYNldMSEk0Qzlfbw?oc=5",
+      "data": "22/09 20:01"
     },
     {
-      "titulo": "PM dá resposta ao Palmeiras para ampliar setor da torcida do Fluminense na Libertadores - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVFZd1NPZGxPVFFhLXhyWHc4UXZGVzR3SU1BNHdYSkMxQUQ4QzRRM1pvVkNtWFJ4TEVPbkdjY29FVUtFVzd3bHBRemIzM3Fuam96dTh6eF9rMUxsc2ZwQzF0c2s1Ykt0NTdNWHp0cmVGczQ3UkNQMEJQcWNxdWE2VldCN0ZfbE43amREYWR5WV9HRlkzeXRHZEdGMk04S1RJVzZiQThxVkxmMzFGdmFBOGgteFM?oc=5",
-      "data": "22/09 17:54"
+      "titulo": "Estrangeiros do Fluminense que podem se naturalizar brasileiros - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDQtaHAydmJlMVA1U0QyVWJseTBCd1gzT21GVFdmSFJ2M2dFWFZRVUdBYUp3OWFsbTBmMTN0WHNPbDZ5Sm9JejNKbU1DbTlWUW9PMHBhazZKaG1PRHBXS1FlOERkYk4wNGlzaDJyaTF5RWNsdFVnR1FjZEhEaXVKOXk0RTU1aHB3cGVjd2pfd2MyaEhJTWU2OWhpN21Vc0RrMV9KNU1OZ29tUTl4QVRJdEc3V2VzRmdROUtr?oc=5",
+      "data": "23/09 20:25"
     },
     {
-      "titulo": "MP-SP recomenda 4 mil ingressos para torcida do Flu contra o Palmeiras - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSkNlUnBId1BKMy1XS3dIb0RQZGFPRy1EM0J3V29vcFp2ZThOWFEyQlRkSXMzTXdIYmFpS3N6NWl2dndKOTdCelVpamdkdTlZd25ENkpuUFNCZHU2YkphRUhpZE1TOHJ0NEJfY3lQa0M3azlld2pqSkxsdFVrSXlXaUM1STJ6ZG1rN3lNRllkU2pxc2J1QW1DalhkeUVwNVB1TVBQSEdQVzBLMXFiNUNOMk10ZWFpbWdFUVBEbVhvejJOcms3N3RqNjJRUmg2Njlad3RWeHV0UFBXTnBGUE0zYjJGLXJOWm1USm5Wb3FlQTlTcTA?oc=5",
-      "data": "23/09 17:44"
+      "titulo": "Cano, Canobbio, Serna, Rodrigo Castillo, Lucho Acosta, Soteldo, Savarino, Julián Millán e Freytes: todos os jogadores estrangeiros do elenco do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOdDlXSUd6N21tNDY0dFNzNU4zSF9zeXZ4ZGN2bGhzSElSb1NPYm1zNndKcjc0cGNfQVBwUXB0cTY2Smw4QnluZ01KbVFZcmZoVmlZZk5RRU5wd052Sko1XzZkVjZBb2Z6SlhoV3ZQUEpRbmRSQzMzR3o4bkRiSDdWLS04V053ZVlYSnBkV2c5Sk9SN0pqMnZrYnJ1QlpKX3ltNVdlY2ZvVXZyYjU4Vnd2eFpwM2FSeTVjcUtFZWF6NWFwNHFxSFNBajR5MDNyMi1NLXJBZkU3UWdtcXR2WmdfSC1RMndsNVJEV0h1WWo2aVJmbm5IUVZGV2ZleG1CbkRWYW93d2RNc01FWjBnNlZubmZ6U0hVSEhBWklNMExVZWtOOC0wdGpiaGgtTldIbmN4S1ZoNElvWU56NkN3cU1GU0d1MUdvUTJhRWVHYVg3ZnNxRlhBOXFHMw?oc=5",
+      "data": "23/09 18:15"
     },
     {
       "titulo": "Fred será o técnico do Fluminense em 2027? Entenda - Terra",
@@ -319,9 +319,9 @@
       "data": "23/09 17:16"
     },
     {
-      "titulo": "Fred cita quatro ex-técnicos do Fluminense como referências em nova profissão - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHZod3FhbWRCNUp4eVM1ZDB4VnEzQ044T2pxcWdjYkNjYll5ZUV4M3hEakJsQ05JMlRkUXVfS0JLOEp3X2tSb1B6cmhoYjJiTURwcGNseDdKcHhMYkF0VXhnTTAycWVzRElKelFUMkh2RXJRVXQwYzZTN3pDTzg1c2NWcU40b004M2U1V1d0UkF0Y0NlY3Exa2dmanZnOHdOUE43ZXZWbw?oc=5",
-      "data": "23/09 15:00"
+      "titulo": "Fred diz que sonha ser treinador do Fluminense: \"Trabalho para isso\" - diariodorio.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3FhLXBGeWNZc0hSOWVkZ1Y1LU8wdzh0RGIydDF6QUFRMHBGU3ZZRWNmZmR2LXJZRmdFam9zamZaMDJjNmZEN1VKNlhRdWJ5a0VTMEIyRTRDM3h5SHZwZnJhdmRud0lxWGhTblpzTWhnaHhZZ1JNMUt6RkxZUzRBODlvMmh1VnFaS1ZfMmhOVklxUUtFdkZja3o1X25uY1VfUEtiWEt2Mjd0YmxZbklod3ZIMkNBNUdXc0dtMDJpZFdGdw?oc=5",
+      "data": "23/09 19:06"
     }
   ],
   "avisos": []
