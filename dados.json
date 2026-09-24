@@ -1,6 +1,67 @@
 {
-  "atualizado_em": "24/09/2026 17:14",
+  "atualizado_em": "24/09/2026 20:43",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "República Dominicana x Nicarágua",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "21:10",
+      "competition": "CONCACAF Nations League",
+      "match": "Cayman Islands x Dominica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "21:20",
+      "competition": "CONCACAF Nations League",
+      "match": "Haiti x Trinidad and Tobago",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "22:00",
+      "competition": "2ª Divisão Mexicana",
+      "match": "Alebrijes de Oaxaca x CA La Paz",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "23:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Costa Rica x Curaçao",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-24",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Andorra x Malta",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-09-24",
@@ -81,67 +142,6 @@
       "match": "Puerto Rico x Guyana",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-24",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "República Dominicana x Nicarágua",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-24",
-      "time": "21:10",
-      "competition": "CONCACAF Nations League",
-      "match": "Cayman Islands x Dominica",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-24",
-      "time": "21:20",
-      "competition": "CONCACAF Nations League",
-      "match": "Haiti x Trinidad and Tobago",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-24",
-      "time": "22:00",
-      "competition": "2ª Divisão Mexicana",
-      "match": "Alebrijes de Oaxaca x CA La Paz",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-24",
-      "time": "23:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Costa Rica x Curaçao",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-24",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Andorra x Malta",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
       ]
     },
     {
@@ -393,24 +393,24 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense receberá antecipação de R$ 10 milhões no próximo mês; entenda - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNU9zVEM0eFJyMS1jTnljdkNRR0VQTEl1OHdqb3pveW1JRG5TUGQ1NEcwS1Z3aTJiZkg2ZlZTNXBLb25hY0VmYTZGVlZZUUpvSXRhdFI2bUVTci1vVVdFeUhnak5pdXo0ck1xZ1RfYk5xb3VBTUVtcFpKZlNudEJaQU05VHZiMTBHYWVOby1PeWRSd21CZWpXVlRRQVNtQQ?oc=5",
-      "data": "24/09 19:19"
+      "titulo": "Radar dos emprestados: veja como estão os jogadores que pertencem ao Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcks2MENCWFRONXRsYVNmZUtYSFBZSGx3dzlyb2M4OG1YcjBQT29xN1pOaXoxUUxEc3I2bFVLUnBHbElEVTRBZTBpODdlYVc4Tk5ZcFpUSW8yWjNUVkdnWEF0MXJVTmxMZ3pKa1FZTFhSZnk1MnFpV2xrZE12WXRCLVYyTTNOOWRabHVyeHZoYVZaSVg5QVNaVkFZNjhBb3p1MHpGSjgxYmhNTGlBV2VDbE5KaWdRNEFKazRZ?oc=5",
+      "data": "24/09 09:00"
     },
     {
-      "titulo": "Técnico na base do Fluminense exalta versatilidade de Martinelli, hoje na Seleção: \"Talento acima da média\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjRtNVB1REstYlBOT3V4UEpQUTNpS0Jqc1FtbUlCM1RET01QbTV1Z09LRlZ1U0podHQxb090X0hzdFBncGQ3eW5HMWd6cnZUV25RbWF3T0t6aEpXTlVoLUtPSzRzOVlDSzNqaDZpTXhHOE1KQ1FfMDhFTmk4Y1BXOC1KVDdYbWozdXNFOEFwcHFzT2VsZFUybVlCYlNJNkRmOF9vQlo3WXVQODBzcTVEVHE2NHZyekJVemxSc2VKVV9wN1JXYVZVaW9saXAteURKbHRTczViYVpkeXV3Sk5Cb3ZWbzBGVGlVTFFrbl9EVlNnN0FFQXd3NTIwQmE2WGowdGxFMNIBkwJBVV95cUxNNjhtdVVSYjhUbFVNVlA1RlJDWURtSzlHZzhsNE4tbndsVzBJdjFCV1k2YTBaYVJqMHd2X3BPZDBGNVZTWjF1cUtid3BRVnJ4eDJzX1RYaE5xYVJOdFotSlktZVZtWXJXRWVDMDNRdVJDWGNBODd5WEU4S2NGeS1SeDRKeHdyV1N3MVdSUHVQeVVrMW9RbjdDZzcxNWtvY3duaDhzZXNqNnB4cnJ2Wm9sdlZJOEpkNHpCRk12cFNmbFVncTlwLWJ2ZDAwalVCb2NxSERWcnlSS2F2Wkl0WkEtYWhQd05EQW9pbnViR3Y2b1U4bFJISTlaQ2I5Wmx4eS04cWJXTm42RDVNaGtlaEx4TnU4TQ?oc=5",
-      "data": "24/09 07:00"
+      "titulo": "Cano pode deixar Fluminense por nova regra de estrangeiros da CBF; entenda - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkVVQjR4Uksyd2pfdDFMY0lQZy1oM1pKYnlyWXdxSzB2ckwzZUZIRHozd052dGE3eUF4NHZ3bTRhU3A1bEtQMVU3blpUbjE1Tm10aWsxWGowVVNLR0dwZnB5eUk0eFdKMlV3Z1FyY3hNQnZtZTU0bkpZd1pBcDNGNWNHaTVnWWtnWFFxalBJbDd1WnVUa0tGaHVLWEJvcUZvYXpZNm9uVE8wSnlBRUluUG4zMEF5OUJkcmpadlEzc3EzbDB6c3hYUlJZQQ?oc=5",
+      "data": "24/09 15:15"
     },
     {
-      "titulo": "Volante retorna ao Fluminense de forma antecipada após empréstimo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWjkyRzJoU3RqTTAwT3JaYXlKVG9ldjU2ZTYtY3JzNmFCcHI4RW9aTUdNbmdFZFY5LW5OMF9UT3hMRTZwMU45djBzXzdFNE9UWDRLUTZrUUM5RnZ3enNsd3p2MTVHVEFSUzUwdWJUWTUtbmFLeTZLVFQtTHg2S0NEMmo0YXU4V3VDQlZLazlqb2gzdVo1N084?oc=5",
-      "data": "24/09 16:00"
+      "titulo": "Estrangeiros emprestados pelo Fluminense podem ser impactados por nova regra; entenda - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZXNzh6RjZpYnBCX0VpY25NMUFLNTVuNHlVWWdqd0ZDYkRGY29lTXZqYXBYQ2lwQnoxRVdHR3hnX25jOV94SzBQcW5ZcndqMjMyUHMzNkVMVFBIbVVvVzdwN1JoVDgwS0J6dXN0dGZON2VyR19KbVRHUVE1U202U2NCRUlVcnRvVHNWclR1Vy05S2lmNE9pUmZyVkdBVXFCSjA4bG9sSU5vSzJsMUVvaFhQLUZ0dV9CRFh5WjJ0ZWdGRS1pQld2d0I4NDQxZThXOHdWZ3F6M2toVzBNMHRlQlFxcW9tTFE1ZlMwatIB-wFBVV95cUxOeXVpVUpRN1MyRkl6TkhZdW8wa1hoU19teU14VTdYQk8zTDNUTW9iRzh6TS03RXVzX0JMbGljU2o2aHY5cnBvN2k3TjlPc3pJZDhDQnkyZ3phUE44UjlZbXRralFCV2plNkJMVk5ocDhITEpsUUxWVF95ZTFTb3J3cEhUTDFkU09sTHRnXzRBbi03WC1CTG5QaHRPSUgwOGd0X0U5c3FQeGxTUmgweWhELUxqX3pVWVkyR1B0X0V3NnUzd2x0Rk1lX2ZuLWxLVmRrdzRxeU1qLXpPVFRVU1FVS0FkeldUU1dBU2hjb2VlcUtYNldMSEk0Qzlfbw?oc=5",
+      "data": "22/09 20:01"
     },
     {
-      "titulo": "Volante do Fluminense volta de empréstimo e será observado por Marcão - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY2dTZlRlekdxQThucHlRaEd4dEVsMnA0cWtvYWwxMnAwVzFVSlhEbE0zS0dvTUwwbk96M3dIMURrQ3RyOG9HMXpxY2FwWExZaXFIMTZvejMtTHdIVVhHRzJ0Sy1tSEY4cENTMy10c21rRHdjQktDV3lfR01tZllfSjd2SktVREZPa2tMVUtPSGVnMHI2eUZLRVNKdUEtdzVSRlJyZndISFFnQXZ0Nml6YmR2V0hPMS1uSE5vS2J4TDltNFB4RnZBcnV0Z2dsWFV3bm90XzZZVUpKeXBhSGc4dXlPOXg3V3d2aU8zTjhCTFNodw?oc=5",
-      "data": "24/09 18:17"
+      "titulo": "Conmebol define local para Palmeiras x Fluminense na Libertadores - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTRFeXN5YVdvX0kwS3djUmt1SWVQMG9MMExLMlcwOTlCcTVManpmUGhfQTFRcHFNbHJKYzdxMmxNajJPZWJLdU9USmxKdGdDNzZxdEVNVnVuazA0WnZTWUVoMVRJVmg2c1d1bVg2TmZGTVlMX1lyQmNuWFdNeGFhT0tyMTJValJuU1pQMWVpYlQteURwajlj?oc=5",
+      "data": "24/09 20:42"
     },
     {
       "titulo": "Fluminense promove seletiva para a equipe feminina Sub-20 de futebol - fluminense.com.br",
