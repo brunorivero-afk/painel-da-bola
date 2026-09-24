@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/09/2026 02:48",
+  "atualizado_em": "24/09/2026 08:00",
   "jogos": [
     {
       "sport": "futebol",
@@ -364,58 +364,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.4,
-      "temp_min": 18.0,
+      "temp_max": 22.1,
+      "temp_min": 18.1,
       "chance_chuva": 53,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.8,
-      "temp_min": 17.6,
+      "temp_max": 21.9,
+      "temp_min": 17.2,
       "chance_chuva": 71,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.8,
-      "temp_min": 12.2,
+      "temp_max": 19.8,
+      "temp_min": 13.5,
       "chance_chuva": 100,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.6,
-      "temp_min": 10.8,
+      "temp_max": 18.4,
+      "temp_min": 11.7,
       "chance_chuva": 90,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "MP diz que não há 'grande histórico de rivalidade' e recomenda 4 mil lugares para visitantes em Palmeiras x Fluminense - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYVJBQm5mbENEWU9mMXozU1ZTWXRUZkhfWmVHRk9JYVM2NUZwM2ROVEVsb3cwYk00QVlnd1B5Q0YtczhLV2RENEplOFJSemd4SG8wZi1iWmZYT2pvT2JscEVOU19Jb2ltZVdjNFVEcUZneEdEcTRPdXMzM0xBdG9QT0pCbHYta3RvbGNFNE1MZkUtZ0xYR0FQVHlHeUlwRDVQdmNQVXkxOU1SSktYdi1WYmRZRDlVRlNzV0pxTlpVdjZDeUZlWENBM2Y3azM1aDlhbDdwZE5ISTVnRWtMUjh3b01LRHpPcDlfeEljNERwY29PTDhrYTJ2Q0Q0bVY2d1ZIcUtBb0xQdS1wZWNGSXF6amd0ekR5V2s?oc=5",
-      "data": "23/09 17:32"
+      "titulo": "Sem futebol, Flamengo e Fluminense abrem temporada do vôlei com clássico - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVV9EbXFvQVlBQ19pUXoxSUkyUEk2TV9kNjV1UlpsUVN5Zk5zVVZubFFwMEF4cVc1N0I1ajlTWF9SRjJ3TFlYcHJjVG0yaGdPWmU5ZHU5aWtzTTl2aHFmUnJfRm9TOUNlRGw2ZmNLQUg3TDFsa0dfbE1yQ0ZLNlg1QUNSYVFzb25hajVyQnotQnRCY08xQXFEY2tjQzRsTmt5aWt2dl9vZHphc1k?oc=5",
+      "data": "24/09 09:15"
     },
     {
-      "titulo": "Canobbio recusa ofertas para seguir no Fluminense: \"Tomei a melhor decisão\" - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDk0UGtpMThnd2s2OFVIVUlPV0RQRS05OEtNRVdCWkExYUJUaFBXd0lrTy1lcXhjMFpyNFV0VEMzQnV6TzVzbWJyRXVDeVNtVWZjdTNMZXJQSVI2alc4Q1BpQy1oRXJaZ3pFMlRJX2ZxeGJVWjBZU0pNYmxGUjZ2YmpOZ2hiczl5SEtkdWY1WEhOV1h0LUN5WnIycmxFLU1uelM0eHkwUDVFbU9SY3VJN3ZmdGdCeFVaT0trWERvQ2c2SzV4YUktME1R?oc=5",
-      "data": "22/09 20:58"
+      "titulo": "Técnico na base do Fluminense exalta versatilidade de Martinelli, hoje na Seleção: \"Talento acima da média\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjRtNVB1REstYlBOT3V4UEpQUTNpS0Jqc1FtbUlCM1RET01QbTV1Z09LRlZ1U0podHQxb090X0hzdFBncGQ3eW5HMWd6cnZUV25RbWF3T0t6aEpXTlVoLUtPSzRzOVlDSzNqaDZpTXhHOE1KQ1FfMDhFTmk4Y1BXOC1KVDdYbWozdXNFOEFwcHFzT2VsZFUybVlCYlNJNkRmOF9vQlo3WXVQODBzcTVEVHE2NHZyekJVemxSc2VKVV9wN1JXYVZVaW9saXAteURKbHRTczViYVpkeXV3Sk5Cb3ZWbzBGVGlVTFFrbl9EVlNnN0FFQXd3NTIwQmE2WGowdGxFMNIBkwJBVV95cUxNNjhtdVVSYjhUbFVNVlA1RlJDWURtSzlHZzhsNE4tbndsVzBJdjFCV1k2YTBaYVJqMHd2X3BPZDBGNVZTWjF1cUtid3BRVnJ4eDJzX1RYaE5xYVJOdFotSlktZVZtWXJXRWVDMDNRdVJDWGNBODd5WEU4S2NGeS1SeDRKeHdyV1N3MVdSUHVQeVVrMW9RbjdDZzcxNWtvY3duaDhzZXNqNnB4cnJ2Wm9sdlZJOEpkNHpCRk12cFNmbFVncTlwLWJ2ZDAwalVCb2NxSERWcnlSS2F2Wkl0WkEtYWhQd05EQW9pbnViR3Y2b1U4bFJISTlaQ2I5Wmx4eS04cWJXTm42RDVNaGtlaEx4TnU4TQ?oc=5",
+      "data": "24/09 07:00"
     },
     {
-      "titulo": "Fred será o técnico do Fluminense em 2027? Entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2NSQmQtVm5ld1hIaXFNcVdSdE82TUF5NnBQTm9ucEFrWDVrWDhMbHExb21adDZkeGo3c2w1TURPVkRyeUYwTjdXMG16UnhXYlNwWWd0QlktcEplTHhaVl9DbmhHTVRlZjlaNHRLNHFLeHkyUm9nRVMwUDZxZE9EemFQajduaHhqX3k3S3N2MjY1anRRZ01EYXhxT3h0WDRfSHl2dU15Z29tcXJpUVlnbWVIeGdLNmRkbDRuY3Zyc1o0TXJCYjRwV29FWHNiaGJpamRF?oc=5",
-      "data": "23/09 17:16"
+      "titulo": "Radar dos emprestados: veja como estão os jogadores que pertencem ao Fluminense - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcks2MENCWFRONXRsYVNmZUtYSFBZSGx3dzlyb2M4OG1YcjBQT29xN1pOaXoxUUxEc3I2bFVLUnBHbElEVTRBZTBpODdlYVc4Tk5ZcFpUSW8yWjNUVkdnWEF0MXJVTmxMZ3pKa1FZTFhSZnk1MnFpV2xrZE12WXRCLVYyTTNOOWRabHVyeHZoYVZaSVg5QVNaVkFZNjhBb3p1MHpGSjgxYmhNTGlBV2VDbE5KaWdRNEFKazRZ?oc=5",
+      "data": "24/09 09:00"
     },
     {
-      "titulo": "Fred abre o jogo sobre sonho de treinar o profissional do Fluminense - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRHdLY0pwNHlfNVhjWnlUSWJLTlYtXzNxUlFFeEVsZVhPRXVrcDRNU2lXaTA4QVB4VjU3WWhNR1JTNXNUN0F6ejhCRGV4djkzbHdPWDRmR3FYcHRteGREVW1WMk51QWJFVjNwVU5hRVprTHhORVZnZ2lUX2ZNMFJvdkx4Zk9sTFM0VjVJaWNlT0QxZlJsX2J2bnRnN2ZkN19XUHAtODVWcmN0aUtKRjZPeEs5Y0dmRktpdERtY3RWS0xOTDJESkd5TnZLSGo4Sl9teTRrRmxweDlpWGM5ZzVtRkZrWFUwUEZoZzg5WnpsRQ?oc=5",
-      "data": "23/09 18:21"
+      "titulo": "Estrangeiros emprestados pelo Fluminense podem ser impactados por nova regra; entenda - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZXNzh6RjZpYnBCX0VpY25NMUFLNTVuNHlVWWdqd0ZDYkRGY29lTXZqYXBYQ2lwQnoxRVdHR3hnX25jOV94SzBQcW5ZcndqMjMyUHMzNkVMVFBIbVVvVzdwN1JoVDgwS0J6dXN0dGZON2VyR19KbVRHUVE1U202U2NCRUlVcnRvVHNWclR1Vy05S2lmNE9pUmZyVkdBVXFCSjA4bG9sSU5vSzJsMUVvaFhQLUZ0dV9CRFh5WjJ0ZWdGRS1pQld2d0I4NDQxZThXOHdWZ3F6M2toVzBNMHRlQlFxcW9tTFE1ZlMwatIB-wFBVV95cUxOeXVpVUpRN1MyRkl6TkhZdW8wa1hoU19teU14VTdYQk8zTDNUTW9iRzh6TS03RXVzX0JMbGljU2o2aHY5cnBvN2k3TjlPc3pJZDhDQnkyZ3phUE44UjlZbXRralFCV2plNkJMVk5ocDhITEpsUUxWVF95ZTFTb3J3cEhUTDFkU09sTHRnXzRBbi03WC1CTG5QaHRPSUgwOGd0X0U5c3FQeGxTUmgweWhELUxqX3pVWVkyR1B0X0V3NnUzd2x0Rk1lX2ZuLWxLVmRrdzRxeU1qLXpPVFRVU1FVS0FkeldUU1dBU2hjb2VlcUtYNldMSEk0Qzlfbw?oc=5",
+      "data": "22/09 20:01"
     },
     {
-      "titulo": "Fred diz que sonha ser treinador do Fluminense: \"Trabalho para isso\" - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3FhLXBGeWNZc0hSOWVkZ1Y1LU8wdzh0RGIydDF6QUFRMHBGU3ZZRWNmZmR2LXJZRmdFam9zamZaMDJjNmZEN1VKNlhRdWJ5a0VTMEIyRTRDM3h5SHZwZnJhdmRud0lxWGhTblpzTWhnaHhZZ1JNMUt6RkxZUzRBODlvMmh1VnFaS1ZfMmhOVklxUUtFdkZja3o1X25uY1VfUEtiWEt2Mjd0YmxZbklod3ZIMkNBNUdXc0dtMDJpZFdGdw?oc=5",
-      "data": "23/09 19:06"
+      "titulo": "Cano, Canobbio, Serna, Rodrigo Castillo, Lucho Acosta, Soteldo, Savarino, Julián Millán e Freytes: todos os jogadores estrangeiros do elenco do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOdDlXSUd6N21tNDY0dFNzNU4zSF9zeXZ4ZGN2bGhzSElSb1NPYm1zNndKcjc0cGNfQVBwUXB0cTY2Smw4QnluZ01KbVFZcmZoVmlZZk5RRU5wd052Sko1XzZkVjZBb2Z6SlhoV3ZQUEpRbmRSQzMzR3o4bkRiSDdWLS04V053ZVlYSnBkV2c5Sk9SN0pqMnZrYnJ1QlpKX3ltNVdlY2ZvVXZyYjU4Vnd2eFpwM2FSeTVjcUtFZWF6NWFwNHFxSFNBajR5MDNyMi1NLXJBZkU3UWdtcXR2WmdfSC1RMndsNVJEV0h1WWo2aVJmbm5IUVZGV2ZleG1CbkRWYW93d2RNc01FWjBnNlZubmZ6U0hVSEhBWklNMExVZWtOOC0wdGpiaGgtTldIbmN4S1ZoNElvWU56NkN3cU1GU0d1MUdvUTJhRWVHYVg3ZnNxRlhBOXFHMw?oc=5",
+      "data": "23/09 18:15"
     }
   ],
   "avisos": []
