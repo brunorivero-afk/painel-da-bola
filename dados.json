@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "24/09/2026 08:00",
+  "atualizado_em": "24/09/2026 13:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -364,46 +364,36 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.1,
-      "temp_min": 18.1,
-      "chance_chuva": 53,
+      "temp_max": 22.5,
+      "temp_min": 18.4,
+      "chance_chuva": 84,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.9,
-      "temp_min": 17.2,
-      "chance_chuva": 71,
+      "temp_max": 21.8,
+      "temp_min": 17.3,
+      "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.8,
-      "temp_min": 13.5,
+      "temp_max": 19.7,
+      "temp_min": 13.4,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.4,
-      "temp_min": 11.7,
-      "chance_chuva": 90,
+      "temp_max": 18.5,
+      "temp_min": 12.1,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Sem futebol, Flamengo e Fluminense abrem temporada do vôlei com clássico - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVV9EbXFvQVlBQ19pUXoxSUkyUEk2TV9kNjV1UlpsUVN5Zk5zVVZubFFwMEF4cVc1N0I1ajlTWF9SRjJ3TFlYcHJjVG0yaGdPWmU5ZHU5aWtzTTl2aHFmUnJfRm9TOUNlRGw2ZmNLQUg3TDFsa0dfbE1yQ0ZLNlg1QUNSYVFzb25hajVyQnotQnRCY08xQXFEY2tjQzRsTmt5aWt2dl9vZHphc1k?oc=5",
-      "data": "24/09 09:15"
-    },
-    {
-      "titulo": "Técnico na base do Fluminense exalta versatilidade de Martinelli, hoje na Seleção: \"Talento acima da média\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjRtNVB1REstYlBOT3V4UEpQUTNpS0Jqc1FtbUlCM1RET01QbTV1Z09LRlZ1U0podHQxb090X0hzdFBncGQ3eW5HMWd6cnZUV25RbWF3T0t6aEpXTlVoLUtPSzRzOVlDSzNqaDZpTXhHOE1KQ1FfMDhFTmk4Y1BXOC1KVDdYbWozdXNFOEFwcHFzT2VsZFUybVlCYlNJNkRmOF9vQlo3WXVQODBzcTVEVHE2NHZyekJVemxSc2VKVV9wN1JXYVZVaW9saXAteURKbHRTczViYVpkeXV3Sk5Cb3ZWbzBGVGlVTFFrbl9EVlNnN0FFQXd3NTIwQmE2WGowdGxFMNIBkwJBVV95cUxNNjhtdVVSYjhUbFVNVlA1RlJDWURtSzlHZzhsNE4tbndsVzBJdjFCV1k2YTBaYVJqMHd2X3BPZDBGNVZTWjF1cUtid3BRVnJ4eDJzX1RYaE5xYVJOdFotSlktZVZtWXJXRWVDMDNRdVJDWGNBODd5WEU4S2NGeS1SeDRKeHdyV1N3MVdSUHVQeVVrMW9RbjdDZzcxNWtvY3duaDhzZXNqNnB4cnJ2Wm9sdlZJOEpkNHpCRk12cFNmbFVncTlwLWJ2ZDAwalVCb2NxSERWcnlSS2F2Wkl0WkEtYWhQd05EQW9pbnViR3Y2b1U4bFJISTlaQ2I5Wmx4eS04cWJXTm42RDVNaGtlaEx4TnU4TQ?oc=5",
-      "data": "24/09 07:00"
-    },
-    {
-      "titulo": "Radar dos emprestados: veja como estão os jogadores que pertencem ao Fluminense - lance.com.br",
+      "titulo": "Radar dos emprestados: veja como estão os jogadores que pertencem ao Fluminense - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcks2MENCWFRONXRsYVNmZUtYSFBZSGx3dzlyb2M4OG1YcjBQT29xN1pOaXoxUUxEc3I2bFVLUnBHbElEVTRBZTBpODdlYVc4Tk5ZcFpUSW8yWjNUVkdnWEF0MXJVTmxMZ3pKa1FZTFhSZnk1MnFpV2xrZE12WXRCLVYyTTNOOWRabHVyeHZoYVZaSVg5QVNaVkFZNjhBb3p1MHpGSjgxYmhNTGlBV2VDbE5KaWdRNEFKazRZ?oc=5",
       "data": "24/09 09:00"
     },
@@ -413,9 +403,19 @@
       "data": "22/09 20:01"
     },
     {
-      "titulo": "Cano, Canobbio, Serna, Rodrigo Castillo, Lucho Acosta, Soteldo, Savarino, Julián Millán e Freytes: todos os jogadores estrangeiros do elenco do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOdDlXSUd6N21tNDY0dFNzNU4zSF9zeXZ4ZGN2bGhzSElSb1NPYm1zNndKcjc0cGNfQVBwUXB0cTY2Smw4QnluZ01KbVFZcmZoVmlZZk5RRU5wd052Sko1XzZkVjZBb2Z6SlhoV3ZQUEpRbmRSQzMzR3o4bkRiSDdWLS04V053ZVlYSnBkV2c5Sk9SN0pqMnZrYnJ1QlpKX3ltNVdlY2ZvVXZyYjU4Vnd2eFpwM2FSeTVjcUtFZWF6NWFwNHFxSFNBajR5MDNyMi1NLXJBZkU3UWdtcXR2WmdfSC1RMndsNVJEV0h1WWo2aVJmbm5IUVZGV2ZleG1CbkRWYW93d2RNc01FWjBnNlZubmZ6U0hVSEhBWklNMExVZWtOOC0wdGpiaGgtTldIbmN4S1ZoNElvWU56NkN3cU1GU0d1MUdvUTJhRWVHYVg3ZnNxRlhBOXFHMw?oc=5",
-      "data": "23/09 18:15"
+      "titulo": "Cano pode deixar Fluminense por nova regra de estrangeiros da CBF; entenda - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUkVVQjR4Uksyd2pfdDFMY0lQZy1oM1pKYnlyWXdxSzB2ckwzZUZIRHozd052dGE3eUF4NHZ3bTRhU3A1bEtQMVU3blpUbjE1Tm10aWsxWGowVVNLR0dwZnB5eUk0eFdKMlV3Z1FyY3hNQnZtZTU0bkpZd1pBcDNGNWNHaTVnWWtnWFFxalBJbDd1WnVUa0tGaHVLWEJvcUZvYXpZNm9uVE8wSnlBRUluUG4zMEF5OUJkcmpadlEzc3EzbDB6c3hYUlJZQQ?oc=5",
+      "data": "24/09 15:15"
+    },
+    {
+      "titulo": "Fluminense aceita proposta de 15 milhões de euros para negociar Martinelli - jornalcruzeiro.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUtCQjktMFVLZGVZV1E2NTlBbzZOVndBQm15c2Q5bGItZE9hcGoxTFRBTzNnME1ZNEpyYmhMNjlPNFdUOFZnTTFUWURNc01Fdm5Md0YyNmV4MHNjMVhfZU5wazl6TGJCU196Z0t6aTF4NU9ILVZ3c2x0Y08za3hhdE1pV3dIV1QxV2JucWNBR2Y2Y2xRZDItTFdUVjRKQ1ZCQXdoVmZIWkpoc3JkallYVlZmOVNqZzh2WWk3aA?oc=5",
+      "data": "24/09 12:00"
+    },
+    {
+      "titulo": "MP recomenda quatro mil ingressos para torcida visitante em Palmeiras x Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZXc3S19hUFgwc2dKNFl3Z1FjaXFiLWFFUEQzaXBpcXJFMGhRMHM5YTkyaExoVC1TbGxSSmdNMF9NS244NDBuc3pzd0tBUHNPOWxOb20xbjlreWVYN2FCNDh5UGJyY0luOVhqSll5d2J0S0t2MXhwckotY29hWk9nVVJtYnJaeURWbExPdnZ2U200MmU2Ulg2X29NVDBfbFVOMW4xSTBveGZ5c21LTUo3TzZ0X0l3UzVBWTlma28wdGxfa0t6bTJETnA4aVltdW5pdWV1VnJBb3VPRHQ5Y05MYm1zZ2JaZnRoNEpiddIB-wFBVV95cUxPLWtqSnhPWjN1b1hYVk9rc0RzbDkwek1ENl9BMlU4eWhVTnhTU1hhbmVnb0phVnVsdlp0X2NiSzY5NFc1QXNiRnlWTDc0Y2pISldaUVRPYzdEci12YUhCOVZ3elVzVDFmRkcxSl83RXRyWXZUZnk5WDZ5M09Za3dCR0dYM3p5SUVZa0hFcHZ4V29MRlRMWHM1N3UzQXI1Q0w3eGoxbldYWTNCU1p3OWF6TU9Xb3kzR3hGbEFTTERqa1dsYjVrMGlQVVN2N1l3RURlSjdxTEF6VGQwcnJidVd1b09lTmVXdmtZSVJBTHdacjQ2QzJhV0dsN3ctdw?oc=5",
+      "data": "23/09 16:13"
     }
   ],
   "avisos": []
