@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/09/2026 18:59",
+  "atualizado_em": "23/09/2026 21:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -229,16 +229,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-23",
-      "time": "18:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Pinheiros x Sesi-Bauru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-23",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Fluminense",
@@ -271,7 +261,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 21.3,
-      "temp_min": 18.6,
+      "temp_min": 18.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
@@ -285,43 +275,43 @@ window.PAINEL_DATA = {
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 19.2,
-      "temp_min": 15.2,
+      "temp_min": 14.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 17.1,
-      "temp_min": 12.3,
+      "temp_min": 12.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Estrangeiros emprestados pelo Fluminense podem ser impactados por nova regra; entenda - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1ZXNzh6RjZpYnBCX0VpY25NMUFLNTVuNHlVWWdqd0ZDYkRGY29lTXZqYXBYQ2lwQnoxRVdHR3hnX25jOV94SzBQcW5ZcndqMjMyUHMzNkVMVFBIbVVvVzdwN1JoVDgwS0J6dXN0dGZON2VyR19KbVRHUVE1U202U2NCRUlVcnRvVHNWclR1Vy05S2lmNE9pUmZyVkdBVXFCSjA4bG9sSU5vSzJsMUVvaFhQLUZ0dV9CRFh5WjJ0ZWdGRS1pQld2d0I4NDQxZThXOHdWZ3F6M2toVzBNMHRlQlFxcW9tTFE1ZlMwatIB-wFBVV95cUxOeXVpVUpRN1MyRkl6TkhZdW8wa1hoU19teU14VTdYQk8zTDNUTW9iRzh6TS03RXVzX0JMbGljU2o2aHY5cnBvN2k3TjlPc3pJZDhDQnkyZ3phUE44UjlZbXRralFCV2plNkJMVk5ocDhITEpsUUxWVF95ZTFTb3J3cEhUTDFkU09sTHRnXzRBbi03WC1CTG5QaHRPSUgwOGd0X0U5c3FQeGxTUmgweWhELUxqX3pVWVkyR1B0X0V3NnUzd2x0Rk1lX2ZuLWxLVmRrdzRxeU1qLXpPVFRVU1FVS0FkeldUU1dBU2hjb2VlcUtYNldMSEk0Qzlfbw?oc=5",
-      "data": "22/09 20:01"
+      "titulo": "Joia do Fluminense, Matheus Reis avança em recuperação e se aproxima de retorno - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWDlJUTdWdXQ3N3o0SEFfOHNaLW02UVJrUGlvQ2oyWUE4bnFOanNQZjJJSmRKMkI4SU04Xy1UcUt2RWhZYndKdUNqMVRVUUswbmdHcXRuTDR0NDJiaE9WVnZEUmdDbEtzcW04RDRMT0VYSVlvU2RXZzdTaUhKVUVOY0JqRXh1RXRJZGwxZ1Vfa3ZPX2pJY3BGZGxQbHVkMU53R3BZVklyakJwOFkwY2tNUzdIRl9pR3V1dHBWSVVvMVdab2JFUEl0Y3FubWJiMGpLbnA5REJOTnpjeXFpekNPdEIzUdIB8gFBVV95cUxOc3cybUNhak1nTlBoY3I5RXJpNEFTVjNwNDZrYy14NllkdWtJVkxzV0tKV0RpSGZpeDZrTUFOMmk4ZGN4dENPTThrN2drWHg2UEpqS21mcUpFVDBBZnVVa2M5RmV3R1FCS0NNLThlelc1Z0M3OUluOGRwdllGOEQxeHktbjhYMjdnYjV4U1ZTSE5WNGhyT2pTZEhqRjZiVGpyRWxFSlRYbVpHSGxmVmVsTHlSSGV4dmlBTGR1S25EQ3FWV1h4MTFqTXZELWNmUmJta2ZSRmd1bWE3YmJPWHRCcFNUR1RIS1lfN25YMkVXSXBZQQ?oc=5",
+      "data": "23/09 21:54"
     },
     {
-      "titulo": "Estrangeiros do Fluminense que podem se naturalizar brasileiros - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDQtaHAydmJlMVA1U0QyVWJseTBCd1gzT21GVFdmSFJ2M2dFWFZRVUdBYUp3OWFsbTBmMTN0WHNPbDZ5Sm9JejNKbU1DbTlWUW9PMHBhazZKaG1PRHBXS1FlOERkYk4wNGlzaDJyaTF5RWNsdFVnR1FjZEhEaXVKOXk0RTU1aHB3cGVjd2pfd2MyaEhJTWU2OWhpN21Vc0RrMV9KNU1OZ29tUTl4QVRJdEc3V2VzRmdROUtr?oc=5",
-      "data": "23/09 20:25"
+      "titulo": "Guga e Soteldo são ausências em treinos do Fluminense; entenda motivo - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEpzUFZkVEhBVFdJWXgyRmxvTEV1UlB6SE5pTmZkQnZJanhKaDRjNmJuRW5vcUhiNGk5bjBSQ2l0TkpRQUlMcmg4M1lkdnRBdGh5MEVTU0Q0N0Roalp6Z2tObS1TSUYyblRtNVdNNXk3VDgzVXZsZ1Jnam9INzhrQ2sta19aTTVkdVBrZm1pZ2N4NXhQbTdsSDE5OA?oc=5",
+      "data": "23/09 21:09"
     },
     {
-      "titulo": "Cano, Canobbio, Serna, Rodrigo Castillo, Lucho Acosta, Soteldo, Savarino, Julián Millán e Freytes: todos os jogadores estrangeiros do elenco do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOdDlXSUd6N21tNDY0dFNzNU4zSF9zeXZ4ZGN2bGhzSElSb1NPYm1zNndKcjc0cGNfQVBwUXB0cTY2Smw4QnluZ01KbVFZcmZoVmlZZk5RRU5wd052Sko1XzZkVjZBb2Z6SlhoV3ZQUEpRbmRSQzMzR3o4bkRiSDdWLS04V053ZVlYSnBkV2c5Sk9SN0pqMnZrYnJ1QlpKX3ltNVdlY2ZvVXZyYjU4Vnd2eFpwM2FSeTVjcUtFZWF6NWFwNHFxSFNBajR5MDNyMi1NLXJBZkU3UWdtcXR2WmdfSC1RMndsNVJEV0h1WWo2aVJmbm5IUVZGV2ZleG1CbkRWYW93d2RNc01FWjBnNlZubmZ6U0hVSEhBWklNMExVZWtOOC0wdGpiaGgtTldIbmN4S1ZoNElvWU56NkN3cU1GU0d1MUdvUTJhRWVHYVg3ZnNxRlhBOXFHMw?oc=5",
-      "data": "23/09 18:15"
+      "titulo": "Matheus Reis avança em recuperação de lesão no Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaVloZllVbldyT1VURnhXU2VUMzgwa1AzNFItbW92LTVrR3JzWTgwUTV5bmhtcjMxZzUyWWNKak9ZSGJOdWRPenRpLVZnSlg5bEdkQ1hKWk93QThxRHRyN0hlTWc5WkV3dEhtck42LTlVeUtwSDdieGY0RFhJWkJrWWphR3NqR2NQNGhhMmg3ZVhOM1YyUEdLWE1ialo1WGlSY3puZnhPVXlCZHFwaW8wdTVJVDkzNW1SYkEzbdIBwgFBVV95cUxQbDFXMzZISGV4a09Fa1ZzOVd6ZEYzU3VHUktBQUZpZjdqU3pIS21STDdLMWRiak0ya3ZhdUNNQjhlYmVMTzFBY2RXRlNPZUtQbjBidW9rY0MzSmFtRkUtVC1HWWZWTVB6NGs3NWE3aGtBMzRmc2VUTEdUTl95SzIzLUh1ZnpKOHd2LWlaY3M1a2wyaXdCY090QV9Lc2UyYTM5VWYxNEplUXNOTE1CNVBFdTBHSEU2UnBERzhIaURMcEZ4QQ?oc=5",
+      "data": "23/09 23:09"
     },
     {
-      "titulo": "Fred será o técnico do Fluminense em 2027? Entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2NSQmQtVm5ld1hIaXFNcVdSdE82TUF5NnBQTm9ucEFrWDVrWDhMbHExb21adDZkeGo3c2w1TURPVkRyeUYwTjdXMG16UnhXYlNwWWd0QlktcEplTHhaVl9DbmhHTVRlZjlaNHRLNHFLeHkyUm9nRVMwUDZxZE9EemFQajduaHhqX3k3S3N2MjY1anRRZ01EYXhxT3h0WDRfSHl2dU15Z29tcXJpUVlnbWVIeGdLNmRkbDRuY3Zyc1o0TXJCYjRwV29FWHNiaGJpamRF?oc=5",
-      "data": "23/09 17:16"
+      "titulo": "Canobbio recusa ofertas para seguir no Fluminense: \"Tomei a melhor decisão\" - cnnbrasil.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDk0UGtpMThnd2s2OFVIVUlPV0RQRS05OEtNRVdCWkExYUJUaFBXd0lrTy1lcXhjMFpyNFV0VEMzQnV6TzVzbWJyRXVDeVNtVWZjdTNMZXJQSVI2alc4Q1BpQy1oRXJaZ3pFMlRJX2ZxeGJVWjBZU0pNYmxGUjZ2YmpOZ2hiczl5SEtkdWY1WEhOV1h0LUN5WnIycmxFLU1uelM0eHkwUDVFbU9SY3VJN3ZmdGdCeFVaT0trWERvQ2c2SzV4YUktME1R?oc=5",
+      "data": "22/09 20:58"
     },
     {
-      "titulo": "Fred diz que sonha ser treinador do Fluminense: \"Trabalho para isso\" - diariodorio.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3FhLXBGeWNZc0hSOWVkZ1Y1LU8wdzh0RGIydDF6QUFRMHBGU3ZZRWNmZmR2LXJZRmdFam9zamZaMDJjNmZEN1VKNlhRdWJ5a0VTMEIyRTRDM3h5SHZwZnJhdmRud0lxWGhTblpzTWhnaHhZZ1JNMUt6RkxZUzRBODlvMmh1VnFaS1ZfMmhOVklxUUtFdkZja3o1X25uY1VfUEtiWEt2Mjd0YmxZbklod3ZIMkNBNUdXc0dtMDJpZFdGdw?oc=5",
-      "data": "23/09 19:06"
+      "titulo": "Jornalista revela motivo da não convocação de Canobbio, do Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0MyeEdaX3JKa0FUejhic2U0alZCWjh0TDZidkxPUzhrRlRMNGJvYzQ4aHU5UmRZUk9jVmJVRHgwU2RtUnd2emJ0YW9FeTBuMTZfdWdfWlM4OEtsU1M5eXdSNXV0eXNRWmUxOWpYSFNyS0FKbnlRU0ZnM1lqbER4eFNNV2tCcGs1eEdoSkRZWXNfYXA0eGU4U051TQ?oc=5",
+      "data": "23/09 20:57"
     }
   ],
   "avisos": []
