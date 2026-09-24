@@ -1,88 +1,6 @@
 {
-  "atualizado_em": "23/09/2026 21:22",
+  "atualizado_em": "24/09/2026 02:48",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Seattle Sounders x Real Salt Lake",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Azerbaijão x Tajiquistão",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Gibraltar x Sao Tome and Principe",
-      "channels": [
-        "SPORTV 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "OH Leuven (F) x Roma (F)",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Servette Chenois (F) x Lyon (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "Chelsea (F) x Austria (F)ien (F)",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "Barcelona (F) x Paris FC (F)",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-23",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "ADT x Cienciano",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-24",
@@ -227,8 +145,194 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "07:00",
+      "competition": "Amistosos Seleções",
+      "match": "Austrália x Brasil",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Armenia x Letônia",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Georgia x Irlanda do Norte",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x EC São Bernardo Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x Jabaquara U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Suécia x Romênia",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Polônia x Bósnia e Herzegovina",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Hungria x Ucrânia",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Turquia x França",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "16:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x Ituano Sub-20",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Bermuda x Guadeloupe",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x São Bernardo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Vila Nova x Londrina",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "21:00",
+      "competition": "NWSL Feminina",
+      "match": "NJ/NY Gotham FC (F) x Chicago Red Stars (F)",
+      "channels": [
+        "XSPORTS",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Jamaica x Guatemala",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Barbados x St. Lucia",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Bonaire x São Cristóvão e Névis",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "22:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Honduras x Suriname",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Fluminense",
@@ -238,7 +342,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "time": "19:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Fluminense x Praia Clube",
@@ -248,7 +352,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "time": "18:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Praia Clube",
@@ -260,58 +364,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 21.3,
-      "temp_min": 18.7,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 21.4,
+      "temp_min": 18.0,
+      "chance_chuva": 53,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.0,
-      "temp_min": 19.0,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 21.8,
+      "temp_min": 17.6,
+      "chance_chuva": 71,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.2,
-      "temp_min": 14.9,
+      "temp_max": 18.8,
+      "temp_min": 12.2,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.1,
-      "temp_min": 12.4,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 16.6,
+      "temp_min": 10.8,
+      "chance_chuva": 90,
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Joia do Fluminense, Matheus Reis avança em recuperação e se aproxima de retorno - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWDlJUTdWdXQ3N3o0SEFfOHNaLW02UVJrUGlvQ2oyWUE4bnFOanNQZjJJSmRKMkI4SU04Xy1UcUt2RWhZYndKdUNqMVRVUUswbmdHcXRuTDR0NDJiaE9WVnZEUmdDbEtzcW04RDRMT0VYSVlvU2RXZzdTaUhKVUVOY0JqRXh1RXRJZGwxZ1Vfa3ZPX2pJY3BGZGxQbHVkMU53R3BZVklyakJwOFkwY2tNUzdIRl9pR3V1dHBWSVVvMVdab2JFUEl0Y3FubWJiMGpLbnA5REJOTnpjeXFpekNPdEIzUdIB8gFBVV95cUxOc3cybUNhak1nTlBoY3I5RXJpNEFTVjNwNDZrYy14NllkdWtJVkxzV0tKV0RpSGZpeDZrTUFOMmk4ZGN4dENPTThrN2drWHg2UEpqS21mcUpFVDBBZnVVa2M5RmV3R1FCS0NNLThlelc1Z0M3OUluOGRwdllGOEQxeHktbjhYMjdnYjV4U1ZTSE5WNGhyT2pTZEhqRjZiVGpyRWxFSlRYbVpHSGxmVmVsTHlSSGV4dmlBTGR1S25EQ3FWV1h4MTFqTXZELWNmUmJta2ZSRmd1bWE3YmJPWHRCcFNUR1RIS1lfN25YMkVXSXBZQQ?oc=5",
-      "data": "23/09 21:54"
+      "titulo": "MP diz que não há 'grande histórico de rivalidade' e recomenda 4 mil lugares para visitantes em Palmeiras x Fluminense - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOYVJBQm5mbENEWU9mMXozU1ZTWXRUZkhfWmVHRk9JYVM2NUZwM2ROVEVsb3cwYk00QVlnd1B5Q0YtczhLV2RENEplOFJSemd4SG8wZi1iWmZYT2pvT2JscEVOU19Jb2ltZVdjNFVEcUZneEdEcTRPdXMzM0xBdG9QT0pCbHYta3RvbGNFNE1MZkUtZ0xYR0FQVHlHeUlwRDVQdmNQVXkxOU1SSktYdi1WYmRZRDlVRlNzV0pxTlpVdjZDeUZlWENBM2Y3azM1aDlhbDdwZE5ISTVnRWtMUjh3b01LRHpPcDlfeEljNERwY29PTDhrYTJ2Q0Q0bVY2d1ZIcUtBb0xQdS1wZWNGSXF6amd0ekR5V2s?oc=5",
+      "data": "23/09 17:32"
     },
     {
-      "titulo": "Guga e Soteldo são ausências em treinos do Fluminense; entenda motivo - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZEpzUFZkVEhBVFdJWXgyRmxvTEV1UlB6SE5pTmZkQnZJanhKaDRjNmJuRW5vcUhiNGk5bjBSQ2l0TkpRQUlMcmg4M1lkdnRBdGh5MEVTU0Q0N0Roalp6Z2tObS1TSUYyblRtNVdNNXk3VDgzVXZsZ1Jnam9INzhrQ2sta19aTTVkdVBrZm1pZ2N4NXhQbTdsSDE5OA?oc=5",
-      "data": "23/09 21:09"
-    },
-    {
-      "titulo": "Matheus Reis avança em recuperação de lesão no Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaVloZllVbldyT1VURnhXU2VUMzgwa1AzNFItbW92LTVrR3JzWTgwUTV5bmhtcjMxZzUyWWNKak9ZSGJOdWRPenRpLVZnSlg5bEdkQ1hKWk93QThxRHRyN0hlTWc5WkV3dEhtck42LTlVeUtwSDdieGY0RFhJWkJrWWphR3NqR2NQNGhhMmg3ZVhOM1YyUEdLWE1ialo1WGlSY3puZnhPVXlCZHFwaW8wdTVJVDkzNW1SYkEzbdIBwgFBVV95cUxQbDFXMzZISGV4a09Fa1ZzOVd6ZEYzU3VHUktBQUZpZjdqU3pIS21STDdLMWRiak0ya3ZhdUNNQjhlYmVMTzFBY2RXRlNPZUtQbjBidW9rY0MzSmFtRkUtVC1HWWZWTVB6NGs3NWE3aGtBMzRmc2VUTEdUTl95SzIzLUh1ZnpKOHd2LWlaY3M1a2wyaXdCY090QV9Lc2UyYTM5VWYxNEplUXNOTE1CNVBFdTBHSEU2UnBERzhIaURMcEZ4QQ?oc=5",
-      "data": "23/09 23:09"
-    },
-    {
-      "titulo": "Canobbio recusa ofertas para seguir no Fluminense: \"Tomei a melhor decisão\" - cnnbrasil.com.br",
+      "titulo": "Canobbio recusa ofertas para seguir no Fluminense: \"Tomei a melhor decisão\" - CNN Brasil",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWDk0UGtpMThnd2s2OFVIVUlPV0RQRS05OEtNRVdCWkExYUJUaFBXd0lrTy1lcXhjMFpyNFV0VEMzQnV6TzVzbWJyRXVDeVNtVWZjdTNMZXJQSVI2alc4Q1BpQy1oRXJaZ3pFMlRJX2ZxeGJVWjBZU0pNYmxGUjZ2YmpOZ2hiczl5SEtkdWY1WEhOV1h0LUN5WnIycmxFLU1uelM0eHkwUDVFbU9SY3VJN3ZmdGdCeFVaT0trWERvQ2c2SzV4YUktME1R?oc=5",
       "data": "22/09 20:58"
     },
     {
-      "titulo": "Jornalista revela motivo da não convocação de Canobbio, do Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0MyeEdaX3JKa0FUejhic2U0alZCWjh0TDZidkxPUzhrRlRMNGJvYzQ4aHU5UmRZUk9jVmJVRHgwU2RtUnd2emJ0YW9FeTBuMTZfdWdfWlM4OEtsU1M5eXdSNXV0eXNRWmUxOWpYSFNyS0FKbnlRU0ZnM1lqbER4eFNNV2tCcGs1eEdoSkRZWXNfYXA0eGU4U051TQ?oc=5",
-      "data": "23/09 20:57"
+      "titulo": "Fred será o técnico do Fluminense em 2027? Entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN2NSQmQtVm5ld1hIaXFNcVdSdE82TUF5NnBQTm9ucEFrWDVrWDhMbHExb21adDZkeGo3c2w1TURPVkRyeUYwTjdXMG16UnhXYlNwWWd0QlktcEplTHhaVl9DbmhHTVRlZjlaNHRLNHFLeHkyUm9nRVMwUDZxZE9EemFQajduaHhqX3k3S3N2MjY1anRRZ01EYXhxT3h0WDRfSHl2dU15Z29tcXJpUVlnbWVIeGdLNmRkbDRuY3Zyc1o0TXJCYjRwV29FWHNiaGJpamRF?oc=5",
+      "data": "23/09 17:16"
+    },
+    {
+      "titulo": "Fred abre o jogo sobre sonho de treinar o profissional do Fluminense - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRHdLY0pwNHlfNVhjWnlUSWJLTlYtXzNxUlFFeEVsZVhPRXVrcDRNU2lXaTA4QVB4VjU3WWhNR1JTNXNUN0F6ejhCRGV4djkzbHdPWDRmR3FYcHRteGREVW1WMk51QWJFVjNwVU5hRVprTHhORVZnZ2lUX2ZNMFJvdkx4Zk9sTFM0VjVJaWNlT0QxZlJsX2J2bnRnN2ZkN19XUHAtODVWcmN0aUtKRjZPeEs5Y0dmRktpdERtY3RWS0xOTDJESkd5TnZLSGo4Sl9teTRrRmxweDlpWGM5ZzVtRkZrWFUwUEZoZzg5WnpsRQ?oc=5",
+      "data": "23/09 18:21"
+    },
+    {
+      "titulo": "Fred diz que sonha ser treinador do Fluminense: \"Trabalho para isso\" - Diário do Rio",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3FhLXBGeWNZc0hSOWVkZ1Y1LU8wdzh0RGIydDF6QUFRMHBGU3ZZRWNmZmR2LXJZRmdFam9zamZaMDJjNmZEN1VKNlhRdWJ5a0VTMEIyRTRDM3h5SHZwZnJhdmRud0lxWGhTblpzTWhnaHhZZ1JNMUt6RkxZUzRBODlvMmh1VnFaS1ZfMmhOVklxUUtFdkZja3o1X25uY1VfUEtiWEt2Mjd0YmxZbklod3ZIMkNBNUdXc0dtMDJpZFdGdw?oc=5",
+      "data": "23/09 19:06"
     }
   ],
   "avisos": []
