@@ -1,88 +1,6 @@
 {
-  "atualizado_em": "25/09/2026 16:08",
+  "atualizado_em": "25/09/2026 20:01",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x EC São Bernardo Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x Jabaquara U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Suécia x Romênia",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Polônia x Bósnia e Herzegovina",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Hungria x Ucrânia",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Turquia x França",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "16:00",
-      "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x Ituano Sub-20",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Bermuda x Guadeloupe",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-25",
@@ -127,21 +45,21 @@
       "sport": "futebol",
       "date": "2026-09-25",
       "time": "21:00",
-      "competition": "NWSL Feminina",
-      "match": "NJ/NY Gotham FC (F) x Chicago Red Stars (F)",
+      "competition": "CONCACAF Nations League",
+      "match": "Jamaica x Guatemala",
       "channels": [
-        "XSPORTS",
-        "ONEFOOTBALL"
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-25",
       "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Jamaica x Guatemala",
+      "competition": "NWSL Feminina",
+      "match": "NJ/NY Gotham FC (F) x Chicago Red Stars (F)",
       "channels": [
-        "YOUTUBE"
+        "XSPORTS",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -171,6 +89,17 @@
       "date": "2026-09-25",
       "time": "13:00",
       "competition": "UEFA Nations League",
+      "match": "Armenia x Letônia",
+      "channels": [
+        "SPORTV",
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
       "match": "Georgia x Irlanda do Norte",
       "channels": [
         "ESPN 4",
@@ -180,12 +109,83 @@
     {
       "sport": "futebol",
       "date": "2026-09-25",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Armenia x Letônia",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santos Sub-20 x Jabaquara U20",
       "channels": [
-        "SPORTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x EC São Bernardo Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Turquia x França",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Hungria x Ucrânia",
+      "channels": [
         "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Polônia x Bósnia e Herzegovina",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Suécia x Romênia",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "16:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x Ituano Sub-20",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Bermuda x Guadeloupe",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -625,29 +625,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Radar dos emprestados: veja como estão os jogadores que pertencem ao Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcks2MENCWFRONXRsYVNmZUtYSFBZSGx3dzlyb2M4OG1YcjBQT29xN1pOaXoxUUxEc3I2bFVLUnBHbElEVTRBZTBpODdlYVc4Tk5ZcFpUSW8yWjNUVkdnWEF0MXJVTmxMZ3pKa1FZTFhSZnk1MnFpV2xrZE12WXRCLVYyTTNOOWRabHVyeHZoYVZaSVg5QVNaVkFZNjhBb3p1MHpGSjgxYmhNTGlBV2VDbE5KaWdRNEFKazRZ?oc=5",
-      "data": "24/09 09:00"
+      "titulo": "Fluminense campeão mundial de 2023? Entenda caminho após punição ao Manchester City - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek9nVjJVRnhYcVlYejF2WVZXNUw0YWMwY3dmQVY3YXhQbnBlZEQ0LXJYVXlIQTFmaU1NcWoza19kRHNDVjVIRE11SkVPWmhNMXI2OEwtMzdTcWRVajNsLW5YOXFYTm5RbzdnM20wNmZZeS1EdHNObHRQNGU4dVlUOVZxSmRUaVVUVWFtaFFlLXk0RDBNRmJYX21kRHhfemNNX0hMcFRYcE5VTEUtUW0wYVZjS3JWMmwyQlVsR09ZOVA?oc=5",
+      "data": "25/09 18:46"
     },
     {
-      "titulo": "Fluminense repatria lateral e amplia opções de Marcão; veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0w4MnJJOGpqbl93Y2I5eDJiWnN0MkUwX0o3b1NLeW41RjdQZFEtQmVUcGZ0QmZWbHZxUjJjY09RZy1tUDFlWWdNU2tnZDdLWmpQSS1OSzVzbE8zazc0OXJQVnRJZXZGajcySXNOSEtXNUdad3Axazk2cVZkT2k3cHJYYy10OEtwNjZ3Rk5URjNhV2pvWm5aS1dXZ0N2Z1JweUtLUE1jS1IxVDNjYU9yOXM5T0U1RlphaVEzZWowOFlVRlplVUw1Z2ktWjdsYWs0NzJwZWxLbWVhaTh3ak5n?oc=5",
-      "data": "25/09 16:16"
+      "titulo": "Fluminense considera debate legítimo, mas faz ponderações sobre MP das bets - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHdCNG5BWlQxN2tRd3hucE53bUpJTGpCY3ktazRWUGdWaHU4ZTBXdmNTTklBSzNoWTdRWjk1dDkzOUxKekE3X0hVSnphZjFDS0dfTVRzYllMVFdHV3A0MTBlYnNweGkzSndnX1NXeWtfNnVPbm1YRkM1MENDYlBOQXV4dkRxUXRRbV9rSkY0cmNuU1ZENHRSR2c5S1FVSXlaVDdaM2JhWEdpemR0Q3l4WlY4ZGRRN1pGS1V5WGFLUG55UmRQMGNuV2QwWWtFUDlN0gHWAUFVX3lxTE9HX1ROdUZ6cHZfN0pqellWTjlXVENicVBBdE9XMUtuVVpibHlzXzFldjNOU0VTdVhJSVdkVktGZzR5elNKbUV2U0dRMkQzVnlyR3dOYmJZczl6czZpN1dCLVgteVpzREtvSS1pX3luMWtxdkdFcTRfZkhvTkkxZ2c5SWNvWWUyOGR6WEdJVWZWWEt6MlhBd05Ca281c2xrSTg3TnhfUWhLVDNpREhFR1V1VHVuTHBsOFpTUnA0TFhoOTMydlRTdGtLNkI2eFRjWkdqSW5pQ0E?oc=5",
+      "data": "25/09 21:35"
     },
     {
-      "titulo": "Técnico na base do Fluminense exalta versatilidade de Martinelli, hoje na Seleção: \"Talento acima da média\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjRtNVB1REstYlBOT3V4UEpQUTNpS0Jqc1FtbUlCM1RET01QbTV1Z09LRlZ1U0podHQxb090X0hzdFBncGQ3eW5HMWd6cnZUV25RbWF3T0t6aEpXTlVoLUtPSzRzOVlDSzNqaDZpTXhHOE1KQ1FfMDhFTmk4Y1BXOC1KVDdYbWozdXNFOEFwcHFzT2VsZFUybVlCYlNJNkRmOF9vQlo3WXVQODBzcTVEVHE2NHZyekJVemxSc2VKVV9wN1JXYVZVaW9saXAteURKbHRTczViYVpkeXV3Sk5Cb3ZWbzBGVGlVTFFrbl9EVlNnN0FFQXd3NTIwQmE2WGowdGxFMA?oc=5",
-      "data": "24/09 07:00"
+      "titulo": "Em nota, Fluminense sugere período de transição para fim das bets - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTJSVjc5aUczb1RWZHh3bEJlWGl3S3N1N1FfVTJKektYei1mZkRDU0ZQSm1DN3RUNFh0Z3NEdVNDRmtSb05TVFVMRm9idnBIelZZN2I1UWVvNG1CVDhkWEFrR21GZXRUUGZLcWZyMTNQdXg1Nzh6aWEtN0RPSUJ2X1FpcGp0NEJ0SjBuQU9jbVBidnRXZG5EMkJuOVZlS2M5RVE?oc=5",
+      "data": "25/09 22:54"
     },
     {
-      "titulo": "Martinelli, do Fluminense, é um dos nomes na mira de gigante italiano - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGVCcGNqYk5nUnN2QTBCdTMteWtFWXZZRnBnVkhJUDdZTHd3WWZncHR4LV9fdmsyajhwNHI5bVV4VV96akhhQVFzM21SbmM5TEhxT2trcTVwQlVWSTJKVHhSc204UnhxUmZ6dExPbTlYSWZrWGc3Rk41cXJ4c1pjT29NeXRoNVBBUlFXUE9vNnUtdGU3azJ1YV9B?oc=5",
-      "data": "25/09 14:30"
+      "titulo": "Fluminense considera debate 'legítimo' sobre apostas, mas faz ressalva: 'Mercado clandestino tende a ocupar esse espaço' - Extra online",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM1VsS0xiNHREZnRRY0ZabWJET19JNXRQOTV1N241Uno5RUxQRnVOUm9yWTk3UEFhVzE3bGNGWHVHMVd1MlNfekdFdTFLMFRldjk0ZUxPSXAzd0tqY0x0ZEkwTDV3MGdCT2FzaXl6aFZvcFJySkRHSDFXcUpiU1RKWWY0VmMyN3RaU25EY0JpNF9iZjIzYnE0VHRXWXlLamtyS1N0QThPTC1qMVhGcWVkdnpGRnJNUmgtdXFYa0N2WFdnWjViS0RNbTdFRHVkdzY4c2daaC1wLVNfOUFCVHltVDlHTDhHMTJRTXVYSGFCRF9rUjJIMzNiZEdjQnhVelVsY2t4cjRLSVZHOTDSAZoCQVVfeXFMT0ZrTVRPSWtnblNaS0FrbFRUV2kzUzdPcGRYeG1POGU4QmJWanktVmJxSUthVzFqbXRzRm11MUZxbElyS09PcGhHMUx6eWhSbjJpblRfOUsxWmJESm1xWmoyNEJkdURMMEo2TXFfalFTakhvMXEzRldmTEljTmFTZmI1eE41YVB5NzZaQVduOS1sbldOSmlRR1d5OUF5dUVrWmI4MWZ5UVBYakd3dDZRWmJIMGpqNWc4QTlSV0IxNE5mNlRrcV9QR0VadW1rVGZORXJEbk9STHVvRm4yYkJURG1ZQnhmajB5czZlemE4SVhXa1JkYjdPMGZnMFRDeHBmcmNwd2lBa1ZiVU1BMzB6WVNhVlcya1ZxeDZB?oc=5",
+      "data": "25/09 20:54"
     },
     {
-      "titulo": "Fluminense aceita proposta de 15 milhões de euros para negociar Martinelli - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUtCQjktMFVLZGVZV1E2NTlBbzZOVndBQm15c2Q5bGItZE9hcGoxTFRBTzNnME1ZNEpyYmhMNjlPNFdUOFZnTTFUWURNc01Fdm5Md0YyNmV4MHNjMVhfZU5wazl6TGJCU196Z0t6aTF4NU9ILVZ3c2x0Y08za3hhdE1pV3dIV1QxV2JucWNBR2Y2Y2xRZDItTFdUVjRKQ1ZCQXdoVmZIWkpoc3JkallYVlZmOVNqZzh2WWk3aA?oc=5",
-      "data": "24/09 12:00"
+      "titulo": "Manchester City vai perder seus títulos? Fluminense campeão mundial? Time inglês é culpado por Fair Play financeiro - Terra",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMzlPYzhRZzJxRVJmMEkxYkxlUWgzZ0pHelFPY05LZjNsSkhLSElIcWJ6X05UNE9TQWxyV1JfVUZNVVo0Nkswbk8xc1JISU1DaFNUbjBfckJub3NiemNicDgyMVhjb3VVTXpwenUtUndHUXk2NUtGOUQyNmlvMGJQNVlzc1V6NW9Nbm40NmZRM284UkRKVllJdEZlQVltWUotTzN4UzNOZmFCT2tmZkRwaWt5VmtSMXdVV1NlT2FVWjJkakNOU3NOQk5kWTloLWhRbFFnc0M1aUhmaVJwR2lyQy15ZHY3blVudG1HVXgwRGZxR09uWWsyc2JXOGlmb3h0TUVJVWdfUTFUWl9OXzA5NjI4dWVBTUVEMFRRZ1pB?oc=5",
+      "data": "25/09 20:24"
     }
   ],
   "avisos": []
