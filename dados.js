@@ -1,28 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/09/2026 11:56",
+  "atualizado_em": "25/09/2026 16:08",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Armenia x Letônia",
-      "channels": [
-        "SPORTV",
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Georgia x Irlanda do Norte",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-25",
@@ -129,19 +107,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-25",
       "time": "21:00",
-      "competition": "NWSL Feminina",
-      "match": "NJ/NY Gotham FC (F) x Chicago Red Stars (F)",
-      "channels": [
-        "XSPORTS",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-25",
-      "time": "21:00",
       "competition": "CONCACAF Nations League",
-      "match": "Jamaica x Guatemala",
+      "match": "Bonaire x São Cristóvão e Névis",
       "channels": [
         "YOUTUBE"
       ]
@@ -160,8 +127,19 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-25",
       "time": "21:00",
+      "competition": "NWSL Feminina",
+      "match": "NJ/NY Gotham FC (F) x Chicago Red Stars (F)",
+      "channels": [
+        "XSPORTS",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "21:00",
       "competition": "CONCACAF Nations League",
-      "match": "Bonaire x São Cristóvão e Névis",
+      "match": "Jamaica x Guatemala",
       "channels": [
         "YOUTUBE"
       ]
@@ -186,6 +164,28 @@ window.PAINEL_DATA = {
         "GLOBO",
         "SPORTV",
         "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Georgia x Irlanda do Norte",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-25",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Armenia x Letônia",
+      "channels": [
+        "SPORTV",
+        "SPORTV 2"
       ]
     },
     {
@@ -596,31 +596,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.2,
+      "temp_max": 27.0,
       "temp_min": 19.6,
-      "chance_chuva": 23,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 45,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.7,
+      "temp_max": 26.2,
       "temp_min": 19.3,
-      "chance_chuva": 15,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 33,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.3,
+      "temp_max": 20.8,
       "temp_min": 15.3,
-      "chance_chuva": 41,
-      "condicao": "Garoa forte"
+      "chance_chuva": 74,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.2,
+      "temp_max": 22.5,
       "temp_min": 14.5,
-      "chance_chuva": 51,
-      "condicao": "Garoa forte"
+      "chance_chuva": 73,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -630,8 +630,13 @@ window.PAINEL_DATA = {
       "data": "24/09 09:00"
     },
     {
+      "titulo": "Fluminense repatria lateral e amplia opções de Marcão; veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY0w4MnJJOGpqbl93Y2I5eDJiWnN0MkUwX0o3b1NLeW41RjdQZFEtQmVUcGZ0QmZWbHZxUjJjY09RZy1tUDFlWWdNU2tnZDdLWmpQSS1OSzVzbE8zazc0OXJQVnRJZXZGajcySXNOSEtXNUdad3Axazk2cVZkT2k3cHJYYy10OEtwNjZ3Rk5URjNhV2pvWm5aS1dXZ0N2Z1JweUtLUE1jS1IxVDNjYU9yOXM5T0U1RlphaVEzZWowOFlVRlplVUw1Z2ktWjdsYWs0NzJwZWxLbWVhaTh3ak5n?oc=5",
+      "data": "25/09 16:16"
+    },
+    {
       "titulo": "Técnico na base do Fluminense exalta versatilidade de Martinelli, hoje na Seleção: \"Talento acima da média\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjRtNVB1REstYlBOT3V4UEpQUTNpS0Jqc1FtbUlCM1RET01QbTV1Z09LRlZ1U0podHQxb090X0hzdFBncGQ3eW5HMWd6cnZUV25RbWF3T0t6aEpXTlVoLUtPSzRzOVlDSzNqaDZpTXhHOE1KQ1FfMDhFTmk4Y1BXOC1KVDdYbWozdXNFOEFwcHFzT2VsZFUybVlCYlNJNkRmOF9vQlo3WXVQODBzcTVEVHE2NHZyekJVemxSc2VKVV9wN1JXYVZVaW9saXAteURKbHRTczViYVpkeXV3Sk5Cb3ZWbzBGVGlVTFFrbl9EVlNnN0FFQXd3NTIwQmE2WGowdGxFMNIBkwJBVV95cUxNNjhtdVVSYjhUbFVNVlA1RlJDWURtSzlHZzhsNE4tbndsVzBJdjFCV1k2YTBaYVJqMHd2X3BPZDBGNVZTWjF1cUtid3BRVnJ4eDJzX1RYaE5xYVJOdFotSlktZVZtWXJXRWVDMDNRdVJDWGNBODd5WEU4S2NGeS1SeDRKeHdyV1N3MVdSUHVQeVVrMW9RbjdDZzcxNWtvY3duaDhzZXNqNnB4cnJ2Wm9sdlZJOEpkNHpCRk12cFNmbFVncTlwLWJ2ZDAwalVCb2NxSERWcnlSS2F2Wkl0WkEtYWhQd05EQW9pbnViR3Y2b1U4bFJISTlaQ2I5Wmx4eS04cWJXTm42RDVNaGtlaEx4TnU4TQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZjRtNVB1REstYlBOT3V4UEpQUTNpS0Jqc1FtbUlCM1RET01QbTV1Z09LRlZ1U0podHQxb090X0hzdFBncGQ3eW5HMWd6cnZUV25RbWF3T0t6aEpXTlVoLUtPSzRzOVlDSzNqaDZpTXhHOE1KQ1FfMDhFTmk4Y1BXOC1KVDdYbWozdXNFOEFwcHFzT2VsZFUybVlCYlNJNkRmOF9vQlo3WXVQODBzcTVEVHE2NHZyekJVemxSc2VKVV9wN1JXYVZVaW9saXAteURKbHRTczViYVpkeXV3Sk5Cb3ZWbzBGVGlVTFFrbl9EVlNnN0FFQXd3NTIwQmE2WGowdGxFMA?oc=5",
       "data": "24/09 07:00"
     },
     {
@@ -643,11 +648,6 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense aceita proposta de 15 milhões de euros para negociar Martinelli - jornalcruzeiro.com.br",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMUtCQjktMFVLZGVZV1E2NTlBbzZOVndBQm15c2Q5bGItZE9hcGoxTFRBTzNnME1ZNEpyYmhMNjlPNFdUOFZnTTFUWURNc01Fdm5Md0YyNmV4MHNjMVhfZU5wazl6TGJCU196Z0t6aTF4NU9ILVZ3c2x0Y08za3hhdE1pV3dIV1QxV2JucWNBR2Y2Y2xRZDItTFdUVjRKQ1ZCQXdoVmZIWkpoc3JkallYVlZmOVNqZzh2WWk3aA?oc=5",
       "data": "24/09 12:00"
-    },
-    {
-      "titulo": "Hulk, John Kennedy, Lucho Acosta, Canobbio, Kevin Serna, Rodrigo Castillo; os jogadores do Fluminense com mais participação em gol - Terra",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNUjdKV2lKaDVZckR1WXFvM25nM2Q2cGlBR2JsRXJDdHo5Y0NPdmZZZmFXc2k5YU9Rcm45U21CUVNqUjdYN2FfRHQ5MkJ5cXkyOEZwdk55ZFhITFhpa3hPdkFaQnl6eWUzWjRpOUNZZmEySnQtUnQtcDc4SzVxbXhIUi11X0l5RE1xRjNmam9odEJXRm1DSV9aRW5XUVN6N3dHQ2tka2JjdlFPbmFxRll6bzItSUZvd0FXVU51TDlqMkpWLWs2SV9PcG5qcU1JZzVrRm05dm1hSFkzSnc1a3ZJYXk0R0lXVzRIVDk1bUREUTF5TkVtUjZiUTllUjJmNHVidFlQUnFrM05iakZVMnRaeVozM2oydUcyVllqMWNzODFISmV2UEhwdXpPUmdVX1BFYWFpOXFNMA?oc=5",
-      "data": "25/09 11:10"
     }
   ],
   "avisos": []
