@@ -1,56 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/09/2026 11:00",
+  "atualizado_em": "26/09/2026 15:14",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "10:00",
-      "competition": "Amistoso Feminino",
-      "match": "Botswana (F) x Namibia (F)",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "10:00",
-      "competition": "UEFA Nations League",
-      "match": "Eslovênia x Escócia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Islândia x Estônia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Bulgária x Luxemburgo",
-      "channels": [
-        "ESPN"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-26",
@@ -135,6 +85,27 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-26",
       "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Saint Martin x US Virgin Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "competition": "Copa Paulista",
+      "match": "Gremio Prudente x Uniao Sao Joao",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "17:00",
       "competition": "Brasileirão Série C",
       "match": "Botafogo PB x Maringá",
       "channels": [
@@ -157,30 +128,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Uniao Sao Joao",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Saint Martin x US Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
       "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Atlético GO",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Boston River",
       "channels": [
         "DISNEY+"
       ]
@@ -189,8 +139,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-26",
       "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Boston River",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Atlético GO",
       "channels": [
         "DISNEY+"
       ]
@@ -278,11 +228,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x St. Louis City",
+      "time": "21:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Deportivo Maldonado",
       "channels": [
-        "APPLE TV"
+        "DISNEY+"
       ]
     },
     {
@@ -299,28 +249,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-26",
       "time": "21:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Deportivo Maldonado",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
       "competition": "MLS",
-      "match": "Houston Dynamo x Sporting Kansas City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Austin x San Diego",
+      "match": "Seattle Sounders x Minnesota United FC",
       "channels": [
         "APPLE TV"
       ]
@@ -340,7 +270,17 @@ window.PAINEL_DATA = {
       "date": "2026-09-26",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Seattle Sounders x Minnesota United FC",
+      "match": "Austin x San Diego",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Houston Dynamo x Sporting Kansas City",
       "channels": [
         "APPLE TV"
       ]
@@ -380,7 +320,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-26",
       "time": "23:30",
       "competition": "MLS",
-      "match": "San Jose Earthquakes x Portland Timbers",
+      "match": "Los Angeles Galaxy x Colorado Rapids",
       "channels": [
         "APPLE TV"
       ]
@@ -400,7 +340,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-26",
       "time": "23:30",
       "competition": "MLS",
-      "match": "Los Angeles Galaxy x Colorado Rapids",
+      "match": "San Jose Earthquakes x Portland Timbers",
       "channels": [
         "APPLE TV"
       ]
@@ -413,6 +353,66 @@ window.PAINEL_DATA = {
       "match": "Papua New Guinea (F) x Vanuatu (F)",
       "channels": [
         "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "10:00",
+      "competition": "UEFA Nations League",
+      "match": "Eslovênia x Escócia",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "10:00",
+      "competition": "Amistoso Feminino",
+      "match": "Botswana (F) x Namibia (F)",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Progreso x Racing Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Bulgária x Luxemburgo",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Islândia x Estônia",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x St. Louis City",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -666,14 +666,14 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 27.2,
       "temp_min": 21.3,
-      "chance_chuva": 4,
+      "chance_chuva": 2,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.5,
+      "temp_max": 27.2,
       "temp_min": 16.4,
-      "chance_chuva": 29,
+      "chance_chuva": 63,
       "condicao": "Garoa fraca"
     },
     {
@@ -686,32 +686,30 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Punição ao City pode tornar o Fluminense campeão mundial? Entenda - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk92dGlFdnN4R242QUJQTzM0ZVY5cW5uZDBBY25WbDhBUjliVUpqYk8zcjBLalRhcENjRWJkUndhdUNfUEtTVTZ6eGEwaTd4dndwZXZQNE8wcmNhdUw1cGktWFNPV01DUDF5VlFQaE9hY1ZwZGFkdVVUTjBMQlhXaFFaSkhNUVI0WVJWbHlHR0lfUl9LZlZhNzFaTHBnU0pzS083Smo3cFQ3UWJ6WjE2Vjh4dUhGeWZudDZUaUh0cGpnRlJ6bEHSAcsBQVVfeXFMUC1qcTR2bWpUVU92M3FMZmhTRjlQZWsyb0tZNnZLQ2VqbHhLQlQ4N2RhcjQtQ0VkdjlSaHVhT0hOUlk0ZlZHdXNKQmYtRG55WFpOa1Axa1Nha0VOWnp2T3hNTWpZQV9RR0VkWk5nMGYzSDJvUnctWFRURkxqdF9meXVNTEotZzl3U2hoOXQ2ZUo2QWxDQVh0LVU4aXFqNmFWcXFnbndZT19qMXVGcVFQcmpPN0o4WnhJTXZNTTl1RFZteTRTWnNsaGFtbWM?oc=5",
-      "data": "26/09 01:35"
-    },
-    {
       "titulo": "Fluminense campeão mundial de 2023? Entenda caminho após punição ao Manchester City - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek9nVjJVRnhYcVlYejF2WVZXNUw0YWMwY3dmQVY3YXhQbnBlZEQ0LXJYVXlIQTFmaU1NcWoza19kRHNDVjVIRE11SkVPWmhNMXI2OEwtMzdTcWRVajNsLW5YOXFYTm5RbzdnM20wNmZZeS1EdHNObHRQNGU4dVlUOVZxSmRUaVVUVWFtaFFlLXk0RDBNRmJYX21kRHhfemNNX0hMcFRYcE5VTEUtUW0wYVZjS3JWMmwyQlVsR09ZOVA?oc=5",
       "data": "25/09 18:46"
     },
     {
-      "titulo": "Manchester City vai perder seus títulos? Fluminense campeão mundial? Time inglês é culpado por Fair Play financeiro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMzlPYzhRZzJxRVJmMEkxYkxlUWgzZ0pHelFPY05LZjNsSkhLSElIcWJ6X05UNE9TQWxyV1JfVUZNVVo0Nkswbk8xc1JISU1DaFNUbjBfckJub3NiemNicDgyMVhjb3VVTXpwenUtUndHUXk2NUtGOUQyNmlvMGJQNVlzc1V6NW9Nbm40NmZRM284UkRKVllJdEZlQVltWUotTzN4UzNOZmFCT2tmZkRwaWt5VmtSMXdVV1NlT2FVWjJkakNOU3NOQk5kWTloLWhRbFFnc0M1aUhmaVJwR2lyQy15ZHY3blVudG1HVXgwRGZxR09uWWsyc2JXOGlmb3h0TUVJVWdfUTFUWl9OXzA5NjI4dWVBTUVEMFRRZ1pB?oc=5",
-      "data": "25/09 20:24"
+      "titulo": "Fluminense vence o Flamengo no Carioca sub-20 com direito à invasão de Fred em golaço e presença de Marcão - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRE1mOGs5cHBSWFdodldVbXJkQ1F1dkFEYXVJbmlFZUo0dFRpWWIySUN4RWhFdHp2ZS1ETjV0RDF1YnNoZjBqRVo2RGtBWWkyMmJMYkhHcDVTNzB4TzloVTBORkhzNjk3VUJyZ09XcWxjbkhzZFhUTUloX3NhWXZ6eC1oX1hhTEZfWW1kRDlXWGstQlVhbnBzS0poTENyUlExZk5hWnVsVHprM21rcWtoVTUycGRjQ2RFVzRPYjNzOTFnbl8zcUxOVko0SGRwQW42MVdmTDBoc2JfME5RWlZSLW5GeFFvWllseUhKT2ZWZXNLbm9FZ2hDVjhMWdIBigJBVV95cUxQSEZNRHRBMDZFZzc4UVJRbFlacW1vcGJKWXNEWGs0OEo5X1pYTzhqZ1duTURoc3BuX3RNWUtFaGJqVmVkdXNEbXRoX0pGZlAyT3V0NktRdTRBd3ZBcjR6QVpkTW5sN2F2V0ZqT0lQbENRX0Zlc2VxODRoenFSM1Rpald5d2RDbE5nM0o0ei1YeE9oSHoxeUd5R1J5Z1hQUjJyejlhVUNjWWRTVnp0S1Y5TlYxOHZvM21qQmNNaWVTQl9PR1V0NFEtdVBqYVhXQkRiZUVJV3BDS1pDc0diOFRSZkpDUzNIeV93blFpRG5ORjJOeVlXQVRDNjQ2d1V3MDJUZ1hxejB5VjhBZw?oc=5",
+      "data": "26/09 16:29"
     },
     {
-      "titulo": "Flamengo, Fluminense e Grêmio se manifestam sobre proibição das bets no Brasil - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhMRW5KRHJlV0tpYlJLNWwtc3o0MXdjWHFpWU9qMnJsRG5UblZkOWpES25hYTVhT1hUQV9UTk00eFdmMkJrTERRRlA3NDVQT1NSMlpSY29xRHhHZW40eDI4ZU9URE9INF9CdUt5WFIwMVZOcnBUMVE4T2taNm5JQXJQQnQzWkhNeDJxZWxwOVkxVnNiR2VFeV9heE80R3A4a1AwWg?oc=5",
-      "data": "25/09 23:10"
+      "titulo": "Presidente do Fluminense confirma notificação sobre fim de contrato com bet: 'Impacto ultrapassa R$ 100 milhões' - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYlFMSjRPRXp1UUloTTJCdGxLNnZydFJLNlFvQmMzTVh1TVNoLUhsUzA0eXJCa1hSYlRCY1dqLS04eUpmeV9ORmNwRGZiLVhKRW1abXFmX05sbWlHaVc4SXN0RU5CUjB2WlBpc3BrbW13NHJZbWtyeHlxSVVmS0RwZml0d0oxZF84ZUh1QXh3TENwUlEyZlBsVFk2VGJhLXJ0YWlCZlJKYjMwTE5uaXVkZGF6cGRIWnRqd0VlNVdQcElzYzg1a1F5dVVsUURkaVBVQlptMV9xUFZVckVnTDBzNkVVX0hpa2tGbHBBTTV4TzRjQ1FNRXdsbnNuUGdtNDhKMmt2eDFVTUFySXdJ0gGbAkFVX3lxTE4xc1lDdUtSdEdYV2M3ellvMmRVamZHamp3T0M5eUI4LTA1YldRYjBxTFZlRlN6V0tvdFhLQmtBSHJvZTNpci0tN21qRFhENHlUNW1iREhkYllyN0FUYXRGZTVza0E1U0hLbktSdlhRT0VDbnhDVUNFaEsyNHQ4aHhtZmxualNIM1RyYXZWd2JITEhEUkQ0eE9QbmhEbUEzRW1wVlZGN3cwai1DeFRqYkJ2Z3lKa3hDalBEMGRFekx3WmVnclk0RlF1SUFZalBFVkJXX0ZxYVJnS2IxZWZZUkxtVkFGTFBtXzZZSHhsT0syeTBPY09GVzF1blBpLUhRTTZpVGRreGwxcGxvbUt4RGE2Ymtnb1F2WnJFTEE?oc=5",
+      "data": "26/09 00:38"
     },
     {
-      "titulo": "Rotina de Fred no sub-20 do Fluminense inclui duas horas no trânsito e já teve churrasco e futevôlei com atletas - ge",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTF9ETU9kNDhSUngwTktPR3pQR25Sb29NT1BtZkl5aW1WbHBiQTd5cUlGR0ZnWFhtMFptQnhSczlCT2h5dmhoUjNlYTkyNXpUOVZqUzZlbWoxY1ZWNjM3RkRZa0g4d3M2MlZ2YlNWd0ozWTBDQzFvSVZ5eTdSdnlRZ1g3ZWxfbE8xNGYwaTRGdndUcWJYMUY3YzNZWXA2aThjcjZqMTB0RGk1UkhFbk5iM04xbDBuTmg5SFlKWUgyQlduWTRrVDlhSlhEb09LaG8xY0NoczNGNXJSbWZtel9LMmtlQXhwQmJiUHlsZTlEOEo5TEwtWFpEZkwtNXZ5MTkxelZCNlU0S3pMRnVTS1hSRdIBnwJBVV95cUxQVmVBRU5HZEQ1YTlvSDN5SElRYUpkazFnQy1VN3BCSGVEZmJHT0Z4SlpRM1VycGVCMzBUdDdvN1hDWGFlTGVlOEpSSzRtcW1VeU5lUi1YRE8zNjVEeXlLQnlvcmFYRkdwaTZxa0x6MDdRZFI5aDlzN0prWHhtNXZoVDhVZlo4cmE1SGNaLVhSb29UdV9lTkxSWDdiRVVWWkhFRDZ4ZkJTVHFrb3VWMm8ycDhVWFBNaTRLSVJNUlVWbkxGc2lTa3FWY18xMmJwRkEyTDc0ZHp6dm1VanZCdjVBSDg1dFp1RUlNTkhRNm1LY0kyTW1RYkR6RGRKbl9Zb3lVd2szcUJWdFRZaS1HMGZZUHZUSGdLRHZBYUxTaTNiaw?oc=5",
-      "data": "26/09 07:00"
+      "titulo": "Hulk vive melhor fase pelo Fluminense desde 2025; veja desempenho - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSm1oTy0yS0p3UTZ0UnZWYzAxdm1MT0RzUTJTX2xUUWFqaFoycmc4aWtJQzc3NFlVSlAzaWJaR1Ztck9OSDQ0VUN3bjRnQVhmdlZvcmFzbmFMYWxkUnlLeVZlYW5uWERzNlAzS2k2bXZxQTQ1S1Bpbmk4eUcyRkdIczR3SVhDbGYxNUoyVDdIWUc4SVhwRVpQaFVSN1pRN2pUYWxhNTNkR3h4Nm94T1J5YkxlTHZIbWdfOUprTUFDc1pkUGVPUDhTOXlaQWtyV21LdXNUbG50SHlZeFIyeFBPcmFJNWFSaDQ?oc=5",
+      "data": "26/09 06:21"
+    },
+    {
+      "titulo": "Sub-15 do Flu defende título da Copa Rio a partir deste sábado; Sub-17 tricolor também estreia - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0JBempEZDgzVzRCb19ESTBsTGF3ZXBuUzJoLUNTbmFTd0thYmpBdzBva1NRclBrTGstYnhEd3dWOTY0UFd6ekJnVU5sUUR4cy14RVU5UHY4X0Z5T3F1emJpUlFTRlltRUdFWnJhNmNSTlB1LUl6elhQSDQxMW56eWhpVHI0Y3lfZW5zV1RHOUlNME02YThZb2wwbnR5anRDYV9BN3JkQXlfbTVDeTNQNDRMSzBJR1hxM29kZnc3UHo2cjNqMUI3SENLOA?oc=5",
+      "data": "25/09 22:30"
     }
   ],
-  "avisos": [
-    "Falha ao buscar clima de Itaipava (Petrópolis): Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
