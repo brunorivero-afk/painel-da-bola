@@ -1,20 +1,10 @@
 {
-  "atualizado_em": "26/09/2026 00:13",
+  "atualizado_em": "26/09/2026 06:01",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "04:00",
-      "competition": "Amistoso Feminino",
-      "match": "Papua New Guinea (F) x Vanuatu (F)",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "09:00",
+      "time": "10:00",
       "competition": "Amistoso Feminino",
       "match": "Botswana (F) x Namibia (F)",
       "channels": [
@@ -96,11 +86,12 @@
       "date": "2026-09-26",
       "time": "16:30",
       "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Ceará",
+      "match": "Náutico x Sport Recife",
       "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE",
+        "SPORTV 2"
       ]
     },
     {
@@ -123,12 +114,11 @@
       "date": "2026-09-26",
       "time": "16:30",
       "competition": "Brasileirão Série B",
-      "match": "Náutico x Sport Recife",
+      "match": "Operário-PR x Ceará",
       "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE",
-        "SPORTV 2"
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
       ]
     },
     {
@@ -387,6 +377,16 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "04:00",
+      "competition": "Amistoso Feminino",
+      "match": "Papua New Guinea (F) x Vanuatu (F)",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-09-27",
       "time": "00:05",
       "competition": "Campeonato Mexicano",
@@ -596,9 +596,29 @@
     {
       "sport": "volei",
       "date": "2026-09-26",
-      "time": "18:30",
+      "time": "18:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Praia Clube",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-26",
+      "time": "19:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Pinheiros x Sesi-Bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-09-26",
+      "time": "19:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Fluminense x Praia Clube",
       "channels": [
         "SporTV2"
       ]
@@ -607,43 +627,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.8,
-      "temp_min": 20.4,
-      "chance_chuva": 4,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 27.2,
+      "temp_min": 20.5,
+      "chance_chuva": 0,
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.7,
-      "temp_min": 21.1,
-      "chance_chuva": 16,
+      "temp_max": 26.9,
+      "temp_min": 21.3,
+      "chance_chuva": 6,
       "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.4,
-      "temp_min": 16.5,
-      "chance_chuva": 36,
+      "temp_max": 27.5,
+      "temp_min": 16.4,
+      "chance_chuva": 29,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.7,
+      "temp_max": 27.2,
       "temp_min": 15.7,
-      "chance_chuva": 59,
+      "chance_chuva": 39,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense campeão mundial de 2023? Entenda caminho após punição ao Manchester City - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek9nVjJVRnhYcVlYejF2WVZXNUw0YWMwY3dmQVY3YXhQbnBlZEQ0LXJYVXlIQTFmaU1NcWoza19kRHNDVjVIRE11SkVPWmhNMXI2OEwtMzdTcWRVajNsLW5YOXFYTm5RbzdnM20wNmZZeS1EdHNObHRQNGU4dVlUOVZxSmRUaVVUVWFtaFFlLXk0RDBNRmJYX21kRHhfemNNX0hMcFRYcE5VTEUtUW0wYVZjS3JWMmwyQlVsR09ZOVA?oc=5",
-      "data": "25/09 18:46"
-    },
-    {
       "titulo": "Punição ao City pode tornar o Fluminense campeão mundial? Entenda - O Dia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk92dGlFdnN4R242QUJQTzM0ZVY5cW5uZDBBY25WbDhBUjliVUpqYk8zcjBLalRhcENjRWJkUndhdUNfUEtTVTZ6eGEwaTd4dndwZXZQNE8wcmNhdUw1cGktWFNPV01DUDF5VlFQaE9hY1ZwZGFkdVVUTjBMQlhXaFFaSkhNUVI0WVJWbHlHR0lfUl9LZlZhNzFaTHBnU0pzS083Smo3cFQ3UWJ6WjE2Vjh4dUhGeWZudDZUaUh0cGpnRlJ6bEHSAcsBQVVfeXFMUC1qcTR2bWpUVU92M3FMZmhTRjlQZWsyb0tZNnZLQ2VqbHhLQlQ4N2RhcjQtQ0VkdjlSaHVhT0hOUlk0ZlZHdXNKQmYtRG55WFpOa1Axa1Nha0VOWnp2T3hNTWpZQV9RR0VkWk5nMGYzSDJvUnctWFRURkxqdF9meXVNTEotZzl3U2hoOXQ2ZUo2QWxDQVh0LVU4aXFqNmFWcXFnbndZT19qMXVGcVFQcmpPN0o4WnhJTXZNTTl1RFZteTRTWnNsaGFtbWM?oc=5",
       "data": "26/09 01:35"
+    },
+    {
+      "titulo": "Torcedores do Fluminense enlouquecem com possível título mundial: 'Obrigado' - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFhIVFdiR2hlNTNBdkRvTTE3U3dMSTIxalJpbURrV1VuejNyVERBeGJRc0F5Nlp5cXN3bXZEQW9HQXlzNUhhV3FaMm1DMWpIU1BoZndSWThRYVE3MFlndm5vS1FPMElGQjhEUDVfQlM0Y2FXbUMtdmlYZEF0QmRyZ3ZpYTcwTDlBMEF1Y1FpVVFGTXdIOXhIUE9RdlJXMDZGYkd0c3dMWUI0dmlYZVVoc2VoZ1NiZTkx?oc=5",
+      "data": "25/09 22:40"
     },
     {
       "titulo": "Manchester City vai perder seus títulos? Fluminense campeão mundial? Time inglês é culpado por Fair Play financeiro - Terra",
@@ -651,14 +671,14 @@
       "data": "25/09 20:24"
     },
     {
-      "titulo": "Presidente do Fluminense confirma notificação sobre fim de contrato com bet: 'Impacto ultrapassa R$ 100 milhões' - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYlFMSjRPRXp1UUloTTJCdGxLNnZydFJLNlFvQmMzTVh1TVNoLUhsUzA0eXJCa1hSYlRCY1dqLS04eUpmeV9ORmNwRGZiLVhKRW1abXFmX05sbWlHaVc4SXN0RU5CUjB2WlBpc3BrbW13NHJZbWtyeHlxSVVmS0RwZml0d0oxZF84ZUh1QXh3TENwUlEyZlBsVFk2VGJhLXJ0YWlCZlJKYjMwTE5uaXVkZGF6cGRIWnRqd0VlNVdQcElzYzg1a1F5dVVsUURkaVBVQlptMV9xUFZVckVnTDBzNkVVX0hpa2tGbHBBTTV4TzRjQ1FNRXdsbnNuUGdtNDhKMmt2eDFVTUFySXdJ0gGbAkFVX3lxTE4xc1lDdUtSdEdYV2M3ellvMmRVamZHamp3T0M5eUI4LTA1YldRYjBxTFZlRlN6V0tvdFhLQmtBSHJvZTNpci0tN21qRFhENHlUNW1iREhkYllyN0FUYXRGZTVza0E1U0hLbktSdlhRT0VDbnhDVUNFaEsyNHQ4aHhtZmxualNIM1RyYXZWd2JITEhEUkQ0eE9QbmhEbUEzRW1wVlZGN3cwai1DeFRqYkJ2Z3lKa3hDalBEMGRFekx3WmVnclk0RlF1SUFZalBFVkJXX0ZxYVJnS2IxZWZZUkxtVkFGTFBtXzZZSHhsT0syeTBPY09GVzF1blBpLUhRTTZpVGRreGwxcGxvbUt4RGE2Ymtnb1F2WnJFTEE?oc=5",
-      "data": "26/09 00:38"
+      "titulo": "Hulk vive melhor fase pelo Fluminense desde 2025; veja desempenho - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSm1oTy0yS0p3UTZ0UnZWYzAxdm1MT0RzUTJTX2xUUWFqaFoycmc4aWtJQzc3NFlVSlAzaWJaR1Ztck9OSDQ0VUN3bjRnQVhmdlZvcmFzbmFMYWxkUnlLeVZlYW5uWERzNlAzS2k2bXZxQTQ1S1Bpbmk4eUcyRkdIczR3SVhDbGYxNUoyVDdIWUc4SVhwRVpQaFVSN1pRN2pUYWxhNTNkR3h4Nm94T1J5YkxlTHZIbWdfOUprTUFDc1pkUGVPUDhTOXlaQWtyV21LdXNUbG50SHlZeFIyeFBPcmFJNWFSaDQ?oc=5",
+      "data": "26/09 06:21"
     },
     {
-      "titulo": "Fluminense terá prejuízo de mais de R$ 100 milhões, diz presidente - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOR21lMnBHNkF0dHl0Qm9oNnBRSzI2U3NieC1Ba3FRTHpYTk1NSlVsVkFuRkZ1U2lRNmRWcmlkdmlBRlhMaEMxQmItQWptRmJKZ0E5UWd6ZWtJSjZrVjVGbVlhR1FHQUl6NWRYdmZXRXpHTUkycU0ybHJhZ0JqSlFYUE52SnBibEtXcG1iNGZPc2NReWJ2LVZBeUpRdmdwbHFrUm1QVVR0ZHBQZFp1WjJ5WlBjVDA5VFZ3VDNsZlhGSWxqSFVKQlpEeWV6U3ZiUUZXQWFhdnNTbjQ2R1ROZXFhWFB1WU9BWThOTjRn?oc=5",
-      "data": "26/09 02:45"
+      "titulo": "Rotina de Fred no sub-20 do Fluminense inclui duas horas no trânsito e já teve churrasco e futevôlei com atletas - ge",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTF9ETU9kNDhSUngwTktPR3pQR25Sb29NT1BtZkl5aW1WbHBiQTd5cUlGR0ZnWFhtMFptQnhSczlCT2h5dmhoUjNlYTkyNXpUOVZqUzZlbWoxY1ZWNjM3RkRZa0g4d3M2MlZ2YlNWd0ozWTBDQzFvSVZ5eTdSdnlRZ1g3ZWxfbE8xNGYwaTRGdndUcWJYMUY3YzNZWXA2aThjcjZqMTB0RGk1UkhFbk5iM04xbDBuTmg5SFlKWUgyQlduWTRrVDlhSlhEb09LaG8xY0NoczNGNXJSbWZtel9LMmtlQXhwQmJiUHlsZTlEOEo5TEwtWFpEZkwtNXZ5MTkxelZCNlU0S3pMRnVTS1hSRdIBnwJBVV95cUxQVmVBRU5HZEQ1YTlvSDN5SElRYUpkazFnQy1VN3BCSGVEZmJHT0Z4SlpRM1VycGVCMzBUdDdvN1hDWGFlTGVlOEpSSzRtcW1VeU5lUi1YRE8zNjVEeXlLQnlvcmFYRkdwaTZxa0x6MDdRZFI5aDlzN0prWHhtNXZoVDhVZlo4cmE1SGNaLVhSb29UdV9lTkxSWDdiRVVWWkhFRDZ4ZkJTVHFrb3VWMm8ycDhVWFBNaTRLSVJNUlVWbkxGc2lTa3FWY18xMmJwRkEyTDc0ZHp6dm1VanZCdjVBSDg1dFp1RUlNTkhRNm1LY0kyTW1RYkR6RGRKbl9Zb3lVd2szcUJWdFRZaS1HMGZZUHZUSGdLRHZBYUxTaTNiaw?oc=5",
+      "data": "26/09 07:00"
     }
   ],
   "avisos": []
