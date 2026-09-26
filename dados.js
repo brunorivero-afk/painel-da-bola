@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/09/2026 06:01",
+  "atualizado_em": "26/09/2026 11:00",
   "jogos": [
     {
       "sport": "futebol",
@@ -74,6 +74,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-26",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Macedonia do Norte x Suíça",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
       "time": "16:00",
       "competition": "CONCACAF Nations League",
       "match": "Montserrat x British Virgin Islands",
@@ -98,6 +108,18 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-26",
       "time": "16:30",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Ceará",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "16:30",
       "competition": "Brasileirão Feminino",
       "match": "Corinthians (F) x São Paulo (F)",
       "channels": [
@@ -107,18 +129,6 @@ window.PAINEL_DATA = {
         "GE TV",
         "YOUTUBE",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "16:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Ceará",
-      "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
       ]
     },
     {
@@ -189,20 +199,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-26",
       "time": "19:30",
-      "competition": "NWSL Feminina",
-      "match": "Washington Spirit (F) x Angel City (F)",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Paysandu",
       "channels": [
-        "ONEFOOTBALL"
+        "SPORTYNET"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-26",
       "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Paysandu",
+      "competition": "NWSL Feminina",
+      "match": "Washington Spirit (F) x Angel City (F)",
       "channels": [
-        "SPORTYNET"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -280,7 +290,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-26",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Seattle Sounders x Minnesota United FC",
+      "match": "FC Dallas x Los Angeles FC",
       "channels": [
         "APPLE TV"
       ]
@@ -330,9 +340,29 @@ window.PAINEL_DATA = {
       "date": "2026-09-26",
       "time": "21:30",
       "competition": "MLS",
-      "match": "FC Dallas x Los Angeles FC",
+      "match": "Seattle Sounders x Minnesota United FC",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "21:45",
+      "competition": "NWSL Feminina",
+      "match": "Portland Thorns (F) x Houston Dash (F)",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "22:00",
+      "competition": "Amistosos Seleções",
+      "match": "México x Colômbia",
+      "channels": [
+        "SPORTV"
       ]
     },
     {
@@ -350,7 +380,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-26",
       "time": "23:30",
       "competition": "MLS",
-      "match": "Los Angeles Galaxy x Colorado Rapids",
+      "match": "San Jose Earthquakes x Portland Timbers",
       "channels": [
         "APPLE TV"
       ]
@@ -370,7 +400,7 @@ window.PAINEL_DATA = {
       "date": "2026-09-26",
       "time": "23:30",
       "competition": "MLS",
-      "match": "San Jose Earthquakes x Portland Timbers",
+      "match": "Los Angeles Galaxy x Colorado Rapids",
       "channels": [
         "APPLE TV"
       ]
@@ -627,16 +657,16 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.2,
-      "temp_min": 20.5,
-      "chance_chuva": 0,
-      "condicao": "Poucas nuvens"
+      "temp_max": 27.3,
+      "temp_min": 20.6,
+      "chance_chuva": 16,
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.9,
+      "temp_max": 27.2,
       "temp_min": 21.3,
-      "chance_chuva": 6,
+      "chance_chuva": 4,
       "condicao": "Poucas nuvens"
     },
     {
@@ -648,22 +678,22 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.2,
-      "temp_min": 15.7,
-      "chance_chuva": 39,
+      "temp_max": 27.4,
+      "temp_min": 15.6,
+      "chance_chuva": 65,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Punição ao City pode tornar o Fluminense campeão mundial? Entenda - O Dia",
+      "titulo": "Punição ao City pode tornar o Fluminense campeão mundial? Entenda - odia.ig.com.br",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk92dGlFdnN4R242QUJQTzM0ZVY5cW5uZDBBY25WbDhBUjliVUpqYk8zcjBLalRhcENjRWJkUndhdUNfUEtTVTZ6eGEwaTd4dndwZXZQNE8wcmNhdUw1cGktWFNPV01DUDF5VlFQaE9hY1ZwZGFkdVVUTjBMQlhXaFFaSkhNUVI0WVJWbHlHR0lfUl9LZlZhNzFaTHBnU0pzS083Smo3cFQ3UWJ6WjE2Vjh4dUhGeWZudDZUaUh0cGpnRlJ6bEHSAcsBQVVfeXFMUC1qcTR2bWpUVU92M3FMZmhTRjlQZWsyb0tZNnZLQ2VqbHhLQlQ4N2RhcjQtQ0VkdjlSaHVhT0hOUlk0ZlZHdXNKQmYtRG55WFpOa1Axa1Nha0VOWnp2T3hNTWpZQV9RR0VkWk5nMGYzSDJvUnctWFRURkxqdF9meXVNTEotZzl3U2hoOXQ2ZUo2QWxDQVh0LVU4aXFqNmFWcXFnbndZT19qMXVGcVFQcmpPN0o4WnhJTXZNTTl1RFZteTRTWnNsaGFtbWM?oc=5",
       "data": "26/09 01:35"
     },
     {
-      "titulo": "Torcedores do Fluminense enlouquecem com possível título mundial: 'Obrigado' - lance.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFhIVFdiR2hlNTNBdkRvTTE3U3dMSTIxalJpbURrV1VuejNyVERBeGJRc0F5Nlp5cXN3bXZEQW9HQXlzNUhhV3FaMm1DMWpIU1BoZndSWThRYVE3MFlndm5vS1FPMElGQjhEUDVfQlM0Y2FXbUMtdmlYZEF0QmRyZ3ZpYTcwTDlBMEF1Y1FpVVFGTXdIOXhIUE9RdlJXMDZGYkd0c3dMWUI0dmlYZVVoc2VoZ1NiZTkx?oc=5",
-      "data": "25/09 22:40"
+      "titulo": "Fluminense campeão mundial de 2023? Entenda caminho após punição ao Manchester City - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek9nVjJVRnhYcVlYejF2WVZXNUw0YWMwY3dmQVY3YXhQbnBlZEQ0LXJYVXlIQTFmaU1NcWoza19kRHNDVjVIRE11SkVPWmhNMXI2OEwtMzdTcWRVajNsLW5YOXFYTm5RbzdnM20wNmZZeS1EdHNObHRQNGU4dVlUOVZxSmRUaVVUVWFtaFFlLXk0RDBNRmJYX21kRHhfemNNX0hMcFRYcE5VTEUtUW0wYVZjS3JWMmwyQlVsR09ZOVA?oc=5",
+      "data": "25/09 18:46"
     },
     {
       "titulo": "Manchester City vai perder seus títulos? Fluminense campeão mundial? Time inglês é culpado por Fair Play financeiro - Terra",
@@ -671,9 +701,9 @@ window.PAINEL_DATA = {
       "data": "25/09 20:24"
     },
     {
-      "titulo": "Hulk vive melhor fase pelo Fluminense desde 2025; veja desempenho - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSm1oTy0yS0p3UTZ0UnZWYzAxdm1MT0RzUTJTX2xUUWFqaFoycmc4aWtJQzc3NFlVSlAzaWJaR1Ztck9OSDQ0VUN3bjRnQVhmdlZvcmFzbmFMYWxkUnlLeVZlYW5uWERzNlAzS2k2bXZxQTQ1S1Bpbmk4eUcyRkdIczR3SVhDbGYxNUoyVDdIWUc4SVhwRVpQaFVSN1pRN2pUYWxhNTNkR3h4Nm94T1J5YkxlTHZIbWdfOUprTUFDc1pkUGVPUDhTOXlaQWtyV21LdXNUbG50SHlZeFIyeFBPcmFJNWFSaDQ?oc=5",
-      "data": "26/09 06:21"
+      "titulo": "Flamengo, Fluminense e Grêmio se manifestam sobre proibição das bets no Brasil - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTXhMRW5KRHJlV0tpYlJLNWwtc3o0MXdjWHFpWU9qMnJsRG5UblZkOWpES25hYTVhT1hUQV9UTk00eFdmMkJrTERRRlA3NDVQT1NSMlpSY29xRHhHZW40eDI4ZU9URE9INF9CdUt5WFIwMVZOcnBUMVE4T2taNm5JQXJQQnQzWkhNeDJxZWxwOVkxVnNiR2VFeV9heE80R3A4a1AwWg?oc=5",
+      "data": "25/09 23:10"
     },
     {
       "titulo": "Rotina de Fred no sub-20 do Fluminense inclui duas horas no trânsito e já teve churrasco e futevôlei com atletas - ge",
@@ -681,5 +711,7 @@ window.PAINEL_DATA = {
       "data": "26/09 07:00"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar clima de Itaipava (Petrópolis): Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 };
