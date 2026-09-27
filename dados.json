@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/09/2026 03:07",
+  "atualizado_em": "27/09/2026 09:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -368,63 +368,59 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.9,
-      "temp_min": 20.6,
-      "chance_chuva": 16,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 24.6,
+      "temp_min": 21.4,
+      "chance_chuva": 33,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.5,
-      "temp_min": 19.8,
-      "chance_chuva": 10,
+      "temp_max": 24.6,
+      "temp_min": 20.0,
+      "chance_chuva": 21,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.1,
-      "temp_min": 16.4,
-      "chance_chuva": 63,
+      "temp_min": 16.9,
+      "chance_chuva": 96,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.6,
-      "temp_min": 15.6,
-      "chance_chuva": 65,
-      "condicao": "Garoa fraca"
+      "temp_max": 24.4,
+      "temp_min": 16.8,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense abre o CT, mas escolhe quem pode entrar - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVJuaEhXLWN2ekhOZWFnTENEc1k4YkxjT3FscVZWNnN2V0cweVNlS1dwemZnNFo2SUk2Y2hMM0EwaUxmNGJsWV85ckhmT0RQSG1BcUowTFlEcFNtNk0yN1g0U0RTd1hMei1TbUlaRHZsX1MwZHJXYVp4aU80TmFlUGpfNFE3a3JVVjBMYzdvWGllbDU2eGkyZjB4X0NMYTlSdmU5ajBzRzdaRVBiZlNiWDE3MnI2MnpJa2c5X3M2MVBTdmFIT1IxaUt0UXhES0o2MTJR?oc=5",
-      "data": "27/09 04:18"
+      "titulo": "Martinelli vibra com chance na Seleção, revela inspirações e exalta Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX0l2OFh1MWphSGdfd1MwVjVUWVA0VzZHMlpackRYcmFqbWJIVUs2RFpJUTJVLVdFdWtsRnhxeEJBVWFiN0ZaRDJVczlvbEI5TGF3TUc5U004dnNLMWZyNmt1QVdIWXZrbFpoOXJCNDhTZjVIdjJqaHRPUUt3MUpEb0lwT0RGMURpMlNMelRFRkwzSzA1aU1XX0o0RWdDb3UzUTNjZHlXbTQxWTdyV1QtbExhNmIwZkdhaHVDQ3NGYTNFVHkz?oc=5",
+      "data": "27/09 11:22"
     },
     {
-      "titulo": "Montenegro avalia prejuízo do Fluminense após fim das bets - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFc4a0NObzJpeFpsUUJOM0ZyZERBb3lwc2RXZGlQYUsyS1RxWk9zLUhwQ2FxRG5Qam1QYlVRQ0J4YmtvcDIyNzhtT0FST3FfWEJwMG5OaE1YaDRUWXVkVXBITVluWUZoakZJMWVYWk12QXljQ2dIdTZqSk5YaXhMMG9NOW01TEFBZkk0RGhwaHFSV0t0UTVKMEhXOHNxTFVha1p4NW81NkU1V09QMDdOVWRqMmVkRmt1T0hPblJORWxGR3VRMUlRcllB0gHPAUFVX3lxTE9obHRTTmg3SXc1OUZjMVNZSGN5ZFdXWVFCX050cjhldXFNNk4wQkx2RGprUmd6bjlxeW9FYXFZSng2X2JaeUVXSi1JalhzbTFQMzdEc2VyQy1KY21sV2UyRG1hWjZ1UGZfc1p1UXRiMmEwVHVKLXVPNnh3WmZqVUtHajgxQXZBbkQ1UFdtVjlkSVlNcDJ2OVEzM2FPS3NHeUVyR2FsY0lDblZIaWZBaDBKdEQtOVVKQ1o1Zk9hQ1FRdW1uVG1aZ3IxeE1hdFJwbw?oc=5",
-      "data": "26/09 12:20"
+      "titulo": "Martinelli tem valorização natural com a Seleção, e venda futura deve ser a maior do Fluminense - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWg4cTNjbnl1ZTRHdlBFbHpqVGtoQXF3Vl9RZkxYUDBLODdvcmhya0U0RDZEV3Q1SUFMRFFWUUJWcnhIcE5nTE52SHBGMDNLNlExdXk3NXVNSE1XRDloQ3NoNzczYUctWnVIc3FXT21VU05MdHIxdm5aU3NEOFVNQkFlSFMtVE9NcTVsQzlVUUVIdWkwRk9QTERObkx5QnNnSWRuakktR1RwQlRlcUM5NC1JT2tTemJPeGh6dFhxUWtGWW5sT2E2QzQtZzdESFZ6UzJ1ZGozaUlBSVB2M3BsckRHUnFkUm95UVQya0F2V01adXotUHZjY9IBhwJBVV95cUxOWXpIR2ZhWlA2blNDX21Gc0RocTZoMkhvTmlvaXNfb2Z0NUhXZGQyQXhNbldaWlJrajdMcGh4VWVWMFF6MTVvQS04QkMwM3dBWUQ2U2l6UkktS21LSlhYN2ZiTWdQVTE2bXRMSFpWZ1h6TnBxYlpmUHVJekx4Q1R4TjZEUGhIYXc1SUtBSUt6VjJVOFlhVlhaamJNR0dmRTVBeE00RjI5aEZHQlVXWkpMUVlwenFnb2NhN1VMWS1xcVJldnNSeEVhWVBYbXhKQm90eEt4Uy11WjhSakVXOWRoeHNoeWplUjhFOXg4QnNURWFoTEU3QzhuMjhDalBWVk4yck0zYmRpcw?oc=5",
+      "data": "25/09 13:00"
     },
     {
-      "titulo": "Sem espaço, Freytes pode puxar 'barca de estrangeiros' no Fluminense - odia.ig.com.br",
+      "titulo": "Volante do Fluminense e da Seleção entra na mira de gigante italiano - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaXVmVkg2MXdka215YVZvWE5waVhUeE1HV0Z1UVNjbWxfb2VMTmRFUjV0OTBmWUFDci1jRks0T19hYWJHbVdkVGJ2MjE0VWFsUGswM1NiWTYyX0FnNmVDbjN2Yk1uOVUzOXZiUnpvU2QzcUs3ZzQ5dVltVVFwVVlEbmFmMHNmakJRSlhmNXZDX3BlZmkwT0p0R3VzTG9SN1I2ZklVbF9NQlZCQm1kMHIwdElqOE5XWnEwd0dPVElyNUJ2d2xSemVZdGEzN0NzbkRwNENMOHVLTFBNSGJ6UjhpVktVU0Qxc1F5Z0JFMGlCWU1XbUF4SDQyTVNESTJIVHc?oc=5",
+      "data": "25/09 16:34"
+    },
+    {
+      "titulo": "Fluminense pode ser afetado por plano do Governo após veto às bets; veja o cenário - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2NYRThtZkRTdG9CZWdsT2ZabWNYYTRGMDhRWTREQ2pmZm16dkVNamhQa3ZhLW12UFd2QUg3aG43WHNNU0pKUXpyYkx1eHFnOU1QTm00dUhoV01Rc2g2c1ZwY1dYYi1qQ290SEhkRldfTVg4dFIxOE5OWjRVYndzRmh6TTVXQi1DRldyb2pISkp1MFNodWdsY0NBRlNBQUp5NkpoMTBYMUJrOXh0?oc=5",
+      "data": "27/09 12:00"
+    },
+    {
+      "titulo": "Sem espaço, Freytes pode puxar 'barca de estrangeiros' no Fluminense - O Dia",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1piSUZvejdqd2NiOExRT0Y1YjUwdGhzT1FVeVRxU3RmS01xM21OT2thaHhTTXhicFhWMDU3ZE5MNVZ5d3dLamN4ak5nMkoyUkNGcU9sM0g3cV9veWhiWjlodFE1UTVLWlpNc0tKY3gzTjRDQUF6M2k3NjcwZWVqczJGYU16Vkl5b1YyTlEyYmlyWkd6ZHROSkFDTVhlVWRpdk1zajc5Qkh2NkkyZlp6emdVNTJBSE1VcFVzUkFNeThoNWNrRS1V0gHMAUFVX3lxTE9QeXp1dHpUZjZINTJnQnFndGIyZTdmYVRldHBPbExBVXZBWTJyMkJOODk4QXI4ell1MjdQOTFyNlBEbklPUUVEYllEbXpPaWktWWVaZWhaS2JINWdOTEs0NXVfblZYQ3p3NGFlT1l2VGJBbC0zZVhLU2lvcDVtbE9ldHdTMDR2U0VlZ1hJZHdXX3pQSllULUswc0Y5Ti1HLUJCMDltNUZQckJKaUFRWTBDUDNqV2xxeU81R1BWSEVpSEpPSk84QjFSTU1qNw?oc=5",
       "data": "26/09 20:50"
-    },
-    {
-      "titulo": "Rotina de Fred no sub-20 do Fluminense inclui duas horas no trânsito e já teve churrasco e futevôlei com atletas - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTF9ETU9kNDhSUngwTktPR3pQR25Sb29NT1BtZkl5aW1WbHBiQTd5cUlGR0ZnWFhtMFptQnhSczlCT2h5dmhoUjNlYTkyNXpUOVZqUzZlbWoxY1ZWNjM3RkRZa0g4d3M2MlZ2YlNWd0ozWTBDQzFvSVZ5eTdSdnlRZ1g3ZWxfbE8xNGYwaTRGdndUcWJYMUY3YzNZWXA2aThjcjZqMTB0RGk1UkhFbk5iM04xbDBuTmg5SFlKWUgyQlduWTRrVDlhSlhEb09LaG8xY0NoczNGNXJSbWZtel9LMmtlQXhwQmJiUHlsZTlEOEo5TEwtWFpEZkwtNXZ5MTkxelZCNlU0S3pMRnVTS1hSRdIBnwJBVV95cUxQVmVBRU5HZEQ1YTlvSDN5SElRYUpkazFnQy1VN3BCSGVEZmJHT0Z4SlpRM1VycGVCMzBUdDdvN1hDWGFlTGVlOEpSSzRtcW1VeU5lUi1YRE8zNjVEeXlLQnlvcmFYRkdwaTZxa0x6MDdRZFI5aDlzN0prWHhtNXZoVDhVZlo4cmE1SGNaLVhSb29UdV9lTkxSWDdiRVVWWkhFRDZ4ZkJTVHFrb3VWMm8ycDhVWFBNaTRLSVJNUlVWbkxGc2lTa3FWY18xMmJwRkEyTDc0ZHp6dm1VanZCdjVBSDg1dFp1RUlNTkhRNm1LY0kyTW1RYkR6RGRKbl9Zb3lVd2szcUJWdFRZaS1HMGZZUHZUSGdLRHZBYUxTaTNiaw?oc=5",
-      "data": "26/09 07:00"
-    },
-    {
-      "titulo": "Fluminense estreia com vitória fora de casa na Copa Rio Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXpzMTV2b2owQUJVckhZVjVjYVNRTFAxOGV4dENUU1NONnVkbGxvQ2V5d184Z0dDdjJlWURMOXFkMHRuMHlobGxPNmlKZk1MWXNMMEpCWnUwdEI4WTkxQ19OOXM4RTVPNTNoeVVMVl8tOG9HVjNJVVJxenE3aFlsVDYwaFFOMTRqZFFfaGF3bE1mYkdZV0FJQkRuNFg3bHVNQlE?oc=5",
-      "data": "26/09 17:30"
     }
   ],
-  "avisos": [
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
-  ]
+  "avisos": []
 }
