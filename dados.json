@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "26/09/2026 18:45",
+  "atualizado_em": "26/09/2026 21:09",
   "jogos": [
     {
       "sport": "futebol",
@@ -14,70 +14,6 @@
         "GE TV",
         "YOUTUBE",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Saint Martin x US Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Uniao Sao Joao",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Maringá",
-      "channels": [
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Santa Cruz",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Boston River",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Atlético GO",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -125,17 +61,7 @@
       "date": "2026-09-26",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Charlotte x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x FC Cincinnati",
+      "match": "Philadelphia Union x Orlando City SC",
       "channels": [
         "APPLE TV"
       ]
@@ -155,7 +81,7 @@
       "date": "2026-09-26",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Philadelphia Union x Orlando City SC",
+      "match": "Montreal Impact x FC Cincinnati",
       "channels": [
         "APPLE TV"
       ]
@@ -163,9 +89,9 @@
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "21:30",
+      "time": "20:30",
       "competition": "MLS",
-      "match": "FC Dallas x Los Angeles FC",
+      "match": "Charlotte x Chicago Fire",
       "channels": [
         "APPLE TV"
       ]
@@ -176,6 +102,16 @@
       "time": "21:30",
       "competition": "MLS",
       "match": "Seattle Sounders x Minnesota United FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "FC Dallas x Los Angeles FC",
       "channels": [
         "APPLE TV"
       ]
@@ -255,6 +191,16 @@
       "date": "2026-09-26",
       "time": "23:30",
       "competition": "MLS",
+      "match": "San Jose Earthquakes x Portland Timbers",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "23:30",
+      "competition": "MLS",
       "match": "Los Angeles Galaxy x Colorado Rapids",
       "channels": [
         "APPLE TV"
@@ -273,19 +219,19 @@
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "San Jose Earthquakes x Portland Timbers",
+      "time": "04:00",
+      "competition": "Amistoso Feminino",
+      "match": "Papua New Guinea (F) x Vanuatu (F)",
       "channels": [
-        "APPLE TV"
+        "SPORTV 2"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "04:00",
+      "time": "10:00",
       "competition": "Amistoso Feminino",
-      "match": "Papua New Guinea (F) x Vanuatu (F)",
+      "match": "Botswana (F) x Namibia (F)",
       "channels": [
         "SPORTV 2"
       ]
@@ -303,16 +249,6 @@
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "10:00",
-      "competition": "Amistoso Feminino",
-      "match": "Botswana (F) x Namibia (F)",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
       "time": "11:00",
       "competition": "Campeonato Uruguaio",
       "match": "Progreso x Racing Montevideo",
@@ -325,9 +261,9 @@
       "date": "2026-09-26",
       "time": "13:00",
       "competition": "UEFA Nations League",
-      "match": "Bulgária x Luxemburgo",
+      "match": "Islândia x Estônia",
       "channels": [
-        "ESPN"
+        "SPORTV"
       ]
     },
     {
@@ -335,9 +271,9 @@
       "date": "2026-09-26",
       "time": "13:00",
       "competition": "UEFA Nations League",
-      "match": "Islândia x Estônia",
+      "match": "Bulgária x Luxemburgo",
       "channels": [
-        "SPORTV"
+        "ESPN"
       ]
     },
     {
@@ -355,9 +291,9 @@
       "date": "2026-09-26",
       "time": "15:45",
       "competition": "UEFA Nations League",
-      "match": "Macedonia do Norte x Suíça",
+      "match": "Inglaterra x Espanha",
       "channels": [
-        "SPORTV 3"
+        "ESPN"
       ]
     },
     {
@@ -365,9 +301,9 @@
       "date": "2026-09-26",
       "time": "15:45",
       "competition": "UEFA Nations League",
-      "match": "Inglaterra x Espanha",
+      "match": "Macedonia do Norte x Suíça",
       "channels": [
-        "ESPN"
+        "SPORTV 3"
       ]
     },
     {
@@ -385,6 +321,19 @@
       "date": "2026-09-26",
       "time": "16:30",
       "competition": "Brasileirão Série B",
+      "match": "Náutico x Sport Recife",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE",
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "16:30",
+      "competition": "Brasileirão Série B",
       "match": "Operário-PR x Ceará",
       "channels": [
         "REDETV!",
@@ -395,14 +344,65 @@
     {
       "sport": "futebol",
       "date": "2026-09-26",
-      "time": "16:30",
-      "competition": "Brasileirão Série B",
-      "match": "Náutico x Sport Recife",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Botafogo PB x Maringá",
       "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE",
-        "SPORTV 2"
+        "BAND",
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Santa Cruz",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "competition": "Copa Paulista",
+      "match": "Gremio Prudente x Uniao Sao Joao",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Saint Martin x US Virgin Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Penãrol x Boston River",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-26",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Atlético GO",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -626,16 +626,6 @@
     {
       "sport": "volei",
       "date": "2026-09-26",
-      "time": "18:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sesc RJ Flamengo x Praia Clube",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-26",
       "time": "19:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Pinheiros x Sesi-Bauru",
@@ -686,29 +676,29 @@
   ],
   "noticias": [
     {
+      "titulo": "Fluminense pode herdar Mundial após punição ao Manchester City? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb0sxSkZaeU1BLVJpVVBqampvNWU0MjhLZU1LaDBDc094WV9qVGJZUWM5ZWZIcTl4M2RjeXV4Rjd0bEdKdE03d3JNOS1TQk13YWJjb0pkbjZzWWZ3SHNrSmJ5ZzFkYkNxUWJnZHBrdFFyZUczdXRuT1ktNkwtQnJyOXNDSzV2MWpmWkdRcndRZGRqTTFkU1RfOEh5OU5vUjlJVGt1Rzc4YUFOQlV4VXh3VE9WMVpJZDBiOTNqRTZFZ3dWbFVnTlRZRE5WR2JRYVdfaTNic0FHTXVSWUtqVnZweXF3VGR4b3B1dVZJ?oc=5",
+      "data": "26/09 23:06"
+    },
+    {
       "titulo": "Fluminense campeão mundial de 2023? Entenda caminho após punição ao Manchester City - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek9nVjJVRnhYcVlYejF2WVZXNUw0YWMwY3dmQVY3YXhQbnBlZEQ0LXJYVXlIQTFmaU1NcWoza19kRHNDVjVIRE11SkVPWmhNMXI2OEwtMzdTcWRVajNsLW5YOXFYTm5RbzdnM20wNmZZeS1EdHNObHRQNGU4dVlUOVZxSmRUaVVUVWFtaFFlLXk0RDBNRmJYX21kRHhfemNNX0hMcFRYcE5VTEUtUW0wYVZjS3JWMmwyQlVsR09ZOVA?oc=5",
       "data": "25/09 18:46"
     },
     {
-      "titulo": "Sem espaço, Freytes pode puxar 'barca de estrangeiros' no Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1piSUZvejdqd2NiOExRT0Y1YjUwdGhzT1FVeVRxU3RmS01xM21OT2thaHhTTXhicFhWMDU3ZE5MNVZ5d3dLamN4ak5nMkoyUkNGcU9sM0g3cV9veWhiWjlodFE1UTVLWlpNc0tKY3gzTjRDQUF6M2k3NjcwZWVqczJGYU16Vkl5b1YyTlEyYmlyWkd6ZHROSkFDTVhlVWRpdk1zajc5Qkh2NkkyZlp6emdVNTJBSE1VcFVzUkFNeThoNWNrRS1V0gHMAUFVX3lxTE9QeXp1dHpUZjZINTJnQnFndGIyZTdmYVRldHBPbExBVXZBWTJyMkJOODk4QXI4ell1MjdQOTFyNlBEbklPUUVEYllEbXpPaWktWWVaZWhaS2JINWdOTEs0NXVfblZYQ3p3NGFlT1l2VGJBbC0zZVhLU2lvcDVtbE9ldHdTMDR2U0VlZ1hJZHdXX3pQSllULUswc0Y5Ti1HLUJCMDltNUZQckJKaUFRWTBDUDNqV2xxeU81R1BWSEVpSEpPSk84QjFSTU1qNw?oc=5",
-      "data": "26/09 20:50"
+      "titulo": "Punição ao City pode tornar o Fluminense campeão mundial? Entenda - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk92dGlFdnN4R242QUJQTzM0ZVY5cW5uZDBBY25WbDhBUjliVUpqYk8zcjBLalRhcENjRWJkUndhdUNfUEtTVTZ6eGEwaTd4dndwZXZQNE8wcmNhdUw1cGktWFNPV01DUDF5VlFQaE9hY1ZwZGFkdVVUTjBMQlhXaFFaSkhNUVI0WVJWbHlHR0lfUl9LZlZhNzFaTHBnU0pzS083Smo3cFQ3UWJ6WjE2Vjh4dUhGeWZudDZUaUh0cGpnRlJ6bEHSAcsBQVVfeXFMUC1qcTR2bWpUVU92M3FMZmhTRjlQZWsyb0tZNnZLQ2VqbHhLQlQ4N2RhcjQtQ0VkdjlSaHVhT0hOUlk0ZlZHdXNKQmYtRG55WFpOa1Axa1Nha0VOWnp2T3hNTWpZQV9RR0VkWk5nMGYzSDJvUnctWFRURkxqdF9meXVNTEotZzl3U2hoOXQ2ZUo2QWxDQVh0LVU4aXFqNmFWcXFnbndZT19qMXVGcVFQcmpPN0o4WnhJTXZNTTl1RFZteTRTWnNsaGFtbWM?oc=5",
+      "data": "26/09 01:35"
     },
     {
-      "titulo": "Fluminense estreia com vitória fora de casa na Copa Rio Sub-17 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXpzMTV2b2owQUJVckhZVjVjYVNRTFAxOGV4dENUU1NONnVkbGxvQ2V5d184Z0dDdjJlWURMOXFkMHRuMHlobGxPNmlKZk1MWXNMMEpCWnUwdEI4WTkxQ19OOXM4RTVPNTNoeVVMVl8tOG9HVjNJVVJxenE3aFlsVDYwaFFOMTRqZFFfaGF3bE1mYkdZV0FJQkRuNFg3bHVNQlE?oc=5",
-      "data": "26/09 17:30"
+      "titulo": "Presidente do Fluminense confirma notificação sobre fim de contrato com bet: 'Impacto ultrapassa R$ 100 milhões' - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYlFMSjRPRXp1UUloTTJCdGxLNnZydFJLNlFvQmMzTVh1TVNoLUhsUzA0eXJCa1hSYlRCY1dqLS04eUpmeV9ORmNwRGZiLVhKRW1abXFmX05sbWlHaVc4SXN0RU5CUjB2WlBpc3BrbW13NHJZbWtyeHlxSVVmS0RwZml0d0oxZF84ZUh1QXh3TENwUlEyZlBsVFk2VGJhLXJ0YWlCZlJKYjMwTE5uaXVkZGF6cGRIWnRqd0VlNVdQcElzYzg1a1F5dVVsUURkaVBVQlptMV9xUFZVckVnTDBzNkVVX0hpa2tGbHBBTTV4TzRjQ1FNRXdsbnNuUGdtNDhKMmt2eDFVTUFySXdJ0gGbAkFVX3lxTE4xc1lDdUtSdEdYV2M3ellvMmRVamZHamp3T0M5eUI4LTA1YldRYjBxTFZlRlN6V0tvdFhLQmtBSHJvZTNpci0tN21qRFhENHlUNW1iREhkYllyN0FUYXRGZTVza0E1U0hLbktSdlhRT0VDbnhDVUNFaEsyNHQ4aHhtZmxualNIM1RyYXZWd2JITEhEUkQ0eE9QbmhEbUEzRW1wVlZGN3cwai1DeFRqYkJ2Z3lKa3hDalBEMGRFekx3WmVnclk0RlF1SUFZalBFVkJXX0ZxYVJnS2IxZWZZUkxtVkFGTFBtXzZZSHhsT0syeTBPY09GVzF1blBpLUhRTTZpVGRreGwxcGxvbUt4RGE2Ymtnb1F2WnJFTEE?oc=5",
+      "data": "26/09 00:38"
     },
     {
-      "titulo": "Fluminense fará último torneio amistoso da pré-temporada do vôlei feminino - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWx5NHRtV0pGM2JrNHkxUjdUVmlqcFpseVpMRy1YNElqZ3JOWHFPNGpSRHlNSVZxVE1vVFhtclVJQlFSUXc3ZEx1RjRzeC04OWFPd25aczRpLWhUenFEeEowdi1oelBMUHd4V0xROW5zczhycE9Cd2otanlOZVo2ejNxM3dTMENFaDc4cXVub1J2MXlMSHNnR1VUSE5fdEc1S3pR?oc=5",
-      "data": "26/09 19:00"
-    },
-    {
-      "titulo": "Rotina de Fred no sub-20 do Fluminense inclui duas horas no trânsito e já teve churrasco e futevôlei com atletas - ge",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTF9ETU9kNDhSUngwTktPR3pQR25Sb29NT1BtZkl5aW1WbHBiQTd5cUlGR0ZnWFhtMFptQnhSczlCT2h5dmhoUjNlYTkyNXpUOVZqUzZlbWoxY1ZWNjM3RkRZa0g4d3M2MlZ2YlNWd0ozWTBDQzFvSVZ5eTdSdnlRZ1g3ZWxfbE8xNGYwaTRGdndUcWJYMUY3YzNZWXA2aThjcjZqMTB0RGk1UkhFbk5iM04xbDBuTmg5SFlKWUgyQlduWTRrVDlhSlhEb09LaG8xY0NoczNGNXJSbWZtel9LMmtlQXhwQmJiUHlsZTlEOEo5TEwtWFpEZkwtNXZ5MTkxelZCNlU0S3pMRnVTS1hSRdIBnwJBVV95cUxQVmVBRU5HZEQ1YTlvSDN5SElRYUpkazFnQy1VN3BCSGVEZmJHT0Z4SlpRM1VycGVCMzBUdDdvN1hDWGFlTGVlOEpSSzRtcW1VeU5lUi1YRE8zNjVEeXlLQnlvcmFYRkdwaTZxa0x6MDdRZFI5aDlzN0prWHhtNXZoVDhVZlo4cmE1SGNaLVhSb29UdV9lTkxSWDdiRVVWWkhFRDZ4ZkJTVHFrb3VWMm8ycDhVWFBNaTRLSVJNUlVWbkxGc2lTa3FWY18xMmJwRkEyTDc0ZHp6dm1VanZCdjVBSDg1dFp1RUlNTkhRNm1LY0kyTW1RYkR6RGRKbl9Zb3lVd2szcUJWdFRZaS1HMGZZUHZUSGdLRHZBYUxTaTNiaw?oc=5",
-      "data": "26/09 07:00"
+      "titulo": "Idade ou experiência? Thiago Silva é o jogador do Fluminense que menos se desloca em campo - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWkVNMVRjZUtNbVR2b2JLWWRpVVVLNGRnVUg3V0pjU1dFTVItUzhLUUhUMFZYV1Z1ODFCenlBSktDbUo1YV9JaWVXN0J1aUxsdjZ4alJBaG01TUJPTm01aVVucHRid0JLbjU1QW5yTWVDMF92ckhWaHVla2FzYzZ0RV9Oalh5R3hVaVhaaEZBemJRT1llTGxkNi12dm9memFqTVpnSXdDS0RQaDhGTlI5amNvYlBJaEpxV0Y2UjJrd1BSUFEzbllIcnQxZTdvcFZVdlZwRTM0TmtXaFBEcHlXaFpyTjQ4OHY5aVlPNW9ub1RpcWplVUd0ckxGX0dnUkFKMjV3OVpKUGM?oc=5",
+      "data": "26/09 23:32"
     }
   ],
   "avisos": []
