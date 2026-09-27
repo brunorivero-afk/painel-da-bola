@@ -1,61 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/09/2026 17:46",
+  "atualizado_em": "27/09/2026 20:34",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x Cuiabá",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "17:00",
-      "competition": "Copa Argentina",
-      "match": "Racing Club x Boca Juniors",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "18:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Danubio",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "18:30",
-      "competition": "Brasileirão Série C",
-      "match": "Brusque x Ferroviária",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Athletic Club",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-27",
@@ -120,22 +65,22 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-09-27",
       "time": "10:00",
-      "competition": "UEFA Nations League",
-      "match": "Lituânia x Azerbaijão",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "10:00",
       "competition": "Copa Paulista",
       "match": "Noroeste x São José EC",
       "channels": [
         "XSPORTS",
         "YOUTUBE",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "10:00",
+      "competition": "UEFA Nations League",
+      "match": "Lituânia x Azerbaijão",
+      "channels": [
+        "SPORTV 2"
       ]
     },
     {
@@ -196,6 +141,17 @@ window.PAINEL_DATA = {
       "date": "2026-09-27",
       "time": "15:45",
       "competition": "UEFA Nations League",
+      "match": "Alemanha x Grécia",
+      "channels": [
+        "SPORTV",
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
       "match": "Noruega x Portugal",
       "channels": [
         "ESPN"
@@ -204,12 +160,56 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-09-27",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Alemanha x Grécia",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Cuiabá",
       "channels": [
-        "SPORTV",
-        "SPORTV 2"
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "17:00",
+      "competition": "Copa Argentina",
+      "match": "Racing Club x Boca Juniors",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "18:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Danubio",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Fortaleza x Athletic Club",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "18:30",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Ferroviária",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -397,9 +397,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense lamenta morte de ex-vice-presidente do clube - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVR3enlScEhYdHFSUmNXc2R1RUZPakhLVzhLQ0RsUzdReEstSnd2RUptc25IdXJSYkI0Nm9YQnRjYnFMMEtrckV6LURyc1ZndmVLQnZQbE9FSno2bXh4QTNuSXdzNWZud1BjN2RGbjJ2V011dkV5bE1JcFNEUExXREd0dURuSTY0Vm9zelhLOHY3bjZ0UC13S2FnUVM3eFZhN0xtMGwwbzZBaTVFbkpkQVptcw?oc=5",
-      "data": "27/09 19:53"
+      "titulo": "Alô, Fluminense! Empresa demonstra interesse em patrocinar clubes do país e fala em orçamento \"sem limites\"; veja - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFqQkl3VGM1dHV1NzlkbzZ6aG1SZ0tmd1hOeDBiYzhpeDlmVVhjbHZEcWNJOTRoQVAtRVBOblJjSGpEV2I5YUVjUk1YVTJzYU9DOXF4ZUI1QTkxMW5Xb0haOVliaFZqWWpuMlUteEpDeVg3Z0gzQTN4TV8zcExzU2RPX19CSmNUTjhONXVZNHh6bXFScUNIT1dFNkN6RGlxRkpOakxZN1l1M2FmMEtZeTdaSUZUMzhuN0VUeUJ5S20ycFpWcDNwTk1xSmpXQQ?oc=5",
+      "data": "27/09 15:06"
     },
     {
       "titulo": "Entenda como o fim das 'bets' vai afetar o Fluminense - LANCE!",
@@ -407,14 +407,14 @@ window.PAINEL_DATA = {
       "data": "26/09 10:30"
     },
     {
-      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkRzQXJUcmxDcnI0ejF4Z2V3N2kyb3hjTm9Ed2RXdkJKRjdaWW10clF4QnB1d3VVc3NSVDhxQlJwX3Nmcmthb280TEZzUWRMeHVraEdxMS1XQzNPdTJ1dE5WN0s2REFCQmk0Z2ZZMUdyYV93UlZsdkJoS1JFV204SFdiYWJNYWtpRF9EUkxCeWJPSXd0V3RIQ0ZKUHdyaDlaSTNTM3NGQkF1U05YZGtySlhsanlVZE93WXFzNkV3cG5ZMkJTTmQ1amFfMnRZUEIxa0dxRUNhTGJYcTgtTlE?oc=5",
-      "data": "27/09 19:33"
+      "titulo": "Morre Alcides Antunes, ex-vice de futebol do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeW8xbXN4SlVRdU1tWVJjdXMzRVdLQUx5a0R4TUZ2WHN0ejB4aGhkVDBiQl9WbXFqLW5jbDVjWVU1RERTeEFXYkUybzk5UlZBeWEzMlIwZ0VoVDFhQXBSc2NGcEFMZkx5QWZhZlRVSXJ0anJCMERiT1Y1dnliS0Y3R1h1X2t0dUJVeWVvZkNORVRUN19vcGpVbnl5eWgyRjE2cThTY2ZHN1lOM3FhUEtyejhrWFN0YWppZTNBSDFvdUNvb0HSAdIBQVVfeXFMTllBR1I4TF9WMlBVQnU5LTdBZ0NZRFRYcVVxcUhTTXFfd05KS3Y5RTlKcXpzem0wZDY5UHRDeUlKZ3Y2azNVVjVuUXk4ajBTMkxrSTctWm00Z3ltUWw1QUYzMFNXaEtPem11WE1Na2FMd3dMeWhkbE9ORlBheXpMbkwyak1TOWtqQ3RKTURKRkxSV0kyaFRoVmRiMmFfbkkteVVYYXhuSFJuTHgxeDlaa041ZTh5Ui1FbE01WHUtSHQ4cFNKa0tHUjR5RS1RbmpjLVV3?oc=5",
+      "data": "27/09 18:53"
     },
     {
-      "titulo": "Do que o Fluminense precisa para garantir vaga na Libertadores em 2027? Veja cenários - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ3VIM1gwc2NuXzBBTWRvcmRrdEt1N1VDZmpfS0FMMml0U05uM1JueGZKNWlhYTFzaHZJLS1oTHZQT0dsNDJpc0RVRVowSlZ0Y09FT0U4TVhzZXVmZWJvUENQY09WSjJ4VEJPZktFbndfQ3pwNkE0TmpLM08yMTdwZXVNY3NwbFY4YkU1UjhEYTFBbU9OX1otemdwNHhlYjZ4MDViSU1TTklpZzg1TlFaN1VLSjR4LVVwRmxHQkxnWGNiS2hnSUIyVmVMOWhPckxyMkd3cF9UNk5FVzVNWnY3cXdsdTZkNnFZYThz0gH6AUFVX3lxTFBacW1IOWdzWC1fNWJEOVVqWV9jQ1QxSE1ST011LUZoNGsxVGFmamh5ZDdnY2ZITm5uUmZfUmxhS2hhYWlzdHExZ0VrejNJZ1NWajIxZ2NWSmRkSWg4RU85MDExclN3WHJ1R3I4VjlZSWlLbjl4bEFrMjI3RUh2WktTeWpHYkliN0VGQ0dYMFJFME1pbkZPX3JuVWVpUE1iaF8weXh3eElTS1FabVZMVUtMNmJOcVdVaDdVS3hqRUo3YTFMRW82bHJ1S2ZIeXJ5RGJFVVFhRlRDMXpKbU01UVZEWFRCT0hyT3ozenBiU0tXS2psUTJpZGdvTnc?oc=5",
-      "data": "27/09 07:00"
+      "titulo": "Perda da Superbet pode custar ao Fluminense mais que venda de André - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWmNHa1VuYldhLVgxLXBDa2VpMkZYbGtlQmRHMDZYYk5vTmVQUEhaaDI0eTRzb3dXQUJfOEZWcmhUb3ZHcFVUWGFMa0xoT0tVNTUwRVE3UXVCTkMzb08waTZodi1Xak5rQkJ2RFRWUkZ4Q1M4ajJLS3NVVlZlNUpWVnN1SGNlLUowdVI5R1ZtbXpmeWZiSzFmRGFVSGQyY1JSVWIyZjdNT3hzd1NhYklN?oc=5",
+      "data": "27/09 22:00"
     },
     {
       "titulo": "Sem espaço, Freytes pode puxar 'barca de estrangeiros' no Fluminense - O Dia",
