@@ -1,430 +1,6 @@
 {
-  "atualizado_em": "26/09/2026 21:09",
+  "atualizado_em": "27/09/2026 03:07",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "16:30",
-      "competition": "Brasileirão Feminino",
-      "match": "Corinthians (F) x São Paulo (F)",
-      "channels": [
-        "GLOBO",
-        "TV BRASIL",
-        "SPORTV",
-        "GE TV",
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "19:30",
-      "competition": "Brasileirão Série C",
-      "match": "Inter De Limeira x Paysandu",
-      "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "19:30",
-      "competition": "NWSL Feminina",
-      "match": "Washington Spirit (F) x Angel City (F)",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "19:50",
-      "competition": "Campeonato Mexicano",
-      "match": "Cruz Azul x Toluca",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "20:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Antigua and Barbuda x Anguilla",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Philadelphia Union x Orlando City SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Atlanta United FC x New York City FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x FC Cincinnati",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Charlotte x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Seattle Sounders x Minnesota United FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "FC Dallas x Los Angeles FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Nashville SC x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Austin x San Diego",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Houston Dynamo x Sporting Kansas City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Deportivo Maldonado",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "21:45",
-      "competition": "NWSL Feminina",
-      "match": "Portland Thorns (F) x Houston Dash (F)",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "22:00",
-      "competition": "Amistosos Seleções",
-      "match": "México x Colômbia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Real Salt Lake x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "San Jose Earthquakes x Portland Timbers",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Los Angeles Galaxy x Colorado Rapids",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Whitecaps x DC United",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "04:00",
-      "competition": "Amistoso Feminino",
-      "match": "Papua New Guinea (F) x Vanuatu (F)",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "10:00",
-      "competition": "Amistoso Feminino",
-      "match": "Botswana (F) x Namibia (F)",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "10:00",
-      "competition": "UEFA Nations League",
-      "match": "Eslovênia x Escócia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Racing Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Islândia x Estônia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Bulgária x Luxemburgo",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Club Nacional",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Inglaterra x Espanha",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Macedonia do Norte x Suíça",
-      "channels": [
-        "SPORTV 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Montserrat x British Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "16:30",
-      "competition": "Brasileirão Série B",
-      "match": "Náutico x Sport Recife",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE",
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "16:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Ceará",
-      "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Botafogo PB x Maringá",
-      "channels": [
-        "BAND",
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Santa Cruz",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "Copa Paulista",
-      "match": "Gremio Prudente x Uniao Sao Joao",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Saint Martin x US Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Penãrol x Boston River",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Atlético GO",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-26",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x St. Louis City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "00:05",
-      "competition": "Campeonato Mexicano",
-      "match": "Santos Laguna x Pachuca",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-27",
@@ -475,7 +51,9 @@
       "competition": "UEFA Nations League",
       "match": "Sérvia x Holanda",
       "channels": [
-        "SPORTV 2"
+        "SPORTV",
+        "SPORTV 2",
+        "GE TV"
       ]
     },
     {
@@ -505,6 +83,7 @@
       "competition": "UEFA Nations League",
       "match": "Alemanha x Grécia",
       "channels": [
+        "SPORTV",
         "SPORTV 2"
       ]
     },
@@ -624,8 +203,150 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "00:05",
+      "competition": "Campeonato Mexicano",
+      "match": "Santos Laguna x Pachuca",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Armenia x Montenegro",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Georgia x Ucrânia",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Bélgica x França",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Suécia x Polônia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Irlanda do Norte x Hungria",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Turquia x Itália",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Guadeloupe x Barbados",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "18:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Cuba x Bonaire",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "América-MG x Juventude",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "20:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Wanderers x Albion FC",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Jamaica x Honduras",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "St. Lucia x Bermuda",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "23:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Guatemala x El Salvador",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "time": "19:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Pinheiros x Sesi-Bauru",
@@ -635,7 +356,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "time": "19:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Fluminense x Praia Clube",
@@ -654,10 +375,10 @@
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.7,
-      "temp_min": 21.3,
-      "chance_chuva": 2,
-      "condicao": "Poucas nuvens"
+      "temp_max": 24.5,
+      "temp_min": 19.8,
+      "chance_chuva": 10,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
@@ -676,30 +397,34 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense pode herdar Mundial após punição ao Manchester City? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb0sxSkZaeU1BLVJpVVBqampvNWU0MjhLZU1LaDBDc094WV9qVGJZUWM5ZWZIcTl4M2RjeXV4Rjd0bEdKdE03d3JNOS1TQk13YWJjb0pkbjZzWWZ3SHNrSmJ5ZzFkYkNxUWJnZHBrdFFyZUczdXRuT1ktNkwtQnJyOXNDSzV2MWpmWkdRcndRZGRqTTFkU1RfOEh5OU5vUjlJVGt1Rzc4YUFOQlV4VXh3VE9WMVpJZDBiOTNqRTZFZ3dWbFVnTlRZRE5WR2JRYVdfaTNic0FHTXVSWUtqVnZweXF3VGR4b3B1dVZJ?oc=5",
-      "data": "26/09 23:06"
+      "titulo": "Fluminense abre o CT, mas escolhe quem pode entrar - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVJuaEhXLWN2ekhOZWFnTENEc1k4YkxjT3FscVZWNnN2V0cweVNlS1dwemZnNFo2SUk2Y2hMM0EwaUxmNGJsWV85ckhmT0RQSG1BcUowTFlEcFNtNk0yN1g0U0RTd1hMei1TbUlaRHZsX1MwZHJXYVp4aU80TmFlUGpfNFE3a3JVVjBMYzdvWGllbDU2eGkyZjB4X0NMYTlSdmU5ajBzRzdaRVBiZlNiWDE3MnI2MnpJa2c5X3M2MVBTdmFIT1IxaUt0UXhES0o2MTJR?oc=5",
+      "data": "27/09 04:18"
     },
     {
-      "titulo": "Fluminense campeão mundial de 2023? Entenda caminho após punição ao Manchester City - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPek9nVjJVRnhYcVlYejF2WVZXNUw0YWMwY3dmQVY3YXhQbnBlZEQ0LXJYVXlIQTFmaU1NcWoza19kRHNDVjVIRE11SkVPWmhNMXI2OEwtMzdTcWRVajNsLW5YOXFYTm5RbzdnM20wNmZZeS1EdHNObHRQNGU4dVlUOVZxSmRUaVVUVWFtaFFlLXk0RDBNRmJYX21kRHhfemNNX0hMcFRYcE5VTEUtUW0wYVZjS3JWMmwyQlVsR09ZOVA?oc=5",
-      "data": "25/09 18:46"
+      "titulo": "Montenegro avalia prejuízo do Fluminense após fim das bets - odia.ig.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFc4a0NObzJpeFpsUUJOM0ZyZERBb3lwc2RXZGlQYUsyS1RxWk9zLUhwQ2FxRG5Qam1QYlVRQ0J4YmtvcDIyNzhtT0FST3FfWEJwMG5OaE1YaDRUWXVkVXBITVluWUZoakZJMWVYWk12QXljQ2dIdTZqSk5YaXhMMG9NOW01TEFBZkk0RGhwaHFSV0t0UTVKMEhXOHNxTFVha1p4NW81NkU1V09QMDdOVWRqMmVkRmt1T0hPblJORWxGR3VRMUlRcllB0gHPAUFVX3lxTE9obHRTTmg3SXc1OUZjMVNZSGN5ZFdXWVFCX050cjhldXFNNk4wQkx2RGprUmd6bjlxeW9FYXFZSng2X2JaeUVXSi1JalhzbTFQMzdEc2VyQy1KY21sV2UyRG1hWjZ1UGZfc1p1UXRiMmEwVHVKLXVPNnh3WmZqVUtHajgxQXZBbkQ1UFdtVjlkSVlNcDJ2OVEzM2FPS3NHeUVyR2FsY0lDblZIaWZBaDBKdEQtOVVKQ1o1Zk9hQ1FRdW1uVG1aZ3IxeE1hdFJwbw?oc=5",
+      "data": "26/09 12:20"
     },
     {
-      "titulo": "Punição ao City pode tornar o Fluminense campeão mundial? Entenda - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYk92dGlFdnN4R242QUJQTzM0ZVY5cW5uZDBBY25WbDhBUjliVUpqYk8zcjBLalRhcENjRWJkUndhdUNfUEtTVTZ6eGEwaTd4dndwZXZQNE8wcmNhdUw1cGktWFNPV01DUDF5VlFQaE9hY1ZwZGFkdVVUTjBMQlhXaFFaSkhNUVI0WVJWbHlHR0lfUl9LZlZhNzFaTHBnU0pzS083Smo3cFQ3UWJ6WjE2Vjh4dUhGeWZudDZUaUh0cGpnRlJ6bEHSAcsBQVVfeXFMUC1qcTR2bWpUVU92M3FMZmhTRjlQZWsyb0tZNnZLQ2VqbHhLQlQ4N2RhcjQtQ0VkdjlSaHVhT0hOUlk0ZlZHdXNKQmYtRG55WFpOa1Axa1Nha0VOWnp2T3hNTWpZQV9RR0VkWk5nMGYzSDJvUnctWFRURkxqdF9meXVNTEotZzl3U2hoOXQ2ZUo2QWxDQVh0LVU4aXFqNmFWcXFnbndZT19qMXVGcVFQcmpPN0o4WnhJTXZNTTl1RFZteTRTWnNsaGFtbWM?oc=5",
-      "data": "26/09 01:35"
+      "titulo": "Sem espaço, Freytes pode puxar 'barca de estrangeiros' no Fluminense - odia.ig.com.br",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1piSUZvejdqd2NiOExRT0Y1YjUwdGhzT1FVeVRxU3RmS01xM21OT2thaHhTTXhicFhWMDU3ZE5MNVZ5d3dLamN4ak5nMkoyUkNGcU9sM0g3cV9veWhiWjlodFE1UTVLWlpNc0tKY3gzTjRDQUF6M2k3NjcwZWVqczJGYU16Vkl5b1YyTlEyYmlyWkd6ZHROSkFDTVhlVWRpdk1zajc5Qkh2NkkyZlp6emdVNTJBSE1VcFVzUkFNeThoNWNrRS1V0gHMAUFVX3lxTE9QeXp1dHpUZjZINTJnQnFndGIyZTdmYVRldHBPbExBVXZBWTJyMkJOODk4QXI4ell1MjdQOTFyNlBEbklPUUVEYllEbXpPaWktWWVaZWhaS2JINWdOTEs0NXVfblZYQ3p3NGFlT1l2VGJBbC0zZVhLU2lvcDVtbE9ldHdTMDR2U0VlZ1hJZHdXX3pQSllULUswc0Y5Ti1HLUJCMDltNUZQckJKaUFRWTBDUDNqV2xxeU81R1BWSEVpSEpPSk84QjFSTU1qNw?oc=5",
+      "data": "26/09 20:50"
     },
     {
-      "titulo": "Presidente do Fluminense confirma notificação sobre fim de contrato com bet: 'Impacto ultrapassa R$ 100 milhões' - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYlFMSjRPRXp1UUloTTJCdGxLNnZydFJLNlFvQmMzTVh1TVNoLUhsUzA0eXJCa1hSYlRCY1dqLS04eUpmeV9ORmNwRGZiLVhKRW1abXFmX05sbWlHaVc4SXN0RU5CUjB2WlBpc3BrbW13NHJZbWtyeHlxSVVmS0RwZml0d0oxZF84ZUh1QXh3TENwUlEyZlBsVFk2VGJhLXJ0YWlCZlJKYjMwTE5uaXVkZGF6cGRIWnRqd0VlNVdQcElzYzg1a1F5dVVsUURkaVBVQlptMV9xUFZVckVnTDBzNkVVX0hpa2tGbHBBTTV4TzRjQ1FNRXdsbnNuUGdtNDhKMmt2eDFVTUFySXdJ0gGbAkFVX3lxTE4xc1lDdUtSdEdYV2M3ellvMmRVamZHamp3T0M5eUI4LTA1YldRYjBxTFZlRlN6V0tvdFhLQmtBSHJvZTNpci0tN21qRFhENHlUNW1iREhkYllyN0FUYXRGZTVza0E1U0hLbktSdlhRT0VDbnhDVUNFaEsyNHQ4aHhtZmxualNIM1RyYXZWd2JITEhEUkQ0eE9QbmhEbUEzRW1wVlZGN3cwai1DeFRqYkJ2Z3lKa3hDalBEMGRFekx3WmVnclk0RlF1SUFZalBFVkJXX0ZxYVJnS2IxZWZZUkxtVkFGTFBtXzZZSHhsT0syeTBPY09GVzF1blBpLUhRTTZpVGRreGwxcGxvbUt4RGE2Ymtnb1F2WnJFTEE?oc=5",
-      "data": "26/09 00:38"
+      "titulo": "Rotina de Fred no sub-20 do Fluminense inclui duas horas no trânsito e já teve churrasco e futevôlei com atletas - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTF9ETU9kNDhSUngwTktPR3pQR25Sb29NT1BtZkl5aW1WbHBiQTd5cUlGR0ZnWFhtMFptQnhSczlCT2h5dmhoUjNlYTkyNXpUOVZqUzZlbWoxY1ZWNjM3RkRZa0g4d3M2MlZ2YlNWd0ozWTBDQzFvSVZ5eTdSdnlRZ1g3ZWxfbE8xNGYwaTRGdndUcWJYMUY3YzNZWXA2aThjcjZqMTB0RGk1UkhFbk5iM04xbDBuTmg5SFlKWUgyQlduWTRrVDlhSlhEb09LaG8xY0NoczNGNXJSbWZtel9LMmtlQXhwQmJiUHlsZTlEOEo5TEwtWFpEZkwtNXZ5MTkxelZCNlU0S3pMRnVTS1hSRdIBnwJBVV95cUxQVmVBRU5HZEQ1YTlvSDN5SElRYUpkazFnQy1VN3BCSGVEZmJHT0Z4SlpRM1VycGVCMzBUdDdvN1hDWGFlTGVlOEpSSzRtcW1VeU5lUi1YRE8zNjVEeXlLQnlvcmFYRkdwaTZxa0x6MDdRZFI5aDlzN0prWHhtNXZoVDhVZlo4cmE1SGNaLVhSb29UdV9lTkxSWDdiRVVWWkhFRDZ4ZkJTVHFrb3VWMm8ycDhVWFBNaTRLSVJNUlVWbkxGc2lTa3FWY18xMmJwRkEyTDc0ZHp6dm1VanZCdjVBSDg1dFp1RUlNTkhRNm1LY0kyTW1RYkR6RGRKbl9Zb3lVd2szcUJWdFRZaS1HMGZZUHZUSGdLRHZBYUxTaTNiaw?oc=5",
+      "data": "26/09 07:00"
     },
     {
-      "titulo": "Idade ou experiência? Thiago Silva é o jogador do Fluminense que menos se desloca em campo - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWkVNMVRjZUtNbVR2b2JLWWRpVVVLNGRnVUg3V0pjU1dFTVItUzhLUUhUMFZYV1Z1ODFCenlBSktDbUo1YV9JaWVXN0J1aUxsdjZ4alJBaG01TUJPTm01aVVucHRid0JLbjU1QW5yTWVDMF92ckhWaHVla2FzYzZ0RV9Oalh5R3hVaVhaaEZBemJRT1llTGxkNi12dm9memFqTVpnSXdDS0RQaDhGTlI5amNvYlBJaEpxV0Y2UjJrd1BSUFEzbllIcnQxZTdvcFZVdlZwRTM0TmtXaFBEcHlXaFpyTjQ4OHY5aVlPNW9ub1RpcWplVUd0ckxGX0dnUkFKMjV3OVpKUGM?oc=5",
-      "data": "26/09 23:32"
+      "titulo": "Fluminense estreia com vitória fora de casa na Copa Rio Sub-17 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXpzMTV2b2owQUJVckhZVjVjYVNRTFAxOGV4dENUU1NONnVkbGxvQ2V5d184Z0dDdjJlWURMOXFkMHRuMHlobGxPNmlKZk1MWXNMMEpCWnUwdEI4WTkxQ19OOXM4RTVPNTNoeVVMVl8tOG9HVjNJVVJxenE3aFlsVDYwaFFOMTRqZFFfaGF3bE1mYkdZV0FJQkRuNFg3bHVNQlE?oc=5",
+      "data": "26/09 17:30"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+  ]
 }
