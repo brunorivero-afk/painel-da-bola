@@ -1,49 +1,6 @@
 {
-  "atualizado_em": "27/09/2026 09:40",
+  "atualizado_em": "27/09/2026 14:25",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "Noroeste x São José EC",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "10:00",
-      "competition": "UEFA Nations League",
-      "match": "Lituânia x Azerbaijão",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Avai",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Liverpool Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-27",
@@ -156,6 +113,16 @@
       "sport": "futebol",
       "date": "2026-09-27",
       "time": "20:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Haiti x Costa Rica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "20:00",
       "competition": "MLS",
       "match": "Columbus Crew x Inter Miami",
       "channels": [
@@ -165,9 +132,9 @@
     {
       "sport": "futebol",
       "date": "2026-09-27",
-      "time": "20:00",
+      "time": "21:00",
       "competition": "CONCACAF Nations League",
-      "match": "Haiti x Costa Rica",
+      "match": "Dominica x Puerto Rico",
       "channels": [
         "YOUTUBE"
       ]
@@ -178,16 +145,6 @@
       "time": "21:00",
       "competition": "CONCACAF Nations League",
       "match": "Curaçao x Nicarágua",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-27",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Dominica x Puerto Rico",
       "channels": [
         "YOUTUBE"
       ]
@@ -210,6 +167,49 @@
       "match": "Santos Laguna x Pachuca",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "10:00",
+      "competition": "UEFA Nations League",
+      "match": "Lituânia x Azerbaijão",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "Noroeste x São José EC",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-27",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Avai",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -370,21 +370,21 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 24.6,
       "temp_min": 21.4,
-      "chance_chuva": 33,
+      "chance_chuva": 49,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 24.6,
       "temp_min": 20.0,
-      "chance_chuva": 21,
+      "chance_chuva": 29,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.1,
       "temp_min": 16.9,
-      "chance_chuva": 96,
+      "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
@@ -397,29 +397,29 @@
   ],
   "noticias": [
     {
+      "titulo": "Martinelli tem valorização natural com a Seleção, e venda futura deve ser a maior do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWg4cTNjbnl1ZTRHdlBFbHpqVGtoQXF3Vl9RZkxYUDBLODdvcmhya0U0RDZEV3Q1SUFMRFFWUUJWcnhIcE5nTE52SHBGMDNLNlExdXk3NXVNSE1XRDloQ3NoNzczYUctWnVIc3FXT21VU05MdHIxdm5aU3NEOFVNQkFlSFMtVE9NcTVsQzlVUUVIdWkwRk9QTERObkx5QnNnSWRuakktR1RwQlRlcUM5NC1JT2tTemJPeGh6dFhxUWtGWW5sT2E2QzQtZzdESFZ6UzJ1ZGozaUlBSVB2M3BsckRHUnFkUm95UVQya0F2V01adXotUHZjY9IBhwJBVV95cUxOWXpIR2ZhWlA2blNDX21Gc0RocTZoMkhvTmlvaXNfb2Z0NUhXZGQyQXhNbldaWlJrajdMcGh4VWVWMFF6MTVvQS04QkMwM3dBWUQ2U2l6UkktS21LSlhYN2ZiTWdQVTE2bXRMSFpWZ1h6TnBxYlpmUHVJekx4Q1R4TjZEUGhIYXc1SUtBSUt6VjJVOFlhVlhaamJNR0dmRTVBeE00RjI5aEZHQlVXWkpMUVlwenFnb2NhN1VMWS1xcVJldnNSeEVhWVBYbXhKQm90eEt4Uy11WjhSakVXOWRoeHNoeWplUjhFOXg4QnNURWFoTEU3QzhuMjhDalBWVk4yck0zYmRpcw?oc=5",
+      "data": "25/09 13:00"
+    },
+    {
+      "titulo": "\"Total gratidão, vou continuar sempre dando a vida\"; Na Seleção, Martinelli se declara ao Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0NzcXJfcnZQSHJfdGJ4ZXdFeWNUZ1hkN0NVRE92N0VKZjV5enloaWFfbXNpVFpGWE1WV2JsZXlRY00zbmdINERFSzJ0NUphb1JlXzFWSHo3Vzk4VUZGSjF5YW9jVDdHdDl3YkJNcEFlckxSZ0kxTG5tVnNZNjVRSENYSzhlZWQzc05qclNZYUpwb0dFel9tcG1ycGQ5ay1HLUZHU0ZERUYxQ3F0RldQYUd4UU1LUjQ0aTktOUpVNA?oc=5",
+      "data": "27/09 13:30"
+    },
+    {
       "titulo": "Martinelli vibra com chance na Seleção, revela inspirações e exalta Fluminense - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX0l2OFh1MWphSGdfd1MwVjVUWVA0VzZHMlpackRYcmFqbWJIVUs2RFpJUTJVLVdFdWtsRnhxeEJBVWFiN0ZaRDJVczlvbEI5TGF3TUc5U004dnNLMWZyNmt1QVdIWXZrbFpoOXJCNDhTZjVIdjJqaHRPUUt3MUpEb0lwT0RGMURpMlNMelRFRkwzSzA1aU1XX0o0RWdDb3UzUTNjZHlXbTQxWTdyV1QtbExhNmIwZkdhaHVDQ3NGYTNFVHkz?oc=5",
       "data": "27/09 11:22"
     },
     {
-      "titulo": "Martinelli tem valorização natural com a Seleção, e venda futura deve ser a maior do Fluminense - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWg4cTNjbnl1ZTRHdlBFbHpqVGtoQXF3Vl9RZkxYUDBLODdvcmhya0U0RDZEV3Q1SUFMRFFWUUJWcnhIcE5nTE52SHBGMDNLNlExdXk3NXVNSE1XRDloQ3NoNzczYUctWnVIc3FXT21VU05MdHIxdm5aU3NEOFVNQkFlSFMtVE9NcTVsQzlVUUVIdWkwRk9QTERObkx5QnNnSWRuakktR1RwQlRlcUM5NC1JT2tTemJPeGh6dFhxUWtGWW5sT2E2QzQtZzdESFZ6UzJ1ZGozaUlBSVB2M3BsckRHUnFkUm95UVQya0F2V01adXotUHZjY9IBhwJBVV95cUxOWXpIR2ZhWlA2blNDX21Gc0RocTZoMkhvTmlvaXNfb2Z0NUhXZGQyQXhNbldaWlJrajdMcGh4VWVWMFF6MTVvQS04QkMwM3dBWUQ2U2l6UkktS21LSlhYN2ZiTWdQVTE2bXRMSFpWZ1h6TnBxYlpmUHVJekx4Q1R4TjZEUGhIYXc1SUtBSUt6VjJVOFlhVlhaamJNR0dmRTVBeE00RjI5aEZHQlVXWkpMUVlwenFnb2NhN1VMWS1xcVJldnNSeEVhWVBYbXhKQm90eEt4Uy11WjhSakVXOWRoeHNoeWplUjhFOXg4QnNURWFoTEU3QzhuMjhDalBWVk4yck0zYmRpcw?oc=5",
-      "data": "25/09 13:00"
+      "titulo": "Montenegro avalia prejuízo do Fluminense após fim das bets - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFc4a0NObzJpeFpsUUJOM0ZyZERBb3lwc2RXZGlQYUsyS1RxWk9zLUhwQ2FxRG5Qam1QYlVRQ0J4YmtvcDIyNzhtT0FST3FfWEJwMG5OaE1YaDRUWXVkVXBITVluWUZoakZJMWVYWk12QXljQ2dIdTZqSk5YaXhMMG9NOW01TEFBZkk0RGhwaHFSV0t0UTVKMEhXOHNxTFVha1p4NW81NkU1V09QMDdOVWRqMmVkRmt1T0hPblJORWxGR3VRMUlRcllB0gHPAUFVX3lxTE9obHRTTmg3SXc1OUZjMVNZSGN5ZFdXWVFCX050cjhldXFNNk4wQkx2RGprUmd6bjlxeW9FYXFZSng2X2JaeUVXSi1JalhzbTFQMzdEc2VyQy1KY21sV2UyRG1hWjZ1UGZfc1p1UXRiMmEwVHVKLXVPNnh3WmZqVUtHajgxQXZBbkQ1UFdtVjlkSVlNcDJ2OVEzM2FPS3NHeUVyR2FsY0lDblZIaWZBaDBKdEQtOVVKQ1o1Zk9hQ1FRdW1uVG1aZ3IxeE1hdFJwbw?oc=5",
+      "data": "26/09 12:20"
     },
     {
-      "titulo": "Volante do Fluminense e da Seleção entra na mira de gigante italiano - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaXVmVkg2MXdka215YVZvWE5waVhUeE1HV0Z1UVNjbWxfb2VMTmRFUjV0OTBmWUFDci1jRks0T19hYWJHbVdkVGJ2MjE0VWFsUGswM1NiWTYyX0FnNmVDbjN2Yk1uOVUzOXZiUnpvU2QzcUs3ZzQ5dVltVVFwVVlEbmFmMHNmakJRSlhmNXZDX3BlZmkwT0p0R3VzTG9SN1I2ZklVbF9NQlZCQm1kMHIwdElqOE5XWnEwd0dPVElyNUJ2d2xSemVZdGEzN0NzbkRwNENMOHVLTFBNSGJ6UjhpVktVU0Qxc1F5Z0JFMGlCWU1XbUF4SDQyTVNESTJIVHc?oc=5",
-      "data": "25/09 16:34"
-    },
-    {
-      "titulo": "Fluminense pode ser afetado por plano do Governo após veto às bets; veja o cenário - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2NYRThtZkRTdG9CZWdsT2ZabWNYYTRGMDhRWTREQ2pmZm16dkVNamhQa3ZhLW12UFd2QUg3aG43WHNNU0pKUXpyYkx1eHFnOU1QTm00dUhoV01Rc2g2c1ZwY1dYYi1qQ290SEhkRldfTVg4dFIxOE5OWjRVYndzRmh6TTVXQi1DRldyb2pISkp1MFNodWdsY0NBRlNBQUp5NkpoMTBYMUJrOXh0?oc=5",
-      "data": "27/09 12:00"
-    },
-    {
-      "titulo": "Sem espaço, Freytes pode puxar 'barca de estrangeiros' no Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1piSUZvejdqd2NiOExRT0Y1YjUwdGhzT1FVeVRxU3RmS01xM21OT2thaHhTTXhicFhWMDU3ZE5MNVZ5d3dLamN4ak5nMkoyUkNGcU9sM0g3cV9veWhiWjlodFE1UTVLWlpNc0tKY3gzTjRDQUF6M2k3NjcwZWVqczJGYU16Vkl5b1YyTlEyYmlyWkd6ZHROSkFDTVhlVWRpdk1zajc5Qkh2NkkyZlp6emdVNTJBSE1VcFVzUkFNeThoNWNrRS1V0gHMAUFVX3lxTE9QeXp1dHpUZjZINTJnQnFndGIyZTdmYVRldHBPbExBVXZBWTJyMkJOODk4QXI4ell1MjdQOTFyNlBEbklPUUVEYllEbXpPaWktWWVaZWhaS2JINWdOTEs0NXVfblZYQ3p3NGFlT1l2VGJBbC0zZVhLU2lvcDVtbE9ldHdTMDR2U0VlZ1hJZHdXX3pQSllULUswc0Y5Ti1HLUJCMDltNUZQckJKaUFRWTBDUDNqV2xxeU81R1BWSEVpSEpPSk84QjFSTU1qNw?oc=5",
-      "data": "26/09 20:50"
+      "titulo": "Do que o Fluminense precisa para garantir vaga na Libertadores em 2027? Veja cenários - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ3VIM1gwc2NuXzBBTWRvcmRrdEt1N1VDZmpfS0FMMml0U05uM1JueGZKNWlhYTFzaHZJLS1oTHZQT0dsNDJpc0RVRVowSlZ0Y09FT0U4TVhzZXVmZWJvUENQY09WSjJ4VEJPZktFbndfQ3pwNkE0TmpLM08yMTdwZXVNY3NwbFY4YkU1UjhEYTFBbU9OX1otemdwNHhlYjZ4MDViSU1TTklpZzg1TlFaN1VLSjR4LVVwRmxHQkxnWGNiS2hnSUIyVmVMOWhPckxyMkd3cF9UNk5FVzVNWnY3cXdsdTZkNnFZYThz0gH6AUFVX3lxTFBacW1IOWdzWC1fNWJEOVVqWV9jQ1QxSE1ST011LUZoNGsxVGFmamh5ZDdnY2ZITm5uUmZfUmxhS2hhYWlzdHExZ0VrejNJZ1NWajIxZ2NWSmRkSWg4RU85MDExclN3WHJ1R3I4VjlZSWlLbjl4bEFrMjI3RUh2WktTeWpHYkliN0VGQ0dYMFJFME1pbkZPX3JuVWVpUE1iaF8weXh3eElTS1FabVZMVUtMNmJOcVdVaDdVS3hqRUo3YTFMRW82bHJ1S2ZIeXJ5RGJFVVFhRlRDMXpKbU01UVZEWFRCT0hyT3ozenBiU0tXS2psUTJpZGdvTnc?oc=5",
+      "data": "27/09 07:00"
     }
   ],
   "avisos": []
