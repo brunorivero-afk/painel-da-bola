@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "28/09/2026 00:18",
+  "atualizado_em": "28/09/2026 07:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -271,58 +271,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.7,
+      "temp_max": 26.2,
       "temp_min": 21.6,
-      "chance_chuva": 8,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 18,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 27.1,
-      "temp_min": 22.2,
-      "chance_chuva": 76,
+      "temp_min": 22.3,
+      "chance_chuva": 78,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.2,
-      "temp_min": 18.7,
-      "chance_chuva": 55,
+      "temp_max": 24.8,
+      "temp_min": 18.5,
+      "chance_chuva": 63,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.9,
-      "temp_min": 17.7,
-      "chance_chuva": 96,
-      "condicao": "Garoa"
+      "temp_max": 25.6,
+      "temp_min": 17.6,
+      "chance_chuva": 94,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
       "titulo": "Alô, Fluminense! Empresa demonstra interesse em patrocinar clubes do país e fala em orçamento \"sem limites\"; veja - netflu.com.br",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFqQkl3VGM1dHV1NzlkbzZ6aG1SZ0tmd1hOeDBiYzhpeDlmVVhjbHZEcWNJOTRoQVAtRVBOblJjSGpEV2I5YUVjUk1YVTJzYU9DOXF4ZUI1QTkxMW5Xb0haOVliaFZqWWpuMlUteEpDeVg3Z0gzQTN4TV8zcExzU2RPX19CSmNUTjhONXVZNHh6bXFScUNIT1dFNkN6RGlxRkpOakxZN1l1M2FmMEtZeTdaSUZUMzhuN0VUeUJ5S20ycFpWcDNwTk1xSmpXQQ?oc=5",
-      "data": "27/09 15:06"
+      "data": "28/09 02:01"
     },
     {
-      "titulo": "Do que o Fluminense precisa para garantir vaga na Libertadores em 2027? Veja cenários - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ3VIM1gwc2NuXzBBTWRvcmRrdEt1N1VDZmpfS0FMMml0U05uM1JueGZKNWlhYTFzaHZJLS1oTHZQT0dsNDJpc0RVRVowSlZ0Y09FT0U4TVhzZXVmZWJvUENQY09WSjJ4VEJPZktFbndfQ3pwNkE0TmpLM08yMTdwZXVNY3NwbFY4YkU1UjhEYTFBbU9OX1otemdwNHhlYjZ4MDViSU1TTklpZzg1TlFaN1VLSjR4LVVwRmxHQkxnWGNiS2hnSUIyVmVMOWhPckxyMkd3cF9UNk5FVzVNWnY3cXdsdTZkNnFZYThz0gH6AUFVX3lxTFBacW1IOWdzWC1fNWJEOVVqWV9jQ1QxSE1ST011LUZoNGsxVGFmamh5ZDdnY2ZITm5uUmZfUmxhS2hhYWlzdHExZ0VrejNJZ1NWajIxZ2NWSmRkSWg4RU85MDExclN3WHJ1R3I4VjlZSWlLbjl4bEFrMjI3RUh2WktTeWpHYkliN0VGQ0dYMFJFME1pbkZPX3JuVWVpUE1iaF8weXh3eElTS1FabVZMVUtMNmJOcVdVaDdVS3hqRUo3YTFMRW82bHJ1S2ZIeXJ5RGJFVVFhRlRDMXpKbU01UVZEWFRCT0hyT3ozenBiU0tXS2psUTJpZGdvTnc?oc=5",
-      "data": "27/09 07:00"
-    },
-    {
-      "titulo": "Em meio à Data Fifa, Fluminense divulga programação semanal do futebol - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1A0QjU3TEM0RkhfREc1MDk5MXBKdEZxVFNzMUs2TTRlOVlYc1FhTjdFTk5wQndBMkNieHNLdW81c2tnc0hyS3BHQVM4b1pmRlpOSGZOM1FYN0ZpYmhveHFfWEpOLWFkcnFraG9uSEdjcmgxOXFjWUxJY2I3NXEwODZVWFhvVE9XQldINThQU1BqbzhtRVAtakFwdnE?oc=5",
-      "data": "27/09 23:54"
-    },
-    {
-      "titulo": "Savarino busca espaço com Marcão no Fluminense na Data Fifa - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHRpRndsVlVqcmNBQUtsWkRkbXhIbkRTTWJ5b3ZhUHNSbm91SERNMkh5ekNmcDhsaXMtVDRqSnA1VEpLY0xadlQ0TndMdkdqNzJfMEE0Z1ZqV2hMYjdnTmZwVEhyUUstbW9kV29OcDRPakxURWNWNVVibXdhd19NLUJHUlpteDRLUEdsZUNLN0h6WnlDTlJVR3p1QW5UaHA2MXc?oc=5",
-      "data": "26/09 13:50"
+      "titulo": "Sobe e desce: quem ganhou e quem perdeu espaço com Marcão no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZVpLbFM4NXVDR1dZbWp5aFJScXVmLVhMMDZTcGZTSi1VY21sdUotMmxHa0xiSDRpUTk0b1U0WkZXdTdDalJua3dRdnpOTVhQZm9zSFcwTWZOSmVrNXhvajlTX3lPWFdqODI5STJUWkJua3ZmblVZLV96RmdLQlR1ODNlZG9jVkFQeGFvaHp3QksxcS1XTlRMQllCblg1VzMtVjNSaGxwclFUbEJDSmc4R0sxb0VxUF9MNGVEUjZ5RzlDSXBneldraFlrbG4xRWNhSmwydzhjYUnSAecBQVVfeXFMUDI2WDd2UDZDUXgwb3dXbFRlaGZfaWh1VGxWU3UzaXJjTEFSTGlIbzBha2pEcWg4elNBUkpadGszWnR1T1VXUUEzLW5jM3RadkNYQUZkeTZHZ0ZBUmRhdTVnSERXLTJtQk94MXUwMExrRnFXbEs5ZE5qV0dOZ2JuN1oxYlFLZGNBMno5dEZuelBLU3gyWDVxYUNpcXZ1aDN5RVVSX003bnVYZzFtZTJLNFpQTEo4Qm4zOFU5a1FKc0R6MjRjUzJ2NVlKQXVRbzdFMzFxMVJScWItYTBDZWczNVlaZmk0TjJz?oc=5",
+      "data": "28/09 07:00"
     },
     {
       "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQkRzQXJUcmxDcnI0ejF4Z2V3N2kyb3hjTm9Ed2RXdkJKRjdaWW10clF4QnB1d3VVc3NSVDhxQlJwX3Nmcmthb280TEZzUWRMeHVraEdxMS1XQzNPdTJ1dE5WN0s2REFCQmk0Z2ZZMUdyYV93UlZsdkJoS1JFV204SFdiYWJNYWtpRF9EUkxCeWJPSXd0V3RIQ0ZKUHdyaDlaSTNTM3NGQkF1U05YZGtySlhsanlVZE93WXFzNkV3cG5ZMkJTTmQ1amFfMnRZUEIxa0dxRUNhTGJYcTgtTlE?oc=5",
-      "data": "27/09 19:33"
+      "data": "26/09 07:00"
+    },
+    {
+      "titulo": "Morre Alcides Antunes, ex-vice de futebol do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeW8xbXN4SlVRdU1tWVJjdXMzRVdLQUx5a0R4TUZ2WHN0ejB4aGhkVDBiQl9WbXFqLW5jbDVjWVU1RERTeEFXYkUybzk5UlZBeWEzMlIwZ0VoVDFhQXBSc2NGcEFMZkx5QWZhZlRVSXJ0anJCMERiT1Y1dnliS0Y3R1h1X2t0dUJVeWVvZkNORVRUN19vcGpVbnl5eWgyRjE2cThTY2ZHN1lOM3FhUEtyejhrWFN0YWppZTNBSDFvdUNvb0HSAdIBQVVfeXFMTllBR1I4TF9WMlBVQnU5LTdBZ0NZRFRYcVVxcUhTTXFfd05KS3Y5RTlKcXpzem0wZDY5UHRDeUlKZ3Y2azNVVjVuUXk4ajBTMkxrSTctWm00Z3ltUWw1QUYzMFNXaEtPem11WE1Na2FMd3dMeWhkbE9ORlBheXpMbkwyak1TOWtqQ3RKTURKRkxSV0kyaFRoVmRiMmFfbkkteVVYYXhuSFJuTHgxeDlaa041ZTh5Ui1FbE01WHUtSHQ4cFNKa0tHUjR5RS1RbmpjLVV3?oc=5",
+      "data": "27/09 18:53"
+    },
+    {
+      "titulo": "Fluminense lamenta morte de ex-vice-presidente do clube - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVR3enlScEhYdHFSUmNXc2R1RUZPakhLVzhLQ0RsUzdReEstSnd2RUptc25IdXJSYkI0Nm9YQnRjYnFMMEtrckV6LURyc1ZndmVLQnZQbE9FSno2bXh4QTNuSXdzNWZud1BjN2RGbjJ2V011dkV5bE1JcFNEUExXREd0dURuSTY0Vm9zelhLOHY3bjZ0UC13S2FnUVM3eFZhN0xtMGwwbzZBaTVFbkpkQVptcw?oc=5",
+      "data": "27/09 19:53"
     }
   ],
   "avisos": []
