@@ -1,67 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/09/2026 15:22",
+  "atualizado_em": "28/09/2026 20:38",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Bélgica x França",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Suécia x Polônia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Irlanda do Norte x Hungria",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Turquia x Itália",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Guadeloupe x Barbados",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "18:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Cuba x Bonaire",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-28",
@@ -132,6 +71,67 @@ window.PAINEL_DATA = {
       "match": "Georgia x Ucrânia",
       "channels": [
         "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Bélgica x França",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Suécia x Polônia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Irlanda do Norte x Hungria",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Turquia x Itália",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Guadeloupe x Barbados",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-28",
+      "time": "18:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Cuba x Bonaire",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -271,28 +271,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.0,
+      "temp_max": 26.5,
       "temp_min": 21.6,
       "chance_chuva": 33,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.0,
+      "temp_max": 27.6,
       "temp_min": 22.1,
       "chance_chuva": 71,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.4,
+      "temp_max": 24.8,
       "temp_min": 18.8,
       "chance_chuva": 62,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.6,
+      "temp_max": 26.2,
       "temp_min": 17.6,
       "chance_chuva": 98,
       "condicao": "Garoa fraca"
@@ -300,14 +300,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - iG Esportes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDgxTXlrbGcxQXNJOFZwMmp3UDVOSGJTbUY5MUx5SlR0MGhTY3gzNzMtQjZPZ1ZBOTlFY2xiUnVSRHpJc3hjb2t1TWhsamRKdTVhUF9qWjFpbklFdnY2YVFRZW5lUnhQT013V0dpWHRGcGl3REgtTDFfWDhMbTktUUlvQlR2WElkcVlmeVVoQ21HMVRtMm1XazlOdnZnbXVXR0pkSENINnBQZDh0T1lKNlhKTkNCWmfSAbwBQVVfeXFMTTJTLS1NY1pVYWN0YXBxRDhFdFFkY2xCeUU5U2g1M1NJU1lUV0lmZ1RBcHgzSXdHbDhsdndHWEowZEFpaERXakhPLTkyd0hybmdsMzRRNlpQVk11OXUtRUxlRVROVHhxRUc3VDFXcnFGaU1OY19BNldWYXN2YTduUDktYkNNZS1qQWpEUWdsbGltS1hENGh0ZnBhUFJoRnNIVURMOFh5ZUZ4ckJHLUx0XzRxREdlbmJvLWVneDI?oc=5",
-      "data": "27/09 19:33"
-    },
-    {
-      "titulo": "Fluminense lamenta morte de ex-vice-presidente do clube - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVR3enlScEhYdHFSUmNXc2R1RUZPakhLVzhLQ0RsUzdReEstSnd2RUptc25IdXJSYkI0Nm9YQnRjYnFMMEtrckV6LURyc1ZndmVLQnZQbE9FSno2bXh4QTNuSXdzNWZud1BjN2RGbjJ2V011dkV5bE1JcFNEUExXREd0dURuSTY0Vm9zelhLOHY3bjZ0UC13S2FnUVM3eFZhN0xtMGwwbzZBaTVFbkpkQVptcw?oc=5",
-      "data": "27/09 19:53"
+      "titulo": "Presidente do Fluminense revela prejuízo milionário com o fim das bets: \"Preocupa muito\" - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONGpwZ2tpMkZJaXpCRVFHcUhZeFNpUkIwVEpwWEdYcmcwN1Z0c2lUenM1XzNjR3JTTUJOZkZqb0JjRlY2bmMzWnJfQ0hIMlNGWGRRQ3lvZzR5UDFtYTdMQlZOQVZPXzg1cFhsd0o1Ul9ocTVHbGZpSXFONGtUb1pTS2NON0U3Qm5KRV81eVlPYXVMd1ZJNjdPQVVBeGpOYnN2QzhxMEJEM1gwYUphYWQwV1gwY1h5akRDNjhjb0hfTUU2MGNrdUhyMk1ZZDZDZnYtMmllOWQ5bWhTbHY3dGl6REhubmR1U3o1T2o1ODU5Z2Q3UXdkSGNmdUY1S1QwQjBIVkh1amhtUQ?oc=5",
+      "data": "26/09 23:20"
     },
     {
       "titulo": "Em nota de pesar, Fluminense lamenta falecimento de Alcides Antunes, ex-vice de futebol tricolor - netflu.com.br",
@@ -315,14 +310,19 @@ window.PAINEL_DATA = {
       "data": "26/09 23:25"
     },
     {
-      "titulo": "Alô, Fluminense! Empresa demonstra interesse em patrocinar clubes do país e fala em orçamento \"sem limites\"; veja - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSDFqQkl3VGM1dHV1NzlkbzZ6aG1SZ0tmd1hOeDBiYzhpeDlmVVhjbHZEcWNJOTRoQVAtRVBOblJjSGpEV2I5YUVjUk1YVTJzYU9DOXF4ZUI1QTkxMW5Xb0haOVliaFZqWWpuMlUteEpDeVg3Z0gzQTN4TV8zcExzU2RPX19CSmNUTjhONXVZNHh6bXFScUNIT1dFNkN6RGlxRkpOakxZN1l1M2FmMEtZeTdaSUZUMzhuN0VUeUJ5S20ycFpWcDNwTk1xSmpXQQ?oc=5",
-      "data": "28/09 02:01"
+      "titulo": "Morre Alcides Antunes, ex-vice de futebol do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeW8xbXN4SlVRdU1tWVJjdXMzRVdLQUx5a0R4TUZ2WHN0ejB4aGhkVDBiQl9WbXFqLW5jbDVjWVU1RERTeEFXYkUybzk5UlZBeWEzMlIwZ0VoVDFhQXBSc2NGcEFMZkx5QWZhZlRVSXJ0anJCMERiT1Y1dnliS0Y3R1h1X2t0dUJVeWVvZkNORVRUN19vcGpVbnl5eWgyRjE2cThTY2ZHN1lOM3FhUEtyejhrWFN0YWppZTNBSDFvdUNvb0HSAdIBQVVfeXFMTllBR1I4TF9WMlBVQnU5LTdBZ0NZRFRYcVVxcUhTTXFfd05KS3Y5RTlKcXpzem0wZDY5UHRDeUlKZ3Y2azNVVjVuUXk4ajBTMkxrSTctWm00Z3ltUWw1QUYzMFNXaEtPem11WE1Na2FMd3dMeWhkbE9ORlBheXpMbkwyak1TOWtqQ3RKTURKRkxSV0kyaFRoVmRiMmFfbkkteVVYYXhuSFJuTHgxeDlaa041ZTh5Ui1FbE01WHUtSHQ4cFNKa0tHUjR5RS1RbmpjLVV3?oc=5",
+      "data": "27/09 18:53"
     },
     {
-      "titulo": "Presidente do Fluminense revela prejuízo milionário com o fim das bets: \"Preocupa muito\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONGpwZ2tpMkZJaXpCRVFHcUhZeFNpUkIwVEpwWEdYcmcwN1Z0c2lUenM1XzNjR3JTTUJOZkZqb0JjRlY2bmMzWnJfQ0hIMlNGWGRRQ3lvZzR5UDFtYTdMQlZOQVZPXzg1cFhsd0o1Ul9ocTVHbGZpSXFONGtUb1pTS2NON0U3Qm5KRV81eVlPYXVMd1ZJNjdPQVVBeGpOYnN2QzhxMEJEM1gwYUphYWQwV1gwY1h5akRDNjhjb0hfTUU2MGNrdUhyMk1ZZDZDZnYtMmllOWQ5bWhTbHY3dGl6REhubmR1U3o1T2o1ODU5Z2Q3UXdkSGNmdUY1S1QwQjBIVkh1amhtUQ?oc=5",
-      "data": "26/09 23:20"
+      "titulo": "Fluminense lamenta morte de ex-vice-presidente do clube - band.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVR3enlScEhYdHFSUmNXc2R1RUZPakhLVzhLQ0RsUzdReEstSnd2RUptc25IdXJSYkI0Nm9YQnRjYnFMMEtrckV6LURyc1ZndmVLQnZQbE9FSno2bXh4QTNuSXdzNWZud1BjN2RGbjJ2V011dkV5bE1JcFNEUExXREd0dURuSTY0Vm9zelhLOHY3bjZ0UC13S2FnUVM3eFZhN0xtMGwwbzZBaTVFbkpkQVptcw?oc=5",
+      "data": "27/09 19:53"
+    },
+    {
+      "titulo": "Fluminense: veja como comprar ingressos contra o Flamengo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnNTYktXdzJ2bW1XaklwdVgyTi1qWVJpMWRQbXM2dnkxNk42MTctc2h4SWpzY0t4U29MZnNLU196Q2tjd0hEdW9LYUxXT2VXNXE1azIyWVBoblo5em5FQWRvS1dOU0txT2ozZmJKZHZyclZXRmpFZkJnUk81YjdKN1VETm8xQlBLV2dpYllRbE9NU1dmWHFXcXFRTmpHbGlfZTM0MDBsVnptSEVwblByT0wwak5oVlJiNU1EcDExN2M4aWdiRzFEdngwWEotaHNIS1hzaGZ3?oc=5",
+      "data": "28/09 20:00"
     }
   ],
   "avisos": []
