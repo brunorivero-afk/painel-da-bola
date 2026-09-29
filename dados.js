@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/09/2026 00:55",
+  "atualizado_em": "29/09/2026 07:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -221,37 +221,37 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 28.0,
-      "temp_min": 21.5,
+      "temp_min": 21.6,
       "chance_chuva": 27,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.0,
-      "temp_min": 22.5,
+      "temp_max": 28.9,
+      "temp_min": 22.3,
       "chance_chuva": 33,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.2,
-      "temp_min": 17.6,
+      "temp_max": 27.1,
+      "temp_min": 18.1,
       "chance_chuva": 16,
-      "condicao": "Nublado"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.9,
-      "temp_min": 17.2,
+      "temp_max": 29.0,
+      "temp_min": 17.5,
       "chance_chuva": 29,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Mais de R$ 100 milhões em risco no Fluminense: valor se aproxima da venda de André; entenda - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVU0UlBFY0hxU2ZDTS1hZDZOTTRlTml3N3dENnZoWUlieTJkLWdBMmhscW1QclZyNDQ0Q2NNNFFjaTQyWVRhdmxJaklyWm9IQjhwU1gzMzVxb21zTW9MQ253aFhXWTdjY3ZDVk80UmFKZjdydENLaktEc3Iwc2RtM0F2VVRFMDFGbGZoZXFsdl81ODRodHBjWGx3Nng5Y2tVWkd3cmNKV0RHNHBTNE16X2d4TGtLQQ?oc=5",
-      "data": "28/09 13:03"
+      "titulo": "Em nota de pesar, Fluminense lamenta falecimento de Alcides Antunes, ex-vice de futebol tricolor - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xTbUYxMHh4N3NjVWZuWHFBVTlPcXQ4TjUtdUg5Ym1faXNrZk9ZdXlMczVOaWZISnRoeUxxaFVGV2h2N09DVHhoM0c3UjgwYy00N05FOGl4bEJ2aVpPWnNDZER4eWJncXdfVDdHUzF1Sld1SmlMa044d3pZeWZDMTJjTXFYOG94Y1VWdVl5OTJjemlMa3JtbU5zMVdXZUdIMnAyVkVuQ2FyOGFSbVRwYkd2S3dnMUp5b2s1aG5B?oc=5",
+      "data": "26/09 23:25"
     },
     {
       "titulo": "Morre Alcides Antunes, ex-vice de futebol do Fluminense - ge",
@@ -259,19 +259,19 @@ window.PAINEL_DATA = {
       "data": "27/09 18:53"
     },
     {
-      "titulo": "Em nota de pesar, Fluminense lamenta falecimento de Alcides Antunes, ex-vice de futebol tricolor - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xTbUYxMHh4N3NjVWZuWHFBVTlPcXQ4TjUtdUg5Ym1faXNrZk9ZdXlMczVOaWZISnRoeUxxaFVGV2h2N09DVHhoM0c3UjgwYy00N05FOGl4bEJ2aVpPWnNDZER4eWJncXdfVDdHUzF1Sld1SmlMa044d3pZeWZDMTJjTXFYOG94Y1VWdVl5OTJjemlMa3JtbU5zMVdXZUdIMnAyVkVuQ2FyOGFSbVRwYkd2S3dnMUp5b2s1aG5B?oc=5",
-      "data": "26/09 23:25"
-    },
-    {
       "titulo": "Fluminense lamenta morte de ex-vice-presidente do clube - band.com.br",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVR3enlScEhYdHFSUmNXc2R1RUZPakhLVzhLQ0RsUzdReEstSnd2RUptc25IdXJSYkI0Nm9YQnRjYnFMMEtrckV6LURyc1ZndmVLQnZQbE9FSno2bXh4QTNuSXdzNWZud1BjN2RGbjJ2V011dkV5bE1JcFNEUExXREd0dURuSTY0Vm9zelhLOHY3bjZ0UC13S2FnUVM3eFZhN0xtMGwwbzZBaTVFbkpkQVptcw?oc=5",
       "data": "27/09 19:53"
     },
     {
-      "titulo": "Fluminense corre risco de pagar por estoque de camisas de bets - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdlcyZkNpUlh4c1hvUjBmNXk2VXczT3lJVjcyT3hyMDZiQi1fTk1fOFBKX2x1bTdWdHNockVjdTBObWNuMjhKN3NEbkUzS2N1Q1ZiUk9RMTdqdS01Q0xKZmtYRzF1c2NrMEVpT0lGTi00eGxUT1doN3ZvZnhZV3lQa0hxcGF5LUwzOE5SRjBBd1lKM2hnTmhMeWdSbWwxaHE2c2xFeFBsT2plRms5YkJOYzE1ZTRrUGxhaHlOR1VhWERnd1d6VkFQQ0dQZ1pGRFVza0FWRWJKTEpWeVZuSE5aTmtIMGNrdldR?oc=5",
-      "data": "29/09 01:15"
+      "titulo": "Conheça promessas do Fluminense que podem ser observadas por Marcão nessa Data Fifa - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVVRidE14dXg3SnNEdHVUMXZTMjQ5YlVJaEp3U3lSMjZueGphRG1ORTl2SHFUV1FUeDd1c3BkMEZsTXRqQVlLSXM0YzhoVmNHUHB4NnJBeUVaVVZpN1BFWUdTa2kxWVF0cTMzajNzcDM2UkZVeEx2M0Jka2xsMy1xZDIwR0dZU0VZSG4ydUZ0VFFpb3BOQ3ZqZlk1OXYtSDl5MzBMeC10MkhKa2ZEOHg0bXFiT21FTHUxYVJvR3A0R19oQ1VNSHltakt3VkZGYUlOTUJvWHlHQy13aVpaamdPd2FwNDh4ci1waXfSAfgBQVVfeXFMTTlFSjltc1dadFU5NGJmZW5zLTNqcGhXaWZONnJtZGJOTzR4X0tyTTU3clJRVmdCd2EyZURsQUJVelYzLUFaTUowcHFSSFdJRE1BT3VWQ2V6YUwteHFjUTcwUGRPMVBSZmtRUE5KdEZlNVc4a3VQQzNPS0VIRmtGbXpvQ0JGYktLUl9qcy1zcjBubGdyWmM0Smt2OTBaSENMTkpXVEcza0F2QndHOXJkbmt2MlY0OUxrMnhFd2k2NGdiX2FXNmhwek0tYXV6WTlEZS1jdTBPU24wMExBMGViZUNEUUZiSGU0a0xoYmU2aHp5NXdheHBoM1U?oc=5",
+      "data": "29/09 07:00"
+    },
+    {
+      "titulo": "Hércules oscila, e tenta recuperar melhor forma em Data Fifa - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDJ0ZEFQazNCdWtoeWZ6ZFh4U3owaGxfZlpoS2xEMGVUR3dPWFludmlQaFBDbzRKY3hFbnZOVlY5OGtyeXgwbXp5VHUzNjJEZmpUbVBLTklkdzJvSVY3eUZZWmdtTXRxcVhoQVZ5UGdXWEdydWFIQjJiMDh1WkJ4NS1leFFiYUpBMk5TLXpaYnZwcWoxT1lTcEtHRHYyM0VfVmFCcGJ0eFZnV1pnQThEWnF6Z01LaVVzaG9MTGZlc9IBxAFBVV95cUxQSF9ucjgwWTZobXZWUTlnWEZHS2VHcUItSVB4M2NYRnM5TFZhajJUeWNkU3JKam0yYVd3ZmdnZjI4d212TkNPZ041YjgxM0FXa2JtTmdNNkpveWhrTEIwUGVkMzRpcE1vUThRTl9IdE42NlVJaW9fV1ZuQ2ZnX2tDNUNQWWNwWTc3b21ZY1BLTzNqMUJtakJQbWZjU2NHZXNtRTZ2QjJ4X3dlWVhlTDRpNEg1RzlTMHNIZ3BvV0h0R0tzeXlR?oc=5",
+      "data": "28/09 10:30"
     }
   ],
   "avisos": []
