@@ -1,18 +1,6 @@
 {
-  "atualizado_em": "29/09/2026 07:23",
+  "atualizado_em": "29/09/2026 13:45",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-29",
-      "time": "07:00",
-      "competition": "Amistosos Seleções",
-      "match": "Austrália x Brasil",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "GE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-29",
@@ -112,6 +100,18 @@
       "match": "Estados Unidos x Chile",
       "channels": [
         "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-29",
+      "time": "07:00",
+      "competition": "Amistosos Seleções",
+      "match": "Austrália x Brasil",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "GE TV"
       ]
     },
     {
@@ -220,58 +220,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.0,
-      "temp_min": 21.6,
-      "chance_chuva": 27,
+      "temp_max": 27.9,
+      "temp_min": 21.8,
+      "chance_chuva": 86,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 28.9,
-      "temp_min": 22.3,
-      "chance_chuva": 33,
+      "temp_min": 22.4,
+      "chance_chuva": 65,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.1,
+      "temp_max": 27.2,
       "temp_min": 18.1,
-      "chance_chuva": 16,
+      "chance_chuva": 78,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 29.0,
-      "temp_min": 17.5,
-      "chance_chuva": 29,
+      "temp_min": 17.3,
+      "chance_chuva": 75,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Em nota de pesar, Fluminense lamenta falecimento de Alcides Antunes, ex-vice de futebol tricolor - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xTbUYxMHh4N3NjVWZuWHFBVTlPcXQ4TjUtdUg5Ym1faXNrZk9ZdXlMczVOaWZISnRoeUxxaFVGV2h2N09DVHhoM0c3UjgwYy00N05FOGl4bEJ2aVpPWnNDZER4eWJncXdfVDdHUzF1Sld1SmlMa044d3pZeWZDMTJjTXFYOG94Y1VWdVl5OTJjemlMa3JtbU5zMVdXZUdIMnAyVkVuQ2FyOGFSbVRwYkd2S3dnMUp5b2s1aG5B?oc=5",
-      "data": "26/09 23:25"
-    },
-    {
-      "titulo": "Morre Alcides Antunes, ex-vice de futebol do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeW8xbXN4SlVRdU1tWVJjdXMzRVdLQUx5a0R4TUZ2WHN0ejB4aGhkVDBiQl9WbXFqLW5jbDVjWVU1RERTeEFXYkUybzk5UlZBeWEzMlIwZ0VoVDFhQXBSc2NGcEFMZkx5QWZhZlRVSXJ0anJCMERiT1Y1dnliS0Y3R1h1X2t0dUJVeWVvZkNORVRUN19vcGpVbnl5eWgyRjE2cThTY2ZHN1lOM3FhUEtyejhrWFN0YWppZTNBSDFvdUNvb0HSAdIBQVVfeXFMTllBR1I4TF9WMlBVQnU5LTdBZ0NZRFRYcVVxcUhTTXFfd05KS3Y5RTlKcXpzem0wZDY5UHRDeUlKZ3Y2azNVVjVuUXk4ajBTMkxrSTctWm00Z3ltUWw1QUYzMFNXaEtPem11WE1Na2FMd3dMeWhkbE9ORlBheXpMbkwyak1TOWtqQ3RKTURKRkxSV0kyaFRoVmRiMmFfbkkteVVYYXhuSFJuTHgxeDlaa041ZTh5Ui1FbE01WHUtSHQ4cFNKa0tHUjR5RS1RbmpjLVV3?oc=5",
-      "data": "27/09 18:53"
-    },
-    {
-      "titulo": "Fluminense lamenta morte de ex-vice-presidente do clube - band.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVR3enlScEhYdHFSUmNXc2R1RUZPakhLVzhLQ0RsUzdReEstSnd2RUptc25IdXJSYkI0Nm9YQnRjYnFMMEtrckV6LURyc1ZndmVLQnZQbE9FSno2bXh4QTNuSXdzNWZud1BjN2RGbjJ2V011dkV5bE1JcFNEUExXREd0dURuSTY0Vm9zelhLOHY3bjZ0UC13S2FnUVM3eFZhN0xtMGwwbzZBaTVFbkpkQVptcw?oc=5",
-      "data": "27/09 19:53"
-    },
     {
       "titulo": "Conheça promessas do Fluminense que podem ser observadas por Marcão nessa Data Fifa - ge",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVVRidE14dXg3SnNEdHVUMXZTMjQ5YlVJaEp3U3lSMjZueGphRG1ORTl2SHFUV1FUeDd1c3BkMEZsTXRqQVlLSXM0YzhoVmNHUHB4NnJBeUVaVVZpN1BFWUdTa2kxWVF0cTMzajNzcDM2UkZVeEx2M0Jka2xsMy1xZDIwR0dZU0VZSG4ydUZ0VFFpb3BOQ3ZqZlk1OXYtSDl5MzBMeC10MkhKa2ZEOHg0bXFiT21FTHUxYVJvR3A0R19oQ1VNSHltakt3VkZGYUlOTUJvWHlHQy13aVpaamdPd2FwNDh4ci1waXfSAfgBQVVfeXFMTTlFSjltc1dadFU5NGJmZW5zLTNqcGhXaWZONnJtZGJOTzR4X0tyTTU3clJRVmdCd2EyZURsQUJVelYzLUFaTUowcHFSSFdJRE1BT3VWQ2V6YUwteHFjUTcwUGRPMVBSZmtRUE5KdEZlNVc4a3VQQzNPS0VIRmtGbXpvQ0JGYktLUl9qcy1zcjBubGdyWmM0Smt2OTBaSENMTkpXVEcza0F2QndHOXJkbmt2MlY0OUxrMnhFd2k2NGdiX2FXNmhwek0tYXV6WTlEZS1jdTBPU24wMExBMGViZUNEUUZiSGU0a0xoYmU2aHp5NXdheHBoM1U?oc=5",
       "data": "29/09 07:00"
     },
     {
-      "titulo": "Hércules oscila, e tenta recuperar melhor forma em Data Fifa - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDJ0ZEFQazNCdWtoeWZ6ZFh4U3owaGxfZlpoS2xEMGVUR3dPWFludmlQaFBDbzRKY3hFbnZOVlY5OGtyeXgwbXp5VHUzNjJEZmpUbVBLTklkdzJvSVY3eUZZWmdtTXRxcVhoQVZ5UGdXWEdydWFIQjJiMDh1WkJ4NS1leFFiYUpBMk5TLXpaYnZwcWoxT1lTcEtHRHYyM0VfVmFCcGJ0eFZnV1pnQThEWnF6Z01LaVVzaG9MTGZlc9IBxAFBVV95cUxQSF9ucjgwWTZobXZWUTlnWEZHS2VHcUItSVB4M2NYRnM5TFZhajJUeWNkU3JKam0yYVd3ZmdnZjI4d212TkNPZ041YjgxM0FXa2JtTmdNNkpveWhrTEIwUGVkMzRpcE1vUThRTl9IdE42NlVJaW9fV1ZuQ2ZnX2tDNUNQWWNwWTc3b21ZY1BLTzNqMUJtakJQbWZjU2NHZXNtRTZ2QjJ4X3dlWVhlTDRpNEg1RzlTMHNIZ3BvV0h0R0tzeXlR?oc=5",
-      "data": "28/09 10:30"
+      "titulo": "Quatro jogos no RJ: Fluminense terá maratona no Maracanã após Data Fifa - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY0loMTNmVXBiR1IxSUl5bDgtU1NHWEo1Ul9HcE9HSU9hU1h2QWlhZHdkOEViZGZDNXNMTTdadkEwTDdBTnZ1RlVKb0Ntc2dJdUdQSi0xZzlGd1V5aS04VmpGMW5xVE0yT0xfX185WmJER0pRNmdhd252eGpDYzlEMTRCdjYyTlZMVm9ydXdnclhtajd5NWxNbGpZb0hGQQ?oc=5",
+      "data": "29/09 13:30"
+    },
+    {
+      "titulo": "Boa campanha no returno é o trunfo do Fluminense em sequência em casa - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNEhtYndlRUVzeFUtN09WUmtxdWI2TndNd3YyTndBcVpsQmlyMUJ1X2FHaHNiNUw3ZHNHZU1rbjRvNmVYWnl3Yms5NHhHTFNqaERJTzZrQnppZ1NyUVdPdlJfeHZRQ215TVNONmtvbXRBTUxWXzJzMHhveHp0NU5kUFVFRjZqS3M5NEp4VEhaeXRYNHNjanBuTG1namNpYnhPWFBadFJnVDJSTC03SFd3VHVrV3FOZmNRTU5xWm1kaWNZLVplY2NKeWxLUlVXdkxEQ0FtZnlBZ2hNajdhbHNJYkhNWEJOcnRVR2pidWp6cUw?oc=5",
+      "data": "29/09 13:23"
+    },
+    {
+      "titulo": "Brasileirão 2026: Informações de ingressos para Flamengo x Fluminense - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlV1TUVUWWFTLTkxWlFOdlNYby0wdU1VV2VFdDRzcU41SXdGX0lOZWFtaDlFZVVrcS0weXlOa3Y5dVdrUTJoT1d5YzFfbFgzLTByZUJacFgzRzFSUkYzS055ZmpyeXQyOGN2Y05kX3dIVHk0QmxwRXFHbkRYUEh3S3BzTzJqWVBtRjVpME9iRUFVMzdjbEt4OHdBU1RGSkxiVEZNYUhRdHlfUQ?oc=5",
+      "data": "28/09 14:35"
+    },
+    {
+      "titulo": "Juan Freytes perde espaço e pode deixar o Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1I3anRSRVQ4LThuckdvMDNURGZFRFZzODdMOFRYbF9JMkZ0NkNTSEUtNE5MX3RiZnNpOVluQ2lpR0I1OVhaLUJlU2JNRklYVVFhZkRmVVdoZFR2N0xoNVdSaF9VOXJwN3k2VXQtTWEtc0Z4cDdYcHYxN25mUmRDd0l6VExHUFZJT2oxM2pDNi1VYnVENFhBeERxQ2x6eGJQdGFvUUpuZlU5UlhaSDFwMkhHRjdaT0tpNk9zSi15OXlJQ1NTRWo0LTRmSEZ4MW9taGhNY2wzbw?oc=5",
+      "data": "28/09 04:48"
     }
   ],
   "avisos": []
