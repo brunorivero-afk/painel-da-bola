@@ -1,139 +1,6 @@
 {
-  "atualizado_em": "28/09/2026 20:38",
+  "atualizado_em": "29/09/2026 00:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Juventude",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Wanderers x Albion FC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Jamaica x Honduras",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "St. Lucia x Bermuda",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "23:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Guatemala x El Salvador",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Armenia x Montenegro",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Georgia x Ucrânia",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Bélgica x França",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Suécia x Polônia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Irlanda do Norte x Hungria",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Turquia x Itália",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Guadeloupe x Barbados",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-28",
-      "time": "18:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Cuba x Bonaire",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-29",
@@ -248,8 +115,90 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Paris FC (F) x Arsenal (F)",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Roma (F) x Barcelona (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Hacken x Juventus (F)",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "competition": "Champions League Feminina",
+      "match": "Lyon (F) x Chelsea (F)",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "competition": "Champions League Feminina",
+      "match": "SL Benfica x Bayern Munich (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "20:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Penãrol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x St. Louis City",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "21:00",
+      "competition": "Amistosos Seleções",
+      "match": "Argentina x Bolívia",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "time": "19:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Pinheiros x Sesi-Bauru",
@@ -259,7 +208,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "time": "19:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Fluminense x Praia Clube",
@@ -271,43 +220,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.5,
-      "temp_min": 21.6,
-      "chance_chuva": 33,
+      "temp_max": 28.0,
+      "temp_min": 21.5,
+      "chance_chuva": 27,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.6,
-      "temp_min": 22.1,
-      "chance_chuva": 71,
-      "condicao": "Garoa fraca"
+      "temp_max": 29.0,
+      "temp_min": 22.5,
+      "chance_chuva": 33,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.8,
-      "temp_min": 18.8,
-      "chance_chuva": 62,
-      "condicao": "Garoa fraca"
+      "temp_max": 27.2,
+      "temp_min": 17.6,
+      "chance_chuva": 16,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.2,
-      "temp_min": 17.6,
-      "chance_chuva": 98,
+      "temp_max": 28.9,
+      "temp_min": 17.2,
+      "chance_chuva": 29,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Presidente do Fluminense revela prejuízo milionário com o fim das bets: \"Preocupa muito\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONGpwZ2tpMkZJaXpCRVFHcUhZeFNpUkIwVEpwWEdYcmcwN1Z0c2lUenM1XzNjR3JTTUJOZkZqb0JjRlY2bmMzWnJfQ0hIMlNGWGRRQ3lvZzR5UDFtYTdMQlZOQVZPXzg1cFhsd0o1Ul9ocTVHbGZpSXFONGtUb1pTS2NON0U3Qm5KRV81eVlPYXVMd1ZJNjdPQVVBeGpOYnN2QzhxMEJEM1gwYUphYWQwV1gwY1h5akRDNjhjb0hfTUU2MGNrdUhyMk1ZZDZDZnYtMmllOWQ5bWhTbHY3dGl6REhubmR1U3o1T2o1ODU5Z2Q3UXdkSGNmdUY1S1QwQjBIVkh1amhtUQ?oc=5",
-      "data": "26/09 23:20"
-    },
-    {
-      "titulo": "Em nota de pesar, Fluminense lamenta falecimento de Alcides Antunes, ex-vice de futebol tricolor - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xTbUYxMHh4N3NjVWZuWHFBVTlPcXQ4TjUtdUg5Ym1faXNrZk9ZdXlMczVOaWZISnRoeUxxaFVGV2h2N09DVHhoM0c3UjgwYy00N05FOGl4bEJ2aVpPWnNDZER4eWJncXdfVDdHUzF1Sld1SmlMa044d3pZeWZDMTJjTXFYOG94Y1VWdVl5OTJjemlMa3JtbU5zMVdXZUdIMnAyVkVuQ2FyOGFSbVRwYkd2S3dnMUp5b2s1aG5B?oc=5",
-      "data": "26/09 23:25"
+      "titulo": "Mais de R$ 100 milhões em risco no Fluminense: valor se aproxima da venda de André; entenda - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYVU0UlBFY0hxU2ZDTS1hZDZOTTRlTml3N3dENnZoWUlieTJkLWdBMmhscW1QclZyNDQ0Q2NNNFFjaTQyWVRhdmxJaklyWm9IQjhwU1gzMzVxb21zTW9MQ253aFhXWTdjY3ZDVk80UmFKZjdydENLaktEc3Iwc2RtM0F2VVRFMDFGbGZoZXFsdl81ODRodHBjWGx3Nng5Y2tVWkd3cmNKV0RHNHBTNE16X2d4TGtLQQ?oc=5",
+      "data": "28/09 13:03"
     },
     {
       "titulo": "Morre Alcides Antunes, ex-vice de futebol do Fluminense - ge",
@@ -315,14 +259,19 @@
       "data": "27/09 18:53"
     },
     {
+      "titulo": "Em nota de pesar, Fluminense lamenta falecimento de Alcides Antunes, ex-vice de futebol tricolor - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2xTbUYxMHh4N3NjVWZuWHFBVTlPcXQ4TjUtdUg5Ym1faXNrZk9ZdXlMczVOaWZISnRoeUxxaFVGV2h2N09DVHhoM0c3UjgwYy00N05FOGl4bEJ2aVpPWnNDZER4eWJncXdfVDdHUzF1Sld1SmlMa044d3pZeWZDMTJjTXFYOG94Y1VWdVl5OTJjemlMa3JtbU5zMVdXZUdIMnAyVkVuQ2FyOGFSbVRwYkd2S3dnMUp5b2s1aG5B?oc=5",
+      "data": "26/09 23:25"
+    },
+    {
       "titulo": "Fluminense lamenta morte de ex-vice-presidente do clube - band.com.br",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVR3enlScEhYdHFSUmNXc2R1RUZPakhLVzhLQ0RsUzdReEstSnd2RUptc25IdXJSYkI0Nm9YQnRjYnFMMEtrckV6LURyc1ZndmVLQnZQbE9FSno2bXh4QTNuSXdzNWZud1BjN2RGbjJ2V011dkV5bE1JcFNEUExXREd0dURuSTY0Vm9zelhLOHY3bjZ0UC13S2FnUVM3eFZhN0xtMGwwbzZBaTVFbkpkQVptcw?oc=5",
       "data": "27/09 19:53"
     },
     {
-      "titulo": "Fluminense: veja como comprar ingressos contra o Flamengo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnNTYktXdzJ2bW1XaklwdVgyTi1qWVJpMWRQbXM2dnkxNk42MTctc2h4SWpzY0t4U29MZnNLU196Q2tjd0hEdW9LYUxXT2VXNXE1azIyWVBoblo5em5FQWRvS1dOU0txT2ozZmJKZHZyclZXRmpFZkJnUk81YjdKN1VETm8xQlBLV2dpYllRbE9NU1dmWHFXcXFRTmpHbGlfZTM0MDBsVnptSEVwblByT0wwak5oVlJiNU1EcDExN2M4aWdiRzFEdngwWEotaHNIS1hzaGZ3?oc=5",
-      "data": "28/09 20:00"
+      "titulo": "Fluminense corre risco de pagar por estoque de camisas de bets - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdlcyZkNpUlh4c1hvUjBmNXk2VXczT3lJVjcyT3hyMDZiQi1fTk1fOFBKX2x1bTdWdHNockVjdTBObWNuMjhKN3NEbkUzS2N1Q1ZiUk9RMTdqdS01Q0xKZmtYRzF1c2NrMEVpT0lGTi00eGxUT1doN3ZvZnhZV3lQa0hxcGF5LUwzOE5SRjBBd1lKM2hnTmhMeWdSbWwxaHE2c2xFeFBsT2plRms5YkJOYzE1ZTRrUGxhaHlOR1VhWERnd1d6VkFQQ0dQZ1pGRFVza0FWRWJKTEpWeVZuSE5aTmtIMGNrdldR?oc=5",
+      "data": "29/09 01:15"
     }
   ],
   "avisos": []
