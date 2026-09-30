@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "30/09/2026 03:32",
+  "atualizado_em": "30/09/2026 10:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -86,11 +86,51 @@
     {
       "sport": "futebol",
       "date": "2026-10-01",
+      "time": "07:45",
+      "competition": "Amistosos Seleções",
+      "match": "França Sub-19 x Turquia Sub-20",
+      "channels": [
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "11:00",
+      "competition": "Amistosos Seleções",
+      "match": "Faroe Islands U19 x Slovenia U19",
+      "channels": [
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
       "time": "13:00",
       "competition": "UEFA Nations League",
       "match": "Azerbaijão x Liechtenstein",
       "channels": [
         "ESPN 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Marrocos Sub-23 x Mali Sub-23",
+      "channels": [
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Brasil Sub-20 x USA Sub-20",
+      "channels": [
+        "DAZN"
       ]
     },
     {
@@ -121,7 +161,8 @@
       "competition": "UEFA Nations League",
       "match": "Alemanha x Sérvia",
       "channels": [
-        "SPORTV 3"
+        "SPORTV 3",
+        "GE TV"
       ]
     },
     {
@@ -272,31 +313,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 33.0,
-      "temp_min": 22.7,
+      "temp_max": 30.4,
+      "temp_min": 22.2,
       "chance_chuva": 20,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 29.8,
-      "temp_min": 22.1,
-      "chance_chuva": 18,
       "condicao": "Garoa forte"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 27.5,
+      "temp_min": 22.3,
+      "chance_chuva": 18,
+      "condicao": "Pancadas de chuva"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.9,
-      "temp_min": 20.0,
+      "temp_max": 29.1,
+      "temp_min": 19.8,
       "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 30.5,
-      "temp_min": 19.3,
+      "temp_max": 29.3,
+      "temp_min": 18.5,
       "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -306,25 +347,27 @@
       "data": "27/09 19:33"
     },
     {
-      "titulo": "Interminável: Fábio faz 46 anos em alto nível como ídolo do Fluminense e desafia os limites da longevidade - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOSlc5Zlh3RlhIcDIxaG9UbXp3dVFaaG1jWXJWc0dBamZRNzJXN3MwNHl0M2oyaHNVR0ZQckFnY1ZCUm9TUjJ6ajVOb3Q5Nk5HbWt0ZXBwSm5uQ3Y1azVicmh4bzlNczJwV3BTWm5fYlhEdEZGSzlOY2pRNlZ6U0dRMHQ0ZWtYU05Makc2ZGhpMUpPUUl5aGVOX3h6VHhUUFlxWFN4a2I5aUJwRVFOWi13d2tRei1waWRsWDVFcHVkak4wMzdBVVhYeFVrdElyUkZERGxZM09ZZklCdkhCQ1hXeDk3UndidTllVnFPNjN6dGczdUttUGM5WE5XdFVxZGNCMjN1SHd4bWs5cTdEaDBETtIBnwJBVV95cUxOd05RUlBwOHhTWnIzeElyZkZnZGZqb3FYeFZLWFJKc1A1TThGRFBYTVJVR0x4UnVWbXgwazZDS3BBWnJNUnJMd2ZaNTRsckJMTnRRRUJRQXJUQVc4dWxXZFh0M2pVWXVPUE9oQUNPYjM3dWYzNnozRmlPU3l1S1I0WlBzX1lYUW03UlBPMldCMXdGWUZ0SDY2ZVlMMnl3U2dra1hzY3VBdzcxUjVqWkdERk1CQkV6cTZLbWQ2SVFyNlhwMVdIbG9PSUM3VFpPSVJpOVE5c3JwMVVmamNZNzFhdWhwa0gzRW5pdm0zSTBmN3c1UlQ2eV9lR096MUNhT25PQTE5NWF1UHMySGRDN19ab2NEUGt5WVhvZXRoNlNWdw?oc=5",
-      "data": "30/09 05:00"
+      "titulo": "Fica ou sai? Diretoria do Fluminense muda avaliação sobre futuro de Ganso - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUdKV2d4UVVuSHh6U1ZPdjJHN1NsZGJzUmlBLW9FazdJdWpQV21zbDJxcVNIaFB3OWR4MU9EY2xnZWV1OFpCSGdvWmEtcVVCWUtSR3loeFBFYURoUWNTX29ZNmdNT0xBb2ZpandPSkV1Xy1yMjdQNnJPS0xxcEJTS3Y3aXlPWjdnSVZ2UkJVQndmaGxTeGdBVXlwakFEVTZS?oc=5",
+      "data": "30/09 12:00"
     },
     {
-      "titulo": "CBF se divide nos bastidores após fim das bets; Fluminense acompanha cenário - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRnlSclJoZU85NFcwVlVJWlJFUjJiOXhXWGVicGxRcUFsVzRSLWVxc0p5TmRCR25XNDNQZi1SNUNrWGcxeXlFa3JQWmpjVk1kMjJxSnE2MkZPalJxT1ZkdDlCQy1NVERXWmVQREk2UGxWWl9yQnExdFFaeGlKZGpNSDdXcThHTXdvQ1RfWA?oc=5",
-      "data": "30/09 02:00"
+      "titulo": "Rodrigo Castillo ganha nova chance para reagir no Fluminense - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2FKZlU2Nlo1aVhTSkZrSnlybU5kSGloU1V5Wm03U0N2Y3gxNTRLWXhmWmJtQVlKNUJNbllVQTZNdlRlWXE5NVgyRkdWTTZRTGUwZVplMHpkNGoxRVRxQ1k0dUE0NFNLeldIZGQzTzNuNmNjeURUNnltdm9RR1pLUmNNb0tQMWZzRDNHMy1fZEZNMXdWSEt1Q1hrTU1TUWFEdGhfODRySGZ4Wk1BN054MGpXdllfTWJOWjd1VmIxWkI0UW1idzY5R3ZpV0ZCLS1aaHpSOFZ5cnA5MURrQmZ6VEVuZTh6Zw?oc=5",
+      "data": "30/09 12:50"
     },
     {
-      "titulo": "Resumo do Dia: Retorno do Fluminense aos treinos, estreia de Martinelli na Seleção, crise das bets (29/09) - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbWRxUUN1dWhBSklxdC1HTHVGZnJ1ZkxXREFBM3g2NXZmMGE4UDRCUWVXZDlONUpOeGtQbk1kTWZIRjV0b0h0ekJ0eHUzN2pjUE4xY3Y1MTZ0VzViclZ2eWc2QldMcFR5WEVjZUFvczhheW9MeFBwTlhhWVllSWdMNWl4bzFSd0VhM0FnNXJNY2t6b3FDSUxuY1JMa0lTTGJRaWNuSFZNU2o0dw?oc=5",
-      "data": "30/09 02:12"
+      "titulo": "Com elenco quase completo, Fluminense se reapresenta após período de folga na Data Fifa - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc3JFaU1mZENWaWZNd0l4NDktcGNDa1Y4LVRQRmRKNWZsdjF6dTIxa1V4Slg1TXpQbC1lZUVrZDRhc0ZPR3FaUGVPcDQ3QjUtdE03YnFEaEZxVGV3eXJtZC12VGltelBxTkVOa3hnTlBlaTlGT1g2MVQwYjVFOXhrR3ZGanNXczRzOVRvMVAweWt4dm5iU0t4RWtfTnNEdUJWbi0xNHlXaDhZTmZ6SV8wZDl2VlRQUzFNLTlUWGJMdEd0Q29NZU5nSEk4UjNJWEY4MFdQTlNLOEQ1eGtfRHh5UFVqcWVEbEQ2b3V6cS1B0gH8AUFVX3lxTE1xTms5aEpOeVhDclFIZGxjRDJSMUE4TG9uRjRXZmpwaGRESUkxbnpfYzF4aXF5VGpFWmJ1QzRwYWlwSWJTNmoxTENlQnh6R2hTUzRla2xkaDJvcVA3Nmo5VHdoR3gzTVNVTUptQjZEY0poWllBYVY2Y3NPMDdONmo0bUdrNmNzazB4R1o0TFBEQkU1QVFUUGpfSDlCU0FDY2lCSEhZQThjcGN2b3VvSmRxZm5TMGRCd2JZX2dleVVVWW8zVm1hRUdScDlxZXlJZU5lQ0VCZzZrdWE5SmRFdHhtUWpZYXJpR2djbU5MMHo2X3BodXZidmg5LUVDWg?oc=5",
+      "data": "29/09 22:17"
     },
     {
-      "titulo": "Novo gramado do Maracanã terá 'maratona' da dupla Fla-Flu - lance.com.br",
+      "titulo": "Novo gramado do Maracanã terá 'maratona' da dupla Fla-Flu - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOejhGb2EzSDJkejJUQUVqUzJkaDVYQTdCMXgwd0ZVVDBTOWZTVVlFNjhmRExsX1JuaThIY2dGTW9XMjhNb0xWNmJEczNCWVRvai1SM1NhTUVKUE05QzlCQzNUY3p1RmMweXJ2cFBvYW5VdEt0V21pQWJrY3F6dkJLdzVmNkVMaHA0TDRDLVhaZ1ZqSHc0RGpRNUdUNWttZ0Z5WlAtNDJJMU9rZXR1am5ySzFkNjdEYVk0WXpZUzR2b2hNQW9BUVFnUjJuZ1VKZjQ2R1pV?oc=5",
       "data": "29/09 08:30"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+  ]
 }
