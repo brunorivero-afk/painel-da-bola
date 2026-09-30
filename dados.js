@@ -1,36 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/09/2026 18:13",
+  "atualizado_em": "29/09/2026 21:59",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-29",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "US Virgin Islands x Bahamas",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-29",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Ponte Preta",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-29",
-      "time": "20:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Anguilla x Aruba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-29",
@@ -110,6 +80,36 @@ window.PAINEL_DATA = {
       "time": "16:00",
       "competition": "CONCACAF Nations League",
       "match": "British Virgin Islands x Turks and Caicos Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-29",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "US Virgin Islands x Bahamas",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-29",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Ponte Preta",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-29",
+      "time": "20:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Anguilla x Aruba",
       "channels": [
         "YOUTUBE"
       ]
@@ -199,16 +199,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-09-29",
-      "time": "19:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Pinheiros x Sesi-Bauru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-09-29",
       "time": "19:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Fluminense x Praia Clube",
@@ -223,7 +213,7 @@ window.PAINEL_DATA = {
       "temp_max": 29.0,
       "temp_min": 21.8,
       "chance_chuva": 86,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
@@ -234,10 +224,10 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.1,
+      "temp_max": 27.5,
       "temp_min": 18.1,
       "chance_chuva": 78,
-      "condicao": "Garoa fraca"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
@@ -249,29 +239,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Flamengo x Fluminense - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQlV1TUVUWWFTLTkxWlFOdlNYby0wdU1VV2VFdDRzcU41SXdGX0lOZWFtaDlFZVVrcS0weXlOa3Y5dVdrUTJoT1d5YzFfbFgzLTByZUJacFgzRzFSUkYzS055ZmpyeXQyOGN2Y05kX3dIVHk0QmxwRXFHbkRYUEh3S3BzTzJqWVBtRjVpME9iRUFVMzdjbEt4OHdBU1RGSkxiVEZNYUhRdHlfUQ?oc=5",
-      "data": "28/09 14:35"
-    },
-    {
-      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - iG Esportes",
+      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - esporte.ig.com.br",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDgxTXlrbGcxQXNJOFZwMmp3UDVOSGJTbUY5MUx5SlR0MGhTY3gzNzMtQjZPZ1ZBOTlFY2xiUnVSRHpJc3hjb2t1TWhsamRKdTVhUF9qWjFpbklFdnY2YVFRZW5lUnhQT013V0dpWHRGcGl3REgtTDFfWDhMbTktUUlvQlR2WElkcVlmeVVoQ21HMVRtMm1XazlOdnZnbXVXR0pkSENINnBQZDh0T1lKNlhKTkNCWmfSAbwBQVVfeXFMTTJTLS1NY1pVYWN0YXBxRDhFdFFkY2xCeUU5U2g1M1NJU1lUV0lmZ1RBcHgzSXdHbDhsdndHWEowZEFpaERXakhPLTkyd0hybmdsMzRRNlpQVk11OXUtRUxlRVROVHhxRUc3VDFXcnFGaU1OY19BNldWYXN2YTduUDktYkNNZS1qQWpEUWdsbGltS1hENGh0ZnBhUFJoRnNIVURMOFh5ZUZ4ckJHLUx0XzRxREdlbmJvLWVneDI?oc=5",
       "data": "27/09 19:33"
     },
     {
-      "titulo": "Flamengo x Fluminense: venda de ingressos para tricolores é aberta; veja preços e como comprar - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbnNTYktXdzJ2bW1XaklwdVgyTi1qWVJpMWRQbXM2dnkxNk42MTctc2h4SWpzY0t4U29MZnNLU196Q2tjd0hEdW9LYUxXT2VXNXE1azIyWVBoblo5em5FQWRvS1dOU0txT2ozZmJKZHZyclZXRmpFZkJnUk81YjdKN1VETm8xQlBLV2dpYllRbE9NU1dmWHFXcXFRTmpHbGlfZTM0MDBsVnptSEVwblByT0wwak5oVlJiNU1EcDExN2M4aWdiRzFEdngwWEotaHNIS1hzaGZ3?oc=5",
-      "data": "28/09 20:00"
+      "titulo": "Conheça promessas do Fluminense que podem ser observadas por Marcão nessa Data Fifa - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVVRidE14dXg3SnNEdHVUMXZTMjQ5YlVJaEp3U3lSMjZueGphRG1ORTl2SHFUV1FUeDd1c3BkMEZsTXRqQVlLSXM0YzhoVmNHUHB4NnJBeUVaVVZpN1BFWUdTa2kxWVF0cTMzajNzcDM2UkZVeEx2M0Jka2xsMy1xZDIwR0dZU0VZSG4ydUZ0VFFpb3BOQ3ZqZlk1OXYtSDl5MzBMeC10MkhKa2ZEOHg0bXFiT21FTHUxYVJvR3A0R19oQ1VNSHltakt3VkZGYUlOTUJvWHlHQy13aVpaamdPd2FwNDh4ci1waXfSAfgBQVVfeXFMTTlFSjltc1dadFU5NGJmZW5zLTNqcGhXaWZONnJtZGJOTzR4X0tyTTU3clJRVmdCd2EyZURsQUJVelYzLUFaTUowcHFSSFdJRE1BT3VWQ2V6YUwteHFjUTcwUGRPMVBSZmtRUE5KdEZlNVc4a3VQQzNPS0VIRmtGbXpvQ0JGYktLUl9qcy1zcjBubGdyWmM0Smt2OTBaSENMTkpXVEcza0F2QndHOXJkbmt2MlY0OUxrMnhFd2k2NGdiX2FXNmhwek0tYXV6WTlEZS1jdTBPU24wMExBMGViZUNEUUZiSGU0a0xoYmU2aHp5NXdheHBoM1U?oc=5",
+      "data": "29/09 07:00"
     },
     {
-      "titulo": "Novo gramado do Maracanã terá 'maratona' da dupla Fla-Flu - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOejhGb2EzSDJkejJUQUVqUzJkaDVYQTdCMXgwd0ZVVDBTOWZTVVlFNjhmRExsX1JuaThIY2dGTW9XMjhNb0xWNmJEczNCWVRvai1SM1NhTUVKUE05QzlCQzNUY3p1RmMweXJ2cFBvYW5VdEt0V21pQWJrY3F6dkJLdzVmNkVMaHA0TDRDLVhaZ1ZqSHc0RGpRNUdUNWttZ0Z5WlAtNDJJMU9rZXR1am5ySzFkNjdEYVk0WXpZUzR2b2hNQW9BUVFnUjJuZ1VKZjQ2R1pV?oc=5",
-      "data": "29/09 08:30"
+      "titulo": "Com elenco quase completo, Fluminense se reapresenta após período de folga na Data Fifa - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc3JFaU1mZENWaWZNd0l4NDktcGNDa1Y4LVRQRmRKNWZsdjF6dTIxa1V4Slg1TXpQbC1lZUVrZDRhc0ZPR3FaUGVPcDQ3QjUtdE03YnFEaEZxVGV3eXJtZC12VGltelBxTkVOa3hnTlBlaTlGT1g2MVQwYjVFOXhrR3ZGanNXczRzOVRvMVAweWt4dm5iU0t4RWtfTnNEdUJWbi0xNHlXaDhZTmZ6SV8wZDl2VlRQUzFNLTlUWGJMdEd0Q29NZU5nSEk4UjNJWEY4MFdQTlNLOEQ1eGtfRHh5UFVqcWVEbEQ2b3V6cS1B0gH8AUFVX3lxTE1xTms5aEpOeVhDclFIZGxjRDJSMUE4TG9uRjRXZmpwaGRESUkxbnpfYzF4aXF5VGpFWmJ1QzRwYWlwSWJTNmoxTENlQnh6R2hTUzRla2xkaDJvcVA3Nmo5VHdoR3gzTVNVTUptQjZEY0poWllBYVY2Y3NPMDdONmo0bUdrNmNzazB4R1o0TFBEQkU1QVFUUGpfSDlCU0FDY2lCSEhZQThjcGN2b3VvSmRxZm5TMGRCd2JZX2dleVVVWW8zVm1hRUdScDlxZXlJZU5lQ0VCZzZrdWE5SmRFdHhtUWpZYXJpR2djbU5MMHo2X3BodXZidmg5LUVDWg?oc=5",
+      "data": "29/09 22:17"
     },
     {
-      "titulo": "Fluminense se apoia em números expressivos no Maracanã na Libertadores - Correio Braziliense",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeGZGZ3JkRzFEVzg2NXFzRHRtSlZENy04ZFJLbFNUTzRudHhFZmpzSXFodFNfaUl5TUVIMXpwNksyQ0Rqd181anRiUVltZHRLelJBUUxLMHZjeWRGRjM1Y3F0cnFtZV9PYTBqSVdSOWUzcU9sTjFDWnlmOVVxRnk5MDJqSmRad0tQOUhVN3Q2TldXVHJoSHBEd1lhcjNWaklZYUxSM3Y4UlZESTFwWUh6bFZ0R0RDeHZBSl9MSFIyYXpVZHBHUFVFeW9yclozQkpHRWF3U9IB2gFBVV95cUxOVXpCNnJHVmp2cGE4S21uUDhNRU1neHdkT0lhbC1MRFJUMlpjVERWLVNMMUlsTFd5bGFzbDVvVnlOMGlQM1BBaUxfTEdXMWdNNzFyeVFPZVhuSmpIb1pZRGN5bWRvczJyZy1qNHgyZkUzSzJHMm5uaXpzS1laQVB0cERab3dnOUJEdVhlRlpvbGVGQjRkd012R3RqSzZMUWwyemRSckJycGdadXFkb2VueDM2bFpRRFZ2bHpsb0doSVppRE9SVXlhTVFYNXVKUkIxZEdtdHp3QmY2Zw?oc=5",
-      "data": "29/09 18:43"
+      "titulo": "Hércules oscila, e tenta recuperar melhor forma em Data Fifa - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDJ0ZEFQazNCdWtoeWZ6ZFh4U3owaGxfZlpoS2xEMGVUR3dPWFludmlQaFBDbzRKY3hFbnZOVlY5OGtyeXgwbXp5VHUzNjJEZmpUbVBLTklkdzJvSVY3eUZZWmdtTXRxcVhoQVZ5UGdXWEdydWFIQjJiMDh1WkJ4NS1leFFiYUpBMk5TLXpaYnZwcWoxT1lTcEtHRHYyM0VfVmFCcGJ0eFZnV1pnQThEWnF6Z01LaVVzaG9MTGZlc9IBxAFBVV95cUxQSF9ucjgwWTZobXZWUTlnWEZHS2VHcUItSVB4M2NYRnM5TFZhajJUeWNkU3JKam0yYVd3ZmdnZjI4d212TkNPZ041YjgxM0FXa2JtTmdNNkpveWhrTEIwUGVkMzRpcE1vUThRTl9IdE42NlVJaW9fV1ZuQ2ZnX2tDNUNQWWNwWTc3b21ZY1BLTzNqMUJtakJQbWZjU2NHZXNtRTZ2QjJ4X3dlWVhlTDRpNEg1RzlTMHNIZ3BvV0h0R0tzeXlR?oc=5",
+      "data": "28/09 10:30"
+    },
+    {
+      "titulo": "Fluminense pode recuperar Mundial após punição ao Manchester City? Entenda - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1c5N2M3Nll2YUlKclhVUXpjVlNPWFUzczlmeXhncnlVNzNYektodkFub0U4Y2J0VTVwTnBxRXMxZFdIUHFha0dwaktzMUFiTEp5RFRqT0tCTWxrSzNxbVM5VXVIRzFGdXdQaWFvRXpxV1QtSUNIb2dtMC1WdzE2QWhvb0tLQnNfQWVQN2d5RXczWGs?oc=5",
+      "data": "30/09 00:10"
     }
   ],
   "avisos": []
