@@ -1,37 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "30/09/2026 10:17",
+  "atualizado_em": "30/09/2026 15:47",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Paris FC (F) x Arsenal (F)",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Roma (F) x Barcelona (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Hacken x Juventus (F)",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-30",
@@ -81,6 +50,37 @@ window.PAINEL_DATA = {
       "match": "Argentina x Bolívia",
       "channels": [
         "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Paris FC (F) x Arsenal (F)",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Roma (F) x Barcelona (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Hacken x Juventus (F)",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -315,21 +315,21 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 30.4,
       "temp_min": 22.2,
-      "chance_chuva": 20,
+      "chance_chuva": 29,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
       "temp_max": 27.5,
       "temp_min": 22.3,
-      "chance_chuva": 18,
+      "chance_chuva": 22,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 29.1,
       "temp_min": 19.8,
-      "chance_chuva": 100,
+      "chance_chuva": 98,
       "condicao": "Trovoada"
     },
     {
@@ -342,29 +342,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - iG Esportes",
+      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - esporte.ig.com.br",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDgxTXlrbGcxQXNJOFZwMmp3UDVOSGJTbUY5MUx5SlR0MGhTY3gzNzMtQjZPZ1ZBOTlFY2xiUnVSRHpJc3hjb2t1TWhsamRKdTVhUF9qWjFpbklFdnY2YVFRZW5lUnhQT013V0dpWHRGcGl3REgtTDFfWDhMbTktUUlvQlR2WElkcVlmeVVoQ21HMVRtMm1XazlOdnZnbXVXR0pkSENINnBQZDh0T1lKNlhKTkNCWmfSAbwBQVVfeXFMTTJTLS1NY1pVYWN0YXBxRDhFdFFkY2xCeUU5U2g1M1NJU1lUV0lmZ1RBcHgzSXdHbDhsdndHWEowZEFpaERXakhPLTkyd0hybmdsMzRRNlpQVk11OXUtRUxlRVROVHhxRUc3VDFXcnFGaU1OY19BNldWYXN2YTduUDktYkNNZS1qQWpEUWdsbGltS1hENGh0ZnBhUFJoRnNIVURMOFh5ZUZ4ckJHLUx0XzRxREdlbmJvLWVneDI?oc=5",
       "data": "27/09 19:33"
     },
     {
-      "titulo": "Fica ou sai? Diretoria do Fluminense muda avaliação sobre futuro de Ganso - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUdKV2d4UVVuSHh6U1ZPdjJHN1NsZGJzUmlBLW9FazdJdWpQV21zbDJxcVNIaFB3OWR4MU9EY2xnZWV1OFpCSGdvWmEtcVVCWUtSR3loeFBFYURoUWNTX29ZNmdNT0xBb2ZpandPSkV1Xy1yMjdQNnJPS0xxcEJTS3Y3aXlPWjdnSVZ2UkJVQndmaGxTeGdBVXlwakFEVTZS?oc=5",
-      "data": "30/09 12:00"
+      "titulo": "Trio quarentão do Fluminense desafia o tempo: o que explica a longevidade de Fábio, Thiago Silva e Hulk? - ge",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMjdfOE94RE11T09VX2VJRDY0Y2lKM2hNT0Frbmppa19aVmFOaUQ1ZVBZU0RfVnZkVUVCTWpVQ19CZ2ExVEFlRDA0NWZwczBzMnNEOUg3WUJjVVlCREFNZmNGRzM2ZDB2VktRNlJyMmxudWNWNlU4dGFPVENmbmF1SjVxQnduSjZodnJ5d2NzWTZ3c2FrYW5yMEZjZXluZVBHWUQ5WU9kWmktM2Qxem9GVmVNM1FhUmo1a2hqcGpPNm9GUVRCNEFiWE1rcTRwRlhzUnRnUnFPcmI1cHVRZ0V4OTRpQ2NhelBhNHp1dHpVM1B5MGVEa25wRGVycFV6SG9Fa3fSAZACQVVfeXFMTXRjbm9Vby14WVNaM2Q3RmM4aHZ0d2dQTHlEaW1MR1pfQVg4ZDVOQ3B1bEFzTlA4b0d0NzFzMERsbVB5dzZjY1UzM292eHB6UFRfT1JaRllwNjIwRXZQR2pPOElUaWNoeTA2R3E5NFhvTDZBWjJHbEhRNFRmS3hQcnlHLUo2MmRSV2dvaHdDLVhZNzJVaUMyVnFLYVJoRE8zT2V0MFFuWnhjX2twZlNjUC0tZFNTY0xCYVpHc1NHUktBUUZHenZsd1o4TlNJc2duUGYzcXBuYzlmdklla0RlejRueGRSSkIzY1RxZEpBSVZKVUE3VWJSOXloeWNacmMzZDFYeVhxZjlRVXRCZkFJOUs?oc=5",
+      "data": "30/09 18:12"
     },
     {
-      "titulo": "Rodrigo Castillo ganha nova chance para reagir no Fluminense - terra.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2FKZlU2Nlo1aVhTSkZrSnlybU5kSGloU1V5Wm03U0N2Y3gxNTRLWXhmWmJtQVlKNUJNbllVQTZNdlRlWXE5NVgyRkdWTTZRTGUwZVplMHpkNGoxRVRxQ1k0dUE0NFNLeldIZGQzTzNuNmNjeURUNnltdm9RR1pLUmNNb0tQMWZzRDNHMy1fZEZNMXdWSEt1Q1hrTU1TUWFEdGhfODRySGZ4Wk1BN054MGpXdllfTWJOWjd1VmIxWkI0UW1idzY5R3ZpV0ZCLS1aaHpSOFZ5cnA5MURrQmZ6VEVuZTh6Zw?oc=5",
-      "data": "30/09 12:50"
+      "titulo": "Por que Fábio, do Fluminense, nunca jogou pela Seleção? - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdTdXLXRJdG9sWG5UUUFwUWEtOUhPSmphTk01UnRoQXVuanRFNUE5TDl2UW5xY2R1aWdDZ0g0NFFNeFZ4NlpRYlpBQjVUNzREbnF3VkVHSkt4T1NiT1dvSlJfVkw2bmdWZUIwNjlDQmxBblQ3MU5DcS01MjBrdmkwTHZFTFhfM0duSElOeVJUZVlGcTRIUXV6RktpenIxbVYtc2J0ME9NcXZKOElKLURzdHBB?oc=5",
+      "data": "30/09 17:08"
     },
     {
-      "titulo": "Com elenco quase completo, Fluminense se reapresenta após período de folga na Data Fifa - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc3JFaU1mZENWaWZNd0l4NDktcGNDa1Y4LVRQRmRKNWZsdjF6dTIxa1V4Slg1TXpQbC1lZUVrZDRhc0ZPR3FaUGVPcDQ3QjUtdE03YnFEaEZxVGV3eXJtZC12VGltelBxTkVOa3hnTlBlaTlGT1g2MVQwYjVFOXhrR3ZGanNXczRzOVRvMVAweWt4dm5iU0t4RWtfTnNEdUJWbi0xNHlXaDhZTmZ6SV8wZDl2VlRQUzFNLTlUWGJMdEd0Q29NZU5nSEk4UjNJWEY4MFdQTlNLOEQ1eGtfRHh5UFVqcWVEbEQ2b3V6cS1B0gH8AUFVX3lxTE1xTms5aEpOeVhDclFIZGxjRDJSMUE4TG9uRjRXZmpwaGRESUkxbnpfYzF4aXF5VGpFWmJ1QzRwYWlwSWJTNmoxTENlQnh6R2hTUzRla2xkaDJvcVA3Nmo5VHdoR3gzTVNVTUptQjZEY0poWllBYVY2Y3NPMDdONmo0bUdrNmNzazB4R1o0TFBEQkU1QVFUUGpfSDlCU0FDY2lCSEhZQThjcGN2b3VvSmRxZm5TMGRCd2JZX2dleVVVWW8zVm1hRUdScDlxZXlJZU5lQ0VCZzZrdWE5SmRFdHhtUWpZYXJpR2djbU5MMHo2X3BodXZidmg5LUVDWg?oc=5",
-      "data": "29/09 22:17"
+      "titulo": "Fluminense traça passos para definir em breve futuro de Ganso - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSWZJVTBOV0x2Nno3M0hJXzA0eE5YOGlnUU1GczA5cnBTMmV3SkdLenZneV8wa0dYRmdlU2psSlQwVGdvNVk5TUl4eXAtU2xqNEtYOWVMZUNsNE1kanVON2tFWnhWR21vSkRsYXZQZ2Q1SjFOOEZDT2VFWGota1E1MVROOXo0VHRQRkp3VnZ5MXlXbnV5ejJNVE1WNlhtZ2kxcjlpS2JBamJOY0pRZk9YS3NOR3RQRUxoMUlObG82bkRmSHR1MlBHNWFnMV9FMXU4SncyXzRBM1c4bTFTRFNiNHU4cy0wQQ?oc=5",
+      "data": "30/09 14:47"
     },
     {
-      "titulo": "Novo gramado do Maracanã terá 'maratona' da dupla Fla-Flu - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOejhGb2EzSDJkejJUQUVqUzJkaDVYQTdCMXgwd0ZVVDBTOWZTVVlFNjhmRExsX1JuaThIY2dGTW9XMjhNb0xWNmJEczNCWVRvai1SM1NhTUVKUE05QzlCQzNUY3p1RmMweXJ2cFBvYW5VdEt0V21pQWJrY3F6dkJLdzVmNkVMaHA0TDRDLVhaZ1ZqSHc0RGpRNUdUNWttZ0Z5WlAtNDJJMU9rZXR1am5ySzFkNjdEYVk0WXpZUzR2b2hNQW9BUVFnUjJuZ1VKZjQ2R1pV?oc=5",
-      "data": "29/09 08:30"
+      "titulo": "Nova lei do futebol feminino muda regras para clubes; Fluminense também será impactado - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmhSX0QwZExEcUlFSS1ELWR0U29qQlcyS084UGtEMFplQjFlcTlOQjlwNzRvOThOcS1xMTUtc3ZHc1R0dUhwUVlSdk41SHZEYUpTSFdGN2JVRi1mZExDbVoweW1WWXhQdG9pRWZBN29rTFItMVo4Z1k0bTBGTTlvTEkxbnB4dHdZaEdpTlhqeFgtNGF0?oc=5",
+      "data": "30/09 02:32"
     }
   ],
   "avisos": [
