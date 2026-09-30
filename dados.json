@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "30/09/2026 15:47",
+  "atualizado_em": "30/09/2026 19:47",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "Lyon (F) x Chelsea (F)",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "SL Benfica x Bayern Munich (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-09-30",
@@ -80,6 +59,27 @@
       "competition": "Champions League Feminina",
       "match": "Hacken x Juventus (F)",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "competition": "Champions League Feminina",
+      "match": "Lyon (F) x Chelsea (F)",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "competition": "Champions League Feminina",
+      "match": "SL Benfica x Bayern Munich (F)",
+      "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -313,36 +313,36 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.4,
+      "temp_max": 30.7,
       "temp_min": 22.2,
       "chance_chuva": 29,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.5,
+      "temp_max": 28.0,
       "temp_min": 22.3,
       "chance_chuva": 22,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.1,
+      "temp_max": 28.3,
       "temp_min": 19.8,
       "chance_chuva": 98,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.3,
+      "temp_max": 29.5,
       "temp_min": 18.5,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - esporte.ig.com.br",
+      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - iG Esportes",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDgxTXlrbGcxQXNJOFZwMmp3UDVOSGJTbUY5MUx5SlR0MGhTY3gzNzMtQjZPZ1ZBOTlFY2xiUnVSRHpJc3hjb2t1TWhsamRKdTVhUF9qWjFpbklFdnY2YVFRZW5lUnhQT013V0dpWHRGcGl3REgtTDFfWDhMbTktUUlvQlR2WElkcVlmeVVoQ21HMVRtMm1XazlOdnZnbXVXR0pkSENINnBQZDh0T1lKNlhKTkNCWmfSAbwBQVVfeXFMTTJTLS1NY1pVYWN0YXBxRDhFdFFkY2xCeUU5U2g1M1NJU1lUV0lmZ1RBcHgzSXdHbDhsdndHWEowZEFpaERXakhPLTkyd0hybmdsMzRRNlpQVk11OXUtRUxlRVROVHhxRUc3VDFXcnFGaU1OY19BNldWYXN2YTduUDktYkNNZS1qQWpEUWdsbGltS1hENGh0ZnBhUFJoRnNIVURMOFh5ZUZ4ckJHLUx0XzRxREdlbmJvLWVneDI?oc=5",
       "data": "27/09 19:33"
     },
@@ -352,19 +352,19 @@
       "data": "30/09 18:12"
     },
     {
-      "titulo": "Por que Fábio, do Fluminense, nunca jogou pela Seleção? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdTdXLXRJdG9sWG5UUUFwUWEtOUhPSmphTk01UnRoQXVuanRFNUE5TDl2UW5xY2R1aWdDZ0g0NFFNeFZ4NlpRYlpBQjVUNzREbnF3VkVHSkt4T1NiT1dvSlJfVkw2bmdWZUIwNjlDQmxBblQ3MU5DcS01MjBrdmkwTHZFTFhfM0duSElOeVJUZVlGcTRIUXV6RktpenIxbVYtc2J0ME9NcXZKOElKLURzdHBB?oc=5",
-      "data": "30/09 17:08"
+      "titulo": "Clubes começam a retirar marcas de bets após nova MP; Fluminense ainda não definiu próximos passos - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUNFSEdhYXdJbVA5MVM5X25iZVV4blpKTno5WDlIcEJ2QmlFdVZuS0ZDcm9taWU2c1pDN1dsZVVzM3BGZ2d4NW1kLWhMOW50TVdkT2V2SVFDQTN0LW9ZcnpBaEZ5eUFZZmJZVENqbm5UTUNRUHVjbzVjTktVT2JLOE1ETGNiZDRlTjJoa1JRSzJGa0ZI?oc=5",
+      "data": "30/09 21:53"
     },
     {
-      "titulo": "Fluminense traça passos para definir em breve futuro de Ganso - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSWZJVTBOV0x2Nno3M0hJXzA0eE5YOGlnUU1GczA5cnBTMmV3SkdLenZneV8wa0dYRmdlU2psSlQwVGdvNVk5TUl4eXAtU2xqNEtYOWVMZUNsNE1kanVON2tFWnhWR21vSkRsYXZQZ2Q1SjFOOEZDT2VFWGota1E1MVROOXo0VHRQRkp3VnZ5MXlXbnV5ejJNVE1WNlhtZ2kxcjlpS2JBamJOY0pRZk9YS3NOR3RQRUxoMUlObG82bkRmSHR1MlBHNWFnMV9FMXU4SncyXzRBM1c4bTFTRFNiNHU4cy0wQQ?oc=5",
-      "data": "30/09 14:47"
+      "titulo": "Fluminense promove aulão sobre estereótipos na Mangueira - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEYwTTF2Z04tV2MxcUxwMDNKUFRwQ09BdGhoV1Z0WDc4Q2RzaDZoWGJjZVBFZW1sUTV6U3VvX2FXMlpYVFEtS1Q4bENUR0R2VjhnQ1daS1gyaVplbFEyM1hqVURjUHJBNkJPYVI3UUxzblVGTDN0UER4S3RxbjAwOVhjMEM2dlFWTFlMRG81dmpYX0lEb3R6LVFB?oc=5",
+      "data": "30/09 14:28"
     },
     {
-      "titulo": "Nova lei do futebol feminino muda regras para clubes; Fluminense também será impactado - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmhSX0QwZExEcUlFSS1ELWR0U29qQlcyS084UGtEMFplQjFlcTlOQjlwNzRvOThOcS1xMTUtc3ZHc1R0dUhwUVlSdk41SHZEYUpTSFdGN2JVRi1mZExDbVoweW1WWXhQdG9pRWZBN29rTFItMVo4Z1k0bTBGTTlvTEkxbnB4dHdZaEdpTlhqeFgtNGF0?oc=5",
-      "data": "30/09 02:32"
+      "titulo": "Rodrigo Castillo ganha nova chance para reagir no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2FKZlU2Nlo1aVhTSkZrSnlybU5kSGloU1V5Wm03U0N2Y3gxNTRLWXhmWmJtQVlKNUJNbllVQTZNdlRlWXE5NVgyRkdWTTZRTGUwZVplMHpkNGoxRVRxQ1k0dUE0NFNLeldIZGQzTzNuNmNjeURUNnltdm9RR1pLUmNNb0tQMWZzRDNHMy1fZEZNMXdWSEt1Q1hrTU1TUWFEdGhfODRySGZ4Wk1BN054MGpXdllfTWJOWjd1VmIxWkI0UW1idzY5R3ZpV0ZCLS1aaHpSOFZ5cnA5MURrQmZ6VEVuZTh6Zw?oc=5",
+      "data": "30/09 12:50"
     }
   ],
   "avisos": [
