@@ -1,88 +1,6 @@
 {
-  "atualizado_em": "30/09/2026 22:46",
+  "atualizado_em": "01/10/2026 05:13",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "21:00",
-      "competition": "Amistosos Seleções",
-      "match": "Argentina x Bolívia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Paris FC (F) x Arsenal (F)",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Roma (F) x Barcelona (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Hacken x Juventus (F)",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "Lyon (F) x Chelsea (F)",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "SL Benfica x Bayern Munich (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-09-30",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x St. Louis City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-01",
@@ -300,6 +218,193 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Chipre x Armenia",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Letônia x Montenegro",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Bélgica x Turquia",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "França x Itália",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Polônia x Romênia",
+      "channels": [
+        "ESPN 4"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Hungria x Georgia",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Ucrânia x Irlanda do Norte",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "St. Lucia x Guadeloupe",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "18:00",
+      "competition": "CONCACAF Nations League",
+      "match": "São Cristóvão e Névis x Cuba",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "19:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Suriname x Guatemala",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x CRB",
+      "channels": [
+        "PREMIERE 2",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "São Paulo x Santos",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x Criciúma",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "20:45",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x Operário-PR",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Barbados x Bermuda",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "21:30",
+      "competition": "Campeonato Argentino",
+      "match": "Boca Juniors x Union Santa Fe",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "21:35",
+      "competition": "Brasileirão Série B",
+      "match": "Fortaleza x Náutico",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "23:00",
+      "competition": "CONCACAF Nations League",
+      "match": "El Salvador x Jamaica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
       "sport": "volei",
       "date": "2026-09-30",
       "time": "19:40",
@@ -313,58 +418,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.7,
-      "temp_min": 22.2,
-      "chance_chuva": 29,
-      "condicao": "Garoa forte"
+      "temp_max": 29.0,
+      "temp_min": 22.3,
+      "chance_chuva": 82,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.0,
-      "temp_min": 22.3,
-      "chance_chuva": 22,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 30.2,
+      "temp_min": 22.4,
+      "chance_chuva": 79,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.3,
-      "temp_min": 19.8,
-      "chance_chuva": 98,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 28.8,
+      "temp_min": 19.2,
+      "chance_chuva": 100,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.5,
-      "temp_min": 18.5,
+      "temp_max": 28.9,
+      "temp_min": 17.9,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Morre Alcides Antunes, ex-vice-presidente do Fluminense - iG Esportes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDgxTXlrbGcxQXNJOFZwMmp3UDVOSGJTbUY5MUx5SlR0MGhTY3gzNzMtQjZPZ1ZBOTlFY2xiUnVSRHpJc3hjb2t1TWhsamRKdTVhUF9qWjFpbklFdnY2YVFRZW5lUnhQT013V0dpWHRGcGl3REgtTDFfWDhMbTktUUlvQlR2WElkcVlmeVVoQ21HMVRtMm1XazlOdnZnbXVXR0pkSENINnBQZDh0T1lKNlhKTkNCWmfSAbwBQVVfeXFMTTJTLS1NY1pVYWN0YXBxRDhFdFFkY2xCeUU5U2g1M1NJU1lUV0lmZ1RBcHgzSXdHbDhsdndHWEowZEFpaERXakhPLTkyd0hybmdsMzRRNlpQVk11OXUtRUxlRVROVHhxRUc3VDFXcnFGaU1OY19BNldWYXN2YTduUDktYkNNZS1qQWpEUWdsbGltS1hENGh0ZnBhUFJoRnNIVURMOFh5ZUZ4ckJHLUx0XzRxREdlbmJvLWVneDI?oc=5",
-      "data": "27/09 19:33"
+      "titulo": "Millán revela ajuda de estrangeiros do Fluminense em adaptação: \"Estão sempre à disposição\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWRLZnNHQ2NDU0M4SVFYUnRvR21CcE1yQW44R2xkd2pwREZaVlVMUjBiT2xFSU1qMUVjaVBxYTNyUDB3NnlBYW1HVF9JaGREOG1oNGt3YmoxdzlkUUZrdWNWV1Z3QVN6eTh2ZXdiTmhXWnpmRDNTVExVT0hjTVdyRTg3TGh3clBwYTZ5N25HRWNPS01pS3FVR1lpbFBHVDgxRjFJRV9RdzRIbGl6UUJWcEIybTRpM1JIdE1NTmNQRXpWcjJnMEZwcEMxeWNhWjZMR2cxUURReUtxYU5GUk13RVUwS2h6QXZxX0c5N29mZ27SAf8BQVVfeXFMUEcxRnBHbDFqYjhnUHNWNUhrYVh6U0pVMUN4LWtZZmNyaFVHT1ZHME8yenRzVGRjSnFtcTh3ZVUxZDZEM3ZHTUlWWGlBUE5IVmRVWHpqZkRDUVJWY1ZzS0RZNkZ5eGRab1BiZUIxdXRNa1kyak53Q3k3NmN5MGhBcEJZVWxlYThERGhZUlFqN2MzREVhOEd6TDFuMk96ODFUb3Q2RGxwTXd4emtqNHlWM2FFalBFOGhUZXg1NjJqVVVHd3VFQVo1SmNnUVZjSHZySFYyTHNHQkFyRHRia1JqTXNBS1o0RWQ2UklRd3NRTldiVU1SUFE5NFhZT045RGkw?oc=5",
+      "data": "01/10 07:00"
     },
     {
-      "titulo": "Fábio foge de corredor polonês em treino do Fluminense e brinca com idade: \"Acho que fiquei mais rápido\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZ1ptcTMxSGZZcDB5ejV2NC0yUXRpeTg5Qnd4dXNpa0hsZzZzVjZuNm8zZnkwd2dFLS1KUHdTS2labmtzMm1yeUNLZkg3YVplT00wbXhEYjZ2N1NtaGJ1UFdyWE83NmI2bFZhUWQ4c2t6Z0pFRkVBRmwwNVB1clVvUWsyUlM1eHpuMlZkNGdrMkEyQjdlRmZvQmhtejRteGxOenEtaS1vU01XejkzaVZOUzRDdmRJbjhvODZLcGI2S0dHaDdLYjBtSVJBNG5uMUN1Um1JMjRaZGZ2aktGc0VRdjdkRVdpXzJrQWQ2a3gzaDdqTFpkSVIzREVGQnE0a0xMTFHSAZACQVVfeXFMUFlIT3JYdy1vRlpCRXdhXzFGamNSV2lRcEVwbXl5T3F1cHpLSkZsTENPRHo1ckFxSXd3Vkt3bGtURFFjcjJoWHBZbXJpZGZvUzItV3lGLTdNRXVfNUJiLW9WRTlOZTU2eklNM1VWR1Y1NUQycEdwSUN5a05WWXY1TTFYSGlsdUo5ZHphekhQcXdoUnBWUXYtbUJncTFLTzVfZHEwdnY2dFU2dkpVeEVkU1FGcWFSQzdkY3otcjVyUG9GakYzRDlhS29sb19hMW5BWjF3NlBOYTMxLXAxZVNFU2NaRVFLOExrSFEwRGFDZUNFZVJSYi14NUJVcXQtVFRUMm5mb0JCMnhBaVJXT3NxRTM?oc=5",
-      "data": "30/09 19:10"
+      "titulo": "Trio quarentão do Fluminense desafia o tempo: o que explica a longevidade de Fábio, Thiago Silva e Hulk? - ge",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMjdfOE94RE11T09VX2VJRDY0Y2lKM2hNT0Frbmppa19aVmFOaUQ1ZVBZU0RfVnZkVUVCTWpVQ19CZ2ExVEFlRDA0NWZwczBzMnNEOUg3WUJjVVlCREFNZmNGRzM2ZDB2VktRNlJyMmxudWNWNlU4dGFPVENmbmF1SjVxQnduSjZodnJ5d2NzWTZ3c2FrYW5yMEZjZXluZVBHWUQ5WU9kWmktM2Qxem9GVmVNM1FhUmo1a2hqcGpPNm9GUVRCNEFiWE1rcTRwRlhzUnRnUnFPcmI1cHVRZ0V4OTRpQ2NhelBhNHp1dHpVM1B5MGVEa25wRGVycFV6SG9Fa3fSAZACQVVfeXFMTXRjbm9Vby14WVNaM2Q3RmM4aHZ0d2dQTHlEaW1MR1pfQVg4ZDVOQ3B1bEFzTlA4b0d0NzFzMERsbVB5dzZjY1UzM292eHB6UFRfT1JaRllwNjIwRXZQR2pPOElUaWNoeTA2R3E5NFhvTDZBWjJHbEhRNFRmS3hQcnlHLUo2MmRSV2dvaHdDLVhZNzJVaUMyVnFLYVJoRE8zT2V0MFFuWnhjX2twZlNjUC0tZFNTY0xCYVpHc1NHUktBUUZHenZsd1o4TlNJc2duUGYzcXBuYzlmdklla0RlejRueGRSSkIzY1RxZEpBSVZKVUE3VWJSOXloeWNacmMzZDFYeVhxZjlRVXRCZkFJOUs?oc=5",
+      "data": "30/09 18:12"
     },
     {
-      "titulo": "Fábio completa 46 anos: veja outros quarentões em atividade no futebol - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnl4WkFiTkJoU25SNW5jZ3ViQ2hYR1lhTnRUVEZ4eUVvZE9KZU9OaEd6aVhzeUdvNXhxMkNCUU1JQWd4ZXBvRTNrTExLZlU0ZVNUN1Bxazdnb0VvaW1QZ3RFZVFRbGZVTHJ2a191M05BN0lKa0tSUnFpS1d3aW1BaHk0dVNmY0NIOGtaTW5XT3JRTGN0MVpGZG1Rdm94VzZTUURrNEpOUHJkRkFLdkxwZHNMX09pSHc?oc=5",
-      "data": "30/09 22:33"
+      "titulo": "Fluminense promove aulão sobre estereótipos na Mangueira - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEYwTTF2Z04tV2MxcUxwMDNKUFRwQ09BdGhoV1Z0WDc4Q2RzaDZoWGJjZVBFZW1sUTV6U3VvX2FXMlpYVFEtS1Q4bENUR0R2VjhnQ1daS1gyaVplbFEyM1hqVURjUHJBNkJPYVI3UUxzblVGTDN0UER4S3RxbjAwOVhjMEM2dlFWTFlMRG81dmpYX0lEb3R6LVFB?oc=5",
+      "data": "30/09 14:28"
     },
     {
-      "titulo": "Fábio brinca com idade e mantém rotina histórica no Fluminense - Imirante.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmxtLUxPY052a1ltNXJLM1RtamZPZUF4YVI4TU1PaVBudUYxRmtkR2lDdjNaQVl5bmc0NktpQkd4b1dFQUlxbm4wNWFFRGpocnZyNDdMTnR0RlY4V0lra0lfY0I4Uk1WUkZYaE5ETnpOV0lXZWVYMjc0M3ozQ1g1Y3ZlTmo5dUxxT0FMNjBrWTYzb3Y5OUJweFdiWWw0TmpoeU5JZVV30gGrAUFVX3lxTFBHOTJBMVJwNlJuaV9XaVBxUXpmUlE3S2NpYVdtSnpGN2ptMEFYS2FvXzRSVl9LRTBJRjJCS3p3X09OZWQzS2ZSRjYwV1MtbFJwb1VfNHprbWlCdDZIdG9NTXJSSDNYSGtsWFZpeTNET1dMVldVU2dZdFlpcklTVVliS2ZNM1dSRU1RU3h5RE5jaEJfbHhRaVE1RGxwLTNJczl0OXNoRlBnbFNWbw?oc=5",
-      "data": "30/09 20:45"
+      "titulo": "Fluminense avalia futuro de Ganso e considera renovação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZElGTDVoOW1zS2MxVHlrdTJyVGJQWnc0aWtnay1ad1BzeWhTVHFJblBRRm9zX2xHMDRwanNLdFVVdHBwaHFpRENrc05ZcVkxdTNpcmxfWWlNa2ppVmNOcVhJSnN6aEZ1cU1SaEpYNWRtVERsTWt0bE05YmhWbE1CRFBoTXpUcGdKMGd2clhpTjZaOUhMYlRranA0UU5vNmhkSEhFVGZnMFBWdGhwd2dORVhhZGxMRzNTd2I0ZDA2MHlzanVPY2JOemhYcHNFbHd5RUtHVkx2Nkh2N3hwNnBr?oc=5",
+      "data": "30/09 15:49"
     },
     {
-      "titulo": "Fluminense derrota Botafogo e vai enfrentar Flamengo na final do Carioca de Basquete - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZElyanZ5R1oxaFRnajlaUHZzUFprZTdBd1lEeFNlemYyY1VXYWQ1TEJNOVNyZjlKNVF5alNSbTI0U0tQbm5jRkhnbmotbEpoU1U5MXZMb28yYlhmcGtSZF9zT3pqcENsN1RHYU9uV2lEU2dkTzZvUGREeGJNaDBja215dEZwSjc5NlJ0T3NCUl85ak9ZVmFTaldrWmxmbnlsR2d0S1dKZnljMVV6RnNqbllITHpOSDZqNHoyLTczWmFweXBHTEhLenNrS0hiSmRZa2ZPS1hn0gHkAUFVX3lxTE1IMnMyMVhCQ0k5UE9ZS2s1Q2tfcmlJR2RuTEhEU3I1OURzY2hLQXZuWU1UR0FFM3hwdktDb1JNbEdIOVF5cXozX0EwVTQ4T3E3MGNvbFl6VjNOR1NBOGVIRWRTUTU0c2t5eVVScVZJdTExQi02ODlyTjVVejBLS0RzZ3hRcXc5al8wa29vcDVuMHQxcWdWNXpzLTZCY093ZzJ2bFA2M3FSMmk0VDRlc1RzdE1HUzZPdVdveDlfQnlwNG4xa2xWMkRqZXkzTjRJLTBKUmV4a21rY0ZfWmFSU0JWRDJnUQ?oc=5",
-      "data": "01/10 00:27"
+      "titulo": "Nova lei do futebol feminino muda regras para clubes; Fluminense também será impactado - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmhSX0QwZExEcUlFSS1ELWR0U29qQlcyS084UGtEMFplQjFlcTlOQjlwNzRvOThOcS1xMTUtc3ZHc1R0dUhwUVlSdk41SHZEYUpTSFdGN2JVRi1mZExDbVoweW1WWXhQdG9pRWZBN29rTFItMVo4Z1k0bTBGTTlvTEkxbnB4dHdZaEdpTlhqeFgtNGF0?oc=5",
+      "data": "30/09 02:32"
     }
   ],
   "avisos": [
