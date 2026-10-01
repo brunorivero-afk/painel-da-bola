@@ -1,86 +1,14 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/10/2026 12:57",
+  "atualizado_em": "01/10/2026 17:50",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-10-01",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Azerbaijão x Liechtenstein",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "British Virgin Islands x Montserrat",
       "channels": [
-        "ESPN 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Marrocos Sub-23 x Mali Sub-23",
-      "channels": [
-        "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Brasil Sub-20 x USA Sub-20",
-      "channels": [
-        "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Austria (F)ien (F) x Inter Milano (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Dinamarca x Portugal",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Alemanha x Sérvia",
-      "channels": [
-        "SPORTV 3",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Gales x Noruega",
-      "channels": [
-        "ESPN 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Grécia x Holanda",
-      "channels": [
-        "ESPN"
+        "YOUTUBE"
       ]
     },
     {
@@ -92,16 +20,6 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN 4",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "British Virgin Islands x Montserrat",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -158,6 +76,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-01",
       "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "República Dominicana x Haiti",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "21:00",
       "competition": "Brasileirão Série B",
       "match": "Novorizontino x Goiás",
       "channels": [
@@ -165,16 +93,6 @@ window.PAINEL_DATA = {
         "ESPN",
         "SPORTYNET",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "República Dominicana x Haiti",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -215,6 +133,121 @@ window.PAINEL_DATA = {
       "match": "Faroe Islands U19 x Slovenia U19",
       "channels": [
         "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Brasil Sub-20 x USA Sub-20",
+      "channels": [
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "13:00",
+      "competition": "Amistosos Seleções",
+      "match": "Marrocos Sub-23 x Mali Sub-23",
+      "channels": [
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Azerbaijão x Liechtenstein",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "13:45",
+      "competition": "Champions League Feminina",
+      "match": "Austria (F)ien (F) x Inter Milano (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Grécia x Holanda",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Israel x Kosovo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Malta x Gibraltar",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Irlanda x Áustria",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Gales x Noruega",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Alemanha x Sérvia",
+      "channels": [
+        "SPORTV 3",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Dinamarca x Portugal",
+      "channels": [
+        "SPORTV"
       ]
     },
     {
@@ -428,58 +461,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.4,
-      "temp_min": 22.4,
-      "chance_chuva": 82,
-      "condicao": "Garoa"
+      "temp_max": 27.8,
+      "temp_min": 22.0,
+      "chance_chuva": 92,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.3,
-      "temp_min": 22.4,
-      "chance_chuva": 79,
-      "condicao": "Trovoada"
+      "temp_max": 27.7,
+      "temp_min": 22.5,
+      "chance_chuva": 84,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.6,
-      "temp_min": 19.4,
+      "temp_min": 19.5,
       "chance_chuva": 100,
       "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.7,
+      "temp_max": 29.5,
       "temp_min": 17.7,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Thiago Silva descansa na Data Fifa e volta ao Rio em busca de título - odia.ig.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQm11SHhPMzU0NVNNSVdxbjdRZEV5alBNWVBMQV92Rkw4TXFDVUtiZFdZdlI5ajlWcldkUUpqTkUxWG0tUm1KUkZCRHFVMl8zSkM2bFA5cXJUYllzRmRHZXAwN3I1Y0hTMEVxbm9vcVJHU2NPajlwUGhZaGxsVnB4cTBINWdaNEh4M3A2TG5kSXQ5MFJLZmRsc1JTa2hpMmV3dFUxREcyQ0Y5ZXRKMDUta21YWndLNGVfNHhscDZycWFHZWpLNmh4V21CWdIB0AFBVV95cUxNR0RjVHR0bmVzckM4VGQ0eWdLN1QtSFp6aFJxaVFhbEVuVnZKVnR4OXJaS1V5YW04WVFWSHY4cVJxQlJnS0FCVmtjbkt5MkxBQ29abERqRjBQdTRyWEJrSkRZTUJYVk1NMkZjSmpZZEd3S3J4WkNiWlBYVzFfWHBRSDBiR0cxbW5UTzhIUnJWenh4bnpwWlhRdy1mRXkwT1luV2VpS0xsRTVENi11bzdLZHFvcUZwUkE5Y2pnY2RsdEJfeDlFZXNYNFc5WGNCc1o4?oc=5",
-      "data": "01/10 13:20"
+      "titulo": "Fluminense é multado pela Conmebol por sinalizadores contra o Platense-ARG - itatiaia.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdDN4R2F6Wjk2WEJmOThLeGNhbmpkRkZMZDYxbmNUX1IzRkJYemZFRVQ0ZF8wSHEtZlNLaUN3WnBadG5KNGFUdnlTaUUxQjZwdVEydndGTjZXMGJNLWFMbTU3MlhsQTJQbG1kR3Y0bGU1LVhGWjJ4cnZ2WkxMWmVLYXpUcDVNUVpRRmMzdW5LQkpKT2JzeFVsbFdMdWJJYmZ2TUFEeFo0cEFRSUMyeG1jMHNEdnBBWTZjNzZpcTRjZ1Bfbi16YzB2UlR3aDFVNVpJZC05ZWt2bmRhcmJham4zaHd1eE9jcnBxUXBEOW9uTmxvTHR4TEVz?oc=5",
+      "data": "01/10 18:43"
     },
     {
-      "titulo": "Interessado em Martinelli, do Fluminense, gigante europeu passa por dificuldade financeira; veja detalhes - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWU4xSmFGN216QWJpMTg1THowSDhNWGFhRGNvLTVJVFBtRDFwQnpTcEpfMVFudUxmMEdkYlM0b0RtVDd5RXk0SVp4cC1FVG5hZ0FFNkxPc3ZrRE1OQlhpRzV6QmU1SjlpMWlsb2RQZDFjaE1HR2VWSjg3NnFIekNEV0dFX3lxZllLUTBsR0ZhaXNHUzhNMk55ZHZDVGpoNFBCam5YNFVBZklUR3g4ZmxJT21QRTU3dDMzRWt3aGI1SEhaM0lqYUUtMg?oc=5",
-      "data": "01/10 13:30"
+      "titulo": "Fluminense recebe multa da Conmebol por causa de sinalizadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObWt3WnJPQUlJU0J2Z0l5bFRWMFBFVW8tQm1zS052X1AyMVZvdkxpckJZQjg1Sl82cW00a0ZaX2ppS1RpMjNXeVFOYUlKcVA4cmxCWmJNLUM2S3NqYThvQk9uR0JWWVBmaXpQemdKZnJSTEk2ZUNMeHFubUVsQldKQlhJUnhGRVRXVTNFNEpMVFBKQ0FYdnZTazJ4NGhSRkVuSXBIR1J1TmFGQkptbHhWRG5CbTd0RGxhdnFzWnRnaEhpVGxIbWprTjRSaW5pV1I3SW0wdmtSTWMyYXNtVjMzLXBnQUpFSDJn?oc=5",
+      "data": "28/09 17:01"
     },
     {
-      "titulo": "Fábio completa 46 anos: veja outros quarentões em atividade no futebol - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnl4WkFiTkJoU25SNW5jZ3ViQ2hYR1lhTnRUVEZ4eUVvZE9KZU9OaEd6aVhzeUdvNXhxMkNCUU1JQWd4ZXBvRTNrTExLZlU0ZVNUN1Bxazdnb0VvaW1QZ3RFZVFRbGZVTHJ2a191M05BN0lKa0tSUnFpS1d3aW1BaHk0dVNmY0NIOGtaTW5XT3JRTGN0MVpGZG1Rdm94VzZTUURrNEpOUHJkRkFLdkxwZHNMX09pSHc?oc=5",
-      "data": "30/09 22:33"
+      "titulo": "Fluminense é multado pela Conmebol após jogo com Platense; veja valor e motivos - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnVZS1c3VUNra0lUbGxiSGdldDE2Qjd1R0hfaWNBWkFuaHcwY1B0dE9peGdtZ01FUi0xVGdMaUpVV0RYVVVrZ1loRUotUWRCVjlTT3V0TmVBSUtZeWZlMmp3MUxPR0F1ekVvRnQ3NTN4dGloZFhqdkVNMFlzakhiMHFDTExpc1hkYjBhTFctR0RiMGV4cEhOeHNJZU5FUDM5NWhiMFRhVUc?oc=5",
+      "data": "01/10 14:29"
     },
     {
-      "titulo": "Millán revela ajuda de estrangeiros do Fluminense em adaptação: \"Estão sempre à disposição\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWRLZnNHQ2NDU0M4SVFYUnRvR21CcE1yQW44R2xkd2pwREZaVlVMUjBiT2xFSU1qMUVjaVBxYTNyUDB3NnlBYW1HVF9JaGREOG1oNGt3YmoxdzlkUUZrdWNWV1Z3QVN6eTh2ZXdiTmhXWnpmRDNTVExVT0hjTVdyRTg3TGh3clBwYTZ5N25HRWNPS01pS3FVR1lpbFBHVDgxRjFJRV9RdzRIbGl6UUJWcEIybTRpM1JIdE1NTmNQRXpWcjJnMEZwcEMxeWNhWjZMR2cxUURReUtxYU5GUk13RVUwS2h6QXZxX0c5N29mZ27SAf8BQVVfeXFMUEcxRnBHbDFqYjhnUHNWNUhrYVh6U0pVMUN4LWtZZmNyaFVHT1ZHME8yenRzVGRjSnFtcTh3ZVUxZDZEM3ZHTUlWWGlBUE5IVmRVWHpqZkRDUVJWY1ZzS0RZNkZ5eGRab1BiZUIxdXRNa1kyak53Q3k3NmN5MGhBcEJZVWxlYThERGhZUlFqN2MzREVhOEd6TDFuMk96ODFUb3Q2RGxwTXd4emtqNHlWM2FFalBFOGhUZXg1NjJqVVVHd3VFQVo1SmNnUVZjSHZySFYyTHNHQkFyRHRia1JqTXNBS1o0RWQ2UklRd3NRTldiVU1SUFE5NFhZT045RGkw?oc=5",
-      "data": "01/10 07:00"
+      "titulo": "Fluminense tem vaga em aberto no ataque? Veja como está a disputa - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1Rha2FkZGNyZzlITXdqQTQ3N0Ria3F3dUgycUl1NndCUHFrZzh6bFZiSnZDUzhKVmdTUjZiQWdFOW55RTVGa2RwdjBNR2lra3VkTmtnZ0tHaXZzRkRLdkt6eTJyWXJkNlJoTmtKT3JJbXJ3TnpUNFVXVEZvZjVZcEl5enhpcjc1LVIwXzE1UkJlQ1FlaGIxMGEyU0ktSVZndXJBd2w0OEtQdkpoeEVXbzJYc3E4R3U1cmhCOWxWUWVxV1UtOThpQm9LX0ttZTZt0gHfAUFVX3lxTE04ME5hYUhPVHlsaGhXN0xPME5uUFdxQlkxZWJiTTAybW9oWWRQQnBXRGxINS14T1Q3UVZDSS1iYjFmak13TUFEOGlQSGJuMEc5TlduYS1lRmFTTHZCeEdRb3JZeUlTLV9TMWNCeEc0OFExbjFmYkpNOVhJa2NYMjhPbUZNWEZ6d2dWMEZfaWhlTXE5Szd2QUZUY3RCUTloalVMRnhadmhFTlhSOTdPZmlZZTBuTmtwLTlTbEw1UGRxRmZXODdOX1RxMUM4SUpObm5iN1h2STBueFBtTVlxZ2c?oc=5",
+      "data": "01/10 18:04"
     },
     {
-      "titulo": "Fluminense conhece tabela e regulamento do Carioca Feminino 2026 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlZxNG5VTGo4ODdHb3ZLTGtGRmp4WndBbG9TRTU1d0dyR2JYY0ZYcUVMTmFtMHRYOVN0N0o5anlpeHRxQTBGQ3NESmhJQkR0Y3AwV2FBWjZrclFyM25yRE9UanBnRExJOVpUNXZBRUtXcG5LT2RCQTMyUGxPRVhyb0c4TVU1R3dpMnZfd2hKZzVITTJFLWNPYjNjTHFhQ1BjcTIxNg?oc=5",
-      "data": "01/10 15:02"
+      "titulo": "Estrangeiros são diferencial para adaptação de Millán no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPejBUTDByYTJNUDFrdGxVbmZhU191YlhKTjV0eGFTN0x6VEg2WUJFVEJCWDh4cWJ1eHZJNlBYaE5rMlEtem9zaWMzS0pwdG1DTFdDVDFXaHBpRTVZdDJXa002RDZxZUxBcFJSaEtRZDlJcWdQN1BVMWRfUV9hdFZFQV9DZ1ROdHVPTDgzeGx5czlFWkJjWGQtQ1RQOTRpWG0xYkxKOUpNSzBFYjVMd1Nqd3RxblQxa1QwTFdVZjBqTk1XWF9rVHFpN09TZHRkelhsMm5UNmE5Qm1nSXpQbU9zNi1BaDdvY0RacXcxOGJrWQ?oc=5",
+      "data": "01/10 17:25"
     }
   ],
   "avisos": []
