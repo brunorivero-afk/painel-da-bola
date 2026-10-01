@@ -1,26 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/10/2026 05:13",
+  "atualizado_em": "01/10/2026 12:57",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "07:45",
-      "competition": "Amistosos Seleções",
-      "match": "França Sub-19 x Turquia Sub-20",
-      "channels": [
-        "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "11:00",
-      "competition": "Amistosos Seleções",
-      "match": "Faroe Islands U19 x Slovenia U19",
-      "channels": [
-        "DAZN"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-01",
@@ -219,6 +199,26 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "07:45",
+      "competition": "Amistosos Seleções",
+      "match": "França Sub-19 x Turquia Sub-20",
+      "channels": [
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "11:00",
+      "competition": "Amistosos Seleções",
+      "match": "Faroe Islands U19 x Slovenia U19",
+      "channels": [
+        "DAZN"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-02",
       "time": "13:00",
       "competition": "UEFA Nations League",
@@ -406,10 +406,20 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-09-30",
-      "time": "19:40",
+      "date": "2026-10-01",
+      "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Fluminense x Praia Clube",
+      "match": "Pinheiros x Osasco",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-01",
+      "time": "19:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Itaqua",
       "channels": [
         "SporTV2"
       ]
@@ -418,61 +428,59 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.0,
-      "temp_min": 22.3,
-      "chance_chuva": 82,
-      "condicao": "Trovoada com granizo"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 30.2,
+      "temp_max": 29.4,
       "temp_min": 22.4,
-      "chance_chuva": 79,
+      "chance_chuva": 82,
       "condicao": "Garoa"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 28.3,
+      "temp_min": 22.4,
+      "chance_chuva": 79,
+      "condicao": "Trovoada"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.8,
-      "temp_min": 19.2,
+      "temp_max": 28.6,
+      "temp_min": 19.4,
       "chance_chuva": 100,
       "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.9,
-      "temp_min": 17.9,
+      "temp_max": 29.7,
+      "temp_min": 17.7,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
+      "titulo": "Thiago Silva descansa na Data Fifa e volta ao Rio em busca de título - odia.ig.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQm11SHhPMzU0NVNNSVdxbjdRZEV5alBNWVBMQV92Rkw4TXFDVUtiZFdZdlI5ajlWcldkUUpqTkUxWG0tUm1KUkZCRHFVMl8zSkM2bFA5cXJUYllzRmRHZXAwN3I1Y0hTMEVxbm9vcVJHU2NPajlwUGhZaGxsVnB4cTBINWdaNEh4M3A2TG5kSXQ5MFJLZmRsc1JTa2hpMmV3dFUxREcyQ0Y5ZXRKMDUta21YWndLNGVfNHhscDZycWFHZWpLNmh4V21CWdIB0AFBVV95cUxNR0RjVHR0bmVzckM4VGQ0eWdLN1QtSFp6aFJxaVFhbEVuVnZKVnR4OXJaS1V5YW04WVFWSHY4cVJxQlJnS0FCVmtjbkt5MkxBQ29abERqRjBQdTRyWEJrSkRZTUJYVk1NMkZjSmpZZEd3S3J4WkNiWlBYVzFfWHBRSDBiR0cxbW5UTzhIUnJWenh4bnpwWlhRdy1mRXkwT1luV2VpS0xsRTVENi11bzdLZHFvcUZwUkE5Y2pnY2RsdEJfeDlFZXNYNFc5WGNCc1o4?oc=5",
+      "data": "01/10 13:20"
+    },
+    {
+      "titulo": "Interessado em Martinelli, do Fluminense, gigante europeu passa por dificuldade financeira; veja detalhes - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWU4xSmFGN216QWJpMTg1THowSDhNWGFhRGNvLTVJVFBtRDFwQnpTcEpfMVFudUxmMEdkYlM0b0RtVDd5RXk0SVp4cC1FVG5hZ0FFNkxPc3ZrRE1OQlhpRzV6QmU1SjlpMWlsb2RQZDFjaE1HR2VWSjg3NnFIekNEV0dFX3lxZllLUTBsR0ZhaXNHUzhNMk55ZHZDVGpoNFBCam5YNFVBZklUR3g4ZmxJT21QRTU3dDMzRWt3aGI1SEhaM0lqYUUtMg?oc=5",
+      "data": "01/10 13:30"
+    },
+    {
+      "titulo": "Fábio completa 46 anos: veja outros quarentões em atividade no futebol - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnl4WkFiTkJoU25SNW5jZ3ViQ2hYR1lhTnRUVEZ4eUVvZE9KZU9OaEd6aVhzeUdvNXhxMkNCUU1JQWd4ZXBvRTNrTExLZlU0ZVNUN1Bxazdnb0VvaW1QZ3RFZVFRbGZVTHJ2a191M05BN0lKa0tSUnFpS1d3aW1BaHk0dVNmY0NIOGtaTW5XT3JRTGN0MVpGZG1Rdm94VzZTUURrNEpOUHJkRkFLdkxwZHNMX09pSHc?oc=5",
+      "data": "30/09 22:33"
+    },
+    {
       "titulo": "Millán revela ajuda de estrangeiros do Fluminense em adaptação: \"Estão sempre à disposição\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWRLZnNHQ2NDU0M4SVFYUnRvR21CcE1yQW44R2xkd2pwREZaVlVMUjBiT2xFSU1qMUVjaVBxYTNyUDB3NnlBYW1HVF9JaGREOG1oNGt3YmoxdzlkUUZrdWNWV1Z3QVN6eTh2ZXdiTmhXWnpmRDNTVExVT0hjTVdyRTg3TGh3clBwYTZ5N25HRWNPS01pS3FVR1lpbFBHVDgxRjFJRV9RdzRIbGl6UUJWcEIybTRpM1JIdE1NTmNQRXpWcjJnMEZwcEMxeWNhWjZMR2cxUURReUtxYU5GUk13RVUwS2h6QXZxX0c5N29mZ27SAf8BQVVfeXFMUEcxRnBHbDFqYjhnUHNWNUhrYVh6U0pVMUN4LWtZZmNyaFVHT1ZHME8yenRzVGRjSnFtcTh3ZVUxZDZEM3ZHTUlWWGlBUE5IVmRVWHpqZkRDUVJWY1ZzS0RZNkZ5eGRab1BiZUIxdXRNa1kyak53Q3k3NmN5MGhBcEJZVWxlYThERGhZUlFqN2MzREVhOEd6TDFuMk96ODFUb3Q2RGxwTXd4emtqNHlWM2FFalBFOGhUZXg1NjJqVVVHd3VFQVo1SmNnUVZjSHZySFYyTHNHQkFyRHRia1JqTXNBS1o0RWQ2UklRd3NRTldiVU1SUFE5NFhZT045RGkw?oc=5",
       "data": "01/10 07:00"
     },
     {
-      "titulo": "Trio quarentão do Fluminense desafia o tempo: o que explica a longevidade de Fábio, Thiago Silva e Hulk? - ge",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMjdfOE94RE11T09VX2VJRDY0Y2lKM2hNT0Frbmppa19aVmFOaUQ1ZVBZU0RfVnZkVUVCTWpVQ19CZ2ExVEFlRDA0NWZwczBzMnNEOUg3WUJjVVlCREFNZmNGRzM2ZDB2VktRNlJyMmxudWNWNlU4dGFPVENmbmF1SjVxQnduSjZodnJ5d2NzWTZ3c2FrYW5yMEZjZXluZVBHWUQ5WU9kWmktM2Qxem9GVmVNM1FhUmo1a2hqcGpPNm9GUVRCNEFiWE1rcTRwRlhzUnRnUnFPcmI1cHVRZ0V4OTRpQ2NhelBhNHp1dHpVM1B5MGVEa25wRGVycFV6SG9Fa3fSAZACQVVfeXFMTXRjbm9Vby14WVNaM2Q3RmM4aHZ0d2dQTHlEaW1MR1pfQVg4ZDVOQ3B1bEFzTlA4b0d0NzFzMERsbVB5dzZjY1UzM292eHB6UFRfT1JaRllwNjIwRXZQR2pPOElUaWNoeTA2R3E5NFhvTDZBWjJHbEhRNFRmS3hQcnlHLUo2MmRSV2dvaHdDLVhZNzJVaUMyVnFLYVJoRE8zT2V0MFFuWnhjX2twZlNjUC0tZFNTY0xCYVpHc1NHUktBUUZHenZsd1o4TlNJc2duUGYzcXBuYzlmdklla0RlejRueGRSSkIzY1RxZEpBSVZKVUE3VWJSOXloeWNacmMzZDFYeVhxZjlRVXRCZkFJOUs?oc=5",
-      "data": "30/09 18:12"
-    },
-    {
-      "titulo": "Fluminense promove aulão sobre estereótipos na Mangueira - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZEYwTTF2Z04tV2MxcUxwMDNKUFRwQ09BdGhoV1Z0WDc4Q2RzaDZoWGJjZVBFZW1sUTV6U3VvX2FXMlpYVFEtS1Q4bENUR0R2VjhnQ1daS1gyaVplbFEyM1hqVURjUHJBNkJPYVI3UUxzblVGTDN0UER4S3RxbjAwOVhjMEM2dlFWTFlMRG81dmpYX0lEb3R6LVFB?oc=5",
-      "data": "30/09 14:28"
-    },
-    {
-      "titulo": "Fluminense avalia futuro de Ganso e considera renovação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZElGTDVoOW1zS2MxVHlrdTJyVGJQWnc0aWtnay1ad1BzeWhTVHFJblBRRm9zX2xHMDRwanNLdFVVdHBwaHFpRENrc05ZcVkxdTNpcmxfWWlNa2ppVmNOcVhJSnN6aEZ1cU1SaEpYNWRtVERsTWt0bE05YmhWbE1CRFBoTXpUcGdKMGd2clhpTjZaOUhMYlRranA0UU5vNmhkSEhFVGZnMFBWdGhwd2dORVhhZGxMRzNTd2I0ZDA2MHlzanVPY2JOemhYcHNFbHd5RUtHVkx2Nkh2N3hwNnBr?oc=5",
-      "data": "30/09 15:49"
-    },
-    {
-      "titulo": "Nova lei do futebol feminino muda regras para clubes; Fluminense também será impactado - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmhSX0QwZExEcUlFSS1ELWR0U29qQlcyS084UGtEMFplQjFlcTlOQjlwNzRvOThOcS1xMTUtc3ZHc1R0dUhwUVlSdk41SHZEYUpTSFdGN2JVRi1mZExDbVoweW1WWXhQdG9pRWZBN29rTFItMVo4Z1k0bTBGTTlvTEkxbnB4dHdZaEdpTlhqeFgtNGF0?oc=5",
-      "data": "30/09 02:32"
+      "titulo": "Fluminense conhece tabela e regulamento do Carioca Feminino 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlZxNG5VTGo4ODdHb3ZLTGtGRmp4WndBbG9TRTU1d0dyR2JYY0ZYcUVMTmFtMHRYOVN0N0o5anlpeHRxQTBGQ3NESmhJQkR0Y3AwV2FBWjZrclFyM25yRE9UanBnRExJOVpUNXZBRUtXcG5LT2RCQTMyUGxPRVhyb0c4TVU1R3dpMnZfd2hKZzVITTJFLWNPYjNjTHFhQ1BjcTIxNg?oc=5",
+      "data": "01/10 15:02"
     }
   ],
-  "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
-  ]
+  "avisos": []
 };
