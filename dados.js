@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/10/2026 03:37",
+  "atualizado_em": "02/10/2026 10:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -491,43 +491,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.1,
-      "temp_min": 20.0,
+      "temp_max": 24.4,
+      "temp_min": 20.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.1,
-      "temp_min": 20.9,
+      "temp_max": 25.3,
+      "temp_min": 20.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.1,
-      "temp_min": 17.2,
+      "temp_max": 23.4,
+      "temp_min": 17.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.1,
-      "temp_min": 15.8,
+      "temp_max": 20.0,
+      "temp_min": 15.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense sofre sem bet e teme dificuldade de pagar jogadores, mas SAF segue distante - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGZzMUtJaXk4UVJvRHRmX2hkWGpEeXo0clBWaHMyNHJCeEtBRC1Uby1jLUppTlJXSmliWjM5UExRVy12WXc1X1FGRkxnb2d1SWxGOHJkdGpKSUFhY1dtRERmSVpBZ0otbUhrMlItTTdVTzkxN3FYcWgwRktWUDFLODF4bGkyTTNIdU1NQ204UFRTNk1lQl9vV2hGYW5rRzlOZmxkRWZHZ2NtaF9nX1k4UC04MVJSX0lHOEZKRFc0RTRVNDVKS2RIVkdTYnI5aUhjQWxwSU9sVXVZTmZhTnVGcjlJREjSAfMBQVVfeXFMTnBwUVFpTlY0ZHF2eGIwVUZKUWNVZTJ5andWSUZfWGFsdXdVd0RjYUswb3YzZ2haR1NRMWRqS21VMEg3VGJIaW1GNDlDT0ZQWnBzRjJ1RTlUbDhkQm4xN2pwWk5SYU5FNUdVSWJNQ2VkeFdkbHAtQy1KN1R5ZENBa2cwQ28weklkNjFjUDFqTXV0NGVmRXNMTWJHSWZjejg5ZTM0cmZJYVJRaXlUUlVRY3J3THZhbVN6N2dhbHVva1RwcXRNTjJfTF9JaGVrYjFvUTRfZ0d3TWZSVTdaWnZCSXFDQUJJYWl0c1JDazh5QVEwVjNJ?oc=5",
-      "data": "02/10 06:00"
+      "titulo": "Fluminense já acumula prêmio milionário na Libertadores; veja valor - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcHBTLXhPbXY5cVNKdERrb2tKTDFGeFlraWVnTWFIQ3ViNTZ3YmZudWlCOG5vUE5yNG00TmlTb3ZSc0J6RWRRaTlGWmwxaUZONzdDRmI3Zm1VWE92QzExSDJxa1psd1M5OTByS05oNl93REdQZVk4RkdkTFNnRmV3dFJzV21PbFYtNDlqREFnRXJNMUl6V2hEZVNNZGh2U3hCbEo1elZ3dVZoeXpwbzFWT0ItSGhuYjFxODlHVWZDNUhNMWU3eklUYU5uZm9lOGR2dlZmbzN3ZFotWHRfYWZaQ1phYklxQWZhQUF0R1F3?oc=5",
+      "data": "02/10 11:24"
     },
     {
-      "titulo": "Resumo do Dia: Desfalques, reforços, contratos e movimentações extracampo do Fluminense (01/10) - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVm9rUDJ2SWppdnpMd05tNHNNUGRIaHBfaENaYVBReVlVYVZUVTY0RzdLb1pmNTBZWldhTExxV0owc2VKV3Z3SUlGTVhOMjhNSHZvY21jMzlCcVVnM3VtblpQTmJMMXl5LXRHaExmMGhGWVhyRTlaXzlVLV84UmdTVHlQZlgwcDRiclYtZHBZR0I?oc=5",
-      "data": "02/10 02:05"
+      "titulo": "Veja como estão Lavega, Lezcano e outros jogadores emprestados pelo Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOekdvNmJTWUpjamljOVIzdjg3T1dWdm1DSVluT2FqZDd5S1JwM2RhWE9uTVNheTFkN2JSd2V5X3BWSm90V2lpdHBIVWR6VzZlWkF6QVp1b1VPZk0zTVE3ZS0zQ1pxemlRdlp4b0g1WEk2OURoaWlERUtNbE13R2JyVGhHeVhNbEV2ZVZLVnFfVTVDUk9YdDVMbGxyYWRaY1ZQeXNHTFNkOWpFU3dMT2pBcnFTMkRra1lvc1MzZTllb0pqaW5jaVhvbHNQdGF3MXNqMjBsMjcxTF8yWnlSTzV1bkdR0gHwAUFVX3lxTE1IU3oxcWtSTW9CWkhiWDgtbU5xdDhqdUhTN0NqdUJhd3lWNktBa0pFVEViSGd3dTlaeWVaRHd2dVF6Y0JQaFZrU0NqbW9YQ3NDXzVVNFNOMWsxVlVZQjkzcVI1Ry1KM0NlX1NsZTZYdW9DVXJ6UERMQ1FDOXVkSzVkcFo5RlJ4NVkyQWlEemFUekx5cmNrQmdyZGp0YTRESEdzOFZFdG9zLThCb3hKX2NSY1RBZmdTcmVOMkFmZ0szQ05hNUUwakFDdUFvdEVKd0dMUGduVEYwY3RJclNoOHhuSEdGcWt6clZ2Zm9zaEMzQw?oc=5",
+      "data": "02/10 07:00"
     },
     {
       "titulo": "Thiago Silva descansa na Data Fifa e volta ao Rio em busca de título - O Dia",
@@ -535,14 +535,14 @@ window.PAINEL_DATA = {
       "data": "01/10 13:20"
     },
     {
-      "titulo": "Estrangeiros são diferencial para adaptação de Millán no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPejBUTDByYTJNUDFrdGxVbmZhU191YlhKTjV0eGFTN0x6VEg2WUJFVEJCWDh4cWJ1eHZJNlBYaE5rMlEtem9zaWMzS0pwdG1DTFdDVDFXaHBpRTVZdDJXa002RDZxZUxBcFJSaEtRZDlJcWdQN1BVMWRfUV9hdFZFQV9DZ1ROdHVPTDgzeGx5czlFWkJjWGQtQ1RQOTRpWG0xYkxKOUpNSzBFYjVMd1Nqd3RxblQxa1QwTFdVZjBqTk1XWF9rVHFpN09TZHRkelhsMm5UNmE5Qm1nSXpQbU9zNi1BaDdvY0RacXcxOGJrWQ?oc=5",
-      "data": "01/10 17:25"
+      "titulo": "Departamento de Futebol Feminino do Fluminense recebe visita da FIFA e CBF no CEFAN - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmxGam93dWNfcG1uRmF2MWRvT0RWQWNaODU4RFA1Tk00NXZSSVhkdUNCM2FZbVZORHpsOEg1NklpbjZpNUViYjA0eG9HbW5VSi1lRHU4ckZzVWNuS2hleTc2ZVgxWGRzLUQ3NVB5NEZYdjNiRFdOS3lISHp5RFQwR2Zzb3pjeldsTTRnQWEwVzE0eDRjUkppZDBRdzlzX2tDUzh6bWFCOVFncVBEVFhTQVRvT0hGVVUyYzFJREN3?oc=5",
+      "data": "01/10 13:21"
     },
     {
-      "titulo": "Fluminense é multado por conta de sinalizadores - SBT Sports",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXh4cGloX0lfcy04eTBfb09yYWRIWWRUR18zeTMyZHp2NUxXQ3g3X2MySkNSSU12WFNHeXFwM1Q4aG1qZjJJMU5DLUlneW1iZlkzaU9USEx6Z2xHd0ltQzg5eGMyUXJ3MkhxcVhrUll4YTdUZl9XcndvNnBaNkVnOEplQkQzYUlBQzZacDJqZjhnbGhCcGhr?oc=5",
-      "data": "01/10 15:22"
+      "titulo": "Fluminense conhece tabela e regulamento do Carioca Feminino 2026 - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlZxNG5VTGo4ODdHb3ZLTGtGRmp4WndBbG9TRTU1d0dyR2JYY0ZYcUVMTmFtMHRYOVN0N0o5anlpeHRxQTBGQ3NESmhJQkR0Y3AwV2FBWjZrclFyM25yRE9UanBnRExJOVpUNXZBRUtXcG5LT2RCQTMyUGxPRVhyb0c4TVU1R3dpMnZfd2hKZzVITTJFLWNPYjNjTHFhQ1BjcTIxNg?oc=5",
+      "data": "01/10 15:02"
     }
   ],
   "avisos": []
