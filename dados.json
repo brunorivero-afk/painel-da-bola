@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "02/10/2026 10:30",
+  "atualizado_em": "02/10/2026 15:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Chipre x Armenia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Letônia x Montenegro",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-02",
@@ -61,8 +40,7 @@
       "competition": "UEFA Nations League",
       "match": "Hungria x Georgia",
       "channels": [
-        "SPORTV 2",
-        "SPORTV 3"
+        "SPORTV 2"
       ]
     },
     {
@@ -72,7 +50,6 @@
       "competition": "UEFA Nations League",
       "match": "Ucrânia x Irlanda do Norte",
       "channels": [
-        "SPORTV 2",
         "SPORTV 3"
       ]
     },
@@ -183,6 +160,26 @@
     {
       "sport": "futebol",
       "date": "2026-10-02",
+      "time": "21:00",
+      "competition": "Amistosos Seleções",
+      "match": "Colômbia x Paraguai",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Bonaire x Granada",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
       "time": "21:30",
       "competition": "Campeonato Argentino",
       "match": "Boca Juniors x Union Santa Fe",
@@ -199,6 +196,7 @@
       "match": "Fortaleza x Náutico",
       "channels": [
         "REDETV!",
+        "ESPN",
         "CANAL GOAT",
         "DISNEY+"
       ]
@@ -211,6 +209,27 @@
       "match": "El Salvador x Jamaica",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Chipre x Armenia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Letônia x Montenegro",
+      "channels": [
+        "SPORTV 2"
       ]
     },
     {
@@ -491,58 +510,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.4,
-      "temp_min": 20.2,
+      "temp_max": 23.9,
+      "temp_min": 20.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.3,
-      "temp_min": 20.7,
+      "temp_min": 20.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.4,
-      "temp_min": 17.6,
+      "temp_max": 21.8,
+      "temp_min": 17.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.0,
-      "temp_min": 15.4,
+      "temp_max": 18.8,
+      "temp_min": 15.5,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense já acumula prêmio milionário na Libertadores; veja valor - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcHBTLXhPbXY5cVNKdERrb2tKTDFGeFlraWVnTWFIQ3ViNTZ3YmZudWlCOG5vUE5yNG00TmlTb3ZSc0J6RWRRaTlGWmwxaUZONzdDRmI3Zm1VWE92QzExSDJxa1psd1M5OTByS05oNl93REdQZVk4RkdkTFNnRmV3dFJzV21PbFYtNDlqREFnRXJNMUl6V2hEZVNNZGh2U3hCbEo1elZ3dVZoeXpwbzFWT0ItSGhuYjFxODlHVWZDNUhNMWU3eklUYU5uZm9lOGR2dlZmbzN3ZFotWHRfYWZaQ1phYklxQWZhQUF0R1F3?oc=5",
-      "data": "02/10 11:24"
+      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
+      "data": "02/10 18:14"
     },
     {
-      "titulo": "Veja como estão Lavega, Lezcano e outros jogadores emprestados pelo Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOekdvNmJTWUpjamljOVIzdjg3T1dWdm1DSVluT2FqZDd5S1JwM2RhWE9uTVNheTFkN2JSd2V5X3BWSm90V2lpdHBIVWR6VzZlWkF6QVp1b1VPZk0zTVE3ZS0zQ1pxemlRdlp4b0g1WEk2OURoaWlERUtNbE13R2JyVGhHeVhNbEV2ZVZLVnFfVTVDUk9YdDVMbGxyYWRaY1ZQeXNHTFNkOWpFU3dMT2pBcnFTMkRra1lvc1MzZTllb0pqaW5jaVhvbHNQdGF3MXNqMjBsMjcxTF8yWnlSTzV1bkdR0gHwAUFVX3lxTE1IU3oxcWtSTW9CWkhiWDgtbU5xdDhqdUhTN0NqdUJhd3lWNktBa0pFVEViSGd3dTlaeWVaRHd2dVF6Y0JQaFZrU0NqbW9YQ3NDXzVVNFNOMWsxVlVZQjkzcVI1Ry1KM0NlX1NsZTZYdW9DVXJ6UERMQ1FDOXVkSzVkcFo5RlJ4NVkyQWlEemFUekx5cmNrQmdyZGp0YTRESEdzOFZFdG9zLThCb3hKX2NSY1RBZmdTcmVOMkFmZ0szQ05hNUUwakFDdUFvdEVKd0dMUGduVEYwY3RJclNoOHhuSEdGcWt6clZ2Zm9zaEMzQw?oc=5",
-      "data": "02/10 07:00"
+      "titulo": "Fluminense pode ter desfalque em sequência decisiva - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX2Y1eE03aGVpRUpVUUFUZkJxT2tjUFplOUlNVmREa1REMVA4SGE4aFJzS2JGY0JNLTJZMjVCWjRhdmYteGZDZGE3S3JJcklzcjgySzM1cHRNbE1qVGlvd01NS2NFdEJYZm1FTUtva1Y4b1h5aTNJRXFBN0JoZ1hyQThFWEkwSWI4azA4TGFDel9xREplb0pTbWwxYzZsdnlQcmx2M21BTy0xZE9uZ3BOVk5IV0YtZG1FTEtJZmR3THlQZw?oc=5",
+      "data": "02/10 18:07"
     },
     {
-      "titulo": "Thiago Silva descansa na Data Fifa e volta ao Rio em busca de título - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQm11SHhPMzU0NVNNSVdxbjdRZEV5alBNWVBMQV92Rkw4TXFDVUtiZFdZdlI5ajlWcldkUUpqTkUxWG0tUm1KUkZCRHFVMl8zSkM2bFA5cXJUYllzRmRHZXAwN3I1Y0hTMEVxbm9vcVJHU2NPajlwUGhZaGxsVnB4cTBINWdaNEh4M3A2TG5kSXQ5MFJLZmRsc1JTa2hpMmV3dFUxREcyQ0Y5ZXRKMDUta21YWndLNGVfNHhscDZycWFHZWpLNmh4V21CWdIB0AFBVV95cUxNR0RjVHR0bmVzckM4VGQ0eWdLN1QtSFp6aFJxaVFhbEVuVnZKVnR4OXJaS1V5YW04WVFWSHY4cVJxQlJnS0FCVmtjbkt5MkxBQ29abERqRjBQdTRyWEJrSkRZTUJYVk1NMkZjSmpZZEd3S3J4WkNiWlBYVzFfWHBRSDBiR0cxbW5UTzhIUnJWenh4bnpwWlhRdy1mRXkwT1luV2VpS0xsRTVENi11bzdLZHFvcUZwUkE5Y2pnY2RsdEJfeDlFZXNYNFc5WGNCc1o4?oc=5",
-      "data": "01/10 13:20"
+      "titulo": "Conmebol multa o Fluminense por incidentes no jogo contra o Platense, na Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQTUyVDhZeTJPUUZ3dlF2djBwN1IyQnptM3o1ZDgyWmQ3MVdmdXV3MGMtNlBXdlZJYm1GRkxPTzlPdlFYaGJvb2hWTVItT2hUOHN4NExVSFlBWTdGMUNKeWlad2JxS2lmaVNZRzl2NjJDM0VmUm9WSEtPYnpybEFVcFQ3THhrY21hT3RyVHgza040bUNZWS1JRVVzaUxKeEJaT3RwVlFaZmk1ZkZzWWJTUlZhMnpjU3pMdnRKdkZrZXNnWEh0MmdyeWtoSVl6NHk5S1Fjc1hURV9jc3RUaGpRcWNVSFJ2ZWRxOGNr0gH6AUFVX3lxTFBVam4xWTVCUUlmalVZbEw4dm55S1p0OUlEZ20xX2ppYXVNYlFUclRwbm1EMWs3d2RvVTJZRXpzaHROWGhlLW1YcnRReFFSdkZpTFp4bnA0bUNhbTMtbE5SWG83cXdONWRFdFYxbFFoZXp3dGtZTGw2QmR3bHR4b2ZSZzdGQmo1S0V3THRCZUJlNzhOZGVOQkVOSmVGNjhqYXk4VDFFWUk1a1pVX19DOTNlZTVBbVhDZEVpTDdiWkEtenJPOGV5aWJwYlp5dkVDMmVXbzltU05fdDNWaS0ydXcyaExpV0dtREZsc0xkQnpaS1RNTkg2b2dOUWc?oc=5",
+      "data": "02/10 15:09"
     },
     {
-      "titulo": "Departamento de Futebol Feminino do Fluminense recebe visita da FIFA e CBF no CEFAN - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmxGam93dWNfcG1uRmF2MWRvT0RWQWNaODU4RFA1Tk00NXZSSVhkdUNCM2FZbVZORHpsOEg1NklpbjZpNUViYjA0eG9HbW5VSi1lRHU4ckZzVWNuS2hleTc2ZVgxWGRzLUQ3NVB5NEZYdjNiRFdOS3lISHp5RFQwR2Zzb3pjeldsTTRnQWEwVzE0eDRjUkppZDBRdzlzX2tDUzh6bWFCOVFncVBEVFhTQVRvT0hGVVUyYzFJREN3?oc=5",
-      "data": "01/10 13:21"
+      "titulo": "Flamengo, Fluminense e Vasco: entenda a briga pelo Maracanã - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNXpYOXN0OGtZQkkxOWJSUVVFZkNNRHdhbmQ5bmMwb0FNUXZIdjlkaktvWjJISjhxWHZ6Z3lnSnhZMkJYT3BkUG1RaHFfbkN2ZDNhMGhWSXJ4eUpwT0Y5eTd3MkNaczQ3bGNhdTlJRGVRNDFlQy00OUkyem94dllIYXVOQU9FSzhYTVEtVTdBWGcwWE9FNmRwS2FmZmRjQjBqTFB1NGp4Ynp4RGtGY2theUtPeVlqZXh2bGVXNGtNS1h4YkZRNnRUMEt1WkJfejdWWkdlTmxHamF3TWZmdnc?oc=5",
+      "data": "02/10 07:21"
     },
     {
-      "titulo": "Fluminense conhece tabela e regulamento do Carioca Feminino 2026 - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlZxNG5VTGo4ODdHb3ZLTGtGRmp4WndBbG9TRTU1d0dyR2JYY0ZYcUVMTmFtMHRYOVN0N0o5anlpeHRxQTBGQ3NESmhJQkR0Y3AwV2FBWjZrclFyM25yRE9UanBnRExJOVpUNXZBRUtXcG5LT2RCQTMyUGxPRVhyb0c4TVU1R3dpMnZfd2hKZzVITTJFLWNPYjNjTHFhQ1BjcTIxNg?oc=5",
-      "data": "01/10 15:02"
+      "titulo": "Fluminense vai recorrer após sofrer multa pesada da Conmebol - lance.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWFPZ2V3aWJob0pzN3h5cHJhaS1fNWRWN004VTc4cjJIazluVVJjcTlUNkJmWk10VEx1MVMyNGlhTXBqMks5LU1lVkdMRlZRby13aDd3YzlYci11UWZHYWRNSlhNaUxvek5KOGZYbGFHT1VuaC13UDlYaWJRWmF2bG5fMTF4cnZNZlNBNDRMb19zVFRZUThfTG1CNWxMdUpHNzhj?oc=5",
+      "data": "01/10 20:15"
     }
   ],
   "avisos": []
