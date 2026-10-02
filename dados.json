@@ -1,57 +1,6 @@
 {
-  "atualizado_em": "01/10/2026 17:50",
+  "atualizado_em": "01/10/2026 21:28",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "British Virgin Islands x Montserrat",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "Manchester City (F) x Real Madrid (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "US Virgin Islands x Saint Martin",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "18:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Dominica x Guyana",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Curaçao x Trinidad and Tobago",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-01",
@@ -182,7 +131,7 @@
       "date": "2026-10-01",
       "time": "15:45",
       "competition": "UEFA Nations League",
-      "match": "Grécia x Holanda",
+      "match": "Gales x Noruega",
       "channels": [
         "ESPN",
         "DISNEY+"
@@ -193,7 +142,7 @@
       "date": "2026-10-01",
       "time": "15:45",
       "competition": "UEFA Nations League",
-      "match": "Israel x Kosovo",
+      "match": "Irlanda x Áustria",
       "channels": [
         "DISNEY+"
       ]
@@ -213,7 +162,7 @@
       "date": "2026-10-01",
       "time": "15:45",
       "competition": "UEFA Nations League",
-      "match": "Irlanda x Áustria",
+      "match": "Israel x Kosovo",
       "channels": [
         "DISNEY+"
       ]
@@ -223,7 +172,7 @@
       "date": "2026-10-01",
       "time": "15:45",
       "competition": "UEFA Nations League",
-      "match": "Gales x Noruega",
+      "match": "Grécia x Holanda",
       "channels": [
         "ESPN",
         "DISNEY+"
@@ -252,12 +201,64 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "16:00",
+      "competition": "Champions League Feminina",
+      "match": "Manchester City (F) x Real Madrid (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "British Virgin Islands x Montserrat",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "US Virgin Islands x Saint Martin",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "18:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Dominica x Guyana",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-01",
+      "time": "19:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Curaçao x Trinidad and Tobago",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-02",
       "time": "13:00",
       "competition": "UEFA Nations League",
       "match": "Chipre x Armenia",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -287,7 +288,8 @@
       "competition": "UEFA Nations League",
       "match": "França x Itália",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -297,7 +299,8 @@
       "competition": "UEFA Nations League",
       "match": "Polônia x Romênia",
       "channels": [
-        "ESPN 4"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -307,7 +310,8 @@
       "competition": "UEFA Nations League",
       "match": "Hungria x Georgia",
       "channels": [
-        "SPORTV 2"
+        "SPORTV 2",
+        "SPORTV 3"
       ]
     },
     {
@@ -317,7 +321,28 @@
       "competition": "UEFA Nations League",
       "match": "Ucrânia x Irlanda do Norte",
       "channels": [
+        "SPORTV 2",
         "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Ilhas Faroé x Eslováquia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Bósnia e Herzegovina x Suécia",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -462,7 +487,7 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 27.8,
-      "temp_min": 22.0,
+      "temp_min": 22.1,
       "chance_chuva": 92,
       "condicao": "Pancadas de chuva"
     },
@@ -483,26 +508,26 @@
     {
       "cidade": "Teresópolis",
       "temp_max": 29.5,
-      "temp_min": 17.7,
+      "temp_min": 17.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense é multado pela Conmebol por sinalizadores contra o Platense-ARG - itatiaia.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdDN4R2F6Wjk2WEJmOThLeGNhbmpkRkZMZDYxbmNUX1IzRkJYemZFRVQ0ZF8wSHEtZlNLaUN3WnBadG5KNGFUdnlTaUUxQjZwdVEydndGTjZXMGJNLWFMbTU3MlhsQTJQbG1kR3Y0bGU1LVhGWjJ4cnZ2WkxMWmVLYXpUcDVNUVpRRmMzdW5LQkpKT2JzeFVsbFdMdWJJYmZ2TUFEeFo0cEFRSUMyeG1jMHNEdnBBWTZjNzZpcTRjZ1Bfbi16YzB2UlR3aDFVNVpJZC05ZWt2bmRhcmJham4zaHd1eE9jcnBxUXBEOW9uTmxvTHR4TEVz?oc=5",
-      "data": "01/10 18:43"
+      "titulo": "Fluminense mapeia mercado após possível saída da Superbet - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPalczVldiMmpQekJVbVFHRG1zbWJrckZDMEVQRHN0Q0Y5eEwyR3VNMDY5akFsZUVHek9GUWo2MTl3SmppZDE5SHAzUGxrWXNFVHRjclA0anhmZFJiZlBZem9CbFZLdWN2Z2gwcHRqRnZhT0pvWEY1eUhsRGt5NjF0RUtsR1I0V1dRTmtJYmZ2a0daNHNHamJ4aks0VGUyN0FHVXNhWnQ0bHo5WlFweUhhZTNVR3I1UzFlNkVTLU9YRnpJMFVBdnBJWFBzdy1EVGxtYlBzSGNwZlhhdUhxR3drenhB?oc=5",
+      "data": "01/10 23:18"
     },
     {
-      "titulo": "Fluminense recebe multa da Conmebol por causa de sinalizadores - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObWt3WnJPQUlJU0J2Z0l5bFRWMFBFVW8tQm1zS052X1AyMVZvdkxpckJZQjg1Sl82cW00a0ZaX2ppS1RpMjNXeVFOYUlKcVA4cmxCWmJNLUM2S3NqYThvQk9uR0JWWVBmaXpQemdKZnJSTEk2ZUNMeHFubUVsQldKQlhJUnhGRVRXVTNFNEpMVFBKQ0FYdnZTazJ4NGhSRkVuSXBIR1J1TmFGQkptbHhWRG5CbTd0RGxhdnFzWnRnaEhpVGxIbWprTjRSaW5pV1I3SW0wdmtSTWMyYXNtVjMzLXBnQUpFSDJn?oc=5",
-      "data": "28/09 17:01"
+      "titulo": "Entenda o entrave entre Vasco, Flamengo e Fluminense pelo uso do Maracanã que foi parar na Justiça - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbDV1VjdKbXVuZF9qTi13VkxsVXVtRGtweVdfMldIaXV0VFJRNWFIcHRYMTRMcExsbXJ5ZUs1dkU4dXBNcUhCSms5U2MzVlBRSURremQ3aUZ2blVodVNrMnNiTWJpX2dTREFEc2xIWjhUZTROdjdXcjMwcFEtcE1VcFYxR1NIRlpVM1p4RUpHc09NZHMwZmc5RkJrRkNxZnhTdDlZSktOamY1MjZDemFJTDFTa2VDMk1qeUlPOTdnTnBYTlRuaDBiZHdTNEdUNzNuU0tiaFpoRjA2czRtRDR4Q0dB0gHnAUFVX3lxTFBLLVRXX2pVUmZWajVzOVZweUVNNzRuYnpab1l6VGUwMXNVMTV5TjVkTnBNenRTYWJjZ0xqYjBIV084LWVub3V4a19HTS1IVUNNT1lZZ2Y1LWJMdGFKbWt0cHpkTEpNSEEtQUEzMm9KOU1xUTNWNTAxV2ZyOElBN010cHluWklVZG1ULWVFUm15RmVncWdTWTdrTDExcXUwci1hWnRfYTdUVW5zcXQ4TzhSSHdMaEZHME5xckNnTEFoNzI0MUJPYkc0TWIwT0N2MTEzNGJSM2dKaThVZV9sWWQ3ZkRjN0EyQQ?oc=5",
+      "data": "01/10 19:44"
     },
     {
-      "titulo": "Fluminense é multado pela Conmebol após jogo com Platense; veja valor e motivos - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnVZS1c3VUNra0lUbGxiSGdldDE2Qjd1R0hfaWNBWkFuaHcwY1B0dE9peGdtZ01FUi0xVGdMaUpVV0RYVVVrZ1loRUotUWRCVjlTT3V0TmVBSUtZeWZlMmp3MUxPR0F1ekVvRnQ3NTN4dGloZFhqdkVNMFlzakhiMHFDTExpc1hkYjBhTFctR0RiMGV4cEhOeHNJZU5FUDM5NWhiMFRhVUc?oc=5",
-      "data": "01/10 14:29"
+      "titulo": "Hulk relembra conselho de Angioni no Fluminense: “Me tocou bastante” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblpmd21ydDdGOXpjX05aVkM3TEZ5bVA1cHFKejM3bmgtNHpxc2dRbFJzN0c3OGRCQVBlTkhZTmpRbm5tV0EwajVPblhCZEtQQXFJUkxBWFk0eUxFd3dtWEk0OGNSWHljMUdza3pQNl93OXJPVXh1WjdyTHdFYWdYV0FFeWlTblQ4ZmR4emx3Sk8wMFFrU2VZ?oc=5",
+      "data": "01/10 19:47"
     },
     {
       "titulo": "Fluminense tem vaga em aberto no ataque? Veja como está a disputa - ge",
@@ -510,9 +535,9 @@
       "data": "01/10 18:04"
     },
     {
-      "titulo": "Estrangeiros são diferencial para adaptação de Millán no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPejBUTDByYTJNUDFrdGxVbmZhU191YlhKTjV0eGFTN0x6VEg2WUJFVEJCWDh4cWJ1eHZJNlBYaE5rMlEtem9zaWMzS0pwdG1DTFdDVDFXaHBpRTVZdDJXa002RDZxZUxBcFJSaEtRZDlJcWdQN1BVMWRfUV9hdFZFQV9DZ1ROdHVPTDgzeGx5czlFWkJjWGQtQ1RQOTRpWG0xYkxKOUpNSzBFYjVMd1Nqd3RxblQxa1QwTFdVZjBqTk1XWF9rVHFpN09TZHRkelhsMm5UNmE5Qm1nSXpQbU9zNi1BaDdvY0RacXcxOGJrWQ?oc=5",
-      "data": "01/10 17:25"
+      "titulo": "Thiago Silva descansa na Data Fifa e volta ao Rio em busca de título - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQm11SHhPMzU0NVNNSVdxbjdRZEV5alBNWVBMQV92Rkw4TXFDVUtiZFdZdlI5ajlWcldkUUpqTkUxWG0tUm1KUkZCRHFVMl8zSkM2bFA5cXJUYllzRmRHZXAwN3I1Y0hTMEVxbm9vcVJHU2NPajlwUGhZaGxsVnB4cTBINWdaNEh4M3A2TG5kSXQ5MFJLZmRsc1JTa2hpMmV3dFUxREcyQ0Y5ZXRKMDUta21YWndLNGVfNHhscDZycWFHZWpLNmh4V21CWdIB0AFBVV95cUxNR0RjVHR0bmVzckM4VGQ0eWdLN1QtSFp6aFJxaVFhbEVuVnZKVnR4OXJaS1V5YW04WVFWSHY4cVJxQlJnS0FCVmtjbkt5MkxBQ29abERqRjBQdTRyWEJrSkRZTUJYVk1NMkZjSmpZZEd3S3J4WkNiWlBYVzFfWHBRSDBiR0cxbW5UTzhIUnJWenh4bnpwWlhRdy1mRXkwT1luV2VpS0xsRTVENi11bzdLZHFvcUZwUkE5Y2pnY2RsdEJfeDlFZXNYNFc5WGNCc1o4?oc=5",
+      "data": "01/10 13:20"
     }
   ],
   "avisos": []
