@@ -1,255 +1,6 @@
 {
-  "atualizado_em": "01/10/2026 21:28",
+  "atualizado_em": "02/10/2026 03:37",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "20:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Anguilla x Antigua and Barbuda",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Sport Recife",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "República Dominicana x Haiti",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "21:00",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Goiás",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "22:30",
-      "competition": "MLS",
-      "match": "Seattle Sounders x Sporting Kansas City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "23:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Nicarágua x Costa Rica",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "07:45",
-      "competition": "Amistosos Seleções",
-      "match": "França Sub-19 x Turquia Sub-20",
-      "channels": [
-        "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "11:00",
-      "competition": "Amistosos Seleções",
-      "match": "Faroe Islands U19 x Slovenia U19",
-      "channels": [
-        "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Brasil Sub-20 x USA Sub-20",
-      "channels": [
-        "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "13:00",
-      "competition": "Amistosos Seleções",
-      "match": "Marrocos Sub-23 x Mali Sub-23",
-      "channels": [
-        "DAZN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Azerbaijão x Liechtenstein",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "13:45",
-      "competition": "Champions League Feminina",
-      "match": "Austria (F)ien (F) x Inter Milano (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Gales x Noruega",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Irlanda x Áustria",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Malta x Gibraltar",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Israel x Kosovo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Grécia x Holanda",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Alemanha x Sérvia",
-      "channels": [
-        "SPORTV 3",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Dinamarca x Portugal",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "16:00",
-      "competition": "Champions League Feminina",
-      "match": "Manchester City (F) x Real Madrid (F)",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "British Virgin Islands x Montserrat",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "US Virgin Islands x Saint Martin",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "18:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Dominica x Guyana",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-01",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Curaçao x Trinidad and Tobago",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-02",
@@ -463,8 +214,262 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "competition": "Amistosos Seleções",
+      "match": "India x Brasil",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Progreso",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Ceará",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Croácia x Inglaterra",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Islândia x Bulgária",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Estônia x Luxemburgo",
+      "channels": [
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Albion FC x Defensor Sporting",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "Uniao Sao Joao x Gremio Prudente",
+      "channels": [
+        "XSPORTS",
+        "ONEFOOTBALL",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Espanha x República Tcheca",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Suíça x Eslovênia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x América-MG",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "16:30",
+      "competition": "Brasileirão Feminino",
+      "match": "São Paulo (F) x Corinthians (F)",
+      "channels": [
+        "GLOBO",
+        "TV BRASIL",
+        "SPORTV",
+        "GE TV",
+        "NSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Atletico Tucuman x Barracas Central",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Botafogo PB",
+      "channels": [
+        "BAND",
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Maringá",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Ponte Preta",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "18:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Central Espanol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x RB Bragantino",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Vila Nova",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "19:00",
+      "competition": "Copa Paulista",
+      "match": "São José EC x Noroeste",
+      "channels": [
+        "ONEFOOTBALL",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Paysandu x Ferroviária",
+      "channels": [
+        "SPORTYNET"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "19:30",
+      "competition": "Brasileirão Série C",
+      "match": "Inter De Limeira x Brusque",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "21:00",
+      "competition": "Amistosos Seleções",
+      "match": "Argentina x Burquina Fasso",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "23:00",
+      "competition": "Amistosos Seleções",
+      "match": "Estados Unidos x México",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Pinheiros x Osasco",
@@ -474,7 +479,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "time": "19:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Itaqua",
@@ -486,58 +491,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.8,
-      "temp_min": 22.1,
-      "chance_chuva": 92,
+      "temp_max": 22.1,
+      "temp_min": 20.0,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.7,
-      "temp_min": 22.5,
-      "chance_chuva": 84,
-      "condicao": "Garoa"
+      "temp_max": 24.1,
+      "temp_min": 20.9,
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.6,
-      "temp_min": 19.5,
+      "temp_max": 23.1,
+      "temp_min": 17.2,
       "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.5,
-      "temp_min": 17.4,
+      "temp_max": 19.1,
+      "temp_min": 15.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense mapeia mercado após possível saída da Superbet - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPalczVldiMmpQekJVbVFHRG1zbWJrckZDMEVQRHN0Q0Y5eEwyR3VNMDY5akFsZUVHek9GUWo2MTl3SmppZDE5SHAzUGxrWXNFVHRjclA0anhmZFJiZlBZem9CbFZLdWN2Z2gwcHRqRnZhT0pvWEY1eUhsRGt5NjF0RUtsR1I0V1dRTmtJYmZ2a0daNHNHamJ4aks0VGUyN0FHVXNhWnQ0bHo5WlFweUhhZTNVR3I1UzFlNkVTLU9YRnpJMFVBdnBJWFBzdy1EVGxtYlBzSGNwZlhhdUhxR3drenhB?oc=5",
-      "data": "01/10 23:18"
+      "titulo": "Fluminense sofre sem bet e teme dificuldade de pagar jogadores, mas SAF segue distante - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWGZzMUtJaXk4UVJvRHRmX2hkWGpEeXo0clBWaHMyNHJCeEtBRC1Uby1jLUppTlJXSmliWjM5UExRVy12WXc1X1FGRkxnb2d1SWxGOHJkdGpKSUFhY1dtRERmSVpBZ0otbUhrMlItTTdVTzkxN3FYcWgwRktWUDFLODF4bGkyTTNIdU1NQ204UFRTNk1lQl9vV2hGYW5rRzlOZmxkRWZHZ2NtaF9nX1k4UC04MVJSX0lHOEZKRFc0RTRVNDVKS2RIVkdTYnI5aUhjQWxwSU9sVXVZTmZhTnVGcjlJREjSAfMBQVVfeXFMTnBwUVFpTlY0ZHF2eGIwVUZKUWNVZTJ5andWSUZfWGFsdXdVd0RjYUswb3YzZ2haR1NRMWRqS21VMEg3VGJIaW1GNDlDT0ZQWnBzRjJ1RTlUbDhkQm4xN2pwWk5SYU5FNUdVSWJNQ2VkeFdkbHAtQy1KN1R5ZENBa2cwQ28weklkNjFjUDFqTXV0NGVmRXNMTWJHSWZjejg5ZTM0cmZJYVJRaXlUUlVRY3J3THZhbVN6N2dhbHVva1RwcXRNTjJfTF9JaGVrYjFvUTRfZ0d3TWZSVTdaWnZCSXFDQUJJYWl0c1JDazh5QVEwVjNJ?oc=5",
+      "data": "02/10 06:00"
     },
     {
-      "titulo": "Entenda o entrave entre Vasco, Flamengo e Fluminense pelo uso do Maracanã que foi parar na Justiça - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbDV1VjdKbXVuZF9qTi13VkxsVXVtRGtweVdfMldIaXV0VFJRNWFIcHRYMTRMcExsbXJ5ZUs1dkU4dXBNcUhCSms5U2MzVlBRSURremQ3aUZ2blVodVNrMnNiTWJpX2dTREFEc2xIWjhUZTROdjdXcjMwcFEtcE1VcFYxR1NIRlpVM1p4RUpHc09NZHMwZmc5RkJrRkNxZnhTdDlZSktOamY1MjZDemFJTDFTa2VDMk1qeUlPOTdnTnBYTlRuaDBiZHdTNEdUNzNuU0tiaFpoRjA2czRtRDR4Q0dB0gHnAUFVX3lxTFBLLVRXX2pVUmZWajVzOVZweUVNNzRuYnpab1l6VGUwMXNVMTV5TjVkTnBNenRTYWJjZ0xqYjBIV084LWVub3V4a19HTS1IVUNNT1lZZ2Y1LWJMdGFKbWt0cHpkTEpNSEEtQUEzMm9KOU1xUTNWNTAxV2ZyOElBN010cHluWklVZG1ULWVFUm15RmVncWdTWTdrTDExcXUwci1hWnRfYTdUVW5zcXQ4TzhSSHdMaEZHME5xckNnTEFoNzI0MUJPYkc0TWIwT0N2MTEzNGJSM2dKaThVZV9sWWQ3ZkRjN0EyQQ?oc=5",
-      "data": "01/10 19:44"
-    },
-    {
-      "titulo": "Hulk relembra conselho de Angioni no Fluminense: “Me tocou bastante” - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNblpmd21ydDdGOXpjX05aVkM3TEZ5bVA1cHFKejM3bmgtNHpxc2dRbFJzN0c3OGRCQVBlTkhZTmpRbm5tV0EwajVPblhCZEtQQXFJUkxBWFk0eUxFd3dtWEk0OGNSWHljMUdza3pQNl93OXJPVXh1WjdyTHdFYWdYV0FFeWlTblQ4ZmR4emx3Sk8wMFFrU2VZ?oc=5",
-      "data": "01/10 19:47"
-    },
-    {
-      "titulo": "Fluminense tem vaga em aberto no ataque? Veja como está a disputa - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1Rha2FkZGNyZzlITXdqQTQ3N0Ria3F3dUgycUl1NndCUHFrZzh6bFZiSnZDUzhKVmdTUjZiQWdFOW55RTVGa2RwdjBNR2lra3VkTmtnZ0tHaXZzRkRLdkt6eTJyWXJkNlJoTmtKT3JJbXJ3TnpUNFVXVEZvZjVZcEl5enhpcjc1LVIwXzE1UkJlQ1FlaGIxMGEyU0ktSVZndXJBd2w0OEtQdkpoeEVXbzJYc3E4R3U1cmhCOWxWUWVxV1UtOThpQm9LX0ttZTZt0gHfAUFVX3lxTE04ME5hYUhPVHlsaGhXN0xPME5uUFdxQlkxZWJiTTAybW9oWWRQQnBXRGxINS14T1Q3UVZDSS1iYjFmak13TUFEOGlQSGJuMEc5TlduYS1lRmFTTHZCeEdRb3JZeUlTLV9TMWNCeEc0OFExbjFmYkpNOVhJa2NYMjhPbUZNWEZ6d2dWMEZfaWhlTXE5Szd2QUZUY3RCUTloalVMRnhadmhFTlhSOTdPZmlZZTBuTmtwLTlTbEw1UGRxRmZXODdOX1RxMUM4SUpObm5iN1h2STBueFBtTVlxZ2c?oc=5",
-      "data": "01/10 18:04"
+      "titulo": "Resumo do Dia: Desfalques, reforços, contratos e movimentações extracampo do Fluminense (01/10) - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVm9rUDJ2SWppdnpMd05tNHNNUGRIaHBfaENaYVBReVlVYVZUVTY0RzdLb1pmNTBZWldhTExxV0owc2VKV3Z3SUlGTVhOMjhNSHZvY21jMzlCcVVnM3VtblpQTmJMMXl5LXRHaExmMGhGWVhyRTlaXzlVLV84UmdTVHlQZlgwcDRiclYtZHBZR0I?oc=5",
+      "data": "02/10 02:05"
     },
     {
       "titulo": "Thiago Silva descansa na Data Fifa e volta ao Rio em busca de título - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQm11SHhPMzU0NVNNSVdxbjdRZEV5alBNWVBMQV92Rkw4TXFDVUtiZFdZdlI5ajlWcldkUUpqTkUxWG0tUm1KUkZCRHFVMl8zSkM2bFA5cXJUYllzRmRHZXAwN3I1Y0hTMEVxbm9vcVJHU2NPajlwUGhZaGxsVnB4cTBINWdaNEh4M3A2TG5kSXQ5MFJLZmRsc1JTa2hpMmV3dFUxREcyQ0Y5ZXRKMDUta21YWndLNGVfNHhscDZycWFHZWpLNmh4V21CWdIB0AFBVV95cUxNR0RjVHR0bmVzckM4VGQ0eWdLN1QtSFp6aFJxaVFhbEVuVnZKVnR4OXJaS1V5YW04WVFWSHY4cVJxQlJnS0FCVmtjbkt5MkxBQ29abERqRjBQdTRyWEJrSkRZTUJYVk1NMkZjSmpZZEd3S3J4WkNiWlBYVzFfWHBRSDBiR0cxbW5UTzhIUnJWenh4bnpwWlhRdy1mRXkwT1luV2VpS0xsRTVENi11bzdLZHFvcUZwUkE5Y2pnY2RsdEJfeDlFZXNYNFc5WGNCc1o4?oc=5",
       "data": "01/10 13:20"
+    },
+    {
+      "titulo": "Estrangeiros são diferencial para adaptação de Millán no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPejBUTDByYTJNUDFrdGxVbmZhU191YlhKTjV0eGFTN0x6VEg2WUJFVEJCWDh4cWJ1eHZJNlBYaE5rMlEtem9zaWMzS0pwdG1DTFdDVDFXaHBpRTVZdDJXa002RDZxZUxBcFJSaEtRZDlJcWdQN1BVMWRfUV9hdFZFQV9DZ1ROdHVPTDgzeGx5czlFWkJjWGQtQ1RQOTRpWG0xYkxKOUpNSzBFYjVMd1Nqd3RxblQxa1QwTFdVZjBqTk1XWF9rVHFpN09TZHRkelhsMm5UNmE5Qm1nSXpQbU9zNi1BaDdvY0RacXcxOGJrWQ?oc=5",
+      "data": "01/10 17:25"
+    },
+    {
+      "titulo": "Fluminense é multado por conta de sinalizadores - SBT Sports",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXh4cGloX0lfcy04eTBfb09yYWRIWWRUR18zeTMyZHp2NUxXQ3g3X2MySkNSSU12WFNHeXFwM1Q4aG1qZjJJMU5DLUlneW1iZlkzaU9USEx6Z2xHd0ltQzg5eGMyUXJ3MkhxcVhrUll4YTdUZl9XcndvNnBaNkVnOEplQkQzYUlBQzZacDJqZjhnbGhCcGhr?oc=5",
+      "data": "01/10 15:22"
     }
   ],
   "avisos": []
