@@ -1,47 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "03/10/2026 09:59",
+  "atualizado_em": "03/10/2026 14:08",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "10:00",
-      "competition": "UEFA Nations League",
-      "match": "Finlândia x Albânia",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Ceará",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "11:00",
-      "competition": "Amistosos Seleções",
-      "match": "India x Brasil",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "11:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Progreso",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-03",
@@ -155,10 +114,23 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-03",
       "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Atletico Tucuman x Barracas Central",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Botafogo PB",
       "channels": [
-        "DISNEY+"
+        "BAND",
+        "SPORTYNET",
+        "CANAL DO BENJA"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "17:00",
+      "competition": "Brasileirão Série C",
+      "match": "Santa Cruz x Maringá",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -175,21 +147,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-03",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Santa Cruz x Maringá",
+      "competition": "Campeonato Argentino",
+      "match": "Atletico Tucuman x Barracas Central",
       "channels": [
-        "SPORTYNET"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Botafogo PB",
-      "channels": [
-        "BAND",
-        "SPORTYNET"
+        "DISNEY+"
       ]
     },
     {
@@ -209,7 +170,7 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Atlético-MG x RB Bragantino",
       "channels": [
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -252,7 +213,7 @@ window.PAINEL_DATA = {
       "match": "Inter De Limeira x Brusque",
       "channels": [
         "SPORTYNET",
-        "YOUTUBE"
+        "CANAL DO BENJA"
       ]
     },
     {
@@ -272,7 +233,49 @@ window.PAINEL_DATA = {
       "competition": "Amistosos Seleções",
       "match": "Estados Unidos x México",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "10:00",
+      "competition": "UEFA Nations League",
+      "match": "Finlândia x Albânia",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Progreso",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "competition": "Amistosos Seleções",
+      "match": "India x Brasil",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Ceará",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -282,7 +285,7 @@ window.PAINEL_DATA = {
       "competition": "UEFA Nations League",
       "match": "Azerbaijão x Lituânia",
       "channels": [
-        "SPORTV 2"
+        "SPORTV"
       ]
     },
     {
@@ -333,7 +336,8 @@ window.PAINEL_DATA = {
       "competition": "NWSL Feminina",
       "match": "NJ/NY Gotham FC (F) x Angel City (F)",
       "channels": [
-        "ESPN 3"
+        "ESPN 3",
+        "DISNEY+"
       ]
     },
     {
@@ -363,7 +367,6 @@ window.PAINEL_DATA = {
       "competition": "UEFA Nations League",
       "match": "Grécia x Alemanha",
       "channels": [
-        "SPORTV 2",
         "SPORTV 3"
       ]
     },
@@ -374,7 +377,8 @@ window.PAINEL_DATA = {
       "competition": "UEFA Nations League",
       "match": "Holanda x Sérvia",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -530,14 +534,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
+      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
       "data": "02/10 18:20"
-    },
-    {
-      "titulo": "Conmebol Libertadores 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0xfd1JweTVIcjZEcDZxSkM3WUlKa1IydU1DbHY1NlFiNmxrVHdJd2NNbEIxc202dXFsUHFyRVZWWTFmd3d2d2lOSHJWOXRRTjU1Y0VKWllVb3BJeUxqdjR1RjZxdERXSmdxamVyX05BQzllcTBWVDZtaVFBTkNiWDhoTlh4UlFjYTBPdjMyY183WmU2amdaQ0J3MWVqaU5WNGJvMFpyalh4T21NbFdGTVYtRVVON0FU?oc=5",
-      "data": "02/10 18:53"
     },
     {
       "titulo": "Fluminense x Palmeiras: veja preços dos ingressos e como comprar - LANCE!",
@@ -545,14 +544,19 @@ window.PAINEL_DATA = {
       "data": "02/10 19:19"
     },
     {
-      "titulo": "Sequência no Rio é primordial em planos do Fluminense na Libertadores - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUIxRERCcFNya2YxZDBjQXlmLVNPQWJ6blpkd3kxdzlUd1RIS3Z0QUtTVkpTSkhJbmV0MzJFUm1sdzhMbFI0OWRBOTZ0Tk45NmRFMnZobkV4a0I3VGc1ang5REtaSnJOUmR3TVFfb1U3Wng0U0VacG9UZFc0cF9zWHVmSEVldnB2WFJCRlpZVDlUcnk5SjdlSWZDMWJLVHlFVzZpSVhSdUtfcldDWVlXd2VaZWJIbjdtX1ZLLVhwVGRRVEtQNkY2NzJRQUM3MlZiaHNaeDdzNDU3Ujk5dUtrSzRJSHhvd3loZE5VbGQ2V094Zw?oc=5",
-      "data": "03/10 10:37"
+      "titulo": "Conmebol Libertadores 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0xfd1JweTVIcjZEcDZxSkM3WUlKa1IydU1DbHY1NlFiNmxrVHdJd2NNbEIxc202dXFsUHFyRVZWWTFmd3d2d2lOSHJWOXRRTjU1Y0VKWllVb3BJeUxqdjR1RjZxdERXSmdxamVyX05BQzllcTBWVDZtaVFBTkNiWDhoTlh4UlFjYTBPdjMyY183WmU2amdaQ0J3MWVqaU5WNGJvMFpyalh4T21NbFdGTVYtRVVON0FU?oc=5",
+      "data": "02/10 18:53"
     },
     {
-      "titulo": "Fluminense celebra aniversário de Fred - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwX0poY0VBd01nUzl4anYySDhhQWl0RXliSjFabVBicEstUS1tWnZQcW1xNGFNM2tWSHR2cGtBaUN3SEVCUG85QWIwRUtpMGZhdUx0NmZjT1kwaHd4eU5NMy13dmVXQ3VvTVlhZ0tSUFB0WWs?oc=5",
-      "data": "03/10 11:43"
+      "titulo": "Ex-Fluminense, Nenê negocia compra de SAF do Botafogo-PB - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWW41M1RYWGNvb3pnNm5nWjhCUlZwNmx5YlA0bzlkWTk4VWV3NF9jcW5OSEZsLU1kLUtQZ05CejJseTlFMG5UWlpvOGY2T3ltdThlZy04U0tNNDIxclQtVUxVUU9oMWZudzZfLUVDNUNQb0xGZzNNQ2hxaFh6ay1HMmV1amI5UUstSDY5Q3ZVSnFnRmloa2tOMmhQZTh4S0hzSk9UdkxuaXJBSFVY?oc=5",
+      "data": "03/10 14:00"
+    },
+    {
+      "titulo": "Eterno! Veja alguns dos melhores gols de Fred pelo Fluminense - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazJQMDMzX2JlTElTNC02RGRsR0h5S2N3NGp5N1c2QzdMUXhlSHZyWVgxMDI3ODhvSlY5NWxFVzB5OHRlV2pmSGIwdk5OMUQwUVczOGMyRUpQQWxaSld6bk56ZzRpakZHbjJrc3lZRFlSRDFnVDRKaVNXVmtrOXZ4elJwUkF4emxWeXJJb3BwSzA?oc=5",
+      "data": "03/10 15:31"
     }
   ],
   "avisos": []
