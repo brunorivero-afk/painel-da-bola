@@ -1,57 +1,15 @@
 {
-  "atualizado_em": "03/10/2026 14:08",
+  "atualizado_em": "03/10/2026 17:31",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-10-03",
-      "time": "13:00",
+      "time": "15:45",
       "competition": "UEFA Nations League",
-      "match": "Croácia x Inglaterra",
+      "match": "Suíça x Eslovênia",
       "channels": [
-        "ESPN",
+        "ESPN 4",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Islândia x Bulgária",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Estônia x Luxemburgo",
-      "channels": [
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Albion FC x Defensor Sporting",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "15:00",
-      "competition": "Copa Paulista",
-      "match": "Uniao Sao Joao x Gremio Prudente",
-      "channels": [
-        "XSPORTS",
-        "ONEFOOTBALL",
-        "YOUTUBE"
       ]
     },
     {
@@ -67,12 +25,11 @@
     {
       "sport": "futebol",
       "date": "2026-10-03",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Suíça x Eslovênia",
+      "time": "16:00",
+      "competition": "Amistosos Seleções",
+      "match": "Costa do Marfim x Camarões",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "BANDSPORTS"
       ]
     },
     {
@@ -84,16 +41,6 @@
       "channels": [
         "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "16:00",
-      "competition": "Amistosos Seleções",
-      "match": "Costa do Marfim x Camarões",
-      "channels": [
-        "BANDSPORTS"
       ]
     },
     {
@@ -280,6 +227,59 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Estônia x Luxemburgo",
+      "channels": [
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Islândia x Bulgária",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Croácia x Inglaterra",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "competition": "Copa Paulista",
+      "match": "Uniao Sao Joao x Gremio Prudente",
+      "channels": [
+        "XSPORTS",
+        "ONEFOOTBALL",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Albion FC x Defensor Sporting",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-04",
       "time": "10:00",
       "competition": "UEFA Nations League",
@@ -326,7 +326,7 @@
       "competition": "UEFA Nations League",
       "match": "Malta x Andorra",
       "channels": [
-        "SPORTV 2"
+        "SPORTV"
       ]
     },
     {
@@ -505,7 +505,7 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 20.9,
+      "temp_max": 21.0,
       "temp_min": 19.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -513,14 +513,14 @@
     {
       "cidade": "Araruama",
       "temp_max": 21.0,
-      "temp_min": 20.4,
+      "temp_min": 19.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.2,
-      "temp_min": 16.1,
+      "temp_max": 17.3,
+      "temp_min": 15.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
@@ -534,7 +534,7 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge.globo.com",
+      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
       "data": "02/10 18:20"
     },
@@ -549,14 +549,14 @@
       "data": "02/10 18:53"
     },
     {
-      "titulo": "Ex-Fluminense, Nenê negocia compra de SAF do Botafogo-PB - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWW41M1RYWGNvb3pnNm5nWjhCUlZwNmx5YlA0bzlkWTk4VWV3NF9jcW5OSEZsLU1kLUtQZ05CejJseTlFMG5UWlpvOGY2T3ltdThlZy04U0tNNDIxclQtVUxVUU9oMWZudzZfLUVDNUNQb0xGZzNNQ2hxaFh6ay1HMmV1amI5UUstSDY5Q3ZVSnFnRmloa2tOMmhQZTh4S0hzSk9UdkxuaXJBSFVY?oc=5",
-      "data": "03/10 14:00"
+      "titulo": "Fred disputa clássico no aniversário e se mantém invicto no Fluminense sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdFNGUTJ3MGZJb1RqZTJ0TjZ1VTM5VlZiSlNTSTdvZGdKdWZZZEJWSFlJT2hrNWF1bVhGbkZleFBhRlQ1b1I0M2h3S05wNWZoMXBHY3VVenM0a251UXNHZmU5YWRWMlAzNHFPWlM2emZ5M0Zhb19GeEpiczZPWmhoUWdUeGZ2LU5EN0pxSmdmR1pwV2pJQUh2MER1c0FxMEVsUTJOWG1ENElVbTlkRFJRalA1M0dPdjNSblRBYnRLYmVUVUxDMEhqOG4wR1BjenQyZ0VqRGxCOV9iMzNncEJSY1Jn0gHwAUFVX3lxTE9rWVpXclJoU2hVN0tiSlhSRUVBNmx4VC1oYjI3UkJkQk13RmppWFNOdzR6WWhweXozcF8yazVOVE1tNENtRzVrYUxoc0dDaHVoREhDR0VocXdSRHBvRktpN1cyZnZWQTFZNU5BcHdvcFZzRGtJNkRhcUNhV0pseVpYWUhaXzRKanhMc210UkRrOFRtSjJodklnRmtoeE5KNjZkaFpQMm45OUtUazFPcTFKTElnaVJWNk1BekY2MDJvRWdHaHBzbnpUMm1iaVJ2M2ZXNl9aRGM1OTRCUVJBaFZIMmpOZ09hQWQtZW52UGJXVQ?oc=5",
+      "data": "03/10 18:45"
     },
     {
-      "titulo": "Eterno! Veja alguns dos melhores gols de Fred pelo Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOazJQMDMzX2JlTElTNC02RGRsR0h5S2N3NGp5N1c2QzdMUXhlSHZyWVgxMDI3ODhvSlY5NWxFVzB5OHRlV2pmSGIwdk5OMUQwUVczOGMyRUpQQWxaSld6bk56ZzRpakZHbjJrc3lZRFlSRDFnVDRKaVNXVmtrOXZ4elJwUkF4emxWeXJJb3BwSzA?oc=5",
-      "data": "03/10 15:31"
+      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
+      "data": "02/10 21:36"
     }
   ],
   "avisos": []
