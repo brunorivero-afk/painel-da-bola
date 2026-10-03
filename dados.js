@@ -1,58 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/10/2026 19:48",
+  "atualizado_em": "02/10/2026 22:41",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "18:00",
-      "competition": "CONCACAF Nations League",
-      "match": "São Cristóvão e Névis x Cuba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Suriname x Guatemala",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x CRB",
-      "channels": [
-        "PREMIERE 2",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "São Paulo x Santos",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Criciúma",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-02",
@@ -230,6 +178,58 @@ window.PAINEL_DATA = {
       "match": "St. Lucia x Guadeloupe",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "18:00",
+      "competition": "CONCACAF Nations League",
+      "match": "São Cristóvão e Névis x Cuba",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "19:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Suriname x Guatemala",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x CRB",
+      "channels": [
+        "PREMIERE 2",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "São Paulo x Santos",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-02",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Londrina x Criciúma",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -525,7 +525,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.8,
-      "temp_min": 17.7,
+      "temp_min": 17.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
@@ -544,24 +544,24 @@ window.PAINEL_DATA = {
       "data": "02/10 18:53"
     },
     {
-      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
-      "data": "02/10 18:20"
+      "titulo": "Fluminense, Botafogo e mais 15 clubes seguem Flamengo em recurso no STF sobre fim das bets - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLXJYd2ROWmdadEFOQS1Ja1JRNXZEZmxLYWdpVEVqTVVHc05PTk1ib2hUbGprTDhOWVBvWTkwdnQ2X2M5Y1dNYWpWeE9lWENDbEZYYnhyWGtUOVphNDBsOWJiQWt6SGNSVldVUUJOVWR6RHZoYS05WTJGYUhsQ0t4RF9GSm5rdXA4ZjFSTll6RlRnLUhfbU5IUUxwWXlqd3hTQ2c4LWt2Y0ZkY0pMQVQwd04yNFhSVzVLTjRPY0k3VWh5VERXQU5VbFhFLW1Ya3JWRV9PRnEzajhUUUZNalRwQWVvbFFzMmoyaUHSAfgBQVVfeXFMTmZaelEtMXpjRDFFbENDdGJDTndrTml2WGoyTTBIX2dlX0FUeFo1UG5fNm1jQ1I5c0Vma2IyaWdNX0NHVmpWZmo4cDlTb09LMV9NU3ZXSGprajQtV3pMc0JMbE1aOWpFZ3N6T1RBd1B0MkYwRUtEcFdYODFsbVQyZTF6eWFlOFdmZFRQcjdTdWdiMHVlUVk3S01ZaV9uMVRjNXB4aDF0UFNpd2FQRG9Na1hPQVZmWlhwYnZYRzhJR3EwendWcFo0LUlPVjFhaUJGNEpfSThBWGlKeVFlUFVxMWpmSEhxUEtlQkpwbF9maTZ5Q1g4NTBQd3U?oc=5",
+      "data": "02/10 22:05"
     },
     {
-      "titulo": "Fluminense vai recorrer após sofrer multa pesada da Conmebol - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWFPZ2V3aWJob0pzN3h5cHJhaS1fNWRWN004VTc4cjJIazluVVJjcTlUNkJmWk10VEx1MVMyNGlhTXBqMks5LU1lVkdMRlZRby13aDd3YzlYci11UWZHYWRNSlhNaUxvek5KOGZYbGFHT1VuaC13UDlYaWJRWmF2bG5fMTF4cnZNZlNBNDRMb19zVFRZUThfTG1CNWxMdUpHNzhj?oc=5",
-      "data": "01/10 20:15"
+      "titulo": "Fluminense pode perder patrocínio de até R$ 86 milhões por ano com MP das bets - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzVzUlpVcG9FMVhZazNnM2Y3b09tbTIzX1F4LWRORF9yR1hwSTR1Y0ZwUWs2VVprYXV2cjdGMEVsNFhmcUFyU0k2MnFPUzJpVTdmVVJFZGJoUnhjQkhXbGw2WFEwM0FlQ09rY3QwcUlTN2NadTVBTk55UVRXRGhSLXFWUEo1bjdYU0JwYw?oc=5",
+      "data": "02/10 22:06"
     },
     {
-      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF contra MP das Bets - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTngxSGgtMzdmeGUzcjdwd2NOU1FPTENXNThkNFVMbmVGNDRVQjdHdV9sOTh4NmVmMEVjQ20yakpXSXR0YW1FNjlra0NrcWdsZ3VwWk55YW81MllZY05ZU19GV19sMmxENTV5RkxDY0lyNjR3WUV1czg4cDd5WXc4QVdnVVRBNGVIeWNoRVNmLWNubkIwSlN4M3loQzhJZGdwNWVJRWI1cTVFQmMxamx6SFhB?oc=5",
-      "data": "02/10 19:08"
+      "titulo": "Hulk revela conselho de Angioni em fase difícil no Fluminense e pacto por Libertadores: \"Vamos buscar por ele\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQTBXREQ4clIxV3VHclA3ZlRSZExfOHZCeXF5NmhNd1RxLTN4WTNsWnRnQXdPdWRxSGNlaEczNjM1bEVsTlAtU0gyTzBsbUtGbl8wWjN0MHAwUmhBMVJveERBOW5jR3Q4cGhqeVdTcXZ0NGZsZjk0SlVVQmlMS0c4dWQ5dzFQYVRrNVdkTWN4RXJ1WWRDOE5fenZkLTlqUFlYYjhNSVdtcVNEempMU2k4Z1hOdVFSaDUxRy1aczZwZE5JN0g4QTNteDdpRjFxdThZQ1psV0NMRVo3dTR1RVRGcEpqZjhDeVo0OEVVZGJtcWtrNENLYnFtclJMbXJGVm1RYWtrSVg0blc4UdIBmAJBVV95cUxNZjBlbnB3SkRRZDdqMFdfTkc5ZndjYnJRdlg3NU12QWZNQ2FmclVqZDJTZHNtYjFCd3NhWUtOek1MN0hNb3JmbExFS0F4T3VSRFR6YUV4T0dGVmMtY253UXFHd3k4WFIxaWFlSXBkem81VmRvVGlvNXJNVlJNR2pzY19tb3lFUkxJTnJIbXByZmhONDhabkN3NkkxTGY2OXc4WnFPUzY0MjQ2cmVkY1ZoOWNENlJzMFJDbU1KZlB5a1BjM1VfMTJ5WTh3STBxQnBrWDFPeUN2NE5tZUxBUmdIQ0t1bjdJeUNwcGhQRnJWbVpmWVVtc0JlQm8wd3VMUTJnTmJZM0RPRTcybnJVMVVoa2Nha2pwd3N5?oc=5",
+      "data": "02/10 21:22"
     },
     {
-      "titulo": "Guga destaca ano no Fluminense e fala sobre Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHJ2cHU0cXdPcjZvbGxQV2ZhOEZBbjJNU2tqY19QY1gwR2daR0xzQWFCZDNEcm1UWDBVMXd0cWdxcHdCX3NXQlhOX2ZKa2lfc0wxSFdVajBjSnU1Z0l0X01DS2ZGNE12REJOeDMxUjNZU0UwWmtQSldkSlRRMm9xVVVoZ05zZU1iemhEMzBaZXhkcGFGOGl1Ml9WT0xNUUhPejcxcnFrM2ZfVlE4SzBj?oc=5",
-      "data": "02/10 19:30"
+      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - uol.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
+      "data": "02/10 21:36"
     }
   ],
   "avisos": []
