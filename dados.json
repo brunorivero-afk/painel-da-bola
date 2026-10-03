@@ -1,237 +1,6 @@
 {
-  "atualizado_em": "02/10/2026 22:41",
+  "atualizado_em": "03/10/2026 04:30",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "20:45",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x Operário-PR",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Bonaire x Granada",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Barbados x Bermuda",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "21:00",
-      "competition": "Amistosos Seleções",
-      "match": "Colômbia x Paraguai",
-      "channels": [
-        "SPORTV 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "21:30",
-      "competition": "Campeonato Argentino",
-      "match": "Boca Juniors x Union Santa Fe",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "21:35",
-      "competition": "Brasileirão Série B",
-      "match": "Fortaleza x Náutico",
-      "channels": [
-        "REDETV!",
-        "ESPN",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "23:00",
-      "competition": "CONCACAF Nations League",
-      "match": "El Salvador x Jamaica",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Chipre x Armenia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Letônia x Montenegro",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Bósnia e Herzegovina x Suécia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Ilhas Faroé x Eslováquia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Ucrânia x Irlanda do Norte",
-      "channels": [
-        "SPORTV 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Hungria x Georgia",
-      "channels": [
-        "SPORTV 2"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Polônia x Romênia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "França x Itália",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Bélgica x Turquia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "St. Lucia x Guadeloupe",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "18:00",
-      "competition": "CONCACAF Nations League",
-      "match": "São Cristóvão e Névis x Cuba",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Suriname x Guatemala",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x CRB",
-      "channels": [
-        "PREMIERE 2",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "São Paulo x Santos",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-02",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Londrina x Criciúma",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-03",
@@ -487,18 +256,220 @@
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-10-02",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Pinheiros x Osasco",
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "10:00",
+      "competition": "UEFA Nations League",
+      "match": "Azerbaijão x Lituânia",
       "channels": [
-        "SporTV2"
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Cerro Largo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "13:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Juventud",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Kosovo x Áustria",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "13:00",
+      "competition": "UEFA Nations League",
+      "match": "Malta x Andorra",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "14:00",
+      "competition": "NWSL Feminina",
+      "match": "NJ/NY Gotham FC (F) x Angel City (F)",
+      "channels": [
+        "ESPN 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "14:45",
+      "competition": "Campeonato Argentino",
+      "match": "Huracan x Aldosivi",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Portugal x Noruega",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Grécia x Alemanha",
+      "channels": [
+        "SPORTV 2",
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Holanda x Sérvia",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "16:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Guyana x Dominica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Talleres Cordoba x Belgrano Cordoba",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Turks and Caicos Islands x British Virgin Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Bahamas x US Virgin Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "19:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Trinidad and Tobago x Curaçao",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "19:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Puerto Rico x Cayman Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "19:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Penãrol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "20:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Aruba x Anguilla",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "21:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Costa Rica x Haiti",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "23:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Nicarágua x República Dominicana",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "time": "19:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Itaqua",
@@ -510,58 +481,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.9,
-      "temp_min": 20.3,
+      "temp_max": 22.3,
+      "temp_min": 19.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.3,
-      "temp_min": 20.8,
+      "temp_max": 21.2,
+      "temp_min": 20.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.8,
-      "temp_min": 17.6,
+      "temp_max": 17.7,
+      "temp_min": 16.0,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.8,
-      "temp_min": 15.5,
+      "temp_max": 16.8,
+      "temp_min": 14.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
+      "titulo": "Fluminense e Palmeiras definem carga de ingressos de visitantes na Libertadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFNBa2NjWkd3eTNXZWhsaDB3TzZHblF1d2ltdk5BS2dGN05nbDR4Z1lpeW1zMmJ6cmRMLVN0OHlhRGppUzVXb2czLXQtMTZNMUk1RzVaWlpWUEo5aUF6bzhlTk9MUFUzRnYtSlVLS1JLWjgwVlhubmxwXzNmY3VsM0dOb1JUNDNNZ2owaU9hWWYtUWdlNGdJY1FrcnlKUTNHVTN4MUxjaTNKdzI0ZjBKb194RldfMmZtYmp5cEFaZzN3djBuS1hXU2xZcVdtMlBnMU9YWXU5anVpb0FjRzRkWkp2MlcxTWlkYnE2cWdpeS1fN211RUZtR3RCVQ?oc=5",
+      "data": "03/10 03:33"
+    },
+    {
+      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
+      "data": "02/10 18:20"
+    },
+    {
       "titulo": "Conmebol Libertadores 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0xfd1JweTVIcjZEcDZxSkM3WUlKa1IydU1DbHY1NlFiNmxrVHdJd2NNbEIxc202dXFsUHFyRVZWWTFmd3d2d2lOSHJWOXRRTjU1Y0VKWllVb3BJeUxqdjR1RjZxdERXSmdxamVyX05BQzllcTBWVDZtaVFBTkNiWDhoTlh4UlFjYTBPdjMyY183WmU2amdaQ0J3MWVqaU5WNGJvMFpyalh4T21NbFdGTVYtRVVON0FU?oc=5",
       "data": "02/10 18:53"
     },
     {
-      "titulo": "Fluminense, Botafogo e mais 15 clubes seguem Flamengo em recurso no STF sobre fim das bets - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOLXJYd2ROWmdadEFOQS1Ja1JRNXZEZmxLYWdpVEVqTVVHc05PTk1ib2hUbGprTDhOWVBvWTkwdnQ2X2M5Y1dNYWpWeE9lWENDbEZYYnhyWGtUOVphNDBsOWJiQWt6SGNSVldVUUJOVWR6RHZoYS05WTJGYUhsQ0t4RF9GSm5rdXA4ZjFSTll6RlRnLUhfbU5IUUxwWXlqd3hTQ2c4LWt2Y0ZkY0pMQVQwd04yNFhSVzVLTjRPY0k3VWh5VERXQU5VbFhFLW1Ya3JWRV9PRnEzajhUUUZNalRwQWVvbFFzMmoyaUHSAfgBQVVfeXFMTmZaelEtMXpjRDFFbENDdGJDTndrTml2WGoyTTBIX2dlX0FUeFo1UG5fNm1jQ1I5c0Vma2IyaWdNX0NHVmpWZmo4cDlTb09LMV9NU3ZXSGprajQtV3pMc0JMbE1aOWpFZ3N6T1RBd1B0MkYwRUtEcFdYODFsbVQyZTF6eWFlOFdmZFRQcjdTdWdiMHVlUVk3S01ZaV9uMVRjNXB4aDF0UFNpd2FQRG9Na1hPQVZmWlhwYnZYRzhJR3EwendWcFo0LUlPVjFhaUJGNEpfSThBWGlKeVFlUFVxMWpmSEhxUEtlQkpwbF9maTZ5Q1g4NTBQd3U?oc=5",
-      "data": "02/10 22:05"
-    },
-    {
-      "titulo": "Fluminense pode perder patrocínio de até R$ 86 milhões por ano com MP das bets - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzVzUlpVcG9FMVhZazNnM2Y3b09tbTIzX1F4LWRORF9yR1hwSTR1Y0ZwUWs2VVprYXV2cjdGMEVsNFhmcUFyU0k2MnFPUzJpVTdmVVJFZGJoUnhjQkhXbGw2WFEwM0FlQ09rY3QwcUlTN2NadTVBTk55UVRXRGhSLXFWUEo1bjdYU0JwYw?oc=5",
-      "data": "02/10 22:06"
-    },
-    {
-      "titulo": "Hulk revela conselho de Angioni em fase difícil no Fluminense e pacto por Libertadores: \"Vamos buscar por ele\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQTBXREQ4clIxV3VHclA3ZlRSZExfOHZCeXF5NmhNd1RxLTN4WTNsWnRnQXdPdWRxSGNlaEczNjM1bEVsTlAtU0gyTzBsbUtGbl8wWjN0MHAwUmhBMVJveERBOW5jR3Q4cGhqeVdTcXZ0NGZsZjk0SlVVQmlMS0c4dWQ5dzFQYVRrNVdkTWN4RXJ1WWRDOE5fenZkLTlqUFlYYjhNSVdtcVNEempMU2k4Z1hOdVFSaDUxRy1aczZwZE5JN0g4QTNteDdpRjFxdThZQ1psV0NMRVo3dTR1RVRGcEpqZjhDeVo0OEVVZGJtcWtrNENLYnFtclJMbXJGVm1RYWtrSVg0blc4UdIBmAJBVV95cUxNZjBlbnB3SkRRZDdqMFdfTkc5ZndjYnJRdlg3NU12QWZNQ2FmclVqZDJTZHNtYjFCd3NhWUtOek1MN0hNb3JmbExFS0F4T3VSRFR6YUV4T0dGVmMtY253UXFHd3k4WFIxaWFlSXBkem81VmRvVGlvNXJNVlJNR2pzY19tb3lFUkxJTnJIbXByZmhONDhabkN3NkkxTGY2OXc4WnFPUzY0MjQ2cmVkY1ZoOWNENlJzMFJDbU1KZlB5a1BjM1VfMTJ5WTh3STBxQnBrWDFPeUN2NE5tZUxBUmdIQ0t1bjdJeUNwcGhQRnJWbVpmWVVtc0JlQm8wd3VMUTJnTmJZM0RPRTcybnJVMVVoa2Nha2pwd3N5?oc=5",
-      "data": "02/10 21:22"
-    },
-    {
-      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - uol.com.br",
+      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
       "data": "02/10 21:36"
+    },
+    {
+      "titulo": "Veja como estão Lavega, Lezcano e outros jogadores emprestados pelo Fluminense - ge.globo.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOekdvNmJTWUpjamljOVIzdjg3T1dWdm1DSVluT2FqZDd5S1JwM2RhWE9uTVNheTFkN2JSd2V5X3BWSm90V2lpdHBIVWR6VzZlWkF6QVp1b1VPZk0zTVE3ZS0zQ1pxemlRdlp4b0g1WEk2OURoaWlERUtNbE13R2JyVGhHeVhNbEV2ZVZLVnFfVTVDUk9YdDVMbGxyYWRaY1ZQeXNHTFNkOWpFU3dMT2pBcnFTMkRra1lvc1MzZTllb0pqaW5jaVhvbHNQdGF3MXNqMjBsMjcxTF8yWnlSTzV1bkdR0gHwAUFVX3lxTE1IU3oxcWtSTW9CWkhiWDgtbU5xdDhqdUhTN0NqdUJhd3lWNktBa0pFVEViSGd3dTlaeWVaRHd2dVF6Y0JQaFZrU0NqbW9YQ3NDXzVVNFNOMWsxVlVZQjkzcVI1Ry1KM0NlX1NsZTZYdW9DVXJ6UERMQ1FDOXVkSzVkcFo5RlJ4NVkyQWlEemFUekx5cmNrQmdyZGp0YTRESEdzOFZFdG9zLThCb3hKX2NSY1RBZmdTcmVOMkFmZ0szQ05hNUUwakFDdUFvdEVKd0dMUGduVEYwY3RJclNoOHhuSEdGcWt6clZ2Zm9zaEMzQw?oc=5",
+      "data": "02/10 07:00"
     }
   ],
   "avisos": []
