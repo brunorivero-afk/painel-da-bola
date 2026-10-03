@@ -1,6 +1,26 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "03/10/2026 04:30",
+  "atualizado_em": "03/10/2026 09:59",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "10:00",
+      "competition": "UEFA Nations League",
+      "match": "Finlândia x Albânia",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Ceará",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-03",
@@ -18,16 +38,6 @@ window.PAINEL_DATA = {
       "time": "11:00",
       "competition": "Campeonato Uruguaio",
       "match": "Liverpool Montevideo x Progreso",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-03",
-      "time": "11:00",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Ceará",
       "channels": [
         "DISNEY+"
       ]
@@ -120,6 +130,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-03",
+      "time": "16:00",
+      "competition": "Amistosos Seleções",
+      "match": "Costa do Marfim x Camarões",
+      "channels": [
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-03",
       "time": "16:30",
       "competition": "Brasileirão Feminino",
       "match": "São Paulo (F) x Corinthians (F)",
@@ -145,11 +165,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-03",
       "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Floresta x Botafogo PB",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Ponte Preta",
       "channels": [
-        "BAND",
-        "SPORTYNET"
+        "DISNEY+"
       ]
     },
     {
@@ -166,10 +185,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-03",
       "time": "17:00",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Ponte Preta",
+      "competition": "Brasileirão Série C",
+      "match": "Floresta x Botafogo PB",
       "channels": [
-        "DISNEY+"
+        "BAND",
+        "SPORTYNET"
       ]
     },
     {
@@ -470,9 +490,9 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-10-03",
-      "time": "19:10",
+      "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Campinas x Itaqua",
+      "match": "Pinheiros x Osasco",
       "channels": [
         "SporTV2"
       ]
@@ -481,41 +501,36 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.3,
+      "temp_max": 20.9,
       "temp_min": 19.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 21.2,
-      "temp_min": 20.2,
+      "temp_max": 21.0,
+      "temp_min": 20.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.7,
-      "temp_min": 16.0,
+      "temp_max": 18.2,
+      "temp_min": 16.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.8,
-      "temp_min": 14.8,
+      "temp_max": 17.0,
+      "temp_min": 14.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense e Palmeiras definem carga de ingressos de visitantes na Libertadores - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFNBa2NjWkd3eTNXZWhsaDB3TzZHblF1d2ltdk5BS2dGN05nbDR4Z1lpeW1zMmJ6cmRMLVN0OHlhRGppUzVXb2czLXQtMTZNMUk1RzVaWlpWUEo5aUF6bzhlTk9MUFUzRnYtSlVLS1JLWjgwVlhubmxwXzNmY3VsM0dOb1JUNDNNZ2owaU9hWWYtUWdlNGdJY1FrcnlKUTNHVTN4MUxjaTNKdzI0ZjBKb194RldfMmZtYmp5cEFaZzN3djBuS1hXU2xZcVdtMlBnMU9YWXU5anVpb0FjRzRkWkp2MlcxTWlkYnE2cWdpeS1fN211RUZtR3RCVQ?oc=5",
-      "data": "03/10 03:33"
-    },
-    {
-      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge.globo.com",
+      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
       "data": "02/10 18:20"
     },
@@ -525,14 +540,19 @@ window.PAINEL_DATA = {
       "data": "02/10 18:53"
     },
     {
-      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
-      "data": "02/10 21:36"
+      "titulo": "Fluminense x Palmeiras: veja preços dos ingressos e como comprar - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlBtT2VvQVgxamZfLUJwdWJlSEtJYmVEWlhVRWRfOEJTOElPcHV2cHg5WHRDZTB3MkQtTXdubE5IVWNGdjFiM3RBTWZBanV2MGYxRG9CRVQxdEU4QWhFb0lid3dKeENLRWwzeUJxYzdYVmZkT0EzRy1qQnU4NVM3R2JtR2ppY2R3R0pQM0NGM05nbFhJMlVUQ3BtM3UyYUY0VElLRGplQThEektJRVJYYWdMNmMxUlFhemVtMFZOQjl5WDg1WnBXcTVR?oc=5",
+      "data": "02/10 19:19"
     },
     {
-      "titulo": "Veja como estão Lavega, Lezcano e outros jogadores emprestados pelo Fluminense - ge.globo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOekdvNmJTWUpjamljOVIzdjg3T1dWdm1DSVluT2FqZDd5S1JwM2RhWE9uTVNheTFkN2JSd2V5X3BWSm90V2lpdHBIVWR6VzZlWkF6QVp1b1VPZk0zTVE3ZS0zQ1pxemlRdlp4b0g1WEk2OURoaWlERUtNbE13R2JyVGhHeVhNbEV2ZVZLVnFfVTVDUk9YdDVMbGxyYWRaY1ZQeXNHTFNkOWpFU3dMT2pBcnFTMkRra1lvc1MzZTllb0pqaW5jaVhvbHNQdGF3MXNqMjBsMjcxTF8yWnlSTzV1bkdR0gHwAUFVX3lxTE1IU3oxcWtSTW9CWkhiWDgtbU5xdDhqdUhTN0NqdUJhd3lWNktBa0pFVEViSGd3dTlaeWVaRHd2dVF6Y0JQaFZrU0NqbW9YQ3NDXzVVNFNOMWsxVlVZQjkzcVI1Ry1KM0NlX1NsZTZYdW9DVXJ6UERMQ1FDOXVkSzVkcFo5RlJ4NVkyQWlEemFUekx5cmNrQmdyZGp0YTRESEdzOFZFdG9zLThCb3hKX2NSY1RBZmdTcmVOMkFmZ0szQ05hNUUwakFDdUFvdEVKd0dMUGduVEYwY3RJclNoOHhuSEdGcWt6clZ2Zm9zaEMzQw?oc=5",
-      "data": "02/10 07:00"
+      "titulo": "Sequência no Rio é primordial em planos do Fluminense na Libertadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUIxRERCcFNya2YxZDBjQXlmLVNPQWJ6blpkd3kxdzlUd1RIS3Z0QUtTVkpTSkhJbmV0MzJFUm1sdzhMbFI0OWRBOTZ0Tk45NmRFMnZobkV4a0I3VGc1ang5REtaSnJOUmR3TVFfb1U3Wng0U0VacG9UZFc0cF9zWHVmSEVldnB2WFJCRlpZVDlUcnk5SjdlSWZDMWJLVHlFVzZpSVhSdUtfcldDWVlXd2VaZWJIbjdtX1ZLLVhwVGRRVEtQNkY2NzJRQUM3MlZiaHNaeDdzNDU3Ujk5dUtrSzRJSHhvd3loZE5VbGQ2V094Zw?oc=5",
+      "data": "03/10 10:37"
+    },
+    {
+      "titulo": "Fluminense celebra aniversário de Fred - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwX0poY0VBd01nUzl4anYySDhhQWl0RXliSjFabVBicEstUS1tWnZQcW1xNGFNM2tWSHR2cGtBaUN3SEVCUG85QWIwRUtpMGZhdUx0NmZjT1kwaHd4eU5NMy13dmVXQ3VvTVlhZ0tSUFB0WWs?oc=5",
+      "data": "03/10 11:43"
     }
   ],
   "avisos": []
