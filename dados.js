@@ -1,108 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/10/2026 15:58",
+  "atualizado_em": "04/10/2026 19:15",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "14:00",
-      "competition": "NWSL Feminina",
-      "match": "NJ/NY Gotham FC (F) x Angel City (F)",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "14:45",
-      "competition": "Campeonato Argentino",
-      "match": "Huracan x Aldosivi",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Portugal x Noruega",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Grécia x Alemanha",
-      "channels": [
-        "SPORTV 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Holanda x Sérvia",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Wanderers",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Guyana x Dominica",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Talleres Cordoba x Belgrano Cordoba",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Turks and Caicos Islands x British Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Bahamas x US Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-04",
@@ -212,6 +110,108 @@ window.PAINEL_DATA = {
       "match": "Boston River x Juventud",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "14:00",
+      "competition": "NWSL Feminina",
+      "match": "NJ/NY Gotham FC (F) x Angel City (F)",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "14:45",
+      "competition": "Campeonato Argentino",
+      "match": "Huracan x Aldosivi",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Portugal x Noruega",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Grécia x Alemanha",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Holanda x Sérvia",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "16:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Wanderers",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "16:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Guyana x Dominica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Talleres Cordoba x Belgrano Cordoba",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Turks and Caicos Islands x British Virgin Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Bahamas x US Virgin Islands",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -422,19 +422,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
-      "data": "02/10 18:20"
+      "titulo": "Intensidade, bola aérea, desfalques e elogios a Castillo: veja detalhes do último treino do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdEJfWVN2RFpPVDlJZll1VFROclJYZXN5SVZMYnFBYV9wOUhhM0U1U3Q3NGFJdFQtRy1QRkVfbmlUc21QcGJqTmlXdzVRaU1seTNGdjZUVVI1cFJPRXNWSENVdnBoUmhodEgxbVdORHVZYTFDbHlDZHY0dHZ3bWNLaVI2Q3lnMmZvTzBCb21zNU1FZHFMUDNHcUlSTmdUU04zWnN1SVZXdEdNMGtfMjdWT1VFaHBoRFBTQ1RXTE9hYV9yc2xXMU5rLXBDLXRpSEt0dnkxY2VYUEFfb19SN2M2NjFaMTJBeUF4akdPckRfaE1OM2VHUmVDU1N3dTlEbkXSAY4CQVVfeXFMTXJET3Vma1RKbExxa3pTbDVCYTlSYW1uRjVORWR2WTRoeDlXRU92WU9vMmVwTjZZQzIyM1pqa0tKUlRMUmQ2c0NRbk5fNHRleTI0M1JqN0FQV2I5TGt1Ml9nMXFuSUFTcFg4SjBKWHN4OTVfUk9hZUF2N1pLaS1TWWNGTVowRFJRRXdQVWRvYnZrbGhKUUpyWmVPdnBBM2FpZ2NiOV9LOGxiTjBOTXZEZFVRUlJwR2p4RFRlUVFtWFY0Nm5xdlhnb0pzM1Y4WDc3Z29IMXdlbGhXN0ZvLTFiYkpuWGRXN01paUQxM3JCMUN1dHVta0VLZTZHajRSQUx4am9HUVRyN3p5cTlfX3BR?oc=5",
+      "data": "04/10 17:51"
     },
     {
-      "titulo": "Conmebol Libertadores 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0xfd1JweTVIcjZEcDZxSkM3WUlKa1IydU1DbHY1NlFiNmxrVHdJd2NNbEIxc202dXFsUHFyRVZWWTFmd3d2d2lOSHJWOXRRTjU1Y0VKWllVb3BJeUxqdjR1RjZxdERXSmdxamVyX05BQzllcTBWVDZtaVFBTkNiWDhoTlh4UlFjYTBPdjMyY183WmU2amdaQ0J3MWVqaU5WNGJvMFpyalh4T21NbFdGTVYtRVVON0FU?oc=5",
-      "data": "02/10 18:53"
+      "titulo": "Fluminense vence o Universitario (PER) e é campeão da Copa Brasília de vôlei - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcExmQ0dfNG8tSnh6dWVMZTJXVUpKLV9ZTndVMmozdXBKSVphY1lBNThZM2VoSTdjaDhGb1lWMTNaZXdmbGVtZkhvbFVGdnVjd2VNejZvNHR2NnhidUJYUTRCNFYxMS03OS12N2FtNk9uTENsRlhFUVhzbUxza3R1NlhrUVkyYVlsUF9YUUVPem5NQVlzaFJRODc3SmNfMGtubFBVZFF3SHBudklhSmJkcXJ3?oc=5",
+      "data": "04/10 00:56"
     },
     {
-      "titulo": "Fluminense x Palmeiras: veja preços dos ingressos e como comprar - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlBtT2VvQVgxamZfLUJwdWJlSEtJYmVEWlhVRWRfOEJTOElPcHV2cHg5WHRDZTB3MkQtTXdubE5IVWNGdjFiM3RBTWZBanV2MGYxRG9CRVQxdEU4QWhFb0lid3dKeENLRWwzeUJxYzdYVmZkT0EzRy1qQnU4NVM3R2JtR2ppY2R3R0pQM0NGM05nbFhJMlVUQ3BtM3UyYUY0VElLRGplQThEektJRVJYYWdMNmMxUlFhemVtMFZOQjl5WDg1WnBXcTVR?oc=5",
-      "data": "02/10 19:19"
+      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
+      "data": "02/10 17:36"
     },
     {
       "titulo": "Thiago Silva vive dia de técnico no Fluminense; entenda - LANCE!",
@@ -442,9 +442,9 @@ window.PAINEL_DATA = {
       "data": "03/10 23:17"
     },
     {
-      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
-      "data": "02/10 17:36"
+      "titulo": "Torcida do Fluminense recebe péssima notícia vinda da Inglaterra - jornalcruzeiro.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlVXLTRkVGJOQnFEOFk2OU5WTlJueVJmdGVOQklqdEpyZGhVZ1FabDQxeERIeURfTHlUNkYwcm1MQy1iZG5QR0gwcVpESE5vWDBIUzB5S3FWNXQyMW5vMV83NFdjQnFSZy1OLVlrVVk2ekpvVG5DZDFNSFNuQWdMZ3p2UzlKTmRHWXNiVjNOaEdPUFo3LXM1NFhxNnEwWmVZeExyZU5oOXFHVm1WVDhr?oc=5",
+      "data": "04/10 10:00"
     }
   ],
   "avisos": []
