@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "04/10/2026 01:01",
+  "atualizado_em": "04/10/2026 07:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -394,30 +394,30 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 27.8,
-      "temp_min": 19.3,
-      "chance_chuva": 63,
-      "condicao": "Garoa fraca"
+      "temp_min": 19.2,
+      "chance_chuva": 57,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 27.3,
-      "temp_min": 20.9,
-      "chance_chuva": 64,
-      "condicao": "Garoa"
+      "temp_min": 20.5,
+      "chance_chuva": 55,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.3,
-      "temp_min": 14.5,
-      "chance_chuva": 67,
-      "condicao": "Garoa forte"
+      "temp_max": 23.7,
+      "temp_min": 13.9,
+      "chance_chuva": 61,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.4,
-      "temp_min": 14.6,
-      "chance_chuva": 67,
-      "condicao": "Garoa forte"
+      "temp_max": 24.1,
+      "temp_min": 13.7,
+      "chance_chuva": 57,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
@@ -437,14 +437,14 @@
       "data": "02/10 19:19"
     },
     {
-      "titulo": "Thiago Silva vive dia de técnico no Fluminense; entenda - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3NSNTdrenB2bzlpWXY3ekgyOXhRVmw3YlFuVkFMU092SkF1Q2h5T3dCckktREJrWHc2d3hrZGowQTdieUNmaXR5QjdKT0RjOFoweW5WODhpUE15Y25sYTNSSW4tTGxqdzQ1dHNFclE4WkpLRHFQWERSWXg4aXc0ekhkbUNyM2ZGUlF0T2k0T3pDRm9KN1ZVeThWbHdqakwzM2xxY0lWbDZsd3RyYXZNdXh4X3R2TXI5enFveHBWT2I?oc=5",
-      "data": "03/10 23:17"
+      "titulo": "Wesley Natã se destaca no sub-20 do Fluminense, vira xodó e comenta relação com Fred: \"É um cara resenha\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGI2YjY1MkI4a3BwY1BsSzRsTmp1M1VCbEJZSkZZenIwLVFwYzdoaFJqUWlFQmZIdnRrUFFPYWZYWnhsR1JpZVFqTmR2ZW9IRWdJV3BpTzg5TnpsUDdFcUVBclpieVhvcEEzcFgzYU9ISDZXRlhNeWJvR0lYWWdsU1dVaXY2YWQxeS00UUVwTUxSUUNLMjV1bWNybFR6LUZDSmZxMnBIZ0ZRYURQUGZheGc4YVN4M1kyQjllU3RtVHhOSmhTbmxwMFFxbDZuZlRUTThKMjZ6Rkd0Y2xxNjBqN0dTUWVaTkRCeGxlMTR1TFlCNVprS0pBNzRETDhfZTVxeGfSAZACQVVfeXFMTnp1eTUzSlVwNDBrUEN5Tkx5cjN4ZHF5cGh4WEpZSk1IcWlkVDNSaC01R3NxTnhhXzFoUWU4QWluaUlYU0p2TmxmU0xBcElVQjRDRGI2MjFPUWtfNUZ2bnR3aGQ5TWhuVzV4U1RQSGNnZHpqeVRRcDNOV0JZdDBJaEd4TGhrY2lBbHdlSkU5VnZXQ3FHV1hqZ1hPZjhIWDdYdVZBaHh4aDE4U2x1eV94LW0xaFg4TUxYc2VxaVlKQ3pQRTJ0NkNFang0aDl3d2V3VjZtY3JFaUVqbGVwblN1UGNWTWNvYnZhNU4xRENHVTNxdm5LcTZCaW5xMVBXQm9LR3V4U3MtSm9MWVdBTlA4dVU?oc=5",
+      "data": "04/10 07:00"
     },
     {
-      "titulo": "Fluminense tem jogador que escapa da nova regra de estrangeiros da CBF - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM1pxaWdiQTR3Uy1IdEx4NkRyTTlRQVRhQVRlZmdLaUlLcUNqdktTMzJySFRUbkRwR251dzZWVWFwMHRGNXl6N2Z5RjFCQ3o5LUlVT0JOem9HWER5SG9MaEY5TTVMN3EzSG9RQVM1MTUwZkh0MG0wakI2WGZjQkZmNndWeWdVTWt2YldWUWcyZDJXcjhFS3RsOHdOLUt1Zw?oc=5",
-      "data": "03/10 23:28"
+      "titulo": "Thiago Silva realiza sonho como treinador por um dia no Fluminense: \"Muito especial\" - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZ1BBUENFVTNMcGczN3FUZkNZakJULUdDMi1UR0FjUzE5WTNxd0x2ODdhNDNxcEJFTFRuODZHNWM4OVlHRmRscFhzZXFWV1N5b1lpVXI5cENGUDFXNjN5VnViaGh4bEpmb3QxXy00dTdHTmRuNmhEZnZMRTlubW8zOWhabnJQNWFackxGcmFuY3ZpME9qZDNiTC10bzBhOXpDRzhCNDdsa2ktMGN0TDd0a2l5WkRSQU5jUTBFd0xJSlkybWMzZkZwd2xuLXFQb1JCbjNmN0hHYzZTb1Q1QmZCTVZVQzI3Um9QMlA4WGl6QktlbmJDQmVlOWV6aW56cTYyaEE?oc=5",
+      "data": "04/10 09:35"
     }
   ],
   "avisos": []
