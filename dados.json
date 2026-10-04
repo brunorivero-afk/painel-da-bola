@@ -1,26 +1,6 @@
 {
-  "atualizado_em": "04/10/2026 07:51",
+  "atualizado_em": "04/10/2026 12:37",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "10:00",
-      "competition": "UEFA Nations League",
-      "match": "Azerbaijão x Lituânia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-04",
@@ -159,7 +139,7 @@
       "date": "2026-10-04",
       "time": "19:00",
       "competition": "CONCACAF Nations League",
-      "match": "Trinidad and Tobago x Curaçao",
+      "match": "Puerto Rico x Cayman Islands",
       "channels": [
         "YOUTUBE"
       ]
@@ -169,7 +149,7 @@
       "date": "2026-10-04",
       "time": "19:00",
       "competition": "CONCACAF Nations League",
-      "match": "Puerto Rico x Cayman Islands",
+      "match": "Trinidad and Tobago x Curaçao",
       "channels": [
         "YOUTUBE"
       ]
@@ -212,6 +192,26 @@
       "match": "Nicarágua x República Dominicana",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "10:00",
+      "competition": "UEFA Nations League",
+      "match": "Azerbaijão x Lituânia",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Cerro Largo",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -393,38 +393,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.8,
-      "temp_min": 19.2,
-      "chance_chuva": 57,
-      "condicao": "Pancadas de chuva"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 27.3,
-      "temp_min": 20.5,
-      "chance_chuva": 55,
+      "temp_max": 30.2,
+      "temp_min": 19.7,
+      "chance_chuva": 59,
       "condicao": "Garoa fraca"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 29.1,
+      "temp_min": 20.5,
+      "chance_chuva": 73,
+      "condicao": "Pancadas de chuva"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.7,
-      "temp_min": 13.9,
-      "chance_chuva": 61,
-      "condicao": "Trovoada"
+      "temp_max": 24.4,
+      "temp_min": 14.4,
+      "chance_chuva": 80,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.1,
-      "temp_min": 13.7,
-      "chance_chuva": 57,
-      "condicao": "Trovoada"
+      "temp_max": 24.6,
+      "temp_min": 14.2,
+      "chance_chuva": 80,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
-      "data": "02/10 18:20"
+      "titulo": "Wesley Natã se destaca no sub-20 do Fluminense, vira xodó e comenta relação com Fred: \"É um cara resenha\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGI2YjY1MkI4a3BwY1BsSzRsTmp1M1VCbEJZSkZZenIwLVFwYzdoaFJqUWlFQmZIdnRrUFFPYWZYWnhsR1JpZVFqTmR2ZW9IRWdJV3BpTzg5TnpsUDdFcUVBclpieVhvcEEzcFgzYU9ISDZXRlhNeWJvR0lYWWdsU1dVaXY2YWQxeS00UUVwTUxSUUNLMjV1bWNybFR6LUZDSmZxMnBIZ0ZRYURQUGZheGc4YVN4M1kyQjllU3RtVHhOSmhTbmxwMFFxbDZuZlRUTThKMjZ6Rkd0Y2xxNjBqN0dTUWVaTkRCeGxlMTR1TFlCNVprS0pBNzRETDhfZTVxeGfSAZACQVVfeXFMTnp1eTUzSlVwNDBrUEN5Tkx5cjN4ZHF5cGh4WEpZSk1IcWlkVDNSaC01R3NxTnhhXzFoUWU4QWluaUlYU0p2TmxmU0xBcElVQjRDRGI2MjFPUWtfNUZ2bnR3aGQ5TWhuVzV4U1RQSGNnZHpqeVRRcDNOV0JZdDBJaEd4TGhrY2lBbHdlSkU5VnZXQ3FHV1hqZ1hPZjhIWDdYdVZBaHh4aDE4U2x1eV94LW0xaFg4TUxYc2VxaVlKQ3pQRTJ0NkNFang0aDl3d2V3VjZtY3JFaUVqbGVwblN1UGNWTWNvYnZhNU4xRENHVTNxdm5LcTZCaW5xMVBXQm9LR3V4U3MtSm9MWVdBTlA4dVU?oc=5",
+      "data": "04/10 07:00"
+    },
+    {
+      "titulo": "Thiago Silva vive dia de técnico no Fluminense; entenda - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3NSNTdrenB2bzlpWXY3ekgyOXhRVmw3YlFuVkFMU092SkF1Q2h5T3dCckktREJrWHc2d3hrZGowQTdieUNmaXR5QjdKT0RjOFoweW5WODhpUE15Y25sYTNSSW4tTGxqdzQ1dHNFclE4WkpLRHFQWERSWXg4aXc0ekhkbUNyM2ZGUlF0T2k0T3pDRm9KN1ZVeThWbHdqakwzM2xxY0lWbDZsd3RyYXZNdXh4X3R2TXI5enFveHBWT2I?oc=5",
+      "data": "03/10 23:17"
     },
     {
       "titulo": "Conmebol Libertadores 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
@@ -432,19 +437,14 @@
       "data": "02/10 18:53"
     },
     {
-      "titulo": "Fluminense x Palmeiras: veja preços dos ingressos e como comprar - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlBtT2VvQVgxamZfLUJwdWJlSEtJYmVEWlhVRWRfOEJTOElPcHV2cHg5WHRDZTB3MkQtTXdubE5IVWNGdjFiM3RBTWZBanV2MGYxRG9CRVQxdEU4QWhFb0lid3dKeENLRWwzeUJxYzdYVmZkT0EzRy1qQnU4NVM3R2JtR2ppY2R3R0pQM0NGM05nbFhJMlVUQ3BtM3UyYUY0VElLRGplQThEektJRVJYYWdMNmMxUlFhemVtMFZOQjl5WDg1WnBXcTVR?oc=5",
-      "data": "02/10 19:19"
+      "titulo": "Fluminense e Palmeiras definem carga de ingressos de visitantes na Libertadores - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNFNBa2NjWkd3eTNXZWhsaDB3TzZHblF1d2ltdk5BS2dGN05nbDR4Z1lpeW1zMmJ6cmRMLVN0OHlhRGppUzVXb2czLXQtMTZNMUk1RzVaWlpWUEo5aUF6bzhlTk9MUFUzRnYtSlVLS1JLWjgwVlhubmxwXzNmY3VsM0dOb1JUNDNNZ2owaU9hWWYtUWdlNGdJY1FrcnlKUTNHVTN4MUxjaTNKdzI0ZjBKb194RldfMmZtYmp5cEFaZzN3djBuS1hXU2xZcVdtMlBnMU9YWXU5anVpb0FjRzRkWkp2MlcxTWlkYnE2cWdpeS1fN211RUZtR3RCVQ?oc=5",
+      "data": "03/10 03:33"
     },
     {
-      "titulo": "Wesley Natã se destaca no sub-20 do Fluminense, vira xodó e comenta relação com Fred: \"É um cara resenha\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGI2YjY1MkI4a3BwY1BsSzRsTmp1M1VCbEJZSkZZenIwLVFwYzdoaFJqUWlFQmZIdnRrUFFPYWZYWnhsR1JpZVFqTmR2ZW9IRWdJV3BpTzg5TnpsUDdFcUVBclpieVhvcEEzcFgzYU9ISDZXRlhNeWJvR0lYWWdsU1dVaXY2YWQxeS00UUVwTUxSUUNLMjV1bWNybFR6LUZDSmZxMnBIZ0ZRYURQUGZheGc4YVN4M1kyQjllU3RtVHhOSmhTbmxwMFFxbDZuZlRUTThKMjZ6Rkd0Y2xxNjBqN0dTUWVaTkRCeGxlMTR1TFlCNVprS0pBNzRETDhfZTVxeGfSAZACQVVfeXFMTnp1eTUzSlVwNDBrUEN5Tkx5cjN4ZHF5cGh4WEpZSk1IcWlkVDNSaC01R3NxTnhhXzFoUWU4QWluaUlYU0p2TmxmU0xBcElVQjRDRGI2MjFPUWtfNUZ2bnR3aGQ5TWhuVzV4U1RQSGNnZHpqeVRRcDNOV0JZdDBJaEd4TGhrY2lBbHdlSkU5VnZXQ3FHV1hqZ1hPZjhIWDdYdVZBaHh4aDE4U2x1eV94LW0xaFg4TUxYc2VxaVlKQ3pQRTJ0NkNFang0aDl3d2V3VjZtY3JFaUVqbGVwblN1UGNWTWNvYnZhNU4xRENHVTNxdm5LcTZCaW5xMVBXQm9LR3V4U3MtSm9MWVdBTlA4dVU?oc=5",
-      "data": "04/10 07:00"
-    },
-    {
-      "titulo": "Thiago Silva realiza sonho como treinador por um dia no Fluminense: \"Muito especial\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZ1BBUENFVTNMcGczN3FUZkNZakJULUdDMi1UR0FjUzE5WTNxd0x2ODdhNDNxcEJFTFRuODZHNWM4OVlHRmRscFhzZXFWV1N5b1lpVXI5cENGUDFXNjN5VnViaGh4bEpmb3QxXy00dTdHTmRuNmhEZnZMRTlubW8zOWhabnJQNWFackxGcmFuY3ZpME9qZDNiTC10bzBhOXpDRzhCNDdsa2ktMGN0TDd0a2l5WkRSQU5jUTBFd0xJSlkybWMzZkZwd2xuLXFQb1JCbjNmN0hHYzZTb1Q1QmZCTVZVQzI3Um9QMlA4WGl6QktlbmJDQmVlOWV6aW56cTYyaEE?oc=5",
-      "data": "04/10 09:35"
+      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
+      "data": "02/10 18:20"
     }
   ],
   "avisos": []
