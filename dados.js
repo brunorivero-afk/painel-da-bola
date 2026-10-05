@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "05/10/2026 05:11",
+  "atualizado_em": "05/10/2026 14:46",
   "jogos": [
     {
       "sport": "futebol",
@@ -91,7 +91,7 @@ window.PAINEL_DATA = {
       "competition": "UEFA Nations League",
       "match": "Bósnia e Herzegovina x Polônia",
       "channels": [
-        "ESPN 2",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -317,58 +317,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.3,
+      "temp_max": 24.7,
       "temp_min": 21.5,
       "chance_chuva": 47,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Chuva fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.2,
-      "temp_min": 21.6,
+      "temp_max": 26.8,
+      "temp_min": 21.9,
       "chance_chuva": 59,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.5,
+      "temp_max": 24.5,
       "temp_min": 18.0,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.3,
+      "temp_max": 20.9,
       "temp_min": 16.6,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Intensidade, bola aérea, desfalques e elogios a Castillo: veja detalhes do último treino do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdEJfWVN2RFpPVDlJZll1VFROclJYZXN5SVZMYnFBYV9wOUhhM0U1U3Q3NGFJdFQtRy1QRkVfbmlUc21QcGJqTmlXdzVRaU1seTNGdjZUVVI1cFJPRXNWSENVdnBoUmhodEgxbVdORHVZYTFDbHlDZHY0dHZ3bWNLaVI2Q3lnMmZvTzBCb21zNU1FZHFMUDNHcUlSTmdUU04zWnN1SVZXdEdNMGtfMjdWT1VFaHBoRFBTQ1RXTE9hYV9yc2xXMU5rLXBDLXRpSEt0dnkxY2VYUEFfb19SN2M2NjFaMTJBeUF4akdPckRfaE1OM2VHUmVDU1N3dTlEbkXSAY4CQVVfeXFMTXJET3Vma1RKbExxa3pTbDVCYTlSYW1uRjVORWR2WTRoeDlXRU92WU9vMmVwTjZZQzIyM1pqa0tKUlRMUmQ2c0NRbk5fNHRleTI0M1JqN0FQV2I5TGt1Ml9nMXFuSUFTcFg4SjBKWHN4OTVfUk9hZUF2N1pLaS1TWWNGTVowRFJRRXdQVWRvYnZrbGhKUUpyWmVPdnBBM2FpZ2NiOV9LOGxiTjBOTXZEZFVRUlJwR2p4RFRlUVFtWFY0Nm5xdlhnb0pzM1Y4WDc3Z29IMXdlbGhXN0ZvLTFiYkpuWGRXN01paUQxM3JCMUN1dHVta0VLZTZHajRSQUx4am9HUVRyN3p5cTlfX3BR?oc=5",
-      "data": "04/10 17:51"
+      "titulo": "Fluminense precisa de R$ 160 milhões em vendas; veja quem pode render - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGRsbG1QZzh5aTJpcmNnYkNENUlRdnJpc2lxN0NpaU1KZUNpZlRwWFBaT2VuMWpKZ3NiM0tKeF84Zk0xT3J6MDNNR3JmVW1zcEd2SUkzZUpRSk40YUFFRDNHNWVBXzJZRmVwd3BnNWFCY2s5WXVodlkyWTVzNVhIN0V2ekMyWThvY29nczV6YlJCMklrZG1NeDhR?oc=5",
+      "data": "05/10 14:42"
     },
     {
-      "titulo": "Fluminense vence o Universitario (PER) e é campeão da Copa Brasília de vôlei - fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcExmQ0dfNG8tSnh6dWVMZTJXVUpKLV9ZTndVMmozdXBKSVphY1lBNThZM2VoSTdjaDhGb1lWMTNaZXdmbGVtZkhvbFVGdnVjd2VNejZvNHR2NnhidUJYUTRCNFYxMS03OS12N2FtNk9uTENsRlhFUVhzbUxza3R1NlhrUVkyYVlsUF9YUUVPem5NQVlzaFJRODc3SmNfMGtubFBVZFF3SHBudklhSmJkcXJ3?oc=5",
-      "data": "04/10 00:56"
+      "titulo": "Keno e Lavega podem jogar contra o Fluminense? Entenda situação de emprestados ao Coritiba - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMll4bVdFZGotM3paYlZtalNybzBrQWRRUlNuOWlKQTUxY1ZFTTlERXdsd1NHb1FyVEV0THViUVNKUXRYSzdYMW4xbXZDRGwyUjVMa3ZWaFdyRHliN0RKcFRKZl9xUWY1S3FjTUNSS0d3cGdJQV9BdUJQbk0wX2puSER3RnZ5MTFuUlpnUF82bk5PU3VzT09qS2RhYVg0OTVaVWNWc1hzWHhVbDR5T0hYRmxNQV9JcTJPZVBoSGlNaWt5OGRJb3Q5Z01Qak5XazJfQndDZWRIOEpwa0hOUnZDT3hUZ1p3dk5QNFVFSGpRQVlLd9IBgAJBVV95cUxQS2N1M3ZvT0dVNzBkdmtRQlg3am5YSVJxRWlicHg3YlpoUXl5VnlET2JESWNDSXJKangtdzFUVWw1cXcyMmJTM19ZTWw0R3V5Y3RfMVFPbzc1aUg0bU1VUkFPakd4ektOWHFLaTlTQndXN2k2N1pTQVBtZWplLXJTZzVRM2hkTlZVN0dfdGhVako1TEJjeVlGTVc0ODF1WHJqUTVMOVdsbWVpckkwcnVRbU95Vk0zX1p0NGFzQ0kydFk1Smcydk5IckxkMmNDWHptbVgydF81V2ZjZVFaY3A2RC10eFlyOWZkb2c0WjV0SVM2ZG9KdW41YlNhWEVwYTVv?oc=5",
+      "data": "05/10 07:00"
     },
     {
-      "titulo": "Thiago Silva realiza sonho como treinador por um dia no Fluminense: “Muito especial” - CartaCapital",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0o2UUFwanhwbzRla3Y3cjBJUEUwenNlYWhnbEVKM1BNN0pMMmFlSlhNZGZkalpWWmdYcFNGN3BsbUxvSWlRWng5V0tzWkp2OE1tSkxwRFpYekhKTkI5NlpPa3F5bElyNHhOOFRpQjZGZTFCWWsyb3loZnpFdjR2aG00bFctaGhSOTR2ZHJKU2hUUWhLV1dvaElQVFhZOVVxNXZiX3V6Nm1jWTZTU0FwVlJjRFlEVjZrM2VFM0xLcw?oc=5",
-      "data": "04/10 09:25"
+      "titulo": "Martinelli volta da Seleção e reforça Fluminense contra o Coritiba - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPallSdmFJZ21nR2VBdFRjbXN5RjJhM3VnRmc2cC1zWVFJNFE0Q2VLclZPTFdHTDNfQjB1ZjJjYWFlN3EyUC16d3hqallsenZNblNVSXJIcEVIckxxVG5ZbjJneGRZdnk4bjk0MEFNMDdsemVjbXN0Q24zUXJGRjd0NkE0SEwxckFxUTlUNk1ESkx1Rm1UODJPcmR4R2ZKWkhJT1NRUGhINnM5ZGs?oc=5",
+      "data": "05/10 10:00"
     },
     {
-      "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
-      "data": "02/10 21:36"
+      "titulo": "Conmebol Libertadores 2026: Informações de ingressos para Fluminense x Palmeiras - fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0xfd1JweTVIcjZEcDZxSkM3WUlKa1IydU1DbHY1NlFiNmxrVHdJd2NNbEIxc202dXFsUHFyRVZWWTFmd3d2d2lOSHJWOXRRTjU1Y0VKWllVb3BJeUxqdjR1RjZxdERXSmdxamVyX05BQzllcTBWVDZtaVFBTkNiWDhoTlh4UlFjYTBPdjMyY183WmU2amdaQ0J3MWVqaU5WNGJvMFpyalh4T21NbFdGTVYtRVVON0FU?oc=5",
+      "data": "02/10 18:53"
     },
     {
-      "titulo": "Fluminense divide preparação na Data Fifa para encarar sequência decisiva de jogos - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmFvSVI0aDhQcTJ5emJvaHc1bk1YZkFsaDd2NGZ3Vm1Cb2N1ZHlFOEczVmt4c0dyQVhqYUY1NWFXOEk3T1d2SjZUVVU2c2pUSEFvc2JRbWtVVTBMVjZmMW00bHVPdXcwMEcwUUl4VkNuTXRhUlk0cW4wTHdDV3dZc2hTZ0c5cTZ3bF9mb3lNbUluRnFnZFRIc3FTTXhWN0tlZTNWb2NHNVhwdWZRd3hkd3A2UDhNU254ZzB6MmRQNUtNS1ZsMnd0N2w5ZmtIS0tLam1WSm9fWm9zVXlrdlJqZS1nUVFTeVot?oc=5",
-      "data": "05/10 01:45"
+      "titulo": "Fluminense e Palmeiras acertam carga de ingressos para visitantes na semifinal da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXJCbHgwTEFpV2pjRV9zZlhiZklhWWpCM2trZ3FvemFRX0F4RG4wcno5ZDRHRzJpUThhMGFIWDJpdFNCNExNN293N1JUQWw1dE5OejlWMDVFbWFiajhrbTh1WGpOWUdkSFZZR01Mc1pfLS1jUXB1ekNGUlZ0Qi1JaTlobzhFNzVMdmpKY2hPN2FwWEk1Zm9PaG1rb2wtbXNiakVicFNIR19rNmMwbm9MUFBxcnNfQ1dUQnVnVk9zWDktVWh3eE14c3FHLThtQVp1V2dJMzdEZWZtVlhmLTF4eGlmUGpCaE5SY1VBZldXdXZSeGowZnJkatIBhwJBVV95cUxPSXZDWGxneWpxaHNGSlIxOTRiRWZMX0NKYnlsOVVEV0F2aVV3QndoNU96NWx2aHlodWlhYlZUa0V3WGpVNmVVdW5oUDdlNERNNHpDb3dJZWdkVmFENVN2YXNIal9mQ0FSdHlnNHlTX0pQajg2UHdib3ExTXhVREh2a1Njd29LSjhTV3I1bS1yTEdEc0N5aU1kYk9vaUVzRkhKSUVGMFhtM1VLclRvUXBPWjdVaWFXZXJBYjA4RzdRT3NOVFc3UEhnWmN0V25QcTFna0V0el9fbUctTzdNMjQ4Ujkwc2VtN2tqQWVCLTFSM1NpbkliQ0ZxMnhrTkp3bG1yZTZ2Wkl6Yw?oc=5",
+      "data": "02/10 18:20"
     }
   ],
   "avisos": []
