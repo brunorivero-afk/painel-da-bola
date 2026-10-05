@@ -1,219 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/10/2026 22:31",
+  "atualizado_em": "05/10/2026 05:11",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "21:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Costa Rica x Haiti",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "23:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Nicarágua x República Dominicana",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "10:00",
-      "competition": "UEFA Nations League",
-      "match": "Azerbaijão x Lituânia",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Malta x Andorra",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Juventud",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Kosovo x Áustria",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "14:00",
-      "competition": "NWSL Feminina",
-      "match": "NJ/NY Gotham FC (F) x Angel City (F)",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "14:45",
-      "competition": "Campeonato Argentino",
-      "match": "Huracan x Aldosivi",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Portugal x Noruega",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Grécia x Alemanha",
-      "channels": [
-        "SPORTV 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Holanda x Sérvia",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Wanderers",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "16:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Guyana x Dominica",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Talleres Cordoba x Belgrano Cordoba",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Turks and Caicos Islands x British Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Bahamas x US Virgin Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Trinidad and Tobago x Curaçao",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Puerto Rico x Cayman Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "20:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Aruba x Anguilla",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-05",
@@ -380,8 +167,145 @@ window.PAINEL_DATA = {
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Croácia x Espanha",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Inglaterra x República Tcheca",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Escócia x Eslovênia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Montserrat x Turks and Caicos Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Saint Martin x Bahamas",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "18:00",
+      "competition": "CONCACAF Nations League",
+      "match": "St. Vincent / Grenadines x Sint Maarten",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Sport Recife x São Bernardo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "20:00",
+      "competition": "Amistosos Seleções",
+      "match": "Argentina x Benin",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "20:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Antigua and Barbuda x Aruba",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "20:30",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Athletic Club",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "21:00",
+      "competition": "Amistosos Seleções",
+      "match": "Estados Unidos x Canadá",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Chicago Fire x Whitecaps",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "21:35",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Juventude",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Pinheiros x Osasco",
@@ -393,36 +317,36 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.2,
-      "temp_min": 19.7,
-      "chance_chuva": 59,
-      "condicao": "Garoa fraca"
+      "temp_max": 25.3,
+      "temp_min": 21.5,
+      "chance_chuva": 47,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.9,
-      "temp_min": 20.5,
-      "chance_chuva": 88,
-      "condicao": "Garoa fraca"
+      "temp_max": 25.2,
+      "temp_min": 21.6,
+      "chance_chuva": 59,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.5,
-      "temp_min": 14.4,
-      "chance_chuva": 81,
-      "condicao": "Garoa fraca"
+      "temp_max": 22.5,
+      "temp_min": 18.0,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.5,
-      "temp_min": 14.2,
-      "chance_chuva": 81,
-      "condicao": "Garoa"
+      "temp_max": 21.3,
+      "temp_min": 16.6,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Intensidade, bola aérea, desfalques e elogios a Castillo: veja detalhes do último treino do Fluminense - ge.globo.com",
+      "titulo": "Intensidade, bola aérea, desfalques e elogios a Castillo: veja detalhes do último treino do Fluminense - ge",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdEJfWVN2RFpPVDlJZll1VFROclJYZXN5SVZMYnFBYV9wOUhhM0U1U3Q3NGFJdFQtRy1QRkVfbmlUc21QcGJqTmlXdzVRaU1seTNGdjZUVVI1cFJPRXNWSENVdnBoUmhodEgxbVdORHVZYTFDbHlDZHY0dHZ3bWNLaVI2Q3lnMmZvTzBCb21zNU1FZHFMUDNHcUlSTmdUU04zWnN1SVZXdEdNMGtfMjdWT1VFaHBoRFBTQ1RXTE9hYV9yc2xXMU5rLXBDLXRpSEt0dnkxY2VYUEFfb19SN2M2NjFaMTJBeUF4akdPckRfaE1OM2VHUmVDU1N3dTlEbkXSAY4CQVVfeXFMTXJET3Vma1RKbExxa3pTbDVCYTlSYW1uRjVORWR2WTRoeDlXRU92WU9vMmVwTjZZQzIyM1pqa0tKUlRMUmQ2c0NRbk5fNHRleTI0M1JqN0FQV2I5TGt1Ml9nMXFuSUFTcFg4SjBKWHN4OTVfUk9hZUF2N1pLaS1TWWNGTVowRFJRRXdQVWRvYnZrbGhKUUpyWmVPdnBBM2FpZ2NiOV9LOGxiTjBOTXZEZFVRUlJwR2p4RFRlUVFtWFY0Nm5xdlhnb0pzM1Y4WDc3Z29IMXdlbGhXN0ZvLTFiYkpuWGRXN01paUQxM3JCMUN1dHVta0VLZTZHajRSQUx4am9HUVRyN3p5cTlfX3BR?oc=5",
       "data": "04/10 17:51"
     },
@@ -442,9 +366,9 @@ window.PAINEL_DATA = {
       "data": "02/10 21:36"
     },
     {
-      "titulo": "Destaque do Fluminense Sub-20 fala sobre Fred: “É um cara resenha” - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEhtdzBZdW5INVVaMmJNTUhpbUlaOWNhN0xBZllRbWRZUXlKQXh2dC0tN3paVFpaNnRyY0ZHZjl4NENKcVJMYnRmdFRuc2RsV1plUkY2R1drRTZzQXhvSHdSdmdTVFBtd1VDb0p5TVFmWWlaUGRfcnpmQVdBbVpkbmxSYVhES21ISWQwQmJvVmFKTXlL?oc=5",
-      "data": "04/10 13:36"
+      "titulo": "Fluminense divide preparação na Data Fifa para encarar sequência decisiva de jogos - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmFvSVI0aDhQcTJ5emJvaHc1bk1YZkFsaDd2NGZ3Vm1Cb2N1ZHlFOEczVmt4c0dyQVhqYUY1NWFXOEk3T1d2SjZUVVU2c2pUSEFvc2JRbWtVVTBMVjZmMW00bHVPdXcwMEcwUUl4VkNuTXRhUlk0cW4wTHdDV3dZc2hTZ0c5cTZ3bF9mb3lNbUluRnFnZFRIc3FTTXhWN0tlZTNWb2NHNVhwdWZRd3hkd3A2UDhNU254ZzB6MmRQNUtNS1ZsMnd0N2w5ZmtIS0tLam1WSm9fWm9zVXlrdlJqZS1nUVFTeVot?oc=5",
+      "data": "05/10 01:45"
     }
   ],
   "avisos": []
