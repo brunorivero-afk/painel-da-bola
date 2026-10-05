@@ -1,46 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/10/2026 19:15",
+  "atualizado_em": "04/10/2026 22:31",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Puerto Rico x Cayman Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "19:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Trinidad and Tobago x Curaçao",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-04",
-      "time": "20:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Aruba x Anguilla",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-04",
@@ -95,10 +55,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-04",
       "time": "13:00",
-      "competition": "UEFA Nations League",
-      "match": "Kosovo x Áustria",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Juventud",
       "channels": [
-        "ESPN",
         "DISNEY+"
       ]
     },
@@ -106,9 +65,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-04",
       "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Juventud",
+      "competition": "UEFA Nations League",
+      "match": "Kosovo x Áustria",
       "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -210,6 +170,46 @@ window.PAINEL_DATA = {
       "time": "17:00",
       "competition": "CONCACAF Nations League",
       "match": "Bahamas x US Virgin Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "19:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Trinidad and Tobago x Curaçao",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "19:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Puerto Rico x Cayman Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "19:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Racing Montevideo x Penãrol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-04",
+      "time": "20:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Aruba x Anguilla",
       "channels": [
         "YOUTUBE"
       ]
@@ -393,7 +393,7 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.9,
+      "temp_max": 30.2,
       "temp_min": 19.7,
       "chance_chuva": 59,
       "condicao": "Garoa fraca"
@@ -402,19 +402,19 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 29.9,
       "temp_min": 20.5,
-      "chance_chuva": 73,
+      "chance_chuva": 88,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.2,
+      "temp_max": 23.5,
       "temp_min": 14.4,
       "chance_chuva": 81,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.0,
+      "temp_max": 23.5,
       "temp_min": 14.2,
       "chance_chuva": 81,
       "condicao": "Garoa"
@@ -422,7 +422,7 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Intensidade, bola aérea, desfalques e elogios a Castillo: veja detalhes do último treino do Fluminense - ge",
+      "titulo": "Intensidade, bola aérea, desfalques e elogios a Castillo: veja detalhes do último treino do Fluminense - ge.globo.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdEJfWVN2RFpPVDlJZll1VFROclJYZXN5SVZMYnFBYV9wOUhhM0U1U3Q3NGFJdFQtRy1QRkVfbmlUc21QcGJqTmlXdzVRaU1seTNGdjZUVVI1cFJPRXNWSENVdnBoUmhodEgxbVdORHVZYTFDbHlDZHY0dHZ3bWNLaVI2Q3lnMmZvTzBCb21zNU1FZHFMUDNHcUlSTmdUU04zWnN1SVZXdEdNMGtfMjdWT1VFaHBoRFBTQ1RXTE9hYV9yc2xXMU5rLXBDLXRpSEt0dnkxY2VYUEFfb19SN2M2NjFaMTJBeUF4akdPckRfaE1OM2VHUmVDU1N3dTlEbkXSAY4CQVVfeXFMTXJET3Vma1RKbExxa3pTbDVCYTlSYW1uRjVORWR2WTRoeDlXRU92WU9vMmVwTjZZQzIyM1pqa0tKUlRMUmQ2c0NRbk5fNHRleTI0M1JqN0FQV2I5TGt1Ml9nMXFuSUFTcFg4SjBKWHN4OTVfUk9hZUF2N1pLaS1TWWNGTVowRFJRRXdQVWRvYnZrbGhKUUpyWmVPdnBBM2FpZ2NiOV9LOGxiTjBOTXZEZFVRUlJwR2p4RFRlUVFtWFY0Nm5xdlhnb0pzM1Y4WDc3Z29IMXdlbGhXN0ZvLTFiYkpuWGRXN01paUQxM3JCMUN1dHVta0VLZTZHajRSQUx4am9HUVRyN3p5cTlfX3BR?oc=5",
       "data": "04/10 17:51"
     },
@@ -432,19 +432,19 @@ window.PAINEL_DATA = {
       "data": "04/10 00:56"
     },
     {
+      "titulo": "Thiago Silva realiza sonho como treinador por um dia no Fluminense: “Muito especial” - CartaCapital",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ0o2UUFwanhwbzRla3Y3cjBJUEUwenNlYWhnbEVKM1BNN0pMMmFlSlhNZGZkalpWWmdYcFNGN3BsbUxvSWlRWng5V0tzWkp2OE1tSkxwRFpYekhKTkI5NlpPa3F5bElyNHhOOFRpQjZGZTFCWWsyb3loZnpFdjR2aG00bFctaGhSOTR2ZHJKU2hUUWhLV1dvaElQVFhZOVVxNXZiX3V6Nm1jWTZTU0FwVlJjRFlEVjZrM2VFM0xLcw?oc=5",
+      "data": "04/10 09:25"
+    },
+    {
       "titulo": "Fluminense, Cruzeiro e mais 14 clubes acionam STF em ações para salvar bets - UOL",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZFd0MThSMTBQSWVXVE9rY0tPQ3UwMGwxZ1FvWTFCUC1nNXlEWERjUHFQTFg1VG9OOEU4cHR1Slk0TDRyVDk0V01Gdm9oN0U3OUFXN082cENvN0F5NUlSdG1Ma1B0aS1vSXo2Y2FBdVBLUDJNb0p4U0FvTjJyUWpwLW9MQzJnVU94M1VxV2NHcWI2ZkUyOGQyNzVxVXhvallaMmJwaHhOZ0xFV0xiR2Z4NF9QcE42Q1A0M1hrU0g2SDh6NFRLaHd5cDdiNUx0VERKMFd2NzNIOWNJWWE4ZGZn?oc=5",
-      "data": "02/10 17:36"
+      "data": "02/10 21:36"
     },
     {
-      "titulo": "Thiago Silva vive dia de técnico no Fluminense; entenda - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3NSNTdrenB2bzlpWXY3ekgyOXhRVmw3YlFuVkFMU092SkF1Q2h5T3dCckktREJrWHc2d3hrZGowQTdieUNmaXR5QjdKT0RjOFoweW5WODhpUE15Y25sYTNSSW4tTGxqdzQ1dHNFclE4WkpLRHFQWERSWXg4aXc0ekhkbUNyM2ZGUlF0T2k0T3pDRm9KN1ZVeThWbHdqakwzM2xxY0lWbDZsd3RyYXZNdXh4X3R2TXI5enFveHBWT2I?oc=5",
-      "data": "03/10 23:17"
-    },
-    {
-      "titulo": "Torcida do Fluminense recebe péssima notícia vinda da Inglaterra - jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlVXLTRkVGJOQnFEOFk2OU5WTlJueVJmdGVOQklqdEpyZGhVZ1FabDQxeERIeURfTHlUNkYwcm1MQy1iZG5QR0gwcVpESE5vWDBIUzB5S3FWNXQyMW5vMV83NFdjQnFSZy1OLVlrVVk2ekpvVG5DZDFNSFNuQWdMZ3p2UzlKTmRHWXNiVjNOaEdPUFo3LXM1NFhxNnEwWmVZeExyZU5oOXFHVm1WVDhr?oc=5",
-      "data": "04/10 10:00"
+      "titulo": "Destaque do Fluminense Sub-20 fala sobre Fred: “É um cara resenha” - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEhtdzBZdW5INVVaMmJNTUhpbUlaOWNhN0xBZllRbWRZUXlKQXh2dC0tN3paVFpaNnRyY0ZHZjl4NENKcVJMYnRmdFRuc2RsV1plUkY2R1drRTZzQXhvSHdSdmdTVFBtd1VDb0p5TVFmWWlaUGRfcnpmQVdBbVpkbmxSYVhES21ISWQwQmJvVmFKTXlL?oc=5",
+      "data": "04/10 13:36"
     }
   ],
   "avisos": []
