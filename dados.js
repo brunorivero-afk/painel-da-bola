@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/10/2026 01:34",
+  "atualizado_em": "06/10/2026 08:43",
   "jogos": [
     {
       "sport": "futebol",
@@ -269,58 +269,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.0,
-      "temp_min": 20.6,
+      "temp_max": 24.4,
+      "temp_min": 20.9,
       "chance_chuva": 94,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.1,
-      "temp_min": 20.7,
+      "temp_max": 24.2,
+      "temp_min": 21.1,
       "chance_chuva": 76,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.3,
-      "temp_min": 18.0,
+      "temp_max": 24.2,
+      "temp_min": 17.9,
       "chance_chuva": 98,
-      "condicao": "Chuva fraca"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.0,
-      "temp_min": 16.3,
+      "temp_max": 24.5,
+      "temp_min": 15.7,
       "chance_chuva": 96,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Resumo do Dia: Preparação do Fluminense contra o Coritiba, ingressos esgotados na Libertadores, finanças do clube e disputa pelo Maracanã (05/10) - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWViLXdXcm5UMHlVZzM3d1MtN09PT3J1SS1paDVCOVA4VkFRckVpM3dqRGVJV2lRMW9iTWZoSTZRUGtJSzFSdmdWNG1tN0RDZGtqTFBRZU94YmsyeTRMMHlZbFRFMlpYZFBUU0lWSElWek0wQXUzNE93dzQwQXp0cWNFMDRCZ2VESDZoMVJsVThUUlNfNkxmSWFkSUI4OUNLQTVfOQ?oc=5",
-      "data": "06/10 02:12"
+      "titulo": "Destaque na temporada do Coritiba, Lavega tem futuro incerto no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVDBLTUVwSlhrbHMteDJ0MnRzemZFRk13eHljM2VGNUZRNUQ1MVNSSXk0d1ZqNGdaSl9jZ1E5S3liVHpVSndrWXhXN0NCbXNTYi1WN1VPeUg1SERFTDZWdHh3NXRabEwwaFZ2ZGxmeFlBM3Fnd3dfbnlNR0FrTWNHU19Rb25Ga2pwRmlHWEFmeEczc1ZjUm1KVEx5Wk80Y1A4N0ZrU2djV3dDTXZHaEYzMjNZc1haRFg2bnR3RmlmeXNra2JFZGlweUxBYkRXcHNMYl9OLVJQb1BXM29Q0gHrAUFVX3lxTE83X1ZqTGRMcWZnOGUzdEZCRTB4VGs5NXVjd2paa0ppZkxpR2NmWDdsVFVTZTZYNzN2RVVzNmRwOENMRlV2R282ZmFFVnhYdS1vRjhsN3UwRTZaMnpfRDY4TE1IeGplXzlTcHZFUXhjT2FnNlVZdWNHQ1FIT0hFWHQzRzJKdWVBWlp3ZGhxSFZpZ3EyTWFleTNnLW9vbFZKY09UaEVnWmo1Vmg3YldldkVyZWdPUmFxR0hLaVBBUlFwXzVOT3E5RlhQYS1uamt4Z1F1cVZGbWN5dEhVQjN0UUVDc253UEdXZzNBdDg?oc=5",
+      "data": "06/10 07:00"
     },
     {
-      "titulo": "Morre Carlos Alberto Dias, ex-jogador que teve passagem pelo Fluminense - netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDEtMll5Q0dhbkdxd1RsM0p0UEg3ODlCc29QeWhVN3pZREcxV2tDYWtFZi0yY2gySE9TdlM4bzFqTEE2cUlfbDN1MWEtT2ZpZXNuVVEyTTRfRjlXa3h4enBEVVgtNGxBSVBJeWEwaWVzQnF1cmlfN2hjS2FaRlFRUFNqT1A4WVQyZEJLTEhKZnpQMkczMm5CVklEUldOQQ?oc=5",
-      "data": "06/10 02:49"
+      "titulo": "Fluminense tem R$ 15,5 milhões em jogo por destaque do Coritiba - netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc094S05vMjhKZVYxUWk3c2xKNUdQS1c3X0NQYTQwMzNiOVQ3cGZhaVBlbUlIY0NTc3lqTVZQc0Zua2tGUUtwNVFGT0R2TWpjWmpId1dNeVk0bGJaWlZIOE5OMWt3aXZLeHE1YnN1UDBwWVZVckJSbnQwVjRkcjNhOEdDZXQ2X05QeW01RjdwZms1QQ?oc=5",
+      "data": "06/10 11:30"
     },
     {
-      "titulo": "Além de Renê, Fluminense terá outros dois desfalques contra o Coritiba - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ1dQV3JuNHdZdkNCdV91a2l1OFNueUl0T1RfdVk5My0yM2lNeGxPZElvaDBpdnY3amI2R3oyNmNaWTRXTVVpZC16NmVBc0pwb2FCcjZESW52UEFncmVTc20wR0ZkeXBnaXdpSEhubTNTVW9ZakdyQnoyTXd2SnA5bVdadHJ5VzVMaldoSU5VUU1vXzhMWnE4Ul82TTdBTmtSR0lSN01hN0JlRmVMeU9jVU9rbU1mYndUYVJ6NFAweDVOejNLQkdBemVHV2U2MUVQaXFCQzNKQdIB5gFBVV95cUxOaFREY05fWTlkMmgtNjhScUNmd0ZSamxwX3hfMUpLTkV5VzYwTC1WS3hMc0lRYjFBOXR6aU90MDR2M0NsdmVQUVNDZWlIRWZhYUd6Q1M0N250Q2tmNzNJU1lXc1FzcVQxdndkZWJyVjhHdG5yU0VKb2t0aFBFT2RVRncweFZvSno3TURyLW85OW9hOFNvbXZfQVlyellMdTNvLUFaMkNwSDlHZnQ1bjhyWmdNc1FCR0Q0UTg3ME9UZHoxVWNxT1ExWF9tckJ5Vll0NUVTeFJCRDh4WlhOTVJPMjhUVGlQUQ?oc=5",
-      "data": "05/10 19:14"
-    },
-    {
-      "titulo": "Fluminense vai receber adiantamento de receita da FFU em outubro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaUtZR0otY1IyLTNxYmIwNThJeTBtcGI2YnlnRXNGNVgzZlR5UUpERnQ5WGFvc0tyYUZoSUV5YmVraVJseUROdlR6QlJNYUs5SVdrUENvVWpKX09oWXpPZl9MdUJwRU5QV1h4MG1XakRWcTFELTZWcmU1OHB6QnNrcDdKX1VkSXd1WklNWWJ1aGVDQTR4N21fT0QxYzhSTnU2LXVKaHhTcHZ5YnZzczctWnc0QjVTTlFibWEyeEFoREpyUGYzdE1LblhZZWt1VVpwRzMycWRxSnRFTGRsZWdCdjRqX1ZyNloxbjhF?oc=5",
-      "data": "05/10 18:10"
+      "titulo": "Morre Carlos Alberto Dias, ex-jogador de Flamengo, Botafogo, Fluminense e Vasco - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGtiV2dON3pWaWJ5UUxsRU9yTmxPSWZ2QWFtY3ZxWW5EZzNaYlRha3c2RGlUVkFoVWprQk9EQjZibVFPalhkWmw2X015ay01MEk0aE5TZ2trT2FhZFI4aTlLNnpPY21xRHdLaGY0SEJsT0ZPZkg1YmszZHAxSDlWSmV2ajVFYUpkUy1tWEE3Q1ozUC1MUWZhbnJjWV9lYjlhRWw2NVdKbUsyV3hxNmZ2RHNsOWROc0RuN3F6YQ?oc=5",
+      "data": "05/10 19:19"
     },
     {
       "titulo": "Fluminense x Palmeiras: torcida tricolor compra 15 mil ingressos na abertura - Rádio Itatiaia",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS1hzUG1QeHFxSmVWMEVkRklBVUNla3NKUzNXZjhUNVI4VDJSZHdpNWNRMmJSS3kySnJaSFdfekx0S0xGTUI3RmtHa05mbmk1eWFiN3JRSkdiRUVNdVduVTQzaXE3Q2dXakI4a1d0SFIza1Q2MXhSX3h5ZTZ2dVRVWnJsS0hLcWRtS09fQlFpa2sweTlkNjRtOVJldmhmYkFRVVFqVld1TmxoemMtQ09nenBQTXVkOFJXb190Y2I5VkdWa094Rlcwai0yZHkyUjlQaC1JdXZUSTg0dVRBZ0J1NUxzc0Nhc3h5V1NkMzNKcGtyVml0SERJ?oc=5",
       "data": "05/10 18:47"
+    },
+    {
+      "titulo": "Fluminense vai receber adiantamento de receita da FFU em outubro - terra.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaUtZR0otY1IyLTNxYmIwNThJeTBtcGI2YnlnRXNGNVgzZlR5UUpERnQ5WGFvc0tyYUZoSUV5YmVraVJseUROdlR6QlJNYUs5SVdrUENvVWpKX09oWXpPZl9MdUJwRU5QV1h4MG1XakRWcTFELTZWcmU1OHB6QnNrcDdKX1VkSXd1WklNWWJ1aGVDQTR4N21fT0QxYzhSTnU2LXVKaHhTcHZ5YnZzczctWnc0QjVTTlFibWEyeEFoREpyUGYzdE1LblhZZWt1VVpwRzMycWRxSnRFTGRsZWdCdjRqX1ZyNloxbjhF?oc=5",
+      "data": "05/10 18:10"
     }
   ],
   "avisos": []
