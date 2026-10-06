@@ -1,58 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/10/2026 14:49",
+  "atualizado_em": "06/10/2026 19:13",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Croácia x Espanha",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Inglaterra x República Tcheca",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Escócia x Eslovênia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Montserrat x Turks and Caicos Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Saint Martin x Bahamas",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-06",
@@ -136,6 +84,58 @@ window.PAINEL_DATA = {
         "REDETV!",
         "CANAL GOAT",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Croácia x Espanha",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Inglaterra x República Tcheca",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Escócia x Eslovênia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Montserrat x Turks and Caicos Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Saint Martin x Bahamas",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -269,28 +269,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.4,
+      "temp_max": 25.5,
       "temp_min": 21.0,
       "chance_chuva": 96,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.3,
+      "temp_max": 25.4,
       "temp_min": 21.0,
       "chance_chuva": 96,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.7,
+      "temp_max": 24.0,
       "temp_min": 18.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.9,
+      "temp_max": 25.0,
       "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -298,29 +298,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "FLAMENGO OU FLUMINENSE: Quem é o MAIOR campeão do Carioca de Vôlei? Entenda a polêmica! - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWllfTGw1WUd6X2xxeVBSSFliNVNrbWN3SjFQRTFYMmx1QlVNc1A0ZHRPcU94czRyQk9GSDEyTGgyaTJScFBMN3dxdDlJc2RoSHZOZXNibzBqYkR3Y0pEVW1GanRmcnhvMnF3a2hWMU9yLVhiNXhRVnpkdVc1Vy1MSG50T2VvZkUtSGFkN05VcXRSNHU3UE9GYmc2WE9sbEtxNS12cnp6bno3VXdzZ0ZZSW15aEdLV2daVl91UlBmSzdxeVE?oc=5",
-      "data": "06/10 13:54"
+      "titulo": "Millán revela motivação extra para fazer Thiago Silva conquistar título no Fluminense: \"Seria lindo uma Libertadores\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQmdCOXN0UGRDZk5XYXRTY1VsWVF0Q2NlSThkTUVyc20xQThTQ0ktRGlOSHMtMWI3bUNuYV9DMS02UEx3YVV1eldVRFNkYmtKWnpwQkRMX0hYaE91ZnRUWWVIZmVZQWZlZ2R6WGlCaHFzRUhKVGdwZVN1T1M2aTQwZFlFMGVjLVVKSWtpN0RfeDFtallqRUdxV2RsTzV3emoydG1fUVZlMkFGbHZmZzc1d3YtNk5JbkhLNVloNUwwZVI1QXVBNGMzZmdOeEYyTE5WTHE2UnRkVmo3bU13UHFZQzRQTWZpUm5lY1hYY3BiODd4MENXUE84UmhQNXlQU09WOExCa2ZON0lhRnpWVGp5aVV2b9IBogJBVV95cUxOcUR6SEpKNTk5RUp2alQ0QXBkbGUtSmtnR3lTemVxSnQ5eGxlQWd5TWxvMHNaTHU0Qmx6WVBFUWg0Tk0tZVB2dVNtbDViT1k2aGF1LU5xYzRDOHA3a3pMOHdUaGF1WV9NaWJEY0RKNjRid2ZaVzk0TjMxNkJ0aXg4VXQxVG53N2xyTjJsamstSS1pb0N4clRudExwWGV0NmZZSnNsS2hMYUhjVWVMdmotbUgxZm1sT0t0QlJjTlJOX3ZlakZFcUkybFk4OE5kOTY5S0d4dC1QNHd1RXpIZmxDRlJ5YXMyWEVzS1JPbU5EOVNHYmNFMUhZQzdGRDVwUHptN3VRWTMxUHFTUVUxOTZOc25hdjd4Q1laSWhwZDN1dVcwUQ?oc=5",
+      "data": "06/10 20:04"
     },
     {
-      "titulo": "Lesão dá chance para reserva tentar ‘conquistar’ Marcão no Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1VLQUdfWkhON29xeTFUVF9KZUZvVnVndFRpMFA2YXRJWkRlakt4Nlh2RnR1VGlYWkdjQ2hhdHdYTnhTcWJ5bGVrbVdVVExpajFXTUZNTEdoZWNzTlJnRVd5czNJa3BqeVVRWmswMGNEY3BKbHdTTGloQ0kxMjdSTnJCSy0tcVpKTk1DS0tyUlJ6VElJd2EtWEVR?oc=5",
-      "data": "06/10 16:30"
+      "titulo": "Fluminense treina sem patrocínio da Superbet; veja imagens - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXY3Y3A1R0tFVmlSeTRsaGpfNG0xTHJYeXA1Z0dYUU55Q09OYXBqWVM1TkMydnZfdkdoSDVSVVROTS1rU2hfNUh0Y2xXUnBaa3Jkd05vZkcwdWU2ZUJPU1hJc3A0YThQQnlaNnZyQ3FyNEVoRlFNU2tJd0xLTnF0MVk0Q0otMExUeDJSQg?oc=5",
+      "data": "06/10 17:42"
     },
     {
-      "titulo": "Fluminense deve ter três desfalques para confronto no Brasileiro contra o Coritiba - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZkZtSnI5Um9kY3VmZW5nbEhNTDMtWDN1akhDYVFRWkRTbU5zLTlKTHpqNlI5NEpmOTNybTE0SFNYd0VyTWMwaXVvQzJOOGdsWjJDc1BTdHB3MDdaZE52VlM4UXBCekNlMk04NTNrN1pVbUFDdVNzdUtlOHY1YnVZc2xmQkxfaWVRQjM1SFJNVG1uNEtpSlJIM3pZbGdQcmx6azN6NXVXc2owVnMxNE8tNEQ3WmpPaU9uZjN1TERDbmEwNlV5NTQ3VUZqMUd5aVBqOFowYjA3aEN1ZXpHd3ZRQ1J0aEtKdjZtUFZGOTBwWnMwR0tpZDVDbGd0ZXRjckNJdHc?oc=5",
-      "data": "06/10 14:00"
+      "titulo": "Hulk destaca importância dos veteranos no Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUxKd2xMaGRpbzdabWxEUl8xZFRxdjBZMzZ4X1JOZUlOdGNmM3YwTHc3NGRlT3plalczZGVvSURCdVNPNEd6UFZNX2pqLXhhNWNzVHlvdTFURFViT1hvUXFBSnpkQ29FcTh3UkY4Z0hQYm1wWDZkLWpMdVRWUzZCR1ZHWXJPdw?oc=5",
+      "data": "06/10 20:30"
     },
     {
-      "titulo": "Destaque na temporada do Coritiba, Lavega tem futuro incerto no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVDBLTUVwSlhrbHMteDJ0MnRzemZFRk13eHljM2VGNUZRNUQ1MVNSSXk0d1ZqNGdaSl9jZ1E5S3liVHpVSndrWXhXN0NCbXNTYi1WN1VPeUg1SERFTDZWdHh3NXRabEwwaFZ2ZGxmeFlBM3Fnd3dfbnlNR0FrTWNHU19Rb25Ga2pwRmlHWEFmeEczc1ZjUm1KVEx5Wk80Y1A4N0ZrU2djV3dDTXZHaEYzMjNZc1haRFg2bnR3RmlmeXNra2JFZGlweUxBYkRXcHNMYl9OLVJQb1BXM29Q0gHrAUFVX3lxTE83X1ZqTGRMcWZnOGUzdEZCRTB4VGs5NXVjd2paa0ppZkxpR2NmWDdsVFVTZTZYNzN2RVVzNmRwOENMRlV2R282ZmFFVnhYdS1vRjhsN3UwRTZaMnpfRDY4TE1IeGplXzlTcHZFUXhjT2FnNlVZdWNHQ1FIT0hFWHQzRzJKdWVBWlp3ZGhxSFZpZ3EyTWFleTNnLW9vbFZKY09UaEVnWmo1Vmg3YldldkVyZWdPUmFxR0hLaVBBUlFwXzVOT3E5RlhQYS1uamt4Z1F1cVZGbWN5dEhVQjN0UUVDc253UEdXZzNBdDg?oc=5",
-      "data": "06/10 07:00"
+      "titulo": "Morre Carlos Alberto Dias, ex-jogador de Flamengo, Botafogo, Fluminense e Vasco - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGtiV2dON3pWaWJ5UUxsRU9yTmxPSWZ2QWFtY3ZxWW5EZzNaYlRha3c2RGlUVkFoVWprQk9EQjZibVFPalhkWmw2X015ay01MEk0aE5TZ2trT2FhZFI4aTlLNnpPY21xRHdLaGY0SEJsT0ZPZkg1YmszZHAxSDlWSmV2ajVFYUpkUy1tWEE3Q1ozUC1MUWZhbnJjWV9lYjlhRWw2NVdKbUsyV3hxNmZ2RHNsOWROc0RuN3F6YQ?oc=5",
+      "data": "05/10 19:19"
     },
     {
-      "titulo": "Fluminense vai receber adiantamento de receita da FFU em outubro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaUtZR0otY1IyLTNxYmIwNThJeTBtcGI2YnlnRXNGNVgzZlR5UUpERnQ5WGFvc0tyYUZoSUV5YmVraVJseUROdlR6QlJNYUs5SVdrUENvVWpKX09oWXpPZl9MdUJwRU5QV1h4MG1XakRWcTFELTZWcmU1OHB6QnNrcDdKX1VkSXd1WklNWWJ1aGVDQTR4N21fT0QxYzhSTnU2LXVKaHhTcHZ5YnZzczctWnc0QjVTTlFibWEyeEFoREpyUGYzdE1LblhZZWt1VVpwRzMycWRxSnRFTGRsZWdCdjRqX1ZyNloxbjhF?oc=5",
-      "data": "05/10 18:10"
+      "titulo": "Fluminense x Palmeiras: torcida tricolor compra 15 mil ingressos na abertura - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS1hzUG1QeHFxSmVWMEVkRklBVUNla3NKUzNXZjhUNVI4VDJSZHdpNWNRMmJSS3kySnJaSFdfekx0S0xGTUI3RmtHa05mbmk1eWFiN3JRSkdiRUVNdVduVTQzaXE3Q2dXakI4a1d0SFIza1Q2MXhSX3h5ZTZ2dVRVWnJsS0hLcWRtS09fQlFpa2sweTlkNjRtOVJldmhmYkFRVVFqVld1TmxoemMtQ09nenBQTXVkOFJXb190Y2I5VkdWa094Rlcwai0yZHkyUjlQaC1JdXZUSTg0dVRBZ0J1NUxzc0Nhc3h5V1NkMzNKcGtyVml0SERJ?oc=5",
+      "data": "05/10 19:02"
     }
   ],
   "avisos": []
