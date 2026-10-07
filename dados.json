@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/10/2026 06:41",
+  "atualizado_em": "07/10/2026 14:11",
   "jogos": [
     {
       "sport": "futebol",
@@ -200,9 +200,9 @@
     {
       "sport": "volei",
       "date": "2026-10-07",
-      "time": "20:30",
+      "time": "18:55",
       "competition": "Vôlei (SporTV2)",
-      "match": "Pinheiros x Osasco",
+      "match": "Brasileiro Feminino de Vôlei Sentado",
       "channels": [
         "SporTV2"
       ]
@@ -211,43 +211,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.4,
-      "temp_min": 21.6,
-      "chance_chuva": 92,
-      "condicao": "Garoa"
+      "temp_max": 26.9,
+      "temp_min": 21.9,
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.7,
+      "temp_max": 26.9,
       "temp_min": 21.4,
-      "chance_chuva": 90,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.6,
-      "temp_min": 17.8,
-      "chance_chuva": 99,
+      "temp_max": 24.2,
+      "temp_min": 18.0,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.5,
-      "temp_min": 17.2,
-      "chance_chuva": 99,
-      "condicao": "Garoa"
+      "temp_max": 25.7,
+      "temp_min": 17.5,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Keno e Lavega jogam contra o Fluminense? Entenda a situação - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGYwNTdDcWJEZ3JmdXBaTXdabVRlXzIySmhwMmpNY1VwNVloOVhDdWkxU0hWOTFhV3RrZFFhRlE3b1VPUlV3TDB4dHI3RDB3ZFhTN0gtTUd3cVo4eHJMdVh5QmNTVDM1QmFrVVhjX3o1VTZ1QWlKN1lEbXl3OFJWdEZJSXNTLXg2a2RSa1ZoREgxRll6QkpFME5BSkF1ckNRdUo2aXFQTFNfcjdZbERZU2pmVFNUUQ?oc=5",
-      "data": "07/10 09:00"
-    },
-    {
-      "titulo": "Millán revela motivação extra para fazer Thiago Silva conquistar título no Fluminense: \"Seria lindo uma Libertadores\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQmdCOXN0UGRDZk5XYXRTY1VsWVF0Q2NlSThkTUVyc20xQThTQ0ktRGlOSHMtMWI3bUNuYV9DMS02UEx3YVV1eldVRFNkYmtKWnpwQkRMX0hYaE91ZnRUWWVIZmVZQWZlZ2R6WGlCaHFzRUhKVGdwZVN1T1M2aTQwZFlFMGVjLVVKSWtpN0RfeDFtallqRUdxV2RsTzV3emoydG1fUVZlMkFGbHZmZzc1d3YtNk5JbkhLNVloNUwwZVI1QXVBNGMzZmdOeEYyTE5WTHE2UnRkVmo3bU13UHFZQzRQTWZpUm5lY1hYY3BiODd4MENXUE84UmhQNXlQU09WOExCa2ZON0lhRnpWVGp5aVV2b9IBogJBVV95cUxOcUR6SEpKNTk5RUp2alQ0QXBkbGUtSmtnR3lTemVxSnQ5eGxlQWd5TWxvMHNaTHU0Qmx6WVBFUWg0Tk0tZVB2dVNtbDViT1k2aGF1LU5xYzRDOHA3a3pMOHdUaGF1WV9NaWJEY0RKNjRid2ZaVzk0TjMxNkJ0aXg4VXQxVG53N2xyTjJsamstSS1pb0N4clRudExwWGV0NmZZSnNsS2hMYUhjVWVMdmotbUgxZm1sT0t0QlJjTlJOX3ZlakZFcUkybFk4OE5kOTY5S0d4dC1QNHd1RXpIZmxDRlJ5YXMyWEVzS1JPbU5EOVNHYmNFMUhZQzdGRDVwUHptN3VRWTMxUHFTUVUxOTZOc25hdjd4Q1laSWhwZDN1dVcwUQ?oc=5",
-      "data": "06/10 20:04"
+      "titulo": "Fluminense e PUMA apresentam edição exclusiva do tênis Slipstream para a torcida tricolor - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3J6YURHdHJsZUJOc3QyUktVOG9KVG5xYVZlVzlkdFZnRXhhTlBxdmIwX254bE4taS1yNTdDVEx3cm9LQkxYQlNCY0hVaTZEaW5ZaHh1QUs3VWI3dUJjWWFkazM2c2ppT3BCc25yTzVjR2FnckhyYl9aTDY0R0hqNUw1OHlodnNNeWFiZEFpaGFpdlQ3QjJFVW9jb2Rnci1DX3ZrWDB2Z0JKOExSMHM1R1pGeUtfYVRCQUZCSHJHUV9xTWtiY3c?oc=5",
+      "data": "07/10 16:06"
     },
     {
       "titulo": "Fluminense exibirá marca de site de estatística no lugar do máster - O Dia",
@@ -255,14 +250,19 @@
       "data": "07/10 00:10"
     },
     {
-      "titulo": "Fluminense troca estampa e estreia marca no espaço máster - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEhhc2wyMXRpb2tVbDNSWnp0aENPUDhNeUNoUndNRWcxUjZSOE1NMC1jUmVTMHl3QXUtWjNWRHR4c3Q3OEJQaURfRlgtZm1vY2F2YUpfNzFaMTlCRjZRSmhYNlVlM2xTMmVQMktxdjhvRjdMRjNpTTlrdm1BdzROLXBjYWZKdGM5OTJUMjdLY1BLM1F0dHZ1WnBYTHMteXc?oc=5",
-      "data": "07/10 00:21"
+      "titulo": "Renovar com o Zenit ou voltar ao Brasil? Ex-Fluminense, Nino abre o jogo sobre futuro - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWc5ZzVpUFZyUUlya2p3ekYyVFNHaXR5UV9BelNVd1pheVdBaHpUVHVtSEV2QUVhbndtWm8zS3VNMnF0TmZfRXZ3QjdHNkpLRmJzeXlOWU5ibGlpWnhheXlmZDR1ejBjY2FsZDJOZTR5NXlYUjY1WHFvQW9zOThINXlJOWd5UlZUeWx5M0ViWl9kYV9pTVA3ZTdTM3NtS1N3Ry04WXFjc0x3WW5HVlpr?oc=5",
+      "data": "07/10 12:32"
     },
     {
-      "titulo": "Fluminense encontra alternativa para manter parceria após MP das apostas - Gazeta Esportiva",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNUVQR3dydW8xQXJ6TGpfSFZ1MkVQOHhOMkZlcTZ5aE91TTBvdXA0cmhqQUJCWnRqYWVjRWlWY2UxNjRCVzB6Z3ZIbi1NOTczV0NIZ3pyd1RfQzVDNkFuY29lbWtDRXdnV25DNkpOT3VDNndrLTRReHV2UklqWndScDNlOWVad1EtSjZvbmxDb09aMy1QZF83Z1Q2N3M5cWpsOExpUk1WNU9wTzYzTFdsNm9JU0Z2a3pHQUd3cXhIRdIBxAFBVV95cUxPVmlxQVIxM0dSeTVXLUV1WlVGUTRuTGpDaGtSck9HVjRTRjZlblhZTDhuemh6NkxUZTExeE84bkc1ei0xRWhCemx4UkJneGFwelFncjdqVXNiV3BnUHF4OTZFXzAzTk5YVVotSlNKcFJjMGRIX3ZZcUhxdUtYRjhRS3VGbk1jN21tQkxZdUt6TzdQNkFjWGV4WWhGMk15LWJoZk52YTdHRGhNaHExOWc0LVdGdXZ2UDNEejdoT0FGVGFPWmNz?oc=5",
-      "data": "07/10 00:59"
+      "titulo": "Keno e Lavega jogam contra o Fluminense? Entenda a situação - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGYwNTdDcWJEZ3JmdXBaTXdabVRlXzIySmhwMmpNY1VwNVloOVhDdWkxU0hWOTFhV3RrZFFhRlE3b1VPUlV3TDB4dHI3RDB3ZFhTN0gtTUd3cVo4eHJMdVh5QmNTVDM1QmFrVVhjX3o1VTZ1QWlKN1lEbXl3OFJWdEZJSXNTLXg2a2RSa1ZoREgxRll6QkpFME5BSkF1ckNRdUo2aXFQTFNfcjdZbERZU2pmVFNUUQ?oc=5",
+      "data": "07/10 09:00"
+    },
+    {
+      "titulo": "Em alta, Serna busca recuperar espaço entre titulares do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOazhXMmZiS0toM182S2RkdklkNWM5ZG1lQ2owTkhzUnpqWTdhc3V2Rlc3ME9tUVliM1l2YWlOT29pUkl6ZjlPZjdvSjB4MDBRTlVuUmxtQnVxd3lwREdkYVdzRUZRbVFvTFhqa2dzellzUTFPN2I4c1IzNkNCYkxSVUU2WTQxVXpLcFhwWk1rcjdFYnVaMWRfY3dVcjR0bWV0NUpWRmxqdHAxczVja2dncUo4MFJIUExNd1gxcXloOFk3Mng3NXRWVDNSbF9KLUNuYjFfYU1Kem5kQnMtMnhhelk1cDF6N1h4ZGJ6bnZR?oc=5",
+      "data": "07/10 10:05"
     }
   ],
   "avisos": []
