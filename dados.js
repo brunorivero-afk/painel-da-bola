@@ -1,6 +1,141 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/10/2026 19:13",
+  "atualizado_em": "06/10/2026 23:00",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "21:00",
+      "competition": "Amistosos Seleções",
+      "match": "Estados Unidos x Canadá",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "21:30",
+      "competition": "MLS",
+      "match": "Chicago Fire x Whitecaps",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "21:35",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Juventude",
+      "channels": [
+        "REDETV!",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "11:00",
+      "competition": "UEFA Nations League",
+      "match": "Cazaquistão x Ilhas Faroé",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Croácia x Espanha",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Escócia x Eslovênia",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Estônia x Islândia",
+      "channels": [
+        "SPORTV 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Bielorrússia x Finlândia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Albânia x San Marino",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Suíça x Macedonia do Norte",
+      "channels": [
+        "SPORTV 2"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "competition": "UEFA Nations League",
+      "match": "Inglaterra x República Tcheca",
+      "channels": [
+        "SPORTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Montserrat x Turks and Caicos Islands",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "competition": "CONCACAF Nations League",
+      "match": "Saint Martin x Bahamas",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-06",
@@ -51,91 +186,6 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "21:00",
-      "competition": "Amistosos Seleções",
-      "match": "Estados Unidos x Canadá",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Chicago Fire x Whitecaps",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "21:35",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Juventude",
-      "channels": [
-        "REDETV!",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Croácia x Espanha",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Inglaterra x República Tcheca",
-      "channels": [
-        "SPORTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "15:45",
-      "competition": "UEFA Nations League",
-      "match": "Escócia x Eslovênia",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Montserrat x Turks and Caicos Islands",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-06",
-      "time": "17:00",
-      "competition": "CONCACAF Nations League",
-      "match": "Saint Martin x Bahamas",
-      "channels": [
-        "YOUTUBE"
       ]
     },
     {
@@ -283,7 +333,7 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.0,
+      "temp_max": 24.2,
       "temp_min": 18.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -298,29 +348,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Millán revela motivação extra para fazer Thiago Silva conquistar título no Fluminense: \"Seria lindo uma Libertadores\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQmdCOXN0UGRDZk5XYXRTY1VsWVF0Q2NlSThkTUVyc20xQThTQ0ktRGlOSHMtMWI3bUNuYV9DMS02UEx3YVV1eldVRFNkYmtKWnpwQkRMX0hYaE91ZnRUWWVIZmVZQWZlZ2R6WGlCaHFzRUhKVGdwZVN1T1M2aTQwZFlFMGVjLVVKSWtpN0RfeDFtallqRUdxV2RsTzV3emoydG1fUVZlMkFGbHZmZzc1d3YtNk5JbkhLNVloNUwwZVI1QXVBNGMzZmdOeEYyTE5WTHE2UnRkVmo3bU13UHFZQzRQTWZpUm5lY1hYY3BiODd4MENXUE84UmhQNXlQU09WOExCa2ZON0lhRnpWVGp5aVV2b9IBogJBVV95cUxOcUR6SEpKNTk5RUp2alQ0QXBkbGUtSmtnR3lTemVxSnQ5eGxlQWd5TWxvMHNaTHU0Qmx6WVBFUWg0Tk0tZVB2dVNtbDViT1k2aGF1LU5xYzRDOHA3a3pMOHdUaGF1WV9NaWJEY0RKNjRid2ZaVzk0TjMxNkJ0aXg4VXQxVG53N2xyTjJsamstSS1pb0N4clRudExwWGV0NmZZSnNsS2hMYUhjVWVMdmotbUgxZm1sT0t0QlJjTlJOX3ZlakZFcUkybFk4OE5kOTY5S0d4dC1QNHd1RXpIZmxDRlJ5YXMyWEVzS1JPbU5EOVNHYmNFMUhZQzdGRDVwUHptN3VRWTMxUHFTUVUxOTZOc25hdjd4Q1laSWhwZDN1dVcwUQ?oc=5",
-      "data": "06/10 20:04"
+      "titulo": "Fluminense exibirá marca de site de estatística no lugar do máster - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1VidW9vblZMWGx6OEZ3ZW9EOE1DMlR0QmhQVW9MQmgybmJDbGxwRmh2bGQ1a1FobTJLaEstSFdQV25IanlQZEhpQWhla0VmeWVPTk5LUjR1aXYwQU52S0J3Qml4bDUyeDh6N2gta2RYelFEbmFhOFRLTXk5d1lQUDNseGgwY0hKU0QxdE4tSlBSUk9GQUQ5ZFlOOVk5OHlxajBQYnZvX29USEdKNDBZS2RGRGJRbkIxRzZ2dy1pNGdrdTk5TkpkbtIBzgFBVV95cUxOLTVtcGJkR3AxNFpkYk4xSm5NUmJSTWNvU2tNSWdpcEhxZHh5Q0xNQXNra1pmSXR1UDhtamt0MmlJWmx3XzItVm9fc0xodDVhd2gySVM4TGZyWEJXaFc2NklFUWhZREFwRUpMN09odHZOSVJpUzFjcV80M3RMQXIyb2pzd01EdDhCemoxNnl5TjZIZVNGQVFKc2tvLUViaTNKRzhCWkRUSlNPY05CWW9mOURKR3NzemcxLVhmMFdiS3ZKZFV1UDJqWHU5RVV4QQ?oc=5",
+      "data": "07/10 00:10"
     },
     {
-      "titulo": "Fluminense treina sem patrocínio da Superbet; veja imagens - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQXY3Y3A1R0tFVmlSeTRsaGpfNG0xTHJYeXA1Z0dYUU55Q09OYXBqWVM1TkMydnZfdkdoSDVSVVROTS1rU2hfNUh0Y2xXUnBaa3Jkd05vZkcwdWU2ZUJPU1hJc3A0YThQQnlaNnZyQ3FyNEVoRlFNU2tJd0xLTnF0MVk0Q0otMExUeDJSQg?oc=5",
-      "data": "06/10 17:42"
+      "titulo": "Fluminense terá site de estatísticas como patrocínio master em jogo contra o Coritiba - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcmJiNWR2d0FsZE1Kd1owVmlWdFVRcFhtQklSYUkxektwM01LWUlFNnc3UUdvTWpsLUllS3R0SWl0SlRkSHhrYTV4UUhPZF95bU1lb3Vncm5ScnhGS193Q3A5UUJUY1J4STZhZ1R6aUVtQmlfQTlYTE5NdnFGZXotNVZybE5OZGpBSE9valpVWlB5RXNLbG1uVDhyX2lhdnVFLXdCQzBuYzRQdUN5aTc3TW50clZzR2dfTV9LSGVZU2R3dUpXdmdVMWstb2dsa0xkeTlXNGFxZ0U1TEdqMDF6S01fMFNGRHJSQUtQRNIB-wFBVV95cUxQUzllNlBoSVpORFY3UWsxeWxwRHcwNTluQ2Z3d0Rxd1BTcFNWdDJCYVIzYUdTNU5vdWFZRnBxRUlEZndlWHljNUpuR1R0Yld5STR5SXc5eEtyOWZ4T2FsYnN4XzJsSEdZZEtvVGdZd1RQLVp5YVQ0SHdNTEJGZE5hSWF6amkwUVFHY1g1ZXhxS3VuZ3o5a1lQZHJQZ0xBT1B5NzFsWU1UcFdnaTRWc3ItWWZUanZPOTZGM3VPdmJ4UXpfZV85OXAzbU16MnRBTUtUWmczWHpoaU1GaUc3dWRKRmtsM1pBUV8xZHdsOUNlaEtpM1lkMXVFZjlnMA?oc=5",
+      "data": "06/10 23:04"
     },
     {
-      "titulo": "Hulk destaca importância dos veteranos no Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUxKd2xMaGRpbzdabWxEUl8xZFRxdjBZMzZ4X1JOZUlOdGNmM3YwTHc3NGRlT3plalczZGVvSURCdVNPNEd6UFZNX2pqLXhhNWNzVHlvdTFURFViT1hvUXFBSnpkQ29FcTh3UkY4Z0hQYm1wWDZkLWpMdVRWUzZCR1ZHWXJPdw?oc=5",
-      "data": "06/10 20:30"
+      "titulo": "Fluminense encontra alternativa para manter parceria após MP das apostas - Gazeta Esportiva",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNUVQR3dydW8xQXJ6TGpfSFZ1MkVQOHhOMkZlcTZ5aE91TTBvdXA0cmhqQUJCWnRqYWVjRWlWY2UxNjRCVzB6Z3ZIbi1NOTczV0NIZ3pyd1RfQzVDNkFuY29lbWtDRXdnV25DNkpOT3VDNndrLTRReHV2UklqWndScDNlOWVad1EtSjZvbmxDb09aMy1QZF83Z1Q2N3M5cWpsOExpUk1WNU9wTzYzTFdsNm9JU0Z2a3pHQUd3cXhIRdIBxAFBVV95cUxPVmlxQVIxM0dSeTVXLUV1WlVGUTRuTGpDaGtSck9HVjRTRjZlblhZTDhuemh6NkxUZTExeE84bkc1ei0xRWhCemx4UkJneGFwelFncjdqVXNiV3BnUHF4OTZFXzAzTk5YVVotSlNKcFJjMGRIX3ZZcUhxdUtYRjhRS3VGbk1jN21tQkxZdUt6TzdQNkFjWGV4WWhGMk15LWJoZk52YTdHRGhNaHExOWc0LVdGdXZ2UDNEejdoT0FGVGFPWmNz?oc=5",
+      "data": "07/10 00:59"
     },
     {
-      "titulo": "Morre Carlos Alberto Dias, ex-jogador de Flamengo, Botafogo, Fluminense e Vasco - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGtiV2dON3pWaWJ5UUxsRU9yTmxPSWZ2QWFtY3ZxWW5EZzNaYlRha3c2RGlUVkFoVWprQk9EQjZibVFPalhkWmw2X015ay01MEk0aE5TZ2trT2FhZFI4aTlLNnpPY21xRHdLaGY0SEJsT0ZPZkg1YmszZHAxSDlWSmV2ajVFYUpkUy1tWEE3Q1ozUC1MUWZhbnJjWV9lYjlhRWw2NVdKbUsyV3hxNmZ2RHNsOWROc0RuN3F6YQ?oc=5",
-      "data": "05/10 19:19"
+      "titulo": "Torcida do Fluminense ganha novidade sobre setor visitante no Nubank Parque - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaHB3T0VkbklxWGxFczFBVVRpNUFtRkNncENTZHl3VkhrVGFtOVZoSlZxNFYyRVM0eWFNLTUxUXhTNjZJaVcwTG9MZlhHTl9vNzQwT1FNclc4UTMzdklneG1CcW53RGhrWVE4bURiREpnX3o4aE44ZjJNOHVzMW1aVHZlS2gxX29KM0p4akFmR1dQQVhY?oc=5",
+      "data": "07/10 00:39"
     },
     {
-      "titulo": "Fluminense x Palmeiras: torcida tricolor compra 15 mil ingressos na abertura - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNS1hzUG1QeHFxSmVWMEVkRklBVUNla3NKUzNXZjhUNVI4VDJSZHdpNWNRMmJSS3kySnJaSFdfekx0S0xGTUI3RmtHa05mbmk1eWFiN3JRSkdiRUVNdVduVTQzaXE3Q2dXakI4a1d0SFIza1Q2MXhSX3h5ZTZ2dVRVWnJsS0hLcWRtS09fQlFpa2sweTlkNjRtOVJldmhmYkFRVVFqVld1TmxoemMtQ09nenBQTXVkOFJXb190Y2I5VkdWa094Rlcwai0yZHkyUjlQaC1JdXZUSTg0dVRBZ0J1NUxzc0Nhc3h5V1NkMzNKcGtyVml0SERJ?oc=5",
-      "data": "05/10 19:02"
+      "titulo": "Atacante pode ser vendido pelo Fluminense em breve - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQUkwY2N3Q18xMWJQWjhkcUFaTXB2QmZHXzdpaDNkTlpwbzJ0LXZvSnlHWlVUWnZZWjFwc0h5al81cVpzUFhmZmlodUQtUmR3a0NUdHVoZDJ3TVZsRkEtSzNvMVdBOWE5SC0wcHhxSlZtNWxTS1BhbUxqS09RZFV4MWQyekpoNktGdTIwSGhuRjhJX09pSnlBQkFMZ2xuUXFpTlNLNjJNNG9fUkVvYlY2aTNyMWdmY2JuRWJYbUZYTzZ6OFNLU2UwUWNyUWRIbF85alUzQVROeDY?oc=5",
+      "data": "06/10 22:32"
     }
   ],
   "avisos": []
