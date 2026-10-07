@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/10/2026 14:11",
+  "atualizado_em": "07/10/2026 19:35",
   "jogos": [
     {
       "sport": "futebol",
@@ -211,58 +211,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.9,
+      "temp_max": 27.3,
       "temp_min": 21.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.9,
+      "temp_max": 28.8,
       "temp_min": 21.4,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.2,
+      "temp_max": 23.9,
       "temp_min": 18.0,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 25.7,
       "temp_min": 17.5,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Escalação do Fluminense: Serna e Arana ganham nova chance no time titular - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOXJnUVB2X0FzdmphclV5ZHR1eTFKRWFhTDMwbE1IdzZNNDVVLWlUcnhzTFF5V3NaWEhCQ2N3M21qQXVIb0xIQkkzLXVmaHJ5cHJjdUFjck55VWFYMU40TC1GV2JvZ3RmdlR2T2VISU4tZ1RaeE1PMENMaVhjN3R2NW5pWldpUGxsQmhnQ0F1QW9aLTd2LUN4VVp6QjUzWHVvbFFZY3JkeFMzSTdUSlh5a0UxYjB0THJIdEpVSnIyaHNVNFl5MmJSc09YaUU0LS1JODh2MjJJYkFaMTTSAeoBQVVfeXFMUFpZR2hleXRPdlk0UDdRblh5dzY2UE9sVjRELUIwR1BZMEl5dkZHczZzcGJlMmVLNWNEZGFVM3JJLWZSd1ZBNmtRQ2hJYkpUVXUyaXdCNHpSUERyWmtUTDZ3U0U0NkJQZThLZW4wSkozeVpva0NlbWQyT3U1dWoxU1k2a0VNV3dKRGhJZFVOVzRZVEdSdWFUX1dSTlNEM3FwaHJRVFVvYlhuYW5UUVFoV1AwQmJtVGstREpVTThubGpqNWxnc0h0T1Izd2hHaTFWMGxfVW5jeDhkaHNkc1dKa0pFbnlObWM2QjlR?oc=5",
+      "data": "07/10 21:02"
+    },
+    {
+      "titulo": "Fluminense consegue adiar pagamento de R$ 1,35 milhão na Justiça do Trabalho por corte das bets - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZlZ0YXZsZlphbWdGM2Frc2taWEF2dW5SaE9GR2FCRlhCX0lHV1hId19uUTEyUWxBVTZXMGRUMkxKM2U4MndjSEdabXFfU2o4LXFlaW5BN2szdXRWSlVRcWlrbWhzbFYwR1Zwa0ViejRPZm1kOXZzQkVwMWpJWmtORE0yZ3lGbUJHbGZYVElueDdWR2haWVptYWE0TEZuUlNMVVRBSkFSdEhxX0lYaGJOaDBwQXJUSDNFOUxQUHN1VXpReUNBZHJiTzBjbzRSUHV3UHctVNIB2gFBVV95cUxPbFVmakxBTE04bjg1Y2pYV0hMRV9SVk1DQXB4aDJROEEwdXYzeUVVOW84WkktTXFzdi1MSUdNdlZBR0hpdmJ4ZGtDc2lqZWsxb0owWnQzMWNDN2Mzd25GX2M5SVdkRFVWTEFjVVh3ZW0yTkx3dXRzMG5WZnlUZlJWbm13YVUwSjE3eFpHc2xXckJjZFdxWl8zeE5HdHo3ei01Q3hFRk85Y2JWZWRBWUhqMnZUWURfdk5sQy1ocDNwMGE2bTNCMEl0ME1LV0tpQXdhbjR5V3g5cmxIQQ?oc=5",
+      "data": "07/10 21:42"
+    },
+    {
+      "titulo": "Nino explica por que negociações com Palmeiras e Fluminense não deram certo - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkhyblYzMnJoYWZSNVN6akZxM1dxMmhPZDJDaTJnS1hSNmV0OGdQUGR1RTMwcFlkbEpEZEY5MTAyWDR2N3V1SXJOMlhpRUV5WGUwYVdLTzI1LUp4cjE3bm9paFA4bmVVMVk4UUpsMmlhWUV2R0xMQlg1T0hTRnRzQ21feW5lZ2dnR1R2VlhFUk9IQXk2OS1Ca0lRamEwOGlOaVl4aXNQazBUeTE5MEw0SkJsOEo2NWRmMW1OeXU2SkdJTWYxLWhlSG41aW5BLWJGZ0hEV1YwbW5RY3kxeFo3SWdxZWNHUHRZamFIbnZOTQ?oc=5",
+      "data": "07/10 19:12"
+    },
     {
       "titulo": "Fluminense e PUMA apresentam edição exclusiva do tênis Slipstream para a torcida tricolor - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3J6YURHdHJsZUJOc3QyUktVOG9KVG5xYVZlVzlkdFZnRXhhTlBxdmIwX254bE4taS1yNTdDVEx3cm9LQkxYQlNCY0hVaTZEaW5ZaHh1QUs3VWI3dUJjWWFkazM2c2ppT3BCc25yTzVjR2FnckhyYl9aTDY0R0hqNUw1OHlodnNNeWFiZEFpaGFpdlQ3QjJFVW9jb2Rnci1DX3ZrWDB2Z0JKOExSMHM1R1pGeUtfYVRCQUZCSHJHUV9xTWtiY3c?oc=5",
       "data": "07/10 16:06"
     },
     {
-      "titulo": "Fluminense exibirá marca de site de estatística no lugar do máster - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb1VidW9vblZMWGx6OEZ3ZW9EOE1DMlR0QmhQVW9MQmgybmJDbGxwRmh2bGQ1a1FobTJLaEstSFdQV25IanlQZEhpQWhla0VmeWVPTk5LUjR1aXYwQU52S0J3Qml4bDUyeDh6N2gta2RYelFEbmFhOFRLTXk5d1lQUDNseGgwY0hKU0QxdE4tSlBSUk9GQUQ5ZFlOOVk5OHlxajBQYnZvX29USEdKNDBZS2RGRGJRbkIxRzZ2dy1pNGdrdTk5TkpkbtIBzgFBVV95cUxOLTVtcGJkR3AxNFpkYk4xSm5NUmJSTWNvU2tNSWdpcEhxZHh5Q0xNQXNra1pmSXR1UDhtamt0MmlJWmx3XzItVm9fc0xodDVhd2gySVM4TGZyWEJXaFc2NklFUWhZREFwRUpMN09odHZOSVJpUzFjcV80M3RMQXIyb2pzd01EdDhCemoxNnl5TjZIZVNGQVFKc2tvLUViaTNKRzhCWkRUSlNPY05CWW9mOURKR3NzemcxLVhmMFdiS3ZKZFV1UDJqWHU5RVV4QQ?oc=5",
-      "data": "07/10 00:10"
-    },
-    {
-      "titulo": "Renovar com o Zenit ou voltar ao Brasil? Ex-Fluminense, Nino abre o jogo sobre futuro - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWc5ZzVpUFZyUUlya2p3ekYyVFNHaXR5UV9BelNVd1pheVdBaHpUVHVtSEV2QUVhbndtWm8zS3VNMnF0TmZfRXZ3QjdHNkpLRmJzeXlOWU5ibGlpWnhheXlmZDR1ejBjY2FsZDJOZTR5NXlYUjY1WHFvQW9zOThINXlJOWd5UlZUeWx5M0ViWl9kYV9pTVA3ZTdTM3NtS1N3Ry04WXFjc0x3WW5HVlpr?oc=5",
-      "data": "07/10 12:32"
-    },
-    {
-      "titulo": "Keno e Lavega jogam contra o Fluminense? Entenda a situação - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGYwNTdDcWJEZ3JmdXBaTXdabVRlXzIySmhwMmpNY1VwNVloOVhDdWkxU0hWOTFhV3RrZFFhRlE3b1VPUlV3TDB4dHI3RDB3ZFhTN0gtTUd3cVo4eHJMdVh5QmNTVDM1QmFrVVhjX3o1VTZ1QWlKN1lEbXl3OFJWdEZJSXNTLXg2a2RSa1ZoREgxRll6QkpFME5BSkF1ckNRdUo2aXFQTFNfcjdZbERZU2pmVFNUUQ?oc=5",
-      "data": "07/10 09:00"
-    },
-    {
-      "titulo": "Em alta, Serna busca recuperar espaço entre titulares do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOazhXMmZiS0toM182S2RkdklkNWM5ZG1lQ2owTkhzUnpqWTdhc3V2Rlc3ME9tUVliM1l2YWlOT29pUkl6ZjlPZjdvSjB4MDBRTlVuUmxtQnVxd3lwREdkYVdzRUZRbVFvTFhqa2dzellzUTFPN2I4c1IzNkNCYkxSVUU2WTQxVXpLcFhwWk1rcjdFYnVaMWRfY3dVcjR0bWV0NUpWRmxqdHAxczVja2dncUo4MFJIUExNd1gxcXloOFk3Mng3NXRWVDNSbF9KLUNuYjFfYU1Kem5kQnMtMnhhelk1cDF6N1h4ZGJ6bnZR?oc=5",
-      "data": "07/10 10:05"
+      "titulo": "Hulk diz que quer ser ídolo e fala sobre sintonia com astro tricolor - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlRQNTlOcFVucXdjSlY5Rzc2NlZjb2tsZ0dDbVA4UzVFNTM5UnNLTDNUZE13Ti1mM3duVTdzRDRkRWV4b3lEdGduQVphRW9Nd1ZFVjRjTkhfYXFMaWx3UGxNSENyWU51WGRRbmpVMnFaV1U4VGNOajdobVhDUmJkam5yUE9TVlBWQXl6ZldYTUxyaVc5NTRuUnZaNnh0dTBSeF9hdkttSlptOUFCTGpyRG54T3FKNEgyNDJJaExqMkRHQUtBbkVGYUJxUdIB0AFBVV95cUxNbEdVcTN1YlRDREp2NVhTdzdDd1ZIb0k4SjdOd1lYU0hGTl9ETlBzZkM1c3FiTVpKVHRFd043NUg1ZVl2SjVnLW1Ca1ViWGxMZUdwVHFMc3M2bGlPVUFpWXBxSjVwX1cxS3lLbHhRS1g1aEQzQWVQdUd3NEM1UlVjeGsxZEp3MXlHYmxYSU50bkQ0VExGQmp6RzVFNVNnNG8wdGxwZVlsb1U0SG91eUhLTFpwMXVXa3ZRenJ3aFh6UXNRbHZVeV9WOHVqNldUak1X?oc=5",
+      "data": "07/10 20:41"
     }
   ],
   "avisos": []
