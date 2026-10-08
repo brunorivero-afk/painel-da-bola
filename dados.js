@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/10/2026 14:08",
+  "atualizado_em": "08/10/2026 19:47",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-08",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "UCV Moquegua x Cienciano",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-08",
@@ -78,6 +68,16 @@ window.PAINEL_DATA = {
         "GLOBO",
         "PREMIERE 2",
         "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-08",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "UCV Moquegua x Cienciano",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -342,28 +342,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.1,
-      "temp_min": 21.0,
+      "temp_max": 25.0,
+      "temp_min": 20.7,
       "chance_chuva": 2,
-      "condicao": "Parcialmente nublado"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.0,
-      "temp_min": 20.9,
+      "temp_max": 25.3,
+      "temp_min": 21.2,
       "chance_chuva": 6,
-      "condicao": "Poucas nuvens"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.6,
+      "temp_max": 26.9,
       "temp_min": 17.2,
       "chance_chuva": 57,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.9,
+      "temp_max": 26.5,
       "temp_min": 16.0,
       "chance_chuva": 78,
       "condicao": "Garoa"
@@ -371,29 +371,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense testa novo gramado do Maracanã em meio a polêmica com Vasco | Ge - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa1Naek1xRWdKaEQtTl9XVVlfZ0VsYVMyU2c4ZHpRbUF1d251VHZvWmZhQTZRbWZXT1NkeU1iNUhHZXZDOUxRSGF0R2Z3ZlkyZkVGc09DdjFoTk1XN3NhMmtVQkFCUzBSZ2NDUWxqVlZOYk9NZmxVdkFxQU1NbHR5V09pcGhRYjNVT2F4cWU5ejZPQmRXVEcyNHdxaGdCVUdLZGEwRjJFcWd6OE9hdnZNV1lDVHpEemUxRGdmdTAwQ1FTeXpyQ0NfSENKNG9pWXBsSWVTS1F6QzFRejhaVWFlUlhib1Y?oc=5",
-      "data": "08/10 13:00"
+      "titulo": "Corinthians consulta ex-técnico do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjajRBN1dGc2RCVTJDNmhfVTM1blZ0T2I1bG56Y3o3TTYxYXV6c1JRbnBka2lDNGllS1YyU0xIZXUtWDA2UTlqMXNkSU4wUEtib19VTTVTdWdsMFQ3cUNaWHIteHJ5ajJReVRhb0ROV0xsSEEwem1ubzdlLWk?oc=5",
+      "data": "08/10 17:49"
     },
     {
-      "titulo": "Lucho Acosta, do Fluminense, não será denunciado por suspeita de manipulação - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVZ3b010djBJSGRNc0wwalRHU21iUWRRZV9aLUpRTmVpa2dEWGI4RmROMHIxZWRXZ3c5bkV3Qkh6cnZ3cGR0d0txeTctRElzZ2N5bm5HTi1mZVd5S0xXcWlZOWJQRWpsbERjSHJXRENXS2RmOEVhS3A1TmxDaWMzRW9Kb1VFR001RzdSb2V5X3ZWT2F3YlJ4d2dYalc4MU1DTURV?oc=5",
-      "data": "08/10 16:24"
+      "titulo": "Fluminense goleia em Laranjeiras e vai à liderança do Torneio Guilherme Embry Sub-16 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVFIRlJ3ZFNTTjU3VHdDQUJUZGlVS04wZ05qbHpXOXZxWl9OVUJWejhmYVlLUHJwbWdsd2d5U1B6cDdNbDFnYm1zMzBQTWpKTGdIbmRHRjlyc2l3S0Z0YWNoZmt2S3J2UV9YMFE0MzRnaDZfLVFVcURWNVZjQ3M5M1FPNnNRVnlhVUNnVmxDbFhWaThueVg1UmhZU08weVRWUFpGUmw5UTdsc29DT2VrNWVjajl0eWtWSVNXSGdvTQ?oc=5",
+      "data": "08/10 21:25"
     },
     {
-      "titulo": "Olheiro do Fluminense estará em Marataízes para descobrir novos talentos - Aqui Notícias",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3FtMHpEZ3pOMFRtZVQyUVY5UGtDdGJaMGNjR0JIeThUOExKd0xXdW05REdoX2RZcWwwLUdEbTBSZDl2RU0yZndsUmdfTGRxWWc5ZUVfM3NhejZ0OXVnVnpQZ1JGOWprN2RwSHVqZ3pKMWtEWGlEejlvYjc2Yk1tWDlmQzF2UjR5UzktZXBhQ0paVDRfMl9PbFdaOW5XN253TGNzRHMzV2tZNDhIcTJvTGlISFFmbGlGTV9SSmhjNA?oc=5",
-      "data": "08/10 16:53"
+      "titulo": "Fluminense pede prazo maior para pagar dívida trabalhista - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yek40SXJwV083R1NXMG9tWGtXV2l3TzdibnBLaC1Mbk5MRzNPLW9zQ2tSLTBjOWNYZEVkQktGWDd0Qmo3S2NaU0NHVU5lOHBmSTdxenhGMlcwOXFUZ2lleHFtZklUNEZTZ00xMWFoc2daWk5tQVJEcQ?oc=5",
+      "data": "08/10 20:18"
     },
     {
-      "titulo": "Ex-Fluminense, Fernando Diniz é demitido do Corinthians após derrota - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOEVLUUQ4ZjVYZ1FrbkV6VU40eE9zQjByOXU1ZGFhckJWbTVmcUYwNGhQdllwT3RXTmo3d0hnYnFQMXJzaFhHTUNNZEVHeGNBVmUzU1lrM21iTk85THI5VG5OOHR4UDBiV1lwVU9KNjRrVWdNRHhVZXJMTDdfeHpBZnFKYXlmLVA0azl1QTdkVHN4Z3gtNmlnUVpiVXVEZW81LUJDekxvWkhfWTZxWVhvS2lZYnVjZGZSUHBr0gHAAUFVX3lxTE16VmVvRDdUZ3ByMkFWYmxpMzRVaDNmWE9nbjEtQXdxLU9KcjdJMnlpcDlGMmtDX1hKdG1Ubl9JZFJDYlU0UVdtRVdjMEJNRk1kdFhPaC00dlFvY2EtWW9CRjluNHE0bmNYdXA2TjhNT0p3VVZ4NkdOWEpsOG03MEktdkFmZmR5Zk8xYkpoTGoycHFBNzRUY0VVM3lCejZOVk8xVGgxTkgzT01EZmI4dmxtSm5qVFFmOHdUS2FtYmxnZQ?oc=5",
-      "data": "08/10 01:47"
+      "titulo": "Fluminense x Coritiba: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVBreXd4NHdFdkJoU2hUMkxLYS1mbFd2d25JSjc5cVp3YmdBQ3E5QWZGaHluZFYxclB6emk3ODJ5Y01Wd1g0Z0V2Vm01aVJPUHdlOUVFVlRuR0NleEhyakdmNGNxQ1Vjc2VFTWwtUFl6OVFIeklmZGVvNkRYeEdnZDczMG8ya3ctM3Nlc1RhWklMQnZqMXgxQjNlVW5JeTBBblFXTVR4eHM5OU9yNU1VS0w5WXdoWGRfZGt4V2dESzhibUdqcVA0R21pdlN3ZjJocGxQSHNQU0vSAecBQVVfeXFMTzd1M3pOYThyb052dVpLaDU5V2R6TmxxU0tjSGFDdVhLcG9rNlJDcjhuVnZUY19DanI2WHhjLVR2Q1BPNXB5c0ZZOEQtOXZhMVRFN1RvT3ZMNC1IZzNwYzJEMzBUWktwQjVfNEN0M0JuYnJ4dDRvTlhQbENqVktJYWx0T2ZLTmpWN0hwN3BJOVdSczdFNmpuQWtsY0VfVk9DN2hfQW40cU0xUXlFYmNUNnlxS0JvRi02bUJybHV6ekJWNmhvTndsN0ZOM3dsNDdnRlRuVXFyOXFzZl94MWpPVWxGSnpRRmRR?oc=5",
+      "data": "08/10 06:00"
     },
     {
-      "titulo": "Fluminense e PUMA apresentam edição exclusiva do tênis Slipstream para a torcida tricolor - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUExMGx6OGZqLW5RdTdmOG5YUm9VUlhjTVY2eE14aWtLeFcySUNlUERFM0ZQQ2JyWktDdE9Vb0hZaTJyNkpCa09rdGdURmxHSEtKYlk0X3JhSzFEVDZfekFLZjhTSkdPTi1CaFlBY0NFLS1PQ0Q2TVJtRFlSUjVYSjhhVnhDcEwzZ3RGTVlsaW5mLTZJYjNEMGN3TWpZS2JaMnJqSW1RUVR2NmgzVTBYb2I3X3NvbENTNmtQcHQzUHI?oc=5",
-      "data": "07/10 16:06"
+      "titulo": "Conmebol Libertadores: Informações de ingressos para Palmeiras x Fluminense - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjYwMmlRVm15R0FFVWo2eXl5aTYyeUxVd0IzYUpxenJBenlPaV9VMTRyQmhoWmhQWTdMeXdHWV91RWtVWDB5dGpJRG5QczE0OFA5bHdINGViaFlOcUNWblVxd2FWanI2MGxCS19ua2JWdUpGTVlYZ2ZXRTk3Vmx2YTdLcldrSk04TUVUQ0pXbGVnbHoxNlZTU0RmMFAyU2N0STFnUmhQbEtVcUMwQVhNTll3?oc=5",
+      "data": "08/10 17:25"
     }
   ],
   "avisos": []
