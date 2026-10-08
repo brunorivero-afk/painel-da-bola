@@ -1,123 +1,6 @@
 {
-  "atualizado_em": "07/10/2026 23:25",
+  "atualizado_em": "08/10/2026 06:52",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "21:30",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x São Paulo",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Mirassol",
-      "channels": [
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Internacional x Corinthians",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Remo x Grêmio",
-      "channels": [
-        "PREMIERE 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Londrina",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Botafogo SP",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Chapecoense-sc",
-      "channels": [
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Vasco",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Fortaleza",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x Atlético GO",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "competition": "Brasileirão Série B",
-      "match": "Vila Nova x Cuiabá",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-08",
@@ -198,8 +81,216 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "11:55",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Fateh x Al-Ahli Jeddah",
+      "channels": [
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Heidenheim x FC Kaiserslautern",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x Holstein Kiel",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Preussen Munster x Rot-weiss Essen",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Galatasaray x Kasimpasa",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Sfera U20 x Guarani Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Portuguesa Santista Sub20 x Corinthians Sub-20",
+      "channels": [
+        "TNT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santo André Sub-20 x Juventus Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Flamengo SP Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al Diriyah",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "PSV Eindhoven x Heerenveen",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:30",
+      "competition": "Campeonato Alemão",
+      "match": "Borussia Dortmund x Werder Bremen",
+      "channels": [
+        "SPORTYNET",
+        "CAZÉTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:30",
+      "competition": "Amistoso Feminino",
+      "match": "Alemanha (F) x Austrália (F)",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Lens x Lyon",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Malaga x Espanyol",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x Sporting CP",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "18:00",
+      "competition": "Campeonato Argentino",
+      "match": "Gimnasia L.P. x Atletico Tucuman",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "19:30",
+      "competition": "Campeonato Argentino",
+      "match": "Instituto Cordoba x Boca Juniors",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "20:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "22:00",
+      "competition": "Campeonato Peruano",
+      "match": "Deportivo Garcilaso x Sport Huancayo",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
       "sport": "volei",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "time": "18:55",
       "competition": "Vôlei (SporTV2)",
       "match": "Brasileiro Feminino de Vôlei Sentado",
@@ -211,57 +302,57 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.3,
-      "temp_min": 21.9,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 24.8,
+      "temp_min": 20.6,
+      "chance_chuva": 2,
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.8,
-      "temp_min": 21.4,
-      "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "temp_max": 25.0,
+      "temp_min": 20.4,
+      "chance_chuva": 0,
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.9,
-      "temp_min": 18.0,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 26.9,
+      "temp_min": 17.1,
+      "chance_chuva": 31,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.7,
-      "temp_min": 17.5,
-      "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "temp_max": 24.1,
+      "temp_min": 15.9,
+      "chance_chuva": 88,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Nino explica negociações com Fluminense e Palmeiras - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbXo0TWF3UE40UDVjSU9hMGJ0YkVFLUYyajdDc0VHQ1otdzZ5V3lGeEwxMXZDY21sS19JNGVPdVAzSWpPMzF5ZVRpSW9UeV9sNVlEU3pSX29HblM0Q2t2QXRYXy1wcjREeDVuWThNQXRnU2h1SlpVTVNRRWt2OUJyUWtyVkNJam1jYlJ1OXhaX0Q3czlVWEVpbUxQaktVSnh2U0NPMVJ1UVNIRTNpZFlwTUZkZk1LSW1QVnc0b1pmT3ZYTDFXUEp0aUctRXRKd05Cd19TZHh2UUdjeWs1NWRxeXBDTTFSQnlmc2xZ?oc=5",
-      "data": "08/10 00:02"
+      "titulo": "Fluminense x Coritiba: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVBreXd4NHdFdkJoU2hUMkxLYS1mbFd2d25JSjc5cVp3YmdBQ3E5QWZGaHluZFYxclB6emk3ODJ5Y01Wd1g0Z0V2Vm01aVJPUHdlOUVFVlRuR0NleEhyakdmNGNxQ1Vjc2VFTWwtUFl6OVFIeklmZGVvNkRYeEdnZDczMG8ya3ctM3Nlc1RhWklMQnZqMXgxQjNlVW5JeTBBblFXTVR4eHM5OU9yNU1VS0w5WXdoWGRfZGt4V2dESzhibUdqcVA0R21pdlN3ZjJocGxQSHNQU0vSAecBQVVfeXFMTzd1M3pOYThyb052dVpLaDU5V2R6TmxxU0tjSGFDdVhLcG9rNlJDcjhuVnZUY19DanI2WHhjLVR2Q1BPNXB5c0ZZOEQtOXZhMVRFN1RvT3ZMNC1IZzNwYzJEMzBUWktwQjVfNEN0M0JuYnJ4dDRvTlhQbENqVktJYWx0T2ZLTmpWN0hwN3BJOVdSczdFNmpuQWtsY0VfVk9DN2hfQW40cU0xUXlFYmNUNnlxS0JvRi02bUJybHV6ekJWNmhvTndsN0ZOM3dsNDdnRlRuVXFyOXFzZl94MWpPVWxGSnpRRmRR?oc=5",
+      "data": "08/10 06:00"
     },
     {
-      "titulo": "Fluminense consegue adiar pagamento de R$ 1,35 milhão na Justiça do Trabalho por corte das bets - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZlZ0YXZsZlphbWdGM2Frc2taWEF2dW5SaE9GR2FCRlhCX0lHV1hId19uUTEyUWxBVTZXMGRUMkxKM2U4MndjSEdabXFfU2o4LXFlaW5BN2szdXRWSlVRcWlrbWhzbFYwR1Zwa0ViejRPZm1kOXZzQkVwMWpJWmtORE0yZ3lGbUJHbGZYVElueDdWR2haWVptYWE0TEZuUlNMVVRBSkFSdEhxX0lYaGJOaDBwQXJUSDNFOUxQUHN1VXpReUNBZHJiTzBjbzRSUHV3UHctVNIB2gFBVV95cUxPbFVmakxBTE04bjg1Y2pYV0hMRV9SVk1DQXB4aDJROEEwdXYzeUVVOW84WkktTXFzdi1MSUdNdlZBR0hpdmJ4ZGtDc2lqZWsxb0owWnQzMWNDN2Mzd25GX2M5SVdkRFVWTEFjVVh3ZW0yTkx3dXRzMG5WZnlUZlJWbm13YVUwSjE3eFpHc2xXckJjZFdxWl8zeE5HdHo3ei01Q3hFRk85Y2JWZWRBWUhqMnZUWURfdk5sQy1ocDNwMGE2bTNCMEl0ME1LV0tpQXdhbjR5V3g5cmxIQQ?oc=5",
-      "data": "07/10 21:42"
+      "titulo": "Germán Cano pode voltar na Libertadores? Veja situação no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZEFPQVpDRVV0TkpYUGJObTNMaE9LWXd0RzFsTVd1YlhxV19qZ0dCN1VQYlNNNThiN0ZwMWwtLTVVRXBBWFVCeFpOVU5MSnVGZVFtLTBZUm5jTG9kNnJ6NkhHSlA5VE1oSVcwOV82U1NoLUk3ZHViYVhzUTJ2Y1lVdTFfR1o3SGozRGc1VTlwMjQ5aldMVkpEMkEzNXRIUV9KN3h2czR4bnVtX0ZIbEctYk5raUZVRGtYaWZYNTBhN1hFQ2ptVGdZdnpZUWFVRHBOZVc2bVVwM3I5MXlBZUNYdDNSbGF0RG1GV1ZNUnFkbw?oc=5",
+      "data": "08/10 08:51"
     },
     {
-      "titulo": "Parceira de casa de apostas estampará o uniforme do Fluminense; entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc3ZMWm0xT3B1UmZLMi1YYWN0aGNuNXFHcFUtRXNFRTFvTi14LXpDR1RiVzFzMHJkM0o1WFREOUxrMW1KakRYUmdQc2dqUHRoMDRvUmFVT1BkdmVvdE9rbXJxYVFVbkYwTlUtNjZXRy1vVnUzQmMwQVlzQUFoZklqS0hVT2x5bk5yaG1JcXlMQ3hodjU0S2M5ZktIVFpyTlR6RGhKd2RPc3oyaUFPRXkxbU9TUHN2Zl9LTzdhd0hCSzRlWEp0ZWNWejVHU0k1Q2pmSWFDSnpQdkUtVjFhZ3lzLVJRaHM3Zk5nWVpXeW9zSmVLeUU?oc=5",
-      "data": "08/10 01:25"
+      "titulo": "Fluminense encontra alternativa para manter patrocinador máster no uniforme; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV1QwNzZmVUZlb1FXM3A5bzIyVDNrSmswaXBwdTlTQzlEdXJNWGtZY21hSV8yRjZQdlRqSGpZbXlldTdrN1pmZjU2LWswZVFJbXlud1pTeGpXelhYeXRLV3dqMUhWaUhleUZwdllZYVYxdjJnNlpvTjN3UUhzek5zWTl3Rmc0OU1KQUpBeUg3VFRHVG5IZkNXMFhid0kxWHQ2T1FsRzUwQmRpTF81NFhRX1dlbmFoclg0VVB3ZkhwWlBvMGtHd0RDWkpCbU9zRlpyNEgxNjlLVGZVbmpJT2paWFY5cy0xM3NlanNGa09sM3Y1MzJ0dGY0UTN1ZnFHeURKU3ZULQ?oc=5",
+      "data": "07/10 12:47"
     },
     {
-      "titulo": "\"Era mágico\": quem foi o lateral que ofuscou Marcelo na base, perdeu-se nas drogas e morreu aos 39 anos - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLWZERnlsN29mMFZlWS1KRlptMHlmQnUtUGhILWxtampTRTZ3TFZ1QXh5MDNvTUcxVnBpVWgzY0ZPaVdLRkoxWHhQZmpqWHFNSFFLUFBfaGtUZHF6dEdob1Z1VEZuTnkydkd6VkI4RVFoS0xISlNhNzZBNlphR3ZZY0VsbHoydjZ2bTNIYURUTVVwbDVGZDRIX1psVVZ1c1dhWkxUWlBfOHFvWXZENHF0MEJOa2VGVTk5LTdZdk8wRVhPMld2UVVOS3N1Z1RQdFltdmpVQWVib3E4YktuQjJwNElaLXp6dnV6bnFNcUZGcFpNbTdsVEhRTjVYSFY3bEXSAY4CQVVfeXFMTXo2N0tEZGtESjVXZ3VvVHRTYmttOUgwSWE1akxTLVhUd3hOdHlqUTNUMkprQjZCb0p4ZjlPU2hvZXRVTjc3eFRnRkdEbmt4a0hJVzVGaU1FbDJiNnJHYS14bFByMV9TNldyRTVZWGNUZmYxR0lVYjJRRDN6bFo1eGpxUF9uVUV4bWhWREg3U3lfLWxrMnk3VFhoMVZlU2xzaUlRZFpHTG9VLXIzWGQ5QzBNa3U0OHdwY25iN00zaEVsQU01YmtXMzlzUVpBSUpWRnFNVUtSdXljVm4zT0hjX0d3eDRXeTVLNWpNT1dsb2ZHbWo5dHp4b3lHaE1nQ2V6dlVhc3o2YkJsWGUxQ2d3?oc=5",
-      "data": "07/10 15:05"
+      "titulo": "Ex-Fluminense, Fernando Diniz é demitido do Corinthians após derrota - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOEVLUUQ4ZjVYZ1FrbkV6VU40eE9zQjByOXU1ZGFhckJWbTVmcUYwNGhQdllwT3RXTmo3d0hnYnFQMXJzaFhHTUNNZEVHeGNBVmUzU1lrM21iTk85THI5VG5OOHR4UDBiV1lwVU9KNjRrVWdNRHhVZXJMTDdfeHpBZnFKYXlmLVA0azl1QTdkVHN4Z3gtNmlnUVpiVXVEZW81LUJDekxvWkhfWTZxWVhvS2lZYnVjZGZSUHBr0gHAAUFVX3lxTE16VmVvRDdUZ3ByMkFWYmxpMzRVaDNmWE9nbjEtQXdxLU9KcjdJMnlpcDlGMmtDX1hKdG1Ubl9JZFJDYlU0UVdtRVdjMEJNRk1kdFhPaC00dlFvY2EtWW9CRjluNHE0bmNYdXA2TjhNT0p3VVZ4NkdOWEpsOG03MEktdkFmZmR5Zk8xYkpoTGoycHFBNzRUY0VVM3lCejZOVk8xVGgxTkgzT01EZmI4dmxtSm5qVFFmOHdUS2FtYmxnZQ?oc=5",
+      "data": "08/10 01:47"
     },
     {
       "titulo": "Fluminense e PUMA apresentam edição exclusiva do tênis Slipstream para a torcida tricolor - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3J6YURHdHJsZUJOc3QyUktVOG9KVG5xYVZlVzlkdFZnRXhhTlBxdmIwX254bE4taS1yNTdDVEx3cm9LQkxYQlNCY0hVaTZEaW5ZaHh1QUs3VWI3dUJjWWFkazM2c2ppT3BCc25yTzVjR2FnckhyYl9aTDY0R0hqNUw1OHlodnNNeWFiZEFpaGFpdlQ3QjJFVW9jb2Rnci1DX3ZrWDB2Z0JKOExSMHM1R1pGeUtfYVRCQUZCSHJHUV9xTWtiY3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUExMGx6OGZqLW5RdTdmOG5YUm9VUlhjTVY2eE14aWtLeFcySUNlUERFM0ZQQ2JyWktDdE9Vb0hZaTJyNkpCa09rdGdURmxHSEtKYlk0X3JhSzFEVDZfekFLZjhTSkdPTi1CaFlBY0NFLS1PQ0Q2TVJtRFlSUjVYSjhhVnhDcEwzZ3RGTVlsaW5mLTZJYjNEMGN3TWpZS2JaMnJqSW1RUVR2NmgzVTBYb2I3X3NvbENTNmtQcHQzUHI?oc=5",
       "data": "07/10 16:06"
     }
   ],
