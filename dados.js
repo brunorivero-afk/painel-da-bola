@@ -1,6 +1,17 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/10/2026 19:35",
+  "atualizado_em": "07/10/2026 23:25",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-07",
+      "time": "21:30",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x São Paulo",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-07",
@@ -105,17 +116,6 @@ window.PAINEL_DATA = {
       "match": "Vila Nova x Cuiabá",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-07",
-      "time": "21:30",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x São Paulo",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
       ]
     },
     {
@@ -240,9 +240,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Serna e Arana ganham nova chance no time titular - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOXJnUVB2X0FzdmphclV5ZHR1eTFKRWFhTDMwbE1IdzZNNDVVLWlUcnhzTFF5V3NaWEhCQ2N3M21qQXVIb0xIQkkzLXVmaHJ5cHJjdUFjck55VWFYMU40TC1GV2JvZ3RmdlR2T2VISU4tZ1RaeE1PMENMaVhjN3R2NW5pWldpUGxsQmhnQ0F1QW9aLTd2LUN4VVp6QjUzWHVvbFFZY3JkeFMzSTdUSlh5a0UxYjB0THJIdEpVSnIyaHNVNFl5MmJSc09YaUU0LS1JODh2MjJJYkFaMTTSAeoBQVVfeXFMUFpZR2hleXRPdlk0UDdRblh5dzY2UE9sVjRELUIwR1BZMEl5dkZHczZzcGJlMmVLNWNEZGFVM3JJLWZSd1ZBNmtRQ2hJYkpUVXUyaXdCNHpSUERyWmtUTDZ3U0U0NkJQZThLZW4wSkozeVpva0NlbWQyT3U1dWoxU1k2a0VNV3dKRGhJZFVOVzRZVEdSdWFUX1dSTlNEM3FwaHJRVFVvYlhuYW5UUVFoV1AwQmJtVGstREpVTThubGpqNWxnc0h0T1Izd2hHaTFWMGxfVW5jeDhkaHNkc1dKa0pFbnlObWM2QjlR?oc=5",
-      "data": "07/10 21:02"
+      "titulo": "Nino explica negociações com Fluminense e Palmeiras - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbXo0TWF3UE40UDVjSU9hMGJ0YkVFLUYyajdDc0VHQ1otdzZ5V3lGeEwxMXZDY21sS19JNGVPdVAzSWpPMzF5ZVRpSW9UeV9sNVlEU3pSX29HblM0Q2t2QXRYXy1wcjREeDVuWThNQXRnU2h1SlpVTVNRRWt2OUJyUWtyVkNJam1jYlJ1OXhaX0Q3czlVWEVpbUxQaktVSnh2U0NPMVJ1UVNIRTNpZFlwTUZkZk1LSW1QVnc0b1pmT3ZYTDFXUEp0aUctRXRKd05Cd19TZHh2UUdjeWs1NWRxeXBDTTFSQnlmc2xZ?oc=5",
+      "data": "08/10 00:02"
     },
     {
       "titulo": "Fluminense consegue adiar pagamento de R$ 1,35 milhão na Justiça do Trabalho por corte das bets - Estadão",
@@ -250,19 +250,19 @@ window.PAINEL_DATA = {
       "data": "07/10 21:42"
     },
     {
-      "titulo": "Nino explica por que negociações com Palmeiras e Fluminense não deram certo - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNkhyblYzMnJoYWZSNVN6akZxM1dxMmhPZDJDaTJnS1hSNmV0OGdQUGR1RTMwcFlkbEpEZEY5MTAyWDR2N3V1SXJOMlhpRUV5WGUwYVdLTzI1LUp4cjE3bm9paFA4bmVVMVk4UUpsMmlhWUV2R0xMQlg1T0hTRnRzQ21feW5lZ2dnR1R2VlhFUk9IQXk2OS1Ca0lRamEwOGlOaVl4aXNQazBUeTE5MEw0SkJsOEo2NWRmMW1OeXU2SkdJTWYxLWhlSG41aW5BLWJGZ0hEV1YwbW5RY3kxeFo3SWdxZWNHUHRZamFIbnZOTQ?oc=5",
-      "data": "07/10 19:12"
+      "titulo": "Parceira de casa de apostas estampará o uniforme do Fluminense; entenda - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc3ZMWm0xT3B1UmZLMi1YYWN0aGNuNXFHcFUtRXNFRTFvTi14LXpDR1RiVzFzMHJkM0o1WFREOUxrMW1KakRYUmdQc2dqUHRoMDRvUmFVT1BkdmVvdE9rbXJxYVFVbkYwTlUtNjZXRy1vVnUzQmMwQVlzQUFoZklqS0hVT2x5bk5yaG1JcXlMQ3hodjU0S2M5ZktIVFpyTlR6RGhKd2RPc3oyaUFPRXkxbU9TUHN2Zl9LTzdhd0hCSzRlWEp0ZWNWejVHU0k1Q2pmSWFDSnpQdkUtVjFhZ3lzLVJRaHM3Zk5nWVpXeW9zSmVLeUU?oc=5",
+      "data": "08/10 01:25"
+    },
+    {
+      "titulo": "\"Era mágico\": quem foi o lateral que ofuscou Marcelo na base, perdeu-se nas drogas e morreu aos 39 anos - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQLWZERnlsN29mMFZlWS1KRlptMHlmQnUtUGhILWxtampTRTZ3TFZ1QXh5MDNvTUcxVnBpVWgzY0ZPaVdLRkoxWHhQZmpqWHFNSFFLUFBfaGtUZHF6dEdob1Z1VEZuTnkydkd6VkI4RVFoS0xISlNhNzZBNlphR3ZZY0VsbHoydjZ2bTNIYURUTVVwbDVGZDRIX1psVVZ1c1dhWkxUWlBfOHFvWXZENHF0MEJOa2VGVTk5LTdZdk8wRVhPMld2UVVOS3N1Z1RQdFltdmpVQWVib3E4YktuQjJwNElaLXp6dnV6bnFNcUZGcFpNbTdsVEhRTjVYSFY3bEXSAY4CQVVfeXFMTXo2N0tEZGtESjVXZ3VvVHRTYmttOUgwSWE1akxTLVhUd3hOdHlqUTNUMkprQjZCb0p4ZjlPU2hvZXRVTjc3eFRnRkdEbmt4a0hJVzVGaU1FbDJiNnJHYS14bFByMV9TNldyRTVZWGNUZmYxR0lVYjJRRDN6bFo1eGpxUF9uVUV4bWhWREg3U3lfLWxrMnk3VFhoMVZlU2xzaUlRZFpHTG9VLXIzWGQ5QzBNa3U0OHdwY25iN00zaEVsQU01YmtXMzlzUVpBSUpWRnFNVUtSdXljVm4zT0hjX0d3eDRXeTVLNWpNT1dsb2ZHbWo5dHp4b3lHaE1nQ2V6dlVhc3o2YkJsWGUxQ2d3?oc=5",
+      "data": "07/10 15:05"
     },
     {
       "titulo": "Fluminense e PUMA apresentam edição exclusiva do tênis Slipstream para a torcida tricolor - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3J6YURHdHJsZUJOc3QyUktVOG9KVG5xYVZlVzlkdFZnRXhhTlBxdmIwX254bE4taS1yNTdDVEx3cm9LQkxYQlNCY0hVaTZEaW5ZaHh1QUs3VWI3dUJjWWFkazM2c2ppT3BCc25yTzVjR2FnckhyYl9aTDY0R0hqNUw1OHlodnNNeWFiZEFpaGFpdlQ3QjJFVW9jb2Rnci1DX3ZrWDB2Z0JKOExSMHM1R1pGeUtfYVRCQUZCSHJHUV9xTWtiY3c?oc=5",
       "data": "07/10 16:06"
-    },
-    {
-      "titulo": "Hulk diz que quer ser ídolo e fala sobre sintonia com astro tricolor - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlRQNTlOcFVucXdjSlY5Rzc2NlZjb2tsZ0dDbVA4UzVFNTM5UnNLTDNUZE13Ti1mM3duVTdzRDRkRWV4b3lEdGduQVphRW9Nd1ZFVjRjTkhfYXFMaWx3UGxNSENyWU51WGRRbmpVMnFaV1U4VGNOajdobVhDUmJkam5yUE9TVlBWQXl6ZldYTUxyaVc5NTRuUnZaNnh0dTBSeF9hdkttSlptOUFCTGpyRG54T3FKNEgyNDJJaExqMkRHQUtBbkVGYUJxUdIB0AFBVV95cUxNbEdVcTN1YlRDREp2NVhTdzdDd1ZIb0k4SjdOd1lYU0hGTl9ETlBzZkM1c3FiTVpKVHRFd043NUg1ZVl2SjVnLW1Ca1ViWGxMZUdwVHFMc3M2bGlPVUFpWXBxSjVwX1cxS3lLbHhRS1g1aEQzQWVQdUd3NEM1UlVjeGsxZEp3MXlHYmxYSU50bkQ0VExGQmp6RzVFNVNnNG8wdGxwZVlsb1U0SG91eUhLTFpwMXVXa3ZRenJ3aFh6UXNRbHZVeV9WOHVqNldUak1X?oc=5",
-      "data": "07/10 20:41"
     }
   ],
   "avisos": []
