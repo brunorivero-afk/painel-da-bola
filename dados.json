@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/10/2026 06:52",
+  "atualizado_em": "08/10/2026 14:08",
   "jogos": [
     {
       "sport": "futebol",
@@ -297,53 +297,93 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-08",
+      "time": "15:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "São José x Suzano",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-08",
+      "time": "18:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Itaquá",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-08",
+      "time": "18:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Osasco x Pinheiros",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-08",
+      "time": "21:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesi-Bauru x São Caetano",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.8,
-      "temp_min": 20.6,
+      "temp_max": 25.1,
+      "temp_min": 21.0,
       "chance_chuva": 2,
       "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.0,
-      "temp_min": 20.4,
-      "chance_chuva": 0,
-      "condicao": "Parcialmente nublado"
+      "temp_min": 20.9,
+      "chance_chuva": 6,
+      "condicao": "Poucas nuvens"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.9,
-      "temp_min": 17.1,
-      "chance_chuva": 31,
-      "condicao": "Garoa fraca"
+      "temp_max": 26.6,
+      "temp_min": 17.2,
+      "chance_chuva": 57,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.1,
-      "temp_min": 15.9,
-      "chance_chuva": 88,
+      "temp_max": 25.9,
+      "temp_min": 16.0,
+      "chance_chuva": 78,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Coritiba: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVBreXd4NHdFdkJoU2hUMkxLYS1mbFd2d25JSjc5cVp3YmdBQ3E5QWZGaHluZFYxclB6emk3ODJ5Y01Wd1g0Z0V2Vm01aVJPUHdlOUVFVlRuR0NleEhyakdmNGNxQ1Vjc2VFTWwtUFl6OVFIeklmZGVvNkRYeEdnZDczMG8ya3ctM3Nlc1RhWklMQnZqMXgxQjNlVW5JeTBBblFXTVR4eHM5OU9yNU1VS0w5WXdoWGRfZGt4V2dESzhibUdqcVA0R21pdlN3ZjJocGxQSHNQU0vSAecBQVVfeXFMTzd1M3pOYThyb052dVpLaDU5V2R6TmxxU0tjSGFDdVhLcG9rNlJDcjhuVnZUY19DanI2WHhjLVR2Q1BPNXB5c0ZZOEQtOXZhMVRFN1RvT3ZMNC1IZzNwYzJEMzBUWktwQjVfNEN0M0JuYnJ4dDRvTlhQbENqVktJYWx0T2ZLTmpWN0hwN3BJOVdSczdFNmpuQWtsY0VfVk9DN2hfQW40cU0xUXlFYmNUNnlxS0JvRi02bUJybHV6ekJWNmhvTndsN0ZOM3dsNDdnRlRuVXFyOXFzZl94MWpPVWxGSnpRRmRR?oc=5",
-      "data": "08/10 06:00"
+      "titulo": "Fluminense testa novo gramado do Maracanã em meio a polêmica com Vasco | Ge - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa1Naek1xRWdKaEQtTl9XVVlfZ0VsYVMyU2c4ZHpRbUF1d251VHZvWmZhQTZRbWZXT1NkeU1iNUhHZXZDOUxRSGF0R2Z3ZlkyZkVGc09DdjFoTk1XN3NhMmtVQkFCUzBSZ2NDUWxqVlZOYk9NZmxVdkFxQU1NbHR5V09pcGhRYjNVT2F4cWU5ejZPQmRXVEcyNHdxaGdCVUdLZGEwRjJFcWd6OE9hdnZNV1lDVHpEemUxRGdmdTAwQ1FTeXpyQ0NfSENKNG9pWXBsSWVTS1F6QzFRejhaVWFlUlhib1Y?oc=5",
+      "data": "08/10 13:00"
     },
     {
-      "titulo": "Germán Cano pode voltar na Libertadores? Veja situação no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZEFPQVpDRVV0TkpYUGJObTNMaE9LWXd0RzFsTVd1YlhxV19qZ0dCN1VQYlNNNThiN0ZwMWwtLTVVRXBBWFVCeFpOVU5MSnVGZVFtLTBZUm5jTG9kNnJ6NkhHSlA5VE1oSVcwOV82U1NoLUk3ZHViYVhzUTJ2Y1lVdTFfR1o3SGozRGc1VTlwMjQ5aldMVkpEMkEzNXRIUV9KN3h2czR4bnVtX0ZIbEctYk5raUZVRGtYaWZYNTBhN1hFQ2ptVGdZdnpZUWFVRHBOZVc2bVVwM3I5MXlBZUNYdDNSbGF0RG1GV1ZNUnFkbw?oc=5",
-      "data": "08/10 08:51"
+      "titulo": "Lucho Acosta, do Fluminense, não será denunciado por suspeita de manipulação - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVZ3b010djBJSGRNc0wwalRHU21iUWRRZV9aLUpRTmVpa2dEWGI4RmROMHIxZWRXZ3c5bkV3Qkh6cnZ3cGR0d0txeTctRElzZ2N5bm5HTi1mZVd5S0xXcWlZOWJQRWpsbERjSHJXRENXS2RmOEVhS3A1TmxDaWMzRW9Kb1VFR001RzdSb2V5X3ZWT2F3YlJ4d2dYalc4MU1DTURV?oc=5",
+      "data": "08/10 16:24"
     },
     {
-      "titulo": "Fluminense encontra alternativa para manter patrocinador máster no uniforme; entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNV1QwNzZmVUZlb1FXM3A5bzIyVDNrSmswaXBwdTlTQzlEdXJNWGtZY21hSV8yRjZQdlRqSGpZbXlldTdrN1pmZjU2LWswZVFJbXlud1pTeGpXelhYeXRLV3dqMUhWaUhleUZwdllZYVYxdjJnNlpvTjN3UUhzek5zWTl3Rmc0OU1KQUpBeUg3VFRHVG5IZkNXMFhid0kxWHQ2T1FsRzUwQmRpTF81NFhRX1dlbmFoclg0VVB3ZkhwWlBvMGtHd0RDWkpCbU9zRlpyNEgxNjlLVGZVbmpJT2paWFY5cy0xM3NlanNGa09sM3Y1MzJ0dGY0UTN1ZnFHeURKU3ZULQ?oc=5",
-      "data": "07/10 12:47"
+      "titulo": "Olheiro do Fluminense estará em Marataízes para descobrir novos talentos - Aqui Notícias",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3FtMHpEZ3pOMFRtZVQyUVY5UGtDdGJaMGNjR0JIeThUOExKd0xXdW05REdoX2RZcWwwLUdEbTBSZDl2RU0yZndsUmdfTGRxWWc5ZUVfM3NhejZ0OXVnVnpQZ1JGOWprN2RwSHVqZ3pKMWtEWGlEejlvYjc2Yk1tWDlmQzF2UjR5UzktZXBhQ0paVDRfMl9PbFdaOW5XN253TGNzRHMzV2tZNDhIcTJvTGlISFFmbGlGTV9SSmhjNA?oc=5",
+      "data": "08/10 16:53"
     },
     {
       "titulo": "Ex-Fluminense, Fernando Diniz é demitido do Corinthians após derrota - O Dia",
