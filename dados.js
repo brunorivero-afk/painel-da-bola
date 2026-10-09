@@ -1,183 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/10/2026 13:48",
+  "atualizado_em": "09/10/2026 18:25",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "11:55",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Fateh x Al-Ahli Jeddah",
-      "channels": [
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Heidenheim x FC Kaiserslautern",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Eintracht Braunschweig x Holstein Kiel",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Preussen Munster x Rot-weiss Essen",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Galatasaray x Kasimpasa",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "14:45",
-      "competition": "Campeonato Português",
-      "match": "Moreirense x GIL Vicente",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Portuguesa Santista Sub20 x Corinthians Sub-20",
-      "channels": [
-        "TNT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Sfera U20 x Guarani Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santo André Sub-20 x Juventus Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Flamengo SP Sub-20 x RB Bragantino Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Nassr x Al Diriyah",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "PSV Eindhoven x Heerenveen",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:30",
-      "competition": "Campeonato Alemão",
-      "match": "Borussia Dortmund x Werder Bremen",
-      "channels": [
-        "SPORTYNET",
-        "CAZÉTV",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:30",
-      "competition": "Amistoso Feminino",
-      "match": "Alemanha (F) x Austrália (F)",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Lens x Lyon",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Malaga x Espanyol",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x Sporting CP",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-09",
@@ -238,6 +61,184 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "11:55",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Fateh x Al-Ahli Jeddah",
+      "channels": [
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x Holstein Kiel",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Heidenheim x FC Kaiserslautern",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Galatasaray x Kasimpasa",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Preussen Munster x Rot-weiss Essen",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "14:45",
+      "competition": "Campeonato Português",
+      "match": "Moreirense x GIL Vicente",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Campeonato Holandês",
+      "match": "PSV Eindhoven x Heerenveen",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al Diriyah",
+      "channels": [
+        "XSPORTS",
+        "SPORTV",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Flamengo SP Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santo André Sub-20 x Juventus Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Portuguesa Santista Sub20 x Corinthians Sub-20",
+      "channels": [
+        "TNT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Sfera U20 x Guarani Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:30",
+      "competition": "Campeonato Alemão",
+      "match": "Borussia Dortmund x Werder Bremen",
+      "channels": [
+        "SPORTYNET",
+        "CAZÉTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:30",
+      "competition": "Amistoso Feminino",
+      "match": "Alemanha (F) x Austrália (F)",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Lens x Lyon",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Malaga x Espanyol",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x Sporting CP",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -1113,58 +1114,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.5,
+      "temp_max": 28.6,
       "temp_min": 21.5,
       "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.8,
+      "temp_max": 29.7,
       "temp_min": 21.3,
       "chance_chuva": 4,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.3,
+      "temp_max": 27.8,
       "temp_min": 19.0,
       "chance_chuva": 63,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.0,
+      "temp_max": 29.4,
       "temp_min": 18.4,
       "chance_chuva": 90,
-      "condicao": "Garoa forte"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Com hat-trick de Savarino, Fluminense goleia Coritiba e volta ao G4 - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUZtVUJlbTJFYkxzY1djYmdYcWJvQ0p2eks2MFRveGk0T1lpbzktYkItY2VsQ3dvSktQSWI3VnNuMTVpYmRQVVFpN1ItR1Nsek94bGl0d1lRa3FieTcxUWxESFgyMmVJY1I3MGV2SXlIeTdwRW5yQi1rRmVlZ2NfaUlJTldETFZqbFJ2bVhIUWJVNE5UZDA2SHRHc2ZQRWxFb0hqVVZjaFUzU2k0RnZSMFpWcUV1N0gx?oc=5",
+      "data": "09/10 02:26"
+    },
+    {
+      "titulo": "Comentarista rasga elogios a Marcão e diz: “Duvido que estaria nessa condição com Zubeldía” - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2NGM2x5SGo4aDZqMHhkU3I5RmRGTzlLcFdZSzhzM3hKSERNeFpBV0dZNnAtMmRTYXJ0MkpPNFNmRFYxaXVKMUdmejFWNURjOEhBbUNzWDZjajg0eE9MekcwSDRiMW1BUkg4b3pVY2MtRjhCMXUzLUpDcVlrdThNQ1VEYXVBWWt0dm9RMmNCZ1hza1ZJY2ROeHRZZ1pxazZad3F5dVA0WlhQenlURGFSQWtaS1JlZw?oc=5",
+      "data": "09/10 19:59"
+    },
+    {
+      "titulo": "Fluminense supera o Flamengo e persegue Palmeiras em ranking da década do Brasileirão; confira - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGQzcEJPUzB4Q1dVSnpvLVg3dUlwY1Z1NndSVkNPUC01dEhtWjBITkF2RGZ0ZU5EeEloMldpclM2Y1lIcjAtems2N0o2R1ZNcDZEQ21pNkJ1cXp5VTR6dEFiNkdXNDZpcW5SaDA1REpCajVIVFZ3QnNpYXFOU2pSZ1VSYzlYR1V0NGxwZy1zaU9RdDd0Z2xBU3dGdVdBdzNLNml4SklNX2N4cjAtQ3E3Y0drR3NUUkxDRm1kQg?oc=5",
+      "data": "09/10 18:06"
+    },
     {
       "titulo": "Conmebol Libertadores: Informações de ingressos para Palmeiras x Fluminense - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjYwMmlRVm15R0FFVWo2eXl5aTYyeUxVd0IzYUpxenJBenlPaV9VMTRyQmhoWmhQWTdMeXdHWV91RWtVWDB5dGpJRG5QczE0OFA5bHdINGViaFlOcUNWblVxd2FWanI2MGxCS19ua2JWdUpGTVlYZ2ZXRTk3Vmx2YTdLcldrSk04TUVUQ0pXbGVnbHoxNlZTU0RmMFAyU2N0STFnUmhQbEtVcUMwQVhNTll3?oc=5",
       "data": "08/10 17:25"
     },
     {
-      "titulo": "Em noite inspirada, Savarino faz três gols, e Fluminense goleia o Coritiba no Brasileiro - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcy1GM1lBSFFKdkI0YW5RNWNkak9XU3FoeHhNNElaRjlMODdmblZ4dTRnZWhablVQODdxVGpWcGt6c3JlS180endIQmlRYmRaZ1RlSnViZlA3OWdPaENtQkkzQjM0c3ZYTUtoRElGSTB2N1I4UndLNV9TYW9Fa2FqR0djQkNQZXdJZTE2d2M2dVlPNVBHRTRsYlBwYmlvMkVrRS11d0R6NGNRVHBhQmxwMnZEa0M4VVBuZkV2TVlQYUpZQ1h5S2VDdmRfWUowZHE3djdwZ2xPOTNRYnFBYUUtanV6eW1PeGZWNHN0bDlwZ1RkTFliYUEw0gGGAkFVX3lxTE9iSVRZZWVnR2h5cUtYNjNBeF9OaG8wV1JQWmNhaDU5ZTA5RWtpcGJTM3NfZmJGNnljTWdyZnBSTjJDdldHS0luUXF5X0ZsN0pna2lSUjJZaDM5dzRqMGJsWFN4b1RpTWxpdG13MEdmVW81N2Zhc1BQamtYUFBjSk9Td3Q4SUZpcHlvSkFEWFY4VGxnWlBabjRyWWtyREhWb0xnZWJqTE5yNi1iM29LRGRPOVRVNHpYX1dWeWUxWXVFSmJ4bHd0OGVzR0pwbHM4TUlCNjlDVXFzNVpwejJ3M00yX3V6T0gwdmMydVZrdlpvdG5PVzAtWGQ5U05oSXJHVnFZR0xzV0E?oc=5",
-      "data": "09/10 02:26"
-    },
-    {
-      "titulo": "Presidente do Fluminense revela ação conjunta com o Flamengo contra MP das Bets - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUERUR2VVMHZvNzJrNVhPeGRpek5ubmxCWkJSMjlucjhOR3Z5X3YxaU5YU3AxeXJuaHJsd0FCb0Myb3R6cEFmdE9TT09wamFQZHprVXlYczZBaWdDMGpHbnpuZ2s2QUYtY0pVM25pZ0xIME8yVVJnN0NhTG1TY3NreVV0UlBmc3RlRFY3SW9pNDBuVkhJQk83elBURnhtWURGSTFIS1lTZzNXaFBJckVmVVZFaHNEaFkwbTB5Qmd6SnhGdDhlLUowcy0yeVZVXzlwaVl1VHJSTU5FTnRyc3Z3U0NyLUliTkRsbzZ6X0phQVRPdmxiaGNQNUdfdGwwUQ?oc=5",
-      "data": "09/10 15:39"
-    },
-    {
-      "titulo": "Wesley Natã aproveita chance e vira novo xodó do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaDQ0anJwUE5qN2FIOFhGUDB3TFhScmdNQmZPSENjYXlpRG9EU1pNT29TNnFXckxRdjFlYTVkejRySTdwWUJkNDBVRk9VRm1BWEl5ZW5ob2xuRDVzekN3a0o4aldVeGpLVXpOSmE0aW9JZmZXbEpDdFI3WjM2QUJFb3kxUzl2dC0tOFN2Szg3dmlHVVZZZThscDhVeG56U3Z2V1BYdXZCbi13SzVfQnBKQktnb0JjRVRHQnBESXR1NWtkTEVSclhIZldXdFF4U0FQMWxnSWVDdWNJNkFYekplUjdSS00?oc=5",
-      "data": "09/10 13:39"
-    },
-    {
-      "titulo": "Fluminense e Leve Saúde promovem ação em homenagem ao Outubro Rosa - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaG1kNlplUHR1aDVablYySGd2dENmbHhYaWYybDd5ZUVsQUVrOTg0VmxKakUzNnQ1WXJXaHo5NzU5V3JURjdCMGdpaEJkNGdXR2N6WWVBaW5EbVRvazRMWWR2WldGR1lpWHV1TWM4TF9KUENYMlhEX0hWTzREN000NVppY1ZETnY3OFNwMTBqZVBwdEpIZHpyNGxqX1QtNmdlSXlVdmJFZw?oc=5",
-      "data": "09/10 16:25"
+      "titulo": "Flamengo e Fluminense se unem em protesto contra a MP das bets no clássico do Brasileirão - Extra online",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc296RnpDZXR3NXlqQmNjZUVzRURfZWpqeVFLRE02N290WDhsLXBmaV9WZFktVU45NUlqaHRLM01icXp1YmZ0b2JNdkF2anIyR19vWldacXIxS1R5dTlfemlpNUp0ZHFtSmZNZURBUVZDc2w1RHJ3MW1RV2JwZHhXTF8wanZnTnpfc0ZHSWdFTXpYQW9nMEhqLWZES044WmVSN2xaWVpOcUg0QmdKeFBOd1ZSOGhaeHdyZ05MQ2hGdU1wWFZuc0loTzRjY2syeVhHM0tzanBrbzI4eWPSAeoBQVVfeXFMTzVaZGZPR3hTbGJRYXZhLXVNWEprNTZDV1FkUEd2LThDQVJqOFZkaG9YZ2lKemRpZFpvNHplcGdvRGJsb0NoV1huNFotRGZoUFgtbTR0VnU4djJRUDJ3WVRuY1gyaWJxbi1lWlZncWlVZ0EwSUNLY0lDdjJlV0lKUkFhSk9aQjhzeFcycGRKRC1JRU9ET2UxcVB4X2JfNW93VnhKeVlReEp5TGNaX3VQVGhnVWx1TjJRYjJubGZ1MU5mMjJFR1RnTzR0Ry1ERzBfc1ZqSHVma2h2ck5NTEZ5azhCUU9oUlo0aDBR?oc=5",
+      "data": "09/10 06:30"
     }
   ],
   "avisos": []
