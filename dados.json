@@ -1,17 +1,6 @@
 {
-  "atualizado_em": "09/10/2026 06:56",
+  "atualizado_em": "09/10/2026 13:48",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "10:50",
-      "competition": "Campeonato Saudita",
-      "match": "Al Kholood x Al-Qadisiyah FC",
-      "channels": [
-        "XSPORTS",
-        "CANAL GOAT"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-09",
@@ -238,6 +227,17 @@
       "match": "Deportivo Garcilaso x Sport Huancayo",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "10:50",
+      "competition": "Campeonato Saudita",
+      "match": "Al Kholood x Al-Qadisiyah FC",
+      "channels": [
+        "XSPORTS",
+        "CANAL GOAT"
       ]
     },
     {
@@ -1062,6 +1062,16 @@
     {
       "sport": "volei",
       "date": "2026-10-09",
+      "time": "21:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Osasco x Sesi-Bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-09",
       "time": "15:40",
       "competition": "Vôlei (SporTV2)",
       "match": "São José x Suzano",
@@ -1082,9 +1092,9 @@
     {
       "sport": "volei",
       "date": "2026-10-09",
-      "time": "18:40",
+      "time": "21:00",
       "competition": "Vôlei (SporTV2)",
-      "match": "Osasco x Pinheiros",
+      "match": "Sesi-Bauru x Osasco",
       "channels": [
         "SporTV2"
       ]
@@ -1092,9 +1102,9 @@
     {
       "sport": "volei",
       "date": "2026-10-09",
-      "time": "21:00",
+      "time": "18:55",
       "competition": "Vôlei (SporTV2)",
-      "match": "Sesi-Bauru x São Caetano",
+      "match": "Brasileiro Feminino de Vôlei Sentado",
       "channels": [
         "SporTV2"
       ]
@@ -1103,30 +1113,30 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.4,
-      "temp_min": 21.3,
-      "chance_chuva": 0,
+      "temp_max": 28.5,
+      "temp_min": 21.5,
+      "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 29.0,
-      "temp_min": 21.6,
-      "chance_chuva": 0,
+      "temp_max": 29.8,
+      "temp_min": 21.3,
+      "chance_chuva": 4,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.9,
-      "temp_min": 18.6,
-      "chance_chuva": 53,
-      "condicao": "Garoa fraca"
+      "temp_max": 27.3,
+      "temp_min": 19.0,
+      "chance_chuva": 63,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.9,
+      "temp_max": 29.0,
       "temp_min": 18.4,
-      "chance_chuva": 63,
+      "chance_chuva": 90,
       "condicao": "Garoa forte"
     }
   ],
@@ -1137,24 +1147,24 @@
       "data": "08/10 17:25"
     },
     {
-      "titulo": "Corinthians consulta ex-técnico do Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjajRBN1dGc2RCVTJDNmhfVTM1blZ0T2I1bG56Y3o3TTYxYXV6c1JRbnBka2lDNGllS1YyU0xIZXUtWDA2UTlqMXNkSU4wUEtib19VTTVTdWdsMFQ3cUNaWHIteHJ5ajJReVRhb0ROV0xsSEEwem1ubzdlLWk?oc=5",
-      "data": "08/10 17:49"
+      "titulo": "Em noite inspirada, Savarino faz três gols, e Fluminense goleia o Coritiba no Brasileiro - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcy1GM1lBSFFKdkI0YW5RNWNkak9XU3FoeHhNNElaRjlMODdmblZ4dTRnZWhablVQODdxVGpWcGt6c3JlS180endIQmlRYmRaZ1RlSnViZlA3OWdPaENtQkkzQjM0c3ZYTUtoRElGSTB2N1I4UndLNV9TYW9Fa2FqR0djQkNQZXdJZTE2d2M2dVlPNVBHRTRsYlBwYmlvMkVrRS11d0R6NGNRVHBhQmxwMnZEa0M4VVBuZkV2TVlQYUpZQ1h5S2VDdmRfWUowZHE3djdwZ2xPOTNRYnFBYUUtanV6eW1PeGZWNHN0bDlwZ1RkTFliYUEw0gGGAkFVX3lxTE9iSVRZZWVnR2h5cUtYNjNBeF9OaG8wV1JQWmNhaDU5ZTA5RWtpcGJTM3NfZmJGNnljTWdyZnBSTjJDdldHS0luUXF5X0ZsN0pna2lSUjJZaDM5dzRqMGJsWFN4b1RpTWxpdG13MEdmVW81N2Zhc1BQamtYUFBjSk9Td3Q4SUZpcHlvSkFEWFY4VGxnWlBabjRyWWtyREhWb0xnZWJqTE5yNi1iM29LRGRPOVRVNHpYX1dWeWUxWXVFSmJ4bHd0OGVzR0pwbHM4TUlCNjlDVXFzNVpwejJ3M00yX3V6T0gwdmMydVZrdlpvdG5PVzAtWGQ5U05oSXJHVnFZR0xzV0E?oc=5",
+      "data": "09/10 02:26"
     },
     {
-      "titulo": "Fluminense x Coritiba: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVBreXd4NHdFdkJoU2hUMkxLYS1mbFd2d25JSjc5cVp3YmdBQ3E5QWZGaHluZFYxclB6emk3ODJ5Y01Wd1g0Z0V2Vm01aVJPUHdlOUVFVlRuR0NleEhyakdmNGNxQ1Vjc2VFTWwtUFl6OVFIeklmZGVvNkRYeEdnZDczMG8ya3ctM3Nlc1RhWklMQnZqMXgxQjNlVW5JeTBBblFXTVR4eHM5OU9yNU1VS0w5WXdoWGRfZGt4V2dESzhibUdqcVA0R21pdlN3ZjJocGxQSHNQU0vSAecBQVVfeXFMTzd1M3pOYThyb052dVpLaDU5V2R6TmxxU0tjSGFDdVhLcG9rNlJDcjhuVnZUY19DanI2WHhjLVR2Q1BPNXB5c0ZZOEQtOXZhMVRFN1RvT3ZMNC1IZzNwYzJEMzBUWktwQjVfNEN0M0JuYnJ4dDRvTlhQbENqVktJYWx0T2ZLTmpWN0hwN3BJOVdSczdFNmpuQWtsY0VfVk9DN2hfQW40cU0xUXlFYmNUNnlxS0JvRi02bUJybHV6ekJWNmhvTndsN0ZOM3dsNDdnRlRuVXFyOXFzZl94MWpPVWxGSnpRRmRR?oc=5",
-      "data": "08/10 06:00"
+      "titulo": "Presidente do Fluminense revela ação conjunta com o Flamengo contra MP das Bets - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUERUR2VVMHZvNzJrNVhPeGRpek5ubmxCWkJSMjlucjhOR3Z5X3YxaU5YU3AxeXJuaHJsd0FCb0Myb3R6cEFmdE9TT09wamFQZHprVXlYczZBaWdDMGpHbnpuZ2s2QUYtY0pVM25pZ0xIME8yVVJnN0NhTG1TY3NreVV0UlBmc3RlRFY3SW9pNDBuVkhJQk83elBURnhtWURGSTFIS1lTZzNXaFBJckVmVVZFaHNEaFkwbTB5Qmd6SnhGdDhlLUowcy0yeVZVXzlwaVl1VHJSTU5FTnRyc3Z3U0NyLUliTkRsbzZ6X0phQVRPdmxiaGNQNUdfdGwwUQ?oc=5",
+      "data": "09/10 15:39"
     },
     {
-      "titulo": "Joaquín Lavega fica no Coritiba? Fluminense define futuro do atacante - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdkptNmdLc205bXZxNWg3ZERLaWhxRTFYak5VNTlYeFZvcUJYNlVxU3lZTEU2MmFyM2F1TVdEYjdnOVVZbDVZaWlqcjcwT3FIcVNnWjBhMlkwWFNtSkVrWGlqUnJRUm9nc29TcEM3SE0zM1loSTJid1R5c0FneFRmN045QkpqdHQ5WjNWSzREeHFwOWJpX1lUVF91OFhnM25rMWtvdkc5dEh1R2p2aWFieG9yOHFaaXlsa1I3dVh3YzNRcXZXb0JwdWFPcGRKU1pzQ2owVEtmMDdRNVlIUkhDZFpnV0xoVXYwSTBYeWdn?oc=5",
-      "data": "09/10 08:47"
+      "titulo": "Wesley Natã aproveita chance e vira novo xodó do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaDQ0anJwUE5qN2FIOFhGUDB3TFhScmdNQmZPSENjYXlpRG9EU1pNT29TNnFXckxRdjFlYTVkejRySTdwWUJkNDBVRk9VRm1BWEl5ZW5ob2xuRDVzekN3a0o4aldVeGpLVXpOSmE0aW9JZmZXbEpDdFI3WjM2QUJFb3kxUzl2dC0tOFN2Szg3dmlHVVZZZThscDhVeG56U3Z2V1BYdXZCbi13SzVfQnBKQktnb0JjRVRHQnBESXR1NWtkTEVSclhIZldXdFF4U0FQMWxnSWVDdWNJNkFYekplUjdSS00?oc=5",
+      "data": "09/10 13:39"
     },
     {
-      "titulo": "Flamengo e Fluminense se unem em protesto contra a MP das bets no clássico do Brasileirão - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc296RnpDZXR3NXlqQmNjZUVzRURfZWpqeVFLRE02N290WDhsLXBmaV9WZFktVU45NUlqaHRLM01icXp1YmZ0b2JNdkF2anIyR19vWldacXIxS1R5dTlfemlpNUp0ZHFtSmZNZURBUVZDc2w1RHJ3MW1RV2JwZHhXTF8wanZnTnpfc0ZHSWdFTXpYQW9nMEhqLWZES044WmVSN2xaWVpOcUg0QmdKeFBOd1ZSOGhaeHdyZ05MQ2hGdU1wWFZuc0loTzRjY2syeVhHM0tzanBrbzI4eWPSAeoBQVVfeXFMTzVaZGZPR3hTbGJRYXZhLXVNWEprNTZDV1FkUEd2LThDQVJqOFZkaG9YZ2lKemRpZFpvNHplcGdvRGJsb0NoV1huNFotRGZoUFgtbTR0VnU4djJRUDJ3WVRuY1gyaWJxbi1lWlZncWlVZ0EwSUNLY0lDdjJlV0lKUkFhSk9aQjhzeFcycGRKRC1JRU9ET2UxcVB4X2JfNW93VnhKeVlReEp5TGNaX3VQVGhnVWx1TjJRYjJubGZ1MU5mMjJFR1RnTzR0Ry1ERzBfc1ZqSHVma2h2ck5NTEZ5azhCUU9oUlo0aDBR?oc=5",
-      "data": "09/10 06:30"
+      "titulo": "Fluminense e Leve Saúde promovem ação em homenagem ao Outubro Rosa - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaG1kNlplUHR1aDVablYySGd2dENmbHhYaWYybDd5ZUVsQUVrOTg0VmxKakUzNnQ1WXJXaHo5NzU5V3JURjdCMGdpaEJkNGdXR2N6WWVBaW5EbVRvazRMWWR2WldGR1lpWHV1TWM4TF9KUENYMlhEX0hWTzREN000NVppY1ZETnY3OFNwMTBqZVBwdEpIZHpyNGxqX1QtNmdlSXlVdmJFZw?oc=5",
+      "data": "09/10 16:25"
     }
   ],
   "avisos": []
