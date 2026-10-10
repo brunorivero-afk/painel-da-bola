@@ -1,47 +1,6 @@
 {
-  "atualizado_em": "09/10/2026 18:25",
+  "atualizado_em": "09/10/2026 22:27",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "17:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Danubio",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "18:00",
-      "competition": "Campeonato Argentino",
-      "match": "Gimnasia L.P. x Atletico Tucuman",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "19:30",
-      "competition": "Campeonato Argentino",
-      "match": "Instituto Cordoba x Boca Juniors",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Liverpool Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-09",
@@ -98,21 +57,21 @@
       "sport": "futebol",
       "date": "2026-10-09",
       "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Galatasaray x Kasimpasa",
+      "competition": "3ª Divisão Alemã",
+      "match": "Preussen Munster x Rot-weiss Essen",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-09",
       "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Preussen Munster x Rot-weiss Essen",
+      "competition": "Campeonato Turco",
+      "match": "Galatasaray x Kasimpasa",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -139,30 +98,8 @@
       "sport": "futebol",
       "date": "2026-10-09",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Nassr x Al Diriyah",
-      "channels": [
-        "XSPORTS",
-        "SPORTV",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "Flamengo SP Sub-20 x RB Bragantino Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-09",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santo André Sub-20 x Juventus Sub-20",
+      "match": "Sfera U20 x Guarani Sub-20",
       "channels": [
         "YOUTUBE"
       ]
@@ -182,9 +119,31 @@
       "date": "2026-10-09",
       "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "Sfera U20 x Guarani Sub-20",
+      "match": "Santo André Sub-20 x Juventus Sub-20",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Flamengo SP Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al Diriyah",
+      "channels": [
+        "XSPORTS",
+        "SPORTV",
+        "CANAL GOAT"
       ]
     },
     {
@@ -238,6 +197,47 @@
       "match": "SC Braga x Sporting CP",
       "channels": [
         "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "17:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Danubio",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "18:00",
+      "competition": "Campeonato Argentino",
+      "match": "Gimnasia L.P. x Atletico Tucuman",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "19:30",
+      "competition": "Campeonato Argentino",
+      "match": "Instituto Cordoba x Boca Juniors",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-09",
+      "time": "20:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Liverpool Montevideo",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -1116,7 +1116,7 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 28.6,
       "temp_min": 21.5,
-      "chance_chuva": 2,
+      "chance_chuva": 12,
       "condicao": "Nublado"
     },
     {
@@ -1128,44 +1128,44 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.8,
+      "temp_max": 28.1,
       "temp_min": 19.0,
-      "chance_chuva": 63,
+      "chance_chuva": 69,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 29.4,
       "temp_min": 18.4,
-      "chance_chuva": 90,
-      "condicao": "Trovoada"
+      "chance_chuva": 75,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Com hat-trick de Savarino, Fluminense goleia Coritiba e volta ao G4 - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUZtVUJlbTJFYkxzY1djYmdYcWJvQ0p2eks2MFRveGk0T1lpbzktYkItY2VsQ3dvSktQSWI3VnNuMTVpYmRQVVFpN1ItR1Nsek94bGl0d1lRa3FieTcxUWxESFgyMmVJY1I3MGV2SXlIeTdwRW5yQi1rRmVlZ2NfaUlJTldETFZqbFJ2bVhIUWJVNE5UZDA2SHRHc2ZQRWxFb0hqVVZjaFUzU2k0RnZSMFpWcUV1N0gx?oc=5",
-      "data": "09/10 02:26"
-    },
-    {
-      "titulo": "Comentarista rasga elogios a Marcão e diz: “Duvido que estaria nessa condição com Zubeldía” - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2NGM2x5SGo4aDZqMHhkU3I5RmRGTzlLcFdZSzhzM3hKSERNeFpBV0dZNnAtMmRTYXJ0MkpPNFNmRFYxaXVKMUdmejFWNURjOEhBbUNzWDZjajg0eE9MekcwSDRiMW1BUkg4b3pVY2MtRjhCMXUzLUpDcVlrdThNQ1VEYXVBWWt0dm9RMmNCZ1hza1ZJY2ROeHRZZ1pxazZad3F5dVA0WlhQenlURGFSQWtaS1JlZw?oc=5",
-      "data": "09/10 19:59"
-    },
-    {
-      "titulo": "Fluminense supera o Flamengo e persegue Palmeiras em ranking da década do Brasileirão; confira - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGQzcEJPUzB4Q1dVSnpvLVg3dUlwY1Z1NndSVkNPUC01dEhtWjBITkF2RGZ0ZU5EeEloMldpclM2Y1lIcjAtems2N0o2R1ZNcDZEQ21pNkJ1cXp5VTR6dEFiNkdXNDZpcW5SaDA1REpCajVIVFZ3QnNpYXFOU2pSZ1VSYzlYR1V0NGxwZy1zaU9RdDd0Z2xBU3dGdVdBdzNLNml4SklNX2N4cjAtQ3E3Y0drR3NUUkxDRm1kQg?oc=5",
-      "data": "09/10 18:06"
-    },
     {
       "titulo": "Conmebol Libertadores: Informações de ingressos para Palmeiras x Fluminense - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjYwMmlRVm15R0FFVWo2eXl5aTYyeUxVd0IzYUpxenJBenlPaV9VMTRyQmhoWmhQWTdMeXdHWV91RWtVWDB5dGpJRG5QczE0OFA5bHdINGViaFlOcUNWblVxd2FWanI2MGxCS19ua2JWdUpGTVlYZ2ZXRTk3Vmx2YTdLcldrSk04TUVUQ0pXbGVnbHoxNlZTU0RmMFAyU2N0STFnUmhQbEtVcUMwQVhNTll3?oc=5",
       "data": "08/10 17:25"
     },
     {
-      "titulo": "Flamengo e Fluminense se unem em protesto contra a MP das bets no clássico do Brasileirão - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc296RnpDZXR3NXlqQmNjZUVzRURfZWpqeVFLRE02N290WDhsLXBmaV9WZFktVU45NUlqaHRLM01icXp1YmZ0b2JNdkF2anIyR19vWldacXIxS1R5dTlfemlpNUp0ZHFtSmZNZURBUVZDc2w1RHJ3MW1RV2JwZHhXTF8wanZnTnpfc0ZHSWdFTXpYQW9nMEhqLWZES044WmVSN2xaWVpOcUg0QmdKeFBOd1ZSOGhaeHdyZ05MQ2hGdU1wWFZuc0loTzRjY2syeVhHM0tzanBrbzI4eWPSAeoBQVVfeXFMTzVaZGZPR3hTbGJRYXZhLXVNWEprNTZDV1FkUEd2LThDQVJqOFZkaG9YZ2lKemRpZFpvNHplcGdvRGJsb0NoV1huNFotRGZoUFgtbTR0VnU4djJRUDJ3WVRuY1gyaWJxbi1lWlZncWlVZ0EwSUNLY0lDdjJlV0lKUkFhSk9aQjhzeFcycGRKRC1JRU9ET2UxcVB4X2JfNW93VnhKeVlReEp5TGNaX3VQVGhnVWx1TjJRYjJubGZ1MU5mMjJFR1RnTzR0Ry1ERzBfc1ZqSHVma2h2ck5NTEZ5azhCUU9oUlo0aDBR?oc=5",
-      "data": "09/10 06:30"
+      "titulo": "Torcida do Fluminense esgota ingressos para volta da semifinal contra o Palmeiras em três minutos - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQXFRRkRtR0RsVHdOcGxFVWZJRGdVVVpkSE9QX2ZLY2VaTUc2Z201ZFBNVzNIaUtRX0dNX21MVGV4aGJGb0F0STU0T2VlM3o5SFZBbVlwOERLOUtyM0ZMQkN1WUpISHRqODFLeWRkTWozN21jT25EdG9POFJHci1FZzZUblo2cTZpYmFwUmYxZnIta25CUDIzU0FPU2Y0U2o5a0J2WjhQeUhGaTExSHdaQ1dPUWZieHBPZXRSV29zTlZVZllmalYzeENpUllnYi1ua2ZoQU91M1EwYTdXeC00QXp2UGtITjjSAfYBQVVfeXFMTmJCYkpySGRwUXRzUE9LR214NmdIUlFKMmM4V0RfVk8ydnRYS0dXZ2FCTEZOaWxXc2pLczFQMm4zcS1JWk5VYkg3STJJcGlEMzJIaTlpcDFBQm5PbzRfcy1TLXVicS1DQldFVE5ZTzZXQ21rNFV0Y1ZGSUpIaVJ4XzBZd1llNlFqSm1xcE9yRjBNYlUtTUlBcHpzalpDX1RtTDFfeXJLVFhlUEdCemJMYWV0N0d5dHVSQ2U1QW9tcjE4NGhiZ3BVZWF0S1V6UGpIaVZyOWN4WTI0V2dYOGlRZnNuZWNhY3RFVW9XY0NzOUc5ZVdHTnJ3?oc=5",
+      "data": "09/10 19:06"
+    },
+    {
+      "titulo": "Avaliação de desgaste determinará escalação do Fluminense para o Fla-Flu antes de decisão pela Libertadores - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTGVQVHBLS09SUUFxX3hpckUzbUdNbmdnV2RaNWo0VE12SE5iQ3JFVUNDMEZSU1Bjb2lEUC0xcUFGajZJSlRIVU9SN1ROME4taVZEaE9rQVdKaUNGekR3b1k3dnNYMmZHWUZjR1VVd2dZVW40TDUtbEF4TF9MSFdob04tZHVqOHNRSUpyQUZ4RjhvMUh2M1RSN2tuZjZ4dHJYaEN0T0JTaGtPejV1S0NNT29FZ2E2SF9xZl9rQkY1ZDBPdHluQXl2Y21uLWFXM2M?oc=5",
+      "data": "09/10 22:41"
+    },
+    {
+      "titulo": "Corinthians consulta ex-técnico do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjajRBN1dGc2RCVTJDNmhfVTM1blZ0T2I1bG56Y3o3TTYxYXV6c1JRbnBka2lDNGllS1YyU0xIZXUtWDA2UTlqMXNkSU4wUEtib19VTTVTdWdsMFQ3cUNaWHIteHJ5ajJReVRhb0ROV0xsSEEwem1ubzdlLWk?oc=5",
+      "data": "08/10 17:49"
+    },
+    {
+      "titulo": "Presidente do Fluminense revela ação com o Flamengo contra MP das Bets - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaHlsdExndUlpUUJrRWNLOWdQUnJGYk9zVjhTOHRfd1p4bUx0dnhzaFVlX1lTSlM1bHN3NzVoeklBV3h4T052WlR5R0dlaElpQW5mTVpaVEhJcUFRWm1oUVQ1VllHeURSQmpMQ2xlY3VqSFVJdFBKd1RKeEU0UFpZd0owWU9WY2NfTDlVRXVWaG53WmpGNWYyNlN4RVpaNWN5MnBLU3lxQTRrVEhUTS1ZWEhGZ2tZOUluVlpJZUFUSGxVUnQ0N2xv?oc=5",
+      "data": "09/10 16:25"
     }
   ],
   "avisos": []
