@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/10/2026 00:38",
+  "atualizado_em": "11/10/2026 07:31",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "00:10",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Monterrey",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-11",
@@ -149,17 +139,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Lazio x Monza",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "10:00",
       "competition": "Campeonato Inglês",
       "match": "Hull City x Everton",
       "channels": [
@@ -174,6 +153,17 @@ window.PAINEL_DATA = {
       "match": "Crystal Palace x Nottingham Forest",
       "channels": [
         "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Lazio x Monza",
+      "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -263,16 +253,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-11",
-      "time": "12:25",
-      "competition": "Campeonato Saudita",
-      "match": "Abha x Al-Faisaly FC",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
       "time": "12:30",
       "competition": "Campeonato Alemão",
       "match": "SC Freiburg x FC Schalke 04",
@@ -297,11 +277,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "Sassuolo x AC Milan",
+      "competition": "Campeonato Turco",
+      "match": "Besiktas x Kocaelispor",
       "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -309,9 +287,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Besiktas x Kocaelispor",
+      "competition": "Campeonato Italiano",
+      "match": "Sassuolo x AC Milan",
       "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -469,11 +449,11 @@ window.PAINEL_DATA = {
       "date": "2026-10-11",
       "time": "17:30",
       "competition": "Brasileirão Série A",
-      "match": "Flamengo x Fluminense",
+      "match": "Grêmio x Internacional",
       "channels": [
         "GLOBO",
         "PREMIERE",
-        "GE TV"
+        "PREMIERE FC"
       ]
     },
     {
@@ -481,11 +461,11 @@ window.PAINEL_DATA = {
       "date": "2026-10-11",
       "time": "17:30",
       "competition": "Brasileirão Série A",
-      "match": "Grêmio x Internacional",
+      "match": "Flamengo x Fluminense",
       "channels": [
         "GLOBO",
         "PREMIERE",
-        "PREMIERE FC"
+        "GE TV"
       ]
     },
     {
@@ -619,6 +599,50 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "00:10",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Monterrey",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "12:25",
+      "competition": "Campeonato Saudita",
+      "match": "Abha x Al-Faisaly FC",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "competition": "Brasileirão Série C",
+      "match": "Ferroviária x Inter De Limeira",
+      "channels": [
+        "BAND",
+        "SPORTYNET",
+        "CANAL DO BENJA"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "competition": "Brasileirão Série C",
+      "match": "Brusque x Paysandu",
+      "channels": [
+        "SPORTYNET",
+        "CANAL DO BENJA",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-12",
       "time": "13:30",
       "competition": "Campeonato Italiano",
@@ -676,6 +700,7 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Argentino",
       "match": "Lanus x Velez Sarsfield",
       "channels": [
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -789,30 +814,30 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.8,
-      "temp_min": 22.7,
-      "chance_chuva": 80,
-      "condicao": "Garoa fraca"
+      "temp_max": 27.4,
+      "temp_min": 22.8,
+      "chance_chuva": 57,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.0,
-      "temp_min": 22.6,
+      "temp_max": 27.4,
+      "temp_min": 22.2,
       "chance_chuva": 94,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.1,
-      "temp_min": 18.1,
-      "chance_chuva": 88,
-      "condicao": "Garoa"
+      "temp_max": 26.5,
+      "temp_min": 18.2,
+      "chance_chuva": 98,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.1,
+      "temp_max": 26.6,
       "temp_min": 18.1,
-      "chance_chuva": 90,
+      "chance_chuva": 96,
       "condicao": "Trovoada"
     }
   ],
@@ -823,24 +848,24 @@ window.PAINEL_DATA = {
       "data": "09/10 02:26"
     },
     {
-      "titulo": "Flamengo x Fluminense: clássico gera dilema entre os clubes - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWJvLVJRcTY1VHBpN1hLdUlFdVFSRjRXNDNRcmtkb0p2LTI4YUtaQ0MydmtiSjFtQk1QMFpsNVRuNFNDU1YwOF9TSXNoR3FBN1VtLWdqYkxYNTBxWE1Ea2YwdFlLSTdSZ2hJYjhVT2tiNUJkSi05V05DaTFFTzlEYTdEakp4VzQtZnd1dk1fcTAtLTN3VjhvSnRjTmQzXzNReXNweGF3TFVidjlvbTFyUG14Y3hibGdrUi03LWppSlBhZw?oc=5",
-      "data": "10/10 23:37"
+      "titulo": "Savarino foi o 3º estrangeiro na história a marcar um hat-trick pelo Fluminense em Brasileirão - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOREVsOFlvVFZJVkhBblc4NzB5c1ExWXFpWVlsRC1OUlc1RnB5V1cyeTF2WkZlbF9aSFRGeXRlcHJxZEJoVGxFVC14QXc5SXprWjRIN1dzOVZPZE5jVi1wa1MtWHdOMEo1YThuc1pYT3hOWkhwaExHY3I0TlBlY19Va1FKQmpudUQzTkZXYXpmNE04NTN6cHd6TGhlaVZUX1YzdWV0emhubTBrZl9tdmhkREZGVGdnT19WRGlSX0xn?oc=5",
+      "data": "10/10 01:31"
     },
     {
-      "titulo": "Fluminense vence o Sesc RJ Flamengo e será o mandante da final do Carioca de Vôlei - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0ttUkhONXI2UF9fMTVicFRoaDBTRlk3ZkxjVTdKVjc0UjdfZ2c5U29XZFFFQlhiQVI5NFVTbmtTSlVub2JzdUx2MV8tX2k1SUQyblVlZkRWVDFpRXp2LXdPajh3SFk1MUY1VkpFemZRb2VmeVI1Mm1DMjNIbzN3U3RpZHVRTFdBdV9TT2U4ZDhYZkhnZXk5cjVKS1VZak54VXVjM0VSVE9WcENkSWd1UDNIU2prRlg4RjdLQg?oc=5",
-      "data": "11/10 01:07"
+      "titulo": "Noite de gala de Savarino pelo Fluminense é recado a Marcão - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejF1RGg0R1VNUFQwZEpqVDBRQVE2OUVDV3phaU9nRmFMWWZSMUdVaHlOOHZQTmhROENyaC1FTFh6N3JIRW9RU0R6MnJJWEFnMHowYWE2SlczcG5lQW1DTjlqdlo1OHV6cUVRazBSMExtNXhuYTBJLWNPdllTWk1fQ3hXQzVIb0wyejJsclhyMEZ4bk5BX0FCWXFOUnZfTWFOcXNsZHVvMC1PMngwMU1UQzdZM2Y3WXBDekNNRUZZZUc?oc=5",
+      "data": "09/10 10:00"
     },
     {
-      "titulo": "Entenda por que Flamengo x Fluminense não será às 16h na Globo - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkM0alV1Y2lIeWFOSEJqanlDaWM2Qmtra3hzT25NLXBLY1pXbmtDLWp2OUxyeGgwS1JhLVVwOWVfUXdjbEJwQ0ZnOHZrZDZsUzEwN29zVF93SjdhOUhBT2dkVi0wSUJXYkdHUTlZenE3N3doSlo2dEdqbndfaWhTZ0d1SWE2X3hFMU8yN0g3VFZNWDE2dzJ2NXRXdTJudnBzVUZ1N3Z6aTdmeUJMUFhGVHZ0M3hvRlQ2elphLQ?oc=5",
-      "data": "11/10 01:00"
+      "titulo": "Carrasco do Flamengo, Castillo terá nova chance no Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEJtM0xlTWRDNll6Y0daOVBqM2VHWDlYcHcxRmhWajJoRGRILXVpNnh0aDcwWlhDMlJrQWFtZ0FyQldTWThuU1ZidjlBdWljTUwxSHk0UWVXekc0UmJoTzlrQmRWUFR4SmxmX1F2bWk0V2MzTGVqTU9NaEItU3UtaFduaWNaby1FS19tdEpuMHBaYW9NNkswbU1hazRoLVVVbG5Iak5WUHZoSTNUd1NxT2NSTXNKYV8yVlRlelVtNi1WV2F0a1E?oc=5",
+      "data": "11/10 10:15"
     },
     {
-      "titulo": "Escalação do Fluminense: Marcão usará time misto contra o Flamengo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUROOUJkMDF6ZWJNNnVBTTRBQTJHdWVRVldrMHZpcGZ2SWRwTy1pMFRRS1I5UUhySVBjZENKUVpncGRiYkhwcS0tYk9qRDBWZUZVVEdib0pQd2p2UkcyMjNRMmZUUzlRR3RkMzdScEo0SzFJdzBXS2NVUmxMMGFzTmwwenljdjhFNXNBRWN3SEFRdXlJaXRFMko3RHhJR0lmWDh3VUllUVVveHB5dG1sUk5URG96QWtXNmNwY0hRc0g3ZWcxR1ZLUWxpbVJpcHlBM1HSAeABQVVfeXFMUFNOYy0xc0hNMHBhVS1KaUNFckFYYnQtRDB3aEVOTU1tcWlkcVlocVNMWk5ETkI1VVdSeG1xOXBCLU1sc200V05QeFdIeC1wdkJJdlk2T2hZX2tSSTVnTFhyeGJCTi1uWFJQZEhLZDRmOUFybmdjdmJIQi02eVIwcWpRRDg0d0V0dEJtZGtTUnkzMHNlRzJ3YVdXQ19Ed2ZIMWMtdHJzU2NucXNKcTRDS2dzUjBya3Y1c2pVeFlFdldxaVdVclB2UHNEQ0drRFFqM0xKTVBzRW8tTkFnQlhCd3k?oc=5",
-      "data": "10/10 18:46"
+      "titulo": "Canobbio revela por que rejeitou propostas financeiras melhores para ficar no Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDRsYUcxSTdUTFdTdlphN3cwYUhBdWpvX1FJWXBoQzJFTVVGaElITWE3cGstSk0tdTh2cDZ0eFIzejlaSUI4MjBqM05JT3ZjcEhwWmc3ZGlRWmVqb2pEZlpPbUdkeVhLV3ZPMVlFN2UyZkI2ZURHTEdOYTdZY3NncnpkdjcwNENwOFdpaU45aW41NXNtTUV2THVOZ191RnFhcnU5WnVwV29yVVVNdU1xNlYyTnFYUQ?oc=5",
+      "data": "10/10 11:33"
     }
   ],
   "avisos": []
