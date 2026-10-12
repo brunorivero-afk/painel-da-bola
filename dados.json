@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "12/10/2026 13:25",
+  "atualizado_em": "12/10/2026 20:25",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-12",
+      "time": "19:00",
+      "competition": "Brasileirão Série B",
+      "match": "Novorizontino x Ponte Preta",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-12",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Chapecoense-sc x Athletico PR",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-12",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x América-MG",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-12",
+      "time": "21:00",
+      "competition": "Brasileirão Série A",
+      "match": "RB Bragantino x Cruzeiro",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-12",
+      "time": "21:00",
+      "competition": "Brasileirão Série B",
+      "match": "Botafogo SP x Ceará",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "CANAL GOAT",
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-12",
@@ -104,60 +158,6 @@
       "match": "Famalicão x Alverca",
       "channels": [
         "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-12",
-      "time": "19:00",
-      "competition": "Brasileirão Série B",
-      "match": "Novorizontino x Ponte Preta",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-12",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Chapecoense-sc x Athletico PR",
-      "channels": [
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-12",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x América-MG",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-12",
-      "time": "21:00",
-      "competition": "Brasileirão Série A",
-      "match": "RB Bragantino x Cruzeiro",
-      "channels": [
-        "SPORTV",
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-12",
-      "time": "21:00",
-      "competition": "Brasileirão Série B",
-      "match": "Botafogo SP x Ceará",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "CANAL GOAT",
         "DISNEY+"
       ]
     },
@@ -460,31 +460,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.5,
+      "temp_max": 26.1,
       "temp_min": 22.7,
       "chance_chuva": 82,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.8,
-      "temp_min": 22.6,
+      "temp_max": 27.2,
+      "temp_min": 22.7,
       "chance_chuva": 53,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.3,
+      "temp_max": 24.3,
       "temp_min": 18.1,
       "chance_chuva": 90,
-      "condicao": "Trovoada"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.9,
+      "temp_max": 25.1,
       "temp_min": 17.7,
       "chance_chuva": 89,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -494,24 +494,24 @@
       "data": "11/10 23:01"
     },
     {
-      "titulo": "Só quatro clubes? Renato Gaúcho cita Fluminense ao falar de qualidade técnica; veja declaração - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbVJWalJVT2xBcGl6YU5hTVhLWURjNGpLU1ljRzh6ai1GUG92QU5UV1Z5ZnViOHIxMkFfT0Q2cTlIcXRjVnR1U3cyNjZEVUVZd2ZEdXdnTUVzZUZuWmVpY1pqTmpicy0xS1VLUk1wS0E1WmZaWi1QT01vYWxlaWRtU2JhQnYxWlY1RWdUbVNnVTl1VUFGOFVrMnFjcm9FbDFjX2k5NVYtQUxaUzdLTXRUYXlkUTVPUVRWQkt3?oc=5",
-      "data": "12/10 13:33"
+      "titulo": "Fluminense x Palmeiras Palpite – Onde assistir e escalações (14/10) - Trivela",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObjlOVlltd2IwX21mNXF6X1QxLXExT2V2MUtlLUR3OC1DbTF1VDQ2dE1fdEttN0VLYU1WSGFKNXI3T2hOVWRHYk9pZ1VlUVV2OUNjaS1FRUV1MXJFR21nOFNla213akJVNmNkbW01bDhGR0Z6Mjh0cVMwdWlLMGJDb2NxbHAzOG81d2JOTUFiSFJiY1NC?oc=5",
+      "data": "12/10 21:15"
     },
     {
-      "titulo": "Canobbio é homenageado antes de completar 100 jogos pelo Fluminense - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHpjU0RXNFhIUXlsU0lRZWhLOUdIb1ZvdjdGblZNVHc0bFJsY29SMHVZS3d3MGV6LWpBYkU2cEh3T3E5bjhrNHF4Nm9zWElWYkJXWk12c3Q4ZHI3cTdyaWJxbkxkMWRsZjBXYUNHQTBDcmoyM09GazFONmxZbl9SaHlpc1gzYjBFal9zazk2LWNidkwwWXJQYUNoc2o4Nm5Bc2o5TExmejI?oc=5",
-      "data": "11/10 20:07"
+      "titulo": "Palmeiras anuncia ingressos esgotados para jogo de volta contra o Fluminense na semifinal - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc3NKaThwQU0zYXZCVzlhbENRRnZfcUhqWHRsVlVfaGNjbE9jM1V0dkNCS0hrb2hxVWhPd2hwbm1PYThkWjI4M0FIb29EZXEzTjU5ZHdIaU81T2k1UUxaMXFlbnItWWVtSnpOaV9XdTdGb0VxTUdCY096Z19CNHJNdFAxbnExM0VQaXZMYmhiQlJza1JEeUIwQUtsWHJfajh6bzhoTVlfVUJhemhMSEhmOHVFaFlRU1U?oc=5",
+      "data": "12/10 22:03"
     },
     {
-      "titulo": "Canobbio revela proposta para deixar o Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUtIZ1NtaHdNb29LdlBxSjlpOVVfZmtKRUNmd1hDV19pMUJPOE9uallIQkZlVDVGNW5pOWdCMkNHdjdEY2pjTW5NSDdrZTlDblQ1RDNXbkZrajV6Ull6bEVNSi1DTHk4Z3E2X21tVGdRczhrdE1ISjNwbjB5R1F6bUg2UmRKd25JbmRVTW9ZemkwMFBkdVVwRnNXRjFCeGswd244dzNiWlJqQQ?oc=5",
-      "data": "10/10 15:26"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTZDalZPbmhGNVRlZmpndVdLMEtMVEZienpSX245VW1YeFlmSUNTM1JLazdRZ1F6QU5VbXJtMFNqVnNQdXEtSzBnNUdaLXB1azNUN2FYZ19icWZWRWh5b2dDRmZDeEdxX2NybExWdGxkV2kzS09DT2l5LWZtak8xdVVtbkpDWGRQOFVOR1h5ckM0VmlEWGRoSHRPbXMtcF9OSVM3U0tqcw?oc=5",
+      "data": "12/10 12:56"
     },
     {
-      "titulo": "Canobbio cita motivos para rejeitar sondagens para deixar o Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZE9DdWNIRE42MDk4YnVCdm53T3FqZnZzay14SzFfOURXVXppVjZhWTFyQ01YZXE0OWJrWHlMbTJpd2NQelgyeS1iYkMzVS0zUFZXZ0VRRURlQk9KczN5OFB1YjlSS1J5cWJOUEdZbS1ySm1lOFRhZU16dUI3RUFBTUNxMGlkaUNjTi0wRG5rUWt6d2VLR1k3R3daMzVER2JnZERNQkNDamtVMWUzNDcxNFFxTWtXcGEybmVkRmFoVmZhdkFmTVRPMmdpOE9ld9IB0wFBVV95cUxOWjdqc3pyaUJyMVRnUkNMb01DMnMwUmViWU9DVUpVdDAtTWE4WWZiZlR4Mks1Ykp5S0lVbEdXTEhKcU96UnNqR1FiM0ZncDhKdnRKY3FWMl9vVFBhUkVTY1FyUWZzcFhEUGFwbWpsOFl3QmtKNHFYYmdoQ2drV0NLNHhQT1NTQTJCZ2Jjb0p6SDZINHp0Yk9wQnNJN3k3Z1BQc2pIVmRCSWpWYjJlcmc3RjVYSFNfaEVuVHNnVHM2dTVTYmdCS1FoZm5ncGtmYnNoT1Vz?oc=5",
-      "data": "10/10 13:50"
+      "titulo": "Com gol de Carrascal, Flamengo derrota o Fluminense e segue líder do Brasileirão - Clube de Regatas do Flamengo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkdwTkFoRHo2d0hrNDlvNWx6b1cxTjJvSDdQcXNvT2loUm16QTkyZjNvVVUyUTVqOGQyMVQyUnRhRlk4VGlJLUpUMFIzQkt1dXNjVzdrRTZJeHZwSnVKSlQwU1N6WlNhejZDVTVPT2NnWmFqaTFqNHZ5SWt0RlBrbDBwV1VpRFpURXpRdGREUEpCT29yRzY1S1AwTlZabTR5cDVwcmdxTURIZVRScnBNSk4taGUwbFdYRmttYTVXcXVSUQ?oc=5",
+      "data": "11/10 22:50"
     }
   ],
   "avisos": []
