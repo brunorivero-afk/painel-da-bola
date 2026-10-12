@@ -1,163 +1,6 @@
 {
-  "atualizado_em": "11/10/2026 17:44",
+  "atualizado_em": "11/10/2026 21:09",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Santos",
-      "channels": [
-        "SPORTV",
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Juventude x São Bernardo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Valencia",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "16:10",
-      "competition": "Brasileirão Série B",
-      "match": "Atlético GO x Sport Recife",
-      "channels": [
-        "REDETV!",
-        "ESPN",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "Arouca x Estrela",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "17:30",
-      "competition": "Brasileirão Série A",
-      "match": "Flamengo x Fluminense",
-      "channels": [
-        "GLOBO",
-        "PREMIERE",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "17:30",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x Internacional",
-      "channels": [
-        "GLOBO",
-        "PREMIERE",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "17:30",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x Corinthians",
-      "channels": [
-        "GLOBO",
-        "PREMIERE",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "17:30",
-      "competition": "Brasileirão Série B",
-      "match": "Náutico x Vila Nova",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x Alianza Atletico",
-      "channels": [
-        "ESPN",
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "New York RB II x Huntsville City",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Cuiabá x Avai",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Goiás",
-      "channels": [
-        "REDETV!",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Club Nacional",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-11",
@@ -172,21 +15,21 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "20:00",
-      "competition": "MLS",
-      "match": "St. Louis City x Los Angeles Galaxy",
+      "competition": "Campeonato Mexicano",
+      "match": "Atletico San Luis x Santos Laguna",
       "channels": [
-        "APPLE TV"
+        "PREMIERE 5",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "20:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atletico San Luis x Santos Laguna",
+      "competition": "MLS",
+      "match": "St. Louis City x Los Angeles Galaxy",
       "channels": [
-        "PREMIERE 5",
-        "DISNEY+"
+        "APPLE TV"
       ]
     },
     {
@@ -315,28 +158,6 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "10:00",
-      "competition": "Campeonato Inglês",
-      "match": "Hull City x Everton",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "10:00",
-      "competition": "Copa Paulista",
-      "match": "Uniao Sao Joao x São José EC",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-11",
-      "time": "10:00",
       "competition": "Paulista Sub-20",
       "match": "Desportivo Brasil Sub-20 x São Paulo U20",
       "channels": [
@@ -347,18 +168,19 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "10:00",
-      "competition": "Campeonato Francês",
-      "match": "Nice x Strasbourg",
+      "competition": "Campeonato Inglês",
+      "match": "Crystal Palace x Nottingham Forest",
       "channels": [
-        "CAZÉTV"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Lecce x Bologna",
+      "competition": "Campeonato Inglês",
+      "match": "Hull City x Everton",
       "channels": [
         "DISNEY+"
       ]
@@ -378,11 +200,32 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "10:00",
-      "competition": "Campeonato Inglês",
-      "match": "Crystal Palace x Nottingham Forest",
+      "competition": "Campeonato Italiano",
+      "match": "Lecce x Bologna",
       "channels": [
-        "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "competition": "Campeonato Francês",
+      "match": "Nice x Strasbourg",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "competition": "Copa Paulista",
+      "match": "Uniao Sao Joao x São José EC",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -432,20 +275,20 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Alemannia Aachen x FC Viktoria Koln",
+      "competition": "Campeonato Português",
+      "match": "Rio Ave x Nacional",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Rio Ave x Nacional",
+      "competition": "3ª Divisão Alemã",
+      "match": "Alemannia Aachen x FC Viktoria Koln",
       "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -482,23 +325,23 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "12:30",
-      "competition": "Campeonato Alemão",
-      "match": "SC Freiburg x FC Schalke 04",
+      "competition": "Campeonato Inglês",
+      "match": "Liverpool x Manchester City",
       "channels": [
-        "SPORTV 3",
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "12:30",
-      "competition": "Campeonato Inglês",
-      "match": "Liverpool x Manchester City",
+      "competition": "Campeonato Alemão",
+      "match": "SC Freiburg x FC Schalke 04",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "SPORTV 3",
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -527,21 +370,21 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "13:30",
-      "competition": "Campeonato Russo",
-      "match": "Rubin x Dinamo Moscow",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Betis x Osasuna",
       "channels": [
-        "XSPORTS",
-        "BANDSPORTS"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Betis x Osasuna",
+      "competition": "Campeonato Russo",
+      "match": "Rubin x Dinamo Moscow",
       "channels": [
-        "CAZÉTV"
+        "XSPORTS",
+        "BANDSPORTS"
       ]
     },
     {
@@ -569,20 +412,20 @@
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "UTC x Sporting Cristal",
+      "competition": "Campeonato Saudita",
+      "match": "Al Shabab x Al Taawon",
       "channels": [
-        "FANATIZ"
+        "CANAL GOAT"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-11",
       "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al Shabab x Al Taawon",
+      "competition": "Campeonato Peruano",
+      "match": "UTC x Sporting Cristal",
       "channels": [
-        "CANAL GOAT"
+        "FANATIZ"
       ]
     },
     {
@@ -638,6 +481,163 @@
       "match": "Cagliari x Juventus",
       "channels": [
         "CAZÉTV",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Santos",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Valencia",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Juventude x São Bernardo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "16:10",
+      "competition": "Brasileirão Série B",
+      "match": "Atlético GO x Sport Recife",
+      "channels": [
+        "REDETV!",
+        "ESPN",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "Arouca x Estrela",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "17:30",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x Internacional",
+      "channels": [
+        "GLOBO",
+        "PREMIERE",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "17:30",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x Corinthians",
+      "channels": [
+        "GLOBO",
+        "PREMIERE",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "17:30",
+      "competition": "Brasileirão Série B",
+      "match": "Náutico x Vila Nova",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x Alianza Atletico",
+      "channels": [
+        "ESPN",
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "17:30",
+      "competition": "Brasileirão Série A",
+      "match": "Flamengo x Fluminense",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 2",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "New York RB II x Huntsville City",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Cuiabá x Avai",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Goiás",
+      "channels": [
+        "REDETV!",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-11",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Club Nacional",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -843,19 +843,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Ao vivo: Flamengo x Fluminense | Rodada 30 | Campeonato Brasileiro - ge",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEk0azJ3dUxhSV81OV83dzBBSk5kRU40aHlUeHpXS0pRUDdDQzVGeWprSllWck9IS3pnMC00bDdPOTFtMlRGOFlSTmdaV0x4MEtiVEpLbU9mOW5MelJZWWlSbXI3VWZHaks0UkhJYjloUTBJOW9JR09FOGlmSHRSX3ZIZUtGWHdSN0xaM1RWU0FkQjYzQWJnWA?oc=5",
-      "data": "11/10 20:39"
-    },
-    {
-      "titulo": "Canobbio é homenageado antes de completar 100 jogos pelo Fluminense - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHpjU0RXNFhIUXlsU0lRZWhLOUdIb1ZvdjdGblZNVHc0bFJsY29SMHVZS3d3MGV6LWpBYkU2cEh3T3E5bjhrNHF4Nm9zWElWYkJXWk12c3Q4ZHI3cTdyaWJxbkxkMWRsZjBXYUNHQTBDcmoyM09GazFONmxZbl9SaHlpc1gzYjBFal9zazk2LWNidkwwWXJQYUNoc2o4Nm5Bc2o5TExmejI?oc=5",
-      "data": "11/10 20:07"
-    },
-    {
-      "titulo": "Canobbio revela proposta para deixar o Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUtIZ1NtaHdNb29LdlBxSjlpOVVfZmtKRUNmd1hDV19pMUJPOE9uallIQkZlVDVGNW5pOWdCMkNHdjdEY2pjTW5NSDdrZTlDblQ1RDNXbkZrajV6Ull6bEVNSi1DTHk4Z3E2X21tVGdRczhrdE1ISjNwbjB5R1F6bUg2UmRKd25JbmRVTW9ZemkwMFBkdVVwRnNXRjFCeGswd244dzNiWlJqQQ?oc=5",
-      "data": "10/10 15:26"
+      "titulo": "Presidente do Fluminense detona arbitragem contra o Flamengo: \"Um lixo, uma m...\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRHhaY21XZ2hPX0lnc0w5a1ZueF9DUmh2ZHpvWHZvazN0WllqejhXN1NlZDBGd2Z1MDBxeklPZ3VGTDQ0S3lyTzgyQ2N4ZlUxd0otcVQ1b09TSDRMRHRtM2dWZ2w1XzEyTGF5bC1nZ0xZMWxqUWIxdjViZGJmOG41bHNFQUZ5SXRFU2traXVGV0ZtaGtQZFZsckw0MlZOMTlhLUdTcEFReU1WS3Z1bnIxWGtvdmRVTDFBM3ZicC1KTUVPS2F6RlZhZEdBMktLYmJEMlF2bXFJVzNJbDFHTkHSAewBQVVfeXFMUDk4elh0LUxuY1Z5Y2JJdnhFVFV6SkpGd2Z6NWt5YXZtckJLQmxyYnd6dTJ6b1IxMkEzYUNnay03aE1WU2lpdUtnWmg0Wjdtc3NzSWY5Z1F0dFg1RTQyVHYtWEl2dkJwZURybHAwcVVkclkwLVgyYlA1d1Bnc1Bsd3hPVGZOR045NzBIRXlDWWhsQjIyYkFMbFVWU0RMTTJLejlPVFIySDZqX3hlYkRtSGZIQW96dVV5bGpVeFpSc1ZJd1BCMUs5WGNvTzJLNi11QnI0TWlHS1BrLTlEdzFYZ3c2YldWSWFISGMzb20?oc=5",
+      "data": "11/10 23:01"
     },
     {
       "titulo": "Canobbio cita motivos para rejeitar sondagens para deixar o Fluminense - O Dia",
@@ -863,9 +853,19 @@
       "data": "10/10 13:50"
     },
     {
-      "titulo": "Conmebol define arbitragem de Fluminense x Palmeiras pela semifinal da Libertadores - Lance!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazB6Y1NoV05memtJa3p5S2hvd3QxWElsQU0zcThKWHk2OVRZVGk3RzZ1NERCWVBvMDBlQmhtX2xrM2hKWUV1R1gyZ21qT3pQWlNpZ0tsU2xtdjZ2M1RaV2FvNW9tbFFEcXJfNkxCQjFvNFA5TDVKRW5PWWJxM2xqVmEwWFNsMVBXLVN2cWs3UkJuQXhRZU5WOUMtYUZ3MEJrdFhsYzd2ZkhucVRrbXhHN1RENWlFUjVzSzNrVUN0WUNWTlpPSlhmSHZB?oc=5",
-      "data": "10/10 20:58"
+      "titulo": "Titular revela proposta para deixar o Fluminense, mas explica decisão de permanecer no clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNekxadS1BRkJCNHdBNC1CNkZkLVdZTWR2QlJSSkxhTzRKOW5PWkFHQk9RM0dXUTBTT0cxajFSOFBFVkhvbC1fRFY1VXFrR1p6Rl96NzN1X2NUaWlLYl96VTBYa1I2NVJDdzRQRy1aTUI0RFN1dG9wN192eDlXZDNpdEU3d0o1ekFiMUd1UHRjajBsZ0llWVhSMl91ZkNTRHN2N1NKSDJQYUg2RWtDSmlWd2c2Tjk0amdPUy03ZVJ5LUFHek1vM3hpSUVxOUM4b3pMZEpxVzdkWnI2cjc2c1UyUUdVMURoa0xVbkxiY3JXbFBrNVFiOUxScW8wRG5KTEtydGNNcTJhQTFxVXE1MExv?oc=5",
+      "data": "10/10 18:30"
+    },
+    {
+      "titulo": "Canobbio é homenageado antes de completar 100 jogos pelo Fluminense - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHpjU0RXNFhIUXlsU0lRZWhLOUdIb1ZvdjdGblZNVHc0bFJsY29SMHVZS3d3MGV6LWpBYkU2cEh3T3E5bjhrNHF4Nm9zWElWYkJXWk12c3Q4ZHI3cTdyaWJxbkxkMWRsZjBXYUNHQTBDcmoyM09GazFONmxZbl9SaHlpc1gzYjBFal9zazk2LWNidkwwWXJQYUNoc2o4Nm5Bc2o5TExmejI?oc=5",
+      "data": "11/10 20:07"
+    },
+    {
+      "titulo": "Torcida do Fluminense esgota ingressos para duelo contra o Palmeiras - Band",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTJac3gtZXFyN0VTU2VIYXpkLUtaV2Yxd2wzMmpJd0RUcFpHUzhYczI1UU5tME9FejBienpjWFNFdVdYRFNQX0RadHdEa1dhaTlVNTFIOTcyRTR1YXFPTzhkeVljamhLanhpaE9OYWQ0M2hlUWppUUVSQk9aWmNnY045T2FYMHh0WF9UUlZxZGQ2UUYzblVMaTFGN2RyVGg5aTk0V3NTTkZIN1B5amttdXV6X2t4Q0YxYlkzdV93?oc=5",
+      "data": "10/10 20:20"
     }
   ],
   "avisos": []
