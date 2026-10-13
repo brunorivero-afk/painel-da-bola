@@ -1,6 +1,17 @@
 {
-  "atualizado_em": "13/10/2026 02:11",
+  "atualizado_em": "13/10/2026 10:25",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "10:00",
+      "competition": "Amistoso Feminino",
+      "match": "Jordan (F) x Indonesia (F)",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-13",
@@ -94,10 +105,9 @@
       "date": "2026-10-13",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Galatasaray x Barcelona",
+      "match": "Atletico Madrid x Manchester United",
       "channels": [
-        "SBT",
-        "TNT",
+        "SPACE",
         "HBO MAX"
       ]
     },
@@ -127,8 +137,10 @@
       "date": "2026-10-13",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Villarreal x Napoli",
+      "match": "Galatasaray x Barcelona",
       "channels": [
+        "SBT",
+        "TNT",
         "HBO MAX"
       ]
     },
@@ -137,9 +149,8 @@
       "date": "2026-10-13",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Atletico Madrid x Manchester United",
+      "match": "Villarreal x Napoli",
       "channels": [
-        "SPACE",
         "HBO MAX"
       ]
     },
@@ -177,12 +188,11 @@
     {
       "sport": "futebol",
       "date": "2026-10-13",
-      "time": "17:00",
-      "competition": "Copa Libertadores",
-      "match": "Estudiantes x Flamengo",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Stoke City x Middlesbrough",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "NSPORTS"
       ]
     },
     {
@@ -327,6 +337,16 @@
       "match": "FC Viktoria Koln x SG Sonnenhof Grossaspach",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "15:00",
+      "competition": "Taça de Portugal",
+      "match": "Uniao Santarem x GIL Vicente",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -618,58 +638,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.7,
-      "temp_min": 22.2,
+      "temp_max": 26.4,
+      "temp_min": 22.1,
       "chance_chuva": 16,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.5,
-      "temp_min": 21.0,
+      "temp_max": 26.4,
+      "temp_min": 21.9,
       "chance_chuva": 20,
       "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.9,
-      "temp_min": 18.3,
+      "temp_max": 25.9,
+      "temp_min": 18.1,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.4,
-      "temp_min": 16.6,
+      "temp_max": 26.7,
+      "temp_min": 16.9,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Presidente do Fluminense detona arbitragem contra o Flamengo: \"Um lixo, uma m...\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRHhaY21XZ2hPX0lnc0w5a1ZueF9DUmh2ZHpvWHZvazN0WllqejhXN1NlZDBGd2Z1MDBxeklPZ3VGTDQ0S3lyTzgyQ2N4ZlUxd0otcVQ1b09TSDRMRHRtM2dWZ2w1XzEyTGF5bC1nZ0xZMWxqUWIxdjViZGJmOG41bHNFQUZ5SXRFU2traXVGV0ZtaGtQZFZsckw0MlZOMTlhLUdTcEFReU1WS3Z1bnIxWGtvdmRVTDFBM3ZicC1KTUVPS2F6RlZhZEdBMktLYmJEMlF2bXFJVzNJbDFHTkHSAewBQVVfeXFMUDk4elh0LUxuY1Z5Y2JJdnhFVFV6SkpGd2Z6NWt5YXZtckJLQmxyYnd6dTJ6b1IxMkEzYUNnay03aE1WU2lpdUtnWmg0Wjdtc3NzSWY5Z1F0dFg1RTQyVHYtWEl2dkJwZURybHAwcVVkclkwLVgyYlA1d1Bnc1Bsd3hPVGZOR045NzBIRXlDWWhsQjIyYkFMbFVWU0RMTTJLejlPVFIySDZqX3hlYkRtSGZIQW96dVV5bGpVeFpSc1ZJd1BCMUs5WGNvTzJLNi11QnI0TWlHS1BrLTlEdzFYZ3c2YldWSWFISGMzb20?oc=5",
-      "data": "11/10 23:01"
+      "titulo": "Fluminense divulga informações de ingressos para duelo contra o Santos - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUpfYkVWVkdOVjIzd3lrZ3RWUC1IQ29VWnNWeUs4MFlJcDFNN2ZzS1FOQ2prc3ZMSnZUN0NSREdoQ2dmWjFndlh0V2F5TVZXRFQyYldtX0paWjlkU0gyZy03djU4aXlmZjNTNFBhNlQ4N0QzOVlaaUxqS19OVmtTV29SMlhqRFhQVWx4U3lKOC1BZVpSaXdyYTN1Z19kZw?oc=5",
+      "data": "13/10 00:52"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTZDalZPbmhGNVRlZmpndVdLMEtMVEZienpSX245VW1YeFlmSUNTM1JLazdRZ1F6QU5VbXJtMFNqVnNQdXEtSzBnNUdaLXB1azNUN2FYZ19icWZWRWh5b2dDRmZDeEdxX2NybExWdGxkV2kzS09DT2l5LWZtak8xdVVtbkpDWGRQOFVOR1h5ckM0VmlEWGRoSHRPbXMtcF9OSVM3U0tqcw?oc=5",
-      "data": "12/10 12:56"
+      "titulo": "Nonato se consolida no Fluminense e mira Libertadores que não pôde ganhar em 2023: \"Sonho palpável\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVk1hbmhKOE9jZXN0NW5UZXJSYzduVmNYcllqNHBuY3lEVl9JVTJSMUhwSXo0dnBzV0QtSUdIWnNIRWFBc3RDOVo4MU1vNzBOUDU2Y0xtcTVUeEZSNTRRUXRmdW53Y29OdGtsbXptMGFWWlg1VG1oNHlaZjJYb0Y3cTU1aUpIWEMwOC1Ec2RYNmFPWjVhQWFWdmQ5WWNZY3NiZ3NiME9EbTRYTGFEa0VwYVFSRWVrTjZoMU1aSEdpMFZiWHZsNGxsTWFtbHh5SmVmTHQwMUpVd1JFQi1KaHFRRHNTMFhhXzltcVdCSThqcUgyQ2dZdEp5UkJIZ9IBigJBVV95cUxNeWg2M2JZMElxRmgwbW9iS19FS3Q2ZUhpM1lULXNySUx6cUw2dWR3RnpibXh5Qks4Njg0SGRQa0w3RmQxZG4xamJaRFprVko5VERSNjlkeU1NVjRSMjlORHdmR0RBTHRjb25MUWlFRnIyMnI2V2FTTEEtalpwS0twVklVNHV6dFRxeC0wVDRDNDdhX0RPNkdiNC04UHVQbTBIY212VHZpdi1hd05TT3lNOWE4STJrVDVUY2NwVjRsblVBXzc1MjN1LVFuNDd3NXBERXd2SVZwUFczVWJsX19EOHNIWlNHR1VJcm44ZUVsQTA3enlEbld0ay1kbE85b3VuSTNjdWJvZXB0dw?oc=5",
+      "data": "13/10 13:00"
     },
     {
-      "titulo": "Fluminense x Palmeiras Palpite – Onde assistir e escalações (14/10) - Trivela",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObjlOVlltd2IwX21mNXF6X1QxLXExT2V2MUtlLUR3OC1DbTF1VDQ2dE1fdEttN0VLYU1WSGFKNXI3T2hOVWRHYk9pZ1VlUVV2OUNjaS1FRUV1MXJFR21nOFNla213akJVNmNkbW01bDhGR0Z6Mjh0cVMwdWlLMGJDb2NxbHAzOG81d2JOTUFiSFJiY1NC?oc=5",
-      "data": "13/10 03:42"
+      "titulo": "Ex-Fluminense e Inter, atacante Walter é anunciado em novo clube aos 37 anos - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnJRTVk1LTRnWUNjaXRab0w0a3lnWEtVQTRUbHJhUVBFUVJmb3Y4WlA4bW5SUTAyX1VPYTlSMUNlSGM1MFlpWXBORzhiMnVaSEl2Q2JqNnBnaDUxMUJwY0VFWV9oVWdBWXUtejZaRDh6RXRjc1lYd1FnbXByX0ZPSTRlRUhkRU9OaWZYLW9ZWFFiaGhDWHZIdjMwdjlGNkIyNDVoWFA5QzFma1NkSGhTQ2FR?oc=5",
+      "data": "13/10 12:10"
     },
     {
-      "titulo": "Palmeiras anuncia ingressos esgotados para jogo de volta contra o Fluminense na semifinal - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc3NKaThwQU0zYXZCVzlhbENRRnZfcUhqWHRsVlVfaGNjbE9jM1V0dkNCS0hrb2hxVWhPd2hwbm1PYThkWjI4M0FIb29EZXEzTjU5ZHdIaU81T2k1UUxaMXFlbnItWWVtSnpOaV9XdTdGb0VxTUdCY096Z19CNHJNdFAxbnExM0VQaXZMYmhiQlJza1JEeUIwQUtsWHJfajh6bzhoTVlfVUJhemhMSEhmOHVFaFlRU1U?oc=5",
-      "data": "12/10 22:03"
+      "titulo": "Fluminense e Cruzeiro duelam por vaga na semifinal do Brasileirão Sub-17 - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHg5X3duQ1FzV3pMOGhqOHZGc0Izd0RsZjV0bHgzMzA5RVFueHJOMEZ1MDhhSnJ0QzhKR1BqbnVpUDZuNlc5czVOUmtuZXRFMnVQNjJqTnB2TnNQWVpXWFdQUXBfNDVKRUZPZmJHTzBVRHctd0VOYkxOZ3dMNzBYQU9ERzhCQVBLNXNsNW9MTXgzeHZOVkpYczlPazFPVmVNNV9JVG9TdXhNMHpkbFR3?oc=5",
+      "data": "13/10 13:00"
     },
     {
-      "titulo": "Conmebol define arbitragem de Fluminense x Palmeiras pela semifinal da Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPazB6Y1NoV05memtJa3p5S2hvd3QxWElsQU0zcThKWHk2OVRZVGk3RzZ1NERCWVBvMDBlQmhtX2xrM2hKWUV1R1gyZ21qT3pQWlNpZ0tsU2xtdjZ2M1RaV2FvNW9tbFFEcXJfNkxCQjFvNFA5TDVKRW5PWWJxM2xqVmEwWFNsMVBXLVN2cWs3UkJuQXhRZU5WOUMtYUZ3MEJrdFhsYzd2ZkhucVRrbXhHN1RENWlFUjVzSzNrVUN0WUNWTlpPSlhmSHZB?oc=5",
-      "data": "10/10 20:58"
+      "titulo": "Fluminense solta nota de repúdio com arbitragem do Fla-Flu e reclama de dois lances: 'Clássico manchado' - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUHBmMzJZSW1qc0x0R0Ytcl9KcGtoTTB3V0FJTjF1QmdlZUtXR0tiMDFWMVNXcjFsQlV3Z0wySWpkbng0bW5GRV82cDhFcXA0MWd1SHhSMHRRWkxFQ0V3c3V4V29oZTJfa0U1RFRqdzFrc1ZhczdkWFhjTTlCWkcyX0szdXlGOUE3SG0yTnAtOGZOaVQ2MUJqNTdjazhMd0NDSC0ya2VvNWlxYlQ5dFgza0xWNG5ycUJKd3A5NTBhOENhcW1YdWo0dXFkYjZ0VHJNVERWMzBaMC1PM1ZUZHdQUGdtdw?oc=5",
+      "data": "12/10 00:49"
     }
   ],
   "avisos": []
