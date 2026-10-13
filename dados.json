@@ -1,116 +1,6 @@
 {
-  "atualizado_em": "13/10/2026 10:25",
+  "atualizado_em": "13/10/2026 17:01",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "10:00",
-      "competition": "Amistoso Feminino",
-      "match": "Jordan (F) x Indonesia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "12:45",
-      "competition": "Amistoso Feminino",
-      "match": "Alemanha (F) x Japão (F)",
-      "channels": [
-        "ESPN 3",
-        "SPORTV",
-        "GE TV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:00",
-      "competition": "Amistoso Feminino",
-      "match": "Peru (F) x Filipinas (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:00",
-      "competition": "Amistoso Feminino",
-      "match": "Malaysia (F) x Saudi Arabia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Lens x Sporting CP",
-      "channels": [
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Sabah FA x Slavia Praha",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Rot-weiss Essen x Fortuna Koln",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC Saarbrücken x MSV Duisburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "14:00",
-      "competition": "Amistoso Feminino",
-      "match": "Luxemburgo (F) x Montenegro (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Atletico Madrid x Manchester United",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-13",
@@ -151,6 +41,17 @@
       "competition": "Champions League",
       "match": "Villarreal x Napoli",
       "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Atletico Madrid x Manchester United",
+      "channels": [
+        "SPACE",
         "HBO MAX"
       ]
     },
@@ -283,6 +184,105 @@
         "SBT",
         "YOUTUBE",
         "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "10:00",
+      "competition": "Amistoso Feminino",
+      "match": "Jordan (F) x Indonesia (F)",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "12:45",
+      "competition": "Amistoso Feminino",
+      "match": "Alemanha (F) x Japão (F)",
+      "channels": [
+        "ESPN 3",
+        "SPORTV",
+        "GE TV",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "13:00",
+      "competition": "Amistoso Feminino",
+      "match": "Malaysia (F) x Saudi Arabia (F)",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "13:00",
+      "competition": "Amistoso Feminino",
+      "match": "Peru (F) x Filipinas (F)",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Sabah FA x Slavia Praha",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Lens x Sporting CP",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "14:00",
+      "competition": "Amistoso Feminino",
+      "match": "Luxemburgo (F) x Montenegro (F)",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC Saarbrücken x MSV Duisburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Rot-weiss Essen x Fortuna Koln",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -638,58 +638,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.4,
+      "temp_max": 26.5,
       "temp_min": 22.1,
-      "chance_chuva": 16,
+      "chance_chuva": 43,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.4,
-      "temp_min": 21.9,
-      "chance_chuva": 20,
+      "temp_max": 26.5,
+      "temp_min": 21.8,
+      "chance_chuva": 86,
       "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.9,
-      "temp_min": 18.1,
+      "temp_max": 26.7,
+      "temp_min": 18.0,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.7,
-      "temp_min": 16.9,
+      "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense divulga informações de ingressos para duelo contra o Santos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUpfYkVWVkdOVjIzd3lrZ3RWUC1IQ29VWnNWeUs4MFlJcDFNN2ZzS1FOQ2prc3ZMSnZUN0NSREdoQ2dmWjFndlh0V2F5TVZXRFQyYldtX0paWjlkU0gyZy03djU4aXlmZjNTNFBhNlQ4N0QzOVlaaUxqS19OVmtTV29SMlhqRFhQVWx4U3lKOC1BZVpSaXdyYTN1Z19kZw?oc=5",
-      "data": "13/10 00:52"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTZDalZPbmhGNVRlZmpndVdLMEtMVEZienpSX245VW1YeFlmSUNTM1JLazdRZ1F6QU5VbXJtMFNqVnNQdXEtSzBnNUdaLXB1azNUN2FYZ19icWZWRWh5b2dDRmZDeEdxX2NybExWdGxkV2kzS09DT2l5LWZtak8xdVVtbkpDWGRQOFVOR1h5ckM0VmlEWGRoSHRPbXMtcF9OSVM3U0tqcw?oc=5",
+      "data": "12/10 12:56"
     },
     {
-      "titulo": "Nonato se consolida no Fluminense e mira Libertadores que não pôde ganhar em 2023: \"Sonho palpável\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVk1hbmhKOE9jZXN0NW5UZXJSYzduVmNYcllqNHBuY3lEVl9JVTJSMUhwSXo0dnBzV0QtSUdIWnNIRWFBc3RDOVo4MU1vNzBOUDU2Y0xtcTVUeEZSNTRRUXRmdW53Y29OdGtsbXptMGFWWlg1VG1oNHlaZjJYb0Y3cTU1aUpIWEMwOC1Ec2RYNmFPWjVhQWFWdmQ5WWNZY3NiZ3NiME9EbTRYTGFEa0VwYVFSRWVrTjZoMU1aSEdpMFZiWHZsNGxsTWFtbHh5SmVmTHQwMUpVd1JFQi1KaHFRRHNTMFhhXzltcVdCSThqcUgyQ2dZdEp5UkJIZ9IBigJBVV95cUxNeWg2M2JZMElxRmgwbW9iS19FS3Q2ZUhpM1lULXNySUx6cUw2dWR3RnpibXh5Qks4Njg0SGRQa0w3RmQxZG4xamJaRFprVko5VERSNjlkeU1NVjRSMjlORHdmR0RBTHRjb25MUWlFRnIyMnI2V2FTTEEtalpwS0twVklVNHV6dFRxeC0wVDRDNDdhX0RPNkdiNC04UHVQbTBIY212VHZpdi1hd05TT3lNOWE4STJrVDVUY2NwVjRsblVBXzc1MjN1LVFuNDd3NXBERXd2SVZwUFczVWJsX19EOHNIWlNHR1VJcm44ZUVsQTA3enlEbld0ay1kbE85b3VuSTNjdWJvZXB0dw?oc=5",
-      "data": "13/10 13:00"
+      "titulo": "Antes do Corinthians, Seedorf tinha conversas com o Fluminense para 2027; veja bastidores - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa1VRQVVJS0ROQkZibV8tLXU2ekdMRkFILTZoRE11Wi1QeVBsWXlKSVl1ajJ1bnlUOXpVakxhX3ZKdEVnMDRwb2FYQ3BHbkV5WDVGWWhzTENaQ2FmVTBrX0M5c1BHQkdPdzItVG5LQndDOXBxX2tBTmItY0lCSFBUam9vRE9aUVBkYUVBMFp1WklVNGFZc3lHelRnZVBrWU82a1hWZkc4V3loU00yR092Zmx1TTJxbms2aWFGeTE3UVZvRDFDRVFMY2h3V185dEFKWTF3?oc=5",
+      "data": "13/10 15:48"
+    },
+    {
+      "titulo": "Em busca do bi da Liberta, Marcão se declara ao Fluminense: \"Trabalho no clube que amo e ganho um bom salário\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOTFXSVZUVDBLRlozYjVnRm5wdE90eUcxRGJoRFc4UWh5ZDIzOHdFLWhZTTJzVmxxek8xWDRBcmFWQXA5QWc0RG1oMm5ZNGEwUVZoRlRWdHRCMDJneU9GaFVqdlV2RzR5WVNHdGpULTg4ZHJJZTc5Rm8ybndPcmp4UWk0R2YyVDhoaC1ZMmJiaTR5Q213TmF4cktzdHQ5V3dQYkRwUlNzdW1oRjBkNEpsODRQa2MyaEg0YXN2SWNPSV96aGJseDE1dEw0eloyb3BNVThkZHFPd3ZDXzFZQVd3WVR0TmxJS3oySTdpYWlMbnVKQTFiNE42YVBZY3Y1RUxtSm5CNGxWLWPSAZcCQVVfeXFMT1hDOTVKalZaOFpGdUtYRnVEYm04RWNVNW5aanA5eDJLUjduZ29GLXIyNDY5RkJnMkg3dllfbWw4T1AzNld0TTNWaGQ2SXZBUjczQkNuVzFoT3g0OFUyaS1qYWY5SGR0azkyRXZNTlBIZWU5Y2s1VE5RcVdKYl9ZdWY1LXNRLTV5bkx5R3pVRHp1RkpXbWxZVE40Qm4yTkdPTlp4Z2tpaVJvRl82S1JxMjRyb3JaT1RHdTRkZU5faVdVbVJKN1I2MWZMbk9OYlBnYXJWakNOUVg2MEtIRVlNdjhOTl9TZDlBT0RicDZwcFJWVWpaQlRVdlAzUTJsb29NbXIxYmRtWU50ejRjS0VKODRmd245NzFN?oc=5",
+      "data": "13/10 16:32"
+    },
+    {
+      "titulo": "Irritação com arbitragem toma conta do vestiário do Fluminense após clássico; veja detalhes - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUVVhQ3VfYWtkdXFBbkd4ZTdCUFB3eGVrUlp4X3VkUkdGOExMWllLTUFfTW54OEJTTzRjRXpNRGlteXlWUzFwTlEzVkNpamE0cUk0cGZLLUFmTkNDMDZaMHNWRHRmaHVCQV9YWUJWaDZDWFZzLUw1MmRCNXBEemN2TnFCN2dYWWVXOXZmNHJRTEtiMmRwWjBqbjdwMDllWVk3cVFTYVlIVkh0Mm1VeFdod1puLXB4eHNEckd1MUl5c0gwUXItZ1B6U2VvMWQ2T2dIM1FLcUpxZGRZRkdSckd0SVduU3dZSnR2QzRqTFlOamNKTkHSAYICQVVfeXFMUFA0eWl5TmZlTXdMTElqWFhFTTZhQk81a1V2Z2pLUkIyVDNia0NKazAwYnNkb0w1eS1SRW9jZ21NVS1WQWwzcEtoNDBlcHBCbk5OOEpEOEtHZmpITWpyMWFBTmhkQlY0R1JEY2dPcTlueFE1Rng3NGpJa0JUVW9SZ2kwOTIyQ2ozSGRqT3lYdUp6ZThXLW9ZaUJ0a0g2RlpZMlpYc0pTb0RNNVZpc0lwcUtzTmpYZEZpbEQtYm9oY3NIbFRvTlRrTTU4RUdLR2dTLTI3QzUtUWRQVTFxdXFBaERoZU90SHRSVmxGUjVnWVZUY1NSQWtENUFBZ1I1cHJtemFB?oc=5",
+      "data": "12/10 13:49"
     },
     {
       "titulo": "Ex-Fluminense e Inter, atacante Walter é anunciado em novo clube aos 37 anos - NSC Total",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnJRTVk1LTRnWUNjaXRab0w0a3lnWEtVQTRUbHJhUVBFUVJmb3Y4WlA4bW5SUTAyX1VPYTlSMUNlSGM1MFlpWXBORzhiMnVaSEl2Q2JqNnBnaDUxMUJwY0VFWV9oVWdBWXUtejZaRDh6RXRjc1lYd1FnbXByX0ZPSTRlRUhkRU9OaWZYLW9ZWFFiaGhDWHZIdjMwdjlGNkIyNDVoWFA5QzFma1NkSGhTQ2FR?oc=5",
       "data": "13/10 12:10"
-    },
-    {
-      "titulo": "Fluminense e Cruzeiro duelam por vaga na semifinal do Brasileirão Sub-17 - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHg5X3duQ1FzV3pMOGhqOHZGc0Izd0RsZjV0bHgzMzA5RVFueHJOMEZ1MDhhSnJ0QzhKR1BqbnVpUDZuNlc5czVOUmtuZXRFMnVQNjJqTnB2TnNQWVpXWFdQUXBfNDVKRUZPZmJHTzBVRHctd0VOYkxOZ3dMNzBYQU9ERzhCQVBLNXNsNW9MTXgzeHZOVkpYczlPazFPVmVNNV9JVG9TdXhNMHpkbFR3?oc=5",
-      "data": "13/10 13:00"
-    },
-    {
-      "titulo": "Fluminense solta nota de repúdio com arbitragem do Fla-Flu e reclama de dois lances: 'Clássico manchado' - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUHBmMzJZSW1qc0x0R0Ytcl9KcGtoTTB3V0FJTjF1QmdlZUtXR0tiMDFWMVNXcjFsQlV3Z0wySWpkbng0bW5GRV82cDhFcXA0MWd1SHhSMHRRWkxFQ0V3c3V4V29oZTJfa0U1RFRqdzFrc1ZhczdkWFhjTTlCWkcyX0szdXlGOUE3SG0yTnAtOGZOaVQ2MUJqNTdjazhMd0NDSC0ya2VvNWlxYlQ5dFgza0xWNG5ycUJKd3A5NTBhOENhcW1YdWo0dXFkYjZ0VHJNVERWMzBaMC1PM1ZUZHdQUGdtdw?oc=5",
-      "data": "12/10 00:49"
     }
   ],
   "avisos": []
