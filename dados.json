@@ -1,108 +1,6 @@
 {
-  "atualizado_em": "14/10/2026 17:24",
+  "atualizado_em": "14/10/2026 20:36",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "15:00",
-      "competition": "Taça de Portugal",
-      "match": "Uniao Santarem x GIL Vicente",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Lincoln x West Ham",
-      "channels": [
-        "ESPN 4"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Manchester City x PSG",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Aston Villa x Fenerbahce",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Bodo/Glimt x Borussia Dortmund",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Roma x Real Madrid",
-      "channels": [
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Real Betis x FC Porto",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Shakhtar Donetsk x AEK Athens FC",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Slovan Bratislava x VfB Stuttgart",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x River Plate",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-14",
@@ -117,11 +15,11 @@
     {
       "sport": "futebol",
       "date": "2026-10-14",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Montreal Impact x Atlanta United FC",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x River Plate",
       "channels": [
-        "APPLE TV"
+        "DISNEY+"
       ]
     },
     {
@@ -161,6 +59,16 @@
       "time": "20:30",
       "competition": "MLS",
       "match": "Inter Miami x New York City FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Montreal Impact x Atlanta United FC",
       "channels": [
         "APPLE TV"
       ]
@@ -262,6 +170,16 @@
       "date": "2026-10-14",
       "time": "23:30",
       "competition": "MLS",
+      "match": "San Diego x Houston Dynamo",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "23:30",
+      "competition": "MLS",
       "match": "Los Angeles FC x Austin",
       "channels": [
         "APPLE TV"
@@ -273,16 +191,6 @@
       "time": "23:30",
       "competition": "MLS",
       "match": "Los Angeles Galaxy x Portland Timbers",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "San Diego x Houston Dynamo",
       "channels": [
         "APPLE TV"
       ]
@@ -328,6 +236,98 @@
       "match": "Preussen Munster x Fortuna Dusseldorf",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "15:00",
+      "competition": "Taça de Portugal",
+      "match": "Uniao Santarem x GIL Vicente",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Slovan Bratislava x VfB Stuttgart",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Shakhtar Donetsk x AEK Athens FC",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Real Betis x FC Porto",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Roma x Real Madrid",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Bodo/Glimt x Borussia Dortmund",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Aston Villa x Fenerbahce",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Manchester City x PSG",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Lincoln x West Ham",
+      "channels": [
+        "ESPN 4"
       ]
     },
     {
@@ -586,9 +586,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Marcão testa alternativas no meio e no ataque para jogo da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbU1FYXY5Vm5XUkwwODA3MEpjajlPUExUWTFVQU80ajZ1SWFtaFMtanJsaWY5SkVVLVF3aUQ3LTJBaHlRR0pQRHBtSVFSUnpNZEJ3TERxNXFzbjVoNS1XNElXaXNZMmhiOW5KdURqa040Z2tvUTNRRHk1ZC00WExxZVJjTkRnMlRyRE1Kdk5TWTd4VWJObDN5N1FUSjJ1U1d5NVdkd0NNemdLTDNXT092bXQ5N18ydEtvZWNfWDhDd0RkUmx1aGFRbE14ZENBbnJURmF6cTM0UnJGRHNabm5ScnhXRDVYSnpSTWw4UTktXzdpaDBEYjhtSHpR0gGIAkFVX3lxTE42R0RuOUdacElIU1RSbzVXeTZDMXRROWNjRzBGbkttRVJ6QTlNQjF5MGllNjVjQkhBYVJWS1c5aFBuUEZrV093cFJCemUzd2lseXJpaDZaclhjM3ZtcjZMdUtpMUJEcHR2N2txWTY3dUJJWmFBMUtkcW5HcU9ycWFpNGFtLVNOcC1iNXRDbDl6LVBxTldHNWJPV2lrdFlDQVo0UG91dmxLeklqRW96WFFkcVRRS20wOEZZaTFQVnU5WHZqbW5TbzYxdFNOV3ljT0hseV9fTXpna3pnX2lrbDNwU1UzZ1RPUm51UXhYZElmMS1VZnNGdlVWclhyZEd5ZjNwcmNKNjR5Uw?oc=5",
-      "data": "13/10 21:43"
+      "titulo": "Fluminense e Palmeiras duelam por vaga na final da Libertadores e alívio financeiro - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczhPbk5nQ1l1ZnhYc3JYdEpReHVnQjVRYUYzblpwakxJb1Bzc1RaNFJoRFRrcHl3S3J0QmNZTEVfQVdlOXJKeHpuZFViRHNKbmV3V09QYVpGOVhEVmptV2Q3cDZ4eE10Mm9tMmVUdU1LX0x0UGU4dWJyVWJsQjVlR0FoYTFnd0hXc3lOeGRhaEdGbFBzTGNIX0JoN2MwNW9CdnpkUDZaZUNMNTExc2ZhTWNlY282VHM3VGlTbGlJbTFYOTZ1U05teHl3?oc=5",
+      "data": "14/10 16:05"
     },
     {
       "titulo": "Antes do Corinthians, Seedorf teve conversas com o Fluminense para 2027; clube nega - ESPN Brasil",
@@ -596,19 +596,19 @@
       "data": "13/10 15:48"
     },
     {
-      "titulo": "Seedorf estava negociando com o Fluminense antes de fechar com o Corinthians - Tribuna de Jundiaí",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXlKYnVTZTNsSGMtZFlnQlk1MVNNdHBqZ0t1R3VEUkRoVzBTaUVLVHd5dmh1T0ZoaFN6clYyS1l5S2lSejZrdV9XVDhLZkpFUzk4Qm0wQm94QUVIaUpSX21Za1lhOW9Fb29PTGtpTzBwUUFaUXkxRzhCbWRrNGV3X3diOUVINUxFMElyb01QN1dUbzlZd3hGYnNvc29TdGtaR3dBMDg2U05MZ2pLOHpSVFdPdE5kaGNRSFJ1MmRtbWI?oc=5",
-      "data": "13/10 20:56"
-    },
-    {
-      "titulo": "Jornalista nega que Fluminense tenha procurado Seedorf; veja detalhes - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGxNZUMxVW1IUnNrc3JhSzdIOVY0VTFoMzN3UmF5Y0lZc2JnSmJHTDFBQUZxRjEtUFRnSWRiYVpDMndtTXZHQlU2Y25FcWZPR1BpU09ucjNSOUJXRkcxWENfVE94b24zNDZtV0RDWTZGQnNIam1keUotYnlydk1LLXV2T04tQzNJSzVMMTR0T1E0c0huTUtRM0lrbw?oc=5",
-      "data": "14/10 15:48"
-    },
-    {
       "titulo": "Flamengo x Fluminense: onde assistir, escalações e horário das quartas de final da Copa do Brasil Feminina - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTYydmpDeFl5TzUyTTRIS0hpZ194Sk93YkplXzdwTy1hU0I5LWpIMWF2ZDNja1JqVU1vY0h3ay1UbTJyczhRVmpEX2hZT0FhUWg0Qkl0T2p3dFFPTlUtTTFUS1o3VFVITkU3azRVekszYVdSOEx4UUdDZ3pJYTluN0dhcXRkX2JmUmFFV0xtSXdaNnAwNVVrNWZKaTRPR3AzYXg1MGNwcXIwRjdSLVg4RUVnQm9BWmt1eG8wa1BHZDNWNnBrYlhDX09PZENBQXRaNkFjOWU4WUlMQ0VtWTcxSThR?oc=5",
       "data": "14/10 19:35"
+    },
+    {
+      "titulo": "Futuro de Ganso, do Fluminense, “está em aberto”, diz jornalista - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTUc3d0RkdW4tV0hQd190eFRLbnN4NmI1a012M3BsaExBMTN0NEhWdWF4Q1ZzM2FDUElQZGgtT2lNcFBjYnotcWN1LXJMaENRVFpFTVRCZnpBNUkzNVQ0elVFYkY1Tk1JQWthV241TUFxWmtzRHFlVnVyQ2ZlaXFHbGxqc1U3N1Q0RTd1aVZSUQ?oc=5",
+      "data": "14/10 18:18"
+    },
+    {
+      "titulo": "Fluminense deixa Brasileirão Sub-17 nas quartas de final - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPejVSLS1kbi1kN0lKSkQ3ZTFRWHBWTjB5YkszNHZGWXdsOWRPWENXMlN1cjgwdm9SalRyd2NUem9BTTM0c2lyeGJXczlhX0RiUDBPcEdYSzdRVWRRUWxHS1l3OEtHQlVvcGdqVTZESldrLTE3djJZQXNTdkJfbHdnU2dFaHB0b1RJaFJQa0U5YnlQaHN5MTEyQ2ln?oc=5",
+      "data": "13/10 20:20"
     }
   ],
   "avisos": [
