@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/10/2026 02:44",
+  "atualizado_em": "14/10/2026 08:03",
   "jogos": [
     {
       "sport": "futebol",
@@ -333,6 +333,26 @@
     {
       "sport": "futebol",
       "date": "2026-10-15",
+      "time": "10:40",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Faisaly FC x Al Kholood",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Lyon x Crystal Palace",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
       "time": "13:45",
       "competition": "UEFA Europa League",
       "match": "AZ Alkmaar x Hapoel Beer Sheva",
@@ -413,16 +433,6 @@
     {
       "sport": "futebol",
       "date": "2026-10-15",
-      "time": "13:45",
-      "competition": "UEFA Europa League",
-      "match": "Lyon x Crystal Palace",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
       "time": "15:00",
       "competition": "Campeonato Saudita",
       "match": "Al-Ahli Jeddah x Al-Nassr",
@@ -438,6 +448,16 @@
       "time": "16:00",
       "competition": "UEFA Europa League",
       "match": "Bournemouth x Sturm Graz",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Marseille x Olympiakos Piraeus",
       "channels": [
         "CAZÉTV"
       ]
@@ -537,29 +557,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.2,
-      "temp_min": 22.3,
+      "temp_max": 28.3,
+      "temp_min": 22.7,
       "chance_chuva": 43,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.9,
+      "temp_max": 27.1,
       "temp_min": 22.0,
       "chance_chuva": 64,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.9,
-      "temp_min": 18.8,
+      "temp_max": 27.0,
+      "temp_min": 18.1,
       "chance_chuva": 91,
-      "condicao": "Trovoada"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.0,
-      "temp_min": 18.4,
+      "temp_max": 26.6,
+      "temp_min": 17.6,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -571,24 +591,24 @@
       "data": "13/10 21:43"
     },
     {
-      "titulo": "Fluminense tem provável escalação definida para enfrentar o Palmeiras pela Libertadores - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVpQRGtBSVFWMVYzd2lXOHZQREpRcy1oM3B3VGprN3p1MGpWSU5mdFhuLWVNRmZXRTNvX1JWZUxMdnJVaWpKbkNQejZZLXAwYVBtS3ltai1CdHEtNHY1ZXhiLU9LNGFvQTRRMzJZWWlCOVFramwyNGlGNzktZG9nY0xQZ2l0VlAtYVRHNlJnNm03dDlmWi1Bdk83WTE?oc=5",
-      "data": "14/10 01:41"
+      "titulo": "Antes do Corinthians, Seedorf teve conversas com o Fluminense para 2027; clube nega - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa1VRQVVJS0ROQkZibV8tLXU2ekdMRkFILTZoRE11Wi1QeVBsWXlKSVl1ajJ1bnlUOXpVakxhX3ZKdEVnMDRwb2FYQ3BHbkV5WDVGWWhzTENaQ2FmVTBrX0M5c1BHQkdPdzItVG5LQndDOXBxX2tBTmItY0lCSFBUam9vRE9aUVBkYUVBMFp1WklVNGFZc3lHelRnZVBrWU82a1hWZkc4V3loU00yR092Zmx1TTJxbms2aWFGeTE3UVZvRDFDRVFMY2h3V185dEFKWTF3?oc=5",
+      "data": "13/10 15:48"
     },
     {
-      "titulo": "Fluminense x Palmeiras - Onde assistir, horário e escalações! - Futebol Interior",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00bXB1YUNCUkJzaXdreWtJaW14ald1MzhvODJiNTdhTV9raHRPTG96dHk4WkxrSVdHWE9iVXhKd1A5YlZ5dU5HWkg4WldYLTR1ck4tTk80VnR2UW5xWk52SDF1SEw0T2pqT0R2SGJiczFERTM4N3BrS01sWUdzZ0U?oc=5",
-      "data": "14/10 01:06"
+      "titulo": "Seedorf estava negociando com o Fluminense antes de fechar com o Corinthians - Tribuna de Jundiaí",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXlKYnVTZTNsSGMtZFlnQlk1MVNNdHBqZ0t1R3VEUkRoVzBTaUVLVHd5dmh1T0ZoaFN6clYyS1l5S2lSejZrdV9XVDhLZkpFUzk4Qm0wQm94QUVIaUpSX21Za1lhOW9Fb29PTGtpTzBwUUFaUXkxRzhCbWRrNGV3X3diOUVINUxFMElyb01QN1dUbzlZd3hGYnNvc29TdGtaR3dBMDg2U05MZ2pLOHpSVFdPdE5kaGNRSFJ1MmRtbWI?oc=5",
+      "data": "13/10 20:56"
+    },
+    {
+      "titulo": "Fluminense tinha Seedorf como nome para 2027; clube reinicia busca por novo treinador - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMThwMEZqTGc1UHNIY3hUWTN6c0M1VDRmdmJsdkc0RkM3TUVxUWotdGgya1h2cmRTVTFrWnc4Qm9ic3UwLUxjY3FwNm1HekVLWVBqWUd5b3dmd0RkNlBUUV93Z3NBS0RCSmttRXZjcVlCSG0xczcxYk41ZUcxU2tXenlUQmZsNFlLendOMU5KR0djcmpQLW1fVnRUT2NtVWgzTWpoNXEyTFBPZ3kyR0RDRVdHVGpoYk5DN1hvQ2ZzY3B3VG9mdXZXaW9ubDh4UFlZRk03c0Z6ZElkd1libm40NGdJOTk1MmJTcF9GRXpISjB3ZkpJZVQzVmF4RU9vSkVlYl9rcjRn?oc=5",
+      "data": "13/10 19:17"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTZDalZPbmhGNVRlZmpndVdLMEtMVEZienpSX245VW1YeFlmSUNTM1JLazdRZ1F6QU5VbXJtMFNqVnNQdXEtSzBnNUdaLXB1azNUN2FYZ19icWZWRWh5b2dDRmZDeEdxX2NybExWdGxkV2kzS09DT2l5LWZtak8xdVVtbkpDWGRQOFVOR1h5ckM0VmlEWGRoSHRPbXMtcF9OSVM3U0tqcw?oc=5",
       "data": "12/10 12:56"
-    },
-    {
-      "titulo": "Cuca prepara duas novidades no Santos para encarar o Fluminense pelo Brasileirão - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uREl2T2Y3MWhmSTVyaV9HMm4tc1RsQ1JNUGZNMnVuMk13OF9VdkRQNUVQUm43QjZZVHdzUG92WDVnT0xxQUdhQV9PczJpZHBkNnFHeGpZZ0tKTjhud1FQdXQxMWNnbkVQdE0zZ0xYS0hBQQ?oc=5",
-      "data": "14/10 00:57"
     }
   ],
   "avisos": [
