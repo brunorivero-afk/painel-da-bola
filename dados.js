@@ -1,101 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/10/2026 17:01",
+  "atualizado_em": "13/10/2026 21:05",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Amistoso Feminino",
-      "match": "Haiti (F) x Austrália (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Viking x Bayern",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Galatasaray x Barcelona",
-      "channels": [
-        "SBT",
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Villarreal x Napoli",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Atletico Madrid x Manchester United",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Inter x Club Brugge KV",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "RB Leipzig x PSV Eindhoven",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Arsenal x Lille",
-      "channels": [
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Stoke City x Middlesbrough",
-      "channels": [
-        "NSPORTS"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-13",
@@ -121,22 +26,10 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-13",
-      "time": "18:00",
-      "competition": "Amistoso Feminino",
-      "match": "Venezuela (F) x Colômbia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
       "time": "19:30",
       "competition": "Brasileirão Série B",
       "match": "Athletic Club x Londrina",
       "channels": [
-        "ESPN",
         "ESPN 4",
         "DISNEY+"
       ]
@@ -283,6 +176,112 @@ window.PAINEL_DATA = {
       "match": "Rot-weiss Essen x Fortuna Koln",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Atletico Madrid x Manchester United",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Amistoso Feminino",
+      "match": "Haiti (F) x Austrália (F)",
+      "channels": [
+        "SPORTV",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Viking x Bayern",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Galatasaray x Barcelona",
+      "channels": [
+        "SBT",
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Villarreal x Napoli",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Inter x Club Brugge KV",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "RB Leipzig x PSV Eindhoven",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Arsenal x Lille",
+      "channels": [
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Stoke City x Middlesbrough",
+      "channels": [
+        "NSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-13",
+      "time": "18:00",
+      "competition": "Amistoso Feminino",
+      "match": "Venezuela (F) x Colômbia (F)",
+      "channels": [
+        "SPORTV",
+        "GE TV"
       ]
     },
     {
@@ -490,7 +489,6 @@ window.PAINEL_DATA = {
       "match": "Toronto FC x Orlando City SC",
       "channels": [
         "YOUTUBE",
-        "YOUTUBE",
         "APPLE TV"
       ]
     },
@@ -571,6 +569,8 @@ window.PAINEL_DATA = {
       "competition": "Copa Libertadores",
       "match": "Fluminense x Palmeiras",
       "channels": [
+        "GLOBO",
+        "GE TV",
         "PARAMOUNT+"
       ]
     },
@@ -638,58 +638,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.5,
+      "temp_max": 27.7,
       "temp_min": 22.1,
       "chance_chuva": 43,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.5,
+      "temp_max": 26.7,
       "temp_min": 21.8,
       "chance_chuva": 86,
-      "condicao": "Neblina"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.7,
+      "temp_max": 26.1,
       "temp_min": 18.0,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.7,
+      "temp_max": 25.5,
       "temp_min": 16.7,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Antes do Corinthians, Seedorf teve conversas com o Fluminense para 2027; clube nega - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa1VRQVVJS0ROQkZibV8tLXU2ekdMRkFILTZoRE11Wi1QeVBsWXlKSVl1ajJ1bnlUOXpVakxhX3ZKdEVnMDRwb2FYQ3BHbkV5WDVGWWhzTENaQ2FmVTBrX0M5c1BHQkdPdzItVG5LQndDOXBxX2tBTmItY0lCSFBUam9vRE9aUVBkYUVBMFp1WklVNGFZc3lHelRnZVBrWU82a1hWZkc4V3loU00yR092Zmx1TTJxbms2aWFGeTE3UVZvRDFDRVFMY2h3V185dEFKWTF3?oc=5",
+      "data": "13/10 15:48"
+    },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTZDalZPbmhGNVRlZmpndVdLMEtMVEZienpSX245VW1YeFlmSUNTM1JLazdRZ1F6QU5VbXJtMFNqVnNQdXEtSzBnNUdaLXB1azNUN2FYZ19icWZWRWh5b2dDRmZDeEdxX2NybExWdGxkV2kzS09DT2l5LWZtak8xdVVtbkpDWGRQOFVOR1h5ckM0VmlEWGRoSHRPbXMtcF9OSVM3U0tqcw?oc=5",
       "data": "12/10 12:56"
     },
     {
-      "titulo": "Antes do Corinthians, Seedorf tinha conversas com o Fluminense para 2027; veja bastidores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa1VRQVVJS0ROQkZibV8tLXU2ekdMRkFILTZoRE11Wi1QeVBsWXlKSVl1ajJ1bnlUOXpVakxhX3ZKdEVnMDRwb2FYQ3BHbkV5WDVGWWhzTENaQ2FmVTBrX0M5c1BHQkdPdzItVG5LQndDOXBxX2tBTmItY0lCSFBUam9vRE9aUVBkYUVBMFp1WklVNGFZc3lHelRnZVBrWU82a1hWZkc4V3loU00yR092Zmx1TTJxbms2aWFGeTE3UVZvRDFDRVFMY2h3V185dEFKWTF3?oc=5",
-      "data": "13/10 15:48"
+      "titulo": "Flamengo e Fluminense entram com ação no STJ contra Vasco x Boca Juniors no Maracanã - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEpRbnRERUJBRUhaN1FrUzE5Z2Q5NXF1ekkzdGZQYmwyRDI5VDRoUDg0bTZUUzBLMWJVS2thcXJZQV80Slp0eWQtakZ5Zl96RldUaU41SHp6b09KQWVsS0dUUXFzM1BqTEhuX2xac2FCSTRjMXlhalBNQ1JKWEg0U3JnTEYyTy1IREV2M3ltOUJqbDhjWVU2ekh2NUhrN1VqbnFZam9oX1dVWTVValNhVzBNWGduZlpDTF9JSXd4d3Etd1ZzWlkweFlLcWxBcW1kU3RERjdZbFhMd3FEN09sd3o0Q0hRQVBl0gH3AUFVX3lxTE1aSVMxZFlwNlVkYXZ2R2dzblZKekIwSmRRTUxUREMtZzgtZjlKX0V5cjlLYVBZLTBISGEyakI2VlQxUGFBRWxIMHpTNmxPb2lpZm9GbmNvelpubFNTV3JjS3lkbWxVV2o4OWFJLU5CTUFUeks1Q0o5Rkc0MGFnSWR2cTlhS2tJVjQtSTlXZ1J1Y2JCa1NjX0R5ek00V1VyUzJ0cHJjUWNqZngwZHp6NEZiWFp4R2VCNS1qVDlnUWxtWXo3OG96SEJCeThMdnNaX2NmdVBXLUJ4MDEzOWZ2dnl5Rlg2b3pNT3B1SFdEaDJEellMZ0puRWs?oc=5",
+      "data": "13/10 22:54"
     },
     {
-      "titulo": "Em busca do bi da Liberta, Marcão se declara ao Fluminense: \"Trabalho no clube que amo e ganho um bom salário\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOOTFXSVZUVDBLRlozYjVnRm5wdE90eUcxRGJoRFc4UWh5ZDIzOHdFLWhZTTJzVmxxek8xWDRBcmFWQXA5QWc0RG1oMm5ZNGEwUVZoRlRWdHRCMDJneU9GaFVqdlV2RzR5WVNHdGpULTg4ZHJJZTc5Rm8ybndPcmp4UWk0R2YyVDhoaC1ZMmJiaTR5Q213TmF4cktzdHQ5V3dQYkRwUlNzdW1oRjBkNEpsODRQa2MyaEg0YXN2SWNPSV96aGJseDE1dEw0eloyb3BNVThkZHFPd3ZDXzFZQVd3WVR0TmxJS3oySTdpYWlMbnVKQTFiNE42YVBZY3Y1RUxtSm5CNGxWLWPSAZcCQVVfeXFMT1hDOTVKalZaOFpGdUtYRnVEYm04RWNVNW5aanA5eDJLUjduZ29GLXIyNDY5RkJnMkg3dllfbWw4T1AzNld0TTNWaGQ2SXZBUjczQkNuVzFoT3g0OFUyaS1qYWY5SGR0azkyRXZNTlBIZWU5Y2s1VE5RcVdKYl9ZdWY1LXNRLTV5bkx5R3pVRHp1RkpXbWxZVE40Qm4yTkdPTlp4Z2tpaVJvRl82S1JxMjRyb3JaT1RHdTRkZU5faVdVbVJKN1I2MWZMbk9OYlBnYXJWakNOUVg2MEtIRVlNdjhOTl9TZDlBT0RicDZwcFJWVWpaQlRVdlAzUTJsb29NbXIxYmRtWU50ejRjS0VKODRmd245NzFN?oc=5",
-      "data": "13/10 16:32"
+      "titulo": "Liverpool quer cria do São Paulo com multa de 100 milhões de euros; Fluminense assina com meia - www.jornalcruzeiro.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZW5nOXFaQlNCYTVBaXdDR19QbzVLaHh6UEJIb3lXS2pfOXZ2SU1KS01ROUdFOEV5eDhDbnZYUnlxT05sV2dId0JvdW0wOENPdmwxYWliT044U1R0SEJ2WjVFeUVMZFBvem5fMzBGM2lGMmFQMVItdDVFLW14Ylo0VFdaVW9DRDNGZTFsOWcwb2xFendEVkQ2cFg2dDVfQmdfSXNMVEpsWW1GS3UwVEs0YnJtLXU4aTRWM3ExV2Vvckc3MnVSdzllV0ctZjZ0cEUtZGM4RFo0R0RQZWVlSTNlb2U0X1UzM0EtaFljOFNSLTUybXFV?oc=5",
+      "data": "13/10 20:59"
     },
     {
-      "titulo": "Irritação com arbitragem toma conta do vestiário do Fluminense após clássico; veja detalhes - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUVVhQ3VfYWtkdXFBbkd4ZTdCUFB3eGVrUlp4X3VkUkdGOExMWllLTUFfTW54OEJTTzRjRXpNRGlteXlWUzFwTlEzVkNpamE0cUk0cGZLLUFmTkNDMDZaMHNWRHRmaHVCQV9YWUJWaDZDWFZzLUw1MmRCNXBEemN2TnFCN2dYWWVXOXZmNHJRTEtiMmRwWjBqbjdwMDllWVk3cVFTYVlIVkh0Mm1VeFdod1puLXB4eHNEckd1MUl5c0gwUXItZ1B6U2VvMWQ2T2dIM1FLcUpxZGRZRkdSckd0SVduU3dZSnR2QzRqTFlOamNKTkHSAYICQVVfeXFMUFA0eWl5TmZlTXdMTElqWFhFTTZhQk81a1V2Z2pLUkIyVDNia0NKazAwYnNkb0w1eS1SRW9jZ21NVS1WQWwzcEtoNDBlcHBCbk5OOEpEOEtHZmpITWpyMWFBTmhkQlY0R1JEY2dPcTlueFE1Rng3NGpJa0JUVW9SZ2kwOTIyQ2ozSGRqT3lYdUp6ZThXLW9ZaUJ0a0g2RlpZMlpYc0pTb0RNNVZpc0lwcUtzTmpYZEZpbEQtYm9oY3NIbFRvTlRrTTU4RUdLR2dTLTI3QzUtUWRQVTFxdXFBaERoZU90SHRSVmxGUjVnWVZUY1NSQWtENUFBZ1I1cHJtemFB?oc=5",
-      "data": "12/10 13:49"
-    },
-    {
-      "titulo": "Ex-Fluminense e Inter, atacante Walter é anunciado em novo clube aos 37 anos - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdnJRTVk1LTRnWUNjaXRab0w0a3lnWEtVQTRUbHJhUVBFUVJmb3Y4WlA4bW5SUTAyX1VPYTlSMUNlSGM1MFlpWXBORzhiMnVaSEl2Q2JqNnBnaDUxMUJwY0VFWV9oVWdBWXUtejZaRDh6RXRjc1lYd1FnbXByX0ZPSTRlRUhkRU9OaWZYLW9ZWFFiaGhDWHZIdjMwdjlGNkIyNDVoWFA5QzFma1NkSGhTQ2FR?oc=5",
-      "data": "13/10 12:10"
+      "titulo": "Ex-Fluminense, Walter acerta com novo clube do futebol brasileiro - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVcwLUE2QmYzTm5hRU1iTUx6cEkxOTNyb0pRVHc3czF2MDdkTDdyczh0cjhrNnliTGp6dVRjcXRQcUVrakRjQkNzSHZINmpWb2RLMEF6TVF1aFdLaGxBVVBONXpSVGJ2SWZicFdxMGh0WS1ESTIxeEhzeVp4bWRNcFZnYWs5bFFYR3h6ZUF1WnZBdGxxdEE?oc=5",
+      "data": "13/10 22:25"
     }
   ],
   "avisos": []
