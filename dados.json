@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/10/2026 08:03",
+  "atualizado_em": "14/10/2026 13:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -557,38 +557,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.3,
-      "temp_min": 22.7,
+      "temp_max": 29.5,
+      "temp_min": 23.1,
       "chance_chuva": 43,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 27.1,
-      "temp_min": 22.0,
-      "chance_chuva": 64,
       "condicao": "Garoa fraca"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 27.4,
+      "temp_min": 22.0,
+      "chance_chuva": 64,
+      "condicao": "Nublado"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.0,
-      "temp_min": 18.1,
+      "temp_max": 27.4,
+      "temp_min": 18.2,
       "chance_chuva": 91,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.6,
-      "temp_min": 17.6,
+      "temp_max": 26.7,
+      "temp_min": 17.8,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: Marcão testa alternativas no meio e no ataque para jogo da Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbU1FYXY5Vm5XUkwwODA3MEpjajlPUExUWTFVQU80ajZ1SWFtaFMtanJsaWY5SkVVLVF3aUQ3LTJBaHlRR0pQRHBtSVFSUnpNZEJ3TERxNXFzbjVoNS1XNElXaXNZMmhiOW5KdURqa040Z2tvUTNRRHk1ZC00WExxZVJjTkRnMlRyRE1Kdk5TWTd4VWJObDN5N1FUSjJ1U1d5NVdkd0NNemdLTDNXT092bXQ5N18ydEtvZWNfWDhDd0RkUmx1aGFRbE14ZENBbnJURmF6cTM0UnJGRHNabm5ScnhXRDVYSnpSTWw4UTktXzdpaDBEYjhtSHpR0gGIAkFVX3lxTE42R0RuOUdacElIU1RSbzVXeTZDMXRROWNjRzBGbkttRVJ6QTlNQjF5MGllNjVjQkhBYVJWS1c5aFBuUEZrV093cFJCemUzd2lseXJpaDZaclhjM3ZtcjZMdUtpMUJEcHR2N2txWTY3dUJJWmFBMUtkcW5HcU9ycWFpNGFtLVNOcC1iNXRDbDl6LVBxTldHNWJPV2lrdFlDQVo0UG91dmxLeklqRW96WFFkcVRRS20wOEZZaTFQVnU5WHZqbW5TbzYxdFNOV3ljT0hseV9fTXpna3pnX2lrbDNwU1UzZ1RPUm51UXhYZElmMS1VZnNGdlVWclhyZEd5ZjNwcmNKNjR5Uw?oc=5",
-      "data": "13/10 21:43"
+      "titulo": "Fluminense e Palmeiras duelam por vaga na final da Libertadores e alívio financeiro - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczhPbk5nQ1l1ZnhYc3JYdEpReHVnQjVRYUYzblpwakxJb1Bzc1RaNFJoRFRrcHl3S3J0QmNZTEVfQVdlOXJKeHpuZFViRHNKbmV3V09QYVpGOVhEVmptV2Q3cDZ4eE10Mm9tMmVUdU1LX0x0UGU4dWJyVWJsQjVlR0FoYTFnd0hXc3lOeGRhaEdGbFBzTGNIX0JoN2MwNW9CdnpkUDZaZUNMNTExc2ZhTWNlY282VHM3VGlTbGlJbTFYOTZ1U05teHl3?oc=5",
+      "data": "14/10 16:05"
     },
     {
       "titulo": "Antes do Corinthians, Seedorf teve conversas com o Fluminense para 2027; clube nega - ESPN Brasil",
@@ -596,19 +596,19 @@
       "data": "13/10 15:48"
     },
     {
+      "titulo": "Jornalista nega que Fluminense tenha procurado Seedorf; veja detalhes - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGxNZUMxVW1IUnNrc3JhSzdIOVY0VTFoMzN3UmF5Y0lZc2JnSmJHTDFBQUZxRjEtUFRnSWRiYVpDMndtTXZHQlU2Y25FcWZPR1BpU09ucjNSOUJXRkcxWENfVE94b24zNDZtV0RDWTZGQnNIam1keUotYnlydk1LLXV2T04tQzNJSzVMMTR0T1E0c0huTUtRM0lrbw?oc=5",
+      "data": "14/10 12:01"
+    },
+    {
       "titulo": "Seedorf estava negociando com o Fluminense antes de fechar com o Corinthians - Tribuna de Jundiaí",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXlKYnVTZTNsSGMtZFlnQlk1MVNNdHBqZ0t1R3VEUkRoVzBTaUVLVHd5dmh1T0ZoaFN6clYyS1l5S2lSejZrdV9XVDhLZkpFUzk4Qm0wQm94QUVIaUpSX21Za1lhOW9Fb29PTGtpTzBwUUFaUXkxRzhCbWRrNGV3X3diOUVINUxFMElyb01QN1dUbzlZd3hGYnNvc29TdGtaR3dBMDg2U05MZ2pLOHpSVFdPdE5kaGNRSFJ1MmRtbWI?oc=5",
       "data": "13/10 20:56"
     },
     {
-      "titulo": "Fluminense tinha Seedorf como nome para 2027; clube reinicia busca por novo treinador - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQMThwMEZqTGc1UHNIY3hUWTN6c0M1VDRmdmJsdkc0RkM3TUVxUWotdGgya1h2cmRTVTFrWnc4Qm9ic3UwLUxjY3FwNm1HekVLWVBqWUd5b3dmd0RkNlBUUV93Z3NBS0RCSmttRXZjcVlCSG0xczcxYk41ZUcxU2tXenlUQmZsNFlLendOMU5KR0djcmpQLW1fVnRUT2NtVWgzTWpoNXEyTFBPZ3kyR0RDRVdHVGpoYk5DN1hvQ2ZzY3B3VG9mdXZXaW9ubDh4UFlZRk03c0Z6ZElkd1libm40NGdJOTk1MmJTcF9GRXpISjB3ZkpJZVQzVmF4RU9vSkVlYl9rcjRn?oc=5",
-      "data": "13/10 19:17"
-    },
-    {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTZDalZPbmhGNVRlZmpndVdLMEtMVEZienpSX245VW1YeFlmSUNTM1JLazdRZ1F6QU5VbXJtMFNqVnNQdXEtSzBnNUdaLXB1azNUN2FYZ19icWZWRWh5b2dDRmZDeEdxX2NybExWdGxkV2kzS09DT2l5LWZtak8xdVVtbkpDWGRQOFVOR1h5ckM0VmlEWGRoSHRPbXMtcF9OSVM3U0tqcw?oc=5",
-      "data": "12/10 12:56"
+      "titulo": "Fluminense assina primeiro contrato profissional com joia de Xerém campeã pela Seleção Brasileira - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG93Z1FNX1BJZkRfVWR5eG1RRXRVdjU1a0RFOG5xOU9Fc29kZzFReXBpN3FRS0NBY3NqSWxmOERqRFRsa3I2ejM0VHRfT3NzT1Vua241OW9IUWhSaUVpRlFzOG1Mb2dHMExLVnVDa2g4azQzdkhybVJ4QS1zTXp1T0FucER5eV9pV21ISjRVcUxJNUlUM1dnR1o0UUNSd0dlcUVKWFBndUFIZmNUOGJRUHVpck9jWlBTNFRJbGtkODJpdw?oc=5",
+      "data": "14/10 12:31"
     }
   ],
   "avisos": [
