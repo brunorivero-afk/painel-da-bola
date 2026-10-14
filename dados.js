@@ -1,49 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/10/2026 13:23",
+  "atualizado_em": "14/10/2026 17:24",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Lask Linz x Liverpool",
-      "channels": [
-        "TNT",
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Feyenoord x como",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Preussen Munster x Fortuna Dusseldorf",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC Viktoria Koln x SG Sonnenhof Grossaspach",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-14",
@@ -58,11 +15,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-14",
       "time": "16:00",
-      "competition": "Champions League",
-      "match": "Roma x Real Madrid",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Lincoln x West Ham",
       "channels": [
-        "TNT",
-        "HBO MAX"
+        "ESPN 4"
       ]
     },
     {
@@ -70,37 +26,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-14",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Slovan Bratislava x VfB Stuttgart",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Shakhtar Donetsk x AEK Athens FC",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Real Betis x FC Porto",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Bodo/Glimt x Borussia Dortmund",
+      "match": "Manchester City x PSG",
       "channels": [
         "HBO MAX"
       ]
@@ -121,7 +47,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-14",
       "time": "16:00",
       "competition": "Champions League",
-      "match": "Manchester City x PSG",
+      "match": "Bodo/Glimt x Borussia Dortmund",
       "channels": [
         "HBO MAX"
       ]
@@ -130,10 +56,41 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-14",
       "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Lincoln x West Ham",
+      "competition": "Champions League",
+      "match": "Roma x Real Madrid",
       "channels": [
-        "ESPN 4"
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Real Betis x FC Porto",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Shakhtar Donetsk x AEK Athens FC",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Slovan Bratislava x VfB Stuttgart",
+      "channels": [
+        "HBO MAX"
       ]
     },
     {
@@ -155,26 +112,6 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Columbus Crew x Charlotte",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-14",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "DC United x New York Red Bulls",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -213,7 +150,27 @@ window.PAINEL_DATA = {
       "date": "2026-10-14",
       "time": "20:30",
       "competition": "MLS",
+      "match": "Columbus Crew x Charlotte",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "20:30",
+      "competition": "MLS",
       "match": "Inter Miami x New York City FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "DC United x New York Red Bulls",
       "channels": [
         "APPLE TV"
       ]
@@ -328,6 +285,49 @@ window.PAINEL_DATA = {
       "match": "San Diego x Houston Dynamo",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Lask Linz x Liverpool",
+      "channels": [
+        "TNT",
+        "YOUTUBE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Feyenoord x como",
+      "channels": [
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC Viktoria Koln x SG Sonnenhof Grossaspach",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-14",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Preussen Munster x Fortuna Dusseldorf",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -557,38 +557,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.5,
+      "temp_max": 29.2,
       "temp_min": 23.1,
-      "chance_chuva": 43,
+      "chance_chuva": 37,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.4,
+      "temp_max": 27.7,
       "temp_min": 22.0,
-      "chance_chuva": 64,
+      "chance_chuva": 55,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.4,
+      "temp_max": 26.5,
       "temp_min": 18.2,
-      "chance_chuva": 91,
+      "chance_chuva": 75,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.7,
+      "temp_max": 25.8,
       "temp_min": 17.8,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 88,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense e Palmeiras duelam por vaga na final da Libertadores e alívio financeiro - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOczhPbk5nQ1l1ZnhYc3JYdEpReHVnQjVRYUYzblpwakxJb1Bzc1RaNFJoRFRrcHl3S3J0QmNZTEVfQVdlOXJKeHpuZFViRHNKbmV3V09QYVpGOVhEVmptV2Q3cDZ4eE10Mm9tMmVUdU1LX0x0UGU4dWJyVWJsQjVlR0FoYTFnd0hXc3lOeGRhaEdGbFBzTGNIX0JoN2MwNW9CdnpkUDZaZUNMNTExc2ZhTWNlY282VHM3VGlTbGlJbTFYOTZ1U05teHl3?oc=5",
-      "data": "14/10 16:05"
+      "titulo": "Escalação do Fluminense: Marcão testa alternativas no meio e no ataque para jogo da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbU1FYXY5Vm5XUkwwODA3MEpjajlPUExUWTFVQU80ajZ1SWFtaFMtanJsaWY5SkVVLVF3aUQ3LTJBaHlRR0pQRHBtSVFSUnpNZEJ3TERxNXFzbjVoNS1XNElXaXNZMmhiOW5KdURqa040Z2tvUTNRRHk1ZC00WExxZVJjTkRnMlRyRE1Kdk5TWTd4VWJObDN5N1FUSjJ1U1d5NVdkd0NNemdLTDNXT092bXQ5N18ydEtvZWNfWDhDd0RkUmx1aGFRbE14ZENBbnJURmF6cTM0UnJGRHNabm5ScnhXRDVYSnpSTWw4UTktXzdpaDBEYjhtSHpR0gGIAkFVX3lxTE42R0RuOUdacElIU1RSbzVXeTZDMXRROWNjRzBGbkttRVJ6QTlNQjF5MGllNjVjQkhBYVJWS1c5aFBuUEZrV093cFJCemUzd2lseXJpaDZaclhjM3ZtcjZMdUtpMUJEcHR2N2txWTY3dUJJWmFBMUtkcW5HcU9ycWFpNGFtLVNOcC1iNXRDbDl6LVBxTldHNWJPV2lrdFlDQVo0UG91dmxLeklqRW96WFFkcVRRS20wOEZZaTFQVnU5WHZqbW5TbzYxdFNOV3ljT0hseV9fTXpna3pnX2lrbDNwU1UzZ1RPUm51UXhYZElmMS1VZnNGdlVWclhyZEd5ZjNwcmNKNjR5Uw?oc=5",
+      "data": "13/10 21:43"
     },
     {
       "titulo": "Antes do Corinthians, Seedorf teve conversas com o Fluminense para 2027; clube nega - ESPN Brasil",
@@ -596,19 +596,19 @@ window.PAINEL_DATA = {
       "data": "13/10 15:48"
     },
     {
-      "titulo": "Jornalista nega que Fluminense tenha procurado Seedorf; veja detalhes - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGxNZUMxVW1IUnNrc3JhSzdIOVY0VTFoMzN3UmF5Y0lZc2JnSmJHTDFBQUZxRjEtUFRnSWRiYVpDMndtTXZHQlU2Y25FcWZPR1BpU09ucjNSOUJXRkcxWENfVE94b24zNDZtV0RDWTZGQnNIam1keUotYnlydk1LLXV2T04tQzNJSzVMMTR0T1E0c0huTUtRM0lrbw?oc=5",
-      "data": "14/10 12:01"
-    },
-    {
       "titulo": "Seedorf estava negociando com o Fluminense antes de fechar com o Corinthians - Tribuna de Jundiaí",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXlKYnVTZTNsSGMtZFlnQlk1MVNNdHBqZ0t1R3VEUkRoVzBTaUVLVHd5dmh1T0ZoaFN6clYyS1l5S2lSejZrdV9XVDhLZkpFUzk4Qm0wQm94QUVIaUpSX21Za1lhOW9Fb29PTGtpTzBwUUFaUXkxRzhCbWRrNGV3X3diOUVINUxFMElyb01QN1dUbzlZd3hGYnNvc29TdGtaR3dBMDg2U05MZ2pLOHpSVFdPdE5kaGNRSFJ1MmRtbWI?oc=5",
       "data": "13/10 20:56"
     },
     {
-      "titulo": "Fluminense assina primeiro contrato profissional com joia de Xerém campeã pela Seleção Brasileira - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOG93Z1FNX1BJZkRfVWR5eG1RRXRVdjU1a0RFOG5xOU9Fc29kZzFReXBpN3FRS0NBY3NqSWxmOERqRFRsa3I2ejM0VHRfT3NzT1Vua241OW9IUWhSaUVpRlFzOG1Mb2dHMExLVnVDa2g4azQzdkhybVJ4QS1zTXp1T0FucER5eV9pV21ISjRVcUxJNUlUM1dnR1o0UUNSd0dlcUVKWFBndUFIZmNUOGJRUHVpck9jWlBTNFRJbGtkODJpdw?oc=5",
-      "data": "14/10 12:31"
+      "titulo": "Jornalista nega que Fluminense tenha procurado Seedorf; veja detalhes - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGxNZUMxVW1IUnNrc3JhSzdIOVY0VTFoMzN3UmF5Y0lZc2JnSmJHTDFBQUZxRjEtUFRnSWRiYVpDMndtTXZHQlU2Y25FcWZPR1BpU09ucjNSOUJXRkcxWENfVE94b24zNDZtV0RDWTZGQnNIam1keUotYnlydk1LLXV2T04tQzNJSzVMMTR0T1E0c0huTUtRM0lrbw?oc=5",
+      "data": "14/10 15:48"
+    },
+    {
+      "titulo": "Flamengo x Fluminense: onde assistir, escalações e horário das quartas de final da Copa do Brasil Feminina - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLTYydmpDeFl5TzUyTTRIS0hpZ194Sk93YkplXzdwTy1hU0I5LWpIMWF2ZDNja1JqVU1vY0h3ay1UbTJyczhRVmpEX2hZT0FhUWg0Qkl0T2p3dFFPTlUtTTFUS1o3VFVITkU3azRVekszYVdSOEx4UUdDZ3pJYTluN0dhcXRkX2JmUmFFV0xtSXdaNnAwNVVrNWZKaTRPR3AzYXg1MGNwcXIwRjdSLVg4RUVnQm9BWmt1eG8wa1BHZDNWNnBrYlhDX09PZENBQXRaNkFjOWU4WUlMQ0VtWTcxSThR?oc=5",
+      "data": "14/10 19:35"
     }
   ],
   "avisos": [
