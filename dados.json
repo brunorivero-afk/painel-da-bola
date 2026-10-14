@@ -1,300 +1,6 @@
 {
-  "atualizado_em": "13/10/2026 21:05",
+  "atualizado_em": "14/10/2026 02:44",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "17:00",
-      "competition": "Amistoso Feminino",
-      "match": "Mexico (F) x Jamaica (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "17:00",
-      "competition": "Amistoso Feminino",
-      "match": "Chile (F) x Bolivia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Athletic Club x Londrina",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "20:00",
-      "competition": "Amistoso Feminino",
-      "match": "Estados Unidos (F) x Espanha (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "20:30",
-      "competition": "Amistoso Feminino",
-      "match": "Brasil (F) x Argentina (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "21:00",
-      "competition": "Caribbean Cup",
-      "match": "Portmore United x Violette AC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "21:30",
-      "competition": "Copa Sul-Americana",
-      "match": "Boca Juniors x Vasco",
-      "channels": [
-        "SBT",
-        "YOUTUBE",
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "10:00",
-      "competition": "Amistoso Feminino",
-      "match": "Jordan (F) x Indonesia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "12:45",
-      "competition": "Amistoso Feminino",
-      "match": "Alemanha (F) x Japão (F)",
-      "channels": [
-        "ESPN 3",
-        "SPORTV",
-        "GE TV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:00",
-      "competition": "Amistoso Feminino",
-      "match": "Malaysia (F) x Saudi Arabia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:00",
-      "competition": "Amistoso Feminino",
-      "match": "Peru (F) x Filipinas (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Sabah FA x Slavia Praha",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "13:45",
-      "competition": "Champions League",
-      "match": "Lens x Sporting CP",
-      "channels": [
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "14:00",
-      "competition": "Amistoso Feminino",
-      "match": "Luxemburgo (F) x Montenegro (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC Saarbrücken x MSV Duisburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Rot-weiss Essen x Fortuna Koln",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Atletico Madrid x Manchester United",
-      "channels": [
-        "SPACE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Amistoso Feminino",
-      "match": "Haiti (F) x Austrália (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Viking x Bayern",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Galatasaray x Barcelona",
-      "channels": [
-        "SBT",
-        "TNT",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Villarreal x Napoli",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Inter x Club Brugge KV",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "RB Leipzig x PSV Eindhoven",
-      "channels": [
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Champions League",
-      "match": "Arsenal x Lille",
-      "channels": [
-        "YOUTUBE",
-        "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Stoke City x Middlesbrough",
-      "channels": [
-        "NSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "18:00",
-      "competition": "Amistoso Feminino",
-      "match": "Venezuela (F) x Colômbia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-13",
-      "time": "21:30",
-      "competition": "Amistoso Feminino",
-      "match": "Panamá (F) x Nova Zelândia (F)",
-      "channels": [
-        "SPORTV",
-        "GE TV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-14",
@@ -625,6 +331,199 @@
       ]
     },
     {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "AZ Alkmaar x Hapoel Beer Sheva",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Lech Poznan x Bayer Leverkusen",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Red Bull Salzburg x AC Milan",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Sparta Praha x Lillestrom",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Union St. Gilloise x Real Sociedad",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Celje x Omonia Nicosia",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Torreense x Sunderland",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "CSKA Sofia x Monaco",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Lyon x Crystal Palace",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ahli Jeddah x Al-Nassr",
+      "channels": [
+        "XSPORTS",
+        "BANDSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Bournemouth x Sturm Graz",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "1899 Hoffenheim x Besiktas",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Benfica x Celtic",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Jagiellonia x Ararat-Armenia",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "NEC Nijmegen x Levski Sofia",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Celta Vigo x Juventus",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Dinamo Zagreb x Anderlecht",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Ferencvarosi TC x Plzen",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Estudiantes x Flamengo",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
       "sport": "volei",
       "date": "2026-10-13",
       "time": "21:00",
@@ -638,38 +537,48 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.7,
-      "temp_min": 22.1,
+      "temp_max": 27.2,
+      "temp_min": 22.3,
       "chance_chuva": 43,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 26.7,
-      "temp_min": 21.8,
-      "chance_chuva": 86,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.1,
-      "temp_min": 18.0,
-      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 26.9,
+      "temp_min": 22.0,
+      "chance_chuva": 64,
+      "condicao": "Garoa fraca"
+    },
+    {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 27.9,
+      "temp_min": 18.8,
+      "chance_chuva": 91,
+      "condicao": "Trovoada"
+    },
+    {
       "cidade": "Teresópolis",
-      "temp_max": 25.5,
-      "temp_min": 16.7,
+      "temp_max": 27.0,
+      "temp_min": 18.4,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Antes do Corinthians, Seedorf teve conversas com o Fluminense para 2027; clube nega - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa1VRQVVJS0ROQkZibV8tLXU2ekdMRkFILTZoRE11Wi1QeVBsWXlKSVl1ajJ1bnlUOXpVakxhX3ZKdEVnMDRwb2FYQ3BHbkV5WDVGWWhzTENaQ2FmVTBrX0M5c1BHQkdPdzItVG5LQndDOXBxX2tBTmItY0lCSFBUam9vRE9aUVBkYUVBMFp1WklVNGFZc3lHelRnZVBrWU82a1hWZkc4V3loU00yR092Zmx1TTJxbms2aWFGeTE3UVZvRDFDRVFMY2h3V185dEFKWTF3?oc=5",
-      "data": "13/10 15:48"
+      "titulo": "Escalação do Fluminense: Marcão testa alternativas no meio e no ataque para jogo da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbU1FYXY5Vm5XUkwwODA3MEpjajlPUExUWTFVQU80ajZ1SWFtaFMtanJsaWY5SkVVLVF3aUQ3LTJBaHlRR0pQRHBtSVFSUnpNZEJ3TERxNXFzbjVoNS1XNElXaXNZMmhiOW5KdURqa040Z2tvUTNRRHk1ZC00WExxZVJjTkRnMlRyRE1Kdk5TWTd4VWJObDN5N1FUSjJ1U1d5NVdkd0NNemdLTDNXT092bXQ5N18ydEtvZWNfWDhDd0RkUmx1aGFRbE14ZENBbnJURmF6cTM0UnJGRHNabm5ScnhXRDVYSnpSTWw4UTktXzdpaDBEYjhtSHpR0gGIAkFVX3lxTE42R0RuOUdacElIU1RSbzVXeTZDMXRROWNjRzBGbkttRVJ6QTlNQjF5MGllNjVjQkhBYVJWS1c5aFBuUEZrV093cFJCemUzd2lseXJpaDZaclhjM3ZtcjZMdUtpMUJEcHR2N2txWTY3dUJJWmFBMUtkcW5HcU9ycWFpNGFtLVNOcC1iNXRDbDl6LVBxTldHNWJPV2lrdFlDQVo0UG91dmxLeklqRW96WFFkcVRRS20wOEZZaTFQVnU5WHZqbW5TbzYxdFNOV3ljT0hseV9fTXpna3pnX2lrbDNwU1UzZ1RPUm51UXhYZElmMS1VZnNGdlVWclhyZEd5ZjNwcmNKNjR5Uw?oc=5",
+      "data": "13/10 21:43"
+    },
+    {
+      "titulo": "Fluminense tem provável escalação definida para enfrentar o Palmeiras pela Libertadores - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVpQRGtBSVFWMVYzd2lXOHZQREpRcy1oM3B3VGprN3p1MGpWSU5mdFhuLWVNRmZXRTNvX1JWZUxMdnJVaWpKbkNQejZZLXAwYVBtS3ltai1CdHEtNHY1ZXhiLU9LNGFvQTRRMzJZWWlCOVFramwyNGlGNzktZG9nY0xQZ2l0VlAtYVRHNlJnNm03dDlmWi1Bdk83WTE?oc=5",
+      "data": "14/10 01:41"
+    },
+    {
+      "titulo": "Fluminense x Palmeiras - Onde assistir, horário e escalações! - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00bXB1YUNCUkJzaXdreWtJaW14ald1MzhvODJiNTdhTV9raHRPTG96dHk4WkxrSVdHWE9iVXhKd1A5YlZ5dU5HWkg4WldYLTR1ck4tTk80VnR2UW5xWk52SDF1SEw0T2pqT0R2SGJiczFERTM4N3BrS01sWUdzZ0U?oc=5",
+      "data": "14/10 01:06"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
@@ -677,20 +586,12 @@
       "data": "12/10 12:56"
     },
     {
-      "titulo": "Flamengo e Fluminense entram com ação no STJ contra Vasco x Boca Juniors no Maracanã - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEpRbnRERUJBRUhaN1FrUzE5Z2Q5NXF1ekkzdGZQYmwyRDI5VDRoUDg0bTZUUzBLMWJVS2thcXJZQV80Slp0eWQtakZ5Zl96RldUaU41SHp6b09KQWVsS0dUUXFzM1BqTEhuX2xac2FCSTRjMXlhalBNQ1JKWEg0U3JnTEYyTy1IREV2M3ltOUJqbDhjWVU2ekh2NUhrN1VqbnFZam9oX1dVWTVValNhVzBNWGduZlpDTF9JSXd4d3Etd1ZzWlkweFlLcWxBcW1kU3RERjdZbFhMd3FEN09sd3o0Q0hRQVBl0gH3AUFVX3lxTE1aSVMxZFlwNlVkYXZ2R2dzblZKekIwSmRRTUxUREMtZzgtZjlKX0V5cjlLYVBZLTBISGEyakI2VlQxUGFBRWxIMHpTNmxPb2lpZm9GbmNvelpubFNTV3JjS3lkbWxVV2o4OWFJLU5CTUFUeks1Q0o5Rkc0MGFnSWR2cTlhS2tJVjQtSTlXZ1J1Y2JCa1NjX0R5ek00V1VyUzJ0cHJjUWNqZngwZHp6NEZiWFp4R2VCNS1qVDlnUWxtWXo3OG96SEJCeThMdnNaX2NmdVBXLUJ4MDEzOWZ2dnl5Rlg2b3pNT3B1SFdEaDJEellMZ0puRWs?oc=5",
-      "data": "13/10 22:54"
-    },
-    {
-      "titulo": "Liverpool quer cria do São Paulo com multa de 100 milhões de euros; Fluminense assina com meia - www.jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZW5nOXFaQlNCYTVBaXdDR19QbzVLaHh6UEJIb3lXS2pfOXZ2SU1KS01ROUdFOEV5eDhDbnZYUnlxT05sV2dId0JvdW0wOENPdmwxYWliT044U1R0SEJ2WjVFeUVMZFBvem5fMzBGM2lGMmFQMVItdDVFLW14Ylo0VFdaVW9DRDNGZTFsOWcwb2xFendEVkQ2cFg2dDVfQmdfSXNMVEpsWW1GS3UwVEs0YnJtLXU4aTRWM3ExV2Vvckc3MnVSdzllV0ctZjZ0cEUtZGM4RFo0R0RQZWVlSTNlb2U0X1UzM0EtaFljOFNSLTUybXFV?oc=5",
-      "data": "13/10 20:59"
-    },
-    {
-      "titulo": "Ex-Fluminense, Walter acerta com novo clube do futebol brasileiro - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVcwLUE2QmYzTm5hRU1iTUx6cEkxOTNyb0pRVHc3czF2MDdkTDdyczh0cjhrNnliTGp6dVRjcXRQcUVrakRjQkNzSHZINmpWb2RLMEF6TVF1aFdLaGxBVVBONXpSVGJ2SWZicFdxMGh0WS1ESTIxeEhzeVp4bWRNcFZnYWs5bFFYR3h6ZUF1WnZBdGxxdEE?oc=5",
-      "data": "13/10 22:25"
+      "titulo": "Cuca prepara duas novidades no Santos para encarar o Fluminense pelo Brasileirão - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uREl2T2Y3MWhmSTVyaV9HMm4tc1RsQ1JNUGZNMnVuMk13OF9VdkRQNUVQUm43QjZZVHdzUG92WDVnT0xxQUdhQV9PczJpZHBkNnFHeGpZZ0tKTjhud1FQdXQxMWNnbkVQdE0zZ0xYS0hBQQ?oc=5",
+      "data": "14/10 00:57"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
+  ]
 }
