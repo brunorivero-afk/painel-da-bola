@@ -1,16 +1,6 @@
 {
-  "atualizado_em": "15/10/2026 10:18",
+  "atualizado_em": "15/10/2026 14:58",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "10:40",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Faisaly FC x Al Kholood",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-15",
@@ -272,6 +262,16 @@
       "channels": [
         "ESPN",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "10:40",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Faisaly FC x Al Kholood",
+      "channels": [
+        "CANAL GOAT"
       ]
     },
     {
@@ -588,21 +588,21 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 27.6,
       "temp_min": 22.8,
-      "chance_chuva": 75,
+      "chance_chuva": 100,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
       "temp_max": 26.4,
       "temp_min": 22.4,
-      "chance_chuva": 90,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 25.6,
       "temp_min": 18.0,
-      "chance_chuva": 99,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
@@ -615,29 +615,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Arias, do Palmeiras, rebate vaias da torcida do Fluminense: \"As pessoas têm amnésia\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTlhsbm0xeXJCbllXV2ttdlRJbXo1N3dHbkJ3b0N1TV9JcHoxN3otY3BPMHRqS3lSOXhnMlU3ZHdJOXNwdlJ5SDR3MFBUZTZzcG1MUFhqOUhpTnkzRnREMHgxVHBQMGptaUI3YVBpTU1MMXNGOXJBWU1KWGpIT1hBWThpNHZzaGF1YkgydWdBV1Jla3ZYUHBfaFJfR1hkbDlPTmdIeWt5bFRLbURwQUpvOVBBZFQtbm9MNGFvR0xoQm1uZFNkRkNqYXp3c0RkRVQtOUE1bVZoSXktbXlxOVdBOUljONIB8gFBVV95cUxNOWpQTm1YQk9NbW9GMHZXNUt4ZEZCcC1pWVlWUm0waTlGOXNSNEl4cXR1eFlSdF9xVFdDallTVktzaXg0aUYyZjhGVm45aFEtdlcwNFB0YTZyTkk3c0YwSFdvd0RHUU5HVEdKNXJ2b3V2TEhrTl9zak5IU0tGSXp3MXExZjFweEcwMXZ6OERhems3V2RXRGdqeHRmTXZWOU5NYU5ka1VUaEpBbkNvREo2b0dUcjM5MVF4Z2lPUC1DOE9maVBnSGJiNWREWWhDNWRybFNpbGJxbDB4RUZvRENfU2tDUnc1XzRqOXE0elhPc00yQQ?oc=5",
-      "data": "15/10 03:12"
+      "titulo": "Fluminense pode poupar titulares contra o Santos; entenda - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WTzVxWHMtOTJ1ZjhQZGNYaGs5OHpqbzRCS3ZRNjJLWURxUDJwMno3X1QxRXlobG5waDNnZTlkb0hmaVJXNTdoUEVPMjJJZ0VOUUVyTTM4ZmRZX2ZPeUtzaUZPWF9CTzhfcjRBcmt0SlNPMlE?oc=5",
+      "data": "15/10 15:00"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdTZDalZPbmhGNVRlZmpndVdLMEtMVEZienpSX245VW1YeFlmSUNTM1JLazdRZ1F6QU5VbXJtMFNqVnNQdXEtSzBnNUdaLXB1azNUN2FYZ19icWZWRWh5b2dDRmZDeEdxX2NybExWdGxkV2kzS09DT2l5LWZtak8xdVVtbkpDWGRQOFVOR1h5ckM0VmlEWGRoSHRPbXMtcF9OSVM3U0tqcw?oc=5",
-      "data": "12/10 12:56"
+      "titulo": "Fluminense registra maior público da Libertadores 2026 no Maracanã - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkZuZW5YcWlhcDZCYnU4dVBSaTVRaHdHQzdxUTRSR2EyUC1Zb0V0VHdjVFVwR01YcktpdEhxd25CRDJrQTZZOTBNblh1bUJvcEhKaWlhX28xRE9UWm92UXVQMmxYeURJTUtlYmhKZTJGUWNEenVyTHUwRmUyU1JBbmZkeFBaVVZ2N0NSbnVBZU5XRklQQVZZYQ?oc=5",
+      "data": "15/10 03:21"
     },
     {
-      "titulo": "Thiago Silva avalia atuação do Fluminense na Libertadores e reconhece falhas: \"Faltou agressividade\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSEh4aGZ4ZFAxSmZxRlNEYjR3SHV6YzhvLXRtZm5ucFRZdHVFTE11SVFqZkhKRjhRNjBqUThRcWhxYzhQZl9lMDh5YnRLRmZkMUI5Nk1NN1NiS0k5ZjctZHk4RHRSOWNlejZOYWEtRzZMaWNkUjNGRDBQYkh3TmRIS3lkUzVRVFg3bmJhZnZLVTJvWWRRdVhKWVREZW01bEUxNW9iTjhObjVjNE03bWk4cEF4V1NkZXpETFFRSW1BSFg1c040cWhBaHlSUVR1NlQ0RkR5Qkl6QVdSYlZsMEItRVBoWlRmdExXX3JTWkNHdmt4Qmp5bFQ2bGY2RDfSAYsCQVVfeXFMTXh1cnl6M1FQSDZ5dG93OXVuZjhienkyaGJfb0ZocXJ1UFdySC1oMml3bS1KS2NuWUlEYmF1c0V0NWNYbHpQaFpSa3J0NVdQdGlILUE2WkhxN05HRzdySnRMLVd4S1RCX0NXMEczMlZtVXdVeWhFMllGVmU3Mkk2Vnl2TFp1WkJHOERGQXd5dHNkbjMzbks4WGs0bnh2cEpkTVljZEVBYTJBaW9lUnFRLW4xSnBMRW9vWTQ2aXFzRlFEaTdodGVuck8tSnlVRURqX3VUVWtrZGZsSTdhcVc4WEpkam1QQWhOMjVXX2tlcE5oOFI5U2M1ZjQzNk1ZQmJyalIzbklYMm9xN0Nr?oc=5",
-      "data": "15/10 13:00"
+      "titulo": "STJ não atende pedido de Flamengo e Fluminense e mantém Vasco x Boca Juniors no Maracanã - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZFFrTnJxNi01Sk51M0FKZnF6ZXpBQ0ExSGNkbHpVaHdzRjV0eWRkNUVETV9zemZwS01pQUpQb0xuUDZ3QVphTTdzQXFPYXkzTDh2eXRsVkFtbXBmcTBvVjhBcGtqMi0yQW4yWmx0dWFRN1BlTFM3RTlXY2VqUkh6MlViVTI1VTVqaFB1clBLamJKQ2xEemsxUVc3alJDQ1g4RV9zMXdVMGhyWERqUjJvT2IyZzJFcUp6XzVoNVp2dlFyVTEyNVBkd3h2eGwxX2tzam5DZTN6Y1FFTnlMUkNReGNR0gHwAUFVX3lxTE9kS0hreE1mX29Mczk2WGtoUXNESWFselpETEpreTNGT1FlX0stUHNDbGdkUUxpM3U5emh5ajhVQTVleGliZjkyTEFuWTdEQl9VSEJFbVYyS0Q3dkpRUnp1cV80V0kwQUZwT1NVd2Rvb184MDJmdnB3dndRdUJwUmpkLV9za2k3NFVtYU0zbmYwUzB4Q3pwaFB5emRUbkZhV2t3NXAyV2w5VFhWdzVRT3BsRzJ6eXdhLVgwWDFrOG5ZZm5EaUQ3dFFUZXZDOVNxTUlzdUdyb1g1X3JaeHpfeVQ5Qm5TUjBIYXlmLTZ0SDJTRg?oc=5",
+      "data": "15/10 16:35"
     },
     {
-      "titulo": "Felipe Melo vê Fluminense \"vivo\" contra o Palmeiras na Libertadores - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPemxDVFlKVEYzZVZJN3pKcjg1V2liQW9fQXA0eHk3SU83ZEY5c0xhY1JQeTN6cmtlY3ZyeWpXaWZMX1JWUXN1bVZMUkV1UV9xbEI2S3JsQzZ2YkdRTkxXTDJVQmtyU2U3RlMtcWVHb3RLR2xTQkJocER2QUxmV2ExZ3FFVllXTnZGUXVUdk1QazlRTjBMYkl6dUU3cWNZWXpKeHFYdmNqQjhNRkFHSjA1YXF6aFJ0d3VGUzB0OTA1V05rU1VTYlh5ZGRnZHdzTFVBeFFQMDA1b2tudUljb0lZa2VvdU10Y2QtcUgzdkdWOA?oc=5",
-      "data": "15/10 11:32"
+      "titulo": "Martinelli sente dores no joelho e será reavaliado pelo Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSFRtM3QwcjlxclpFbjZJUjczMTdHSFU0RWFfUldwM1J0bVBsY1pIdWowdDRsMjFjRXBaaFkxODB1YUc5blM0U2ZyS0hycHBkeVp5dDVURGpvSkpIM0dOS01qaW5VVjA1ZFVBc2NXSE9ZNEIxRE9OMHhXRUJZTElLckppNW53X1V5T2dFNXR1T2xGYTN4bEtEZERpZmRrNDdvSUpBYlF0cjNUUFltZkRaaW9ibkZ2bTQ4RFRvdzB3ajdhVGhIczYzUl9GcDFhYlg4b2tCdVhjRG9TejVyU2hGU0xxck9aVlkyM2pnN1FB?oc=5",
+      "data": "15/10 15:17"
     },
     {
-      "titulo": "Números e gráficos mostram como Palmeiras soube sofrer e colocou um pé na final da Libertadores - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeGZ0UW9kZEgxQV9BOFhaSkxLUnVnTVlWQUxFUHJDZDlCRUtzZFpWLS1Hc3hpR041bTlmUXo5dnRiNHZieXhUOW5fLTA2eDFOMW5sU3p1MS10STk1LXpuRFN1OFFsa0NBNUtrbU5TV1MyUG01OHVDWHZ0R2FEcEN6ZTRBejFBNEl2cjRDZEJEWUpuTTFTMkVpX0U5djU5dUcyNzFmYVRXTG5uQmM2WGptYS13Yll2V05fdG1UVzF2WEFMUlBtQnp2WlBpRHB3QllYemNrbmQ2Mzl3aU9EUzAzamdKdznSAeoBQVVfeXFMTTBSakJWLXhZN2RfdkhHWFFwV0ZsMmRmend2Q09tSWxwUVhIc2Q4Vm9vRlcyc3BzQUtEX2prdkh3RHJsSWdCdC1aX2NfcGJobFF1THJjRXNIM0xDVVdEWS1NdHN4SndRRGFHZF91RERmN0JNNy1ydEFibmhBeGhFclhSTjhTQVFCeWRfU0daT21WTzNXcWVCMDJzSmJsdGdtdkNxUm9ZOXB0eUk4X3I4NzVCazNueUkxVUpzbWc3S0JzTkVWMUl0bnZRcEhqSE9mQ1hRTjVhVG5EWHAzTThsb2xGdmtjSFYxZkp3?oc=5",
-      "data": "15/10 12:46"
+      "titulo": "Fluminense se apega à vitória heroica contra o Palmeiras e à força da torcida por virada na Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSFBJT2VHeEctS3VfLUo5T2gwSTBidHg2cVRUcmUtYUxWak9GU3NaT2dJVVd1R2pwTnJVMXFyV3dDYlpSRU9HR1NWeFZHMU1KdVVjM056WTduZ3pRYThxOFFUZXcxanpvYTg4a2JZWDlCRW5LRkdEbVI4d0NhTWdQLUNkMXROVy1nbkIxQW44QnFnN3RLQ2dKbVpzbnYybndMMTVYZzRaN2wwREktbHhjVWg2QlZhQ2dPRDNHTURQUE44dzl1VUZtY1dSb3ZkbDJGRG9zdUZPcG1VaGpRZVV0ak5zOExFSVI4NjNpWXVpeW1fN2g1WUVwZ005MXFOVG05RkwxaVp30gGUAkFVX3lxTE4za0lRamh0YlBWdkxSVVZZaDZOYWZqOElubzAzOE54SXhOT09vdU5MSjdETHpKdXU2N0I4Rk54V2VNbkhjRkh4dzE0a2FKQkFSVEk4Z25MZ3BTNFczTUE0Vl90Z3pDOGwxSUxBWFRxc3dxbFFUVVBzRW5ZWDQ1VGpyQlp6c3hLb2J3WVhhZlZQcmU4R0JYWXFXeHZickdISnFxM0NIaURPUVRDSE5oVFNiTEVxQnFBR1VVSGZFMWFKaU5nWDlQT1o5bEJrYjdOWktJZ1A5UDBycjZNYzRyWlpFcFRTdy0tWUNHZ1l0Q0xxYVpTZDg1QXFrN3ZuWE0tWDV6QkJDcUVqbFYyOTEwaDNaMU9VMQ?oc=5",
+      "data": "15/10 17:00"
     }
   ],
   "avisos": []
