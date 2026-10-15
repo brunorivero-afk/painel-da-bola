@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/10/2026 04:59",
+  "atualizado_em": "15/10/2026 10:18",
   "jogos": [
     {
       "sport": "futebol",
@@ -514,10 +514,70 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-13",
-      "time": "21:00",
+      "date": "2026-10-15",
+      "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Sesi-Bauru x Osasco",
+      "match": "Osasco x Praia Clube",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-15",
+      "time": "18:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Minas x Brusque",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-15",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Suzano",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-15",
+      "time": "18:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesi-Bauru x Mackenzie",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-15",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesc RJ Flamengo x Paulistano Barueri",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-15",
+      "time": "20:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Praia Clube x Pinheiros",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-15",
+      "time": "18:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Suzano x Campinas",
       "channels": [
         "SporTV2"
       ]
@@ -526,38 +586,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.4,
-      "temp_min": 23.0,
+      "temp_max": 27.6,
+      "temp_min": 22.8,
       "chance_chuva": 75,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.7,
-      "temp_min": 22.8,
+      "temp_max": 26.4,
+      "temp_min": 22.4,
       "chance_chuva": 90,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.2,
-      "temp_min": 18.4,
+      "temp_max": 25.6,
+      "temp_min": 18.0,
       "chance_chuva": 99,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.2,
-      "temp_min": 17.9,
+      "temp_max": 25.2,
+      "temp_min": 17.4,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0I1U2xGNHZVSjV3aHBKMWJqZW1xbWJ0VmJEV1VqSi05ZkZkdTQzSGtQSktLN3J2OWprN1RKREhVOVR2VTNoNVZubTFRUzI3RUVDZnZIMmxhZVBoVHVNX0lVS2NGSFBSc2NBdjU0eVRXeElaakY5TENyNWkxRk9vWTFQWi14SnBIZnVNLW5sMXBPU19abW5UYUJUTWVLdjI5dXFOTWRfYmJVZzNhc1hlYnR3djg0SGdpZnZUa3BPdDZ6ODVfdUtSMjZiQzg5MGph0gHfAUFVX3lxTE5tb1pSRjJYTXN6ZEppSWFuZEdacGJlazJJVGFuaTJWNlRxNG9iRlpXSmE0eVNfUkdWQjZpaV9JdHJvMTVaellSU1lWRlB3d0RUSW5BSXZ1dWxHa2dFb3FnUGw3U1Myc0RSSElKc3ZMUGtWc0FfY2dtNWNXSlZlVWstTWRHY2hwYkxPYk1Kb1JHNFFaTXdqakUxdDZzZ05ZQUtOS2t4MFVmSmQ1aW1aUmdUaV9DdGRpYzZqbXBCdmdKUEtJQjRnVXNmcHhacWZIcV95TGFXRzhzc2hkSnlPTGM?oc=5",
-      "data": "14/10 04:00"
+      "titulo": "Arias, do Palmeiras, rebate vaias da torcida do Fluminense: \"As pessoas têm amnésia\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTlhsbm0xeXJCbllXV2ttdlRJbXo1N3dHbkJ3b0N1TV9JcHoxN3otY3BPMHRqS3lSOXhnMlU3ZHdJOXNwdlJ5SDR3MFBUZTZzcG1MUFhqOUhpTnkzRnREMHgxVHBQMGptaUI3YVBpTU1MMXNGOXJBWU1KWGpIT1hBWThpNHZzaGF1YkgydWdBV1Jla3ZYUHBfaFJfR1hkbDlPTmdIeWt5bFRLbURwQUpvOVBBZFQtbm9MNGFvR0xoQm1uZFNkRkNqYXp3c0RkRVQtOUE1bVZoSXktbXlxOVdBOUljONIB8gFBVV95cUxNOWpQTm1YQk9NbW9GMHZXNUt4ZEZCcC1pWVlWUm0waTlGOXNSNEl4cXR1eFlSdF9xVFdDallTVktzaXg0aUYyZjhGVm45aFEtdlcwNFB0YTZyTkk3c0YwSFdvd0RHUU5HVEdKNXJ2b3V2TEhrTl9zak5IU0tGSXp3MXExZjFweEcwMXZ6OERhems3V2RXRGdqeHRmTXZWOU5NYU5ka1VUaEpBbkNvREo2b0dUcjM5MVF4Z2lPUC1DOE9maVBnSGJiNWREWWhDNWRybFNpbGJxbDB4RUZvRENfU2tDUnc1XzRqOXE0elhPc00yQQ?oc=5",
+      "data": "15/10 03:12"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Santos - Fluminense Football Club",
@@ -565,22 +625,20 @@ window.PAINEL_DATA = {
       "data": "12/10 12:56"
     },
     {
-      "titulo": "Marcão explica entrada de Wesley Natã no Fluminense e destaca boa fase do atacante - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2tOanZKU0ZPQm1QMGd6ek15Y0EzOV9fRWdhY2p0VVl3UElYUnpOQnhqQnRaSmppWllQV05IaHBpUTUxbXI0UzZPaDJRNmR3M1hxamZldGdoakI0U0dMeV9WZjhSSEtQNW5mMWtfYUFGaDdCZnpLMFdrYkdxMVNTVUo4MGs4YzhkTUR3dk0xWFRrX3NSSklHcTB5QzA3OEUxanlUeTZmN183RTFtNkE?oc=5",
-      "data": "15/10 03:44"
+      "titulo": "Thiago Silva avalia atuação do Fluminense na Libertadores e reconhece falhas: \"Faltou agressividade\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSEh4aGZ4ZFAxSmZxRlNEYjR3SHV6YzhvLXRtZm5ucFRZdHVFTE11SVFqZkhKRjhRNjBqUThRcWhxYzhQZl9lMDh5YnRLRmZkMUI5Nk1NN1NiS0k5ZjctZHk4RHRSOWNlejZOYWEtRzZMaWNkUjNGRDBQYkh3TmRIS3lkUzVRVFg3bmJhZnZLVTJvWWRRdVhKWVREZW01bEUxNW9iTjhObjVjNE03bWk4cEF4V1NkZXpETFFRSW1BSFg1c040cWhBaHlSUVR1NlQ0RkR5Qkl6QVdSYlZsMEItRVBoWlRmdExXX3JTWkNHdmt4Qmp5bFQ2bGY2RDfSAYsCQVVfeXFMTXh1cnl6M1FQSDZ5dG93OXVuZjhienkyaGJfb0ZocXJ1UFdySC1oMml3bS1KS2NuWUlEYmF1c0V0NWNYbHpQaFpSa3J0NVdQdGlILUE2WkhxN05HRzdySnRMLVd4S1RCX0NXMEczMlZtVXdVeWhFMllGVmU3Mkk2Vnl2TFp1WkJHOERGQXd5dHNkbjMzbks4WGs0bnh2cEpkTVljZEVBYTJBaW9lUnFRLW4xSnBMRW9vWTQ2aXFzRlFEaTdodGVuck8tSnlVRURqX3VUVWtrZGZsSTdhcVc4WEpkam1QQWhOMjVXX2tlcE5oOFI5U2M1ZjQzNk1ZQmJyalIzbklYMm9xN0Nr?oc=5",
+      "data": "15/10 13:00"
     },
     {
-      "titulo": "Antes do Corinthians, Seedorf teve conversas com o Fluminense para 2027; clube nega - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa1VRQVVJS0ROQkZibV8tLXU2ekdMRkFILTZoRE11Wi1QeVBsWXlKSVl1ajJ1bnlUOXpVakxhX3ZKdEVnMDRwb2FYQ3BHbkV5WDVGWWhzTENaQ2FmVTBrX0M5c1BHQkdPdzItVG5LQndDOXBxX2tBTmItY0lCSFBUam9vRE9aUVBkYUVBMFp1WklVNGFZc3lHelRnZVBrWU82a1hWZkc4V3loU00yR092Zmx1TTJxbms2aWFGeTE3UVZvRDFDRVFMY2h3V185dEFKWTF3?oc=5",
-      "data": "13/10 15:48"
+      "titulo": "Felipe Melo vê Fluminense \"vivo\" contra o Palmeiras na Libertadores - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPemxDVFlKVEYzZVZJN3pKcjg1V2liQW9fQXA0eHk3SU83ZEY5c0xhY1JQeTN6cmtlY3ZyeWpXaWZMX1JWUXN1bVZMUkV1UV9xbEI2S3JsQzZ2YkdRTkxXTDJVQmtyU2U3RlMtcWVHb3RLR2xTQkJocER2QUxmV2ExZ3FFVllXTnZGUXVUdk1QazlRTjBMYkl6dUU3cWNZWXpKeHFYdmNqQjhNRkFHSjA1YXF6aFJ0d3VGUzB0OTA1V05rU1VTYlh5ZGRnZHdzTFVBeFFQMDA1b2tudUljb0lZa2VvdU10Y2QtcUgzdkdWOA?oc=5",
+      "data": "15/10 11:32"
     },
     {
-      "titulo": "Liverpool quer cria do São Paulo com multa de 100 milhões de euros; Fluminense assina com meia - www.jornalcruzeiro.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFg4THcxUTJTUTkyaTBsc3BmVWE1elY3bFNEQ2JhbWQtRWJjU2FHdGVsVF81c3l2VUMyMThZSWU4bjdrbDZvLW1Ud2xCeWRLREtzQTk4d3V4QjMwMURFX3Jkd1E5bEdTMk1QaVl4emxfbGFGbWVRaW9RUUhvMkFDZlU0UFRNT0xiVmxQZm1kTEp5SGhnYXpxRnFoSlVBVEdYcTNrX2VyNWVTU3lHcGV4RTNYYWpmTm1KcXd3QTFhaGJYakE1bVR3clRhejQzRUE1Ym9oLVFR?oc=5",
-      "data": "13/10 20:59"
+      "titulo": "Números e gráficos mostram como Palmeiras soube sofrer e colocou um pé na final da Libertadores - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeGZ0UW9kZEgxQV9BOFhaSkxLUnVnTVlWQUxFUHJDZDlCRUtzZFpWLS1Hc3hpR041bTlmUXo5dnRiNHZieXhUOW5fLTA2eDFOMW5sU3p1MS10STk1LXpuRFN1OFFsa0NBNUtrbU5TV1MyUG01OHVDWHZ0R2FEcEN6ZTRBejFBNEl2cjRDZEJEWUpuTTFTMkVpX0U5djU5dUcyNzFmYVRXTG5uQmM2WGptYS13Yll2V05fdG1UVzF2WEFMUlBtQnp2WlBpRHB3QllYemNrbmQ2Mzl3aU9EUzAzamdKdznSAeoBQVVfeXFMTTBSakJWLXhZN2RfdkhHWFFwV0ZsMmRmend2Q09tSWxwUVhIc2Q4Vm9vRlcyc3BzQUtEX2prdkh3RHJsSWdCdC1aX2NfcGJobFF1THJjRXNIM0xDVVdEWS1NdHN4SndRRGFHZF91RERmN0JNNy1ydEFibmhBeGhFclhSTjhTQVFCeWRfU0daT21WTzNXcWVCMDJzSmJsdGdtdkNxUm9ZOXB0eUk4X3I4NzVCazNueUkxVUpzbWc3S0JzTkVWMUl0bnZRcEhqSE9mQ1hRTjVhVG5EWHAzTThsb2xGdmtjSFYxZkp3?oc=5",
+      "data": "15/10 12:46"
     }
   ],
-  "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
-  ]
+  "avisos": []
 };
