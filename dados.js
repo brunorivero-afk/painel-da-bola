@@ -1,12 +1,93 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/10/2026 14:58",
+  "atualizado_em": "15/10/2026 18:05",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Estudiantes x Flamengo",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "10:40",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Faisaly FC x Al Kholood",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-15",
       "time": "13:45",
       "competition": "UEFA Europa League",
       "match": "Lyon x Crystal Palace",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "KuPS x Trabzonspor",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "CSKA Sofia x Monaco",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "Universitatea Craiova x Getafe",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "Panathinaikos x Borac Banja Luka",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Torreense x Sunderland",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-15",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Union St. Gilloise x Real Sociedad",
       "channels": [
         "CAZÉTV"
       ]
@@ -56,67 +137,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-15",
       "time": "13:45",
       "competition": "UEFA Europa League",
-      "match": "Union St. Gilloise x Real Sociedad",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "13:45",
-      "competition": "UEFA Europa League",
       "match": "Celje x Omonia Nicosia",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "13:45",
-      "competition": "UEFA Europa League",
-      "match": "Torreense x Sunderland",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "13:45",
-      "competition": "UEFA Conference League",
-      "match": "Panathinaikos x Borac Banja Luka",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "13:45",
-      "competition": "UEFA Conference League",
-      "match": "Universitatea Craiova x Getafe",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "13:45",
-      "competition": "UEFA Conference League",
-      "match": "CSKA Sofia x Monaco",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "13:45",
-      "competition": "UEFA Conference League",
-      "match": "KuPS x Trabzonspor",
       "channels": [
         "CAZÉTV"
       ]
@@ -251,27 +272,6 @@ window.PAINEL_DATA = {
       "match": "Atalanta x Pafos",
       "channels": [
         "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Estudiantes x Flamengo",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-15",
-      "time": "10:40",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Faisaly FC x Al Kholood",
-      "channels": [
-        "CANAL GOAT"
       ]
     },
     {
@@ -586,17 +586,17 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.6,
-      "temp_min": 22.8,
+      "temp_max": 27.3,
+      "temp_min": 23.1,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 26.4,
-      "temp_min": 22.4,
+      "temp_min": 22.5,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
@@ -607,18 +607,13 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.2,
+      "temp_max": 25.1,
       "temp_min": 17.4,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Fluminense pode poupar titulares contra o Santos; entenda - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WTzVxWHMtOTJ1ZjhQZGNYaGs5OHpqbzRCS3ZRNjJLWURxUDJwMno3X1QxRXlobG5waDNnZTlkb0hmaVJXNTdoUEVPMjJJZ0VOUUVyTTM4ZmRZX2ZPeUtzaUZPWF9CTzhfcjRBcmt0SlNPMlE?oc=5",
-      "data": "15/10 15:00"
-    },
     {
       "titulo": "Fluminense registra maior público da Libertadores 2026 no Maracanã - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkZuZW5YcWlhcDZCYnU4dVBSaTVRaHdHQzdxUTRSR2EyUC1Zb0V0VHdjVFVwR01YcktpdEhxd25CRDJrQTZZOTBNblh1bUJvcEhKaWlhX28xRE9UWm92UXVQMmxYeURJTUtlYmhKZTJGUWNEenVyTHUwRmUyU1JBbmZkeFBaVVZ2N0NSbnVBZU5XRklQQVZZYQ?oc=5",
@@ -630,15 +625,22 @@ window.PAINEL_DATA = {
       "data": "15/10 16:35"
     },
     {
-      "titulo": "Martinelli sente dores no joelho e será reavaliado pelo Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSFRtM3QwcjlxclpFbjZJUjczMTdHSFU0RWFfUldwM1J0bVBsY1pIdWowdDRsMjFjRXBaaFkxODB1YUc5blM0U2ZyS0hycHBkeVp5dDVURGpvSkpIM0dOS01qaW5VVjA1ZFVBc2NXSE9ZNEIxRE9OMHhXRUJZTElLckppNW53X1V5T2dFNXR1T2xGYTN4bEtEZERpZmRrNDdvSUpBYlF0cjNUUFltZkRaaW9ibkZ2bTQ4RFRvdzB3ajdhVGhIczYzUl9GcDFhYlg4b2tCdVhjRG9TejVyU2hGU0xxck9aVlkyM2pnN1FB?oc=5",
-      "data": "15/10 15:17"
+      "titulo": "Arias ficou 'muito chateado' com vaias da torcida do Fluminense - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaklFYzdMTnpfSFBqbmkwM3VNemN2dUFmc095VkdtNVJkdy0zYnh0SXVYZEU0WS1RU29YX0p0dFF4WEZFUlZzbFhEUjJxODlzb3otbHYxaV9tS29ZSXp5cTB6QkJIWThGU0t0cmw4STBjS1JzQm1OMHNlQWhzYXlHWEdEeDNsQ2pPR2QxOXR4VVVILWFsbjZiY0VEcWprU0p6N3RTNXZNV3FTaktiVmVrNTNKQ2ptOEtsZ3lodWYxX21DVmk1VTZzaldUdkJCVmpkT2lFZGhB?oc=5",
+      "data": "15/10 18:25"
     },
     {
-      "titulo": "Fluminense se apega à vitória heroica contra o Palmeiras e à força da torcida por virada na Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSFBJT2VHeEctS3VfLUo5T2gwSTBidHg2cVRUcmUtYUxWak9GU3NaT2dJVVd1R2pwTnJVMXFyV3dDYlpSRU9HR1NWeFZHMU1KdVVjM056WTduZ3pRYThxOFFUZXcxanpvYTg4a2JZWDlCRW5LRkdEbVI4d0NhTWdQLUNkMXROVy1nbkIxQW44QnFnN3RLQ2dKbVpzbnYybndMMTVYZzRaN2wwREktbHhjVWg2QlZhQ2dPRDNHTURQUE44dzl1VUZtY1dSb3ZkbDJGRG9zdUZPcG1VaGpRZVV0ak5zOExFSVI4NjNpWXVpeW1fN2g1WUVwZ005MXFOVG05RkwxaVp30gGUAkFVX3lxTE4za0lRamh0YlBWdkxSVVZZaDZOYWZqOElubzAzOE54SXhOT09vdU5MSjdETHpKdXU2N0I4Rk54V2VNbkhjRkh4dzE0a2FKQkFSVEk4Z25MZ3BTNFczTUE0Vl90Z3pDOGwxSUxBWFRxc3dxbFFUVVBzRW5ZWDQ1VGpyQlp6c3hLb2J3WVhhZlZQcmU4R0JYWXFXeHZickdISnFxM0NIaURPUVRDSE5oVFNiTEVxQnFBR1VVSGZFMWFKaU5nWDlQT1o5bEJrYjdOWktJZ1A5UDBycjZNYzRyWlpFcFRTdy0tWUNHZ1l0Q0xxYVpTZDg1QXFrN3ZuWE0tWDV6QkJDcUVqbFYyOTEwaDNaMU9VMQ?oc=5",
-      "data": "15/10 17:00"
+      "titulo": "Confira a tabela do Fluminense no primeiro turno da Superliga Feminina de vôlei 2026/27 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRE5qTzlWdGNld09vSGl2Z3FUYzR0VFhfdy1ubnBzRHdpUFNTdGtBcjZLeHNLUFdldjlCZnJJejlCQjFiRDAwc3JEMVN5VzhoMVoxQ2M0Y0tBUjk4dEw3Y2dYY18zQXlidUxEZDJZdXpkMThqR3JRc01lMTNXck4yakJpUXloLVZvOWlYRWE3ZmpOLUx0V0RZTklzRjBGRDJ4VHVYM1E5M0J1a3hHUVBRU3Joc0Yxc3E2d0JWTkl1cEh2NWM?oc=5",
+      "data": "15/10 19:37"
+    },
+    {
+      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0I1U2xGNHZVSjV3aHBKMWJqZW1xbWJ0VmJEV1VqSi05ZkZkdTQzSGtQSktLN3J2OWprN1RKREhVOVR2VTNoNVZubTFRUzI3RUVDZnZIMmxhZVBoVHVNX0lVS2NGSFBSc2NBdjU0eVRXeElaakY5TENyNWkxRk9vWTFQWi14SnBIZnVNLW5sMXBPU19abW5UYUJUTWVLdjI5dXFOTWRfYmJVZzNhc1hlYnR3djg0SGdpZnZUa3BPdDZ6ODVfdUtSMjZiQzg5MGph0gHfAUFVX3lxTE5tb1pSRjJYTXN6ZEppSWFuZEdacGJlazJJVGFuaTJWNlRxNG9iRlpXSmE0eVNfUkdWQjZpaV9JdHJvMTVaellSU1lWRlB3d0RUSW5BSXZ1dWxHa2dFb3FnUGw3U1Myc0RSSElKc3ZMUGtWc0FfY2dtNWNXSlZlVWstTWRHY2hwYkxPYk1Kb1JHNFFaTXdqakUxdDZzZ05ZQUtOS2t4MFVmSmQ1aW1aUmdUaV9DdGRpYzZqbXBCdmdKUEtJQjRnVXNmcHhacWZIcV95TGFXRzhzc2hkSnlPTGM?oc=5",
+      "data": "14/10 04:00"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar clima de Itaipava (Petrópolis): Response status code does not indicate success: 503 (Service Unavailable)."
+  ]
 };
