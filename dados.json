@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/10/2026 18:05",
+  "atualizado_em": "15/10/2026 21:01",
   "jogos": [
     {
       "sport": "futebol",
@@ -603,7 +603,7 @@
       "temp_max": 25.6,
       "temp_min": 18.0,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
@@ -615,19 +615,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense registra maior público da Libertadores 2026 no Maracanã - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkZuZW5YcWlhcDZCYnU4dVBSaTVRaHdHQzdxUTRSR2EyUC1Zb0V0VHdjVFVwR01YcktpdEhxd25CRDJrQTZZOTBNblh1bUJvcEhKaWlhX28xRE9UWm92UXVQMmxYeURJTUtlYmhKZTJGUWNEenVyTHUwRmUyU1JBbmZkeFBaVVZ2N0NSbnVBZU5XRklQQVZZYQ?oc=5",
-      "data": "15/10 03:21"
+      "titulo": "Fluminense pode poupar titulares contra o Santos; entenda - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WTzVxWHMtOTJ1ZjhQZGNYaGs5OHpqbzRCS3ZRNjJLWURxUDJwMno3X1QxRXlobG5waDNnZTlkb0hmaVJXNTdoUEVPMjJJZ0VOUUVyTTM4ZmRZX2ZPeUtzaUZPWF9CTzhfcjRBcmt0SlNPMlE?oc=5",
+      "data": "15/10 15:00"
     },
     {
-      "titulo": "STJ não atende pedido de Flamengo e Fluminense e mantém Vasco x Boca Juniors no Maracanã - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZFFrTnJxNi01Sk51M0FKZnF6ZXpBQ0ExSGNkbHpVaHdzRjV0eWRkNUVETV9zemZwS01pQUpQb0xuUDZ3QVphTTdzQXFPYXkzTDh2eXRsVkFtbXBmcTBvVjhBcGtqMi0yQW4yWmx0dWFRN1BlTFM3RTlXY2VqUkh6MlViVTI1VTVqaFB1clBLamJKQ2xEemsxUVc3alJDQ1g4RV9zMXdVMGhyWERqUjJvT2IyZzJFcUp6XzVoNVp2dlFyVTEyNVBkd3h2eGwxX2tzam5DZTN6Y1FFTnlMUkNReGNR0gHwAUFVX3lxTE9kS0hreE1mX29Mczk2WGtoUXNESWFselpETEpreTNGT1FlX0stUHNDbGdkUUxpM3U5emh5ajhVQTVleGliZjkyTEFuWTdEQl9VSEJFbVYyS0Q3dkpRUnp1cV80V0kwQUZwT1NVd2Rvb184MDJmdnB3dndRdUJwUmpkLV9za2k3NFVtYU0zbmYwUzB4Q3pwaFB5emRUbkZhV2t3NXAyV2w5VFhWdzVRT3BsRzJ6eXdhLVgwWDFrOG5ZZm5EaUQ3dFFUZXZDOVNxTUlzdUdyb1g1X3JaeHpfeVQ5Qm5TUjBIYXlmLTZ0SDJTRg?oc=5",
-      "data": "15/10 16:35"
-    },
-    {
-      "titulo": "Arias ficou 'muito chateado' com vaias da torcida do Fluminense - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaklFYzdMTnpfSFBqbmkwM3VNemN2dUFmc095VkdtNVJkdy0zYnh0SXVYZEU0WS1RU29YX0p0dFF4WEZFUlZzbFhEUjJxODlzb3otbHYxaV9tS29ZSXp5cTB6QkJIWThGU0t0cmw4STBjS1JzQm1OMHNlQWhzYXlHWEdEeDNsQ2pPR2QxOXR4VVVILWFsbjZiY0VEcWprU0p6N3RTNXZNV3FTaktiVmVrNTNKQ2ptOEtsZ3lodWYxX21DVmk1VTZzaldUdkJCVmpkT2lFZGhB?oc=5",
-      "data": "15/10 18:25"
+      "titulo": "Tradução erra e confunde Sport com Fluminense em postagem do clube pernambucano; entenda - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHkycTVTeE5zOGNwWlpGVmtMM09GUWtkWUltOTJRZndxWWh2dTlKYTM1dXdpeFNzbG1zcjNzMHBXNzJBbGpIQk9HRm1oaXZfakVhZHhRWXJxeTJocllJUkt5WXdPR2dmVW9Nd0RnZ2pLWEVzemZ5YjI4NjMxRG9nUXBKb1ZlLXozaUEzdWJ2QXdlQXRfenYxY0hLN0JZZ051cnVGeUgtMXc3em9mazY0TnQ3bDhINnZjbEd3R1BaalhHZEZKUUZWb3hfYTZUZUU0eWo0OHJEbExJSWd00gHrAUFVX3lxTE9rbHYtZ2lETFlpbGJPSXlfNEQ2MVd3Y2pRd1RZUkNlYk1wQmVNRWk0MHJvTWYtam1McFpnSk5YUjdPT0c0VWpMbE9pbi1ZeGRvSnZScFdOc0ZtQUV0enQwUmlLNTR0dm9RMUZjcF82MnRUZV9JZnFvUENWbERGeDNTN1pZZFQ5SmJXZ3dPd0pkb2VEc2pqREg1aURwcUQ4Qm5xbGJJWS1jX05NT25WUXVnbkpQdzZYRHd0MlRXT2tOVnJpOHlZQWVrYkxBZWh5VWdmUlRFOFpDbGYwVmk3WXZLNE5FWHVWakd3NUE?oc=5",
+      "data": "15/10 23:00"
     },
     {
       "titulo": "Confira a tabela do Fluminense no primeiro turno da Superliga Feminina de vôlei 2026/27 - Fluminense Football Club",
@@ -635,12 +630,17 @@
       "data": "15/10 19:37"
     },
     {
-      "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0I1U2xGNHZVSjV3aHBKMWJqZW1xbWJ0VmJEV1VqSi05ZkZkdTQzSGtQSktLN3J2OWprN1RKREhVOVR2VTNoNVZubTFRUzI3RUVDZnZIMmxhZVBoVHVNX0lVS2NGSFBSc2NBdjU0eVRXeElaakY5TENyNWkxRk9vWTFQWi14SnBIZnVNLW5sMXBPU19abW5UYUJUTWVLdjI5dXFOTWRfYmJVZzNhc1hlYnR3djg0SGdpZnZUa3BPdDZ6ODVfdUtSMjZiQzg5MGph0gHfAUFVX3lxTE5tb1pSRjJYTXN6ZEppSWFuZEdacGJlazJJVGFuaTJWNlRxNG9iRlpXSmE0eVNfUkdWQjZpaV9JdHJvMTVaellSU1lWRlB3d0RUSW5BSXZ1dWxHa2dFb3FnUGw3U1Myc0RSSElKc3ZMUGtWc0FfY2dtNWNXSlZlVWstTWRHY2hwYkxPYk1Kb1JHNFFaTXdqakUxdDZzZ05ZQUtOS2t4MFVmSmQ1aW1aUmdUaV9DdGRpYzZqbXBCdmdKUEtJQjRnVXNmcHhacWZIcV95TGFXRzhzc2hkSnlPTGM?oc=5",
-      "data": "14/10 04:00"
+      "titulo": "‘Arias deve a carreira dele ao Fluminense’; dispara jornalista - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3dVVFdvaTExTmlfeENueDd6aDZvY3VFVDRGbk0zNkx1NGR6QTdrVkNvMndQZ3Voa0lkOE9JaGZ6UThDaFNDbHBxRmlnSjhkc0tVbTJ6bDh5RjNOYncwZllwOEUtVU1UUnE4MkZFeW1iUUMxZ29MS3JNZ2lNLWtkaEVlUjZFZF9KaC1KeHYtYw?oc=5",
+      "data": "15/10 20:15"
+    },
+    {
+      "titulo": "Galvão Bueno analisa vitória do Palmeiras sobre o Fluminense: \"Letal\" - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOHoxRWJUXzVUb3NSb25nR1BNMGRJaFRzSlBQYkF3YllTcDhmSThZRTZSNjZ2X1drSk1vYWJIM0tTak54MDhxaGJqSy0ySUFuMWVOZFhNak94a1VzbnZ3RFIxbUo4dEhGYUM0bFhLM1lTcHU3UlpGenpGNDA2VG9EWnlwLXJkX3dmTVhjZmdNR3VMbllsWG9YcG55azlSTjJOQWo4Y2pNdGlZelllUE0tNG1kYkRMZWNjbGdnWGtGWTl4Q0tnTVhfRjNuSzM3Nk1Eak9tUGJ0cDQ0RjN4dHhLb3ZTelJTYlJmb3l5VjRCZ1E?oc=5",
+      "data": "15/10 03:48"
     }
   ],
   "avisos": [
-    "Falha ao buscar clima de Itaipava (Petrópolis): Response status code does not indicate success: 503 (Service Unavailable)."
+    "Falha ao buscar clima de Araruama: Response status code does not indicate success: 503 (Service Unavailable)."
   ]
 }
