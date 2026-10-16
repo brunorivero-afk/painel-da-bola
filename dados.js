@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/10/2026 07:33",
+  "atualizado_em": "16/10/2026 12:08",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "08:35",
-      "competition": "Campeonato Chinês",
-      "match": "Henan Jianye x Tianjin Teda",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-16",
@@ -237,6 +227,16 @@ window.PAINEL_DATA = {
       "match": "Portland Timbers II x St. Louis City II",
       "channels": [
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "08:35",
+      "competition": "Campeonato Chinês",
+      "match": "Henan Jianye x Tianjin Teda",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -1034,29 +1034,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.4,
-      "temp_min": 21.7,
+      "temp_max": 28.1,
+      "temp_min": 21.5,
       "chance_chuva": 91,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.9,
-      "temp_min": 21.5,
+      "temp_max": 28.0,
+      "temp_min": 21.9,
       "chance_chuva": 75,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.5,
+      "temp_max": 25.0,
       "temp_min": 17.8,
       "chance_chuva": 95,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.6,
-      "temp_min": 17.0,
+      "temp_max": 25.4,
+      "temp_min": 17.1,
       "chance_chuva": 98,
       "condicao": "Trovoada"
     }
@@ -1068,24 +1068,24 @@ window.PAINEL_DATA = {
       "data": "16/10 02:14"
     },
     {
-      "titulo": "Arias, do Palmeiras, rebate vaias da torcida do Fluminense: \"As pessoas têm amnésia\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTlhsbm0xeXJCbllXV2ttdlRJbXo1N3dHbkJ3b0N1TV9JcHoxN3otY3BPMHRqS3lSOXhnMlU3ZHdJOXNwdlJ5SDR3MFBUZTZzcG1MUFhqOUhpTnkzRnREMHgxVHBQMGptaUI3YVBpTU1MMXNGOXJBWU1KWGpIT1hBWThpNHZzaGF1YkgydWdBV1Jla3ZYUHBfaFJfR1hkbDlPTmdIeWt5bFRLbURwQUpvOVBBZFQtbm9MNGFvR0xoQm1uZFNkRkNqYXp3c0RkRVQtOUE1bVZoSXktbXlxOVdBOUljONIB8gFBVV95cUxNOWpQTm1YQk9NbW9GMHZXNUt4ZEZCcC1pWVlWUm0waTlGOXNSNEl4cXR1eFlSdF9xVFdDallTVktzaXg0aUYyZjhGVm45aFEtdlcwNFB0YTZyTkk3c0YwSFdvd0RHUU5HVEdKNXJ2b3V2TEhrTl9zak5IU0tGSXp3MXExZjFweEcwMXZ6OERhems3V2RXRGdqeHRmTXZWOU5NYU5ka1VUaEpBbkNvREo2b0dUcjM5MVF4Z2lPUC1DOE9maVBnSGJiNWREWWhDNWRybFNpbGJxbDB4RUZvRENfU2tDUnc1XzRqOXE0elhPc00yQQ?oc=5",
-      "data": "15/10 03:12"
-    },
-    {
-      "titulo": "Tradução erra e confunde Sport com Fluminense em postagem do clube pernambucano; entenda - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHkycTVTeE5zOGNwWlpGVmtMM09GUWtkWUltOTJRZndxWWh2dTlKYTM1dXdpeFNzbG1zcjNzMHBXNzJBbGpIQk9HRm1oaXZfakVhZHhRWXJxeTJocllJUkt5WXdPR2dmVW9Nd0RnZ2pLWEVzemZ5YjI4NjMxRG9nUXBKb1ZlLXozaUEzdWJ2QXdlQXRfenYxY0hLN0JZZ051cnVGeUgtMXc3em9mazY0TnQ3bDhINnZjbEd3R1BaalhHZEZKUUZWb3hfYTZUZUU0eWo0OHJEbExJSWd00gHrAUFVX3lxTE9rbHYtZ2lETFlpbGJPSXlfNEQ2MVd3Y2pRd1RZUkNlYk1wQmVNRWk0MHJvTWYtam1McFpnSk5YUjdPT0c0VWpMbE9pbi1ZeGRvSnZScFdOc0ZtQUV0enQwUmlLNTR0dm9RMUZjcF82MnRUZV9JZnFvUENWbERGeDNTN1pZZFQ5SmJXZ3dPd0pkb2VEc2pqREg1aURwcUQ4Qm5xbGJJWS1jX05NT25WUXVnbkpQdzZYRHd0MlRXT2tOVnJpOHlZQWVrYkxBZWh5VWdmUlRFOFpDbGYwVmk3WXZLNE5FWHVWakd3NUE?oc=5",
-      "data": "15/10 23:00"
-    },
-    {
       "titulo": "Fluminense aposta em virada e deve ir com reservas contra o Santos - Terra",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZFM5SUJGdmFqd1paUnYyUVlEcEhvRGVMSmNrUHU0SnBERXZKcjlIV3NXbFRZY0F6TjNJTWZaTlpuS21CUEdHN2hYUU05N1VJdlRTN092bVBTQWhVelRET1p4RFVtSjRaVzVRcXNib2NqWkRFQWwxRzdSVVU1Z01PSGpuZE9YOVdkRnpVeDV4VmhaWmVSMjhPT196bjYwWWZkZTBqMFd0WmRtWFBOVlIwbm0wNHVBZmppRjhzdWY3eW03ZUNvb055a0gxdFlKbFg0dEhhX3kwbmllU1pvcjZjLWk2YlNNVlFIblR5bVh3?oc=5",
       "data": "15/10 19:35"
     },
     {
-      "titulo": "Fluminense é vice-campeão do Carioca de Basquete - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblJkaVI5ZlNOOGxaWi1JNjhhY1BuWHJNMDE0QVRkLUhPbk5xVG8yMkE2Yk1QSXhZUEJWWnhhZVJxcU9pUzdhVU5IWnR0dlQwWHZXNEpXVlE3Q1k5c2ZqZVpSLXhIazhwQ0ZHRjZWek9oUFRpOE9LVXRvMUNmaFFMNnNYWFExdEcxZGNHUTFOQQ?oc=5",
-      "data": "16/10 00:44"
+      "titulo": "Escalação do Santos: Luan Peres deve voltar a ser titular - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWHN4ZWRiNUw5Z25Ld2lhQUF5eXpOV2tMWks0dU9iY2k4akx2MktKdGlPZnUwaVpsbklwV0NLbVR3UTF1QjloNE1UVmhjY2s3ZEhta0tlbmo5VlFJb3ppWFpTRDN0WENFQ3pVUFhhUkRPRFN5YTVNdW42R0Y2WDEwQXlKekMwRVRBbGRTVEN3NndwVWFFLV85VzE1ank1aUNQVVhITU5jXzJWd0hSNHBMOWpCZnhQZzNxNHNjVlBsSzZkUU5IV3VRbWJGZ3V0Q2NOZVZ4SUZncGhSQdIB6AFBVV95cUxPTy1HcXRwRnZlLXJ0d0F0VHFqUzhfajFoQUdZZ0xnbHB2VEw2VW9CaktBWTlVQk5VRmFiNm1OWmJRWU5kVHI1M1RLdHpyeEdRV1RhbndqRVZla1dPbXkzX1o5WTA4VlVTeDZYczNHZml2WTktSHlmTmtobk5ITGNXcVdSZ0c4MGpnd0JfVkJjS3VaZUJfRzVjc3NLZWJGeWFkX3lBTEVLQTN4QVM0RVFFMTdUQ0hJQzVUa29BY0N6ZzhMU2s5cTd5dmlGZ0wyOXhJb3N4dHI3QUtDcFlVTHVfQ1BQcG9MRDBT?oc=5",
+      "data": "14/10 20:16"
+    },
+    {
+      "titulo": "Santos segue preparação para encarar o Fluminense no Rio - O POVO",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHRTYmJxNG8tQjN6ekxPM3VYMjJTMnVlUEs5MG05SlNHTEF1dl9rWTZLNlZFY1oxUU1Idl95aUZlNjAzcUtqclhpWHZTbFRaOG1sdEpDNTFBVDl3U1c0cV9ST1liRVlublB6ZFpPQm1yNElKNTZvd0ZaREVxT1UxbW5LaC1RS1JfbE5HSVpxeGVWY1dneUliVWsxOTFaSVhzRFpiWHIwTFlWN1BpcE5vZG1UQlM?oc=5",
+      "data": "15/10 23:36"
+    },
+    {
+      "titulo": "Felipe Andrade, ex-Fluminense, renova contrato na MLS - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObU1ibHZ2RXdEaUZwSHBwTnNvMjJERUlpTXBucjdYWEQtb29jYnI2ZVppdGEtMXVhR0N5M19lNWVTWXlrN2lldExaUjlIelI5NTIyZGwtS2Q3QnMwYzhLczVMOGVyWVk5YTIyX0RlNVdQTFBBRmYwODlvZEU5MFc2cXo0WURzMTRXVTN3S0g5cHI0X0gydUU3eHBKVTBRbmFZUjJub3VRN0ZtWDFaYU1XQXJRb19VMXNkTGdLWDdfUWNiblk1dzFyM1NMb1pVeVpVeXJPSXhRLW9SV2t5ZDAydkJXeUo4d3Qx?oc=5",
+      "data": "16/10 12:17"
     }
   ],
   "avisos": []
