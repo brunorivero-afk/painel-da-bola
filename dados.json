@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "16/10/2026 02:21",
+  "atualizado_em": "16/10/2026 07:33",
   "jogos": [
     {
       "sport": "futebol",
@@ -488,16 +488,6 @@
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sporting Cristal x Comerciantes Unidos",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:00",
       "competition": "Campeonato Turco",
       "match": "Fenerbahce x Alanyaspor",
       "channels": [
@@ -581,16 +571,6 @@
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Ibrachina Sub-20 x Capivariano Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:00",
       "competition": "Campeonato Holandês",
       "match": "Telstar x Feyenoord",
       "channels": [
@@ -611,11 +591,11 @@
     {
       "sport": "futebol",
       "date": "2026-10-17",
-      "time": "15:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Hannover 96 x FC St. Pauli",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Ibrachina Sub-20 x Capivariano Sub-20",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "YOUTUBE"
       ]
     },
     {
@@ -626,6 +606,16 @@
       "match": "Philadelphia Union x Charlotte",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "15:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Hannover 96 x FC St. Pauli",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -642,16 +632,6 @@
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Estac Troyes x Lens",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:45",
       "competition": "Paulista Sub-20",
       "match": "São Paulo U20 x Desportivo Brasil Sub-20",
       "channels": [
@@ -661,21 +641,21 @@
     {
       "sport": "futebol",
       "date": "2026-10-17",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Defensor Sporting",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Estac Troyes x Lens",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "16:00",
-      "competition": "MLS Next Pro",
-      "match": "Columbus Crew II x New England II",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Athletic Club",
       "channels": [
-        "ONEFOOTBALL"
+        "CAZÉTV"
       ]
     },
     {
@@ -692,10 +672,20 @@
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Athletic Club",
+      "competition": "MLS Next Pro",
+      "match": "Columbus Crew II x New England II",
       "channels": [
-        "CAZÉTV"
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "16:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Boston River x Defensor Sporting",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -893,9 +883,8 @@
       "date": "2026-10-17",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Sporting Kansas City x Real Salt Lake",
+      "match": "Houston Dynamo x FC Dallas",
       "channels": [
-        "ESPN 4",
         "APPLE TV"
       ]
     },
@@ -904,8 +893,9 @@
       "date": "2026-10-17",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Houston Dynamo x FC Dallas",
+      "match": "Sporting Kansas City x Real Salt Lake",
       "channels": [
+        "ESPN 4",
         "APPLE TV"
       ]
     },
@@ -1044,48 +1034,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.0,
-      "temp_min": 21.5,
+      "temp_max": 29.4,
+      "temp_min": 21.7,
       "chance_chuva": 91,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.4,
-      "temp_min": 22.6,
+      "temp_max": 27.9,
+      "temp_min": 21.5,
       "chance_chuva": 75,
-      "condicao": "Garoa"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.1,
-      "temp_min": 18.2,
+      "temp_max": 25.5,
+      "temp_min": 17.8,
       "chance_chuva": 95,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.4,
-      "temp_min": 17.1,
+      "temp_max": 25.6,
+      "temp_min": 17.0,
       "chance_chuva": 98,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Técnico do Fluminense exalta equipe após vitória sobre o Flamengo: 'Estou orgulhoso' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnk0dzRZMHp6ZHBNVm5PQkxQRGhDQnBraURrUjh4d3ctb1BpeVB0Nm1pMGZ3MURUbFhaRkJDNUpXdnFYUmpyR0M2YnJ1VGRvWmFPQTFXT3FjSXNjbGpFbkNLV3ZrODJKLW5IMXI1bEU0NXJrTFI1ZEVKN0xtV2NWY2w0d2xySmtveTRrMlQ2YlJVSDUwWkltUFdJX3A2aUNhcFNTWFNFTU9uNDNtNDk4Ni1PRlFFZDFDWDZKVUxOTQ?oc=5",
-      "data": "16/10 02:50"
-    },
-    {
-      "titulo": "Fluminense é vice-campeão do Carioca de Basquete - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblJkaVI5ZlNOOGxaWi1JNjhhY1BuWHJNMDE0QVRkLUhPbk5xVG8yMkE2Yk1QSXhZUEJWWnhhZVJxcU9pUzdhVU5IWnR0dlQwWHZXNEpXVlE3Q1k5c2ZqZVpSLXhIazhwQ0ZHRjZWek9oUFRpOE9LVXRvMUNmaFFMNnNYWFExdEcxZGNHUTFOQQ?oc=5",
-      "data": "16/10 00:44"
-    },
-    {
       "titulo": "Resumo do Dia: Repercussão da semifinal da Libertadores, projeções de Marcão, decisões judiciais e vitória no futebol feminino do Fluminense (15/10) - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUhoTS1aaHhlNkQzeE9zckFlWG5xa0pqN2N1WVM3TnkwdnJ3Qmltbk56RXVmLVdoS0lpVkZHdXN2OU9icEhQVUtUekFFWmY2aW5sSGRFaXB3SFdfWTYtdFl0Wm55Rm5fRm5ISDdrRzV2MTlLaTJneUJOTWs5emZFQk4wYWtyYXE2Ny1yYVJJN2JNTjdiM2ZxU19XeHpuU2ZERF9EOGo5emUySm9fUU84OHNNVFpGaWJkdm9Xcl9VVUc?oc=5",
       "data": "16/10 02:14"
+    },
+    {
+      "titulo": "Arias, do Palmeiras, rebate vaias da torcida do Fluminense: \"As pessoas têm amnésia\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTlhsbm0xeXJCbllXV2ttdlRJbXo1N3dHbkJ3b0N1TV9JcHoxN3otY3BPMHRqS3lSOXhnMlU3ZHdJOXNwdlJ5SDR3MFBUZTZzcG1MUFhqOUhpTnkzRnREMHgxVHBQMGptaUI3YVBpTU1MMXNGOXJBWU1KWGpIT1hBWThpNHZzaGF1YkgydWdBV1Jla3ZYUHBfaFJfR1hkbDlPTmdIeWt5bFRLbURwQUpvOVBBZFQtbm9MNGFvR0xoQm1uZFNkRkNqYXp3c0RkRVQtOUE1bVZoSXktbXlxOVdBOUljONIB8gFBVV95cUxNOWpQTm1YQk9NbW9GMHZXNUt4ZEZCcC1pWVlWUm0waTlGOXNSNEl4cXR1eFlSdF9xVFdDallTVktzaXg0aUYyZjhGVm45aFEtdlcwNFB0YTZyTkk3c0YwSFdvd0RHUU5HVEdKNXJ2b3V2TEhrTl9zak5IU0tGSXp3MXExZjFweEcwMXZ6OERhems3V2RXRGdqeHRmTXZWOU5NYU5ka1VUaEpBbkNvREo2b0dUcjM5MVF4Z2lPUC1DOE9maVBnSGJiNWREWWhDNWRybFNpbGJxbDB4RUZvRENfU2tDUnc1XzRqOXE0elhPc00yQQ?oc=5",
+      "data": "15/10 03:12"
     },
     {
       "titulo": "Tradução erra e confunde Sport com Fluminense em postagem do clube pernambucano; entenda - ge",
@@ -1093,9 +1078,14 @@
       "data": "15/10 23:00"
     },
     {
-      "titulo": "Arias ficou 'muito chateado' com vaias da torcida do Fluminense - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaklFYzdMTnpfSFBqbmkwM3VNemN2dUFmc095VkdtNVJkdy0zYnh0SXVYZEU0WS1RU29YX0p0dFF4WEZFUlZzbFhEUjJxODlzb3otbHYxaV9tS29ZSXp5cTB6QkJIWThGU0t0cmw4STBjS1JzQm1OMHNlQWhzYXlHWEdEeDNsQ2pPR2QxOXR4VVVILWFsbjZiY0VEcWprU0p6N3RTNXZNV3FTaktiVmVrNTNKQ2ptOEtsZ3lodWYxX21DVmk1VTZzaldUdkJCVmpkT2lFZGhB?oc=5",
-      "data": "15/10 18:25"
+      "titulo": "Fluminense aposta em virada e deve ir com reservas contra o Santos - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZFM5SUJGdmFqd1paUnYyUVlEcEhvRGVMSmNrUHU0SnBERXZKcjlIV3NXbFRZY0F6TjNJTWZaTlpuS21CUEdHN2hYUU05N1VJdlRTN092bVBTQWhVelRET1p4RFVtSjRaVzVRcXNib2NqWkRFQWwxRzdSVVU1Z01PSGpuZE9YOVdkRnpVeDV4VmhaWmVSMjhPT196bjYwWWZkZTBqMFd0WmRtWFBOVlIwbm0wNHVBZmppRjhzdWY3eW03ZUNvb055a0gxdFlKbFg0dEhhX3kwbmllU1pvcjZjLWk2YlNNVlFIblR5bVh3?oc=5",
+      "data": "15/10 19:35"
+    },
+    {
+      "titulo": "Fluminense é vice-campeão do Carioca de Basquete - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblJkaVI5ZlNOOGxaWi1JNjhhY1BuWHJNMDE0QVRkLUhPbk5xVG8yMkE2Yk1QSXhZUEJWWnhhZVJxcU9pUzdhVU5IWnR0dlQwWHZXNEpXVlE3Q1k5c2ZqZVpSLXhIazhwQ0ZHRjZWek9oUFRpOE9LVXRvMUNmaFFMNnNYWFExdEcxZGNHUTFOQQ?oc=5",
+      "data": "16/10 00:44"
     }
   ],
   "avisos": []
