@@ -1,108 +1,14 @@
 {
-  "atualizado_em": "16/10/2026 16:13",
+  "atualizado_em": "16/10/2026 19:26",
   "jogos": [
     {
       "sport": "futebol",
       "date": "2026-10-16",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Rapid Vienna x TSV Hartberg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "RB Bragantino Sub-20 x Flamengo SP Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Huancayo x Cusco",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ittihad FC x Al Shabab",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Portuguesa Santista Sub20",
-      "channels": [
-        "TNT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Guarani Sub-20 x Sfera U20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:30",
-      "competition": "Campeonato Alemão",
-      "match": "Eintracht Frankfurt x FC Koln",
-      "channels": [
-        "SPORTV",
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Le Mans x Toulouse",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Frosinone x Sassuolo",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Cerro Largo",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Deportivo La Coruna x Levante",
-      "channels": [
-        "SPORTYNET",
-        "CAZÉTV"
       ]
     },
     {
@@ -113,16 +19,6 @@
       "match": "Atlanta United II x Connecticut FC",
       "channels": [
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Cerro Largo",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -237,6 +133,110 @@
       "match": "Fortuna Koln x Stuttgart II",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "14:30",
+      "competition": "Campeonato Austríaco",
+      "match": "Rapid Vienna x TSV Hartberg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Portuguesa Santista Sub20",
+      "channels": [
+        "TNT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Guarani Sub-20 x Sfera U20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "RB Bragantino Sub-20 x Flamengo SP Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ittihad FC x Al Shabab",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Huancayo x Cusco",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:30",
+      "competition": "Campeonato Alemão",
+      "match": "Eintracht Frankfurt x FC Koln",
+      "channels": [
+        "SPORTV",
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Frosinone x Sassuolo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Le Mans x Toulouse",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Deportivo La Coruna x Levante",
+      "channels": [
+        "SPORTYNET",
+        "CAZÉTV"
       ]
     },
     {
@@ -1034,15 +1034,15 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.1,
-      "temp_min": 21.5,
+      "temp_max": 28.8,
+      "temp_min": 21.6,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.0,
-      "temp_min": 21.9,
+      "temp_max": 28.1,
+      "temp_min": 21.8,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
@@ -1055,7 +1055,7 @@
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.4,
+      "temp_max": 24.8,
       "temp_min": 17.1,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -1068,24 +1068,24 @@
       "data": "16/10 02:14"
     },
     {
-      "titulo": "Anny destaca força mental do Fluminense e manda recado à torcida - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdTl4WnVDZmFkM0pyRjVJbXpXV2tRbG9GOTF4NElrWXJVaDhnTFNXSUZQRFlYaFN1dG0tanBTMllnLVBycGQtRUZfQ2g0T3h4My01U1Yzc3FsLVlKeGxsd2lvLXFkWTRPbU9wbEZnWkZnZi1nUlFzWkNhR3RyaU1leDJ2Sl93VWtON0RDOVhyYjNtckw1Zm1VaUtraldWUUlLQ3hRMU5rY3ZkYlJNZUlucjZ0Z1lkQVowUGhyUi04aDVkYzB6cGlvTDhCN29Rdk9RNkFCMEFuV3pkcTQ?oc=5",
-      "data": "16/10 15:06"
+      "titulo": "Escalação do Santos: Cuca pode ter Neymar, Coutinho, Cebolinha e Gabigol contra o Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZy16UFh5ZWZKQjU3SEtpUXNBWEo4ZzdXSk1qUXVJa0RtWEZScWN2SE9NZy1kZXVXTHd5N2k1dGNUZ0Fpa1dGVEVXQnB3UTlweXU5V2JXSlFQY1hkSG4yUDg2b1l6RXlIc21SWnJoRlJhRDRmSjhFbFpsN2dYcW1fRm50UDJMc0c0cjBqOUo1bHlWcE96TWo2Z1JJX2RPZjV6d0YzQUxEQjh5X2VxTk8zUFBfQkpmRWJXWmFRalY1WTF1WkJUTzZFWjZBZ0E1VHlGbWpEZWwyNzFVcWczS1Zja3pRUnU3OXBQdG9UV2NSRlZlQlVUbnVEcVpHMVNYdjlYSzNEU0dB0gGUAkFVX3lxTFBkTnJoeWkzZHIxZGgtTVZaTEdNa1hJTnVGVEYxaEhWRUt5RTBZMVNsa1JSNmJoZV9OSTJOSEltNFFRSThxcS1oalhwQ1g3UTdjZHRfOF9vcGxxZk55dkN3V3B6OFNjR3B5RVRBNVI0TkZ4aXg4ekdxZ2pndVZjb0t6X1hHLXp0U3JJaV9iMjNvS0x0NVg2eWRhM1N2aUFPWDhwREhqaU1CbTl0ZmNidGFKLS1SVWFSVjhVSnYxeXNEbnV0c0wtU1Axdk5qa1lnVXdpdWpiY3NmRFQ0NEpXTWg2RmtXaXhxdDd6VlhKN1NiaC0wWGplcUcwcHBad3ktdDdjSWNWTzE3THBvYWxPSmN6RTR6ag?oc=5",
+      "data": "16/10 19:03"
     },
     {
-      "titulo": "Técnico do Fluminense sinaliza mudanças na equipe contra o Santos - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWZaZGNsWjNmUWlTcVJ6dEdvVUpDVm1nNkkwWHNuLU85RXhwM25oVWxSX1htVGFDZTVFY0pNTmtxOURQZVFfNWFTZWRYbThLRkF3VzV5UFUyRzhTWkhkVnRRRE9hOURDWC1ST2d1bjhWNjFMa3NCWE9xNjdOUTljbHBJUE10SjJKNHk3ZEV2Q0ltaUJkS3RJeF9tNk1lQURhTVlpd0VNdWQ1dU1CMUpaOEpacHpmUWc?oc=5",
-      "data": "16/10 15:56"
+      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHNBZGdCSkRCRFlTeVdkZWtvNVBGYlFvdjRRaUZLamphd0YzQ0dlWXZlVXkyWUE1VWxjTEpWZDdIYmtFdktlN05kRk9fMTJ4ZlRqRmlxQl9vZnZtQXBFSWh5R3JxSUNodkNjX1RGeU90cDNNbl95OU1MbW9XQWt5Z3ozakhRemJiMTJCRGpENjYtNHdwUkRpeXAzcFA4TExHT21OMUF3aEVrNVlrb2kyTXJna2E5MWF0dGZjdzFYeng3ek1LbjZnTVBQR1FQMmZzVEVkTUJaeEJVTTN4LWNnLVZRWTVnc3RleWpfSmRoRQ?oc=5",
+      "data": "16/10 19:12"
     },
     {
-      "titulo": "Tradução erra e confunde Sport com Fluminense em postagem do clube pernambucano; entenda - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHkycTVTeE5zOGNwWlpGVmtMM09GUWtkWUltOTJRZndxWWh2dTlKYTM1dXdpeFNzbG1zcjNzMHBXNzJBbGpIQk9HRm1oaXZfakVhZHhRWXJxeTJocllJUkt5WXdPR2dmVW9Nd0RnZ2pLWEVzemZ5YjI4NjMxRG9nUXBKb1ZlLXozaUEzdWJ2QXdlQXRfenYxY0hLN0JZZ051cnVGeUgtMXc3em9mazY0TnQ3bDhINnZjbEd3R1BaalhHZEZKUUZWb3hfYTZUZUU0eWo0OHJEbExJSWd00gHrAUFVX3lxTE9rbHYtZ2lETFlpbGJPSXlfNEQ2MVd3Y2pRd1RZUkNlYk1wQmVNRWk0MHJvTWYtam1McFpnSk5YUjdPT0c0VWpMbE9pbi1ZeGRvSnZScFdOc0ZtQUV0enQwUmlLNTR0dm9RMUZjcF82MnRUZV9JZnFvUENWbERGeDNTN1pZZFQ5SmJXZ3dPd0pkb2VEc2pqREg1aURwcUQ4Qm5xbGJJWS1jX05NT25WUXVnbkpQdzZYRHd0MlRXT2tOVnJpOHlZQWVrYkxBZWh5VWdmUlRFOFpDbGYwVmk3WXZLNE5FWHVWakd3NUE?oc=5",
-      "data": "15/10 23:00"
+      "titulo": "Santos recebe notícia inesperada antes de enfrentar o Fluminense - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fd1J1bHhidF9uS3hlMnhRejIyQTNKTEtQZzItNzRpTEZYVlhkMUF3Rm1reWxzaXBSUkFBaER0VVdUeUd4MnNHYWgwRmdUeEVSQ2tBSHJhZ01nWXFxd1p4QkhIYU1jZzFkc0FESGFKZk1jdw?oc=5",
+      "data": "16/10 21:22"
     },
     {
-      "titulo": "Fluminense é vice-campeão do Carioca de Basquete - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNblJkaVI5ZlNOOGxaWi1JNjhhY1BuWHJNMDE0QVRkLUhPbk5xVG8yMkE2Yk1QSXhZUEJWWnhhZVJxcU9pUzdhVU5IWnR0dlQwWHZXNEpXVlE3Q1k5c2ZqZVpSLXhIazhwQ0ZHRjZWek9oUFRpOE9LVXRvMUNmaFFMNnNYWFExdEcxZGNHUTFOQQ?oc=5",
-      "data": "16/10 00:44"
+      "titulo": "Fluminense x Palmeiras pela Libertadores; acompanhe ao vivo - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3ZLdENMcER5UzBXR0E5UFhvQ1pVYjAxUnhXcnVOS2xZOGUxb3Nzd2ZBc3FKMWVtcFhBX3czRXVxSjV5dXBEQUdrUTZIRWtoWUZvWHVIdUZPNzFlQ2lfY0lKcTBid3hqUlJ0SzdtVjNXRkg2b1NsYVhwYlM3SFlPLVFqQzR5LW9NSndlLTV0bE9nOEYzRzBkME9hdk84V3E4RU9OOWthaVVTNE5uS2NadE90OFBNVXlJNmdjb1lGd3NWV29WVjk5eDBRYjgtbDVreVo3b1l4dWh3dnlUcG5GSnJMa0ZYdFhTSlozeU8wUHQ?oc=5",
+      "data": "15/10 02:40"
     }
   ],
   "avisos": []
