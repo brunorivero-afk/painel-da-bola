@@ -1,36 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/10/2026 19:26",
+  "atualizado_em": "16/10/2026 21:59",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro x Cerro Largo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "competition": "MLS Next Pro",
-      "match": "Atlanta United II x Connecticut FC",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Atlético GO",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-16",
@@ -109,8 +79,9 @@ window.PAINEL_DATA = {
       "date": "2026-10-16",
       "time": "13:30",
       "competition": "2ª Divisão Alemã",
-      "match": "Energie Cottbus x FC Nurnberg",
+      "match": "Holstein Kiel x Hertha Berlin",
       "channels": [
+        "YOUTUBE",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -119,9 +90,8 @@ window.PAINEL_DATA = {
       "date": "2026-10-16",
       "time": "13:30",
       "competition": "2ª Divisão Alemã",
-      "match": "Holstein Kiel x Hertha Berlin",
+      "match": "Energie Cottbus x FC Nurnberg",
       "channels": [
-        "YOUTUBE",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -149,10 +119,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-16",
       "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Portuguesa Santista Sub20",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Huancayo x Cusco",
       "channels": [
-        "TNT"
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "RB Bragantino Sub-20 x Flamengo SP Sub-20",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -170,9 +150,9 @@ window.PAINEL_DATA = {
       "date": "2026-10-16",
       "time": "15:00",
       "competition": "Paulista Sub-20",
-      "match": "RB Bragantino Sub-20 x Flamengo SP Sub-20",
+      "match": "Corinthians Sub-20 x Portuguesa Santista Sub20",
       "channels": [
-        "YOUTUBE"
+        "TNT"
       ]
     },
     {
@@ -184,16 +164,6 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-16",
-      "time": "15:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Huancayo x Cusco",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -237,6 +207,36 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTYNET",
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "19:00",
+      "competition": "MLS Next Pro",
+      "match": "Atlanta United II x Connecticut FC",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro x Cerro Largo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-16",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Atlético GO",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -1073,19 +1073,19 @@ window.PAINEL_DATA = {
       "data": "16/10 19:03"
     },
     {
-      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHNBZGdCSkRCRFlTeVdkZWtvNVBGYlFvdjRRaUZLamphd0YzQ0dlWXZlVXkyWUE1VWxjTEpWZDdIYmtFdktlN05kRk9fMTJ4ZlRqRmlxQl9vZnZtQXBFSWh5R3JxSUNodkNjX1RGeU90cDNNbl95OU1MbW9XQWt5Z3ozakhRemJiMTJCRGpENjYtNHdwUkRpeXAzcFA4TExHT21OMUF3aEVrNVlrb2kyTXJna2E5MWF0dGZjdzFYeng3ek1LbjZnTVBQR1FQMmZzVEVkTUJaeEJVTTN4LWNnLVZRWTVnc3RleWpfSmRoRQ?oc=5",
-      "data": "16/10 19:12"
+      "titulo": "Jornalista faz palpite para Fluminense x Santos e jogos da 31ª rodada - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHE5ZlFkUXdZVFVRTkFyUm9ab1lDdlJ6d0MxUXFkZkdTN1djSUgzQnh5eGdyNE56X2V5MDgwdDVZaGVBdjd0d1RCazFPVzIwQlRMa2NGNU0tZ3JkS1lkT1NKV3Q5LVQ1bFlCbFN3RVJDQzhzRjJWV18ydlNvVDJxZmdRYVdlaDJQN1o5OUp2bGk3c0tQbXYxd2FWdW8?oc=5",
+      "data": "16/10 15:13"
     },
     {
-      "titulo": "Santos recebe notícia inesperada antes de enfrentar o Fluminense - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fd1J1bHhidF9uS3hlMnhRejIyQTNKTEtQZzItNzRpTEZYVlhkMUF3Rm1reWxzaXBSUkFBaER0VVdUeUd4MnNHYWgwRmdUeEVSQ2tBSHJhZ01nWXFxd1p4QkhIYU1jZzFkc0FESGFKZk1jdw?oc=5",
-      "data": "16/10 21:22"
+      "titulo": "Escalação do Fluminense: Marcão poupará titulares contra o Santos - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRG4wTXFwdFlwUGVXWWE2Qjl6TU5hcXp3RlBIeWFvZjktV0JWZ1prck91Smh4RnE3MzEtRFRJZ3UwcUQtSnlhc3F6dldQNlpYNW1QV2FFZW5nZmRzWU5mSDNYZU9velFDcmU5RmVoWDl0Z1RudXRUcmtkMzlETWtPTGw1MWoxZVlDemE1anh0eS1OaUdTdUt4bTZiVHliR2M1ZUhsTGQxa3lsTjJzOWlmTWhUblUwOVpwcG9pUnRRU0w3N245blRnamhVRmFhUnox0gHfAUFVX3lxTE5CRzZDdm1RUUpaWmdxSy1DaF9uVFNHTmFNMWpBa2dIQnhHMTlpbHpIX2cwSXh6anFmQjlhcEZaTUJtTk9GbEJMeFR0eEwzWW84Y2dzSzh3NXJYTG5Rb1RCUWdRUk9xRG5Kb19UdXN3d0xlb3lONVpVMGRjRFZCc2xTeENJcER6RG02emZhd2gzX19KWk13TDlxU0VGcWQ0djRsQk1rbUVYbGZLYmlPdkxTQ1FQTjdBUGVZZ3VoSVMzdG1ndEpTYkRjNll2R1dJa1VxMDVXZlN6VHNpOVhQZkk?oc=5",
+      "data": "16/10 22:36"
     },
     {
-      "titulo": "Fluminense x Palmeiras pela Libertadores; acompanhe ao vivo - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNN3ZLdENMcER5UzBXR0E5UFhvQ1pVYjAxUnhXcnVOS2xZOGUxb3Nzd2ZBc3FKMWVtcFhBX3czRXVxSjV5dXBEQUdrUTZIRWtoWUZvWHVIdUZPNzFlQ2lfY0lKcTBid3hqUlJ0SzdtVjNXRkg2b1NsYVhwYlM3SFlPLVFqQzR5LW9NSndlLTV0bE9nOEYzRzBkME9hdk84V3E4RU9OOWthaVVTNE5uS2NadE90OFBNVXlJNmdjb1lGd3NWV29WVjk5eDBRYjgtbDVreVo3b1l4dWh3dnlUcG5GSnJMa0ZYdFhTSlozeU8wUHQ?oc=5",
-      "data": "15/10 02:40"
+      "titulo": "Fluminense x Palmeiras: placar, lances e onde assistir o jogo da Libertadores - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkhyaHFhWmxHMXFtN0lhUDZfU2dZTWZxOXRvNG1taElnNHg3YmVsVHZYOGdwTVNoS05qTDJxZXc1WTJpZUFHcU5KMGU5ZHo5NngwRG1iTlNIcEtWMkJfTTg2bl9LZlgtdWVXbHBGNHZSUVhBdVp2UVloUFhBcExfLVl0bkNBZEFWN2l3bGx3aVBSTE56R2Q4UTh1X25UMVIyd0tNTW1sUWhLeldpOUJ2QXlacXhvQ1VKbHo4T0JQNS0wRkN3bGdxWmlUTWM?oc=5",
+      "data": "14/10 22:49"
     }
   ],
   "avisos": []
