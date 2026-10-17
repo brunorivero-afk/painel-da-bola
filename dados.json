@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/10/2026 02:26",
+  "atualizado_em": "17/10/2026 07:03",
   "jogos": [
     {
       "sport": "futebol",
@@ -789,6 +789,7 @@
       "competition": "Campeonato Espanhol",
       "match": "Osasuna x Racing Santander",
       "channels": [
+        "SPORTYNET",
         "CAZÉTV"
       ]
     },
@@ -827,7 +828,7 @@
       "date": "2026-10-18",
       "time": "10:00",
       "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x Botafogo Sub-20",
+      "match": "Santos Sub-20 x Ponte Preta Sub-20",
       "channels": [
         "YOUTUBE"
       ]
@@ -847,7 +848,7 @@
       "date": "2026-10-18",
       "time": "10:00",
       "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x Ponte Preta Sub-20",
+      "match": "Palmeiras Sub-20 x Botafogo Sub-20",
       "channels": [
         "YOUTUBE"
       ]
@@ -869,6 +870,7 @@
       "competition": "Campeonato Italiano",
       "match": "Fiorentina x como",
       "channels": [
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -879,6 +881,7 @@
       "competition": "Campeonato Inglês",
       "match": "Leeds x Manchester United",
       "channels": [
+        "CAZÉTV",
         "DISNEY+"
       ]
     },
@@ -889,6 +892,7 @@
       "competition": "Campeonato Inglês",
       "match": "Brighton x Crystal Palace",
       "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -909,6 +913,8 @@
       "competition": "Campeonato Alemão",
       "match": "Bayer Leverkusen x SC Freiburg",
       "channels": [
+        "XSPORTS",
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -960,6 +966,7 @@
       "competition": "Campeonato Francês",
       "match": "Lorient x Monaco",
       "channels": [
+        "XSPORTS",
         "CAZÉTV"
       ]
     },
@@ -1007,20 +1014,31 @@
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sporting Cristal x Comerciantes Unidos",
+      "competition": "Campeonato Italiano",
+      "match": "AC Milan x Atalanta",
       "channels": [
-        "FANATIZ"
+        "CAZÉTV",
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "AC Milan x Atalanta",
+      "competition": "Campeonato Turco",
+      "match": "Istanbul Basaksehir x Gazisehir Gaziantep",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -1070,7 +1088,8 @@
       "competition": "Campeonato Saudita",
       "match": "Al-Fateh x Al Khaleej Saihat",
       "channels": [
-        "BANDSPORTS"
+        "BANDSPORTS",
+        "CANAL GOAT"
       ]
     },
     {
@@ -1100,6 +1119,7 @@
       "competition": "Campeonato Italiano",
       "match": "Juventus x Lazio",
       "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -1111,6 +1131,16 @@
       "match": "Lyon x Nice",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "15:45",
+      "competition": "Taça de Portugal",
+      "match": "CF Os Belenenses x Arouca",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -1144,7 +1174,7 @@
       "channels": [
         "GLOBO",
         "SPORTV",
-        "PREMIERE"
+        "PREMIERE 5"
       ]
     },
     {
@@ -1279,6 +1309,7 @@
       "competition": "Campeonato Argentino",
       "match": "Belgrano Cordoba x River Plate",
       "channels": [
+        "ESPN 3",
         "ESPN 4",
         "DISNEY+"
       ]
@@ -1342,63 +1373,48 @@
       "channels": [
         "SporTV2"
       ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-17",
-      "time": "18:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Suzano x Campinas",
-      "channels": [
-        "SporTV2"
-      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.8,
-      "temp_min": 21.1,
+      "temp_max": 23.9,
+      "temp_min": 20.6,
       "chance_chuva": 96,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.6,
-      "temp_min": 21.3,
+      "temp_max": 25.5,
+      "temp_min": 21.4,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.3,
+      "temp_max": 22.8,
       "temp_min": 17.1,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.4,
-      "temp_min": 14.8,
+      "temp_max": 20.0,
+      "temp_min": 14.7,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Resumo do Dia: Repercussão da semifinal da Libertadores, projeções de Marcão, decisões judiciais e vitória no futebol feminino do Fluminense (15/10) - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUhoTS1aaHhlNkQzeE9zckFlWG5xa0pqN2N1WVM3TnkwdnJ3Qmltbk56RXVmLVdoS0lpVkZHdXN2OU9icEhQVUtUekFFWmY2aW5sSGRFaXB3SFdfWTYtdFl0Wm55Rm5fRm5ISDdrRzV2MTlLaTJneUJOTWs5emZFQk4wYWtyYXE2Ny1yYVJJN2JNTjdiM2ZxU19XeHpuU2ZERF9EOGo5emUySm9fUU84OHNNVFpGaWJkdm9Xcl9VVUc?oc=5",
-      "data": "16/10 02:14"
-    },
-    {
       "titulo": "Zagueiro campeão da Libertadores pelo Fluminense renova contrato com clube americano - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdVQzFzUFcyb19xQm45V2pla2F1THA3M2Y2MlZfZ2UwanNMRnlSb3UyZXJiQWdjY0psZ1NTMFpmMk55anFBZDB6eTBoVy1XWUlvQXhld1Q0UTR4REY2QU1QUWRjVXZDQ2NHSFMtR3dSRHFyU1l2OThUQTNKamF5N3FPTkFRek9FWmVoQmhfcFdqaXVSOTdsR3NoRkM1eU93OHkzVU9TSFFOSEFnSGwxZA?oc=5",
       "data": "17/10 02:39"
     },
     {
-      "titulo": "Fluminense x Palmeiras: placar, lances e onde assistir o jogo da Libertadores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkhyaHFhWmxHMXFtN0lhUDZfU2dZTWZxOXRvNG1taElnNHg3YmVsVHZYOGdwTVNoS05qTDJxZXc1WTJpZUFHcU5KMGU5ZHo5NngwRG1iTlNIcEtWMkJfTTg2bl9LZlgtdWVXbHBGNHZSUVhBdVp2UVloUFhBcExfLVl0bkNBZEFWN2l3bGx3aVBSTE56R2Q4UTh1X25UMVIyd0tNTW1sUWhLeldpOUJ2QXlacXhvQ1VKbHo4T0JQNS0wRkN3bGdxWmlUTWM?oc=5",
-      "data": "14/10 22:49"
+      "titulo": "Fluminense atinge números expressivos em transmissão do jogo com o Palmeiras - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmpVSmRJNmFyNmxmaDFIUU56dUltWnlLOUdVc2dNOHY5aDVOWENDRGxuX2RqVEIwR2FMNE5TMkVuSGVuUUc0SGxMaVFkamdfaFBieUtFN05LT0h6VmN2TEc2dXcycjQ4d0JjZG9vRzhpNDk4RlFxRXBaaVo1Ym9hVjh2NTJtdmtLZGpGbGpvbVN5RldWN3VuekJ1RmhFWGRlUUpVMnFB?oc=5",
+      "data": "17/10 01:45"
     },
     {
       "titulo": "Escalação do Santos: Cuca pode ter Neymar, Coutinho, Cebolinha e Gabigol contra o Fluminense - ge",
@@ -1406,9 +1422,14 @@
       "data": "16/10 19:03"
     },
     {
-      "titulo": "Jornalista faz palpite para Fluminense x Santos e jogos da 31ª rodada - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHE5ZlFkUXdZVFVRTkFyUm9ab1lDdlJ6d0MxUXFkZkdTN1djSUgzQnh5eGdyNE56X2V5MDgwdDVZaGVBdjd0d1RCazFPVzIwQlRMa2NGNU0tZ3JkS1lkT1NKV3Q5LVQ1bFlCbFN3RVJDQzhzRjJWV18ydlNvVDJxZmdRYVdlaDJQN1o5OUp2bGk3c0tQbXYxd2FWdW8?oc=5",
-      "data": "16/10 15:13"
+      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário e prováveis escalações pela 31ª rodada da Série A - JC",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ3NqS2hiV2Jzdzd5MVhRejN4WlZxTThUaHUyUU1pRUIyY2c5aE1fRHBkTmRnYnNQX3N6RXRPaENxRkFuNVpLd29COG1jc0huYmE4TUdma01jZ1p6S192bEhQQkQyd3V0b1Y5NUlERkd3cXFMdE9JSTZWeHFEZ2kxdjVjWlBfYWJ3NEtHOTRIbVdLMTRDMnFsNW5kWUlpRlU3OU1mYjdDV210VzNFM1NjQktLb2kwcF9PMDZvRlhQY3hwQ1gxRU92WjdLalUtSFFEZS0tS0NUbDlYcDBtdEhPVW5FQ3ViTTktM3hhVmh4dkpTdVRwZVZQREdmcw?oc=5",
+      "data": "16/10 15:19"
+    },
+    {
+      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHNBZGdCSkRCRFlTeVdkZWtvNVBGYlFvdjRRaUZLamphd0YzQ0dlWXZlVXkyWUE1VWxjTEpWZDdIYmtFdktlN05kRk9fMTJ4ZlRqRmlxQl9vZnZtQXBFSWh5R3JxSUNodkNjX1RGeU90cDNNbl95OU1MbW9XQWt5Z3ozakhRemJiMTJCRGpENjYtNHdwUkRpeXAzcFA4TExHT21OMUF3aEVrNVlrb2kyTXJna2E5MWF0dGZjdzFYeng3ek1LbjZnTVBQR1FQMmZzVEVkTUJaeEJVTTN4LWNnLVZRWTVnc3RleWpfSmRoRQ?oc=5",
+      "data": "16/10 19:12"
     }
   ],
   "avisos": []
