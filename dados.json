@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/10/2026 17:00",
+  "atualizado_em": "17/10/2026 19:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -1378,29 +1378,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.5,
-      "temp_min": 20.5,
+      "temp_max": 24.3,
+      "temp_min": 20.9,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.7,
-      "temp_min": 21.1,
+      "temp_max": 25.2,
+      "temp_min": 21.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.9,
-      "temp_min": 16.7,
+      "temp_max": 24.2,
+      "temp_min": 17.3,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.3,
-      "temp_min": 14.6,
+      "temp_max": 20.6,
+      "temp_min": 14.9,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -1412,14 +1412,14 @@
       "data": "17/10 02:39"
     },
     {
-      "titulo": "Escalação do Fluminense: Marcão poupará titulares contra o Santos - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRG4wTXFwdFlwUGVXWWE2Qjl6TU5hcXp3RlBIeWFvZjktV0JWZ1prck91Smh4RnE3MzEtRFRJZ3UwcUQtSnlhc3F6dldQNlpYNW1QV2FFZW5nZmRzWU5mSDNYZU9velFDcmU5RmVoWDl0Z1RudXRUcmtkMzlETWtPTGw1MWoxZVlDemE1anh0eS1OaUdTdUt4bTZiVHliR2M1ZUhsTGQxa3lsTjJzOWlmTWhUblUwOVpwcG9pUnRRU0w3N245blRnamhVRmFhUnox0gHfAUFVX3lxTE5CRzZDdm1RUUpaWmdxSy1DaF9uVFNHTmFNMWpBa2dIQnhHMTlpbHpIX2cwSXh6anFmQjlhcEZaTUJtTk9GbEJMeFR0eEwzWW84Y2dzSzh3NXJYTG5Rb1RCUWdRUk9xRG5Kb19UdXN3d0xlb3lONVpVMGRjRFZCc2xTeENJcER6RG02emZhd2gzX19KWk13TDlxU0VGcWQ0djRsQk1rbUVYbGZLYmlPdkxTQ1FQTjdBUGVZZ3VoSVMzdG1ndEpTYkRjNll2R1dJa1VxMDVXZlN6VHNpOVhQZkk?oc=5",
-      "data": "16/10 22:36"
+      "titulo": "Fred conquista primeiro título à frente da equipe sub-20 do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkxUYmFxOXEwX1RzQWRNZjBMM0xxa0Fua2tKLWw5S2JxT1JRVVRLci01XzZsck5BY1BPeEd1UjBqclZjS3dHbXBsdjI0N2tiRkFUZ0V2MUJGOTZnUHhzYm9WMkNvcGtNMWt2NUlndktkUEc5TmR4NDRoUEJZbUVGbDEyZTNWX253eXRaV3NNSWZoX2Uwdlp2RUVISkFvZw?oc=5",
+      "data": "17/10 20:29"
     },
     {
-      "titulo": "Ex-Fluminense revela que recebeu proposta do Barcelona em 2019 - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGxHOE95OU5DaUVyc1JIdVNDdHlvLUc5ei1MYXU5UGdKdXBJbTRaT1lGbktFc1htUmV4YXktWlZaT3hvbjB6bDlvbHpUWFZZdldGcTlKN0JTLUhYRG1lZUpaZ21HdDk3Rm1FX0JxMTMxZEVDQ0drRGY4OXVGMF9mV0NGSExKUnRUOXFuVnFYSlpfNWs?oc=5",
-      "data": "17/10 17:02"
+      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
+      "data": "17/10 21:05"
     },
     {
       "titulo": "Fluminense disputa título da Taça Guanabara Sub-20 neste sábado - Fluminense Football Club",
@@ -1427,10 +1427,13 @@
       "data": "17/10 13:00"
     },
     {
-      "titulo": "Fluminense atinge números expressivos em transmissão do jogo com o Palmeiras - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmpVSmRJNmFyNmxmaDFIUU56dUltWnlLOUdVc2dNOHY5aDVOWENDRGxuX2RqVEIwR2FMNE5TMkVuSGVuUUc0SGxMaVFkamdfaFBieUtFN05LT0h6VmN2TEc2dXcycjQ4d0JjZG9vRzhpNDk4RlFxRXBaaVo1Ym9hVjh2NTJtdmtLZGpGbGpvbVN5RldWN3VuekJ1RmhFWGRlUUpVMnFB?oc=5",
-      "data": "17/10 01:45"
+      "titulo": "Fluminense x Santos: onde assistir, horário e escalações - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUNYdXR3T0tNNzZWcGtibGloYVIweTMtVFBXOXlhTk94WktoOU9YWk1yX3c0ZmdHQ0M0RkNNcjFEOGdGUENHWXF1LWZWaWhJRFlWOHZUUGw0dGpfcmVLUk1aZ2tnZm5PSjJ4Y2tGODVTVWlUbXJfcHpNZUYtMDZsSEpILTM2NXJ1MlpNSnRrUU9renloU1VXZVo1QQ?oc=5",
+      "data": "17/10 17:05"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar futebol na TV: The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing.",
+    "Futebol: mantendo dados do último sucesso."
+  ]
 }
