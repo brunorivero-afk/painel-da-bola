@@ -1,67 +1,6 @@
 {
-  "atualizado_em": "17/10/2026 07:03",
+  "atualizado_em": "17/10/2026 11:01",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "SpVgg Greuther Furth x Eintracht Braunschweig",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL Wolfsburg x FC Heidenheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Kaiserslautern x VfL BOCHUM",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:30",
-      "competition": "Campeonato Inglês",
-      "match": "Everton x Chelsea",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "09:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Atletico Madrid",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "09:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Fortuna Dusseldorf x FC Saarbrücken",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-17",
@@ -158,9 +97,9 @@
       "date": "2026-10-17",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Fulham x Hull City",
+      "match": "Brentford x Liverpool",
       "channels": [
-        "ESPN 4",
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -179,9 +118,9 @@
       "date": "2026-10-17",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Brentford x Liverpool",
+      "match": "Fulham x Hull City",
       "channels": [
-        "ESPN",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -199,20 +138,20 @@
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "11:30",
-      "competition": "Campeonato Holandês",
-      "match": "ADO Den Haag x PSV Eindhoven",
+      "competition": "3ª Divisão Alemã",
+      "match": "FC (F)urzburger Kickers x Waldhof Mannheim",
       "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC (F)urzburger Kickers x Waldhof Mannheim",
+      "competition": "Campeonato Holandês",
+      "match": "ADO Den Haag x PSV Eindhoven",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -394,20 +333,20 @@
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "15:45",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x Desportivo Brasil Sub-20",
+      "competition": "Campeonato Francês",
+      "match": "Estac Troyes x Lens",
       "channels": [
-        "XSPORTS"
+        "CAZÉTV"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-17",
       "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Estac Troyes x Lens",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x Desportivo Brasil Sub-20",
       "channels": [
-        "CAZÉTV"
+        "XSPORTS"
       ]
     },
     {
@@ -720,6 +659,67 @@
       "match": "Portland Timbers x Colorado Rapids",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Kaiserslautern x VfL BOCHUM",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "SpVgg Greuther Furth x Eintracht Braunschweig",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "08:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "VfL Wolfsburg x FC Heidenheim",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "08:30",
+      "competition": "Campeonato Inglês",
+      "match": "Everton x Chelsea",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "09:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Fortuna Dusseldorf x FC Saarbrücken",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-17",
+      "time": "09:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Espanyol x Atletico Madrid",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -1378,29 +1378,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.9,
-      "temp_min": 20.6,
-      "chance_chuva": 96,
+      "temp_max": 23.5,
+      "temp_min": 20.5,
+      "chance_chuva": 99,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.5,
-      "temp_min": 21.4,
+      "temp_max": 24.7,
+      "temp_min": 21.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.8,
-      "temp_min": 17.1,
+      "temp_max": 23.9,
+      "temp_min": 16.7,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.0,
-      "temp_min": 14.7,
+      "temp_max": 20.3,
+      "temp_min": 14.6,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -1410,6 +1410,11 @@
       "titulo": "Zagueiro campeão da Libertadores pelo Fluminense renova contrato com clube americano - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdVQzFzUFcyb19xQm45V2pla2F1THA3M2Y2MlZfZ2UwanNMRnlSb3UyZXJiQWdjY0psZ1NTMFpmMk55anFBZDB6eTBoVy1XWUlvQXhld1Q0UTR4REY2QU1QUWRjVXZDQ2NHSFMtR3dSRHFyU1l2OThUQTNKamF5N3FPTkFRek9FWmVoQmhfcFdqaXVSOTdsR3NoRkM1eU93OHkzVU9TSFFOSEFnSGwxZA?oc=5",
       "data": "17/10 02:39"
+    },
+    {
+      "titulo": "Fluminense disputa título da Taça Guanabara Sub-20 neste sábado - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVZKYm43LWRZa1NpNWliaGJSS0pOSFVQS1l2N3ltTG1lYk82U3E4RWQwamFYckQyQmpwRWdOV1E3bUpEaGxBVEtwakJZTHV0Qm9vRmkxTkJVZXZfSFI1MGtWcXQ1MENpUS1rNW9WNERLVGJOZHFVSkZJN0Z4LTMtb1ZPT01abFktLUotSUIyQW9MbFl5N2RxbHBpTmpINWtFYkFB?oc=5",
+      "data": "17/10 13:00"
     },
     {
       "titulo": "Fluminense atinge números expressivos em transmissão do jogo com o Palmeiras - NETFLU",
@@ -1422,14 +1427,9 @@
       "data": "16/10 19:03"
     },
     {
-      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário e prováveis escalações pela 31ª rodada da Série A - JC",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ3NqS2hiV2Jzdzd5MVhRejN4WlZxTThUaHUyUU1pRUIyY2c5aE1fRHBkTmRnYnNQX3N6RXRPaENxRkFuNVpLd29COG1jc0huYmE4TUdma01jZ1p6S192bEhQQkQyd3V0b1Y5NUlERkd3cXFMdE9JSTZWeHFEZ2kxdjVjWlBfYWJ3NEtHOTRIbVdLMTRDMnFsNW5kWUlpRlU3OU1mYjdDV210VzNFM1NjQktLb2kwcF9PMDZvRlhQY3hwQ1gxRU92WjdLalUtSFFEZS0tS0NUbDlYcDBtdEhPVW5FQ3ViTTktM3hhVmh4dkpTdVRwZVZQREdmcw?oc=5",
-      "data": "16/10 15:19"
-    },
-    {
-      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOHNBZGdCSkRCRFlTeVdkZWtvNVBGYlFvdjRRaUZLamphd0YzQ0dlWXZlVXkyWUE1VWxjTEpWZDdIYmtFdktlN05kRk9fMTJ4ZlRqRmlxQl9vZnZtQXBFSWh5R3JxSUNodkNjX1RGeU90cDNNbl95OU1MbW9XQWt5Z3ozakhRemJiMTJCRGpENjYtNHdwUkRpeXAzcFA4TExHT21OMUF3aEVrNVlrb2kyTXJna2E5MWF0dGZjdzFYeng3ek1LbjZnTVBQR1FQMmZzVEVkTUJaeEJVTTN4LWNnLVZRWTVnc3RleWpfSmRoRQ?oc=5",
-      "data": "16/10 19:12"
+      "titulo": "Anny destaca força mental do Fluminense e manda recado à torcida - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdTl4WnVDZmFkM0pyRjVJbXpXV2tRbG9GOTF4NElrWXJVaDhnTFNXSUZQRFlYaFN1dG0tanBTMllnLVBycGQtRUZfQ2g0T3h4My01U1Yzc3FsLVlKeGxsd2lvLXFkWTRPbU9wbEZnWkZnZi1nUlFzWkNhR3RyaU1leDJ2Sl93VWtON0RDOVhyYjNtckw1Zm1VaUtraldWUUlLQ3hRMU5rY3ZkYlJNZUlucjZ0Z1lkQVowUGhyUi04aDVkYzB6cGlvTDhCN29Rdk9RNkFCMEFuV3pkcTQ?oc=5",
+      "data": "16/10 15:06"
     }
   ],
   "avisos": []
