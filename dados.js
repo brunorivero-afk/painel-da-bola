@@ -1,737 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "17/10/2026 21:34",
+  "atualizado_em": "18/10/2026 02:21",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Juventus Sub-20 x Santo André Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:00",
-      "competition": "Campeonato Holandês",
-      "match": "Telstar x Feyenoord",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Hannover 96 x FC St. Pauli",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:30",
-      "competition": "MLS",
-      "match": "Philadelphia Union x Charlotte",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Roma x Genoa",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Estac Troyes x Lens",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:45",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x Desportivo Brasil Sub-20",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "16:00",
-      "competition": "Campeonato Escocês",
-      "match": "Dundee x Rangers",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Boston River x Defensor Sporting",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "16:00",
-      "competition": "MLS Next Pro",
-      "match": "Columbus Crew II x New England II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Athletic Club",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "16:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Juventude",
-      "channels": [
-        "REDETV!",
-        "ESPN",
-        "CANAL GOAT",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Sport Boys",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "17:00",
-      "competition": "Brasileirão Série C",
-      "match": "Maringá x Ferroviária",
-      "channels": [
-        "BAND",
-        "SPORTYNET",
-        "CANAL DO BENJA"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "17:30",
-      "competition": "Campeonato Argentino",
-      "match": "Platense x Lanus",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "17:30",
-      "competition": "MLS",
-      "match": "Minnesota United FC x St. Louis City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "18:00",
-      "competition": "Brasileirão Série A",
-      "match": "Botafogo x Chapecoense-sc",
-      "channels": [
-        "RECORD",
-        "PREMIERE",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "18:00",
-      "competition": "Copa Paulista",
-      "match": "São José EC x Uniao Sao Joao",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Coritiba",
-      "channels": [
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "América-MG x Operário-PR",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Athletico PR x Palmeiras",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "20:00",
-      "competition": "Campeonato Peruano",
-      "match": "FBC Melgar x Deportivo Garcilaso",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Atlanta United FC x Inter Miami",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York City FC x Los Angeles FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Orlando City SC x DC United",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "New England x Chicago Fire",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "21:00",
-      "competition": "Brasileirão Série A",
-      "match": "São Paulo x Vasco",
-      "channels": [
-        "SPORTV",
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Austin x Whitecaps",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Houston Dynamo x FC Dallas",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Sporting Kansas City x Real Salt Lake",
-      "channels": [
-        "ESPN 4",
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "22:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Toluca x Atletico San Luis",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "22:30",
-      "competition": "Campeonato Peruano",
-      "match": "Alianza Lima x Atletico Grau",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Portland Timbers x Colorado Rapids",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Los Angeles Galaxy x San Diego",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "Seattle Sounders x Montreal Impact",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "23:30",
-      "competition": "MLS",
-      "match": "San Jose Earthquakes x Nashville SC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL Wolfsburg x FC Heidenheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "SpVgg Greuther Furth x Eintracht Braunschweig",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Kaiserslautern x VfL BOCHUM",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "08:30",
-      "competition": "Campeonato Inglês",
-      "match": "Everton x Chelsea",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "09:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Espanyol x Atletico Madrid",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "09:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Fortuna Dusseldorf x FC Saarbrücken",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Venezia x Napoli",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Progreso x Juventud",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:00",
-      "competition": "Campeonato Turco",
-      "match": "Genclerbirligi x Galatasaray",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "competition": "Campeonato Russo",
-      "match": "Makhachkala x Akron",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Werder Bremen x SC Paderborn 07",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "FC Schalke 04 x FSV Mainz 05",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Hamburger SV x VfB Stuttgart",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "Union Berlin x Borussia Dortmund",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "SV Elversberg x FC Augsburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Manchester City x Ipswich",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Fulham x Hull City",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Brentford x Liverpool",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "11:15",
-      "competition": "Campeonato Espanhol",
-      "match": "Villarreal x Elche",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "11:30",
-      "competition": "Campeonato Holandês",
-      "match": "ADO Den Haag x PSV Eindhoven",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "FC (F)urzburger Kickers x Waldhof Mannheim",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Austria Lustenau x Lask Linz",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "12:15",
-      "competition": "Campeonato Francês",
-      "match": "Strasbourg x PSG",
-      "channels": [
-        "XSPORTS",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "12:40",
-      "competition": "Campeonato Saudita",
-      "match": "Neom x Al-Ettifaq",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Fenerbahce x Alanyaspor",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "Bologna x Inter",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Racing Montevideo x Wanderers",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Betis x Barcelona",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:30",
-      "competition": "Campeonato Russo",
-      "match": "Lokomotiv Moscow x Krasnodar",
-      "channels": [
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:30",
-      "competition": "Campeonato Alemão",
-      "match": "Bayern x RB Leipzig",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Newcastle x Aston Villa",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "14:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Ried x Austria Vienna",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-17",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "Ibrachina Sub-20 x Capivariano Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "00:10",
-      "competition": "Campeonato Mexicano",
-      "match": "Cruz Azul x FC Juarez",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-18",
@@ -827,10 +96,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Santos Sub-20 x Ponte Preta Sub-20",
+      "competition": "Campeonato Francês",
+      "match": "Angers x Marseille",
       "channels": [
-        "YOUTUBE"
+        "CAZÉTV"
       ]
     },
     {
@@ -848,7 +117,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-18",
       "time": "10:00",
       "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x Botafogo Sub-20",
+      "match": "Santos Sub-20 x Ponte Preta Sub-20",
       "channels": [
         "YOUTUBE"
       ]
@@ -857,10 +126,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "10:00",
-      "competition": "Campeonato Francês",
-      "match": "Angers x Marseille",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x Botafogo Sub-20",
       "channels": [
-        "CAZÉTV"
+        "YOUTUBE"
       ]
     },
     {
@@ -1014,10 +283,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "AC Milan x Atalanta",
+      "competition": "Campeonato Turco",
+      "match": "Istanbul Basaksehir x Gazisehir Gaziantep",
       "channels": [
-        "CAZÉTV",
         "DISNEY+"
       ]
     },
@@ -1025,9 +293,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Istanbul Basaksehir x Gazisehir Gaziantep",
+      "competition": "Campeonato Italiano",
+      "match": "AC Milan x Atalanta",
       "channels": [
+        "CAZÉTV",
         "DISNEY+"
       ]
     },
@@ -1148,10 +417,8 @@ window.PAINEL_DATA = {
       "date": "2026-10-18",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "CRB x Botafogo SP",
+      "match": "Avai x Athletic Club",
       "channels": [
-        "XSPORTS",
-        "SPORTYNET",
         "DISNEY+"
       ]
     },
@@ -1182,8 +449,10 @@ window.PAINEL_DATA = {
       "date": "2026-10-18",
       "time": "16:00",
       "competition": "Brasileirão Série B",
-      "match": "Avai x Athletic Club",
+      "match": "CRB x Botafogo SP",
       "channels": [
+        "XSPORTS",
+        "SPORTYNET",
         "DISNEY+"
       ]
     },
@@ -1325,18 +594,156 @@ window.PAINEL_DATA = {
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-10-17",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Campinas x Suzano",
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "00:10",
+      "competition": "Campeonato Mexicano",
+      "match": "Cruz Azul x FC Juarez",
       "channels": [
-        "SporTV2"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "12:05",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Fayha x Al-Ahli Jeddah",
+      "channels": [
+        "SPORTV 2",
+        "SPORTV",
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "12:20",
+      "competition": "Campeonato Saudita",
+      "match": "Abha x Al Kholood",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "13:30",
+      "competition": "Campeonato Italiano",
+      "match": "Monza x Cagliari",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Trabzonspor x Besiktas",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Parma x Torino",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Getafe x Rayo Vallecano",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "16:00",
+      "competition": "Campeonato Inglês",
+      "match": "Tottenham x Coventry",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x GIL Vicente",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Barracas Central",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Náutico",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Vitória",
+      "channels": [
+        "SPORTV",
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "20:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Deportivo Maldonado",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "21:15",
+      "competition": "Campeonato Argentino",
+      "match": "Deportivo Riestra x Union Santa Fe",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Mackenzie",
@@ -1346,7 +753,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Paulistano Barueri",
@@ -1356,7 +763,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Pinheiros",
@@ -1368,31 +775,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.3,
-      "temp_min": 21.2,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 25.2,
+      "temp_min": 20.7,
+      "chance_chuva": 92,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.2,
-      "temp_min": 21.1,
+      "temp_max": 23.9,
+      "temp_min": 20.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.2,
-      "temp_min": 16.7,
+      "temp_max": 25.3,
+      "temp_min": 15.8,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.6,
-      "temp_min": 15.1,
+      "temp_max": 22.0,
+      "temp_min": 14.8,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -1407,14 +814,14 @@ window.PAINEL_DATA = {
       "data": "17/10 20:58"
     },
     {
-      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
-      "data": "17/10 21:05"
-    },
-    {
       "titulo": "Fluminense disputa título da Taça Guanabara Sub-20 neste sábado - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVZKYm43LWRZa1NpNWliaGJSS0pOSFVQS1l2N3ltTG1lYk82U3E4RWQwamFYckQyQmpwRWdOV1E3bUpEaGxBVEtwakJZTHV0Qm9vRmkxTkJVZXZfSFI1MGtWcXQ1MENpUS1rNW9WNERLVGJOZHFVSkZJN0Z4LTMtb1ZPT01abFktLUotSUIyQW9MbFl5N2RxbHBpTmpINWtFYkFB?oc=5",
       "data": "17/10 13:00"
+    },
+    {
+      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
+      "data": "17/10 21:05"
     },
     {
       "titulo": "Escalação do Santos: Cuca pode ter Neymar, Coutinho, Cebolinha e Gabigol contra o Fluminense - ge",
@@ -1422,8 +829,5 @@ window.PAINEL_DATA = {
       "data": "16/10 19:03"
     }
   ],
-  "avisos": [
-    "Falha ao buscar futebol na TV: Response status code does not indicate success: 502 (Bad Gateway).",
-    "Futebol: mantendo dados do último sucesso."
-  ]
+  "avisos": []
 };
