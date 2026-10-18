@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/10/2026 19:49",
+  "atualizado_em": "17/10/2026 21:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -1327,16 +1327,6 @@
     {
       "sport": "volei",
       "date": "2026-10-17",
-      "time": "18:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Minas x Brusque",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-17",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Suzano",
@@ -1379,28 +1369,28 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 24.3,
-      "temp_min": 20.9,
+      "temp_min": 21.2,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.2,
-      "temp_min": 21.3,
+      "temp_min": 21.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 24.2,
-      "temp_min": 17.3,
+      "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.6,
-      "temp_min": 14.9,
+      "temp_min": 15.1,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -1414,7 +1404,7 @@
     {
       "titulo": "Fred conquista primeiro título à frente da equipe sub-20 do Fluminense - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkxUYmFxOXEwX1RzQWRNZjBMM0xxa0Fua2tKLWw5S2JxT1JRVVRLci01XzZsck5BY1BPeEd1UjBqclZjS3dHbXBsdjI0N2tiRkFUZ0V2MUJGOTZnUHhzYm9WMkNvcGtNMWt2NUlndktkUEc5TmR4NDRoUEJZbUVGbDEyZTNWX253eXRaV3NNSWZoX2Uwdlp2RUVISkFvZw?oc=5",
-      "data": "17/10 20:29"
+      "data": "17/10 20:58"
     },
     {
       "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
@@ -1427,13 +1417,13 @@
       "data": "17/10 13:00"
     },
     {
-      "titulo": "Fluminense x Santos: onde assistir, horário e escalações - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUNYdXR3T0tNNzZWcGtibGloYVIweTMtVFBXOXlhTk94WktoOU9YWk1yX3c0ZmdHQ0M0RkNNcjFEOGdGUENHWXF1LWZWaWhJRFlWOHZUUGw0dGpfcmVLUk1aZ2tnZm5PSjJ4Y2tGODVTVWlUbXJfcHpNZUYtMDZsSEpILTM2NXJ1MlpNSnRrUU9renloU1VXZVo1QQ?oc=5",
-      "data": "17/10 17:05"
+      "titulo": "Escalação do Santos: Cuca pode ter Neymar, Coutinho, Cebolinha e Gabigol contra o Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZy16UFh5ZWZKQjU3SEtpUXNBWEo4ZzdXSk1qUXVJa0RtWEZScWN2SE9NZy1kZXVXTHd5N2k1dGNUZ0Fpa1dGVEVXQnB3UTlweXU5V2JXSlFQY1hkSG4yUDg2b1l6RXlIc21SWnJoRlJhRDRmSjhFbFpsN2dYcW1fRm50UDJMc0c0cjBqOUo1bHlWcE96TWo2Z1JJX2RPZjV6d0YzQUxEQjh5X2VxTk8zUFBfQkpmRWJXWmFRalY1WTF1WkJUTzZFWjZBZ0E1VHlGbWpEZWwyNzFVcWczS1Zja3pRUnU3OXBQdG9UV2NSRlZlQlVUbnVEcVpHMVNYdjlYSzNEU0dB0gGUAkFVX3lxTFBkTnJoeWkzZHIxZGgtTVZaTEdNa1hJTnVGVEYxaEhWRUt5RTBZMVNsa1JSNmJoZV9OSTJOSEltNFFRSThxcS1oalhwQ1g3UTdjZHRfOF9vcGxxZk55dkN3V3B6OFNjR3B5RVRBNVI0TkZ4aXg4ekdxZ2pndVZjb0t6X1hHLXp0U3JJaV9iMjNvS0x0NVg2eWRhM1N2aUFPWDhwREhqaU1CbTl0ZmNidGFKLS1SVWFSVjhVSnYxeXNEbnV0c0wtU1Axdk5qa1lnVXdpdWpiY3NmRFQ0NEpXTWg2RmtXaXhxdDd6VlhKN1NiaC0wWGplcUcwcHBad3ktdDdjSWNWTzE3THBvYWxPSmN6RTR6ag?oc=5",
+      "data": "16/10 19:03"
     }
   ],
   "avisos": [
-    "Falha ao buscar futebol na TV: The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing.",
+    "Falha ao buscar futebol na TV: Response status code does not indicate success: 502 (Bad Gateway).",
     "Futebol: mantendo dados do último sucesso."
   ]
 }
