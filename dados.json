@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "18/10/2026 02:21",
+  "atualizado_em": "18/10/2026 07:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -775,29 +775,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.2,
-      "temp_min": 20.7,
+      "temp_max": 25.0,
+      "temp_min": 20.5,
       "chance_chuva": 92,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.9,
-      "temp_min": 20.6,
+      "temp_max": 25.6,
+      "temp_min": 19.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.3,
-      "temp_min": 15.8,
+      "temp_max": 24.7,
+      "temp_min": 15.6,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.0,
-      "temp_min": 14.8,
+      "temp_max": 22.7,
+      "temp_min": 13.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
@@ -807,6 +807,11 @@
       "titulo": "Zagueiro campeão da Libertadores pelo Fluminense renova contrato com clube americano - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdVQzFzUFcyb19xQm45V2pla2F1THA3M2Y2MlZfZ2UwanNMRnlSb3UyZXJiQWdjY0psZ1NTMFpmMk55anFBZDB6eTBoVy1XWUlvQXhld1Q0UTR4REY2QU1QUWRjVXZDQ2NHSFMtR3dSRHFyU1l2OThUQTNKamF5N3FPTkFRek9FWmVoQmhfcFdqaXVSOTdsR3NoRkM1eU93OHkzVU9TSFFOSEFnSGwxZA?oc=5",
       "data": "17/10 02:39"
+    },
+    {
+      "titulo": "Escalação do Fluminense: Marcão poupará titulares contra o Santos - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRG4wTXFwdFlwUGVXWWE2Qjl6TU5hcXp3RlBIeWFvZjktV0JWZ1prck91Smh4RnE3MzEtRFRJZ3UwcUQtSnlhc3F6dldQNlpYNW1QV2FFZW5nZmRzWU5mSDNYZU9velFDcmU5RmVoWDl0Z1RudXRUcmtkMzlETWtPTGw1MWoxZVlDemE1anh0eS1OaUdTdUt4bTZiVHliR2M1ZUhsTGQxa3lsTjJzOWlmTWhUblUwOVpwcG9pUnRRU0w3N245blRnamhVRmFhUnox0gHfAUFVX3lxTE5CRzZDdm1RUUpaWmdxSy1DaF9uVFNHTmFNMWpBa2dIQnhHMTlpbHpIX2cwSXh6anFmQjlhcEZaTUJtTk9GbEJMeFR0eEwzWW84Y2dzSzh3NXJYTG5Rb1RCUWdRUk9xRG5Kb19UdXN3d0xlb3lONVpVMGRjRFZCc2xTeENJcER6RG02emZhd2gzX19KWk13TDlxU0VGcWQ0djRsQk1rbUVYbGZLYmlPdkxTQ1FQTjdBUGVZZ3VoSVMzdG1ndEpTYkRjNll2R1dJa1VxMDVXZlN6VHNpOVhQZkk?oc=5",
+      "data": "16/10 22:36"
     },
     {
       "titulo": "Fred conquista primeiro título à frente da equipe sub-20 do Fluminense - NETFLU",
@@ -822,11 +827,6 @@
       "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
       "data": "17/10 21:05"
-    },
-    {
-      "titulo": "Escalação do Santos: Cuca pode ter Neymar, Coutinho, Cebolinha e Gabigol contra o Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZy16UFh5ZWZKQjU3SEtpUXNBWEo4ZzdXSk1qUXVJa0RtWEZScWN2SE9NZy1kZXVXTHd5N2k1dGNUZ0Fpa1dGVEVXQnB3UTlweXU5V2JXSlFQY1hkSG4yUDg2b1l6RXlIc21SWnJoRlJhRDRmSjhFbFpsN2dYcW1fRm50UDJMc0c0cjBqOUo1bHlWcE96TWo2Z1JJX2RPZjV6d0YzQUxEQjh5X2VxTk8zUFBfQkpmRWJXWmFRalY1WTF1WkJUTzZFWjZBZ0E1VHlGbWpEZWwyNzFVcWczS1Zja3pRUnU3OXBQdG9UV2NSRlZlQlVUbnVEcVpHMVNYdjlYSzNEU0dB0gGUAkFVX3lxTFBkTnJoeWkzZHIxZGgtTVZaTEdNa1hJTnVGVEYxaEhWRUt5RTBZMVNsa1JSNmJoZV9OSTJOSEltNFFRSThxcS1oalhwQ1g3UTdjZHRfOF9vcGxxZk55dkN3V3B6OFNjR3B5RVRBNVI0TkZ4aXg4ekdxZ2pndVZjb0t6X1hHLXp0U3JJaV9iMjNvS0x0NVg2eWRhM1N2aUFPWDhwREhqaU1CbTl0ZmNidGFKLS1SVWFSVjhVSnYxeXNEbnV0c0wtU1Axdk5qa1lnVXdpdWpiY3NmRFQ0NEpXTWg2RmtXaXhxdDd6VlhKN1NiaC0wWGplcUcwcHBad3ktdDdjSWNWTzE3THBvYWxPSmN6RTR6ag?oc=5",
-      "data": "16/10 19:03"
     }
   ],
   "avisos": []
