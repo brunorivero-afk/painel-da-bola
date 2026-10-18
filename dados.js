@@ -1,124 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "18/10/2026 17:00",
+  "atualizado_em": "18/10/2026 19:22",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "15:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Danubio x Central Espanol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "15:15",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Juventus x Lazio",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Lyon x Nice",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "15:45",
-      "competition": "Taça de Portugal",
-      "match": "CF Os Belenenses x Arouca",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Santos",
-      "channels": [
-        "GLOBO",
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x Cruzeiro",
-      "channels": [
-        "GLOBO",
-        "PREMIERE",
-        "GE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Athletic Club",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x Botafogo SP",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Criciúma",
-      "channels": [
-        "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Madrid x Sevilla",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-18",
@@ -127,6 +9,26 @@ window.PAINEL_DATA = {
       "match": "Alianza Atletico x Universitario",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "18:00",
+      "competition": "MLS Next Pro",
+      "match": "Chattanooga x New York City II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "18:00",
+      "competition": "MLS",
+      "match": "FC Cincinnati x Columbus Crew",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -144,21 +46,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-18",
-      "time": "18:00",
-      "competition": "MLS",
-      "match": "FC Cincinnati x Columbus Crew",
+      "time": "18:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Liverpool Montevideo x Penãrol",
       "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "18:00",
-      "competition": "MLS Next Pro",
-      "match": "Chattanooga x New York City II",
-      "channels": [
-        "ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -169,16 +61,6 @@ window.PAINEL_DATA = {
       "match": "Bahia x Flamengo",
       "channels": [
         "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "18:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Liverpool Montevideo x Penãrol",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -196,7 +78,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-18",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Houston Dynamo FC II x Los Angeles II",
+      "match": "Crown Legacy x New York RB II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -206,7 +88,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-18",
       "time": "20:00",
       "competition": "MLS Next Pro",
-      "match": "Crown Legacy x New York RB II",
+      "match": "Houston Dynamo FC II x Los Angeles II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -308,10 +190,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "09:30",
-      "competition": "Campeonato Austríaco",
-      "match": "Wolfsberger AC x Tirol",
+      "competition": "Campeonato Holandês",
+      "match": "Cambuur x AZ Alkmaar",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -328,10 +210,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "09:30",
-      "competition": "Campeonato Holandês",
-      "match": "Cambuur x AZ Alkmaar",
+      "competition": "Campeonato Austríaco",
+      "match": "Wolfsberger AC x Tirol",
       "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "10:00",
+      "competition": "Campeonato Francês",
+      "match": "Angers x Marseille",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -375,16 +267,6 @@ window.PAINEL_DATA = {
       "channels": [
         "ESPN 2",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "10:00",
-      "competition": "Campeonato Francês",
-      "match": "Angers x Marseille",
-      "channels": [
-        "CAZÉTV"
       ]
     },
     {
@@ -485,16 +367,6 @@ window.PAINEL_DATA = {
       "date": "2026-10-18",
       "time": "12:15",
       "competition": "Campeonato Francês",
-      "match": "LE Havre x Auxerre",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "12:15",
-      "competition": "Campeonato Francês",
       "match": "Lorient x Monaco",
       "channels": [
         "XSPORTS",
@@ -504,11 +376,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-18",
-      "time": "12:30",
-      "competition": "Campeonato Inglês",
-      "match": "Nottingham Forest x Arsenal",
+      "time": "12:15",
+      "competition": "Campeonato Francês",
+      "match": "LE Havre x Auxerre",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -524,12 +396,21 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-18",
-      "time": "13:00",
-      "competition": "Campeonato Italiano",
-      "match": "AC Milan x Atalanta",
+      "time": "12:30",
+      "competition": "Campeonato Inglês",
+      "match": "Nottingham Forest x Arsenal",
       "channels": [
-        "CAZÉTV",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -546,10 +427,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sporting Cristal x Comerciantes Unidos",
+      "competition": "Campeonato Italiano",
+      "match": "AC Milan x Atalanta",
       "channels": [
-        "FANATIZ"
+        "CAZÉTV",
+        "DISNEY+"
       ]
     },
     {
@@ -596,11 +478,129 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "15:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Danubio x Central Espanol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "15:00",
       "competition": "Campeonato Saudita",
       "match": "Al-Fateh x Al Khaleej Saihat",
       "channels": [
         "BANDSPORTS",
         "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "15:15",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Juventus x Lazio",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "15:45",
+      "competition": "Taça de Portugal",
+      "match": "CF Os Belenenses x Arouca",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Lyon x Nice",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Madrid x Sevilla",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Criciúma",
+      "channels": [
+        "GLOBO",
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Botafogo SP",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Athletic Club",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x Cruzeiro",
+      "channels": [
+        "GLOBO",
+        "PREMIERE",
+        "GE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x Santos",
+      "channels": [
+        "GLOBO",
+        "PREMIERE"
       ]
     },
     {
@@ -806,12 +806,12 @@ window.PAINEL_DATA = {
     {
       "titulo": "Fluminense x Santos: onde assistir ao vivo e escalações do jogo do Brasileirão - ESPN Brasil",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQnBERWhuaVh5RllJMXdWcGs5bFd2aVpsOGRuLS0tN0g0RlBrOFJTZm9yQjl2YWV0MEFOVnA3OHlIUmx1UVI3Vm9qTnhPNjI5d3IwWXZuQi1SVGlET3oxYjNkb21NcWRKSEpKbDZrbXlwVWlJckQ3RmY2R3pKTzJVSjNRTVdrVTBwSnlPMld6TzVUZHhaRXlLcUhZYVlpOGpUWUdGTGZ4a3RmX2kwNGFPRVRvWFoyWDlaWlZtaXpxcU1nVGVaN1YzV1VMSmk?oc=5",
-      "data": "18/10 18:17"
+      "data": "18/10 19:03"
     },
     {
-      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
-      "data": "17/10 21:05"
+      "titulo": "Fred conquista primeiro título como técnico do sub-20 do Fluminense na Taça Guanabara - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcWxNY2MwRUdkdVVNb2dZNXFPMURpSGVEczZtcDduelpLcjZhbzR3eTd1OGViNElVUjI0Y2twWlY5UXp0eW9TQ3NOTkR6SUNURjF5YXNScU9nZUhYWk55cXlXalpqMmZZUW10bHNrWHFfR05yX0ljUnJucC10bkhZWWlkYjBGSkhGblFQRlJMV0N4dWxmTFlaTzd4VVBPTmJhUmpPMHhEZmM5ZlhVTER3OERBbnVwVE9nT1N2eGhzVzU0UlZuT0tuM2tEODF5Q0F5ZVNwVzFuOGFFSHlQV1E5NnowdzM3eVHSAfYBQVVfeXFMTjZ0bnFwTWtXLWpsNTZEVUZCVVJ5OEJleDMwSHV6Nm9ZTV9GcEpDZ053R1UxbDRTRC1NcV9DQ2oyamZvUlE5c3RmOG1LNmJMSGpHTXg1T1ZTaENGRGFHVk9NLXdmNmRrU2FCbnhQak1hZGpZQndubG5NX1dfSW9zMUVoY0h6dkduT3UwZFYzd2FlWjZhOXpPeXREaGlHcndpTWJnVGJTaW5xYlVPZFpjZnZxblRVWWNhZ3lJWHlZYzRWRFZ6d3drUDFzVWJyekFjUGhLa3B5cjYybDEtWlprSkNvLTI0eFVKVU1jakhPTjVPbWdPdFpB?oc=5",
+      "data": "17/10 20:07"
     },
     {
       "titulo": "Fluminense disputa título da Taça Guanabara Sub-20 neste sábado - Fluminense Football Club",
@@ -824,10 +824,12 @@ window.PAINEL_DATA = {
       "data": "17/10 20:58"
     },
     {
-      "titulo": "Fluminense x Santos: onde assistir, horário e prováveis escalações - Exame",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd1FNTEl3eURSZ1llNWlNcDREV2NhRTBUakQ3WV96Y1NKakJaYTRSZ0RpVlRpNGFGYktTTWFyX2Q0ZmswZll1QlBWcXlVWEhoWHB4aE1jY3BHNUlrNnNtWUVWeThOT0JIcy0zUHB5UkJmQ2hfTHd4NmxSQ3ZMeFVoN0w5enZmRllfRXBOMGR5SkFIc29OUkE?oc=5",
-      "data": "18/10 17:47"
+      "titulo": "Técnico do Fluminense sinaliza mudanças na equipe contra o Santos - CNN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWZaZGNsWjNmUWlTcVJ6dEdvVUpDVm1nNkkwWHNuLU85RXhwM25oVWxSX1htVGFDZTVFY0pNTmtxOURQZVFfNWFTZWRYbThLRkF3VzV5UFUyRzhTWkhkVnRRRE9hOURDWC1ST2d1bjhWNjFMa3NCWE9xNjdOUTljbHBJUE10SjJKNHk3ZEV2Q0ltaUJkS3RJeF9tNk1lQURhTVlpd0VNdWQ1dU1CMUpaOEpacHpmUWc?oc=5",
+      "data": "16/10 15:56"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar vôlei na TV: The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing."
+  ]
 };
