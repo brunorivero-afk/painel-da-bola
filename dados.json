@@ -1,67 +1,6 @@
 {
-  "atualizado_em": "18/10/2026 07:16",
+  "atualizado_em": "18/10/2026 11:15",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "07:30",
-      "competition": "Campeonato Italiano",
-      "match": "Udinese x Lecce",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "08:00",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x Akhmat Grozny",
-      "channels": [
-        "XSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Dynamo Dresden x FC Magdeburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Arminia Bielefeld x VfL Osnabruck",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "08:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Karlsruher SC x SV Darmstadt 98",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "09:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Osasuna x Racing Santander",
-      "channels": [
-        "SPORTYNET",
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-18",
@@ -96,16 +35,6 @@
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "10:00",
-      "competition": "Campeonato Francês",
-      "match": "Angers x Marseille",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "10:00",
       "competition": "Campeonato Uruguaio",
       "match": "Albion FC x Atletico Torque",
       "channels": [
@@ -126,31 +55,9 @@
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Palmeiras Sub-20 x Botafogo Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Fiorentina x como",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "10:00",
       "competition": "Campeonato Inglês",
-      "match": "Leeds x Manchester United",
+      "match": "Bournemouth x Sunderland",
       "channels": [
-        "CAZÉTV",
         "DISNEY+"
       ]
     },
@@ -170,9 +77,41 @@
       "date": "2026-10-18",
       "time": "10:00",
       "competition": "Campeonato Inglês",
-      "match": "Bournemouth x Sunderland",
+      "match": "Leeds x Manchester United",
       "channels": [
+        "CAZÉTV",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Fiorentina x como",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "10:00",
+      "competition": "Campeonato Francês",
+      "match": "Angers x Marseille",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Palmeiras Sub-20 x Botafogo Sub-20",
+      "channels": [
+        "YOUTUBE"
       ]
     },
     {
@@ -283,6 +222,16 @@
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "13:00",
       "competition": "Campeonato Turco",
       "match": "Istanbul Basaksehir x Gazisehir Gaziantep",
       "channels": [
@@ -298,16 +247,6 @@
       "channels": [
         "CAZÉTV",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Sporting Cristal x Comerciantes Unidos",
-      "channels": [
-        "FANATIZ"
       ]
     },
     {
@@ -416,44 +355,11 @@
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Athletic Club",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Madrid x Sevilla",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Criciúma",
+      "competition": "Brasileirão Série A",
+      "match": "Fluminense x Santos",
       "channels": [
         "GLOBO",
-        "SPORTV",
-        "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-18",
-      "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x Botafogo SP",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "DISNEY+"
+        "PREMIERE"
       ]
     },
     {
@@ -472,11 +378,44 @@
       "sport": "futebol",
       "date": "2026-10-18",
       "time": "16:00",
-      "competition": "Brasileirão Série A",
-      "match": "Fluminense x Santos",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Athletic Club",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Botafogo SP",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Criciúma",
       "channels": [
         "GLOBO",
-        "PREMIERE"
+        "SPORTV",
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Madrid x Sevilla",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -601,6 +540,67 @@
       "match": "Cruz Azul x FC Juarez",
       "channels": [
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "07:30",
+      "competition": "Campeonato Italiano",
+      "match": "Udinese x Lecce",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "08:00",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Akhmat Grozny",
+      "channels": [
+        "XSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Karlsruher SC x SV Darmstadt 98",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Arminia Bielefeld x VfL Osnabruck",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "08:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Dynamo Dresden x FC Magdeburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-18",
+      "time": "09:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Osasuna x Racing Santander",
+      "channels": [
+        "SPORTYNET",
+        "CAZÉTV"
       ]
     },
     {
@@ -776,47 +776,42 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 25.0,
-      "temp_min": 20.5,
-      "chance_chuva": 92,
-      "condicao": "Garoa"
+      "temp_min": 20.7,
+      "chance_chuva": 96,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.6,
-      "temp_min": 19.8,
+      "temp_max": 24.8,
+      "temp_min": 20.1,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.7,
-      "temp_min": 15.6,
+      "temp_max": 23.8,
+      "temp_min": 15.7,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.7,
-      "temp_min": 13.9,
+      "temp_max": 22.0,
+      "temp_min": 14.2,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Zagueiro campeão da Libertadores pelo Fluminense renova contrato com clube americano - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVdVQzFzUFcyb19xQm45V2pla2F1THA3M2Y2MlZfZ2UwanNMRnlSb3UyZXJiQWdjY0psZ1NTMFpmMk55anFBZDB6eTBoVy1XWUlvQXhld1Q0UTR4REY2QU1QUWRjVXZDQ2NHSFMtR3dSRHFyU1l2OThUQTNKamF5N3FPTkFRek9FWmVoQmhfcFdqaXVSOTdsR3NoRkM1eU93OHkzVU9TSFFOSEFnSGwxZA?oc=5",
-      "data": "17/10 02:39"
+      "titulo": "Fluminense x Santos: horário e onde assistir ao jogo do Brasileirão - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXBiN0laMVFhdUE2d2JZazBYZmRTbU81dGRxclB5Z0Q0RUdtdWZMX0QtNk5la1VrQUNuZGNQNGlPOXJQSEdsY1B4OGFyYjVUbk9McHhYeWxsaHByT0oyR0hGekFLb19SMzdXbHNvYXg0S0ZSYXpBcFZ0Qk55cEc1cW5PY1VXdkZnTGdSelJDMVRORnExNEd3NlBKRS1PTGxBTXdJTGN5Z1hrZ0JmVDdGVVpjUWYtNnhDNXZNZ0lsb2NyUms0ck1wbk5R?oc=5",
+      "data": "18/10 08:30"
     },
     {
-      "titulo": "Escalação do Fluminense: Marcão poupará titulares contra o Santos - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRG4wTXFwdFlwUGVXWWE2Qjl6TU5hcXp3RlBIeWFvZjktV0JWZ1prck91Smh4RnE3MzEtRFRJZ3UwcUQtSnlhc3F6dldQNlpYNW1QV2FFZW5nZmRzWU5mSDNYZU9velFDcmU5RmVoWDl0Z1RudXRUcmtkMzlETWtPTGw1MWoxZVlDemE1anh0eS1OaUdTdUt4bTZiVHliR2M1ZUhsTGQxa3lsTjJzOWlmTWhUblUwOVpwcG9pUnRRU0w3N245blRnamhVRmFhUnox0gHfAUFVX3lxTE5CRzZDdm1RUUpaWmdxSy1DaF9uVFNHTmFNMWpBa2dIQnhHMTlpbHpIX2cwSXh6anFmQjlhcEZaTUJtTk9GbEJMeFR0eEwzWW84Y2dzSzh3NXJYTG5Rb1RCUWdRUk9xRG5Kb19UdXN3d0xlb3lONVpVMGRjRFZCc2xTeENJcER6RG02emZhd2gzX19KWk13TDlxU0VGcWQ0djRsQk1rbUVYbGZLYmlPdkxTQ1FQTjdBUGVZZ3VoSVMzdG1ndEpTYkRjNll2R1dJa1VxMDVXZlN6VHNpOVhQZkk?oc=5",
-      "data": "16/10 22:36"
-    },
-    {
-      "titulo": "Fred conquista primeiro título à frente da equipe sub-20 do Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkxUYmFxOXEwX1RzQWRNZjBMM0xxa0Fua2tKLWw5S2JxT1JRVVRLci01XzZsck5BY1BPeEd1UjBqclZjS3dHbXBsdjI0N2tiRkFUZ0V2MUJGOTZnUHhzYm9WMkNvcGtNMWt2NUlndktkUEc5TmR4NDRoUEJZbUVGbDEyZTNWX253eXRaV3NNSWZoX2Uwdlp2RUVISkFvZw?oc=5",
-      "data": "17/10 20:58"
+      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
+      "data": "17/10 21:05"
     },
     {
       "titulo": "Fluminense disputa título da Taça Guanabara Sub-20 neste sábado - Fluminense Football Club",
@@ -824,9 +819,14 @@
       "data": "17/10 13:00"
     },
     {
-      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
-      "data": "17/10 21:05"
+      "titulo": "Fred conquista primeiro título à frente da equipe sub-20 do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkxUYmFxOXEwX1RzQWRNZjBMM0xxa0Fua2tKLWw5S2JxT1JRVVRLci01XzZsck5BY1BPeEd1UjBqclZjS3dHbXBsdjI0N2tiRkFUZ0V2MUJGOTZnUHhzYm9WMkNvcGtNMWt2NUlndktkUEc5TmR4NDRoUEJZbUVGbDEyZTNWX253eXRaV3NNSWZoX2Uwdlp2RUVISkFvZw?oc=5",
+      "data": "17/10 20:58"
+    },
+    {
+      "titulo": "Sócios Sub-12 visitam CT Carlos Castilho e entregam desenhos em homenagem ao elenco - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel9pZXFsbWVDNklTZnVPcW1OdDVhUmdnMzBVbkdZOUVjNzh0bl84Y01TSlhfVmVLUjJKcHFLd3djaGdNdVB1dDZCVnR6aGlVcmU2U2FMZEJNRW5GcllMSjd0R1RHdlgyX09tUWJoX2NYaE11RWlNVmd1QjJwUkRfanVsSUtBTFBDd1VocGJpSlRmSVRIM1VkMzBwVEh5VDNhbldmdXg5cWlhUWxmTWhyZ3pGNFFnWFFPUURYU2R3?oc=5",
+      "data": "16/10 22:28"
     }
   ],
   "avisos": []
