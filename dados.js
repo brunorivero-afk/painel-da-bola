@@ -1,60 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/10/2026 15:25",
+  "atualizado_em": "19/10/2026 19:46",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Trabzonspor x Besiktas",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Parma x Torino",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Getafe x Rayo Vallecano",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Tottenham x Coventry",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x GIL Vicente",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-19",
@@ -135,6 +81,60 @@ window.PAINEL_DATA = {
       "time": "13:30",
       "competition": "Campeonato Italiano",
       "match": "Monza x Cagliari",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "14:00",
+      "competition": "Campeonato Turco",
+      "match": "Trabzonspor x Besiktas",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "15:45",
+      "competition": "Campeonato Italiano",
+      "match": "Parma x Torino",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "16:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Getafe x Rayo Vallecano",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "16:00",
+      "competition": "Campeonato Inglês",
+      "match": "Tottenham x Coventry",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "16:15",
+      "competition": "Campeonato Português",
+      "match": "SC Braga x GIL Vicente",
       "channels": [
         "YOUTUBE",
         "DISNEY+"
@@ -323,29 +323,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.9,
+      "temp_max": 22.5,
       "temp_min": 19.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.0,
+      "temp_max": 22.7,
       "temp_min": 20.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva fortes"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.1,
-      "temp_min": 15.5,
+      "temp_max": 23.0,
+      "temp_min": 15.7,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.3,
-      "temp_min": 12.8,
+      "temp_max": 16.8,
+      "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
@@ -357,24 +357,24 @@ window.PAINEL_DATA = {
       "data": "18/10 21:03"
     },
     {
+      "titulo": "Martinelli evolui em tratamento e trabalha em campo no treino do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc25sVFdGQXZwVGhNOFdnSEZyeGRPeFZUaFdONWRscVI3THNScklRNmlSMHpKQTRSZElWc1Y0WG5MQ3hoMnowWWZkazVHd1F1X0tDQ1AtZlhrUGx0REJTY1RuZFlkUlRWOUlaUTFzMVhMSUtZU2hrWHRsMmdqR19hMUE3bVNvQ2JnU2dHSzg4M3pXVnh0clcxeDNaY21rdUZyc1FFajRrT2xpMEV0SVNBNGtGV0VQMi1pNHN6V0ZfMlRlRXB1cEM3QlFpRFc2em9sckxpUzdNdjBaVlI2ZTNn0gHuAUFVX3lxTFBOQUpzS1dnbkxkWHZRZjBhRzNCQlJUYzBXME9yOGJmWC1HOTVBSjc4bjA4ZEs3Tnc4V3hNNTFGYnV1TW5JNnFzV3VSdUxreld2QnpDTFFCMHBnMVFfTk1mdzd1aG1TMXNTUU05ZnZwNXZQMENlbEZlNU9RYVZiWUVnX1Z5YURCaTB1djFCWU1VVzZpSG43cm9FZ3VCU09UNmdBWm52ODdwczVCaGkxY0NOU3J4dUp1NkYydURzb0lrMVg3TTFQLVdLZTJDNDFULTlTam9ySWhVczI3Q0RmaEZNOXBjektPY04zRmNWemc?oc=5",
+      "data": "19/10 18:14"
+    },
+    {
       "titulo": "Fluminense vence duas partidas da Liga Nacional de Polo Aquático - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG9NdmhsRVh2aHZmTFlTdk15M2RNVUJNbmw1NlpoNVNkdmFaVjhKVlRJTkNLVGRMTWZNNDgyWUFncDV6dGVoWGMwb2FRbU5USm45VGxLWW14UlRKNDRhVnhOZWxqcWNOLXhZS0FSbXNGQjVDdXJhdU0zVGQ4S1lRUGZKZm1LMlh5OHk5aW9JbkFNdjhvd1llSUtVZjBESUp4azRPVg?oc=5",
       "data": "19/10 17:59"
     },
     {
-      "titulo": "Fluminense x Sancor Seguros Vôlei ao vivo: onde assistir, horário e detalhes da Superliga - JC",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckthbzhRbWxQTVNVZDVSb25SdEg5dEs4SUFjYW1CU0dydC1pQWNIRVhUUG5Zek83Unloc0VKaHdzWHprbWQ5SjVmai1ydmdHMVdqQTE2RHVqT3lla21IRS1MbFJhZTRPaU5Ia1d0S1NjazVkbjdTYkpkejV3cFFCeUhTdmlYaS1nNXVhX3ZMS2JGQ3JKWGNNNVhZZHNySmpZUzlWNnc2ZkNvbGMycGdjZ2NtT2JrVGk0enlNYlR6NmVRNXpaRXpkZlNwREVRWm1zMGNmdS10WlBidDliQlBJcjZB?oc=5",
-      "data": "19/10 14:03"
+      "titulo": "Analista critica atuação do Fluminense contra o Santos: “Muito ruim” - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjQ3Q1ptQmk3X1k4cm9aOGZjcmJSNVBLdzh2Q1M5UTczZnotcWpmOUJ4QnNJd29zazN2LWFBY2JnRkpmamY5ci1jelcwdFg1TzJnTUFEMmxZc1o3ZmNfSjlaQ1RoUi1DQ2JTZm9fTWpzLUJkRGJtZUUzR1RrYnZaSjN6dWNHaXNwUGNOSnE1dlBlWjR0RDh3?oc=5",
+      "data": "19/10 21:00"
     },
     {
-      "titulo": "Fluminense monta telão em Laranjeiras para semifinal da Libertadores - O TEMPO",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd1VGUHNiaTREMGhUY1dqeGNfUEc1anRFdmdtYWlhZDBkQWxuM1hTX2ZnZHJkdUFmNVMzd09URk5DZk5mMnhJNG9UMzlIZFNUVU9KdkNNZ08xUnU1cHVvOWlsbWRaS25ueHlTQU5kdFNFUEEwa1VvUTg4eWNhejRBODhISnByYVg2c1Rxd1pEdldxMVA2QWNPSEp5WEJzLTdYNzNBNEhOaWotRThBeXFvS0xJSmJWMGNGdjI3cFd5bTB4OHU5S0NVLVp5STZqY1RNUXdaZUJjUQ?oc=5",
-      "data": "19/10 14:31"
-    },
-    {
-      "titulo": "Cuca valoriza força do Santos como visitante e elogia Neymar: \"Partida em que mais competiu\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSDNmdjZiVUU3VjRWYUhCM2wzVFpRYU4tZ2djYUVXdlhieFV6WlhDWFFIYVJRaDZ0Y3hEQnZOcWZEeV9DMDlqM1Q2UURlTEtZeUtlWGdFb2NhQjdUQy0zbkN5MXFKRmppX0E1RXZNR05SUjhUQTdvMUl2SWtvV0FBeC1xVkhlV0xTRTZiNHI2Zk1SaUtHalFDQmhQN1hKQ0U5dXZMZXAxSGU0M1A1cF96ZS1BcHFOZGRPek1NMlo4UWRRUEt4M2lEVjZvOGYzNndCT1V5bGhPLXZ0d0pwQUVKYWtwZ1daNERRV2ZHNHlHTFQ1c2hwajdKWXdrcmdaVDJUbDZwcHdn0gGUAkFVX3lxTFB2Z0E5RGFFcm9ERklLWTBzZTZyODFVRERucFdOdnBJT0V3YW5nVzVXZGhueEJTY3pXRVlPZGNFNVE4S0FSOXVrbENwZjgxYkRZaFpYX1FfUkFaUFN4Vl9COG9iTTQ2UjFpTjRqbDNNRlpWR0VsVF9BOXFORjQ1QVVvQzZZcHd0dlhld1VzNlM4MG1JTEhLY3N1UlRRUEFNZW05c0JXSjV6dnhqSUREcXhkaXBtR3V1OWtJZlo4VGRjMHE3V0Y5dGpLSXlSVy1ZNzF4YmktNEJMNmpydVJoNHd6WWxtd1ZPWFNtcVZDS1R5NHAzTXF0Yjl0TVR2NkhQemNmbEd1eTBDN2xPNmFiNmdSbFhIcQ?oc=5",
-      "data": "18/10 21:52"
+      "titulo": "Fluminense monta telão em Laranjeiras para semifinal da Libertadores - Lance!",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHR3ZHlQVmluVWt3OFo4bVJpeV96RVBJbS1sVDBRZlRxbExZUW5WTEdsTGJVelllVjMxeHpPS0puLWxqaGtOdmk3TkRqdElJalRKMEJVMzRoeVUxS0tqWTFhcG9LcnpQNGVKdENDOWdWNjlGcTFxRzAxSnIyYVBUMW9xVzRVNmZMQ1VicjgwUWQ0Rjd2TngwbDJuNEwtZFRDc2hGX3dPZEo3V2tQb0E?oc=5",
+      "data": "19/10 14:22"
     }
   ],
   "avisos": []
