@@ -1,39 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/10/2026 08:56",
+  "atualizado_em": "19/10/2026 15:25",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "12:05",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Fayha x Al-Ahli Jeddah",
-      "channels": [
-        "SPORTV 2",
-        "SPORTV",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "12:20",
-      "competition": "Campeonato Saudita",
-      "match": "Abha x Al Kholood",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Monza x Cagliari",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-19",
@@ -84,6 +51,7 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Português",
       "match": "SC Braga x GIL Vicente",
       "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -116,7 +84,7 @@ window.PAINEL_DATA = {
       "match": "Corinthians x Vitória",
       "channels": [
         "SPORTV",
-        "PREMIERE"
+        "PREMIERE FC"
       ]
     },
     {
@@ -136,6 +104,39 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Argentino",
       "match": "Deportivo Riestra x Union Santa Fe",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "12:05",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Fayha x Al-Ahli Jeddah",
+      "channels": [
+        "SPORTV 2",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "12:20",
+      "competition": "Campeonato Saudita",
+      "match": "Abha x Al Kholood",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "13:30",
+      "competition": "Campeonato Italiano",
+      "match": "Monza x Cagliari",
+      "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -323,28 +324,28 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 22.9,
-      "temp_min": 20.0,
+      "temp_min": 19.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.3,
-      "temp_min": 20.2,
+      "temp_max": 23.0,
+      "temp_min": 20.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva fortes"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.3,
-      "temp_min": 15.4,
-      "chance_chuva": 99,
+      "temp_max": 24.1,
+      "temp_min": 15.5,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.8,
-      "temp_min": 12.9,
+      "temp_max": 16.3,
+      "temp_min": 12.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
@@ -353,27 +354,27 @@ window.PAINEL_DATA = {
     {
       "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
-      "data": "19/10 01:03"
+      "data": "18/10 21:03"
     },
     {
-      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
-      "data": "17/10 21:05"
+      "titulo": "Fluminense vence duas partidas da Liga Nacional de Polo Aquático - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG9NdmhsRVh2aHZmTFlTdk15M2RNVUJNbmw1NlpoNVNkdmFaVjhKVlRJTkNLVGRMTWZNNDgyWUFncDV6dGVoWGMwb2FRbU5USm45VGxLWW14UlRKNDRhVnhOZWxqcWNOLXhZS0FSbXNGQjVDdXJhdU0zVGQ4S1lRUGZKZm1LMlh5OHk5aW9JbkFNdjhvd1llSUtVZjBESUp4azRPVg?oc=5",
+      "data": "19/10 17:59"
     },
     {
-      "titulo": "Fred se manifesta após primeiro título como técnico sub-20 no Fluminense: ‘Motivo de honra’ - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONklfQkFxSGxKWVZzU19zanphaldfY1ZKTU9fNk01QmtxZ0pncDNtLURoWDNadk9FY2FlSVZlWnpSM0Z4Vi1SUDF3WUNBNEEwRUw1X0ttUXllZ0lTMGktMS12Uk9uX053R0ZyOG9oUFRuZHFwdWVSbDRxNmpJcC1SdTJnWnU0eW5LNTdTT1hqZEN1VTZ1c1d0c3Rjb25OOTFmaFI5WG1lY1BvWTdPem50REMwQksxUQ?oc=5",
-      "data": "17/10 22:44"
+      "titulo": "Fluminense x Sancor Seguros Vôlei ao vivo: onde assistir, horário e detalhes da Superliga - JC",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQckthbzhRbWxQTVNVZDVSb25SdEg5dEs4SUFjYW1CU0dydC1pQWNIRVhUUG5Zek83Unloc0VKaHdzWHprbWQ5SjVmai1ydmdHMVdqQTE2RHVqT3lla21IRS1MbFJhZTRPaU5Ia1d0S1NjazVkbjdTYkpkejV3cFFCeUhTdmlYaS1nNXVhX3ZMS2JGQ3JKWGNNNVhZZHNySmpZUzlWNnc2ZkNvbGMycGdjZ2NtT2JrVGk0enlNYlR6NmVRNXpaRXpkZlNwREVRWm1zMGNmdS10WlBidDliQlBJcjZB?oc=5",
+      "data": "19/10 14:03"
     },
     {
-      "titulo": "Fluminense disputa título da Taça Guanabara Sub-20 neste sábado - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVZKYm43LWRZa1NpNWliaGJSS0pOSFVQS1l2N3ltTG1lYk82U3E4RWQwamFYckQyQmpwRWdOV1E3bUpEaGxBVEtwakJZTHV0Qm9vRmkxTkJVZXZfSFI1MGtWcXQ1MENpUS1rNW9WNERLVGJOZHFVSkZJN0Z4LTMtb1ZPT01abFktLUotSUIyQW9MbFl5N2RxbHBpTmpINWtFYkFB?oc=5",
-      "data": "17/10 13:00"
+      "titulo": "Fluminense monta telão em Laranjeiras para semifinal da Libertadores - O TEMPO",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd1VGUHNiaTREMGhUY1dqeGNfUEc1anRFdmdtYWlhZDBkQWxuM1hTX2ZnZHJkdUFmNVMzd09URk5DZk5mMnhJNG9UMzlIZFNUVU9KdkNNZ08xUnU1cHVvOWlsbWRaS25ueHlTQU5kdFNFUEEwa1VvUTg4eWNhejRBODhISnByYVg2c1Rxd1pEdldxMVA2QWNPSEp5WEJzLTdYNzNBNEhOaWotRThBeXFvS0xJSmJWMGNGdjI3cFd5bTB4OHU5S0NVLVp5STZqY1RNUXdaZUJjUQ?oc=5",
+      "data": "19/10 14:31"
     },
     {
-      "titulo": "Neymar revela que quase jogou por clube carioca antes de voltar ao Santos - CartaCapital",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWcybDdET3ZQa0pfNHo1RUZ5Qnh1cGdTSDk3bVc4VU1zUFlxN0RFU3J0TWJ0b1VMdy03Skt3WXZfWDlCcDJMNXNoelllRW44NmJuY09SVEVBVDJWa0RVeHpySVRCX2VpMmJaQlI2ZUpRX2ptclpmMWxfYUVoa3pxOGpfazJpb3ZDNXVSVlVtYXo4NTFuejNMbFBiVHRBalFjZmw2TEdpMDl3U0pfNnZzQ3hWeXY?oc=5",
-      "data": "18/10 23:38"
+      "titulo": "Cuca valoriza força do Santos como visitante e elogia Neymar: \"Partida em que mais competiu\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSDNmdjZiVUU3VjRWYUhCM2wzVFpRYU4tZ2djYUVXdlhieFV6WlhDWFFIYVJRaDZ0Y3hEQnZOcWZEeV9DMDlqM1Q2UURlTEtZeUtlWGdFb2NhQjdUQy0zbkN5MXFKRmppX0E1RXZNR05SUjhUQTdvMUl2SWtvV0FBeC1xVkhlV0xTRTZiNHI2Zk1SaUtHalFDQmhQN1hKQ0U5dXZMZXAxSGU0M1A1cF96ZS1BcHFOZGRPek1NMlo4UWRRUEt4M2lEVjZvOGYzNndCT1V5bGhPLXZ0d0pwQUVKYWtwZ1daNERRV2ZHNHlHTFQ1c2hwajdKWXdrcmdaVDJUbDZwcHdn0gGUAkFVX3lxTFB2Z0E5RGFFcm9ERklLWTBzZTZyODFVRERucFdOdnBJT0V3YW5nVzVXZGhueEJTY3pXRVlPZGNFNVE4S0FSOXVrbENwZjgxYkRZaFpYX1FfUkFaUFN4Vl9COG9iTTQ2UjFpTjRqbDNNRlpWR0VsVF9BOXFORjQ1QVVvQzZZcHd0dlhld1VzNlM4MG1JTEhLY3N1UlRRUEFNZW05c0JXSjV6dnhqSUREcXhkaXBtR3V1OWtJZlo4VGRjMHE3V0Y5dGpLSXlSVy1ZNzF4YmktNEJMNmpydVJoNHd6WWxtd1ZPWFNtcVZDS1R5NHAzTXF0Yjl0TVR2NkhQemNmbEd1eTBDN2xPNmFiNmdSbFhIcQ?oc=5",
+      "data": "18/10 21:52"
     }
   ],
   "avisos": []
