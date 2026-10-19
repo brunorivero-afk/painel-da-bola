@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "19/10/2026 02:38",
+  "atualizado_em": "19/10/2026 08:56",
   "jogos": [
     {
       "sport": "futebol",
@@ -261,16 +261,6 @@
     {
       "sport": "futebol",
       "date": "2026-10-20",
-      "time": "20:00",
-      "competition": "Caribbean Cup",
-      "match": "Violette AC x Portmore United",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-20",
       "time": "21:30",
       "competition": "Copa Sul-Americana",
       "match": "Vasco x Boca Juniors",
@@ -284,6 +274,16 @@
       "time": "22:00",
       "competition": "Campeonato Mexicano",
       "match": "Atletico San Luis x Club Queretaro",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-20",
+      "time": "20:00",
+      "competition": "Caribbean Cup",
+      "match": "Violette AC x Portmore United",
       "channels": [
         "DISNEY+"
       ]
@@ -322,43 +322,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.3,
-      "temp_min": 19.9,
+      "temp_max": 22.9,
+      "temp_min": 20.0,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.7,
-      "temp_min": 20.5,
+      "temp_max": 23.3,
+      "temp_min": 20.2,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva fortes"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.8,
+      "temp_max": 23.3,
       "temp_min": 15.4,
       "chance_chuva": 99,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.2,
-      "temp_min": 13.0,
+      "temp_max": 16.8,
+      "temp_min": 12.9,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense poupa titulares e Santos tem retorno de Neymar; veja escalações - UOL",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTDYyaDQ5ZXppRVdLbllZYTE0eERiYVYzNFVsZG5ONFBvWmcxdEVaUEczMkFoaklGS2poN1MwTUFwalFmbTBQdDZLME9KYjFFSmtMWUY5WTlNMGtQQnpGZ29YR2hjcEhPM2d2d2pMbUVsY3gtVW9uTUVGZlZHOTltaHhnTVlSOTZ4ZWRrVlNWRzFvSU90V3EwbnZhY3YyQ3JsVy0xSm43T2F4NkUtY0l0VGhIcGNqVUp4ZzdZVGZNTkpuZWxFYjlRN01idmt5S3lYQmVzWXNMSG9kRk96X1E?oc=5",
-      "data": "18/10 22:14"
+      "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
+      "data": "19/10 01:03"
     },
     {
-      "titulo": "Após vitória do Santos, Neymar é sincero ao falar sobre o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUmxlbFNmWnRoaXhlQ1Z1aW5veC05dS1iSVktVlJMeF94MDFxQU81U0F4NE5hQ2JzRlpGb2FxUTNqdm1pUkp5Q0JwSlhWdUpmNW42UHlGOUlncVc5WDdWdFNCVWliZUh5M0lnVFBScEFRbmd1NTd2RmdMVV9FV3doNXhkRGp1SGpFczBCa1VpV21NOVYxLUZrSzFReVRhRHdJT0tjV0JYVUFoUTRILU9yYmdleW1GWFo3dmpZOWtMc3gtajVhTnFRWnJ2VmRXc1k0Vzh6UkhseVlJV2JpQkRnVVJ4eWt0dXhJenlOTk52WQ?oc=5",
-      "data": "19/10 01:20"
+      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
+      "data": "17/10 21:05"
     },
     {
       "titulo": "Fred se manifesta após primeiro título como técnico sub-20 no Fluminense: ‘Motivo de honra’ - NETFLU",
@@ -371,9 +371,9 @@
       "data": "17/10 13:00"
     },
     {
-      "titulo": "Fred conquista primeira taça como treinador do Fluminense sub-20 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUm1CNTdvYnp0dXdJQ3FfUWhHOTZSUHg0amZ2VXIwVVpra2t4NXhqcW5Jby1rYV9aczdNYmZySE5BRHRiUUZKV3U1TzdaMnNILUltbU9TWkxSdGJUV1hLV09xbUFsUFhwakJhS1k1VWR5amJ4Vl9BZnpVaGtGZC04WTJBcW5EVTk5YlhzZ21od2dsNU1Rb21PNm5ZTzZmREtwMnprbmlUcUVsTEJFeUUxZUM3dkVzUmdzUTBMRnpDNG5GTTVMWU5OZVRKejBETm5zYWtjN2lyblhjWVlYOGtqaXViaVBRWlFVZ0xJUU9BcHJLLVZDbl8w0gGGAkFVX3lxTFBzbS1yMms2cjBTVWtMZHk1T2IwZmlEQ2hsM0FYVm9pX21sTHVsdjhtc3FhcjY0WTZWV2JtV05ENVo3T1BWUngwWjVCTkxXb0VZN2RfVlpfVG9Heng0alBlVG16SnowZTRnOWtOT0JyX29WLXRsN3luWnRuRGdHY2R1cGgtZ3NxYVZqVGhFTTRacTFSeTI0ckQ0YmZjMDJwZ0RwMmhCVjVyREc1M2x1bXEzUjNseFR4UG9pMGw3d2RzcGxQSDMwejBUeTB0NVVqWmtKSHp6YTRweHM2clhUeFhWaUF0OXV0TDQwTWptemFnalpMNjQxUldQME1OYlNLOVhaaVR6SXc?oc=5",
-      "data": "17/10 21:05"
+      "titulo": "Neymar revela que quase jogou por clube carioca antes de voltar ao Santos - CartaCapital",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWcybDdET3ZQa0pfNHo1RUZ5Qnh1cGdTSDk3bVc4VU1zUFlxN0RFU3J0TWJ0b1VMdy03Skt3WXZfWDlCcDJMNXNoelllRW44NmJuY09SVEVBVDJWa0RVeHpySVRCX2VpMmJaQlI2ZUpRX2ptclpmMWxfYUVoa3pxOGpfazJpb3ZDNXVSVlVtYXo4NTFuejNMbFBiVHRBalFjZmw2TEdpMDl3U0pfNnZzQ3hWeXY?oc=5",
+      "data": "18/10 23:38"
     }
   ],
   "avisos": []
