@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/10/2026 04:03",
+  "atualizado_em": "20/10/2026 10:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -156,6 +156,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-20",
+      "time": "23:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Marathon x Alianza",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-20",
       "time": "20:00",
       "competition": "Caribbean Cup",
       "match": "Violette AC x Portmore United",
@@ -302,12 +312,32 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-21",
+      "time": "21:30",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Firpo x Deportivo Saprissa",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
       "time": "22:00",
       "competition": "Campeonato Mexicano",
       "match": "Atlas x Club America",
       "channels": [
         "SPORTYNET",
         "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "23:30",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CS Cartagines x CD Olimpia",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -324,28 +354,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.6,
-      "temp_min": 18.9,
-      "chance_chuva": 23,
-      "condicao": "Garoa"
+      "temp_max": 22.9,
+      "temp_min": 19.1,
+      "chance_chuva": 51,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.7,
+      "temp_max": 22.8,
       "temp_min": 19.4,
-      "chance_chuva": 78,
-      "condicao": "Garoa"
+      "chance_chuva": 82,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.6,
+      "temp_max": 22.5,
       "temp_min": 14.6,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.8,
+      "temp_max": 18.6,
       "temp_min": 13.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -353,29 +383,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense está otimista para ter Martinelli contra o Palmeiras na Libertadores, mas ataque irregular liga alerta - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNakNHb1dRRmF4MDhVeTBFbm01d0U0SjR2aHVGRFYtbm94WTJnUEhqQ3BQakdhX2lxYllHemhlVzloWHEteXYzcm9CSjRwdnJ2bTlydGkyV29haEdIQXZIOUIyWTE1UVI0d0dVWGlpaGZlaHFfR21fWkVBZ2lNUF90OGlfN3ZPSG1BY1c3dG1nQ3IzUVFCYnZyeXBDdmp0V1F3eWNoQ0lDUURPU1ZORXAycXVFVHVuZDFiUXQ3ZDNtcHhyRGFZU0hTUkFYQXMwcmJVak1od3R2UW1uSFdrc0RtdWRKU2psaTA3Q2NLUk91YlNhTlAwa2pObWY5S1Nxelk4VmR5M0pyU2w2U3daeEJ2Ry16NzAxMlJISlHSAagCQVVfeXFMUFZtT1hxazdUV3hWUWdGZlNfUkEwM2psVDczYXZYbG91THFKZDBJT2RGTGF5eHZMNjFYNmd0OHAzbUxfa0Q3b0psWmhGWXBDWWpnSjNJekhEVkx6cGN3YXJDc3FvMWlJUV85aUE5blJ2QXp0c01TUlNBMXRaeEdQb0FyX1BBdkxwTTYtWnJtcjJXVU9XdHpWa1Z3VE8xaHpwQkQ5c2FCTEliSjhidU1EQmRzb0NoRGRGUEFEUzVXRXNHVHhSV0lzQ25UM2NTa21CbE5aRlc5M1ZZX3o0OUd6S1prUWM5b2ttUUdKMlNfY0lpV2U0eHRMeS1KNzFtYm9ORkJXVkd1NUdyWUxzQTNxY29mRkZGY3BoYlNBTkczM3dmbmJlWTdGNlg?oc=5",
-      "data": "20/10 06:00"
+      "titulo": "Santos cobra valores de clubes brasileiros, incluindo o Fluminense, e aponta dívida milionária a receber - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZHbHVncDhIcjYyMWhGdnJnYUlxTjFDbmJsTElDSU4talIyWEdjRHVrSGpwN21pT3V4TU1iRXVSX0N1OERJa0c0XzFJeC05NWNRZ1lRb003YUJka0lMZ3lXcXlIbUMxcWZFM3dEWk5FRWRlZ013T0NjTkVQT085SjVUYXMxVlRVUWZtRHlRVXpRRGxaQXNF?oc=5",
+      "data": "20/10 00:35"
     },
     {
-      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEdvRk13eUViRlUtQ2VReVJBY1VfSmhJRkZQWUQ1UmFaalRmelBXQ3plOEpLaXZDTFZIZjBpWlh2d29xRlpzX0VyNERvelRmeGw0Zkw0Tk5WS25hNVRfalh6VXg1YzB2MTFFU19RcFBqUmVfbDF0aXAxeUxDdEN3N2Y5bHFXOFo4cWQ4eWtraEZZd3M2bWJTU2ttaUJucy1YMVJOa3EtTFNhMnhnNFlENVFxMU1VTlB0enYwUllxakRnbUZLUUMxUWRXNE5LRkFXS19jTHB30gHkAUFVX3lxTE1FYzBVMEw1ZzdfbV9iNHdZZTRQRFVKaWNLYVFnSDRnUDA1VkpCZjAzb2lfU1RFQTdwcmpMRXY5SWZUY2xxWk9KYU5GTC1ESml6b0psNFVZS1JDZmRMRXp6anZ0T2w0UlQ2ZF9KREh2ZmthWFRYZ3RqOVBUUXZNSFVmQW04OEF0NDdodTdwRzNiTUp1V195eFZLM2d1WGhyZ0xEWUtvWVZaRWp1Q2RJVGswUG9CSEJDSVNXS2d3cWhLWlRHZkJVY1Nua0pnNFVlRl8tR3NPa0d2Z0FXVHRwb1BNMEZqMA?oc=5",
-      "data": "18/10 06:00"
+      "titulo": "Por que é tão difícil para o Vasco jogar no Maracanã, controlado por Flamengo e Fluminense? - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1BoT3FKZGtHWG5PLVg0X2dqblRnNnZYckkwZ0g1dU5mWFU3QWVYWVp0OWNlakJTZ0FDQjBicHZFemVUQXZuUllKSi1ONmVQNmNNOWV0ZVMtVm9PS0ZaY05sMkFKSUtNSE9FVlFQcTgybXFoNFJzMnJIZUZRbnFCcHJDWTRYRHliemhpWEdYMnl5LXBCd3lLRE9ZQV84S0JEdGZoQTNGU242V294SUFpejY0WTduYlhoU1E1YW5CZU5WV05idndYekNBTFloNHPSAdQBQVVfeXFMTTJKWGRCSHZPY2xwMUxSNU5rT1NmaXBKYk03NnFxanNucU93M0NwVTB5SE4xeENvdFZDSFFIRFloWlR0WW1xd21fVlVmd2N1Z3l3TFBLcWFsdkxOWWtFam94S2hKNzdpeE5zQS1Sbkl0eDhFUzFuZlIzRkxReVN2RUVKRGhMa0tUMjlBT0FZZEdteVBKel96THM0Y0JpOWE3TGMycm5BRTVVcHlNb2VqUXVueU5qVFg5eVdZaDBGMnhMRmhuTGZWY0VDTzNUZ3c5TTBHbUQ?oc=5",
+      "data": "20/10 08:30"
     },
     {
-      "titulo": "Fluminense acerta renovação de contrato do volante Pablo - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalBiczU4QTdTNEZtOTNsM01GVk1yUkdFVWljeGlDbEZtSHJyQlY3Q1BfLVliVllEal85V0lUWUc4b19TWnQtSGRuSkpKTHBIQTZPeVdXUC13UkcyVFF0QUxibjA3a3RSOW1sdkpJdXQzUGFkUVF6ejNTbTRRTGFqWEJFV0doZG12NWN5Z3Vza00wUVV6V0VXcGt3?oc=5",
-      "data": "19/10 18:30"
+      "titulo": "Martinelli vai jogar? Entenda situação do volante às vésperas da semifinal da Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYTRqUmdsUUNvUWZHWXdmTk5pRXRzSkRiNjZNMFBXT0JRWjVaNWlpNWc5WU9XZXlGQThhZkhUSllMbnZmaVFiazRoMTF2VzlaWHdqTVAza1VzdHRxUEY5SnVXNHRldjc4dmZxbDlLeVgxZkhGa2h0SUZjcHNuMnBZWThYN1l5SHNTRHhkcFliQ21DS1d2dmxqYjNUdG5WZV82UEZPVDAzcHM4d2lVaE1tSi1GeXBGMm5OTGtaN0NiSXhLRHJObnRYWXlaWjVDWHNyYWNBZXZFS2ozQ1hrdkF1UjcxY0hGVG5ORHRmVXV3dnhEQdIBgAJBVV95cUxPV21kVXNwRWpmQm90TXlONVQxcE1jRWRqLU1kZ2pPTzA5YmRISk8xZGc0RmF3c2gwTFJUSnh3cEp3OGxQN1NKbTlaeUk4Z1h5TEppTFdCRG5SWGoxdURaTXEwRWh0bXh3X3k5LU5MbW5vYzNpaDgtTENEeW9EVWpYMXNGU0pvMUNOYU9sYXNVTVdFY2szNlUwZFpWT3M1QXFFUloxQVZEMTFNbG5WNGdkekdWVHFpRThnMUFscW4tUnYzQUJ3aDlhQjdXNXJyVkxUdHBGeTl2QnFpTlMzUmN6T0xxNEhRNTVCdUNtQll5WUhyY2FoSkpEVkJCdm1MZDdU?oc=5",
+      "data": "20/10 10:00"
     },
     {
-      "titulo": "Fluminense monta telão em Laranjeiras para semifinal da Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHR3ZHlQVmluVWt3OFo4bVJpeV96RVBJbS1sVDBRZlRxbExZUW5WTEdsTGJVelllVjMxeHpPS0puLWxqaGtOdmk3TkRqdElJalRKMEJVMzRoeVUxS0tqWTFhcG9LcnpQNGVKdENDOWdWNjlGcTFxRzAxSnIyYVBUMW9xVzRVNmZMQ1VicjgwUWQ0Rjd2TngwbDJuNEwtZFRDc2hGX3dPZEo3V2tQb0E?oc=5",
-      "data": "19/10 14:22"
+      "titulo": "Série “Nós somos do Rio de Janeiro”: FluTV lança episódio sobre a Pequena África - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXZFa1pxQ0NqWGJEc01aYzE3U1lfbnJmRWF0RGFrX0YxRVJOZ1p4bmFyeTVEZ28tZ2tITnBkOER5WUZ0aVk3WE9sRTAyV29FUXRhMVJPM3pudzlDTmZVR19WNm1XeWJyR2pCeURDbjlReW9GT3dmTXhCbmU3U19GaGFFVHFxYjRjaXJSTXV5UWZlZHRrRWJyS2EzY3YzaGFuUGFRc1dnMTR5RFJ3MVV0UWxHRDB4Zw?oc=5",
+      "data": "20/10 12:22"
     },
     {
-      "titulo": "Bastidores da vitória do Santos sobre o Fluminense no Maracanã - O POVO",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnNIRGhCc3pxZVRJU2Q5QkFKekFUZ3RKSjNsM0Rid05CbmhLT1V2TU42dUNZYUEtM2Y2MHZtNnJ1d1RIR3k5aFlWc2pDVlYzdHp3VWQ0cW5vbUVRZWJmTHpJQmFPMnEyZ3BndUhnQXRRamJzWF9wMWo0b0E3ZTRtZ0Q5R2RjSHdNOUwwNldWNGdTcHg1M2l0bm1VTkJOeTdmUDhTYXRXdlREZXVVZG1Ic3lWVklHTmpqMFFuVQ?oc=5",
-      "data": "20/10 02:22"
+      "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
+      "data": "18/10 21:03"
     }
   ],
   "avisos": []
