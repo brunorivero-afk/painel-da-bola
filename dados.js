@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/10/2026 10:15",
+  "atualizado_em": "20/10/2026 15:16",
   "jogos": [
     {
       "sport": "futebol",
@@ -134,6 +134,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-20",
+      "time": "20:00",
+      "competition": "Caribbean Cup",
+      "match": "Violette AC x Portmore United",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-20",
       "time": "21:30",
       "competition": "Copa Sul-Americana",
       "match": "Vasco x Boca Juniors",
@@ -159,16 +169,6 @@ window.PAINEL_DATA = {
       "time": "23:00",
       "competition": "CONCACAF Central American Cup",
       "match": "CD Marathon x Alianza",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-20",
-      "time": "20:00",
-      "competition": "Caribbean Cup",
-      "match": "Violette AC x Portmore United",
       "channels": [
         "DISNEY+"
       ]
@@ -354,7 +354,7 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.9,
+      "temp_max": 22.7,
       "temp_min": 19.1,
       "chance_chuva": 51,
       "condicao": "Garoa forte"
@@ -363,49 +363,49 @@ window.PAINEL_DATA = {
       "cidade": "Araruama",
       "temp_max": 22.8,
       "temp_min": 19.4,
-      "chance_chuva": 82,
+      "chance_chuva": 98,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.5,
+      "temp_max": 22.6,
       "temp_min": 14.6,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.6,
-      "temp_min": 13.4,
+      "temp_max": 19.2,
+      "temp_min": 13.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Santos cobra valores de clubes brasileiros, incluindo o Fluminense, e aponta dívida milionária a receber - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFZHbHVncDhIcjYyMWhGdnJnYUlxTjFDbmJsTElDSU4talIyWEdjRHVrSGpwN21pT3V4TU1iRXVSX0N1OERJa0c0XzFJeC05NWNRZ1lRb003YUJka0lMZ3lXcXlIbUMxcWZFM3dEWk5FRWRlZ013T0NjTkVQT085SjVUYXMxVlRVUWZtRHlRVXpRRGxaQXNF?oc=5",
-      "data": "20/10 00:35"
+      "titulo": "Fluminense inicia preparação visando decisão com Palmeiras e divulga imagens do treino; assista - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdU01OWNEVjVVSFlCMVdvZV9Ea05MN29TclJlNmF0VlpYb3pGQ2hNMmdPc09iU21IOWNaY0d5VkF2clRVRFBISXM5RUVqc2Z0X2tjUU1zdklOSHk5ZGhrLVhKWGFHeWlkTHZ1cDlKTDlEeXhFUG8zR3B6bmVIenRlV2ZHZzRaREotVWtmeVNjeTZiMnJGZGhicXdaQlI4MHZ4YlhYaGlKbGhDS25BeEQ2Q3AyY1VRMGdhYlVHajNn?oc=5",
+      "data": "20/10 12:31"
     },
     {
-      "titulo": "Por que é tão difícil para o Vasco jogar no Maracanã, controlado por Flamengo e Fluminense? - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1BoT3FKZGtHWG5PLVg0X2dqblRnNnZYckkwZ0g1dU5mWFU3QWVYWVp0OWNlakJTZ0FDQjBicHZFemVUQXZuUllKSi1ONmVQNmNNOWV0ZVMtVm9PS0ZaY05sMkFKSUtNSE9FVlFQcTgybXFoNFJzMnJIZUZRbnFCcHJDWTRYRHliemhpWEdYMnl5LXBCd3lLRE9ZQV84S0JEdGZoQTNGU242V294SUFpejY0WTduYlhoU1E1YW5CZU5WV05idndYekNBTFloNHPSAdQBQVVfeXFMTTJKWGRCSHZPY2xwMUxSNU5rT1NmaXBKYk03NnFxanNucU93M0NwVTB5SE4xeENvdFZDSFFIRFloWlR0WW1xd21fVlVmd2N1Z3l3TFBLcWFsdkxOWWtFam94S2hKNzdpeE5zQS1Sbkl0eDhFUzFuZlIzRkxReVN2RUVKRGhMa0tUMjlBT0FZZEdteVBKel96THM0Y0JpOWE3TGMycm5BRTVVcHlNb2VqUXVueU5qVFg5eVdZaDBGMnhMRmhuTGZWY0VDTzNUZ3c5TTBHbUQ?oc=5",
-      "data": "20/10 08:30"
+      "titulo": "Fluminense acerta contratação do zagueiro Aquilles para base - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkxHakwtZnkwWE00OGNETTFLZEQxV1pjZllEX1hWXzhUcHAzQVpoQ3RqZlZnRlFLWUc4dlhHNVI4ZGNrZUMzMjZBMzNlWk16a0dldmNrTk9kdVNsUkpSQ3NIb3dNUDlvanZ5bzRnSWlSaFVISUxVSUxwdzUxMW9oaFRUc1htVWE0NHEySG0xRXNyT0IzaTRMbndJSlZRSFU?oc=5",
+      "data": "20/10 16:00"
+    },
+    {
+      "titulo": "Fluminense parabeniza volante, aniversariante do dia; veja publicação - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVNUVGgtN3d0N1hMSWQ3VjdCM1V3cTZfZTMwaFBsT0QtVXc3TDZTd050NmxtM0tHWTlMSmY0OWxVODRib1VVUnBCYWpZNXljbHFtUzlWQlRKN1d3bFhFV2xpYjhsS2Z5S191emg4TW4zZkM4QkhBY2pCSll3UmZHa3RCQzlDX1ZEaERST2t4N3ZNX2pEc0xGQzZ3?oc=5",
+      "data": "20/10 14:33"
+    },
+    {
+      "titulo": "Com novo técnico e elenco reformulado, veja como chega o Fluminense à Superliga Feminina - www.netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVFOQl90Q2ZUVUN0X21lQ044Z2l4YWFjNWhCaXdJSFRuT2tRMm42YWptaklnZHphYXVDeHhJSzZjU1VNQlhLWFZyZWw2a2V6eVMxclJWc3VvVjItZ1lfWklNQjdQbmkzamRKVFJtWGtjQVhRcmpQZEVSWlNFZDdhdGs1R0RfLXFwUmw4WjJ4aW5iLTJpQVloSWxIeF8yQXlTdlNaWDVLcFRqb1A2cjdTemxhM2E?oc=5",
+      "data": "20/10 16:31"
     },
     {
       "titulo": "Martinelli vai jogar? Entenda situação do volante às vésperas da semifinal da Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYTRqUmdsUUNvUWZHWXdmTk5pRXRzSkRiNjZNMFBXT0JRWjVaNWlpNWc5WU9XZXlGQThhZkhUSllMbnZmaVFiazRoMTF2VzlaWHdqTVAza1VzdHRxUEY5SnVXNHRldjc4dmZxbDlLeVgxZkhGa2h0SUZjcHNuMnBZWThYN1l5SHNTRHhkcFliQ21DS1d2dmxqYjNUdG5WZV82UEZPVDAzcHM4d2lVaE1tSi1GeXBGMm5OTGtaN0NiSXhLRHJObnRYWXlaWjVDWHNyYWNBZXZFS2ozQ1hrdkF1UjcxY0hGVG5ORHRmVXV3dnhEQdIBgAJBVV95cUxPV21kVXNwRWpmQm90TXlONVQxcE1jRWRqLU1kZ2pPTzA5YmRISk8xZGc0RmF3c2gwTFJUSnh3cEp3OGxQN1NKbTlaeUk4Z1h5TEppTFdCRG5SWGoxdURaTXEwRWh0bXh3X3k5LU5MbW5vYzNpaDgtTENEeW9EVWpYMXNGU0pvMUNOYU9sYXNVTVdFY2szNlUwZFpWT3M1QXFFUloxQVZEMTFNbG5WNGdkekdWVHFpRThnMUFscW4tUnYzQUJ3aDlhQjdXNXJyVkxUdHBGeTl2QnFpTlMzUmN6T0xxNEhRNTVCdUNtQll5WUhyY2FoSkpEVkJCdm1MZDdU?oc=5",
       "data": "20/10 10:00"
-    },
-    {
-      "titulo": "Série “Nós somos do Rio de Janeiro”: FluTV lança episódio sobre a Pequena África - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXZFa1pxQ0NqWGJEc01aYzE3U1lfbnJmRWF0RGFrX0YxRVJOZ1p4bmFyeTVEZ28tZ2tITnBkOER5WUZ0aVk3WE9sRTAyV29FUXRhMVJPM3pudzlDTmZVR19WNm1XeWJyR2pCeURDbjlReW9GT3dmTXhCbmU3U19GaGFFVHFxYjRjaXJSTXV5UWZlZHRrRWJyS2EzY3YzaGFuUGFRc1dnMTR5RFJ3MVV0UWxHRDB4Zw?oc=5",
-      "data": "20/10 12:22"
-    },
-    {
-      "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
-      "data": "18/10 21:03"
     }
   ],
   "avisos": []
