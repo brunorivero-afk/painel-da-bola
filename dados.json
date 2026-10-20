@@ -1,145 +1,6 @@
 {
-  "atualizado_em": "19/10/2026 22:29",
+  "atualizado_em": "20/10/2026 04:03",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Deportivo Riestra x Union Santa Fe",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "12:05",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Fayha x Al-Ahli Jeddah",
-      "channels": [
-        "SPORTV 2",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "12:20",
-      "competition": "Campeonato Saudita",
-      "match": "Abha x Al Kholood",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "13:30",
-      "competition": "Campeonato Italiano",
-      "match": "Monza x Cagliari",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "14:00",
-      "competition": "Campeonato Turco",
-      "match": "Trabzonspor x Besiktas",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "15:45",
-      "competition": "Campeonato Italiano",
-      "match": "Parma x Torino",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "16:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Getafe x Rayo Vallecano",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Tottenham x Coventry",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "16:15",
-      "competition": "Campeonato Português",
-      "match": "SC Braga x GIL Vicente",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Barracas Central",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Náutico",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Vitória",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Deportivo Maldonado",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-20",
@@ -169,8 +30,8 @@
       "competition": "Campeonato Saudita",
       "match": "Al-Ettifaq x Al-Ittihad FC",
       "channels": [
-        "ONEFOOTBALL",
-        "CANAL GOAT"
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -181,9 +42,9 @@
       "match": "Al-Nassr x Neom",
       "channels": [
         "XSPORTS",
-        "SPORTV",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
+        "SPORTV 2",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -204,6 +65,7 @@
       "competition": "Champions League",
       "match": "Manchester City x AEK Athens FC",
       "channels": [
+        "YOUTUBE",
         "HBO MAX"
       ]
     },
@@ -225,6 +87,16 @@
       "time": "16:00",
       "competition": "Champions League",
       "match": "VfB Stuttgart x Atletico Madrid",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-20",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "FC Porto x PSV Eindhoven",
       "channels": [
         "HBO MAX"
       ]
@@ -266,6 +138,8 @@
       "competition": "Copa Sul-Americana",
       "match": "Vasco x Boca Juniors",
       "channels": [
+        "SBT",
+        "YOUTUBE",
         "PARAMOUNT+"
       ]
     },
@@ -290,18 +164,155 @@
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-10-19",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sesc RJ Flamengo x Paulistano Barueri",
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "Lille x Galatasaray",
       "channels": [
-        "SporTV2"
+        "SPACE",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "13:45",
+      "competition": "Champions League",
+      "match": "como x Manchester United",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "15:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Levante x Athletic Club",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Aston Villa x Viking",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Bayern x Arsenal",
+      "channels": [
+        "TNT",
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Sporting CP x Lask Linz",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Inter x Shakhtar Donetsk",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Real Madrid x RB Leipzig",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Real Betis x Feyenoord",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "16:00",
+      "competition": "Champions League",
+      "match": "Club Brugge KV x Lens",
+      "channels": [
+        "HBO MAX"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Atletico Torque x Atlético-MG",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "20:00",
+      "competition": "MLS",
+      "match": "FC Cincinnati x DC United",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Palmeiras x Fluminense",
+      "channels": [
+        "GLOBO",
+        "GE TV",
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "22:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Atlas x Club America",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Pinheiros",
@@ -313,58 +324,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.5,
-      "temp_min": 19.7,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 22.6,
+      "temp_min": 18.9,
+      "chance_chuva": 23,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 22.7,
-      "temp_min": 19.8,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva fortes"
+      "temp_min": 19.4,
+      "chance_chuva": 78,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.0,
-      "temp_min": 15.4,
+      "temp_max": 22.6,
+      "temp_min": 14.6,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.8,
-      "temp_min": 12.9,
+      "temp_max": 18.8,
+      "temp_min": 13.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Thiago Silva x gramado sintético: zagueiro do Fluminense deve abrir mão de preferência por vaga na final - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMFZqVjhFQi1pV3FBd2dseUg4NWdsSXhXM3lDTXB3WkRHMUdLanJreE1MbjhZLVU5aVp0cWxmdlkwTkJyMkpuUzAzWjJRbFl1dnJVclplQmJEREhxM1Z0Ni1zQkhsbndlTGlyMXg0RTN3U2JHejZvaUpnb2xIMHFYWTNlM3o1WUtZRHc1MlpZN2VwZzJINDlOLUY4Ums4MmFLYUZlLUVFdVBfMnNBOXdlYjhTNUhKTlZkZkNkOEZscWlDNVhQUUZmNEdKY0ZnT3hFWEgwOU1YcERoUmxXVmlfSnppSDlKNThoVV9wRWh3MFpaeWFXLVRPcjBTTEc0ZWtKMFoyLdIBkwJBVV95cUxNQXVWdXMxMVVad3gwbjV3U3NGR3dqVlJkYU01YWpQdEdfQl9qd0F1djVFa2hjakJSQXRXa253WEtMZmdMLUptTktCdGpxNi1ETDZOZGM4ZUQ3ZlozVWVqLWVWVTM1TC1JNEFWTE9yWkx4dGRyUGc4SXozdGdWVDF1NV9aQXZpb2lMT2p5b2lVa3V4Mzd3Mm4yaWZDSGxXRkhrTVBFUDJOVVlTTEVodkY1NjJjeVN4blhMZnd3LTVodDQ2dlM0T3dxRU5CVVY1bWcyQ0h5WlZ6bGtITFQtSzg3MXUyVGNlbklIREZyQlNZN0R1ZzVXODJqYU9XN19hME9LY1FOd29pVTdQMVNVX25MUUlvcw?oc=5",
-      "data": "19/10 22:07"
+      "titulo": "Fluminense está otimista para ter Martinelli contra o Palmeiras na Libertadores, mas ataque irregular liga alerta - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNakNHb1dRRmF4MDhVeTBFbm01d0U0SjR2aHVGRFYtbm94WTJnUEhqQ3BQakdhX2lxYllHemhlVzloWHEteXYzcm9CSjRwdnJ2bTlydGkyV29haEdIQXZIOUIyWTE1UVI0d0dVWGlpaGZlaHFfR21fWkVBZ2lNUF90OGlfN3ZPSG1BY1c3dG1nQ3IzUVFCYnZyeXBDdmp0V1F3eWNoQ0lDUURPU1ZORXAycXVFVHVuZDFiUXQ3ZDNtcHhyRGFZU0hTUkFYQXMwcmJVak1od3R2UW1uSFdrc0RtdWRKU2psaTA3Q2NLUk91YlNhTlAwa2pObWY5S1Nxelk4VmR5M0pyU2w2U3daeEJ2Ry16NzAxMlJISlHSAagCQVVfeXFMUFZtT1hxazdUV3hWUWdGZlNfUkEwM2psVDczYXZYbG91THFKZDBJT2RGTGF5eHZMNjFYNmd0OHAzbUxfa0Q3b0psWmhGWXBDWWpnSjNJekhEVkx6cGN3YXJDc3FvMWlJUV85aUE5blJ2QXp0c01TUlNBMXRaeEdQb0FyX1BBdkxwTTYtWnJtcjJXVU9XdHpWa1Z3VE8xaHpwQkQ5c2FCTEliSjhidU1EQmRzb0NoRGRGUEFEUzVXRXNHVHhSV0lzQ25UM2NTa21CbE5aRlc5M1ZZX3o0OUd6S1prUWM5b2ttUUdKMlNfY0lpV2U0eHRMeS1KNzFtYm9ORkJXVkd1NUdyWUxzQTNxY29mRkZGY3BoYlNBTkczM3dmbmJlWTdGNlg?oc=5",
+      "data": "20/10 06:00"
     },
     {
-      "titulo": "Situação envolvendo Neymar ‘viraliza’ no Santos após vitória contra o Fluminense - Santistas",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56NTIwY2dnNXRpR2ZaQ0dNWkZfVm5keVgtQ082emFVaXhKdk5UblkyYi13VU5QUFlZbFQtaDFjSlJOaXlhckpWMW5FZDhvZkpWcWtJc2dEcVJza3NWdGR3aFlRRndfOHNDeUhrTzVBVDQ?oc=5",
-      "data": "19/10 21:57"
+      "titulo": "Fluminense x Santos: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEdvRk13eUViRlUtQ2VReVJBY1VfSmhJRkZQWUQ1UmFaalRmelBXQ3plOEpLaXZDTFZIZjBpWlh2d29xRlpzX0VyNERvelRmeGw0Zkw0Tk5WS25hNVRfalh6VXg1YzB2MTFFU19RcFBqUmVfbDF0aXAxeUxDdEN3N2Y5bHFXOFo4cWQ4eWtraEZZd3M2bWJTU2ttaUJucy1YMVJOa3EtTFNhMnhnNFlENVFxMU1VTlB0enYwUllxakRnbUZLUUMxUWRXNE5LRkFXS19jTHB30gHkAUFVX3lxTE1FYzBVMEw1ZzdfbV9iNHdZZTRQRFVKaWNLYVFnSDRnUDA1VkpCZjAzb2lfU1RFQTdwcmpMRXY5SWZUY2xxWk9KYU5GTC1ESml6b0psNFVZS1JDZmRMRXp6anZ0T2w0UlQ2ZF9KREh2ZmthWFRYZ3RqOVBUUXZNSFVmQW04OEF0NDdodTdwRzNiTUp1V195eFZLM2d1WGhyZ0xEWUtvWVZaRWp1Q2RJVGswUG9CSEJDSVNXS2d3cWhLWlRHZkJVY1Nua0pnNFVlRl8tR3NPa0d2Z0FXVHRwb1BNMEZqMA?oc=5",
+      "data": "18/10 06:00"
     },
     {
-      "titulo": "Neymar revela que quase vestiu a camisa do Fluminense no Mundial de Clubes - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFZiZkxIRS1qaThhRldNMlE3OEN1UHpmcFUwOGpfSnNvQXdBcEltQi1qZDRHR2lzNW9QQ0ZIUjNERHZoc3JvUDlJT3pPcUNuZENLYnc1bG44elVHVF94R3FpaHVqZk5ZRDJCUVFjdUdacHRtZEp5ZldFMnJtMWk0YmNWcE4ySkVBajRweTM5bGRMQ3VCUnc?oc=5",
-      "data": "19/10 22:30"
+      "titulo": "Fluminense acerta renovação de contrato do volante Pablo - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalBiczU4QTdTNEZtOTNsM01GVk1yUkdFVWljeGlDbEZtSHJyQlY3Q1BfLVliVllEal85V0lUWUc4b19TWnQtSGRuSkpKTHBIQTZPeVdXUC13UkcyVFF0QUxibjA3a3RSOW1sdkpJdXQzUGFkUVF6ejNTbTRRTGFqWEJFV0doZG12NWN5Z3Vza00wUVV6V0VXcGt3?oc=5",
+      "data": "19/10 18:30"
     },
     {
-      "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
-      "data": "19/10 01:03"
-    },
-    {
-      "titulo": "Fluminense monta telão em Laranjeiras para semifinal da Libertadores - Lance!",
+      "titulo": "Fluminense monta telão em Laranjeiras para semifinal da Libertadores - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHR3ZHlQVmluVWt3OFo4bVJpeV96RVBJbS1sVDBRZlRxbExZUW5WTEdsTGJVelllVjMxeHpPS0puLWxqaGtOdmk3TkRqdElJalRKMEJVMzRoeVUxS0tqWTFhcG9LcnpQNGVKdENDOWdWNjlGcTFxRzAxSnIyYVBUMW9xVzRVNmZMQ1VicjgwUWQ0Rjd2TngwbDJuNEwtZFRDc2hGX3dPZEo3V2tQb0E?oc=5",
       "data": "19/10 14:22"
+    },
+    {
+      "titulo": "Bastidores da vitória do Santos sobre o Fluminense no Maracanã - O POVO",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnNIRGhCc3pxZVRJU2Q5QkFKekFUZ3RKSjNsM0Rid05CbmhLT1V2TU42dUNZYUEtM2Y2MHZtNnJ1d1RIR3k5aFlWc2pDVlYzdHp3VWQ0cW5vbUVRZWJmTHpJQmFPMnEyZ3BndUhnQXRRamJzWF9wMWo0b0E3ZTRtZ0Q5R2RjSHdNOUwwNldWNGdTcHg1M2l0bm1VTkJOeTdmUDhTYXRXdlREZXVVZG1Ic3lWVklHTmpqMFFuVQ?oc=5",
+      "data": "20/10 02:22"
     }
   ],
   "avisos": []
