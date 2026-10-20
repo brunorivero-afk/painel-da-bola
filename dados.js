@@ -1,48 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/10/2026 19:46",
+  "atualizado_em": "19/10/2026 22:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Sarmiento Junin x Barracas Central",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Goiás x Náutico",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Vitória",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-19",
-      "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Deportivo Maldonado",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-19",
@@ -137,6 +95,48 @@ window.PAINEL_DATA = {
       "match": "SC Braga x GIL Vicente",
       "channels": [
         "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Sarmiento Junin x Barracas Central",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Goiás x Náutico",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Vitória",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-19",
+      "time": "20:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Deportivo Maldonado",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -292,16 +292,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-10-19",
-      "time": "18:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sesi-Bauru x Mackenzie",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-19",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc RJ Flamengo x Paulistano Barueri",
@@ -331,45 +321,45 @@ window.PAINEL_DATA = {
     {
       "cidade": "Araruama",
       "temp_max": 22.7,
-      "temp_min": 20.1,
+      "temp_min": 19.8,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva fortes"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 23.0,
-      "temp_min": 15.7,
+      "temp_min": 15.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 16.8,
-      "temp_min": 13.1,
+      "temp_min": 12.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
+      "titulo": "Thiago Silva x gramado sintético: zagueiro do Fluminense deve abrir mão de preferência por vaga na final - ge",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMFZqVjhFQi1pV3FBd2dseUg4NWdsSXhXM3lDTXB3WkRHMUdLanJreE1MbjhZLVU5aVp0cWxmdlkwTkJyMkpuUzAzWjJRbFl1dnJVclplQmJEREhxM1Z0Ni1zQkhsbndlTGlyMXg0RTN3U2JHejZvaUpnb2xIMHFYWTNlM3o1WUtZRHc1MlpZN2VwZzJINDlOLUY4Ums4MmFLYUZlLUVFdVBfMnNBOXdlYjhTNUhKTlZkZkNkOEZscWlDNVhQUUZmNEdKY0ZnT3hFWEgwOU1YcERoUmxXVmlfSnppSDlKNThoVV9wRWh3MFpaeWFXLVRPcjBTTEc0ZWtKMFoyLdIBkwJBVV95cUxNQXVWdXMxMVVad3gwbjV3U3NGR3dqVlJkYU01YWpQdEdfQl9qd0F1djVFa2hjakJSQXRXa253WEtMZmdMLUptTktCdGpxNi1ETDZOZGM4ZUQ3ZlozVWVqLWVWVTM1TC1JNEFWTE9yWkx4dGRyUGc4SXozdGdWVDF1NV9aQXZpb2lMT2p5b2lVa3V4Mzd3Mm4yaWZDSGxXRkhrTVBFUDJOVVlTTEVodkY1NjJjeVN4blhMZnd3LTVodDQ2dlM0T3dxRU5CVVY1bWcyQ0h5WlZ6bGtITFQtSzg3MXUyVGNlbklIREZyQlNZN0R1ZzVXODJqYU9XN19hME9LY1FOd29pVTdQMVNVX25MUUlvcw?oc=5",
+      "data": "19/10 22:07"
+    },
+    {
+      "titulo": "Situação envolvendo Neymar ‘viraliza’ no Santos após vitória contra o Fluminense - Santistas",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56NTIwY2dnNXRpR2ZaQ0dNWkZfVm5keVgtQ082emFVaXhKdk5UblkyYi13VU5QUFlZbFQtaDFjSlJOaXlhckpWMW5FZDhvZkpWcWtJc2dEcVJza3NWdGR3aFlRRndfOHNDeUhrTzVBVDQ?oc=5",
+      "data": "19/10 21:57"
+    },
+    {
+      "titulo": "Neymar revela que quase vestiu a camisa do Fluminense no Mundial de Clubes - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFZiZkxIRS1qaThhRldNMlE3OEN1UHpmcFUwOGpfSnNvQXdBcEltQi1qZDRHR2lzNW9QQ0ZIUjNERHZoc3JvUDlJT3pPcUNuZENLYnc1bG44elVHVF94R3FpaHVqZk5ZRDJCUVFjdUdacHRtZEp5ZldFMnJtMWk0YmNWcE4ySkVBajRweTM5bGRMQ3VCUnc?oc=5",
+      "data": "19/10 22:30"
+    },
+    {
       "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
-      "data": "18/10 21:03"
-    },
-    {
-      "titulo": "Martinelli evolui em tratamento e trabalha em campo no treino do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc25sVFdGQXZwVGhNOFdnSEZyeGRPeFZUaFdONWRscVI3THNScklRNmlSMHpKQTRSZElWc1Y0WG5MQ3hoMnowWWZkazVHd1F1X0tDQ1AtZlhrUGx0REJTY1RuZFlkUlRWOUlaUTFzMVhMSUtZU2hrWHRsMmdqR19hMUE3bVNvQ2JnU2dHSzg4M3pXVnh0clcxeDNaY21rdUZyc1FFajRrT2xpMEV0SVNBNGtGV0VQMi1pNHN6V0ZfMlRlRXB1cEM3QlFpRFc2em9sckxpUzdNdjBaVlI2ZTNn0gHuAUFVX3lxTFBOQUpzS1dnbkxkWHZRZjBhRzNCQlJUYzBXME9yOGJmWC1HOTVBSjc4bjA4ZEs3Tnc4V3hNNTFGYnV1TW5JNnFzV3VSdUxreld2QnpDTFFCMHBnMVFfTk1mdzd1aG1TMXNTUU05ZnZwNXZQMENlbEZlNU9RYVZiWUVnX1Z5YURCaTB1djFCWU1VVzZpSG43cm9FZ3VCU09UNmdBWm52ODdwczVCaGkxY0NOU3J4dUp1NkYydURzb0lrMVg3TTFQLVdLZTJDNDFULTlTam9ySWhVczI3Q0RmaEZNOXBjektPY04zRmNWemc?oc=5",
-      "data": "19/10 18:14"
-    },
-    {
-      "titulo": "Fluminense vence duas partidas da Liga Nacional de Polo Aquático - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG9NdmhsRVh2aHZmTFlTdk15M2RNVUJNbmw1NlpoNVNkdmFaVjhKVlRJTkNLVGRMTWZNNDgyWUFncDV6dGVoWGMwb2FRbU5USm45VGxLWW14UlRKNDRhVnhOZWxqcWNOLXhZS0FSbXNGQjVDdXJhdU0zVGQ4S1lRUGZKZm1LMlh5OHk5aW9JbkFNdjhvd1llSUtVZjBESUp4azRPVg?oc=5",
-      "data": "19/10 17:59"
-    },
-    {
-      "titulo": "Analista critica atuação do Fluminense contra o Santos: “Muito ruim” - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjQ3Q1ptQmk3X1k4cm9aOGZjcmJSNVBLdzh2Q1M5UTczZnotcWpmOUJ4QnNJd29zazN2LWFBY2JnRkpmamY5ci1jelcwdFg1TzJnTUFEMmxZc1o3ZmNfSjlaQ1RoUi1DQ2JTZm9fTWpzLUJkRGJtZUUzR1RrYnZaSjN6dWNHaXNwUGNOSnE1dlBlWjR0RDh3?oc=5",
-      "data": "19/10 21:00"
+      "data": "19/10 01:03"
     },
     {
       "titulo": "Fluminense monta telão em Laranjeiras para semifinal da Libertadores - Lance!",
