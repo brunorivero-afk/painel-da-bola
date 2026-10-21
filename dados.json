@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "21/10/2026 09:45",
+  "atualizado_em": "21/10/2026 14:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -224,6 +224,16 @@
       "sport": "futebol",
       "date": "2026-10-22",
       "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Omonia Nicosia x Benfica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
       "competition": "UEFA Conference League",
       "match": "Monaco x SC Freiburg",
       "channels": [
@@ -248,6 +258,7 @@
       "match": "Flamengo x Estudiantes",
       "channels": [
         "ESPN",
+        "PREMIERE 6",
         "DISNEY+"
       ]
     },
@@ -327,14 +338,14 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 24.2,
       "temp_min": 20.3,
-      "chance_chuva": 4,
+      "chance_chuva": 10,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.7,
       "temp_min": 20.0,
-      "chance_chuva": 51,
+      "chance_chuva": 82,
       "condicao": "Garoa"
     },
     {
@@ -354,29 +365,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Por que uma virada do River Plate em mata-mata anima torcedores do Fluminense na Libertadores? Entenda - ge",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcWVFeHZkZy1oVlVHekktOHkyb2cwemZzX1pSRGZkWWI1TjNhQWNqRnRRejVqT0JpZVJ3VVVfLU9tbFNGTkQwZy04Ylc3NXdGeC1ER2ZfbnRqcWpGY193ZkV0N0tNOE9PM3FHbndMVW1TMWFlc1JoR3o3WmdWOGs1R2tCY0lmZ2lDbVFkdldhZ3AzeG9CTnM4QngwMHJlOW1waUljMDB0U0JVMDRpY01iTmhPbUt2TWg2bW1Ic3prMnJPVHlfbDNsNTdXb1JhakxDUFlScG9SSVZScG1TbUdrU0RqSlY3bm1MX25Rb0dycUt3WHNONklhSHNwZWlXV1A0Y2fSAZACQVVfeXFMUFNPWFl6Qi10ZGdwWjFGdzJsRmcwZk1tZTJucHNpVDg1Y1JBaTRzM3lMcDlTR19FMUdtOVp3aHhRbnAxZWFDaElucG5GUnVCaHdSNmF2cWlGSjJQRlRxcE1xc01KXzJQR09xRW1YYlN1SndFVFhvcWU5WW84TUUxbDJNbng0RmlDWFM5WlA2SU1Ha2ltcWMyUzFQSDU2UXptcDZnaVZLRV9SLWgtMFkzQ0lGV1lsYldrU002MGV5RjJIUmdKOGxpUVNoSHFaTzAyaDZUMF9MeVRBY3d2QUc4RzFfZ2hlaHFkUXA1RFJPLWl1M3YxN1pPMmQ4M00xMUlad2Rvd0x5UmlaOUo5dHY4WUc?oc=5",
-      "data": "20/10 13:00"
-    },
-    {
-      "titulo": "Com novidades, Fluminense embarca para decisão contra o Palmeiras - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV3NIcDhjcDZJeGVzcGZOc2ZYV2lOdjRtZC1xQ0tNQTRSNGNXSEdxbHhYRjNFNUZOVkx0STVoS2UtMnFCX2NGendkdU43UmJpR3JvQmZoWk92ZGVVV0Z5ek9DWjR4NEdCMjVhOEVOSEtTTXRJM0hManFPVFpoZm82Vkppc2VzZzJRam1EQlhWbWhmUEhkWjdDdmN4cWxKbVJ5UV9ITFF0LWc?oc=5",
-      "data": "20/10 18:30"
-    },
-    {
-      "titulo": "Fluminense acerta contratação do zagueiro Aquilles para base - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkxHakwtZnkwWE00OGNETTFLZEQxV1pjZllEX1hWXzhUcHAzQVpoQ3RqZlZnRlFLWUc4dlhHNVI4ZGNrZUMzMjZBMzNlWk16a0dldmNrTk9kdVNsUkpSQ3NIb3dNUDlvanZ5bzRnSWlSaFVISUxVSUxwdzUxMW9oaFRUc1htVWE0NHEySG0xRXNyT0IzaTRMbndJSlZRSFU?oc=5",
-      "data": "20/10 16:00"
-    },
-    {
       "titulo": "Resumo do Dia: Decisão na Libertadores, provável escalação, viagem de Cano e novo uniforme do Fluminense (20/10) - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjBCQlo3a2J5T3BOUFpob093TmlmdGFkSlZzYU9iVFlFRE1yNVM0akZIZ25DY3ZBNUVFaGFlOF9YclNXMUl5dC12ajEtMERNNmk4YWlBYUFDeTlVT0ZwYmY0V3FlR21UNWl6QndkQXJraGt0SnVyZllfc1JxdGJ2WWRoVVgxNWFJakRsTUdlMHNFcGgwRWZCNEl2RzRUSkh4MVE3X2o4VW1jaVdvUnc?oc=5",
       "data": "21/10 02:11"
     },
     {
-      "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
-      "data": "19/10 01:03"
+      "titulo": "Ex-Fluminense declara torcida pelo clube na Libertadores - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkZUaDN5ZldJSzZzMGE0dWg1TXJHZlQyczhjNV9PdFFsVTRjOUtGTVBjZmJqTVdGNEFZUkRRUi1yeHVFMEYySTZ0Tm1nZS1qeEQzR2phbTRfbTZaV0RQTFU4aEpmeVVwZ3V0Z0ZFZXlSQlQ3YW9HeUhGZmRhd0U4eHd1OEVRNXBkWmNGWnZYdlRTQ2RyMGk0?oc=5",
+      "data": "21/10 15:59"
+    },
+    {
+      "titulo": "Renê cita Hulk e Thiago Silva e destaca o peso de conquistar a Libertadores pelo Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDNtWHNQdE05c2I3a3BiSGJNZUdNMHk4UDFPcmtWaUZ6X3ZFc0VIcTQxa0VZSFBkQ1pPQkQ3YzNPcnBvRjV0V3h1eEdTMXJzZXA5S09HWGJOeTU4UFN6dWVjUmkwVEVpYUU0cmFvZkxCV2NMdlVOU3ltVV85R3VJRDhSdElqS1hyN05idkhlUTY2VmJ6MWd4M0hSc1VHNmhfTWJ1ZDBzQUV6eTZVTjhFVjRjMnJrVU5wVUE?oc=5",
+      "data": "21/10 14:32"
+    },
+    {
+      "titulo": "Fluminense entra no top 30 das melhores bases do mundo; veja ranking - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFlSTVdrVjV6OHB0VGRUU2JYSEhiMmZwbVRVbmdlMEJKUVpBT0o2c0Q2bEFZMzc4SXZfM3U4dkwwS01PVTM0OEM0MWVSbUxSZFRFSHlRVm0yX3FISlBKOUZCU0w4RkUwZ2VvTWJma2VtNXBBVENFM3NEdmRCZEtXU2VpaEd0YnFzVHJvQ3lNQUN2MHhLRlRPVHhn?oc=5",
+      "data": "21/10 16:32"
+    },
+    {
+      "titulo": "Palmeiras x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzNYX1NENlNGaFZrb0o0U1Baem1OcFBvek9QaVQ2Skd6RGpiRjlxdW9yQUc2UC02dm1vOV9EbEFYR05xanpzRTVhNWNJNHVnVDNyRE1ndDJOQXg5d0RORFdyLUdaRTVJQW1tV2VVbWdYbTBVM1cyZzFlV0t6MEZqaEdUR0VjendfMVcyYlRJZEVYVUszUGc2Y0UtR2dQLXZ5bm1WamxUc3ZQbG9EdnRGMmZDaktMUVh6NjBNVkVvd0UtdlBxcUNMQjhuUTN2WTdn0gHfAUFVX3lxTE1YczZoMGNzdEtRbVR6Tml1cFd3b25DOWFoMWoxT0xZb1BSU2tRV2xsRkVqRkxoQmh6LWNHQk5ZN3d2WkQ2cW1sdGJiakNOT0FWcTVDVGJacHBSbl9mZDNFc2s5RjJIMmtJbnJ2cDVtLURZbWdxbUhrQ19qbWVoY1QzVXVsWUNEUFk5cGxuN080M0dQRFZUQ0RFZUVHSjhObk9sbFk1ZkpzVlBDOTM3ZVlUME1RZzFXbUdkZld1VEx0NXJJVjhOM1NJbzYyV2hDbHhuQ3hiakMtdk16M2RGck0?oc=5",
+      "data": "21/10 07:00"
     }
   ],
   "avisos": []
