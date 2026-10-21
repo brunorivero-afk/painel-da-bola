@@ -1,6 +1,70 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/10/2026 14:51",
+  "atualizado_em": "21/10/2026 18:10",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Atletico Torque x Atlético-MG",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "20:00",
+      "competition": "MLS",
+      "match": "FC Cincinnati x DC United",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "21:30",
+      "competition": "Copa Libertadores",
+      "match": "Palmeiras x Fluminense",
+      "channels": [
+        "GLOBO",
+        "GE TV",
+        "PARAMOUNT+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "21:30",
+      "competition": "CONCACAF Central American Cup",
+      "match": "Firpo x Deportivo Saprissa",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "22:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Atlas x Club America",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "23:30",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CS Cartagines x CD Olimpia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-21",
@@ -102,70 +166,6 @@ window.PAINEL_DATA = {
       "match": "Club Brugge KV x Lens",
       "channels": [
         "HBO MAX"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-21",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Atletico Torque x Atlético-MG",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-21",
-      "time": "20:00",
-      "competition": "MLS",
-      "match": "FC Cincinnati x DC United",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-21",
-      "time": "21:30",
-      "competition": "Copa Libertadores",
-      "match": "Palmeiras x Fluminense",
-      "channels": [
-        "GLOBO",
-        "GE TV",
-        "PARAMOUNT+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-21",
-      "time": "21:30",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Firpo x Deportivo Saprissa",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-21",
-      "time": "22:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atlas x Club America",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-21",
-      "time": "23:30",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CS Cartagines x CD Olimpia",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -336,28 +336,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.2,
+      "temp_max": 23.6,
       "temp_min": 20.3,
       "chance_chuva": 10,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.7,
+      "temp_max": 23.1,
       "temp_min": 20.0,
       "chance_chuva": 82,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.7,
-      "temp_min": 15.2,
+      "temp_max": 22.1,
+      "temp_min": 15.4,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.5,
+      "temp_max": 17.9,
       "temp_min": 13.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -370,24 +370,24 @@ window.PAINEL_DATA = {
       "data": "21/10 02:11"
     },
     {
-      "titulo": "Ex-Fluminense declara torcida pelo clube na Libertadores - Futebol Interior",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkZUaDN5ZldJSzZzMGE0dWg1TXJHZlQyczhjNV9PdFFsVTRjOUtGTVBjZmJqTVdGNEFZUkRRUi1yeHVFMEYySTZ0Tm1nZS1qeEQzR2phbTRfbTZaV0RQTFU4aEpmeVVwZ3V0Z0ZFZXlSQlQ3YW9HeUhGZmRhd0U4eHd1OEVRNXBkWmNGWnZYdlRTQ2RyMGk0?oc=5",
-      "data": "21/10 15:59"
+      "titulo": "Fluminense aparece entre os clubes que devem ao Santos; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTh3S3UyelJOaVJRVHdRX1lpTnRDRHFyMEVuN1RjQ05vblc2NzcxMDJpWnUxVzE5N3FIVUJWR3YtNy1mMXRsUkFZQzJwTlhtZnExeXp3V0JuMDdZMjNJX2sxYWJUYVdGNUFoeVdQdHM4MGJVV2Nab1loRnB3OXllR0VsU0VFQ0laQjBpZUNKYTdmUC1yazd5ejRoRjF5RHdVaUdoLS0yNUkxVVVyWXA3SHpHa2pQaDVFcXFsUU5ISE1ydFhrVHY4cmd2bTJTQklieHE3TzBCcVpfaGNLak9ldHNOUVJzZl9KaUprX2Vn?oc=5",
+      "data": "21/10 20:18"
     },
     {
-      "titulo": "Renê cita Hulk e Thiago Silva e destaca o peso de conquistar a Libertadores pelo Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDNtWHNQdE05c2I3a3BiSGJNZUdNMHk4UDFPcmtWaUZ6X3ZFc0VIcTQxa0VZSFBkQ1pPQkQ3YzNPcnBvRjV0V3h1eEdTMXJzZXA5S09HWGJOeTU4UFN6dWVjUmkwVEVpYUU0cmFvZkxCV2NMdlVOU3ltVV85R3VJRDhSdElqS1hyN05idkhlUTY2VmJ6MWd4M0hSc1VHNmhfTWJ1ZDBzQUV6eTZVTjhFVjRjMnJrVU5wVUE?oc=5",
-      "data": "21/10 14:32"
-    },
-    {
-      "titulo": "Fluminense entra no top 30 das melhores bases do mundo; veja ranking - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFlSTVdrVjV6OHB0VGRUU2JYSEhiMmZwbVRVbmdlMEJKUVpBT0o2c0Q2bEFZMzc4SXZfM3U4dkwwS01PVTM0OEM0MWVSbUxSZFRFSHlRVm0yX3FISlBKOUZCU0w4RkUwZ2VvTWJma2VtNXBBVENFM3NEdmRCZEtXU2VpaEd0YnFzVHJvQ3lNQUN2MHhLRlRPVHhn?oc=5",
-      "data": "21/10 16:32"
+      "titulo": "Flu empata, conquista ponto extra em clássico e carimba vaga na semifinal do Torneio Guilherme Embry Sub-16 - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkNLVTRUY2t6Y1ZpZmZWVm9JMGt2aC1pVFF3SExSNDQ3QUx0cVBDeHJWNGpjc3hYdVZyYmlHdkJPUEtmeTd0VHhoM1ZCUDhFMldOVGlUQTN4Qk94Q1BBUzM2MnlqakZ1eXBFU1hqMmlDU1VNV09rQm5qNFU2eDRYTFM5Nk9nNDNYVDB2ckhndTU1SUJZaXJreXZjNlhTbUdIeThvZEQtekl6QVR4ZTR4MjlxSlo5aS1IMDhCZjZlazlEVFBQM0k0dXA5NEpmNTh5MWFWb0RjNHRxbTdj?oc=5",
+      "data": "21/10 20:55"
     },
     {
       "titulo": "Palmeiras x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzNYX1NENlNGaFZrb0o0U1Baem1OcFBvek9QaVQ2Skd6RGpiRjlxdW9yQUc2UC02dm1vOV9EbEFYR05xanpzRTVhNWNJNHVnVDNyRE1ndDJOQXg5d0RORFdyLUdaRTVJQW1tV2VVbWdYbTBVM1cyZzFlV0t6MEZqaEdUR0VjendfMVcyYlRJZEVYVUszUGc2Y0UtR2dQLXZ5bm1WamxUc3ZQbG9EdnRGMmZDaktMUVh6NjBNVkVvd0UtdlBxcUNMQjhuUTN2WTdn0gHfAUFVX3lxTE1YczZoMGNzdEtRbVR6Tml1cFd3b25DOWFoMWoxT0xZb1BSU2tRV2xsRkVqRkxoQmh6LWNHQk5ZN3d2WkQ2cW1sdGJiakNOT0FWcTVDVGJacHBSbl9mZDNFc2s5RjJIMmtJbnJ2cDVtLURZbWdxbUhrQ19qbWVoY1QzVXVsWUNEUFk5cGxuN080M0dQRFZUQ0RFZUVHSjhObk9sbFk1ZkpzVlBDOTM3ZVlUME1RZzFXbUdkZld1VEx0NXJJVjhOM1NJbzYyV2hDbHhuQ3hiakMtdk16M2RGck0?oc=5",
       "data": "21/10 07:00"
+    },
+    {
+      "titulo": "Torcedores do Flamengo e Fluminense reagem à eliminação do Vasco: 'Não é' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1o2UzJ4cl80ZWo2RkV5Rm1TcHduVTlUM0IxMHdSdHl2SGtDRDBFa2dBMTR2dlBSOXllUkZqeHlNOEgtYjhqb0RhZUZ6NXhITWpFY013X3BiSTE5cy1wOWttSWtNM1R1TzRDdUZjM1NfM0xyaHVUaDVPZnE2cUtsejhMc0ptUEh1TmpXNlN2czJHUVJqUzFUMGZBUEdhYnZlOVh6ektJY2pZOHZqZ2kwcjBOYlQ?oc=5",
+      "data": "21/10 09:40"
     }
   ],
   "avisos": []
