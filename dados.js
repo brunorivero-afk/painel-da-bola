@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/10/2026 03:57",
+  "atualizado_em": "21/10/2026 09:45",
   "jogos": [
     {
       "sport": "futebol",
@@ -263,10 +263,60 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-20",
-      "time": "20:40",
+      "date": "2026-10-21",
+      "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x Pinheiros",
+      "match": "Minas x Paulistano Barueri",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Cruzeiro",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-21",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Guarulhos x Monte Carmelo",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brusque x Praia Clube",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-21",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesi-Bauru x Mackenzie",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-21",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesc RJ Flamengo x Paulistano Barueri",
       "channels": [
         "SporTV2"
       ]
@@ -275,43 +325,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.3,
-      "temp_min": 19.9,
-      "chance_chuva": 8,
-      "condicao": "Nublado"
+      "temp_max": 24.2,
+      "temp_min": 20.3,
+      "chance_chuva": 4,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.0,
-      "temp_min": 20.4,
-      "chance_chuva": 43,
-      "condicao": "Garoa fraca"
+      "temp_max": 23.7,
+      "temp_min": 20.0,
+      "chance_chuva": 51,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.7,
-      "temp_min": 14.9,
+      "temp_min": 15.2,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.7,
-      "temp_min": 13.3,
+      "temp_max": 18.5,
+      "temp_min": 13.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense inicia preparação visando decisão com Palmeiras e divulga imagens do treino; assista - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdU01OWNEVjVVSFlCMVdvZV9Ea05MN29TclJlNmF0VlpYb3pGQ2hNMmdPc09iU21IOWNaY0d5VkF2clRVRFBISXM5RUVqc2Z0X2tjUU1zdklOSHk5ZGhrLVhKWGFHeWlkTHZ1cDlKTDlEeXhFUG8zR3B6bmVIenRlV2ZHZzRaREotVWtmeVNjeTZiMnJGZGhicXdaQlI4MHZ4YlhYaGlKbGhDS25BeEQ2Q3AyY1VRMGdhYlVHajNn?oc=5",
-      "data": "20/10 12:31"
-    },
-    {
-      "titulo": "Resumo do Dia: Decisão na Libertadores, provável escalação, viagem de Cano e novo uniforme do Fluminense (20/10) - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjBCQlo3a2J5T3BOUFpob093TmlmdGFkSlZzYU9iVFlFRE1yNVM0akZIZ25DY3ZBNUVFaGFlOF9YclNXMUl5dC12ajEtMERNNmk4YWlBYUFDeTlVT0ZwYmY0V3FlR21UNWl6QndkQXJraGt0SnVyZllfc1JxdGJ2WWRoVVgxNWFJakRsTUdlMHNFcGgwRWZCNEl2RzRUSkh4MVE3X2o4VW1jaVdvUnc?oc=5",
-      "data": "21/10 02:11"
+      "titulo": "Por que uma virada do River Plate em mata-mata anima torcedores do Fluminense na Libertadores? Entenda - ge",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcWVFeHZkZy1oVlVHekktOHkyb2cwemZzX1pSRGZkWWI1TjNhQWNqRnRRejVqT0JpZVJ3VVVfLU9tbFNGTkQwZy04Ylc3NXdGeC1ER2ZfbnRqcWpGY193ZkV0N0tNOE9PM3FHbndMVW1TMWFlc1JoR3o3WmdWOGs1R2tCY0lmZ2lDbVFkdldhZ3AzeG9CTnM4QngwMHJlOW1waUljMDB0U0JVMDRpY01iTmhPbUt2TWg2bW1Ic3prMnJPVHlfbDNsNTdXb1JhakxDUFlScG9SSVZScG1TbUdrU0RqSlY3bm1MX25Rb0dycUt3WHNONklhSHNwZWlXV1A0Y2fSAZACQVVfeXFMUFNPWFl6Qi10ZGdwWjFGdzJsRmcwZk1tZTJucHNpVDg1Y1JBaTRzM3lMcDlTR19FMUdtOVp3aHhRbnAxZWFDaElucG5GUnVCaHdSNmF2cWlGSjJQRlRxcE1xc01KXzJQR09xRW1YYlN1SndFVFhvcWU5WW84TUUxbDJNbng0RmlDWFM5WlA2SU1Ha2ltcWMyUzFQSDU2UXptcDZnaVZLRV9SLWgtMFkzQ0lGV1lsYldrU002MGV5RjJIUmdKOGxpUVNoSHFaTzAyaDZUMF9MeVRBY3d2QUc4RzFfZ2hlaHFkUXA1RFJPLWl1M3YxN1pPMmQ4M00xMUlad2Rvd0x5UmlaOUo5dHY4WUc?oc=5",
+      "data": "20/10 13:00"
     },
     {
       "titulo": "Com novidades, Fluminense embarca para decisão contra o Palmeiras - LANCE!",
@@ -319,17 +364,20 @@ window.PAINEL_DATA = {
       "data": "20/10 18:30"
     },
     {
-      "titulo": "Sul-Americana: Fluminense provoca Vasco após eliminação para Boca Juniors - CNN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcXdfR29pOUZvQ0NOWjdzelBoX09FWlkxQzN0Q0hDUFZKVUdLbmZZTWpwWlR1eUxpRklxcHgxclN6VUl1WjhFVW40djI5QkNhR2NrTTlQS2EwZVB0dDZ5eFE1VGwwWlJWZWJGekZQeFBkdmRRcUJrWkZjNzRXOEtmM3dwd1BlYWNlTGttaG1EMGFubkJrSlZGVEZZSG50cldSVFY0TmpjdVpuVkVORmpYVjFJYlhUMGVLVEZ5QmlpRUdQbnhsVzRQZ1RHMVRZSlE2LS11WTVBOGJUMUowRE53UUdGbzVxME91VkE?oc=5",
-      "data": "21/10 03:45"
+      "titulo": "Fluminense acerta contratação do zagueiro Aquilles para base - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYkxHakwtZnkwWE00OGNETTFLZEQxV1pjZllEX1hWXzhUcHAzQVpoQ3RqZlZnRlFLWUc4dlhHNVI4ZGNrZUMzMjZBMzNlWk16a0dldmNrTk9kdVNsUkpSQ3NIb3dNUDlvanZ5bzRnSWlSaFVISUxVSUxwdzUxMW9oaFRUc1htVWE0NHEySG0xRXNyT0IzaTRMbndJSlZRSFU?oc=5",
+      "data": "20/10 16:00"
     },
     {
-      "titulo": "Torcedores do Vasco provocam Flamengo e Fluminense em volta ao Maracanã: \"Síndico não é dono\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY3dsUmZuVWh6TUNJSmRwb2lXbWhET2RaS05MV0kzX0lnMW1RT3pQRUFpOG0wTU03REw0eVd3SmdseGFpdU9wOW41SUtoMnZMeVVvRkxBdGI3czVyU0d2dVBBcGJjU3M4X2ZZajBud2dJbTdhajVDNXZFVk1fYnRMMm1wdlRZeFRRVU12RUZvT2tXR0tNQWdYdThrVkJodTlkYWFZczYyeFBxNVR2TkhzT0NFQ1RpWW9nSW40VzFVR3dIcXliWHRndWZtdDJIbThDTk10V0stc1VVczNFdjU1TU5JOGI2V3ZveG8xa9IB-wFBVV95cUxOSmVuUDJFazhMUG9ad3BNUE9lanZTTXRzUzctejdjS3hXVXlhUkhGXy1tRU1VYjRxS2dZY1F1MUdGckJwclo5Z09KYXR4eU5WRzcwQk1hNXcycktpVzYzWWd2SFRuYTY4aXJ3TlVfVUhfVGFwR2dfb1BFcVZYSTh4cU9Fbm9YX25GM0ZERU9fTWY0aFkzSVhRWG5aXzFGSnltYUN2RE9BZzJZZlRkWTdsNl9LdVR4S0t1Qng4M3RNWXJmTVlKR3l4UENONmlWUG1WV0dFbWhCdm9wSWlGRjk4OG5TQ3B3c0VjTjJIMkVsZ0h6TUE4Z0thTUlEVQ?oc=5",
-      "data": "20/10 22:04"
+      "titulo": "Resumo do Dia: Decisão na Libertadores, provável escalação, viagem de Cano e novo uniforme do Fluminense (20/10) - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjBCQlo3a2J5T3BOUFpob093TmlmdGFkSlZzYU9iVFlFRE1yNVM0akZIZ25DY3ZBNUVFaGFlOF9YclNXMUl5dC12ajEtMERNNmk4YWlBYUFDeTlVT0ZwYmY0V3FlR21UNWl6QndkQXJraGt0SnVyZllfc1JxdGJ2WWRoVVgxNWFJakRsTUdlMHNFcGgwRWZCNEl2RzRUSkh4MVE3X2o4VW1jaVdvUnc?oc=5",
+      "data": "21/10 02:11"
+    },
+    {
+      "titulo": "Estrelas decidem, Santos vira sobre Flu e se aproxima da Libertadores - UOL",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ096elpySnRLYmFUX2MtdkFVcUJWbk5HT3pFdmpwUFRXYmY0VFVTbDk1NWViQjhZREk4V0pGRzhlMy1qOExwZzY5Zjd0VnUzT1otMTdKYjg0ZXp4cEs2MllGeFZtNlgzQ0hqbTB3blh5dUpIckp1TjRrdVU5ZV81SVR2YUJxeWRaRWZDSnVWYXVXbzFkM2NudUx0SDcyZE50ZkdiMlV1NzJNcnJ6SjJGbndrUTBkNzlvVFE?oc=5",
+      "data": "19/10 01:03"
     }
   ],
-  "avisos": [
-    "Falha ao buscar vôlei na TV: Nenhum jogo de vôlei ao vivo encontrado na grade (pode não ter vôlei programado hoje, ou o site mudou de layout)."
-  ]
+  "avisos": []
 };
