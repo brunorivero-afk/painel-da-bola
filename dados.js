@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/10/2026 08:02",
+  "atualizado_em": "22/10/2026 13:31",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "11:30",
-      "competition": "UEFA Conference League",
-      "match": "Kairat Almaty x Panathinaikos",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-22",
@@ -79,6 +69,18 @@ window.PAINEL_DATA = {
       "match": "FK Jablonec x Brighton",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ahli Jeddah x Al Khaleej Saihat",
+      "channels": [
+        "SPORTV 3",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -215,13 +217,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-22",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ahli Jeddah x Al Khaleej Saihat",
+      "time": "11:30",
+      "competition": "UEFA Conference League",
+      "match": "Kairat Almaty x Panathinaikos",
       "channels": [
-        "SPORTV 3",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
+        "CAZÉTV"
       ]
     },
     {
@@ -491,58 +491,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.2,
-      "temp_min": 20.0,
-      "chance_chuva": 71,
-      "condicao": "Garoa"
+      "temp_max": 23.7,
+      "temp_min": 19.9,
+      "chance_chuva": 67,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.0,
-      "temp_min": 20.4,
-      "chance_chuva": 83,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 23.2,
+      "temp_min": 20.3,
+      "chance_chuva": 79,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.3,
-      "temp_min": 15.8,
+      "temp_max": 21.7,
+      "temp_min": 15.9,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.9,
-      "temp_min": 14.9,
-      "chance_chuva": 100,
+      "temp_max": 21.1,
+      "temp_min": 15.2,
+      "chance_chuva": 99,
       "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Vídeo: Presidente do Fluminense chora em campo após eliminação na Libertadores - NETFLU",
+      "titulo": "Presidente chora após eliminação do Fluminense na Libertadores - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUpWSWc5UkxlUWxoUzQ2Mm9Qcm9jYVZLUGxSWVlKbmF1Nlg3djN0QmwyVFZRSjhQTmNhUlotTGMyX2l6V3ZFRjhkaTBvdDZkbmJBZUhPc0toMVJTNDQ4M0ZoVUJEWHhxblBTSl96U054TFNJdnlnbGlQdEhHTmwyUlk5U3JjTy1UaVRudDRDME5pVjBKRnJuT0lxWUNCUmxFZ2J6U3hIdw?oc=5",
       "data": "22/10 04:22"
     },
     {
-      "titulo": "Análise: Fluminense sofre eliminação cruel, mas se candidata como força alternativa a Flamengo e Palmeiras - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUks2UDV3MDBWNml4MUcxYkdhbGNjMzdGQjJFc09SVmRnaWxVdjhWSXRUeU1rR09QdWdOTk9ZRUJma0VjOTUySzBtb3Z3NFFwVEdseDRiM1ctM1lxNnRfdkVkel8tT0xsZzlhMmt5aTlFWFV0MXd1dFJwYWg2bExRZ3RjOGJtdVctZ0JLT2QzZFo4eG5lZ1VtZEY0LXptRDgtYTRpbHo4b1RGYjlzbU9Pb1ozcUh4eld3T1cyZGhMT1pGNUlKQVFENWVYZXJxRHhoSnNJQkNXMklfRkZSM0lQdmRVMWRpeWE2OGt5Vi1POWIwNC1ZYi1JS2tzeElzbzRyLWpad1FndEpKZ1R5RlhR0gGeAkFVX3lxTFBIbWE5TU52aGR1YVBYMDF6YXlUZUdNVDFTN0JZLWQ5aXNEMzVSaC13ZlhuVkFpRjZlNmhER0tnWnF0eXdwQlJDOTZiNmY3ZjlGVF9yQncxSTRGZHpzbU9OTzRNVjhmNXE3LTk3OWJQTWd6dmNyS0pXU1NZM1RXSHlmX1huamhRTlFhZTNuOUxBOEoxS1QxbGRIeFpvajNMZHhkdVUzVnp6Vy05cXRoSVJ4RXFRTVVHaUU5OG0wY1VpSUExQTNEM0cwRnBsREU4NFk4eVZPR1BTVDRQOFNZQU11WG5zckh6R2JUR0ZzYkF1SlprdUxWdVZzUmtWVEJNRncxbkRpTks0WV8xQXdUX1V4VGo2M3ZPWFltQzJPSlE?oc=5",
-      "data": "22/10 07:30"
+      "titulo": "Eliminado, Fluminense aguarda julgamento separado na CBF sobre dívidas e alonga pagamentos ao elenco - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWFV5RmFJLWNoYjFGWGdBZmlnYlhWVG91bkdOX1B6bm1ZTVNKMThqcHhhNXVJWk1EWk9TU0l0QXd6UVpNRFN2bll2WVJrbDJvRkFiMllVM1ZlU1YxU1Uxc3JSbGFvcXB1UGFYRnltNE1pVGw5YzA2OVAzWUw1bzdvZnVpUjdHR25XdDhGTS13NGlxbEtkMjU4SmxvZjFERXpXWWM5Y2NKT0VCN3gyUnp2TERlLTlSMjNFSXQ0bTU1czdnN2lhYTZKenJLcEFsS3Vfai0yNDg2T0otOWh5TjhHd2FCZmRfSnI2S2h4SXNEd1piaTRHWVdV0gGGAkFVX3lxTE5yQl92elFNdEo0MG4tWE81UTdrRjcyOUNZZWN6QXN3NnZhc2RxanRpZHJVVVhZQUVjdWg4VmpBV0ZCTFNpcUJqdmM0MkZER1BPeEpxWHZnTjVlbm90MVJvU2lSemlHeXFNMng4VHkwSTNfdXE2Q3VEN1puSVZ0Q2NXYlcxVlNuNVZkMWJzYjNaeHVxMlQ3Z3ppaHd1MzJvb3dWa1BWcUZPLVNaaVVISHFnNUxBcllwYXVma2NMdGc5MmVDaFZnaFh5QkJkbjJaVmg5YUJhUXlwN01QbGpUMjR1NEk3czJEakduZ055ZjFMR01rWEdfdGZTTUpVTUZuVTRJSlNLUHc?oc=5",
+      "data": "22/10 15:48"
+    },
+    {
+      "titulo": "Guilherme Arana dá declaração sincera após eliminação do Fluminense para o Palmeiras - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQzlMZXIxeEdrLTNhQUJnR1VUWWVuMlh0WTd0cXczWHgzS3lfUGUtYVVqcERabi16empqNl9uVGNvdjI4NEwtU01IRmowM09za0x1NXZJOVRSeWI1dlpnR2Z1VXZtQjBnRFNnR2xvU1BJcnMyWjc2c3U3anN5R0JrN1pSREViX0xBcHJTdzE0VHR4S0ZmOU9HUnliR19BYnJsTEpucFQ0VXdVeFl1d0FGRFVONG1Jd3huMW5Yd1ZWT04zUTF3Vy05SkhlQmZ3TGpXVThRT1FKdmlRczRkMnIwaVhEOVNvNDdlUUJPRWZuWFEtS0tLSnhyeXpTaFlGN3R2bVRSTlRn?oc=5",
+      "data": "22/10 12:07"
+    },
+    {
+      "titulo": "Arias provoca torcida do Fluminense após classificação do Palmeiras à final da Libertadores - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcHpxU3g4MTQ0aF9vWGd2Vm9mUXNNUW1nVWxqa3FJOGpaZ2dRMTVtelZiZVZQVmhCRWZxdmRZX1Q2bElfNmJmSkFwRVBFUWF6dm1NNU1TajA4alYzaHNuMVowVmlIQkY5MFp3TG1zUHRLV2NNVkpQbnZCMktSVUNaZVlPcW13VE5pZV9wdTdZWGp0LU40YllJbnFST0h4Qks3MTRUblBncVIyNHBZMkJWZjFKa1llSjFwaFVqUzBXaUFWdnU0azNnLTQtYzJaSFVqV0s4ZlROYWhCakZmSlFUOXBSZS1vOThOY3VQdURMRlVReTZsRTRLVEtOUnJtaTBUQThCMVJvZnlvWU9SMXc?oc=5",
+      "data": "22/10 13:56"
     },
     {
       "titulo": "Palmeiras 0 x 1 Fluminense | Taça Conmebol Libertadores: melhores momentos - ge",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdUdzNVhRbng5SFZPdnRPWmduaEVtQUd5LXVmdmt6MHdTYjNfUE5sY1ZaYXh4bGd5c3RFOUJwZjF3Y0d1cjNmdlgyVm54YThNRDFWUFlScWoyWVZCcEhiTFhJOHJvbUFGRHZMMVlNRmxLSVUwWVMyYkY0NE9CblppS2Q4M3VOSW1YdXR0QjRXM0c?oc=5",
       "data": "21/10 18:11"
-    },
-    {
-      "titulo": "Palmeiras provoca o Fluminense com Arias após eliminação; confira - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVBVNVB2NHNhbEhFNFgtaDVIZmR5R2g1T0N1aTZvdkl6THV2THY4R1I4aS1JU1dfUXd4TkhkWHA2bTVHV2lJem5rZVpobWxLMGVFQmlKbHFyX00tQ0ZfT1h1dnpZZ1JsdWx1ZFZzVHNyTE9RN0I4ajR6VFJ6RVhuQS1ES0ZEWVpDQlBjTmJPeGYwTFFBNTJxZUVBZDl3d3JQeE9rUlN6VnBVbTlO?oc=5",
-      "data": "22/10 03:19"
-    },
-    {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Chapecoense x Fluminense - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTncwQjhtNDR0OFlWM0p3aXpZcm1xMFFzYTNTVFJpb3U0bFItYUxsaXdkVzZHZjFJRUYtYUNqNjB5MWczSjU4SWktLWl3Nktxa3pSMU93OVB6T0c5NllISjVBUjkyMFZFU004elZ2VF9OTTVlMHNOYzJENnp4OEV6TlVtMnFnQVQyckJwbklqblN2Wm1KM09PVURWbUlSZFpyNEtsYXlleWREM3BQWlE?oc=5",
-      "data": "21/10 22:04"
     }
   ],
   "avisos": []
