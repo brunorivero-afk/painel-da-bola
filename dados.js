@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/10/2026 18:10",
+  "atualizado_em": "21/10/2026 21:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-21",
-      "time": "19:00",
-      "competition": "Copa Sul-Americana",
-      "match": "Atletico Torque x Atlético-MG",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-21",
@@ -170,6 +159,17 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-10-21",
+      "time": "19:00",
+      "competition": "Copa Sul-Americana",
+      "match": "Atletico Torque x Atlético-MG",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-22",
       "time": "11:30",
       "competition": "UEFA Conference League",
@@ -193,7 +193,57 @@ window.PAINEL_DATA = {
       "date": "2026-10-22",
       "time": "13:45",
       "competition": "UEFA Europa League",
+      "match": "Lech Poznan x Sunderland",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
       "match": "Juventus x Rennes",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "13:45",
+      "competition": "UEFA Europa League",
+      "match": "Sturm Graz x Marseille",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "Getafe x FC Lugano",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "Estrela Vermelha x FC Copenhagen",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "13:45",
+      "competition": "UEFA Conference League",
+      "match": "FK Jablonec x Brighton",
       "channels": [
         "CAZÉTV"
       ]
@@ -215,7 +265,37 @@ window.PAINEL_DATA = {
       "date": "2026-10-22",
       "time": "16:00",
       "competition": "UEFA Europa League",
-      "match": "Bournemouth x AC Milan",
+      "match": "Celtic x Celta Vigo",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "match": "SC Braga x Gent",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "match": "Ajax x Atalanta",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "match": "Monaco x SC Freiburg",
       "channels": [
         "CAZÉTV"
       ]
@@ -234,8 +314,48 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-22",
       "time": "16:00",
-      "competition": "UEFA Conference League",
-      "match": "Monaco x SC Freiburg",
+      "competition": "UEFA Europa League",
+      "match": "Besiktas x Crystal Palace",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Jagiellonia x Anderlecht",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Lillestrom x Real Sociedad",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "1899 Hoffenheim x Lyon",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Bournemouth x AC Milan",
       "channels": [
         "CAZÉTV"
       ]
@@ -338,14 +458,14 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 23.6,
       "temp_min": 20.3,
-      "chance_chuva": 10,
+      "chance_chuva": 18,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.1,
       "temp_min": 20.0,
-      "chance_chuva": 82,
+      "chance_chuva": 94,
       "condicao": "Garoa fraca"
     },
     {
@@ -370,24 +490,24 @@ window.PAINEL_DATA = {
       "data": "21/10 02:11"
     },
     {
+      "titulo": "Sem Martinelli, Fluminense está escalado para enfrentar o Palmeiras pela Libertadores - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkZhem9nd0xOOU9ERGY4Mmk5ZVIwT3luU1hReUFUSmxBQmRuX2hVRU5qaWROcTVFaTJrdThVV2hURmxPZnozanY5LW5ZWGNFUFAtOGlLSGl1b3ZSZHNmbDd1NXRnTzNqNHh2LWloTk1FdHVlVWU5X2djZWlueW9uWFRhLWZvdS1NbUcwQUUyZ0xXYnZiU21Bbi1UaVhoN2JMdWkzNTBLX3hkRC1tb3pjdFljYjFmNDB1ZTF0aVBleUxKV2s?oc=5",
+      "data": "21/10 23:25"
+    },
+    {
       "titulo": "Fluminense aparece entre os clubes que devem ao Santos; saiba detalhes - Terra",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUTh3S3UyelJOaVJRVHdRX1lpTnRDRHFyMEVuN1RjQ05vblc2NzcxMDJpWnUxVzE5N3FIVUJWR3YtNy1mMXRsUkFZQzJwTlhtZnExeXp3V0JuMDdZMjNJX2sxYWJUYVdGNUFoeVdQdHM4MGJVV2Nab1loRnB3OXllR0VsU0VFQ0laQjBpZUNKYTdmUC1yazd5ejRoRjF5RHdVaUdoLS0yNUkxVVVyWXA3SHpHa2pQaDVFcXFsUU5ISE1ydFhrVHY4cmd2bTJTQklieHE3TzBCcVpfaGNLak9ldHNOUVJzZl9KaUprX2Vn?oc=5",
       "data": "21/10 20:18"
     },
     {
-      "titulo": "Flu empata, conquista ponto extra em clássico e carimba vaga na semifinal do Torneio Guilherme Embry Sub-16 - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkNLVTRUY2t6Y1ZpZmZWVm9JMGt2aC1pVFF3SExSNDQ3QUx0cVBDeHJWNGpjc3hYdVZyYmlHdkJPUEtmeTd0VHhoM1ZCUDhFMldOVGlUQTN4Qk94Q1BBUzM2MnlqakZ1eXBFU1hqMmlDU1VNV09rQm5qNFU2eDRYTFM5Nk9nNDNYVDB2ckhndTU1SUJZaXJreXZjNlhTbUdIeThvZEQtekl6QVR4ZTR4MjlxSlo5aS1IMDhCZjZlazlEVFBQM0k0dXA5NEpmNTh5MWFWb0RjNHRxbTdj?oc=5",
-      "data": "21/10 20:55"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Chapecoense x Fluminense - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTncwQjhtNDR0OFlWM0p3aXpZcm1xMFFzYTNTVFJpb3U0bFItYUxsaXdkVzZHZjFJRUYtYUNqNjB5MWczSjU4SWktLWl3Nktxa3pSMU93OVB6T0c5NllISjVBUjkyMFZFU004elZ2VF9OTTVlMHNOYzJENnp4OEV6TlVtMnFnQVQyckJwbklqblN2Wm1KM09PVURWbUlSZFpyNEtsYXlleWREM3BQWlE?oc=5",
+      "data": "21/10 22:04"
     },
     {
       "titulo": "Palmeiras x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzNYX1NENlNGaFZrb0o0U1Baem1OcFBvek9QaVQ2Skd6RGpiRjlxdW9yQUc2UC02dm1vOV9EbEFYR05xanpzRTVhNWNJNHVnVDNyRE1ndDJOQXg5d0RORFdyLUdaRTVJQW1tV2VVbWdYbTBVM1cyZzFlV0t6MEZqaEdUR0VjendfMVcyYlRJZEVYVUszUGc2Y0UtR2dQLXZ5bm1WamxUc3ZQbG9EdnRGMmZDaktMUVh6NjBNVkVvd0UtdlBxcUNMQjhuUTN2WTdn0gHfAUFVX3lxTE1YczZoMGNzdEtRbVR6Tml1cFd3b25DOWFoMWoxT0xZb1BSU2tRV2xsRkVqRkxoQmh6LWNHQk5ZN3d2WkQ2cW1sdGJiakNOT0FWcTVDVGJacHBSbl9mZDNFc2s5RjJIMmtJbnJ2cDVtLURZbWdxbUhrQ19qbWVoY1QzVXVsWUNEUFk5cGxuN080M0dQRFZUQ0RFZUVHSjhObk9sbFk1ZkpzVlBDOTM3ZVlUME1RZzFXbUdkZld1VEx0NXJJVjhOM1NJbzYyV2hDbHhuQ3hiakMtdk16M2RGck0?oc=5",
       "data": "21/10 07:00"
-    },
-    {
-      "titulo": "Torcedores do Flamengo e Fluminense reagem à eliminação do Vasco: 'Não é' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1o2UzJ4cl80ZWo2RkV5Rm1TcHduVTlUM0IxMHdSdHl2SGtDRDBFa2dBMTR2dlBSOXllUkZqeHlNOEgtYjhqb0RhZUZ6NXhITWpFY013X3BiSTE5cy1wOWttSWtNM1R1TzRDdUZjM1NfM0xyaHVUaDVPZnE2cUtsejhMc0ptUEh1TmpXNlN2czJHUVJqUzFUMGZBUEdhYnZlOVh6ektJY2pZOHZqZ2kwcjBOYlQ?oc=5",
-      "data": "21/10 09:40"
     }
   ],
   "avisos": []
