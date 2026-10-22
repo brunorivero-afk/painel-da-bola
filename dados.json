@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/10/2026 02:41",
+  "atualizado_em": "22/10/2026 08:02",
   "jogos": [
     {
       "sport": "futebol",
@@ -79,18 +79,6 @@
       "match": "FK Jablonec x Brighton",
       "channels": [
         "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "15:00",
-      "competition": "Campeonato Saudita",
-      "match": "Al-Ahli Jeddah x Al Khaleej Saihat",
-      "channels": [
-        "SPORTV 3",
-        "CANAL GOAT",
-        "ONEFOOTBALL"
       ]
     },
     {
@@ -222,6 +210,18 @@
       "match": "CD Motagua x LD Alajuelense",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ahli Jeddah x Al Khaleej Saihat",
+      "channels": [
+        "SPORTV 3",
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -365,21 +365,21 @@
     {
       "sport": "futebol",
       "date": "2026-10-23",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Gimnasia L.P. x Sarmiento Junin",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-23",
       "time": "17:15",
       "competition": "Campeonato Peruano",
       "match": "Atletico Grau x ADT",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "18:00",
+      "competition": "Campeonato Argentino",
+      "match": "Gimnasia L.P. x Sarmiento Junin",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -408,7 +408,7 @@
       "date": "2026-10-23",
       "time": "20:00",
       "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Racing Montevideo",
+      "match": "Juventud x Penãrol",
       "channels": [
         "DISNEY+"
       ]
@@ -491,38 +491,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.5,
+      "temp_max": 23.2,
       "temp_min": 20.0,
       "chance_chuva": 71,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.3,
-      "temp_min": 20.3,
+      "temp_max": 23.0,
+      "temp_min": 20.4,
       "chance_chuva": 83,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.9,
-      "temp_min": 15.6,
+      "temp_max": 21.3,
+      "temp_min": 15.8,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.7,
+      "temp_max": 18.9,
       "temp_min": 14.9,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Resumo do Dia: Decisão na Libertadores, provável escalação, viagem de Cano e novo uniforme do Fluminense (20/10) - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjBCQlo3a2J5T3BOUFpob093TmlmdGFkSlZzYU9iVFlFRE1yNVM0akZIZ25DY3ZBNUVFaGFlOF9YclNXMUl5dC12ajEtMERNNmk4YWlBYUFDeTlVT0ZwYmY0V3FlR21UNWl6QndkQXJraGt0SnVyZllfc1JxdGJ2WWRoVVgxNWFJakRsTUdlMHNFcGgwRWZCNEl2RzRUSkh4MVE3X2o4VW1jaVdvUnc?oc=5",
-      "data": "21/10 02:11"
+      "titulo": "Vídeo: Presidente do Fluminense chora em campo após eliminação na Libertadores - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUpWSWc5UkxlUWxoUzQ2Mm9Qcm9jYVZLUGxSWVlKbmF1Nlg3djN0QmwyVFZRSjhQTmNhUlotTGMyX2l6V3ZFRjhkaTBvdDZkbmJBZUhPc0toMVJTNDQ4M0ZoVUJEWHhxblBTSl96U054TFNJdnlnbGlQdEhHTmwyUlk5U3JjTy1UaVRudDRDME5pVjBKRnJuT0lxWUNCUmxFZ2J6U3hIdw?oc=5",
+      "data": "22/10 04:22"
+    },
+    {
+      "titulo": "Análise: Fluminense sofre eliminação cruel, mas se candidata como força alternativa a Flamengo e Palmeiras - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUks2UDV3MDBWNml4MUcxYkdhbGNjMzdGQjJFc09SVmRnaWxVdjhWSXRUeU1rR09QdWdOTk9ZRUJma0VjOTUySzBtb3Z3NFFwVEdseDRiM1ctM1lxNnRfdkVkel8tT0xsZzlhMmt5aTlFWFV0MXd1dFJwYWg2bExRZ3RjOGJtdVctZ0JLT2QzZFo4eG5lZ1VtZEY0LXptRDgtYTRpbHo4b1RGYjlzbU9Pb1ozcUh4eld3T1cyZGhMT1pGNUlKQVFENWVYZXJxRHhoSnNJQkNXMklfRkZSM0lQdmRVMWRpeWE2OGt5Vi1POWIwNC1ZYi1JS2tzeElzbzRyLWpad1FndEpKZ1R5RlhR0gGeAkFVX3lxTFBIbWE5TU52aGR1YVBYMDF6YXlUZUdNVDFTN0JZLWQ5aXNEMzVSaC13ZlhuVkFpRjZlNmhER0tnWnF0eXdwQlJDOTZiNmY3ZjlGVF9yQncxSTRGZHpzbU9OTzRNVjhmNXE3LTk3OWJQTWd6dmNyS0pXU1NZM1RXSHlmX1huamhRTlFhZTNuOUxBOEoxS1QxbGRIeFpvajNMZHhkdVUzVnp6Vy05cXRoSVJ4RXFRTVVHaUU5OG0wY1VpSUExQTNEM0cwRnBsREU4NFk4eVZPR1BTVDRQOFNZQU11WG5zckh6R2JUR0ZzYkF1SlprdUxWdVZzUmtWVEJNRncxbkRpTks0WV8xQXdUX1V4VGo2M3ZPWFltQzJPSlE?oc=5",
+      "data": "22/10 07:30"
     },
     {
       "titulo": "Palmeiras 0 x 1 Fluminense | Taça Conmebol Libertadores: melhores momentos - ge",
@@ -530,19 +535,14 @@
       "data": "21/10 18:11"
     },
     {
-      "titulo": "Antes de Palmeiras x Fluminense, Leila Pereira faz anúncio sobre seu futuro no clube - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMmVCOWQyaWtCX0V4YVRZWmtSWWlqRlM3YWtMQ2pud1pnYUdobXZjb01uSy10Ri1tOVFjNG4tUXFEZnhKSlkxbnh3clludENZTUgwbEJnaW9tY244RUNyYnI2VmdaSklBOWRURVlmSkxXMUxIekxoUEI3eUZweVl3eHU1OEtIdDBxQ0RMNFlsN0dFX3VCbFVHa1lMQ0JLRl9kTzZsRWZNc3RFeGE1bFZjQWk4Tm9hTkFlQm5wU19RN0c2UHo3VURWUm1ZNnEzdEFJMjctX1M4RUllTjF0d3Izdk9JaDZaQmNnUzVxclVkZzJsaGlsNEdjdFZneEh4QXJrb3hv?oc=5",
-      "data": "22/10 02:00"
+      "titulo": "Palmeiras provoca o Fluminense com Arias após eliminação; confira - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVBVNVB2NHNhbEhFNFgtaDVIZmR5R2g1T0N1aTZvdkl6THV2THY4R1I4aS1JU1dfUXd4TkhkWHA2bTVHV2lJem5rZVpobWxLMGVFQmlKbHFyX00tQ0ZfT1h1dnpZZ1JsdWx1ZFZzVHNyTE9RN0I4ajR6VFJ6RVhuQS1ES0ZEWVpDQlBjTmJPeGYwTFFBNTJxZUVBZDl3d3JQeE9rUlN6VnBVbTlO?oc=5",
+      "data": "22/10 03:19"
     },
     {
       "titulo": "Brasileirão 2026: Informações de ingressos para Chapecoense x Fluminense - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTncwQjhtNDR0OFlWM0p3aXpZcm1xMFFzYTNTVFJpb3U0bFItYUxsaXdkVzZHZjFJRUYtYUNqNjB5MWczSjU4SWktLWl3Nktxa3pSMU93OVB6T0c5NllISjVBUjkyMFZFU004elZ2VF9OTTVlMHNOYzJENnp4OEV6TlVtMnFnQVQyckJwbklqblN2Wm1KM09PVURWbUlSZFpyNEtsYXlleWREM3BQWlE?oc=5",
       "data": "21/10 22:04"
-    },
-    {
-      "titulo": "Palmeiras provoca o Fluminense com Arias após eliminação; confira - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVBVNVB2NHNhbEhFNFgtaDVIZmR5R2g1T0N1aTZvdkl6THV2THY4R1I4aS1JU1dfUXd4TkhkWHA2bTVHV2lJem5rZVpobWxLMGVFQmlKbHFyX00tQ0ZfT1h1dnpZZ1JsdWx1ZFZzVHNyTE9RN0I4ajR6VFJ6RVhuQS1ES0ZEWVpDQlBjTmJPeGYwTFFBNTJxZUVBZDl3d3JQeE9rUlN6VnBVbTlO?oc=5",
-      "data": "22/10 03:19"
     }
   ],
   "avisos": []
