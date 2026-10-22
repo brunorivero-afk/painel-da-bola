@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/10/2026 17:23",
+  "atualizado_em": "22/10/2026 20:50",
   "jogos": [
     {
       "sport": "futebol",
@@ -11,106 +11,6 @@ window.PAINEL_DATA = {
         "SPORTV 3",
         "CANAL GOAT",
         "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Conference League",
-      "match": "SC Braga x Gent",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Conference League",
-      "match": "Ajax x Atalanta",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Conference League",
-      "match": "Monaco x SC Freiburg",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Omonia Nicosia x Benfica",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Besiktas x Crystal Palace",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Bournemouth x AC Milan",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "1899 Hoffenheim x Lyon",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Celtic x Celta Vigo",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Lillestrom x Real Sociedad",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "competition": "UEFA Europa League",
-      "match": "Jagiellonia x Anderlecht",
-      "channels": [
-        "CAZÉTV"
       ]
     },
     {
@@ -169,7 +69,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-22",
       "time": "13:45",
       "competition": "UEFA Conference League",
-      "match": "FK Jablonec x Brighton",
+      "match": "Estrela Vermelha x FC Copenhagen",
       "channels": [
         "CAZÉTV"
       ]
@@ -179,7 +79,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-22",
       "time": "13:45",
       "competition": "UEFA Conference League",
-      "match": "Estrela Vermelha x FC Copenhagen",
+      "match": "FK Jablonec x Brighton",
       "channels": [
         "CAZÉTV"
       ]
@@ -220,6 +120,106 @@ window.PAINEL_DATA = {
       "time": "13:45",
       "competition": "UEFA Europa League",
       "match": "Lech Poznan x Sunderland",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Bournemouth x AC Milan",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "1899 Hoffenheim x Lyon",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Celtic x Celta Vigo",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Lillestrom x Real Sociedad",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Jagiellonia x Anderlecht",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Besiktas x Crystal Palace",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Europa League",
+      "match": "Omonia Nicosia x Benfica",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "match": "Monaco x SC Freiburg",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "match": "Ajax x Atalanta",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "match": "SC Braga x Gent",
       "channels": [
         "CAZÉTV"
       ]
@@ -493,14 +493,14 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 23.9,
       "temp_min": 19.9,
-      "chance_chuva": 67,
+      "chance_chuva": 94,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
       "temp_max": 23.3,
       "temp_min": 20.2,
-      "chance_chuva": 79,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
@@ -514,7 +514,7 @@ window.PAINEL_DATA = {
       "cidade": "Teresópolis",
       "temp_max": 21.3,
       "temp_min": 15.0,
-      "chance_chuva": 99,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
@@ -525,24 +525,24 @@ window.PAINEL_DATA = {
       "data": "22/10 04:22"
     },
     {
-      "titulo": "Eliminado, Fluminense aguarda julgamento separado na CBF sobre dívidas e alonga pagamentos ao elenco - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWFV5RmFJLWNoYjFGWGdBZmlnYlhWVG91bkdOX1B6bm1ZTVNKMThqcHhhNXVJWk1EWk9TU0l0QXd6UVpNRFN2bll2WVJrbDJvRkFiMllVM1ZlU1YxU1Uxc3JSbGFvcXB1UGFYRnltNE1pVGw5YzA2OVAzWUw1bzdvZnVpUjdHR25XdDhGTS13NGlxbEtkMjU4SmxvZjFERXpXWWM5Y2NKT0VCN3gyUnp2TERlLTlSMjNFSXQ0bTU1czdnN2lhYTZKenJLcEFsS3Vfai0yNDg2T0otOWh5TjhHd2FCZmRfSnI2S2h4SXNEd1piaTRHWVdV0gGGAkFVX3lxTE5yQl92elFNdEo0MG4tWE81UTdrRjcyOUNZZWN6QXN3NnZhc2RxanRpZHJVVVhZQUVjdWg4VmpBV0ZCTFNpcUJqdmM0MkZER1BPeEpxWHZnTjVlbm90MVJvU2lSemlHeXFNMng4VHkwSTNfdXE2Q3VEN1puSVZ0Q2NXYlcxVlNuNVZkMWJzYjNaeHVxMlQ3Z3ppaHd1MzJvb3dWa1BWcUZPLVNaaVVISHFnNUxBcllwYXVma2NMdGc5MmVDaFZnaFh5QkJkbjJaVmg5YUJhUXlwN01QbGpUMjR1NEk3czJEakduZ055ZjFMR01rWEdfdGZTTUpVTUZuVTRJSlNLUHc?oc=5",
-      "data": "22/10 15:48"
+      "titulo": "Fluminense recebe imagem de São João Paulo II - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdlptR0JJem9EcjFfU2V0WUNrYXY1YWQzQ3NOLUlOa1lNWjZobjB1aWUwZkVRZjhJRkpmV3ZFOEdXdjVMZkxUVUplZmdreEs3QWNpcXNMeVkwX3ZlZjRTNUR0M3B2SHpKd1NVVHk2bnJld1ZYWmlnR0FCN0ExS0dnQk50QTM3cGZhbktB?oc=5",
+      "data": "22/10 22:19"
     },
     {
-      "titulo": "Palmeiras x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzNYX1NENlNGaFZrb0o0U1Baem1OcFBvek9QaVQ2Skd6RGpiRjlxdW9yQUc2UC02dm1vOV9EbEFYR05xanpzRTVhNWNJNHVnVDNyRE1ndDJOQXg5d0RORFdyLUdaRTVJQW1tV2VVbWdYbTBVM1cyZzFlV0t6MEZqaEdUR0VjendfMVcyYlRJZEVYVUszUGc2Y0UtR2dQLXZ5bm1WamxUc3ZQbG9EdnRGMmZDaktMUVh6NjBNVkVvd0UtdlBxcUNMQjhuUTN2WTdn0gHfAUFVX3lxTE1YczZoMGNzdEtRbVR6Tml1cFd3b25DOWFoMWoxT0xZb1BSU2tRV2xsRkVqRkxoQmh6LWNHQk5ZN3d2WkQ2cW1sdGJiakNOT0FWcTVDVGJacHBSbl9mZDNFc2s5RjJIMmtJbnJ2cDVtLURZbWdxbUhrQ19qbWVoY1QzVXVsWUNEUFk5cGxuN080M0dQRFZUQ0RFZUVHSjhObk9sbFk1ZkpzVlBDOTM3ZVlUME1RZzFXbUdkZld1VEx0NXJJVjhOM1NJbzYyV2hDbHhuQ3hiakMtdk16M2RGck0?oc=5",
-      "data": "21/10 07:00"
+      "titulo": "Fluminense x Flamengo: onde assistir ao vivo, horário e escalações pelo jogo de volta da Copa do Brasil Feminina - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMklYZTdLYlZxUXF1TGJINzdELVVKYVRHTjg2YkRIQmpua2t6SkNLRnZPRGRSUk1fYml2SkxhY2ZtcFluYVUwQmpnZDY3eWhiWmRmN0U5YUR2OG00YXJyZFpMa1BJVHdRMkVuSlBMN3lVdzVLNW10Tm85cDAzZS1GdkFXMl9PWEtwcFVMUnJsOWV6SzBoSmpNXzNMUHNpMEkyM2ZCQzR4LWFLYXpQNVVYM1FrbzFZenpTMGUzNGFXQ3RGeF9kRDFsY2d6Wk95MWsyamhCZXBFUnI1Wk4zczJET1JaRUFxb2trT2h2bFJSU1BQdnFIUG9VM1VDSC1KOTVNV3pOcWh5N3gtdnJ3T3ptMDB0QWtiZ0tGMnJHdl8yM0p4SWRNcHFmb0xXSjh1d1QwWmZkT1VSZ1Z3ZGM?oc=5",
+      "data": "22/10 19:41"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Internacional - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFdGamRQTFNDdExTTE44UXpJY1J6a1E1TmFuRTFKRTBnMmxVeFVHQTQ1YWNJeVd5VUVodE5OaV8wSmZQRExURW93Y2tCYllWN0lLUHR5ODFiTUxoSWNkaEo1SDFVZUY2cGpmNG5xcjFRT24yLVRaeWxHSzVvUVhTNjFwdDBfYUt1WV9WWEZFT0R6NDlUWVBPUktuUk02WkV5bkRmZWp0R1lfcEQ0UXFZWg?oc=5",
-      "data": "22/10 20:11"
+      "titulo": "Fluminense terá julgamento separado na CBF por dívidas após eliminação na Libertadores - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalprU0dJazFwX01XMUtCVkFvY2ZQVjJ2d29XNjR6UUhyWDNLaU1qUlR4WmRRdHZZeEVhYWc0VnhaXzBJY3g3VHRNMWtrV3hYQkoxNzlfTHJ1T2hkTThRZWw2N1RndHU1Ul8tSFFfWXVrSXdpQjMwSXdlZVRKUTFpMVNwa0xaMXNJOUtaYXlVOVNSQWNRcWJHblBPemtPZw?oc=5",
+      "data": "22/10 22:43"
     },
     {
-      "titulo": "Fluminense x Platense pela Libertadores; acompanhe AO VIVO - GZH",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYkJGUW40UHRxQXY0Z2ZKM0F1REFLdUdNUVIxRDM2bWxYQVpEOFhpdGd1eTQxTHVmSnFwcENxSW9mcE04NVdYWnZBODdZVTN5emdhRmVXMGdZVmY1LTFKMVA4bEVJWURkYmdybm52dDB1NE5QSUowMjVlUXhKdEo2WXB3eTlCS0xfQW02Vld6VU85Z0hvNV9mSW5MdEcyZ2owbGR6UU5qZ3VLQ2tNZjViLWMyVk5pcHF3S0VEckxVS20xNnR3bjJvTWphSzJqUk9ITnJ5OGlqcTJHS2ZVZ0RfcTJxbWl5cVQyeFZnX0Z0NA?oc=5",
-      "data": "08/09 07:00"
+      "titulo": "Análise: Fluminense flerta com nova noite épica na Libertadores, mas revive trauma dos pênaltis - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWJoSGRuWmZOdDY2emo5Z2ZsdTFldGFLaWx4MzBzVjVYVEFzdWNmS2wwRTQ5WThfd1B4WHZOdWRNa1Y2RDJpcmZTekpsOEdibzNRMk9sZ3Z2eVhTdDFTT1c2N3VxVERmYzE4RFJ3emYxVjVubTdOWWtLbFh3SkdyYUVYZnl5V0pBOU5yY3diTVk3R093SGp6RXNtajNtbGYyRG1adXg3Q2V1a1h1azJ3blFMSWdUd0F5VWMzRnhZM3VUUkk5c1RJbW13UWl4alQ0ak55OGppZTdzenZpSF9yeThZX3pnZWo5Y2w2d1FlOHZxSXJFTVZVVUlvb2J2cWZpdTBQQTBn0gGUAkFVX3lxTE1YbF9tVHRsWEp6b1Jrd2d2QmY3V2F1ZmticGlIOUxDLUs1WTctazJZSzRDUmtLY0d1YTMzMzRET1pKUGZnTnFXNTlkSENVWHJvTnp0Ym8yZkY1aHdzSmNPNlgzRnBNS3ZIZnUyVWo0Z3hleUVZY3AyeGxBVGJveFpTR2NFZnI2V3B2Z1ZkZ3RHNFdEeFltRzdXeU83Y1ZxcExGd3ladFgxR0lQWW1OaXdPMmFqUVk2cVBCaS1Vd3IxYVRPQW94WGlrMDkyX0M4Vm1wd2d3dXQwOXhhbngtNWZvU1ZBbTItSVdBV0t4NGMycHZSMElvOXhlbjEyNHhOR3BZcTF5amlfdGlmLU9VY3FtQU9CMQ?oc=5",
+      "data": "22/10 06:11"
     }
   ],
   "avisos": []
