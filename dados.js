@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/10/2026 15:50",
+  "atualizado_em": "23/10/2026 18:48",
   "jogos": [
     {
       "sport": "futebol",
@@ -1092,31 +1092,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.6,
+      "temp_max": 26.3,
       "temp_min": 20.1,
       "chance_chuva": 69,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.9,
+      "temp_max": 26.4,
       "temp_min": 21.1,
       "chance_chuva": 70,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.3,
+      "temp_max": 22.2,
       "temp_min": 16.3,
       "chance_chuva": 88,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.1,
-      "temp_min": 16.3,
+      "temp_max": 23.2,
+      "temp_min": 16.2,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -1126,24 +1126,24 @@ window.PAINEL_DATA = {
       "data": "23/10 01:50"
     },
     {
-      "titulo": "Matheus Martinelli está fora da temporada; entenda lesão - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV0RDaHZ2aG0waTlFVGtVbE5RR1JiSDNoRE5WUl9Hd0UyOE53a002QVcwem1wcGhrV1E3aDVHZllJTWJISHBDOWEza3B2SXpmcnBZbER4bUx5ODl3Qm4teXhycmRHWUdvUXMwOFRtVURhQ1p0OVJ3Sm9ic3dPc0RsRlI5ZzFfOU5SZ18tMjZvOHI1NVJkT21YeEZrYklJSUhMMmJCRVlnTXRaNVdqYlV4dFFiN3dMM3QzdGdIRzBtS0NZZFRBYWJyT0tFOVFyeUpoRzZBQ1VEbUJhLUNteU1j?oc=5",
-      "data": "23/10 16:32"
+      "titulo": "Jornal argentino coloca atacante do River Plate na mira do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeDNYMGRxUFl1b1dpd0dzSC1OaG80aUhXZ0dUeFJLR2JjY1ZoNjZtY21qNXVsRmdteC15S3BDZVdTdUZnTEpydUpmUnYyUlc4RXFpeFVkV0FDZ0pSU0xJcU15RVlwcTVXcFhYLWxPcFRhVXhMT3dzY3RmdkJfRFd4VDdvNTBGOEdnQTVHdTBzRmFxQTNlalc0aHpPN1I0OWpTNS1NZUM3ZFhXUUJHOUdVODlaekFvTGh4RGR5ZHpNTGl1LWt0d25ycHZ3dEpWdmRWUmVIdno1aFIybUd6VTc4U1pTWGxMMDdiaW9lRW9idDRiQQ?oc=5",
+      "data": "23/10 20:24"
     },
     {
-      "titulo": "Fluminense confirma que Martinelli passará por cirurgia - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2pvYktmSG5WTnhyV2hUa0JnX2ROeGpTbUptcVdFLXQ2a2RsZHZucFJNWnFwQnU0bzE0eUFuYjZ5WVI2ekZ2MkhNcGs5N0h3VzJaVzFHWFF6cjJ3d2hyeTIyQmtUOEZKMl9nbmlFU1B5ZlFoOFFtUndDbGhwQXI3cHZtQlRzWmJXYWc?oc=5",
-      "data": "23/10 15:46"
+      "titulo": "Conmebol multa Fluminense em R$ 450 mil por pirotecnia e experiências comerciais no Maracanã - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVDFHNmppLUtGcHYteHNiMXZQdl9EdEVDV2xtb1I0VDRQckgwUjFIRk53Y3ZTMVhzYWxGT0NTNk5XRXFPc1FSUEhqdlAzSm0xX0JmaU9uSGNobFB0UGNTeFBiYUJFc3gyYVV1VUczeG9DNjVXVm9KWTRRVjVhN183U3N4UVJxamdGMUVMX1JPYkhZeXBuOUNVS2RwTlpQc0FkSm84Smt1b0ZyVlJDODVQV1dzQU9DSlFkQ3RFeEFLdGpWc1dPeE1sc2ZZZEZQZlQzRDZUQ3hpLWhTc2VzYnN5eWxucmtLS1VoS1pycWVLMFNESVBl0gGDAkFVX3lxTE01aEVhNnVTaUJ1dmJJalFUNEhqZkRqQ0RDNG1sWXcweFptcE9jWnhBR1dhSC1CUmdBenVGSDF5Rk1YbEVia05lT1ZHYjZJRG4zbGYzeDYtVU5HOFRnQ3RwSkFHQ055ZDlKQk5nTnRVb2NWdzlEbGhMZGFQSXFtQnFKUURUeUx3SzMxMDZQN1Jxdll4alpGRnFOYVJmallBSE1kLXktQ09nUFN2SWFhTVBxNnZnT0V4WXUwaHU4eGVsMFgwOG9DN0dsaGRSSzE1YUZwNlhEX3RNaUpLcUNwdFF4WGgtbXNBcmdDM2praGIwQlRFWVp1YWhvbkdFQmQwaVVMRG8?oc=5",
+      "data": "23/10 17:01"
     },
     {
-      "titulo": "Fluminense é punido pela Conmebol por acontecimentos em jogo com o Platense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQm5jMUh5MUl4c2JLOWh2THpZRXhhWVM2blBNNVlITEFFOUtoTENzWUdsdlAxVzZQRy1fZ0ZKUVZfSXJ1NDd4d1B5UFExUWVnN2F3dzZkWlN1SjFtTVVsUVNiOUdzbnhwT1lIUldyZjZMZWFhdDhNMEVZV3R0dzYwVVdQOGpQSWlmVWJ6WjVRVEw0VUZnb1lERUxJTXlkV1pIamx3Tw?oc=5",
-      "data": "23/10 18:05"
+      "titulo": "Três quedas em três dias: o prejuízo de Vasco, Flamengo e Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWlMVUp6aXp5X2RFcnVoZ0x2SEdZZEFDVEl2V19kcjBsN2NJLVBQSlByWDJiT0EzS212ZmRZZElFMGppRE5jTDBuVmNFYVU4LXBvLTlIRVhodUZyd2Z4OGRyUXJ5M1RLSmZTVHVMaWVkSmg4c2V3UHRYTDR2Tk54YkRmUHJCOWFfX2ZMV1RHWHJqVUFLTjJoRXpFS29YWnFYekVVNlRQOFp2UHMzV2xaaVM5RQ?oc=5",
+      "data": "23/10 08:51"
     },
     {
-      "titulo": "Fluminense supera expectativa na Libertadores, mas eliminação terá impacto financeiro no clube - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMEdIZE16NzZqc0FpWE5kVDhybTl1enhHbWZQRWRqYktsdHNsREtMdnNMajZpRXdPZ1BkZ0JuSnpLek5jY1VzdzRyZmFPQ29YaGJRQks4STYzZURyN01MeFJ2TmI5WkI2bWVyNTZZaDAwRGhDdjRsQ1dzeDh0YXJLRnFJamZQV0NIeHhaY0VKeTNHNHdmd1d5NXZ1a3JhRzR3cjNBaUV1aHRGcXBLdjNTZkJvdE5xblk5S1M1TWhUTnJ4OGtCcXM0TlRyampnV1F6TkZlRGxFT0thTWI2NXhjYzR4MVF0OUg0RzFUNkQ2SVh0QXQybXU00gGGAkFVX3lxTE11eGx6R2VGM0J4XzhQeHp1VGZrczNScGNGazVuUmNmMm1YNDhLMWc1YndwR2s2NWgxdndKYmRCNUlGZ3REdko5VElldDV6Z2tENjIzTkk4VHFXN0xFTE5yZ2JZaEdpOGEwak84Vm01Z3lmWlJjSDFmdDF1aXozNHgwQXRjc0hyXzIwVm50VUZCMGNDQWxJU21QY2RRY2dfYzlDMTVNc0ZJWnl1SDA1alZ4eG9peDgzWXlkNWhyQnUwLVl1Z0FHbDlIQnVQV2FFa2FKajNmemdDV1U5RW5VWnU4dHdzZ0FOVjZXVVNTOGIxWDRNYkZpZE11d2RjbE1OWjZsMDZTUGc?oc=5",
-      "data": "23/10 06:00"
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Internacional - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFdGamRQTFNDdExTTE44UXpJY1J6a1E1TmFuRTFKRTBnMmxVeFVHQTQ1YWNJeVd5VUVodE5OaV8wSmZQRExURW93Y2tCYllWN0lLUHR5ODFiTUxoSWNkaEo1SDFVZUY2cGpmNG5xcjFRT24yLVRaeWxHSzVvUVhTNjFwdDBfYUt1WV9WWEZFT0R6NDlUWVBPUktuUk02WkV5bkRmZWp0R1lfcEQ0UXFZWg?oc=5",
+      "data": "22/10 20:11"
     }
   ],
   "avisos": []
