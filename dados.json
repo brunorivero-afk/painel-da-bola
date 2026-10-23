@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/10/2026 00:07",
+  "atualizado_em": "23/10/2026 06:02",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,6 +9,16 @@
       "match": "Al-Faisaly FC x Al-Nassr",
       "channels": [
         "XSPORTS",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "12:30",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Ittihad FC x Al Diriyah",
+      "channels": [
         "CANAL GOAT"
       ]
     },
@@ -121,6 +131,17 @@
       "sport": "futebol",
       "date": "2026-10-23",
       "time": "16:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Bolton x Middlesbrough",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "16:00",
       "competition": "Campeonato Inglês",
       "match": "Ipswich x Nottingham Forest",
       "channels": [
@@ -131,12 +152,12 @@
     {
       "sport": "futebol",
       "date": "2026-10-23",
-      "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Bolton x Middlesbrough",
+      "time": "17:00",
+      "competition": "Paulista Sub-20",
+      "match": "Guarani Sub-20 x Corinthians Sub-20",
       "channels": [
-        "ESPN 4",
-        "DISNEY+"
+        "XSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -202,6 +223,16 @@
         "SPORTYNET",
         "YOUTUBE",
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "22:30",
+      "competition": "NWSL Feminina",
+      "match": "Utah Royals (F) x OL Reign (F)",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -322,10 +353,22 @@
     {
       "sport": "futebol",
       "date": "2026-10-24",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Capivariano Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
       "time": "10:30",
       "competition": "Campeonato Alemão",
       "match": "FSV Mainz 05 x Werder Bremen",
       "channels": [
+        "CANAL GOAT",
+        "YOUTUBE",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -357,6 +400,7 @@
       "competition": "Campeonato Alemão",
       "match": "SC Paderborn 07 x Hamburger SV",
       "channels": [
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -408,20 +452,20 @@
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Stuttgart II x Alemannia Aachen",
+      "competition": "Campeonato Português",
+      "match": "Estrela x Casa Pia",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Estrela x Casa Pia",
+      "competition": "3ª Divisão Alemã",
+      "match": "Stuttgart II x Alemannia Aachen",
       "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -447,11 +491,11 @@
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "12:15",
-      "competition": "Campeonato Francês",
-      "match": "Toulouse x Estac Troyes",
+      "time": "12:05",
+      "competition": "Campeonato Saudita",
+      "match": "Al Kholood x Al-Ettifaq",
       "channels": [
-        "CAZÉTV"
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -469,11 +513,10 @@
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Chelsea x Tottenham",
+      "competition": "Campeonato Espanhol",
+      "match": "Valencia x Villarreal",
       "channels": [
-        "ESPN",
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -492,10 +535,11 @@
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "13:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Valencia x Villarreal",
+      "competition": "Campeonato Inglês",
+      "match": "Chelsea x Tottenham",
       "channels": [
-        "CAZÉTV"
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -531,11 +575,31 @@
     {
       "sport": "futebol",
       "date": "2026-10-24",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "Santo André Sub-20 x Santos Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
       "time": "15:30",
       "competition": "2ª Divisão Alemã",
       "match": "FC Nurnberg x FC Kaiserslautern",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Lens x Paris FC",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -552,29 +616,9 @@
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Lens x Paris FC",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
       "time": "16:00",
       "competition": "Brasileirão Série B",
       "match": "Avai x Botafogo SP",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Racing Montevideo",
       "channels": [
         "DISNEY+"
       ]
@@ -592,6 +636,16 @@
     {
       "sport": "futebol",
       "date": "2026-10-24",
+      "time": "16:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Racing Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
       "time": "16:30",
       "competition": "Brasileirão Série A",
       "match": "Internacional x Botafogo",
@@ -604,32 +658,23 @@
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "GIL Vicente x FC Porto",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "16:30",
-      "competition": "MLS",
-      "match": "Columbus Crew x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "16:30",
-      "competition": "Brasileirão Série B",
-      "match": "São Bernardo x Vila Nova",
+      "competition": "Brasileirão Série A",
+      "match": "Mirassol x São Paulo",
       "channels": [
         "GLOBO",
-        "PREMIERE 7"
+        "PREMIERE 5"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "16:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vitória x Athletico PR",
+      "channels": [
+        "GLOBO",
+        "PREMIERE 4",
+        "GE TV"
       ]
     },
     {
@@ -649,23 +694,32 @@
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "16:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vitória x Athletico PR",
+      "competition": "Brasileirão Série B",
+      "match": "São Bernardo x Vila Nova",
       "channels": [
         "GLOBO",
-        "PREMIERE 4",
-        "GE TV"
+        "PREMIERE 7"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "16:30",
-      "competition": "Brasileirão Série A",
-      "match": "Mirassol x São Paulo",
+      "competition": "MLS",
+      "match": "Columbus Crew x Toronto FC",
       "channels": [
-        "GLOBO",
-        "PREMIERE 5"
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "GIL Vicente x FC Porto",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -677,7 +731,8 @@
       "channels": [
         "BAND",
         "SPORTYNET",
-        "CANAL DO BENJA"
+        "CANAL DO BENJA",
+        "YOUTUBE"
       ]
     },
     {
@@ -694,10 +749,21 @@
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x RB Bragantino",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Inter Miami",
       "channels": [
-        "PREMIERE FC"
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Fortaleza",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -716,6 +782,16 @@
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x RB Bragantino",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
       "competition": "Brasileirão Série B",
       "match": "CRB x Londrina",
       "channels": [
@@ -725,22 +801,11 @@
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Fortaleza",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Danubio",
       "channels": [
-        "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Inter Miami",
-      "channels": [
-        "APPLE TV"
       ]
     },
     {
@@ -761,16 +826,6 @@
       "match": "Chapecoense-sc x Fluminense",
       "channels": [
         "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Danubio",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -831,7 +886,8 @@
       "competition": "Campeonato Mexicano",
       "match": "Monterrey x Guadalajara Chivas",
       "channels": [
-        "SPORTYNET"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
@@ -892,6 +948,7 @@
       "competition": "Campeonato Peruano",
       "match": "Universitario x Juan Pablo II College",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE",
         "FANATIZ"
       ]
@@ -961,7 +1018,7 @@
       "date": "2026-10-23",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Sesi-Bauru x Mackenzie",
+      "match": "Londrina x Sesi-Bauru",
       "channels": [
         "SporTV2"
       ]
@@ -971,7 +1028,57 @@
       "date": "2026-10-23",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Sesc RJ Flamengo x Paulistano Barueri",
+      "match": "Norde Vôlei x Campinas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-23",
+      "time": "20:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Praia Clube x São José",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-23",
+      "time": "20:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Minas x Sesi-Bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-23",
+      "time": "18:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Cruzeiro x Monte Carmelo",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-23",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Praia Clube x Paulistano Barueri",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-23",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesi-Bauru x Fluminense",
       "channels": [
         "SporTV2"
       ]
@@ -980,58 +1087,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.7,
-      "temp_min": 20.0,
-      "chance_chuva": 90,
-      "condicao": "Garoa forte"
+      "temp_max": 24.5,
+      "temp_min": 20.1,
+      "chance_chuva": 80,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.1,
-      "temp_min": 21.1,
-      "chance_chuva": 84,
+      "temp_max": 24.5,
+      "temp_min": 21.0,
+      "chance_chuva": 82,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.2,
-      "temp_min": 16.1,
-      "chance_chuva": 100,
+      "temp_max": 21.6,
+      "temp_min": 16.3,
+      "chance_chuva": 98,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.6,
-      "temp_min": 16.2,
-      "chance_chuva": 100,
+      "temp_max": 19.7,
+      "temp_min": 16.3,
+      "chance_chuva": 98,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Palmeiras x Fluminense: onde assistir ao vivo e escalações do jogo da Libertadores - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObFllUHVMMlRhQzNmRjR3czJEVG5ORV9JNkszMkRoYnhWZGc0R1J5U1NlY2JCWUpIWk90UHFlV3NyMVVjdWpkcXN2QzZybW1RbkhibV9DMUowQ1BfRG5VbGlIRDFQZ1ZOUWxmbGVpenJTNTJXX1N6M0JzX25MTXNzcnlnMGJvS1c3ZlhTeWVRM3p0T0pSejNwc190VTBlSHJrNkNXT3RqNUZzTXloRUYyY3pRUUd2U21YTzkwalFySkVGOXRNZ1RvRmxlTER4Ui1LUUdZ?oc=5",
-      "data": "22/10 00:20"
-    },
     {
       "titulo": "Vídeo: Presidente do Fluminense chora em campo após eliminação na Libertadores - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUpWSWc5UkxlUWxoUzQ2Mm9Qcm9jYVZLUGxSWVlKbmF1Nlg3djN0QmwyVFZRSjhQTmNhUlotTGMyX2l6V3ZFRjhkaTBvdDZkbmJBZUhPc0toMVJTNDQ4M0ZoVUJEWHhxblBTSl96U054TFNJdnlnbGlQdEhHTmwyUlk5U3JjTy1UaVRudDRDME5pVjBKRnJuT0lxWUNCUmxFZ2J6U3hIdw?oc=5",
       "data": "22/10 04:22"
     },
     {
-      "titulo": "Flamengo bate o Fluminense e avança na Copa do Brasil Feminina - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHozNndtVzdHR2t5LTVNTkFoMjdXYmJNNi1tVXBNUEtlaE1ZeDJuQ05yakhaYnp1N2w4Y2Y1Y083TTN2dEZKaGI2X2k1c2RXSkg2U1JVVDgtU2c2RDNuZ3d1eG95MzREWVd3czlOeG1SbTVOY052UzE4Y1RfZWFnMHNVTmU1MGtEcDdzY1poVzNvMVMzTjdZTW1Ja2EwTmNKUXBzdl9OZWE1UGJDSDI5ZEdFU09KVUpTMzNDcGpuNlI?oc=5",
-      "data": "23/10 00:01"
+      "titulo": "Três quedas em três dias: o prejuízo dos cariocas - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVBjb05UR1RYLXZESXNRajRzdW00aTNVeWF2RHBJYlBXekZqMzZCczFlVlgtcXE5NTlYd2xsX3lHdk9vZlNGa1ZoU3A5SUJlTV9DMFQwRDJqZjlTZDRyb285cWh1RVc1YlN1RUxjV1BYWW9BeW1EZXhIV01xaV9lLTg3X0lMYXVwRmxGR2ZUb2xXeHllYi1fb2E4OUhHa3d0V1YzRmVNdlhYSVpJdTJQX2wxdXltOFNob3c?oc=5",
+      "data": "23/10 08:51"
     },
     {
-      "titulo": "Fluminense terá julgamento separado na CBF por dívidas após eliminação na Libertadores - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalprU0dJazFwX01XMUtCVkFvY2ZQVjJ2d29XNjR6UUhyWDNLaU1qUlR4WmRRdHZZeEVhYWc0VnhaXzBJY3g3VHRNMWtrV3hYQkoxNzlfTHJ1T2hkTThRZWw2N1RndHU1Ul8tSFFfWXVrSXdpQjMwSXdlZVRKUTFpMVNwa0xaMXNJOUtaYXlVOVNSQWNRcWJHblBPemtPZw?oc=5",
-      "data": "22/10 22:43"
+      "titulo": "Análise: Fluminense flerta com nova noite épica na Libertadores, mas revive trauma dos pênaltis - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWJoSGRuWmZOdDY2emo5Z2ZsdTFldGFLaWx4MzBzVjVYVEFzdWNmS2wwRTQ5WThfd1B4WHZOdWRNa1Y2RDJpcmZTekpsOEdibzNRMk9sZ3Z2eVhTdDFTT1c2N3VxVERmYzE4RFJ3emYxVjVubTdOWWtLbFh3SkdyYUVYZnl5V0pBOU5yY3diTVk3R093SGp6RXNtajNtbGYyRG1adXg3Q2V1a1h1azJ3blFMSWdUd0F5VWMzRnhZM3VUUkk5c1RJbW13UWl4alQ0ak55OGppZTdzenZpSF9yeThZX3pnZWo5Y2w2d1FlOHZxSXJFTVZVVUlvb2J2cWZpdTBQQTBn0gGUAkFVX3lxTE1YbF9tVHRsWEp6b1Jrd2d2QmY3V2F1ZmticGlIOUxDLUs1WTctazJZSzRDUmtLY0d1YTMzMzRET1pKUGZnTnFXNTlkSENVWHJvTnp0Ym8yZkY1aHdzSmNPNlgzRnBNS3ZIZnUyVWo0Z3hleUVZY3AyeGxBVGJveFpTR2NFZnI2V3B2Z1ZkZ3RHNFdEeFltRzdXeU83Y1ZxcExGd3ladFgxR0lQWW1OaXdPMmFqUVk2cVBCaS1Vd3IxYVRPQW94WGlrMDkyX0M4Vm1wd2d3dXQwOXhhbngtNWZvU1ZBbTItSVdBV0t4NGMycHZSMElvOXhlbjEyNHhOR3BZcTF5amlfdGlmLU9VY3FtQU9CMQ?oc=5",
+      "data": "22/10 06:11"
     },
     {
-      "titulo": "Campeão brasileiro no Fluminense joga no Cuiabá Sub-20 e faz gol após um ano: “Ajudar a molecada” - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQzh4dzk4bThjS0lscm5CU1NpNlk3RDJvMUdtOWptek9RTElwVC1RY2tGek1DVW1qdW15T3NQaFp2RHJNRVd5dW1reVdON2FJUG55RXFULVlraWdwTHFJa3ZXb0Y2aGhFakVkWUdZYnhNVklWMnRSVjRRSnkxM3FMRWI0Tld0UmFVMjdQMkhCNTJxWnZMYzJpdDR0REFsZ2V3cF85Xy1iUUJpNTBVQmNCYUJuVl9PMlFvQ05LZGRnQmxnXzZqM2NMdVJocDNObGhwcjlJM2txTmV6QmJZZXRTNU5IUXU0c1RQUjI2aXp2NVRFMFgwYXNR0gGGAkFVX3lxTE11WGtxa2Z2WmthNTByMF8zT0pUd2lEam93MGNmTGgtQThDcEQ3cmZhQk1rUXFXbVFVSlViNTBiWGxkSVFRdmdPa3AyN2QyekdVdHUtOHAxUjJaV3l3MmJCSHUyN1liY0trUmhiakIyYkMzYlV0eDk2clhFNXg0T2x6LWdCckhCOHZxWVZtRk9GX2xJODVuS3A2aXczM0YwbTJFWEtIWUpBUHViTHJDNmJBMmdBYmx2U0xFYm5qa0JrbEhVNG5zc3N5NnZBby1FakdWQ2J4R2R3S2gzT0xlSkotRWFjNFEtVk5aQ1Jxb2h3bHo1Z0pDemhDbHhUMnMxVTg5SEg3dkE?oc=5",
-      "data": "22/10 18:00"
+      "titulo": "Fluminense x Flamengo: onde assistir ao vivo, horário e escalações pelo jogo de volta da Copa do Brasil Feminina - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMklYZTdLYlZxUXF1TGJINzdELVVKYVRHTjg2YkRIQmpua2t6SkNLRnZPRGRSUk1fYml2SkxhY2ZtcFluYVUwQmpnZDY3eWhiWmRmN0U5YUR2OG00YXJyZFpMa1BJVHdRMkVuSlBMN3lVdzVLNW10Tm85cDAzZS1GdkFXMl9PWEtwcFVMUnJsOWV6SzBoSmpNXzNMUHNpMEkyM2ZCQzR4LWFLYXpQNVVYM1FrbzFZenpTMGUzNGFXQ3RGeF9kRDFsY2d6Wk95MWsyamhCZXBFUnI1Wk4zczJET1JaRUFxb2trT2h2bFJSU1BQdnFIUG9VM1VDSC1KOTVNV3pOcWh5N3gtdnJ3T3ptMDB0QWtiZ0tGMnJHdl8yM0p4SWRNcHFmb0xXSjh1d1QwWmZkT1VSZ1Z3ZGM?oc=5",
+      "data": "22/10 19:41"
+    },
+    {
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Internacional - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFdGamRQTFNDdExTTE44UXpJY1J6a1E1TmFuRTFKRTBnMmxVeFVHQTQ1YWNJeVd5VUVodE5OaV8wSmZQRExURW93Y2tCYllWN0lLUHR5ODFiTUxoSWNkaEo1SDFVZUY2cGpmNG5xcjFRT24yLVRaeWxHSzVvUVhTNjFwdDBfYUt1WV9WWEZFT0R6NDlUWVBPUktuUk02WkV5bkRmZWp0R1lfcEQ0UXFZWg?oc=5",
+      "data": "22/10 20:11"
     }
   ],
   "avisos": []
