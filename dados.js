@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/10/2026 06:02",
+  "atualizado_em": "23/10/2026 11:36",
   "jogos": [
     {
       "sport": "futebol",
@@ -9,7 +9,9 @@ window.PAINEL_DATA = {
       "match": "Al-Faisaly FC x Al-Nassr",
       "channels": [
         "XSPORTS",
-        "CANAL GOAT"
+        "CANAL GOAT",
+        "YOUTUBE",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -91,7 +93,9 @@ window.PAINEL_DATA = {
       "match": "Al-Qadisiyah FC x Al-Hilal",
       "channels": [
         "XSPORTS",
-        "CANAL GOAT"
+        "CANAL GOAT",
+        "YOUTUBE",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -379,6 +383,7 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Alemão",
       "match": "FC Augsburg x Union Berlin",
       "channels": [
+        "YOUTUBE",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -526,6 +531,7 @@ window.PAINEL_DATA = {
       "competition": "Campeonato Alemão",
       "match": "Borussia Dortmund x Eintracht Frankfurt",
       "channels": [
+        "XSPORTS",
         "SPORTYNET",
         "YOUTUBE",
         "PPV ONEFOOTBALL"
@@ -949,7 +955,6 @@ window.PAINEL_DATA = {
       "match": "Universitario x Juan Pablo II College",
       "channels": [
         "YOUTUBE",
-        "YOUTUBE",
         "FANATIZ"
       ]
     },
@@ -1087,58 +1092,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.5,
+      "temp_max": 24.6,
       "temp_min": 20.1,
-      "chance_chuva": 80,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 79,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.5,
-      "temp_min": 21.0,
-      "chance_chuva": 82,
+      "temp_max": 25.9,
+      "temp_min": 21.1,
+      "chance_chuva": 88,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.6,
+      "temp_max": 22.3,
       "temp_min": 16.3,
-      "chance_chuva": 98,
-      "condicao": "Trovoada"
+      "chance_chuva": 100,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.7,
+      "temp_max": 22.1,
       "temp_min": 16.3,
-      "chance_chuva": 98,
-      "condicao": "Trovoada"
+      "chance_chuva": 100,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Vídeo: Presidente do Fluminense chora em campo após eliminação na Libertadores - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUpWSWc5UkxlUWxoUzQ2Mm9Qcm9jYVZLUGxSWVlKbmF1Nlg3djN0QmwyVFZRSjhQTmNhUlotTGMyX2l6V3ZFRjhkaTBvdDZkbmJBZUhPc0toMVJTNDQ4M0ZoVUJEWHhxblBTSl96U054TFNJdnlnbGlQdEhHTmwyUlk5U3JjTy1UaVRudDRDME5pVjBKRnJuT0lxWUNCUmxFZ2J6U3hIdw?oc=5",
-      "data": "22/10 04:22"
+      "titulo": "Fluminense deve manter Marcão até o fim do ano, mas avalia opções para 2027 - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFppY3lPQUxyc3B0MlliTTh4S0FkZHBYc2dqbkZFUjhqSTQ5TlNndjV2V2dVZS1ZWE0tU2RSbzBlZ05XVHUyVTlfQzRhUThseUkyOFl2QWtpaUxiNjNNelZFa3dqUVp5c2VpYjlmdU1BT1R5Qy1kaEk2MTYxV1Bsb3ozN3UzMXdHRUUzVmVOemxObjRZOGdJY0pfdmhZTWRDOUZR?oc=5",
+      "data": "23/10 01:50"
     },
     {
-      "titulo": "Três quedas em três dias: o prejuízo dos cariocas - LANCE!",
+      "titulo": "Fluminense vive ano de frustrações e pode passar por reformulação em 2027 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQY1pIVlY2LWsyZFAtdXkwOF81SERhNmx2TlBsbDdkMDhqR0UwQ3lIdm1hYktWbTZvcERXQVZxdFhLdlhRMG9yellfLTZONWMtZGNHSEQ2dXAzbzNxa1NyR1JFaHVNZ3JuQms4YjBUNjRUc2JTY1g2QXl5M1UxSmtpdlFQVFRBTnV5cUhNenBlcmgzRjVCcW16VUdlVHMzbXJYcS1TR2ZlZ0ViVUpzMkJ0UkZ1alpBdmtKSjhxU19UNlJrTmdaYjhqeTRReTBNUWZXeDhtY2d6di1DREh5R1lHOTJ5WGJZY1d4eTV4WkNZcjRqc0hCVXhB?oc=5",
+      "data": "23/10 10:09"
+    },
+    {
+      "titulo": "Com dívidas, Fluminense vê situação financeira se agravar após eliminação - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0Y0OU1MMjRyc2pjVVlOT1dHa3M0QWhJOUFlckhKUEZkTWRHSU9zX0dVQnlyMzZyWWdsNWE0d2xzcVJ3bklweE5UVjR1SFJPM0VERGlITEYwM3BaSF9oQVVzcngwZ0hxM3ZZeWxYeWIzWW1jOWd6RnR5eGpiNG1VcW9McFJkaExiR1FfdGh5aGtlaUVVOUV4aUV2U25JcWQz?oc=5",
+      "data": "23/10 12:22"
+    },
+    {
+      "titulo": "Fluminense supera expectativa na Libertadores, mas eliminação terá impacto financeiro no clube - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMEdIZE16NzZqc0FpWE5kVDhybTl1enhHbWZQRWRqYktsdHNsREtMdnNMajZpRXdPZ1BkZ0JuSnpLek5jY1VzdzRyZmFPQ29YaGJRQks4STYzZURyN01MeFJ2TmI5WkI2bWVyNTZZaDAwRGhDdjRsQ1dzeDh0YXJLRnFJamZQV0NIeHhaY0VKeTNHNHdmd1d5NXZ1a3JhRzR3cjNBaUV1aHRGcXBLdjNTZkJvdE5xblk5S1M1TWhUTnJ4OGtCcXM0TlRyampnV1F6TkZlRGxFT0thTWI2NXhjYzR4MVF0OUg0RzFUNkQ2SVh0QXQybXU00gGGAkFVX3lxTE11eGx6R2VGM0J4XzhQeHp1VGZrczNScGNGazVuUmNmMm1YNDhLMWc1YndwR2s2NWgxdndKYmRCNUlGZ3REdko5VElldDV6Z2tENjIzTkk4VHFXN0xFTE5yZ2JZaEdpOGEwak84Vm01Z3lmWlJjSDFmdDF1aXozNHgwQXRjc0hyXzIwVm50VUZCMGNDQWxJU21QY2RRY2dfYzlDMTVNc0ZJWnl1SDA1alZ4eG9peDgzWXlkNWhyQnUwLVl1Z0FHbDlIQnVQV2FFa2FKajNmemdDV1U5RW5VWnU4dHdzZ0FOVjZXVVNTOGIxWDRNYkZpZE11d2RjbE1OWjZsMDZTUGc?oc=5",
+      "data": "23/10 06:00"
+    },
+    {
+      "titulo": "Três quedas em três dias: o prejuízo de Vasco, Flamengo e Fluminense - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVBjb05UR1RYLXZESXNRajRzdW00aTNVeWF2RHBJYlBXekZqMzZCczFlVlgtcXE5NTlYd2xsX3lHdk9vZlNGa1ZoU3A5SUJlTV9DMFQwRDJqZjlTZDRyb285cWh1RVc1YlN1RUxjV1BYWW9BeW1EZXhIV01xaV9lLTg3X0lMYXVwRmxGR2ZUb2xXeHllYi1fb2E4OUhHa3d0V1YzRmVNdlhYSVpJdTJQX2wxdXltOFNob3c?oc=5",
       "data": "23/10 08:51"
-    },
-    {
-      "titulo": "Análise: Fluminense flerta com nova noite épica na Libertadores, mas revive trauma dos pênaltis - ge",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWJoSGRuWmZOdDY2emo5Z2ZsdTFldGFLaWx4MzBzVjVYVEFzdWNmS2wwRTQ5WThfd1B4WHZOdWRNa1Y2RDJpcmZTekpsOEdibzNRMk9sZ3Z2eVhTdDFTT1c2N3VxVERmYzE4RFJ3emYxVjVubTdOWWtLbFh3SkdyYUVYZnl5V0pBOU5yY3diTVk3R093SGp6RXNtajNtbGYyRG1adXg3Q2V1a1h1azJ3blFMSWdUd0F5VWMzRnhZM3VUUkk5c1RJbW13UWl4alQ0ak55OGppZTdzenZpSF9yeThZX3pnZWo5Y2w2d1FlOHZxSXJFTVZVVUlvb2J2cWZpdTBQQTBn0gGUAkFVX3lxTE1YbF9tVHRsWEp6b1Jrd2d2QmY3V2F1ZmticGlIOUxDLUs1WTctazJZSzRDUmtLY0d1YTMzMzRET1pKUGZnTnFXNTlkSENVWHJvTnp0Ym8yZkY1aHdzSmNPNlgzRnBNS3ZIZnUyVWo0Z3hleUVZY3AyeGxBVGJveFpTR2NFZnI2V3B2Z1ZkZ3RHNFdEeFltRzdXeU83Y1ZxcExGd3ladFgxR0lQWW1OaXdPMmFqUVk2cVBCaS1Vd3IxYVRPQW94WGlrMDkyX0M4Vm1wd2d3dXQwOXhhbngtNWZvU1ZBbTItSVdBV0t4NGMycHZSMElvOXhlbjEyNHhOR3BZcTF5amlfdGlmLU9VY3FtQU9CMQ?oc=5",
-      "data": "22/10 06:11"
-    },
-    {
-      "titulo": "Fluminense x Flamengo: onde assistir ao vivo, horário e escalações pelo jogo de volta da Copa do Brasil Feminina - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMklYZTdLYlZxUXF1TGJINzdELVVKYVRHTjg2YkRIQmpua2t6SkNLRnZPRGRSUk1fYml2SkxhY2ZtcFluYVUwQmpnZDY3eWhiWmRmN0U5YUR2OG00YXJyZFpMa1BJVHdRMkVuSlBMN3lVdzVLNW10Tm85cDAzZS1GdkFXMl9PWEtwcFVMUnJsOWV6SzBoSmpNXzNMUHNpMEkyM2ZCQzR4LWFLYXpQNVVYM1FrbzFZenpTMGUzNGFXQ3RGeF9kRDFsY2d6Wk95MWsyamhCZXBFUnI1Wk4zczJET1JaRUFxb2trT2h2bFJSU1BQdnFIUG9VM1VDSC1KOTVNV3pOcWh5N3gtdnJ3T3ptMDB0QWtiZ0tGMnJHdl8yM0p4SWRNcHFmb0xXSjh1d1QwWmZkT1VSZ1Z3ZGM?oc=5",
-      "data": "22/10 19:41"
-    },
-    {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Internacional - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFdGamRQTFNDdExTTE44UXpJY1J6a1E1TmFuRTFKRTBnMmxVeFVHQTQ1YWNJeVd5VUVodE5OaV8wSmZQRExURW93Y2tCYllWN0lLUHR5ODFiTUxoSWNkaEo1SDFVZUY2cGpmNG5xcjFRT24yLVRaeWxHSzVvUVhTNjFwdDBfYUt1WV9WWEZFT0R6NDlUWVBPUktuUk02WkV5bkRmZWp0R1lfcEQ0UXFZWg?oc=5",
-      "data": "22/10 20:11"
     }
   ],
   "avisos": []
