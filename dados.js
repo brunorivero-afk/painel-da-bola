@@ -1,17 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/10/2026 02:19",
+  "atualizado_em": "24/10/2026 07:11",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "04:30",
-      "competition": "Campeonato Chinês",
-      "match": "Chengdu Better City x Dalian Zhixing",
-      "channels": [
-        "YOUTUBE",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-24",
@@ -28,7 +17,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "FC Heidenheim x Energie Cottbus",
+      "match": "FC Magdeburg x Karlsruher SC",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -38,7 +27,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "FC Magdeburg x Karlsruher SC",
+      "match": "FC Heidenheim x Energie Cottbus",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -90,9 +79,9 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "10:00",
       "competition": "Campeonato Italiano",
-      "match": "Cagliari x Bologna",
+      "match": "como x Sassuolo",
       "channels": [
-        "YOUTUBE",
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -100,11 +89,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "como x Sassuolo",
+      "competition": "Paulista Sub-20",
+      "match": "Capivariano Sub-20 x RB Bragantino Sub-20",
       "channels": [
-        "ESPN 2",
-        "DISNEY+"
+        "YOUTUBE"
       ]
     },
     {
@@ -121,10 +109,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Capivariano Sub-20 x RB Bragantino Sub-20",
+      "competition": "Campeonato Italiano",
+      "match": "Cagliari x Bologna",
       "channels": [
-        "YOUTUBE"
+        "YOUTUBE",
+        "DISNEY+"
       ]
     },
     {
@@ -518,6 +507,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Londrina",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
       "competition": "MLS",
       "match": "New York Red Bulls x Inter Miami",
       "channels": [
@@ -560,16 +559,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x Londrina",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
       "time": "19:00",
       "competition": "Campeonato Uruguaio",
       "match": "Deportivo Maldonado x Danubio",
@@ -602,7 +591,17 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Orlando City SC x New York City FC",
+      "match": "Philadelphia Union x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Atlanta United FC x Chicago Fire",
       "channels": [
         "APPLE TV"
       ]
@@ -622,17 +621,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Philadelphia Union x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Atlanta United FC x Chicago Fire",
+      "match": "Orlando City SC x New York City FC",
       "channels": [
         "APPLE TV"
       ]
@@ -646,17 +635,6 @@ window.PAINEL_DATA = {
       "channels": [
         "SPORTV",
         "PREMIERE 5"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "21:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Monterrey x Guadalajara Chivas",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE"
       ]
     },
     {
@@ -693,32 +671,33 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Colorado Rapids x Whitecaps",
+      "time": "23:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Monterrey x Guadalajara Chivas",
       "channels": [
-        "APPLE TV"
+        "SPORTYNET",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "21:30",
-      "competition": "MLS",
-      "match": "Real Salt Lake x St. Louis City",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "21:30",
+      "time": "23:30",
       "competition": "Campeonato Peruano",
       "match": "Universitario x Juan Pablo II College",
       "channels": [
         "YOUTUBE",
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Portland Timbers x Charlotte",
+      "channels": [
+        "APPLE TV"
       ]
     },
     {
@@ -736,9 +715,30 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "23:30",
       "competition": "MLS",
-      "match": "Portland Timbers x Charlotte",
+      "match": "Real Salt Lake x St. Louis City",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "23:30",
+      "competition": "MLS",
+      "match": "Colorado Rapids x Whitecaps",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "04:30",
+      "competition": "Campeonato Chinês",
+      "match": "Chengdu Better City x Dalian Zhixing",
+      "channels": [
+        "YOUTUBE",
+        "YOUTUBE"
       ]
     },
     {
@@ -799,6 +799,7 @@ window.PAINEL_DATA = {
       "competition": "2ª Divisão Alemã",
       "match": "Eintracht Braunschweig x Hannover 96",
       "channels": [
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -969,6 +970,7 @@ window.PAINEL_DATA = {
       "match": "1899 Hoffenheim x Bayer Leverkusen",
       "channels": [
         "SPORTV",
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -1122,6 +1124,7 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "SPORTYNET",
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -1426,58 +1429,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.1,
-      "temp_min": 20.8,
+      "temp_max": 27.4,
+      "temp_min": 20.9,
       "chance_chuva": 16,
       "condicao": "Neblina"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.4,
-      "temp_min": 20.6,
+      "temp_max": 26.2,
+      "temp_min": 20.7,
       "chance_chuva": 27,
       "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.3,
-      "temp_min": 16.6,
+      "temp_max": 27.8,
+      "temp_min": 17.3,
       "chance_chuva": 78,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.5,
-      "temp_min": 15.7,
+      "temp_max": 27.7,
+      "temp_min": 16.1,
       "chance_chuva": 92,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Jornalista tricolor detona contratações caras e ineficientes do Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmpreXItSHdjbWkxdFY2MEpBVDNQOWRsUnBSS0dVMnJDWEg2dElJaGwyNGFRLWt3OWhqN1FrS0JsVlZJcTJHa3h2SC1KbmxydlZCZUt3c3RYOEY0MDlVSjdmSkM4dHhaeXZIMnNJY2htaHdKVFNjZ0FMTjBjeVZtNG42V0ZUQVBWclVpa0wyNDloTVZLcnJMMUJXVlNPckZWM3c0?oc=5",
-      "data": "23/10 15:28"
-    },
-    {
-      "titulo": "A SEMANA CATASTRÓFICA DE FLAMENGO, FLUMINENSE E VASCO NA LIBERTADORES E SULA! - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkJXdGlxMGhsU3l4TThFc1RyYnRDZHBVVFd4YVpJVjItZ0FORTd3LXB0cTBPNkVCMlhLWkNvYlNVdDlZU3FuWTUybnlPdldFM0RUeFAzNFdfclNBV1NkQnQ2VFN3NUJYV2NGSEJuRDJ3T01VTHE4WTVyYmpSWUF0R0pJeEpTYVNBcDVWWVRtWkNXcmRqRkdhXzdEczd1YUtzVkF1REtHcTRVYXc?oc=5",
-      "data": "24/10 02:30"
-    },
-    {
-      "titulo": "Chance para Wesley Natã? Soteldo não viaja e está fora do jogo contra a Chapecoense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFVwY0NCTmhNWmE0cTJYTS1FOXpCQnRXbWNTM2hidGZGYjRvMnFCMENZVnRhN1dJTmlLbFctV3g4b24zd3lwbEFSU2JKVGM1NVJDRkVCbUF1Q29FVWFFbEVraFIwWXlMeVkzN3FhcFdlcG9vUEVRc25iODVVaUZ5VlpsVTM0YlJ6cm51SWVlVzg2OVJOWDlKRW1GZXQ4STFIVWRRbVpSOW9ldG0xbUE?oc=5",
-      "data": "24/10 01:40"
-    },
-    {
-      "titulo": "Resumo do Dia: Preparação contra a Chapecoense, lesões de Martinelli e Millán, desabafo de Nonato e crise financeira (23/10) - Fluminense: Últimas notícias, vídeos, onde assistir e próximos jogos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWTNvOTcwSkVWQUxXNjM3TjZpZHM1b1ZPaWhpUTRVeG52SC0weXNySHFUdEtVaVpVOE1iU0g2M21lQ25mQTVQX2NBMmJXa1pqQms0WVd2eEFNYW1mdWxnbmdmTkxKMDRpdV9qenZVT3g0NGtpek5TeUNrd2R5N3h2aGxTYmFnUE0xSUNpeHR5UDJ0cjFwcnV4N2hvOHdCcnNJMkswYkxfSXY5NWhNRWtrYmFJMkJ3RF9MMGUtLVZmZ1ZnUU9FN2JjZndPZXRiZzdhZjhSLTc2czAzM3d5SVJz?oc=5",
-      "data": "24/10 02:16"
-    },
-    {
       "titulo": "Escalação do Fluminense: time terá três desfalques contra a Chapecoense - ge",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUZwRjFrZmlISHc1YXdOR2VQU1VWY3V0TW1hRDhIVzZPOF9fTDRsYTZnLWtGUXpGc3FqMWtJR1BnMTV2eUVuQ2hEeThXeUNuT2FDd2lYR04yQ1RKSWxfSGg3TGhRNWZoUmlPQng3MHVGd1RZcjFNY2JydTgzcnF5alc5SWZkel8zN0VMV2tUcjNFNk5oOTZFUVprTURpUEdlcUg1MkpSOGhSVGRCcDJBUE5OX1FKM2J2TGpFeWlyWHhNY3U2OXJyWU9vaUpPZjh1T2MzcEd4b2rSAecBQVVfeXFMTm1uYWlRV2kxd2hkWmpNT2NGQWNIeEhCdFlCYWVIVVNwdnRZMmd0V3FGT1pRVTNnVGdJT2t5TmN3dml4UnY4WVdpcnFzbVpPZmZicUIyN1RlZUpuLWM2bUZsQTNRTDZkVUEtRUpqSk1sSURlVFV4M3hidTdQYThsbHRIb1dKeWx2MXJIdkhaYW04cEoydEVrTEhPUUNlRGZiN1VaVmNCTi1ET1RZUGdhcHhWMHUzNE1oQ2d5Ri1yOXM0bmVnblRDRmJfLVdOVzIzYWttMFpmcUdfcUtZVVA5T0FSRlNNNklZ?oc=5",
       "data": "23/10 21:40"
+    },
+    {
+      "titulo": "Três quedas em três dias: o prejuízo de Vasco, Flamengo e Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWlMVUp6aXp5X2RFcnVoZ0x2SEdZZEFDVEl2V19kcjBsN2NJLVBQSlByWDJiT0EzS212ZmRZZElFMGppRE5jTDBuVmNFYVU4LXBvLTlIRVhodUZyd2Z4OGRyUXJ5M1RLSmZTVHVMaWVkSmg4c2V3UHRYTDR2Tk54YkRmUHJCOWFfX2ZMV1RHWHJqVUFLTjJoRXpFS29YWnFYekVVNlRQOFp2UHMzV2xaaVM5RQ?oc=5",
+      "data": "23/10 08:51"
+    },
+    {
+      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Internacional - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFdGamRQTFNDdExTTE44UXpJY1J6a1E1TmFuRTFKRTBnMmxVeFVHQTQ1YWNJeVd5VUVodE5OaV8wSmZQRExURW93Y2tCYllWN0lLUHR5ODFiTUxoSWNkaEo1SDFVZUY2cGpmNG5xcjFRT24yLVRaeWxHSzVvUVhTNjFwdDBfYUt1WV9WWEZFT0R6NDlUWVBPUktuUk02WkV5bkRmZWp0R1lfcEQ0UXFZWg?oc=5",
+      "data": "22/10 20:11"
+    },
+    {
+      "titulo": "Fluminense completa 78 anos de fundação - Federação Catarinense de Futebol - FCF",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYnFQc1BCTUZ2LUlhaUNBZUxZWGVELUROci1qYjJQUjZfbko5dXVEa2U0dFpBVzlOYWl2TDNRSXBKNWtlUzNNa1RNSURvME85RFRaVWpqYVpnVDdxRE10NUdTdWtvTVptZlFJ?oc=5",
+      "data": "24/10 03:05"
+    },
+    {
+      "titulo": "Com dívidas, Fluminense vê situação financeira se agravar após eliminação - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0Y0OU1MMjRyc2pjVVlOT1dHa3M0QWhJOUFlckhKUEZkTWRHSU9zX0dVQnlyMzZyWWdsNWE0d2xzcVJ3bklweE5UVjR1SFJPM0VERGlITEYwM3BaSF9oQVVzcngwZ0hxM3ZZeWxYeWIzWW1jOWd6RnR5eGpiNG1VcW9McFJkaExiR1FfdGh5aGtlaUVVOUV4aUV2U25JcWQz?oc=5",
+      "data": "23/10 12:22"
     }
   ],
   "avisos": []
