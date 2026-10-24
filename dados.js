@@ -1,6 +1,61 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "23/10/2026 18:48",
+  "atualizado_em": "23/10/2026 21:12",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Operário-PR x Athletic Club",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Juventud x Penãrol",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Cruzeiro x Remo",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "21:00",
+      "competition": "Brasileirão Série B",
+      "match": "Sport Recife x Criciúma",
+      "channels": [
+        "XSPORTS",
+        "ESPN",
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "22:30",
+      "competition": "NWSL Feminina",
+      "match": "Utah Royals (F) x OL Reign (F)",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-23",
@@ -29,6 +84,16 @@ window.PAINEL_DATA = {
       "date": "2026-10-23",
       "time": "13:30",
       "competition": "2ª Divisão Alemã",
+      "match": "SV Darmstadt 98 x FC St. Pauli",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-23",
+      "time": "13:30",
+      "competition": "2ª Divisão Alemã",
       "match": "VfL BOCHUM x VfL Wolfsburg",
       "channels": [
         "CANAL GOAT",
@@ -38,9 +103,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-23",
-      "time": "13:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "SV Darmstadt 98 x FC St. Pauli",
+      "time": "14:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Rot-weiss Essen x Jahn Regensburg",
       "channels": [
         "PPV ONEFOOTBALL"
       ]
@@ -53,16 +118,6 @@ window.PAINEL_DATA = {
       "match": "IF elfsborg x Malmo FF",
       "channels": [
         "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-23",
-      "time": "14:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Rot-weiss Essen x Jahn Regensburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -135,10 +190,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-23",
       "time": "16:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Bolton x Middlesbrough",
+      "competition": "Campeonato Inglês",
+      "match": "Ipswich x Nottingham Forest",
       "channels": [
-        "ESPN 4",
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -146,10 +201,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-23",
       "time": "16:00",
-      "competition": "Campeonato Inglês",
-      "match": "Ipswich x Nottingham Forest",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Bolton x Middlesbrough",
       "channels": [
-        "ESPN",
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -186,66 +241,12 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
-      "date": "2026-10-23",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Operário-PR x Athletic Club",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-23",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Cruzeiro x Remo",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-23",
-      "time": "20:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Juventud x Penãrol",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-23",
-      "time": "21:00",
-      "competition": "Brasileirão Série B",
-      "match": "Sport Recife x Criciúma",
-      "channels": [
-        "XSPORTS",
-        "ESPN",
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-23",
-      "time": "22:30",
-      "competition": "NWSL Feminina",
-      "match": "Utah Royals (F) x OL Reign (F)",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
       "date": "2026-10-24",
       "time": "04:30",
       "competition": "Campeonato Chinês",
       "match": "Chengdu Better City x Dalian Zhixing",
       "channels": [
+        "YOUTUBE",
         "YOUTUBE"
       ]
     },
@@ -981,16 +982,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-10-23",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Minas x Paulistano Barueri",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-23",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Cruzeiro",
@@ -1121,9 +1112,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense deve manter Marcão até o fim do ano, mas avalia opções para 2027 - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFppY3lPQUxyc3B0MlliTTh4S0FkZHBYc2dqbkZFUjhqSTQ5TlNndjV2V2dVZS1ZWE0tU2RSbzBlZ05XVHUyVTlfQzRhUThseUkyOFl2QWtpaUxiNjNNelZFa3dqUVp5c2VpYjlmdU1BT1R5Qy1kaEk2MTYxV1Bsb3ozN3UzMXdHRUUzVmVOemxObjRZOGdJY0pfdmhZTWRDOUZR?oc=5",
-      "data": "23/10 01:50"
+      "titulo": "Jornalista tricolor detona contratações caras e ineficientes do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmpreXItSHdjbWkxdFY2MEpBVDNQOWRsUnBSS0dVMnJDWEg2dElJaGwyNGFRLWt3OWhqN1FrS0JsVlZJcTJHa3h2SC1KbmxydlZCZUt3c3RYOEY0MDlVSjdmSkM4dHhaeXZIMnNJY2htaHdKVFNjZ0FMTjBjeVZtNG42V0ZUQVBWclVpa0wyNDloTVZLcnJMMUJXVlNPckZWM3c0?oc=5",
+      "data": "23/10 15:28"
+    },
+    {
+      "titulo": "Escalação do Fluminense: time terá três desfalques contra a Chapecoense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUZwRjFrZmlISHc1YXdOR2VQU1VWY3V0TW1hRDhIVzZPOF9fTDRsYTZnLWtGUXpGc3FqMWtJR1BnMTV2eUVuQ2hEeThXeUNuT2FDd2lYR04yQ1RKSWxfSGg3TGhRNWZoUmlPQng3MHVGd1RZcjFNY2JydTgzcnF5alc5SWZkel8zN0VMV2tUcjNFNk5oOTZFUVprTURpUEdlcUg1MkpSOGhSVGRCcDJBUE5OX1FKM2J2TGpFeWlyWHhNY3U2OXJyWU9vaUpPZjh1T2MzcEd4b2rSAecBQVVfeXFMTm1uYWlRV2kxd2hkWmpNT2NGQWNIeEhCdFlCYWVIVVNwdnRZMmd0V3FGT1pRVTNnVGdJT2t5TmN3dml4UnY4WVdpcnFzbVpPZmZicUIyN1RlZUpuLWM2bUZsQTNRTDZkVUEtRUpqSk1sSURlVFV4M3hidTdQYThsbHRIb1dKeWx2MXJIdkhaYW04cEoydEVrTEhPUUNlRGZiN1VaVmNCTi1ET1RZUGdhcHhWMHUzNE1oQ2d5Ri1yOXM0bmVnblRDRmJfLVdOVzIzYWttMFpmcUdfcUtZVVA5T0FSRlNNNklZ?oc=5",
+      "data": "23/10 21:40"
     },
     {
       "titulo": "Jornal argentino coloca atacante do River Plate na mira do Fluminense - Terra",
@@ -1131,19 +1127,14 @@ window.PAINEL_DATA = {
       "data": "23/10 20:24"
     },
     {
-      "titulo": "Conmebol multa Fluminense em R$ 450 mil por pirotecnia e experiências comerciais no Maracanã - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVDFHNmppLUtGcHYteHNiMXZQdl9EdEVDV2xtb1I0VDRQckgwUjFIRk53Y3ZTMVhzYWxGT0NTNk5XRXFPc1FSUEhqdlAzSm0xX0JmaU9uSGNobFB0UGNTeFBiYUJFc3gyYVV1VUczeG9DNjVXVm9KWTRRVjVhN183U3N4UVJxamdGMUVMX1JPYkhZeXBuOUNVS2RwTlpQc0FkSm84Smt1b0ZyVlJDODVQV1dzQU9DSlFkQ3RFeEFLdGpWc1dPeE1sc2ZZZEZQZlQzRDZUQ3hpLWhTc2VzYnN5eWxucmtLS1VoS1pycWVLMFNESVBl0gGDAkFVX3lxTE01aEVhNnVTaUJ1dmJJalFUNEhqZkRqQ0RDNG1sWXcweFptcE9jWnhBR1dhSC1CUmdBenVGSDF5Rk1YbEVia05lT1ZHYjZJRG4zbGYzeDYtVU5HOFRnQ3RwSkFHQ055ZDlKQk5nTnRVb2NWdzlEbGhMZGFQSXFtQnFKUURUeUx3SzMxMDZQN1Jxdll4alpGRnFOYVJmallBSE1kLXktQ09nUFN2SWFhTVBxNnZnT0V4WXUwaHU4eGVsMFgwOG9DN0dsaGRSSzE1YUZwNlhEX3RNaUpLcUNwdFF4WGgtbXNBcmdDM2praGIwQlRFWVp1YWhvbkdFQmQwaVVMRG8?oc=5",
-      "data": "23/10 17:01"
+      "titulo": "Nonato, do Fluminense, se pronuncia após pênalti perdido contra o Palmeiras - Metrópoles",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazkycXNnclN4RHQzRXQwREVNMGNrMlZYTzVkakdIb0VKY0YxeFBFYnR3TDVvZ3JfZEkzOThleERhMVJ0MjV4bFZSbG1tSklPbTA2NXBMdmdkeDBRMElPRy1Hal8xLVlFWWlXNzJoanNhWlVHUmg0ck5lbkF0c0pidHBnRWhXX1d5QVdITVJaMjdGR09nakxlbHQ0TFBzZE52SlBZd3dqbFRJaXlFa0E?oc=5",
+      "data": "23/10 20:36"
     },
     {
       "titulo": "Três quedas em três dias: o prejuízo de Vasco, Flamengo e Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWlMVUp6aXp5X2RFcnVoZ0x2SEdZZEFDVEl2V19kcjBsN2NJLVBQSlByWDJiT0EzS212ZmRZZElFMGppRE5jTDBuVmNFYVU4LXBvLTlIRVhodUZyd2Z4OGRyUXJ5M1RLSmZTVHVMaWVkSmg4c2V3UHRYTDR2Tk54YkRmUHJCOWFfX2ZMV1RHWHJqVUFLTjJoRXpFS29YWnFYekVVNlRQOFp2UHMzV2xaaVM5RQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVBjb05UR1RYLXZESXNRajRzdW00aTNVeWF2RHBJYlBXekZqMzZCczFlVlgtcXE5NTlYd2xsX3lHdk9vZlNGa1ZoU3A5SUJlTV9DMFQwRDJqZjlTZDRyb285cWh1RVc1YlN1RUxjV1BYWW9BeW1EZXhIV01xaV9lLTg3X0lMYXVwRmxGR2ZUb2xXeHllYi1fb2E4OUhHa3d0V1YzRmVNdlhYSVpJdTJQX2wxdXltOFNob3c?oc=5",
       "data": "23/10 08:51"
-    },
-    {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Internacional - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFdGamRQTFNDdExTTE44UXpJY1J6a1E1TmFuRTFKRTBnMmxVeFVHQTQ1YWNJeVd5VUVodE5OaV8wSmZQRExURW93Y2tCYllWN0lLUHR5ODFiTUxoSWNkaEo1SDFVZUY2cGpmNG5xcjFRT24yLVRaeWxHSzVvUVhTNjFwdDBfYUt1WV9WWEZFT0R6NDlUWVBPUktuUk02WkV5bkRmZWp0R1lfcEQ0UXFZWg?oc=5",
-      "data": "22/10 20:11"
     }
   ],
   "avisos": []
