@@ -1,187 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/10/2026 11:12",
+  "atualizado_em": "24/10/2026 14:46",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "Cagliari x Bologna",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "competition": "Campeonato Italiano",
-      "match": "como x Sassuolo",
-      "channels": [
-        "ESPN 2",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Central Espanol x Albion FC",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "competition": "Paulista Sub-20",
-      "match": "Capivariano Sub-20 x RB Bragantino Sub-20",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "FC Koln x FC Schalke 04",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "SC Paderborn 07 x Hamburger SV",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "RB Leipzig x SV Elversberg",
-      "channels": [
-        "CAZÉTV",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "FSV Mainz 05 x Werder Bremen",
-      "channels": [
-        "CANAL GOAT",
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "10:30",
-      "competition": "Campeonato Alemão",
-      "match": "FC Augsburg x Union Berlin",
-      "channels": [
-        "YOUTUBE",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Coventry x Fulham",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Arsenal x Everton",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "11:15",
-      "competition": "Campeonato Espanhol",
-      "match": "Racing Santander x Espanyol",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "11:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Stuttgart II x Alemannia Aachen",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "11:30",
-      "competition": "Campeonato Português",
-      "match": "Estrela x Casa Pia",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "TSV Hartberg x Wolfsberger AC",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "12:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Tirol x Grazer AK",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "12:05",
-      "competition": "Campeonato Saudita",
-      "match": "Al Kholood x Al-Ettifaq",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-24",
@@ -281,6 +100,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "15:45",
+      "competition": "Campeonato Francês",
+      "match": "Lens x Paris FC",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "15:45",
       "competition": "Campeonato Italiano",
       "match": "Lazio x Parma",
       "channels": [
@@ -291,19 +120,9 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "15:45",
-      "competition": "Campeonato Francês",
-      "match": "Lens x Paris FC",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
       "time": "16:00",
-      "competition": "Brasileirão Série B",
-      "match": "Avai x Botafogo SP",
+      "competition": "Campeonato Uruguaio",
+      "match": "Defensor Sporting x Racing Montevideo",
       "channels": [
         "DISNEY+"
       ]
@@ -322,9 +141,30 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Defensor Sporting x Racing Montevideo",
+      "competition": "Brasileirão Série B",
+      "match": "Avai x Botafogo SP",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "16:30",
+      "competition": "MLS",
+      "match": "Columbus Crew x Toronto FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "16:30",
+      "competition": "Campeonato Português",
+      "match": "GIL Vicente x FC Porto",
+      "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -384,27 +224,6 @@ window.PAINEL_DATA = {
       "channels": [
         "GLOBO",
         "PREMIERE 7"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "16:30",
-      "competition": "MLS",
-      "match": "Columbus Crew x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "16:30",
-      "competition": "Campeonato Português",
-      "match": "GIL Vicente x FC Porto",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
       ]
     },
     {
@@ -518,7 +337,17 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Orlando City SC x New York City FC",
+      "match": "Philadelphia Union x New England",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "20:30",
+      "competition": "MLS",
+      "match": "Atlanta United FC x Chicago Fire",
       "channels": [
         "APPLE TV"
       ]
@@ -538,17 +367,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Philadelphia Union x New England",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "20:30",
-      "competition": "MLS",
-      "match": "Atlanta United FC x Chicago Fire",
+      "match": "Orlando City SC x New York City FC",
       "channels": [
         "APPLE TV"
       ]
@@ -610,6 +429,17 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "23:30",
+      "competition": "Campeonato Peruano",
+      "match": "Universitario x Juan Pablo II College",
+      "channels": [
+        "YOUTUBE",
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "23:30",
       "competition": "MLS",
       "match": "Colorado Rapids x Whitecaps",
       "channels": [
@@ -649,17 +479,6 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "23:30",
-      "competition": "Campeonato Peruano",
-      "match": "Universitario x Juan Pablo II College",
-      "channels": [
-        "YOUTUBE",
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
       "time": "04:30",
       "competition": "Campeonato Chinês",
       "match": "Chengdu Better City x Dalian Zhixing",
@@ -673,8 +492,9 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "FC Heidenheim x Energie Cottbus",
+      "match": "Hertha Berlin x Arminia Bielefeld",
       "channels": [
+        "YOUTUBE",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -693,21 +513,9 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "08:00",
       "competition": "2ª Divisão Alemã",
-      "match": "Hertha Berlin x Arminia Bielefeld",
+      "match": "FC Heidenheim x Energie Cottbus",
       "channels": [
-        "YOUTUBE",
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "08:30",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Charlton x Norwich",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
       ]
     },
     {
@@ -724,11 +532,12 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-24",
-      "time": "09:00",
-      "competition": "3ª Divisão Alemã",
-      "match": "Hansa Rostock x Fortuna Dusseldorf",
+      "time": "08:30",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Charlton x Norwich",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "ESPN 4",
+        "DISNEY+"
       ]
     },
     {
@@ -739,6 +548,197 @@ window.PAINEL_DATA = {
       "match": "Rayo Vallecano x Elche",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "09:00",
+      "competition": "3ª Divisão Alemã",
+      "match": "Hansa Rostock x Fortuna Dusseldorf",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "Cagliari x Bologna",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:00",
+      "competition": "Campeonato Italiano",
+      "match": "como x Sassuolo",
+      "channels": [
+        "ESPN 2",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Central Espanol x Albion FC",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:00",
+      "competition": "Paulista Sub-20",
+      "match": "Capivariano Sub-20 x RB Bragantino Sub-20",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "FSV Mainz 05 x Werder Bremen",
+      "channels": [
+        "CANAL GOAT",
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "FC Augsburg x Union Berlin",
+      "channels": [
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "RB Leipzig x SV Elversberg",
+      "channels": [
+        "CAZÉTV",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "SC Paderborn 07 x Hamburger SV",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "10:30",
+      "competition": "Campeonato Alemão",
+      "match": "FC Koln x FC Schalke 04",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Arsenal x Everton",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Coventry x Fulham",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "11:15",
+      "competition": "Campeonato Espanhol",
+      "match": "Racing Santander x Espanyol",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "11:30",
+      "competition": "Campeonato Português",
+      "match": "Estrela x Casa Pia",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "11:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Stuttgart II x Alemannia Aachen",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "12:00",
+      "competition": "Campeonato Austríaco",
+      "match": "TSV Hartberg x Wolfsberger AC",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "12:00",
+      "competition": "Campeonato Austríaco",
+      "match": "Tirol x Grazer AK",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "12:05",
+      "competition": "Campeonato Saudita",
+      "match": "Al Kholood x Al-Ettifaq",
+      "channels": [
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -1431,59 +1431,57 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 28.4,
       "temp_min": 21.1,
-      "chance_chuva": 16,
+      "chance_chuva": 10,
       "condicao": "Neblina"
     },
     {
       "cidade": "Araruama",
       "temp_max": 26.4,
       "temp_min": 20.9,
-      "chance_chuva": 12,
+      "chance_chuva": 18,
       "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 27.8,
       "temp_min": 17.3,
-      "chance_chuva": 78,
+      "chance_chuva": 84,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.7,
       "temp_min": 16.1,
-      "chance_chuva": 98,
+      "chance_chuva": 100,
       "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Escalação do Fluminense: time terá três desfalques contra a Chapecoense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUZwRjFrZmlISHc1YXdOR2VQU1VWY3V0TW1hRDhIVzZPOF9fTDRsYTZnLWtGUXpGc3FqMWtJR1BnMTV2eUVuQ2hEeThXeUNuT2FDd2lYR04yQ1RKSWxfSGg3TGhRNWZoUmlPQng3MHVGd1RZcjFNY2JydTgzcnF5alc5SWZkel8zN0VMV2tUcjNFNk5oOTZFUVprTURpUEdlcUg1MkpSOGhSVGRCcDJBUE5OX1FKM2J2TGpFeWlyWHhNY3U2OXJyWU9vaUpPZjh1T2MzcEd4b2rSAecBQVVfeXFMTm1uYWlRV2kxd2hkWmpNT2NGQWNIeEhCdFlCYWVIVVNwdnRZMmd0V3FGT1pRVTNnVGdJT2t5TmN3dml4UnY4WVdpcnFzbVpPZmZicUIyN1RlZUpuLWM2bUZsQTNRTDZkVUEtRUpqSk1sSURlVFV4M3hidTdQYThsbHRIb1dKeWx2MXJIdkhaYW04cEoydEVrTEhPUUNlRGZiN1VaVmNCTi1ET1RZUGdhcHhWMHUzNE1oQ2d5Ri1yOXM0bmVnblRDRmJfLVdOVzIzYWttMFpmcUdfcUtZVVA5T0FSRlNNNklZ?oc=5",
-      "data": "23/10 21:40"
+      "titulo": "Jornalista tricolor detona contratações caras e ineficientes do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNmpreXItSHdjbWkxdFY2MEpBVDNQOWRsUnBSS0dVMnJDWEg2dElJaGwyNGFRLWt3OWhqN1FrS0JsVlZJcTJHa3h2SC1KbmxydlZCZUt3c3RYOEY0MDlVSjdmSkM4dHhaeXZIMnNJY2htaHdKVFNjZ0FMTjBjeVZtNG42V0ZUQVBWclVpa0wyNDloTVZLcnJMMUJXVlNPckZWM3c0?oc=5",
+      "data": "23/10 15:28"
     },
     {
-      "titulo": "Três quedas em três dias: o prejuízo de Vasco, Flamengo e Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWlMVUp6aXp5X2RFcnVoZ0x2SEdZZEFDVEl2V19kcjBsN2NJLVBQSlByWDJiT0EzS212ZmRZZElFMGppRE5jTDBuVmNFYVU4LXBvLTlIRVhodUZyd2Z4OGRyUXJ5M1RLSmZTVHVMaWVkSmg4c2V3UHRYTDR2Tk54YkRmUHJCOWFfX2ZMV1RHWHJqVUFLTjJoRXpFS29YWnFYekVVNlRQOFp2UHMzV2xaaVM5RQ?oc=5",
-      "data": "23/10 08:51"
+      "titulo": "Decisivo, Hércules terá que assumir papel importante no meio-campo do Fluminense na ausência de Martinelli - ge",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeHFtOGhGMi1ZZC03eURGd0JtWkZaZF9yWkV4V2V2SmtHaG5SN1E3Wi1zSGlSVF9RRUhKRlVCT19rNjljZkg4azdaRFJhajJCLUt4TWdHWnY4bENQM1RMT0NzSmlTMUotbk1MVG5kQmNuQlJjZEUtUG9KNndtTHNxZmR4dVU1RlhUT2IxMDFlNDREQWl1bTIydnpYc1dGeWYxNU9QenhVMkdETnVYdEQweUlFcW1sb2tMc0J1R19WLXlXTWxHX3NqNEt3QkdBOERUT1kzeV9TZURkMlNWZTVNUDJsSmF6SmVQVDdmRHI0UmdFYVlaZ2c5RW5SNzZ1MThUWGtEcl9TWdIBlgJBVV95cUxQSnN6SGhnS1RlVHRvdUFvcm41VWhFZEtweDRmTDVxemRqQzFubkVnVWF1enZpd1NPQ3JreFlpR1k4aW9yRHpEUEZVMUZUcHVwSmFScWk5UDhwWGVjSVdaSWtERVJSNGFnbUlGLVowelJoeGNjZDM4bVVsVDZCdTJXYmdheDMxYkFMNXV1YWdOM3lnbFdDakV3d0lYR1V1Y1BXUndCSGpwUFlLR1d0eVd0QmIyTHRSUGkzWnEzbk1uUDJJRzVsSmp4dHhhUFJrTElXQUxCemNhVm1tRzZUR0s0OHhraVUyOWdrWTh1RW12LVdnMnJ2TWdaYXh6c3FLd01ZQlhiOGJXSFBpRmdoZE1UM0R5WFpwQQ?oc=5",
+      "data": "24/10 13:00"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Fluminense x Internacional - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaFdGamRQTFNDdExTTE44UXpJY1J6a1E1TmFuRTFKRTBnMmxVeFVHQTQ1YWNJeVd5VUVodE5OaV8wSmZQRExURW93Y2tCYllWN0lLUHR5ODFiTUxoSWNkaEo1SDFVZUY2cGpmNG5xcjFRT24yLVRaeWxHSzVvUVhTNjFwdDBfYUt1WV9WWEZFT0R6NDlUWVBPUktuUk02WkV5bkRmZWp0R1lfcEQ0UXFZWg?oc=5",
-      "data": "22/10 20:11"
+      "titulo": "Jornal argentino coloca atacante do River Plate na mira do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeDNYMGRxUFl1b1dpd0dzSC1OaG80aUhXZ0dUeFJLR2JjY1ZoNjZtY21qNXVsRmdteC15S3BDZVdTdUZnTEpydUpmUnYyUlc4RXFpeFVkV0FDZ0pSU0xJcU15RVlwcTVXcFhYLWxPcFRhVXhMT3dzY3RmdkJfRFd4VDdvNTBGOEdnQTVHdTBzRmFxQTNlalc0aHpPN1I0OWpTNS1NZUM3ZFhXUUJHOUdVODlaekFvTGh4RGR5ZHpNTGl1LWt0d25ycHZ3dEpWdmRWUmVIdno1aFIybUd6VTc4U1pTWGxMMDdiaW9lRW9idDRiQQ?oc=5",
+      "data": "23/10 20:24"
+    },
+    {
+      "titulo": "Fluminense vence a terceira seguida por goleada e mantém 100% na Copa Rio Sub-17 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVJfZlFEbHczeUVOYm9ORVZtNGlfaE43ZXF3dkRINmFTRC1mdktTUkVBcTdaSnhvbVItZ3NrREpkanZYYTFPMkRJQ0trckxLV0dMdjdUc0lPTC13emlLcl9WOHZTTWMwSDktQ29xMXgzbHN4YTRyNkpoQzluaFRPTXBYbUloLS1TYzR4a3VPMldURnUwTUp3YUxFSDd2SmJ5N1BpOEFkbFJfU25mRWpOM3ltUmRaUDNo?oc=5",
+      "data": "23/10 19:40"
     },
     {
       "titulo": "Fluminense completa 78 anos de fundação - Federação Catarinense de Futebol - FCF",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYnFQc1BCTUZ2LUlhaUNBZUxZWGVELUROci1qYjJQUjZfbko5dXVEa2U0dFpBVzlOYWl2TDNRSXBKNWtlUzNNa1RNSURvME85RFRaVWpqYVpnVDdxRE10NUdTdWtvTVptZlFJ?oc=5",
       "data": "24/10 03:05"
-    },
-    {
-      "titulo": "Com dívidas, Fluminense vê situação financeira se agravar após eliminação - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0Y0OU1MMjRyc2pjVVlOT1dHa3M0QWhJOUFlckhKUEZkTWRHSU9zX0dVQnlyMzZyWWdsNWE0d2xzcVJ3bklweE5UVjR1SFJPM0VERGlITEYwM3BaSF9oQVVzcngwZ0hxM3ZZeWxYeWIzWW1jOWd6RnR5eGpiNG1VcW9McFJkaExiR1FfdGh5aGtlaUVVOUV4aUV2U25JcWQz?oc=5",
-      "data": "23/10 12:22"
     }
   ],
-  "avisos": [
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 503 (Service Unavailable)."
-  ]
+  "avisos": []
 };
