@@ -1,78 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/10/2026 07:35",
+  "atualizado_em": "25/10/2026 11:44",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "07:45",
-      "competition": "Campeonato Russo",
-      "match": "FC Rostov x Lokomotiv Moscow",
-      "channels": [
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "08:30",
-      "competition": "Campeonato Italiano",
-      "match": "Inter x Fiorentina",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "09:00",
-      "competition": "Campeonato Escocês",
-      "match": "Hibernian x Celtic",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "09:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Holstein Kiel x Dynamo Dresden",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "09:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Eintracht Braunschweig x Hannover 96",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "09:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL Osnabruck x SpVgg Greuther Furth",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "09:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Havelse x FC Saarbrücken",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-25",
@@ -89,21 +17,21 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "10:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Wanderers x Progreso",
+      "competition": "Campeonato Russo",
+      "match": "CSKA Moscow x Spartak Moscow",
       "channels": [
-        "DISNEY+"
+        "BANDSPORTS",
+        "YOUTUBE"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "10:00",
-      "competition": "Campeonato Russo",
-      "match": "CSKA Moscow x Spartak Moscow",
+      "competition": "Campeonato Uruguaio",
+      "match": "Wanderers x Progreso",
       "channels": [
-        "BANDSPORTS",
-        "YOUTUBE"
+        "DISNEY+"
       ]
     },
     {
@@ -135,17 +63,6 @@ window.PAINEL_DATA = {
       "match": "Sturm Graz x Ried",
       "channels": [
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Manchester United x Bournemouth",
-      "channels": [
-        "CAZÉTV",
-        "DISNEY+"
       ]
     },
     {
@@ -199,6 +116,17 @@ window.PAINEL_DATA = {
       "match": "Crystal Palace x Newcastle",
       "channels": [
         "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Manchester United x Bournemouth",
+      "channels": [
+        "CAZÉTV",
         "DISNEY+"
       ]
     },
@@ -281,20 +209,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "13:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Lask Linz x Red Bull Salzburg",
+      "competition": "Campeonato Peruano",
+      "match": "Comerciantes Unidos x Cienciano",
       "channels": [
-        "PPV ONEFOOTBALL"
+        "FANATIZ"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Cerro",
+      "competition": "Campeonato Austríaco",
+      "match": "Lask Linz x Red Bull Salzburg",
       "channels": [
-        "DISNEY+"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -311,10 +239,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Comerciantes Unidos x Cienciano",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Cerro",
       "channels": [
-        "FANATIZ"
+        "DISNEY+"
       ]
     },
     {
@@ -588,6 +516,78 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "07:45",
+      "competition": "Campeonato Russo",
+      "match": "FC Rostov x Lokomotiv Moscow",
+      "channels": [
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "08:30",
+      "competition": "Campeonato Italiano",
+      "match": "Inter x Fiorentina",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "09:00",
+      "competition": "Campeonato Escocês",
+      "match": "Hibernian x Celtic",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "09:30",
+      "competition": "3ª Divisão Alemã",
+      "match": "Havelse x FC Saarbrücken",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "09:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "VfL Osnabruck x SpVgg Greuther Furth",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "09:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x Hannover 96",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "09:30",
+      "competition": "2ª Divisão Alemã",
+      "match": "Holstein Kiel x Dynamo Dresden",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-26",
       "time": "13:00",
       "competition": "Campeonato Turco",
@@ -786,29 +786,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.1,
-      "temp_min": 21.7,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva fortes"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 25.2,
-      "temp_min": 22.0,
+      "temp_max": 23.9,
+      "temp_min": 21.9,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 25.0,
+      "temp_min": 22.0,
+      "chance_chuva": 96,
+      "condicao": "Trovoada"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.3,
+      "temp_max": 22.0,
       "temp_min": 19.1,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.4,
-      "temp_min": 16.8,
+      "temp_max": 22.0,
+      "temp_min": 17.4,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -820,9 +820,9 @@ window.PAINEL_DATA = {
       "data": "24/10 13:56"
     },
     {
-      "titulo": "Fluminense perde para lanterna Chapecoense três dias após queda na Libertadores e pode deixar G5 do Brasileirão - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQN2l6OTVnU0dCMUdHRkFLc2JvT1VxclQyaW9IMUwtNllWNTlHUUJNNjBuM05KbEZyZEp0LURTcEFsbUpaYlcxX1hNREFtc2JzYUh2d1hnVDdMeGh0YUYxQUdmbW10bTVlODNrOTVDWTI2Wm02WnZqSGhBUlFlcXd2OWhKay1RY1MtRUJoUktudHhyTGZaWWxteXQ4T3hFMGJZeGtka1NSc241VnJ4bHlrLXljbmZOUllxUUdkc0pxY09YMHRVVUxqSFZaRVJXcDNUaVhXMWJpcE5yY3B2Q1FINW0xdUZZQlpaSWRjRTVkOUZyaWhBcDg2ZmF5dlprS2lFZ1RQNk5jUk5Pb25UQU80RVluQkFTVFFD0gGnAkFVX3lxTFAtMnV2dUxYc0NvZTc4aFdGQWd0ZzRTTDByMW82a1RuUTRORjk4cmpCakZRSG1HbFdxclRuVVBYalVPVWtJZEZzT2cyeGl6cjRqN3V3VVBfaWFoTUUtdVNHMl9lMUE0N3Z6QTZQVnJsZjdOVDBhN0lBaU1tWDdQTkloZXdGVHlyOGFhSHhyRE52YjRxbm1iaFRzaVFWZDBVcnNtZGx4VXhXTGlOZlFVWHYzUXVIbDBMMC0yLTZRMFFoSzYxNGpMQXdNbW1pSFNHaTl3d1BQQ1NrZERiM2EzZFBRdzVkcFpIRWpLVGRhWWprdXl3TWYyUlVyTkhINmxwQkpybUo0NWxwT3ZacXNlOV93THNkWnB5VU9kSnoxeTdwXzg3b1R5cDg?oc=5",
-      "data": "25/10 00:47"
+      "titulo": "Fluminense tem atuação frustrante e perde para a lanterna Chapecoense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUc1NTFSVG1aNHJNUHBpSUR6MXpPNFNLZ25xeW15NVFSMWFyUFJNSkhrU0duRUcyZVd5WHZpUjhLdkZGSjR0dEZLeXBCbklrRGd5Qk9wMkdmc2QxcTY1RzRyTmM2ZkttNTFLaDhQdExkX0hYNVFSTmpGRkszellNbWw0VzZCUXotUWg5VjNpTTJDa29xcEdtUTFUWQ?oc=5",
+      "data": "24/10 22:00"
     },
     {
       "titulo": "Flu faz 2 a 0 fora de casa e vence Nova Iguaçu na ida das quartas de final do Carioca Sub-20 - Fluminense Football Club",
@@ -835,9 +835,9 @@ window.PAINEL_DATA = {
       "data": "24/10 03:05"
     },
     {
-      "titulo": "A SEMANA CATASTRÓFICA DE FLAMENGO, FLUMINENSE E VASCO NA LIBERTADORES E SULA! - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkJXdGlxMGhsU3l4TThFc1RyYnRDZHBVVFd4YVpJVjItZ0FORTd3LXB0cTBPNkVCMlhLWkNvYlNVdDlZU3FuWTUybnlPdldFM0RUeFAzNFdfclNBV1NkQnQ2VFN3NUJYV2NGSEJuRDJ3T01VTHE4WTVyYmpSWUF0R0pJeEpTYVNBcDVWWVRtWkNXcmRqRkdhXzdEczd1YUtzVkF1REtHcTRVYXc?oc=5",
-      "data": "24/10 02:30"
+      "titulo": "Fluminense x Platense pela Libertadores; acompanhe AO VIVO - GZH",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYkJGUW40UHRxQXY0Z2ZKM0F1REFLdUdNUVIxRDM2bWxYQVpEOFhpdGd1eTQxTHVmSnFwcENxSW9mcE04NVdYWnZBODdZVTN5emdhRmVXMGdZVmY1LTFKMVA4bEVJWURkYmdybm52dDB1NE5QSUowMjVlUXhKdEo2WXB3eTlCS0xfQW02Vld6VU85Z0hvNV9mSW5MdEcyZ2owbGR6UU5qZ3VLQ2tNZjViLWMyVk5pcHF3S0VEckxVS20xNnR3bjJvTWphSzJqUk9ITnJ5OGlqcTJHS2ZVZ0RfcTJxbWl5cVQyeFZnX0Z0NA?oc=5",
+      "data": "08/09 07:00"
     }
   ],
   "avisos": []
