@@ -1,89 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/10/2026 19:50",
+  "atualizado_em": "24/10/2026 21:45",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Palmeiras x RB Bragantino",
-      "channels": [
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Corinthians",
-      "channels": [
-        "RECORD",
-        "PREMIERE 2",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "CRB x Londrina",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "Brasileirão Série B",
-      "match": "Ponte Preta x Fortaleza",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "18:30",
-      "competition": "MLS",
-      "match": "New York Red Bulls x Inter Miami",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Deportivo Maldonado x Danubio",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "19:15",
-      "competition": "Campeonato Argentino",
-      "match": "San Lorenzo x Newells Old Boys",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Chapecoense-sc x Fluminense",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-24",
@@ -99,7 +16,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Orlando City SC x New York City FC",
+      "match": "Philadelphia Union x New England",
       "channels": [
         "APPLE TV"
       ]
@@ -119,7 +36,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "20:30",
       "competition": "MLS",
-      "match": "Philadelphia Union x New England",
+      "match": "Orlando City SC x New York City FC",
       "channels": [
         "APPLE TV"
       ]
@@ -140,7 +57,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Houston Dynamo x Minnesota United FC",
+      "match": "Sporting Kansas City x Austin",
       "channels": [
         "APPLE TV"
       ]
@@ -161,7 +78,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "21:30",
       "competition": "MLS",
-      "match": "Sporting Kansas City x Austin",
+      "match": "Houston Dynamo x Minnesota United FC",
       "channels": [
         "APPLE TV"
       ]
@@ -181,10 +98,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "23:30",
-      "competition": "MLS",
-      "match": "Colorado Rapids x Whitecaps",
+      "competition": "Campeonato Peruano",
+      "match": "Universitario x Juan Pablo II College",
       "channels": [
-        "APPLE TV"
+        "YOUTUBE",
+        "FANATIZ"
       ]
     },
     {
@@ -192,7 +110,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "23:30",
       "competition": "MLS",
-      "match": "Real Salt Lake x St. Louis City",
+      "match": "Portland Timbers x Charlotte",
       "channels": [
         "APPLE TV"
       ]
@@ -212,7 +130,7 @@ window.PAINEL_DATA = {
       "date": "2026-10-24",
       "time": "23:30",
       "competition": "MLS",
-      "match": "Portland Timbers x Charlotte",
+      "match": "Real Salt Lake x St. Louis City",
       "channels": [
         "APPLE TV"
       ]
@@ -221,11 +139,10 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "23:30",
-      "competition": "Campeonato Peruano",
-      "match": "Universitario x Juan Pablo II College",
+      "competition": "MLS",
+      "match": "Colorado Rapids x Whitecaps",
       "channels": [
-        "YOUTUBE",
-        "FANATIZ"
+        "APPLE TV"
       ]
     },
     {
@@ -644,6 +561,16 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "16:30",
+      "competition": "MLS",
+      "match": "Columbus Crew x Toronto FC",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "16:30",
       "competition": "Brasileirão Série A",
       "match": "Internacional x Botafogo",
       "channels": [
@@ -702,16 +629,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-24",
       "time": "16:30",
-      "competition": "MLS",
-      "match": "Columbus Crew x Toronto FC",
-      "channels": [
-        "APPLE TV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-24",
-      "time": "16:30",
       "competition": "Campeonato Português",
       "match": "GIL Vicente x FC Porto",
       "channels": [
@@ -740,6 +657,89 @@ window.PAINEL_DATA = {
       "match": "Cusco x Sporting Cristal",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Palmeiras x RB Bragantino",
+      "channels": [
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "competition": "MLS",
+      "match": "New York Red Bulls x Inter Miami",
+      "channels": [
+        "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "Ponte Preta x Fortaleza",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "competition": "Brasileirão Série B",
+      "match": "CRB x Londrina",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "18:30",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Corinthians",
+      "channels": [
+        "RECORD",
+        "PREMIERE 2",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "19:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Deportivo Maldonado x Danubio",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "19:15",
+      "competition": "Campeonato Argentino",
+      "match": "San Lorenzo x Newells Old Boys",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-24",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Chapecoense-sc x Fluminense",
+      "channels": [
+        "PRIME VIDEO"
       ]
     },
     {
@@ -1341,16 +1341,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-10-24",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Guarulhos x Monte Carmelo",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-24",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brusque x Praia Clube",
@@ -1446,17 +1436,17 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.2,
+      "temp_max": 27.9,
       "temp_min": 17.3,
       "chance_chuva": 84,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.8,
       "temp_min": 16.1,
-      "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 98,
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
