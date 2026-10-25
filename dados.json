@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "25/10/2026 02:36",
+  "atualizado_em": "25/10/2026 07:35",
   "jogos": [
     {
       "sport": "futebol",
@@ -436,8 +436,8 @@
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Boston River",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x Twente",
       "channels": [
         "DISNEY+"
       ]
@@ -446,8 +446,8 @@
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x Twente",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Boston River",
       "channels": [
         "DISNEY+"
       ]
@@ -461,17 +461,6 @@
       "channels": [
         "ESPN",
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "16:45",
-      "competition": "Campeonato Francês",
-      "match": "PSG x Lyon",
-      "channels": [
-        "XSPORTS",
-        "CAZÉTV"
       ]
     },
     {
@@ -653,6 +642,17 @@
     {
       "sport": "futebol",
       "date": "2026-10-26",
+      "time": "16:30",
+      "competition": "Campeonato Francês",
+      "match": "PSG x Lyon",
+      "channels": [
+        "XSPORTS",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
       "time": "17:00",
       "competition": "Campeonato Espanhol",
       "match": "Sevilla x Osasuna",
@@ -786,31 +786,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.0,
-      "temp_min": 21.6,
+      "temp_max": 24.1,
+      "temp_min": 21.7,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva fortes"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.9,
-      "temp_min": 22.2,
+      "temp_max": 25.2,
+      "temp_min": 22.0,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.8,
-      "temp_min": 18.5,
+      "temp_max": 23.3,
+      "temp_min": 19.1,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.8,
-      "temp_min": 17.1,
+      "temp_max": 23.4,
+      "temp_min": 16.8,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva fortes"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
@@ -820,14 +820,9 @@
       "data": "24/10 13:56"
     },
     {
-      "titulo": "Fluminense entra em alerta financeiro após eliminação na Libertadores e parcela dívidas - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRDd2NVBlUF9DbDM4NlJwV0VvTHRQaHRXN2YyMnQ3a016dVU1R2g3SW1pTjRjOVFJUWZYazd5VlZxRnJMN3F4Z3FGbmtnZkpvV2o3d2tfQ1ZhRDZJLWhNcEFRMTg5Nm5OazQxMkZVYnl5bGhWOGhHR3R6Yml1WG1DUE1DMVNmb01BQnIwU2RnSEpCTjJJLWI2TXVLQ3hPOVNLV0tKekFSWGhKWE1Xa0diX2lYMjUtVEdxc3g2UkxKMTVWUjh3Q0ZzMm9ST2VRUE4zVGtPeHlkWHlEdHVRS3NCNENXTWFpU2xoeXp0Q1RGSUtPamRBWnozYW43Ym1RanN4QzU5NHdPUTR4UQ?oc=5",
-      "data": "25/10 04:09"
-    },
-    {
-      "titulo": "AO VIVO: siga Chapecoense x Fluminense pelo Brasileirão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTTNsNU1MaDhSSHpRbDFNQkNaSHdmME15OXZrWmN4eXFDYUdHLTR6aWVsdjRQcFhTRkRhalhzc19vRnI5LVhIWnBVdWg3alNlUGlkNXlYOHlkSzVjbDkzcnlMVkExNEtvbG9wQjlGUzNKeWxLeFZpdHpuZW8tUVF1VTVPdmN6QVJ5UWNLU3YzRVEzM0hiRjFsclFvSjBDV0FoOHRz?oc=5",
-      "data": "24/10 22:00"
+      "titulo": "Fluminense perde para lanterna Chapecoense três dias após queda na Libertadores e pode deixar G5 do Brasileirão - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQN2l6OTVnU0dCMUdHRkFLc2JvT1VxclQyaW9IMUwtNllWNTlHUUJNNjBuM05KbEZyZEp0LURTcEFsbUpaYlcxX1hNREFtc2JzYUh2d1hnVDdMeGh0YUYxQUdmbW10bTVlODNrOTVDWTI2Wm02WnZqSGhBUlFlcXd2OWhKay1RY1MtRUJoUktudHhyTGZaWWxteXQ4T3hFMGJZeGtka1NSc241VnJ4bHlrLXljbmZOUllxUUdkc0pxY09YMHRVVUxqSFZaRVJXcDNUaVhXMWJpcE5yY3B2Q1FINW0xdUZZQlpaSWRjRTVkOUZyaWhBcDg2ZmF5dlprS2lFZ1RQNk5jUk5Pb25UQU80RVluQkFTVFFD0gGnAkFVX3lxTFAtMnV2dUxYc0NvZTc4aFdGQWd0ZzRTTDByMW82a1RuUTRORjk4cmpCakZRSG1HbFdxclRuVVBYalVPVWtJZEZzT2cyeGl6cjRqN3V3VVBfaWFoTUUtdVNHMl9lMUE0N3Z6QTZQVnJsZjdOVDBhN0lBaU1tWDdQTkloZXdGVHlyOGFhSHhyRE52YjRxbm1iaFRzaVFWZDBVcnNtZGx4VXhXTGlOZlFVWHYzUXVIbDBMMC0yLTZRMFFoSzYxNGpMQXdNbW1pSFNHaTl3d1BQQ1NrZERiM2EzZFBRdzVkcFpIRWpLVGRhWWprdXl3TWYyUlVyTkhINmxwQkpybUo0NWxwT3ZacXNlOV93THNkWnB5VU9kSnoxeTdwXzg3b1R5cDg?oc=5",
+      "data": "25/10 00:47"
     },
     {
       "titulo": "Flu faz 2 a 0 fora de casa e vence Nova Iguaçu na ida das quartas de final do Carioca Sub-20 - Fluminense Football Club",
@@ -838,6 +833,11 @@
       "titulo": "Fluminense completa 78 anos de fundação - Federação Catarinense de Futebol - FCF",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYnFQc1BCTUZ2LUlhaUNBZUxZWGVELUROci1qYjJQUjZfbko5dXVEa2U0dFpBVzlOYWl2TDNRSXBKNWtlUzNNa1RNSURvME85RFRaVWpqYVpnVDdxRE10NUdTdWtvTVptZlFJ?oc=5",
       "data": "24/10 03:05"
+    },
+    {
+      "titulo": "A SEMANA CATASTRÓFICA DE FLAMENGO, FLUMINENSE E VASCO NA LIBERTADORES E SULA! - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkJXdGlxMGhsU3l4TThFc1RyYnRDZHBVVFd4YVpJVjItZ0FORTd3LXB0cTBPNkVCMlhLWkNvYlNVdDlZU3FuWTUybnlPdldFM0RUeFAzNFdfclNBV1NkQnQ2VFN3NUJYV2NGSEJuRDJ3T01VTHE4WTVyYmpSWUF0R0pJeEpTYVNBcDVWWVRtWkNXcmRqRkdhXzdEczd1YUtzVkF1REtHcTRVYXc?oc=5",
+      "data": "24/10 02:30"
     }
   ],
   "avisos": []
