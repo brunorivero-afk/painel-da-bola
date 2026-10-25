@@ -1,141 +1,6 @@
 {
-  "atualizado_em": "25/10/2026 15:03",
+  "atualizado_em": "25/10/2026 18:22",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:15",
-      "competition": "Campeonato Francês",
-      "match": "Toulouse x Estac Troyes",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:15",
-      "competition": "Campeonato Francês",
-      "match": "Angers x Lorient",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:15",
-      "competition": "Campeonato Francês",
-      "match": "Marseille x LE Havre",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:15",
-      "competition": "Campeonato Francês",
-      "match": "Rennes x Strasbourg",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:15",
-      "competition": "Campeonato Francês",
-      "match": "Auxerre x Le Mans",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:30",
-      "competition": "Campeonato Alemão",
-      "match": "SC Freiburg x Bayern",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Sunderland x Leeds",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "14:00",
-      "competition": "Campeonato Italiano",
-      "match": "Lecce x Juventus",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "14:30",
-      "competition": "Campeonato Espanhol",
-      "match": "Real Sociedad x Levante",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "15:00",
-      "competition": "Campeonato Português",
-      "match": "Nacional x SC Braga",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "15:15",
-      "competition": "Campeonato Peruano",
-      "match": "UCV Moquegua x Alianza Lima",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x Twente",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Boston River",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-25",
@@ -144,16 +9,6 @@
       "match": "Udinese x AC Milan",
       "channels": [
         "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Independiente x Boca Juniors",
-      "channels": [
         "DISNEY+"
       ]
     },
@@ -170,11 +25,11 @@
     {
       "sport": "futebol",
       "date": "2026-10-25",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Sport Boys x FC Cajamarca",
+      "time": "17:00",
+      "competition": "Campeonato Argentino",
+      "match": "Independiente x Boca Juniors",
       "channels": [
-        "FANATIZ"
+        "DISNEY+"
       ]
     },
     {
@@ -185,6 +40,16 @@
       "match": "Sporting CP x Academico Viseu",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Sport Boys x FC Cajamarca",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -232,20 +97,20 @@
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "21:30",
-      "competition": "Campeonato Argentino",
-      "match": "Central Cordoba x Velez Sarsfield",
+      "competition": "MLS Next Pro",
+      "match": "Austin II x Los Angeles II",
       "channels": [
-        "DISNEY+"
+        "ONEFOOTBALL"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "21:30",
-      "competition": "MLS Next Pro",
-      "match": "Austin II x Los Angeles II",
+      "competition": "Campeonato Argentino",
+      "match": "Central Cordoba x Velez Sarsfield",
       "channels": [
-        "ONEFOOTBALL"
+        "DISNEY+"
       ]
     },
     {
@@ -411,9 +276,9 @@
       "date": "2026-10-25",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Crystal Palace x Newcastle",
+      "match": "Liverpool x Brighton",
       "channels": [
-        "YOUTUBE",
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -433,9 +298,9 @@
       "date": "2026-10-25",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Liverpool x Brighton",
+      "match": "Crystal Palace x Newcastle",
       "channels": [
-        "ESPN",
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -550,10 +415,10 @@
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "Comerciantes Unidos x Cienciano",
+      "competition": "Campeonato Austríaco",
+      "match": "Lask Linz x Red Bull Salzburg",
       "channels": [
-        "FANATIZ"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -580,10 +445,145 @@
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "13:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Lask Linz x Red Bull Salzburg",
+      "competition": "Campeonato Peruano",
+      "match": "Comerciantes Unidos x Cienciano",
       "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:15",
+      "competition": "Campeonato Francês",
+      "match": "Auxerre x Le Mans",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:15",
+      "competition": "Campeonato Francês",
+      "match": "Rennes x Strasbourg",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:15",
+      "competition": "Campeonato Francês",
+      "match": "Marseille x LE Havre",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:15",
+      "competition": "Campeonato Francês",
+      "match": "Angers x Lorient",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:15",
+      "competition": "Campeonato Francês",
+      "match": "Toulouse x Estac Troyes",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "competition": "Campeonato Inglês",
+      "match": "Sunderland x Leeds",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "competition": "Campeonato Alemão",
+      "match": "SC Freiburg x Bayern",
+      "channels": [
+        "XSPORTS",
+        "SPORTYNET",
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "14:00",
+      "competition": "Campeonato Italiano",
+      "match": "Lecce x Juventus",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "14:30",
+      "competition": "Campeonato Espanhol",
+      "match": "Real Sociedad x Levante",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "15:00",
+      "competition": "Campeonato Português",
+      "match": "Nacional x SC Braga",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "15:15",
+      "competition": "Campeonato Peruano",
+      "match": "UCV Moquegua x Alianza Lima",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "16:00",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x Twente",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "16:00",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Boston River",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -786,14 +786,14 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.9,
-      "temp_min": 21.9,
+      "temp_max": 26.8,
+      "temp_min": 22.0,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.0,
+      "temp_max": 26.3,
       "temp_min": 22.0,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -801,13 +801,13 @@
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.0,
-      "temp_min": 19.1,
+      "temp_min": 19.3,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.0,
+      "temp_max": 21.5,
       "temp_min": 17.4,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -820,24 +820,24 @@
       "data": "25/10 14:44"
     },
     {
-      "titulo": "Após despedida oficial pelo Fluminense, Ronaldinho ganha data para voltar aos campos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVExsc21sZ0dnMUdOeVVsZVNOQlJlQ2wwbnRrSnlUQTJmUG9mV3pDRHhPb1dNcUlEa2ZveERpQzJjaXFkYlJ3Mjg5ZHJkdTIzMldTSHR6a1VrTFM3QzNhbXlET3Vyb0Jxc3c5eklqVG1aRjhKU2o4TGJYTmZ0Zmk3eGxlbGhIMkZ5WXJJVmdCdmJlMG91a3Bma2lXdENZamZTcDRYWUZNV2dQeFkybTk4?oc=5",
-      "data": "25/10 15:11"
+      "titulo": "Fluminense vê vaga na Libertadores ameaçada após sequência de resultados negativos - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQejN1dnNhQkNrNmZKa2QtMHk0eWg0Wl9uOEVvTDBkYzctNzRWdjhqSzRuUTFaZU83d1dISGxzT0h4RzN1T29wMmtEZEFqSzhmdEV3UEVyM0dSUWJ2YThUTEwzd2RuT3N3b3lkZU1wR3RPdmVCLVZDWF94R1cwS3g0QVBrR3RiNm9CdS02NGhROHhNR1E5ZnpFbXZlMUxBSzJIUV8xeC1GZnNHRnJhVjRvRmc1d2lmcGZBaU9Iay1ESkMxQ3pydk42UHRER0RoLWVRV1NrSEk1dGlvR3AxQVlSaDlsZHZQOHd4STczc2RtSTdmcklsSFprcHdmMzA3cmdLZFZz?oc=5",
+      "data": "25/10 20:11"
+    },
+    {
+      "titulo": "Presidente do Fluminense faz análise da campanha na Libertadores: “Altos e baixos” - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd1hrZ0dKcEhHb1drLUhCY3BkTFVlUW8yR3o2dW12UlZnWFFGX05OT0VNUno2MVhvWjhURzFFX3o3cXBhWTkzTS04aGtTaER3YnRKOWNuWTZ4SjAxblRKaFFDMnNNUkZQckhFM3pYUVdCa1pYZnVsRlljQnItdUZvdkRYQ0pDbzR4bnJ6UGM3Vlp5R08xbTNKNWF4a2tiY3hzQzA1U2EzN25GQQ?oc=5",
+      "data": "25/10 19:23"
+    },
+    {
+      "titulo": "Revoltado com expulsão em jogo do Santos, Neymar recorda discussão com Samuel Xavier - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWxMVFZNelBxNnVjbXRjUEt2Q2JQajAxRHpGc28zRW5BR1ZOWTJJeV9oVENfWDVtdnNER3JVeVRVY2ZlVURFZW1PQXBKdGoxYnRSQ3VwaVlKUk9YeEZITTFXR0I0MTUzT21oT0VzZWlIREFpemVYVTkzMGozby1MRDVKWDF0MW9ySzJBWk02TW1qelNxSklvd2lkUHF3Z0lUSnBsaTFXc18xUVlrQ2Zv?oc=5",
+      "data": "25/10 17:26"
     },
     {
       "titulo": "Fluminense tem atuação frustrante e perde para a lanterna Chapecoense - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUc1NTFSVG1aNHJNUHBpSUR6MXpPNFNLZ25xeW15NVFSMWFyUFJNSkhrU0duRUcyZVd5WHZpUjhLdkZGSjR0dEZLeXBCbklrRGd5Qk9wMkdmc2QxcTY1RzRyTmM2ZkttNTFLaDhQdExkX0hYNVFSTmpGRkszellNbWw0VzZCUXotUWg5VjNpTTJDa29xcEdtUTFUWQ?oc=5",
       "data": "24/10 22:00"
-    },
-    {
-      "titulo": "Flu faz 2 a 0 fora de casa e vence Nova Iguaçu na ida das quartas de final do Carioca Sub-20 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTllMUTBhSng1ZFdCQ0RGVXBLY2d3azBqWXkzbW11YURKZHMzeDRUaktNeFpfcXZmNFhBQVZOMmh3ZGF3ZDVTMmZyMnJjVXRzdk9HaGJtMEpXMnhNWEFkemduSVpPSUhOZE90M0FYUEp1LU1jZHRmMVVVMU9SVUtuUkRidkdQeDM0OF9xUkl2UHZ2dllQbV9PMDlhRXFwUDFuYUlzUWxrVDN6Zk5IcDhfeUc3T3AyLWFXalA1THVoUzVQaGxnR25DU2ZR?oc=5",
-      "data": "24/10 15:05"
-    },
-    {
-      "titulo": "Fluminense completa 78 anos de fundação - Federação Catarinense de Futebol - FCF",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYnFQc1BCTUZ2LUlhaUNBZUxZWGVELUROci1qYjJQUjZfbko5dXVEa2U0dFpBVzlOYWl2TDNRSXBKNWtlUzNNa1RNSURvME85RFRaVWpqYVpnVDdxRE10NUdTdWtvTVptZlFJ?oc=5",
-      "data": "24/10 03:05"
     }
   ],
   "avisos": []
