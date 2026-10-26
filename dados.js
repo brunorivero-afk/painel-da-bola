@@ -1,57 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/10/2026 20:44",
+  "atualizado_em": "25/10/2026 23:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "19:15",
-      "competition": "Campeonato Argentino",
-      "match": "River Plate x Racing Club",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "19:30",
-      "competition": "Campeonato Uruguaio",
-      "match": "Club Nacional x Liverpool Montevideo",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "20:00",
-      "competition": "MLS Next Pro",
-      "match": "Crown Legacy x Columbus Crew II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "21:30",
-      "competition": "MLS Next Pro",
-      "match": "Austin II x Los Angeles II",
-      "channels": [
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "21:30",
-      "competition": "Campeonato Argentino",
-      "match": "Central Cordoba x Velez Sarsfield",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-25",
@@ -119,10 +68,9 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "09:30",
-      "competition": "2ª Divisão Alemã",
-      "match": "Eintracht Braunschweig x Hannover 96",
+      "competition": "3ª Divisão Alemã",
+      "match": "Havelse x FC Saarbrücken",
       "channels": [
-        "CANAL GOAT",
         "PPV ONEFOOTBALL"
       ]
     },
@@ -140,21 +88,11 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "09:30",
-      "competition": "3ª Divisão Alemã",
-      "match": "Havelse x FC Saarbrücken",
+      "competition": "2ª Divisão Alemã",
+      "match": "Eintracht Braunschweig x Hannover 96",
       "channels": [
+        "CANAL GOAT",
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "10:00",
-      "competition": "Campeonato Russo",
-      "match": "CSKA Moscow x Spartak Moscow",
-      "channels": [
-        "BANDSPORTS",
-        "YOUTUBE"
       ]
     },
     {
@@ -182,12 +120,12 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-25",
-      "time": "10:30",
-      "competition": "Campeonato Holandês",
-      "match": "PSV Eindhoven x Feyenoord",
+      "time": "10:00",
+      "competition": "Campeonato Russo",
+      "match": "CSKA Moscow x Spartak Moscow",
       "channels": [
-        "ESPN 2",
-        "DISNEY+"
+        "BANDSPORTS",
+        "YOUTUBE"
       ]
     },
     {
@@ -195,8 +133,9 @@ window.PAINEL_DATA = {
       "date": "2026-10-25",
       "time": "10:30",
       "competition": "Campeonato Holandês",
-      "match": "NEC Nijmegen x Groningen",
+      "match": "PSV Eindhoven x Feyenoord",
       "channels": [
+        "ESPN 2",
         "DISNEY+"
       ]
     },
@@ -213,11 +152,10 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-25",
-      "time": "11:00",
-      "competition": "Campeonato Inglês",
-      "match": "Crystal Palace x Newcastle",
+      "time": "10:30",
+      "competition": "Campeonato Holandês",
+      "match": "NEC Nijmegen x Groningen",
       "channels": [
-        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -229,6 +167,39 @@ window.PAINEL_DATA = {
       "match": "Manchester United x Bournemouth",
       "channels": [
         "CAZÉTV",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "competition": "Campeonato Francês",
+      "match": "Monaco x Lille",
+      "channels": [
+        "XSPORTS",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "competition": "Campeonato Italiano",
+      "match": "Atalanta x Frosinone",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "11:00",
+      "competition": "Campeonato Inglês",
+      "match": "Hull City x Brentford",
+      "channels": [
+        "ESPN 4",
         "DISNEY+"
       ]
     },
@@ -248,9 +219,9 @@ window.PAINEL_DATA = {
       "date": "2026-10-25",
       "time": "11:00",
       "competition": "Campeonato Inglês",
-      "match": "Hull City x Brentford",
+      "match": "Crystal Palace x Newcastle",
       "channels": [
-        "ESPN 4",
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -262,28 +233,6 @@ window.PAINEL_DATA = {
       "match": "Genoa x Venezia",
       "channels": [
         "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "11:00",
-      "competition": "Campeonato Italiano",
-      "match": "Atalanta x Frosinone",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "11:00",
-      "competition": "Campeonato Francês",
-      "match": "Monaco x Lille",
-      "channels": [
-        "XSPORTS",
-        "CAZÉTV"
       ]
     },
     {
@@ -314,16 +263,6 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "12:30",
-      "competition": "Campeonato Russo",
-      "match": "Zenit Saint x Makhachkala",
-      "channels": [
-        "BANDSPORTS"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "12:30",
       "competition": "Campeonato Português",
       "match": "Estoril x Moreirense",
       "channels": [
@@ -343,6 +282,16 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-25",
+      "time": "12:30",
+      "competition": "Campeonato Russo",
+      "match": "Zenit Saint x Makhachkala",
+      "channels": [
+        "BANDSPORTS"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
       "time": "12:45",
       "competition": "Campeonato Holandês",
       "match": "Sparta Rotterdam x Ajax",
@@ -354,8 +303,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "13:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Atletico Torque x Cerro",
+      "competition": "Campeonato Turco",
+      "match": "Goztepe x Çorum",
       "channels": [
         "DISNEY+"
       ]
@@ -374,18 +323,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "13:00",
-      "competition": "Campeonato Austríaco",
-      "match": "Lask Linz x Red Bull Salzburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Goztepe x Çorum",
+      "competition": "Campeonato Uruguaio",
+      "match": "Atletico Torque x Cerro",
       "channels": [
         "DISNEY+"
       ]
@@ -393,21 +332,11 @@ window.PAINEL_DATA = {
     {
       "sport": "futebol",
       "date": "2026-10-25",
-      "time": "13:15",
-      "competition": "Campeonato Francês",
-      "match": "Toulouse x Estac Troyes",
+      "time": "13:00",
+      "competition": "Campeonato Austríaco",
+      "match": "Lask Linz x Red Bull Salzburg",
       "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:15",
-      "competition": "Campeonato Francês",
-      "match": "Angers x Lorient",
-      "channels": [
-        "CAZÉTV"
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -435,9 +364,40 @@ window.PAINEL_DATA = {
       "date": "2026-10-25",
       "time": "13:15",
       "competition": "Campeonato Francês",
+      "match": "Angers x Lorient",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:15",
+      "competition": "Campeonato Francês",
+      "match": "Toulouse x Estac Troyes",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:15",
+      "competition": "Campeonato Francês",
       "match": "Auxerre x Le Mans",
       "channels": [
         "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "13:30",
+      "competition": "Campeonato Inglês",
+      "match": "Sunderland x Leeds",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
       ]
     },
     {
@@ -451,17 +411,6 @@ window.PAINEL_DATA = {
         "SPORTYNET",
         "CANAL GOAT",
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-25",
-      "time": "13:30",
-      "competition": "Campeonato Inglês",
-      "match": "Sunderland x Leeds",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
       ]
     },
     {
@@ -509,8 +458,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "16:00",
-      "competition": "Campeonato Uruguaio",
-      "match": "Cerro Largo x Boston River",
+      "competition": "Campeonato Holandês",
+      "match": "AZ Alkmaar x Twente",
       "channels": [
         "DISNEY+"
       ]
@@ -519,8 +468,8 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "16:00",
-      "competition": "Campeonato Holandês",
-      "match": "AZ Alkmaar x Twente",
+      "competition": "Campeonato Uruguaio",
+      "match": "Cerro Largo x Boston River",
       "channels": [
         "DISNEY+"
       ]
@@ -540,20 +489,20 @@ window.PAINEL_DATA = {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "17:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Barcelona x Real Madrid",
+      "competition": "Campeonato Argentino",
+      "match": "Independiente x Boca Juniors",
       "channels": [
-        "CAZÉTV"
+        "DISNEY+"
       ]
     },
     {
       "sport": "futebol",
       "date": "2026-10-25",
       "time": "17:00",
-      "competition": "Campeonato Argentino",
-      "match": "Independiente x Boca Juniors",
+      "competition": "Campeonato Espanhol",
+      "match": "Barcelona x Real Madrid",
       "channels": [
-        "DISNEY+"
+        "CAZÉTV"
       ]
     },
     {
@@ -582,6 +531,57 @@ window.PAINEL_DATA = {
       "time": "18:00",
       "competition": "MLS Next Pro",
       "match": "Chattanooga x Connecticut FC",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "19:15",
+      "competition": "Campeonato Argentino",
+      "match": "River Plate x Racing Club",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "19:30",
+      "competition": "Campeonato Uruguaio",
+      "match": "Club Nacional x Liverpool Montevideo",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "20:00",
+      "competition": "MLS Next Pro",
+      "match": "Crown Legacy x Columbus Crew II",
+      "channels": [
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "21:30",
+      "competition": "Campeonato Argentino",
+      "match": "Central Cordoba x Velez Sarsfield",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-25",
+      "time": "21:30",
+      "competition": "MLS Next Pro",
+      "match": "Austin II x Los Angeles II",
       "channels": [
         "ONEFOOTBALL"
       ]
@@ -787,7 +787,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 26.8,
-      "temp_min": 22.0,
+      "temp_min": 22.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
@@ -801,14 +801,14 @@ window.PAINEL_DATA = {
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.0,
-      "temp_min": 19.3,
+      "temp_min": 18.8,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 21.5,
-      "temp_min": 17.4,
+      "temp_min": 17.0,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
@@ -820,24 +820,24 @@ window.PAINEL_DATA = {
       "data": "25/10 14:44"
     },
     {
-      "titulo": "Fluminense vê vaga na Libertadores ameaçada após sequência de resultados negativos - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQejN1dnNhQkNrNmZKa2QtMHk0eWg0Wl9uOEVvTDBkYzctNzRWdjhqSzRuUTFaZU83d1dISGxzT0h4RzN1T29wMmtEZEFqSzhmdEV3UEVyM0dSUWJ2YThUTEwzd2RuT3N3b3lkZU1wR3RPdmVCLVZDWF94R1cwS3g0QVBrR3RiNm9CdS02NGhROHhNR1E5ZnpFbXZlMUxBSzJIUV8xeC1GZnNHRnJhVjRvRmc1d2lmcGZBaU9Iay1ESkMxQ3pydk42UHRER0RoLWVRV1NrSEk1dGlvR3AxQVlSaDlsZHZQOHd4STczc2RtSTdmcklsSFprcHdmMzA3cmdLZFZz?oc=5",
-      "data": "25/10 20:11"
+      "titulo": "Soteldo passa por recondicionamento físico no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVkZwVVZxQ2NqZGtPeU8xeG9Jb2s4X2dla2NSUzJGQm9rb0pncHp5bmg1TlJhekRwdE12TjR1MVZGbmRnZ3A4MWxlRTJDemJ2UUhfSHhKakZaZnBuNEgtSGdFYzY3b2h6SGZMVWFtTk9GUU8zbXZOeG9fbWVxTEVBV1NLc1d1MlFheFdmb2dDSTdDZ2M2N0JwaC1VemVlRmZRY2ZNdUZQTEJuR3JXTkstV2RyZjNQNkNFYlY4anI3alBQU25vU1JITHc2c2h2OTFzU3VjTFhmVk9tUW1KeDJCOQ?oc=5",
+      "data": "26/10 00:01"
     },
     {
-      "titulo": "Soteldo, do Fluminense, acusa dores na coxa e passa por recondicionamento físico - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbUI1bXpveS1weTkyUWhkLXk4Z1V4Ym5KVkg5WGtFZG1TcWRiOWkyQnduTTBZQnhXdHFCMzJRclZrRnM1QkpSUEtxZDZLX1Fpdjh2b1pDTGU3ZXUySDMtaktOWk9SY25ZaTZ1MVB3OE5QYnh5Q195SC05MjhGV0lHdG1GTVBnZG5Xd1dTV1RpeXFhMkp6T0tTQmhQblVqN2NDWHhSMUFLTk1heVoxRHZfZzhDaURaU2JzX3NFcGVjVmJWVDdieDJjN1QybmZxUWYyMTAydFpGSmpfNVA2dm9kTDJPNNIB8gFBVV95cUxQX0lMNnhVUGpudS04TmVWdTd0dWstZllLV2JKS19IYzZTNDN1OUFQbkxUcEN3ckJmbHl3dGptMDZpTjZBVTEyU3NSWWdqSU5uRVRoQ3pGRTNHMGp5QjctUFF4dllQVTFpQWY3VHZXcUpwMkswSWhhSUw4bloyS3VxTGxqdEVySm5NcnBxZDdkMW1KX2phVWtnbGlYRDVIVVhVUEFSMG5jekJ6aFM5MnNiczRKRllPZk5JNG93WnY5T0dTdnRqSE1LN3lZMGFEOEp4R1QyeVEwT2ZWUTZNQnFOMGlPZjVvWTB0N2NsaVFmTWtpdw?oc=5",
-      "data": "25/10 18:10"
+      "titulo": "Sem desfalques por suspensão! Com dez pendurados, Fluminense não perde ninguém para próxima rodada - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZS1hTURzREpVcHhVdXU2a2JjRzlURkNiZGs2QVpxdFF0cHJyRlBIdk1mZElWemUtVnNJMlhreW9kX2h0SXlpQk5DRkRKTUs1UFd2SmNKckZGTWxXUVF1eVZaYWs2Ylg0bnZfanNYcV90RC1GeHZMTWVIM1ltQVE1c0hhdlA2TzB2cXVsbmdTVGVTRjloem1PR2FsYjNlNUR2N3E2MXdZSzducWozbEl5ZXh6VmVoMDY3MXNudHBMWXk?oc=5",
+      "data": "26/10 01:41"
     },
     {
-      "titulo": "Fluminense tem atuação frustrante e perde para a lanterna Chapecoense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOUc1NTFSVG1aNHJNUHBpSUR6MXpPNFNLZ25xeW15NVFSMWFyUFJNSkhrU0duRUcyZVd5WHZpUjhLdkZGSjR0dEZLeXBCbklrRGd5Qk9wMkdmc2QxcTY1RzRyTmM2ZkttNTFLaDhQdExkX0hYNVFSTmpGRkszellNbWw0VzZCUXotUWg5VjNpTTJDa29xcEdtUTFUWQ?oc=5",
-      "data": "24/10 22:00"
+      "titulo": "Análise: Fluminense sente ressaca da eliminação na Libertadores e liga alerta no Brasileirão - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTFBXdzZvVW1ER2hpUHo3X1UxbGJySmJ4emppLWEzTXB1aGQtZjZWbFFWc1lmUnRoTnczd3BqeFg0S0g5M1Y5OTFzRUd5YWJSazlGcENhVDJ5MEdWZG0tYnNTZ2lqX0swcHI5TDdZN01LMGt2amNqMERmaEJmNVE5dnQza1Y1RXB4VnNRNjFuWUtzQlUxOEhTeUFGeXQ1RDl5YVZMREpNQ2J2QkVVZkZBQ0p3eWp1R1BQelk3UXVGTXFZR2pKM193bUlQSUJXdGdraHBSdXV1UkFuSjlBSEQ3UHhubmJiUlJkdktBR2EwaTRvMm15WkHSAYQCQVVfeXFMT1NQU3FuUG5vaDdCZG9xcXc4UHhPY0stblR1YkVfb2pyQUtEV2l5NVN5ajJzREVGdi0tN2xGb0I4aFZnWjdLMV9RdkwtTlR6WjFqZ1pVTnUwaGZKOXJZWGdpYVdTaHNJa09ZSlFUWlVUeTFtNmZZUW5ZcXhoUFU0ZDZ0MEtDZjY5Z3lvdWpjeUJZWjhvZVd6QWdWY0p5WFExMEVNMXppa2xqbDdtOEdrNmVQd0NDQUVWY1pCYktDaFlKb09YRU51NHZNZHJZZkd5ZUdfUGJoUlROSzd0X2kxNmptVlhsTldVZ0oycXhHLVZna3FpWjF2TVZ1UXJxczFxQ0NpMW4?oc=5",
+      "data": "25/10 07:00"
     },
     {
-      "titulo": "Flu faz 2 a 0 fora de casa e vence Nova Iguaçu na ida das quartas de final do Carioca Sub-20 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTllMUTBhSng1ZFdCQ0RGVXBLY2d3azBqWXkzbW11YURKZHMzeDRUaktNeFpfcXZmNFhBQVZOMmh3ZGF3ZDVTMmZyMnJjVXRzdk9HaGJtMEpXMnhNWEFkemduSVpPSUhOZE90M0FYUEp1LU1jZHRmMVVVMU9SVUtuUkRidkdQeDM0OF9xUkl2UHZ2dllQbV9PMDlhRXFwUDFuYUlzUWxrVDN6Zk5IcDhfeUc3T3AyLWFXalA1THVoUzVQaGxnR25DU2ZR?oc=5",
-      "data": "24/10 15:05"
+      "titulo": "Análise: Fluminense eleva nível de 'jogo da ressaca' com atuação melancólica em derrota para lanterna - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeng3R3NCOEc3dEMzdHM3RGRhVjl4Vy1pMUJtdnd0c0d6WjRQbXJPR3NDdURONC1SNU41MzhndEF6dXZqcUJUOFdVbXBzSGJ1S2k2NWM0S1BHbVh2UHVnLUpqWkdtWGRmQUpxUTd0ZHFxQWowT19FR3UzamN2TFAxWWcwZ0toWTU1YTZ1d1FUekdqdVk4Ty03bWtudFFtQk5CWW15WHkzSmJxb1F3UkxGbmNhdldtYWtTbFk2Z19ReG9lcnFPdzdMN0hmeXZfZnE5VWFabjBzY3dSY1NmN2lYV05hU3B0RHpuWnhReFVoTmFaUWFFTnc0VTV4bDExWGZTWkJ4LW1pc9IBlgJBVV95cUxPS2xDQmhBajVoVHgxeGd1aThIMzUwb2lURmdFOU5BdkpLTkNCVjlrTjVSaGJ3dmExZWRqN254cUVpTkJPUWd0cTZKQ1JVUWhqN1V2RS1sLUE3WkF3VEFWbTdGQ0lnZVBGLVlxZW5jSEpCVHpSbnFZMWN3UWhOaWpSRkk0cWd4aDlUUkxpRGdpM3Q5WlNlc0VHcXV4NHAydUIweV9QSDBLdzJSbGlJRm1MNEVyTEVSY0dFVHZMLW85ODBYZlFTQ1lta2FKQlMzaHU4VmVvRVdLVDZxTVBFMWFqYmhHeUZ1VzdLRnlVTW05TFhlMjVHU1ltcGw0ZDNndlhSN0x0NGlpdy1QR1MzOTZoM09pc0ctQQ?oc=5",
+      "data": "25/10 07:00"
     }
   ],
   "avisos": []
