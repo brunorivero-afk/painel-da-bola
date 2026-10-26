@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/10/2026 05:29",
+  "atualizado_em": "26/10/2026 12:46",
   "jogos": [
     {
       "sport": "futebol",
@@ -301,57 +301,57 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 21.9,
-      "temp_min": 19.2,
+      "temp_min": 20.0,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.0,
-      "temp_min": 20.0,
+      "temp_max": 22.5,
+      "temp_min": 20.1,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.5,
-      "temp_min": 15.1,
+      "temp_max": 20.4,
+      "temp_min": 14.9,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 17.0,
-      "temp_min": 13.0,
+      "temp_min": 12.8,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Análise: Fluminense sente ressaca da eliminação na Libertadores e liga alerta no Brasileirão - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTFBXdzZvVW1ER2hpUHo3X1UxbGJySmJ4emppLWEzTXB1aGQtZjZWbFFWc1lmUnRoTnczd3BqeFg0S0g5M1Y5OTFzRUd5YWJSazlGcENhVDJ5MEdWZG0tYnNTZ2lqX0swcHI5TDdZN01LMGt2amNqMERmaEJmNVE5dnQza1Y1RXB4VnNRNjFuWUtzQlUxOEhTeUFGeXQ1RDl5YVZMREpNQ2J2QkVVZkZBQ0p3eWp1R1BQelk3UXVGTXFZR2pKM193bUlQSUJXdGdraHBSdXV1UkFuSjlBSEQ3UHhubmJiUlJkdktBR2EwaTRvMm15WkHSAYQCQVVfeXFMT1NQU3FuUG5vaDdCZG9xcXc4UHhPY0stblR1YkVfb2pyQUtEV2l5NVN5ajJzREVGdi0tN2xGb0I4aFZnWjdLMV9RdkwtTlR6WjFqZ1pVTnUwaGZKOXJZWGdpYVdTaHNJa09ZSlFUWlVUeTFtNmZZUW5ZcXhoUFU0ZDZ0MEtDZjY5Z3lvdWpjeUJZWjhvZVd6QWdWY0p5WFExMEVNMXppa2xqbDdtOEdrNmVQd0NDQUVWY1pCYktDaFlKb09YRU51NHZNZHJZZkd5ZUdfUGJoUlROSzd0X2kxNmptVlhsTldVZ0oycXhHLVZna3FpWjF2TVZ1UXJxczFxQ0NpMW4?oc=5",
-      "data": "25/10 07:00"
+      "titulo": "'Missão é voltar à Libertadores', diz presidente do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEdDVjZ1SnJUX2ZCYUViMzdLTTVZNFBURV9xdkZsbF8tOXJxd2dWTktYa0xXOVJVUlRGcU5zeXltanUyT2NjUG9EeHl6TVNhdGpBNnk4YmZxVHI2V1M4OXFhUzlKYWZacWNmbE9abFhQT3Zic3hwdUhaOU1HUmNRek4zdVhqNjdKeHRsQ2E1YWRBNUhxZ2dOaHQtTVpEVlhER1dyMVBlQmw?oc=5",
+      "data": "25/10 14:44"
     },
     {
-      "titulo": "Como assistir Chapecoense x Fluminense pelo Amazon Prime Video? - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSEtUZDgxNk1kYWpFczNndjM2RkdoTUN5dklKSlJYWlNYc08tcGxtZE1WMEE2aHBral8wZ0xnODh1OFlvQWtCcWNrTVdZSWJfd2FKVTlsekNrZWJkcWxqOWNDNm9JOHBwRnZoSlNnQWltSnV3UmRlOEhlXzlSRXNMNzByWGY3QmZKMmVTUy1QSjl2WmNheUhEVDB2QTBMcmpQUXg5NHh3?oc=5",
-      "data": "24/10 20:30"
+      "titulo": "Guga marca pela primeira vez e consolida boa fase no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPREE2TklwU2ZHTnpLejc4S2pWTE9HTFNBXzNPTld5UU9saHlwV0lNaDRtNy1TdEozZUU3b19UQUJyaE1MX19yUXdsUWdTX0xlcHVhcHRfV3hoRExpcWJpSnVtd2QtQWJBMXY4SWRhTTVsZnVmVFhDX3pMUElnckRZWldCWXpLa19TZ2lrR2tUSlVNRTdJcWd2OV96WWp4UUU2Ny1PaGo0d2VmZXh0Y1cwTmNaZjRmeWZPOUF6ak11a2h1REhHcERuMDNVQ1VDT1NDeGZDRUduMEk3UG9PSVRTdkZRUnJoVk9vdlE?oc=5",
+      "data": "26/10 13:07"
     },
     {
-      "titulo": "Após despedida oficial pelo Fluminense, Ronaldinho ganha data para voltar aos campos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVExsc21sZ0dnMUdOeVVsZVNOQlJlQ2wwbnRrSnlUQTJmUG9mV3pDRHhPb1dNcUlEa2ZveERpQzJjaXFkYlJ3Mjg5ZHJkdTIzMldTSHR6a1VrTFM3QzNhbXlET3Vyb0Jxc3c5eklqVG1aRjhKU2o4TGJYTmZ0Zmk3eGxlbGhIMkZ5WXJJVmdCdmJlMG91a3Bma2lXdENZamZTcDRYWUZNV2dQeFkybTk4?oc=5",
-      "data": "25/10 15:11"
+      "titulo": "Fluminense x Internacional: saiba onde assistir ao vivo ao jogo do Brasileirão - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVBiRnVYS0d6cUtpUXVRN2pEZ1VHcmFiR19LMVVfQkU1ZWV2Vzh3N0ZQU3A2LVBTdzVwS29RbXpPUGRKYXl4ekdFeFM5OUt3UXZaLWw4cVhhRmFkNkluWFdscllrZV9sUkRPaDFTel9kb2RuSmdOWXN1ZWVrMFZvZGVRODdYNno4clZLN3pDV3JVMmdGRlJoTnV0bV85ZW9rNUVvMzVMQQ?oc=5",
+      "data": "26/10 11:31"
     },
     {
-      "titulo": "Marcão aponta falhas técnicas em derrota do Fluminense para a Chapecoense: \"Noite para esquecer\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1E2YUUyUEt6aFlCbU0wakZSN3VzUm9paHJSdVRtMTdOa0F5RzJWd242cGpYR24xVWw3ZFg5NHhxLWNuSnNIcXhSVm9PTHFIdlBHYjBWT3ltd193MjZZSkpPYXRnNjRzeFNXQ1hzTHNNYUR3eVFfWHhFSmxzelR5VHhvYnZZN3lzbWNLRGRyVXJUb3hEQ3YyeWlXQTRBR3FEb3RUT1JqZjJxd29oQi1mSzFVVGdVMUFPOVdRMWd0ZjJFME1wQ2NDMlluajYySUpyakRyY3pmcEU4ZjJLdHNLcUh6OGlqWnVPTDRGTS1admdXZkxKb1lN0gGGAkFVX3lxTE14ajc4VXJFY0pranA4Y29NamZpV01sdWwtTnZUS1Mxa3dqSzNTTk9sVVIxTG4xV2FIMWFrbUFOcnNSX0pYdWZmOWhkYzVKLW9WMU11YktWX2RwYlZDTkNRbWNCRXI0QVZ4elRkQ29kbHBoRm9uSUM2SVFaVjlZUnZuWS1maFMzX1JBQUI0WUs5bzZtb0Iwd0FLUjZKbWdmT0luQndMRVRiV0FkZlU0eDJyc0FJRmYwdDhJVm5UUFNGaEZuNFlYaDAxMWlNNFdGY1FjSnd5MUF5ZVZVU01XajBjcHFnU3RMdHRJWkx5bzRZbWt3MnF0NWI4Y0tESkpZT3pPNTNZWWc?oc=5",
-      "data": "25/10 01:04"
+      "titulo": "Fluminense defende longa invencibilidade diante do Internacional no Maracanã - www.netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGwxbC1BdjZoMWs2ZlViaFBJaWZVV2xFMERXaDlWUElVc2pXTUxhTXJMYWZLci1JNmdwMl9LZGM2NXVpVlB4RlhkTHQ4MF9tUWNfQVlnMFZKZFFwelBzZFpHcFFKNU5yUmlrVGE2OXI1WTlscHRkeVZDM0ZmdFN5aHpFWGhJN2pTZkhCbExlVDMzWlU0ZEtwVHdmbVFYUEdNRkwtckx3?oc=5",
+      "data": "26/10 15:14"
     },
     {
-      "titulo": "Escalação do Fluminense: time terá três desfalques contra a Chapecoense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUUZwRjFrZmlISHc1YXdOR2VQU1VWY3V0TW1hRDhIVzZPOF9fTDRsYTZnLWtGUXpGc3FqMWtJR1BnMTV2eUVuQ2hEeThXeUNuT2FDd2lYR04yQ1RKSWxfSGg3TGhRNWZoUmlPQng3MHVGd1RZcjFNY2JydTgzcnF5alc5SWZkel8zN0VMV2tUcjNFNk5oOTZFUVprTURpUEdlcUg1MkpSOGhSVGRCcDJBUE5OX1FKM2J2TGpFeWlyWHhNY3U2OXJyWU9vaUpPZjh1T2MzcEd4b2rSAecBQVVfeXFMTm1uYWlRV2kxd2hkWmpNT2NGQWNIeEhCdFlCYWVIVVNwdnRZMmd0V3FGT1pRVTNnVGdJT2t5TmN3dml4UnY4WVdpcnFzbVpPZmZicUIyN1RlZUpuLWM2bUZsQTNRTDZkVUEtRUpqSk1sSURlVFV4M3hidTdQYThsbHRIb1dKeWx2MXJIdkhaYW04cEoydEVrTEhPUUNlRGZiN1VaVmNCTi1ET1RZUGdhcHhWMHUzNE1oQ2d5Ri1yOXM0bmVnblRDRmJfLVdOVzIzYWttMFpmcUdfcUtZVVA5T0FSRlNNNklZ?oc=5",
-      "data": "23/10 21:40"
+      "titulo": "Na pré-lista do Uruguai, Canobbio busca retomar forma e deve voltar ao Fluminense contra o Inter - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQVFEdXY5SURSU2tNWGJyM2xFc3h1eWduZTFmVmNBVVFCeXp6dWZUYXIzNnFiN3R5c0pvc2dsR2dBRnloOGMxSFdsTmVVRWpQRGhFdUNXajBPMGNIN1Q0WHc5OXRMcTVJRHBaX0xwUTJ1V3dZdXZMQVdBLUh2UHdFYktucm1oUGFsYzRfX0lFSUNpakFiWGNLTUxvaXJPV3B1Y1ItUHVoQ0NTbTQwbW9aWm9Od1RhbUVpUFlfUktTN2ozQnZTQXpaX3ZlWHp1eFBkN19MUlcxRVd6YVJuUUg1aklZc2thdjQtcmRmc2stazBSX1kxdlUyQVh30gGIAkFVX3lxTE9YcTNaUEgtT3g0bXd1THJ0UmprMXU4Y2NOZmlsM2h6S0Q0cU5DcGpDVk9BenFadm9MMml6c1ZOWW1ha0FGenhRTk43eHNScXpWb2F2WWRLNkowek1iVVRvS2t4bFJSNFRsdGNJYkluM0ZLSDl5ZE0ySjVpZjNaTGgyeTRIMHZsSmtYWXB2RnlkQXctUFdhX1B3WkVRZC1kTndJSFlBODBaV0Q4RnJzR1BsdmpNTEZLVWQxN21qckI4N0hkQ3NFOHVIUGUyeTRRQVJIQ0g5VGUtNVg1LXJfaFVHcWxDbGVvcUY0MWE5Y2k5Y04tMDZGUS14a1BVVTF3bXRXWno0X0ctaw?oc=5",
+      "data": "26/10 07:00"
     }
   ],
   "avisos": []
