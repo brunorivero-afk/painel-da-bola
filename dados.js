@@ -1,59 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/10/2026 12:46",
+  "atualizado_em": "26/10/2026 17:51",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Besiktas x Istanbul Basaksehir",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "13:00",
-      "competition": "Campeonato Turco",
-      "match": "Rizespor x Trabzonspor",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "15:00",
-      "competition": "Paulista Sub-20",
-      "match": "São Paulo U20 x Palmeiras Sub-20",
-      "channels": [
-        "TNT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "15:30",
-      "competition": "Campeonato Turco",
-      "match": "Galatasaray x Fenerbahce",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "15:45",
-      "competition": "Campeonato Português",
-      "match": "Santa Clara x Benfica",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-26",
@@ -124,6 +71,59 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série B",
       "match": "Juventude x Náutico",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "13:00",
+      "competition": "Campeonato Turco",
+      "match": "Besiktas x Istanbul Basaksehir",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "13:00",
+      "competition": "Campeonato Turco",
+      "match": "Rizespor x Trabzonspor",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "15:00",
+      "competition": "Paulista Sub-20",
+      "match": "São Paulo U20 x Palmeiras Sub-20",
+      "channels": [
+        "TNT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "15:30",
+      "competition": "Campeonato Turco",
+      "match": "Galatasaray x Fenerbahce",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "15:45",
+      "competition": "Campeonato Português",
+      "match": "Santa Clara x Benfica",
+      "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -301,7 +301,7 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 21.9,
-      "temp_min": 20.0,
+      "temp_min": 19.5,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     },
@@ -310,43 +310,43 @@ window.PAINEL_DATA = {
       "temp_max": 22.5,
       "temp_min": 20.1,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.4,
-      "temp_min": 14.9,
+      "temp_max": 20.5,
+      "temp_min": 15.2,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.0,
-      "temp_min": 12.8,
+      "temp_max": 17.1,
+      "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "'Missão é voltar à Libertadores', diz presidente do Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEdDVjZ1SnJUX2ZCYUViMzdLTTVZNFBURV9xdkZsbF8tOXJxd2dWTktYa0xXOVJVUlRGcU5zeXltanUyT2NjUG9EeHl6TVNhdGpBNnk4YmZxVHI2V1M4OXFhUzlKYWZacWNmbE9abFhQT3Zic3hwdUhaOU1HUmNRek4zdVhqNjdKeHRsQ2E1YWRBNUhxZ2dOaHQtTVpEVlhER1dyMVBlQmw?oc=5",
-      "data": "25/10 14:44"
+      "titulo": "Fluminense vai encarar o Inter com 10 pendurados no Brasileirão; veja a lista - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnZjNFNrS3JBWEowMkNxM2tyQVpjSWhBZkRmNG5IX091TWJBQ2hnNEpocEt3MWk1WnROcDZ2ZV94ZHNObXFNUFBpMW1VaU9uV2ttb1JwNjJlOEgwOFVDRTZ5LXNPck80dGdLU2JVM0FzVlBGNkZxV29XdjJWU3IydkE5SmhfaXF2Ti1ibEZ3d1pMZjhGNE9lTFoyQy1kUk94d2l4SUpR?oc=5",
+      "data": "26/10 14:02"
     },
     {
-      "titulo": "Guga marca pela primeira vez e consolida boa fase no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPREE2TklwU2ZHTnpLejc4S2pWTE9HTFNBXzNPTld5UU9saHlwV0lNaDRtNy1TdEozZUU3b19UQUJyaE1MX19yUXdsUWdTX0xlcHVhcHRfV3hoRExpcWJpSnVtd2QtQWJBMXY4SWRhTTVsZnVmVFhDX3pMUElnckRZWldCWXpLa19TZ2lrR2tUSlVNRTdJcWd2OV96WWp4UUU2Ny1PaGo0d2VmZXh0Y1cwTmNaZjRmeWZPOUF6ak11a2h1REhHcERuMDNVQ1VDT1NDeGZDRUduMEk3UG9PSVRTdkZRUnJoVk9vdlE?oc=5",
-      "data": "26/10 13:07"
+      "titulo": "Em má fase, presidente do Fluminense crava: \"Estaremos na Libertadores\" - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZXZOOFpoSUdEZ1lpcEJuWGRkVUEyejlJSlBQUVFQbWJhLS1jQ2tZWWxPSFFNbTFVRkQ3NjI0cWJHck9vOEY1RERSUFJGNFZvNU5sd1o1allkdGlybmhldjYyNUtQZU5XdmJiUTdwMXZJV2N2UXE3NEpzLUFCYzhMTWhRR3UtTFFLbGFYbnZ0LXVVYXRVM0tzd2RKSHloaXgxUHo1R3J4TjdtZzYzUkxueHBCcm9CbDktbFZqNGpCU3g3WnNQTFZQRy1yVWFaX3RDcTQ4czZ5T3F6d2RXSEprUEIwTmd6NFpubkVINi1qUQ?oc=5",
+      "data": "26/10 16:38"
     },
     {
-      "titulo": "Fluminense x Internacional: saiba onde assistir ao vivo ao jogo do Brasileirão - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVBiRnVYS0d6cUtpUXVRN2pEZ1VHcmFiR19LMVVfQkU1ZWV2Vzh3N0ZQU3A2LVBTdzVwS29RbXpPUGRKYXl4ekdFeFM5OUt3UXZaLWw4cVhhRmFkNkluWFdscllrZV9sUkRPaDFTel9kb2RuSmdOWXN1ZWVrMFZvZGVRODdYNno4clZLN3pDV3JVMmdGRlJoTnV0bV85ZW9rNUVvMzVMQQ?oc=5",
-      "data": "26/10 11:31"
+      "titulo": "Flu Camp abre inscrições para edição de 2027 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnA2M1Bwb2t4MXpVUmlNZmk0SHdCYi15WF9ZUmg1M0REWVgyVWhPM041cFpINnNaSDZnZ09GNDhnY1Y4TnN1SjJldnFDR2dycllyeWFrbGs3WHBNT0VJWWFCVkFobmw3dUIybjZ5OU8wb2FOY082WXNOcURuMkczWHVUZDd0RWs4cXc?oc=5",
+      "data": "26/10 18:13"
     },
     {
-      "titulo": "Fluminense defende longa invencibilidade diante do Internacional no Maracanã - www.netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGwxbC1BdjZoMWs2ZlViaFBJaWZVV2xFMERXaDlWUElVc2pXTUxhTXJMYWZLci1JNmdwMl9LZGM2NXVpVlB4RlhkTHQ4MF9tUWNfQVlnMFZKZFFwelBzZFpHcFFKNU5yUmlrVGE2OXI1WTlscHRkeVZDM0ZmdFN5aHpFWGhJN2pTZkhCbExlVDMzWlU0ZEtwVHdmbVFYUEdNRkwtckx3?oc=5",
-      "data": "26/10 15:14"
+      "titulo": "Presidente do Fluminense revela planos para 2027 e aponta: ‘Vamos estar na Libertadores’ - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVFpPNEtqd0VGUkZUVjR6WEEtMzh0akZWdWVzRllQRUpGclFDa2w0YnQ2a19BTFhHMEZ3SWNQdkZfd2lrUUNXZEVDcm8wa0dRSVFvZmpkcUhodnVoSlBpZFA5WVFUaW1KVF82Y19zYnp3Y1NvLXRCU0RiLVY4Q3pXbEN3R0NPWU5oenUxdmtRdVpmTzAtUnBmandRQzdrbVJsT1FBNTlpTFk0MmFYMklKSUZnS0ZxT1lIbDM4bmlhU293aDM0d1l1QVJxZEpNMHNkbG9WS0h6MFE0cnk2X3MtWWtaczZuREIwUmRJRGVWdy04YlBrV2hGR0NUa1hxOFFkSUNBQXZn?oc=5",
+      "data": "26/10 18:17"
     },
     {
       "titulo": "Na pré-lista do Uruguai, Canobbio busca retomar forma e deve voltar ao Fluminense contra o Inter - ge",
