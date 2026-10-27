@@ -1,37 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/10/2026 17:51",
+  "atualizado_em": "26/10/2026 21:12",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "16:30",
-      "competition": "Campeonato Francês",
-      "match": "PSG x Lyon",
-      "channels": [
-        "XSPORTS",
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "17:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Sevilla x Osasuna",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-26",
-      "time": "19:00",
-      "competition": "Campeonato Argentino",
-      "match": "Union Santa Fe x Estudiantes",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-26",
@@ -124,6 +93,37 @@ window.PAINEL_DATA = {
       "match": "Santa Clara x Benfica",
       "channels": [
         "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "16:30",
+      "competition": "Campeonato Francês",
+      "match": "PSG x Lyon",
+      "channels": [
+        "XSPORTS",
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "17:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Sevilla x Osasuna",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-26",
+      "time": "19:00",
+      "competition": "Campeonato Argentino",
+      "match": "Union Santa Fe x Estudiantes",
+      "channels": [
         "DISNEY+"
       ]
     },
@@ -229,16 +229,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-10-26",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Londrina x Sesi-Bauru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-26",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Norde Vôlei x Campinas",
@@ -334,24 +324,24 @@ window.PAINEL_DATA = {
       "data": "26/10 14:02"
     },
     {
-      "titulo": "Em má fase, presidente do Fluminense crava: \"Estaremos na Libertadores\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZXZOOFpoSUdEZ1lpcEJuWGRkVUEyejlJSlBQUVFQbWJhLS1jQ2tZWWxPSFFNbTFVRkQ3NjI0cWJHck9vOEY1RERSUFJGNFZvNU5sd1o1allkdGlybmhldjYyNUtQZU5XdmJiUTdwMXZJV2N2UXE3NEpzLUFCYzhMTWhRR3UtTFFLbGFYbnZ0LXVVYXRVM0tzd2RKSHloaXgxUHo1R3J4TjdtZzYzUkxueHBCcm9CbDktbFZqNGpCU3g3WnNQTFZQRy1yVWFaX3RDcTQ4czZ5T3F6d2RXSEprUEIwTmd6NFpubkVINi1qUQ?oc=5",
-      "data": "26/10 16:38"
+      "titulo": "Fluminense define sua primeira saída para 2027 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMllvcDJQbldyREo5VzNGMlJaTUozM19udGhzaFYtMHFUVUExMERvWTAyellyNm9BWXZEM0daN2FCZFBsSFpZM29LUXA5YWNOeHRfSHZHdklHdmNOQzVadUlPel8tNmVnNWIxc0xsdlcxTm1fblZlVG40UHhXLWl6TmZ0OEdlaTNhM19JeWZJYTJsUmVBVmlrZy05UTQ1ektBUkxnUWo5d1psbU1hZkdVUVN6c2g2b0lzMnl6M2JHbTQ2bkhnM2ZtTmYxLXJzUFhNcTJz?oc=5",
+      "data": "26/10 22:03"
     },
     {
-      "titulo": "Flu Camp abre inscrições para edição de 2027 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnA2M1Bwb2t4MXpVUmlNZmk0SHdCYi15WF9ZUmg1M0REWVgyVWhPM041cFpINnNaSDZnZ09GNDhnY1Y4TnN1SjJldnFDR2dycllyeWFrbGs3WHBNT0VJWWFCVkFobmw3dUIybjZ5OU8wb2FOY082WXNOcURuMkczWHVUZDd0RWs4cXc?oc=5",
-      "data": "26/10 18:13"
+      "titulo": "Alisson deve voltar ao São Paulo após passagem discreta pelo Fluminense - Galáticos Online",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQklLSDR6YXlTeUJ6Z2NKNGF0MGNPb0g5M09CVGlWLWR0NlEtVGo3QWxDYU9GczFNaDBzTGpvNWFHNEFpQ1hOc01fcmYyakcwRTVaV0ZPRXBlcjFMRGhNcDFrV1UtdXoyQW50ME42VVMxdHdhZF9JMHBLNTQyT1Zjb2xMbkpjYnJBUm14TGd3UWoxNTlyelloNzFqYUJWcVVBVmlMRmVya2NoZlpGY2pGUnpRTGl4VTZlZ2ZRRDdzSjl0blVRU2I3Vg?oc=5",
+      "data": "27/10 00:05"
     },
     {
-      "titulo": "Presidente do Fluminense revela planos para 2027 e aponta: ‘Vamos estar na Libertadores’ - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVFpPNEtqd0VGUkZUVjR6WEEtMzh0akZWdWVzRllQRUpGclFDa2w0YnQ2a19BTFhHMEZ3SWNQdkZfd2lrUUNXZEVDcm8wa0dRSVFvZmpkcUhodnVoSlBpZFA5WVFUaW1KVF82Y19zYnp3Y1NvLXRCU0RiLVY4Q3pXbEN3R0NPWU5oenUxdmtRdVpmTzAtUnBmandRQzdrbVJsT1FBNTlpTFk0MmFYMklKSUZnS0ZxT1lIbDM4bmlhU293aDM0d1l1QVJxZEpNMHNkbG9WS0h6MFE0cnk2X3MtWWtaczZuREIwUmRJRGVWdy04YlBrV2hGR0NUa1hxOFFkSUNBQXZn?oc=5",
-      "data": "26/10 18:17"
+      "titulo": "Mattheus Montenegro faz promessa para a torcida do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0lUWEZXNGtXRVBjMDYtM1NfLVc4MU5JcWUwdGF5ejNZV1htUTVMa2Z2N19kWjZvQWFQQVRuelZmVHQteFlwSDROcEdic3UyRTVPcjNVY2pJeDlobjMxQ0xZeTNoZktRREZsWW83VkRieUlZZWJEQWpVU0FxWWJLMjN1WElxMUJKQ0MzQmNFZ1ozeE9nSWFkbEpxV21ha3BDel90bTNXemlzUmpkR1Fpd3hRX25WMXBRb0M5R0d6S09Lb0o5elc2Z3FyVHZoZHZPZFEzQ24xQzFLMncxOXpkYWxqQldNdzA?oc=5",
+      "data": "26/10 23:11"
     },
     {
-      "titulo": "Na pré-lista do Uruguai, Canobbio busca retomar forma e deve voltar ao Fluminense contra o Inter - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQVFEdXY5SURSU2tNWGJyM2xFc3h1eWduZTFmVmNBVVFCeXp6dWZUYXIzNnFiN3R5c0pvc2dsR2dBRnloOGMxSFdsTmVVRWpQRGhFdUNXajBPMGNIN1Q0WHc5OXRMcTVJRHBaX0xwUTJ1V3dZdXZMQVdBLUh2UHdFYktucm1oUGFsYzRfX0lFSUNpakFiWGNLTUxvaXJPV3B1Y1ItUHVoQ0NTbTQwbW9aWm9Od1RhbUVpUFlfUktTN2ozQnZTQXpaX3ZlWHp1eFBkN19MUlcxRVd6YVJuUUg1aklZc2thdjQtcmRmc2stazBSX1kxdlUyQVh30gGIAkFVX3lxTE9YcTNaUEgtT3g0bXd1THJ0UmprMXU4Y2NOZmlsM2h6S0Q0cU5DcGpDVk9BenFadm9MMml6c1ZOWW1ha0FGenhRTk43eHNScXpWb2F2WWRLNkowek1iVVRvS2t4bFJSNFRsdGNJYkluM0ZLSDl5ZE0ySjVpZjNaTGgyeTRIMHZsSmtYWXB2RnlkQXctUFdhX1B3WkVRZC1kTndJSFlBODBaV0Q4RnJzR1BsdmpNTEZLVWQxN21qckI4N0hkQ3NFOHVIUGUyeTRRQVJIQ0g5VGUtNVg1LXJfaFVHcWxDbGVvcUY0MWE5Y2k5Y04tMDZGUS14a1BVVTF3bXRXWno0X0ctaw?oc=5",
-      "data": "26/10 07:00"
+      "titulo": "Fluminense sofre com oscilações de Acosta, Ganso e Savarino em momentos decisivos da temporada - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYnl2eHlBVlM1R1F2MExWWVNCQllBbm5uWDFGUkt3RmFsMTVSWUh1QnFZRmxWem1weGlfWmpaUjFGN205ZTJrZi05aWhtbmgtUFEyTWhtUTc4TnFPV3FCSFRXUHdTR2FGLVNSZ1Vlelh4WkVWSnFVUWVyTzFWdm1qSVZoWFVtb21LamVEYzRVZVFmSE5GMGNGaVlhVkNjQzJEUmdmQ01sMnNoVjk3eDU1ZVhIbWJGTU1YYWMwalNFVS0xcDRRa1M5VmpXVEVyWEl5blVXdmYzVFpYVUtscS03ZUFveDNrTHA1bC1zNldQVzA5Uk5XSU400gGGAkFVX3lxTE5UcnZxYWJmejBsTGFTQlYxS051YVRtU2lUWjF3WFVFekVZMXczYlBTeU55U1lxSWhfdTl0NFhjeGRQZHlzd2czV28wbVJMZ2Ffc3B2Z0VESUlxazZVUmc4VU1OcF81dVRVdmJDYzZRTXlCekdUZURqTFVYLVg0VEdvZlQ1OFNWLWU1SzF3VEYwcVppUkRBZGxaRnhrbF9aY19tbW9TdS1ETDYwVjRjbHd1S0ZEWWp1ZmVfcWZMSXdQcUtMc21TSF9wOEc1T3g4TWR3RTU0bkQ5dTVEUlAzRzZjckx4RTcxTmE2am91QXVEalVjRVJOQkJoVHA4dThHUmt0Y1lTdEE?oc=5",
+      "data": "26/10 18:14"
     }
   ],
   "avisos": []
