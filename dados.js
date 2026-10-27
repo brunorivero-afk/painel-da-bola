@@ -1,49 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/10/2026 14:20",
+  "atualizado_em": "27/10/2026 18:45",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "14:30",
-      "competition": "Campeonato Italiano",
-      "match": "Sassuolo x Lazio",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "16:45",
-      "competition": "Campeonato Italiano",
-      "match": "Roma x Cagliari",
-      "channels": [
-        "CAZÉTV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "16:45",
-      "competition": "Campeonato Italiano",
-      "match": "Torino x como",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "16:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Bradford x Peterborough",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-27",
@@ -98,6 +55,49 @@ window.PAINEL_DATA = {
       "channels": [
         "CANAL GOAT",
         "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-27",
+      "time": "14:30",
+      "competition": "Campeonato Italiano",
+      "match": "Sassuolo x Lazio",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "competition": "Campeonato Italiano",
+      "match": "Roma x Cagliari",
+      "channels": [
+        "CAZÉTV",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "competition": "Campeonato Italiano",
+      "match": "Torino x como",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-27",
+      "time": "16:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Bradford x Peterborough",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
@@ -590,14 +590,14 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.7,
+      "temp_max": 21.5,
       "temp_min": 14.1,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.3,
+      "temp_max": 17.6,
       "temp_min": 12.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -605,29 +605,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense vê chances de Libertadores caírem para menos de 50%; veja números - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGNiZXg0NUZmQ3V1ZFdXN2pmTzJONXNObHZXVGxuYXk1MzFBOW9XV0tIZE9aMC1ibUNOcHBFZm1DVFVVYkFXaWhHdi1qVGtqTk1GUjQtMnhERVNENV8wSkFjLVA5T3dSMDdPYnpMMHE2aVItNkRRM2ZEYmJTcWlxSnlSN3BvZExjZVJxcU5UTnpPc0JYaGJGbXNLZ0FvUGtWbzMw?oc=5",
-      "data": "27/10 12:00"
+      "titulo": "Fluminense amarga pior sequência no Brasileirão 2026; veja detalhes - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanhDaGo4WGVFa3REci1zODQ2Nm13d3BMS1dxSF9GVkY0Y3VnWmNNTUdFZ2RGV0JPRnNUcXNoMzdJTVowMlFfbDd2X1FmRFpsUkdKTnA3QnlJbWxaNkJYNFhmV2NqSFd4N05SUVlfb3hwcXBVc0NzV1FnaWtrMnpNUTY5cEU0ZzZHR05MQkQzcGc4RW4wSkxhZw?oc=5",
+      "data": "27/10 14:00"
     },
     {
-      "titulo": "Fluminense-PI renova com atacante João Vitor e mais quatro jogadores para 2027 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTlYyR205TExwQjJhYjdYNzRxd0FqWXN0RDk4aXh1b3R3bDd0VFZQV3BVR2NKV2p6eTJkMTJUZ19vNWZMM082NGlvUnl3N2RYQjZIdHhNNU1hcThKdzdXRnlaYWgyTU9FUHpzME5pWGlQNHhCcFlwbXl1aXY2UkxsejZONHFVa3EtS2RweFYzQUxPZmU0YnhLUEFvUlQ4bm9GenNOZ18xcGJyZWZJWENrSWRLUFZ1SmtkN3Z4TXhoQmkzTlJnSEZVdU1OYk5Xd1RlNnhBT3JxMEU1YjFwRFN0R19SWkRqZ1BmWTg00gH6AUFVX3lxTFBQV280MEZLVWQxWXNhLTJaWjNvcWZ6TDh5ZGVERmh6WEQ4UmlTR25wVkYwbWZpem1EcXhjc19aV3A5dTJuYnVQRGhlbVBuYjRpMklzSThzM1pPUHc5Q0dlcUJhQzNoX1ZNMFZjVjdmVDg3dGxkY3RsazZpa3ZaakpJbGZIcHlweFJfUmNYTDdoZ2xKZ2tCTDcwVm1yRkJaYlRnMzdtQzEwZDdWcC1wN29zUVlCWmVrWWljSUltcTZxUldRMTBITHBvcGxuYU5DVW93Z25ESVdtdmg4M3VVSEFjZkVnaE0yaVdoNXF2cUxjSlVId21PaGxRNkE?oc=5",
-      "data": "27/10 16:45"
+      "titulo": "Guga alcança ano com mais jogos pelo Fluminense e se salva em instabilidade - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU3dTdW1xSE5YZ0dSU3pFWXNqQnIyeVlWcGRKRkt0TVljRmdQcE4xN1VYLUlDVks4VGJzU1dGR1FOUUEyN2xhQjFWam9PeTBOYl9lbXoxOU5ZZTkzMUh1WDl3UFJDOVBoazc5Zk92SUozOG9wVFRXR1dHU09BSy1qaXBRck52M3g0SUNTaTQ1dWZyVV9PMUlfamV3bFhMdk1sZkd1N1BJb2txWHpWdUQ1UU92RTk5cGF4V3RtMTU2dlJxWVRQRTZPbVNyZzhsSkM4cTdyN1lxcVpXM09NNFJR0gHuAUFVX3lxTFB3MlRubmZMRFZYdkpoeWZ5YUJZV3hqb0I2emxwVkxfX2pRell5ZVdoVjZMRXU3ZEotMHRBbXdzVlFTZHJnTlBwcjhIWk5wdS14SDN5bGxveGlQOFZncmpoMFpZel96LUZCaXF5VkY5dFc0RkVFNkFaTXJURFUxTWJ5V2hYOWk3T25jcFZtc2RUTzdNb3l6aUJES2FEZGZtT0VwNDdXVV9fMEk3dzliUGswQk1pUExkazZBSWJYN2V3V3M0T0VGZ21FOGtSbVhsM0VQNWMzMmk2dklmZVNDOGtodEp3VDVhSGs2MldqVWc?oc=5",
+      "data": "27/10 17:38"
     },
     {
-      "titulo": "E o Alisson? Há quase três meses sem ser relacionado, volante tem futuro incerto no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNUZjNmZBaXhSOWNHbnoyZk12andNXzJMZE9oWFZqRktUZkxwNzFzcW9lcHNJZVZqYWVSRFZ6a1NZazhUOVVKQkFDMWxtNlpUcTVoSjFnRGxTdlItTG53QTNJcmt1TEk2enczc3FGYnpwWUdqb3dfTm41QVFzTDAtZ3RQSDFlU0RERTljQzY3NXFVbW8tWWM1RGxXOEx4UTRONkh5bDZfN1dBd1kzMk9ZZUNFYTZOazN5TTB1bFVxSjljU0h5LTZobVZBSmdzcjFOQlJGOW9YMDJVVDRJUndnR1BvX3RodzRlakRYRzhiVVpsX1VMX2fSAYQCQVVfeXFMTXZJMmVFZjVBa2JtRS11T2pLSmVxQzRveVl4OHJmSDU0WllJa1F6dzRfcHlWUEV3OEtHV1BhZF9GSjBWNGhPalctME9jYVRINXZqV1pxTW9fWVZTaHlQWFB5ei1lNTlHQWJia2tfTEl0NVMteHlTdkpjcllwRnB1bHdyVEU5Q1BvNFE0RDJkZlRCQjl1YnFDWXRUSjdqbHJFempkaVhlN2tRNzJLR21wMV8tMHR5ZjlWQXlLSkp3cmFGZTVBcndEcWtoMlFZN2JUcXR5Q2N1Z0d3THN6WFM1U3ZyRjZBVlFpUGdnMkhpeXNwbGk2Y1UwRjdBZk1XVmtpMnQxQ1k?oc=5",
-      "data": "27/10 07:00"
+      "titulo": "Times da Europa querem contratar joia do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaFFkQ2lqZllQYmhUT3h6Z2R5STZrckVJMUZxbW5MbjRxSlN1TFpWVkItREMzTWYwMk5TdWg4RkpTbS1VYUZBRkhBOUpSNUxnM1hqaFp2d3dScnAyUU5CMmhZRjRvVXk1T0lUaWJHSVNCak04V2lBaTRpLVFzWDVYWkFBSkdZcm9nU1VlMVhoZ25uYnhmLWRwbWxBQjRJM3h4ZEhUUUtNS2I0TWRZYVEyQjRkcHIxYXNqeDQ2Q3ZGT2p2bzFiSWltSFlVZzlwaGtnc2FrUzJ4MFRtZw?oc=5",
+      "data": "27/10 18:01"
     },
     {
-      "titulo": "Fluminense não deve pagar R$ 15 milhões por ‘pupilo’ de Zubeldía que não atua há cinco meses - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGFaMDFNUzFQWmEyVjZDNmtZYlFwdXFXWVRVSXAzOUJKYUk0aXVhc3p0VTV2UmxSdkxJTWF6NG5vSkdESU0tYVdqVERRZlJJZ0FVSDVyVUV6VEVCZ2VQU2Z1SGNicWlLMzRJZ3JuVlFWeHlocUdOSjBtVGNNQTc3ZTh3NjBxN0ZZeUlCX1ZoVndVZWtfTkk0Z3d2aktoOHZkWFUwVENLUk5WZTFQSFB1WU50WHhLMjQ?oc=5",
-      "data": "27/10 13:02"
+      "titulo": "Richard Wendel encara semana de clássicos antes de seguir para Copa do Mundo Sub-17: 'Muito motivado' - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlVrQVdmX21wYzJhZ2k1eVdndHE1aWRjLXpnWVZweFhOZk9wa1BESUNTQXFLNno1Szl6Z2h0Mld6Yk13a3Z2M3hCQTVGa01NVjlSVmtieDVDeEF3QXhGZUYwUWI0OVVIdXhHN0N2SXE1ZGJ1U1Z1U2k0Zk02eUE3RjJPZlNuWmdMa3EzWXRrNFMzaWRaUGhCZVdHWEwzR2J5a3pkdzAyRFRYbnJxdWZ5cUY2N1cyZDNFODBEYVdVZmtaLTVTYm9tMFd6WUt1ZktBbkE?oc=5",
+      "data": "27/10 20:00"
     },
     {
-      "titulo": "Sem espaço, Alisson tem futuro incerto no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2N4Nm45OXJSNWp2TWdJcEo0eW9tVzhhbmR0RVdtd25NMFdLYmo5WEQ1SUNTN01Jay00dUkzQ2RSUXZraWg2LU5WZEdZMUpXT1JLS0tNM09UajUtNkdlZHNRTDJOVlBNdjd0dDlXcXVqM29rbHZ1Q0hHd1liUXUtUmdZc0Q3Qms0Ul9GRW1HLUVJbGJLX2tGT1pXdmFDY2MyUDJWNTF2V0VBMDVmbU56OEx6YlhBSEt0NUZxM1N6VE0xajZySm50Y2s3cld2QjFRLURrUGZkVjlTZw?oc=5",
-      "data": "27/10 13:24"
+      "titulo": "Presidente do Fluminense revela planos para 2027 e aponta: ‘Vamos estar na Libertadores’ - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVFpPNEtqd0VGUkZUVjR6WEEtMzh0akZWdWVzRllQRUpGclFDa2w0YnQ2a19BTFhHMEZ3SWNQdkZfd2lrUUNXZEVDcm8wa0dRSVFvZmpkcUhodnVoSlBpZFA5WVFUaW1KVF82Y19zYnp3Y1NvLXRCU0RiLVY4Q3pXbEN3R0NPWU5oenUxdmtRdVpmTzAtUnBmandRQzdrbVJsT1FBNTlpTFk0MmFYMklKSUZnS0ZxT1lIbDM4bmlhU293aDM0d1l1QVJxZEpNMHNkbG9WS0h6MFE0cnk2X3MtWWtaczZuREIwUmRJRGVWdy04YlBrV2hGR0NUa1hxOFFkSUNBQXZn?oc=5",
+      "data": "26/10 18:17"
     }
   ],
   "avisos": []
