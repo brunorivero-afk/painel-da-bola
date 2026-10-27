@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "27/10/2026 02:55",
+  "atualizado_em": "27/10/2026 08:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -103,6 +103,16 @@
     {
       "sport": "futebol",
       "date": "2026-10-28",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "ADT x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
       "time": "14:30",
       "competition": "Campeonato Italiano",
       "match": "AC Milan x Bologna",
@@ -162,6 +172,16 @@
       "match": "Servette Chenois (F) x OH Leuven (F)",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "15:15",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x UTC",
+      "channels": [
+        "FANATIZ"
       ]
     },
     {
@@ -252,40 +272,9 @@
     {
       "sport": "futebol",
       "date": "2026-10-28",
-      "time": "18:00",
+      "time": "17:30",
       "competition": "Campeonato Peruano",
       "match": "Alianza Atletico x Deportivo Garcilaso",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "18:00",
-      "competition": "Campeonato Peruano",
-      "match": "Cienciano x Atletico Grau",
-      "channels": [
-        "YOUTUBE",
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "18:00",
-      "competition": "Campeonato Peruano",
-      "match": "ADT x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "18:00",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x UTC",
       "channels": [
         "FANATIZ"
       ]
@@ -385,6 +374,17 @@
       "match": "Toronto FC x DC United",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "21:00",
+      "competition": "Campeonato Peruano",
+      "match": "Cienciano x Atletico Grau",
+      "channels": [
+        "YOUTUBE",
+        "FANATIZ"
       ]
     },
     {
@@ -566,58 +566,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.8,
-      "temp_min": 18.7,
+      "temp_max": 22.7,
+      "temp_min": 18.8,
       "chance_chuva": 29,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.1,
-      "temp_min": 19.0,
+      "temp_max": 23.0,
+      "temp_min": 19.4,
       "chance_chuva": 80,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.1,
-      "temp_min": 13.9,
+      "temp_max": 22.8,
+      "temp_min": 14.2,
       "chance_chuva": 92,
-      "condicao": "Neblina"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.3,
+      "temp_max": 17.5,
       "temp_min": 12.4,
-      "chance_chuva": 92,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Chapecoense x Fluminense pelo Brasileirão: onde assistir ao vivo, horário e escalação - Terra",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOelV5cHdCRWpIUlY0WGNzS1IzX2ZZQ2psMkFXUG1BUUxnUUFfT3BoS3l4RHk0U3UxWGhPd0pkZTdydnA2ZzFseGZ3bFlQUXpBM2ZucUtHb3Zna2pSaksxRHFaVENTaFllLVljUmdYYUVUcm1NeW9FVUFPZFNUNDlrR3YzckcwQnRUTmdnQTJuVEdGV2lnWkFLR3JCWkdHLVZyNTVKUXB5ZHF3bDBCWjNrUkNYRTFOMElwZWwwQUpVbE9sTDdqRmZxaUUwdktlS0hpOTd0UGQxcE1uY3gyNDJubzVCNVVpUzZUU2ZCMWhDcGV4R2RTTEFFVlBWZ0FkUGJO?oc=5",
-      "data": "24/10 20:56"
-    },
-    {
-      "titulo": "‘Fluminense não tem ataque’; influencers tricolores reagem à derrota para a Chapecoense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDlYNllDcml6UHdpX0VTNUVoTThlc1BIb3ZHa0EzYl9Ocm14a2JJc1Rfc0RtR2M5elpEWjdNRG1sbXNPODBKV1dZTjdnblpMUGFfOUpucGRhVkI2bzUwTUhrZTZzbjN6TkdTdExiOHRXdjVTbzc3dUtoTnltMlMxalA3djl6ZmNSRnJXYVNkbWxKTUhCUzZLdHFVME82LS1GOWJfTW5WY3VDMjVYRGdubw?oc=5",
-      "data": "25/10 16:17"
-    },
     {
       "titulo": "Análise: Fluminense eleva nível de 'jogo da ressaca' com atuação melancólica em derrota para lanterna - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeng3R3NCOEc3dEMzdHM3RGRhVjl4Vy1pMUJtdnd0c0d6WjRQbXJPR3NDdURONC1SNU41MzhndEF6dXZqcUJUOFdVbXBzSGJ1S2k2NWM0S1BHbVh2UHVnLUpqWkdtWGRmQUpxUTd0ZHFxQWowT19FR3UzamN2TFAxWWcwZ0toWTU1YTZ1d1FUekdqdVk4Ty03bWtudFFtQk5CWW15WHkzSmJxb1F3UkxGbmNhdldtYWtTbFk2Z19ReG9lcnFPdzdMN0hmeXZfZnE5VWFabjBzY3dSY1NmN2lYV05hU3B0RHpuWnhReFVoTmFaUWFFTnc0VTV4bDExWGZTWkJ4LW1pc9IBlgJBVV95cUxPS2xDQmhBajVoVHgxeGd1aThIMzUwb2lURmdFOU5BdkpLTkNCVjlrTjVSaGJ3dmExZWRqN254cUVpTkJPUWd0cTZKQ1JVUWhqN1V2RS1sLUE3WkF3VEFWbTdGQ0lnZVBGLVlxZW5jSEpCVHpSbnFZMWN3UWhOaWpSRkk0cWd4aDlUUkxpRGdpM3Q5WlNlc0VHcXV4NHAydUIweV9QSDBLdzJSbGlJRm1MNEVyTEVSY0dFVHZMLW85ODBYZlFTQ1lta2FKQlMzaHU4VmVvRVdLVDZxTVBFMWFqYmhHeUZ1VzdLRnlVTW05TFhlMjVHU1ltcGw0ZDNndlhSN0x0NGlpdy1QR1MzOTZoM09pc0ctQQ?oc=5",
       "data": "25/10 07:00"
     },
     {
-      "titulo": "Mattheus Montenegro faz promessa para a torcida do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0lUWEZXNGtXRVBjMDYtM1NfLVc4MU5JcWUwdGF5ejNZV1htUTVMa2Z2N19kWjZvQWFQQVRuelZmVHQteFlwSDROcEdic3UyRTVPcjNVY2pJeDlobjMxQ0xZeTNoZktRREZsWW83VkRieUlZZWJEQWpVU0FxWWJLMjN1WElxMUJKQ0MzQmNFZ1ozeE9nSWFkbEpxV21ha3BDel90bTNXemlzUmpkR1Fpd3hRX25WMXBRb0M5R0d6S09Lb0o5elc2Z3FyVHZoZHZPZFEzQ24xQzFLMncxOXpkYWxqQldNdzA?oc=5",
-      "data": "26/10 23:11"
+      "titulo": "Chapecoense x Fluminense pelo Brasileirão: onde assistir ao vivo, horário e escalação - Terra",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOelV5cHdCRWpIUlY0WGNzS1IzX2ZZQ2psMkFXUG1BUUxnUUFfT3BoS3l4RHk0U3UxWGhPd0pkZTdydnA2ZzFseGZ3bFlQUXpBM2ZucUtHb3Zna2pSaksxRHFaVENTaFllLVljUmdYYUVUcm1NeW9FVUFPZFNUNDlrR3YzckcwQnRUTmdnQTJuVEdGV2lnWkFLR3JCWkdHLVZyNTVKUXB5ZHF3bDBCWjNrUkNYRTFOMElwZWwwQUpVbE9sTDdqRmZxaUUwdktlS0hpOTd0UGQxcE1uY3gyNDJubzVCNVVpUzZUU2ZCMWhDcGV4R2RTTEFFVlBWZ0FkUGJO?oc=5",
+      "data": "24/10 20:56"
     },
     {
-      "titulo": "Fluminense sofre com oscilações de Acosta, Ganso e Savarino em momentos decisivos da temporada - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYnl2eHlBVlM1R1F2MExWWVNCQllBbm5uWDFGUkt3RmFsMTVSWUh1QnFZRmxWem1weGlfWmpaUjFGN205ZTJrZi05aWhtbmgtUFEyTWhtUTc4TnFPV3FCSFRXUHdTR2FGLVNSZ1Vlelh4WkVWSnFVUWVyTzFWdm1qSVZoWFVtb21LamVEYzRVZVFmSE5GMGNGaVlhVkNjQzJEUmdmQ01sMnNoVjk3eDU1ZVhIbWJGTU1YYWMwalNFVS0xcDRRa1M5VmpXVEVyWEl5blVXdmYzVFpYVUtscS03ZUFveDNrTHA1bC1zNldQVzA5Uk5XSU400gGGAkFVX3lxTE5UcnZxYWJmejBsTGFTQlYxS051YVRtU2lUWjF3WFVFekVZMXczYlBTeU55U1lxSWhfdTl0NFhjeGRQZHlzd2czV28wbVJMZ2Ffc3B2Z0VESUlxazZVUmc4VU1OcF81dVRVdmJDYzZRTXlCekdUZURqTFVYLVg0VEdvZlQ1OFNWLWU1SzF3VEYwcVppUkRBZGxaRnhrbF9aY19tbW9TdS1ETDYwVjRjbHd1S0ZEWWp1ZmVfcWZMSXdQcUtMc21TSF9wOEc1T3g4TWR3RTU0bkQ5dTVEUlAzRzZjckx4RTcxTmE2am91QXVEalVjRVJOQkJoVHA4dThHUmt0Y1lTdEE?oc=5",
-      "data": "26/10 18:14"
+      "titulo": "Marcão é direto após derrota do Fluminense para a Chape: ‘Noite para esquecer’ - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMXBVeGRCRk04cFBHR2lPa25pTzRRM3MyaDFhbFVOQzVZSzQzUUpIUnJhb3VtNzdwQTN0OWFNVWRSOG1XREl1ZndTdWN4RXg3cGM0M2QyN01jSnd1aWs0RlR2STQ2dGV0SVNiNGJkb3ZPN2dVYm5tOFdJQlRlN3VhMnBrWm9vTWhSMnRSdVM1MFRNQ0xnWU5OcWVqYURYNDBuSHBmZG5Wd040a2VfQUM4bHlGRFhKckhGUTBVdUlvM2RKUGRrVDVfLTNwM2pfaFRGd0t4VGJVVDZ5NWUwajRDWGhoQWZWN2h3MmdJeUF6cC1QSjZmeDVULQ?oc=5",
+      "data": "25/10 01:37"
+    },
+    {
+      "titulo": "E o Alisson? Há quase três meses sem ser relacionado, volante tem futuro incerto no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNUZjNmZBaXhSOWNHbnoyZk12andNXzJMZE9oWFZqRktUZkxwNzFzcW9lcHNJZVZqYWVSRFZ6a1NZazhUOVVKQkFDMWxtNlpUcTVoSjFnRGxTdlItTG53QTNJcmt1TEk2enczc3FGYnpwWUdqb3dfTm41QVFzTDAtZ3RQSDFlU0RERTljQzY3NXFVbW8tWWM1RGxXOEx4UTRONkh5bDZfN1dBd1kzMk9ZZUNFYTZOazN5TTB1bFVxSjljU0h5LTZobVZBSmdzcjFOQlJGOW9YMDJVVDRJUndnR1BvX3RodzRlakRYRzhiVVpsX1VMX2fSAYQCQVVfeXFMTXZJMmVFZjVBa2JtRS11T2pLSmVxQzRveVl4OHJmSDU0WllJa1F6dzRfcHlWUEV3OEtHV1BhZF9GSjBWNGhPalctME9jYVRINXZqV1pxTW9fWVZTaHlQWFB5ei1lNTlHQWJia2tfTEl0NVMteHlTdkpjcllwRnB1bHdyVEU5Q1BvNFE0RDJkZlRCQjl1YnFDWXRUSjdqbHJFempkaVhlN2tRNzJLR21wMV8tMHR5ZjlWQXlLSkp3cmFGZTVBcndEcWtoMlFZN2JUcXR5Q2N1Z0d3THN6WFM1U3ZyRjZBVlFpUGdnMkhpeXNwbGk2Y1UwRjdBZk1XVmtpMnQxQ1k?oc=5",
+      "data": "27/10 07:00"
+    },
+    {
+      "titulo": "São Paulo terá Alisson de volta após empréstimo ao Fluminense? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN0FOb1FFSjB4UlZ4TlVaVHhPSmxWNGJKVG93dHdZcTFUbEJTMGNPbmZmcUN1bGpZel9UUkdKazVmLU1iV29vVGo4dDBrUm9ReV9IR0dOQXgxUGtndm9NUTROYk9SRmN3Wm5kNElwOUR5UE1WbEZjNHZvLUJ0cU1Wd2V0M1dJbXB6UllBM0FSMlozeXNkb0VjeTFxS2hUeF9XWmdZbmd2cDBhcDFhLXdvc2lIdVpfUlhLajFHQjQ4VjItSHBBQkpIbEFFOTRxWDRKUF9lWFBUNDA4V0tVby1acTNTRjhwTVE4enc?oc=5",
+      "data": "27/10 10:31"
     }
   ],
   "avisos": []
