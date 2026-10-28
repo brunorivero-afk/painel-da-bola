@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/10/2026 03:36",
+  "atualizado_em": "28/10/2026 10:46",
   "jogos": [
     {
       "sport": "futebol",
@@ -62,6 +62,7 @@ window.PAINEL_DATA = {
       "competition": "Champions League Feminina",
       "match": "Bayern Munich (F) x Real Madrid (F)",
       "channels": [
+        "YOUTUBE",
         "DISNEY+"
       ]
     },
@@ -197,7 +198,6 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "RB Bragantino x Chapecoense-sc",
       "channels": [
-        "PREMIERE",
         "PREMIERE 4"
       ]
     },
@@ -208,12 +208,9 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Fluminense x Internacional",
       "channels": [
-        "GLOBO",
         "RECORD",
-        "PREMIERE",
         "PREMIERE 2",
-        "CAZÉTV",
-        "GE TV"
+        "CAZÉTV"
       ]
     },
     {
@@ -223,8 +220,8 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Santos x Palmeiras",
       "channels": [
-        "PREMIERE FC",
-        "SPORTV"
+        "SPORTV",
+        "PREMIERE FC"
       ]
     },
     {
@@ -306,8 +303,8 @@ window.PAINEL_DATA = {
       "match": "Bahia x São Paulo",
       "channels": [
         "GLOBO",
-        "PREMIERE 5",
         "SPORTV",
+        "PREMIERE 5",
         "GE TV"
       ]
     },
@@ -483,8 +480,19 @@ window.PAINEL_DATA = {
       "channels": [
         "XSPORTS",
         "SPORTV 2",
-        "ONEFOOTBALL",
-        "CANAL GOAT"
+        "CANAL GOAT",
+        "ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al Riyadh x Al-Qadisiyah FC",
+      "channels": [
+        "CANAL GOAT",
+        "YOUTUBE"
       ]
     },
     {
@@ -537,8 +545,8 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Atlético-MG x Cruzeiro",
       "channels": [
-        "PREMIERE 2",
-        "PREMIERE FC"
+        "PREMIERE FC",
+        "PREMIERE 2"
       ]
     },
     {
@@ -569,7 +577,6 @@ window.PAINEL_DATA = {
       "match": "Grêmio x Athletico PR",
       "channels": [
         "SPORTV",
-        "PREMIERE",
         "PREMIERE 3"
       ]
     },
@@ -632,48 +639,153 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesc-Flamengo x Mackenzie",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Osasco x Londrina",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "09:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal Feminina - Maceió",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "09:50",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Vôlei de Praia - Semifinal Masculina - Maceió",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "15:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Montes Claros x Norde Vôlei",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Guarulhos x Cruzeiro",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "18:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Goiás x Minas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "São José x Campinas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Londrina x Sesi-Bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-10-28",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Norde Vôlei x Campinas",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.4,
-      "temp_min": 18.7,
-      "chance_chuva": 0,
+      "temp_max": 25.3,
+      "temp_min": 19.5,
+      "chance_chuva": 1,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.3,
-      "temp_min": 19.1,
+      "temp_max": 24.9,
+      "temp_min": 19.2,
       "chance_chuva": 0,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.3,
-      "temp_min": 13.6,
-      "chance_chuva": 56,
+      "temp_max": 19.9,
+      "temp_min": 14.0,
+      "chance_chuva": 41,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.2,
-      "temp_min": 12.3,
-      "chance_chuva": 78,
-      "condicao": "Garoa"
+      "temp_max": 22.3,
+      "temp_min": 12.9,
+      "chance_chuva": 49,
+      "condicao": "Neblina"
     }
   ],
   "noticias": [
     {
-      "titulo": "'Missão é voltar à Libertadores', diz presidente do Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEdDVjZ1SnJUX2ZCYUViMzdLTTVZNFBURV9xdkZsbF8tOXJxd2dWTktYa0xXOVJVUlRGcU5zeXltanUyT2NjUG9EeHl6TVNhdGpBNnk4YmZxVHI2V1M4OXFhUzlKYWZacWNmbE9abFhQT3Zic3hwdUhaOU1HUmNRek4zdVhqNjdKeHRsQ2E1YWRBNUhxZ2dOaHQtTVpEVlhER1dyMVBlQmw?oc=5",
-      "data": "25/10 14:44"
+      "titulo": "Fluminense acredita que Martinelli volte a jogar ainda esse ano, informa jornalista - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnpmOEhpZ083TUVULVlOZzNWSHVETWRiak5nQ0tYOE9Jb281VG9DX3diU2NEMlA2d0xhQk5UTHJ1S1BSSjY3WDM2ZWtwX2pTT3FYVEw1SUxlZlZPV0NkaEdJc21LZ2tENXl6Zi03dFBJaVlzQTkwZzFEeHRPeFNNa0dmSXQxVjZ4eGxlUlVkdzBXRVAxRFE0eTMxOUdMUXBVcTlmTm5TQmwxaWRaYlE?oc=5",
+      "data": "28/10 00:00"
     },
     {
-      "titulo": "E o Alisson? Há quase três meses sem ser relacionado, volante tem futuro incerto no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNUZjNmZBaXhSOWNHbnoyZk12andNXzJMZE9oWFZqRktUZkxwNzFzcW9lcHNJZVZqYWVSRFZ6a1NZazhUOVVKQkFDMWxtNlpUcTVoSjFnRGxTdlItTG53QTNJcmt1TEk2enczc3FGYnpwWUdqb3dfTm41QVFzTDAtZ3RQSDFlU0RERTljQzY3NXFVbW8tWWM1RGxXOEx4UTRONkh5bDZfN1dBd1kzMk9ZZUNFYTZOazN5TTB1bFVxSjljU0h5LTZobVZBSmdzcjFOQlJGOW9YMDJVVDRJUndnR1BvX3RodzRlakRYRzhiVVpsX1VMX2fSAYQCQVVfeXFMTXZJMmVFZjVBa2JtRS11T2pLSmVxQzRveVl4OHJmSDU0WllJa1F6dzRfcHlWUEV3OEtHV1BhZF9GSjBWNGhPalctME9jYVRINXZqV1pxTW9fWVZTaHlQWFB5ei1lNTlHQWJia2tfTEl0NVMteHlTdkpjcllwRnB1bHdyVEU5Q1BvNFE0RDJkZlRCQjl1YnFDWXRUSjdqbHJFempkaVhlN2tRNzJLR21wMV8tMHR5ZjlWQXlLSkp3cmFGZTVBcndEcWtoMlFZN2JUcXR5Q2N1Z0d3THN6WFM1U3ZyRjZBVlFpUGdnMkhpeXNwbGk2Y1UwRjdBZk1XVmtpMnQxQ1k?oc=5",
-      "data": "27/10 07:00"
+      "titulo": "Inteligência artificial projeta vencedor em Fluminense x Internacional - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejFyYXlwQl9zTmtqam1rdGhKU3hTcmZVeW9wZVg5YV9DNFBZNHdSdTFFR3o5YzVLRGNyYWQwVVhXTkhHT2VBbF9OZDhKaW1qZGY4U0tEQ3RXVGFtMnRNaU9LMmJtWTJNdVMwbk5RNGVVSkFjdmZhMWJXTks4b01nZEg3bXpfaE5lZjR5eFNkeEdiRVpuNWZISHlqS1U5dlZsMHZtNUtHd0ZkOWQxZnlwRm1YRmF6OEdp?oc=5",
+      "data": "28/10 10:40"
+    },
+    {
+      "titulo": "Lateral desperta interesse europeu, Conmebol aplica punição e dez jogadores entram em alerta: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPa1EtMEFMelJCLVVaNG1fWDl6Q1hXRm9FS05rbDNUeWd2WGdqU2txU0xFX3dtT2tYNHNLLWpkMHI2SXctUWUwUm9jWmxhalRtY3JjaUpPREdDWGoyRUJibE1iRTk0cWNKVEJMalVSbm5lT3BZNTBvT3BadGdtTVNwSEFWVVhrbUJZYjktQ09nWXVNeC1IQzdiLVh0QlZIT1NsOHo1em5lQnFDVE1GdzVobkhuQmp6aWQyY2l0eE5DdHZHZjFqRUdIOHNDQlkxa3hWclBERnFpU3ZhVG5UU1BfZTBhNWxzdDRYNEFPNkh2ZWNWR3BpZi1qR2FOa2ZSMmh5SFhlM2plUnZiOTdaQnFnV2dMV2w3VWxUMVktM1ZjR2JFN0MxWHBreE1fd2gzX2tjOG0tMVQ2SzRpRElu?oc=5",
+      "data": "28/10 12:26"
     },
     {
       "titulo": "Fluminense precisa de aproveitamento superior a 70% para atingir pontuação \"mágica\" para Libertadores - ge",
@@ -681,14 +793,9 @@ window.PAINEL_DATA = {
       "data": "27/10 13:00"
     },
     {
-      "titulo": "Guga alcança ano com mais jogos pelo Fluminense e se salva em instabilidade - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU3dTdW1xSE5YZ0dSU3pFWXNqQnIyeVlWcGRKRkt0TVljRmdQcE4xN1VYLUlDVks4VGJzU1dGR1FOUUEyN2xhQjFWam9PeTBOYl9lbXoxOU5ZZTkzMUh1WDl3UFJDOVBoazc5Zk92SUozOG9wVFRXR1dHU09BSy1qaXBRck52M3g0SUNTaTQ1dWZyVV9PMUlfamV3bFhMdk1sZkd1N1BJb2txWHpWdUQ1UU92RTk5cGF4V3RtMTU2dlJxWVRQRTZPbVNyZzhsSkM4cTdyN1lxcVpXM09NNFJR0gHuAUFVX3lxTFB3MlRubmZMRFZYdkpoeWZ5YUJZV3hqb0I2emxwVkxfX2pRell5ZVdoVjZMRXU3ZEotMHRBbXdzVlFTZHJnTlBwcjhIWk5wdS14SDN5bGxveGlQOFZncmpoMFpZel96LUZCaXF5VkY5dFc0RkVFNkFaTXJURFUxTWJ5V2hYOWk3T25jcFZtc2RUTzdNb3l6aUJES2FEZGZtT0VwNDdXVV9fMEk3dzliUGswQk1pUExkazZBSWJYN2V3V3M0T0VGZ21FOGtSbVhsM0VQNWMzMmk2dklmZVNDOGtodEp3VDVhSGs2MldqVWc?oc=5",
-      "data": "27/10 17:38"
-    },
-    {
-      "titulo": "Fluminense recebe consultas de clubes europeus por joia de 19 anos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVBzSW5paWF5R2ZwUFB4UGJvbzlwYmZKQkpEdHpyZ0xiZU5QX25WeFpGM2dzbUxsM1FxeDI2dDdETVk3bHJrcHZPWmRrODQzdUdaa3pZVmFldWRFUkRfQ2xVN2c4X01RYmFnd2JDNmtCcEVWX2Z5TExSc2RMdUN4UmNteGR4dElEWU04MzM2WVJlRTNUNXN2dw?oc=5",
-      "data": "27/10 13:38"
+      "titulo": "Brasileirão 2026: informações importantes para a torcida antes de Fluminense x Internacional - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmN1UUxvbkl4Vi1yQmtqalltSUUxZ2diYXNDUFBubW40emo2UU12WXNaeENTSFlkaXhXYlJhQTJvZEN3OWVhZXVPcEkwdFFjUWNNdURwSjFCel9rSFNnc0lld3FSNkhPbzM0ZkVMdG9WNnlyMVBOZGY2RTk2UmNjV0hZMXRfWV85VWJDWlRCdnprMVlsSHdyejRaaThBM3dldnl0a3Bwa0JpaEZxLVg2Z1BZSkFTSUR1QmVlOW9PRm1qSHNNNTQ2QQ?oc=5",
+      "data": "28/10 11:58"
     }
   ],
   "avisos": []
