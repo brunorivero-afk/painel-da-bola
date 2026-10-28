@@ -1,186 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/10/2026 16:17",
+  "atualizado_em": "28/10/2026 20:50",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "14:30",
-      "competition": "Campeonato Italiano",
-      "match": "AC Milan x Bologna",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "14:30",
-      "competition": "Campeonato Italiano",
-      "match": "Venezia x Inter",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "14:30",
-      "competition": "Campeonato Italiano",
-      "match": "Parma x Udinese",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "14:45",
-      "competition": "Champions League Feminina",
-      "match": "Chelsea (F) x Roma (F)",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "14:45",
-      "competition": "Champions League Feminina",
-      "match": "Bayern Munich (F) x Real Madrid (F)",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "14:45",
-      "competition": "Champions League Feminina",
-      "match": "Servette Chenois (F) x OH Leuven (F)",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "15:15",
-      "competition": "Campeonato Peruano",
-      "match": "FC Cajamarca x UTC",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "16:30",
-      "competition": "Copa da liga Inglesa",
-      "match": "Manchester City x Brighton",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "competition": "Campeonato Italiano",
-      "match": "Genoa x Juventus",
-      "channels": [
-        "SPORTYNET",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "competition": "Campeonato Italiano",
-      "match": "Monza x Napoli",
-      "channels": [
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Bournemouth x Aston Villa",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Fulham x Crystal Palace",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "16:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Sunderland x Brentford",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "competition": "Campeonato Escocês",
-      "match": "Heart OF Midlothian x Rangers",
-      "channels": [
-        "CANAL GOAT"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Liverpool x Chelsea",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "17:00",
-      "competition": "Champions League Feminina",
-      "match": "Arsenal (F) x SL Benfica",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "17:30",
-      "competition": "Campeonato Peruano",
-      "match": "Alianza Atletico x Deportivo Garcilaso",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-28",
@@ -422,6 +242,186 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "14:30",
+      "competition": "Campeonato Italiano",
+      "match": "AC Milan x Bologna",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "14:30",
+      "competition": "Campeonato Italiano",
+      "match": "Venezia x Inter",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "14:30",
+      "competition": "Campeonato Italiano",
+      "match": "Parma x Udinese",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "14:45",
+      "competition": "Champions League Feminina",
+      "match": "Chelsea (F) x Roma (F)",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "14:45",
+      "competition": "Champions League Feminina",
+      "match": "Bayern Munich (F) x Real Madrid (F)",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "14:45",
+      "competition": "Champions League Feminina",
+      "match": "Servette Chenois (F) x OH Leuven (F)",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "15:15",
+      "competition": "Campeonato Peruano",
+      "match": "FC Cajamarca x UTC",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "16:30",
+      "competition": "Copa da liga Inglesa",
+      "match": "Manchester City x Brighton",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "16:45",
+      "competition": "Campeonato Italiano",
+      "match": "Genoa x Juventus",
+      "channels": [
+        "SPORTYNET",
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "16:45",
+      "competition": "Campeonato Italiano",
+      "match": "Monza x Napoli",
+      "channels": [
+        "YOUTUBE",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "16:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Bournemouth x Aston Villa",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "16:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Fulham x Crystal Palace",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "16:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Sunderland x Brentford",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "17:00",
+      "competition": "Campeonato Escocês",
+      "match": "Heart OF Midlothian x Rangers",
+      "channels": [
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "17:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Liverpool x Chelsea",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "17:00",
+      "competition": "Champions League Feminina",
+      "match": "Arsenal (F) x SL Benfica",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Alianza Atletico x Deportivo Garcilaso",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-29",
       "time": "00:00",
       "competition": "Campeonato Mexicano",
@@ -481,7 +481,8 @@ window.PAINEL_DATA = {
         "XSPORTS",
         "SPORTV 2",
         "CANAL GOAT",
-        "ONEFOOTBALL"
+        "ONEFOOTBALL",
+        "YOUTUBE"
       ]
     },
     {
@@ -545,8 +546,8 @@ window.PAINEL_DATA = {
       "competition": "Brasileirão Série A",
       "match": "Atlético-MG x Cruzeiro",
       "channels": [
-        "PREMIERE FC",
-        "PREMIERE 2"
+        "PREMIERE 2",
+        "PREMIERE FC"
       ]
     },
     {
@@ -767,35 +768,35 @@ window.PAINEL_DATA = {
       "cidade": "Teresópolis",
       "temp_max": 21.4,
       "temp_min": 12.9,
-      "chance_chuva": 48,
+      "chance_chuva": 57,
       "condicao": "Neblina"
     }
   ],
   "noticias": [
     {
-      "titulo": "Hércules manda recado sobre objetivo do Fluminense na reta final: \"A gente vai conseguir\" - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmV0NU9xY1VVdWpIRmk5X2lITUlvSUFRVnRYa25qZ0tCVThuMDlwdUJBU3RxUXVRdU1sSDZaUkhtdXM5V3FuOGpNQ1hOSWpMRHRxNkkzNkZQdW1xNTVucjZaUFV1VTZXcFlGaTJVR1hrOTVkSkVzd3hSRFNjdVVoblhIQmJQTXFJMHV5OENEVGpEdllwRFJ2UmtQWVhJMDFLLXVCck9IbU56LUUxMUw3MlZMWQ?oc=5",
-      "data": "28/10 14:30"
+      "titulo": "Fluminense x Internacional: horário e onde assistir ao jogo do Brasileirão - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY3MtS2lPWVBtVXpqQ3dhTGNKbGREcVBzOHRJNkllTWdFakk0WnpmS3dqcUY2NVJVaXlZbWNBWU5fR09UNVV1c1pZS3RxT1gxZlItVXFHem1PUXViWWxESlcxb2RKbnA2NzdjSVhJaHVXMVd0YndtVW5KSkk3S19zMFZlQW5Ka0p2ckZLSXZlUTNSeS1veFZtdnJjLVZBZzRfY09hQXdLREVycFh4ZGwzMmZWRnVrWlRWcTA1WlR4bmt1WlR4d1AtYXFFbHhEQVgwazF3?oc=5",
+      "data": "28/10 08:30"
+    },
+    {
+      "titulo": "Algum serve para 2027? Veja números dos gringos emprestados pelo Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejVqN1Z0VWFWZVdRckhtNWtteDVraU5QX05KODNsZWhmSUVsZ1ZESzdNc3MyWFhWal80UGpuYlVfTmFEZVk0VTFZR1FXd0F0VW5USS1aU3VIOGJMOUk2X1F4MzZIaU1vaTd4ckVPTlZfOVNRbUNIcmFtZ1AzNUFWQ3I0V1dJYUU2Z0xMOElUX3NFMkFudmx6ajRCTmxvZzZROU44?oc=5",
+      "data": "28/10 14:03"
+    },
+    {
+      "titulo": "Lateral do Fluminense recebe homenagem por 150 jogos pelo clube - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmtxUEdZZU43ZnpFMDdZX0VtQjJHNExENWowc0dmTVN0ODA2TzhkbFZQVjhWVEoyMHZIREZuT0Y1WW5GNDktS0g3NkdUY1dLZFcxYnBRY2MxS08zY08yTHRjdXBnTk12SU9BN0RVTGdteWhBZDdtTjI1LTcyZFBnNGQ4NnZpQ0N4bWdaOXZSenhfVFVvT2ExUEw0WjZGZ1RHWjJDdThwdHota1lBQ3czQUxnZXh3WVVvTWxqU1NSTkxFZ3d5aU5jQW13YXhDeTlZZkN2aURlZ3VkajFqUHpsMDFGMXlKOF9E?oc=5",
+      "data": "28/10 22:33"
+    },
+    {
+      "titulo": "Fluminense enfrenta o Botafogo em estreia no Carioca Feminino - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2FKengySHBEWjJCa21OY2xjZnBZYVJWakR2cmlIWkxSV014OFZrODlSUjZZRW13NmJoOEdKU0xDT1BBYXdTSjFfaTNRVEk2T1R5T3p5bGQtMjNvUjJWY3hpc0gwZFU5TERZbTllSGh1ZEpYRXBadDRRbURpTmNaREkwVFl2MXJ6R2xUTS12NTI5OUFacDFkMnFrWVd5UlU3?oc=5",
+      "data": "28/10 10:16"
     },
     {
       "titulo": "Fluminense é multado por festa de sinalizadores no Maracanã - Terra",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdU9KTUtUeFRTVkM4N2hfa0F4UlpsYS14STdLOXdvemNlTmNnaFVPUVVwVURyaWVfSVQtdGM0OHE1SWtuN0s2NExiemNKa0dSbUdteWV4MDNLcVhfSk1TcFB0eDRpcGNoSjhXR19hOFdjRzdmOWJhcW01RDZuU2pCTGZVQ09FMTR1RzhNQzNmTVFoWTIwS1NVb3BJN1VOZlZ0ZnFoeGRPU0lrSVZXM2hLNloxTHBwY3NzRGZKU0k0c1JMVXByaVdMYm9Sb2xOYk1FeXBEbkFQUVZ3aDYyUDRMV3NzVk0?oc=5",
       "data": "28/10 15:13"
-    },
-    {
-      "titulo": "Isaque no Shakhtar: ex-Fluminense brilha na Europa - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ENjB6bjQ3dGljZlNlOEdPbUlsYlJmZlVvLWFUbFRsSzVZX0o4VVlOZ0pnT1drWWY2RXdPVmVqWUhaVXFHNnFIUWV3U3lqR2VrVEtRQjZ6Nk9JcEpZd3ViV0xsZmFqbHlXY1NV?oc=5",
-      "data": "28/10 15:41"
-    },
-    {
-      "titulo": "Fluminense convoca torcida para jogo contra o Internacional no Maracanã - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkIwaERGNGthbTJKRUQzMG11cFgzZEVUY3pRQUZ0VXZiQ09ENTVwb3JBWUFoMUhaT003VEdGbFhBM0JZcV94aG1YeDdPQzR0ZUZraDJ0dWxkWGE4a3dmay12MEZ6VklmeWJ4V2NJN19vcjNObmhsbFpINENuelh6aWpyTTM5OWdTTDI4SFpmeFpaRkRmel8zUHRaWXFxTUU?oc=5",
-      "data": "28/10 18:40"
-    },
-    {
-      "titulo": "Fluminense x Internacional: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0dtUkx4eGFJRk15RkttWFlmQVZ0YmZjcWY1QlRPU0toNUx5aGE0bTlsWV9pVjZ5VmRIQkRZakUxNHdNVGhEZWhPNXdNNlVreU01anRiWTZocnBkdjNKQ191WlVkVDZPbEFvWXNTaU9LaXBLeDNMcHRkWkV6NGo0ZEwyR3Zpa0RRZFFSTUZqbVRiMEdJUHktbGM4NFNKTWZoUTlUa0ZuSWF3X1ZxZnFOcnRod0ZwVU5zUHhHM015LVdOZlpGZ0xnOE50MWg1RDVSSDdBQ2JEV1FqN21PZjZv0gHuAUFVX3lxTE1YX2NHNzh4c1YwRjZma2J6QkxzbWhscG1JWkFpM2FmV1gyUjFMdExTYnZmbEpRNU14QzRPSWFRNmRqZnI0OWZWcUJ4U0pSSUFoY1lfTUttUi00VlR3STNRY0ZnMWJTZVRtclhHRFp4eGhsaWpKQU1oT1d2ZTY3cFZNV3kwVHgxTHBQTlpBS3dxOGZFN0VmMTN6R1dCdmhlczdCME1ScWotWk13cDZySEtFNnVleWVnZVNRZjQtZHFlTVBDMjlDWWcxSTRlRHBHUGl4b2dYQVlMVjBOT2d3TEJKUHgySVVpZFYzMUVJeUE?oc=5",
-      "data": "28/10 06:00"
     }
   ],
   "avisos": []
