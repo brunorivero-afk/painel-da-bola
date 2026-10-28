@@ -1,16 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "28/10/2026 10:46",
+  "atualizado_em": "28/10/2026 16:17",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-28",
-      "time": "13:00",
-      "competition": "Campeonato Peruano",
-      "match": "ADT x UCV Moquegua",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-28",
@@ -422,6 +412,16 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "futebol",
+      "date": "2026-10-28",
+      "time": "13:00",
+      "competition": "Campeonato Peruano",
+      "match": "ADT x UCV Moquegua",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-29",
       "time": "00:00",
       "competition": "Campeonato Mexicano",
@@ -744,9 +744,9 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.3,
+      "temp_max": 25.7,
       "temp_min": 19.5,
-      "chance_chuva": 1,
+      "chance_chuva": 2,
       "condicao": "Nublado"
     },
     {
@@ -758,44 +758,44 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.9,
+      "temp_max": 18.7,
       "temp_min": 14.0,
       "chance_chuva": 41,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.3,
+      "temp_max": 21.4,
       "temp_min": 12.9,
-      "chance_chuva": 49,
+      "chance_chuva": 48,
       "condicao": "Neblina"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense acredita que Martinelli volte a jogar ainda esse ano, informa jornalista - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnpmOEhpZ083TUVULVlOZzNWSHVETWRiak5nQ0tYOE9Jb281VG9DX3diU2NEMlA2d0xhQk5UTHJ1S1BSSjY3WDM2ZWtwX2pTT3FYVEw1SUxlZlZPV0NkaEdJc21LZ2tENXl6Zi03dFBJaVlzQTkwZzFEeHRPeFNNa0dmSXQxVjZ4eGxlUlVkdzBXRVAxRFE0eTMxOUdMUXBVcTlmTm5TQmwxaWRaYlE?oc=5",
-      "data": "28/10 00:00"
+      "titulo": "Hércules manda recado sobre objetivo do Fluminense na reta final: \"A gente vai conseguir\" - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmV0NU9xY1VVdWpIRmk5X2lITUlvSUFRVnRYa25qZ0tCVThuMDlwdUJBU3RxUXVRdU1sSDZaUkhtdXM5V3FuOGpNQ1hOSWpMRHRxNkkzNkZQdW1xNTVucjZaUFV1VTZXcFlGaTJVR1hrOTVkSkVzd3hSRFNjdVVoblhIQmJQTXFJMHV5OENEVGpEdllwRFJ2UmtQWVhJMDFLLXVCck9IbU56LUUxMUw3MlZMWQ?oc=5",
+      "data": "28/10 14:30"
     },
     {
-      "titulo": "Inteligência artificial projeta vencedor em Fluminense x Internacional - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejFyYXlwQl9zTmtqam1rdGhKU3hTcmZVeW9wZVg5YV9DNFBZNHdSdTFFR3o5YzVLRGNyYWQwVVhXTkhHT2VBbF9OZDhKaW1qZGY4U0tEQ3RXVGFtMnRNaU9LMmJtWTJNdVMwbk5RNGVVSkFjdmZhMWJXTks4b01nZEg3bXpfaE5lZjR5eFNkeEdiRVpuNWZISHlqS1U5dlZsMHZtNUtHd0ZkOWQxZnlwRm1YRmF6OEdp?oc=5",
-      "data": "28/10 10:40"
+      "titulo": "Fluminense é multado por festa de sinalizadores no Maracanã - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdU9KTUtUeFRTVkM4N2hfa0F4UlpsYS14STdLOXdvemNlTmNnaFVPUVVwVURyaWVfSVQtdGM0OHE1SWtuN0s2NExiemNKa0dSbUdteWV4MDNLcVhfSk1TcFB0eDRpcGNoSjhXR19hOFdjRzdmOWJhcW01RDZuU2pCTGZVQ09FMTR1RzhNQzNmTVFoWTIwS1NVb3BJN1VOZlZ0ZnFoeGRPU0lrSVZXM2hLNloxTHBwY3NzRGZKU0k0c1JMVXByaVdMYm9Sb2xOYk1FeXBEbkFQUVZ3aDYyUDRMV3NzVk0?oc=5",
+      "data": "28/10 15:13"
     },
     {
-      "titulo": "Lateral desperta interesse europeu, Conmebol aplica punição e dez jogadores entram em alerta: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPa1EtMEFMelJCLVVaNG1fWDl6Q1hXRm9FS05rbDNUeWd2WGdqU2txU0xFX3dtT2tYNHNLLWpkMHI2SXctUWUwUm9jWmxhalRtY3JjaUpPREdDWGoyRUJibE1iRTk0cWNKVEJMalVSbm5lT3BZNTBvT3BadGdtTVNwSEFWVVhrbUJZYjktQ09nWXVNeC1IQzdiLVh0QlZIT1NsOHo1em5lQnFDVE1GdzVobkhuQmp6aWQyY2l0eE5DdHZHZjFqRUdIOHNDQlkxa3hWclBERnFpU3ZhVG5UU1BfZTBhNWxzdDRYNEFPNkh2ZWNWR3BpZi1qR2FOa2ZSMmh5SFhlM2plUnZiOTdaQnFnV2dMV2w3VWxUMVktM1ZjR2JFN0MxWHBreE1fd2gzX2tjOG0tMVQ2SzRpRElu?oc=5",
-      "data": "28/10 12:26"
+      "titulo": "Isaque no Shakhtar: ex-Fluminense brilha na Europa - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ENjB6bjQ3dGljZlNlOEdPbUlsYlJmZlVvLWFUbFRsSzVZX0o4VVlOZ0pnT1drWWY2RXdPVmVqWUhaVXFHNnFIUWV3U3lqR2VrVEtRQjZ6Nk9JcEpZd3ViV0xsZmFqbHlXY1NV?oc=5",
+      "data": "28/10 15:41"
     },
     {
-      "titulo": "Fluminense precisa de aproveitamento superior a 70% para atingir pontuação \"mágica\" para Libertadores - ge",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUTMzZDJqLTJXU2c1R2I1MFJvOXFsLWdrNUY4T2pHdWFGU3FWV0Q1cmZGLXdLU09Bd21IUFc3WVJNNWxXY092bjdwVC16TzJ2TXc4TXRyVUZEVVZBR2JMOFE3TFgwY1pNT195dUMxdmVRdWUzQmFva21OZ3plWGFGTWF0ZDFKTWRDUlpZbDZWQllCTEdIbDlxbkVacXJmZkJsRS1DaHdLRWM0aHZiRGxsSF9XUmNWVW4zaEU1VUo1TTUwSjZES0UtblN0Y0ZKS2F2OGNuN21rcTVsbjV1MkNTV1NUSE91Wkl4MFR0a04za21ScldrMUlZN2ItWGRNd2FhekFiUDhYWdIBlgJBVV95cUxPR01QT0diVUdQYkdkVUVrVEEteEh4bE1xWWN4WXdkYlU5SXI0aDBhVEJvQ0pIc19nMkFWZnc0eFVkTG5taURSU2NRTEZ4ZmpjZDl3RTNTa01yNHRqOVAxTTI1c1FaYlhXa25sRXdqVlYxWFdwVC1raHl4RGFlN21Cc3NFbmphVG1xLXdLekwzWjdpbVFKR1k5b2VoNHN5T0U3a21WNDREcjR0WGFaYWZ5LUdNdEhPeXRQeFdpLWJkcUZEMW41eEpOdEhOQjVRb2gwRW1WVG0wb1ZROGh6YXV2eUdGTXNmYi10elc3V1pDYl9rcXZNamwtM0oyQjhpRHIwLUdyd3I3SjhEX0xFYU03eE96WnVHdw?oc=5",
-      "data": "27/10 13:00"
+      "titulo": "Fluminense convoca torcida para jogo contra o Internacional no Maracanã - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkIwaERGNGthbTJKRUQzMG11cFgzZEVUY3pRQUZ0VXZiQ09ENTVwb3JBWUFoMUhaT003VEdGbFhBM0JZcV94aG1YeDdPQzR0ZUZraDJ0dWxkWGE4a3dmay12MEZ6VklmeWJ4V2NJN19vcjNObmhsbFpINENuelh6aWpyTTM5OWdTTDI4SFpmeFpaRkRmel8zUHRaWXFxTUU?oc=5",
+      "data": "28/10 18:40"
     },
     {
-      "titulo": "Brasileirão 2026: informações importantes para a torcida antes de Fluminense x Internacional - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmN1UUxvbkl4Vi1yQmtqalltSUUxZ2diYXNDUFBubW40emo2UU12WXNaeENTSFlkaXhXYlJhQTJvZEN3OWVhZXVPcEkwdFFjUWNNdURwSjFCel9rSFNnc0lld3FSNkhPbzM0ZkVMdG9WNnlyMVBOZGY2RTk2UmNjV0hZMXRfWV85VWJDWlRCdnprMVlsSHdyejRaaThBM3dldnl0a3Bwa0JpaEZxLVg2Z1BZSkFTSUR1QmVlOW9PRm1qSHNNNTQ2QQ?oc=5",
-      "data": "28/10 11:58"
+      "titulo": "Fluminense x Internacional: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0dtUkx4eGFJRk15RkttWFlmQVZ0YmZjcWY1QlRPU0toNUx5aGE0bTlsWV9pVjZ5VmRIQkRZakUxNHdNVGhEZWhPNXdNNlVreU01anRiWTZocnBkdjNKQ191WlVkVDZPbEFvWXNTaU9LaXBLeDNMcHRkWkV6NGo0ZEwyR3Zpa0RRZFFSTUZqbVRiMEdJUHktbGM4NFNKTWZoUTlUa0ZuSWF3X1ZxZnFOcnRod0ZwVU5zUHhHM015LVdOZlpGZ0xnOE50MWg1RDVSSDdBQ2JEV1FqN21PZjZv0gHuAUFVX3lxTE1YX2NHNzh4c1YwRjZma2J6QkxzbWhscG1JWkFpM2FmV1gyUjFMdExTYnZmbEpRNU14QzRPSWFRNmRqZnI0OWZWcUJ4U0pSSUFoY1lfTUttUi00VlR3STNRY0ZnMWJTZVRtclhHRFp4eGhsaWpKQU1oT1d2ZTY3cFZNV3kwVHgxTHBQTlpBS3dxOGZFN0VmMTN6R1dCdmhlczdCME1ScWotWk13cDZySEtFNnVleWVnZVNRZjQtZHFlTVBDMjlDWWcxSTRlRHBHUGl4b2dYQVlMVjBOT2d3TEJKUHgySVVpZFYzMUVJeUE?oc=5",
+      "data": "28/10 06:00"
     }
   ],
   "avisos": []
