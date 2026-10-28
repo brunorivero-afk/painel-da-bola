@@ -1,27 +1,6 @@
 {
-  "atualizado_em": "27/10/2026 18:45",
+  "atualizado_em": "27/10/2026 21:55",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Sport Huancayo",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "17:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Fleetwood Town x Arsenal",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-27",
@@ -97,6 +76,27 @@
       "competition": "Copa da liga Inglesa",
       "match": "Bradford x Peterborough",
       "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "competition": "Campeonato Peruano",
+      "match": "Juan Pablo II College x Sport Huancayo",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-27",
+      "time": "17:00",
+      "competition": "Copa da liga Inglesa",
+      "match": "Fleetwood Town x Arsenal",
+      "channels": [
+        "ESPN",
         "DISNEY+"
       ]
     },
@@ -590,10 +590,10 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.5,
+      "temp_max": 21.8,
       "temp_min": 14.1,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
@@ -605,29 +605,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense amarga pior sequência no Brasileirão 2026; veja detalhes - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQanhDaGo4WGVFa3REci1zODQ2Nm13d3BMS1dxSF9GVkY0Y3VnWmNNTUdFZ2RGV0JPRnNUcXNoMzdJTVowMlFfbDd2X1FmRFpsUkdKTnA3QnlJbWxaNkJYNFhmV2NqSFd4N05SUVlfb3hwcXBVc0NzV1FnaWtrMnpNUTY5cEU0ZzZHR05MQkQzcGc4RW4wSkxhZw?oc=5",
-      "data": "27/10 14:00"
+      "titulo": "Fluminense precisa de aproveitamento superior a 70% para atingir pontuação \"mágica\" para Libertadores - ge",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUTMzZDJqLTJXU2c1R2I1MFJvOXFsLWdrNUY4T2pHdWFGU3FWV0Q1cmZGLXdLU09Bd21IUFc3WVJNNWxXY092bjdwVC16TzJ2TXc4TXRyVUZEVVZBR2JMOFE3TFgwY1pNT195dUMxdmVRdWUzQmFva21OZ3plWGFGTWF0ZDFKTWRDUlpZbDZWQllCTEdIbDlxbkVacXJmZkJsRS1DaHdLRWM0aHZiRGxsSF9XUmNWVW4zaEU1VUo1TTUwSjZES0UtblN0Y0ZKS2F2OGNuN21rcTVsbjV1MkNTV1NUSE91Wkl4MFR0a04za21ScldrMUlZN2ItWGRNd2FhekFiUDhYWdIBlgJBVV95cUxPR01QT0diVUdQYkdkVUVrVEEteEh4bE1xWWN4WXdkYlU5SXI0aDBhVEJvQ0pIc19nMkFWZnc0eFVkTG5taURSU2NRTEZ4ZmpjZDl3RTNTa01yNHRqOVAxTTI1c1FaYlhXa25sRXdqVlYxWFdwVC1raHl4RGFlN21Cc3NFbmphVG1xLXdLekwzWjdpbVFKR1k5b2VoNHN5T0U3a21WNDREcjR0WGFaYWZ5LUdNdEhPeXRQeFdpLWJkcUZEMW41eEpOdEhOQjVRb2gwRW1WVG0wb1ZROGh6YXV2eUdGTXNmYi10elc3V1pDYl9rcXZNamwtM0oyQjhpRHIwLUdyd3I3SjhEX0xFYU03eE96WnVHdw?oc=5",
+      "data": "27/10 13:00"
     },
     {
-      "titulo": "Guga alcança ano com mais jogos pelo Fluminense e se salva em instabilidade - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU3dTdW1xSE5YZ0dSU3pFWXNqQnIyeVlWcGRKRkt0TVljRmdQcE4xN1VYLUlDVks4VGJzU1dGR1FOUUEyN2xhQjFWam9PeTBOYl9lbXoxOU5ZZTkzMUh1WDl3UFJDOVBoazc5Zk92SUozOG9wVFRXR1dHU09BSy1qaXBRck52M3g0SUNTaTQ1dWZyVV9PMUlfamV3bFhMdk1sZkd1N1BJb2txWHpWdUQ1UU92RTk5cGF4V3RtMTU2dlJxWVRQRTZPbVNyZzhsSkM4cTdyN1lxcVpXM09NNFJR0gHuAUFVX3lxTFB3MlRubmZMRFZYdkpoeWZ5YUJZV3hqb0I2emxwVkxfX2pRell5ZVdoVjZMRXU3ZEotMHRBbXdzVlFTZHJnTlBwcjhIWk5wdS14SDN5bGxveGlQOFZncmpoMFpZel96LUZCaXF5VkY5dFc0RkVFNkFaTXJURFUxTWJ5V2hYOWk3T25jcFZtc2RUTzdNb3l6aUJES2FEZGZtT0VwNDdXVV9fMEk3dzliUGswQk1pUExkazZBSWJYN2V3V3M0T0VGZ21FOGtSbVhsM0VQNWMzMmk2dklmZVNDOGtodEp3VDVhSGs2MldqVWc?oc=5",
-      "data": "27/10 17:38"
+      "titulo": "Saiba quantos pontos o Fluminense precisa fazer para se classificar à Libertadores - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUc5eEkzUW5VcWpHdjJLa0M0amZmNUtfeERlOFNLMjFNUG9TVzR0TXU2RnNXNlhIeFZYSWpWQ3NZV1g3S1pENnIwWFpPODRDN0s3QmVMcVFzRFUtMjVHOTZxTUFWc2MxcDField3Ul9qZENtX3hpS1dXaDh0QnQwdER5NGRoNm5HNDJLamRjVlJINkRrOTl0OE96OVJYWnlfelZ4ejZPUkJqVFB1RXc?oc=5",
+      "data": "27/10 19:54"
     },
     {
-      "titulo": "Times da Europa querem contratar joia do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaFFkQ2lqZllQYmhUT3h6Z2R5STZrckVJMUZxbW5MbjRxSlN1TFpWVkItREMzTWYwMk5TdWg4RkpTbS1VYUZBRkhBOUpSNUxnM1hqaFp2d3dScnAyUU5CMmhZRjRvVXk1T0lUaWJHSVNCak04V2lBaTRpLVFzWDVYWkFBSkdZcm9nU1VlMVhoZ25uYnhmLWRwbWxBQjRJM3h4ZEhUUUtNS2I0TWRZYVEyQjRkcHIxYXNqeDQ2Q3ZGT2p2bzFiSWltSFlVZzlwaGtnc2FrUzJ4MFRtZw?oc=5",
-      "data": "27/10 18:01"
+      "titulo": "Mattheus Montenegro faz promessa para a torcida do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0lUWEZXNGtXRVBjMDYtM1NfLVc4MU5JcWUwdGF5ejNZV1htUTVMa2Z2N19kWjZvQWFQQVRuelZmVHQteFlwSDROcEdic3UyRTVPcjNVY2pJeDlobjMxQ0xZeTNoZktRREZsWW83VkRieUlZZWJEQWpVU0FxWWJLMjN1WElxMUJKQ0MzQmNFZ1ozeE9nSWFkbEpxV21ha3BDel90bTNXemlzUmpkR1Fpd3hRX25WMXBRb0M5R0d6S09Lb0o5elc2Z3FyVHZoZHZPZFEzQ24xQzFLMncxOXpkYWxqQldNdzA?oc=5",
+      "data": "26/10 23:11"
     },
     {
-      "titulo": "Richard Wendel encara semana de clássicos antes de seguir para Copa do Mundo Sub-17: 'Muito motivado' - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlVrQVdmX21wYzJhZ2k1eVdndHE1aWRjLXpnWVZweFhOZk9wa1BESUNTQXFLNno1Szl6Z2h0Mld6Yk13a3Z2M3hCQTVGa01NVjlSVmtieDVDeEF3QXhGZUYwUWI0OVVIdXhHN0N2SXE1ZGJ1U1Z1U2k0Zk02eUE3RjJPZlNuWmdMa3EzWXRrNFMzaWRaUGhCZVdHWEwzR2J5a3pkdzAyRFRYbnJxdWZ5cUY2N1cyZDNFODBEYVdVZmtaLTVTYm9tMFd6WUt1ZktBbkE?oc=5",
-      "data": "27/10 20:00"
+      "titulo": "Fluminense acredita que Martinelli volte a jogar ainda esse ano, informa jornalista - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnpmOEhpZ083TUVULVlOZzNWSHVETWRiak5nQ0tYOE9Jb281VG9DX3diU2NEMlA2d0xhQk5UTHJ1S1BSSjY3WDM2ZWtwX2pTT3FYVEw1SUxlZlZPV0NkaEdJc21LZ2tENXl6Zi03dFBJaVlzQTkwZzFEeHRPeFNNa0dmSXQxVjZ4eGxlUlVkdzBXRVAxRFE0eTMxOUdMUXBVcTlmTm5TQmwxaWRaYlE?oc=5",
+      "data": "28/10 00:00"
     },
     {
-      "titulo": "Presidente do Fluminense revela planos para 2027 e aponta: ‘Vamos estar na Libertadores’ - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVFpPNEtqd0VGUkZUVjR6WEEtMzh0akZWdWVzRllQRUpGclFDa2w0YnQ2a19BTFhHMEZ3SWNQdkZfd2lrUUNXZEVDcm8wa0dRSVFvZmpkcUhodnVoSlBpZFA5WVFUaW1KVF82Y19zYnp3Y1NvLXRCU0RiLVY4Q3pXbEN3R0NPWU5oenUxdmtRdVpmTzAtUnBmandRQzdrbVJsT1FBNTlpTFk0MmFYMklKSUZnS0ZxT1lIbDM4bmlhU293aDM0d1l1QVJxZEpNMHNkbG9WS0h6MFE0cnk2X3MtWWtaczZuREIwUmRJRGVWdy04YlBrV2hGR0NUa1hxOFFkSUNBQXZn?oc=5",
-      "data": "26/10 18:17"
+      "titulo": "São Paulo terá Alisson de volta após empréstimo ao Fluminense? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN0FOb1FFSjB4UlZ4TlVaVHhPSmxWNGJKVG93dHdZcTFUbEJTMGNPbmZmcUN1bGpZel9UUkdKazVmLU1iV29vVGo4dDBrUm9ReV9IR0dOQXgxUGtndm9NUTROYk9SRmN3Wm5kNElwOUR5UE1WbEZjNHZvLUJ0cU1Wd2V0M1dJbXB6UllBM0FSMlozeXNkb0VjeTFxS2hUeF9XWmdZbmd2cDBhcDFhLXdvc2lIdVpfUlhLajFHQjQ4VjItSHBBQkpIbEFFOTRxWDRKUF9lWFBUNDA4V0tVby1acTNTRjhwTVE4enc?oc=5",
+      "data": "27/10 10:31"
     }
   ],
   "avisos": []
