@@ -1,105 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/10/2026 21:55",
+  "atualizado_em": "28/10/2026 03:36",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "20:00",
-      "competition": "Brasileirão Série B",
-      "match": "Ceará x Goiás",
-      "channels": [
-        "XSPORTS",
-        "SPORTYNET",
-        "ESPN",
-        "YOUTUBE",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "23:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "Alianza x CD Marathon",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "09:40",
-      "competition": "Campeonato Saudita",
-      "match": "Abha x Al-Faisaly FC",
-      "channels": [
-        "CANAL GOAT",
-        "ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "14:30",
-      "competition": "Campeonato Italiano",
-      "match": "Sassuolo x Lazio",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "16:45",
-      "competition": "Campeonato Italiano",
-      "match": "Roma x Cagliari",
-      "channels": [
-        "CAZÉTV",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "16:45",
-      "competition": "Campeonato Italiano",
-      "match": "Torino x como",
-      "channels": [
-        "ESPN 3",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "16:45",
-      "competition": "Copa da liga Inglesa",
-      "match": "Bradford x Peterborough",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "17:00",
-      "competition": "Campeonato Peruano",
-      "match": "Juan Pablo II College x Sport Huancayo",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-27",
-      "time": "17:00",
-      "competition": "Copa da liga Inglesa",
-      "match": "Fleetwood Town x Arsenal",
-      "channels": [
-        "ESPN",
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-28",
@@ -523,18 +424,178 @@ window.PAINEL_DATA = {
       ]
     },
     {
-      "sport": "volei",
-      "date": "2026-10-27",
-      "time": "20:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x São José",
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "00:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Club Tijuana",
       "channels": [
-        "SporTV2"
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Olimpia x CS Cartagines",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "14:30",
+      "competition": "Campeonato Italiano",
+      "match": "Frosinone x Lecce",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "14:45",
+      "competition": "Champions League Feminina",
+      "match": "Paris FC (F) x Hacken",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "14:45",
+      "competition": "Champions League Feminina",
+      "match": "Austria (F)ien (F) x Juventus (F)",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "15:00",
+      "competition": "Campeonato Saudita",
+      "match": "Al-Nassr x Al Kholood",
+      "channels": [
+        "XSPORTS",
+        "SPORTV 2",
+        "ONEFOOTBALL",
+        "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "16:45",
+      "competition": "Campeonato Italiano",
+      "match": "Fiorentina x Atalanta",
+      "channels": [
+        "ESPN 3",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "16:45",
+      "competition": "Copa da liga Inglesa",
+      "match": "Everton x Newcastle",
+      "channels": [
+        "ESPN",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "17:30",
+      "competition": "Campeonato Peruano",
+      "match": "Sporting Cristal x Alianza Lima",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "19:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Guarani Sub-20",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Cruzeiro",
+      "channels": [
+        "PREMIERE 2",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Coritiba x Vitória",
+      "channels": [
+        "PREMIERE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Flamengo",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "21:30",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x Athletico PR",
+      "channels": [
+        "SPORTV",
+        "PREMIERE",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "21:30",
+      "competition": "Campeonato Peruano",
+      "match": "FBC Melgar x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "23:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "LD Alajuelense x CD Motagua",
+      "channels": [
+        "DISNEY+"
       ]
     },
     {
       "sport": "volei",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Minas x Sesi-Bauru",
@@ -544,7 +605,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "time": "18:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Monte Carmelo",
@@ -554,7 +615,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Paulistano Barueri",
@@ -564,7 +625,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Fluminense",
@@ -576,58 +637,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.8,
-      "temp_min": 18.9,
-      "chance_chuva": 94,
-      "condicao": "Garoa fraca"
+      "temp_max": 24.4,
+      "temp_min": 18.7,
+      "chance_chuva": 0,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.0,
-      "temp_min": 19.4,
-      "chance_chuva": 95,
-      "condicao": "Garoa fraca"
+      "temp_max": 24.3,
+      "temp_min": 19.1,
+      "chance_chuva": 0,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.8,
-      "temp_min": 14.1,
-      "chance_chuva": 100,
+      "temp_max": 19.3,
+      "temp_min": 13.6,
+      "chance_chuva": 56,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.6,
+      "temp_max": 21.2,
       "temp_min": 12.3,
-      "chance_chuva": 100,
+      "chance_chuva": 78,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
+    {
+      "titulo": "'Missão é voltar à Libertadores', diz presidente do Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEdDVjZ1SnJUX2ZCYUViMzdLTTVZNFBURV9xdkZsbF8tOXJxd2dWTktYa0xXOVJVUlRGcU5zeXltanUyT2NjUG9EeHl6TVNhdGpBNnk4YmZxVHI2V1M4OXFhUzlKYWZacWNmbE9abFhQT3Zic3hwdUhaOU1HUmNRek4zdVhqNjdKeHRsQ2E1YWRBNUhxZ2dOaHQtTVpEVlhER1dyMVBlQmw?oc=5",
+      "data": "25/10 14:44"
+    },
+    {
+      "titulo": "E o Alisson? Há quase três meses sem ser relacionado, volante tem futuro incerto no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNUZjNmZBaXhSOWNHbnoyZk12andNXzJMZE9oWFZqRktUZkxwNzFzcW9lcHNJZVZqYWVSRFZ6a1NZazhUOVVKQkFDMWxtNlpUcTVoSjFnRGxTdlItTG53QTNJcmt1TEk2enczc3FGYnpwWUdqb3dfTm41QVFzTDAtZ3RQSDFlU0RERTljQzY3NXFVbW8tWWM1RGxXOEx4UTRONkh5bDZfN1dBd1kzMk9ZZUNFYTZOazN5TTB1bFVxSjljU0h5LTZobVZBSmdzcjFOQlJGOW9YMDJVVDRJUndnR1BvX3RodzRlakRYRzhiVVpsX1VMX2fSAYQCQVVfeXFMTXZJMmVFZjVBa2JtRS11T2pLSmVxQzRveVl4OHJmSDU0WllJa1F6dzRfcHlWUEV3OEtHV1BhZF9GSjBWNGhPalctME9jYVRINXZqV1pxTW9fWVZTaHlQWFB5ei1lNTlHQWJia2tfTEl0NVMteHlTdkpjcllwRnB1bHdyVEU5Q1BvNFE0RDJkZlRCQjl1YnFDWXRUSjdqbHJFempkaVhlN2tRNzJLR21wMV8tMHR5ZjlWQXlLSkp3cmFGZTVBcndEcWtoMlFZN2JUcXR5Q2N1Z0d3THN6WFM1U3ZyRjZBVlFpUGdnMkhpeXNwbGk2Y1UwRjdBZk1XVmtpMnQxQ1k?oc=5",
+      "data": "27/10 07:00"
+    },
     {
       "titulo": "Fluminense precisa de aproveitamento superior a 70% para atingir pontuação \"mágica\" para Libertadores - ge",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUTMzZDJqLTJXU2c1R2I1MFJvOXFsLWdrNUY4T2pHdWFGU3FWV0Q1cmZGLXdLU09Bd21IUFc3WVJNNWxXY092bjdwVC16TzJ2TXc4TXRyVUZEVVZBR2JMOFE3TFgwY1pNT195dUMxdmVRdWUzQmFva21OZ3plWGFGTWF0ZDFKTWRDUlpZbDZWQllCTEdIbDlxbkVacXJmZkJsRS1DaHdLRWM0aHZiRGxsSF9XUmNWVW4zaEU1VUo1TTUwSjZES0UtblN0Y0ZKS2F2OGNuN21rcTVsbjV1MkNTV1NUSE91Wkl4MFR0a04za21ScldrMUlZN2ItWGRNd2FhekFiUDhYWdIBlgJBVV95cUxPR01QT0diVUdQYkdkVUVrVEEteEh4bE1xWWN4WXdkYlU5SXI0aDBhVEJvQ0pIc19nMkFWZnc0eFVkTG5taURSU2NRTEZ4ZmpjZDl3RTNTa01yNHRqOVAxTTI1c1FaYlhXa25sRXdqVlYxWFdwVC1raHl4RGFlN21Cc3NFbmphVG1xLXdLekwzWjdpbVFKR1k5b2VoNHN5T0U3a21WNDREcjR0WGFaYWZ5LUdNdEhPeXRQeFdpLWJkcUZEMW41eEpOdEhOQjVRb2gwRW1WVG0wb1ZROGh6YXV2eUdGTXNmYi10elc3V1pDYl9rcXZNamwtM0oyQjhpRHIwLUdyd3I3SjhEX0xFYU03eE96WnVHdw?oc=5",
       "data": "27/10 13:00"
     },
     {
-      "titulo": "Saiba quantos pontos o Fluminense precisa fazer para se classificar à Libertadores - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUc5eEkzUW5VcWpHdjJLa0M0amZmNUtfeERlOFNLMjFNUG9TVzR0TXU2RnNXNlhIeFZYSWpWQ3NZV1g3S1pENnIwWFpPODRDN0s3QmVMcVFzRFUtMjVHOTZxTUFWc2MxcDField3Ul9qZENtX3hpS1dXaDh0QnQwdER5NGRoNm5HNDJLamRjVlJINkRrOTl0OE96OVJYWnlfelZ4ejZPUkJqVFB1RXc?oc=5",
-      "data": "27/10 19:54"
+      "titulo": "Guga alcança ano com mais jogos pelo Fluminense e se salva em instabilidade - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU3dTdW1xSE5YZ0dSU3pFWXNqQnIyeVlWcGRKRkt0TVljRmdQcE4xN1VYLUlDVks4VGJzU1dGR1FOUUEyN2xhQjFWam9PeTBOYl9lbXoxOU5ZZTkzMUh1WDl3UFJDOVBoazc5Zk92SUozOG9wVFRXR1dHU09BSy1qaXBRck52M3g0SUNTaTQ1dWZyVV9PMUlfamV3bFhMdk1sZkd1N1BJb2txWHpWdUQ1UU92RTk5cGF4V3RtMTU2dlJxWVRQRTZPbVNyZzhsSkM4cTdyN1lxcVpXM09NNFJR0gHuAUFVX3lxTFB3MlRubmZMRFZYdkpoeWZ5YUJZV3hqb0I2emxwVkxfX2pRell5ZVdoVjZMRXU3ZEotMHRBbXdzVlFTZHJnTlBwcjhIWk5wdS14SDN5bGxveGlQOFZncmpoMFpZel96LUZCaXF5VkY5dFc0RkVFNkFaTXJURFUxTWJ5V2hYOWk3T25jcFZtc2RUTzdNb3l6aUJES2FEZGZtT0VwNDdXVV9fMEk3dzliUGswQk1pUExkazZBSWJYN2V3V3M0T0VGZ21FOGtSbVhsM0VQNWMzMmk2dklmZVNDOGtodEp3VDVhSGs2MldqVWc?oc=5",
+      "data": "27/10 17:38"
     },
     {
-      "titulo": "Mattheus Montenegro faz promessa para a torcida do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0lUWEZXNGtXRVBjMDYtM1NfLVc4MU5JcWUwdGF5ejNZV1htUTVMa2Z2N19kWjZvQWFQQVRuelZmVHQteFlwSDROcEdic3UyRTVPcjNVY2pJeDlobjMxQ0xZeTNoZktRREZsWW83VkRieUlZZWJEQWpVU0FxWWJLMjN1WElxMUJKQ0MzQmNFZ1ozeE9nSWFkbEpxV21ha3BDel90bTNXemlzUmpkR1Fpd3hRX25WMXBRb0M5R0d6S09Lb0o5elc2Z3FyVHZoZHZPZFEzQ24xQzFLMncxOXpkYWxqQldNdzA?oc=5",
-      "data": "26/10 23:11"
-    },
-    {
-      "titulo": "Fluminense acredita que Martinelli volte a jogar ainda esse ano, informa jornalista - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnpmOEhpZ083TUVULVlOZzNWSHVETWRiak5nQ0tYOE9Jb281VG9DX3diU2NEMlA2d0xhQk5UTHJ1S1BSSjY3WDM2ZWtwX2pTT3FYVEw1SUxlZlZPV0NkaEdJc21LZ2tENXl6Zi03dFBJaVlzQTkwZzFEeHRPeFNNa0dmSXQxVjZ4eGxlUlVkdzBXRVAxRFE0eTMxOUdMUXBVcTlmTm5TQmwxaWRaYlE?oc=5",
-      "data": "28/10 00:00"
-    },
-    {
-      "titulo": "São Paulo terá Alisson de volta após empréstimo ao Fluminense? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN0FOb1FFSjB4UlZ4TlVaVHhPSmxWNGJKVG93dHdZcTFUbEJTMGNPbmZmcUN1bGpZel9UUkdKazVmLU1iV29vVGo4dDBrUm9ReV9IR0dOQXgxUGtndm9NUTROYk9SRmN3Wm5kNElwOUR5UE1WbEZjNHZvLUJ0cU1Wd2V0M1dJbXB6UllBM0FSMlozeXNkb0VjeTFxS2hUeF9XWmdZbmd2cDBhcDFhLXdvc2lIdVpfUlhLajFHQjQ4VjItSHBBQkpIbEFFOTRxWDRKUF9lWFBUNDA4V0tVby1acTNTRjhwTVE4enc?oc=5",
-      "data": "27/10 10:31"
+      "titulo": "Fluminense recebe consultas de clubes europeus por joia de 19 anos - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVVBzSW5paWF5R2ZwUFB4UGJvbzlwYmZKQkpEdHpyZ0xiZU5QX25WeFpGM2dzbUxsM1FxeDI2dDdETVk3bHJrcHZPWmRrODQzdUdaa3pZVmFldWRFUkRfQ2xVN2c4X01RYmFnd2JDNmtCcEVWX2Z5TExSc2RMdUN4UmNteGR4dElEWU04MzM2WVJlRTNUNXN2dw?oc=5",
+      "data": "27/10 13:38"
     }
   ],
   "avisos": []
