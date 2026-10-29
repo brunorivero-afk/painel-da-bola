@@ -1,6 +1,89 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/10/2026 14:57",
+  "atualizado_em": "29/10/2026 19:29",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "19:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Guarani Sub-20",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Cruzeiro",
+      "channels": [
+        "PREMIERE 2",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Flamengo",
+      "channels": [
+        "PRIME VIDEO"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "21:30",
+      "competition": "Brasileirão Série A",
+      "match": "Grêmio x Athletico PR",
+      "channels": [
+        "SPORTV",
+        "PREMIERE 3"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "21:30",
+      "competition": "Campeonato Peruano",
+      "match": "FBC Melgar x Comerciantes Unidos",
+      "channels": [
+        "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "23:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "LD Alajuelense x CD Motagua",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "00:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Club Tijuana",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Olimpia x CS Cartagines",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-29",
@@ -87,89 +170,6 @@ window.PAINEL_DATA = {
       "match": "Sporting Cristal x Alianza Lima",
       "channels": [
         "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "19:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Guarani Sub-20",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Cruzeiro",
-      "channels": [
-        "PREMIERE 2",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Flamengo",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "21:30",
-      "competition": "Brasileirão Série A",
-      "match": "Grêmio x Athletico PR",
-      "channels": [
-        "SPORTV",
-        "PREMIERE 3"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "21:30",
-      "competition": "Campeonato Peruano",
-      "match": "FBC Melgar x Comerciantes Unidos",
-      "channels": [
-        "FANATIZ"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "23:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "LD Alajuelense x CD Motagua",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "00:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Club Tijuana",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CD Olimpia x CS Cartagines",
-      "channels": [
-        "DISNEY+"
       ]
     },
     {
@@ -527,48 +527,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.2,
+      "temp_max": 24.7,
       "temp_min": 20.8,
       "chance_chuva": 91,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.0,
+      "temp_max": 26.6,
       "temp_min": 21.1,
       "chance_chuva": 76,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.4,
+      "temp_max": 21.0,
       "temp_min": 15.7,
       "chance_chuva": 96,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 24.1,
+      "temp_max": 23.1,
       "temp_min": 15.8,
       "chance_chuva": 96,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense quebra o silêncio sobre salários e rebate rumores de atrasos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2dvVmNsTTZNM1lEOHd3M21Oc1pBaUpZempIZEl5T3ZVb193OEJ3Z0Y4X1UzaXpmVFhEaURNTjBCUEt4VW9LT1FiM1BiZE1xYTNLbGRaVU9uNnd4VXZJSl9jME9MTmViSnFOWm4zbDdaQ3dSemNlcUhXQ2lfcnF3RWozWjhORDJPMVlYZEk2aVpRTlRZS1BZWGZqYw?oc=5",
-      "data": "29/10 14:32"
-    },
-    {
-      "titulo": "Inteligência artificial projeta vencedor em Fluminense x Internacional - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejFyYXlwQl9zTmtqam1rdGhKU3hTcmZVeW9wZVg5YV9DNFBZNHdSdTFFR3o5YzVLRGNyYWQwVVhXTkhHT2VBbF9OZDhKaW1qZGY4U0tEQ3RXVGFtMnRNaU9LMmJtWTJNdVMwbk5RNGVVSkFjdmZhMWJXTks4b01nZEg3bXpfaE5lZjR5eFNkeEdiRVpuNWZISHlqS1U5dlZsMHZtNUtHd0ZkOWQxZnlwRm1YRmF6OEdp?oc=5",
-      "data": "28/10 10:40"
-    },
-    {
-      "titulo": "Fluminense x Internacional: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0dtUkx4eGFJRk15RkttWFlmQVZ0YmZjcWY1QlRPU0toNUx5aGE0bTlsWV9pVjZ5VmRIQkRZakUxNHdNVGhEZWhPNXdNNlVreU01anRiWTZocnBkdjNKQ191WlVkVDZPbEFvWXNTaU9LaXBLeDNMcHRkWkV6NGo0ZEwyR3Zpa0RRZFFSTUZqbVRiMEdJUHktbGM4NFNKTWZoUTlUa0ZuSWF3X1ZxZnFOcnRod0ZwVU5zUHhHM015LVdOZlpGZ0xnOE50MWg1RDVSSDdBQ2JEV1FqN21PZjZv0gHuAUFVX3lxTE1YX2NHNzh4c1YwRjZma2J6QkxzbWhscG1JWkFpM2FmV1gyUjFMdExTYnZmbEpRNU14QzRPSWFRNmRqZnI0OWZWcUJ4U0pSSUFoY1lfTUttUi00VlR3STNRY0ZnMWJTZVRtclhHRFp4eGhsaWpKQU1oT1d2ZTY3cFZNV3kwVHgxTHBQTlpBS3dxOGZFN0VmMTN6R1dCdmhlczdCME1ScWotWk13cDZySEtFNnVleWVnZVNRZjQtZHFlTVBDMjlDWWcxSTRlRHBHUGl4b2dYQVlMVjBOT2d3TEJKUHgySVVpZFYzMUVJeUE?oc=5",
-      "data": "28/10 06:00"
+      "titulo": "Fluminense quebra sequência negativa e busca virada no fim contra o Inter no Brasileirão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVUtbW4xNDFiY2ZQT094em1SaHg4TXpYTW9NcWJvWGhqRGNjd3BOUjltVWNaZGppSkFiYXVKN1p1S1FJQmRxN3BRTWo2N0tGc19qdGp6cHE0dlFyTUJWaVk4RWhyNWpCOFF6ZDRrZDNpUjlCQUVTcGdhblFfaUJtbXNFV0hqOVNJV3VhTVFfcDA0S2RYQzFwdDhyMlY1QQ?oc=5",
+      "data": "28/10 21:33"
     },
     {
       "titulo": "Fluminense vence o Internacional de virada pelo Campeonato Brasileiro - Fluminense Football Club",
@@ -579,6 +569,16 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense e São Paulo disputam reforço de camisa 10 para a temporada 2027 - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWdPN3lLQURGLTQ3THhGMFhCWEd1WU1za2Q5TzFGOVEzS2s1cXM4d283eXZta05ubk9MTHFKTERZVExaZU1mMEhzOGtUeEhoN2t2QzlJMUdTYVNxVWJpb1BWM09xR3BwQlZOZEdqVXZlSFFlN1BiWmdJZnYxTHBTTGRFUkM2eW41WW9FRG0zRHNrd0FEQ1pDbjVpLU9nd3FPSndJ?oc=5",
       "data": "29/10 12:59"
+    },
+    {
+      "titulo": "Fluminense vira sobre o Inter com gol no fim e abre caminho para o Corinthians sair do Z-4 - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSWo2TmRWZmZ1WFJOQ1g2TWxsSm1iQXE2ZHhET2tHckQ5Nzc1SWpNWXVlMm1QSWdKZG1qT3FrMG5IOGppcGM1LU5pRUVjRUhfbzVyVHA5UE9iZTdEUHVVUEtVUno2cXBOTXVZclBEZVlsaFZ2Q2w3Y19EcTlZcUdIdy1uRlltQnJKeTJsSVA0a0k5LUJnMFBtOFFWUnBmSnFKNmM4a2o0SlVabjFadGY4QWtHeVZ3amRKYUNUbER5eGZIanJpQnI5c0tn0gHPAUFVX3lxTE1RTDN3am1nY0NUSTFtTVVwWGhvX3QtZlFDc18tWGZ4SF85cHE5d0pPMGtnSjJIaC1SXzdueGFoMkgwSjdzZWRVbEhmNGM4QVZkX19NSHFPa2VpMm9lX1VJZDBJc2ozRkRaLU1veWFwSy1WeEVJTXc5dEFSR1MwS25SdG00SU5Dd083MGxKRHlQcExzMnpLZTBtWjJyNUY4WENxd3NueXJNRk05YUpZSFNsVkpIejFfdDJ4MTAwdmc2OEVQY0dPM2ZhZ0lqalNiMA?oc=5",
+      "data": "29/10 00:50"
+    },
+    {
+      "titulo": "Fluminense x Internacional: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0dtUkx4eGFJRk15RkttWFlmQVZ0YmZjcWY1QlRPU0toNUx5aGE0bTlsWV9pVjZ5VmRIQkRZakUxNHdNVGhEZWhPNXdNNlVreU01anRiWTZocnBkdjNKQ191WlVkVDZPbEFvWXNTaU9LaXBLeDNMcHRkWkV6NGo0ZEwyR3Zpa0RRZFFSTUZqbVRiMEdJUHktbGM4NFNKTWZoUTlUa0ZuSWF3X1ZxZnFOcnRod0ZwVU5zUHhHM015LVdOZlpGZ0xnOE50MWg1RDVSSDdBQ2JEV1FqN21PZjZv0gHuAUFVX3lxTE1YX2NHNzh4c1YwRjZma2J6QkxzbWhscG1JWkFpM2FmV1gyUjFMdExTYnZmbEpRNU14QzRPSWFRNmRqZnI0OWZWcUJ4U0pSSUFoY1lfTUttUi00VlR3STNRY0ZnMWJTZVRtclhHRFp4eGhsaWpKQU1oT1d2ZTY3cFZNV3kwVHgxTHBQTlpBS3dxOGZFN0VmMTN6R1dCdmhlczdCME1ScWotWk13cDZySEtFNnVleWVnZVNRZjQtZHFlTVBDMjlDWWcxSTRlRHBHUGl4b2dYQVlMVjBOT2d3TEJKUHgySVVpZFYzMUVJeUE?oc=5",
+      "data": "28/10 06:00"
     }
   ],
   "avisos": []
