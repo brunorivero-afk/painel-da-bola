@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/10/2026 08:15",
+  "atualizado_em": "29/10/2026 14:57",
   "jogos": [
     {
       "sport": "futebol",
@@ -527,58 +527,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.2,
-      "temp_min": 20.6,
-      "chance_chuva": 100,
-      "condicao": "Chuva fraca"
+      "temp_max": 25.2,
+      "temp_min": 20.8,
+      "chance_chuva": 91,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.8,
+      "temp_max": 28.0,
       "temp_min": 21.1,
-      "chance_chuva": 94,
-      "condicao": "Garoa"
+      "chance_chuva": 76,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.2,
+      "temp_max": 21.4,
       "temp_min": 15.7,
-      "chance_chuva": 100,
-      "condicao": "Garoa"
+      "chance_chuva": 96,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.9,
+      "temp_max": 24.1,
       "temp_min": 15.8,
-      "chance_chuva": 99,
-      "condicao": "Garoa"
+      "chance_chuva": 96,
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Algum serve para 2027? Veja números dos gringos emprestados pelo Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejVqN1Z0VWFWZVdRckhtNWtteDVraU5QX05KODNsZWhmSUVsZ1ZESzdNc3MyWFhWal80UGpuYlVfTmFEZVk0VTFZR1FXd0F0VW5USS1aU3VIOGJMOUk2X1F4MzZIaU1vaTd4ckVPTlZfOVNRbUNIcmFtZ1AzNUFWQ3I0V1dJYUU2Z0xMOElUX3NFMkFudmx6ajRCTmxvZzZROU44?oc=5",
-      "data": "28/10 14:03"
+      "titulo": "Fluminense quebra o silêncio sobre salários e rebate rumores de atrasos - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2dvVmNsTTZNM1lEOHd3M21Oc1pBaUpZempIZEl5T3ZVb193OEJ3Z0Y4X1UzaXpmVFhEaURNTjBCUEt4VW9LT1FiM1BiZE1xYTNLbGRaVU9uNnd4VXZJSl9jME9MTmViSnFOWm4zbDdaQ3dSemNlcUhXQ2lfcnF3RWozWjhORDJPMVlYZEk2aVpRTlRZS1BZWGZqYw?oc=5",
+      "data": "29/10 14:32"
     },
     {
-      "titulo": "Fluminense quebra sequência negativa e busca virada no fim contra o Inter no Brasileirão - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVUtbW4xNDFiY2ZQT094em1SaHg4TXpYTW9NcWJvWGhqRGNjd3BOUjltVWNaZGppSkFiYXVKN1p1S1FJQmRxN3BRTWo2N0tGc19qdGp6cHE0dlFyTUJWaVk4RWhyNWpCOFF6ZDRrZDNpUjlCQUVTcGdhblFfaUJtbXNFV0hqOVNJV3VhTVFfcDA0S2RYQzFwdDhyMlY1QQ?oc=5",
-      "data": "28/10 21:33"
+      "titulo": "Inteligência artificial projeta vencedor em Fluminense x Internacional - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQejFyYXlwQl9zTmtqam1rdGhKU3hTcmZVeW9wZVg5YV9DNFBZNHdSdTFFR3o5YzVLRGNyYWQwVVhXTkhHT2VBbF9OZDhKaW1qZGY4U0tEQ3RXVGFtMnRNaU9LMmJtWTJNdVMwbk5RNGVVSkFjdmZhMWJXTks4b01nZEg3bXpfaE5lZjR5eFNkeEdiRVpuNWZISHlqS1U5dlZsMHZtNUtHd0ZkOWQxZnlwRm1YRmF6OEdp?oc=5",
+      "data": "28/10 10:40"
     },
     {
-      "titulo": "Fluminense enfrenta o Botafogo em estreia no Carioca Feminino - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2FKengySHBEWjJCa21OY2xjZnBZYVJWakR2cmlIWkxSV014OFZrODlSUjZZRW13NmJoOEdKU0xDT1BBYXdTSjFfaTNRVEk2T1R5T3p5bGQtMjNvUjJWY3hpc0gwZFU5TERZbTllSGh1ZEpYRXBadDRRbURpTmNaREkwVFl2MXJ6R2xUTS12NTI5OUFacDFkMnFrWVd5UlU3?oc=5",
-      "data": "28/10 10:16"
+      "titulo": "Fluminense x Internacional: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0dtUkx4eGFJRk15RkttWFlmQVZ0YmZjcWY1QlRPU0toNUx5aGE0bTlsWV9pVjZ5VmRIQkRZakUxNHdNVGhEZWhPNXdNNlVreU01anRiWTZocnBkdjNKQ191WlVkVDZPbEFvWXNTaU9LaXBLeDNMcHRkWkV6NGo0ZEwyR3Zpa0RRZFFSTUZqbVRiMEdJUHktbGM4NFNKTWZoUTlUa0ZuSWF3X1ZxZnFOcnRod0ZwVU5zUHhHM015LVdOZlpGZ0xnOE50MWg1RDVSSDdBQ2JEV1FqN21PZjZv0gHuAUFVX3lxTE1YX2NHNzh4c1YwRjZma2J6QkxzbWhscG1JWkFpM2FmV1gyUjFMdExTYnZmbEpRNU14QzRPSWFRNmRqZnI0OWZWcUJ4U0pSSUFoY1lfTUttUi00VlR3STNRY0ZnMWJTZVRtclhHRFp4eGhsaWpKQU1oT1d2ZTY3cFZNV3kwVHgxTHBQTlpBS3dxOGZFN0VmMTN6R1dCdmhlczdCME1ScWotWk13cDZySEtFNnVleWVnZVNRZjQtZHFlTVBDMjlDWWcxSTRlRHBHUGl4b2dYQVlMVjBOT2d3TEJKUHgySVVpZFYzMUVJeUE?oc=5",
+      "data": "28/10 06:00"
     },
     {
-      "titulo": "Fluminense é multado por festa de sinalizadores no Maracanã - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdU9KTUtUeFRTVkM4N2hfa0F4UlpsYS14STdLOXdvemNlTmNnaFVPUVVwVURyaWVfSVQtdGM0OHE1SWtuN0s2NExiemNKa0dSbUdteWV4MDNLcVhfSk1TcFB0eDRpcGNoSjhXR19hOFdjRzdmOWJhcW01RDZuU2pCTGZVQ09FMTR1RzhNQzNmTVFoWTIwS1NVb3BJN1VOZlZ0ZnFoeGRPU0lrSVZXM2hLNloxTHBwY3NzRGZKU0k0c1JMVXByaVdMYm9Sb2xOYk1FeXBEbkFQUVZ3aDYyUDRMV3NzVk0?oc=5",
-      "data": "28/10 15:13"
+      "titulo": "Fluminense vence o Internacional de virada pelo Campeonato Brasileiro - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVlTZXFiOVNma25IVTVDWldPT1NubjBlZVhZUFlhenNZRWtoZ1NOb0xVYWpjbWo1NFZ2dnB0VlJMT25JOEhFV0JjM093OEptV3RoTjY2ODRlVWFMaENOeG5LazhNeHFTVjZ4UG9ZQllsanFTTmJ1NWZtUHZPdllVWGcyNFUwb2dISGJmZUtZTm5rdFBrR1psaFJ3WWJjOXh0TmJVRlMtT1l1UE0?oc=5",
+      "data": "29/10 00:37"
     },
     {
-      "titulo": "Lateral do Fluminense recebe homenagem por 150 jogos pelo clube - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmtxUEdZZU43ZnpFMDdZX0VtQjJHNExENWowc0dmTVN0ODA2TzhkbFZQVjhWVEoyMHZIREZuT0Y1WW5GNDktS0g3NkdUY1dLZFcxYnBRY2MxS08zY08yTHRjdXBnTk12SU9BN0RVTGdteWhBZDdtTjI1LTcyZFBnNGQ4NnZpQ0N4bWdaOXZSenhfVFVvT2ExUEw0WjZGZ1RHWjJDdThwdHota1lBQ3czQUxnZXh3WVVvTWxqU1NSTkxFZ3d5aU5jQW13YXhDeTlZZkN2aURlZ3VkajFqUHpsMDFGMXlKOF9E?oc=5",
-      "data": "28/10 22:33"
+      "titulo": "Fluminense e São Paulo disputam reforço de camisa 10 para a temporada 2027 - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWdPN3lLQURGLTQ3THhGMFhCWEd1WU1za2Q5TzFGOVEzS2s1cXM4d283eXZta05ubk9MTHFKTERZVExaZU1mMEhzOGtUeEhoN2t2QzlJMUdTYVNxVWJpb1BWM09xR3BwQlZOZEdqVXZlSFFlN1BiWmdJZnYxTHBTTGRFUkM2eW41WW9FRG0zRHNrd0FEQ1pDbjVpLU9nd3FPSndJ?oc=5",
+      "data": "29/10 12:59"
     }
   ],
   "avisos": []
