@@ -1,26 +1,6 @@
 {
-  "atualizado_em": "29/10/2026 01:05",
+  "atualizado_em": "29/10/2026 08:15",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "00:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Club America x Club Tijuana",
-      "channels": [
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "00:00",
-      "competition": "CONCACAF Central American Cup",
-      "match": "CD Olimpia x CS Cartagines",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-29",
@@ -134,16 +114,6 @@
     {
       "sport": "futebol",
       "date": "2026-10-29",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Coritiba x Vitória",
-      "channels": [
-        "PREMIERE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
       "time": "20:00",
       "competition": "Brasileirão Série A",
       "match": "Vasco x Flamengo",
@@ -184,8 +154,28 @@
     },
     {
       "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "00:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Club America x Club Tijuana",
+      "channels": [
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "00:00",
+      "competition": "CONCACAF Central American Cup",
+      "match": "CD Olimpia x CS Cartagines",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
       "date": "2026-10-30",
-      "time": "10:45",
+      "time": "09:30",
       "competition": "Campeonato Saudita",
       "match": "Abha x Al-Ittihad FC",
       "channels": [
@@ -254,6 +244,16 @@
       "match": "Al Shabab x Al-Ahli Jeddah",
       "channels": [
         "CANAL GOAT"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "15:00",
+      "competition": "Campeonato Francês",
+      "match": "Nice x Rennes",
+      "channels": [
+        "CAZÉTV"
       ]
     },
     {
@@ -527,31 +527,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.1,
-      "temp_min": 20.2,
+      "temp_max": 23.2,
+      "temp_min": 20.6,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Chuva fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.7,
-      "temp_min": 21.0,
+      "temp_max": 26.8,
+      "temp_min": 21.1,
       "chance_chuva": 94,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.2,
-      "temp_min": 15.3,
+      "temp_max": 20.2,
+      "temp_min": 15.7,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.3,
-      "temp_min": 14.7,
+      "temp_max": 22.9,
+      "temp_min": 15.8,
       "chance_chuva": 99,
-      "condicao": "Pancadas de chuva fortes"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -566,19 +566,19 @@
       "data": "28/10 21:33"
     },
     {
-      "titulo": "A decisão inexplicável da arbitragem na derrota do Inter para o Fluminense - GZH",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUzBnSFY3UGtBMGgzVE9Udlp4MW55Rkp3X0xFOE1UcGx1UU56ZWZFQkpKaDBMYlIwX0hHUHZzQlJCZWVBZXJnRHktNGZqWGRtQnBVM3Q2NEZJQW9jMHNqUER2SGdMb2Y1Vks0UzNVdzhfWGRCbUYxMGx6djBKSGY1NG1QczI3X2gzMEdKSEU5aG9NaVJMS3EtcTl6TTFtZXh0eFZIcDhHSko1NGxkVVhRZTFVUW51NHpDMkRKVVNXcVRKWkd3aFVqNklNRHM2M0JZNkdxWlVxMVdLeVItVDJNTkZDN0xldTI1NVZHdjQ2S0FxSG51Y1FmLXl0SWdVaUpFMzRpRDFoWTFuMzlLNUl3?oc=5",
-      "data": "29/10 03:45"
-    },
-    {
-      "titulo": "Nonato desabafa sobre pênalti perdido e revela apoio no Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONS1lanpOMm1UZ0NZRzBDR0ZGQ3p5eGxrTUxucTVpcGJCR2xRQVZPeDE5ZUFfYnByZmI1V0tDeEZVOHhIXzBBczBDVG5FRFRwNkJ3Y3N6bHY5U2ItLVQ5OHNhcEk2VkMtc0Y5REVDUzRLLUxUU2lOelNwYnY5MGhBNy1PX3RMYXhtUHNLbHNBRFlxRXNZRXBEdG5RSWNrZ3BpN0t6UHRNX3dhYTRmNDlpbjdYNEZVUmNCOFgzbzdmQmFYRDBFc2c?oc=5",
-      "data": "29/10 02:07"
-    },
-    {
       "titulo": "Fluminense enfrenta o Botafogo em estreia no Carioca Feminino - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ2FKengySHBEWjJCa21OY2xjZnBZYVJWakR2cmlIWkxSV014OFZrODlSUjZZRW13NmJoOEdKU0xDT1BBYXdTSjFfaTNRVEk2T1R5T3p5bGQtMjNvUjJWY3hpc0gwZFU5TERZbTllSGh1ZEpYRXBadDRRbURpTmNaREkwVFl2MXJ6R2xUTS12NTI5OUFacDFkMnFrWVd5UlU3?oc=5",
       "data": "28/10 10:16"
+    },
+    {
+      "titulo": "Fluminense é multado por festa de sinalizadores no Maracanã - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdU9KTUtUeFRTVkM4N2hfa0F4UlpsYS14STdLOXdvemNlTmNnaFVPUVVwVURyaWVfSVQtdGM0OHE1SWtuN0s2NExiemNKa0dSbUdteWV4MDNLcVhfSk1TcFB0eDRpcGNoSjhXR19hOFdjRzdmOWJhcW01RDZuU2pCTGZVQ09FMTR1RzhNQzNmTVFoWTIwS1NVb3BJN1VOZlZ0ZnFoeGRPU0lrSVZXM2hLNloxTHBwY3NzRGZKU0k0c1JMVXByaVdMYm9Sb2xOYk1FeXBEbkFQUVZ3aDYyUDRMV3NzVk0?oc=5",
+      "data": "28/10 15:13"
+    },
+    {
+      "titulo": "Lateral do Fluminense recebe homenagem por 150 jogos pelo clube - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmtxUEdZZU43ZnpFMDdZX0VtQjJHNExENWowc0dmTVN0ODA2TzhkbFZQVjhWVEoyMHZIREZuT0Y1WW5GNDktS0g3NkdUY1dLZFcxYnBRY2MxS08zY08yTHRjdXBnTk12SU9BN0RVTGdteWhBZDdtTjI1LTcyZFBnNGQ4NnZpQ0N4bWdaOXZSenhfVFVvT2ExUEw0WjZGZ1RHWjJDdThwdHota1lBQ3czQUxnZXh3WVVvTWxqU1NSTkxFZ3d5aU5jQW13YXhDeTlZZkN2aURlZ3VkajFqUHpsMDFGMXlKOF9E?oc=5",
+      "data": "28/10 22:33"
     }
   ],
   "avisos": []
