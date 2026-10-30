@@ -1,6 +1,114 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "30/10/2026 13:29",
+  "atualizado_em": "30/10/2026 18:20",
   "jogos": [
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "16:30",
+      "competition": "Campeonato Alemão",
+      "match": "SV Elversberg x FSV Mainz 05",
+      "channels": [
+        "SPORTV 3",
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Villarreal x Espanyol",
+      "channels": [
+        "SPORTYNET",
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Sheffield Utd x Wrexham",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:05",
+      "competition": "Campeonato Francês",
+      "match": "Lille x Lens",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:15",
+      "competition": "Campeonato Português",
+      "match": "Casa Pia x Sporting CP",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Ponte Preta",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Mirassol",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "21:15",
+      "competition": "Campeonato Argentino",
+      "match": "Racing Club x Aldosivi",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "22:00",
+      "competition": "Campeonato Mexicano",
+      "match": "Atletico San Luis x Atlas",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "09:30",
+      "competition": "Campeonato Saudita",
+      "match": "Abha x Al-Ittihad FC",
+      "channels": [
+        "SPORTV 3",
+        "CANAL GOAT",
+        "YOUTUBE"
+      ]
+    },
     {
       "sport": "futebol",
       "date": "2026-10-30",
@@ -114,114 +222,6 @@ window.PAINEL_DATA = {
       "match": "Grazer AK x TSV Hartberg",
       "channels": [
         "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "16:30",
-      "competition": "Campeonato Alemão",
-      "match": "SV Elversberg x FSV Mainz 05",
-      "channels": [
-        "SPORTV 3",
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Villarreal x Espanyol",
-      "channels": [
-        "SPORTYNET",
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Sheffield Utd x Wrexham",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:05",
-      "competition": "Campeonato Francês",
-      "match": "Lille x Lens",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:15",
-      "competition": "Campeonato Português",
-      "match": "Casa Pia x Sporting CP",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Ponte Preta",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Mirassol",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "21:15",
-      "competition": "Campeonato Argentino",
-      "match": "Racing Club x Aldosivi",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "22:00",
-      "competition": "Campeonato Mexicano",
-      "match": "Atletico San Luis x Atlas",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "09:30",
-      "competition": "Campeonato Saudita",
-      "match": "Abha x Al-Ittihad FC",
-      "channels": [
-        "SPORTV 3",
-        "CANAL GOAT",
-        "YOUTUBE"
       ]
     },
     {
@@ -951,28 +951,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.7,
-      "temp_min": 21.3,
+      "temp_max": 24.9,
+      "temp_min": 21.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.3,
+      "temp_max": 25.4,
       "temp_min": 21.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.1,
-      "temp_min": 16.7,
+      "temp_max": 24.8,
+      "temp_min": 17.1,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.9,
+      "temp_max": 22.1,
       "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -985,24 +985,24 @@ window.PAINEL_DATA = {
       "data": "30/10 14:31"
     },
     {
+      "titulo": "Sub-17 tricolor disputa Fla-Flu pela Copa Rio - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1h2ZHhEa20ycG51amhlZTBLUU9FRG5fNzJYcGJmNnNrTldRRWJCNUhmVGZjd3dLTHRrdkNGTzIzbm84WnFOTU9USFVEMXpTMGdSYkxhSEJERmlmT3lUbW41bF9KVUhmWXRCTW9DZXE1cGtsT0FUcUw0YU5DTC1qSlBpZG5ZcUhnQVo4?oc=5",
+      "data": "30/10 21:00"
+    },
+    {
+      "titulo": "Com patrocínio, Superscore passa a ser também parceiro de estatísticas do Fluminense - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEhhTWFFTVRGVG1nazFqOWJxSF9tajR5eGUxd3dDekR0ckRhNTNrMDZIdU5CXzZlOF9qTTkxbzhVYzVRN1JUM1lqLXBQT0FfNWxXa2tLakpxSTJ4MnJNVzhWYl9Sd24yVGRoYThJaEVmLVo3c0hmSWw1Ymd1WVB6RVZMUHF3THhGZDRUTFFzS0pfeUNHc0FMQW5aaHNNZ0xZWGZLbk9ybGg0UFlPdmpMQkw3N2dBcjRrcUFVdlFR?oc=5",
+      "data": "30/10 19:19"
+    },
+    {
+      "titulo": "Fluminense inicia campanha pelo bicampeonato do Carioca Masculino de Vôlei - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUFteUhWZ3NfYW1tdzYwaDhxOWRCdmhYem8yTkdyYUYxaGFtWUt3WmNXelRVcmU3UkhBS2I3WTZMdTlRR3NiM3cwTnpiSnJDcnlBSFNCdk1VdGR5QW1GY3hHTUxQSEl4cWhDVFFrTjN3Z1RwbXR0ZE1YZlo4d1c4WnZySkxjMFdxN1E5U2Q3Zl9wWjhhZEV0NU1LQ0wySkFfVzRqNU1KZ0J0aGY4RG4xQkxR?oc=5",
+      "data": "30/10 18:00"
+    },
+    {
       "titulo": "Como o Fluminense planeja atuar na próxima janela de transferências - ge",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDM3UUJnOWJSb0dzVFJ1cVYwMkJDZ2tSRnN5a1BXNDZrRUI1WXdPUHV5MXF3ckwtNHc5RDdyeWpIU0J5dE8xOXpzdnJMeUhKM1NHSk5iM0FTZFMxbkpnTGttN1F4MmZfXzNWbmszd08zeVhUbDlBZVBxbS1qZFd2eTF6eFRPc3drS1lRQkZsRWVMb2dGRl94dzhuZGo3MEd0SjY2YWJGWks0RnBrT0F0eU5pS0lTSmMtdjYtaEV6LTJTZko1a1E3QU5oV3VrTEI5bENlQtIB4wFBVV95cUxQSm9FckpsRnFGNzQtSmdJSTBfa19YaHhqT0djdUtHZjFQTWRsbnh6N2VBQk1TUHowOEw5bnI1ekZPdHctSm1ESmI2Tk1oYXdFRm9ma0tTYlozeDNUM1AzVm40cElkSldhbnZ4bzdraE8taVg5UjFQLTRpLVI3ZDY0RmJJVmMxVWxFSElBaXJCckdGN2ZqRWd5ckw0TDJkZ042RWdEX09HQXVUMmJKb3JScHpyTmpOU0VJT0poWTZrU0Z6MkdJeFBvV1prcW9ZSlR3YU1NRlROZ1docVBTa1lmV09mZw?oc=5",
       "data": "30/10 16:15"
-    },
-    {
-      "titulo": "Paulinho se destaca com participações em gols no Carioca Sub-20 e revela conselho de Fred a meias: 'Coração do time' - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFBxVjNZWUxWaUkyN2RBdEZqWUNyTnVyVGJqZ1VOM21HYkNnNVN3enhIV1lrRldJTFpvT2pUVFdrVkh3MWRyU29OaUVlWVRJbGJ3TVZNVTFkV2tkN18yV2s1RkRyT1JHZ1U2ajRjektOZ282YW1fR3ZpUmQtN2RIbElsSVBsWEFYVHZ4Mng2eXh5UXZHWDNWOVBlUW9sc3F5b1FPRUVZNFZwdWpFYXh3eGYzWHByb3dVMEwzUnhSeEZTbXliSGl4aXVSbFpOSjdKSVFRWDlyek8wd25XQ3cxdFc0by1qUQ?oc=5",
-      "data": "30/10 12:00"
-    },
-    {
-      "titulo": "Guga é homenageado após completar 150 jogos pelo Fluminense - Futebol Interior",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV25uOWlJTXc5bDQ0NTdVVUNMTXE1Q0xJZXpFN0JwSEhMcE4xN2pjSnNPT2lhY3dsdllmX0VQRVVxU05MdEFfbVJGcGF5SUprSUxwelJhcWZLWldhYW5DNmE2YU11SDhoUFBSWFh0UDNQYVNqdUdBdTRnRmVSbVhFYUQ4WHhNYVBPbjNZ?oc=5",
-      "data": "30/10 13:37"
-    },
-    {
-      "titulo": "Marcão revela plano do Fluminense para chegar ao G-4 do Brasileirão - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmRvTnNzMnY1czZ3Mnc4d0Z2SGZfc0lOemt2XzB3ekNqWFo5SHphM1pjTFpZUVBFLXh0OW1XWXFZaTN1NG1saUgzNEt2M3BRMzFPR2hJVnZYZmtYQ0lmcDIxejMtSU5oeWJZRjU2a0o3U3hGcmhpTmplOHVEaVU4QUdoNlp1VnVHeG45TlJBRFRwN05FRVRoQUl3?oc=5",
-      "data": "29/10 15:05"
     }
   ],
   "avisos": []
