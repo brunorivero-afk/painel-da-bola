@@ -1,18 +1,6 @@
 {
-  "atualizado_em": "30/10/2026 06:30",
+  "atualizado_em": "30/10/2026 13:29",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "09:30",
-      "competition": "Campeonato Saudita",
-      "match": "Abha x Al-Ittihad FC",
-      "channels": [
-        "SPORTV 3",
-        "CANAL GOAT",
-        "YOUTUBE"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-30",
@@ -73,7 +61,8 @@
       "match": "Al Shabab x Al-Ahli Jeddah",
       "channels": [
         "BANDSPORTS",
-        "CANAL GOAT"
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -221,6 +210,18 @@
       "match": "Atletico San Luis x Atlas",
       "channels": [
         "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "09:30",
+      "competition": "Campeonato Saudita",
+      "match": "Abha x Al-Ittihad FC",
+      "channels": [
+        "SPORTV 3",
+        "CANAL GOAT",
+        "YOUTUBE"
       ]
     },
     {
@@ -622,7 +623,8 @@
       "competition": "Campeonato Saudita",
       "match": "Al-Hilal x Al-Fateh",
       "channels": [
-        "CANAL GOAT"
+        "CANAL GOAT",
+        "ONEFOOTBALL"
       ]
     },
     {
@@ -949,58 +951,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 24.6,
-      "temp_min": 21.4,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 26.4,
+      "temp_max": 24.7,
       "temp_min": 21.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 26.3,
+      "temp_min": 21.4,
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.5,
-      "temp_min": 17.4,
+      "temp_max": 24.1,
+      "temp_min": 16.7,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.7,
-      "temp_min": 16.2,
+      "temp_max": 23.9,
+      "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Análise: Fluminense ainda sente a eliminação na Libertadores, mas espírito guerreiro garante virada no fim sobre o Inter - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWURYdkxNcjJRUEs0Z0tYazNMZmhGdlAwSzdzbmJOUUdGY0czTWIzT2VNV2VBdG1LYXJQSWg0dER6VmxRUGNKcVNFdWZ5MmczZ05PSmtxMTd3dkRKVDg1VDIzNlgyVzVQN2R3RTRoeHlnaXYyd2E1dE9iZWlLaEVOVWcyai1jNGhpUjlIaTZZVlZReVpud2FiRmdib0wtMWdWN0ZlYlUxUU41VkhVb3otR3dvRzltaFdlcUhOMFlMSnQzblN4UmN0ZGJlcWF3cW9MRGpxdklLQXJNSDJJOW04WkQ5Uld4VHdObTRYdEN5dm9nYWtuRFhkLXFzV1p1Ylp3MTJqdFBYMElkVHdOeU1lMmM5ejVJWXk2VW1mSzRkVHRlZ9IBsAJBVV95cUxQT0FfSDR6bF9qS2g4UE9sYnE2Q3M0RzJnWndPRjVXLWpMRmNIT2dSd2Qyczc4bUdTanlnYzJWUkxQZ2hVSFNtMk42cE93LUpoRVV5MDRpY1hQUkpMYnd1b29aZm1vYTNQc01RZHR1TFM4RFhINDMwM0sxaXlWN2Zicmp6aEpHM25SVVpoVTEtTlJsR3FuQ0tCbnVxV01oR3liZnI4Yzg4aVhQSEctYVQ5MGtqQlVaSGNiUUNyMlZsZE1hV1dpNHFMd3ZVQkQyUHc0eEk2ZlRtQXB0d2NaVEtmT1pHLW5tM1VySmNicm16TTY4bGxkVzRBc3l5YTd2eDZwR3Q2SWlPemJ0UUZHNDZqdVk2ODBKZUw2emhCb0xWcG8yMkF3b2xJcGFlalRybWh5?oc=5",
-      "data": "29/10 04:30"
+      "titulo": "Fluminense entra em grupo seleto e alcança marca expressiva contra o G-12 - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnZsY3pEVGRkZEhpRW5xSkxhLVlIRjZPT0RDWThvempXZ2s4MXB6bFpnUDlTVURxWFBaNDJXMkRhMFBwMDlRWmhQUXpmV3p6bWZzZzF3bEN0MGJJdjY4UkN4NGZTRHlHQUxIMmJMaG1JTnRiLTVWa2l4WHFQWWRoSUpSU1NETFJhLXhqOXBxZE9MRXR1Nk9VcF8yOG51R2FCSUE?oc=5",
+      "data": "30/10 14:31"
     },
     {
-      "titulo": "Após arquivamento de denúncia que abalou sua confiança, Lucho Acosta dá sinais de 'recomeço' no Fluminense - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOFQtdHE2THNtOHNyc09XZXcxVGNYMXdYNWdreGI0QWItMmtnMTZZR19tR1puN1R1aXZ4QVpkdlVYRWcxWDFXSC1zV2daTnNoVHA1Zk00TUJfcUhCMTZST3ZvU05nV3hKemtLRVlyX082N0hwaTVQUWh5NWR3eURvVUkwLTZqVE1xZUVpMHN4dzM5dGQxWU9kNjVueE9nN2lmbG9Qd3RpbFpreTlteHpvbFNZdEVDVklFSEt6S2lLcGFFUmUzbnF3Zm41SFhvN21ieFRxVnp5Z21IM0R0MC1tUG44aHRIZEg0c0JKbWVQTFdNdmVYVV96VG9nMElHcGhOcHItUTh2MUlhTEtSdGfSAZwCQVVfeXFMTVhTS2xTTmhtODFyVlVYM2dfa3FZMEdYOXVnRHJrcTh0X2ZXTjZGcUpsd3I1YzJHSGdoUTJPSGhST0VwcFB0X2p0amZqc1lDQmd5c2lXeWl4Zm5jbWVMMGYtcllVUmJ1Y0VSMU42cmNZZEZJZXc1SU1ya3ZzMTJ6WVA2TUNMeTJSdkVQVmdQenlkaEFVNHRFUW1NV2t3X0ZkLWpMNkY4bzZ5OUFYTllOWnM1NWxYZ2VwQ19XYVhRQWFLQmYxeW1ydmtaWS15c0dncUdhX1NNbTMxVkl6RGVhRnNsenNLQWJGOHRkOG5rRk45aW00d2hVcWd1VVhUY3o5ZXNVNGx4ckNZNVdiejl3aEVoQ0tsa1ktb2NoSFQ?oc=5",
-      "data": "30/10 08:00"
+      "titulo": "Como o Fluminense planeja atuar na próxima janela de transferências - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDM3UUJnOWJSb0dzVFJ1cVYwMkJDZ2tSRnN5a1BXNDZrRUI1WXdPUHV5MXF3ckwtNHc5RDdyeWpIU0J5dE8xOXpzdnJMeUhKM1NHSk5iM0FTZFMxbkpnTGttN1F4MmZfXzNWbmszd08zeVhUbDlBZVBxbS1qZFd2eTF6eFRPc3drS1lRQkZsRWVMb2dGRl94dzhuZGo3MEd0SjY2YWJGWks0RnBrT0F0eU5pS0lTSmMtdjYtaEV6LTJTZko1a1E3QU5oV3VrTEI5bENlQtIB4wFBVV95cUxQSm9FckpsRnFGNzQtSmdJSTBfa19YaHhqT0djdUtHZjFQTWRsbnh6N2VBQk1TUHowOEw5bnI1ekZPdHctSm1ESmI2Tk1oYXdFRm9ma0tTYlozeDNUM1AzVm40cElkSldhbnZ4bzdraE8taVg5UjFQLTRpLVI3ZDY0RmJJVmMxVWxFSElBaXJCckdGN2ZqRWd5ckw0TDJkZ042RWdEX09HQXVUMmJKb3JScHpyTmpOU0VJT0poWTZrU0Z6MkdJeFBvV1prcW9ZSlR3YU1NRlROZ1docVBTa1lmV09mZw?oc=5",
+      "data": "30/10 16:15"
     },
     {
-      "titulo": "Nonato, do Fluminense, revela proibição imposta por Thiago Silva - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNemJnOWk2bVEwOUxwZ0ZqSGd5MkpKWTBQbGRDSE5XSUtTc29hNTFhbDdhTG1fYzRuSGZPbmRkczdDUFFZOFdNUXYtbDBnNkZJOEJVSkdUZ2l3WFFQRjB5RnNJaWJuaXY5R0F3T2xSY0xqakVVbkVMRFoyVFZia3VBc05Gb2dLaFR5aXRmbEFTV3dJTGRXNDV0ZmtBTmpXZk4tR09jdnJVdFVzVWJPU2hXbXdSOVZKdmNPOUJfZmF5SFNVajg1OWNudG1pekV5MDlNOFBSS3J0YWxvd0RLMGsydzJZWTh6djJH?oc=5",
-      "data": "29/10 20:36"
+      "titulo": "Paulinho se destaca com participações em gols no Carioca Sub-20 e revela conselho de Fred a meias: 'Coração do time' - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTFBxVjNZWUxWaUkyN2RBdEZqWUNyTnVyVGJqZ1VOM21HYkNnNVN3enhIV1lrRldJTFpvT2pUVFdrVkh3MWRyU29OaUVlWVRJbGJ3TVZNVTFkV2tkN18yV2s1RkRyT1JHZ1U2ajRjektOZ282YW1fR3ZpUmQtN2RIbElsSVBsWEFYVHZ4Mng2eXh5UXZHWDNWOVBlUW9sc3F5b1FPRUVZNFZwdWpFYXh3eGYzWHByb3dVMEwzUnhSeEZTbXliSGl4aXVSbFpOSjdKSVFRWDlyek8wd25XQ3cxdFc0by1qUQ?oc=5",
+      "data": "30/10 12:00"
     },
     {
-      "titulo": "Futebol feminino do Fluminense recebe projeto “Pretas em Campo” para dia especial no CEFAN - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWlQbVpsLThLaDR0MWtlNlVLUUZnQW1maWlSdEhDcldTR0hqRThCbHUwN3FmckNGbGtLdDZwTEczd2RMR0dnUGtjWXRHdnR6SEZXMlA3eWpiWHBCdDNUNUUxSVNuYk5heTFqMk1VeWc3Ulg5OEFCemJwb3hVVmdSSzF6REJjbXJqeEdKb0VyeG0wNUZsRXJ4ekUwWEFyWVBkVVNkNVJRUE9FLTJWYld0QUpiY05NVkphUlI1QlZUYzM0V3dn?oc=5",
-      "data": "29/10 17:17"
+      "titulo": "Guga é homenageado após completar 150 jogos pelo Fluminense - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV25uOWlJTXc5bDQ0NTdVVUNMTXE1Q0xJZXpFN0JwSEhMcE4xN2pjSnNPT2lhY3dsdllmX0VQRVVxU05MdEFfbVJGcGF5SUprSUxwelJhcWZLWldhYW5DNmE2YU11SDhoUFBSWFh0UDNQYVNqdUdBdTRnRmVSbVhFYUQ4WHhNYVBPbjNZ?oc=5",
+      "data": "30/10 13:37"
     },
     {
-      "titulo": "Internacional reclama de arbitragem contra o Fluminense: 'Assaltados' - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONEdNWE9GYm9kdXVZejZsRURNLVFEZFhTX3owQkp3dXJBRW5QUEVPSzFYcThPdGNLWnZMTUNuUzZibEQtTklvYkJsbkt1dnQwdUJEWGI5T09EUE9UbTlCdDlkcExJQXpkN2x2RnVmeHpNekZ4LXFEZm5KOGFuQ3p4MVNKS0hkLVV3VkVBTExYM1pxcTNuMGtzVUV6ZlFTNjlZNy1lNXg2OVRXdEYzTlRiZlhXck95SUVCZWfSAb8BQVVfeXFMTnBBb0gzVDJlWGNmNk9jMmNDWFhjelpaZVBvSnZYR2Q5eTZCc0g2cVFvazZqVlRURU0wZktabWFXa09CTS1DR0NWdVVENzg4YWdNM21lLXQ0Z3AzWmdGMEFDeFB6cjYwV2Jvc1ZyN0xoaWdtWWV1UEN2dEhGb2V2bWdWNWptbjBURUVOY1VMSHpHeG1Vd1cwMHF2N1B6U3c1NnluZ0ZXaHhBR3VGOVJaNmxlLTVIYjUzbS1Da1UzWFE?oc=5",
-      "data": "29/10 15:13"
+      "titulo": "Marcão revela plano do Fluminense para chegar ao G-4 do Brasileirão - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmRvTnNzMnY1czZ3Mnc4d0Z2SGZfc0lOemt2XzB3ekNqWFo5SHphM1pjTFpZUVBFLXh0OW1XWXFZaTN1NG1saUgzNEt2M3BRMzFPR2hJVnZYZmtYQ0lmcDIxejMtSU5oeWJZRjU2a0o3U3hGcmhpTmplOHVEaVU4QUdoNlp1VnVHeG45TlJBRFRwN05FRVRoQUl3?oc=5",
+      "data": "29/10 15:05"
     }
   ],
   "avisos": []
