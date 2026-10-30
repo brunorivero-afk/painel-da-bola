@@ -1,38 +1,6 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "29/10/2026 19:29",
+  "atualizado_em": "29/10/2026 23:22",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "19:00",
-      "competition": "Paulista Sub-20",
-      "match": "Corinthians Sub-20 x Guarani Sub-20",
-      "channels": [
-        "XSPORTS",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "19:30",
-      "competition": "Brasileirão Série A",
-      "match": "Atlético-MG x Cruzeiro",
-      "channels": [
-        "PREMIERE 2",
-        "PREMIERE FC"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-29",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Vasco x Flamengo",
-      "channels": [
-        "PRIME VIDEO"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-29",
@@ -170,6 +138,38 @@ window.PAINEL_DATA = {
       "match": "Sporting Cristal x Alianza Lima",
       "channels": [
         "FANATIZ"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "19:00",
+      "competition": "Paulista Sub-20",
+      "match": "Corinthians Sub-20 x Guarani Sub-20",
+      "channels": [
+        "XSPORTS",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "19:30",
+      "competition": "Brasileirão Série A",
+      "match": "Atlético-MG x Cruzeiro",
+      "channels": [
+        "PREMIERE 2",
+        "PREMIERE FC"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-29",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Vasco x Flamengo",
+      "channels": [
+        "PRIME VIDEO"
       ]
     },
     {
@@ -396,16 +396,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-10-29",
-      "time": "18:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Cruzeiro x Monte Carmelo",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-29",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Paulistano Barueri",
@@ -529,29 +519,29 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 24.7,
       "temp_min": 20.8,
-      "chance_chuva": 91,
+      "chance_chuva": 95,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
       "temp_max": 26.6,
       "temp_min": 21.1,
-      "chance_chuva": 76,
-      "condicao": "Garoa"
+      "chance_chuva": 84,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 21.0,
       "temp_min": 15.7,
-      "chance_chuva": 96,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 94,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 23.1,
       "temp_min": 15.8,
       "chance_chuva": 96,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -561,24 +551,24 @@ window.PAINEL_DATA = {
       "data": "28/10 21:33"
     },
     {
-      "titulo": "Fluminense vence o Internacional de virada pelo Campeonato Brasileiro - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVlTZXFiOVNma25IVTVDWldPT1NubjBlZVhZUFlhenNZRWtoZ1NOb0xVYWpjbWo1NFZ2dnB0VlJMT25JOEhFV0JjM093OEptV3RoTjY2ODRlVWFMaENOeG5LazhNeHFTVjZ4UG9ZQllsanFTTmJ1NWZtUHZPdllVWGcyNFUwb2dISGJmZUtZTm5rdFBrR1psaFJ3WWJjOXh0TmJVRlMtT1l1UE0?oc=5",
-      "data": "29/10 00:37"
+      "titulo": "Veja os gols decisivos de Hércules com a camisa do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJkcGpydVhJSGFPQ1pGZWdMOHlxUkV1ZTY3a1B2TlJyUXhhdThkU3dIRU9uZHAzeFd0S1NBVlpUY0lsYWs4eGJ6S1dVTzNVV3lJeEZMMml6TGE3QXUxOEhsUURyTXVGSFA3TUJaeU8zTER4RkRxeURHOUdkQ1V2ZFFBdEQ3NjAwcnZHNXB3UVc4MlZENTVZVmJ0N1o4cTZ4M2ZDOTVhTWJfWjNYYlV2bNIBvwFBVV95cUxQcnBzcVFiUVBXSWtjN1BhVEppblNKWWVDNGI0QnpJTGtMSlVrc1dHNkIwLXdPc3hFZGdUbmJvZFY4U3dxenlCWFpIQTFXSFdvSTdLd3A2MzVKemRaZWEySWwzWnYyVWQwVG5XZG1rZ1NtWHB6QjEzRVI5ZHlRUVN3WFNqbUV5SjFoMVRJSEFSWlJCallGR3F2WXZTbGQ2STBucFhOTldJczVSYlBSQi0tQUoteEdFNGdfdDJBLW5XYw?oc=5",
+      "data": "29/10 21:47"
     },
     {
-      "titulo": "Fluminense e São Paulo disputam reforço de camisa 10 para a temporada 2027 - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWdPN3lLQURGLTQ3THhGMFhCWEd1WU1za2Q5TzFGOVEzS2s1cXM4d283eXZta05ubk9MTHFKTERZVExaZU1mMEhzOGtUeEhoN2t2QzlJMUdTYVNxVWJpb1BWM09xR3BwQlZOZEdqVXZlSFFlN1BiWmdJZnYxTHBTTGRFUkM2eW41WW9FRG0zRHNrd0FEQ1pDbjVpLU9nd3FPSndJ?oc=5",
-      "data": "29/10 12:59"
+      "titulo": "Resumo do Dia: Hulk dá explicações, revolta do presidente do Inter e briga pelo G4 no Brasileiro (29/10) - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdi1jQnVlcXJyNjVuTzd6LXMwSmc3eWlIZjFYY3Z0VlBzUjNYWkZvb2k4R3N5OGZBMDkxQUlodEV2VTJWMlVScHY0Z1FRNjA4emJPcElEQ1J5TlZxdjRmS19najRxbDdaSXFGM2F1bWhNSzRPODN2WTBJT3d3RFJZOGdidFN4RzBQOFk2QVJFbUoycDNVa1RYZ2Y2MElMbjI2S0EwaTQ1b1lHV3BXYXFFbllIb1JSVUJNWGpmQU4xM0VycG1oTlE?oc=5",
+      "data": "30/10 02:15"
     },
     {
-      "titulo": "Fluminense vira sobre o Inter com gol no fim e abre caminho para o Corinthians sair do Z-4 - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSWo2TmRWZmZ1WFJOQ1g2TWxsSm1iQXE2ZHhET2tHckQ5Nzc1SWpNWXVlMm1QSWdKZG1qT3FrMG5IOGppcGM1LU5pRUVjRUhfbzVyVHA5UE9iZTdEUHVVUEtVUno2cXBOTXVZclBEZVlsaFZ2Q2w3Y19EcTlZcUdIdy1uRlltQnJKeTJsSVA0a0k5LUJnMFBtOFFWUnBmSnFKNmM4a2o0SlVabjFadGY4QWtHeVZ3amRKYUNUbER5eGZIanJpQnI5c0tn0gHPAUFVX3lxTE1RTDN3am1nY0NUSTFtTVVwWGhvX3QtZlFDc18tWGZ4SF85cHE5d0pPMGtnSjJIaC1SXzdueGFoMkgwSjdzZWRVbEhmNGM4QVZkX19NSHFPa2VpMm9lX1VJZDBJc2ozRkRaLU1veWFwSy1WeEVJTXc5dEFSR1MwS25SdG00SU5Dd083MGxKRHlQcExzMnpLZTBtWjJyNUY4WENxd3NueXJNRk05YUpZSFNsVkpIejFfdDJ4MTAwdmc2OEVQY0dPM2ZhZ0lqalNiMA?oc=5",
-      "data": "29/10 00:50"
+      "titulo": "Hércules já é o 4º volante com mais gols pelo Fluminense no século; Veja o top 5 - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb25IMzdLYXctOERFMkdqMi1zdXNRWThSVGpJNElYVXIyVUdEMXpvNWFKUWthVjMxakN6YW53Z1RQSl9samFReWdiczJIQzRKZTh1YzAtMHNmMU9vaXdjQ2pud0JwUzMyRUw1YndHSi1QZTRxUW93Ny1uU2RWcXI3R1ZyWHd3Z1pHOTV5VDdGMi00aG40WkJERGNLS1kzc0FuWDFDOEJQb25vZw?oc=5",
+      "data": "29/10 22:31"
     },
     {
-      "titulo": "Fluminense x Internacional: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0dtUkx4eGFJRk15RkttWFlmQVZ0YmZjcWY1QlRPU0toNUx5aGE0bTlsWV9pVjZ5VmRIQkRZakUxNHdNVGhEZWhPNXdNNlVreU01anRiWTZocnBkdjNKQ191WlVkVDZPbEFvWXNTaU9LaXBLeDNMcHRkWkV6NGo0ZEwyR3Zpa0RRZFFSTUZqbVRiMEdJUHktbGM4NFNKTWZoUTlUa0ZuSWF3X1ZxZnFOcnRod0ZwVU5zUHhHM015LVdOZlpGZ0xnOE50MWg1RDVSSDdBQ2JEV1FqN21PZjZv0gHuAUFVX3lxTE1YX2NHNzh4c1YwRjZma2J6QkxzbWhscG1JWkFpM2FmV1gyUjFMdExTYnZmbEpRNU14QzRPSWFRNmRqZnI0OWZWcUJ4U0pSSUFoY1lfTUttUi00VlR3STNRY0ZnMWJTZVRtclhHRFp4eGhsaWpKQU1oT1d2ZTY3cFZNV3kwVHgxTHBQTlpBS3dxOGZFN0VmMTN6R1dCdmhlczdCME1ScWotWk13cDZySEtFNnVleWVnZVNRZjQtZHFlTVBDMjlDWWcxSTRlRHBHUGl4b2dYQVlMVjBOT2d3TEJKUHgySVVpZFYzMUVJeUE?oc=5",
-      "data": "28/10 06:00"
+      "titulo": "Nonato, do Fluminense, revela proibição imposta por Thiago Silva - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNemJnOWk2bVEwOUxwZ0ZqSGd5MkpKWTBQbGRDSE5XSUtTc29hNTFhbDdhTG1fYzRuSGZPbmRkczdDUFFZOFdNUXYtbDBnNkZJOEJVSkdUZ2l3WFFQRjB5RnNJaWJuaXY5R0F3T2xSY0xqakVVbkVMRFoyVFZia3VBc05Gb2dLaFR5aXRmbEFTV3dJTGRXNDV0ZmtBTmpXZk4tR09jdnJVdFVzVWJPU2hXbXdSOVZKdmNPOUJfZmF5SFNVajg1OWNudG1pekV5MDlNOFBSS3J0YWxvd0RLMGsydzJZWTh6djJH?oc=5",
+      "data": "29/10 20:36"
     }
   ],
   "avisos": []
