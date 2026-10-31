@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "31/10/2026 16:01",
+  "atualizado_em": "31/10/2026 19:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -1232,7 +1232,7 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.3,
+      "temp_max": 25.2,
       "temp_min": 21.2,
       "chance_chuva": 29,
       "condicao": "Garoa fraca"
@@ -1261,29 +1261,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense já acumula R$ 56 milhões em premiações e está perto de bater meta milionária - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFNRaFAxd1loYTZjY2draEJzaEdiSzUyamFPNUJxRndfUG9kWUxydXBFNG5KR3hCZ3JFM0wwUG9kR1VGeU1GQ2dsSHpnMEtXQ182aDFvNUxhRDVXX3FJRTVKQ3E4RThDT0RxTVRJc1BxeVV1NjN6RzlzdTFEbXlldUgyZWlfc0lBWVo0UkJDU1VGX2kzNGQxWG4zdlhlXzNoaTlWN0pqR2RPeDlUUW9EOWRIMA?oc=5",
-      "data": "31/10 15:51"
-    },
-    {
-      "titulo": "Ex-Fluminense marca em jogo da Premier League - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFOaGtQR185WTNHbTFYRzUweWhDTWo2SUxBOWg1UWhDQ1FxY3hoNUVzNXpoOVBZQWNMWnJoM2FfV2xnQlVaRTJpSUd6VXhtODVhLWFvOVFhaTdfMTVqN1ZvYTR6dG5SS0ZsNUhMaW81RnluQk41THhBalJ1ajUtVmJ5UzBEamstNUJtT2xBeWdLU3ktdzJlbXROTVJ3UQ?oc=5",
-      "data": "31/10 16:17"
-    },
-    {
-      "titulo": "Fluminense vence o Vasco de virada pelo Carioca Feminino - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTBkRXkycjFFVzJTUF9GbnBfNTViTnhwaC1WZ3pxbFFDV3BaYVowclREVVRmakxVZTBINEZlSndlRFJ2VDJIWU5ONUk2QzdOUG1qcGlXdDJUeGRoUVdkVEJ1LXg5M3hPcm41a1kzbzZTeEczdXlyNklaa0NMSFlsT3lIdHVCcTlyNGFnNTA0NXoxX19GZjVtUlhB?oc=5",
-      "data": "31/10 16:03"
-    },
-    {
       "titulo": "Além do Fluminense, André surpreende ao apontar outro clube brasileiro onde gostaria de jogar - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3h2R0ZtNzVqNjVaZXBVbV9kSElqaGNDMzZCaW4tbThSSkMyZkNIYXNWbV9GQy1YR2taQmljLTZVWS1GMFBhMnRLN09XNEJleFJFQTBhVldrMTVqYVRqbHVLUm5Zc3V4TVJnMzllNldib1pCRXN0OTQ2YkJKRVBDcEp5cUFMSG5WX19zRmJldEZiUUJLRS1yUW5RX1ZGMThwUFlHQk5ROFpUeVg5bjNHNExRbDNvX3lJdVJ3?oc=5",
       "data": "31/10 15:37"
     },
     {
-      "titulo": "Fluminense atinge marca histórica com vitória sobre o Internacional - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaUZ0SEUwT1NfQ05aT1hMMDkzd2hpZTJ1RXRUSWxQb0QwLXpoX2p0WUh6ZjlWZ2Y1WGJCRTV6M3ZYcXhobXRkRnZnaTd1bGRpQlZNQUIycWx6bnBpbUxrUlktTHlvZEFodk1XbXd1WjFET0xZd1dfQ2NaYVFfZnIzR0pSSklRX08tcUdfdkJJVTgxdWNHbVZjZUU4dGZOSmMzMDROUkVlckV2WFEtaVQ1MDdBMnE1TEcydVJuemxoeWI5V1Izb3o5c3lpenRnRGhVTVp1Wll5SEdjc3FCZWgzWEk4V201bHZwd1NOaFR3?oc=5",
-      "data": "30/10 17:37"
+      "titulo": "André detalha recusa ao Liverpool-ING para seguir no Fluminense - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZklqQXZqazhyNkxINTh1VHFIM25nRkh6TXRzaEpmZDlyN1FuVVdTaDN5eFZMMUxlQWNVdENFZmVMNTVRbHQ2c2drN2ktOWZVZ0ZXTkpuQnFmbGxMc0pKTmlON3hYRFRJODJSMW9IMjM4ejZOZVFGQ195TThicmE5b3BYMEFoUlpQNm1QOGtEd1lJVjRmQkFVNjlRNGJqSGNDZ1p0VkNPRVZDWFhZYURGVVJlRTNHcWJ0eTZUVnVBeXZfUmJuNTFZeFQyNTRxLU9JdHNFdXJXbkxaUGd5M2VMZ2tEZkpqaGtH?oc=5",
+      "data": "31/10 20:14"
+    },
+    {
+      "titulo": "Como o Fluminense planeja atuar na próxima janela de transferências - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDM3UUJnOWJSb0dzVFJ1cVYwMkJDZ2tSRnN5a1BXNDZrRUI1WXdPUHV5MXF3ckwtNHc5RDdyeWpIU0J5dE8xOXpzdnJMeUhKM1NHSk5iM0FTZFMxbkpnTGttN1F4MmZfXzNWbmszd08zeVhUbDlBZVBxbS1qZFd2eTF6eFRPc3drS1lRQkZsRWVMb2dGRl94dzhuZGo3MEd0SjY2YWJGWks0RnBrT0F0eU5pS0lTSmMtdjYtaEV6LTJTZko1a1E3QU5oV3VrTEI5bENlQtIB4wFBVV95cUxQSm9FckpsRnFGNzQtSmdJSTBfa19YaHhqT0djdUtHZjFQTWRsbnh6N2VBQk1TUHowOEw5bnI1ekZPdHctSm1ESmI2Tk1oYXdFRm9ma0tTYlozeDNUM1AzVm40cElkSldhbnZ4bzdraE8taVg5UjFQLTRpLVI3ZDY0RmJJVmMxVWxFSElBaXJCckdGN2ZqRWd5ckw0TDJkZ042RWdEX09HQXVUMmJKb3JScHpyTmpOU0VJT0poWTZrU0Z6MkdJeFBvV1prcW9ZSlR3YU1NRlROZ1docVBTa1lmV09mZw?oc=5",
+      "data": "30/10 16:15"
+    },
+    {
+      "titulo": "Fluminense perde para o Flamengo pela Copa Rio Sub-17 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaF9yamZIRnZsSkNqZnhZakVTcktRYnp3MFA5V3dPSWpNMm9QN0swMUw3RVo5Z2pjTi1MVmtBNE1ySG9XTVBuRGEtQjNsbDh5cmxlNXY3LXM5b2RpTkVUaTJYaFJLaldiNnJjQzR3RS1WT204Q21QQlBUUjBYSWhtMzJaYzRlT1R0RDJfOGlQbVU1eVh5c1E?oc=5",
+      "data": "31/10 15:10"
+    },
+    {
+      "titulo": "Ex-Fluminense marca em jogo da Premier League - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFOaGtQR185WTNHbTFYRzUweWhDTWo2SUxBOWg1UWhDQ1FxY3hoNUVzNXpoOVBZQWNMWnJoM2FfV2xnQlVaRTJpSUd6VXhtODVhLWFvOVFhaTdfMTVqN1ZvYTR6dG5SS0ZsNUhMaW81RnluQk41THhBalJ1ajUtVmJ5UzBEamstNUJtT2xBeWdLU3ktdzJlbXROTVJ3UQ?oc=5",
+      "data": "31/10 16:17"
     }
   ],
   "avisos": [
