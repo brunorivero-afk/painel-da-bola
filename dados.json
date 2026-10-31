@@ -1,37 +1,6 @@
 {
-  "atualizado_em": "31/10/2026 04:55",
+  "atualizado_em": "31/10/2026 11:16",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-31",
-      "time": "09:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "VfL Wolfsburg x VfL Osnabruck",
-      "channels": [
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-31",
-      "time": "09:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "SV Darmstadt 98 x FC Magdeburg",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-31",
-      "time": "09:00",
-      "competition": "2ª Divisão Alemã",
-      "match": "FC Kaiserslautern x Hertha Berlin",
-      "channels": [
-        "PPV ONEFOOTBALL"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-31",
@@ -390,6 +359,7 @@
       "match": "Al-Hilal x Al-Fateh",
       "channels": [
         "BAND",
+        "BANDSPORTS",
         "CANAL GOAT",
         "ONEFOOTBALL"
       ]
@@ -592,6 +562,37 @@
       "match": "Colorado Rapids x Chicago Fire",
       "channels": [
         "APPLE TV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-31",
+      "time": "09:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "VfL Wolfsburg x VfL Osnabruck",
+      "channels": [
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-31",
+      "time": "09:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "SV Darmstadt 98 x FC Magdeburg",
+      "channels": [
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-31",
+      "time": "09:00",
+      "competition": "2ª Divisão Alemã",
+      "match": "FC Kaiserslautern x Hertha Berlin",
+      "channels": [
+        "PPV ONEFOOTBALL"
       ]
     },
     {
@@ -1170,7 +1171,7 @@
     {
       "sport": "volei",
       "date": "2026-10-31",
-      "time": "15:30",
+      "time": "15:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Norde Vôlei",
       "channels": [
@@ -1180,7 +1181,7 @@
     {
       "sport": "volei",
       "date": "2026-10-31",
-      "time": "20:30",
+      "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Guarulhos x Cruzeiro",
       "channels": [
@@ -1190,7 +1191,7 @@
     {
       "sport": "volei",
       "date": "2026-10-31",
-      "time": "18:00",
+      "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Minas",
       "channels": [
@@ -1212,7 +1213,7 @@
       "date": "2026-10-31",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Londrina x Sesi-Bauru",
+      "match": "Praia Clube x Paulistano Barueri",
       "channels": [
         "SporTV2"
       ]
@@ -1222,7 +1223,7 @@
       "date": "2026-10-31",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Norde Vôlei x Campinas",
+      "match": "Sesi-Bauru x Fluminense",
       "channels": [
         "SporTV2"
       ]
@@ -1231,30 +1232,30 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.1,
-      "temp_min": 21.4,
-      "chance_chuva": 14,
+      "temp_max": 25.3,
+      "temp_min": 21.2,
+      "chance_chuva": 18,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.2,
+      "temp_max": 25.1,
       "temp_min": 21.4,
-      "chance_chuva": 4,
+      "chance_chuva": 9,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.9,
-      "temp_min": 15.6,
-      "chance_chuva": 67,
-      "condicao": "Garoa"
+      "temp_max": 26.5,
+      "temp_min": 16.6,
+      "chance_chuva": 100,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.2,
-      "temp_min": 15.6,
-      "chance_chuva": 99,
+      "temp_max": 21.6,
+      "temp_min": 15.7,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
@@ -1265,19 +1266,19 @@
       "data": "29/10 14:32"
     },
     {
-      "titulo": "E o Freytes? De titular absoluto com Zubeldía ao fim da fila de Marcão, zagueiro tem futuro ameaçado no Fluminense - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZEpMQmxpSC1ENXNRWllvNWEtVTNGWU5TWmlDVVlvVGZLb2RqZXdLRDlrVmVIcHBtdTc5NjdySVI2WUJJbk9nOUFwaGhtdjJ2UXBBVFRaWVM1Q0o5RWhTWDA1SXhYc1JSVUdqVTNrWGJfc3Q3UGkyaUZ0WXhqa3RWRkdzUkJKak5RXzY5ZFFJZHY4ODc3MmVHMG1RZnVVS1hoT3ZsRWVJSGw1dm4tMmZIbHJsVnluUXhqRUpUUDJySnVOOUlhZXBiSGZoeDNzQWlpU0RQMVlJc29CVkpOSTI5M3c1Z1haeVlLdVN4ekR2cXZOd3BjQ0tmRmRxSUtvZG1mR0YxLTRuMUrSAZcCQVVfeXFMTzAwaHVnQTJTTDRJVDBOOVlpTW1mSjN2dkZ4UXlnLTdLRWtaSEs5anJoNjhBYzEzRkJFb0c2YkdkUUVEbi1IaGpxd0hHTlZGUUc1NGVpd3lnVXZzMTFENHp4RURuMUJhRlA5dzZJNUtqT241U3RDMU5idV94OVZqUDM1ZklhS3lfNm9Jc2FCemZNREVKeGphQjdTd0RJVGw5aE8xZFRRNW1HNThObUpjdW13dDVXTEdqdXYweVFIZjc1UXlDME1OSnVDM2hwTjEyNlBwU0hEeVdQNUdHSFhfdkZhSXNLMG9wVzNicmNqR25mLTd5cEtTRll5T0tmYWxvWWpjbzQwRGpHSkMyNk1LYXpCZUxUZTB3?oc=5",
-      "data": "31/10 07:30"
+      "titulo": "Fluminense recebe o Vasco pelo Carioca Feminino - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3hTUEhUYU4xemRVTGZoWUVhb3FQYkF5WmgxVW5LdEJBeldRZnI2T0tFcjlNTWJxbHcwVW5nTDBwWDc1amMzQXpsYjBHTWs2WXVMSmo3OUtHcDlTU1FtNTlYVm1MdUY0MUJnQWRWV2RNajJVZFRMRjRKWWZhV1BnVzF2Y0hsSW9RUnB6a19B?oc=5",
+      "data": "31/10 10:00"
     },
     {
-      "titulo": "Terceiro clube com maior premiação em 2026, Fluminense está perto de bater meta por performance esportiva - ge",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPUkpXWHd2TUNkMjA5amtvTXZQQVFoZTF4YU1uQXpDSUQxM2lPbGZsOXJESkJ0RWlzM29DODVUbDhSNFdiRWkyeFhrMUhBbjlmQWxQczZndGd4M2ZxNG1ZNUpXZGNEdWVrd3hfM1BsUUpSV0NFRnlXUGlQTWxKWWNyUHFtUlpEUkxyZzZxdEpGSEhFRVd2YTlzTTdqNkhEdkpZdDdtczR2VGhsbk9fYk9WekpYaVRWWjZJbGxRc1ljeFJuS0RWdE0zTDZSU3FyOTU0bkJhV0huSjlYZVpSQ2tQZTE5S0lXSF9QSVRUVFRScWhNZGhaeWM4dXBKSnkzWExNalZITmZR0gGUAkFVX3lxTE1kZF85bUJQSDJrakkyenh6V2hhMEg4eHR4OS10V2V1YUxxbmJITXhNWURLcjZOUzRTenRtRzhrMGtobHRkMjcxdkVKdzViUnAtLXpQaHdwRlZobGI1ZU9IQUJCVEhvaDhCb2xETm9hQzJHLXpma3JDck9ZV09BNy1pYzZrVTZvWF95VVdkZVNOejhDNVJhU1dDWmNlaGprN2JDM0k2YzBPckMzcHpDRTUxZHoxWlpWLU5BOW1TWVgtUlZSZ0VnS3J0Z3pGOFJORGJZa0phTHItaVViNjRNSG9STGtiN1RGSnJkT2MzUzFtYXNJd0NDdUlGRzZfSmZCaWJ4VTc5SWlXcUVaQ3JUZ3ZVdXhsMg?oc=5",
-      "data": "31/10 06:00"
+      "titulo": "André revela escolha entre milhões do Liverpool e promessa ao Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0V5Qzh0T0E1dXRJTVNreFktUXgtT0tFcU5naGd1SmR3alUzSzk3aXp2OFg2QXl4UkxnNTFxTm9wSUp4dGxBdHhER2ZMcGNmWWJUR0FMbWVNdHBlT3phWm02MFYycS1rYzhPYjV1NHd6QXBycnJNbDhyQ3RGSEJhX3VqSHkzUTFfZXBIb3ZfeHVYVnZ1am1zS2JPY203Z3NB?oc=5",
+      "data": "31/10 13:02"
     },
     {
-      "titulo": "Sub-17 tricolor disputa Fla-Flu pela Copa Rio - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1h2ZHhEa20ycG51amhlZTBLUU9FRG5fNzJYcGJmNnNrTldRRWJCNUhmVGZjd3dLTHRrdkNGTzIzbm84WnFOTU9USFVEMXpTMGdSYkxhSEJERmlmT3lUbW41bF9KVUhmWXRCTW9DZXE1cGtsT0FUcUw0YU5DTC1qSlBpZG5ZcUhnQVo4?oc=5",
-      "data": "30/10 21:00"
+      "titulo": "Fluminense já acumula R$ 56 milhões em premiações e está perto de bater meta milionária - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFNRaFAxd1loYTZjY2draEJzaEdiSzUyamFPNUJxRndfUG9kWUxydXBFNG5KR3hCZ3JFM0wwUG9kR1VGeU1GQ2dsSHpnMEtXQ182aDFvNUxhRDVXX3FJRTVKQ3E4RThDT0RxTVRJc1BxeVV1NjN6RzlzdTFEbXlldUgyZWlfc0lBWVo0UkJDU1VGX2kzNGQxWG4zdlhlXzNoaTlWN0pqR2RPeDlUUW9EOWRIMA?oc=5",
+      "data": "31/10 14:02"
     },
     {
       "titulo": "Fluminense atinge marca histórica com vitória sobre o Internacional - Rádio Itatiaia",
