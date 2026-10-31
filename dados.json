@@ -1,82 +1,6 @@
 {
-  "atualizado_em": "30/10/2026 18:20",
+  "atualizado_em": "30/10/2026 22:23",
   "jogos": [
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "16:30",
-      "competition": "Campeonato Alemão",
-      "match": "SV Elversberg x FSV Mainz 05",
-      "channels": [
-        "SPORTV 3",
-        "CANAL GOAT",
-        "PPV ONEFOOTBALL"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:00",
-      "competition": "Campeonato Espanhol",
-      "match": "Villarreal x Espanyol",
-      "channels": [
-        "SPORTYNET",
-        "CAZÉTV",
-        "YOUTUBE"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:00",
-      "competition": "Inglês 2ª Divisão",
-      "match": "Sheffield Utd x Wrexham",
-      "channels": [
-        "ESPN"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:05",
-      "competition": "Campeonato Francês",
-      "match": "Lille x Lens",
-      "channels": [
-        "CAZÉTV"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "17:15",
-      "competition": "Campeonato Português",
-      "match": "Casa Pia x Sporting CP",
-      "channels": [
-        "ESPN 4",
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "19:30",
-      "competition": "Brasileirão Série B",
-      "match": "Criciúma x Ponte Preta",
-      "channels": [
-        "DISNEY+"
-      ]
-    },
-    {
-      "sport": "futebol",
-      "date": "2026-10-30",
-      "time": "20:00",
-      "competition": "Brasileirão Série A",
-      "match": "Corinthians x Mirassol",
-      "channels": [
-        "SPORTV",
-        "PREMIERE FC"
-      ]
-    },
     {
       "sport": "futebol",
       "date": "2026-10-30",
@@ -222,6 +146,82 @@
       "match": "Grazer AK x TSV Hartberg",
       "channels": [
         "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "16:30",
+      "competition": "Campeonato Alemão",
+      "match": "SV Elversberg x FSV Mainz 05",
+      "channels": [
+        "SPORTV 3",
+        "CANAL GOAT",
+        "PPV ONEFOOTBALL"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "competition": "Campeonato Espanhol",
+      "match": "Villarreal x Espanyol",
+      "channels": [
+        "SPORTYNET",
+        "CAZÉTV",
+        "YOUTUBE"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "competition": "Inglês 2ª Divisão",
+      "match": "Sheffield Utd x Wrexham",
+      "channels": [
+        "ESPN"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:05",
+      "competition": "Campeonato Francês",
+      "match": "Lille x Lens",
+      "channels": [
+        "CAZÉTV"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "17:15",
+      "competition": "Campeonato Português",
+      "match": "Casa Pia x Sporting CP",
+      "channels": [
+        "ESPN 4",
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "19:30",
+      "competition": "Brasileirão Série B",
+      "match": "Criciúma x Ponte Preta",
+      "channels": [
+        "DISNEY+"
+      ]
+    },
+    {
+      "sport": "futebol",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "competition": "Brasileirão Série A",
+      "match": "Corinthians x Mirassol",
+      "channels": [
+        "SPORTV",
+        "PREMIERE FC"
       ]
     },
     {
@@ -623,6 +623,7 @@
       "competition": "Campeonato Saudita",
       "match": "Al-Hilal x Al-Fateh",
       "channels": [
+        "BAND",
         "CANAL GOAT",
         "ONEFOOTBALL"
       ]
@@ -830,16 +831,6 @@
     {
       "sport": "volei",
       "date": "2026-10-30",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x Paulistano Barueri",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-10-30",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Fluminense",
@@ -966,23 +957,28 @@
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 24.8,
-      "temp_min": 17.1,
+      "temp_min": 17.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 22.1,
-      "temp_min": 15.7,
+      "temp_min": 16.0,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense entra em grupo seleto e alcança marca expressiva contra o G-12 - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdnZsY3pEVGRkZEhpRW5xSkxhLVlIRjZPT0RDWThvempXZ2s4MXB6bFpnUDlTVURxWFBaNDJXMkRhMFBwMDlRWmhQUXpmV3p6bWZzZzF3bEN0MGJJdjY4UkN4NGZTRHlHQUxIMmJMaG1JTnRiLTVWa2l4WHFQWWRoSUpSU1NETFJhLXhqOXBxZE9MRXR1Nk9VcF8yOG51R2FCSUE?oc=5",
-      "data": "30/10 14:31"
+      "titulo": "Fluminense quebra o silêncio sobre salários e rebate rumores de atrasos - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2dvVmNsTTZNM1lEOHd3M21Oc1pBaUpZempIZEl5T3ZVb193OEJ3Z0Y4X1UzaXpmVFhEaURNTjBCUEt4VW9LT1FiM1BiZE1xYTNLbGRaVU9uNnd4VXZJSl9jME9MTmViSnFOWm4zbDdaQ3dSemNlcUhXQ2lfcnF3RWozWjhORDJPMVlYZEk2aVpRTlRZS1BZWGZqYw?oc=5",
+      "data": "29/10 14:32"
+    },
+    {
+      "titulo": "Fluminense atinge marca histórica com vitória sobre o Internacional - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaUZ0SEUwT1NfQ05aT1hMMDkzd2hpZTJ1RXRUSWxQb0QwLXpoX2p0WUh6ZjlWZ2Y1WGJCRTV6M3ZYcXhobXRkRnZnaTd1bGRpQlZNQUIycWx6bnBpbUxrUlktTHlvZEFodk1XbXd1WjFET0xZd1dfQ2NaYVFfZnIzR0pSSklRX08tcUdfdkJJVTgxdWNHbVZjZUU4dGZOSmMzMDROUkVlckV2WFEtaVQ1MDdBMnE1TEcydVJuemxoeWI5V1Izb3o5c3lpenRnRGhVTVp1Wll5SEdjc3FCZWgzWEk4V201bHZwd1NOaFR3?oc=5",
+      "data": "30/10 17:37"
     },
     {
       "titulo": "Sub-17 tricolor disputa Fla-Flu pela Copa Rio - Fluminense Football Club",
@@ -990,19 +986,14 @@
       "data": "30/10 21:00"
     },
     {
-      "titulo": "Com patrocínio, Superscore passa a ser também parceiro de estatísticas do Fluminense - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEhhTWFFTVRGVG1nazFqOWJxSF9tajR5eGUxd3dDekR0ckRhNTNrMDZIdU5CXzZlOF9qTTkxbzhVYzVRN1JUM1lqLXBQT0FfNWxXa2tLakpxSTJ4MnJNVzhWYl9Sd24yVGRoYThJaEVmLVo3c0hmSWw1Ymd1WVB6RVZMUHF3THhGZDRUTFFzS0pfeUNHc0FMQW5aaHNNZ0xZWGZLbk9ybGg0UFlPdmpMQkw3N2dBcjRrcUFVdlFR?oc=5",
-      "data": "30/10 19:19"
+      "titulo": "Riquelme, do Fluminense, é convocado para a seleção brasileira sub-20 - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcldRRXllQ282dTE2aXBFVk5wTHFLemdYTU55T2p1Rk5fY2h2d0xxS1FLQTlqclpEMUc0T3I3bnoxNXdJSmpVa2dNUXlTMmgxUmlPdHlFSGozcXhyNFl6a3oxYlpmWXFXNEQwSmJETGx3dUNmak9Zd0xhd0VWOHE1N3c2am1lNUJBMVRhT0VxWTZmbXJQUFg5cEhyN1Q5aVVfOFlUbHhESWZlWG9VMndtMmJsY2dlNXdjOTNmSGFBRzVjbEpRdWNvbmVNV3dqWUlDaDRwcE55RW45bGJVS0HSAewBQVVfeXFMTkZWUDhGeC1zZ0g2ZXVhVVdDRWU2SFdmVS13eDZZb05UQW1yWjhUdUhWbEVpVkpQTE1pa3BPbV9ZdFo5THQzZlR2VmhzWjBEVnJmQXBGMXI3bzRERFMxVnVId1NwNWdmWlNsVk9PZ1VFb25xUnduQkVLdkx0SVl4Uk10SkVBZmVOeU43Y0FGMXlNUy15UC1VREozcERBbXVQTm8zZFdOUjR6aFMxTlI1ck9yYW5MeV9taGhqWW8zdXpkTG03aEtaOEUxVHZiZGpVRGNiZ19FTzBsNFdsUHA0WGZFMjdXRzNhQW91cEk?oc=5",
+      "data": "30/10 22:04"
     },
     {
-      "titulo": "Fluminense inicia campanha pelo bicampeonato do Carioca Masculino de Vôlei - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSUFteUhWZ3NfYW1tdzYwaDhxOWRCdmhYem8yTkdyYUYxaGFtWUt3WmNXelRVcmU3UkhBS2I3WTZMdTlRR3NiM3cwTnpiSnJDcnlBSFNCdk1VdGR5QW1GY3hHTUxQSEl4cWhDVFFrTjN3Z1RwbXR0ZE1YZlo4d1c4WnZySkxjMFdxN1E5U2Q3Zl9wWjhhZEV0NU1LQ0wySkFfVzRqNU1KZ0J0aGY4RG4xQkxR?oc=5",
-      "data": "30/10 18:00"
-    },
-    {
-      "titulo": "Como o Fluminense planeja atuar na próxima janela de transferências - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDM3UUJnOWJSb0dzVFJ1cVYwMkJDZ2tSRnN5a1BXNDZrRUI1WXdPUHV5MXF3ckwtNHc5RDdyeWpIU0J5dE8xOXpzdnJMeUhKM1NHSk5iM0FTZFMxbkpnTGttN1F4MmZfXzNWbmszd08zeVhUbDlBZVBxbS1qZFd2eTF6eFRPc3drS1lRQkZsRWVMb2dGRl94dzhuZGo3MEd0SjY2YWJGWks0RnBrT0F0eU5pS0lTSmMtdjYtaEV6LTJTZko1a1E3QU5oV3VrTEI5bENlQtIB4wFBVV95cUxQSm9FckpsRnFGNzQtSmdJSTBfa19YaHhqT0djdUtHZjFQTWRsbnh6N2VBQk1TUHowOEw5bnI1ekZPdHctSm1ESmI2Tk1oYXdFRm9ma0tTYlozeDNUM1AzVm40cElkSldhbnZ4bzdraE8taVg5UjFQLTRpLVI3ZDY0RmJJVmMxVWxFSElBaXJCckdGN2ZqRWd5ckw0TDJkZ042RWdEX09HQXVUMmJKb3JScHpyTmpOU0VJT0poWTZrU0Z6MkdJeFBvV1prcW9ZSlR3YU1NRlROZ1docVBTa1lmV09mZw?oc=5",
-      "data": "30/10 16:15"
+      "titulo": "Nonato, do Fluminense, revela proibição imposta por Thiago Silva - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNemJnOWk2bVEwOUxwZ0ZqSGd5MkpKWTBQbGRDSE5XSUtTc29hNTFhbDdhTG1fYzRuSGZPbmRkczdDUFFZOFdNUXYtbDBnNkZJOEJVSkdUZ2l3WFFQRjB5RnNJaWJuaXY5R0F3T2xSY0xqakVVbkVMRFoyVFZia3VBc05Gb2dLaFR5aXRmbEFTV3dJTGRXNDV0ZmtBTmpXZk4tR09jdnJVdFVzVWJPU2hXbXdSOVZKdmNPOUJfZmF5SFNVajg1OWNudG1pekV5MDlNOFBSS3J0YWxvd0RLMGsydzJZWTh6djJH?oc=5",
+      "data": "29/10 20:36"
     }
   ],
   "avisos": []
