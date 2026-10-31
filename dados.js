@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "31/10/2026 11:16",
+  "atualizado_em": "31/10/2026 16:01",
   "jogos": [
     {
       "sport": "futebol",
@@ -1234,51 +1234,51 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 25.3,
       "temp_min": 21.2,
-      "chance_chuva": 18,
+      "chance_chuva": 29,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.1,
+      "temp_max": 25.3,
       "temp_min": 21.4,
-      "chance_chuva": 9,
+      "chance_chuva": 10,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.5,
+      "temp_max": 26.4,
       "temp_min": 16.6,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.6,
+      "temp_max": 21.5,
       "temp_min": 15.7,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense quebra o silêncio sobre salários e rebate rumores de atrasos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2dvVmNsTTZNM1lEOHd3M21Oc1pBaUpZempIZEl5T3ZVb193OEJ3Z0Y4X1UzaXpmVFhEaURNTjBCUEt4VW9LT1FiM1BiZE1xYTNLbGRaVU9uNnd4VXZJSl9jME9MTmViSnFOWm4zbDdaQ3dSemNlcUhXQ2lfcnF3RWozWjhORDJPMVlYZEk2aVpRTlRZS1BZWGZqYw?oc=5",
-      "data": "29/10 14:32"
-    },
-    {
-      "titulo": "Fluminense recebe o Vasco pelo Carioca Feminino - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3hTUEhUYU4xemRVTGZoWUVhb3FQYkF5WmgxVW5LdEJBeldRZnI2T0tFcjlNTWJxbHcwVW5nTDBwWDc1amMzQXpsYjBHTWs2WXVMSmo3OUtHcDlTU1FtNTlYVm1MdUY0MUJnQWRWV2RNajJVZFRMRjRKWWZhV1BnVzF2Y0hsSW9RUnB6a19B?oc=5",
-      "data": "31/10 10:00"
-    },
-    {
-      "titulo": "André revela escolha entre milhões do Liverpool e promessa ao Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0V5Qzh0T0E1dXRJTVNreFktUXgtT0tFcU5naGd1SmR3alUzSzk3aXp2OFg2QXl4UkxnNTFxTm9wSUp4dGxBdHhER2ZMcGNmWWJUR0FMbWVNdHBlT3phWm02MFYycS1rYzhPYjV1NHd6QXBycnJNbDhyQ3RGSEJhX3VqSHkzUTFfZXBIb3ZfeHVYVnZ1am1zS2JPY203Z3NB?oc=5",
-      "data": "31/10 13:02"
-    },
-    {
       "titulo": "Fluminense já acumula R$ 56 milhões em premiações e está perto de bater meta milionária - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFNRaFAxd1loYTZjY2draEJzaEdiSzUyamFPNUJxRndfUG9kWUxydXBFNG5KR3hCZ3JFM0wwUG9kR1VGeU1GQ2dsSHpnMEtXQ182aDFvNUxhRDVXX3FJRTVKQ3E4RThDT0RxTVRJc1BxeVV1NjN6RzlzdTFEbXlldUgyZWlfc0lBWVo0UkJDU1VGX2kzNGQxWG4zdlhlXzNoaTlWN0pqR2RPeDlUUW9EOWRIMA?oc=5",
-      "data": "31/10 14:02"
+      "data": "31/10 15:51"
+    },
+    {
+      "titulo": "Ex-Fluminense marca em jogo da Premier League - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFOaGtQR185WTNHbTFYRzUweWhDTWo2SUxBOWg1UWhDQ1FxY3hoNUVzNXpoOVBZQWNMWnJoM2FfV2xnQlVaRTJpSUd6VXhtODVhLWFvOVFhaTdfMTVqN1ZvYTR6dG5SS0ZsNUhMaW81RnluQk41THhBalJ1ajUtVmJ5UzBEamstNUJtT2xBeWdLU3ktdzJlbXROTVJ3UQ?oc=5",
+      "data": "31/10 16:17"
+    },
+    {
+      "titulo": "Fluminense vence o Vasco de virada pelo Carioca Feminino - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTBkRXkycjFFVzJTUF9GbnBfNTViTnhwaC1WZ3pxbFFDV3BaYVowclREVVRmakxVZTBINEZlSndlRFJ2VDJIWU5ONUk2QzdOUG1qcGlXdDJUeGRoUVdkVEJ1LXg5M3hPcm41a1kzbzZTeEczdXlyNklaa0NMSFlsT3lIdHVCcTlyNGFnNTA0NXoxX19GZjVtUlhB?oc=5",
+      "data": "31/10 16:03"
+    },
+    {
+      "titulo": "Além do Fluminense, André surpreende ao apontar outro clube brasileiro onde gostaria de jogar - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3h2R0ZtNzVqNjVaZXBVbV9kSElqaGNDMzZCaW4tbThSSkMyZkNIYXNWbV9GQy1YR2taQmljLTZVWS1GMFBhMnRLN09XNEJleFJFQTBhVldrMTVqYVRqbHVLUm5Zc3V4TVJnMzllNldib1pCRXN0OTQ2YkJKRVBDcEp5cUFMSG5WX19zRmJldEZiUUJLRS1yUW5RX1ZGMThwUFlHQk5ROFpUeVg5bjNHNExRbDNvX3lJdVJ3?oc=5",
+      "data": "31/10 15:37"
     },
     {
       "titulo": "Fluminense atinge marca histórica com vitória sobre o Internacional - Rádio Itatiaia",
@@ -1286,5 +1286,8 @@ window.PAINEL_DATA = {
       "data": "30/10 17:37"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
+    "Futebol: mantendo dados do último sucesso."
+  ]
 };
