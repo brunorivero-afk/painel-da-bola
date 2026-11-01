@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "31/10/2026 23:03",
+  "atualizado_em": "01/11/2026 06:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "09:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal Feminina - Maceió",
@@ -1140,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "09:50",
       "competition": "Vôlei (SporTV2)",
       "match": "Vôlei de Praia - Semifinal Masculina - Maceió",
@@ -1150,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "15:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Norde Vôlei",
@@ -1160,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Guarulhos x Cruzeiro",
@@ -1170,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Minas",
@@ -1180,7 +1180,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "São José x Campinas",
@@ -1190,7 +1190,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Paulistano Barueri",
@@ -1200,7 +1200,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Fluminense",
@@ -1212,58 +1212,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.2,
-      "temp_min": 21.2,
-      "chance_chuva": 37,
-      "condicao": "Garoa fraca"
+      "temp_max": 26.1,
+      "temp_min": 21.1,
+      "chance_chuva": 10,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.3,
+      "temp_max": 26.9,
       "temp_min": 21.4,
-      "chance_chuva": 14,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 11,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.4,
-      "temp_min": 16.6,
+      "temp_max": 24.0,
+      "temp_min": 16.9,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.5,
-      "temp_min": 15.0,
+      "temp_max": 25.4,
+      "temp_min": 15.4,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Além do Fluminense, André surpreende ao apontar outro clube brasileiro onde gostaria de jogar - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3h2R0ZtNzVqNjVaZXBVbV9kSElqaGNDMzZCaW4tbThSSkMyZkNIYXNWbV9GQy1YR2taQmljLTZVWS1GMFBhMnRLN09XNEJleFJFQTBhVldrMTVqYVRqbHVLUm5Zc3V4TVJnMzllNldib1pCRXN0OTQ2YkJKRVBDcEp5cUFMSG5WX19zRmJldEZiUUJLRS1yUW5RX1ZGMThwUFlHQk5ROFpUeVg5bjNHNExRbDNvX3lJdVJ3?oc=5",
-      "data": "31/10 15:37"
+      "titulo": "André revela escolha entre milhões do Liverpool e promessa ao Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0V5Qzh0T0E1dXRJTVNreFktUXgtT0tFcU5naGd1SmR3alUzSzk3aXp2OFg2QXl4UkxnNTFxTm9wSUp4dGxBdHhER2ZMcGNmWWJUR0FMbWVNdHBlT3phWm02MFYycS1rYzhPYjV1NHd6QXBycnJNbDhyQ3RGSEJhX3VqSHkzUTFfZXBIb3ZfeHVYVnZ1am1zS2JPY203Z3NB?oc=5",
+      "data": "31/10 13:02"
     },
     {
-      "titulo": "Campeão no Fluminense, André fala sobre como recusou proposta do Liverpool - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTmVHbnpIWWlyMXpnX0x6SGFWQllqWFVlbE1xWUlSam9vSnZfM3RtYzBWR1hPSHNWQUdRWFhlQlV3bkFSUURHbmphUG9Qck9QWW5uR05iOUhJYk5FMXRsMDF3NGowTGJtSkZqdFQ1TlZISWtNV2tsNnZ6UWN2TFRsVmh3U0dKa3FoNHZHODJNeV9ub0ZGWGtxbDJYSG5kQlAtVG1tdTZtOFYtWUk5WlNETmM5aUJqR2xRUXhCdUo0NDZqZUVOcFktLWdaaFdHU0RYY1liRWJjOGhRZjRsRU1FTjBXVHJXZDFyRnNkOEtZcThXWmt1dDM0?oc=5",
-      "data": "31/10 23:04"
-    },
-    {
-      "titulo": "Richard Wendel fala sobre amor pelo Fluminense: \"Criei uma identificação muito forte\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUDZkT0FKU29sYWRkeWJpaGxScmx2Vkg5dkhhWkJUeGZFRmNhcHVWcWhDRm55R0xHMHhCbC1HajhnOFZVakZEdHo2V1dRNGJzdXpXbVg0ODdzTnJvcGxmR1llZ09lWXR5R21ZdzZJOTl1bC1SY1VKTjVtT0NUUlRla2ZaQUJ4NzFKU09LWmo2aTdzMjQtVTgwZldOanhRbkxCRkFPVE8zMFZmMS1wWnlfaXZoTFJEdGJRQ2ZhTFpNaWdYR2M0NlN2QzF2dEXSAdsBQVVfeXFMTmFoZEo2MXFMOXBsc1Z6N2NXRVBoUFZfeEJvUG1MOGpCYlZjdmVza0VXUHVCVDBjTGJtanJCdmNGSXFPazdzaEE0T3Myc1gxMnQyaFlxSTlGZl80NHN4ZU9jbGwwbDY5UUVON3NyMkhqTEpNRTd0emYyM3libEJrY0VoTk5lSDd2SmlXUnNfT3cydnFrOFdOVXlNTzFHaGg4U1o1aV9rMFpoWDlNR3l3ZllWbkZ1RlVvRmJaTUN5NTNaelpGY1dzaGJwdWVxbjlZeU5odUluUUhCcWV3?oc=5",
-      "data": "31/10 22:44"
-    },
-    {
-      "titulo": "André surpreende e revela clube brasileiro que gostaria de jogar sem ser o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRnlZQWx2Tmt6N2doNXIwVVdfZnNlbVUyYU9hMnlxMTNFNElyYlJyTFdEeVBld0VVclIxb3MwWllTSDBmdWM0cHBpN0tiSFlNd1lwa01zbXBEeTdQdEFtRnRad2tjdll4ZHk3STZPVVNkem5DNXEyZkpfYS1JVTE2ek1QUWZCR2tkNVFSWnFTbnZBdktCZEdaZ3E5bnR4YWt0ZlZWVzhEbUVmSHJPSlR4aEN5blhSQ3RHdl9hdldsMzZDREpQTUpDbnZnYjB2R3VhaGgwMXhZTFFidHV4V1p1QVlfOTE3TzhlbGUtYmZndEtFR3VzWFlMQk9tSnlDejFyZE8xQkpuTQ?oc=5",
-      "data": "31/10 23:21"
+      "titulo": "Pior público do Fluminense no Brasileirão escancara distanciamento entre clube e torcida - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMEh2VnJrSXh4ZWV6dFJrYU4ybXlZT0E1TTRsR1U1emp4bWtJa2llUks1aldHSU12SE5UcXlnSmRSVjc5dmlmZ0E0U3lJZnhYREJRajBsalBWM2lQLUZPNzc5cGpGTGEwUFhtNTRwV3BzX3M2S0c4ZU9abXU3alItQlA1RnRZdV9EOS0yekg4dGIxdDYzZDNzT0pkS3JuOGdfTktmSVdTVk40dHhJbkliZWVwM2JuOWRLeDduS3lhTUpiSlJJckFEX0gza2REdTY0eXJka2RIZ2tsLXJxMVFnMlJFOVhlczg4T2pZZUJEUm7SAf8BQVVfeXFMTkk3dW9yVG9rdDlkNmc4T09qZUpGUXo4cDd6bVJyNmtFaGU0Z0tuSTVXbUtJbEpDaHNXU1VhaklBMC1NWlgwbmN3eF84anZPeUNKZjNIYlNITi1JNDEtNlJWWFNWRi1OZ2Vwd2tCU3FJMW9wS1dZUThPRm4zTmVuR0Ytc2VndlV1VWM4b2RJakFrVUUzWTQtYXJGTVZsM3Vzb2twRnh5VnlJNWFwV3JTVW1fcUhnWjVVaVNnbXRNM0ozSF9SdURLNGxVNWdod3kxLU9GaTJvbFdFRUVCVTI1SGpobFAwLTRmUEphRGd3cXh0VldRVS1oTVNkX2tOOWNZ?oc=5",
+      "data": "30/10 21:28"
     },
     {
       "titulo": "Fluminense vence o Vasco de virada pelo Carioca Feminino - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTBkRXkycjFFVzJTUF9GbnBfNTViTnhwaC1WZ3pxbFFDV3BaYVowclREVVRmakxVZTBINEZlSndlRFJ2VDJIWU5ONUk2QzdOUG1qcGlXdDJUeGRoUVdkVEJ1LXg5M3hPcm41a1kzbzZTeEczdXlyNklaa0NMSFlsT3lIdHVCcTlyNGFnNTA0NXoxX19GZjVtUlhB?oc=5",
       "data": "31/10 16:03"
+    },
+    {
+      "titulo": "Ex-Fluminense marca em jogo da Premier League - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFOaGtQR185WTNHbTFYRzUweWhDTWo2SUxBOWg1UWhDQ1FxY3hoNUVzNXpoOVBZQWNMWnJoM2FfV2xnQlVaRTJpSUd6VXhtODVhLWFvOVFhaTdfMTVqN1ZvYTR6dG5SS0ZsNUhMaW81RnluQk41THhBalJ1ajUtVmJ5UzBEamstNUJtT2xBeWdLU3ktdzJlbXROTVJ3UQ?oc=5",
+      "data": "31/10 16:17"
+    },
+    {
+      "titulo": "André surpreende e revela clube brasileiro que gostaria de jogar sem ser o Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRnlZQWx2Tmt6N2doNXIwVVdfZnNlbVUyYU9hMnlxMTNFNElyYlJyTFdEeVBld0VVclIxb3MwWllTSDBmdWM0cHBpN0tiSFlNd1lwa01zbXBEeTdQdEFtRnRad2tjdll4ZHk3STZPVVNkem5DNXEyZkpfYS1JVTE2ek1QUWZCR2tkNVFSWnFTbnZBdktCZEdaZ3E5bnR4YWt0ZlZWVzhEbUVmSHJPSlR4aEN5blhSQ3RHdl9hdldsMzZDREpQTUpDbnZnYjB2R3VhaGgwMXhZTFFidHV4V1p1QVlfOTE3TzhlbGUtYmZndEtFR3VzWFlMQk9tSnlDejFyZE8xQkpuTQ?oc=5",
+      "data": "31/10 23:21"
     }
   ],
   "avisos": [
