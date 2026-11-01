@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "01/11/2026 06:59",
+  "atualizado_em": "01/11/2026 13:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,26 +1131,6 @@
     {
       "sport": "volei",
       "date": "2026-11-01",
-      "time": "09:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal Feminina - Maceió",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-01",
-      "time": "09:50",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Vôlei de Praia - Semifinal Masculina - Maceió",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-01",
       "time": "15:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Norde Vôlei",
@@ -1212,53 +1192,53 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.1,
-      "temp_min": 21.1,
-      "chance_chuva": 10,
-      "condicao": "Nublado"
+      "temp_max": 26.2,
+      "temp_min": 21.3,
+      "chance_chuva": 34,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.9,
-      "temp_min": 21.4,
-      "chance_chuva": 11,
+      "temp_max": 26.7,
+      "temp_min": 21.3,
+      "chance_chuva": 16,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.0,
+      "temp_max": 24.2,
       "temp_min": 16.9,
-      "chance_chuva": 100,
+      "chance_chuva": 94,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.4,
-      "temp_min": 15.4,
-      "chance_chuva": 100,
-      "condicao": "Garoa"
+      "temp_max": 25.0,
+      "temp_min": 15.1,
+      "chance_chuva": 97,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "André revela escolha entre milhões do Liverpool e promessa ao Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0V5Qzh0T0E1dXRJTVNreFktUXgtT0tFcU5naGd1SmR3alUzSzk3aXp2OFg2QXl4UkxnNTFxTm9wSUp4dGxBdHhER2ZMcGNmWWJUR0FMbWVNdHBlT3phWm02MFYycS1rYzhPYjV1NHd6QXBycnJNbDhyQ3RGSEJhX3VqSHkzUTFfZXBIb3ZfeHVYVnZ1am1zS2JPY203Z3NB?oc=5",
-      "data": "31/10 13:02"
+      "titulo": "Platense recebe multa milionária por incidente com Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWk3X0VBamxOWXFsZ1RYRXV1MXJ2SGhJM1ZkOGxkc3ByeFAtUi1ZWlRZWUZ2MW5GNTczb0RjTUJVSU9OQ0hyUDl1X2VTZVd3eXh4bXRmZGVic3oxUXVCTkM2RHZFcGdZQTdDSVM4bHA3NndTTGlqSzVReWxfS3MzWmlrZWY0alFNeGc2VTd2RGQ3dw?oc=5",
+      "data": "01/11 01:32"
     },
     {
-      "titulo": "Pior público do Fluminense no Brasileirão escancara distanciamento entre clube e torcida - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMEh2VnJrSXh4ZWV6dFJrYU4ybXlZT0E1TTRsR1U1emp4bWtJa2llUks1aldHSU12SE5UcXlnSmRSVjc5dmlmZ0E0U3lJZnhYREJRajBsalBWM2lQLUZPNzc5cGpGTGEwUFhtNTRwV3BzX3M2S0c4ZU9abXU3alItQlA1RnRZdV9EOS0yekg4dGIxdDYzZDNzT0pkS3JuOGdfTktmSVdTVk40dHhJbkliZWVwM2JuOWRLeDduS3lhTUpiSlJJckFEX0gza2REdTY0eXJka2RIZ2tsLXJxMVFnMlJFOVhlczg4T2pZZUJEUm7SAf8BQVVfeXFMTkk3dW9yVG9rdDlkNmc4T09qZUpGUXo4cDd6bVJyNmtFaGU0Z0tuSTVXbUtJbEpDaHNXU1VhaklBMC1NWlgwbmN3eF84anZPeUNKZjNIYlNITi1JNDEtNlJWWFNWRi1OZ2Vwd2tCU3FJMW9wS1dZUThPRm4zTmVuR0Ytc2VndlV1VWM4b2RJakFrVUUzWTQtYXJGTVZsM3Vzb2twRnh5VnlJNWFwV3JTVW1fcUhnWjVVaVNnbXRNM0ozSF9SdURLNGxVNWdod3kxLU9GaTJvbFdFRUVCVTI1SGpobFAwLTRmUEphRGd3cXh0VldRVS1oTVNkX2tOOWNZ?oc=5",
-      "data": "30/10 21:28"
+      "titulo": "Dupla do Fluminense no Mundial sub-17 se inspira em Marcelo e Martinelli e sonha com estreia no profissional - ge",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWTdqY2pCR3B6LXRPbjlnQmx3bXJaY0xHWXBES3Z0ZERUYWdfZXZmbFQ0ZU44YWcwWWxmREwwUUJYZl9IR3FvR3B5bUR6aUVQQV9BQnZMNUVSc2FsZDE1ZmZyTm1rOWpYc01nZU9SRFc4SjB4QW1jVDh0a1V5ci16SFoxMTA0U3ExeW1HUHdEYlF1cnI3NjNMQng0cUZiamRMZzFZbTMzMUtSQXJGUGNpTzVjTk0yZnJVM290VElVTDBtMGhjREVreUFRYzU4UFJHdTlUemlmVS0tWjcxdGxaSTFNRmlrVjdkcy1uVjFRRmZVX2g4YXp5YkpXOHRBRHZ2NVNtdGpJWk5XRk3SAZoCQVVfeXFMT3VNUUFzbG8zRFlCNkhUb1JsaVlDaV94eTBmaHNJTTFZQ1VEYmtrQkxuX2NRMmFpelBNdlZiY0dYZkpiRkljTHJ3ZF9lbVB4ZEJPLVpYa3JDaVhWVWZoV09DeEhsYTJMVm5qU1ZWWi1lWnlXXzlYMTFWY3pIam1qQm9OWk1aYVpla3dablN2azcwSkVGWWJpLXNZTjUxazdhUlB2d1VrbE5NNUU1V2oyQk1xUnRReEl1d0dsZjhhbHgzVmVhQVFFYVhnUlluR0J6QXR1dld0ZDJrNGgtQ09LRzBtYUlxQzdXVlptSHluT1pnWGx2Q1JMdTVrZlFNbW1Dejc0NFNaWlVUMnoyQzhBb0NESmI0Xzh2Ymln?oc=5",
+      "data": "01/11 13:00"
     },
     {
-      "titulo": "Fluminense vence o Vasco de virada pelo Carioca Feminino - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTBkRXkycjFFVzJTUF9GbnBfNTViTnhwaC1WZ3pxbFFDV3BaYVowclREVVRmakxVZTBINEZlSndlRFJ2VDJIWU5ONUk2QzdOUG1qcGlXdDJUeGRoUVdkVEJ1LXg5M3hPcm41a1kzbzZTeEczdXlyNklaa0NMSFlsT3lIdHVCcTlyNGFnNTA0NXoxX19GZjVtUlhB?oc=5",
-      "data": "31/10 16:03"
+      "titulo": "Novo Marcelo? Joia do Fluminense abre o jogo sobre inspiração no ídolo tricolor - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFJWLThfVzdTc01XREdfSHV4XzBtZ3gxSHpLeHZPb3RzLXYxZm1OSlJwZmRmWENLMmNMS1NhSi1qWW5rNzY3S1ZIM3RadEJZMHdrVTVMYmtSUlpONk9RUE8xbDlEYWw3Y3JrSEZEYU5sWGJOWGtqNHVSTm9HN19uV3JSSGFlOVN0bXRhal83X0VZc21lTGVzSWxvLVBIcHplM3RuSkxEaW4?oc=5",
+      "data": "01/11 16:32"
     },
     {
-      "titulo": "Ex-Fluminense marca em jogo da Premier League - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFOaGtQR185WTNHbTFYRzUweWhDTWo2SUxBOWg1UWhDQ1FxY3hoNUVzNXpoOVBZQWNMWnJoM2FfV2xnQlVaRTJpSUd6VXhtODVhLWFvOVFhaTdfMTVqN1ZvYTR6dG5SS0ZsNUhMaW81RnluQk41THhBalJ1ajUtVmJ5UzBEamstNUJtT2xBeWdLU3ktdzJlbXROTVJ3UQ?oc=5",
-      "data": "31/10 16:17"
+      "titulo": "Cria do Fluminense brilha na Inglaterra e chega a cinco gols em seis jogos - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2pabUFmUllLOHdvdUFidU5jQ1pYUDEySTR6eTVVLW42ZXNuVG8xUDVadE9KbzdOY29EQmIwN3h0OF9ZSl9IU20wLVlhRHJQUlBUbVVWd2E3QnNxYmhiVXh5SzVtMWNWSkJucW5jMGNaZ0lQZDVISklzQlFhQ0Y3OWtPOW5mejZQd2lOdEw1dHFaczZ5Ukc0YlY3UzZaZXBqNjZN?oc=5",
+      "data": "01/11 15:37"
     },
     {
       "titulo": "André surpreende e revela clube brasileiro que gostaria de jogar sem ser o Fluminense - Terra",
