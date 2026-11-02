@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/11/2026 04:08",
+  "atualizado_em": "02/11/2026 14:43",
   "jogos": [
     {
       "sport": "futebol",
@@ -1192,58 +1192,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.4,
-      "temp_min": 21.7,
-      "chance_chuva": 69,
-      "condicao": "Garoa"
+      "temp_max": 29.5,
+      "temp_min": 22.4,
+      "chance_chuva": 86,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.4,
-      "temp_min": 22.4,
-      "chance_chuva": 51,
-      "condicao": "Garoa fraca"
+      "temp_max": 28.7,
+      "temp_min": 23.0,
+      "chance_chuva": 88,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.9,
-      "temp_min": 17.1,
+      "temp_max": 26.7,
+      "temp_min": 18.2,
       "chance_chuva": 94,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.1,
-      "temp_min": 16.3,
-      "chance_chuva": 92,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 27.0,
+      "temp_min": 17.7,
+      "chance_chuva": 91,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Platense recebe multa milionária por incidente com Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWk3X0VBamxOWXFsZ1RYRXV1MXJ2SGhJM1ZkOGxkc3ByeFAtUi1ZWlRZWUZ2MW5GNTczb0RjTUJVSU9OQ0hyUDl1X2VTZVd3eXh4bXRmZGVic3oxUXVCTkM2RHZFcGdZQTdDSVM4bHA3NndTTGlqSzVReWxfS3MzWmlrZWY0alFNeGc2VTd2RGQ3dw?oc=5",
-      "data": "01/11 01:32"
+      "titulo": "Fluminense como visitante: Tricolor soma 31% de aproveitamento - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkFoTlNvQW1wZGJnWFp2bElIc0JodDJjZ0QwR3BDRGRFd2ZFLVMwZXUtWWR2Y2p5NWdISUhnRlBpMzNucUctM3BtMVh5Sl9pTXIxTktyODhPWno2dV9CcDN4MHJmUm1fd01NaF9iOUt0ZFc1N1lJXzFUVHJpQzdPRjRtVXI0REo3aEU5bg?oc=5",
+      "data": "02/11 14:45"
+    },
+    {
+      "titulo": "Cano e Ganso podem deixar o Fluminense? Entenda a situação da dupla - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1Fkb3RZTnhUdWFSc01ORHR4S1FGdnRVZFlfdS1GQVRyRlY5VE1kcjh0cERDNl9sSWNhYjlIY2VoRUdvQ2NfYktCbmU4aTVKVWgteVA1U2c4UnVzSTR4MkZ1T19xdkU3allBV2FndHh1OUd5Y2FPb3RYdUVoeDl0U0lGOFowbkVRelNZcFhNbnk3Z2NXdktIWXRSYVJzTGRyMmJXczl3ZnNUdkh0WURFV3VFM2tMT1ZLVUtSRHEzUlk1MTdqeGVBQUVVVFVlM0FSQVFHSHUtbS1zWHFEUnZ1MjdJVnZFOHp2dUNqZFVB?oc=5",
+      "data": "02/11 15:21"
+    },
+    {
+      "titulo": "Fluminense divulga novos detalhes da parceria com o Superscore - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaW5XRVBQQTZqRHM4VzlaTlBiWFJ0d25QN1VnVC1keDFPbkZERnFDNk1DVzlNM1lPNXVaekZEY0w1VUNpSFJhUlViSzI1M1UzSnZJUEVtVEFleEhZcVp1NGJiSC1BYmhBU3NfclcwdldqSkZ3SXJEMTJ2S05uamZQSjBEc08?oc=5",
+      "data": "02/11 14:45"
+    },
+    {
+      "titulo": "Jemmes no Fluminense: zagueiro pode deixar o clube em 2027? - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUlCT1BqcDdRa2ZwcFpPYl93MjdicjJfVDhFd1IwVlJUV2luN1VqNWlsSG1KQWpuYTctUDZMdHZuZk5IQVgwYllaVElkSjdpWDZNcTg1Q2hkSG40MWRrelpNQnF5Vy1Od0NMallWS0x6VmM4aktxdDlFVWFOY3VqRjJqTEgxb1JCbEpLUlppUm55NGIwbXNSeQ?oc=5",
+      "data": "02/11 13:43"
     },
     {
       "titulo": "Dupla do Fluminense no Mundial sub-17 se inspira em Marcelo e Martinelli e sonha com estreia no profissional - ge",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWTdqY2pCR3B6LXRPbjlnQmx3bXJaY0xHWXBES3Z0ZERUYWdfZXZmbFQ0ZU44YWcwWWxmREwwUUJYZl9IR3FvR3B5bUR6aUVQQV9BQnZMNUVSc2FsZDE1ZmZyTm1rOWpYc01nZU9SRFc4SjB4QW1jVDh0a1V5ci16SFoxMTA0U3ExeW1HUHdEYlF1cnI3NjNMQng0cUZiamRMZzFZbTMzMUtSQXJGUGNpTzVjTk0yZnJVM290VElVTDBtMGhjREVreUFRYzU4UFJHdTlUemlmVS0tWjcxdGxaSTFNRmlrVjdkcy1uVjFRRmZVX2g4YXp5YkpXOHRBRHZ2NVNtdGpJWk5XRk3SAZoCQVVfeXFMT3VNUUFzbG8zRFlCNkhUb1JsaVlDaV94eTBmaHNJTTFZQ1VEYmtrQkxuX2NRMmFpelBNdlZiY0dYZkpiRkljTHJ3ZF9lbVB4ZEJPLVpYa3JDaVhWVWZoV09DeEhsYTJMVm5qU1ZWWi1lWnlXXzlYMTFWY3pIam1qQm9OWk1aYVpla3dablN2azcwSkVGWWJpLXNZTjUxazdhUlB2d1VrbE5NNUU1V2oyQk1xUnRReEl1d0dsZjhhbHgzVmVhQVFFYVhnUlluR0J6QXR1dld0ZDJrNGgtQ09LRzBtYUlxQzdXVlptSHluT1pnWGx2Q1JMdTVrZlFNbW1Dejc0NFNaWlVUMnoyQzhBb0NESmI0Xzh2Ymln?oc=5",
       "data": "01/11 13:00"
-    },
-    {
-      "titulo": "Flu perde jogo de ida e decide semifinal do Torneio Guilherme Embry Sub-16 em Xerém - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2plMFpRcnZKdm9TeFhHMVF5TkhYMUNKVGdpNVVWMEN5bi1PR2tEZmVISGxpQ2V2OUlJYVVsNXUweE05NnhwQTZaX24zTGkwWTY3ZWpaa2w4UTVkRmh1dXNaQjFMaW00OFBFbzRNQVB3ZnAxWktoak4zVWVvNm9pb19JR1M5UjNWLTBNTEdVV0dGeFZPUXF4VExLc2FoTG5XbllrOHNwaVlNaUdmT3lWTWhwOHBLX3dkTy1xb3p3?oc=5",
-      "data": "01/11 14:55"
-    },
-    {
-      "titulo": "Campeão no Fluminense, André fala sobre como recusou proposta do Liverpool - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTmVHbnpIWWlyMXpnX0x6SGFWQllqWFVlbE1xWUlSam9vSnZfM3RtYzBWR1hPSHNWQUdRWFhlQlV3bkFSUURHbmphUG9Qck9QWW5uR05iOUhJYk5FMXRsMDF3NGowTGJtSkZqdFQ1TlZISWtNV2tsNnZ6UWN2TFRsVmh3U0dKa3FoNHZHODJNeV9ub0ZGWGtxbDJYSG5kQlAtVG1tdTZtOFYtWUk5WlNETmM5aUJqR2xRUXhCdUo0NDZqZUVOcFktLWdaaFdHU0RYY1liRWJjOGhRZjRsRU1FTjBXVHJXZDFyRnNkOEtZcThXWmt1dDM0?oc=5",
-      "data": "31/10 23:04"
-    },
-    {
-      "titulo": "André detalha recusa ao Liverpool-ING para seguir no Fluminense - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZklqQXZqazhyNkxINTh1VHFIM25nRkh6TXRzaEpmZDlyN1FuVVdTaDN5eFZMMUxlQWNVdENFZmVMNTVRbHQ2c2drN2ktOWZVZ0ZXTkpuQnFmbGxMc0pKTmlON3hYRFRJODJSMW9IMjM4ejZOZVFGQ195TThicmE5b3BYMEFoUlpQNm1QOGtEd1lJVjRmQkFVNjlRNGJqSGNDZ1p0VkNPRVZDWFhZYURGVVJlRTNHcWJ0eTZUVnVBeXZfUmJuNTFZeFQyNTRxLU9JdHNFdXJXbkxaUGd5M2VMZ2tEZkpqaGtH?oc=5",
-      "data": "31/10 20:14"
     }
   ],
   "avisos": [
