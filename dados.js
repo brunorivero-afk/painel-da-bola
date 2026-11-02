@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "01/11/2026 17:56",
+  "atualizado_em": "01/11/2026 21:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -1194,29 +1194,29 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 26.5,
       "temp_min": 21.3,
-      "chance_chuva": 34,
+      "chance_chuva": 33,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
       "temp_max": 26.8,
       "temp_min": 21.3,
-      "chance_chuva": 16,
+      "chance_chuva": 24,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 23.9,
       "temp_min": 16.9,
-      "chance_chuva": 94,
+      "chance_chuva": 93,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 24.3,
       "temp_min": 15.1,
-      "chance_chuva": 97,
-      "condicao": "Trovoada"
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -1226,24 +1226,24 @@ window.PAINEL_DATA = {
       "data": "01/11 01:32"
     },
     {
-      "titulo": "Novo Marcelo? Joia do Fluminense abre o jogo sobre inspiração no ídolo tricolor - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFJWLThfVzdTc01XREdfSHV4XzBtZ3gxSHpLeHZPb3RzLXYxZm1OSlJwZmRmWENLMmNMS1NhSi1qWW5rNzY3S1ZIM3RadEJZMHdrVTVMYmtSUlpONk9RUE8xbDlEYWw3Y3JrSEZEYU5sWGJOWGtqNHVSTm9HN19uV3JSSGFlOVN0bXRhal83X0VZc21lTGVzSWxvLVBIcHplM3RuSkxEaW4?oc=5",
-      "data": "01/11 16:32"
+      "titulo": "Fluminense seguirá com Marcão em 2027? Jornalista traz atualização - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMHdKRTBhUTBCbl8wbmhwWC1INUdGeXhVTmJPSVg3ZU9UanJlcXZCNWsxSnhqT0ZzLUJYX0FQaWw2YlNGSUxodlpHRDFEajQ0MHZxMm5aR0RsS2RXWEZwc3dNV1Q3cEU4czRtOHRYOV9CS0R3NVhDMmluZVMxV29mMjdlcjFaMU1xeUpoSE91Y0hkaDhkYzM4?oc=5",
+      "data": "01/11 23:07"
     },
     {
-      "titulo": "Joia de Xerém aponta Martinelli e André como inspirações e revela sonho no Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVlnbV9IMFRBMWpVY2hfUmpxTVNTLWJfcmE1MmNRUm9nNWU4NkFPMU4zcmZ3N3Z5TVBNX0JRa3Izb1d6VnVHQTh6dXd0OXRNX3J1aEE2RVpOakpTSENDUkhMNGZkbWQ1dEhXRnM5YW4xVVUtUUhHb2xqN0E0SWxzcGwzNS16WUtYVW16VUFWSF9JcUszTmdUVkVpdDNrM0FUSGMwS1lRWDEzamdhdkNfZTN3?oc=5",
-      "data": "01/11 17:01"
-    },
-    {
-      "titulo": "Dupla do Fluminense no Mundial sub-17 se inspira em Marcelo e Martinelli e sonha com estreia no profissional | Ge - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWTdqY2pCR3B6LXRPbjlnQmx3bXJaY0xHWXBES3Z0ZERUYWdfZXZmbFQ0ZU44YWcwWWxmREwwUUJYZl9IR3FvR3B5bUR6aUVQQV9BQnZMNUVSc2FsZDE1ZmZyTm1rOWpYc01nZU9SRFc4SjB4QW1jVDh0a1V5ci16SFoxMTA0U3ExeW1HUHdEYlF1cnI3NjNMQng0cUZiamRMZzFZbTMzMUtSQXJGUGNpTzVjTk0yZnJVM290VElVTDBtMGhjREVreUFRYzU4UFJHdTlUemlmVS0tWjcxdGxaSTFNRmlrVjdkcy1uVjFRRmZVX2g4YXp5YkpXOHRBRHZ2NVNtdGpJWk5XRk0?oc=5",
+      "titulo": "Dupla do Fluminense no Mundial sub-17 se inspira em Marcelo e Martinelli e sonha com estreia no profissional - ge",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWTdqY2pCR3B6LXRPbjlnQmx3bXJaY0xHWXBES3Z0ZERUYWdfZXZmbFQ0ZU44YWcwWWxmREwwUUJYZl9IR3FvR3B5bUR6aUVQQV9BQnZMNUVSc2FsZDE1ZmZyTm1rOWpYc01nZU9SRFc4SjB4QW1jVDh0a1V5ci16SFoxMTA0U3ExeW1HUHdEYlF1cnI3NjNMQng0cUZiamRMZzFZbTMzMUtSQXJGUGNpTzVjTk0yZnJVM290VElVTDBtMGhjREVreUFRYzU4UFJHdTlUemlmVS0tWjcxdGxaSTFNRmlrVjdkcy1uVjFRRmZVX2g4YXp5YkpXOHRBRHZ2NVNtdGpJWk5XRk3SAZoCQVVfeXFMT3VNUUFzbG8zRFlCNkhUb1JsaVlDaV94eTBmaHNJTTFZQ1VEYmtrQkxuX2NRMmFpelBNdlZiY0dYZkpiRkljTHJ3ZF9lbVB4ZEJPLVpYa3JDaVhWVWZoV09DeEhsYTJMVm5qU1ZWWi1lWnlXXzlYMTFWY3pIam1qQm9OWk1aYVpla3dablN2azcwSkVGWWJpLXNZTjUxazdhUlB2d1VrbE5NNUU1V2oyQk1xUnRReEl1d0dsZjhhbHgzVmVhQVFFYVhnUlluR0J6QXR1dld0ZDJrNGgtQ09LRzBtYUlxQzdXVlptSHluT1pnWGx2Q1JMdTVrZlFNbW1Dejc0NFNaWlVUMnoyQzhBb0NESmI0Xzh2Ymln?oc=5",
       "data": "01/11 13:00"
     },
     {
       "titulo": "Ex-Fluminense marca em jogo da Premier League - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnFOaGtQR185WTNHbTFYRzUweWhDTWo2SUxBOWg1UWhDQ1FxY3hoNUVzNXpoOVBZQWNMWnJoM2FfV2xnQlVaRTJpSUd6VXhtODVhLWFvOVFhaTdfMTVqN1ZvYTR6dG5SS0ZsNUhMaW81RnluQk41THhBalJ1ajUtVmJ5UzBEamstNUJtT2xBeWdLU3ktdzJlbXROTVJ3UQ?oc=5",
       "data": "31/10 16:17"
+    },
+    {
+      "titulo": "André surpreende e revela clube brasileiro que gostaria de jogar sem ser o Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRnlZQWx2Tmt6N2doNXIwVVdfZnNlbVUyYU9hMnlxMTNFNElyYlJyTFdEeVBld0VVclIxb3MwWllTSDBmdWM0cHBpN0tiSFlNd1lwa01zbXBEeTdQdEFtRnRad2tjdll4ZHk3STZPVVNkem5DNXEyZkpfYS1JVTE2ek1QUWZCR2tkNVFSWnFTbnZBdktCZEdaZ3E5bnR4YWt0ZlZWVzhEbUVmSHJPSlR4aEN5blhSQ3RHdl9hdldsMzZDREpQTUpDbnZnYjB2R3VhaGgwMXhZTFFidHV4V1p1QVlfOTE3TzhlbGUtYmZndEtFR3VzWFlMQk9tSnlDejFyZE8xQkpuTQ?oc=5",
+      "data": "31/10 23:21"
     }
   ],
   "avisos": [
