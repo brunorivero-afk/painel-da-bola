@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/11/2026 04:30",
+  "atualizado_em": "03/11/2026 12:45",
   "jogos": [
     {
       "sport": "futebol",
@@ -1172,58 +1172,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.1,
-      "temp_min": 23.1,
-      "chance_chuva": 86,
-      "condicao": "Trovoada"
+      "temp_max": 31.3,
+      "temp_min": 22.9,
+      "chance_chuva": 76,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.4,
-      "temp_min": 23.1,
-      "chance_chuva": 96,
-      "condicao": "Garoa fraca"
+      "temp_max": 31.0,
+      "temp_min": 22.8,
+      "chance_chuva": 98,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.9,
-      "temp_min": 17.5,
+      "temp_max": 28.1,
+      "temp_min": 18.2,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.0,
-      "temp_min": 16.8,
+      "temp_max": 28.3,
+      "temp_min": 17.0,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Jemmes no Fluminense: zagueiro pode deixar o clube em 2027? - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUlCT1BqcDdRa2ZwcFpPYl93MjdicjJfVDhFd1IwVlJUV2luN1VqNWlsSG1KQWpuYTctUDZMdHZuZk5IQVgwYllaVElkSjdpWDZNcTg1Q2hkSG40MWRrelpNQnF5Vy1Od0NMallWS0x6VmM4aktxdDlFVWFOY3VqRjJqTEgxb1JCbEpLUlppUm55NGIwbXNSeQ?oc=5",
-      "data": "02/11 13:43"
+      "titulo": "Marcão e mais dois ídolos do Fluminense têm futuro incerto no clube para próxima temporada - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEpOSm5GLVhxcVFCNHhkN1VvaW5kSGQ1WFlpRlRBNXVKeEF1VkpjNHg3UnpCWGlVWTV5ZC03VHQ5eWlYNk83WkZGVkdnTDlXV3VNZEk0QjFiYi1kNFVSNExZRWlFeldJTUpaSjZfNEF2ekJwSjd1SHN1UDl4cDltc244ZFF1RWNtWVhyN1BjSWZ3MFJMcnd6eFpjR01IS0N0d0VaSnVwenJiNUM3cnpwXzlaaUxmQUYtXzBCc2oyOEE4RHVKVlE?oc=5",
+      "data": "03/11 12:58"
+    },
+    {
+      "titulo": "Fluminense aguarda fim da temporada e deixa em aberto futuro treinador - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblFMbHlKRzZRbG53MEctWE1ZZ3pXS0xBdUF0b2F2clR2MjJ4S1ktR1EySzRCTFBmOWpTUFNaQ2JJOVJWVTRzNGRnRzBjMFNEcHpZUElPVllQUlR4ZEZkZDlOS1BxZVMxQUdrenR5UlpRT19CWkJQNlpTUEJUZGhkTGljZ0ZvZ1o2eXNLeDNoaHlpNUdfdW5QME82SFRlOGlSeTd6c2ozakI4T3VqNV85T19qY19LWHE2X2tFQ2JNRXQ5d3JGOGp1U085S1VmVVB5ZFo4NU9wUEPSAecBQVVfeXFMT3R3NFMxOEw3bzdOLWEzekowTDVXSUxfaTZkMWxlWGxGZkhrbTdqR1VBbm9iN2pxVUZLOVpKbTVlX3cybFpoU1RzbEdFckNjbU0yV3VGZjczV0k4ckF5d0FIX3JoeG9ud19yY0laUWNPSmFQc3ZXRVpFY05MeHVvWUFwdG9rTHp0d0tDYUF6bnFucEZkc1M5dFhmMUktczVpSlNwbTBaNHpzUE5qWTFET1ctVzFZRHZjdEZDNVp2ZnVZS1NJc0RsREo4eTZDTWVJT0VaTXJsUjN3R3ZSMVZvY05EZWQ5WmxB?oc=5",
+      "data": "03/11 07:00"
+    },
+    {
+      "titulo": "Cano e Ganso no Fluminense: ídolos vivem indefinição contratual - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDJfU2d5YzJMazF1WjFBQ1VpVW9VbVAxVUprdUhUOHp3YnFyekdXRFdsQi1ISWFCczF1MkctX1FvY2pYX2hkZlZBYmxhUVBMdlVld21MaXRYWXVuMkZScjNMVmlTTnpkYlQwdmpWOTVpMDEzamJybHRxd0xnak55dzhSUmFUS1l5SjFteThOZ1IxQk8weDJJ?oc=5",
+      "data": "03/11 08:41"
+    },
+    {
+      "titulo": "Marcão fica para 2027? Fluminense planeja reformulação e tem saídas encaminhadas; veja nomes - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHhnbXZhSjNTZS1WVlQtZGg2Wm9ObXBYYXdwVXJGRXBoRUpEbDFTQjkzaHZXTl94VU1DSlpNMEhFdGxvTzZ0T3oxSGtmQkd1UlowUzNvWXdBM2JpT2E1SGdUVUdYZ0lvb05udVhVT29FNDN6cWFySDlLRVEzZXowcVBBUlFOZXdlRUFEcEFIWXNXZnFzQldJdjloUFZjeURBWkp6SXJQLXA0YW5ydWNTcXNwem9vWUhlQTdNOWEzRG5YbWtrQ2pFbVh4b2tlOEZ4ajVfRDc2UzN3a0taOXliRjln?oc=5",
+      "data": "02/11 18:05"
     },
     {
       "titulo": "Fluminense manda recado para a sua torcida através das redes sociais - Terra",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY05Td3k2ZGNIS0s1RHVyWWRyZDFReHM1a3VqUVhTa2Z4TE90WGx6UmJSUU1uUWkwX3dnVjBxSFJuZVI4SkxFTWFHRVptMmg5SXpRNjBiYWZTbG04R1hQLS1jSTFid1RYV2dROEp4b25EdkVsenI4WDNrbVM1WXBlZ19YS2o3aWllVnh5Wk9Yby1NeXhBRWJFdnlJdXdxNERiSnhYRlViT2poZnFhNkhmcFpvWl9sNlBHN3R4cGVUeTFuMm10RF9ZVUVISmk5dEFEamNUM19WbEhpeGhIQUU3b1BtWDhhQUdvZllmdGhqbU4?oc=5",
-      "data": "03/11 01:50"
-    },
-    {
-      "titulo": "Dupla do Fluminense no Mundial sub-17 se inspira em Marcelo e Martinelli e sonha com estreia no profissional - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWTdqY2pCR3B6LXRPbjlnQmx3bXJaY0xHWXBES3Z0ZERUYWdfZXZmbFQ0ZU44YWcwWWxmREwwUUJYZl9IR3FvR3B5bUR6aUVQQV9BQnZMNUVSc2FsZDE1ZmZyTm1rOWpYc01nZU9SRFc4SjB4QW1jVDh0a1V5ci16SFoxMTA0U3ExeW1HUHdEYlF1cnI3NjNMQng0cUZiamRMZzFZbTMzMUtSQXJGUGNpTzVjTk0yZnJVM290VElVTDBtMGhjREVreUFRYzU4UFJHdTlUemlmVS0tWjcxdGxaSTFNRmlrVjdkcy1uVjFRRmZVX2g4YXp5YkpXOHRBRHZ2NVNtdGpJWk5XRk3SAZoCQVVfeXFMT3VNUUFzbG8zRFlCNkhUb1JsaVlDaV94eTBmaHNJTTFZQ1VEYmtrQkxuX2NRMmFpelBNdlZiY0dYZkpiRkljTHJ3ZF9lbVB4ZEJPLVpYa3JDaVhWVWZoV09DeEhsYTJMVm5qU1ZWWi1lWnlXXzlYMTFWY3pIam1qQm9OWk1aYVpla3dablN2azcwSkVGWWJpLXNZTjUxazdhUlB2d1VrbE5NNUU1V2oyQk1xUnRReEl1d0dsZjhhbHgzVmVhQVFFYVhnUlluR0J6QXR1dld0ZDJrNGgtQ09LRzBtYUlxQzdXVlptSHluT1pnWGx2Q1JMdTVrZlFNbW1Dejc0NFNaWlVUMnoyQzhBb0NESmI0Xzh2Ymln?oc=5",
-      "data": "01/11 13:00"
-    },
-    {
-      "titulo": "Adversário do Vitória chega para o confronto com grandes desfalques - A TARDE",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnAwV3BYeWlzTFJZRjlJOTM2cDQxbWw3di1oS0t6VFhITjJ6Qk5ENmJsTEdmTElvQVlPUDZmbHFha2lMVW1PWGl0cm4zZGc3Mzl3ajRPdG8tMVFITFdkQnYwT2l5R2J2bVJLNVp0Q1ZackNpcUV5UHFySHBBYUFhbHBxcTRNWDYtZ09OVUVHS1J0Zk1pcjg2RXlTc1dibm1HU2F2dkpuVDdjUUnSAbMBQVVfeXFMUEY4STJjd1dvdm02ZnZ5QVBTTE80ZmREdmpucC1Oanp5NlhQeTlYX2E4eWdfdzlUWHY3LW03THpoNG9CcUkzbE0zdmdWa05XTndpV24zaFEyLWtLRkNDQnVhZkFxMWZRX0hIMUFLS0E3S3IwUVZhLUMxVld6M1lfN0syeVpfTG5yZXVBcElDX250b2lIYVZJZ3J4dWhqTXVMRGpRSHhBQ21rOUhtQjFWR2hNc0U?oc=5",
-      "data": "02/11 18:49"
-    },
-    {
-      "titulo": "Flu perde jogo de ida e decide semifinal do Torneio Guilherme Embry Sub-16 em Xerém - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2plMFpRcnZKdm9TeFhHMVF5TkhYMUNKVGdpNVVWMEN5bi1PR2tEZmVISGxpQ2V2OUlJYVVsNXUweE05NnhwQTZaX24zTGkwWTY3ZWpaa2w4UTVkRmh1dXNaQjFMaW00OFBFbzRNQVB3ZnAxWktoak4zVWVvNm9pb19JR1M5UjNWLTBNTEdVV0dGeFZPUXF4VExLc2FoTG5XbllrOHNwaVlNaUdmT3lWTWhwOHBLX3dkTy1xb3p3?oc=5",
-      "data": "01/11 14:55"
+      "data": "01/11 07:00"
     }
   ],
   "avisos": [
