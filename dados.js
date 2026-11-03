@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/11/2026 14:43",
+  "atualizado_em": "02/11/2026 21:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-02",
-      "time": "15:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Montes Claros x Norde Vôlei",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-02",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Guarulhos x Cruzeiro",
@@ -1192,53 +1182,53 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.5,
+      "temp_max": 29.8,
       "temp_min": 22.4,
-      "chance_chuva": 86,
-      "condicao": "Trovoada"
+      "chance_chuva": 84,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.7,
+      "temp_max": 28.9,
       "temp_min": 23.0,
       "chance_chuva": 88,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.7,
+      "temp_max": 26.0,
       "temp_min": 18.2,
-      "chance_chuva": 94,
+      "chance_chuva": 97,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.0,
+      "temp_max": 26.9,
       "temp_min": 17.7,
-      "chance_chuva": 91,
+      "chance_chuva": 99,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense como visitante: Tricolor soma 31% de aproveitamento - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkFoTlNvQW1wZGJnWFp2bElIc0JodDJjZ0QwR3BDRGRFd2ZFLVMwZXUtWWR2Y2p5NWdISUhnRlBpMzNucUctM3BtMVh5Sl9pTXIxTktyODhPWno2dV9CcDN4MHJmUm1fd01NaF9iOUt0ZFc1N1lJXzFUVHJpQzdPRjRtVXI0REo3aEU5bg?oc=5",
-      "data": "02/11 14:45"
-    },
-    {
-      "titulo": "Cano e Ganso podem deixar o Fluminense? Entenda a situação da dupla - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPS1Fkb3RZTnhUdWFSc01ORHR4S1FGdnRVZFlfdS1GQVRyRlY5VE1kcjh0cERDNl9sSWNhYjlIY2VoRUdvQ2NfYktCbmU4aTVKVWgteVA1U2c4UnVzSTR4MkZ1T19xdkU3allBV2FndHh1OUd5Y2FPb3RYdUVoeDl0U0lGOFowbkVRelNZcFhNbnk3Z2NXdktIWXRSYVJzTGRyMmJXczl3ZnNUdkh0WURFV3VFM2tMT1ZLVUtSRHEzUlk1MTdqeGVBQUVVVFVlM0FSQVFHSHUtbS1zWHFEUnZ1MjdJVnZFOHp2dUNqZFVB?oc=5",
-      "data": "02/11 15:21"
-    },
-    {
-      "titulo": "Fluminense divulga novos detalhes da parceria com o Superscore - Futebol Interior",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaW5XRVBQQTZqRHM4VzlaTlBiWFJ0d25QN1VnVC1keDFPbkZERnFDNk1DVzlNM1lPNXVaekZEY0w1VUNpSFJhUlViSzI1M1UzSnZJUEVtVEFleEhZcVp1NGJiSC1BYmhBU3NfclcwdldqSkZ3SXJEMTJ2S05uamZQSjBEc08?oc=5",
-      "data": "02/11 14:45"
-    },
-    {
       "titulo": "Jemmes no Fluminense: zagueiro pode deixar o clube em 2027? - NETFLU",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUlCT1BqcDdRa2ZwcFpPYl93MjdicjJfVDhFd1IwVlJUV2luN1VqNWlsSG1KQWpuYTctUDZMdHZuZk5IQVgwYllaVElkSjdpWDZNcTg1Q2hkSG40MWRrelpNQnF5Vy1Od0NMallWS0x6VmM4aktxdDlFVWFOY3VqRjJqTEgxb1JCbEpLUlppUm55NGIwbXNSeQ?oc=5",
       "data": "02/11 13:43"
+    },
+    {
+      "titulo": "Fica ou sai? Fluminense avalia renovação de Ganso; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNUNEc2ozcXJ2Y3dwRGJHbnRxXzdHdmhOMW9jcFpaYWV3bGY2ck56a2NXT1VlUWxKMmQwcnB6a0VHN2hvUWI0NkE1algzanJzYkVSRnUzTVlUdEM3TUlPdC1DRno2Rlp0akk2VVZKaThISW1rcnJjcE4tMnF4UnBKUF9ZU3hocnpxOWFwZHpWdTVwanVIckpsREVwelNZX0t0c3ZVRFFtbWg4T3dRUWQ3bTE0eXZpdVZYazdMUDFBdTZJUE5maFgxNTVfXzRrWDd5M0JmeTlLbk4tS01Mb25KQWlnTkV5bDNBb0E?oc=5",
+      "data": "02/11 20:29"
+    },
+    {
+      "titulo": "Adeus! Rival do Fluminense demite o seu treinador - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUoycllaT1FVbFI5T3J0UVdjNF9PODBENnpnbDZXNm1iUXhCV3RsUThJT21DbUZkN2hnREkzcmR2dWtVai1yaG5ISmJYWGZlS2JCUmZYaXJtcXppNnBPaV8tT3M2c1BBT1otbExTRVNrNFd4NV82YmlJMDZmem5OOU9BOVZlb0MxWmdiYXBjVFJYbDhlTXpqcWt1b1VDYmlBUUFvMzFxUXExTUZRbG91ZzZEeFk1QlUxRG5KeDJxTlMwSXlpcl9jcFVrUkZBbnVJYWNkY3h3?oc=5",
+      "data": "02/11 21:31"
+    },
+    {
+      "titulo": "Além do Fluminense, veja os clubes que participarão da audiência sobre bets no STF - www.netflu.com.br",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHZlZHhLYVl5akFYTTdEQ3dZYkdDZndSYXIwOU9adjQyVTJjeHlQTTE4Qi1ZcWlEUV9yMlVaY0FNckRaNnNla2FBakFjUFFFcW1XTjZ3Z3FJT0tSOXJYZ3J5Z2FQQ2EybHNMcnpvLXg4QndqMExKYktNN1hOZkhGY05HYjRPcGIwWFhrS1BxLUJkTy1fbndwR3NDelgyZVJBT3lOLU5FN2V5TTRT?oc=5",
+      "data": "02/11 22:17"
     },
     {
       "titulo": "Dupla do Fluminense no Mundial sub-17 se inspira em Marcelo e Martinelli e sonha com estreia no profissional - ge",
