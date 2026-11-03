@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "03/11/2026 12:45",
+  "atualizado_em": "03/11/2026 18:27",
   "jogos": [
     {
       "sport": "futebol",
@@ -1172,48 +1172,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.3,
+      "temp_max": 30.7,
       "temp_min": 22.9,
-      "chance_chuva": 76,
+      "chance_chuva": 61,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.0,
-      "temp_min": 22.8,
+      "temp_max": 31.9,
+      "temp_min": 23.2,
       "chance_chuva": 98,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.1,
-      "temp_min": 18.2,
+      "temp_max": 29.0,
+      "temp_min": 19.1,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.3,
-      "temp_min": 17.0,
+      "temp_max": 27.9,
+      "temp_min": 18.4,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Marcão e mais dois ídolos do Fluminense têm futuro incerto no clube para próxima temporada - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEpOSm5GLVhxcVFCNHhkN1VvaW5kSGQ1WFlpRlRBNXVKeEF1VkpjNHg3UnpCWGlVWTV5ZC03VHQ5eWlYNk83WkZGVkdnTDlXV3VNZEk0QjFiYi1kNFVSNExZRWlFeldJTUpaSjZfNEF2ekJwSjd1SHN1UDl4cDltc244ZFF1RWNtWVhyN1BjSWZ3MFJMcnd6eFpjR01IS0N0d0VaSnVwenJiNUM3cnpwXzlaaUxmQUYtXzBCc2oyOEE4RHVKVlE?oc=5",
-      "data": "03/11 12:58"
+      "titulo": "Vitória define técnico para enfrentar o Fluminense e pode adotar estratégia do Tricolor; entenda - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXBWZGhxWkpNUEhoVDZrMGREMmNHWUFwUWpNYjcxYWNTeFE1TTdhNUF2QVFqYWphZ1ZLMWhybzQ4c0Q3VnQxemVRN25Ybm9ocTd2M2tDMnlkLWNBNGEzUHNpcUZ1NlpwRXpxSzdKWG40UEg5RDN3bUhTTlNCOTA5QlZqbzBaSWZZOUcybVVicUU2d3Z4SGhzdkVMb3VBMGQ5SlpTQ1JQQnJwcnhTalFlZ0l1R3B2czJUWlRsaGhCZw?oc=5",
+      "data": "03/11 14:01"
     },
     {
-      "titulo": "Fluminense aguarda fim da temporada e deixa em aberto futuro treinador - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblFMbHlKRzZRbG53MEctWE1ZZ3pXS0xBdUF0b2F2clR2MjJ4S1ktR1EySzRCTFBmOWpTUFNaQ2JJOVJWVTRzNGRnRzBjMFNEcHpZUElPVllQUlR4ZEZkZDlOS1BxZVMxQUdrenR5UlpRT19CWkJQNlpTUEJUZGhkTGljZ0ZvZ1o2eXNLeDNoaHlpNUdfdW5QME82SFRlOGlSeTd6c2ozakI4T3VqNV85T19qY19LWHE2X2tFQ2JNRXQ5d3JGOGp1U085S1VmVVB5ZFo4NU9wUEPSAecBQVVfeXFMT3R3NFMxOEw3bzdOLWEzekowTDVXSUxfaTZkMWxlWGxGZkhrbTdqR1VBbm9iN2pxVUZLOVpKbTVlX3cybFpoU1RzbEdFckNjbU0yV3VGZjczV0k4ckF5d0FIX3JoeG9ud19yY0laUWNPSmFQc3ZXRVpFY05MeHVvWUFwdG9rTHp0d0tDYUF6bnFucEZkc1M5dFhmMUktczVpSlNwbTBaNHpzUE5qWTFET1ctVzFZRHZjdEZDNVp2ZnVZS1NJc0RsREo4eTZDTWVJT0VaTXJsUjN3R3ZSMVZvY05EZWQ5WmxB?oc=5",
-      "data": "03/11 07:00"
+      "titulo": "Fala de Mattheus Montenegro, presidente do Fluminense, sobre bets repercute: 'Revoltante' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUhCZlFzLUJZdk9CZ1RtcEpSc1VCWnBVR0Qxc0tZV25TMFZ0c3N3MVJEWjFYdS1RSHAwSWFkclFGQ1ZhcWNuVVVwSll5STV0Y0Y1SHl4MjZTUzJTZEZPOHRrNkV2ZGgxd1V0TDltZXF5NzR5eWsxY19rTUhENVRFb3pPVTV0Y01nbG15N1A2c2RTVXVUQl9rWDI4T3l4UEd2bEtwTUpoTTdrUnpMTmpmM3NMTGFLVU40STlyRW40cGhDbzA?oc=5",
+      "data": "03/11 17:20"
     },
     {
-      "titulo": "Cano e Ganso no Fluminense: ídolos vivem indefinição contratual - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDJfU2d5YzJMazF1WjFBQ1VpVW9VbVAxVUprdUhUOHp3YnFyekdXRFdsQi1ISWFCczF1MkctX1FvY2pYX2hkZlZBYmxhUVBMdlVld21MaXRYWXVuMkZScjNMVmlTTnpkYlQwdmpWOTVpMDEzamJybHRxd0xnak55dzhSUmFUS1l5SjFteThOZ1IxQk8weDJJ?oc=5",
-      "data": "03/11 08:41"
+      "titulo": "Sócio Futebol lança Gift Card e permite presentear torcedores com plano de sócio - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmpvd1RpWWNETndodlJERTB5R0lJUVRESWlkNE1rOXNLZ3R1QVpzdzFwVGNRa2F3S3Q5YlV1M1JfdGpmQkV1UG92TkFFb09zcHlTdHNlVmF5eHR2MTJtdGhyV2lST1lWZ0xGRjFLdmZIZHcxdHhrNkhJYUMyZXpmS0RaeDNqTEl4azlDZUVPN1hRa3Y4UWFMemhUVk1yMmpPMXBFNVljZ2xlWk5xWW9CYjNyVVZxREpnbkE?oc=5",
+      "data": "03/11 21:08"
     },
     {
       "titulo": "Marcão fica para 2027? Fluminense planeja reformulação e tem saídas encaminhadas; veja nomes - ESPN Brasil",
@@ -1221,9 +1221,9 @@ window.PAINEL_DATA = {
       "data": "02/11 18:05"
     },
     {
-      "titulo": "Fluminense manda recado para a sua torcida através das redes sociais - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY05Td3k2ZGNIS0s1RHVyWWRyZDFReHM1a3VqUVhTa2Z4TE90WGx6UmJSUU1uUWkwX3dnVjBxSFJuZVI4SkxFTWFHRVptMmg5SXpRNjBiYWZTbG04R1hQLS1jSTFid1RYV2dROEp4b25EdkVsenI4WDNrbVM1WXBlZ19YS2o3aWllVnh5Wk9Yby1NeXhBRWJFdnlJdXdxNERiSnhYRlViT2poZnFhNkhmcFpvWl9sNlBHN3R4cGVUeTFuMm10RF9ZVUVISmk5dEFEamNUM19WbEhpeGhIQUU3b1BtWDhhQUdvZllmdGhqbU4?oc=5",
-      "data": "01/11 07:00"
+      "titulo": "Cano e Ganso no Fluminense: ídolos vivem indefinição contratual - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDJfU2d5YzJMazF1WjFBQ1VpVW9VbVAxVUprdUhUOHp3YnFyekdXRFdsQi1ISWFCczF1MkctX1FvY2pYX2hkZlZBYmxhUVBMdlVld21MaXRYWXVuMkZScjNMVmlTTnpkYlQwdmpWOTVpMDEzamJybHRxd0xnak55dzhSUmFUS1l5SjFteThOZ1IxQk8weDJJ?oc=5",
+      "data": "03/11 08:41"
     }
   ],
   "avisos": [
