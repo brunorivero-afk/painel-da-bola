@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "02/11/2026 21:25",
+  "atualizado_em": "03/11/2026 04:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-02",
-      "time": "20:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Guarulhos x Cruzeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Minas",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "São José x Campinas",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Paulistano Barueri",
@@ -1170,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Fluminense",
@@ -1182,30 +1172,30 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.8,
-      "temp_min": 22.4,
-      "chance_chuva": 84,
-      "condicao": "Trovoada com granizo"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 28.9,
-      "temp_min": 23.0,
-      "chance_chuva": 88,
+      "temp_max": 30.1,
+      "temp_min": 23.1,
+      "chance_chuva": 86,
       "condicao": "Trovoada"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 31.4,
+      "temp_min": 23.1,
+      "chance_chuva": 96,
+      "condicao": "Garoa fraca"
+    },
+    {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.0,
-      "temp_min": 18.2,
-      "chance_chuva": 97,
+      "temp_max": 25.9,
+      "temp_min": 17.5,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.9,
-      "temp_min": 17.7,
-      "chance_chuva": 99,
+      "temp_max": 26.0,
+      "temp_min": 16.8,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
@@ -1216,24 +1206,24 @@ window.PAINEL_DATA = {
       "data": "02/11 13:43"
     },
     {
-      "titulo": "Fica ou sai? Fluminense avalia renovação de Ganso; saiba detalhes - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNUNEc2ozcXJ2Y3dwRGJHbnRxXzdHdmhOMW9jcFpaYWV3bGY2ck56a2NXT1VlUWxKMmQwcnB6a0VHN2hvUWI0NkE1algzanJzYkVSRnUzTVlUdEM3TUlPdC1DRno2Rlp0akk2VVZKaThISW1rcnJjcE4tMnF4UnBKUF9ZU3hocnpxOWFwZHpWdTVwanVIckpsREVwelNZX0t0c3ZVRFFtbWg4T3dRUWQ3bTE0eXZpdVZYazdMUDFBdTZJUE5maFgxNTVfXzRrWDd5M0JmeTlLbk4tS01Mb25KQWlnTkV5bDNBb0E?oc=5",
-      "data": "02/11 20:29"
-    },
-    {
-      "titulo": "Adeus! Rival do Fluminense demite o seu treinador - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdUoycllaT1FVbFI5T3J0UVdjNF9PODBENnpnbDZXNm1iUXhCV3RsUThJT21DbUZkN2hnREkzcmR2dWtVai1yaG5ISmJYWGZlS2JCUmZYaXJtcXppNnBPaV8tT3M2c1BBT1otbExTRVNrNFd4NV82YmlJMDZmem5OOU9BOVZlb0MxWmdiYXBjVFJYbDhlTXpqcWt1b1VDYmlBUUFvMzFxUXExTUZRbG91ZzZEeFk1QlUxRG5KeDJxTlMwSXlpcl9jcFVrUkZBbnVJYWNkY3h3?oc=5",
-      "data": "02/11 21:31"
-    },
-    {
-      "titulo": "Além do Fluminense, veja os clubes que participarão da audiência sobre bets no STF - www.netflu.com.br",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHZlZHhLYVl5akFYTTdEQ3dZYkdDZndSYXIwOU9adjQyVTJjeHlQTTE4Qi1ZcWlEUV9yMlVaY0FNckRaNnNla2FBakFjUFFFcW1XTjZ3Z3FJT0tSOXJYZ3J5Z2FQQ2EybHNMcnpvLXg4QndqMExKYktNN1hOZkhGY05HYjRPcGIwWFhrS1BxLUJkTy1fbndwR3NDelgyZVJBT3lOLU5FN2V5TTRT?oc=5",
-      "data": "02/11 22:17"
+      "titulo": "Fluminense manda recado para a sua torcida através das redes sociais - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNY05Td3k2ZGNIS0s1RHVyWWRyZDFReHM1a3VqUVhTa2Z4TE90WGx6UmJSUU1uUWkwX3dnVjBxSFJuZVI4SkxFTWFHRVptMmg5SXpRNjBiYWZTbG04R1hQLS1jSTFid1RYV2dROEp4b25EdkVsenI4WDNrbVM1WXBlZ19YS2o3aWllVnh5Wk9Yby1NeXhBRWJFdnlJdXdxNERiSnhYRlViT2poZnFhNkhmcFpvWl9sNlBHN3R4cGVUeTFuMm10RF9ZVUVISmk5dEFEamNUM19WbEhpeGhIQUU3b1BtWDhhQUdvZllmdGhqbU4?oc=5",
+      "data": "03/11 01:50"
     },
     {
       "titulo": "Dupla do Fluminense no Mundial sub-17 se inspira em Marcelo e Martinelli e sonha com estreia no profissional - ge",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQWTdqY2pCR3B6LXRPbjlnQmx3bXJaY0xHWXBES3Z0ZERUYWdfZXZmbFQ0ZU44YWcwWWxmREwwUUJYZl9IR3FvR3B5bUR6aUVQQV9BQnZMNUVSc2FsZDE1ZmZyTm1rOWpYc01nZU9SRFc4SjB4QW1jVDh0a1V5ci16SFoxMTA0U3ExeW1HUHdEYlF1cnI3NjNMQng0cUZiamRMZzFZbTMzMUtSQXJGUGNpTzVjTk0yZnJVM290VElVTDBtMGhjREVreUFRYzU4UFJHdTlUemlmVS0tWjcxdGxaSTFNRmlrVjdkcy1uVjFRRmZVX2g4YXp5YkpXOHRBRHZ2NVNtdGpJWk5XRk3SAZoCQVVfeXFMT3VNUUFzbG8zRFlCNkhUb1JsaVlDaV94eTBmaHNJTTFZQ1VEYmtrQkxuX2NRMmFpelBNdlZiY0dYZkpiRkljTHJ3ZF9lbVB4ZEJPLVpYa3JDaVhWVWZoV09DeEhsYTJMVm5qU1ZWWi1lWnlXXzlYMTFWY3pIam1qQm9OWk1aYVpla3dablN2azcwSkVGWWJpLXNZTjUxazdhUlB2d1VrbE5NNUU1V2oyQk1xUnRReEl1d0dsZjhhbHgzVmVhQVFFYVhnUlluR0J6QXR1dld0ZDJrNGgtQ09LRzBtYUlxQzdXVlptSHluT1pnWGx2Q1JMdTVrZlFNbW1Dejc0NFNaWlVUMnoyQzhBb0NESmI0Xzh2Ymln?oc=5",
       "data": "01/11 13:00"
+    },
+    {
+      "titulo": "Adversário do Vitória chega para o confronto com grandes desfalques - A TARDE",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnAwV3BYeWlzTFJZRjlJOTM2cDQxbWw3di1oS0t6VFhITjJ6Qk5ENmJsTEdmTElvQVlPUDZmbHFha2lMVW1PWGl0cm4zZGc3Mzl3ajRPdG8tMVFITFdkQnYwT2l5R2J2bVJLNVp0Q1ZackNpcUV5UHFySHBBYUFhbHBxcTRNWDYtZ09OVUVHS1J0Zk1pcjg2RXlTc1dibm1HU2F2dkpuVDdjUUnSAbMBQVVfeXFMUEY4STJjd1dvdm02ZnZ5QVBTTE80ZmREdmpucC1Oanp5NlhQeTlYX2E4eWdfdzlUWHY3LW03THpoNG9CcUkzbE0zdmdWa05XTndpV24zaFEyLWtLRkNDQnVhZkFxMWZRX0hIMUFLS0E3S3IwUVZhLUMxVld6M1lfN0syeVpfTG5yZXVBcElDX250b2lIYVZJZ3J4dWhqTXVMRGpRSHhBQ21rOUhtQjFWR2hNc0U?oc=5",
+      "data": "02/11 18:49"
+    },
+    {
+      "titulo": "Flu perde jogo de ida e decide semifinal do Torneio Guilherme Embry Sub-16 em Xerém - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2plMFpRcnZKdm9TeFhHMVF5TkhYMUNKVGdpNVVWMEN5bi1PR2tEZmVISGxpQ2V2OUlJYVVsNXUweE05NnhwQTZaX24zTGkwWTY3ZWpaa2w4UTVkRmh1dXNaQjFMaW00OFBFbzRNQVB3ZnAxWktoak4zVWVvNm9pb19JR1M5UjNWLTBNTEdVV0dGeFZPUXF4VExLc2FoTG5XbllrOHNwaVlNaUdmT3lWTWhwOHBLX3dkTy1xb3p3?oc=5",
+      "data": "01/11 14:55"
     }
   ],
   "avisos": [
