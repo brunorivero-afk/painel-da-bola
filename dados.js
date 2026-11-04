@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "03/11/2026 18:27",
+  "atualizado_em": "03/11/2026 22:50",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-03",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Goiás x Minas",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-03",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "São José x Campinas",
@@ -1174,7 +1164,7 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 30.7,
       "temp_min": 22.9,
-      "chance_chuva": 61,
+      "chance_chuva": 39,
       "condicao": "Garoa"
     },
     {
@@ -1187,43 +1177,43 @@ window.PAINEL_DATA = {
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 29.0,
-      "temp_min": 19.1,
-      "chance_chuva": 100,
+      "temp_min": 18.8,
+      "chance_chuva": 92,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 27.9,
-      "temp_min": 18.4,
-      "chance_chuva": 100,
+      "temp_min": 18.6,
+      "chance_chuva": 99,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Vitória define técnico para enfrentar o Fluminense e pode adotar estratégia do Tricolor; entenda - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXBWZGhxWkpNUEhoVDZrMGREMmNHWUFwUWpNYjcxYWNTeFE1TTdhNUF2QVFqYWphZ1ZLMWhybzQ4c0Q3VnQxemVRN25Ybm9ocTd2M2tDMnlkLWNBNGEzUHNpcUZ1NlpwRXpxSzdKWG40UEg5RDN3bUhTTlNCOTA5QlZqbzBaSWZZOUcybVVicUU2d3Z4SGhzdkVMb3VBMGQ5SlpTQ1JQQnJwcnhTalFlZ0l1R3B2czJUWlRsaGhCZw?oc=5",
-      "data": "03/11 14:01"
-    },
     {
       "titulo": "Fala de Mattheus Montenegro, presidente do Fluminense, sobre bets repercute: 'Revoltante' - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUhCZlFzLUJZdk9CZ1RtcEpSc1VCWnBVR0Qxc0tZV25TMFZ0c3N3MVJEWjFYdS1RSHAwSWFkclFGQ1ZhcWNuVVVwSll5STV0Y0Y1SHl4MjZTUzJTZEZPOHRrNkV2ZGgxd1V0TDltZXF5NzR5eWsxY19rTUhENVRFb3pPVTV0Y01nbG15N1A2c2RTVXVUQl9rWDI4T3l4UEd2bEtwTUpoTTdrUnpMTmpmM3NMTGFLVU40STlyRW40cGhDbzA?oc=5",
       "data": "03/11 17:20"
     },
     {
-      "titulo": "Sócio Futebol lança Gift Card e permite presentear torcedores com plano de sócio - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRmpvd1RpWWNETndodlJERTB5R0lJUVRESWlkNE1rOXNLZ3R1QVpzdzFwVGNRa2F3S3Q5YlV1M1JfdGpmQkV1UG92TkFFb09zcHlTdHNlVmF5eHR2MTJtdGhyV2lST1lWZ0xGRjFLdmZIZHcxdHhrNkhJYUMyZXpmS0RaeDNqTEl4azlDZUVPN1hRa3Y4UWFMemhUVk1yMmpPMXBFNVljZ2xlWk5xWW9CYjNyVVZxREpnbkE?oc=5",
-      "data": "03/11 21:08"
+      "titulo": "Vitória define técnico para enfrentar o Fluminense e pode adotar estratégia do Tricolor; entenda - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXBWZGhxWkpNUEhoVDZrMGREMmNHWUFwUWpNYjcxYWNTeFE1TTdhNUF2QVFqYWphZ1ZLMWhybzQ4c0Q3VnQxemVRN25Ybm9ocTd2M2tDMnlkLWNBNGEzUHNpcUZ1NlpwRXpxSzdKWG40UEg5RDN3bUhTTlNCOTA5QlZqbzBaSWZZOUcybVVicUU2d3Z4SGhzdkVMb3VBMGQ5SlpTQ1JQQnJwcnhTalFlZ0l1R3B2czJUWlRsaGhCZw?oc=5",
+      "data": "03/11 14:01"
     },
     {
-      "titulo": "Marcão fica para 2027? Fluminense planeja reformulação e tem saídas encaminhadas; veja nomes - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOHhnbXZhSjNTZS1WVlQtZGg2Wm9ObXBYYXdwVXJGRXBoRUpEbDFTQjkzaHZXTl94VU1DSlpNMEhFdGxvTzZ0T3oxSGtmQkd1UlowUzNvWXdBM2JpT2E1SGdUVUdYZ0lvb05udVhVT29FNDN6cWFySDlLRVEzZXowcVBBUlFOZXdlRUFEcEFIWXNXZnFzQldJdjloUFZjeURBWkp6SXJQLXA0YW5ydWNTcXNwem9vWUhlQTdNOWEzRG5YbWtrQ2pFbVh4b2tlOEZ4ajVfRDc2UzN3a0taOXliRjln?oc=5",
-      "data": "02/11 18:05"
+      "titulo": "Savarino é convocado pela Seleção da Venezuela - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3hkRk42eGoxYU1od0h0RW9BTVg2ZmpyMEpodHJJVnhxTmZfMzJLMnBXMEgyb3VsYTdDeDY2eUptWUdIUjJsclplMTRvOXZxUnVPamFQaGlHVGdxWi1vVkZ0dGdVYldMVXU0REg1a1JZdTloZjZyVW84SVkwcjIzQ0s3NHdSNFRZRTl3aw?oc=5",
+      "data": "03/11 21:28"
     },
     {
-      "titulo": "Cano e Ganso no Fluminense: ídolos vivem indefinição contratual - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDJfU2d5YzJMazF1WjFBQ1VpVW9VbVAxVUprdUhUOHp3YnFyekdXRFdsQi1ISWFCczF1MkctX1FvY2pYX2hkZlZBYmxhUVBMdlVld21MaXRYWXVuMkZScjNMVmlTTnpkYlQwdmpWOTVpMDEzamJybHRxd0xnak55dzhSUmFUS1l5SjFteThOZ1IxQk8weDJJ?oc=5",
-      "data": "03/11 08:41"
+      "titulo": "Quem será o técnico do Fluminense em 2027? Site revela bastidores do clube - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXVQWDlPejBCZHJMVldUV1B2UEtyY2Q5TVY4Zk5QQldYbWNtcHoxS0FpVFhZaldnX1Y1eWFsLUV6WXZQQUV3enlfVkZ1bGp3QVA0YTlLTElqYjlndHZlQkk2dXNkMUxCbUs0OXdmT09DMUE0MTk3eUVJNF9OdlBWRXpTb1hzeG92UXpobXFtREkycjU4RDZEMlFURXBVdndDd0E?oc=5",
+      "data": "03/11 14:43"
+    },
+    {
+      "titulo": "Gift Card permite presentear torcedores com plano de sócio do Fluminense; Saiba mais - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczRyNl9zSkNwOXBxVVhDWE84SEplQWZPQWpPdjgzNE9qaUp2cEo4NTYwbVdXOXpMQ25WbXd0YVdMZmEzNGVVeFdVVUlBQmYtWlRaQjV1WUM4aW05aURiNy0tcG9TMG1nTzNoVkpaN3Vacnk1X3lxWmtQN1J5SHdLSW5DWDJtQ1JHU3dERjFJelZQOGNQbjQ4UmZpVnpHVG1uMjdwM2IzT2R5dHk3cXNr?oc=5",
+      "data": "04/11 01:05"
     }
   ],
   "avisos": [
