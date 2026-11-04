@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/11/2026 13:47",
+  "atualizado_em": "04/11/2026 19:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -1162,53 +1162,53 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.3,
+      "temp_max": 28.5,
       "temp_min": 23.0,
       "chance_chuva": 16,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.9,
+      "temp_max": 27.0,
       "temp_min": 22.8,
       "chance_chuva": 8,
-      "condicao": "Nublado"
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.9,
+      "temp_max": 28.5,
       "temp_min": 19.1,
       "chance_chuva": 81,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.4,
+      "temp_max": 28.6,
       "temp_min": 18.2,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Sai ou fica? Fluminense ainda avalia situação de Ganso para 2027 - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYU5HY1podVJ3RGRwbDZoTTZqU2tvaWFicUhVMmt3S1RZSXMzRlg1aU1ONTl4ZFJ1LUlwcGx0MlJ1Q1BneUZoTEZhdlZtU1dsWHJ2RkU2SFdlMS1vRC1yZmcxS3dYdTdJV2plbHNLaEZmWFp5YWV1eWpRZllhY3E1VUNON29PZy1JZXp0N3ExVnVKZGxU?oc=5",
-      "data": "03/11 22:42"
+      "titulo": "Meta de vendas do Fluminense não é cumprida: trio valorizado pode deixar o clube - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZDNiV0FzM21JS2FCRlJxdUF2VlpLdDg1QVBON2ZEZUtHR25Fbkt2UXJ5SGVneTYxVmc3T3hCVnoyQ1h6a05nMHVlWVdwdWd5UGVvX2Z4bGw0eTFJV1kxejZGN19iQQ?oc=5",
+      "data": "04/11 14:04"
     },
     {
-      "titulo": "Fluminense aguarda fim da temporada e deixa em aberto futuro treinador - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblFMbHlKRzZRbG53MEctWE1ZZ3pXS0xBdUF0b2F2clR2MjJ4S1ktR1EySzRCTFBmOWpTUFNaQ2JJOVJWVTRzNGRnRzBjMFNEcHpZUElPVllQUlR4ZEZkZDlOS1BxZVMxQUdrenR5UlpRT19CWkJQNlpTUEJUZGhkTGljZ0ZvZ1o2eXNLeDNoaHlpNUdfdW5QME82SFRlOGlSeTd6c2ozakI4T3VqNV85T19qY19LWHE2X2tFQ2JNRXQ5d3JGOGp1U085S1VmVVB5ZFo4NU9wUEPSAecBQVVfeXFMT3R3NFMxOEw3bzdOLWEzekowTDVXSUxfaTZkMWxlWGxGZkhrbTdqR1VBbm9iN2pxVUZLOVpKbTVlX3cybFpoU1RzbEdFckNjbU0yV3VGZjczV0k4ckF5d0FIX3JoeG9ud19yY0laUWNPSmFQc3ZXRVpFY05MeHVvWUFwdG9rTHp0d0tDYUF6bnFucEZkc1M5dFhmMUktczVpSlNwbTBaNHpzUE5qWTFET1ctVzFZRHZjdEZDNVp2ZnVZS1NJc0RsREo4eTZDTWVJT0VaTXJsUjN3R3ZSMVZvY05EZWQ5WmxB?oc=5",
-      "data": "03/11 07:00"
+      "titulo": "No STF, Flamengo, Fluminense e outros clubes defendem volta das bets - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2FBU1FMNnBURkRRa3FKeXFaRVZFdm1TWm1EczBMMEhUTWJpU3JtbWtLblN4cVNxb3pxMmJ4WDlDWTVxdmhFLVA1bUVnVWVEbHF4WTZhT3NBUEYtS0pYT0NuOUM0VXdJdC1NcTFCZ2xXc3dRZ2ZhRXpYUjM1WkJhYldRX1dDUjVoNGRYX0pwSHpValFuYXdPaGctTUJyckVMdUg3aS1hTHByRG9kZmpacTdUbVZmQURVNFHSAb8BQVVfeXFMT0E0V2pXNzA2QWxzRjlpR3RUdHQ4dDF6TXliSFhZcGJKSXFEMURKdENCWkZycU4wU0xyQ1pTZ09QY3ZUMC1sVVM2Y01Fa2MzQzc5akxaRkRyN2JwRmlmOXZOa21kNFloQkpoWHlQS3BZQ3k1cWZ0RzNocGcxZHhTcG9jdDc5NTR6ZTVxZjlrR3BoZEZ4ekZHVzNqYm1ZNHRkcjRiQm43dVNrb1ktRTF5MEducDZGaF9WZFlrLTdrSTQ?oc=5",
+      "data": "03/11 18:53"
     },
     {
-      "titulo": "Cano e Ganso no Fluminense: ídolos vivem indefinição contratual - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDJfU2d5YzJMazF1WjFBQ1VpVW9VbVAxVUprdUhUOHp3YnFyekdXRFdsQi1ISWFCczF1MkctX1FvY2pYX2hkZlZBYmxhUVBMdlVld21MaXRYWXVuMkZScjNMVmlTTnpkYlQwdmpWOTVpMDEzamJybHRxd0xnak55dzhSUmFUS1l5SjFteThOZ1IxQk8weDJJ?oc=5",
-      "data": "03/11 08:41"
+      "titulo": "Ex-Fluminense celebra marca de 500 jogos na carreira: 'Amor pelo futebol' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN19qcHNBblBxTUJxZVd4bER2dXVfUXd1Q3p6Sjc0WFo4YXYxZUQ1UGhhb2hvZkNMajNPNEJOMmxzQ3RGSjIzdzBVVWhFQ21yRVNwS0tMNk9BTXF0YlZObkJwRHVDeUlLVUc4WktxNkw5ZWNyN0JTRTJ5N2RMbFZUcnJjaUlEcEd1VXJGVENLWFRmRGdfbzdtbU5DTVlWVGdaRW5fR2dKVmExVUpoRTRxVUxnQ1l4ZWJ4WFEtcEJ4MA?oc=5",
+      "data": "04/11 17:59"
     },
     {
-      "titulo": "Vitória define técnico para enfrentar o Fluminense e pode adotar estratégia do Tricolor; entenda - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXBWZGhxWkpNUEhoVDZrMGREMmNHWUFwUWpNYjcxYWNTeFE1TTdhNUF2QVFqYWphZ1ZLMWhybzQ4c0Q3VnQxemVRN25Ybm9ocTd2M2tDMnlkLWNBNGEzUHNpcUZ1NlpwRXpxSzdKWG40UEg5RDN3bUhTTlNCOTA5QlZqbzBaSWZZOUcybVVicUU2d3Z4SGhzdkVMb3VBMGQ5SlpTQ1JQQnJwcnhTalFlZ0l1R3B2czJUWlRsaGhCZw?oc=5",
-      "data": "03/11 14:01"
+      "titulo": "Fernando Diniz no Fluminense? Comentarista relata rumor sobre volta - Band",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFB5VnpsVEJjd1B3cHk4Y1RCLWFwVmdoZ2FuajBVM0R6bkpiaGtJLWVvbE5XYU9zMVJYM2Q4RVpMcXhKZTV4c2VsZFdWNVFnbHRaNlpERW9rR3UzU0lLdUlIZnBubWNTaWRtRmk2Mm1UU0RvNTRTbnRuX3FMZnpUNVVybXB1RW9IVlRXdGhTbVpVOGRLc3dOLTQyMDZvLWY1RXl2R25xb3o1MTFyZ0g5cDg0dG5kSVRoaWFfYzZYUGxGZw?oc=5",
+      "data": "04/11 19:32"
     },
     {
       "titulo": "Por onde andam os campeões da Libertadores pelo Fluminense em 2023? Sete ainda seguem no clube - ge",
