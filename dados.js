@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/11/2026 05:31",
+  "atualizado_em": "04/11/2026 13:47",
   "jogos": [
     {
       "sport": "futebol",
@@ -1133,7 +1133,17 @@ window.PAINEL_DATA = {
       "date": "2026-11-04",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x Paulistano Barueri",
+      "match": "Mackenzie x Minas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-04",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Goiás x Minas",
       "channels": [
         "SporTV2"
       ]
@@ -1143,7 +1153,7 @@ window.PAINEL_DATA = {
       "date": "2026-11-04",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Sesi-Bauru x Fluminense",
+      "match": "São José x Campinas",
       "channels": [
         "SporTV2"
       ]
@@ -1152,38 +1162,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.9,
-      "temp_min": 22.8,
-      "chance_chuva": 2,
+      "temp_max": 28.3,
+      "temp_min": 23.0,
+      "chance_chuva": 16,
       "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.0,
-      "temp_min": 22.9,
-      "chance_chuva": 1,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 26.9,
+      "temp_min": 22.8,
+      "chance_chuva": 8,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.0,
-      "temp_min": 18.9,
-      "chance_chuva": 67,
+      "temp_max": 28.9,
+      "temp_min": 19.1,
+      "chance_chuva": 81,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.0,
-      "temp_min": 18.0,
-      "chance_chuva": 92,
+      "temp_max": 28.4,
+      "temp_min": 18.2,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fala de Mattheus Montenegro, presidente do Fluminense, sobre bets repercute: 'Revoltante' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUhCZlFzLUJZdk9CZ1RtcEpSc1VCWnBVR0Qxc0tZV25TMFZ0c3N3MVJEWjFYdS1RSHAwSWFkclFGQ1ZhcWNuVVVwSll5STV0Y0Y1SHl4MjZTUzJTZEZPOHRrNkV2ZGgxd1V0TDltZXF5NzR5eWsxY19rTUhENVRFb3pPVTV0Y01nbG15N1A2c2RTVXVUQl9rWDI4T3l4UEd2bEtwTUpoTTdrUnpMTmpmM3NMTGFLVU40STlyRW40cGhDbzA?oc=5",
-      "data": "03/11 17:20"
+      "titulo": "Sai ou fica? Fluminense ainda avalia situação de Ganso para 2027 - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYU5HY1podVJ3RGRwbDZoTTZqU2tvaWFicUhVMmt3S1RZSXMzRlg1aU1ONTl4ZFJ1LUlwcGx0MlJ1Q1BneUZoTEZhdlZtU1dsWHJ2RkU2SFdlMS1vRC1yZmcxS3dYdTdJV2plbHNLaEZmWFp5YWV1eWpRZllhY3E1VUNON29PZy1JZXp0N3ExVnVKZGxU?oc=5",
+      "data": "03/11 22:42"
+    },
+    {
+      "titulo": "Fluminense aguarda fim da temporada e deixa em aberto futuro treinador - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblFMbHlKRzZRbG53MEctWE1ZZ3pXS0xBdUF0b2F2clR2MjJ4S1ktR1EySzRCTFBmOWpTUFNaQ2JJOVJWVTRzNGRnRzBjMFNEcHpZUElPVllQUlR4ZEZkZDlOS1BxZVMxQUdrenR5UlpRT19CWkJQNlpTUEJUZGhkTGljZ0ZvZ1o2eXNLeDNoaHlpNUdfdW5QME82SFRlOGlSeTd6c2ozakI4T3VqNV85T19qY19LWHE2X2tFQ2JNRXQ5d3JGOGp1U085S1VmVVB5ZFo4NU9wUEPSAecBQVVfeXFMT3R3NFMxOEw3bzdOLWEzekowTDVXSUxfaTZkMWxlWGxGZkhrbTdqR1VBbm9iN2pxVUZLOVpKbTVlX3cybFpoU1RzbEdFckNjbU0yV3VGZjczV0k4ckF5d0FIX3JoeG9ud19yY0laUWNPSmFQc3ZXRVpFY05MeHVvWUFwdG9rTHp0d0tDYUF6bnFucEZkc1M5dFhmMUktczVpSlNwbTBaNHpzUE5qWTFET1ctVzFZRHZjdEZDNVp2ZnVZS1NJc0RsREo4eTZDTWVJT0VaTXJsUjN3R3ZSMVZvY05EZWQ5WmxB?oc=5",
+      "data": "03/11 07:00"
+    },
+    {
+      "titulo": "Cano e Ganso no Fluminense: ídolos vivem indefinição contratual - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDJfU2d5YzJMazF1WjFBQ1VpVW9VbVAxVUprdUhUOHp3YnFyekdXRFdsQi1ISWFCczF1MkctX1FvY2pYX2hkZlZBYmxhUVBMdlVld21MaXRYWXVuMkZScjNMVmlTTnpkYlQwdmpWOTVpMDEzamJybHRxd0xnak55dzhSUmFUS1l5SjFteThOZ1IxQk8weDJJ?oc=5",
+      "data": "03/11 08:41"
     },
     {
       "titulo": "Vitória define técnico para enfrentar o Fluminense e pode adotar estratégia do Tricolor; entenda - NETFLU",
@@ -1191,19 +1211,9 @@ window.PAINEL_DATA = {
       "data": "03/11 14:01"
     },
     {
-      "titulo": "Sai ou fica? Fluminense ainda avalia situação de Ganso para 2027 - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYU5HY1podVJ3RGRwbDZoTTZqU2tvaWFicUhVMmt3S1RZSXMzRlg1aU1ONTl4ZFJ1LUlwcGx0MlJ1Q1BneUZoTEZhdlZtU1dsWHJ2RkU2SFdlMS1vRC1yZmcxS3dYdTdJV2plbHNLaEZmWFp5YWV1eWpRZllhY3E1VUNON29PZy1JZXp0N3ExVnVKZGxU?oc=5",
-      "data": "03/11 22:42"
-    },
-    {
-      "titulo": "Fluminense vence duas primeiras partidas do Carioca Masculino de Vôlei - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbU5wb2liOVl0THdUblh3MEJuYVVQLU8zQjVFdVE1M3J2WW83VWpsbHhvUFZzME1QZGRvZWx2Z0tPOVBWdENGendIZW4xSVhwQWl4LWFUQU02SV9GN0ZtOEp3bjhOV19hSnlYY3Y0MzJVWkhWYzQzeTcxSXlXWGJ4SHFBSDRrSXdOQlF4ZndzUHcwSGd5M0t6SFFFTEhtYV9iUlBxVFpnX0tVeDJZ?oc=5",
-      "data": "04/11 01:29"
-    },
-    {
-      "titulo": "Desempenho ruim fora de casa liga o alerta no Fluminense por G5 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOF9la0REaVBwcmJzZkVvNUdxVzBOOElLbl9qRGZmNFdGLWp1ZjhzSENILTlKVGVOMEJRUHdUbzM0Q3lQMFBCdUN0Nk1iTTRWS0V4aUk3VFNpUnE1d29zWGJBZ1p5NVB6dXFyOUd1ZFl1S2pxR01iZ3pBTTNIS2RSekxvYkZTenk0djJXWXZuM3NRc19JZjZYa0ZyZkRpaTZYSzBxZFNFeVAxZGlDUC0zX0JRdXJvdE5PVlJDLWZEc0RNVUlLNW9PUGp2UHo2UkcyXy13dkJTNF91emNGM1BRdmJtZl9tZmZMYkE?oc=5",
-      "data": "03/11 19:27"
+      "titulo": "Por onde andam os campeões da Libertadores pelo Fluminense em 2023? Sete ainda seguem no clube - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOenRMZXJXOTNfMUtxLS11SGVFa2Z6T1VaT19iWThaUWN5aUlXaDU3QUlNRzlpRVNDWXZfQ2hqYm9FVzJkTEVHNk93RExxOVB1VXNUa2tPM1FldVBRbXlkeXJrejdIVDh4U1hUb29pYjhIcXlZU0pjTl9qQzRyb3RKeE5rdm91T2Q4WS16YXVhU2gzUkp3SXJZaUpudHRiMzZvRFBBTmxmNHdqWTZtVEs2eEYxTTlvZHR1VERwTU9ScTM3Mk1yQldidnNpekRWYzhwQWJIbk1RSUUtMlMxM05jV19BX0xkUzJoaTMwSDdjNjVJMnJBMDB30gGGAkFVX3lxTE14YkVtMjBodC0tWnpUUUE3SVNjdlIxQUtpZ1lSS21uN0tPTUNOTTZHcFhpVUtuTEpYeTZjVnNtYXg5aFlPNDZCX1lGWVBFR2Y4eW9fRU5IWkVya1AxcU5wbzRNUVVxYjkzdWdNZzFxSnczTjhGMUVqY3hIYllHRjFoekFPUDY2WFFNR2lsek0tN2swZElpeTd2VFlwejdsMUdkeGFJWWl1bGFtaW52MEZ5YWl3N1ptOU5VQVFCdU8zSHN2ekc0Z195Zl85THZUY05CSVRNV2g3QVhheG8wMEh3ZkY5QXl3dkl6YUtXM0tLMVNZTC1KZktjY1RwZ0J2azBaR2NOUkE?oc=5",
+      "data": "04/11 15:15"
     }
   ],
   "avisos": [
