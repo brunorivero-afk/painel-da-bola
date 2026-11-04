@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "03/11/2026 22:50",
+  "atualizado_em": "04/11/2026 05:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-03",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "São José x Campinas",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Paulistano Barueri",
@@ -1150,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Fluminense",
@@ -1162,31 +1152,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.7,
-      "temp_min": 22.9,
-      "chance_chuva": 39,
-      "condicao": "Garoa"
+      "temp_max": 27.9,
+      "temp_min": 22.8,
+      "chance_chuva": 2,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.9,
-      "temp_min": 23.2,
-      "chance_chuva": 98,
-      "condicao": "Trovoada"
+      "temp_max": 27.0,
+      "temp_min": 22.9,
+      "chance_chuva": 1,
+      "condicao": "Parcialmente nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 29.0,
-      "temp_min": 18.8,
-      "chance_chuva": 92,
+      "temp_min": 18.9,
+      "chance_chuva": 67,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.9,
-      "temp_min": 18.6,
-      "chance_chuva": 99,
-      "condicao": "Garoa"
+      "temp_max": 29.0,
+      "temp_min": 18.0,
+      "chance_chuva": 92,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
@@ -1201,19 +1191,19 @@
       "data": "03/11 14:01"
     },
     {
-      "titulo": "Savarino é convocado pela Seleção da Venezuela - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3hkRk42eGoxYU1od0h0RW9BTVg2ZmpyMEpodHJJVnhxTmZfMzJLMnBXMEgyb3VsYTdDeDY2eUptWUdIUjJsclplMTRvOXZxUnVPamFQaGlHVGdxWi1vVkZ0dGdVYldMVXU0REg1a1JZdTloZjZyVW84SVkwcjIzQ0s3NHdSNFRZRTl3aw?oc=5",
-      "data": "03/11 21:28"
+      "titulo": "Sai ou fica? Fluminense ainda avalia situação de Ganso para 2027 - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYU5HY1podVJ3RGRwbDZoTTZqU2tvaWFicUhVMmt3S1RZSXMzRlg1aU1ONTl4ZFJ1LUlwcGx0MlJ1Q1BneUZoTEZhdlZtU1dsWHJ2RkU2SFdlMS1vRC1yZmcxS3dYdTdJV2plbHNLaEZmWFp5YWV1eWpRZllhY3E1VUNON29PZy1JZXp0N3ExVnVKZGxU?oc=5",
+      "data": "03/11 22:42"
     },
     {
-      "titulo": "Quem será o técnico do Fluminense em 2027? Site revela bastidores do clube - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUXVQWDlPejBCZHJMVldUV1B2UEtyY2Q5TVY4Zk5QQldYbWNtcHoxS0FpVFhZaldnX1Y1eWFsLUV6WXZQQUV3enlfVkZ1bGp3QVA0YTlLTElqYjlndHZlQkk2dXNkMUxCbUs0OXdmT09DMUE0MTk3eUVJNF9OdlBWRXpTb1hzeG92UXpobXFtREkycjU4RDZEMlFURXBVdndDd0E?oc=5",
-      "data": "03/11 14:43"
+      "titulo": "Fluminense vence duas primeiras partidas do Carioca Masculino de Vôlei - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbU5wb2liOVl0THdUblh3MEJuYVVQLU8zQjVFdVE1M3J2WW83VWpsbHhvUFZzME1QZGRvZWx2Z0tPOVBWdENGendIZW4xSVhwQWl4LWFUQU02SV9GN0ZtOEp3bjhOV19hSnlYY3Y0MzJVWkhWYzQzeTcxSXlXWGJ4SHFBSDRrSXdOQlF4ZndzUHcwSGd5M0t6SFFFTEhtYV9iUlBxVFpnX0tVeDJZ?oc=5",
+      "data": "04/11 01:29"
     },
     {
-      "titulo": "Gift Card permite presentear torcedores com plano de sócio do Fluminense; Saiba mais - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNczRyNl9zSkNwOXBxVVhDWE84SEplQWZPQWpPdjgzNE9qaUp2cEo4NTYwbVdXOXpMQ25WbXd0YVdMZmEzNGVVeFdVVUlBQmYtWlRaQjV1WUM4aW05aURiNy0tcG9TMG1nTzNoVkpaN3Vacnk1X3lxWmtQN1J5SHdLSW5DWDJtQ1JHU3dERjFJelZQOGNQbjQ4UmZpVnpHVG1uMjdwM2IzT2R5dHk3cXNr?oc=5",
-      "data": "04/11 01:05"
+      "titulo": "Desempenho ruim fora de casa liga o alerta no Fluminense por G5 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOF9la0REaVBwcmJzZkVvNUdxVzBOOElLbl9qRGZmNFdGLWp1ZjhzSENILTlKVGVOMEJRUHdUbzM0Q3lQMFBCdUN0Nk1iTTRWS0V4aUk3VFNpUnE1d29zWGJBZ1p5NVB6dXFyOUd1ZFl1S2pxR01iZ3pBTTNIS2RSekxvYkZTenk0djJXWXZuM3NRc19JZjZYa0ZyZkRpaTZYSzBxZFNFeVAxZGlDUC0zX0JRdXJvdE5PVlJDLWZEc0RNVUlLNW9PUGp2UHo2UkcyXy13dkJTNF91emNGM1BRdmJtZl9tZmZMYkE?oc=5",
+      "data": "03/11 19:27"
     }
   ],
   "avisos": [
