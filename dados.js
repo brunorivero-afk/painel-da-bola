@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "04/11/2026 19:22",
+  "atualizado_em": "05/11/2026 00:03",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Mackenzie x Minas",
@@ -1140,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Minas",
@@ -1150,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "São José x Campinas",
@@ -1162,31 +1162,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.5,
-      "temp_min": 23.0,
-      "chance_chuva": 16,
-      "condicao": "Nublado"
+      "temp_max": 34.7,
+      "temp_min": 23.2,
+      "chance_chuva": 51,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.0,
-      "temp_min": 22.8,
-      "chance_chuva": 8,
-      "condicao": "Parcialmente nublado"
+      "temp_max": 32.7,
+      "temp_min": 23.3,
+      "chance_chuva": 47,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.5,
-      "temp_min": 19.1,
+      "temp_max": 28.9,
+      "temp_min": 19.4,
       "chance_chuva": 81,
-      "condicao": "Garoa fraca"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.6,
-      "temp_min": 18.2,
-      "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "temp_max": 30.1,
+      "temp_min": 19.4,
+      "chance_chuva": 80,
+      "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
@@ -1196,24 +1196,24 @@ window.PAINEL_DATA = {
       "data": "04/11 14:04"
     },
     {
-      "titulo": "No STF, Flamengo, Fluminense e outros clubes defendem volta das bets - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2FBU1FMNnBURkRRa3FKeXFaRVZFdm1TWm1EczBMMEhUTWJpU3JtbWtLblN4cVNxb3pxMmJ4WDlDWTVxdmhFLVA1bUVnVWVEbHF4WTZhT3NBUEYtS0pYT0NuOUM0VXdJdC1NcTFCZ2xXc3dRZ2ZhRXpYUjM1WkJhYldRX1dDUjVoNGRYX0pwSHpValFuYXdPaGctTUJyckVMdUg3aS1hTHByRG9kZmpacTdUbVZmQURVNFHSAb8BQVVfeXFMT0E0V2pXNzA2QWxzRjlpR3RUdHQ4dDF6TXliSFhZcGJKSXFEMURKdENCWkZycU4wU0xyQ1pTZ09QY3ZUMC1sVVM2Y01Fa2MzQzc5akxaRkRyN2JwRmlmOXZOa21kNFloQkpoWHlQS3BZQ3k1cWZ0RzNocGcxZHhTcG9jdDc5NTR6ZTVxZjlrR3BoZEZ4ekZHVzNqYm1ZNHRkcjRiQm43dVNrb1ktRTF5MEducDZGaF9WZFlrLTdrSTQ?oc=5",
-      "data": "03/11 18:53"
+      "titulo": "Volante faz procedimento no quadril e deve voltar ao Fluminense após a Data Fifa - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUxONnpMMDhRV201X182MDZMZkV2S1RFUzNWOHdHVWhVVDhvdEpsb3Q1b2VLaDc2XzZYNk9HbGV1ZlVVQktwQ1I5YTlMMmdCelJHQmpVc1JOenNWRzZiQ3RsaDh5azd1TnU1WTdwMUtOcW1xMFRVMDl6MnpTeEoya1psLTFOME51S1RnUkt0TDdSbUhSOHpmTU5LS2JkOVFHY1RLR2Z0NnpzcEU?oc=5",
+      "data": "05/11 00:01"
     },
     {
-      "titulo": "Ex-Fluminense celebra marca de 500 jogos na carreira: 'Amor pelo futebol' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN19qcHNBblBxTUJxZVd4bER2dXVfUXd1Q3p6Sjc0WFo4YXYxZUQ1UGhhb2hvZkNMajNPNEJOMmxzQ3RGSjIzdzBVVWhFQ21yRVNwS0tMNk9BTXF0YlZObkJwRHVDeUlLVUc4WktxNkw5ZWNyN0JTRTJ5N2RMbFZUcnJjaUlEcEd1VXJGVENLWFRmRGdfbzdtbU5DTVlWVGdaRW5fR2dKVmExVUpoRTRxVUxnQ1l4ZWJ4WFEtcEJ4MA?oc=5",
-      "data": "04/11 17:59"
-    },
-    {
-      "titulo": "Fernando Diniz no Fluminense? Comentarista relata rumor sobre volta - Band",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFB5VnpsVEJjd1B3cHk4Y1RCLWFwVmdoZ2FuajBVM0R6bkpiaGtJLWVvbE5XYU9zMVJYM2Q4RVpMcXhKZTV4c2VsZFdWNVFnbHRaNlpERW9rR3UzU0lLdUlIZnBubWNTaWRtRmk2Mm1UU0RvNTRTbnRuX3FMZnpUNVVybXB1RW9IVlRXdGhTbVpVOGRLc3dOLTQyMDZvLWY1RXl2R25xb3o1MTFyZ0g5cDg0dG5kSVRoaWFfYzZYUGxGZw?oc=5",
-      "data": "04/11 19:32"
+      "titulo": "Resumo do Dia: Flu mantido no G4, contas para Libertadores e recuperação de Martinelli (04/11) - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXZsVTV6MHFCeFRaWFVxSldrVHNRVUhLQ2dtSXk0bWNFZmZNVHlRSzhwSmhRRnNXV3pqM09mdUNDVHBCVzFSV2hXcW9ITzA0VTFuTTdTNURiY0FHNHo0WldhLV9QV2s0QVhiSHVIVFZzZWZXMm5ubTgyZnllN2FwYnpoOW9RNmlWZUU4UzktM1k3U0Uzd3JUNkpFTE9RZ0pNSEozY3NMWnZmbGtuY0U5bi1UQWM1dVV0?oc=5",
+      "data": "05/11 02:17"
     },
     {
       "titulo": "Por onde andam os campeões da Libertadores pelo Fluminense em 2023? Sete ainda seguem no clube - ge",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOenRMZXJXOTNfMUtxLS11SGVFa2Z6T1VaT19iWThaUWN5aUlXaDU3QUlNRzlpRVNDWXZfQ2hqYm9FVzJkTEVHNk93RExxOVB1VXNUa2tPM1FldVBRbXlkeXJrejdIVDh4U1hUb29pYjhIcXlZU0pjTl9qQzRyb3RKeE5rdm91T2Q4WS16YXVhU2gzUkp3SXJZaUpudHRiMzZvRFBBTmxmNHdqWTZtVEs2eEYxTTlvZHR1VERwTU9ScTM3Mk1yQldidnNpekRWYzhwQWJIbk1RSUUtMlMxM05jV19BX0xkUzJoaTMwSDdjNjVJMnJBMDB30gGGAkFVX3lxTE14YkVtMjBodC0tWnpUUUE3SVNjdlIxQUtpZ1lSS21uN0tPTUNOTTZHcFhpVUtuTEpYeTZjVnNtYXg5aFlPNDZCX1lGWVBFR2Y4eW9fRU5IWkVya1AxcU5wbzRNUVVxYjkzdWdNZzFxSnczTjhGMUVqY3hIYllHRjFoekFPUDY2WFFNR2lsek0tN2swZElpeTd2VFlwejdsMUdkeGFJWWl1bGFtaW52MEZ5YWl3N1ptOU5VQVFCdU8zSHN2ekc0Z195Zl85THZUY05CSVRNV2g3QVhheG8wMEh3ZkY5QXl3dkl6YUtXM0tLMVNZTC1KZktjY1RwZ0J2azBaR2NOUkE?oc=5",
       "data": "04/11 15:15"
+    },
+    {
+      "titulo": "Brasileirão 2026: Informações de ingressos para Vitória x Fluminense - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMV9VM21nOHV1Q3VSNi0yU29sdnlwbmFkVW5qYUlmQnRIaDE3WURqMWpieXVZSGJVQjdoeHRIM3c3OTc4UEw4dlZpd2RERW16UHVLTkxnMFZYTGwtV2JKd2ZQMHkzdHN5NmliQlhrMTQxdE53eEFialFjQm9wXy0xS3BhNTZzeW1YV2E3ZUc1eWZJWVUtWm1tYmw3Z2gtNF9LR0g3ekhfaTU?oc=5",
+      "data": "04/11 14:59"
     }
   ],
   "avisos": [
