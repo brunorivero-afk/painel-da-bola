@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "05/11/2026 00:03",
+  "atualizado_em": "05/11/2026 08:48",
   "jogos": [
     {
       "sport": "futebol",
@@ -1141,9 +1141,9 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-05",
-      "time": "18:10",
+      "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Goiás x Minas",
+      "match": "Fluminense x Osasco",
       "channels": [
         "SporTV2"
       ]
@@ -1151,9 +1151,29 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-05",
-      "time": "20:30",
+      "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "São José x Campinas",
+      "match": "Brasília x Praia Clube",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-05",
+      "time": "20:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Sesi-bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-05",
+      "time": "20:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Norde Vôlei x Cruzeiro",
       "channels": [
         "SporTV2"
       ]
@@ -1162,58 +1182,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 34.7,
-      "temp_min": 23.2,
-      "chance_chuva": 51,
-      "condicao": "Garoa fraca"
+      "temp_max": 33.0,
+      "temp_min": 23.1,
+      "chance_chuva": 75,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 32.7,
-      "temp_min": 23.3,
-      "chance_chuva": 47,
+      "temp_max": 30.4,
+      "temp_min": 22.6,
+      "chance_chuva": 58,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.9,
-      "temp_min": 19.4,
-      "chance_chuva": 81,
-      "condicao": "Trovoada"
+      "temp_min": 20.5,
+      "chance_chuva": 96,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 30.1,
-      "temp_min": 19.4,
-      "chance_chuva": 80,
+      "temp_max": 29.7,
+      "temp_min": 19.3,
+      "chance_chuva": 95,
       "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Meta de vendas do Fluminense não é cumprida: trio valorizado pode deixar o clube - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZDNiV0FzM21JS2FCRlJxdUF2VlpLdDg1QVBON2ZEZUtHR25Fbkt2UXJ5SGVneTYxVmc3T3hCVnoyQ1h6a05nMHVlWVdwdWd5UGVvX2Z4bGw0eTFJV1kxejZGN19iQQ?oc=5",
-      "data": "04/11 14:04"
+      "titulo": "Soteldo Fluminense: acordo pode fazer clube pagar R$11 milhões - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5nSG5yeFhxa0lUX21BSEkxOXdqMU56Wk52enhRUlV4TTgzUFR5ZFZacE5xYXRYakhsMi16MEhYZGd0S19QRndVNThaMmM5cnpaVHFpeDJXNFRTUDBTYVVVU0s4QzZ6TnhYdVZXSWhKNUhrQTl1QnlvdlhQRmFneXdNRUZiZ0NsYkh3ZGRTeWpOLUNIeU4xNDZPRE8?oc=5",
+      "data": "04/11 14:53"
     },
     {
-      "titulo": "Volante faz procedimento no quadril e deve voltar ao Fluminense após a Data Fifa - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUxONnpMMDhRV201X182MDZMZkV2S1RFUzNWOHdHVWhVVDhvdEpsb3Q1b2VLaDc2XzZYNk9HbGV1ZlVVQktwQ1I5YTlMMmdCelJHQmpVc1JOenNWRzZiQ3RsaDh5azd1TnU1WTdwMUtOcW1xMFRVMDl6MnpTeEoya1psLTFOME51S1RnUkt0TDdSbUhSOHpmTU5LS2JkOVFHY1RLR2Z0NnpzcEU?oc=5",
-      "data": "05/11 00:01"
+      "titulo": "Fluminense-PI aguarda para anunciar treinador e tem pré-contrato com 18 jogadores para 2027 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0sydXlyeGFMYzNVWk1TMnFjQThNNTdTTVpoNXdUcEVMblEyVm1xbXVtUnI2SlJFZi1iMzlZeHNpMm0xMGgwRFh6QXhCeXV0M2QtSDRaYnRuM3BVWDgybkZGRGR4OEpmcHNVejUxNERSLWxJSHI1Sy1wRGN3Z1JkS0pzQm53ckJnNHVTb2Y1TkNMUGpLTmVlRVIzcm52dkFvZTAyRzBGUWM0QnI0R2E5Y3pCOXdjVy1RdW5Yd2xxUWF4cV95U21idzF4VmUtdG95WlFCYmNzc2VrVUNMQjY2TVJ30gHwAUFVX3lxTE5HWHcybkV3bUs4VDBaWUFuazFpQkYtVTNmMFYydE5kUlBkZldCTnhFUGpyMHlHVElNMzlsLUl3XzFCcDZSN2Fqc1dmVWZGS3dVS3dXRzh2N0I1OWpjOVJickRCY3RIQjVPTUlwcVZ3QXRhdDJDWFJGZ29qVnZaU0hoWFVRWFI2S3hkMnNiTUJtTThqalF3YWpsYUNqQk9QQndISFhvOG5EUEpwWEUwU3pXWHp6VXpFWFNDaXBoS2Z0bjNpWjF0YVVjM1Z4cmJnTEhoUUxCVG5TbWFHVE45WkhnTGRUNjhMOFViTkpudE44dg?oc=5",
+      "data": "05/11 11:09"
     },
     {
-      "titulo": "Resumo do Dia: Flu mantido no G4, contas para Libertadores e recuperação de Martinelli (04/11) - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXZsVTV6MHFCeFRaWFVxSldrVHNRVUhLQ2dtSXk0bWNFZmZNVHlRSzhwSmhRRnNXV3pqM09mdUNDVHBCVzFSV2hXcW9ITzA0VTFuTTdTNURiY0FHNHo0WldhLV9QV2s0QVhiSHVIVFZzZWZXMm5ubTgyZnllN2FwYnpoOW9RNmlWZUU4UzktM1k3U0Uzd3JUNkpFTE9RZ0pNSEozY3NMWnZmbGtuY0U5bi1UQWM1dVV0?oc=5",
-      "data": "05/11 02:17"
+      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário, palpite e escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3hWMThMT1ktZ2pGajREczN1RDF4S2EzelZ4SThacG5RdVlUOXN4NEFIYThMQmNQLXI3SXgxY0VzSzBiUjh3aHc1U1czSy1uNl9DT2p4a1A2YjVRTGFIcF9WaFNkN0w1dHpiUkcxY1RERVhxTGY0Ykp4bGU3WmNVX0JNWWpYdmM4bERYa0tpRUpVZGVoZENQeGUzdkFaUjMxNDB3LUdTWnZzUkVRZnRQNDh3ZjVfOTBPTFRXOWc5anpZanpSeXJITkF0LXBjUHRIbEl3OA?oc=5",
+      "data": "05/11 08:04"
     },
     {
-      "titulo": "Por onde andam os campeões da Libertadores pelo Fluminense em 2023? Sete ainda seguem no clube - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOenRMZXJXOTNfMUtxLS11SGVFa2Z6T1VaT19iWThaUWN5aUlXaDU3QUlNRzlpRVNDWXZfQ2hqYm9FVzJkTEVHNk93RExxOVB1VXNUa2tPM1FldVBRbXlkeXJrejdIVDh4U1hUb29pYjhIcXlZU0pjTl9qQzRyb3RKeE5rdm91T2Q4WS16YXVhU2gzUkp3SXJZaUpudHRiMzZvRFBBTmxmNHdqWTZtVEs2eEYxTTlvZHR1VERwTU9ScTM3Mk1yQldidnNpekRWYzhwQWJIbk1RSUUtMlMxM05jV19BX0xkUzJoaTMwSDdjNjVJMnJBMDB30gGGAkFVX3lxTE14YkVtMjBodC0tWnpUUUE3SVNjdlIxQUtpZ1lSS21uN0tPTUNOTTZHcFhpVUtuTEpYeTZjVnNtYXg5aFlPNDZCX1lGWVBFR2Y4eW9fRU5IWkVya1AxcU5wbzRNUVVxYjkzdWdNZzFxSnczTjhGMUVqY3hIYllHRjFoekFPUDY2WFFNR2lsek0tN2swZElpeTd2VFlwejdsMUdkeGFJWWl1bGFtaW52MEZ5YWl3N1ptOU5VQVFCdU8zSHN2ekc0Z195Zl85THZUY05CSVRNV2g3QVhheG8wMEh3ZkY5QXl3dkl6YUtXM0tLMVNZTC1KZktjY1RwZ0J2azBaR2NOUkE?oc=5",
-      "data": "04/11 15:15"
+      "titulo": "Ex-Fluminense celebra marca de 500 jogos na carreira: 'Amor pelo futebol' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN19qcHNBblBxTUJxZVd4bER2dXVfUXd1Q3p6Sjc0WFo4YXYxZUQ1UGhhb2hvZkNMajNPNEJOMmxzQ3RGSjIzdzBVVWhFQ21yRVNwS0tMNk9BTXF0YlZObkJwRHVDeUlLVUc4WktxNkw5ZWNyN0JTRTJ5N2RMbFZUcnJjaUlEcEd1VXJGVENLWFRmRGdfbzdtbU5DTVlWVGdaRW5fR2dKVmExVUpoRTRxVUxnQ1l4ZWJ4WFEtcEJ4MA?oc=5",
+      "data": "04/11 17:59"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para Vitória x Fluminense - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMV9VM21nOHV1Q3VSNi0yU29sdnlwbmFkVW5qYUlmQnRIaDE3WURqMWpieXVZSGJVQjdoeHRIM3c3OTc4UEw4dlZpd2RERW16UHVLTkxnMFZYTGwtV2JKd2ZQMHkzdHN5NmliQlhrMTQxdE53eEFialFjQm9wXy0xS3BhNTZzeW1YV2E3ZUc1eWZJWVUtWm1tYmw3Z2gtNF9LR0g3ekhfaTU?oc=5",
-      "data": "04/11 14:59"
+      "titulo": "Fluminense vence o Botafogo com três gols de Samuell Esperancin na Copa Rio Sub-15 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE1iMWpiaWU5WGFSejdTRWNPQ0NVdTFpakdya1VwTmVWdm81dFFsX2hxblh6dS02aUJVeTRyck91SkFIbGs0a25UUVl0RUlPUnVtVHB1UU1FWmpfS2RDQzFmakJwc3JWYWNpUWVSVDY3YlpGQ1h0MmNpcmFNa3hLbGU1WE5uWVg4WDhPSENKZDFMN2pmbGJqRzhpd3JvalBnWE5WUE4tLS1LN05nMzh1TU9wdGg5Ulh2STVaYQ?oc=5",
+      "data": "04/11 16:30"
     }
   ],
   "avisos": [
