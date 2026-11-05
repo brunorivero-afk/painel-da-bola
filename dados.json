@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "05/11/2026 08:48",
+  "atualizado_em": "05/11/2026 16:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -1182,58 +1182,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 33.0,
+      "temp_max": 34.0,
       "temp_min": 23.1,
-      "chance_chuva": 75,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 80,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.4,
-      "temp_min": 22.6,
-      "chance_chuva": 58,
-      "condicao": "Trovoada"
+      "temp_max": 30.5,
+      "temp_min": 22.7,
+      "chance_chuva": 71,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.9,
       "temp_min": 20.5,
-      "chance_chuva": 96,
-      "condicao": "Trovoada com granizo"
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.7,
-      "temp_min": 19.3,
-      "chance_chuva": 95,
+      "temp_max": 29.9,
+      "temp_min": 19.1,
+      "chance_chuva": 100,
       "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Soteldo Fluminense: acordo pode fazer clube pagar R$11 milhões - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5nSG5yeFhxa0lUX21BSEkxOXdqMU56Wk52enhRUlV4TTgzUFR5ZFZacE5xYXRYakhsMi16MEhYZGd0S19QRndVNThaMmM5cnpaVHFpeDJXNFRTUDBTYVVVU0s4QzZ6TnhYdVZXSWhKNUhrQTl1QnlvdlhQRmFneXdNRUZiZ0NsYkh3ZGRTeWpOLUNIeU4xNDZPRE8?oc=5",
-      "data": "04/11 14:53"
+      "titulo": "Meta de vendas do Fluminense não é cumprida: trio valorizado pode deixar o clube - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZDNiV0FzM21JS2FCRlJxdUF2VlpLdDg1QVBON2ZEZUtHR25Fbkt2UXJ5SGVneTYxVmc3T3hCVnoyQ1h6a05nMHVlWVdwdWd5UGVvX2Z4bGw0eTFJV1kxejZGN19iQQ?oc=5",
+      "data": "04/11 14:04"
     },
     {
-      "titulo": "Fluminense-PI aguarda para anunciar treinador e tem pré-contrato com 18 jogadores para 2027 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0sydXlyeGFMYzNVWk1TMnFjQThNNTdTTVpoNXdUcEVMblEyVm1xbXVtUnI2SlJFZi1iMzlZeHNpMm0xMGgwRFh6QXhCeXV0M2QtSDRaYnRuM3BVWDgybkZGRGR4OEpmcHNVejUxNERSLWxJSHI1Sy1wRGN3Z1JkS0pzQm53ckJnNHVTb2Y1TkNMUGpLTmVlRVIzcm52dkFvZTAyRzBGUWM0QnI0R2E5Y3pCOXdjVy1RdW5Yd2xxUWF4cV95U21idzF4VmUtdG95WlFCYmNzc2VrVUNMQjY2TVJ30gHwAUFVX3lxTE5HWHcybkV3bUs4VDBaWUFuazFpQkYtVTNmMFYydE5kUlBkZldCTnhFUGpyMHlHVElNMzlsLUl3XzFCcDZSN2Fqc1dmVWZGS3dVS3dXRzh2N0I1OWpjOVJickRCY3RIQjVPTUlwcVZ3QXRhdDJDWFJGZ29qVnZaU0hoWFVRWFI2S3hkMnNiTUJtTThqalF3YWpsYUNqQk9QQndISFhvOG5EUEpwWEUwU3pXWHp6VXpFWFNDaXBoS2Z0bjNpWjF0YVVjM1Z4cmJnTEhoUUxCVG5TbWFHVE45WkhnTGRUNjhMOFViTkpudE44dg?oc=5",
-      "data": "05/11 11:09"
+      "titulo": "Vitória leva vantagem recente sobre o Fluminense na Série A e tenta manter retrospecto para fugir do Z-4 - Bnews",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWDc0ZzFTZjltSTQySUk4cFpkTEUzeGF3ZlVreFJ2Qzh6eXdTVWs0T0NJQllsVWxGbEliMEJhRk40eUpSdUx2a1M1b2lRTWpFcGF3aTN0UGM0UjhkVHlqWUVYZHBjTGxmMzQxLTE1R3UzMkF6VzIxVVRkRTN6MGt3UG0wYVdjTDN5LWQxVkJ4OTlJeVV2ckZWRW9VLVF1RmhUemZrYzhGT19neDJHZE1wRklRSF92T3ZzTGNjWEh6cUVibmdjam5EcC1GaTNxWWhZRmVRdUY1bWphTW5rS3dYS1dUVm1kUdIB6wFBVV95cUxQNjUyR1hTOXlkNzdiZ0FJanZXbExnUkVXWjRmM3pZS3RxdjIwNXpnWDk3TlJHZ3l4ekhfSTlqRVowMTYwSUM1ckNGd3hzZmpPY3l0UGtNM2E0b2NMUGtaMU13b2V1eTNqZS10UGk3UEFJX0FJWWwzRlBrdldZSzFUaXo0cWZkZnh5S1hpVnFqVTJhOWRoODJvb2JlWVcxaVZ0YjU1dEw4RUpmTEw5WkhVZE1jeXNZMjAtU1BVUGZLT2RPNWFaOXRsZzBuQkNKWnQ0WndLZkFVOXJPU19xTVE3RE5sOHdzVWJUcEl3?oc=5",
+      "data": "05/11 15:08"
     },
     {
-      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário, palpite e escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd3hWMThMT1ktZ2pGajREczN1RDF4S2EzelZ4SThacG5RdVlUOXN4NEFIYThMQmNQLXI3SXgxY0VzSzBiUjh3aHc1U1czSy1uNl9DT2p4a1A2YjVRTGFIcF9WaFNkN0w1dHpiUkcxY1RERVhxTGY0Ykp4bGU3WmNVX0JNWWpYdmM4bERYa0tpRUpVZGVoZENQeGUzdkFaUjMxNDB3LUdTWnZzUkVRZnRQNDh3ZjVfOTBPTFRXOWc5anpZanpSeXJITkF0LXBjUHRIbEl3OA?oc=5",
-      "data": "05/11 08:04"
+      "titulo": "Três anos da Libertadores: Fluminense anuncia novidade para os torcedores em parceria com a Kenner - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU9UNE9obTFieDl2WEExN0RTS0FzQW8tU0V1cGduQ2g0NUVxYXdKMWxGNjJmbFN6dU43M0kwbE9vM0hCcjg1enRpSDh0NDhlOC1wT3gxNXlRMlByeWZYMkhBUDBDZVZTb2dOVHRRVWlmbDZJWFJCOTZ6bXladTZPM3hjUTl3dnlDSXU0eEpHbGFodzgzUFFFS3ktWFQ4aGNUU3d4VkVkcThDbUxQSWdtTlVGV2ItaElrV3NHQm1jZXpXUQ?oc=5",
+      "data": "05/11 15:33"
     },
     {
-      "titulo": "Ex-Fluminense celebra marca de 500 jogos na carreira: 'Amor pelo futebol' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN19qcHNBblBxTUJxZVd4bER2dXVfUXd1Q3p6Sjc0WFo4YXYxZUQ1UGhhb2hvZkNMajNPNEJOMmxzQ3RGSjIzdzBVVWhFQ21yRVNwS0tMNk9BTXF0YlZObkJwRHVDeUlLVUc4WktxNkw5ZWNyN0JTRTJ5N2RMbFZUcnJjaUlEcEd1VXJGVENLWFRmRGdfbzdtbU5DTVlWVGdaRW5fR2dKVmExVUpoRTRxVUxnQ1l4ZWJ4WFEtcEJ4MA?oc=5",
-      "data": "04/11 17:59"
+      "titulo": "Pendurados do Fluminense podem desfalcar time - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmFzVVg0ME9GRHlGcjBuN1VxREZGUWQtOGxGS3NGVnN5czc3OF9zLVdLNTFFdGdJS3JsbDE4SjN4djk0QnRGWjdaWWhudUQzcWNsMVBWZ0xsYTJHbnFDZUNQQWlNcGZVWkFwSFJubUhYa1Zjc3JuQmtOT1lSanR2NGVCYnNscnV5X3hPTjJNZm1oR2d4dkk1Qk83OA?oc=5",
+      "data": "05/11 16:58"
     },
     {
-      "titulo": "Fluminense vence o Botafogo com três gols de Samuell Esperancin na Copa Rio Sub-15 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE1iMWpiaWU5WGFSejdTRWNPQ0NVdTFpakdya1VwTmVWdm81dFFsX2hxblh6dS02aUJVeTRyck91SkFIbGs0a25UUVl0RUlPUnVtVHB1UU1FWmpfS2RDQzFmakJwc3JWYWNpUWVSVDY3YlpGQ1h0MmNpcmFNa3hLbGU1WE5uWVg4WDhPSENKZDFMN2pmbGJqRzhpd3JvalBnWE5WUE4tLS1LN05nMzh1TU9wdGg5Ulh2STVaYQ?oc=5",
-      "data": "04/11 16:30"
+      "titulo": "São Paulo perde dois atacantes e um defensor para duelo contra o Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUV9qdERWbjBBMjZOdUxlOFNPRzVQNVNKamk5ZUtldEN5MkZJYWw2SFVCTDAzTUozRjVuWkQ2Ull1Vkc1RENnbTBoRXFMTUhnRU1jRmEwZjBhcnh3d0JnT29XblU3MUZ5MU1fU2t6Q2hKcHYxdTBTbVBLOV9KMUtTUXFPd3RobkxwNEp0NnJOekw1Mnp1NUlZaElPZmtocUZuREYw?oc=5",
+      "data": "05/11 11:15"
     }
   ],
   "avisos": [
