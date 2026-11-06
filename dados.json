@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/11/2026 04:36",
+  "atualizado_em": "06/11/2026 12:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,7 +1131,7 @@
     {
       "sport": "volei",
       "date": "2026-11-06",
-      "time": "20:30",
+      "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Fluminense x Osasco",
       "channels": [
@@ -1167,36 +1167,66 @@
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-06",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Praia Clube x Goiás",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-06",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Suzano x Guarulhos",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-06",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Mackenzie x Minas",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.0,
-      "temp_min": 23.1,
-      "chance_chuva": 20,
+      "temp_max": 26.7,
+      "temp_min": 23.0,
+      "chance_chuva": 39,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.5,
-      "temp_min": 23.2,
-      "chance_chuva": 7,
+      "temp_max": 27.4,
+      "temp_min": 23.3,
+      "chance_chuva": 25,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.3,
-      "temp_min": 18.2,
+      "temp_max": 28.9,
+      "temp_min": 18.4,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.0,
-      "temp_min": 17.9,
+      "temp_max": 22.5,
+      "temp_min": 17.7,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -1206,24 +1236,24 @@
       "data": "04/11 14:53"
     },
     {
-      "titulo": "Resumo do Dia: Preparativos contra o Vitória, rotatividade de Marcão, projeção de vendas e reforma de Laranjeiras (05/11) - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVm1QNHlKUExFdUwwQlZtd3FSQmd1Wm1KVkt2MGQ3UjFjNHhxWDgwLWoxYkVMR1N5QVRIWDN3T2ZQX2V5VlF4QTVuQmlKZVdnQjhLZFd2dTM2ZmZoS0tXT1hiR2NhVi1DeXZwUkQ3MDYwMlFuQWU0Mlh0XzhENl9XSU9JZFI2UW11dWctWmI5eEJHNWo4QU0zV0NKSXFLdXpHUG5DVndjV0I3TGlobjhmTVM0RGJZYnFXTnE5RDZWRk9wTHFKbTl6eVFZWTJlelNtbWRGazNpOHJxTUU?oc=5",
-      "data": "06/11 02:48"
+      "titulo": "Fluminense realiza III Simpósio de Direito Desportivo - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkNXNVgzMDR2U3VzMWFOZ2s5M2haU2ZYeWhmbE42OVJmZWoyWXJocmRuU1NFNkVUVFBZTDlhTi16blAzY0NOTlVkTEZVcmFHRmtrTDdMcXdzWmN0SHNzUGEtLWpDY1lFOXp4R3Fub0NGTVJXaThlR1JTaVVwR1NyM1pObGU3T3VjNnZSTzRCaGl3Zk45MGc?oc=5",
+      "data": "06/11 13:00"
     },
     {
-      "titulo": "Câmara do Rio debate venda de potencial construtivo do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQejRrOGZzTFVCdzdkZW9KV2VEektEOFdsS3J4UTkzYkFxWVRrU2Q5cHhtR2NXQ1Vqbkl3U0NNZlZnY0MwWU1pcDBYTGtYdTdyaVhJVTd6R2NFWE5CNFdSd3RncVFDUV9EeW5Ld1Ywbjd3T3NacW5sbFZoUlJDNXVLWU9CVC0xcG4wcDJ6RlJxd2dyZ1BXVDRCUjJlX1FtUGN1VXJRTVRCRjlrYUJoTDJFTHRUQTlwVTdfeXc4aS1yT0Vvc1hYQnQ5eVFXZXRFeFhaMktaZVRkaDBjd1lxSDBreV9Rd3dHSkVtNThwXw?oc=5",
-      "data": "05/11 23:16"
+      "titulo": "Meia do Internacional entra no radar do Fluminense - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zY2VlOTJ2YmFnX2tqNl9ETzNaZ29FUXdZVlVIZ1lvN1pyRDd5X0NXVlVuNlZHa2NQa1k4WFVPeE1nR1FFUHgycGlSVGprcW1ncXpMbU5GMk1sM1llVGRGbC1JSEZGbFprY0tjd1NVSFdUb1FGYml4RHkxQQ?oc=5",
+      "data": "06/11 15:13"
     },
     {
-      "titulo": "Câmara do Rio convoca audiência pública sobre a venda de potencial construtivo da sede do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSW9SWjRyNlZ2RkZzSXpVRWNYb0JqMU1vRFMxTUtzZTVacHZUUUI1dFhWT3VEaVlfaHExVlNaRWxGZHNIb1B6VDJxTHFuV0dWc016SU15ckxBQXdlNjg0d0N0T2pkV1Q3MmtPQlFjd1I3Q1RxOGtwTVR5ZGdfci03MXkyZkRxWHYtemZBU3diV1BFRk5DMkVvblZPajlYN2M3d3AxNEppb0ZkeU1fYURxSlVac1lkTXdEYW9GeFZ2Tk9FR3FESXVLekR0Z1lRVHVwMEduTURXYmY2VE1XandFT0ZVbEZMb01xdFU5VFllams2blA0MER3YWpERUcxckZF0gGPAkFVX3lxTE9lTUdsbDFyeGpSTXNsd3k5d2dLTHlVOXJNMUpaU3IzLU84ejJKLVVhcWVzVkZYWVJMUGJzNDhEZTF1OVhldGhKTlI4MlZTTjZ4SDJtdVUxUjlpZk51ak1QVDkyb29nUWRXN2d6Qm5PYjc5bnBWZXJTQVE5SHBCRWY1NFBVZzhNZkxJTzFTUnl3VFR6UndHSTVPMjkzcGNHX1JTenZObEdVZk9LQzJIUU5kbEowZndnOTg4Y0tzdHV3bjRET3RyTUVKNUZyLS0wQXRvalRJSWlfVWxkTWphOGNTeVdKQ3ZZQUtieTN4bmNBakFIaWx3bXZKMHB2dTlCcE1RanVZcEFIcUtHWmxsUm8?oc=5",
-      "data": "05/11 19:09"
+      "titulo": "No STF, Flamengo, Fluminense e outros clubes defendem volta das bets - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2FBU1FMNnBURkRRa3FKeXFaRVZFdm1TWm1EczBMMEhUTWJpU3JtbWtLblN4cVNxb3pxMmJ4WDlDWTVxdmhFLVA1bUVnVWVEbHF4WTZhT3NBUEYtS0pYT0NuOUM0VXdJdC1NcTFCZ2xXc3dRZ2ZhRXpYUjM1WkJhYldRX1dDUjVoNGRYX0pwSHpValFuYXdPaGctTUJyckVMdUg3aS1hTHByRG9kZmpacTdUbVZmQURVNFHSAb8BQVVfeXFMT0E0V2pXNzA2QWxzRjlpR3RUdHQ4dDF6TXliSFhZcGJKSXFEMURKdENCWkZycU4wU0xyQ1pTZ09QY3ZUMC1sVVM2Y01Fa2MzQzc5akxaRkRyN2JwRmlmOXZOa21kNFloQkpoWHlQS3BZQ3k1cWZ0RzNocGcxZHhTcG9jdDc5NTR6ZTVxZjlrR3BoZEZ4ekZHVzNqYm1ZNHRkcjRiQm43dVNrb1ktRTF5MEducDZGaF9WZFlrLTdrSTQ?oc=5",
+      "data": "03/11 18:53"
     },
     {
-      "titulo": "Fluminense: Câmara marca audiência para reformas no CT e Laranjeiras - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ05QQ3lVM2hWNlFuaVg0dy1wY3N6M0FPNTc3WlpZaG1IVEdacGNLVzhDRkM5bk1mOXMzY2d5WkNVWVFydmdmek9lQzNINS1CdTl3eHhBZk80amlwNDJyWTVENVpZc25XWEh0ck1seW85LUNpb3RRRDVwN24zd2c5RFhhSWpqalpRSThob1VIdWJ1SXBpalVFTEtNOTB2NmdCSUZtZ18wOXp1eVNXLVBrZEx1ZnFCTXJaQnVzY3VNVTRYenlUMVpVSg?oc=5",
-      "data": "05/11 19:51"
+      "titulo": "Escalação do Vitória contra o Fluminense: veja time provável, dúvidas e desfalques após treino - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGNXZGl2WlNLenlTUWg0YUMzbWQyQ3JjMVlSR3Y5YVowVmVaMUxCM2l2bGFjWnRtb0xlNllTcERPck42SHJtaXlDOC1XcmprTExfbko2ZzVYTzA1TnppSmRsclJBZU5BTjl2T3F2UU90NWlLNzFjaUZ1R3pWbER0b1RsWEZ3Um1sUkhTXy0xcXQ4RE90OVFLU2t6Q28xLTBJUXdhd25XNFlwWEl0VmVhVEJ1WVRfM3pwVWotLUxWS0k4MjBBZmRIWTNhVHhUTGFmNU5DemRzekpnVVNkT1dpV19iQTRwS2k4cVZWcm9ibmNlRE1UTmfSAYQCQVVfeXFMUGMwLWZjMTBqdDg2b1FuV1B5dFlNZmVGRG5id0lqcHJPVUlMSElXXzVkbG5RZlNtOWhsd3J0VVExVVVQYzFzVVpacjhZbG9CRXpRREJLbHRxVUt4M1doUHZjeHI3WFZIenFLY0JxQVpvNnBUWEY3VW1ZYzUzVUxpZ00wQjJGV3B3UU1BQ3d5VXdULUR6MnFOcDc3dWx5TUxVSXFkSW12NE1jeUJGRG4zSThjMFB2VmlwZFpFTDNnNW4wUFRMWlZacjlVVTdyNUVLVVFwcmtvN2VrUjA2aTVaZEtVRHFrUWdyR1E1cDNYNFhOWV9EQnBtWkNxakVTVGo0VE1jTi0?oc=5",
+      "data": "05/11 22:38"
     }
   ],
   "avisos": [
