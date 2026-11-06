@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "06/11/2026 12:37",
+  "atualizado_em": "06/11/2026 18:14",
   "jogos": [
     {
       "sport": "futebol",
@@ -1202,28 +1202,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.7,
-      "temp_min": 23.0,
+      "temp_max": 26.9,
+      "temp_min": 23.2,
       "chance_chuva": 39,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.4,
+      "temp_max": 27.1,
       "temp_min": 23.3,
       "chance_chuva": 25,
-      "condicao": "Nublado"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.9,
+      "temp_max": 28.6,
       "temp_min": 18.4,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.5,
+      "temp_max": 22.7,
       "temp_min": 17.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -1231,29 +1231,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Soteldo Fluminense: acordo pode fazer clube pagar R$11 milhões - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5nSG5yeFhxa0lUX21BSEkxOXdqMU56Wk52enhRUlV4TTgzUFR5ZFZacE5xYXRYakhsMi16MEhYZGd0S19QRndVNThaMmM5cnpaVHFpeDJXNFRTUDBTYVVVU0s4QzZ6TnhYdVZXSWhKNUhrQTl1QnlvdlhQRmFneXdNRUZiZ0NsYkh3ZGRTeWpOLUNIeU4xNDZPRE8?oc=5",
-      "data": "04/11 14:53"
+      "titulo": "Além das bets, atraso milionário preocupa clubes do futebol brasileiro - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWR1TWZuck5GcG1qWFEtbWZYV0NUQWMzSkRfREM4SEprNnFmckdYdmphTjdibmhlOTYzWTV4aGJZbGxkSUc2b2xHSnk0N0ltNDl4cTgtX2ZobWZCUUpLYXNuNVVCd2VFc3JEWHBOa21LQzRHQTNnRDMxNVRrOXI5Q3ZzWWgzVkpnRnh3NGpiS0V1Z0hPY2dFU3gyUFc?oc=5",
+      "data": "06/11 15:00"
     },
     {
-      "titulo": "Fluminense realiza III Simpósio de Direito Desportivo - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkNXNVgzMDR2U3VzMWFOZ2s5M2haU2ZYeWhmbE42OVJmZWoyWXJocmRuU1NFNkVUVFBZTDlhTi16blAzY0NOTlVkTEZVcmFHRmtrTDdMcXdzWmN0SHNzUGEtLWpDY1lFOXp4R3Fub0NGTVJXaThlR1JTaVVwR1NyM1pObGU3T3VjNnZSTzRCaGl3Zk45MGc?oc=5",
-      "data": "06/11 13:00"
+      "titulo": "Em fim de contrato com o Fluminense, Cano descarta aposentadoria: “Posso contribuir” - ge",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNlZtUUd2RDFXSW9UYnU3OGlKbTFMd091d2RTWnVuRS02VVVEY0ZadENYRm1JNzJsZTdrOE1OOVFEZ3ktYkNMU1JVTHlsM0l3SjVCd0t6a2o5MGF5eTdFN0VQUUo5LWE0WmpnT1R2eE5LV2pYTGRUTlh5cGJYVXVkN3dMYXNWMlI5MndjYmJsN212UXM1SmR4cmNEWFR4R0JIXzM5UHEzMk1OT2VOOFhCZ3ZtelJrcUpsaGRFdEtodzNfNlR5bXE5NkNSTWx0eER1M2loeEJZSVpsQmFRZVRkS1ExWDR6R3F0ZUZjZmZjZUl4N2dRNFdPWDFqRUhLWjl1YmtVRy1sTmzSAZcCQVVfeXFMTVE2blRmZ0gtbTR1MlhqQ3ktb21wbXBtd1RFSjZNakQ1NEw1dExjZ3BLT1VpM1ZMME5lR3E3S3h6aXpmWWdYeFA4WDdaZEtPY3lkMzRvcFJ6ak8yWmJMY1JLbkdNOWc0MDl2UXlpQWx3SU8tT1UxeVhhcDV2Q3BPcU9jeGEydXBpQnRpOWVnT0dYM3B2YVRhdno2cmtmb0x0eDNpa1NlRlNRdGZHQm9GRnBlc2p4cXo1MTZjNW1JU2FLemtqV01JdjNrRFREUFNsOFBaOHVFRDJ1UHJuVkQwN1RDdXp1UWZSSFNKVGhNQUpQU2xWYVIzWjNGMzhtYzA4ajNxTWRQbkpYRDJtaE5WSWRxMUF3d19v?oc=5",
+      "data": "06/11 20:15"
     },
     {
-      "titulo": "Meia do Internacional entra no radar do Fluminense - Futebol Interior",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zY2VlOTJ2YmFnX2tqNl9ETzNaZ29FUXdZVlVIZ1lvN1pyRDd5X0NXVlVuNlZHa2NQa1k4WFVPeE1nR1FFUHgycGlSVGprcW1ncXpMbU5GMk1sM1llVGRGbC1JSEZGbFprY0tjd1NVSFdUb1FGYml4RHkxQQ?oc=5",
-      "data": "06/11 15:13"
+      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXU0QlJ5ZlRHbkJKOFpXM3JmRndDa2VnQXdOZlRxOEZITXdiZDBRbkxhQk9WZXNHWkRKSy13ZkR1b2VFV3pmUC1UdXlPLVYyVnRrTkFoM05ON1JwTjBiSDZseVlJSlF6aGg4bVdjdEs0cVhtNERqSWtGTHdNY0hqQmRkTjJwYVYzUlFCRVc3R2t1d2g4aEpCdHBwQmdqUUk4UnBnNnk1X01mS2RMVGhLaUc3UGZRczQxRm8yczJPRkY5RHhWejRxQlpxaERhV3BtSzdBelhpZ9IB5gFBVV95cUxNOUhoWlplRUJLaUMwSTRPWlprTFpfNXh3empfYTVSeUVXd3VZS29CWU5nbTRrbnJpNFhPamppZGFoQXozdUxidGs1TmFTem9pZGtCV1FvVmNBdjBrMnZuVlNxZjk4Mkd4R3Vyc2FueUw2NU83VDVXVE1pZm00LWlQRW13b1NKQTNkUUFaVWladjNKZWtheEdXZ1o1RDhmNjBxTERtUlhLU0RFR1F4Mkg4QWVaOXVCeTk4OGY1MV9XcHQ3TGtDSV9fS2cwT3dlMFhLdHIyNGdBTmh6dWM5em15aG9MUXNfQQ?oc=5",
+      "data": "06/11 06:00"
     },
     {
-      "titulo": "No STF, Flamengo, Fluminense e outros clubes defendem volta das bets - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ2FBU1FMNnBURkRRa3FKeXFaRVZFdm1TWm1EczBMMEhUTWJpU3JtbWtLblN4cVNxb3pxMmJ4WDlDWTVxdmhFLVA1bUVnVWVEbHF4WTZhT3NBUEYtS0pYT0NuOUM0VXdJdC1NcTFCZ2xXc3dRZ2ZhRXpYUjM1WkJhYldRX1dDUjVoNGRYX0pwSHpValFuYXdPaGctTUJyckVMdUg3aS1hTHByRG9kZmpacTdUbVZmQURVNFHSAb8BQVVfeXFMT0E0V2pXNzA2QWxzRjlpR3RUdHQ4dDF6TXliSFhZcGJKSXFEMURKdENCWkZycU4wU0xyQ1pTZ09QY3ZUMC1sVVM2Y01Fa2MzQzc5akxaRkRyN2JwRmlmOXZOa21kNFloQkpoWHlQS3BZQ3k1cWZ0RzNocGcxZHhTcG9jdDc5NTR6ZTVxZjlrR3BoZEZ4ekZHVzNqYm1ZNHRkcjRiQm43dVNrb1ktRTF5MEducDZGaF9WZFlrLTdrSTQ?oc=5",
-      "data": "03/11 18:53"
+      "titulo": "Fluminense parabeniza joia da base e torcida cobra mais chances no time - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXBfcW1HNjktVkZ5S3JOZ0ZqcGVNNmlNQVZwcHZiMTlydGJ1eGVwOHA1eEVHejBQMHdMSVYxMUl6aXNXSTY1Rmd6YXNIdm1FX3ZSclM5UmFwdmJNblgwYWVZSzdrQTQ3TmNFNzNqdkU2S2dPQUY3NHY4T1dQbGhfcUw5OWc0NHFBQXEteVplT2FNT0ppNXZpdUdlWklDa0k?oc=5",
+      "data": "06/11 16:44"
     },
     {
-      "titulo": "Escalação do Vitória contra o Fluminense: veja time provável, dúvidas e desfalques após treino - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGNXZGl2WlNLenlTUWg0YUMzbWQyQ3JjMVlSR3Y5YVowVmVaMUxCM2l2bGFjWnRtb0xlNllTcERPck42SHJtaXlDOC1XcmprTExfbko2ZzVYTzA1TnppSmRsclJBZU5BTjl2T3F2UU90NWlLNzFjaUZ1R3pWbER0b1RsWEZ3Um1sUkhTXy0xcXQ4RE90OVFLU2t6Q28xLTBJUXdhd25XNFlwWEl0VmVhVEJ1WVRfM3pwVWotLUxWS0k4MjBBZmRIWTNhVHhUTGFmNU5DemRzekpnVVNkT1dpV19iQTRwS2k4cVZWcm9ibmNlRE1UTmfSAYQCQVVfeXFMUGMwLWZjMTBqdDg2b1FuV1B5dFlNZmVGRG5id0lqcHJPVUlMSElXXzVkbG5RZlNtOWhsd3J0VVExVVVQYzFzVVpacjhZbG9CRXpRREJLbHRxVUt4M1doUHZjeHI3WFZIenFLY0JxQVpvNnBUWEY3VW1ZYzUzVUxpZ00wQjJGV3B3UU1BQ3d5VXdULUR6MnFOcDc3dWx5TUxVSXFkSW12NE1jeUJGRG4zSThjMFB2VmlwZFpFTDNnNW4wUFRMWlZacjlVVTdyNUVLVVFwcmtvN2VrUjA2aTVaZEtVRHFrUWdyR1E1cDNYNFhOWV9EQnBtWkNxakVTVGo0VE1jTi0?oc=5",
-      "data": "05/11 22:38"
+      "titulo": "Fluminense ou Botafogo? Luiz Henrique responde sobre time do coração - Band",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnhjYzY2allhYndDVjF4QXVOYmRGT0Z4am9keGF1V080Ykt0U3YtdEZkSGZYVmNxNVB6UVBSajc0cHR6cG8wVEREc0E5Q19LTGRiU0tDcGI4NHBWaHhHLVdxWEs3NUlpTzBmRkU0ZEFhTmhvMXFVVGc4T3FKcG1UU2FKTjA1bDZFUDdKUjd2Y0p4MTVtWDlRQUMtMDZKcnkzcTdUdDQzaGtTUXlx?oc=5",
+      "data": "06/11 16:22"
     }
   ],
   "avisos": [
