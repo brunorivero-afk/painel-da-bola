@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "05/11/2026 16:25",
+  "atualizado_em": "05/11/2026 21:41",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-05",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Mackenzie x Minas",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-05",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Fluminense x Osasco",
@@ -1184,7 +1174,7 @@ window.PAINEL_DATA = {
       "cidade": "Rio de Janeiro",
       "temp_max": 34.0,
       "temp_min": 23.1,
-      "chance_chuva": 80,
+      "chance_chuva": 62,
       "condicao": "Garoa"
     },
     {
@@ -1198,14 +1188,14 @@ window.PAINEL_DATA = {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.9,
       "temp_min": 20.5,
-      "chance_chuva": 100,
+      "chance_chuva": 97,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 29.9,
-      "temp_min": 19.1,
-      "chance_chuva": 100,
+      "temp_min": 19.0,
+      "chance_chuva": 98,
       "condicao": "Trovoada com granizo"
     }
   ],
@@ -1216,24 +1206,24 @@ window.PAINEL_DATA = {
       "data": "04/11 14:04"
     },
     {
-      "titulo": "Vitória leva vantagem recente sobre o Fluminense na Série A e tenta manter retrospecto para fugir do Z-4 - Bnews",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWDc0ZzFTZjltSTQySUk4cFpkTEUzeGF3ZlVreFJ2Qzh6eXdTVWs0T0NJQllsVWxGbEliMEJhRk40eUpSdUx2a1M1b2lRTWpFcGF3aTN0UGM0UjhkVHlqWUVYZHBjTGxmMzQxLTE1R3UzMkF6VzIxVVRkRTN6MGt3UG0wYVdjTDN5LWQxVkJ4OTlJeVV2ckZWRW9VLVF1RmhUemZrYzhGT19neDJHZE1wRklRSF92T3ZzTGNjWEh6cUVibmdjam5EcC1GaTNxWWhZRmVRdUY1bWphTW5rS3dYS1dUVm1kUdIB6wFBVV95cUxQNjUyR1hTOXlkNzdiZ0FJanZXbExnUkVXWjRmM3pZS3RxdjIwNXpnWDk3TlJHZ3l4ekhfSTlqRVowMTYwSUM1ckNGd3hzZmpPY3l0UGtNM2E0b2NMUGtaMU13b2V1eTNqZS10UGk3UEFJX0FJWWwzRlBrdldZSzFUaXo0cWZkZnh5S1hpVnFqVTJhOWRoODJvb2JlWVcxaVZ0YjU1dEw4RUpmTEw5WkhVZE1jeXNZMjAtU1BVUGZLT2RPNWFaOXRsZzBuQkNKWnQ0WndLZkFVOXJPU19xTVE3RE5sOHdzVWJUcEl3?oc=5",
-      "data": "05/11 15:08"
+      "titulo": "Reforma no estádio do Fluminense será debatida em audiência pública - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHFJbFMwQU0yMXhEZXU3TzN3XzF1dm01VVhWTndqMzl4NHhjVGF4WHozZnpwRHloSG56U1ZGLTIxVHp1UEtTbkk1cThoU2Q5eU5mY0xHbXQzWEhvbUFZUGVyNXFjUVBNaFZR?oc=5",
+      "data": "05/11 21:56"
     },
     {
-      "titulo": "Três anos da Libertadores: Fluminense anuncia novidade para os torcedores em parceria com a Kenner - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU9UNE9obTFieDl2WEExN0RTS0FzQW8tU0V1cGduQ2g0NUVxYXdKMWxGNjJmbFN6dU43M0kwbE9vM0hCcjg1enRpSDh0NDhlOC1wT3gxNXlRMlByeWZYMkhBUDBDZVZTb2dOVHRRVWlmbDZJWFJCOTZ6bXladTZPM3hjUTl3dnlDSXU0eEpHbGFodzgzUFFFS3ktWFQ4aGNUU3d4VkVkcThDbUxQSWdtTlVGV2ItaElrV3NHQm1jZXpXUQ?oc=5",
-      "data": "05/11 15:33"
+      "titulo": "Câmara do Rio debate venda de potencial construtivo do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQejRrOGZzTFVCdzdkZW9KV2VEektEOFdsS3J4UTkzYkFxWVRrU2Q5cHhtR2NXQ1Vqbkl3U0NNZlZnY0MwWU1pcDBYTGtYdTdyaVhJVTd6R2NFWE5CNFdSd3RncVFDUV9EeW5Ld1Ywbjd3T3NacW5sbFZoUlJDNXVLWU9CVC0xcG4wcDJ6RlJxd2dyZ1BXVDRCUjJlX1FtUGN1VXJRTVRCRjlrYUJoTDJFTHRUQTlwVTdfeXc4aS1yT0Vvc1hYQnQ5eVFXZXRFeFhaMktaZVRkaDBjd1lxSDBreV9Rd3dHSkVtNThwXw?oc=5",
+      "data": "05/11 23:16"
     },
     {
-      "titulo": "Pendurados do Fluminense podem desfalcar time - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmFzVVg0ME9GRHlGcjBuN1VxREZGUWQtOGxGS3NGVnN5czc3OF9zLVdLNTFFdGdJS3JsbDE4SjN4djk0QnRGWjdaWWhudUQzcWNsMVBWZ0xsYTJHbnFDZUNQQWlNcGZVWkFwSFJubUhYa1Zjc3JuQmtOT1lSanR2NGVCYnNscnV5X3hPTjJNZm1oR2d4dkk1Qk83OA?oc=5",
-      "data": "05/11 16:58"
+      "titulo": "Câmara do Rio convoca audiência pública sobre a venda de potencial construtivo da sede do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSW9SWjRyNlZ2RkZzSXpVRWNYb0JqMU1vRFMxTUtzZTVacHZUUUI1dFhWT3VEaVlfaHExVlNaRWxGZHNIb1B6VDJxTHFuV0dWc016SU15ckxBQXdlNjg0d0N0T2pkV1Q3MmtPQlFjd1I3Q1RxOGtwTVR5ZGdfci03MXkyZkRxWHYtemZBU3diV1BFRk5DMkVvblZPajlYN2M3d3AxNEppb0ZkeU1fYURxSlVac1lkTXdEYW9GeFZ2Tk9FR3FESXVLekR0Z1lRVHVwMEduTURXYmY2VE1XandFT0ZVbEZMb01xdFU5VFllams2blA0MER3YWpERUcxckZF0gGPAkFVX3lxTE9lTUdsbDFyeGpSTXNsd3k5d2dLTHlVOXJNMUpaU3IzLU84ejJKLVVhcWVzVkZYWVJMUGJzNDhEZTF1OVhldGhKTlI4MlZTTjZ4SDJtdVUxUjlpZk51ak1QVDkyb29nUWRXN2d6Qm5PYjc5bnBWZXJTQVE5SHBCRWY1NFBVZzhNZkxJTzFTUnl3VFR6UndHSTVPMjkzcGNHX1JTenZObEdVZk9LQzJIUU5kbEowZndnOTg4Y0tzdHV3bjRET3RyTUVKNUZyLS0wQXRvalRJSWlfVWxkTWphOGNTeVdKQ3ZZQUtieTN4bmNBakFIaWx3bXZKMHB2dTlCcE1RanVZcEFIcUtHWmxsUm8?oc=5",
+      "data": "05/11 19:09"
     },
     {
-      "titulo": "São Paulo perde dois atacantes e um defensor para duelo contra o Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUV9qdERWbjBBMjZOdUxlOFNPRzVQNVNKamk5ZUtldEN5MkZJYWw2SFVCTDAzTUozRjVuWkQ2Ull1Vkc1RENnbTBoRXFMTUhnRU1jRmEwZjBhcnh3d0JnT29XblU3MUZ5MU1fU2t6Q2hKcHYxdTBTbVBLOV9KMUtTUXFPd3RobkxwNEp0NnJOekw1Mnp1NUlZaElPZmtocUZuREYw?oc=5",
-      "data": "05/11 11:15"
+      "titulo": "Escalação do Vitória contra o Fluminense: veja time provável, dúvidas e desfalques após treino - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZGNXZGl2WlNLenlTUWg0YUMzbWQyQ3JjMVlSR3Y5YVowVmVaMUxCM2l2bGFjWnRtb0xlNllTcERPck42SHJtaXlDOC1XcmprTExfbko2ZzVYTzA1TnppSmRsclJBZU5BTjl2T3F2UU90NWlLNzFjaUZ1R3pWbER0b1RsWEZ3Um1sUkhTXy0xcXQ4RE90OVFLU2t6Q28xLTBJUXdhd25XNFlwWEl0VmVhVEJ1WVRfM3pwVWotLUxWS0k4MjBBZmRIWTNhVHhUTGFmNU5DemRzekpnVVNkT1dpV19iQTRwS2k4cVZWcm9ibmNlRE1UTmfSAYQCQVVfeXFMUGMwLWZjMTBqdDg2b1FuV1B5dFlNZmVGRG5id0lqcHJPVUlMSElXXzVkbG5RZlNtOWhsd3J0VVExVVVQYzFzVVpacjhZbG9CRXpRREJLbHRxVUt4M1doUHZjeHI3WFZIenFLY0JxQVpvNnBUWEY3VW1ZYzUzVUxpZ00wQjJGV3B3UU1BQ3d5VXdULUR6MnFOcDc3dWx5TUxVSXFkSW12NE1jeUJGRG4zSThjMFB2VmlwZFpFTDNnNW4wUFRMWlZacjlVVTdyNUVLVVFwcmtvN2VrUjA2aTVaZEtVRHFrUWdyR1E1cDNYNFhOWV9EQnBtWkNxakVTVGo0VE1jTi0?oc=5",
+      "data": "05/11 22:38"
     }
   ],
   "avisos": [
