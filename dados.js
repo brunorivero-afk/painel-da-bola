@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/11/2026 05:13",
+  "atualizado_em": "07/11/2026 12:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -1192,58 +1192,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.7,
-      "temp_min": 22.4,
-      "chance_chuva": 25,
+      "temp_max": 32.7,
+      "temp_min": 22.5,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 33.1,
-      "temp_min": 22.5,
-      "chance_chuva": 24,
+      "temp_max": 33.2,
+      "temp_min": 22.6,
+      "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.6,
-      "temp_min": 19.0,
-      "chance_chuva": 35,
+      "temp_max": 28.1,
+      "temp_min": 19.2,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.2,
+      "temp_max": 28.9,
       "temp_min": 18.2,
-      "chance_chuva": 31,
-      "condicao": "Garoa forte"
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Salário e falta de oportunidades colocam futuro de volante em xeque no Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd01OVm5PeFVNNHllVVZseFNCTFp1QnNCS1FFOXBUcDNoUzY5bEtDZTMxdjJYZFd3TndHUElKSW1KRm1POUstVVhzZGtoSENjTktETGhmblB3ZThhS3hQNjlWbnZ4VElnamlKQ3V2bTBXZEY1NHJrUW9EQktpY1RKYTl5RWZPNUxSX1RRMnVGUFByWUJseXdMOHhfWEQtVGc3dHFQaHczdmZnTGw2?oc=5",
-      "data": "06/11 14:02"
+      "titulo": "Marcão reforça desejo de seguir no Fluminense: “Estou muito disposto a trabalhar” - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU194VjVsUks5VnZnR2s0bG1KYTVlVnlGTUJLMTZGdGFKMTVSSkRMRjZOTDJXS1BZbEctc0xSOU5HSzZybDZvM3Jjcmd5a3ZQeFRGeEk1VWRBaFVhSkp2emtjVENKLU5ScTI0Ni1IZGhVTHA1eGVCSnhQSFdmc3h6MjJpZTRzazJGa3dla2lORzdoc0dveUp3QnBZb1I3N0cwQ1U2YUZTYng?oc=5",
+      "data": "07/11 01:57"
     },
     {
-      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - GE",
+      "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
+      "data": "07/11 14:17"
+    },
+    {
+      "titulo": "Millán avança em recuperação e pode voltar ao Fluminense após a Data Fifa - ge",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnkwUkxLQURYVjF6TC0ybmpVbmpTbGVHODdMU3hzaWN3blNuc3VhTVgzZ0x5NThQUGdYVHpMdTFCQWptQ3JicVM2MVYtMVJITklCcS1FODA3dFZsWk9pak41NDNwY2FSU2VHbWhRVjVDd2haMHdiU3pneElESTdEVW1VUmk3bW1SVDUwWkk2WXV1S0ZidFB5ZUtXTGpaSFR0dHpUT25fQlE3NnlDZlJSQ0xzR1NndGVzcXRlMXpQUXNKT1BPZmlkY3FlRjRZZThtYmtSdDN1WGtiNl9F0gHrAUFVX3lxTFB5eU5NRlZTTUdDemY2RFRFME9sMG5MODNwLWhwUElJV0NMeWQ5RVloMS0tOGlndzZLeXNESVo5R0VXVHVJZVBEQjZ1cXhaWWVUQnhUUGZBNUItZUhtTnJEeDFWWmFnS0FTRmlUWjZWT1JhU1NqZHcxU0p3QkNyQUZoVFNTdVJheVZGNVRQRmZDejNQVlFlT0Zhc3B1Q1BObFV4SUxTYVlRRjllOUp4OUcxVG40N2todmNzZ282QzZ6QXk3N25TV1pyT2llTlRqUnhYOFVRU3F6U1BDUE5sSU16LWhENEVIS2xrSkE?oc=5",
+      "data": "07/11 13:00"
+    },
+    {
+      "titulo": "Fluminense enfrenta o Araruama pelo Carioca Feminino - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUk1VGtmZzA5VU1Xbm5CMThVNjFUeHR2LTNuWGZWQXZ2dTd3NWFvMVUtbWo0ZF9vZUhUZHVleXZ5N2pvMEdQSDYwaElEZUdJVkJHaHhTRGQwRDBjejY5cFoweUJpcHdYQ3JzTzdJMm1XOFR3OC1OWDh5VjZET2wwWVNuZFBhbGxwWWEzbk1EYmdFQVg0?oc=5",
+      "data": "07/11 13:24"
+    },
+    {
+      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXU0QlJ5ZlRHbkJKOFpXM3JmRndDa2VnQXdOZlRxOEZITXdiZDBRbkxhQk9WZXNHWkRKSy13ZkR1b2VFV3pmUC1UdXlPLVYyVnRrTkFoM05ON1JwTjBiSDZseVlJSlF6aGg4bVdjdEs0cVhtNERqSWtGTHdNY0hqQmRkTjJwYVYzUlFCRVc3R2t1d2g4aEpCdHBwQmdqUUk4UnBnNnk1X01mS2RMVGhLaUc3UGZRczQxRm8yczJPRkY5RHhWejRxQlpxaERhV3BtSzdBelhpZ9IB5gFBVV95cUxNOUhoWlplRUJLaUMwSTRPWlprTFpfNXh3empfYTVSeUVXd3VZS29CWU5nbTRrbnJpNFhPamppZGFoQXozdUxidGs1TmFTem9pZGtCV1FvVmNBdjBrMnZuVlNxZjk4Mkd4R3Vyc2FueUw2NU83VDVXVE1pZm00LWlQRW13b1NKQTNkUUFaVWladjNKZWtheEdXZ1o1RDhmNjBxTERtUlhLU0RFR1F4Mkg4QWVaOXVCeTk4OGY1MV9XcHQ3TGtDSV9fS2cwT3dlMFhLdHIyNGdBTmh6dWM5em15aG9MUXNfQQ?oc=5",
       "data": "06/11 06:00"
-    },
-    {
-      "titulo": "Fluminense realiza III Simpósio de Direito Desportivo - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkNXNVgzMDR2U3VzMWFOZ2s5M2haU2ZYeWhmbE42OVJmZWoyWXJocmRuU1NFNkVUVFBZTDlhTi16blAzY0NOTlVkTEZVcmFHRmtrTDdMcXdzWmN0SHNzUGEtLWpDY1lFOXp4R3Fub0NGTVJXaThlR1JTaVVwR1NyM1pObGU3T3VjNnZSTzRCaGl3Zk45MGc?oc=5",
-      "data": "06/11 13:00"
-    },
-    {
-      "titulo": "Fluminense ou Botafogo? Luiz Henrique responde sobre time do coração - Band",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnhjYzY2allhYndDVjF4QXVOYmRGT0Z4am9keGF1V080Ykt0U3YtdEZkSGZYVmNxNVB6UVBSajc0cHR6cG8wVEREc0E5Q19LTGRiU0tDcGI4NHBWaHhHLVdxWEs3NUlpTzBmRkU0ZEFhTmhvMXFVVGc4T3FKcG1UU2FKTjA1bDZFUDdKUjd2Y0p4MTVtWDlRQUMtMDZKcnkzcTdUdDQzaGtTUXlx?oc=5",
-      "data": "06/11 16:22"
-    },
-    {
-      "titulo": "Ingressos para São Paulo x Fluminense, pelo Campeonato Brasileiro - Home - SPFC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1ZtdnRIMjhxbi1YVlNKa0x0dmtqeUdSbzFRQlNwVDFUZGFMUVYzYWZQVE93NUROTllvMmVWTWdGUEZIRW5UbkNkNWt5dmJnUk9zT1hxZ3d2ZzNIYXZWTXVqNVc5RDlZTE9vcjdXWWpUV0V1UnZtaXM2ekphcWlpVi1jUmoteFF1b1BBdkpOQXVlYjM0TGpZ?oc=5",
-      "data": "06/11 22:53"
     }
   ],
   "avisos": [
