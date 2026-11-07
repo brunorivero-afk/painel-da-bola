@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/11/2026 16:49",
+  "atualizado_em": "07/11/2026 20:21",
   "jogos": [
     {
       "sport": "futebol",
@@ -1226,19 +1226,19 @@ window.PAINEL_DATA = {
       "data": "07/11 01:57"
     },
     {
+      "titulo": "Fluminense goleia o Araruama pelo Carioca Feminino - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWRST1dDYzFrRHdvYnAxX1lYalI0cUphTFpjZ01EekhCRjRUWDFHMFNSZFprbGhWVTUyWHRELUlleThSSnNHVjFGUkNYd3ZiQkhHR20yOXNveV9NOTMzV0JLbzcydTNqdTNrOHQwWDhqcmtLR25makVHMEEyczJTeHljRTkxZmNFaUlnVWJmemJYdw?oc=5",
+      "data": "07/11 20:44"
+    },
+    {
       "titulo": "Coração dividido? Luiz Henrique cita relação de infância com Fluminense e carinho pelo Botafogo - ge",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY09fQWNJSDhtRVhiWUNEX29qTTh2Q3NQalc4UXZEV0tYRmY3X0JOSnY1Rmlib1FITUozNEQtc2l2bGswQ0VsY25hb1Z5OTRmcjYya01oODk2U01vX1BldHFhUWViYXJBcDU0cnBidVdmaHpfMkdkZlh2UXBCb002VThwVF9KcXdhcTh1MnY3MVlvcm11VVFRTE9XWUU0cy1qSlpIUmllZjdWeUprbVo3dkhKbDA2VTlsR2JMb3lBTTZWR0dzTWE1ekFrSVE3U296dVpJalJKeVA3anhnZ3N0eVpRMlNhRVR6MDQwSWNIb0ZwTWNoUHfSAYQCQVVfeXFMTlRES1gyelY0X3NOM2JvZ1JHNVR5MkxtaHJQc0pLN1J5UG1LeXNjRnp5aWJnaTkyQnV6NzRkT29GVnVKeUFfMF9HWFJzbnF0V01Qck92d2JwMU83SnlVUFJvdWRYSk9kbkg1Zi1RNFlEYmgxSXZKcjhMaVJmMUtiV2hpd1JjcWRMeEczSVBrcGY4WENha1NUWGpFWTk2QWEwa0QtMmNGdUd4ZUdYNVIzVG5vY09YYkYtdkVPWGc5NFNnbFNTbk9qT3NyTlNmX2xqSWZrX0NhN0tjNmIyd1hUOVk3Q2N6X0hKMXZILWZRM21TU2wtLXpjTC1NN2MxMkZNMXJnZV8?oc=5",
       "data": "07/11 17:25"
     },
     {
-      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXU0QlJ5ZlRHbkJKOFpXM3JmRndDa2VnQXdOZlRxOEZITXdiZDBRbkxhQk9WZXNHWkRKSy13ZkR1b2VFV3pmUC1UdXlPLVYyVnRrTkFoM05ON1JwTjBiSDZseVlJSlF6aGg4bVdjdEs0cVhtNERqSWtGTHdNY0hqQmRkTjJwYVYzUlFCRVc3R2t1d2g4aEpCdHBwQmdqUUk4UnBnNnk1X01mS2RMVGhLaUc3UGZRczQxRm8yczJPRkY5RHhWejRxQlpxaERhV3BtSzdBelhpZ9IB5gFBVV95cUxNOUhoWlplRUJLaUMwSTRPWlprTFpfNXh3empfYTVSeUVXd3VZS29CWU5nbTRrbnJpNFhPamppZGFoQXozdUxidGs1TmFTem9pZGtCV1FvVmNBdjBrMnZuVlNxZjk4Mkd4R3Vyc2FueUw2NU83VDVXVE1pZm00LWlQRW13b1NKQTNkUUFaVWladjNKZWtheEdXZ1o1RDhmNjBxTERtUlhLU0RFR1F4Mkg4QWVaOXVCeTk4OGY1MV9XcHQ3TGtDSV9fS2cwT3dlMFhLdHIyNGdBTmh6dWM5em15aG9MUXNfQQ?oc=5",
-      "data": "06/11 06:00"
-    },
-    {
-      "titulo": "Cano descarta aposentadoria e revela conversas com clube argentino sobre futuro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVWtlMmdhcXBQWVUzMm11NWp3emNVeC0zVEdqNF9iZVRtdTd3Wi1Cb0xiY3lWc1hVcXJISUstY2pYZVBkcjZpNVBvMXNIUkYwX1VVZFdCalZ5bnJsUXIteDE3dGxZS1lHcnpYNEtCcDBtZEJobm9EdXFqdnBTdXFTRk9nMzVrUGVrZjNYQ2pLMXl1VmFhcnhVQ1RjeTFuLVhCRFhXMlVEbTZuanFzSnVySXM4dzVYOVZwTjVEUllHVWV6X25ySUtiTEZtWGV2RjB1RUhTNDFhWFBpeGRYVVFhT3JOdTZCUEdUaU5wRmFVNU1KMTdSRzA1dXVuWFo1MDQ?oc=5",
-      "data": "07/11 10:46"
+      "titulo": "Atuações do Fluminense: Lucho Acosta, Canobbio e Savarino são os melhores em vitória; dê suas notas - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2M2OE5NWW00alQzbnVLT3NxekVKUUNlR1RPb2VvLXZtWlNOR05rM1NZaXZFdkZ4eVNmdWNmUXVVdFE5TEVOYTNsSENJYlhienk1YzRyQUo3VmVmN09BU1Y2TElsWkZtQ0F3aFVaSE1PZVJXQTVfM1hmc2Zha1kteVBaaGhqbXRVTGxNVVl1emNnQTB3eDZqN3ZoaFk2ZkYycWhOSXdZMW5MU2U1ai1sMTVuTEZvTXZteFBrUURHcFdqT2pTNWVfVGJUYXhaZlFaQ0R2Rms1dkJDbHU3VFJMSXZvY29Fb2tQVm9UdUFFcUdIaHPSAYICQVVfeXFMTnhpUUFzbGhYeUNoR2h3Z2xtTjBEdVhBSVZ3WDRSTVg5dzBZN09PbDRhb21vaVZzWGc5dXl5Y0hMRkhtZ2E1bU83RE5kVTdJSGZCT2V6REhsVm1rWGtDdFZ5ZjhoSXpxUURWcGNpMlpSR0JfLVRuanF2TzNCY1MtaVNOcHJkNndXRzdaRXR4eVNhUmJ5dlNUVlppbVc1Y01tUEJKOWZGWjlsX0duc3hhWERyclNTU1loLWhRd3lteE1sTG5Jb19ZQnNyVVM2TVE4U1JaY05wX3Z0elhQRFp4WjNKMEFobHpEZ2piT3NfaHRiZDh3RWVrb3RGdVVzak80dENB?oc=5",
+      "data": "07/11 01:01"
     },
     {
       "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
