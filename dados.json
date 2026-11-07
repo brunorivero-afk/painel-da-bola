@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "07/11/2026 12:22",
+  "atualizado_em": "07/11/2026 16:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -1192,28 +1192,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.7,
+      "temp_max": 30.8,
       "temp_min": 22.5,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 33.2,
+      "temp_max": 32.4,
       "temp_min": 22.6,
       "chance_chuva": 98,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.1,
+      "temp_max": 27.4,
       "temp_min": 19.2,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.9,
+      "temp_max": 28.7,
       "temp_min": 18.2,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -1226,24 +1226,24 @@
       "data": "07/11 01:57"
     },
     {
-      "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
-      "data": "07/11 14:17"
-    },
-    {
-      "titulo": "Millán avança em recuperação e pode voltar ao Fluminense após a Data Fifa - ge",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdnkwUkxLQURYVjF6TC0ybmpVbmpTbGVHODdMU3hzaWN3blNuc3VhTVgzZ0x5NThQUGdYVHpMdTFCQWptQ3JicVM2MVYtMVJITklCcS1FODA3dFZsWk9pak41NDNwY2FSU2VHbWhRVjVDd2haMHdiU3pneElESTdEVW1VUmk3bW1SVDUwWkk2WXV1S0ZidFB5ZUtXTGpaSFR0dHpUT25fQlE3NnlDZlJSQ0xzR1NndGVzcXRlMXpQUXNKT1BPZmlkY3FlRjRZZThtYmtSdDN1WGtiNl9F0gHrAUFVX3lxTFB5eU5NRlZTTUdDemY2RFRFME9sMG5MODNwLWhwUElJV0NMeWQ5RVloMS0tOGlndzZLeXNESVo5R0VXVHVJZVBEQjZ1cXhaWWVUQnhUUGZBNUItZUhtTnJEeDFWWmFnS0FTRmlUWjZWT1JhU1NqZHcxU0p3QkNyQUZoVFNTdVJheVZGNVRQRmZDejNQVlFlT0Zhc3B1Q1BObFV4SUxTYVlRRjllOUp4OUcxVG40N2todmNzZ282QzZ6QXk3N25TV1pyT2llTlRqUnhYOFVRU3F6U1BDUE5sSU16LWhENEVIS2xrSkE?oc=5",
-      "data": "07/11 13:00"
-    },
-    {
-      "titulo": "Fluminense enfrenta o Araruama pelo Carioca Feminino - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUk1VGtmZzA5VU1Xbm5CMThVNjFUeHR2LTNuWGZWQXZ2dTd3NWFvMVUtbWo0ZF9vZUhUZHVleXZ5N2pvMEdQSDYwaElEZUdJVkJHaHhTRGQwRDBjejY5cFoweUJpcHdYQ3JzTzdJMm1XOFR3OC1OWDh5VjZET2wwWVNuZFBhbGxwWWEzbk1EYmdFQVg0?oc=5",
-      "data": "07/11 13:24"
+      "titulo": "Coração dividido? Luiz Henrique cita relação de infância com Fluminense e carinho pelo Botafogo - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY09fQWNJSDhtRVhiWUNEX29qTTh2Q3NQalc4UXZEV0tYRmY3X0JOSnY1Rmlib1FITUozNEQtc2l2bGswQ0VsY25hb1Z5OTRmcjYya01oODk2U01vX1BldHFhUWViYXJBcDU0cnBidVdmaHpfMkdkZlh2UXBCb002VThwVF9KcXdhcTh1MnY3MVlvcm11VVFRTE9XWUU0cy1qSlpIUmllZjdWeUprbVo3dkhKbDA2VTlsR2JMb3lBTTZWR0dzTWE1ekFrSVE3U296dVpJalJKeVA3anhnZ3N0eVpRMlNhRVR6MDQwSWNIb0ZwTWNoUHfSAYQCQVVfeXFMTlRES1gyelY0X3NOM2JvZ1JHNVR5MkxtaHJQc0pLN1J5UG1LeXNjRnp5aWJnaTkyQnV6NzRkT29GVnVKeUFfMF9HWFJzbnF0V01Qck92d2JwMU83SnlVUFJvdWRYSk9kbkg1Zi1RNFlEYmgxSXZKcjhMaVJmMUtiV2hpd1JjcWRMeEczSVBrcGY4WENha1NUWGpFWTk2QWEwa0QtMmNGdUd4ZUdYNVIzVG5vY09YYkYtdkVPWGc5NFNnbFNTbk9qT3NyTlNmX2xqSWZrX0NhN0tjNmIyd1hUOVk3Q2N6X0hKMXZILWZRM21TU2wtLXpjTC1NN2MxMkZNMXJnZV8?oc=5",
+      "data": "07/11 17:25"
     },
     {
       "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXU0QlJ5ZlRHbkJKOFpXM3JmRndDa2VnQXdOZlRxOEZITXdiZDBRbkxhQk9WZXNHWkRKSy13ZkR1b2VFV3pmUC1UdXlPLVYyVnRrTkFoM05ON1JwTjBiSDZseVlJSlF6aGg4bVdjdEs0cVhtNERqSWtGTHdNY0hqQmRkTjJwYVYzUlFCRVc3R2t1d2g4aEpCdHBwQmdqUUk4UnBnNnk1X01mS2RMVGhLaUc3UGZRczQxRm8yczJPRkY5RHhWejRxQlpxaERhV3BtSzdBelhpZ9IB5gFBVV95cUxNOUhoWlplRUJLaUMwSTRPWlprTFpfNXh3empfYTVSeUVXd3VZS29CWU5nbTRrbnJpNFhPamppZGFoQXozdUxidGs1TmFTem9pZGtCV1FvVmNBdjBrMnZuVlNxZjk4Mkd4R3Vyc2FueUw2NU83VDVXVE1pZm00LWlQRW13b1NKQTNkUUFaVWladjNKZWtheEdXZ1o1RDhmNjBxTERtUlhLU0RFR1F4Mkg4QWVaOXVCeTk4OGY1MV9XcHQ3TGtDSV9fS2cwT3dlMFhLdHIyNGdBTmh6dWM5em15aG9MUXNfQQ?oc=5",
       "data": "06/11 06:00"
+    },
+    {
+      "titulo": "Cano descarta aposentadoria e revela conversas com clube argentino sobre futuro - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVWtlMmdhcXBQWVUzMm11NWp3emNVeC0zVEdqNF9iZVRtdTd3Wi1Cb0xiY3lWc1hVcXJISUstY2pYZVBkcjZpNVBvMXNIUkYwX1VVZFdCalZ5bnJsUXIteDE3dGxZS1lHcnpYNEtCcDBtZEJobm9EdXFqdnBTdXFTRk9nMzVrUGVrZjNYQ2pLMXl1VmFhcnhVQ1RjeTFuLVhCRFhXMlVEbTZuanFzSnVySXM4dzVYOVZwTjVEUllHVWV6X25ySUtiTEZtWGV2RjB1RUhTNDFhWFBpeGRYVVFhT3JOdTZCUEdUaU5wRmFVNU1KMTdSRzA1dXVuWFo1MDQ?oc=5",
+      "data": "07/11 10:46"
+    },
+    {
+      "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
+      "data": "07/11 14:17"
     }
   ],
   "avisos": [
