@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "06/11/2026 18:14",
+  "atualizado_em": "06/11/2026 22:33",
   "jogos": [
     {
       "sport": "futebol",
@@ -1203,20 +1203,20 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 26.9,
-      "temp_min": 23.2,
-      "chance_chuva": 39,
+      "temp_min": 22.8,
+      "chance_chuva": 29,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
       "temp_max": 27.1,
-      "temp_min": 23.3,
-      "chance_chuva": 25,
+      "temp_min": 22.9,
+      "chance_chuva": 53,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.6,
+      "temp_max": 28.8,
       "temp_min": 18.4,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -1231,14 +1231,9 @@
   ],
   "noticias": [
     {
-      "titulo": "Além das bets, atraso milionário preocupa clubes do futebol brasileiro - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWR1TWZuck5GcG1qWFEtbWZYV0NUQWMzSkRfREM4SEprNnFmckdYdmphTjdibmhlOTYzWTV4aGJZbGxkSUc2b2xHSnk0N0ltNDl4cTgtX2ZobWZCUUpLYXNuNVVCd2VFc3JEWHBOa21LQzRHQTNnRDMxNVRrOXI5Q3ZzWWgzVkpnRnh3NGpiS0V1Z0hPY2dFU3gyUFc?oc=5",
-      "data": "06/11 15:00"
-    },
-    {
-      "titulo": "Em fim de contrato com o Fluminense, Cano descarta aposentadoria: “Posso contribuir” - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNlZtUUd2RDFXSW9UYnU3OGlKbTFMd091d2RTWnVuRS02VVVEY0ZadENYRm1JNzJsZTdrOE1OOVFEZ3ktYkNMU1JVTHlsM0l3SjVCd0t6a2o5MGF5eTdFN0VQUUo5LWE0WmpnT1R2eE5LV2pYTGRUTlh5cGJYVXVkN3dMYXNWMlI5MndjYmJsN212UXM1SmR4cmNEWFR4R0JIXzM5UHEzMk1OT2VOOFhCZ3ZtelJrcUpsaGRFdEtodzNfNlR5bXE5NkNSTWx0eER1M2loeEJZSVpsQmFRZVRkS1ExWDR6R3F0ZUZjZmZjZUl4N2dRNFdPWDFqRUhLWjl1YmtVRy1sTmzSAZcCQVVfeXFMTVE2blRmZ0gtbTR1MlhqQ3ktb21wbXBtd1RFSjZNakQ1NEw1dExjZ3BLT1VpM1ZMME5lR3E3S3h6aXpmWWdYeFA4WDdaZEtPY3lkMzRvcFJ6ak8yWmJMY1JLbkdNOWc0MDl2UXlpQWx3SU8tT1UxeVhhcDV2Q3BPcU9jeGEydXBpQnRpOWVnT0dYM3B2YVRhdno2cmtmb0x0eDNpa1NlRlNRdGZHQm9GRnBlc2p4cXo1MTZjNW1JU2FLemtqV01JdjNrRFREUFNsOFBaOHVFRDJ1UHJuVkQwN1RDdXp1UWZSSFNKVGhNQUpQU2xWYVIzWjNGMzhtYzA4ajNxTWRQbkpYRDJtaE5WSWRxMUF3d19v?oc=5",
-      "data": "06/11 20:15"
+      "titulo": "Atacante do Fluminense é convocado para amistosos na Data Fifa; ex-Tricolor também é lembrado - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVFV5cEwwM3hwQTNKUnh3TVdVQWFJUmx3bmNnaENJMzNfdTlVVXdiTHhFamhvQ1Q5djZTV1pDdFBZZDMyVkJNTWZZMDVDQVBERTBqWkswdzVmMUphZXljaHNtd3hJS1JNM2FhWmJvMEZSMnl3YzY2dlpXWHhMcXNtbEJWUlpKQ2tDS1dpZXhmUldHN1E?oc=5",
+      "data": "06/11 13:01"
     },
     {
       "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - ge",
@@ -1246,14 +1241,19 @@
       "data": "06/11 06:00"
     },
     {
-      "titulo": "Fluminense parabeniza joia da base e torcida cobra mais chances no time - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXBfcW1HNjktVkZ5S3JOZ0ZqcGVNNmlNQVZwcHZiMTlydGJ1eGVwOHA1eEVHejBQMHdMSVYxMUl6aXNXSTY1Rmd6YXNIdm1FX3ZSclM5UmFwdmJNblgwYWVZSzdrQTQ3TmNFNzNqdkU2S2dPQUY3NHY4T1dQbGhfcUw5OWc0NHFBQXEteVplT2FNT0ppNXZpdUdlWklDa0k?oc=5",
-      "data": "06/11 16:44"
+      "titulo": "Fluminense bate o Vitória e facilita vida do Corinthians na briga contra o Z-4 - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPam5tbjk2YThCNHVHcHJhTmcxcVN0VV92YVN0b0tTMUlGREN1dlJocG5ZbXZLV0NWMWxhVk9YUFowQmVWcjN2NkhsX09XMGN5WFNNcWEtdUhCc3l3ZDhJYjNNZnk1RDFfeVNBOWVJczQ4ZFFiUzFEcnB3dzJiaHE0UnE3LXBlVjRmMTQtNnl6TUpvWFhyT1BuNGJucEg2X21tdG8zTWg0bEQ4czdNdV9jY2xtSHdrZHl3MkdJT2hTaFfSAcYBQVVfeXFMTWN2cWhHcWkzdC1LdmVfNVlIR01ZNDBvSnVOZHpENllmeURVVFNOZ1Uya044MjVwYkdxZ0RHM3NjZi1aN3kxazR5QVUwSGZhaTJtc3k4ZklLVkZIQ0NJWi1ybGtTWEhQaHBsckFDaXlIYUR1bzcydnRTQXRITWxscVA1NWdrUzFtZ2xBM1p4d0pEbXRxQ1JaR1JUcFZCRHlqOVpRd0hSUnhWM1FSTnVEc08yMVJkM092UHVhbXBpRmtQQWdMTFVB?oc=5",
+      "data": "07/11 01:21"
     },
     {
-      "titulo": "Fluminense ou Botafogo? Luiz Henrique responde sobre time do coração - Band",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnhjYzY2allhYndDVjF4QXVOYmRGT0Z4am9keGF1V080Ykt0U3YtdEZkSGZYVmNxNVB6UVBSajc0cHR6cG8wVEREc0E5Q19LTGRiU0tDcGI4NHBWaHhHLVdxWEs3NUlpTzBmRkU0ZEFhTmhvMXFVVGc4T3FKcG1UU2FKTjA1bDZFUDdKUjd2Y0p4MTVtWDlRQUMtMDZKcnkzcTdUdDQzaGtTUXlx?oc=5",
-      "data": "06/11 16:22"
+      "titulo": "Fluminense realiza III Simpósio de Direito Desportivo - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUkNXNVgzMDR2U3VzMWFOZ2s5M2haU2ZYeWhmbE42OVJmZWoyWXJocmRuU1NFNkVUVFBZTDlhTi16blAzY0NOTlVkTEZVcmFHRmtrTDdMcXdzWmN0SHNzUGEtLWpDY1lFOXp4R3Fub0NGTVJXaThlR1JTaVVwR1NyM1pObGU3T3VjNnZSTzRCaGl3Zk45MGc?oc=5",
+      "data": "06/11 13:00"
+    },
+    {
+      "titulo": "Câmara do Rio debate venda de potencial construtivo do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQejRrOGZzTFVCdzdkZW9KV2VEektEOFdsS3J4UTkzYkFxWVRrU2Q5cHhtR2NXQ1Vqbkl3U0NNZlZnY0MwWU1pcDBYTGtYdTdyaVhJVTd6R2NFWE5CNFdSd3RncVFDUV9EeW5Ld1Ywbjd3T3NacW5sbFZoUlJDNXVLWU9CVC0xcG4wcDJ6RlJxd2dyZ1BXVDRCUjJlX1FtUGN1VXJRTVRCRjlrYUJoTDJFTHRUQTlwVTdfeXc4aS1yT0Vvc1hYQnQ5eVFXZXRFeFhaMktaZVRkaDBjd1lxSDBreV9Rd3dHSkVtNThwXw?oc=5",
+      "data": "05/11 23:16"
     }
   ],
   "avisos": [
