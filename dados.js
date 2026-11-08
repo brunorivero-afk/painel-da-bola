@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/11/2026 14:31",
+  "atualizado_em": "08/11/2026 18:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -1183,21 +1183,21 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 26.3,
-      "temp_min": 19.2,
+      "temp_min": 19.3,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.7,
-      "temp_min": 20.1,
+      "temp_min": 20.3,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 22.6,
-      "temp_min": 15.1,
+      "temp_min": 14.9,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
@@ -1211,24 +1211,24 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense bate o Paineiras e chega a oito vitórias seguidas na Liga Nacional de Polo Aquático - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQkY4azBlSzhuMXlGTFYwVWl4c29LOGRKNW1pWDJyS1hUT2dzb1ZYdlVvdFB0NnJoRWk4dGU2N2ozTC1LbmpQdVhSNUdFR21teWswVWYtdmVNb3M0Y3VFNmxaZE1zM1ZjbGgySVFZN2JsemdrNHNVdzctMk55N2NCb2wzX2o3cXNsUHljWkV0bWw5ZVVQNGhEeVhZNW1pMXItakJyT1VfcWRmel9Sci0yVk5mNmQyTENBYk9nLUZVWHdVTFNwWXE4X1RPME8?oc=5",
-      "data": "08/11 16:08"
-    },
-    {
-      "titulo": "Luiz Henrique reforça amor pelo Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFptMHRPVkxqRlNXYlVNN2pXSlRDLW9xOXRsRmhwc3lQUTBDSVhybjdWaTJDc3hFN3ZJY0liWUlDQjhIbEhIOUU3ZjJtWnVicGNVWHpQUXlmbkcyaTRnSWtJWVdNSkJmS19EMWt4cVVZSU5YQzF4dTE5QUVydy1BUm55VHVGdS1uRU42LXNUaTVySnhndU1FdGVhMDY1VnE5alE?oc=5",
-      "data": "08/11 12:48"
-    },
-    {
-      "titulo": "Libertadores e Thiago Silva pesam para permanência de Marcão no Fluminense em 2027 - Extra online",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjFlbzM4LVFhZkNoNlNiNU8wbmhzRXB6RklqSlZtMi1WUjFzQ3RVOGVEekJkbk9nLVFXSmFrVW9zWnJIY0NTSkpFQ29lM0dhVFhiYkF1andvYW1NZEU2WHMyNldra2RCUlRpMUdDV0hfUHhrYUNsMTdVN25WRWdGQklrOHpfTU5kMEhhbERkcm4zY3Npd29Md0U0UVFUV095Q3BtWkRpZVhhODA2N1cwYUhudF9vbW1DMnJId2ZucnNpY2tUbmNaNEM1aEtEX3QtSGI0MWtQQkl2clQyak5nNdIB7wFBVV95cUxQalgzbzJWWGFuTDdqbXBBRzhyYjZkVWJrYlZlbHZIRTlDTTNLengyNDR6d1lzX0ZnZnhGRkdDeTNCLUFxU2hMREFENF9Bai1BOVM3dGo5aFNiaUNqeVplYkp3d2QtcTVGLWl2bXpwV3dJOXJWOTMtMUtDQUp6a1NTN3dtajM0T3FYR1V1LVFjY0dpQms2b2VqVnFoRW9nZlJ6b0pyaGkwTFowc1daaW1PejI4WkZKS3ZlZnltNE9abWoyYlpmNF9CbVdSc2x4WTNXN3BoNkNVcTBrcTZFbDNnT3k4XzhKazkyYXFZRXU3bw?oc=5",
-      "data": "08/11 08:00"
-    },
-    {
       "titulo": "Fluminense bate o Vitória e facilita vida do Corinthians na briga contra o Z-4 - Terra",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDl3UHplZTVxNVVQeVdkZnMweVhoZXY4R2lnbndOTHowaHBMeGtZdW1ZRU15TjJ2d2Uya2R4SG5fZVJiM2RQZWFiMEhJMWFTVTRYcjhOanNOLVRqcExiR1lFTnI5VktiMkdrdEdFcVlWZjdQcXplTkdHVXpuTTF5azZ3d2RPOW1TODBxVzZ4cUszMGt1WnRPM0E3SjB0ckhyWGJvWVQydWNTdEZSUW5uRmFzeUlCYnN5UTQxVkVIa1lvRlEtcEZYSUYyZE94TDBROFd6cXNWeFpBcDRCLVRtekJfUmhySmxzMUo2MmxfbWR3VkRpNWxQSHZ3?oc=5",
       "data": "07/11 01:31"
+    },
+    {
+      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
+      "data": "08/11 20:03"
+    },
+    {
+      "titulo": "Fluminense busca vaga na final do Torneio Guilherme Embry Sub-16 nesta segunda - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzFDNkR2QlMwS0puaWRmbTBWVldRbGx2NzJHaklDMmFzNzhEX3UtVXJTeFdtTmE3VlVJbGFJQ3FWX1ZMVDdpRVBBa2g4VW1hemd3MlJpYnMxTWZxYVNiRktnY2tyVXpDOUo5YWd0NVNDS1JaWEQtSFNzZnN4ZHNVS3hJeXlSUTU2SllVZDNHS2lPMk1xVEFoQ0J5bEJlVmdFS3ZtVFhsZlFNLWtKX1pZQnVEWHgwLUE?oc=5",
+      "data": "08/11 21:00"
+    },
+    {
+      "titulo": "Com Fred, sub-20 do Fluminense vive maior invencibilidade em 12 anos - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXpYTk5VRXZlbE9jeUl6cm82d3k5YVgyQXhoMmw5eFNIUDVFN1huNFI0RE00MzhWMDBKM2IxdjA0MGhIUVdpdzdEY3Z4Y3padmtqcmVEMnNXdExxLVY1WHVxRlg5SDRfbEVhSy1XSWs4aHVxUkc0Wm1oMEdtX0NUOG9ES3c1anFkNUUwMjFERXBNV2Z0U0lmaER3?oc=5",
+      "data": "08/11 17:56"
     },
     {
       "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
