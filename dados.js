@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "07/11/2026 20:21",
+  "atualizado_em": "08/11/2026 01:05",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-07",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brasília x Praia Clube",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Sesi-bauru",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Norde Vôlei x Cruzeiro",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Goiás",
@@ -1170,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Guarulhos",
@@ -1180,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Mackenzie x Minas",
@@ -1192,31 +1182,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.8,
-      "temp_min": 22.5,
-      "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "temp_max": 25.8,
+      "temp_min": 19.2,
+      "chance_chuva": 97,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 32.4,
-      "temp_min": 22.6,
-      "chance_chuva": 98,
-      "condicao": "Garoa"
+      "temp_max": 25.7,
+      "temp_min": 20.0,
+      "chance_chuva": 100,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.4,
-      "temp_min": 19.2,
+      "temp_max": 21.1,
+      "temp_min": 15.3,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.7,
-      "temp_min": 18.2,
+      "temp_max": 19.7,
+      "temp_min": 13.0,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -1226,19 +1216,19 @@ window.PAINEL_DATA = {
       "data": "07/11 01:57"
     },
     {
-      "titulo": "Fluminense goleia o Araruama pelo Carioca Feminino - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWRST1dDYzFrRHdvYnAxX1lYalI0cUphTFpjZ01EekhCRjRUWDFHMFNSZFprbGhWVTUyWHRELUlleThSSnNHVjFGUkNYd3ZiQkhHR20yOXNveV9NOTMzV0JLbzcydTNqdTNrOHQwWDhqcmtLR25makVHMEEyczJTeHljRTkxZmNFaUlnVWJmemJYdw?oc=5",
-      "data": "07/11 20:44"
-    },
-    {
       "titulo": "Coração dividido? Luiz Henrique cita relação de infância com Fluminense e carinho pelo Botafogo - ge",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY09fQWNJSDhtRVhiWUNEX29qTTh2Q3NQalc4UXZEV0tYRmY3X0JOSnY1Rmlib1FITUozNEQtc2l2bGswQ0VsY25hb1Z5OTRmcjYya01oODk2U01vX1BldHFhUWViYXJBcDU0cnBidVdmaHpfMkdkZlh2UXBCb002VThwVF9KcXdhcTh1MnY3MVlvcm11VVFRTE9XWUU0cy1qSlpIUmllZjdWeUprbVo3dkhKbDA2VTlsR2JMb3lBTTZWR0dzTWE1ekFrSVE3U296dVpJalJKeVA3anhnZ3N0eVpRMlNhRVR6MDQwSWNIb0ZwTWNoUHfSAYQCQVVfeXFMTlRES1gyelY0X3NOM2JvZ1JHNVR5MkxtaHJQc0pLN1J5UG1LeXNjRnp5aWJnaTkyQnV6NzRkT29GVnVKeUFfMF9HWFJzbnF0V01Qck92d2JwMU83SnlVUFJvdWRYSk9kbkg1Zi1RNFlEYmgxSXZKcjhMaVJmMUtiV2hpd1JjcWRMeEczSVBrcGY4WENha1NUWGpFWTk2QWEwa0QtMmNGdUd4ZUdYNVIzVG5vY09YYkYtdkVPWGc5NFNnbFNTbk9qT3NyTlNmX2xqSWZrX0NhN0tjNmIyd1hUOVk3Q2N6X0hKMXZILWZRM21TU2wtLXpjTC1NN2MxMkZNMXJnZV8?oc=5",
       "data": "07/11 17:25"
     },
     {
-      "titulo": "Atuações do Fluminense: Lucho Acosta, Canobbio e Savarino são os melhores em vitória; dê suas notas - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2M2OE5NWW00alQzbnVLT3NxekVKUUNlR1RPb2VvLXZtWlNOR05rM1NZaXZFdkZ4eVNmdWNmUXVVdFE5TEVOYTNsSENJYlhienk1YzRyQUo3VmVmN09BU1Y2TElsWkZtQ0F3aFVaSE1PZVJXQTVfM1hmc2Zha1kteVBaaGhqbXRVTGxNVVl1emNnQTB3eDZqN3ZoaFk2ZkYycWhOSXdZMW5MU2U1ai1sMTVuTEZvTXZteFBrUURHcFdqT2pTNWVfVGJUYXhaZlFaQ0R2Rms1dkJDbHU3VFJMSXZvY29Fb2tQVm9UdUFFcUdIaHPSAYICQVVfeXFMTnhpUUFzbGhYeUNoR2h3Z2xtTjBEdVhBSVZ3WDRSTVg5dzBZN09PbDRhb21vaVZzWGc5dXl5Y0hMRkhtZ2E1bU83RE5kVTdJSGZCT2V6REhsVm1rWGtDdFZ5ZjhoSXpxUURWcGNpMlpSR0JfLVRuanF2TzNCY1MtaVNOcHJkNndXRzdaRXR4eVNhUmJ5dlNUVlppbVc1Y01tUEJKOWZGWjlsX0duc3hhWERyclNTU1loLWhRd3lteE1sTG5Jb19ZQnNyVVM2TVE4U1JaY05wX3Z0elhQRFp4WjNKMEFobHpEZ2piT3NfaHRiZDh3RWVrb3RGdVVzak80dENB?oc=5",
-      "data": "07/11 01:01"
+      "titulo": "Fluminense goleia o Araruama pelo Carioca Feminino - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWRST1dDYzFrRHdvYnAxX1lYalI0cUphTFpjZ01EekhCRjRUWDFHMFNSZFprbGhWVTUyWHRELUlleThSSnNHVjFGUkNYd3ZiQkhHR20yOXNveV9NOTMzV0JLbzcydTNqdTNrOHQwWDhqcmtLR25makVHMEEyczJTeHljRTkxZmNFaUlnVWJmemJYdw?oc=5",
+      "data": "07/11 20:44"
+    },
+    {
+      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXU0QlJ5ZlRHbkJKOFpXM3JmRndDa2VnQXdOZlRxOEZITXdiZDBRbkxhQk9WZXNHWkRKSy13ZkR1b2VFV3pmUC1UdXlPLVYyVnRrTkFoM05ON1JwTjBiSDZseVlJSlF6aGg4bVdjdEs0cVhtNERqSWtGTHdNY0hqQmRkTjJwYVYzUlFCRVc3R2t1d2g4aEpCdHBwQmdqUUk4UnBnNnk1X01mS2RMVGhLaUc3UGZRczQxRm8yczJPRkY5RHhWejRxQlpxaERhV3BtSzdBelhpZ9IB5gFBVV95cUxNOUhoWlplRUJLaUMwSTRPWlprTFpfNXh3empfYTVSeUVXd3VZS29CWU5nbTRrbnJpNFhPamppZGFoQXozdUxidGs1TmFTem9pZGtCV1FvVmNBdjBrMnZuVlNxZjk4Mkd4R3Vyc2FueUw2NU83VDVXVE1pZm00LWlQRW13b1NKQTNkUUFaVWladjNKZWtheEdXZ1o1RDhmNjBxTERtUlhLU0RFR1F4Mkg4QWVaOXVCeTk4OGY1MV9XcHQ3TGtDSV9fS2cwT3dlMFhLdHIyNGdBTmh6dWM5em15aG9MUXNfQQ?oc=5",
+      "data": "06/11 06:00"
     },
     {
       "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
