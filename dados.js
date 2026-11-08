@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/11/2026 01:05",
+  "atualizado_em": "08/11/2026 08:39",
   "jogos": [
     {
       "sport": "futebol",
@@ -1182,29 +1182,29 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.8,
-      "temp_min": 19.2,
-      "chance_chuva": 97,
+      "temp_max": 26.2,
+      "temp_min": 19.0,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.7,
-      "temp_min": 20.0,
+      "temp_max": 26.1,
+      "temp_min": 20.1,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.1,
-      "temp_min": 15.3,
+      "temp_max": 22.5,
+      "temp_min": 15.2,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 19.7,
-      "temp_min": 13.0,
+      "temp_max": 20.8,
+      "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
@@ -1216,9 +1216,9 @@ window.PAINEL_DATA = {
       "data": "07/11 01:57"
     },
     {
-      "titulo": "Coração dividido? Luiz Henrique cita relação de infância com Fluminense e carinho pelo Botafogo - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY09fQWNJSDhtRVhiWUNEX29qTTh2Q3NQalc4UXZEV0tYRmY3X0JOSnY1Rmlib1FITUozNEQtc2l2bGswQ0VsY25hb1Z5OTRmcjYya01oODk2U01vX1BldHFhUWViYXJBcDU0cnBidVdmaHpfMkdkZlh2UXBCb002VThwVF9KcXdhcTh1MnY3MVlvcm11VVFRTE9XWUU0cy1qSlpIUmllZjdWeUprbVo3dkhKbDA2VTlsR2JMb3lBTTZWR0dzTWE1ekFrSVE3U296dVpJalJKeVA3anhnZ3N0eVpRMlNhRVR6MDQwSWNIb0ZwTWNoUHfSAYQCQVVfeXFMTlRES1gyelY0X3NOM2JvZ1JHNVR5MkxtaHJQc0pLN1J5UG1LeXNjRnp5aWJnaTkyQnV6NzRkT29GVnVKeUFfMF9HWFJzbnF0V01Qck92d2JwMU83SnlVUFJvdWRYSk9kbkg1Zi1RNFlEYmgxSXZKcjhMaVJmMUtiV2hpd1JjcWRMeEczSVBrcGY4WENha1NUWGpFWTk2QWEwa0QtMmNGdUd4ZUdYNVIzVG5vY09YYkYtdkVPWGc5NFNnbFNTbk9qT3NyTlNmX2xqSWZrX0NhN0tjNmIyd1hUOVk3Q2N6X0hKMXZILWZRM21TU2wtLXpjTC1NN2MxMkZNMXJnZV8?oc=5",
-      "data": "07/11 17:25"
+      "titulo": "Atuações do Fluminense: Lucho Acosta, Canobbio e Savarino são os melhores em vitória; dê suas notas - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2M2OE5NWW00alQzbnVLT3NxekVKUUNlR1RPb2VvLXZtWlNOR05rM1NZaXZFdkZ4eVNmdWNmUXVVdFE5TEVOYTNsSENJYlhienk1YzRyQUo3VmVmN09BU1Y2TElsWkZtQ0F3aFVaSE1PZVJXQTVfM1hmc2Zha1kteVBaaGhqbXRVTGxNVVl1emNnQTB3eDZqN3ZoaFk2ZkYycWhOSXdZMW5MU2U1ai1sMTVuTEZvTXZteFBrUURHcFdqT2pTNWVfVGJUYXhaZlFaQ0R2Rms1dkJDbHU3VFJMSXZvY29Fb2tQVm9UdUFFcUdIaHPSAYICQVVfeXFMTnhpUUFzbGhYeUNoR2h3Z2xtTjBEdVhBSVZ3WDRSTVg5dzBZN09PbDRhb21vaVZzWGc5dXl5Y0hMRkhtZ2E1bU83RE5kVTdJSGZCT2V6REhsVm1rWGtDdFZ5ZjhoSXpxUURWcGNpMlpSR0JfLVRuanF2TzNCY1MtaVNOcHJkNndXRzdaRXR4eVNhUmJ5dlNUVlppbVc1Y01tUEJKOWZGWjlsX0duc3hhWERyclNTU1loLWhRd3lteE1sTG5Jb19ZQnNyVVM2TVE4U1JaY05wX3Z0elhQRFp4WjNKMEFobHpEZ2piT3NfaHRiZDh3RWVrb3RGdVVzak80dENB?oc=5",
+      "data": "07/11 01:01"
     },
     {
       "titulo": "Fluminense goleia o Araruama pelo Carioca Feminino - Fluminense Football Club",
@@ -1226,14 +1226,14 @@ window.PAINEL_DATA = {
       "data": "07/11 20:44"
     },
     {
-      "titulo": "Vitória x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRXU0QlJ5ZlRHbkJKOFpXM3JmRndDa2VnQXdOZlRxOEZITXdiZDBRbkxhQk9WZXNHWkRKSy13ZkR1b2VFV3pmUC1UdXlPLVYyVnRrTkFoM05ON1JwTjBiSDZseVlJSlF6aGg4bVdjdEs0cVhtNERqSWtGTHdNY0hqQmRkTjJwYVYzUlFCRVc3R2t1d2g4aEpCdHBwQmdqUUk4UnBnNnk1X01mS2RMVGhLaUc3UGZRczQxRm8yczJPRkY5RHhWejRxQlpxaERhV3BtSzdBelhpZ9IB5gFBVV95cUxNOUhoWlplRUJLaUMwSTRPWlprTFpfNXh3empfYTVSeUVXd3VZS29CWU5nbTRrbnJpNFhPamppZGFoQXozdUxidGs1TmFTem9pZGtCV1FvVmNBdjBrMnZuVlNxZjk4Mkd4R3Vyc2FueUw2NU83VDVXVE1pZm00LWlQRW13b1NKQTNkUUFaVWladjNKZWtheEdXZ1o1RDhmNjBxTERtUlhLU0RFR1F4Mkg4QWVaOXVCeTk4OGY1MV9XcHQ3TGtDSV9fS2cwT3dlMFhLdHIyNGdBTmh6dWM5em15aG9MUXNfQQ?oc=5",
-      "data": "06/11 06:00"
-    },
-    {
       "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
       "data": "07/11 14:17"
+    },
+    {
+      "titulo": "Câmara do Rio debate venda de potencial construtivo do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQejRrOGZzTFVCdzdkZW9KV2VEektEOFdsS3J4UTkzYkFxWVRrU2Q5cHhtR2NXQ1Vqbkl3U0NNZlZnY0MwWU1pcDBYTGtYdTdyaVhJVTd6R2NFWE5CNFdSd3RncVFDUV9EeW5Ld1Ywbjd3T3NacW5sbFZoUlJDNXVLWU9CVC0xcG4wcDJ6RlJxd2dyZ1BXVDRCUjJlX1FtUGN1VXJRTVRCRjlrYUJoTDJFTHRUQTlwVTdfeXc4aS1yT0Vvc1hYQnQ5eVFXZXRFeFhaMktaZVRkaDBjd1lxSDBreV9Rd3dHSkVtNThwXw?oc=5",
+      "data": "05/11 23:16"
     }
   ],
   "avisos": [
