@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "08/11/2026 08:39",
+  "atualizado_em": "08/11/2026 14:31",
   "jogos": [
     {
       "sport": "futebol",
@@ -1182,28 +1182,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.2,
-      "temp_min": 19.0,
+      "temp_max": 26.3,
+      "temp_min": 19.2,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.1,
+      "temp_max": 25.7,
       "temp_min": 20.1,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.5,
-      "temp_min": 15.2,
+      "temp_max": 22.6,
+      "temp_min": 15.1,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.8,
+      "temp_max": 20.2,
       "temp_min": 13.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -1211,29 +1211,29 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Marcão reforça desejo de seguir no Fluminense: “Estou muito disposto a trabalhar” - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU194VjVsUks5VnZnR2s0bG1KYTVlVnlGTUJLMTZGdGFKMTVSSkRMRjZOTDJXS1BZbEctc0xSOU5HSzZybDZvM3Jjcmd5a3ZQeFRGeEk1VWRBaFVhSkp2emtjVENKLU5ScTI0Ni1IZGhVTHA1eGVCSnhQSFdmc3h6MjJpZTRzazJGa3dla2lORzdoc0dveUp3QnBZb1I3N0cwQ1U2YUZTYng?oc=5",
-      "data": "07/11 01:57"
+      "titulo": "Fluminense bate o Paineiras e chega a oito vitórias seguidas na Liga Nacional de Polo Aquático - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQkY4azBlSzhuMXlGTFYwVWl4c29LOGRKNW1pWDJyS1hUT2dzb1ZYdlVvdFB0NnJoRWk4dGU2N2ozTC1LbmpQdVhSNUdFR21teWswVWYtdmVNb3M0Y3VFNmxaZE1zM1ZjbGgySVFZN2JsemdrNHNVdzctMk55N2NCb2wzX2o3cXNsUHljWkV0bWw5ZVVQNGhEeVhZNW1pMXItakJyT1VfcWRmel9Sci0yVk5mNmQyTENBYk9nLUZVWHdVTFNwWXE4X1RPME8?oc=5",
+      "data": "08/11 16:08"
     },
     {
-      "titulo": "Atuações do Fluminense: Lucho Acosta, Canobbio e Savarino são os melhores em vitória; dê suas notas - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2M2OE5NWW00alQzbnVLT3NxekVKUUNlR1RPb2VvLXZtWlNOR05rM1NZaXZFdkZ4eVNmdWNmUXVVdFE5TEVOYTNsSENJYlhienk1YzRyQUo3VmVmN09BU1Y2TElsWkZtQ0F3aFVaSE1PZVJXQTVfM1hmc2Zha1kteVBaaGhqbXRVTGxNVVl1emNnQTB3eDZqN3ZoaFk2ZkYycWhOSXdZMW5MU2U1ai1sMTVuTEZvTXZteFBrUURHcFdqT2pTNWVfVGJUYXhaZlFaQ0R2Rms1dkJDbHU3VFJMSXZvY29Fb2tQVm9UdUFFcUdIaHPSAYICQVVfeXFMTnhpUUFzbGhYeUNoR2h3Z2xtTjBEdVhBSVZ3WDRSTVg5dzBZN09PbDRhb21vaVZzWGc5dXl5Y0hMRkhtZ2E1bU83RE5kVTdJSGZCT2V6REhsVm1rWGtDdFZ5ZjhoSXpxUURWcGNpMlpSR0JfLVRuanF2TzNCY1MtaVNOcHJkNndXRzdaRXR4eVNhUmJ5dlNUVlppbVc1Y01tUEJKOWZGWjlsX0duc3hhWERyclNTU1loLWhRd3lteE1sTG5Jb19ZQnNyVVM2TVE4U1JaY05wX3Z0elhQRFp4WjNKMEFobHpEZ2piT3NfaHRiZDh3RWVrb3RGdVVzak80dENB?oc=5",
-      "data": "07/11 01:01"
+      "titulo": "Luiz Henrique reforça amor pelo Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFptMHRPVkxqRlNXYlVNN2pXSlRDLW9xOXRsRmhwc3lQUTBDSVhybjdWaTJDc3hFN3ZJY0liWUlDQjhIbEhIOUU3ZjJtWnVicGNVWHpQUXlmbkcyaTRnSWtJWVdNSkJmS19EMWt4cVVZSU5YQzF4dTE5QUVydy1BUm55VHVGdS1uRU42LXNUaTVySnhndU1FdGVhMDY1VnE5alE?oc=5",
+      "data": "08/11 12:48"
     },
     {
-      "titulo": "Fluminense goleia o Araruama pelo Carioca Feminino - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWRST1dDYzFrRHdvYnAxX1lYalI0cUphTFpjZ01EekhCRjRUWDFHMFNSZFprbGhWVTUyWHRELUlleThSSnNHVjFGUkNYd3ZiQkhHR20yOXNveV9NOTMzV0JLbzcydTNqdTNrOHQwWDhqcmtLR25makVHMEEyczJTeHljRTkxZmNFaUlnVWJmemJYdw?oc=5",
-      "data": "07/11 20:44"
+      "titulo": "Libertadores e Thiago Silva pesam para permanência de Marcão no Fluminense em 2027 - Extra online",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcjFlbzM4LVFhZkNoNlNiNU8wbmhzRXB6RklqSlZtMi1WUjFzQ3RVOGVEekJkbk9nLVFXSmFrVW9zWnJIY0NTSkpFQ29lM0dhVFhiYkF1andvYW1NZEU2WHMyNldra2RCUlRpMUdDV0hfUHhrYUNsMTdVN25WRWdGQklrOHpfTU5kMEhhbERkcm4zY3Npd29Md0U0UVFUV095Q3BtWkRpZVhhODA2N1cwYUhudF9vbW1DMnJId2ZucnNpY2tUbmNaNEM1aEtEX3QtSGI0MWtQQkl2clQyak5nNdIB7wFBVV95cUxQalgzbzJWWGFuTDdqbXBBRzhyYjZkVWJrYlZlbHZIRTlDTTNLengyNDR6d1lzX0ZnZnhGRkdDeTNCLUFxU2hMREFENF9Bai1BOVM3dGo5aFNiaUNqeVplYkp3d2QtcTVGLWl2bXpwV3dJOXJWOTMtMUtDQUp6a1NTN3dtajM0T3FYR1V1LVFjY0dpQms2b2VqVnFoRW9nZlJ6b0pyaGkwTFowc1daaW1PejI4WkZKS3ZlZnltNE9abWoyYlpmNF9CbVdSc2x4WTNXN3BoNkNVcTBrcTZFbDNnT3k4XzhKazkyYXFZRXU3bw?oc=5",
+      "data": "08/11 08:00"
+    },
+    {
+      "titulo": "Fluminense bate o Vitória e facilita vida do Corinthians na briga contra o Z-4 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDl3UHplZTVxNVVQeVdkZnMweVhoZXY4R2lnbndOTHowaHBMeGtZdW1ZRU15TjJ2d2Uya2R4SG5fZVJiM2RQZWFiMEhJMWFTVTRYcjhOanNOLVRqcExiR1lFTnI5VktiMkdrdEdFcVlWZjdQcXplTkdHVXpuTTF5azZ3d2RPOW1TODBxVzZ4cUszMGt1WnRPM0E3SjB0ckhyWGJvWVQydWNTdEZSUW5uRmFzeUlCYnN5UTQxVkVIa1lvRlEtcEZYSUYyZE94TDBROFd6cXNWeFpBcDRCLVRtekJfUmhySmxzMUo2MmxfbWR3VkRpNWxQSHZ3?oc=5",
+      "data": "07/11 01:31"
     },
     {
       "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
       "data": "07/11 14:17"
-    },
-    {
-      "titulo": "Câmara do Rio debate venda de potencial construtivo do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQejRrOGZzTFVCdzdkZW9KV2VEektEOFdsS3J4UTkzYkFxWVRrU2Q5cHhtR2NXQ1Vqbkl3U0NNZlZnY0MwWU1pcDBYTGtYdTdyaVhJVTd6R2NFWE5CNFdSd3RncVFDUV9EeW5Ld1Ywbjd3T3NacW5sbFZoUlJDNXVLWU9CVC0xcG4wcDJ6RlJxd2dyZ1BXVDRCUjJlX1FtUGN1VXJRTVRCRjlrYUJoTDJFTHRUQTlwVTdfeXc4aS1yT0Vvc1hYQnQ5eVFXZXRFeFhaMktaZVRkaDBjd1lxSDBreV9Rd3dHSkVtNThwXw?oc=5",
-      "data": "05/11 23:16"
     }
   ],
   "avisos": [
