@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/11/2026 18:37",
+  "atualizado_em": "08/11/2026 22:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -1185,12 +1185,12 @@
       "temp_max": 26.3,
       "temp_min": 19.3,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Araruama",
       "temp_max": 25.7,
-      "temp_min": 20.3,
+      "temp_min": 19.7,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
@@ -1211,14 +1211,14 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense bate o Vitória e facilita vida do Corinthians na briga contra o Z-4 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDl3UHplZTVxNVVQeVdkZnMweVhoZXY4R2lnbndOTHowaHBMeGtZdW1ZRU15TjJ2d2Uya2R4SG5fZVJiM2RQZWFiMEhJMWFTVTRYcjhOanNOLVRqcExiR1lFTnI5VktiMkdrdEdFcVlWZjdQcXplTkdHVXpuTTF5azZ3d2RPOW1TODBxVzZ4cUszMGt1WnRPM0E3SjB0ckhyWGJvWVQydWNTdEZSUW5uRmFzeUlCYnN5UTQxVkVIa1lvRlEtcEZYSUYyZE94TDBROFd6cXNWeFpBcDRCLVRtekJfUmhySmxzMUo2MmxfbWR3VkRpNWxQSHZ3?oc=5",
-      "data": "07/11 01:31"
+      "titulo": "Reta final do Fluminense no Brasileirão: veja os jogos - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd25PWTh4NVY5VU9RdTRIU3EzWXg2VTdzV0ZCRmZvS2JISExiMGN2ckdBbi1wZm1mR2FoZjhwSUlRUXlEMEdrbEJJc3BpVDJOUlA1YkNfMWxlX19OS2pXNFE3aWlrU3JSUnRaYTg5dkJ1RWxXZHN6N0xkLU5EcFlseFFFZUYxOERpNm1pX3E5Xy1DZklJZFdKSlNGSnJjSnpCYWhZMjV4c21XRFFjQ2tJNm9hUXU5YmJ4cXNRalhZcjlCQlZOdUxoYVhWYndaRk1M?oc=5",
+      "data": "07/11 15:35"
     },
     {
-      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
-      "data": "08/11 20:03"
+      "titulo": "Jogadores fazem campanha nas redes para que Thiago Silva permaneça no Fluminense em 2027 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU280eG1rWDB3cTUtNkFVdkNrQjFBTUs4ZHNUZ3FteTJSWUV6WlV2YjR0ZVJ4UlhQY08xMDRyYlozR1RTck5tUmJUdjg2bWcxNkVmMFIwYjlTM2ZlQUpqMzM5Zlowai1CSVBiaWJJTW5aT2FMVXRVVTFDSzI5V0k1bGF3SGlMSzUzT3h2clJGRXBFb0tLRl90WGI0Qlgxd2xKeng0LVJ1OVlrUG1Sbl9uVTdDMXdIUktLUndrajdfaXlrcVk4dnBaUVVrQm9sa0pIOV9pMVJaeEhxRV9ZNEt6ZUs4Uld4aTNXQkowbkF2N0RIR1JkVmd1VFZoVFRLbEhjY3lDOXJxcDlKaXc?oc=5",
+      "data": "09/11 00:42"
     },
     {
       "titulo": "Fluminense busca vaga na final do Torneio Guilherme Embry Sub-16 nesta segunda - Fluminense Football Club",
@@ -1226,14 +1226,14 @@
       "data": "08/11 21:00"
     },
     {
-      "titulo": "Com Fred, sub-20 do Fluminense vive maior invencibilidade em 12 anos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXpYTk5VRXZlbE9jeUl6cm82d3k5YVgyQXhoMmw5eFNIUDVFN1huNFI0RE00MzhWMDBKM2IxdjA0MGhIUVdpdzdEY3Z4Y3padmtqcmVEMnNXdExxLVY1WHVxRlg5SDRfbEVhSy1XSWs4aHVxUkc0Wm1oMEdtX0NUOG9ES3c1anFkNUUwMjFERXBNV2Z0U0lmaER3?oc=5",
-      "data": "08/11 17:56"
-    },
-    {
       "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
       "data": "07/11 14:17"
+    },
+    {
+      "titulo": "Lucho Acosta volta a responder bem e justifica oportunidade entre os titulares do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcHlvRklIUHdORFM3MHdqeGhUa0h1cTVqTkFwaUUwalFmMjZVOFZzekxYR1NpOWZldk1nX2dGbUptS1lkcFczaGstWjhaOWRBdEZXcWRFb2tRcXNqMjJIaENOcE54bURZWXhLdTFaWWx2SVA2cFhIazUxZ19PT0d3YXZDbHoxVXdIRExyU0IxcXZiWm5Qc3hDWm5hb3VaSTNxVS0tWFVFQ1VoTV8yY3RzSm9wVTNCa0poSjM2c3d0dGNuUTV2QUpFR0R5Y2NwSzR6aWk1dERNNlBCUm50bEZjWW9jQ1A1SndoXzZsMkxUbF94c0ZabHfSAYQCQVVfeXFMT2ctRVl6OG0wSWFZWm1jSHNnTDBxeHhHMXV3dE56OFE0ekNUOV9YODdLdDlSSGlXMDQtYy1qVzliT1BVRlNWRzUySWMwWDRraDB3OHlVd3ZRRHo2VjU4cUF0THl5UlBqN0dXbXUzM3BEcWNfWnF3cmxCVUlBNzdXWjZ0eHRRd25aXy1RdjNSMHp5NWhOTXBOd0lDLW5ZU0hXWFBkQXozVEg2Z0IwUW1LNzNxNGVPZ3lDWHFRZHRlYVFrS0hhUDhBa2NNak5iTkpNSjlwX0lpOEtUZGduRDZpXzczTTRiYnMtc0x2Z2txckVPXzN2WWhTQ3U5b1ZVcW1GbEF3NGQ?oc=5",
+      "data": "08/11 07:00"
     }
   ],
   "avisos": [
