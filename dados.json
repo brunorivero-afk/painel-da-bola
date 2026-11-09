@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "09/11/2026 05:59",
+  "atualizado_em": "09/11/2026 16:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -1182,58 +1182,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.0,
+      "temp_max": 22.1,
       "temp_min": 18.6,
-      "chance_chuva": 99,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.4,
+      "temp_max": 22.2,
       "temp_min": 19.1,
-      "chance_chuva": 100,
+      "chance_chuva": 97,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.6,
-      "temp_min": 14.3,
+      "temp_max": 17.0,
+      "temp_min": 14.2,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 14.0,
-      "temp_min": 12.4,
+      "temp_max": 13.9,
+      "temp_min": 12.5,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Luiz Henrique reforça amor pelo Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFptMHRPVkxqRlNXYlVNN2pXSlRDLW9xOXRsRmhwc3lQUTBDSVhybjdWaTJDc3hFN3ZJY0liWUlDQjhIbEhIOUU3ZjJtWnVicGNVWHpQUXlmbkcyaTRnSWtJWVdNSkJmS19EMWt4cVVZSU5YQzF4dTE5QUVydy1BUm55VHVGdS1uRU42LXNUaTVySnhndU1FdGVhMDY1VnE5alE?oc=5",
-      "data": "08/11 20:05"
+      "titulo": "Fluminense deixa Flamengo para trás e alcança posição de destaque em ranking sul-americano - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2JjVHl3d3lLWkp5TzVWNE05QjVVaERuaGpmWElXLTdlczUtd3Q3NGZPRU1ZWnpYLXZRb2oyVTZlMkdSLVFfQ1BCWVBSSjZvTWU5cTJHUm43SDJDQTM2MXVFNmRMV1B6NzE1YmRWbXZaNUs3RTh0YUd5SDJKLWhQMkdJSl80LXhPVDMzaEpVVG51enloV1NHX0tZcXR1VWJOVkVQNGwtVFNDUENYNmpxQzVBSmVfTUlu?oc=5",
+      "data": "09/11 14:07"
     },
     {
-      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
-      "data": "08/11 20:03"
+      "titulo": "Phill elogia Canobbio no Fluminense: \"Não abriria mão de ter no elenco\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzhGanMySGxCY1NSZ01jamh3RDBiRkR4YWlmQXJHdmE1eXpWR2RLelB1MlRFZVlYTW9HUl9TNFZWWWNOUnhyNG1RcmRoYUNjWXBBR3p6MHN1djB2ZGFjOEU1Qm5mM19aWVNhM2RjbnZGYjdmVGtMUGVXeUJPMFZmSnlCNXkwU2E0UDJmZkJ6TGM0R0gtTXRReGRqWkNSY2d4dmZ6R2p0STgzRWNIWW4xWGxvVXl3Qm5YRm84bDdlN3JTbHE5d3JyZ3JqQkR1UUZL0gHfAUFVX3lxTE5DOXVDcFdMRm9UR2Q4NTBhYXE2aDNRZGRBN01SNU1wU3JubEU2NEJhY0NzYnhCT3h1blN1MUVqYTVxeS1YVF9zRzBnRWtOM3BKTG41Nm1YWE1Lb2FmcDA5dDd0RWNtbXFvOWdTVGx6OVRRVkRYRWRJOGlibW03Q3Z1WXNhSUpsV0ZoQnBCTDU4dGZCTXpTNDR6Y0lXLVJyTXlyQWlKSTY0QmhRRkk5a08wenZSYjIwR1gtN1NJekFTUHhQQXBPUFZIU3dOYUdSTFliZDhmWDJBLVhNUmRacmc?oc=5",
+      "data": "09/11 14:59"
     },
     {
-      "titulo": "Fluminense busca vaga na final do Torneio Guilherme Embry Sub-16 nesta segunda - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzFDNkR2QlMwS0puaWRmbTBWVldRbGx2NzJHaklDMmFzNzhEX3UtVXJTeFdtTmE3VlVJbGFJQ3FWX1ZMVDdpRVBBa2g4VW1hemd3MlJpYnMxTWZxYVNiRktnY2tyVXpDOUo5YWd0NVNDS1JaWEQtSFNzZnN4ZHNVS3hJeXlSUTU2SllVZDNHS2lPMk1xVEFoQ0J5bEJlVmdFS3ZtVFhsZlFNLWtKX1pZQnVEWHgwLUE?oc=5",
-      "data": "08/11 21:00"
+      "titulo": "Ex-Cruzeiro bate recorde de ídolo histórico do Fluminense no Brasileiro - No Ataque",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUVZlcVZmQWN4TTRwVXFYRWwyM3dEVzRwWDRKUmh6UmlNMlpzZGMtR0VMRDllWm8wMGc4MnZqZUdzRWM4cU51NWRWdVU0Z05FVkVWQXBNenkyQklWcmEwLXZNNVdPTm82MjRMdXpSNlN1eVFuNmZ0SUpSdFlyX0lVTi15NGhiR04tTUNpTFd2dFlpZHYxblljT09URVRaYVVpOVNYNnQ4OU13bmpoaGFnV05RVFFLVU5JT2EwRU50eEc2a2VUUnpZbVp3ZWlpRkhCUWVwM3E4djRURU5aeGQ0NjFDbDVjNExWZWZEdG1oVWM?oc=5",
+      "data": "09/11 14:59"
     },
     {
-      "titulo": "Lucho Acosta volta a responder bem e justifica oportunidade entre os titulares do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcHlvRklIUHdORFM3MHdqeGhUa0h1cTVqTkFwaUUwalFmMjZVOFZzekxYR1NpOWZldk1nX2dGbUptS1lkcFczaGstWjhaOWRBdEZXcWRFb2tRcXNqMjJIaENOcE54bURZWXhLdTFaWWx2SVA2cFhIazUxZ19PT0d3YXZDbHoxVXdIRExyU0IxcXZiWm5Qc3hDWm5hb3VaSTNxVS0tWFVFQ1VoTV8yY3RzSm9wVTNCa0poSjM2c3d0dGNuUTV2QUpFR0R5Y2NwSzR6aWk1dERNNlBCUm50bEZjWW9jQ1A1SndoXzZsMkxUbF94c0ZabHfSAYQCQVVfeXFMT2ctRVl6OG0wSWFZWm1jSHNnTDBxeHhHMXV3dE56OFE0ekNUOV9YODdLdDlSSGlXMDQtYy1qVzliT1BVRlNWRzUySWMwWDRraDB3OHlVd3ZRRHo2VjU4cUF0THl5UlBqN0dXbXUzM3BEcWNfWnF3cmxCVUlBNzdXWjZ0eHRRd25aXy1RdjNSMHp5NWhOTXBOd0lDLW5ZU0hXWFBkQXozVEg2Z0IwUW1LNzNxNGVPZ3lDWHFRZHRlYVFrS0hhUDhBa2NNak5iTkpNSjlwX0lpOEtUZGduRDZpXzczTTRiYnMtc0x2Z2txckVPXzN2WWhTQ3U5b1ZVcW1GbEF3NGQ?oc=5",
-      "data": "08/11 07:00"
+      "titulo": "Fábio supera Diego Cavalieri no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2VvQWh4MV8xN1d0YkhQUWxad3U2cS1VbGc4TmR2OEZzQ1BybU5UMXNUdVdQVXJSbEZpV08yTlRVTFpsOUdtSGdUUzZSSXctb2lXS0wzamE1dFBCX3VGZzdpazl2TEZnLXZ0NWxJYUVzRm5fLXY3S1NZY0MtTUEyRmZiZFY2TFBQVDZHSVhNbGtQdFBlWThwUUxTQXpwdTNfWXVIMFhpTl9MNUJ2U0YwOEdJaGtCU2NIMG4wN0wtVlFKUE84Z1ZSQ2hmRmVFdw?oc=5",
+      "data": "09/11 19:15"
     },
     {
-      "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
-      "data": "07/11 14:17"
+      "titulo": "Fábio atinge mais uma marca importante pelo Fluminense no Brasileiro - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjV4aUFNQ056MU03MTVxS3VHSURZZjV6bWh4MTF0eU5pN2NaYlhYQ0pGdy12QWF4N0FFNmxpYk01WWdOU0VsbDY0RXh5d2hvV2VPUnlwWkJPUk1xamdndU11dEFzdzhPTVVMSjh5MkFMMjBsYzB5akRfRVR2bEd2dlJocThwcUxSaWJiRFZrNVNRUWF2UjN0Ty1mOTdtcldrM2V1N3IxdE9qNTNRdzlvb0thTnIybWJkSUowYWpfVmxKVWwydzNlalZ4S3hMUDFrQWJGX256UjlXVDNJT1ZZaE5UUXlzM3FCYmhSMllQOA?oc=5",
+      "data": "09/11 17:27"
     }
   ],
   "avisos": [
