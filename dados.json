@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "08/11/2026 22:23",
+  "atualizado_em": "09/11/2026 05:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Sesi-bauru",
@@ -1140,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Norde Vôlei x Cruzeiro",
@@ -1150,7 +1150,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Goiás",
@@ -1160,7 +1160,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Guarulhos",
@@ -1170,7 +1170,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Mackenzie x Minas",
@@ -1182,43 +1182,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.3,
-      "temp_min": 19.3,
-      "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "temp_max": 22.0,
+      "temp_min": 18.6,
+      "chance_chuva": 99,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.7,
-      "temp_min": 19.7,
+      "temp_max": 22.4,
+      "temp_min": 19.1,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.6,
-      "temp_min": 14.9,
+      "temp_max": 17.6,
+      "temp_min": 14.3,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.2,
-      "temp_min": 13.1,
+      "temp_max": 14.0,
+      "temp_min": 12.4,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Reta final do Fluminense no Brasileirão: veja os jogos - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd25PWTh4NVY5VU9RdTRIU3EzWXg2VTdzV0ZCRmZvS2JISExiMGN2ckdBbi1wZm1mR2FoZjhwSUlRUXlEMEdrbEJJc3BpVDJOUlA1YkNfMWxlX19OS2pXNFE3aWlrU3JSUnRaYTg5dkJ1RWxXZHN6N0xkLU5EcFlseFFFZUYxOERpNm1pX3E5Xy1DZklJZFdKSlNGSnJjSnpCYWhZMjV4c21XRFFjQ2tJNm9hUXU5YmJ4cXNRalhZcjlCQlZOdUxoYVhWYndaRk1M?oc=5",
-      "data": "07/11 15:35"
+      "titulo": "Luiz Henrique reforça amor pelo Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFptMHRPVkxqRlNXYlVNN2pXSlRDLW9xOXRsRmhwc3lQUTBDSVhybjdWaTJDc3hFN3ZJY0liWUlDQjhIbEhIOUU3ZjJtWnVicGNVWHpQUXlmbkcyaTRnSWtJWVdNSkJmS19EMWt4cVVZSU5YQzF4dTE5QUVydy1BUm55VHVGdS1uRU42LXNUaTVySnhndU1FdGVhMDY1VnE5alE?oc=5",
+      "data": "08/11 20:05"
     },
     {
-      "titulo": "Jogadores fazem campanha nas redes para que Thiago Silva permaneça no Fluminense em 2027 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNU280eG1rWDB3cTUtNkFVdkNrQjFBTUs4ZHNUZ3FteTJSWUV6WlV2YjR0ZVJ4UlhQY08xMDRyYlozR1RTck5tUmJUdjg2bWcxNkVmMFIwYjlTM2ZlQUpqMzM5Zlowai1CSVBiaWJJTW5aT2FMVXRVVTFDSzI5V0k1bGF3SGlMSzUzT3h2clJGRXBFb0tLRl90WGI0Qlgxd2xKeng0LVJ1OVlrUG1Sbl9uVTdDMXdIUktLUndrajdfaXlrcVk4dnBaUVVrQm9sa0pIOV9pMVJaeEhxRV9ZNEt6ZUs4Uld4aTNXQkowbkF2N0RIR1JkVmd1VFZoVFRLbEhjY3lDOXJxcDlKaXc?oc=5",
-      "data": "09/11 00:42"
+      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
+      "data": "08/11 20:03"
     },
     {
       "titulo": "Fluminense busca vaga na final do Torneio Guilherme Embry Sub-16 nesta segunda - Fluminense Football Club",
@@ -1226,14 +1226,14 @@
       "data": "08/11 21:00"
     },
     {
-      "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
-      "data": "07/11 14:17"
-    },
-    {
       "titulo": "Lucho Acosta volta a responder bem e justifica oportunidade entre os titulares do Fluminense - ge",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcHlvRklIUHdORFM3MHdqeGhUa0h1cTVqTkFwaUUwalFmMjZVOFZzekxYR1NpOWZldk1nX2dGbUptS1lkcFczaGstWjhaOWRBdEZXcWRFb2tRcXNqMjJIaENOcE54bURZWXhLdTFaWWx2SVA2cFhIazUxZ19PT0d3YXZDbHoxVXdIRExyU0IxcXZiWm5Qc3hDWm5hb3VaSTNxVS0tWFVFQ1VoTV8yY3RzSm9wVTNCa0poSjM2c3d0dGNuUTV2QUpFR0R5Y2NwSzR6aWk1dERNNlBCUm50bEZjWW9jQ1A1SndoXzZsMkxUbF94c0ZabHfSAYQCQVVfeXFMT2ctRVl6OG0wSWFZWm1jSHNnTDBxeHhHMXV3dE56OFE0ekNUOV9YODdLdDlSSGlXMDQtYy1qVzliT1BVRlNWRzUySWMwWDRraDB3OHlVd3ZRRHo2VjU4cUF0THl5UlBqN0dXbXUzM3BEcWNfWnF3cmxCVUlBNzdXWjZ0eHRRd25aXy1RdjNSMHp5NWhOTXBOd0lDLW5ZU0hXWFBkQXozVEg2Z0IwUW1LNzNxNGVPZ3lDWHFRZHRlYVFrS0hhUDhBa2NNak5iTkpNSjlwX0lpOEtUZGduRDZpXzczTTRiYnMtc0x2Z2txckVPXzN2WWhTQ3U5b1ZVcW1GbEF3NGQ?oc=5",
       "data": "08/11 07:00"
+    },
+    {
+      "titulo": "Ex-Fluminense e Botafogo, Luiz Henrique revela time do coração - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnRzXzUwcVhtdjRMSFBGS2VOcEhWODhOak1ZY3dSNklkR3lyanA0YmN3djlVeEdWbjlfdXhJeHc5RXlTUS11Mng1QlJPMy1rRVJUREhBOWF0M0JKUnYyNzkzOUNaZ0ZRX2RCU1pib2RfMVAwNzFQRlZSdTZGT2d6eWZHRElfbUQtTnI1eFJ4SEZ3SU5uZ2JfTXROVUJ6eXg0TDBwSFFHYVk0aWxlX29vN0xBONIBuAFBVV95cUxQd28yYllYR3B5MEk3cHVPcXpYNXpHNkU0TUxVV0NhQXBMZjRJVDNTbVF4aTR1ckFPNnlkenhqR2FLNGt4SWRXU1RtOTRuaHRJX280dG8yeE9MaHVsOFZFSmdfN2NDQmY1dVpXQTVRbExYSnlYYVpiajZFYmVKNDQ0WGZ3dGtUYXdFTEZtc2poLUFQdjRYekc2SGxXamp1ZlVDcEotaHZMUTNNQXVUSldSVFUyS3V2cHlP?oc=5",
+      "data": "07/11 14:17"
     }
   ],
   "avisos": [
