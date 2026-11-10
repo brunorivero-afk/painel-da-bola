@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/11/2026 16:42",
+  "atualizado_em": "09/11/2026 23:30",
   "jogos": [
     {
       "sport": "futebol",
@@ -1133,16 +1133,6 @@ window.PAINEL_DATA = {
       "date": "2026-11-09",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
-      "match": "Campinas x Sesi-bauru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-09",
-      "time": "20:40",
-      "competition": "Vôlei (SporTV2)",
       "match": "Norde Vôlei x Cruzeiro",
       "channels": [
         "SporTV2"
@@ -1216,24 +1206,24 @@ window.PAINEL_DATA = {
       "data": "09/11 14:07"
     },
     {
-      "titulo": "Phill elogia Canobbio no Fluminense: \"Não abriria mão de ter no elenco\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzhGanMySGxCY1NSZ01jamh3RDBiRkR4YWlmQXJHdmE1eXpWR2RLelB1MlRFZVlYTW9HUl9TNFZWWWNOUnhyNG1RcmRoYUNjWXBBR3p6MHN1djB2ZGFjOEU1Qm5mM19aWVNhM2RjbnZGYjdmVGtMUGVXeUJPMFZmSnlCNXkwU2E0UDJmZkJ6TGM0R0gtTXRReGRqWkNSY2d4dmZ6R2p0STgzRWNIWW4xWGxvVXl3Qm5YRm84bDdlN3JTbHE5d3JyZ3JqQkR1UUZL0gHfAUFVX3lxTE5DOXVDcFdMRm9UR2Q4NTBhYXE2aDNRZGRBN01SNU1wU3JubEU2NEJhY0NzYnhCT3h1blN1MUVqYTVxeS1YVF9zRzBnRWtOM3BKTG41Nm1YWE1Lb2FmcDA5dDd0RWNtbXFvOWdTVGx6OVRRVkRYRWRJOGlibW03Q3Z1WXNhSUpsV0ZoQnBCTDU4dGZCTXpTNDR6Y0lXLVJyTXlyQWlKSTY0QmhRRkk5a08wenZSYjIwR1gtN1NJekFTUHhQQXBPUFZIU3dOYUdSTFliZDhmWDJBLVhNUmRacmc?oc=5",
-      "data": "09/11 14:59"
+      "titulo": "Fluminense contrata promessa de 16 anos para Xerém - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjBXWXBPeXdIaWFJc0h6aU1WaktxbFYzQnFpTmRRYng3UFI0bmppbkQ3YzFPOXRDX3N6NmRjemNpTW1OV1dNZTdfZzhWLVYxTWdfYlhBejJ3c3Utc1haNVJycEJ5dWdXWE1fVjMxcDRjbFdEaks2QVYycm1WQVRsS0hrZ01HMEx3Ri1ocTFuZENGcVMwYi01cEZwQXBnMS1oaHFhUzRaUWpiZTJKc0xTREhjRjJDMXQ3NnhxckxmaWx6cHA4el9xWXk2MG1xYm5MRGFmZjM5V2c?oc=5",
+      "data": "09/11 22:57"
     },
     {
-      "titulo": "Ex-Cruzeiro bate recorde de ídolo histórico do Fluminense no Brasileiro - No Ataque",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUVZlcVZmQWN4TTRwVXFYRWwyM3dEVzRwWDRKUmh6UmlNMlpzZGMtR0VMRDllWm8wMGc4MnZqZUdzRWM4cU51NWRWdVU0Z05FVkVWQXBNenkyQklWcmEwLXZNNVdPTm82MjRMdXpSNlN1eVFuNmZ0SUpSdFlyX0lVTi15NGhiR04tTUNpTFd2dFlpZHYxblljT09URVRaYVVpOVNYNnQ4OU13bmpoaGFnV05RVFFLVU5JT2EwRU50eEc2a2VUUnpZbVp3ZWlpRkhCUWVwM3E4djRURU5aeGQ0NjFDbDVjNExWZWZEdG1oVWM?oc=5",
-      "data": "09/11 14:59"
+      "titulo": "Clássico entre Fluminense e Vasco pelo Sub-16 termina em confusão - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmpkOUpPb180ektPcG1XRE9YUjdib0pfWjhmZzZldFRQYkF4aFl0aFB0XzNFZEdYZHpoUWNvWUpBd21WajFOM0MxMm84VzB1ZTZ5MW1RbjNscHdwWk5XR2M4cFVod0pJUl9hM0Z2RWhYelVFVnlHRVFBTHl2VG84aTNvWkdCYlA1eEZfbUh6eEx5SE43MDVLejVna09xN0pZa1RZektfUnlxVnQyMmVZN21pRWwyNFhH0gG-AUFVX3lxTE9wSXFlYXVtdFZNYVZQRmlHWlRzcVRaVjgzeFhuSzBmbE1Ib0pLbE1Jc2hMeU1oTFlxdGNKLU4yMkMtSnFTS3M1THdaeDU3VGxfSjE3ZjlmS1NhendkY1VoU3NwRTk3Y1AxSjBNd2xFbXJraDk3NXJrZHlHTkxmSG1HRmEwV0NMd1l6a28wMkZlYWJPV1EyZVpXUlRRekZhbkZCR1dva3l1NmZvd2l0c2JiVHJyci1UbElaZ2RaZWc?oc=5",
+      "data": "09/11 23:00"
     },
     {
-      "titulo": "Fábio supera Diego Cavalieri no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2VvQWh4MV8xN1d0YkhQUWxad3U2cS1VbGc4TmR2OEZzQ1BybU5UMXNUdVdQVXJSbEZpV08yTlRVTFpsOUdtSGdUUzZSSXctb2lXS0wzamE1dFBCX3VGZzdpazl2TEZnLXZ0NWxJYUVzRm5fLXY3S1NZY0MtTUEyRmZiZFY2TFBQVDZHSVhNbGtQdFBlWThwUUxTQXpwdTNfWXVIMFhpTl9MNUJ2U0YwOEdJaGtCU2NIMG4wN0wtVlFKUE84Z1ZSQ2hmRmVFdw?oc=5",
-      "data": "09/11 19:15"
+      "titulo": "Mário Bittencourt faz discurso para Castillo após vitória do Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkRhTTYzNURHU0RiMjFyZUpURmtPSzM5Um43MXFIR2lKX0NqN3FsU3dqdVl6bjBZc1lrdzVPUkpuWnM5NGVqdEN2MHZvMV9JNEhyWGR1YVBadjVBWDdMdkRPb0pfZjE3dnpVZm40bGhxQjhhcGoxNV9YaTlrbWRVYkpUMmNJZHJPUjlJMTRvdkdaVmxhZkx4d3hvamRnUms2UlM3ZVFwcHlSNXl1ZlEtZ3JkdWdhVWhxSGV3ejd3czJJUVZn?oc=5",
+      "data": "09/11 23:13"
     },
     {
-      "titulo": "Fábio atinge mais uma marca importante pelo Fluminense no Brasileiro - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjV4aUFNQ056MU03MTVxS3VHSURZZjV6bWh4MTF0eU5pN2NaYlhYQ0pGdy12QWF4N0FFNmxpYk01WWdOU0VsbDY0RXh5d2hvV2VPUnlwWkJPUk1xamdndU11dEFzdzhPTVVMSjh5MkFMMjBsYzB5akRfRVR2bEd2dlJocThwcUxSaWJiRFZrNVNRUWF2UjN0Ty1mOTdtcldrM2V1N3IxdE9qNTNRdzlvb0thTnIybWJkSUowYWpfVmxKVWwydzNlalZ4S3hMUDFrQWJGX256UjlXVDNJT1ZZaE5UUXlzM3FCYmhSMllQOA?oc=5",
-      "data": "09/11 17:27"
+      "titulo": "Fluminense tem jogadores convocados em todas as categorias da seleção brasileira; conheça as joias - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYl8zUUdCQ0hqWUJHSjdFQ0pidmFZbVFBRVhvOUhQYng0dTcwaVNtRkNjRGhvNTB4eFQzaTFXWEZqR05LV3RJNnYybUdYWU5mMFB6UFRuZHJhSGtGNXlVZk0zMjJuTTZobzhnNGNacGQ5MERLZ3pabFZ2WGU2S2dkUWZBZkI5S2JWaGxOeU1hNmw5MnVXajFGTjByNlhwMGRsZ2dCQ1pKajR6QmVnOGp2dGxobTRjVTU0SFZMWGIzYmQ4eWVsZ1FtVEJZVGtXUGRTUFpHeEVuVU81andPS2I4MXgxTzJpLUJ4SlNsSFE0emFzZ0Vkcmtxb1ltSDTSAYsCQVVfeXFMTzVtY1NjY3ZDRnN6WUUwMUU0WTI3Nl96dktvQmdXTDZjT2lNUjhPZzV6NWV2YWJLeTdlMWFIZ19ZeV9RNlFOWENTSXZ0WEFuX0xkX1AzaXRCejY3WVRINThpQlZzUGhGM2F6QWJxWDBIaDFUeWMwX19xOE1rTTVjQjA2bER0RUxRVXltZ0VGT0ZySVU4djJTWGViZmFaQkFTM3lrYlJjMzBVdW55YnlWeWtXWG1xQThydE1jQWZONVZST0RtZHJyYkdqVXctcllNRHp5TlprRHNnRnpvc2xFYXNVcUFyaDc5d0NLY3JaUHZHdXYzT0dQYmpqbEtPQmRNOGNMdVk1OEw1YjRz?oc=5",
+      "data": "09/11 20:46"
     }
   ],
   "avisos": [
