@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "10/11/2026 07:42",
+  "atualizado_em": "10/11/2026 15:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -1173,42 +1173,42 @@
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 23.2,
-      "temp_min": 18.6,
-      "chance_chuva": 8,
-      "condicao": "Nublado"
+      "temp_min": 18.7,
+      "chance_chuva": 18,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.5,
+      "temp_max": 22.7,
       "temp_min": 18.0,
-      "chance_chuva": 56,
+      "chance_chuva": 30,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.2,
-      "temp_min": 12.1,
+      "temp_max": 19.3,
+      "temp_min": 12.6,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 16.9,
-      "temp_min": 10.6,
-      "chance_chuva": 99,
+      "temp_max": 17.0,
+      "temp_min": 11.1,
+      "chance_chuva": 100,
       "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense deixa Flamengo para trás e alcança posição de destaque em ranking sul-americano - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR2JjVHl3d3lLWkp5TzVWNE05QjVVaERuaGpmWElXLTdlczUtd3Q3NGZPRU1ZWnpYLXZRb2oyVTZlMkdSLVFfQ1BCWVBSSjZvTWU5cTJHUm43SDJDQTM2MXVFNmRMV1B6NzE1YmRWbXZaNUs3RTh0YUd5SDJKLWhQMkdJSl80LXhPVDMzaEpVVG51enloV1NHX0tZcXR1VWJOVkVQNGwtVFNDUENYNmpxQzVBSmVfTUlu?oc=5",
-      "data": "09/11 14:07"
+      "titulo": "Fluminense: jornalista é sincero ao analisar possíveis técnicos para 2027 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNek54NzV0UVRxYjdnOXNxcEt3RWNTdklHbk00Q1JsQjlKbmR4d3VNc1haZkV3MUFyTXl6X3JhUlJwb0xiQWVCQ1lMRmlBQWtJN1VCVnlaRjlETWRXMWNOYVh4NHpqd2x6M01TRlhwaG5PMzEzdlFrUGpVTGRrU2lobWNqSkczSFE0SGlrblotMHFiTGVZM0pJa1JlVkJCV1NZZmJValpKN19hYVMzcVhpTHJua29GZWstRlU1SjM1TEVFdnF2VVhJV3BfOTBBWXFPMENublFRSTlTNE5MMTV3Q0JjYzBYX1ZBRlNBcWJjbU83U2FtQ0E?oc=5",
+      "data": "10/11 17:29"
     },
     {
-      "titulo": "Castillo volta a brigar por espaço no Fluminense e recebe elogios da direção - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTEhSb05KX2NrU2FRVm1pckZWMnFpNWFfYWtoUmlmeThib0NHQ0hLSWZ2LUVSVGloNWN3SFVxRF9lQmltMkx3eDd3ZmxxazRaNzQydElKWHZxUmxHYXRJcVNNZk1PSThQYl9mU3E5UHQ5dUViUi1JcnNsLW5QR2pmRE1VTU91OU0zeFh4WWcwd3BrRzl1MWZaYnBSOE1IS2hyTWlOeGpSSDlqU1B3MVFSUHE1ZVc0TnZHN1F5ZW1JUjIyanltcDVLaTB0aHFKSlNPWUhORHQxTW9YT05kRmQxNDdBMGc0a0hKZnhIVC0zeXhtVTBxTko4N3hR?oc=5",
-      "data": "10/11 09:36"
+      "titulo": "Fluminense prepara ofensiva por Josué do Coritiba - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZGFPRXVXVnd3bTh6alhTanhWQWxYZGMta2VPZ1oyOVdVcUE0Wl9ROElidTk0NmFKc292SFJhWmdSUk1RZ25oeWl4X1dWbXJxaktSMjNiR1NrZ01xSVRqdDdhSGU0SUpKeDl4SlNSMmQzeXN4NW5VdUdIS1lvdm1rWW9sVUFsODFyYXR3bkZxb1NGWEhaMWg4Sm1IWUNiTzdwbVd1eGR1RnQ2bmZseHZfUVc5QVpOUGE0VEg0bjktdU1ubmJhY0hOZjZQcU15cnhXWVFlQWJ5RjFZcXdPNDJlNVhPUUJXSmFX?oc=5",
+      "data": "10/11 14:51"
     },
     {
       "titulo": "Fluminense tem jogadores convocados em todas as categorias da seleção brasileira; conheça as joias - ge",
@@ -1216,14 +1216,14 @@
       "data": "09/11 20:46"
     },
     {
-      "titulo": "Ex-Cruzeiro e Fluminense assume o Fortaleza após demissão de Paulo Autuori e recusa de Vojvoda - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWdIU2lIWkd0SmU4M0JpX3FCNjJxYjNTTm1LWktuV0JpdjNwUk5qZGMxNG83SlZLN0txcnVDWF9pXzRVdWtxWW9IMzd3UHhBSzVlODdaRS1Xdy1XalZKY2NnU2R0MDd1dDBsN2ZORkRUNHdzYnE3czg5Tm5wVXNTY25paDJFUVQwZkxpYkRFM0dvN1A4WEFORXh0YmxCSUJiRWQ4MTlSQnNmdFl5OU5udG9YVVZGYjN3VV9BdUJodWowTzR4cHo4OExoTQ?oc=5",
-      "data": "09/11 20:03"
+      "titulo": "Jogadores e torcida do Fluminense fazem campanha por Thiago Silva - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdVoycV9GTXJKVmFBTVBLLU0taTF1VzNZc0d5Y1AwODhKQnhtNWNHLWJzaHNxb0R0R1Zkajk2eFlWcGwtdmoyaG9iTURlSUZmZVFrekYxeHVNMVV2Q1JZZjFDcHA1VjBsekxNZFBiOWtRTTNJY3c2MHlTaGIwLUppR0UyS3NOaGRCT3ZDVUZSUmRtdzFoRDVVVTU5eHBqWDNtc0V0NXZEME1EaHhZamZ4Ny0wUC1sZVlCV1pZM1VjX1lzLXNoNUlJc2xqVENUZ1RobW5BN3pMMmdGeEpTcC1YcXEyR2lxTVhvWGFaZg?oc=5",
+      "data": "10/11 17:41"
     },
     {
-      "titulo": "Fluminense contrata promessa de 16 anos para Xerém - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjBXWXBPeXdIaWFJc0h6aU1WaktxbFYzQnFpTmRRYng3UFI0bmppbkQ3YzFPOXRDX3N6NmRjemNpTW1OV1dNZTdfZzhWLVYxTWdfYlhBejJ3c3Utc1haNVJycEJ5dWdXWE1fVjMxcDRjbFdEaks2QVYycm1WQVRsS0hrZ01HMEx3Ri1ocTFuZENGcVMwYi01cEZwQXBnMS1oaHFhUzRaUWpiZTJKc0xTREhjRjJDMXQ3NnhxckxmaWx6cHA4el9xWXk2MG1xYm5MRGFmZjM5V2c?oc=5",
-      "data": "09/11 22:57"
+      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
+      "data": "08/11 20:03"
     }
   ],
   "avisos": [
