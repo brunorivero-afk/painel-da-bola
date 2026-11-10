@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "09/11/2026 23:30",
+  "atualizado_em": "10/11/2026 07:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Norde Vôlei x Cruzeiro",
@@ -1140,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Goiás",
@@ -1150,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Guarulhos",
@@ -1160,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Mackenzie x Minas",
@@ -1172,31 +1172,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.1,
+      "temp_max": 23.2,
       "temp_min": 18.6,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 8,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.2,
-      "temp_min": 19.1,
-      "chance_chuva": 97,
-      "condicao": "Garoa"
+      "temp_max": 22.5,
+      "temp_min": 18.0,
+      "chance_chuva": 56,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 17.0,
-      "temp_min": 14.2,
+      "temp_max": 19.2,
+      "temp_min": 12.1,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 13.9,
-      "temp_min": 12.5,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 16.9,
+      "temp_min": 10.6,
+      "chance_chuva": 99,
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
@@ -1206,24 +1206,24 @@ window.PAINEL_DATA = {
       "data": "09/11 14:07"
     },
     {
-      "titulo": "Fluminense contrata promessa de 16 anos para Xerém - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjBXWXBPeXdIaWFJc0h6aU1WaktxbFYzQnFpTmRRYng3UFI0bmppbkQ3YzFPOXRDX3N6NmRjemNpTW1OV1dNZTdfZzhWLVYxTWdfYlhBejJ3c3Utc1haNVJycEJ5dWdXWE1fVjMxcDRjbFdEaks2QVYycm1WQVRsS0hrZ01HMEx3Ri1ocTFuZENGcVMwYi01cEZwQXBnMS1oaHFhUzRaUWpiZTJKc0xTREhjRjJDMXQ3NnhxckxmaWx6cHA4el9xWXk2MG1xYm5MRGFmZjM5V2c?oc=5",
-      "data": "09/11 22:57"
-    },
-    {
-      "titulo": "Clássico entre Fluminense e Vasco pelo Sub-16 termina em confusão - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmpkOUpPb180ektPcG1XRE9YUjdib0pfWjhmZzZldFRQYkF4aFl0aFB0XzNFZEdYZHpoUWNvWUpBd21WajFOM0MxMm84VzB1ZTZ5MW1RbjNscHdwWk5XR2M4cFVod0pJUl9hM0Z2RWhYelVFVnlHRVFBTHl2VG84aTNvWkdCYlA1eEZfbUh6eEx5SE43MDVLejVna09xN0pZa1RZektfUnlxVnQyMmVZN21pRWwyNFhH0gG-AUFVX3lxTE9wSXFlYXVtdFZNYVZQRmlHWlRzcVRaVjgzeFhuSzBmbE1Ib0pLbE1Jc2hMeU1oTFlxdGNKLU4yMkMtSnFTS3M1THdaeDU3VGxfSjE3ZjlmS1NhendkY1VoU3NwRTk3Y1AxSjBNd2xFbXJraDk3NXJrZHlHTkxmSG1HRmEwV0NMd1l6a28wMkZlYWJPV1EyZVpXUlRRekZhbkZCR1dva3l1NmZvd2l0c2JiVHJyci1UbElaZ2RaZWc?oc=5",
-      "data": "09/11 23:00"
-    },
-    {
-      "titulo": "Mário Bittencourt faz discurso para Castillo após vitória do Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkRhTTYzNURHU0RiMjFyZUpURmtPSzM5Um43MXFIR2lKX0NqN3FsU3dqdVl6bjBZc1lrdzVPUkpuWnM5NGVqdEN2MHZvMV9JNEhyWGR1YVBadjVBWDdMdkRPb0pfZjE3dnpVZm40bGhxQjhhcGoxNV9YaTlrbWRVYkpUMmNJZHJPUjlJMTRvdkdaVmxhZkx4d3hvamRnUms2UlM3ZVFwcHlSNXl1ZlEtZ3JkdWdhVWhxSGV3ejd3czJJUVZn?oc=5",
-      "data": "09/11 23:13"
+      "titulo": "Castillo volta a brigar por espaço no Fluminense e recebe elogios da direção - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTEhSb05KX2NrU2FRVm1pckZWMnFpNWFfYWtoUmlmeThib0NHQ0hLSWZ2LUVSVGloNWN3SFVxRF9lQmltMkx3eDd3ZmxxazRaNzQydElKWHZxUmxHYXRJcVNNZk1PSThQYl9mU3E5UHQ5dUViUi1JcnNsLW5QR2pmRE1VTU91OU0zeFh4WWcwd3BrRzl1MWZaYnBSOE1IS2hyTWlOeGpSSDlqU1B3MVFSUHE1ZVc0TnZHN1F5ZW1JUjIyanltcDVLaTB0aHFKSlNPWUhORHQxTW9YT05kRmQxNDdBMGc0a0hKZnhIVC0zeXhtVTBxTko4N3hR?oc=5",
+      "data": "10/11 09:36"
     },
     {
       "titulo": "Fluminense tem jogadores convocados em todas as categorias da seleção brasileira; conheça as joias - ge",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYl8zUUdCQ0hqWUJHSjdFQ0pidmFZbVFBRVhvOUhQYng0dTcwaVNtRkNjRGhvNTB4eFQzaTFXWEZqR05LV3RJNnYybUdYWU5mMFB6UFRuZHJhSGtGNXlVZk0zMjJuTTZobzhnNGNacGQ5MERLZ3pabFZ2WGU2S2dkUWZBZkI5S2JWaGxOeU1hNmw5MnVXajFGTjByNlhwMGRsZ2dCQ1pKajR6QmVnOGp2dGxobTRjVTU0SFZMWGIzYmQ4eWVsZ1FtVEJZVGtXUGRTUFpHeEVuVU81andPS2I4MXgxTzJpLUJ4SlNsSFE0emFzZ0Vkcmtxb1ltSDTSAYsCQVVfeXFMTzVtY1NjY3ZDRnN6WUUwMUU0WTI3Nl96dktvQmdXTDZjT2lNUjhPZzV6NWV2YWJLeTdlMWFIZ19ZeV9RNlFOWENTSXZ0WEFuX0xkX1AzaXRCejY3WVRINThpQlZzUGhGM2F6QWJxWDBIaDFUeWMwX19xOE1rTTVjQjA2bER0RUxRVXltZ0VGT0ZySVU4djJTWGViZmFaQkFTM3lrYlJjMzBVdW55YnlWeWtXWG1xQThydE1jQWZONVZST0RtZHJyYkdqVXctcllNRHp5TlprRHNnRnpvc2xFYXNVcUFyaDc5d0NLY3JaUHZHdXYzT0dQYmpqbEtPQmRNOGNMdVk1OEw1YjRz?oc=5",
       "data": "09/11 20:46"
+    },
+    {
+      "titulo": "Ex-Cruzeiro e Fluminense assume o Fortaleza após demissão de Paulo Autuori e recusa de Vojvoda - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWdIU2lIWkd0SmU4M0JpX3FCNjJxYjNTTm1LWktuV0JpdjNwUk5qZGMxNG83SlZLN0txcnVDWF9pXzRVdWtxWW9IMzd3UHhBSzVlODdaRS1Xdy1XalZKY2NnU2R0MDd1dDBsN2ZORkRUNHdzYnE3czg5Tm5wVXNTY25paDJFUVQwZkxpYkRFM0dvN1A4WEFORXh0YmxCSUJiRWQ4MTlSQnNmdFl5OU5udG9YVVZGYjN3VV9BdUJodWowTzR4cHo4OExoTQ?oc=5",
+      "data": "09/11 20:03"
+    },
+    {
+      "titulo": "Fluminense contrata promessa de 16 anos para Xerém - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObjBXWXBPeXdIaWFJc0h6aU1WaktxbFYzQnFpTmRRYng3UFI0bmppbkQ3YzFPOXRDX3N6NmRjemNpTW1OV1dNZTdfZzhWLVYxTWdfYlhBejJ3c3Utc1haNVJycEJ5dWdXWE1fVjMxcDRjbFdEaks2QVYycm1WQVRsS0hrZ01HMEx3Ri1ocTFuZENGcVMwYi01cEZwQXBnMS1oaHFhUzRaUWpiZTJKc0xTREhjRjJDMXQ3NnhxckxmaWx6cHA4el9xWXk2MG1xYm5MRGFmZjM5V2c?oc=5",
+      "data": "09/11 22:57"
     }
   ],
   "avisos": [
