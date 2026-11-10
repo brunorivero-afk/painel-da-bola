@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "10/11/2026 15:26",
+  "atualizado_em": "10/11/2026 20:52",
   "jogos": [
     {
       "sport": "futebol",
@@ -1172,28 +1172,28 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 23.2,
+      "temp_max": 22.3,
       "temp_min": 18.7,
-      "chance_chuva": 18,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 38,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 22.7,
+      "temp_max": 23.3,
       "temp_min": 18.0,
-      "chance_chuva": 30,
+      "chance_chuva": 63,
       "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 19.3,
+      "temp_max": 18.5,
       "temp_min": 12.6,
       "chance_chuva": 100,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.0,
+      "temp_max": 17.7,
       "temp_min": 11.1,
       "chance_chuva": 100,
       "condicao": "Garoa forte"
@@ -1201,29 +1201,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Fluminense: jornalista é sincero ao analisar possíveis técnicos para 2027 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNek54NzV0UVRxYjdnOXNxcEt3RWNTdklHbk00Q1JsQjlKbmR4d3VNc1haZkV3MUFyTXl6X3JhUlJwb0xiQWVCQ1lMRmlBQWtJN1VCVnlaRjlETWRXMWNOYVh4NHpqd2x6M01TRlhwaG5PMzEzdlFrUGpVTGRrU2lobWNqSkczSFE0SGlrblotMHFiTGVZM0pJa1JlVkJCV1NZZmJValpKN19hYVMzcVhpTHJua29GZWstRlU1SjM1TEVFdnF2VVhJV3BfOTBBWXFPMENublFRSTlTNE5MMTV3Q0JjYzBYX1ZBRlNBcWJjbU83U2FtQ0E?oc=5",
-      "data": "10/11 17:29"
+      "titulo": "Ex-Fluminense assume comando de clube brasileiro após demissão de treinado - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdW1fRDVUS0pfZFN4SDJ2ajU5T2NXUWR1UXZjelpTcjVhWW1Mb3VQRWRCNWdVR1cxOWFKR2FrVi1ZR204bno2UEpHOGY3d1lWczJQMmpVY2t3dFg2aWNRMjBVNVl2TzNDbUJQQ1N5ZUh3YVJmS09KU19WWk82T2hIU2NZNHRzWlZwdXV4NEFWVHVQb0VoU0dlWVcyX19HaGVROWtDRQ?oc=5",
+      "data": "10/11 13:35"
     },
     {
-      "titulo": "Fluminense prepara ofensiva por Josué do Coritiba - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZGFPRXVXVnd3bTh6alhTanhWQWxYZGMta2VPZ1oyOVdVcUE0Wl9ROElidTk0NmFKc292SFJhWmdSUk1RZ25oeWl4X1dWbXJxaktSMjNiR1NrZ01xSVRqdDdhSGU0SUpKeDl4SlNSMmQzeXN4NW5VdUdIS1lvdm1rWW9sVUFsODFyYXR3bkZxb1NGWEhaMWg4Sm1IWUNiTzdwbVd1eGR1RnQ2bmZseHZfUVc5QVpOUGE0VEg0bjktdU1ubmJhY0hOZjZQcU15cnhXWVFlQWJ5RjFZcXdPNDJlNVhPUUJXSmFX?oc=5",
-      "data": "10/11 14:51"
+      "titulo": "Reformas no CT e em Laranjeiras e contrapartidas: o que prevê o plano de venda do potencial construtivo do Fluminense - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNam1OU2l2VVRqWXlZc3hHc1AxSUo0SGZsQjQzdlhLQTBrTGgtckNBN250bGE4VmFhQzllY3Etd0g4ZXFWdGxlZzNKaWtaMElKbXVDaEhteDJMY1FLZTQzanM0UExnelpjYTEydTJPTVF4ZUNqN1FQRHpVMHdfR0RYS0lJWS1WNW1KMlhvaXRTdkwzQXhjbGZmQVJLcWpBVExsNms1eW5ubWlIbi1TTlBwZmczMzVWbWV0VG9yc0VPR1ZlZDRIMXZEYV9Pc25XcEM0QW5wS1AwRlRrVmNDYnFoaV9UZzhmSVdnd0t1UXBqNUMtSDFIc0hfYzM1MG5YUXJ4Tkt0RnhOMklQNS1fd3FCTjhFSzY2UjVkbzVIamVIONIBrgJBVV95cUxPVjZnY2UybTVPaUJaSEFqekp2OUJzVHE5S21jQ0hDc2ZFS1FNMlhfampYeTZEeDdOTUZvcVVJcVVPRWZoZDRvalFOT0hnNmNyN0hDbVRYeE5OM0RheTAwcDUyMjhyczBXWGNVVVYtNG1SVXluVTZZc2dkcmphUkE5MEc3Skt5ZnhoVEVlRThZZFVaZkNiTF9oQWY4Z3J6UUpINzZKck11M1Z3NnNOUnc4Wno3MkZSa1NiSmZ4dnFNUjQ2c1JlRHpMZTdVUUI5WXhOTkt6X2FHUXV1Yk1iMDdnRVVwV2Q1dUYyekdTUU5zeVBtT2FuYzRIclJvamdoRVZKbWx3VlVuQ216TmRUOFAzSzNhdlhSZDN3SFdtZmtESEFzSldUQ1lUT3BvTjZVdw?oc=5",
+      "data": "10/11 20:20"
     },
     {
-      "titulo": "Fluminense tem jogadores convocados em todas as categorias da seleção brasileira; conheça as joias - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYl8zUUdCQ0hqWUJHSjdFQ0pidmFZbVFBRVhvOUhQYng0dTcwaVNtRkNjRGhvNTB4eFQzaTFXWEZqR05LV3RJNnYybUdYWU5mMFB6UFRuZHJhSGtGNXlVZk0zMjJuTTZobzhnNGNacGQ5MERLZ3pabFZ2WGU2S2dkUWZBZkI5S2JWaGxOeU1hNmw5MnVXajFGTjByNlhwMGRsZ2dCQ1pKajR6QmVnOGp2dGxobTRjVTU0SFZMWGIzYmQ4eWVsZ1FtVEJZVGtXUGRTUFpHeEVuVU81andPS2I4MXgxTzJpLUJ4SlNsSFE0emFzZ0Vkcmtxb1ltSDTSAYsCQVVfeXFMTzVtY1NjY3ZDRnN6WUUwMUU0WTI3Nl96dktvQmdXTDZjT2lNUjhPZzV6NWV2YWJLeTdlMWFIZ19ZeV9RNlFOWENTSXZ0WEFuX0xkX1AzaXRCejY3WVRINThpQlZzUGhGM2F6QWJxWDBIaDFUeWMwX19xOE1rTTVjQjA2bER0RUxRVXltZ0VGT0ZySVU4djJTWGViZmFaQkFTM3lrYlJjMzBVdW55YnlWeWtXWG1xQThydE1jQWZONVZST0RtZHJyYkdqVXctcllNRHp5TlprRHNnRnpvc2xFYXNVcUFyaDc5d0NLY3JaUHZHdXYzT0dQYmpqbEtPQmRNOGNMdVk1OEw1YjRz?oc=5",
-      "data": "09/11 20:46"
+      "titulo": "Potencial construtivo da sede do Fluminense é discutido; saiba detalhes - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV8tMWtnMTBoOVNYemcyR2ZfQ1lPd1N0TXFkd19yV09iNkVNM1ExaHBnOEpWbVVwLTBvZXZQWTlraGpjcHUyZ0FEcVNjaTFmM3Q0UElUbDJGVDVWYzRMblNxZ0U1c0h4d05jTXpRal9tcmtLQjVZcXltUXRzTC1oWmVMaEZkcU1LNm5NczdaOGx5NGw1ak0tM2stNzRyTmV0S21vN1daWUd6U3pKWHdKeA?oc=5",
+      "data": "10/11 19:50"
     },
     {
-      "titulo": "Jogadores e torcida do Fluminense fazem campanha por Thiago Silva - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdVoycV9GTXJKVmFBTVBLLU0taTF1VzNZc0d5Y1AwODhKQnhtNWNHLWJzaHNxb0R0R1Zkajk2eFlWcGwtdmoyaG9iTURlSUZmZVFrekYxeHVNMVV2Q1JZZjFDcHA1VjBsekxNZFBiOWtRTTNJY3c2MHlTaGIwLUppR0UyS3NOaGRCT3ZDVUZSUmRtdzFoRDVVVTU5eHBqWDNtc0V0NXZEME1EaHhZamZ4Ny0wUC1sZVlCV1pZM1VjX1lzLXNoNUlJc2xqVENUZ1RobW5BN3pMMmdGeEpTcC1YcXEyR2lxTVhvWGFaZg?oc=5",
-      "data": "10/11 17:41"
+      "titulo": "Fluminense recebe audiência pública para debater venda do potencial construtivo de Laranjeiras - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeXNxQUUyaVhlRUotS2l3Mm9aSlZuUFYzQWtyOVhlUzNTNDlvQ1kwLWplVHoxQnJkckNsZ3RhUXdjYmpZX3p2ZDFRWTRMQTNpVm9wQ1doTlhQRHYta0RkWVJGZ09EdHY5dmR1LU1tTWJoU3VReTJsWXVHNUxtSHREQ0NhS1BrMWFwZjJ6QmpLUHBvZzlYcXdPRDJ1SWR0bzMzQTNmS21VNEhycWJvTnFtdzVJUHdxdjQwUXdkU2FYdUZ1dm9fd2lEd2EtOXk?oc=5",
+      "data": "10/11 19:27"
     },
     {
-      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
-      "data": "08/11 20:03"
+      "titulo": "Zagueiro perde espaço com Marcão e agora pode deixar o Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0NreFBvUExzX0lqenc5YnBmR1FvR2F3U3ExNm5BOVBMaUtSRnJmUGpMWmxTb2ZBcmpWemN5UzNpT0xQeEk5amZiLXdwVklHU0pIRGk3NWVsLXlTWFVJdGlpc0FSSUtqWnFNNHJnc1drbWRhakRReUZzWmNiYXl5WkNGWjJPeG03aTVhZW5mOEMxUjgzUkhCRjBpMFVoNkdxRnN4QVJoY1VULTBuYVU4M0JBZzVTVGNlUVAyUVhYUjJDZ3U5QmxpdXEyRVZIX200WXpXbEFmRnFrVVZxZVlEWE1iM0hOaVN0NzZLOQ?oc=5",
+      "data": "10/11 22:14"
     }
   ],
   "avisos": [
