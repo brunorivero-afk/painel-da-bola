@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/11/2026 09:22",
+  "atualizado_em": "11/11/2026 16:58",
   "jogos": [
     {
       "sport": "futebol",
@@ -1232,58 +1232,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.2,
-      "temp_min": 19.5,
+      "temp_max": 26.3,
+      "temp_min": 19.7,
       "chance_chuva": 20,
-      "condicao": "Garoa fraca"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.8,
+      "temp_max": 26.2,
       "temp_min": 19.5,
       "chance_chuva": 43,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.8,
-      "temp_min": 12.8,
-      "chance_chuva": 71,
+      "temp_max": 20.9,
+      "temp_min": 13.0,
+      "chance_chuva": 84,
       "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.4,
-      "temp_min": 11.8,
+      "temp_max": 22.5,
+      "temp_min": 12.0,
       "chance_chuva": 100,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Ex-Fluminense assume comando de clube brasileiro após demissão de treinado - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdW1fRDVUS0pfZFN4SDJ2ajU5T2NXUWR1UXZjelpTcjVhWW1Mb3VQRWRCNWdVR1cxOWFKR2FrVi1ZR204bno2UEpHOGY3d1lWczJQMmpVY2t3dFg2aWNRMjBVNVl2TzNDbUJQQ1N5ZUh3YVJmS09KU19WWk82T2hIU2NZNHRzWlZwdXV4NEFWVHVQb0VoU0dlWVcyX19HaGVROWtDRQ?oc=5",
-      "data": "10/11 13:35"
+      "titulo": "Fluminense divulga programação da semana do Departamento de futebol - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaldZdzRHblpFR01ISDI1azVXeEVRdTgyeS1LVjB3MGdsdWRtTUZwcDNXUHptVk9qMzBWZ1diMHZBYXFpaW9EUUZ6S1pJQmIySHhIX3hYUXk1c0hzbVVZVmFHb1g2Y2lkY2d6X3kzb2pnNnNmd0kyZzFSM2VKa01XWVlBbHNfU21GUTZqUGVKVnNoZl9KWmxmbUNR?oc=5",
+      "data": "09/11 00:14"
     },
     {
-      "titulo": "Jornalistas apontam maiores ídolos da história do Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDN0ZC0yRVZUQTZieVFsSXlzSllXX0dKUFVlbFgwWTJCTkppVzJMS2tQOVQ0cHRnbUpKOVJ2dzZFYUpNUENGbEhfT3RNcjlKRE9ZRVhuQU02c0VMV01aaGNjYnBIdThGb3dqYkZidV9UaEY5blliM2I0Tks5TnFyaGduR0hwY3QzWEtEd1BPNDNUeUhZdTZ1d2FiMnlDeGczNW9N?oc=5",
-      "data": "11/11 10:00"
+      "titulo": "Thiago Silva faz coro por retorno de João Pedro ao Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzhvb3hiaEtvQjFtd2l2bUF1Qko3ZVJSQmJZNUQtUTdOQXdubElKTFEwM2xPZ19peF9BZHhmSnBHcUIzY0tJQnBaSGFSWGYzMkUybldzUHZGRUlLR2xnc3l2ekM0aVFqbm1YcVAtLVEyNUE1bHhGdGU1dFl2X1VjNWNhdC15MGp1WDBET2pJSWk2RFJqQkh1VlJxZ01WTlpOWXpieHFvTk9qYkgtNDZicWZ0a2Rta2t1dXFJZE9KeGJaazJ1dEJrdFNTc0RFODlCSVBsd041TTlJLUZUY3JNa0k4NXF6bGg1NGhBcHJkN2xaeXNt?oc=5",
+      "data": "11/11 14:34"
     },
     {
-      "titulo": "Fluminense monitora Francis Amuzu do Grêmio; salário assusta - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWEdCcnFWd1AtSWpSM3lCZWZZeTRHakd5LTRyektVRENVWV85NFBTSVNHcGtVdlBiUmFGa1IxS2xib2NjRi1ySGpCTW93UUtwdjBMV0NmLWUzNmlfLXgxazgxQmprX0hUUTBubTB6V1VtMTZKNHpnOTNua0tBcWI4LVF5X3pWQ3NfcnV6Z3FIdVYydjE1T2NCNFB4WXNGWjJUOFdia1l4eTBySmdEckpFenVaQ0JBVkMzRGZDd2lENWJEdlU0OGxUX2JJTXVDZmxxbTR2ZENNNnAzRUo0RHBaWDhtVU4?oc=5",
-      "data": "11/11 11:07"
+      "titulo": "Thiago Silva publica foto ao lado de João Pedro, ex-Fluminense, e brinca: \"Volta logo\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQkpaWm03YlBKYmVyMEVEMVNQeXFrRExiR2hkcnk1S2JpaU5NRExwM1AxSEh5UGxScWxGQlBPcC16QlNSdU5BeE5rb0tPN1pKaTVpTEFWb0ZKbXRLYlRyWjhhMXRzdjltTFJRNldxZEZqUjRhczlEWndpRm5XUk50N21wcHhfeThsX3diMWRKMEY0ZGZYYTgwOVZVYmxLdlV6RzlfaVYzeU1sdnp1Zzl0Nml5T2xVZU1nV3NreTEyenBKRGFCMHFKMTNzRHZSUFpvcFFNVkY2THBKcjNuM0h1UHQyVGFURUHSAfYBQVVfeXFMUGtEMHNMbWlNZXZYNGJmbTZvQWxxSFhzUHhKTm4tNGNCZG1mZU5vMzlwMDFmT096WDJBdGIxVEtJSGhmNFRCX1Awdll0T0RWbVFBYmJvbDhBMjNpWjJaU3NoQjkzNUFLanlQMXR5Q1R5eVNibWtKNU9kNndRem85U21SMGUzNUhEbUlZeDFJa2dWTlFXUlR3U2t3cEV6VG53REFOTl9ETzhjdzM1Y1pYRlJ6cVExeTc1RVM0MlA1LW1CTHlwVVhkM215MTd5dFkwWFRUTkdsa0hIeXdRckVWRnY3RXVUVFYtWl8zSmwyOGVuekRKZnVn?oc=5",
+      "data": "11/11 16:52"
     },
     {
-      "titulo": "Fluminense recebe o Heips pelo Carioca Feminino - www.fluminense.com.br",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlI3VHFkWkRFM1V0SnNIcFJ0bnFPR1NzemwyLTk0bHNsZHBiV0M0cDN0a1hNNHlLN2dSbXJQd2pROWdsb3dkcnBjNWRNV0lqTUUzeGJCTW05eXRYYncxNjJ6YnZMYVlpYVl0SHBEbmRqellXbzZyb1FvZVE5bF9wT0QzRnIzd2RUNnAtNDJR?oc=5",
-      "data": "11/11 09:06"
+      "titulo": "Thiago Silva atinge feito especial e entra em ranking liderado por Martinelli no Fluminense - NETFLU",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXdKT0F2ZHE2VWhJNWg0RDg3bUJJdUpoMEY0aHZlQ2Zic0hLSHRTVjFzUzRBQzVFVTdlLVoyUTZTZzNhOTkwSHJvVDRXZGRHNnZGVkZNaGQxMnpBNHoxaEw3RmF0OTZMUmp3d2IzTXFsYWFHTFhqLUQwSm1mVGdPc0VWVkgzQkJTbE9Wb1Q1M2ROeGNScHhuWUloWDlPVlpqSlBac3ZfZUZqd3F1Rjh4QXlYdkFLbWctcXc?oc=5",
+      "data": "10/11 15:29"
     },
     {
-      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
-      "data": "08/11 20:03"
+      "titulo": "Fluminense avalia Dorival Júnior para 2027 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdElTN0dwa0tRNVlOMWtDaE41WWZBN18tbUNtb1MyeHZkVlJZOEJmbG1ueFU3Znl1MkludFMydFNBdE1ubXJvaXNJalhvanVhajE5bGVZYjZVcHpYb2ZGQjdhOFphQ0F6WkpKNEpBWnNiWTYtME4yZnNYcE5LUFBuaVJPeFZ5Tnp0cm0zRHVwdXB4MEZFNzNDZ0RTZk85bHM1MzZyUWVRR2FxRDVnWUlDNmdHU2tZRzdtVFBEVzBjN0FKT2RDUWd5enFB?oc=5",
+      "data": "11/11 15:54"
     }
   ],
   "avisos": [
