@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "10/11/2026 20:52",
+  "atualizado_em": "11/11/2026 01:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-10",
-      "time": "20:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Norde Vôlei x Cruzeiro",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Goiás",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Guarulhos",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Mackenzie x Minas",
@@ -1172,31 +1162,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 22.3,
-      "temp_min": 18.7,
-      "chance_chuva": 38,
-      "condicao": "Garoa"
+      "temp_max": 26.0,
+      "temp_min": 19.5,
+      "chance_chuva": 14,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 23.3,
-      "temp_min": 18.0,
-      "chance_chuva": 63,
-      "condicao": "Nublado"
+      "temp_max": 25.6,
+      "temp_min": 19.6,
+      "chance_chuva": 35,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 18.5,
-      "temp_min": 12.6,
-      "chance_chuva": 100,
-      "condicao": "Garoa"
+      "temp_max": 20.6,
+      "temp_min": 13.1,
+      "chance_chuva": 69,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 17.7,
-      "temp_min": 11.1,
+      "temp_max": 23.3,
+      "temp_min": 12.2,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -1216,14 +1206,14 @@ window.PAINEL_DATA = {
       "data": "10/11 19:50"
     },
     {
-      "titulo": "Fluminense recebe audiência pública para debater venda do potencial construtivo de Laranjeiras - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeXNxQUUyaVhlRUotS2l3Mm9aSlZuUFYzQWtyOVhlUzNTNDlvQ1kwLWplVHoxQnJkckNsZ3RhUXdjYmpZX3p2ZDFRWTRMQTNpVm9wQ1doTlhQRHYta0RkWVJGZ09EdHY5dmR1LU1tTWJoU3VReTJsWXVHNUxtSHREQ0NhS1BrMWFwZjJ6QmpLUHBvZzlYcXdPRDJ1SWR0bzMzQTNmS21VNEhycWJvTnFtdzVJUHdxdjQwUXdkU2FYdUZ1dm9fd2lEd2EtOXk?oc=5",
-      "data": "10/11 19:27"
+      "titulo": "Palco do primeiro jogo da seleção Brasileira pode receber grama sintética - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQajMzNUo0RGNFSEVUai1LY0JBYVI1eTlqMWRiLVNPeHBEZ0xXR0h5UHUyNnRTY3VtaEt5eVFaUmIwb05MWHhSVHJteXRGQ1hUWENmWHp4S0c4SUUyWDBDTzduMUpVYzJYMUV0QlhvZGVINmQxMHFYY09WbTBGTUpLdmVFd0ctWTVBZXFYMTRPQ1hQVVU4ZWRzT2lockgzNXhmWUlDTl9RS0xPYXhMMkNjckVPWXFzeWhEVW1ZV25hdjIyZ0NTOTVUSkkwYXZSN0JHQ3MwTllVUklQRFpUV1FoTUdoNFdiS2N4ZVhQRm5IelVYQnpqQU53?oc=5",
+      "data": "10/11 16:50"
     },
     {
-      "titulo": "Zagueiro perde espaço com Marcão e agora pode deixar o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV0NreFBvUExzX0lqenc5YnBmR1FvR2F3U3ExNm5BOVBMaUtSRnJmUGpMWmxTb2ZBcmpWemN5UzNpT0xQeEk5amZiLXdwVklHU0pIRGk3NWVsLXlTWFVJdGlpc0FSSUtqWnFNNHJnc1drbWRhakRReUZzWmNiYXl5WkNGWjJPeG03aTVhZW5mOEMxUjgzUkhCRjBpMFVoNkdxRnN4QVJoY1VULTBuYVU4M0JBZzVTVGNlUVAyUVhYUjJDZ3U5QmxpdXEyRVZIX200WXpXbEFmRnFrVVZxZVlEWE1iM0hOaVN0NzZLOQ?oc=5",
-      "data": "10/11 22:14"
+      "titulo": "Fluminense prepara ofensiva por Josué do Coritiba - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZGFPRXVXVnd3bTh6alhTanhWQWxYZGMta2VPZ1oyOVdVcUE0Wl9ROElidTk0NmFKc292SFJhWmdSUk1RZ25oeWl4X1dWbXJxaktSMjNiR1NrZ01xSVRqdDdhSGU0SUpKeDl4SlNSMmQzeXN4NW5VdUdIS1lvdm1rWW9sVUFsODFyYXR3bkZxb1NGWEhaMWg4Sm1IWUNiTzdwbVd1eGR1RnQ2bmZseHZfUVc5QVpOUGE0VEg0bjktdU1ubmJhY0hOZjZQcU15cnhXWVFlQWJ5RjFZcXdPNDJlNVhPUUJXSmFX?oc=5",
+      "data": "10/11 14:51"
     }
   ],
   "avisos": [
