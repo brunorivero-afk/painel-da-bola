@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "11/11/2026 01:25",
+  "atualizado_em": "11/11/2026 09:22",
   "jogos": [
     {
       "sport": "futebol",
@@ -1153,7 +1153,77 @@
       "date": "2026-11-11",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Mackenzie x Minas",
+      "match": "Minas x Londrina",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-11",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesc Rj Flamengo x Fluminense",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-11",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Cruzeiro",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-11",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Osasco x Sesi-bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-11",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Montes Claros x Sesi-Bauru",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-11",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Brusque x Brasília",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-11",
+      "time": "10:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Monte Carmelo x Praia Clube",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-11",
+      "time": "20:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Campinas x Sesi-bauru",
       "channels": [
         "SporTV2"
       ]
@@ -1162,31 +1232,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.0,
+      "temp_max": 26.2,
       "temp_min": 19.5,
-      "chance_chuva": 14,
+      "chance_chuva": 20,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.6,
-      "temp_min": 19.6,
-      "chance_chuva": 35,
+      "temp_max": 25.8,
+      "temp_min": 19.5,
+      "chance_chuva": 43,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.6,
-      "temp_min": 13.1,
-      "chance_chuva": 69,
-      "condicao": "Garoa fraca"
+      "temp_max": 20.8,
+      "temp_min": 12.8,
+      "chance_chuva": 71,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.3,
-      "temp_min": 12.2,
+      "temp_max": 22.4,
+      "temp_min": 11.8,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
@@ -1196,24 +1266,24 @@
       "data": "10/11 13:35"
     },
     {
-      "titulo": "Reformas no CT e em Laranjeiras e contrapartidas: o que prevê o plano de venda do potencial construtivo do Fluminense - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNam1OU2l2VVRqWXlZc3hHc1AxSUo0SGZsQjQzdlhLQTBrTGgtckNBN250bGE4VmFhQzllY3Etd0g4ZXFWdGxlZzNKaWtaMElKbXVDaEhteDJMY1FLZTQzanM0UExnelpjYTEydTJPTVF4ZUNqN1FQRHpVMHdfR0RYS0lJWS1WNW1KMlhvaXRTdkwzQXhjbGZmQVJLcWpBVExsNms1eW5ubWlIbi1TTlBwZmczMzVWbWV0VG9yc0VPR1ZlZDRIMXZEYV9Pc25XcEM0QW5wS1AwRlRrVmNDYnFoaV9UZzhmSVdnd0t1UXBqNUMtSDFIc0hfYzM1MG5YUXJ4Tkt0RnhOMklQNS1fd3FCTjhFSzY2UjVkbzVIamVIONIBrgJBVV95cUxPVjZnY2UybTVPaUJaSEFqekp2OUJzVHE5S21jQ0hDc2ZFS1FNMlhfampYeTZEeDdOTUZvcVVJcVVPRWZoZDRvalFOT0hnNmNyN0hDbVRYeE5OM0RheTAwcDUyMjhyczBXWGNVVVYtNG1SVXluVTZZc2dkcmphUkE5MEc3Skt5ZnhoVEVlRThZZFVaZkNiTF9oQWY4Z3J6UUpINzZKck11M1Z3NnNOUnc4Wno3MkZSa1NiSmZ4dnFNUjQ2c1JlRHpMZTdVUUI5WXhOTkt6X2FHUXV1Yk1iMDdnRVVwV2Q1dUYyekdTUU5zeVBtT2FuYzRIclJvamdoRVZKbWx3VlVuQ216TmRUOFAzSzNhdlhSZDN3SFdtZmtESEFzSldUQ1lUT3BvTjZVdw?oc=5",
-      "data": "10/11 20:20"
+      "titulo": "Jornalistas apontam maiores ídolos da história do Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDN0ZC0yRVZUQTZieVFsSXlzSllXX0dKUFVlbFgwWTJCTkppVzJMS2tQOVQ0cHRnbUpKOVJ2dzZFYUpNUENGbEhfT3RNcjlKRE9ZRVhuQU02c0VMV01aaGNjYnBIdThGb3dqYkZidV9UaEY5blliM2I0Tks5TnFyaGduR0hwY3QzWEtEd1BPNDNUeUhZdTZ1d2FiMnlDeGczNW9N?oc=5",
+      "data": "11/11 10:00"
     },
     {
-      "titulo": "Potencial construtivo da sede do Fluminense é discutido; saiba detalhes - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV8tMWtnMTBoOVNYemcyR2ZfQ1lPd1N0TXFkd19yV09iNkVNM1ExaHBnOEpWbVVwLTBvZXZQWTlraGpjcHUyZ0FEcVNjaTFmM3Q0UElUbDJGVDVWYzRMblNxZ0U1c0h4d05jTXpRal9tcmtLQjVZcXltUXRzTC1oWmVMaEZkcU1LNm5NczdaOGx5NGw1ak0tM2stNzRyTmV0S21vN1daWUd6U3pKWHdKeA?oc=5",
-      "data": "10/11 19:50"
+      "titulo": "Fluminense monitora Francis Amuzu do Grêmio; salário assusta - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWEdCcnFWd1AtSWpSM3lCZWZZeTRHakd5LTRyektVRENVWV85NFBTSVNHcGtVdlBiUmFGa1IxS2xib2NjRi1ySGpCTW93UUtwdjBMV0NmLWUzNmlfLXgxazgxQmprX0hUUTBubTB6V1VtMTZKNHpnOTNua0tBcWI4LVF5X3pWQ3NfcnV6Z3FIdVYydjE1T2NCNFB4WXNGWjJUOFdia1l4eTBySmdEckpFenVaQ0JBVkMzRGZDd2lENWJEdlU0OGxUX2JJTXVDZmxxbTR2ZENNNnAzRUo0RHBaWDhtVU4?oc=5",
+      "data": "11/11 11:07"
     },
     {
-      "titulo": "Palco do primeiro jogo da seleção Brasileira pode receber grama sintética - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQajMzNUo0RGNFSEVUai1LY0JBYVI1eTlqMWRiLVNPeHBEZ0xXR0h5UHUyNnRTY3VtaEt5eVFaUmIwb05MWHhSVHJteXRGQ1hUWENmWHp4S0c4SUUyWDBDTzduMUpVYzJYMUV0QlhvZGVINmQxMHFYY09WbTBGTUpLdmVFd0ctWTVBZXFYMTRPQ1hQVVU4ZWRzT2lockgzNXhmWUlDTl9RS0xPYXhMMkNjckVPWXFzeWhEVW1ZV25hdjIyZ0NTOTVUSkkwYXZSN0JHQ3MwTllVUklQRFpUV1FoTUdoNFdiS2N4ZVhQRm5IelVYQnpqQU53?oc=5",
-      "data": "10/11 16:50"
+      "titulo": "Fluminense recebe o Heips pelo Carioca Feminino - www.fluminense.com.br",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSlI3VHFkWkRFM1V0SnNIcFJ0bnFPR1NzemwyLTk0bHNsZHBiV0M0cDN0a1hNNHlLN2dSbXJQd2pROWdsb3dkcnBjNWRNV0lqTUUzeGJCTW05eXRYYncxNjJ6YnZMYVlpYVl0SHBEbmRqellXbzZyb1FvZVE5bF9wT0QzRnIzd2RUNnAtNDJR?oc=5",
+      "data": "11/11 09:06"
     },
     {
-      "titulo": "Fluminense prepara ofensiva por Josué do Coritiba - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZGFPRXVXVnd3bTh6alhTanhWQWxYZGMta2VPZ1oyOVdVcUE0Wl9ROElidTk0NmFKc292SFJhWmdSUk1RZ25oeWl4X1dWbXJxaktSMjNiR1NrZ01xSVRqdDdhSGU0SUpKeDl4SlNSMmQzeXN4NW5VdUdIS1lvdm1rWW9sVUFsODFyYXR3bkZxb1NGWEhaMWg4Sm1IWUNiTzdwbVd1eGR1RnQ2bmZseHZfUVc5QVpOUGE0VEg0bjktdU1ubmJhY0hOZjZQcU15cnhXWVFlQWJ5RjFZcXdPNDJlNVhPUUJXSmFX?oc=5",
-      "data": "10/11 14:51"
+      "titulo": "'Fica Thiago Silva': jogadores do Fluminense fazem campanha pelo ídolo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNST3FOYlFKQWktZC1LclRQbnNLbjdhRW1nV2RvRzU0eVhQdjItR3FYZHRNcEdEdS1Pa1F0LUNWTjNoMnVDMlhvSXE5LVp2NHBIWTRuVGVDRkdzX1NhejV3dG9pNVFzTTE2VWNWbUtkWWl3WWhUTUNfQU4zVVFaYzVnb1JvZUhkZ2JEY0JyN2JYUmxBWFJISHZfeGFxSXM2clBiSkFzMl9qTHEwd2VNdC1tazg0ZXM?oc=5",
+      "data": "08/11 20:03"
     }
   ],
   "avisos": [
