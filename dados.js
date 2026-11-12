@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "11/11/2026 16:58",
+  "atualizado_em": "11/11/2026 22:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-11",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x Goiás",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-11",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Guarulhos",
@@ -1232,43 +1222,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.3,
+      "temp_max": 27.6,
       "temp_min": 19.7,
       "chance_chuva": 20,
-      "condicao": "Nublado"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 26.2,
-      "temp_min": 19.5,
-      "chance_chuva": 43,
       "condicao": "Garoa fraca"
     },
     {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.9,
-      "temp_min": 13.0,
-      "chance_chuva": 84,
+      "cidade": "Araruama",
+      "temp_max": 26.6,
+      "temp_min": 19.5,
+      "chance_chuva": 43,
       "condicao": "Nublado"
+    },
+    {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 20.5,
+      "temp_min": 13.0,
+      "chance_chuva": 71,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 22.5,
       "temp_min": 12.0,
-      "chance_chuva": 100,
+      "chance_chuva": 91,
       "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense divulga programação da semana do Departamento de futebol - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaldZdzRHblpFR01ISDI1azVXeEVRdTgyeS1LVjB3MGdsdWRtTUZwcDNXUHptVk9qMzBWZ1diMHZBYXFpaW9EUUZ6S1pJQmIySHhIX3hYUXk1c0hzbVVZVmFHb1g2Y2lkY2d6X3kzb2pnNnNmd0kyZzFSM2VKa01XWVlBbHNfU21GUTZqUGVKVnNoZl9KWmxmbUNR?oc=5",
-      "data": "09/11 00:14"
+      "titulo": "Emprestado pelo Fluminense, Lezcano não seguirá no Olimpia - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWl9ja1JGMlFsdk02OWl3YmZZaC1qUENpaWdZLTc2XzBtUzV5Z0xBS3pkV3NWNUlKcFE0cHVES0ZGMEJvZUFON0JUM0xGWWYzeFRJMUlxVDNUTnloNE5YdUxNd2FjUmc0bkQyRk1aN19LQTIzR1pvMGFQbW1GZmVRSE9SVExqZ3dkcXBxd1k1bHkyekk4d1g5X0c4RnljZnY5cEdTbnRpSlJfYk12XzF6d0F0M3FzbWt5ekwteGgtMkhMTC1WaFBRQ05NSkxjNW5tZk1tcl9CcE1FTnNhUGhlRWh3?oc=5",
+      "data": "11/11 22:29"
     },
     {
-      "titulo": "Thiago Silva faz coro por retorno de João Pedro ao Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPXzhvb3hiaEtvQjFtd2l2bUF1Qko3ZVJSQmJZNUQtUTdOQXdubElKTFEwM2xPZ19peF9BZHhmSnBHcUIzY0tJQnBaSGFSWGYzMkUybldzUHZGRUlLR2xnc3l2ekM0aVFqbm1YcVAtLVEyNUE1bHhGdGU1dFl2X1VjNWNhdC15MGp1WDBET2pJSWk2RFJqQkh1VlJxZ01WTlpOWXpieHFvTk9qYkgtNDZicWZ0a2Rta2t1dXFJZE9KeGJaazJ1dEJrdFNTc0RFODlCSVBsd041TTlJLUZUY3JNa0k4NXF6bGg1NGhBcHJkN2xaeXNt?oc=5",
-      "data": "11/11 14:34"
+      "titulo": "Fred é eleito o maior ídolo da história do Fluminense em votação popular - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkVyTkVMQVFpY0dyU3RIY3QtMDBka3AtYXhmVS1KR3lSS2tIcDlSSmdZUHlqbmd5c0NSZFYtcTRUV0x4Y1FlV2owQWxUOEFoTGgtWVN0aFBZbnIwWDZnclJtUDRwUzE2eDBQVHZaNzR3cEg3akhEUUpnQTF0TjhoWnVlcnE4Z1ZtSzVuVzdzSjF2SmZHb3ZmRWMzek5lTUZDRHZDeTFFN0t1clNWMFZLNHVGZw?oc=5",
+      "data": "11/11 23:00"
     },
     {
       "titulo": "Thiago Silva publica foto ao lado de João Pedro, ex-Fluminense, e brinca: \"Volta logo\" - ge",
@@ -1276,14 +1266,14 @@ window.PAINEL_DATA = {
       "data": "11/11 16:52"
     },
     {
-      "titulo": "Thiago Silva atinge feito especial e entra em ranking liderado por Martinelli no Fluminense - NETFLU",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXdKT0F2ZHE2VWhJNWg0RDg3bUJJdUpoMEY0aHZlQ2Zic0hLSHRTVjFzUzRBQzVFVTdlLVoyUTZTZzNhOTkwSHJvVDRXZGRHNnZGVkZNaGQxMnpBNHoxaEw3RmF0OTZMUmp3d2IzTXFsYWFHTFhqLUQwSm1mVGdPc0VWVkgzQkJTbE9Wb1Q1M2ROeGNScHhuWUloWDlPVlpqSlBac3ZfZUZqd3F1Rjh4QXlYdkFLbWctcXc?oc=5",
-      "data": "10/11 15:29"
+      "titulo": "Fluminense goleia America com quatro gols de Samuell Esperancin na Copa Rio Sub-15 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM1M3ZUREFYNjFFdnhyQ3ZyZXBNRnFmaGlBaUVxZmFMN1BseERTRG1pb1o5dE5EOWJPU2I0ejNMdHdtYXBQS3JVd3BRek4xZm0tVzB5ZlRXNDNFT2JaZ25LckpzS19laWpaNlVKdXQ1ckVQMU1FZk5vQjFGNVhEdHpwWnJ3X0ROOUtKXzgxNGJQRnBqM2NwUUtmVGwxM05SeG1sRFZSb3RTOVRSeExxOENYOS1YOUxqTi1ZZw?oc=5",
+      "data": "11/11 16:50"
     },
     {
-      "titulo": "Fluminense avalia Dorival Júnior para 2027 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdElTN0dwa0tRNVlOMWtDaE41WWZBN18tbUNtb1MyeHZkVlJZOEJmbG1ueFU3Znl1MkludFMydFNBdE1ubXJvaXNJalhvanVhajE5bGVZYjZVcHpYb2ZGQjdhOFphQ0F6WkpKNEpBWnNiWTYtME4yZnNYcE5LUFBuaVJPeFZ5Tnp0cm0zRHVwdXB4MEZFNzNDZ0RTZk85bHM1MzZyUWVRR2FxRDVnWUlDNmdHU2tZRzdtVFBEVzBjN0FKT2RDUWd5enFB?oc=5",
-      "data": "11/11 15:54"
+      "titulo": "Édson Leivinha será o técnico do Fluminense na temporada 2027 - CidadeVerde.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3drUW9IVzNVaUdxMGtROTJVaGdHVG5fcVdoZXlZNUhfSU5hSGxxVmhWTXNIay1mZzlsUlI4ZE9DbEZQVndFUE12OEk3bTNBS2xtR3VXai1aaVBmMUJWWXVlMzhKdkp1aTFXZS11dE1CY3BfY3VQRUQyd0d6aDhrNmhQaEh3dUdHQ2hBdDV0ejduNEwzby1sTW81MkgxSllZdlE?oc=5",
+      "data": "11/11 18:19"
     }
   ],
   "avisos": [
