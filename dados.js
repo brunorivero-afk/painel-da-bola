@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "12/11/2026 14:52",
+  "atualizado_em": "12/11/2026 20:08",
   "jogos": [
     {
       "sport": "futebol",
@@ -1272,9 +1272,9 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.5,
+      "temp_max": 29.3,
       "temp_min": 20.6,
-      "chance_chuva": 14,
+      "chance_chuva": 10,
       "condicao": "Nublado"
     },
     {
@@ -1293,27 +1293,27 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 26.0,
+      "temp_max": 26.4,
       "temp_min": 16.3,
-      "chance_chuva": 71,
+      "chance_chuva": 89,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "FC Dallas pode comprar Santi Moreno do Fluminense; saiba detalhes - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVJNZU9oaWpmbzRubFNXZFpkQ0h5Z05HeF9WQjVsdjU4OXoweTd6NzQtY0N4Q2tlcVVKZFdqV0ZHRWhlMkZQVnFyTHluQnRVdmNDQlItMEctYmp3NDU1NXhQZ2ZET01MNzA2VUo2dmJNTGNTMjRQTk9CV1RGR2I4UURwQXkxSUpZNXNuWFpWUVNNc0hiYkFueVlTdlpQWEJyb1FTRnRubGJPUGtQajVQWHVpWHhpbnZxU3N0QlZPbFVNa0JCNk9IdklEM3dqNzF4Q0h3bjFPdHB5Z1YwcnRuVTh2dUZYMHF5Qmlv?oc=5",
-      "data": "12/11 16:16"
+      "titulo": "Andrey, do Fluminense, é cortado por lesão e está fora do Mundial sub-17 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd3VjX041bHVjcGx4Wl9ZNjkyYWRHU09GVlVMWWRoUmN6QWxnQTdyU2tVeTdUcUZHMTFhVXBXeDN6MThlekVnZ3NlUzA4UEItUDdKQ09HQTFpQVZGRVlmcW9XamtsRFhISkkyNTN3S1R4U0ZMcnVjZjZPQ1BjQmFlckVxV0U1YkxPX0w0SmJjOWhTcE5GZENKY3J5cmxGUnotWWF0alR3WmUxSzRFdnZIZlMwckhtMmlUZEpNX1FuYkxjaEd3bVFMWENrTkFidGR3ZElRU1dfWmjSAecBQVVfeXFMT3dHSzBoNWpycnR6MXFzdk1jaWoxd3hxX09jUk0zN0M4akMwQ1l5d3B6VGRBMzJ4cTdFWThoMkdwUzVnOVV4RUczcmpGMWZhVk4tR3dVVFFGVVJ6Um9sYjdGdlhTM0REQXBSRHJ0bldCUnRwR242QjNKa0J6XzFnRE9iWGpVQkJvd2ZKVTJyU1h4ZmpKZ05scGNjbmRmZTBvWWhVRl9MQjN1NF9tRi1ENmcxb2dreWV3eEg1ZnpxeE5sTnFWREg0Z1ZaM1lEU3VGb0xCQTZ4R2oxeVlMS20yamdLalh0SVVR?oc=5",
+      "data": "12/11 20:34"
     },
     {
-      "titulo": "Campeão da Libertadores com o Flu brilha e encerra temporada da MLS em destaque - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOek8zQmVkanBZb0FZbmJrTkwteF80bEQ0QnUxeGhwZmQtaFpwX2Z5U3lsVHdPUnItVWdJUlR1blZFT0NYdTZ0eHdxeEdacmEtUlZQdlpLOGNKck51dWFyS1R1ZzlGZnVRNFRHc01DeUU4LTB0R3VzeGs2RzJWZTJaV1JHbVk2Q19MTEhZQVp5b1cyMlFkVjNWT0dYVHo2cTdlZDVXRlI3RGdkY0lVVFZ4VU5hSDAzZVZ0ajN5QjdaWEtxVzh4QUIxcXdOZXcwcjhTakE?oc=5",
-      "data": "12/11 15:22"
+      "titulo": "Olimpia não deve ficar com Rubén Lezcano; veja o futuro no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcUdveHFYdDRacFNPb0Z6VDhjSW9LWGZvdm5jWFQ5NkxMRGJ6ZUxhbkZIQWFDRWZfMUhPS3pGdmVUOTRsdFN1T0liS1VCakN1cmFKNE9fTWZWSVNQYUg1dTlUYnBpV0pxVGtMWFcyLXZDWHpkc29jT3ZZd2J2c29YV3hiVXpFREtRYk5ySTVPejR2S1g0Q1hBS3Z2R3NhbzN3Z2NCY203M1loeC1VRHlwNkQwUTBVWGpHVTNDS1BUeG1Qcy1JLUFtMlR4SzNYc0dzMS0zcjhUNktPc2NGRndCZXFGZWdvczk2RjR3d211a1Q?oc=5",
+      "data": "12/11 18:27"
     },
     {
-      "titulo": "Fluminense disputará todas as categorias da Copa do Brasil de base em 2027 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHVOVTBPMEhMN2FQSWoyNmJDaWpuUjluQlNXbG5zZzJLT2NucndPOEVBSDdvWnNNRXY1WDFqVl91RkMwaUU0Vl81NUUwRGZfNDE5TWZiVUNndnhvamZ3UFJYWDVPdmJZcC1hdXNKRktqRkt5blVOQUg0OURXWEpzaWtwUUxmUEVFcDNnbHNhRGNqQ3p1WVNoYnEwLTc4THhoZ2dLQ2piRXZJeE1KTVNrdXRn?oc=5",
-      "data": "12/11 15:00"
+      "titulo": "Atacante do Fluminense marca 5 gols em 8 jogos na Europa - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNDBZYnBQbzJWVkFTRDl0eDN3NXhSODZaRjZyTDctaUlXSHFjTnYtQ3Q4WjhVaUM5THpMTVVBWjlEMjFQdEtYOVVHTHRLRE9ZZ0NlRmg2T3J6dVVwVHNfWTJ1UWVwUUx3T2prTWo0Q3h3QWw3a1NrMjVQczBIelVObkpPbWp3eEozM0hoNFp0MXdPXzhmU1BwYVEyckVmTlo5Wk56MGQyTUY3YmtXT1NoUHY0TVZSUWNFV1J2Z3JKaG1PQWFOMUJjTXltWlN6dUNOdDZXNnJnTjUtS2RkUzNFWQ?oc=5",
+      "data": "12/11 19:34"
     },
     {
       "titulo": "Raio-X dos emprestados do São Paulo tem meia em baixa e destaque na Série B - UOL",
@@ -1321,13 +1321,15 @@ window.PAINEL_DATA = {
       "data": "12/11 08:30"
     },
     {
-      "titulo": "Fluminense pode usar reta final de temporada para valorizar jogadores; entenda - GE",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEdaQjhZUDZpdVJkY2VnYk1EbVc0d1NXZEY4VkhOQzBXLUVjLUxDbnVOREcyRnI2WEpISnZNUlBMRTNGN29yS1lPdV9VcWRpWmFjSDFocWgzM1ZzX3BacHpGNnZCdHZtbE1ST25DNGNnalotR3ZobVBvS3FKazhSRTJTNjZJdWdzdUJLQTJDWUhtUG1Oa1J4R1JyQ1JyV2UyX19UX1l0clc4WDhqTXRsd1NTZTEtRGxkVVNxbTZQdkxOMDhnVGFKd2s1dzl6Snk1WEFyUUV3Qy14ODl4MUNDNFlR0gHwAUFVX3lxTE5Nd2pWSDhkUUJKcE9nam1tTUozUVc2UHdCOVNQSU9mc0dLQlU5b2VMSXpHV0Y1UFVzcm5MalVtdlEta0VwRG1MYmMxVmRYOEd4ZkhCc3RyQVBLSXpXa3JsMm9VaUdwc3F4b25uTkNLVy1MeTNTTUpsd2pMb2x1bXhvWVBXWndsd0VxMndTNEpjVVdmT1hybDZldXlLMUQxcFhjcWsyZWdkOUp3T19CWW5UR3EyZERWOEhCbkt3UnpZUGRWZUVqMEliVTEwaUh2M1Y2emluUTJxQmNiVDY5ZUowY2gtX2JYVFZuWkdJSUF2RA?oc=5",
-      "data": "12/11 07:00"
+      "titulo": "Fluminense disputará todas as categorias da Copa do Brasil de base em 2027 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHVOVTBPMEhMN2FQSWoyNmJDaWpuUjluQlNXbG5zZzJLT2NucndPOEVBSDdvWnNNRXY1WDFqVl91RkMwaUU0Vl81NUUwRGZfNDE5TWZiVUNndnhvamZ3UFJYWDVPdmJZcC1hdXNKRktqRkt5blVOQUg0OURXWEpzaWtwUUxmUEVFcDNnbHNhRGNqQ3p1WVNoYnEwLTc4THhoZ2dLQ2piRXZJeE1KTVNrdXRn?oc=5",
+      "data": "12/11 15:00"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
   ]
 };
