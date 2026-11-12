@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "12/11/2026 06:10",
+  "atualizado_em": "12/11/2026 14:52",
   "jogos": [
     {
       "sport": "futebol",
@@ -1201,9 +1201,69 @@
     {
       "sport": "volei",
       "date": "2026-11-12",
+      "time": "18:15",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Goiás x Campinas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-12",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Cruzeiro x Suzano",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-12",
+      "time": "21:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesi-Bauru x Sesc Rj Flamengo",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-12",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Paulistano Barueri x Brasília",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-12",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Londrina x Praia Clube",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-12",
+      "time": "19:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Osasco x Pinheiros",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-12",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
-      "match": "Campinas x Sesi-bauru",
+      "match": "Norde Vôlei x Cruzeiro",
       "channels": [
         "SporTV2"
       ]
@@ -1212,58 +1272,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.3,
-      "temp_min": 20.8,
-      "chance_chuva": 20,
-      "condicao": "Garoa"
+      "temp_max": 28.5,
+      "temp_min": 20.6,
+      "chance_chuva": 14,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.5,
+      "temp_max": 28.7,
       "temp_min": 21.3,
-      "chance_chuva": 16,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 14,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.3,
+      "temp_max": 24.1,
       "temp_min": 16.1,
-      "chance_chuva": 45,
+      "chance_chuva": 57,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 26.0,
       "temp_min": 16.3,
-      "chance_chuva": 55,
+      "chance_chuva": 71,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Potencial construtivo da sede do Fluminense é discutido; saiba detalhes - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV8tMWtnMTBoOVNYemcyR2ZfQ1lPd1N0TXFkd19yV09iNkVNM1ExaHBnOEpWbVVwLTBvZXZQWTlraGpjcHUyZ0FEcVNjaTFmM3Q0UElUbDJGVDVWYzRMblNxZ0U1c0h4d05jTXpRal9tcmtLQjVZcXltUXRzTC1oWmVMaEZkcU1LNm5NczdaOGx5NGw1ak0tM2stNzRyTmV0S21vN1daWUd6U3pKWHdKeA?oc=5",
-      "data": "10/11 19:50"
+      "titulo": "FC Dallas pode comprar Santi Moreno do Fluminense; saiba detalhes - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVJNZU9oaWpmbzRubFNXZFpkQ0h5Z05HeF9WQjVsdjU4OXoweTd6NzQtY0N4Q2tlcVVKZFdqV0ZHRWhlMkZQVnFyTHluQnRVdmNDQlItMEctYmp3NDU1NXhQZ2ZET01MNzA2VUo2dmJNTGNTMjRQTk9CV1RGR2I4UURwQXkxSUpZNXNuWFpWUVNNc0hiYkFueVlTdlpQWEJyb1FTRnRubGJPUGtQajVQWHVpWHhpbnZxU3N0QlZPbFVNa0JCNk9IdklEM3dqNzF4Q0h3bjFPdHB5Z1YwcnRuVTh2dUZYMHF5Qmlv?oc=5",
+      "data": "12/11 16:16"
     },
     {
-      "titulo": "Fluminense prevê área de circulação pública na reforma de Laranjeiras e retrofit do CT; veja imagens do projeto - ge",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdll5V05OeFBsZFkyeXVBM29kdjJtdXg5V2RzOXYwUzB6NDdfZjRLc0V2VzFwdDkwM0kxQlFuNnI5ZWotbVlTUGZOSEp4eFdKdUdoRjJyd016TFBlMHFfSWFDdGRCekxYbko1cVZJOGlMTUxoaGJnV25qN3Q2UFFXaEd0NW5wWkxSUDNBUnA0UkRueENpV3pqM3JCOWZ4dlNxVWJyU0d3V24yQkFZTXZqeE1vX2RleVJCSG4xTlVWNmVObmluTVdnS3FTVTU4M3AzR3psNUFUdzFyNWs3SU04WWs4WXpJWVltZmRheFp2dWV3R29EZzBEcmlvSDkwcmVMWDdzTF9XRWtvb0gyS2fSAZwCQVVfeXFMUHpSMGVaRl95WUltYnZzZUI1OC14a2thc29QVjZhNjRadUNiLVVFd28zaGpGRzhGclpOZllENlF2WU5hR1RGRjRVbzV3Um9DamxNUEYwZ2xmT2pFWGF2Rml3WVl6dWdJeWp5RVA3OVB6R0lBbnBnWG1TNzhtbVpCLXhVVTIwQkpQTHJRTXBDMXVVTEhMbl9GRHdVeDVZYTBGWE4tbzVMMTRSM1lvaEIxNjVuaUZMRVd0eGxuWXMtQWlrWlZlbU9weHRLSFNEb21FSHJsZGRnY3ZubS1qYTBVemkwdVEtQWhaWXRCRkdkcDU0ZXhhUDlFMXlscG85eVcwdldZY0tuUU9vYjg5UFVhZjNrVTM5WFFRNWR4dlQ?oc=5",
-      "data": "11/11 07:00"
+      "titulo": "Campeão da Libertadores com o Flu brilha e encerra temporada da MLS em destaque - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOek8zQmVkanBZb0FZbmJrTkwteF80bEQ0QnUxeGhwZmQtaFpwX2Z5U3lsVHdPUnItVWdJUlR1blZFT0NYdTZ0eHdxeEdacmEtUlZQdlpLOGNKck51dWFyS1R1ZzlGZnVRNFRHc01DeUU4LTB0R3VzeGs2RzJWZTJaV1JHbVk2Q19MTEhZQVp5b1cyMlFkVjNWT0dYVHo2cTdlZDVXRlI3RGdkY0lVVFZ4VU5hSDAzZVZ0ajN5QjdaWEtxVzh4QUIxcXdOZXcwcjhTakE?oc=5",
+      "data": "12/11 15:22"
     },
     {
-      "titulo": "Fluminense recebe audiência pública para debater venda do potencial construtivo de Laranjeiras - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeXNxQUUyaVhlRUotS2l3Mm9aSlZuUFYzQWtyOVhlUzNTNDlvQ1kwLWplVHoxQnJkckNsZ3RhUXdjYmpZX3p2ZDFRWTRMQTNpVm9wQ1doTlhQRHYta0RkWVJGZ09EdHY5dmR1LU1tTWJoU3VReTJsWXVHNUxtSHREQ0NhS1BrMWFwZjJ6QmpLUHBvZzlYcXdPRDJ1SWR0bzMzQTNmS21VNEhycWJvTnFtdzVJUHdxdjQwUXdkU2FYdUZ1dm9fd2lEd2EtOXk?oc=5",
-      "data": "10/11 19:29"
+      "titulo": "Fluminense disputará todas as categorias da Copa do Brasil de base em 2027 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaHVOVTBPMEhMN2FQSWoyNmJDaWpuUjluQlNXbG5zZzJLT2NucndPOEVBSDdvWnNNRXY1WDFqVl91RkMwaUU0Vl81NUUwRGZfNDE5TWZiVUNndnhvamZ3UFJYWDVPdmJZcC1hdXNKRktqRkt5blVOQUg0OURXWEpzaWtwUUxmUEVFcDNnbHNhRGNqQ3p1WVNoYnEwLTc4THhoZ2dLQ2piRXZJeE1KTVNrdXRn?oc=5",
+      "data": "12/11 15:00"
     },
     {
-      "titulo": "Coritiba estuda compra de Joaquín Lavega, do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYTdwbFdMdi14dmJTcWNIdjdKYkM3T1FPSm1PaWpoQVRrbThfTjFfUmVWemJDdDJxOVR0ck1JME55cURjV3czVk5oQy1LYzZoRUZVTS1naEtmZmxkT05WR3NLdmptU2pQMlI3eHRlRl9MbDRIelRSRUVEcU43MUhEWHZzb3E0YmlHNTZpejI5eUg0WFBySGI1VVhmaHAyQTRtRWN6cDJ5RU5qbGprdjRaTi0zZUpGZDl3SzdIN090Vm5YR2lHX3ZCclVwQWlmQncyQ1BrNUpLOVZBZw?oc=5",
-      "data": "12/11 03:26"
+      "titulo": "Raio-X dos emprestados do São Paulo tem meia em baixa e destaque na Série B - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd3c1NnVCRllvc2VTeFFGRDQ4dGhTUE16YnlzSFktWlRmY3haYnFTMjNpLXlSeDNBN2d1MHYxcjVzVUwwUTFMNHltYzdUdUZRSmtoSUIzaVJvWDVfdE05SFRNU0ZKUG82Tm1TR2otMWZlWElUYTN4Sm0tZHhpek1ZWUJRR0Zub0RTR19VTC1sVzh3V0hRVTZMbnE4dzItVG4tZE1ZZGlYcEZXbGJwNW9DczNuY2g2Q3V6UWZOUFNqeHdkeWYtSzNIR0NsNEI4ODRKVFhkaXhGQUEwQ0c5YUE0?oc=5",
+      "data": "12/11 08:30"
     },
     {
-      "titulo": "Fluminense goleia America com quatro gols de Samuell Esperancin na Copa Rio Sub-15 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM1M3ZUREFYNjFFdnhyQ3ZyZXBNRnFmaGlBaUVxZmFMN1BseERTRG1pb1o5dE5EOWJPU2I0ejNMdHdtYXBQS3JVd3BRek4xZm0tVzB5ZlRXNDNFT2JaZ25LckpzS19laWpaNlVKdXQ1ckVQMU1FZk5vQjFGNVhEdHpwWnJ3X0ROOUtKXzgxNGJQRnBqM2NwUUtmVGwxM05SeG1sRFZSb3RTOVRSeExxOENYOS1YOUxqTi1ZZw?oc=5",
-      "data": "11/11 16:50"
+      "titulo": "Fluminense pode usar reta final de temporada para valorizar jogadores; entenda - GE",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEdaQjhZUDZpdVJkY2VnYk1EbVc0d1NXZEY4VkhOQzBXLUVjLUxDbnVOREcyRnI2WEpISnZNUlBMRTNGN29yS1lPdV9VcWRpWmFjSDFocWgzM1ZzX3BacHpGNnZCdHZtbE1ST25DNGNnalotR3ZobVBvS3FKazhSRTJTNjZJdWdzdUJLQTJDWUhtUG1Oa1J4R1JyQ1JyV2UyX19UX1l0clc4WDhqTXRsd1NTZTEtRGxkVVNxbTZQdkxOMDhnVGFKd2s1dzl6Snk1WEFyUUV3Qy14ODl4MUNDNFlR0gHwAUFVX3lxTE5Nd2pWSDhkUUJKcE9nam1tTUozUVc2UHdCOVNQSU9mc0dLQlU5b2VMSXpHV0Y1UFVzcm5MalVtdlEta0VwRG1MYmMxVmRYOEd4ZkhCc3RyQVBLSXpXa3JsMm9VaUdwc3F4b25uTkNLVy1MeTNTTUpsd2pMb2x1bXhvWVBXWndsd0VxMndTNEpjVVdmT1hybDZldXlLMUQxcFhjcWsyZWdkOUp3T19CWW5UR3EyZERWOEhCbkt3UnpZUGRWZUVqMEliVTEwaUh2M1Y2emluUTJxQmNiVDY5ZUowY2gtX2JYVFZuWkdJSUF2RA?oc=5",
+      "data": "12/11 07:00"
     }
   ],
   "avisos": [
