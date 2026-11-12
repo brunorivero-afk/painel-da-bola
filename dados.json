@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "11/11/2026 22:51",
+  "atualizado_em": "12/11/2026 06:10",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Suzano x Guarulhos",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Minas x Londrina",
@@ -1150,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc Rj Flamengo x Fluminense",
@@ -1160,7 +1150,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Cruzeiro",
@@ -1170,7 +1160,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Sesi-bauru",
@@ -1180,7 +1170,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Sesi-Bauru",
@@ -1190,7 +1180,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brusque x Brasília",
@@ -1200,7 +1190,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "10:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Monte Carmelo x Praia Clube",
@@ -1210,7 +1200,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Sesi-bauru",
@@ -1222,58 +1212,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.6,
-      "temp_min": 19.7,
+      "temp_max": 28.3,
+      "temp_min": 20.8,
       "chance_chuva": 20,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.6,
-      "temp_min": 19.5,
-      "chance_chuva": 43,
-      "condicao": "Nublado"
+      "temp_max": 28.5,
+      "temp_min": 21.3,
+      "chance_chuva": 16,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 20.5,
-      "temp_min": 13.0,
-      "chance_chuva": 71,
+      "temp_max": 24.3,
+      "temp_min": 16.1,
+      "chance_chuva": 45,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.5,
-      "temp_min": 12.0,
-      "chance_chuva": 91,
-      "condicao": "Garoa fraca"
+      "temp_max": 26.0,
+      "temp_min": 16.3,
+      "chance_chuva": 55,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Emprestado pelo Fluminense, Lezcano não seguirá no Olimpia - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWl9ja1JGMlFsdk02OWl3YmZZaC1qUENpaWdZLTc2XzBtUzV5Z0xBS3pkV3NWNUlKcFE0cHVES0ZGMEJvZUFON0JUM0xGWWYzeFRJMUlxVDNUTnloNE5YdUxNd2FjUmc0bkQyRk1aN19LQTIzR1pvMGFQbW1GZmVRSE9SVExqZ3dkcXBxd1k1bHkyekk4d1g5X0c4RnljZnY5cEdTbnRpSlJfYk12XzF6d0F0M3FzbWt5ekwteGgtMkhMTC1WaFBRQ05NSkxjNW5tZk1tcl9CcE1FTnNhUGhlRWh3?oc=5",
-      "data": "11/11 22:29"
+      "titulo": "Potencial construtivo da sede do Fluminense é discutido; saiba detalhes - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeV8tMWtnMTBoOVNYemcyR2ZfQ1lPd1N0TXFkd19yV09iNkVNM1ExaHBnOEpWbVVwLTBvZXZQWTlraGpjcHUyZ0FEcVNjaTFmM3Q0UElUbDJGVDVWYzRMblNxZ0U1c0h4d05jTXpRal9tcmtLQjVZcXltUXRzTC1oWmVMaEZkcU1LNm5NczdaOGx5NGw1ak0tM2stNzRyTmV0S21vN1daWUd6U3pKWHdKeA?oc=5",
+      "data": "10/11 19:50"
     },
     {
-      "titulo": "Fred é eleito o maior ídolo da história do Fluminense em votação popular - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQkVyTkVMQVFpY0dyU3RIY3QtMDBka3AtYXhmVS1KR3lSS2tIcDlSSmdZUHlqbmd5c0NSZFYtcTRUV0x4Y1FlV2owQWxUOEFoTGgtWVN0aFBZbnIwWDZnclJtUDRwUzE2eDBQVHZaNzR3cEg3akhEUUpnQTF0TjhoWnVlcnE4Z1ZtSzVuVzdzSjF2SmZHb3ZmRWMzek5lTUZDRHZDeTFFN0t1clNWMFZLNHVGZw?oc=5",
-      "data": "11/11 23:00"
+      "titulo": "Fluminense prevê área de circulação pública na reforma de Laranjeiras e retrofit do CT; veja imagens do projeto - ge",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdll5V05OeFBsZFkyeXVBM29kdjJtdXg5V2RzOXYwUzB6NDdfZjRLc0V2VzFwdDkwM0kxQlFuNnI5ZWotbVlTUGZOSEp4eFdKdUdoRjJyd016TFBlMHFfSWFDdGRCekxYbko1cVZJOGlMTUxoaGJnV25qN3Q2UFFXaEd0NW5wWkxSUDNBUnA0UkRueENpV3pqM3JCOWZ4dlNxVWJyU0d3V24yQkFZTXZqeE1vX2RleVJCSG4xTlVWNmVObmluTVdnS3FTVTU4M3AzR3psNUFUdzFyNWs3SU04WWs4WXpJWVltZmRheFp2dWV3R29EZzBEcmlvSDkwcmVMWDdzTF9XRWtvb0gyS2fSAZwCQVVfeXFMUHpSMGVaRl95WUltYnZzZUI1OC14a2thc29QVjZhNjRadUNiLVVFd28zaGpGRzhGclpOZllENlF2WU5hR1RGRjRVbzV3Um9DamxNUEYwZ2xmT2pFWGF2Rml3WVl6dWdJeWp5RVA3OVB6R0lBbnBnWG1TNzhtbVpCLXhVVTIwQkpQTHJRTXBDMXVVTEhMbl9GRHdVeDVZYTBGWE4tbzVMMTRSM1lvaEIxNjVuaUZMRVd0eGxuWXMtQWlrWlZlbU9weHRLSFNEb21FSHJsZGRnY3ZubS1qYTBVemkwdVEtQWhaWXRCRkdkcDU0ZXhhUDlFMXlscG85eVcwdldZY0tuUU9vYjg5UFVhZjNrVTM5WFFRNWR4dlQ?oc=5",
+      "data": "11/11 07:00"
     },
     {
-      "titulo": "Thiago Silva publica foto ao lado de João Pedro, ex-Fluminense, e brinca: \"Volta logo\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQkpaWm03YlBKYmVyMEVEMVNQeXFrRExiR2hkcnk1S2JpaU5NRExwM1AxSEh5UGxScWxGQlBPcC16QlNSdU5BeE5rb0tPN1pKaTVpTEFWb0ZKbXRLYlRyWjhhMXRzdjltTFJRNldxZEZqUjRhczlEWndpRm5XUk50N21wcHhfeThsX3diMWRKMEY0ZGZYYTgwOVZVYmxLdlV6RzlfaVYzeU1sdnp1Zzl0Nml5T2xVZU1nV3NreTEyenBKRGFCMHFKMTNzRHZSUFpvcFFNVkY2THBKcjNuM0h1UHQyVGFURUHSAfYBQVVfeXFMUGtEMHNMbWlNZXZYNGJmbTZvQWxxSFhzUHhKTm4tNGNCZG1mZU5vMzlwMDFmT096WDJBdGIxVEtJSGhmNFRCX1Awdll0T0RWbVFBYmJvbDhBMjNpWjJaU3NoQjkzNUFLanlQMXR5Q1R5eVNibWtKNU9kNndRem85U21SMGUzNUhEbUlZeDFJa2dWTlFXUlR3U2t3cEV6VG53REFOTl9ETzhjdzM1Y1pYRlJ6cVExeTc1RVM0MlA1LW1CTHlwVVhkM215MTd5dFkwWFRUTkdsa0hIeXdRckVWRnY3RXVUVFYtWl8zSmwyOGVuekRKZnVn?oc=5",
-      "data": "11/11 16:52"
+      "titulo": "Fluminense recebe audiência pública para debater venda do potencial construtivo de Laranjeiras - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeXNxQUUyaVhlRUotS2l3Mm9aSlZuUFYzQWtyOVhlUzNTNDlvQ1kwLWplVHoxQnJkckNsZ3RhUXdjYmpZX3p2ZDFRWTRMQTNpVm9wQ1doTlhQRHYta0RkWVJGZ09EdHY5dmR1LU1tTWJoU3VReTJsWXVHNUxtSHREQ0NhS1BrMWFwZjJ6QmpLUHBvZzlYcXdPRDJ1SWR0bzMzQTNmS21VNEhycWJvTnFtdzVJUHdxdjQwUXdkU2FYdUZ1dm9fd2lEd2EtOXk?oc=5",
+      "data": "10/11 19:29"
+    },
+    {
+      "titulo": "Coritiba estuda compra de Joaquín Lavega, do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYTdwbFdMdi14dmJTcWNIdjdKYkM3T1FPSm1PaWpoQVRrbThfTjFfUmVWemJDdDJxOVR0ck1JME55cURjV3czVk5oQy1LYzZoRUZVTS1naEtmZmxkT05WR3NLdmptU2pQMlI3eHRlRl9MbDRIelRSRUVEcU43MUhEWHZzb3E0YmlHNTZpejI5eUg0WFBySGI1VVhmaHAyQTRtRWN6cDJ5RU5qbGprdjRaTi0zZUpGZDl3SzdIN090Vm5YR2lHX3ZCclVwQWlmQncyQ1BrNUpLOVZBZw?oc=5",
+      "data": "12/11 03:26"
     },
     {
       "titulo": "Fluminense goleia America com quatro gols de Samuell Esperancin na Copa Rio Sub-15 - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTM1M3ZUREFYNjFFdnhyQ3ZyZXBNRnFmaGlBaUVxZmFMN1BseERTRG1pb1o5dE5EOWJPU2I0ejNMdHdtYXBQS3JVd3BRek4xZm0tVzB5ZlRXNDNFT2JaZ25LckpzS19laWpaNlVKdXQ1ckVQMU1FZk5vQjFGNVhEdHpwWnJ3X0ROOUtKXzgxNGJQRnBqM2NwUUtmVGwxM05SeG1sRFZSb3RTOVRSeExxOENYOS1YOUxqTi1ZZw?oc=5",
       "data": "11/11 16:50"
-    },
-    {
-      "titulo": "Édson Leivinha será o técnico do Fluminense na temporada 2027 - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR3drUW9IVzNVaUdxMGtROTJVaGdHVG5fcVdoZXlZNUhfSU5hSGxxVmhWTXNIay1mZzlsUlI4ZE9DbEZQVndFUE12OEk3bTNBS2xtR3VXai1aaVBmMUJWWXVlMzhKdkp1aTFXZS11dE1CY3BfY3VQRUQyd0d6aDhrNmhQaEh3dUdHQ2hBdDV0ejduNEwzby1sTW81MkgxSllZdlE?oc=5",
-      "data": "11/11 18:19"
     }
   ],
   "avisos": [
