@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/11/2026 01:48",
+  "atualizado_em": "13/11/2026 09:48",
   "jogos": [
     {
       "sport": "futebol",
@@ -1241,9 +1241,49 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-13",
-      "time": "20:40",
+      "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Norde Vôlei x Cruzeiro",
+      "match": "Campinas x Monte Carmelo",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Praia Clube x Guarulhos",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-13",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Suzano x Minas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-13",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Minas x Londrina",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-13",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Sesc Rj Flamengo x Fluminense",
       "channels": [
         "SporTV2"
       ]
@@ -1252,48 +1292,48 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.4,
-      "temp_min": 21.8,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 28.6,
+      "temp_min": 22.2,
+      "chance_chuva": 91,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.6,
-      "temp_min": 21.7,
-      "chance_chuva": 98,
-      "condicao": "Trovoada"
+      "temp_max": 29.4,
+      "temp_min": 22.5,
+      "chance_chuva": 84,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.4,
-      "temp_min": 16.1,
+      "temp_max": 25.8,
+      "temp_min": 17.3,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.8,
-      "temp_min": 15.8,
+      "temp_max": 26.2,
+      "temp_min": 16.7,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
+      "titulo": "Fluminense se movimenta para contratar zagueiro do Atlético-MG - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdVNmU0RVQlZlcGFrYVQzQmVkR0VuTGFKRVowRk9VOW9JWlVDWVJ4SU1WYThoeVFpMkllUDhPZkhiWDFkSTBjV2IxZlg4YmphcnFuN1JaQ2R5ZUxnOG9lOTJwRmlBeDRuOTVOMi1jYUNjM3BXR3hIVVhxRmQ0a2VSTnBhdC1kbFhUSkhzZzBJVHZFMnJBSlI4REFCV0xPTWNXQlFjUkxBVlpENTk1V09GTUxSNk9Gd3BKd2JWNUcyeEhSejF4N0kwaWY3QXg0cy1UYTVkY1V6M2dfaG5IaWZjYlllazM3eG1l?oc=5",
+      "data": "13/11 12:12"
+    },
+    {
+      "titulo": "Fluminense prioriza reta final do Brasileiro, adia planejamento para 2027 e projeta mais espaço para a base - ge",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcmpRUkFJWnMwNWxJaDNpZW5fb0t1NlhPSUdKV05vc2VHMGlqbjFzaUpWQmVZbWQtdTBkeVplYUZTTFQ1WXpndE13YXZmeVRacUV5ZFFfY2s5Q2tacTV3RE13OXFaSUVJUFp1UllERFdEMzhUV3hQZ3Y1cnpVNTcwanhFZHppcXRGbERsNGtJc1hhMlk2UktHSzFQVE55YnVjT2d0b0ZneTRGcjhGenpCNVQ2V3hZVnptWEROYkRUQzRrVmtXVFZiM1A4UVNHSTVNakdLTlZHZ3RMVHJGUW1mb0RJeWFSaWJIWGVQdHFKS09mQndiVUowcVJMd1FvRWktYXNxTHdYcXDSAZcCQVVfeXFMTmtuaTVLSzFpWGk3bXN5ZUt5TUpnTlZqcmZWYm1nbDFCSUNxZ1N2RWkxX1AtY0lncjdoRl9FZjJ1SkdfcWpBUnlOTWNUaUw4bEVzRWNjd1Axd1lhZWZyMWp2S3dxaUV3S1pvakIyWnpPZjFRUnltNDdhQ1czZk5kQ3VpT3Uwd0ZUeVA5N0J4UHZUYVJKcndEQ0xTLUpwLUVTWk5RTHo5SGJsOWtNQUJOSnAzeTJWZlgzd3dsTEpUNFlEa3gwOVhDM2ozaUhndzA2TDFEMXNuRUxKRnFwN2Zva241QUs2VTE3cjNEVjhvN21JbGxvb3h2UVBEX2RfX01rcnFQZ0hwMFEzd1dpSHBVbklVc0RCQW93?oc=5",
+      "data": "13/11 07:00"
+    },
+    {
       "titulo": "Fluminense perde para o Sesc RJ Flamengo pela Superliga Feminina de Vôlei - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlpodF9kQzBzdTJyM0M0dFd3ck9kRmdMLU9rTGtHZkY3VHZRWDBCbmU3eEdiajVIdUxJbW03SU1rVVNxZmZjUjVFQjRPQm9LTUhMb3dUbGlhM3NXTFpsc01TV0xoMlk1bkV4emduYVp2bGpEdkxjVjNPTVYxYUZ5ZU1UYTVJNFFJTTlaeV9zaVI3b1dOT3NyZFROampxRlhMOG1zQk1hOWJDN092SlNjQw?oc=5",
       "data": "13/11 02:10"
-    },
-    {
-      "titulo": "Andrey, do Fluminense, é cortado por lesão e está fora do Mundial sub-17 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd3VjX041bHVjcGx4Wl9ZNjkyYWRHU09GVlVMWWRoUmN6QWxnQTdyU2tVeTdUcUZHMTFhVXBXeDN6MThlekVnZ3NlUzA4UEItUDdKQ09HQTFpQVZGRVlmcW9XamtsRFhISkkyNTN3S1R4U0ZMcnVjZjZPQ1BjQmFlckVxV0U1YkxPX0w0SmJjOWhTcE5GZENKY3J5cmxGUnotWWF0alR3WmUxSzRFdnZIZlMwckhtMmlUZEpNX1FuYkxjaEd3bVFMWENrTkFidGR3ZElRU1dfWmjSAecBQVVfeXFMT3dHSzBoNWpycnR6MXFzdk1jaWoxd3hxX09jUk0zN0M4akMwQ1l5d3B6VGRBMzJ4cTdFWThoMkdwUzVnOVV4RUczcmpGMWZhVk4tR3dVVFFGVVJ6Um9sYjdGdlhTM0REQXBSRHJ0bldCUnRwR242QjNKa0J6XzFnRE9iWGpVQkJvd2ZKVTJyU1h4ZmpKZ05scGNjbmRmZTBvWWhVRl9MQjN1NF9tRi1ENmcxb2dreWV3eEg1ZnpxeE5sTnFWREg0Z1ZaM1lEU3VGb0xCQTZ4R2oxeVlMS20yamdLalh0SVVR?oc=5",
-      "data": "12/11 20:34"
-    },
-    {
-      "titulo": "FC Dallas pode comprar Santi Moreno do Fluminense; saiba detalhes - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMVJNZU9oaWpmbzRubFNXZFpkQ0h5Z05HeF9WQjVsdjU4OXoweTd6NzQtY0N4Q2tlcVVKZFdqV0ZHRWhlMkZQVnFyTHluQnRVdmNDQlItMEctYmp3NDU1NXhQZ2ZET01MNzA2VUo2dmJNTGNTMjRQTk9CV1RGR2I4UURwQXkxSUpZNXNuWFpWUVNNc0hiYkFueVlTdlpQWEJyb1FTRnRubGJPUGtQajVQWHVpWHhpbnZxU3N0QlZPbFVNa0JCNk9IdklEM3dqNzF4Q0h3bjFPdHB5Z1YwcnRuVTh2dUZYMHF5Qmlv?oc=5",
-      "data": "12/11 16:16"
     },
     {
       "titulo": "Campeão da Libertadores com o Flu brilha e encerra temporada da MLS em destaque - LANCE!",
