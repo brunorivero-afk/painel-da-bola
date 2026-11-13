@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/11/2026 09:48",
+  "atualizado_em": "13/11/2026 17:15",
   "jogos": [
     {
       "sport": "futebol",
@@ -1321,33 +1321,37 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
+      "titulo": "Thiago Silva se reapresenta ao Fluminense e participa de treino no CT Carlos Castilho - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb3BYTjZIdnNjZHByVmNDSjMyNi1lSkEydFBXUEg1cklLcmw3T29OTWRJQVQtLVJIYzFpOHIwU0ZMV043MWdVQ1V3SW52dFJaT1dDT0hHWnc3UlFRMWVmTDdaTnNrVjdkdVJ5Y2N4UmI4TGZEaFN3cGRic3NSMjYyMW8zUGtsaThpMmJoNklDZjQ4X3BQMjZqMVNvMTRYVzU3RHdWaGJuZTVPZ0l3ZURhMWxRYmFNV2ZCYkk2U0NFdVNfMjhPOUtlbUZLTXpEQW9GZmNNTm9IMVNLd1JYRmxHbnNXeFdzdncwZS1CQtIB-wFBVV95cUxNdFk5Q21uTDBndHFKNUhEYnd1dlAzc1lKQ3BuZ3U5MnFnS2hIZmQtOUxGMU52UHpjZ1g2aVRmZmNsLXRmbVo4NDlxNXpocWZ6OFFUUlRTXzExQUZkaHM3cmIzVjFCSzVZQllqZUZTZWxwNmJRTkNDb0MtWUZzdE9QcTZYS0RtLUQ0ZGlXRjVNN0VkNnlXSGIwb3RENHFnMWFkLTRQX2VrZWsyNGxraTV6VFB3eXBjcjFDMFhrT0Rpak1kcnVfdnE5TmJ4SjBobm5EWTNQdjJrQzgwTjlBOTI4ZnVnZVJWTDR1eXBUbENvcFJLQ0NXc2VBbXN6OA?oc=5",
+      "data": "13/11 18:18"
+    },
+    {
+      "titulo": "Fluminense e ONU firmam parceria para promover a sustentabilidade através do futebol - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeENtVjBackR0UjJIbl8zdzNMU2tZRGppLUdSZWlYYjdxcDJJNHY5ZC1xalh5MUk0bkQzZXoxLUZxSmVMc0VFMXBWTmpQZGNrTEx6UEJmM2EyOHdYalVrRjFBcG8yYXJvSk5qVklGaWdnenF5M0lnVEhFZVdya0pQN0t3MmRXeEJQZzgwWU1NUlJqUkJSRkF6bTVhNkR2Yk5Lbzgzbjd3eHEwcWlqYjB4S05vNEt5TUE1MFpnYXF3Zw?oc=5",
+      "data": "13/11 16:00"
+    },
+    {
+      "titulo": "Dirigente do Nacional-URU critica Santos e Botafogo por dívidas e elogia Fluminense: 'Sensato' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXpVSGJxVkdldUNjSFZrbXd0U2RxcnAwWkltdVgyR0hHVlkwOGRtVWxpeHFiVC1pUEtWQW9tSlhfbEJjdDhhTlZjLWNxYUctM3Qza1AydlZQUlg0UW5YOG8wV3EzU2dsaTNaWlNuQUN3OERHblRVMDZBX0IyNFpFaC00ZnY4YVRKMl9vaVN1SzF6SFVCNDVXakotYkl0aVVIMjNfZENwMExrSlhCM2JnSTVqbGNGTHhiZXZBa0otUDg4UFdaM1pRQ3RhdXJ3MnlGSXd4SQ?oc=5",
+      "data": "13/11 18:12"
+    },
+    {
       "titulo": "Fluminense se movimenta para contratar zagueiro do Atlético-MG - Terra",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdVNmU0RVQlZlcGFrYVQzQmVkR0VuTGFKRVowRk9VOW9JWlVDWVJ4SU1WYThoeVFpMkllUDhPZkhiWDFkSTBjV2IxZlg4YmphcnFuN1JaQ2R5ZUxnOG9lOTJwRmlBeDRuOTVOMi1jYUNjM3BXR3hIVVhxRmQ0a2VSTnBhdC1kbFhUSkhzZzBJVHZFMnJBSlI4REFCV0xPTWNXQlFjUkxBVlpENTk1V09GTUxSNk9Gd3BKd2JWNUcyeEhSejF4N0kwaWY3QXg0cy1UYTVkY1V6M2dfaG5IaWZjYlllazM3eG1l?oc=5",
       "data": "13/11 12:12"
     },
     {
-      "titulo": "Fluminense prioriza reta final do Brasileiro, adia planejamento para 2027 e projeta mais espaço para a base - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcmpRUkFJWnMwNWxJaDNpZW5fb0t1NlhPSUdKV05vc2VHMGlqbjFzaUpWQmVZbWQtdTBkeVplYUZTTFQ1WXpndE13YXZmeVRacUV5ZFFfY2s5Q2tacTV3RE13OXFaSUVJUFp1UllERFdEMzhUV3hQZ3Y1cnpVNTcwanhFZHppcXRGbERsNGtJc1hhMlk2UktHSzFQVE55YnVjT2d0b0ZneTRGcjhGenpCNVQ2V3hZVnptWEROYkRUQzRrVmtXVFZiM1A4UVNHSTVNakdLTlZHZ3RMVHJGUW1mb0RJeWFSaWJIWGVQdHFKS09mQndiVUowcVJMd1FvRWktYXNxTHdYcXDSAZcCQVVfeXFMTmtuaTVLSzFpWGk3bXN5ZUt5TUpnTlZqcmZWYm1nbDFCSUNxZ1N2RWkxX1AtY0lncjdoRl9FZjJ1SkdfcWpBUnlOTWNUaUw4bEVzRWNjd1Axd1lhZWZyMWp2S3dxaUV3S1pvakIyWnpPZjFRUnltNDdhQ1czZk5kQ3VpT3Uwd0ZUeVA5N0J4UHZUYVJKcndEQ0xTLUpwLUVTWk5RTHo5SGJsOWtNQUJOSnAzeTJWZlgzd3dsTEpUNFlEa3gwOVhDM2ozaUhndzA2TDFEMXNuRUxKRnFwN2Zva241QUs2VTE3cjNEVjhvN21JbGxvb3h2UVBEX2RfX01rcnFQZ0hwMFEzd1dpSHBVbklVc0RCQW93?oc=5",
-      "data": "13/11 07:00"
-    },
-    {
-      "titulo": "Fluminense perde para o Sesc RJ Flamengo pela Superliga Feminina de Vôlei - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlpodF9kQzBzdTJyM0M0dFd3ck9kRmdMLU9rTGtHZkY3VHZRWDBCbmU3eEdiajVIdUxJbW03SU1rVVNxZmZjUjVFQjRPQm9LTUhMb3dUbGlhM3NXTFpsc01TV0xoMlk1bkV4emduYVp2bGpEdkxjVjNPTVYxYUZ5ZU1UYTVJNFFJTTlaeV9zaVI3b1dOT3NyZFROampxRlhMOG1zQk1hOWJDN092SlNjQw?oc=5",
-      "data": "13/11 02:10"
-    },
-    {
-      "titulo": "Campeão da Libertadores com o Flu brilha e encerra temporada da MLS em destaque - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOek8zQmVkanBZb0FZbmJrTkwteF80bEQ0QnUxeGhwZmQtaFpwX2Z5U3lsVHdPUnItVWdJUlR1blZFT0NYdTZ0eHdxeEdacmEtUlZQdlpLOGNKck51dWFyS1R1ZzlGZnVRNFRHc01DeUU4LTB0R3VzeGs2RzJWZTJaV1JHbVk2Q19MTEhZQVp5b1cyMlFkVjNWT0dYVHo2cTdlZDVXRlI3RGdkY0lVVFZ4VU5hSDAzZVZ0ajN5QjdaWEtxVzh4QUIxcXdOZXcwcjhTakE?oc=5",
-      "data": "12/11 15:22"
-    },
-    {
-      "titulo": "Leivinha, novo técnico do Fluminense, projeta temporada 2027 - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWNvUFFLQU9hZzlNRnkyenk5T0FaaTZpUHM1R19kdHAwMTYtUHNLZzI5QU9nWndJZEt0OGNELWtwYjdyVkRKR1JKdGUtQVJHN1ByT1BwSUI3MG5zR3NlWVpGTm4zN25vRGN6VnB6RkIzQ3NxaHZyQnpIcm81dmpNc1hsRmRoRTUwc3BrNzFjOFZ4S0xTOXNGUmtwZi1VZw?oc=5",
-      "data": "12/11 11:34"
+      "titulo": "Ex-treinador do Fluminense visita CT do Tottenham - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTAyN2oycW5Ubk5TdjJKV2lPYW15WFdyOExKSldOcjdVbl82aDU1WGFUTHFpWXJHVkJxQkRpanRBUkFYN001a190MDlCV1lNNnNkZ2hHMlE0cXkxMFk4NkVjQTQ4d3QtVW93NlBpcGk2YU5nV21ON1RLMThfc21LUTc5RWExTl9aaXBxTlRVNUdZLU1rVl9Vd0JPRmhlN2pBVmtyWFFoc3VZV25zbVI3eEpB0gG3AUFVX3lxTE56T1U4LXJ6cjNlT3VTaFZWYmc3cVlJcUYtbUE4ME42RlF5YjVTTVE2WmFoV0RNZURLSml0Ml9aWWplZjJTNXhxTzZscmF0Z2RMMi10Y2RmSXowTjVnYUVPWmNSZkdaSG1fZmswREhXNktPa0N0d19mVHNMcDB6cUY0WldrV194NFBPa2lGeEtlNUFxWkJEcVgxX1ZlaEtURmN0TnhDQUcxVEZDOTVnVFhLcXA0R1pPcw?oc=5",
+      "data": "13/11 19:15"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
   ]
 };
