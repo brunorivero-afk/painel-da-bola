@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/11/2026 05:29",
+  "atualizado_em": "14/11/2026 12:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1272,10 +1272,10 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.5,
+      "temp_max": 25.7,
       "temp_min": 21.6,
       "chance_chuva": 71,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
@@ -1286,44 +1286,44 @@ window.PAINEL_DATA = {
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.8,
-      "temp_min": 15.9,
+      "temp_max": 26.4,
+      "temp_min": 16.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.0,
-      "temp_min": 15.3,
+      "temp_max": 22.3,
+      "temp_min": 15.7,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense prioriza reta final do Brasileiro, adia planejamento para 2027 e projeta mais espaço para a base - ge",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcmpRUkFJWnMwNWxJaDNpZW5fb0t1NlhPSUdKV05vc2VHMGlqbjFzaUpWQmVZbWQtdTBkeVplYUZTTFQ1WXpndE13YXZmeVRacUV5ZFFfY2s5Q2tacTV3RE13OXFaSUVJUFp1UllERFdEMzhUV3hQZ3Y1cnpVNTcwanhFZHppcXRGbERsNGtJc1hhMlk2UktHSzFQVE55YnVjT2d0b0ZneTRGcjhGenpCNVQ2V3hZVnptWEROYkRUQzRrVmtXVFZiM1A4UVNHSTVNakdLTlZHZ3RMVHJGUW1mb0RJeWFSaWJIWGVQdHFKS09mQndiVUowcVJMd1FvRWktYXNxTHdYcXDSAZcCQVVfeXFMTmtuaTVLSzFpWGk3bXN5ZUt5TUpnTlZqcmZWYm1nbDFCSUNxZ1N2RWkxX1AtY0lncjdoRl9FZjJ1SkdfcWpBUnlOTWNUaUw4bEVzRWNjd1Axd1lhZWZyMWp2S3dxaUV3S1pvakIyWnpPZjFRUnltNDdhQ1czZk5kQ3VpT3Uwd0ZUeVA5N0J4UHZUYVJKcndEQ0xTLUpwLUVTWk5RTHo5SGJsOWtNQUJOSnAzeTJWZlgzd3dsTEpUNFlEa3gwOVhDM2ozaUhndzA2TDFEMXNuRUxKRnFwN2Zva241QUs2VTE3cjNEVjhvN21JbGxvb3h2UVBEX2RfX01rcnFQZ0hwMFEzd1dpSHBVbklVc0RCQW93?oc=5",
-      "data": "13/11 07:00"
+      "titulo": "Nacional-URU critica clubes brasileiros, revela dívida por Millán, mas poupa o Fluminense: \"Mais sensato\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXNDRXEyUzRLWXJMMXZfazZhaE9xNEZDSmlEdkcyQmZBdUhCNmMzZ1JHQjZSaWF5STBEVU9LcXBqaUJlaFFyMXMwWjVvRE1RS3RSVC04Ty1FaGk1amhrWFdsVWtJLWtNZEhpang2VEFxbHdzNHBIalJmaW5hSXFZMmN1LTlCcHB6QUk0SmV0d3dRSmZVdnIwTVdxV2YwVGhNeFFmUXdURDdNWmhZbnZRZ2ZCWWt6WklVMXpTR3J5N0ozZFRDY3dzZ0cxUEhfUkFnZTJkUDZGcng4enRtdmM1OUU1RHFPSGZRZ1hDTEc1R2Z5cmNQS2Z4MGotN0JsUVA40gGPAkFVX3lxTFBUcUpERDZfSGUtRkwxUXIza3FxRzRWbl9ZTkE4VERGc0FNLTNhYlBjVlRJQnN2ZkJyYlFjUENlbzVQdGJoRmtIRGZ3a0F1MjFUVDVYZUpLSXhTYzAwUi1hUTh5TndvTldnbzMtMFNHdTVicmlCTERXYzlSckx1NjMxRERiWi11R3U5R1ZUMzhHb0R6TmxHWTNtTmZ5NXUwMmdWaVNTUHZKdFFZMlA4Yk9XQnZ4NUtDWkd4MHd1Z291cmRlczFOVkFsckVZSFRtRlNlMVVBTHFlcUg0S3owS2VWV05CVjE5b2Yxb05Cd2hGdXBNdU9SRFN3andnTzU1UV84UUZjR1B0bk5lb19TbHc?oc=5",
+      "data": "13/11 15:05"
     },
     {
-      "titulo": "Fluminense e ONU firmam parceria para promover a sustentabilidade através do futebol - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeENtVjBackR0UjJIbl8zdzNMU2tZRGppLUdSZWlYYjdxcDJJNHY5ZC1xalh5MUk0bkQzZXoxLUZxSmVMc0VFMXBWTmpQZGNrTEx6UEJmM2EyOHdYalVrRjFBcG8yYXJvSk5qVklGaWdnenF5M0lnVEhFZVdya0pQN0t3MmRXeEJQZzgwWU1NUlJqUkJSRkF6bTVhNkR2Yk5Lbzgzbjd3eHEwcWlqYjB4S05vNEt5TUE1MFpnYXF3Zw?oc=5",
-      "data": "13/11 16:00"
+      "titulo": "Atacante pode ser vendido por R$ 15 milhões, zagueiro deve deixar o clube e possíveis técnicos para 2027: as últimas notícias do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOckZNWkQzZXl1OV93cG54N1pLUHNUdjZkdmVKN0tKZ0taQUQ1VWN2cTZ3Q3oySXhfdnNfYmpBSVdPTWYyMW16N0R3YjNrOEFKZnZhNlI2eUQ0WVZKZlBwZHJyNU51STR5TThaeUdPMFgtdnBBMlp3MFdBWGVpUUIzM3NYSzd6UGZKdGV5NkF0WmxJODR6X3ZiSmdxdHVVX3FNaVFwM051Qmg2OXRycVNnVnNnRS1qUnowUGNWazlMOTZjaENyX29jNFg2SkpkdFJtcHJPb2xrSmVBbEZSa3JwTlpsVGpBeDFJaXU1UDhYM0ZoTXR3amNxRzVwUEEzaVFHdmtTTkVwU2wwbnVQeXl4ek5LSVNHb3VMbm9YamxCSTZnSFhsd25kclZJRGVmNDlwNkhzZVdZSEZUSENhLUlQNHNBSHdOc19haE1r?oc=5",
+      "data": "14/11 13:46"
     },
     {
-      "titulo": "Vice-presidente de clube uruguaio critica Santos e Botafogo, mas elogia Fluminense; entenda - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmNDLU1ybUwxa0tRT2F2OUJfMVBrWFl2c2lSN280WmprYlZFMGVBOC1Td0dLSGdKWFYwUk92SVd6aGN3N2dpTFcxejBEN3YxaUdFX1JmMEJ5U2c0c3RyUzBMREpLOF9ZOUlvbG83ZUc3bkhKUENHcGRWVkJOWVJ1YTJOVjdycF9GQ0lWMmhXUXJFeVVBd1F3YnhMRE82OXQ0TV9lajdwaWRYNWpXN20wQThYTEJnTl9LS0w0Tno4VnduT09ENjlULWYxd1JoZmJLclc5R0ZxU1VmUFdCREx0U1QwTndUWkVwMlJSSWhGVTZUdjN5cTcwdGhkaWtxdw?oc=5",
-      "data": "14/11 00:49"
+      "titulo": "Já classificado para semifinal, Flu vai à rodada decisiva com melhor ataque da Copa Rio Sub-17 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVkRFU2N1MEl0TWZWZUhocGlKbnRlZzQ5RXdpNFpQanZmd19GVlFxaUY2bGlWVjRmYWRQRzVjRlE2LUJfUXFSQWNxUTEwZUVEaEh1OGp0dVhNN2xqOVZRMFZ6M2Q5MkFXTVQ0YTlqMkVZRjZoVS0xaDU5QlpSbnBibmNLOFB3dEhZRjRab0dhSEFGTHA4YW1KNmtkZDJJbThtS2xYbXRYUHJZN3BtLUI3WURaYVh4OGJqNnNoVGNDcS1HcFFkbGJGX0d2OA?oc=5",
+      "data": "14/11 12:02"
     },
     {
-      "titulo": "Ex-treinador do Fluminense visita CT do Tottenham - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTAyN2oycW5Ubk5TdjJKV2lPYW15WFdyOExKSldOcjdVbl82aDU1WGFUTHFpWXJHVkJxQkRpanRBUkFYN001a190MDlCV1lNNnNkZ2hHMlE0cXkxMFk4NkVjQTQ4d3QtVW93NlBpcGk2YU5nV21ON1RLMThfc21LUTc5RWExTl9aaXBxTlRVNUdZLU1rVl9Vd0JPRmhlN2pBVmtyWFFoc3VZV25zbVI3eEpB0gG3AUFVX3lxTE56T1U4LXJ6cjNlT3VTaFZWYmc3cVlJcUYtbUE4ME42RlF5YjVTTVE2WmFoV0RNZURLSml0Ml9aWWplZjJTNXhxTzZscmF0Z2RMMi10Y2RmSXowTjVnYUVPWmNSZkdaSG1fZmswREhXNktPa0N0d19mVHNMcDB6cUY0WldrV194NFBPa2lGeEtlNUFxWkJEcVgxX1ZlaEtURmN0TnhDQUcxVEZDOTVnVFhLcXA0R1pPcw?oc=5",
-      "data": "13/11 19:15"
+      "titulo": "Fred destaca impacto de Cristiano Ronaldo na nova geração de jogadores do Fluminense: \"Influência absurda\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYmlxZDJuNzh2ZWZ3NVNwenA4c0xtUHREak5MR2tRbHdTd1VpMzZCdnpZNjVTSnBkUURFRG1TS3gwUG5SYlMxZ3p4R2F0VnZMRE1OX2J5Q3JBZUVGMUI1dFhrdXpIamJWWEFGTUxXdzVFV2c5TmR3Z2ZWQmQ2TjRROGMxN0sxQ1E4VUNidy1WVVVuV2RwN2NrYXFaZTdTcFNTY0hPX0QxdzE0ZE42SE1Zay0wcnFiVTkwdjNYWHlJNlRxMURPMWZKWm1DWVVNeDhtek9OWWl3cURRX2tNSDhGOWF4bE0zanBtSFJCcDlIRWU0OER1aDRLazZ6bjJvYmlRZUdKbtIBkwJBVV95cUxQOVFYQ2JmbDVxdkdGeEJ0ZjZwTmRfTGI1VEZKV29yc0JRaGsxU2JPRnRTOFN1T1F5b2gyd1B1d3lFUmtndjhVWWV5QUwzUERFU01uRjJGdVZnMGd0dWZraGFCZEV4YkdXU3FBY2J4OFdCekVySThzeXczbU0tNzZyZFFJc3lEMkdfdzZ3QnhOZFN2WE55X29sUXhwb3kxaDdndVM5cFNKYUhaeVpGZTJDWWdNRlBMa3h5QTJqXzFCREhLLTd6SzBoYlk1RTFwY0hYSThEd1k3X0hhcC1QWjc5ek5HWlZXd2NqWkRzM1VvcFBZcElfQjRUVzBFemQtaDltS2JXR1NlRmkzUmRmQlhNMVRZWQ?oc=5",
+      "data": "14/11 12:00"
     },
     {
-      "titulo": "Fluminense anuncia meia formado no Vasco para a temporada 2027 - CidadeVerde.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnFlLVFDZTF4OGcxMmszVm9reE1GaFZ1b3BOaXZPMkZhVW4ycndpTE9GTWFFWG1hZENsVVdmb3ZJRGphVG1wSjVlMnRiUnFLUTF0T3JXcVVJVHZ3Z2hVSjRKZVd4azdoQ3Iybmo3S2MxZVA5REQ4NWk1RFg3RGVvcEF6bk9TU2lvQWVRbk5wNlg4MGRLRWVaOENzbUlvcXBYLUtV?oc=5",
-      "data": "13/11 20:02"
+      "titulo": "Brasil sub-20 vence Peru com show de ponta do Fluminense e zagueiro do Galo - UOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0prRmF4WHFfZzdPOXRoRmVGd3VhSHZHYW13cHhtVk5OOEVpSUg0cU9mNEo5cGJDQU00V3UxS09RR1dYX0FWUkNoN192aFViRmNtUXJRYm5TZlhCNzJsY2Q1bmR6bjdWU0xqT1Fkei1KUDFLcHVuYk4yLUh4el9ibHBMZUIyYnU1OGlvci16QVQyX2o4REwzNjFOZ1lSMi03TURuQURwZV9YVUJWR0JGdFd3?oc=5",
+      "data": "14/11 00:59"
     }
   ],
   "avisos": [
