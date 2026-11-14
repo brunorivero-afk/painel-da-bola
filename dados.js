@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "14/11/2026 12:29",
+  "atualizado_em": "14/11/2026 17:20",
   "jogos": [
     {
       "sport": "futebol",
@@ -1272,28 +1272,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.7,
+      "temp_max": 26.2,
       "temp_min": 21.6,
       "chance_chuva": 71,
-      "condicao": "Garoa"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.8,
+      "temp_max": 27.3,
       "temp_min": 21.4,
       "chance_chuva": 80,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.4,
+      "temp_max": 25.6,
       "temp_min": 16.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.3,
+      "temp_max": 21.4,
       "temp_min": 15.7,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
@@ -1301,9 +1301,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Nacional-URU critica clubes brasileiros, revela dívida por Millán, mas poupa o Fluminense: \"Mais sensato\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXNDRXEyUzRLWXJMMXZfazZhaE9xNEZDSmlEdkcyQmZBdUhCNmMzZ1JHQjZSaWF5STBEVU9LcXBqaUJlaFFyMXMwWjVvRE1RS3RSVC04Ty1FaGk1amhrWFdsVWtJLWtNZEhpang2VEFxbHdzNHBIalJmaW5hSXFZMmN1LTlCcHB6QUk0SmV0d3dRSmZVdnIwTVdxV2YwVGhNeFFmUXdURDdNWmhZbnZRZ2ZCWWt6WklVMXpTR3J5N0ozZFRDY3dzZ0cxUEhfUkFnZTJkUDZGcng4enRtdmM1OUU1RHFPSGZRZ1hDTEc1R2Z5cmNQS2Z4MGotN0JsUVA40gGPAkFVX3lxTFBUcUpERDZfSGUtRkwxUXIza3FxRzRWbl9ZTkE4VERGc0FNLTNhYlBjVlRJQnN2ZkJyYlFjUENlbzVQdGJoRmtIRGZ3a0F1MjFUVDVYZUpLSXhTYzAwUi1hUTh5TndvTldnbzMtMFNHdTVicmlCTERXYzlSckx1NjMxRERiWi11R3U5R1ZUMzhHb0R6TmxHWTNtTmZ5NXUwMmdWaVNTUHZKdFFZMlA4Yk9XQnZ4NUtDWkd4MHd1Z291cmRlczFOVkFsckVZSFRtRlNlMVVBTHFlcUg0S3owS2VWV05CVjE5b2Yxb05Cd2hGdXBNdU9SRFN3andnTzU1UV84UUZjR1B0bk5lb19TbHc?oc=5",
-      "data": "13/11 15:05"
+      "titulo": "Fred destaca trabalho psicológico do Fluminense e comenta relação com Moleques de Xerém: \"Eu me vejo neles\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYlRqdV9FNU1ycHZkbWlra01CcTM5eHdPRmkxaVZFYmgwd1lqSThVUnJ0M1cwbnVuODhVV21kM3U1dV92dy1aTEdOVEt6Z3Z4RGY5Z1BIaUl6Z0JZSFBqRkxJUGlMRjFDMDUzbmI3NTRxRkF4TUo4N3RJU1lkNTlSZXBEUjdoWWJuV1dnclM3NHNqRWNTQklTVktna0VSaEJaLWFQZUVQTlNpSHRvRmxJT0F2M1lnMVpRVTNOaG5WVVhxWV9acWJ1ZDdZelRkZGk2UVNObTI4OXQyWDAtTHdRLTRkT2lCT3BzakRBOXo0dUFGWGkxTWFmTG00WTVRMnVIcVp4SGpn0gGUAkFVX3lxTE5sN2ZEQnlDcmI3OW1SU25DdUhGbDBka0NyNFlpMVhWLXp3Ty12eVFNd2JXS3JtTmNyMGZFSWlycjZGcWwxVVJuT012WFJZSTJvS0RpX0RWNWhyd0Nmam9CLTFmS1I2cVJDaldIcHRzZ1RUSjF1ci1lMGZWOFJGVG41WGZvY0puUVpXQlQ0ajIwWU4yU1hyUEEweTVBekllMk9QX1VUN3hDOHQ1Sk1UbmhMaWFibUdVeTFFVzFDQkk4d2NvNldEVy1NRDBubWl6OU1pRlRDZU9zb21ZQlN0bkJ5aTJiYzNsckt2MnFaMGhqZG8wMHhRMHh2bjVlbk0tdnhJQ1BxRFZHaExoMElNbTNKV3U5YQ?oc=5",
+      "data": "13/11 21:35"
+    },
+    {
+      "titulo": "Brasil sub-20 vence Peru com show de ponta do Fluminense e zagueiro do Galo - UOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0prRmF4WHFfZzdPOXRoRmVGd3VhSHZHYW13cHhtVk5OOEVpSUg0cU9mNEo5cGJDQU00V3UxS09RR1dYX0FWUkNoN192aFViRmNtUXJRYm5TZlhCNzJsY2Q1bmR6bjdWU0xqT1Fkei1KUDFLcHVuYk4yLUh4el9ibHBMZUIyYnU1OGlvci16QVQyX2o4REwzNjFOZ1lSMi03TURuQURwZV9YVUJWR0JGdFd3?oc=5",
+      "data": "14/11 00:59"
+    },
+    {
+      "titulo": "Fluminense joga por vaga na decisão do Carioca Sub-20 neste sábado - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckFGRHNGbWFJcndUUDB2S0Q0Z0g1MjVlVE1UNDJhX1Y0Tk50Q1NTdHQ1MjJPYmJmdmFkNVVWQjdkYWNYQzFoRVo5dmw5d0hGMlFXNkV5YzVzSlVZczhzWV9vR2dGT3Z0Y0hNWHl1Q3RkZmlEcXI3YU1od1BmQXAzUXZpa2gzNTNjVG9Pb29zRTVtZHVjMUg4TS1ycVY2Tm1tS2FUY2JYUQ?oc=5",
+      "data": "13/11 21:00"
     },
     {
       "titulo": "Atacante pode ser vendido por R$ 15 milhões, zagueiro deve deixar o clube e possíveis técnicos para 2027: as últimas notícias do Fluminense - Terra",
@@ -1311,19 +1321,9 @@ window.PAINEL_DATA = {
       "data": "14/11 13:46"
     },
     {
-      "titulo": "Já classificado para semifinal, Flu vai à rodada decisiva com melhor ataque da Copa Rio Sub-17 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVkRFU2N1MEl0TWZWZUhocGlKbnRlZzQ5RXdpNFpQanZmd19GVlFxaUY2bGlWVjRmYWRQRzVjRlE2LUJfUXFSQWNxUTEwZUVEaEh1OGp0dVhNN2xqOVZRMFZ6M2Q5MkFXTVQ0YTlqMkVZRjZoVS0xaDU5QlpSbnBibmNLOFB3dEhZRjRab0dhSEFGTHA4YW1KNmtkZDJJbThtS2xYbXRYUHJZN3BtLUI3WURaYVh4OGJqNnNoVGNDcS1HcFFkbGJGX0d2OA?oc=5",
-      "data": "14/11 12:02"
-    },
-    {
-      "titulo": "Fred destaca impacto de Cristiano Ronaldo na nova geração de jogadores do Fluminense: \"Influência absurda\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYmlxZDJuNzh2ZWZ3NVNwenA4c0xtUHREak5MR2tRbHdTd1VpMzZCdnpZNjVTSnBkUURFRG1TS3gwUG5SYlMxZ3p4R2F0VnZMRE1OX2J5Q3JBZUVGMUI1dFhrdXpIamJWWEFGTUxXdzVFV2c5TmR3Z2ZWQmQ2TjRROGMxN0sxQ1E4VUNidy1WVVVuV2RwN2NrYXFaZTdTcFNTY0hPX0QxdzE0ZE42SE1Zay0wcnFiVTkwdjNYWHlJNlRxMURPMWZKWm1DWVVNeDhtek9OWWl3cURRX2tNSDhGOWF4bE0zanBtSFJCcDlIRWU0OER1aDRLazZ6bjJvYmlRZUdKbtIBkwJBVV95cUxQOVFYQ2JmbDVxdkdGeEJ0ZjZwTmRfTGI1VEZKV29yc0JRaGsxU2JPRnRTOFN1T1F5b2gyd1B1d3lFUmtndjhVWWV5QUwzUERFU01uRjJGdVZnMGd0dWZraGFCZEV4YkdXU3FBY2J4OFdCekVySThzeXczbU0tNzZyZFFJc3lEMkdfdzZ3QnhOZFN2WE55X29sUXhwb3kxaDdndVM5cFNKYUhaeVpGZTJDWWdNRlBMa3h5QTJqXzFCREhLLTd6SzBoYlk1RTFwY0hYSThEd1k3X0hhcC1QWjc5ek5HWlZXd2NqWkRzM1VvcFBZcElfQjRUVzBFemQtaDltS2JXR1NlRmkzUmRmQlhNMVRZWQ?oc=5",
-      "data": "14/11 12:00"
-    },
-    {
-      "titulo": "Brasil sub-20 vence Peru com show de ponta do Fluminense e zagueiro do Galo - UOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0prRmF4WHFfZzdPOXRoRmVGd3VhSHZHYW13cHhtVk5OOEVpSUg0cU9mNEo5cGJDQU00V3UxS09RR1dYX0FWUkNoN192aFViRmNtUXJRYm5TZlhCNzJsY2Q1bmR6bjdWU0xqT1Fkei1KUDFLcHVuYk4yLUh4el9ibHBMZUIyYnU1OGlvci16QVQyX2o4REwzNjFOZ1lSMi03TURuQURwZV9YVUJWR0JGdFd3?oc=5",
-      "data": "14/11 00:59"
+      "titulo": "Ex-treinador do Fluminense visita CT do Tottenham - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTAyN2oycW5Ubk5TdjJKV2lPYW15WFdyOExKSldOcjdVbl82aDU1WGFUTHFpWXJHVkJxQkRpanRBUkFYN001a190MDlCV1lNNnNkZ2hHMlE0cXkxMFk4NkVjQTQ4d3QtVW93NlBpcGk2YU5nV21ON1RLMThfc21LUTc5RWExTl9aaXBxTlRVNUdZLU1rVl9Vd0JPRmhlN2pBVmtyWFFoc3VZV25zbVI3eEpB0gG3AUFVX3lxTE56T1U4LXJ6cjNlT3VTaFZWYmc3cVlJcUYtbUE4ME42RlF5YjVTTVE2WmFoV0RNZURLSml0Ml9aWWplZjJTNXhxTzZscmF0Z2RMMi10Y2RmSXowTjVnYUVPWmNSZkdaSG1fZmswREhXNktPa0N0d19mVHNMcDB6cUY0WldrV194NFBPa2lGeEtlNUFxWkJEcVgxX1ZlaEtURmN0TnhDQUcxVEZDOTVnVFhLcXA0R1pPcw?oc=5",
+      "data": "13/11 19:15"
     }
   ],
   "avisos": [
