@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "13/11/2026 22:13",
+  "atualizado_em": "14/11/2026 05:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Osasco x Sesi-bauru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Sesi-Bauru",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brusque x Brasília",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "10:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Monte Carmelo x Praia Clube",
@@ -1170,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Campinas",
@@ -1180,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Suzano",
@@ -1190,7 +1180,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "21:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Sesc Rj Flamengo",
@@ -1200,7 +1190,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Brasília",
@@ -1210,7 +1200,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Londrina x Praia Clube",
@@ -1220,7 +1210,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "19:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Pinheiros",
@@ -1230,7 +1220,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Monte Carmelo",
@@ -1240,7 +1230,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Guarulhos",
@@ -1250,7 +1240,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Minas",
@@ -1260,7 +1250,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Minas x Londrina",
@@ -1270,7 +1260,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc Rj Flamengo x Fluminense",
@@ -1282,31 +1272,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 29.2,
-      "temp_min": 22.0,
-      "chance_chuva": 75,
-      "condicao": "Garoa"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 29.8,
-      "temp_min": 21.8,
-      "chance_chuva": 70,
-      "condicao": "Garoa forte"
-    },
-    {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.9,
-      "temp_min": 17.2,
-      "chance_chuva": 100,
+      "temp_max": 25.5,
+      "temp_min": 21.6,
+      "chance_chuva": 71,
       "condicao": "Garoa fraca"
     },
     {
-      "cidade": "Teresópolis",
-      "temp_max": 25.7,
-      "temp_min": 16.4,
+      "cidade": "Araruama",
+      "temp_max": 26.8,
+      "temp_min": 21.4,
+      "chance_chuva": 80,
+      "condicao": "Garoa fraca"
+    },
+    {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 25.8,
+      "temp_min": 15.9,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa"
+    },
+    {
+      "cidade": "Teresópolis",
+      "temp_max": 22.0,
+      "temp_min": 15.3,
+      "chance_chuva": 100,
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
@@ -1316,24 +1306,24 @@ window.PAINEL_DATA = {
       "data": "13/11 07:00"
     },
     {
+      "titulo": "Fluminense e ONU firmam parceria para promover a sustentabilidade através do futebol - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeENtVjBackR0UjJIbl8zdzNMU2tZRGppLUdSZWlYYjdxcDJJNHY5ZC1xalh5MUk0bkQzZXoxLUZxSmVMc0VFMXBWTmpQZGNrTEx6UEJmM2EyOHdYalVrRjFBcG8yYXJvSk5qVklGaWdnenF5M0lnVEhFZVdya0pQN0t3MmRXeEJQZzgwWU1NUlJqUkJSRkF6bTVhNkR2Yk5Lbzgzbjd3eHEwcWlqYjB4S05vNEt5TUE1MFpnYXF3Zw?oc=5",
+      "data": "13/11 16:00"
+    },
+    {
       "titulo": "Vice-presidente de clube uruguaio critica Santos e Botafogo, mas elogia Fluminense; entenda - Terra",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbmNDLU1ybUwxa0tRT2F2OUJfMVBrWFl2c2lSN280WmprYlZFMGVBOC1Td0dLSGdKWFYwUk92SVd6aGN3N2dpTFcxejBEN3YxaUdFX1JmMEJ5U2c0c3RyUzBMREpLOF9ZOUlvbG83ZUc3bkhKUENHcGRWVkJOWVJ1YTJOVjdycF9GQ0lWMmhXUXJFeVVBd1F3YnhMRE82OXQ0TV9lajdwaWRYNWpXN20wQThYTEJnTl9LS0w0Tno4VnduT09ENjlULWYxd1JoZmJLclc5R0ZxU1VmUFdCREx0U1QwTndUWkVwMlJSSWhGVTZUdjN5cTcwdGhkaWtxdw?oc=5",
       "data": "14/11 00:49"
     },
     {
-      "titulo": "Fluminense conclui III Simpósio de Direito Desportivo em Laranjeiras - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRm03ZWN1MWVvc050NFJYOE0tdXZmcGkyQkIxRFlHeU1kd2pMQ3cwQWRqd2FnN2FNSmVDWVdEc0Q4Y2RWMnRpNzJubXBNa3dUR2dkTGU5bE5SYUNyWllkZ0JIT0tJc1BNRERYU3BNU1RXUWhhdVlDS3hITWtRMjUtS2doUklQbGhBemNIOVdVYW5VTy1pVjItdTAxRGdSWDRhT0VGQVlKT2xiQQ?oc=5",
-      "data": "13/11 22:50"
-    },
-    {
-      "titulo": "Multicampeão revela episódio de depressão na carreira e relembra 'treta' com Arrascaeta - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLTNTcGJBcEI1STk0WGdqbTRUU3pxWm0tVF9TZFkyY0VSZmNWWUFVX3NtckFpTUNkUjhYSXdvdk9xTmpvcWlVWUxnd3pWd0xpLVRFSnpGRVE4dzhwTm5NTkRfdWFvNkRwVDJzX2Rva091NXlwWXBoc0N6NzFaTllfOXpOUUVPYzBvTXVReWJyZF9seEhmRnc1NWpad1ljT3RxTXM2TEdHZDNDNUZXdW1hQ2FKclJHZkhreGtBaFhtaDJ6aVpLUnZILVBaNVRub0F3bEllVFd2emUtRVdLR19sZ09n?oc=5",
-      "data": "13/11 23:22"
-    },
-    {
       "titulo": "Ex-treinador do Fluminense visita CT do Tottenham - O Dia",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTAyN2oycW5Ubk5TdjJKV2lPYW15WFdyOExKSldOcjdVbl82aDU1WGFUTHFpWXJHVkJxQkRpanRBUkFYN001a190MDlCV1lNNnNkZ2hHMlE0cXkxMFk4NkVjQTQ4d3QtVW93NlBpcGk2YU5nV21ON1RLMThfc21LUTc5RWExTl9aaXBxTlRVNUdZLU1rVl9Vd0JPRmhlN2pBVmtyWFFoc3VZV25zbVI3eEpB0gG3AUFVX3lxTE56T1U4LXJ6cjNlT3VTaFZWYmc3cVlJcUYtbUE4ME42RlF5YjVTTVE2WmFoV0RNZURLSml0Ml9aWWplZjJTNXhxTzZscmF0Z2RMMi10Y2RmSXowTjVnYUVPWmNSZkdaSG1fZmswREhXNktPa0N0d19mVHNMcDB6cUY0WldrV194NFBPa2lGeEtlNUFxWkJEcVgxX1ZlaEtURmN0TnhDQUcxVEZDOTVnVFhLcXA0R1pPcw?oc=5",
       "data": "13/11 19:15"
+    },
+    {
+      "titulo": "Fluminense anuncia meia formado no Vasco para a temporada 2027 - CidadeVerde.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnFlLVFDZTF4OGcxMmszVm9reE1GaFZ1b3BOaXZPMkZhVW4ycndpTE9GTWFFWG1hZENsVVdmb3ZJRGphVG1wSjVlMnRiUnFLUTF0T3JXcVVJVHZ3Z2hVSjRKZVd4azdoQ3Iybmo3S2MxZVA5REQ4NWk1RFg3RGVvcEF6bk9TU2lvQWVRbk5wNlg4MGRLRWVaOENzbUlvcXBYLUtV?oc=5",
+      "data": "13/11 20:02"
     }
   ],
   "avisos": [
