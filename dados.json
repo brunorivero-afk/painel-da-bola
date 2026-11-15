@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/11/2026 21:40",
+  "atualizado_em": "15/11/2026 04:28",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Brusque x Brasília",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "10:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Monte Carmelo x Praia Clube",
@@ -1150,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Campinas",
@@ -1160,7 +1150,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Suzano",
@@ -1170,7 +1160,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "21:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Sesc Rj Flamengo",
@@ -1180,7 +1170,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Brasília",
@@ -1190,7 +1180,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Londrina x Praia Clube",
@@ -1200,7 +1190,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "19:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Pinheiros",
@@ -1210,7 +1200,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Monte Carmelo",
@@ -1220,7 +1210,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Guarulhos",
@@ -1230,7 +1220,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Minas",
@@ -1240,7 +1230,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Minas x Londrina",
@@ -1250,7 +1240,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesc Rj Flamengo x Fluminense",
@@ -1262,38 +1252,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.2,
-      "temp_min": 21.6,
-      "chance_chuva": 71,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 25.9,
+      "temp_min": 21.2,
+      "chance_chuva": 51,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.3,
-      "temp_min": 21.4,
-      "chance_chuva": 80,
+      "temp_max": 26.5,
+      "temp_min": 20.0,
+      "chance_chuva": 57,
       "condicao": "Garoa"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.1,
-      "temp_min": 16.3,
-      "chance_chuva": 100,
-      "condicao": "Garoa"
+      "temp_max": 26.7,
+      "temp_min": 17.9,
+      "chance_chuva": 97,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 21.4,
-      "temp_min": 15.7,
+      "temp_max": 25.6,
+      "temp_min": 16.8,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fred destaca trabalho psicológico do Fluminense e comenta relação com Moleques de Xerém: \"Eu me vejo neles\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYlRqdV9FNU1ycHZkbWlra01CcTM5eHdPRmkxaVZFYmgwd1lqSThVUnJ0M1cwbnVuODhVV21kM3U1dV92dy1aTEdOVEt6Z3Z4RGY5Z1BIaUl6Z0JZSFBqRkxJUGlMRjFDMDUzbmI3NTRxRkF4TUo4N3RJU1lkNTlSZXBEUjdoWWJuV1dnclM3NHNqRWNTQklTVktna0VSaEJaLWFQZUVQTlNpSHRvRmxJT0F2M1lnMVpRVTNOaG5WVVhxWV9acWJ1ZDdZelRkZGk2UVNObTI4OXQyWDAtTHdRLTRkT2lCT3BzakRBOXo0dUFGWGkxTWFmTG00WTVRMnVIcVp4SGpn0gGUAkFVX3lxTE5sN2ZEQnlDcmI3OW1SU25DdUhGbDBka0NyNFlpMVhWLXp3Ty12eVFNd2JXS3JtTmNyMGZFSWlycjZGcWwxVVJuT012WFJZSTJvS0RpX0RWNWhyd0Nmam9CLTFmS1I2cVJDaldIcHRzZ1RUSjF1ci1lMGZWOFJGVG41WGZvY0puUVpXQlQ0ajIwWU4yU1hyUEEweTVBekllMk9QX1VUN3hDOHQ1Sk1UbmhMaWFibUdVeTFFVzFDQkk4d2NvNldEVy1NRDBubWl6OU1pRlRDZU9zb21ZQlN0bkJ5aTJiYzNsckt2MnFaMGhqZG8wMHhRMHh2bjVlbk0tdnhJQ1BxRFZHaExoMElNbTNKV3U5YQ?oc=5",
-      "data": "13/11 21:35"
+      "titulo": "Nacional-URU critica clubes brasileiros, revela dívida por Millán, mas poupa o Fluminense: \"Mais sensato\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXNDRXEyUzRLWXJMMXZfazZhaE9xNEZDSmlEdkcyQmZBdUhCNmMzZ1JHQjZSaWF5STBEVU9LcXBqaUJlaFFyMXMwWjVvRE1RS3RSVC04Ty1FaGk1amhrWFdsVWtJLWtNZEhpang2VEFxbHdzNHBIalJmaW5hSXFZMmN1LTlCcHB6QUk0SmV0d3dRSmZVdnIwTVdxV2YwVGhNeFFmUXdURDdNWmhZbnZRZ2ZCWWt6WklVMXpTR3J5N0ozZFRDY3dzZ0cxUEhfUkFnZTJkUDZGcng4enRtdmM1OUU1RHFPSGZRZ1hDTEc1R2Z5cmNQS2Z4MGotN0JsUVA40gGPAkFVX3lxTFBUcUpERDZfSGUtRkwxUXIza3FxRzRWbl9ZTkE4VERGc0FNLTNhYlBjVlRJQnN2ZkJyYlFjUENlbzVQdGJoRmtIRGZ3a0F1MjFUVDVYZUpLSXhTYzAwUi1hUTh5TndvTldnbzMtMFNHdTVicmlCTERXYzlSckx1NjMxRERiWi11R3U5R1ZUMzhHb0R6TmxHWTNtTmZ5NXUwMmdWaVNTUHZKdFFZMlA4Yk9XQnZ4NUtDWkd4MHd1Z291cmRlczFOVkFsckVZSFRtRlNlMVVBTHFlcUg0S3owS2VWV05CVjE5b2Yxb05Cd2hGdXBNdU9SRFN3andnTzU1UV84UUZjR1B0bk5lb19TbHc?oc=5",
+      "data": "13/11 15:05"
     },
     {
       "titulo": "Atacante pode ser vendido por R$ 15 milhões, zagueiro deve deixar o clube e possíveis técnicos para 2027: as últimas notícias do Fluminense - Terra",
@@ -1306,14 +1296,14 @@
       "data": "14/11 12:02"
     },
     {
-      "titulo": "Brasil sub-20 vence Peru com show de ponta do Fluminense e zagueiro do Galo - UOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0prRmF4WHFfZzdPOXRoRmVGd3VhSHZHYW13cHhtVk5OOEVpSUg0cU9mNEo5cGJDQU00V3UxS09RR1dYX0FWUkNoN192aFViRmNtUXJRYm5TZlhCNzJsY2Q1bmR6bjdWU0xqT1Fkei1KUDFLcHVuYk4yLUh4el9ibHBMZUIyYnU1OGlvci16QVQyX2o4REwzNjFOZ1lSMi03TURuQURwZV9YVUJWR0JGdFd3?oc=5",
-      "data": "14/11 00:59"
-    },
-    {
       "titulo": "Dirigente do Nacional-URU critica Santos e Botafogo por dívidas e elogia Fluminense: 'Sensato' - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXpVSGJxVkdldUNjSFZrbXd0U2RxcnAwWkltdVgyR0hHVlkwOGRtVWxpeHFiVC1pUEtWQW9tSlhfbEJjdDhhTlZjLWNxYUctM3Qza1AydlZQUlg0UW5YOG8wV3EzU2dsaTNaWlNuQUN3OERHblRVMDZBX0IyNFpFaC00ZnY4YVRKMl9vaVN1SzF6SFVCNDVXakotYkl0aVVIMjNfZENwMExrSlhCM2JnSTVqbGNGTHhiZXZBa0otUDg4UFdaM1pRQ3RhdXJ3MnlGSXd4SQ?oc=5",
       "data": "13/11 18:12"
+    },
+    {
+      "titulo": "Com dificuldades no mercado, Fluminense analisa permanência de Marcão no cargo - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWHExMVZBckhYS3JEQkVmQ2xkSFZlMlhtdUlhWE9weXlHeGhodWlySkJCV3BCNEwzRGdRZ21fd1V3R3RuclVHdVJ2WFc5anEyNUhJZy1nLWZtbjBwcUNBYkFHR2l0S19lanVIWDd5TnJ3eTNYb1hRQ0NaSEZROXZhUUVSQWpzV2o5cmJKMF9KRGdsdFFEX2ZISGdOTFd6SFBHWEQ4SDNEcXpBdjFwdS1NQUEwNVFZSXJ3S3kxdzRORE9uSmlvaTZJTGxlMmVsRDRDR3dVUFF2TnVEdlJzNzVqaEtXV2JEYTBJQjk3LWtMOGhjQ0NtSTdsSXNvNA?oc=5",
+      "data": "13/11 18:04"
     }
   ],
   "avisos": [
