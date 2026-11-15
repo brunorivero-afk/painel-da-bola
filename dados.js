@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/11/2026 04:28",
+  "atualizado_em": "15/11/2026 12:14",
   "jogos": [
     {
       "sport": "futebol",
@@ -1233,7 +1233,7 @@ window.PAINEL_DATA = {
       "date": "2026-11-15",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
-      "match": "Minas x Londrina",
+      "match": "Campinas x Cruzeiro",
       "channels": [
         "SporTV2"
       ]
@@ -1243,7 +1243,7 @@ window.PAINEL_DATA = {
       "date": "2026-11-15",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
-      "match": "Sesc Rj Flamengo x Fluminense",
+      "match": "Osasco x Sesi-bauru",
       "channels": [
         "SporTV2"
       ]
@@ -1281,14 +1281,14 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Nacional-URU critica clubes brasileiros, revela dívida por Millán, mas poupa o Fluminense: \"Mais sensato\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXNDRXEyUzRLWXJMMXZfazZhaE9xNEZDSmlEdkcyQmZBdUhCNmMzZ1JHQjZSaWF5STBEVU9LcXBqaUJlaFFyMXMwWjVvRE1RS3RSVC04Ty1FaGk1amhrWFdsVWtJLWtNZEhpang2VEFxbHdzNHBIalJmaW5hSXFZMmN1LTlCcHB6QUk0SmV0d3dRSmZVdnIwTVdxV2YwVGhNeFFmUXdURDdNWmhZbnZRZ2ZCWWt6WklVMXpTR3J5N0ozZFRDY3dzZ0cxUEhfUkFnZTJkUDZGcng4enRtdmM1OUU1RHFPSGZRZ1hDTEc1R2Z5cmNQS2Z4MGotN0JsUVA40gGPAkFVX3lxTFBUcUpERDZfSGUtRkwxUXIza3FxRzRWbl9ZTkE4VERGc0FNLTNhYlBjVlRJQnN2ZkJyYlFjUENlbzVQdGJoRmtIRGZ3a0F1MjFUVDVYZUpLSXhTYzAwUi1hUTh5TndvTldnbzMtMFNHdTVicmlCTERXYzlSckx1NjMxRERiWi11R3U5R1ZUMzhHb0R6TmxHWTNtTmZ5NXUwMmdWaVNTUHZKdFFZMlA4Yk9XQnZ4NUtDWkd4MHd1Z291cmRlczFOVkFsckVZSFRtRlNlMVVBTHFlcUg0S3owS2VWV05CVjE5b2Yxb05Cd2hGdXBNdU9SRFN3andnTzU1UV84UUZjR1B0bk5lb19TbHc?oc=5",
-      "data": "13/11 15:05"
+      "titulo": "Fluminense espera bolada por atacante colombiano emprestado para a MLS - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc1dhdkhLMjhwVmJ4Yk9OYjlpMkVNMXlqaTgxb2V4cm9aTFFrRjRzQ1B2VFowaGdiamN0M3JrSTQwWExueFNjLWhrZWFZaGo3aXRnNXFtejIwQV9jMVFTaGdMeXZlcjU5WUpITDlvZHhBclAzOE9RTFV6VThjV1gxRDctMjBLeWd5eXliVUhiSjI2XzJMZ1BrZk5KVllIbjBlaXowVzZXS0VpTFMtejdCaVo5eVJWdUV6ckZ3MXZLa3pyTWpicm1sU0ZJUXUxbjZqelZjNWhaLVFLLU13Qm5GU3N3ano4V3ozTEhPZEhISU1nUQ?oc=5",
+      "data": "15/11 14:18"
     },
     {
-      "titulo": "Atacante pode ser vendido por R$ 15 milhões, zagueiro deve deixar o clube e possíveis técnicos para 2027: as últimas notícias do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOckZNWkQzZXl1OV93cG54N1pLUHNUdjZkdmVKN0tKZ0taQUQ1VWN2cTZ3Q3oySXhfdnNfYmpBSVdPTWYyMW16N0R3YjNrOEFKZnZhNlI2eUQ0WVZKZlBwZHJyNU51STR5TThaeUdPMFgtdnBBMlp3MFdBWGVpUUIzM3NYSzd6UGZKdGV5NkF0WmxJODR6X3ZiSmdxdHVVX3FNaVFwM051Qmg2OXRycVNnVnNnRS1qUnowUGNWazlMOTZjaENyX29jNFg2SkpkdFJtcHJPb2xrSmVBbEZSa3JwTlpsVGpBeDFJaXU1UDhYM0ZoTXR3amNxRzVwUEEzaVFHdmtTTkVwU2wwbnVQeXl4ek5LSVNHb3VMbm9YamxCSTZnSFhsd25kclZJRGVmNDlwNkhzZVdZSEZUSENhLUlQNHNBSHdOc19haE1r?oc=5",
-      "data": "14/11 13:46"
+      "titulo": "Fred destaca influência de astro internacional na base do Fluminense: \"Absurda\" - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMUNNY2hyQXlLOEU5OHVIaFpBLW9pVFc3VU1JdTFlWlB2TTZENXRVVFBoV3I3MWRkQlBqVXBSa0I4R0FMOHVES1pBc3Nmc1E1TnZ3YUVacmpJTW43LXlUYUs2OXlSeTBqQUl0WWN2X1czQXR0MWJzRUo0SjI1NDY5N0g5Y2Y0NUlnMEN4Z1BmSzRzYTctTGlKUHNUOVItUnNvS2dYWDZnMGU2bU9YM1Y2ektiTDhpSWJTQkVMT1daUW5DNF90cnByby1IdHZEdTIwR3hWVUVlcjdqb2lUb1A4NFU3am1fQm5iakNsb0drcXl1RDRsZHMzeUF3RQ?oc=5",
+      "data": "15/11 10:16"
     },
     {
       "titulo": "Já classificado para semifinal, Flu vai à rodada decisiva com melhor ataque da Copa Rio Sub-17 - Fluminense Football Club",
@@ -1296,18 +1296,22 @@ window.PAINEL_DATA = {
       "data": "14/11 12:02"
     },
     {
+      "titulo": "Nacional-URU critica clubes brasileiros, revela dívida por Millán, mas poupa o Fluminense: \"Mais sensato\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXNDRXEyUzRLWXJMMXZfazZhaE9xNEZDSmlEdkcyQmZBdUhCNmMzZ1JHQjZSaWF5STBEVU9LcXBqaUJlaFFyMXMwWjVvRE1RS3RSVC04Ty1FaGk1amhrWFdsVWtJLWtNZEhpang2VEFxbHdzNHBIalJmaW5hSXFZMmN1LTlCcHB6QUk0SmV0d3dRSmZVdnIwTVdxV2YwVGhNeFFmUXdURDdNWmhZbnZRZ2ZCWWt6WklVMXpTR3J5N0ozZFRDY3dzZ0cxUEhfUkFnZTJkUDZGcng4enRtdmM1OUU1RHFPSGZRZ1hDTEc1R2Z5cmNQS2Z4MGotN0JsUVA40gGPAkFVX3lxTFBUcUpERDZfSGUtRkwxUXIza3FxRzRWbl9ZTkE4VERGc0FNLTNhYlBjVlRJQnN2ZkJyYlFjUENlbzVQdGJoRmtIRGZ3a0F1MjFUVDVYZUpLSXhTYzAwUi1hUTh5TndvTldnbzMtMFNHdTVicmlCTERXYzlSckx1NjMxRERiWi11R3U5R1ZUMzhHb0R6TmxHWTNtTmZ5NXUwMmdWaVNTUHZKdFFZMlA4Yk9XQnZ4NUtDWkd4MHd1Z291cmRlczFOVkFsckVZSFRtRlNlMVVBTHFlcUg0S3owS2VWV05CVjE5b2Yxb05Cd2hGdXBNdU9SRFN3andnTzU1UV84UUZjR1B0bk5lb19TbHc?oc=5",
+      "data": "13/11 15:05"
+    },
+    {
       "titulo": "Dirigente do Nacional-URU critica Santos e Botafogo por dívidas e elogia Fluminense: 'Sensato' - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXpVSGJxVkdldUNjSFZrbXd0U2RxcnAwWkltdVgyR0hHVlkwOGRtVWxpeHFiVC1pUEtWQW9tSlhfbEJjdDhhTlZjLWNxYUctM3Qza1AydlZQUlg0UW5YOG8wV3EzU2dsaTNaWlNuQUN3OERHblRVMDZBX0IyNFpFaC00ZnY4YVRKMl9vaVN1SzF6SFVCNDVXakotYkl0aVVIMjNfZENwMExrSlhCM2JnSTVqbGNGTHhiZXZBa0otUDg4UFdaM1pRQ3RhdXJ3MnlGSXd4SQ?oc=5",
       "data": "13/11 18:12"
-    },
-    {
-      "titulo": "Com dificuldades no mercado, Fluminense analisa permanência de Marcão no cargo - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWHExMVZBckhYS3JEQkVmQ2xkSFZlMlhtdUlhWE9weXlHeGhodWlySkJCV3BCNEwzRGdRZ21fd1V3R3RuclVHdVJ2WFc5anEyNUhJZy1nLWZtbjBwcUNBYkFHR2l0S19lanVIWDd5TnJ3eTNYb1hRQ0NaSEZROXZhUUVSQWpzV2o5cmJKMF9KRGdsdFFEX2ZISGdOTFd6SFBHWEQ4SDNEcXpBdjFwdS1NQUEwNVFZSXJ3S3kxdzRORE9uSmlvaTZJTGxlMmVsRDRDR3dVUFF2TnVEdlJzNzVqaEtXV2JEYTBJQjk3LWtMOGhjQ0NtSTdsSXNvNA?oc=5",
-      "data": "13/11 18:04"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
   ]
 };
