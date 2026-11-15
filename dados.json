@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "15/11/2026 12:14",
+  "atualizado_em": "15/11/2026 17:44",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@
     {
       "sport": "volei",
       "date": "2026-11-15",
-      "time": "10:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Monte Carmelo x Praia Clube",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-15",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Campinas",
@@ -1252,38 +1242,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.9,
-      "temp_min": 21.2,
+      "temp_max": 26.5,
+      "temp_min": 21.9,
       "chance_chuva": 51,
-      "condicao": "Trovoada"
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.5,
-      "temp_min": 20.0,
+      "temp_max": 27.2,
+      "temp_min": 21.7,
       "chance_chuva": 57,
-      "condicao": "Garoa"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.7,
-      "temp_min": 17.9,
+      "temp_max": 25.3,
+      "temp_min": 17.8,
       "chance_chuva": 97,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.6,
-      "temp_min": 16.8,
+      "temp_max": 25.4,
+      "temp_min": 17.0,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense espera bolada por atacante colombiano emprestado para a MLS - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc1dhdkhLMjhwVmJ4Yk9OYjlpMkVNMXlqaTgxb2V4cm9aTFFrRjRzQ1B2VFowaGdiamN0M3JrSTQwWExueFNjLWhrZWFZaGo3aXRnNXFtejIwQV9jMVFTaGdMeXZlcjU5WUpITDlvZHhBclAzOE9RTFV6VThjV1gxRDctMjBLeWd5eXliVUhiSjI2XzJMZ1BrZk5KVllIbjBlaXowVzZXS0VpTFMtejdCaVo5eVJWdUV6ckZ3MXZLa3pyTWpicm1sU0ZJUXUxbjZqelZjNWhaLVFLLU13Qm5GU3N3ano4V3ozTEhPZEhISU1nUQ?oc=5",
-      "data": "15/11 14:18"
+      "titulo": "De saída? Atacante pode deixar o Fluminense no fim do ano - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXM3TnRWREFaSEJHbXR5UUo4TWRfZ19OaFBZRmMxZnk1QU1ueUEzdmRKcHRMYzh1dDFlcFA2V3p6RVpmclU4M05iMl8zWnhoMTRFMmcwSk1JTl9nVlNJS1ZsWWZfTjNsUDN0Y0dMTGdBRS1GUlBVeXl0QzkyQVBJeVlRNFR5NnV0VEZLVDh0X2VSSVdaYnpjYVh0aWw?oc=5",
+      "data": "15/11 18:16"
+    },
+    {
+      "titulo": "Fluminense recebe cobrança milionária do Lanús por compra de Castillo - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM2ZRcTZRZnpMNi0tNVR6YU5kMDBNSmREaV9tRERHX3kzdURndjJFbS15VHRjWnpBaW1sRjRybmtFWElfTVlLUmJBRmU5X2tDbEwyRDBTaWJoNUZZWmVKR2s4Q0lycFc4VDZ1dlQ2eDVMVWh0bHdtenBYT1poOXlQMl96S2phV1NrV0s0VUwwUnNzaElZYWMxTmJxZ1kzWHY2S3A0ZWtkNWEyOVdmQ0IyY0JQVnlBYUVvUVRnM2J6bUU4SlF3R3lPbzBGZDJCeWZmTG1QT09RZV9CT0I4R2FkMzlsUUl1bm9TY2FON254VFA?oc=5",
+      "data": "15/11 20:05"
     },
     {
       "titulo": "Fred destaca influência de astro internacional na base do Fluminense: \"Absurda\" - Terra",
@@ -1296,22 +1291,13 @@
       "data": "14/11 12:02"
     },
     {
-      "titulo": "Nacional-URU critica clubes brasileiros, revela dívida por Millán, mas poupa o Fluminense: \"Mais sensato\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLXNDRXEyUzRLWXJMMXZfazZhaE9xNEZDSmlEdkcyQmZBdUhCNmMzZ1JHQjZSaWF5STBEVU9LcXBqaUJlaFFyMXMwWjVvRE1RS3RSVC04Ty1FaGk1amhrWFdsVWtJLWtNZEhpang2VEFxbHdzNHBIalJmaW5hSXFZMmN1LTlCcHB6QUk0SmV0d3dRSmZVdnIwTVdxV2YwVGhNeFFmUXdURDdNWmhZbnZRZ2ZCWWt6WklVMXpTR3J5N0ozZFRDY3dzZ0cxUEhfUkFnZTJkUDZGcng4enRtdmM1OUU1RHFPSGZRZ1hDTEc1R2Z5cmNQS2Z4MGotN0JsUVA40gGPAkFVX3lxTFBUcUpERDZfSGUtRkwxUXIza3FxRzRWbl9ZTkE4VERGc0FNLTNhYlBjVlRJQnN2ZkJyYlFjUENlbzVQdGJoRmtIRGZ3a0F1MjFUVDVYZUpLSXhTYzAwUi1hUTh5TndvTldnbzMtMFNHdTVicmlCTERXYzlSckx1NjMxRERiWi11R3U5R1ZUMzhHb0R6TmxHWTNtTmZ5NXUwMmdWaVNTUHZKdFFZMlA4Yk9XQnZ4NUtDWkd4MHd1Z291cmRlczFOVkFsckVZSFRtRlNlMVVBTHFlcUg0S3owS2VWV05CVjE5b2Yxb05Cd2hGdXBNdU9SRFN3andnTzU1UV84UUZjR1B0bk5lb19TbHc?oc=5",
-      "data": "13/11 15:05"
-    },
-    {
-      "titulo": "Dirigente do Nacional-URU critica Santos e Botafogo por dívidas e elogia Fluminense: 'Sensato' - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXpVSGJxVkdldUNjSFZrbXd0U2RxcnAwWkltdVgyR0hHVlkwOGRtVWxpeHFiVC1pUEtWQW9tSlhfbEJjdDhhTlZjLWNxYUctM3Qza1AydlZQUlg0UW5YOG8wV3EzU2dsaTNaWlNuQUN3OERHblRVMDZBX0IyNFpFaC00ZnY4YVRKMl9vaVN1SzF6SFVCNDVXakotYkl0aVVIMjNfZENwMExrSlhCM2JnSTVqbGNGTHhiZXZBa0otUDg4UFdaM1pRQ3RhdXJ3MnlGSXd4SQ?oc=5",
-      "data": "13/11 18:12"
+      "titulo": "Thiago Silva se reapresenta ao Fluminense e participa de treino no CT Carlos Castilho - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb3BYTjZIdnNjZHByVmNDSjMyNi1lSkEydFBXUEg1cklLcmw3T29OTWRJQVQtLVJIYzFpOHIwU0ZMV043MWdVQ1V3SW52dFJaT1dDT0hHWnc3UlFRMWVmTDdaTnNrVjdkdVJ5Y2N4UmI4TGZEaFN3cGRic3NSMjYyMW8zUGtsaThpMmJoNklDZjQ4X3BQMjZqMVNvMTRYVzU3RHdWaGJuZTVPZ0l3ZURhMWxRYmFNV2ZCYkk2U0NFdVNfMjhPOUtlbUZLTXpEQW9GZmNNTm9IMVNLd1JYRmxHbnNXeFdzdncwZS1CQtIB-wFBVV95cUxNdFk5Q21uTDBndHFKNUhEYnd1dlAzc1lKQ3BuZ3U5MnFnS2hIZmQtOUxGMU52UHpjZ1g2aVRmZmNsLXRmbVo4NDlxNXpocWZ6OFFUUlRTXzExQUZkaHM3cmIzVjFCSzVZQllqZUZTZWxwNmJRTkNDb0MtWUZzdE9QcTZYS0RtLUQ0ZGlXRjVNN0VkNnlXSGIwb3RENHFnMWFkLTRQX2VrZWsyNGxraTV6VFB3eXBjcjFDMFhrT0Rpak1kcnVfdnE5TmJ4SjBobm5EWTNQdjJrQzgwTjlBOTI4ZnVnZVJWTDR1eXBUbENvcFJLQ0NXc2VBbXN6OA?oc=5",
+      "data": "13/11 18:18"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    "Futebol: mantendo dados do último sucesso."
   ]
 }
