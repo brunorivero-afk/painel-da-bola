@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14/11/2026 17:20",
+  "atualizado_em": "14/11/2026 21:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@
     {
       "sport": "volei",
       "date": "2026-11-14",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Montes Claros x Sesi-Bauru",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-14",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Brusque x Brasília",
@@ -1286,7 +1276,7 @@
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.6,
+      "temp_max": 26.1,
       "temp_min": 16.3,
       "chance_chuva": 100,
       "condicao": "Garoa"
@@ -1306,24 +1296,24 @@
       "data": "13/11 21:35"
     },
     {
-      "titulo": "Brasil sub-20 vence Peru com show de ponta do Fluminense e zagueiro do Galo - UOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0prRmF4WHFfZzdPOXRoRmVGd3VhSHZHYW13cHhtVk5OOEVpSUg0cU9mNEo5cGJDQU00V3UxS09RR1dYX0FWUkNoN192aFViRmNtUXJRYm5TZlhCNzJsY2Q1bmR6bjdWU0xqT1Fkei1KUDFLcHVuYk4yLUh4el9ibHBMZUIyYnU1OGlvci16QVQyX2o4REwzNjFOZ1lSMi03TURuQURwZV9YVUJWR0JGdFd3?oc=5",
-      "data": "14/11 00:59"
-    },
-    {
-      "titulo": "Fluminense joga por vaga na decisão do Carioca Sub-20 neste sábado - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckFGRHNGbWFJcndUUDB2S0Q0Z0g1MjVlVE1UNDJhX1Y0Tk50Q1NTdHQ1MjJPYmJmdmFkNVVWQjdkYWNYQzFoRVo5dmw5d0hGMlFXNkV5YzVzSlVZczhzWV9vR2dGT3Z0Y0hNWHl1Q3RkZmlEcXI3YU1od1BmQXAzUXZpa2gzNTNjVG9Pb29zRTVtZHVjMUg4TS1ycVY2Tm1tS2FUY2JYUQ?oc=5",
-      "data": "13/11 21:00"
-    },
-    {
       "titulo": "Atacante pode ser vendido por R$ 15 milhões, zagueiro deve deixar o clube e possíveis técnicos para 2027: as últimas notícias do Fluminense - Terra",
       "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOckZNWkQzZXl1OV93cG54N1pLUHNUdjZkdmVKN0tKZ0taQUQ1VWN2cTZ3Q3oySXhfdnNfYmpBSVdPTWYyMW16N0R3YjNrOEFKZnZhNlI2eUQ0WVZKZlBwZHJyNU51STR5TThaeUdPMFgtdnBBMlp3MFdBWGVpUUIzM3NYSzd6UGZKdGV5NkF0WmxJODR6X3ZiSmdxdHVVX3FNaVFwM051Qmg2OXRycVNnVnNnRS1qUnowUGNWazlMOTZjaENyX29jNFg2SkpkdFJtcHJPb2xrSmVBbEZSa3JwTlpsVGpBeDFJaXU1UDhYM0ZoTXR3amNxRzVwUEEzaVFHdmtTTkVwU2wwbnVQeXl4ek5LSVNHb3VMbm9YamxCSTZnSFhsd25kclZJRGVmNDlwNkhzZVdZSEZUSENhLUlQNHNBSHdOc19haE1r?oc=5",
       "data": "14/11 13:46"
     },
     {
-      "titulo": "Ex-treinador do Fluminense visita CT do Tottenham - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTAyN2oycW5Ubk5TdjJKV2lPYW15WFdyOExKSldOcjdVbl82aDU1WGFUTHFpWXJHVkJxQkRpanRBUkFYN001a190MDlCV1lNNnNkZ2hHMlE0cXkxMFk4NkVjQTQ4d3QtVW93NlBpcGk2YU5nV21ON1RLMThfc21LUTc5RWExTl9aaXBxTlRVNUdZLU1rVl9Vd0JPRmhlN2pBVmtyWFFoc3VZV25zbVI3eEpB0gG3AUFVX3lxTE56T1U4LXJ6cjNlT3VTaFZWYmc3cVlJcUYtbUE4ME42RlF5YjVTTVE2WmFoV0RNZURLSml0Ml9aWWplZjJTNXhxTzZscmF0Z2RMMi10Y2RmSXowTjVnYUVPWmNSZkdaSG1fZmswREhXNktPa0N0d19mVHNMcDB6cUY0WldrV194NFBPa2lGeEtlNUFxWkJEcVgxX1ZlaEtURmN0TnhDQUcxVEZDOTVnVFhLcXA0R1pPcw?oc=5",
-      "data": "13/11 19:15"
+      "titulo": "Já classificado para semifinal, Flu vai à rodada decisiva com melhor ataque da Copa Rio Sub-17 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVkRFU2N1MEl0TWZWZUhocGlKbnRlZzQ5RXdpNFpQanZmd19GVlFxaUY2bGlWVjRmYWRQRzVjRlE2LUJfUXFSQWNxUTEwZUVEaEh1OGp0dVhNN2xqOVZRMFZ6M2Q5MkFXTVQ0YTlqMkVZRjZoVS0xaDU5QlpSbnBibmNLOFB3dEhZRjRab0dhSEFGTHA4YW1KNmtkZDJJbThtS2xYbXRYUHJZN3BtLUI3WURaYVh4OGJqNnNoVGNDcS1HcFFkbGJGX0d2OA?oc=5",
+      "data": "14/11 12:02"
+    },
+    {
+      "titulo": "Brasil sub-20 vence Peru com show de ponta do Fluminense e zagueiro do Galo - UOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM0prRmF4WHFfZzdPOXRoRmVGd3VhSHZHYW13cHhtVk5OOEVpSUg0cU9mNEo5cGJDQU00V3UxS09RR1dYX0FWUkNoN192aFViRmNtUXJRYm5TZlhCNzJsY2Q1bmR6bjdWU0xqT1Fkei1KUDFLcHVuYk4yLUh4el9ibHBMZUIyYnU1OGlvci16QVQyX2o4REwzNjFOZ1lSMi03TURuQURwZV9YVUJWR0JGdFd3?oc=5",
+      "data": "14/11 00:59"
+    },
+    {
+      "titulo": "Dirigente do Nacional-URU critica Santos e Botafogo por dívidas e elogia Fluminense: 'Sensato' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXpVSGJxVkdldUNjSFZrbXd0U2RxcnAwWkltdVgyR0hHVlkwOGRtVWxpeHFiVC1pUEtWQW9tSlhfbEJjdDhhTlZjLWNxYUctM3Qza1AydlZQUlg0UW5YOG8wV3EzU2dsaTNaWlNuQUN3OERHblRVMDZBX0IyNFpFaC00ZnY4YVRKMl9vaVN1SzF6SFVCNDVXakotYkl0aVVIMjNfZENwMExrSlhCM2JnSTVqbGNGTHhiZXZBa0otUDg4UFdaM1pRQ3RhdXJ3MnlGSXd4SQ?oc=5",
+      "data": "13/11 18:12"
     }
   ],
   "avisos": [
