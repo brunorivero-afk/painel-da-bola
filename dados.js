@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "15/11/2026 21:40",
+  "atualizado_em": "16/11/2026 04:34",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Goiás x Campinas",
@@ -1140,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Suzano",
@@ -1150,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "21:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Sesc Rj Flamengo",
@@ -1160,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Brasília",
@@ -1170,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Londrina x Praia Clube",
@@ -1180,7 +1180,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "19:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Pinheiros",
@@ -1190,7 +1190,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Monte Carmelo",
@@ -1200,7 +1200,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Guarulhos",
@@ -1210,7 +1210,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Minas",
@@ -1220,7 +1220,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Cruzeiro",
@@ -1230,7 +1230,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Sesi-bauru",
@@ -1242,38 +1242,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.5,
-      "temp_min": 21.9,
-      "chance_chuva": 51,
-      "condicao": "Garoa fraca"
+      "temp_max": 25.7,
+      "temp_min": 21.7,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.2,
+      "temp_max": 26.4,
       "temp_min": 21.7,
-      "chance_chuva": 57,
-      "condicao": "Nublado"
-    },
-    {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.3,
-      "temp_min": 17.8,
       "chance_chuva": 97,
       "condicao": "Pancadas de chuva"
     },
     {
-      "cidade": "Teresópolis",
-      "temp_max": 25.4,
-      "temp_min": 17.0,
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 25.6,
+      "temp_min": 18.4,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Trovoada"
+    },
+    {
+      "cidade": "Teresópolis",
+      "temp_max": 23.8,
+      "temp_min": 17.2,
+      "chance_chuva": 100,
+      "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense recebe cobrança milionária do Lanús por compra de Castillo - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM2ZRcTZRZnpMNi0tNVR6YU5kMDBNSmREaV9tRERHX3kzdURndjJFbS15VHRjWnpBaW1sRjRybmtFWElfTVlLUmJBRmU5X2tDbEwyRDBTaWJoNUZZWmVKR2s4Q0lycFc4VDZ1dlQ2eDVMVWh0bHdtenBYT1poOXlQMl96S2phV1NrV0s0VUwwUnNzaElZYWMxTmJxZ1kzWHY2S3A0ZWtkNWEyOVdmQ0IyY0JQVnlBYUVvUVRnM2J6bUU4SlF3R3lPbzBGZDJCeWZmTG1QT09RZV9CT0I4R2FkMzlsUUl1bm9TY2FON254VFA?oc=5",
-      "data": "15/11 20:05"
+      "titulo": "De saída? Atacante pode deixar o Fluminense rumo ao Independiente Del Valle - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXM3TnRWREFaSEJHbXR5UUo4TWRfZ19OaFBZRmMxZnk1QU1ueUEzdmRKcHRMYzh1dDFlcFA2V3p6RVpmclU4M05iMl8zWnhoMTRFMmcwSk1JTl9nVlNJS1ZsWWZfTjNsUDN0Y0dMTGdBRS1GUlBVeXl0QzkyQVBJeVlRNFR5NnV0VEZLVDh0X2VSSVdaYnpjYVh0aWw?oc=5",
+      "data": "15/11 18:16"
+    },
+    {
+      "titulo": "Conmebol faz nova publicação direcionada ao Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd2JrVndsQkdIdzltWkhkSnFndFJyQjBLeFVjdHhqN3R3bjA5cHJpRlNpLU40QlJwXzViRGdyaDQ5bGZQVkRvYTM4bG1sR1BtMEx3cUhlck5fYWRvVThESjFCbjNMZzhvTmRsMG1ldnd1N2duUEZOaWphX2g3QllMM2lRYURvZ19NemZrX2MxamFjNi1Dc3ZMaGxXc1RidVNJOTgwakhQeDlhYUxKbzBuc0hrLUtsVUd4eDZycHZuaU9BUnFtYWNkanA3N0ktZWhWYUxiQ0xRLV9jOHhqcFE?oc=5",
+      "data": "16/11 01:21"
     },
     {
       "titulo": "Riquelme brilha pela Seleção, e técnico explica poucas chances no Fluminense: \"Não é fácil\" - ge",
@@ -1281,19 +1286,14 @@ window.PAINEL_DATA = {
       "data": "15/11 16:43"
     },
     {
-      "titulo": "De saída? Atacante pode deixar o Fluminense rumo ao Independiente Del Valle - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXM3TnRWREFaSEJHbXR5UUo4TWRfZ19OaFBZRmMxZnk1QU1ueUEzdmRKcHRMYzh1dDFlcFA2V3p6RVpmclU4M05iMl8zWnhoMTRFMmcwSk1JTl9nVlNJS1ZsWWZfTjNsUDN0Y0dMTGdBRS1GUlBVeXl0QzkyQVBJeVlRNFR5NnV0VEZLVDh0X2VSSVdaYnpjYVh0aWw?oc=5",
-      "data": "15/11 18:16"
+      "titulo": "Fluminense recebe cobrança milionária do Lanús por compra de Castillo - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM2ZRcTZRZnpMNi0tNVR6YU5kMDBNSmREaV9tRERHX3kzdURndjJFbS15VHRjWnpBaW1sRjRybmtFWElfTVlLUmJBRmU5X2tDbEwyRDBTaWJoNUZZWmVKR2s4Q0lycFc4VDZ1dlQ2eDVMVWh0bHdtenBYT1poOXlQMl96S2phV1NrV0s0VUwwUnNzaElZYWMxTmJxZ1kzWHY2S3A0ZWtkNWEyOVdmQ0IyY0JQVnlBYUVvUVRnM2J6bUU4SlF3R3lPbzBGZDJCeWZmTG1QT09RZV9CT0I4R2FkMzlsUUl1bm9TY2FON254VFA?oc=5",
+      "data": "15/11 20:05"
     },
     {
       "titulo": "Fred destaca influência de astro internacional na base do Fluminense: \"Absurda\" - Terra",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMUNNY2hyQXlLOEU5OHVIaFpBLW9pVFc3VU1JdTFlWlB2TTZENXRVVFBoV3I3MWRkQlBqVXBSa0I4R0FMOHVES1pBc3Nmc1E1TnZ3YUVacmpJTW43LXlUYUs2OXlSeTBqQUl0WWN2X1czQXR0MWJzRUo0SjI1NDY5N0g5Y2Y0NUlnMEN4Z1BmSzRzYTctTGlKUHNUOVItUnNvS2dYWDZnMGU2bU9YM1Y2ektiTDhpSWJTQkVMT1daUW5DNF90cnByby1IdHZEdTIwR3hWVUVlcjdqb2lUb1A4NFU3am1fQm5iakNsb0drcXl1RDRsZHMzeUF3RQ?oc=5",
       "data": "15/11 10:16"
-    },
-    {
-      "titulo": "Já classificado para semifinal, Flu vai à rodada decisiva com melhor ataque da Copa Rio Sub-17 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVkRFU2N1MEl0TWZWZUhocGlKbnRlZzQ5RXdpNFpQanZmd19GVlFxaUY2bGlWVjRmYWRQRzVjRlE2LUJfUXFSQWNxUTEwZUVEaEh1OGp0dVhNN2xqOVZRMFZ6M2Q5MkFXTVQ0YTlqMkVZRjZoVS0xaDU5QlpSbnBibmNLOFB3dEhZRjRab0dhSEFGTHA4YW1KNmtkZDJJbThtS2xYbXRYUHJZN3BtLUI3WURaYVh4OGJqNnNoVGNDcS1HcFFkbGJGX0d2OA?oc=5",
-      "data": "14/11 12:02"
     }
   ],
   "avisos": [
