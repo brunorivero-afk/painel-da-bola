@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/11/2026 04:34",
+  "atualizado_em": "16/11/2026 14:51",
   "jogos": [
     {
       "sport": "futebol",
@@ -1242,58 +1242,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.7,
-      "temp_min": 21.7,
+      "temp_max": 27.3,
+      "temp_min": 22.3,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.4,
-      "temp_min": 21.7,
-      "chance_chuva": 97,
+      "temp_max": 28.4,
+      "temp_min": 21.9,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 25.6,
-      "temp_min": 18.4,
+      "temp_max": 23.6,
+      "temp_min": 17.6,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.8,
-      "temp_min": 17.2,
+      "temp_max": 25.0,
+      "temp_min": 17.1,
       "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Fluminense pode receber parcela de fortuna de 370 milhões em possível negócio envolvendo o Manchester City - Terra",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdUNCQjYyVU5taEdKcVhILVdGbkRlOVNIRGgyUTh3b0dFYkZrVTNJNXVWZ1F2YXp1N2d6aGU1ZUNwRzhZczd1RWJNbU45SmRtSlpwZjZ1OWZJM0JpaGVfdk9BZ0V2WWlUb1VvenpfZzh3M1pRS05HUVMzS1lUOGhiVVJRYURpdWFYd0hYNGtMOW9iWDJoSnBOQUtkdEhnd3JWZ1ZUYUhCbW5TV0xBZXF1NXVkYUQ4bE5Uc251M1lyN3lSbjI5ZTFzak5XZWZHT3ZpcnBOZzhISHNzdWVJazBnS08weTFNeUhlT1cwUXhRN0VfWmxJdHNEUU5EVlZJQUNuWnFMZ3FhRFBnc0JxQWIyWFJUVVIxc2NaU05uM3FwaFJpaFU?oc=5",
+      "data": "16/11 17:16"
+    },
+    {
+      "titulo": "Brasileirão 2026: Informações de ingressos para São Paulo x Fluminense - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTVNIQmZ3bEhoWTd3Mkt5VEhfZFQ4RlFsYkNDREQ5VGJiV1pfcmlNaVdWT01FTGF6dTl6WGYydHhaQ1pzbklDRFlKQmMwNndhSnFZWE1iMVdoQy12amFiQUIxUTIwNjFoa1NMb3MyRS1FdEI0MDA1dldSb1YwVlE4QTV5WmY2WmltMGtVS1VxT0dWdVZVTC13NUVWaHdHX3VkY1dTU19Tei1nN2M?oc=5",
+      "data": "16/11 15:05"
+    },
+    {
+      "titulo": "Fluminense deve confirmar venda de atacante para os Estados Unidos - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVk4ya3pkWndxQjJtNEhVR0RpY1R6c0ROMGtSZU1ycXdVQk9seURSYWJxdHYxaHprTmh2WUZHMWhxRGxuNC02V0xpUzVkenR1cGpOREhpUjN4OFVYeFdZNHo3dGlfaDFvVnpwcTV0R0k0OEFmLW5TblNIMnVRZDhDNGM0Z0RaRVhsS1ZBdWU2SFhIamliblNDM3hGRDFodEs5R2QtT1hsSUxfeHB3OE9LT1I1RjlSYjJLck9oOXYzZWdFR09kRTJhb1hkSGJ3QVpSNTBSWGhaRDBJblRydlRwdmZvbU1kbXRISk9OeDNn?oc=5",
+      "data": "16/11 17:14"
+    },
     {
       "titulo": "De saída? Atacante pode deixar o Fluminense rumo ao Independiente Del Valle - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXM3TnRWREFaSEJHbXR5UUo4TWRfZ19OaFBZRmMxZnk1QU1ueUEzdmRKcHRMYzh1dDFlcFA2V3p6RVpmclU4M05iMl8zWnhoMTRFMmcwSk1JTl9nVlNJS1ZsWWZfTjNsUDN0Y0dMTGdBRS1GUlBVeXl0QzkyQVBJeVlRNFR5NnV0VEZLVDh0X2VSSVdaYnpjYVh0aWw?oc=5",
       "data": "15/11 18:16"
     },
     {
-      "titulo": "Conmebol faz nova publicação direcionada ao Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd2JrVndsQkdIdzltWkhkSnFndFJyQjBLeFVjdHhqN3R3bjA5cHJpRlNpLU40QlJwXzViRGdyaDQ5bGZQVkRvYTM4bG1sR1BtMEx3cUhlck5fYWRvVThESjFCbjNMZzhvTmRsMG1ldnd1N2duUEZOaWphX2g3QllMM2lRYURvZ19NemZrX2MxamFjNi1Dc3ZMaGxXc1RidVNJOTgwakhQeDlhYUxKbzBuc0hrLUtsVUd4eDZycHZuaU9BUnFtYWNkanA3N0ktZWhWYUxiQ0xRLV9jOHhqcFE?oc=5",
-      "data": "16/11 01:21"
-    },
-    {
       "titulo": "Riquelme brilha pela Seleção, e técnico explica poucas chances no Fluminense: \"Não é fácil\" - ge",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQXljNXk3cGNFTjRGSTA2WFc0Z2M3dW1EbER5eHg4TGtKSmtUTTAwdUtoRFBsb2RnWTR3UkJBQnBLTE1EVlNCWEJDQ3ptRExDR3lwNVVJbVl2bkVaUFBpeGZlSW9wRmo0aXZ0VHNZcmRMMk91Q3Nrc3BUVXA4XzNQaHJXQXNRNXhneFhwZW1pQTEzSmUtUlRYQVRib2dTVUF4cERyX3lMU3dlRzJjaE5TbGJHUmhLMzFteEN6ZVZqVHRqREo1NFNNbER2LTJadUI4UHBwcW5GVlhQaHZObkdMcE0xYV9nbDVXeVRxdktoQdIB_gFBVV95cUxNdTkwUmlOTFZKRWMwMU1JeElSa0txb1hrSkFkUHlJMkgtcktQR3FqYVg5RjA4aUFDU1oxd09ZRTB3ZG9CLUtEeEc5eFRuRkhoQlZYbEVXY0NqQnplc2d2THYtVkdkUE9MaUJjUnJnS2xJV1B5OHNJRWVNUlJBZGxlVW8wU25EckRVSE9BbVg4T1JmLUJWS1pLMUh0UEIzZzdrYUFieDAyeHBWOWx0RlZjNy1vRVVUa2VLc3Jic2FZdDBXdmxHaHBSNWN4RFJaUjFteGJ2cU5pMFdpRE9iSWx6NlRFQThGd05pUWE1U3ZFOTJKRnhkNjBLXzJDZmZFdw?oc=5",
       "data": "15/11 16:43"
-    },
-    {
-      "titulo": "Fluminense recebe cobrança milionária do Lanús por compra de Castillo - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM2ZRcTZRZnpMNi0tNVR6YU5kMDBNSmREaV9tRERHX3kzdURndjJFbS15VHRjWnpBaW1sRjRybmtFWElfTVlLUmJBRmU5X2tDbEwyRDBTaWJoNUZZWmVKR2s4Q0lycFc4VDZ1dlQ2eDVMVWh0bHdtenBYT1poOXlQMl96S2phV1NrV0s0VUwwUnNzaElZYWMxTmJxZ1kzWHY2S3A0ZWtkNWEyOVdmQ0IyY0JQVnlBYUVvUVRnM2J6bUU4SlF3R3lPbzBGZDJCeWZmTG1QT09RZV9CT0I4R2FkMzlsUUl1bm9TY2FON254VFA?oc=5",
-      "data": "15/11 20:05"
-    },
-    {
-      "titulo": "Fred destaca influência de astro internacional na base do Fluminense: \"Absurda\" - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMUNNY2hyQXlLOEU5OHVIaFpBLW9pVFc3VU1JdTFlWlB2TTZENXRVVFBoV3I3MWRkQlBqVXBSa0I4R0FMOHVES1pBc3Nmc1E1TnZ3YUVacmpJTW43LXlUYUs2OXlSeTBqQUl0WWN2X1czQXR0MWJzRUo0SjI1NDY5N0g5Y2Y0NUlnMEN4Z1BmSzRzYTctTGlKUHNUOVItUnNvS2dYWDZnMGU2bU9YM1Y2ektiTDhpSWJTQkVMT1daUW5DNF90cnByby1IdHZEdTIwR3hWVUVlcjdqb2lUb1A4NFU3am1fQm5iakNsb0drcXl1RDRsZHMzeUF3RQ?oc=5",
-      "data": "15/11 10:16"
     }
   ],
   "avisos": [
