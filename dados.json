@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/11/2026 07:03",
+  "atualizado_em": "17/11/2026 16:33",
   "jogos": [
     {
       "sport": "futebol",
@@ -1222,31 +1222,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.7,
-      "temp_min": 22.2,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 26.0,
+      "temp_min": 21.7,
+      "chance_chuva": 76,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 27.7,
-      "temp_min": 21.6,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 26.5,
+      "temp_min": 21.3,
+      "chance_chuva": 87,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.9,
-      "temp_min": 17.6,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 26.1,
+      "temp_min": 16.4,
+      "chance_chuva": 98,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 23.0,
-      "temp_min": 16.9,
+      "temp_max": 22.2,
+      "temp_min": 16.4,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
@@ -1256,32 +1256,28 @@
       "data": "16/11 21:47"
     },
     {
-      "titulo": "Cano recusa saída do Fluminense para time argentino - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaFJ2bkRGMzVuRTZzSlJnajNOYXlmZ3p1X2szSm5ySE1teHgtbmlXYm55Y3A5TEpoSEVpdl9zVm9sQU9pZDJyZG9JVnB4a0VfZnVuR0xLVnBIa2MyWHJEUHZnM3BXTGFKZFJyZ2hnYUdDN2JEQlk2R2FLc1duTEFqQ01XWVNuV1JtMlJXTzFSMzBNOWVjZ1dZdURuUTZZLUxyUFh3aGl2enBjdVdvQzV3SDFMOVNhNDA0Z2U3TXF6ekRCN0c2QUZqZ1RfVDJRR3pxOFp6aTl1RDhQQQ?oc=5",
-      "data": "17/11 09:36"
+      "titulo": "Cano rechaça Lanús e pode defender outro clube no futebol brasileiro - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEFtV1JuVmV6T2w2QWJLQ2NsMUp4aS1NZVRBNlpGaF81LWYtbVNWM3JLOW1RT2hTZTRqTTdZUmxuTElnYk40aDU1cnlSNF9YaWUxMVB1bWhWWl9kM3ROdi1TOHZzTHR5bnZKZlpwSjNhb3pIdS1WdGNoSlAwMEE2bVJib29ZQVl2eWVQSk9RV1JidmdNYWliaVcyTDBfNGFfenF5WGVFNXRSenJGZzd1b3ZQY1AyWWF5eEpaanJLdVRJa2F2bEJjRDR3MNIB0AFBVV95cUxPQVlfU0o5YVZka09CRDk2bXF1ZmdUUDlDelRlbjkyQXhHdE5TbG11RXdEeWFDQThrNEp6VlFUeWU2c2pFWWg3RkhHOGE5MkhYZUNaOEtiSldVdTNuQnJjcjBUNmpNUVhHVl80cFZmT0owZ1BzTXNCYXRidWJkVVVaeEZ3cFdDNWZFY1JQRlVfNm9DRklBWFF6QkYtSGN1dU9yS3ZlOEpfRjlydTlDeXZGVF9jelROUTRINGJrRG9WUEV1YThLOGFjbGZzQ092Zm5M?oc=5",
+      "data": "16/11 21:50"
     },
     {
-      "titulo": "Martinelli e Wesley Natã voltam a treinar com elenco principal do Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdTVmUnk5eXk1UC1hUU1xOW55SjVvWjRJSUpoUWlfMDNnLU1Eckd0eU8tYWRrX1NNZG5fSV8tNTRUTkd6VUxCMWpPWkZzejc5Y1ZBekhVY1BqZlU2cVktS2U5RlVqQzFoS0xvWGhHZzNncTVGRGdGV2dfc1czelUxRW42TVhub21Cd1FSZGNVTHE3aU5Wbk5MWlh1c1lobVlVdzB1UnR6T0RjMzlWYjRuZUhZY3I5OGVNbWhyZTBIbzdzZFZ3d2FyMnNrZGRhUFFzeFBHSlhuMXItellsaGtwbdIB7wFBVV95cUxQUkxXZHE2aHZrRUZEeFZoR0V3dExWNThJQXAzcHJDM0RVM3ZPaDJTOXZuWnVnWlh4MDFBUzV5TmFRZGJpUjZXQTM1eEptbzBUMDE0dGZkZnUtRXJ0bVFCb2JfRHVuQ2tNaU5icndMN0RiS2NuaVh6X3U3VVdRbGVKSDNZNDVGaHlHemtCc082a0hNcTdwLWUzSjZhVzRRdDQxWVpJa21FQlJsSlVzcVF5ZzA5a1VLTHFpSk4yVTdqN3BnVTBPTThYY19jSW1CR05XUnNWNW9ta3l6OFFEeEducDl1U0Q2RzBtQ1RPNi1zdw?oc=5",
-      "data": "16/11 17:23"
+      "titulo": "Em fim de contrato no Fluminense, Germán Cano decide onde quer jogar em 2027 - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmNCaS1DZHFIekdDeEFnZmZxSE1Nd3dXaUhCRUQtQ0UtVnJuQzNRZENMOFkyMmotbFBmbVVYTjZFNzlxUWVHZG0tM2diRHAteWc3b3hfSXg2RXU2NC14ekZ2QURNb3d1bGJaZGRiOUlVRVpjM1lxYmpPcmoxT05wTHVWemJGZGVCNUJzbk9tc2NMTVFFVEw0V1Y2dl9kNXNSMlVtb2YxSFlGcjhlcERQa3pB?oc=5",
+      "data": "17/11 14:50"
     },
     {
-      "titulo": "Fluminense pode receber R$ 30 milhões com venda de atacante - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazVhN2w0ODhvbUp4bm5iZFpKZjB5bVFoc25WUnBpWTVFRjAzbkRDQ2FwRmFIZmo5YUNHVWdzY1l4VUxRZS11Zy1pX0lIRjdwX09UeWgxZDVnclpqakh1MVNkVldhY1QwTC1vX2J6ZGFra0x3SlAydW5HUVM4Ujg3VnlGMW1ERk9KYnZPV252UHF3MUg1LWJhZzJaeUU?oc=5",
-      "data": "16/11 08:50"
+      "titulo": "Cano recusou saída do Fluminense para o Lanús e mantém expectativa por seguir no Brasil - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN2hZaHFadmpFY0FoTXF3STlPN3BackdKaHNjOHFqbFVNWGY2MHh1ZGdwd0QzRXkyNm5WbUl6Y0RuUi1zUUxVS3FNYTM5Y29kbFBhb3JsQzh5WG42Q2laTTNCcU5WYTZFb01qd3BVTFNTVllkenBkQmsydlBONDJfb2N2UURrV0hBWi1tRUc2WF9UUXh5YmMySjEwZWF6WGg3TmFSQVhDWjlrdW1fOFpCekxtR1pQdlVVdFpFYWt1cDRVNjRYZXB6eWh4T0ZNXzVsTENEdHJfaVlzZjdQWEtnSWhWOUxvQllDQUE3MTNod9IB_gFBVV95cUxQUmIwenR0VVh5c0FhLWY4aDNQVEpzckctNlZoYkxDdnQ3SFp6ODRCeVk5ZWo2LTlwTEh3M1A0RlJkb0ZSZmlYTDh2YVpma0QwQVJWSmo0YncwblMtcDdUN3kxR0lBYk00cUVtdEtQa3VFTVlyR3Z4TXBEbDJtVEtERWdIck9Qa3llNmhnYWw4U0RoYUdBcjcwVDhtQTg3WFBBYkpONHJmNHgyck02OFZtSFVDUzNBUVdSSGVEcld4MEVuZ0x2dnZNbGJOY2RWQmVKdzRtX0JaSWdZZVZ3M0MxaTdUM1paTVJKYkxLODdOOVd5bE9Ncy1uQmZVVmNidw?oc=5",
+      "data": "16/11 07:00"
     },
     {
-      "titulo": "Fluminense inaugura loja da Kopenhagen em Laranjeiras - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGZfU056MlhzYV9zdmdVd2oxT2lTVVFVZURsNjlzWkF6SGpySkRWYVVDeENUbW5JOGlGeDhieW1uVGZOS0R3bDZlaGc5MzltXzJ2bDJzWlJNcjQxRGZrN0NvT0E5cE4waGpSbURiYjN6ckhTQmNweDQ5OTZZalFseHJQaFgzRUpDaHViLUgtX1A1Z2U0S0E?oc=5",
-      "data": "16/11 21:03"
+      "titulo": "Saiba como funciona processo de formação dos Moleques de Xerém, do Fluminense, destacado por Fred - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYmFiUjRCU1V2Wk40b2x0WTZ3dlgxTWxQTzVUUEZLX3B3bGRnZ2d2Y2FDeGJJTFN0eTgxekV2WmM2SFBSYkZza21ubHg4M3pKZ1Fyam9Scm5LeWlxWXR6U3dqRWlQLXA2Sm05MEtUOEFLN1FPdVR3R052ODgyNnhZT2d5cEw1SjhkZTRiYVppczlwX3ZDTl9NZkhiUzVWT2lRX1FOczJDNEFyUFBkenhSbzE5NU5wOG9tRlpTYmVPWVM4UXNiT0dIMEZSeDQ4WGJ6dXFpY2VpMHFteHZyd01jX1NUNnBVUHhYU3E4cDB5ZmVqck95OS11c2l30gGIAkFVX3lxTE0zdUJtV09Jc1Vtbmh4UjQzN3dfMm1EcVNyRFpuWUFuS0JJVWU5NkU5bW5HSXduS2ZONFhlX1JaN09yOFFwZlZ4UmFCY2pBN0lQSVFrSUR0WndJcVFkdlE5dVIxWVNCV0hKa2FFbzJDdEsybkVaLVNPSHFQdVFGM3V4Vkp3dUphU2NzamJEOWhHcHp1Snp2bmZOSElwd05CYWNuYk85Y3VBcUs2RVVxaFEtRGc4WlZXWEdrQVBES29vVFF0RktMQk9UZ3dtY1U3NWUwa2h1RkM0Z1F6c0ZxMnJUbkpmbE04WHExX3FqYzhlN21WSVhRMHpCVk80cnMtZGd1dDZrbW9BRA?oc=5",
+      "data": "17/11 13:00"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    "Futebol: mantendo dados do último sucesso."
   ]
 }
