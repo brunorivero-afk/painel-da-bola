@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "16/11/2026 22:29",
+  "atualizado_em": "17/11/2026 07:03",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Cruzeiro x Suzano",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "21:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Sesc Rj Flamengo",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Brasília",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Londrina x Praia Clube",
@@ -1170,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "19:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Pinheiros",
@@ -1180,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Monte Carmelo",
@@ -1190,7 +1180,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Guarulhos",
@@ -1200,7 +1190,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Minas",
@@ -1210,7 +1200,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Cruzeiro",
@@ -1220,7 +1210,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Sesi-bauru",
@@ -1266,28 +1256,32 @@ window.PAINEL_DATA = {
       "data": "16/11 21:47"
     },
     {
-      "titulo": "Cano rechaça Lanús e pode defender outro clube no futebol brasileiro - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEFtV1JuVmV6T2w2QWJLQ2NsMUp4aS1NZVRBNlpGaF81LWYtbVNWM3JLOW1RT2hTZTRqTTdZUmxuTElnYk40aDU1cnlSNF9YaWUxMVB1bWhWWl9kM3ROdi1TOHZzTHR5bnZKZlpwSjNhb3pIdS1WdGNoSlAwMEE2bVJib29ZQVl2eWVQSk9RV1JidmdNYWliaVcyTDBfNGFfenF5WGVFNXRSenJGZzd1b3ZQY1AyWWF5eEpaanJLdVRJa2F2bEJjRDR3MNIB0AFBVV95cUxPQVlfU0o5YVZka09CRDk2bXF1ZmdUUDlDelRlbjkyQXhHdE5TbG11RXdEeWFDQThrNEp6VlFUeWU2c2pFWWg3RkhHOGE5MkhYZUNaOEtiSldVdTNuQnJjcjBUNmpNUVhHVl80cFZmT0owZ1BzTXNCYXRidWJkVVVaeEZ3cFdDNWZFY1JQRlVfNm9DRklBWFF6QkYtSGN1dU9yS3ZlOEpfRjlydTlDeXZGVF9jelROUTRINGJrRG9WUEV1YThLOGFjbGZzQ092Zm5M?oc=5",
-      "data": "16/11 21:50"
-    },
-    {
-      "titulo": "Quanto o Fluminense deve ao Lanús por Rodrigo Castillo? Veja - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWTk2eVVUd2w3T25OTUZkWkd4N2JscXZiT2x6QmF3T3BRQlBmNGk5MUZOMmlPM3RVTEYwZlVMMjB2NV9CVHJ0SEF4S0RVNy1XNjdXYTZ3WnNPR2wzb0dhMTJfOGZiTllhaEpBdy1SLWlaMmk0RkFrVlRZR2EzWGhoLWRwV1pNSGZwcGtPV0JGTWhHaWkxU0IxS1R6ZTRFeXE1R0NaVVZ4Uy1KOUtwelRiY1Bjd1YzSnJkcmFtTGx1VW5GOG9ScDlDUzYtelRmZnYtSEUxc2JybGMyZWMtSmd0ZzFGYUY?oc=5",
-      "data": "16/11 23:37"
-    },
-    {
-      "titulo": "Fluminense inaugura loja da Kopenhagen em Laranjeiras - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGZfU056MlhzYV9zdmdVd2oxT2lTVVFVZURsNjlzWkF6SGpySkRWYVVDeENUbW5JOGlGeDhieW1uVGZOS0R3bDZlaGc5MzltXzJ2bDJzWlJNcjQxRGZrN0NvT0E5cE4waGpSbURiYjN6ckhTQmNweDQ5OTZZalFseHJQaFgzRUpDaHViLUgtX1A1Z2U0S0E?oc=5",
-      "data": "16/11 21:03"
+      "titulo": "Cano recusa saída do Fluminense para time argentino - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaFJ2bkRGMzVuRTZzSlJnajNOYXlmZ3p1X2szSm5ySE1teHgtbmlXYm55Y3A5TEpoSEVpdl9zVm9sQU9pZDJyZG9JVnB4a0VfZnVuR0xLVnBIa2MyWHJEUHZnM3BXTGFKZFJyZ2hnYUdDN2JEQlk2R2FLc1duTEFqQ01XWVNuV1JtMlJXTzFSMzBNOWVjZ1dZdURuUTZZLUxyUFh3aGl2enBjdVdvQzV3SDFMOVNhNDA0Z2U3TXF6ekRCN0c2QUZqZ1RfVDJRR3pxOFp6aTl1RDhQQQ?oc=5",
+      "data": "17/11 09:36"
     },
     {
       "titulo": "Martinelli e Wesley Natã voltam a treinar com elenco principal do Fluminense - ge",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdTVmUnk5eXk1UC1hUU1xOW55SjVvWjRJSUpoUWlfMDNnLU1Eckd0eU8tYWRrX1NNZG5fSV8tNTRUTkd6VUxCMWpPWkZzejc5Y1ZBekhVY1BqZlU2cVktS2U5RlVqQzFoS0xvWGhHZzNncTVGRGdGV2dfc1czelUxRW42TVhub21Cd1FSZGNVTHE3aU5Wbk5MWlh1c1lobVlVdzB1UnR6T0RjMzlWYjRuZUhZY3I5OGVNbWhyZTBIbzdzZFZ3d2FyMnNrZGRhUFFzeFBHSlhuMXItellsaGtwbdIB7wFBVV95cUxQUkxXZHE2aHZrRUZEeFZoR0V3dExWNThJQXAzcHJDM0RVM3ZPaDJTOXZuWnVnWlh4MDFBUzV5TmFRZGJpUjZXQTM1eEptbzBUMDE0dGZkZnUtRXJ0bVFCb2JfRHVuQ2tNaU5icndMN0RiS2NuaVh6X3U3VVdRbGVKSDNZNDVGaHlHemtCc082a0hNcTdwLWUzSjZhVzRRdDQxWVpJa21FQlJsSlVzcVF5ZzA5a1VLTHFpSk4yVTdqN3BnVTBPTThYY19jSW1CR05XUnNWNW9ta3l6OFFEeEducDl1U0Q2RzBtQ1RPNi1zdw?oc=5",
       "data": "16/11 17:23"
+    },
+    {
+      "titulo": "Fluminense pode receber R$ 30 milhões com venda de atacante - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazVhN2w0ODhvbUp4bm5iZFpKZjB5bVFoc25WUnBpWTVFRjAzbkRDQ2FwRmFIZmo5YUNHVWdzY1l4VUxRZS11Zy1pX0lIRjdwX09UeWgxZDVnclpqakh1MVNkVldhY1QwTC1vX2J6ZGFra0x3SlAydW5HUVM4Ujg3VnlGMW1ERk9KYnZPV252UHF3MUg1LWJhZzJaeUU?oc=5",
+      "data": "16/11 08:50"
+    },
+    {
+      "titulo": "Fluminense inaugura loja da Kopenhagen em Laranjeiras - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGZfU056MlhzYV9zdmdVd2oxT2lTVVFVZURsNjlzWkF6SGpySkRWYVVDeENUbW5JOGlGeDhieW1uVGZOS0R3bDZlaGc5MzltXzJ2bDJzWlJNcjQxRGZrN0NvT0E5cE4waGpSbURiYjN6ckhTQmNweDQ5OTZZalFseHJQaFgzRUpDaHViLUgtX1A1Z2U0S0E?oc=5",
+      "data": "16/11 21:03"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
   ]
 };
