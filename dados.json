@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "16/11/2026 14:51",
+  "atualizado_em": "16/11/2026 22:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@
     {
       "sport": "volei",
       "date": "2026-11-16",
-      "time": "18:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Goiás x Campinas",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-16",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Suzano",
@@ -1242,58 +1232,58 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 27.3,
-      "temp_min": 22.3,
+      "temp_max": 28.7,
+      "temp_min": 22.2,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.4,
-      "temp_min": 21.9,
+      "temp_max": 27.7,
+      "temp_min": 21.6,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.6,
+      "temp_max": 23.9,
       "temp_min": 17.6,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 25.0,
-      "temp_min": 17.1,
+      "temp_max": 23.0,
+      "temp_min": 16.9,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense pode receber parcela de fortuna de 370 milhões em possível negócio envolvendo o Manchester City - Terra",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdUNCQjYyVU5taEdKcVhILVdGbkRlOVNIRGgyUTh3b0dFYkZrVTNJNXVWZ1F2YXp1N2d6aGU1ZUNwRzhZczd1RWJNbU45SmRtSlpwZjZ1OWZJM0JpaGVfdk9BZ0V2WWlUb1VvenpfZzh3M1pRS05HUVMzS1lUOGhiVVJRYURpdWFYd0hYNGtMOW9iWDJoSnBOQUtkdEhnd3JWZ1ZUYUhCbW5TV0xBZXF1NXVkYUQ4bE5Uc251M1lyN3lSbjI5ZTFzak5XZWZHT3ZpcnBOZzhISHNzdWVJazBnS08weTFNeUhlT1cwUXhRN0VfWmxJdHNEUU5EVlZJQUNuWnFMZ3FhRFBnc0JxQWIyWFJUVVIxc2NaU05uM3FwaFJpaFU?oc=5",
-      "data": "16/11 17:16"
+      "titulo": "São Paulo tem retrospecto assustador contra o Fluminense - Nação Tricolor",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CcVZ3dGFla0E5NEluUURBSW5KSkZkcEs5S1g1OTZHR1lsbjZWNmlUSnQ1eWQ4YVpaLWQyRUxvX29TMDRtejVqWHA3aUVRdDlNNk9kcGowdXNYcE9UZEZyMEdhQnN3c1ZtdjlYRXVQdw?oc=5",
+      "data": "16/11 21:47"
     },
     {
-      "titulo": "Brasileirão 2026: Informações de ingressos para São Paulo x Fluminense - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTVNIQmZ3bEhoWTd3Mkt5VEhfZFQ4RlFsYkNDREQ5VGJiV1pfcmlNaVdWT01FTGF6dTl6WGYydHhaQ1pzbklDRFlKQmMwNndhSnFZWE1iMVdoQy12amFiQUIxUTIwNjFoa1NMb3MyRS1FdEI0MDA1dldSb1YwVlE4QTV5WmY2WmltMGtVS1VxT0dWdVZVTC13NUVWaHdHX3VkY1dTU19Tei1nN2M?oc=5",
-      "data": "16/11 15:05"
+      "titulo": "Cano rechaça Lanús e pode defender outro clube no futebol brasileiro - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEFtV1JuVmV6T2w2QWJLQ2NsMUp4aS1NZVRBNlpGaF81LWYtbVNWM3JLOW1RT2hTZTRqTTdZUmxuTElnYk40aDU1cnlSNF9YaWUxMVB1bWhWWl9kM3ROdi1TOHZzTHR5bnZKZlpwSjNhb3pIdS1WdGNoSlAwMEE2bVJib29ZQVl2eWVQSk9RV1JidmdNYWliaVcyTDBfNGFfenF5WGVFNXRSenJGZzd1b3ZQY1AyWWF5eEpaanJLdVRJa2F2bEJjRDR3MNIB0AFBVV95cUxPQVlfU0o5YVZka09CRDk2bXF1ZmdUUDlDelRlbjkyQXhHdE5TbG11RXdEeWFDQThrNEp6VlFUeWU2c2pFWWg3RkhHOGE5MkhYZUNaOEtiSldVdTNuQnJjcjBUNmpNUVhHVl80cFZmT0owZ1BzTXNCYXRidWJkVVVaeEZ3cFdDNWZFY1JQRlVfNm9DRklBWFF6QkYtSGN1dU9yS3ZlOEpfRjlydTlDeXZGVF9jelROUTRINGJrRG9WUEV1YThLOGFjbGZzQ092Zm5M?oc=5",
+      "data": "16/11 21:50"
     },
     {
-      "titulo": "Fluminense deve confirmar venda de atacante para os Estados Unidos - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVk4ya3pkWndxQjJtNEhVR0RpY1R6c0ROMGtSZU1ycXdVQk9seURSYWJxdHYxaHprTmh2WUZHMWhxRGxuNC02V0xpUzVkenR1cGpOREhpUjN4OFVYeFdZNHo3dGlfaDFvVnpwcTV0R0k0OEFmLW5TblNIMnVRZDhDNGM0Z0RaRVhsS1ZBdWU2SFhIamliblNDM3hGRDFodEs5R2QtT1hsSUxfeHB3OE9LT1I1RjlSYjJLck9oOXYzZWdFR09kRTJhb1hkSGJ3QVpSNTBSWGhaRDBJblRydlRwdmZvbU1kbXRISk9OeDNn?oc=5",
-      "data": "16/11 17:14"
+      "titulo": "Quanto o Fluminense deve ao Lanús por Rodrigo Castillo? Veja - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWTk2eVVUd2w3T25OTUZkWkd4N2JscXZiT2x6QmF3T3BRQlBmNGk5MUZOMmlPM3RVTEYwZlVMMjB2NV9CVHJ0SEF4S0RVNy1XNjdXYTZ3WnNPR2wzb0dhMTJfOGZiTllhaEpBdy1SLWlaMmk0RkFrVlRZR2EzWGhoLWRwV1pNSGZwcGtPV0JGTWhHaWkxU0IxS1R6ZTRFeXE1R0NaVVZ4Uy1KOUtwelRiY1Bjd1YzSnJkcmFtTGx1VW5GOG9ScDlDUzYtelRmZnYtSEUxc2JybGMyZWMtSmd0ZzFGYUY?oc=5",
+      "data": "16/11 23:37"
     },
     {
-      "titulo": "De saída? Atacante pode deixar o Fluminense rumo ao Independiente Del Valle - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXM3TnRWREFaSEJHbXR5UUo4TWRfZ19OaFBZRmMxZnk1QU1ueUEzdmRKcHRMYzh1dDFlcFA2V3p6RVpmclU4M05iMl8zWnhoMTRFMmcwSk1JTl9nVlNJS1ZsWWZfTjNsUDN0Y0dMTGdBRS1GUlBVeXl0QzkyQVBJeVlRNFR5NnV0VEZLVDh0X2VSSVdaYnpjYVh0aWw?oc=5",
-      "data": "15/11 18:16"
+      "titulo": "Fluminense inaugura loja da Kopenhagen em Laranjeiras - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGZfU056MlhzYV9zdmdVd2oxT2lTVVFVZURsNjlzWkF6SGpySkRWYVVDeENUbW5JOGlGeDhieW1uVGZOS0R3bDZlaGc5MzltXzJ2bDJzWlJNcjQxRGZrN0NvT0E5cE4waGpSbURiYjN6ckhTQmNweDQ5OTZZalFseHJQaFgzRUpDaHViLUgtX1A1Z2U0S0E?oc=5",
+      "data": "16/11 21:03"
     },
     {
-      "titulo": "Riquelme brilha pela Seleção, e técnico explica poucas chances no Fluminense: \"Não é fácil\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQXljNXk3cGNFTjRGSTA2WFc0Z2M3dW1EbER5eHg4TGtKSmtUTTAwdUtoRFBsb2RnWTR3UkJBQnBLTE1EVlNCWEJDQ3ptRExDR3lwNVVJbVl2bkVaUFBpeGZlSW9wRmo0aXZ0VHNZcmRMMk91Q3Nrc3BUVXA4XzNQaHJXQXNRNXhneFhwZW1pQTEzSmUtUlRYQVRib2dTVUF4cERyX3lMU3dlRzJjaE5TbGJHUmhLMzFteEN6ZVZqVHRqREo1NFNNbER2LTJadUI4UHBwcW5GVlhQaHZObkdMcE0xYV9nbDVXeVRxdktoQdIB_gFBVV95cUxNdTkwUmlOTFZKRWMwMU1JeElSa0txb1hrSkFkUHlJMkgtcktQR3FqYVg5RjA4aUFDU1oxd09ZRTB3ZG9CLUtEeEc5eFRuRkhoQlZYbEVXY0NqQnplc2d2THYtVkdkUE9MaUJjUnJnS2xJV1B5OHNJRWVNUlJBZGxlVW8wU25EckRVSE9BbVg4T1JmLUJWS1pLMUh0UEIzZzdrYUFieDAyeHBWOWx0RlZjNy1vRVVUa2VLc3Jic2FZdDBXdmxHaHBSNWN4RFJaUjFteGJ2cU5pMFdpRE9iSWx6NlRFQThGd05pUWE1U3ZFOTJKRnhkNjBLXzJDZmZFdw?oc=5",
-      "data": "15/11 16:43"
+      "titulo": "Martinelli e Wesley Natã voltam a treinar com elenco principal do Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdTVmUnk5eXk1UC1hUU1xOW55SjVvWjRJSUpoUWlfMDNnLU1Eckd0eU8tYWRrX1NNZG5fSV8tNTRUTkd6VUxCMWpPWkZzejc5Y1ZBekhVY1BqZlU2cVktS2U5RlVqQzFoS0xvWGhHZzNncTVGRGdGV2dfc1czelUxRW42TVhub21Cd1FSZGNVTHE3aU5Wbk5MWlh1c1lobVlVdzB1UnR6T0RjMzlWYjRuZUhZY3I5OGVNbWhyZTBIbzdzZFZ3d2FyMnNrZGRhUFFzeFBHSlhuMXItellsaGtwbdIB7wFBVV95cUxQUkxXZHE2aHZrRUZEeFZoR0V3dExWNThJQXAzcHJDM0RVM3ZPaDJTOXZuWnVnWlh4MDFBUzV5TmFRZGJpUjZXQTM1eEptbzBUMDE0dGZkZnUtRXJ0bVFCb2JfRHVuQ2tNaU5icndMN0RiS2NuaVh6X3U3VVdRbGVKSDNZNDVGaHlHemtCc082a0hNcTdwLWUzSjZhVzRRdDQxWVpJa21FQlJsSlVzcVF5ZzA5a1VLTHFpSk4yVTdqN3BnVTBPTThYY19jSW1CR05XUnNWNW9ta3l6OFFEeEducDl1U0Q2RzBtQ1RPNi1zdw?oc=5",
+      "data": "16/11 17:23"
     }
   ],
   "avisos": [
