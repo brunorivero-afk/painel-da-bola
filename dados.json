@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/11/2026 23:01",
+  "atualizado_em": "18/11/2026 08:00",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
-      "time": "21:00",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Sesi-Bauru x Sesc Rj Flamengo",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Brasília",
@@ -1150,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Londrina x Praia Clube",
@@ -1160,7 +1150,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "19:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Pinheiros",
@@ -1170,7 +1160,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Monte Carmelo",
@@ -1180,7 +1170,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Guarulhos",
@@ -1190,7 +1180,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Minas",
@@ -1200,7 +1190,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Cruzeiro",
@@ -1210,7 +1200,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Osasco x Sesi-bauru",
@@ -1222,48 +1212,43 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 26.0,
-      "temp_min": 21.7,
-      "chance_chuva": 96,
+      "temp_max": 27.3,
+      "temp_min": 22.0,
+      "chance_chuva": 20,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 26.5,
-      "temp_min": 21.3,
-      "chance_chuva": 87,
+      "temp_max": 27.2,
+      "temp_min": 20.5,
+      "chance_chuva": 4,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.1,
-      "temp_min": 16.4,
+      "temp_max": 26.8,
+      "temp_min": 18.7,
       "chance_chuva": 100,
-      "condicao": "Garoa"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 22.2,
-      "temp_min": 16.3,
+      "temp_max": 28.0,
+      "temp_min": 17.0,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fortuna de 370 milhões envolvendo o Arsenal interessa ao Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU3M4OUY3NHNhV3IxVmN3OTZNcGJpRUViSmpEY1JJQ3VtanFwV1RaOGpSV3VyYTFsSXZUOWJVM01hRkVMc1Q0VlZyenQ5dXY5SG1laVdSRnZKNDF3aXYtTXNUSDIxYzRXaEJOQ0dRNHdPdlRHVGM1VkIzanlrdXRzejdxRmIwTzhpcmNZQW5xNVpGY0x0V3R3Y2duZ015X2ZROWFBWHlvbk9fVWNreWxRNm5vQWpOMHVPazlnT0ZBZzU3Ymh0TFJ1TThnUFlpbTdta3hSTHZBOWU1WEhPQktTWjd2MXZtWldRMmpZRjJ3RQ?oc=5",
-      "data": "18/11 00:06"
+      "titulo": "Com caixa pressionado, Fluminense tem previsão de queda de receita e adota postura conservadora - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeHVMRnU3MnRCNVE1WGZGSGxfNlN3WlMzT29WUUQ3VHJwM0NXVkZRTlI2Mkg4WExSTGo1Rzhvc1VTelhlOEFLLTViYmVpQ2ZTcmtuWnlfSW56dXZ1Tkpka25FTFNScGZ3UjZnWGlGTHpDTFRPOG9LVE5TNnAwenM5enFUeGZaQ3JhQlpsV2pRVDhyTWtFWGhqbmd1REh3Zl9zaVFCX05wZGt0U0dlcXd0b3AzY3o1dHM2Q1FQQ1BIZ2RjTUVGNjhVR2RvZjBBeW0xSDF4SW8zVUxQUmRiTkhmTmxCVFlhVmlGWmRnUXkwbTNXRDBScVpWY9IBhwJBVV95cUxOelFramEyYXVIaUNlY2pmdzlSLUJZUFpmdEkwbmFuOTNETVdEMFZXd0hwYzkwYXNhWHllRDNDbnVwS0c5clFycmpzaG9BVVVDc0ctU0U0aWdaQVQxd21mdDR0QmZESTRfS2ROdF80eU1TZWYxQXlIVDJGVV90dnJtdkkxOVFHQy1QbU10cjRMTFkzcnh4THkwTld3Y2lVcnJnRElWZFBKRHdDLUZmeFd1T2g3NkY1aXRoR2dWZEVoYzAwTmxCNGVCOG5tejZfamp2LTBpWGY5Q0d0TERIcHBkVHVtb2l1M2dURmhFRVlhQWFZUG8yOGhIMG1KVUY1V2FWM3BZaWl0aw?oc=5",
+      "data": "18/11 07:00"
     },
     {
-      "titulo": "Fluminense pode receber R$ 30 milhões com venda de atacante - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazVhN2w0ODhvbUp4bm5iZFpKZjB5bVFoc25WUnBpWTVFRjAzbkRDQ2FwRmFIZmo5YUNHVWdzY1l4VUxRZS11Zy1pX0lIRjdwX09UeWgxZDVnclpqakh1MVNkVldhY1QwTC1vX2J6ZGFra0x3SlAydW5HUVM4Ujg3VnlGMW1ERk9KYnZPV252UHF3MUg1LWJhZzJaeUU?oc=5",
-      "data": "16/11 08:50"
-    },
-    {
-      "titulo": "Cano recusa saída do Fluminense para time argentino - CartaCapital",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWlsRFV5OFEtT0NuUDRXMWRmbGJkbVZCcFp6bldsODdsZWJFT3MwdUJpVzZTaXhZZ09yLVRqU2pjd0tMWVdUbHhiVUtLREprVDNOQnl4SUpNWHRfdzB6WFBld0dhQWhwX1dTaS1zU29nYmlFb3JqdnZjNTRWTmU3bU1RRVVGZEZXcGVoVWw3NlVMUDBZVE5Z?oc=5",
-      "data": "17/11 09:35"
+      "titulo": "Reforço do Fluminense comemora chance como titular: 'Confiante' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQlF6VTU0d3JJYk04T0lYNXlOc19CWDFRcGh3RzhqaG43ZjNhZnhwVzk1SlF0ODVUUEl2NWtndVhEcElMWmEwRGtxcWZuNjNvMjMwVGNKVXBjOTdiWWpIN3lWNC1KOHV0bkZQcHhqakpDaklfeEhpakJmckstS3dsYThwMlZTV08yOWdSZmFYbXFhaGJSTzhkUkVCUVQ?oc=5",
+      "data": "18/11 09:20"
     },
     {
       "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
@@ -1271,9 +1256,14 @@
       "data": "18/11 00:43"
     },
     {
-      "titulo": "São Paulo recebe notícia inesperada antes do Fluminense - Nação Tricolor",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxNXljb3hwRHBNaE9MVnNHMlM1ZzVCaTFoRnFKWnRadmpnX1Z3OEdHcVF3aFlQdURwMzI4Zk9FaXAzeEVITXAtYVZNWFRqSjlSRS1oRjhyZXhGRlIxbl9FSWVRNXRqZ2tEOTBzYW1sb1V4cTg?oc=5",
-      "data": "17/11 21:45"
+      "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário e prováveis escalações pela 35ª rodada da Série A - JC",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU2RFdjJYNnlRWnNRelFpZFpzZkhNRldJR3V1cGduSnh1dmdXQ2w4ckNrcGpIU0dsYUtEMEZHekdtNDRnMWFSQmdRY3poSUxORWpnbjFENGZxeklCTjFiS1NmUW4wRXVjUUNLQjdybGIwUERNcEJhQndkdGl6WmVZakZGUUtyc2xsMmluQWMycHZ1OFlkeWZwUjAya3ZPWlBjYVd1ZWNxRHYtQWoybFdGcG9PQlBza1ZHTXR6Z0pCdkQ1MkhoYWNudXpRcUZlYnI1eEg4X21lbUVHeG1BWFZnZXV5UmZfc2tPRlpwazlmT3NtWjg5NDB3S0IwR0llRGs?oc=5",
+      "data": "17/11 09:27"
+    },
+    {
+      "titulo": "Brasileirão 2026: Informações de ingressos para São Paulo x Fluminense - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTVNIQmZ3bEhoWTd3Mkt5VEhfZFQ4RlFsYkNDREQ5VGJiV1pfcmlNaVdWT01FTGF6dTl6WGYydHhaQ1pzbklDRFlKQmMwNndhSnFZWE1iMVdoQy12amFiQUIxUTIwNjFoa1NMb3MyRS1FdEI0MDA1dldSb1YwVlE4QTV5WmY2WmltMGtVS1VxT0dWdVZVTC13NUVWaHdHX3VkY1dTU19Tei1nN2M?oc=5",
+      "data": "16/11 15:05"
     }
   ],
   "avisos": [
