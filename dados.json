@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "17/11/2026 16:33",
+  "atualizado_em": "17/11/2026 23:01",
   "jogos": [
     {
       "sport": "futebol",
@@ -1224,7 +1224,7 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 26.0,
       "temp_min": 21.7,
-      "chance_chuva": 76,
+      "chance_chuva": 96,
       "condicao": "Garoa fraca"
     },
     {
@@ -1238,42 +1238,42 @@
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 26.1,
       "temp_min": 16.4,
-      "chance_chuva": 98,
+      "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 22.2,
-      "temp_min": 16.4,
+      "temp_min": 16.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "São Paulo tem retrospecto assustador contra o Fluminense - Nação Tricolor",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CcVZ3dGFla0E5NEluUURBSW5KSkZkcEs5S1g1OTZHR1lsbjZWNmlUSnQ1eWQ4YVpaLWQyRUxvX29TMDRtejVqWHA3aUVRdDlNNk9kcGowdXNYcE9UZEZyMEdhQnN3c1ZtdjlYRXVQdw?oc=5",
-      "data": "16/11 21:47"
+      "titulo": "Fortuna de 370 milhões envolvendo o Arsenal interessa ao Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU3M4OUY3NHNhV3IxVmN3OTZNcGJpRUViSmpEY1JJQ3VtanFwV1RaOGpSV3VyYTFsSXZUOWJVM01hRkVMc1Q0VlZyenQ5dXY5SG1laVdSRnZKNDF3aXYtTXNUSDIxYzRXaEJOQ0dRNHdPdlRHVGM1VkIzanlrdXRzejdxRmIwTzhpcmNZQW5xNVpGY0x0V3R3Y2duZ015X2ZROWFBWHlvbk9fVWNreWxRNm5vQWpOMHVPazlnT0ZBZzU3Ymh0TFJ1TThnUFlpbTdta3hSTHZBOWU1WEhPQktTWjd2MXZtWldRMmpZRjJ3RQ?oc=5",
+      "data": "18/11 00:06"
     },
     {
-      "titulo": "Cano rechaça Lanús e pode defender outro clube no futebol brasileiro - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEFtV1JuVmV6T2w2QWJLQ2NsMUp4aS1NZVRBNlpGaF81LWYtbVNWM3JLOW1RT2hTZTRqTTdZUmxuTElnYk40aDU1cnlSNF9YaWUxMVB1bWhWWl9kM3ROdi1TOHZzTHR5bnZKZlpwSjNhb3pIdS1WdGNoSlAwMEE2bVJib29ZQVl2eWVQSk9RV1JidmdNYWliaVcyTDBfNGFfenF5WGVFNXRSenJGZzd1b3ZQY1AyWWF5eEpaanJLdVRJa2F2bEJjRDR3MNIB0AFBVV95cUxPQVlfU0o5YVZka09CRDk2bXF1ZmdUUDlDelRlbjkyQXhHdE5TbG11RXdEeWFDQThrNEp6VlFUeWU2c2pFWWg3RkhHOGE5MkhYZUNaOEtiSldVdTNuQnJjcjBUNmpNUVhHVl80cFZmT0owZ1BzTXNCYXRidWJkVVVaeEZ3cFdDNWZFY1JQRlVfNm9DRklBWFF6QkYtSGN1dU9yS3ZlOEpfRjlydTlDeXZGVF9jelROUTRINGJrRG9WUEV1YThLOGFjbGZzQ092Zm5M?oc=5",
-      "data": "16/11 21:50"
+      "titulo": "Fluminense pode receber R$ 30 milhões com venda de atacante - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazVhN2w0ODhvbUp4bm5iZFpKZjB5bVFoc25WUnBpWTVFRjAzbkRDQ2FwRmFIZmo5YUNHVWdzY1l4VUxRZS11Zy1pX0lIRjdwX09UeWgxZDVnclpqakh1MVNkVldhY1QwTC1vX2J6ZGFra0x3SlAydW5HUVM4Ujg3VnlGMW1ERk9KYnZPV252UHF3MUg1LWJhZzJaeUU?oc=5",
+      "data": "16/11 08:50"
     },
     {
-      "titulo": "Em fim de contrato no Fluminense, Germán Cano decide onde quer jogar em 2027 - NSC Total",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmNCaS1DZHFIekdDeEFnZmZxSE1Nd3dXaUhCRUQtQ0UtVnJuQzNRZENMOFkyMmotbFBmbVVYTjZFNzlxUWVHZG0tM2diRHAteWc3b3hfSXg2RXU2NC14ekZ2QURNb3d1bGJaZGRiOUlVRVpjM1lxYmpPcmoxT05wTHVWemJGZGVCNUJzbk9tc2NMTVFFVEw0V1Y2dl9kNXNSMlVtb2YxSFlGcjhlcERQa3pB?oc=5",
-      "data": "17/11 14:50"
+      "titulo": "Cano recusa saída do Fluminense para time argentino - CartaCapital",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWlsRFV5OFEtT0NuUDRXMWRmbGJkbVZCcFp6bldsODdsZWJFT3MwdUJpVzZTaXhZZ09yLVRqU2pjd0tMWVdUbHhiVUtLREprVDNOQnl4SUpNWHRfdzB6WFBld0dhQWhwX1dTaS1zU29nYmlFb3JqdnZjNTRWTmU3bU1RRVVGZEZXcGVoVWw3NlVMUDBZVE5Z?oc=5",
+      "data": "17/11 09:35"
     },
     {
-      "titulo": "Cano recusou saída do Fluminense para o Lanús e mantém expectativa por seguir no Brasil - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN2hZaHFadmpFY0FoTXF3STlPN3BackdKaHNjOHFqbFVNWGY2MHh1ZGdwd0QzRXkyNm5WbUl6Y0RuUi1zUUxVS3FNYTM5Y29kbFBhb3JsQzh5WG42Q2laTTNCcU5WYTZFb01qd3BVTFNTVllkenBkQmsydlBONDJfb2N2UURrV0hBWi1tRUc2WF9UUXh5YmMySjEwZWF6WGg3TmFSQVhDWjlrdW1fOFpCekxtR1pQdlVVdFpFYWt1cDRVNjRYZXB6eWh4T0ZNXzVsTENEdHJfaVlzZjdQWEtnSWhWOUxvQllDQUE3MTNod9IB_gFBVV95cUxQUmIwenR0VVh5c0FhLWY4aDNQVEpzckctNlZoYkxDdnQ3SFp6ODRCeVk5ZWo2LTlwTEh3M1A0RlJkb0ZSZmlYTDh2YVpma0QwQVJWSmo0YncwblMtcDdUN3kxR0lBYk00cUVtdEtQa3VFTVlyR3Z4TXBEbDJtVEtERWdIck9Qa3llNmhnYWw4U0RoYUdBcjcwVDhtQTg3WFBBYkpONHJmNHgyck02OFZtSFVDUzNBUVdSSGVEcld4MEVuZ0x2dnZNbGJOY2RWQmVKdzRtX0JaSWdZZVZ3M0MxaTdUM1paTVJKYkxLODdOOVd5bE9Ncy1uQmZVVmNidw?oc=5",
-      "data": "16/11 07:00"
+      "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSmRWWkVObWZwSjR2TUxaRXhWX1ZqOExHZTM2b1h1S0s5UEkzWDdqTHhuMUdESVN3VEdPbkl5U2FJQlM4Z3BvNXExbWQtVmNKQldMYnlIODFaRnhMSVc2eWw3N3FNR0EtdnRkTzVxRFNrV0N2alhxUmxFaE1yNFJ0dGZLN1NvT2pmT3N4SUkwazN3NWFBVTdLdnFnYmxMaWNmelg4MUJCY0JVR0FOT1p3MVdoWFh6M0hvQjNvdFo5aEcydnh6STJYNTlpcko2c3lvNHpxUjdTcGtfOEV1MUtNZnFCWnptWUVFYVpiR2lobElra1k?oc=5",
+      "data": "18/11 00:43"
     },
     {
-      "titulo": "Saiba como funciona processo de formação dos Moleques de Xerém, do Fluminense, destacado por Fred - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYmFiUjRCU1V2Wk40b2x0WTZ3dlgxTWxQTzVUUEZLX3B3bGRnZ2d2Y2FDeGJJTFN0eTgxekV2WmM2SFBSYkZza21ubHg4M3pKZ1Fyam9Scm5LeWlxWXR6U3dqRWlQLXA2Sm05MEtUOEFLN1FPdVR3R052ODgyNnhZT2d5cEw1SjhkZTRiYVppczlwX3ZDTl9NZkhiUzVWT2lRX1FOczJDNEFyUFBkenhSbzE5NU5wOG9tRlpTYmVPWVM4UXNiT0dIMEZSeDQ4WGJ6dXFpY2VpMHFteHZyd01jX1NUNnBVUHhYU3E4cDB5ZmVqck95OS11c2l30gGIAkFVX3lxTE0zdUJtV09Jc1Vtbmh4UjQzN3dfMm1EcVNyRFpuWUFuS0JJVWU5NkU5bW5HSXduS2ZONFhlX1JaN09yOFFwZlZ4UmFCY2pBN0lQSVFrSUR0WndJcVFkdlE5dVIxWVNCV0hKa2FFbzJDdEsybkVaLVNPSHFQdVFGM3V4Vkp3dUphU2NzamJEOWhHcHp1Snp2bmZOSElwd05CYWNuYk85Y3VBcUs2RVVxaFEtRGc4WlZXWEdrQVBES29vVFF0RktMQk9UZ3dtY1U3NWUwa2h1RkM0Z1F6c0ZxMnJUbkpmbE04WHExX3FqYzhlN21WSVhRMHpCVk80cnMtZGd1dDZrbW9BRA?oc=5",
-      "data": "17/11 13:00"
+      "titulo": "São Paulo recebe notícia inesperada antes do Fluminense - Nação Tricolor",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxNXljb3hwRHBNaE9MVnNHMlM1ZzVCaTFoRnFKWnRadmpnX1Z3OEdHcVF3aFlQdURwMzI4Zk9FaXAzeEVITXAtYVZNWFRqSjlSRS1oRjhyZXhGRlIxbl9FSWVRNXRqZ2tEOTBzYW1sb1V4cTg?oc=5",
+      "data": "17/11 21:45"
     }
   ],
   "avisos": [
