@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "18/11/2026 16:53",
+  "atualizado_em": "18/11/2026 22:38",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@
     {
       "sport": "volei",
       "date": "2026-11-18",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Paulistano Barueri x Brasília",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-18",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Londrina x Praia Clube",
@@ -1224,15 +1214,15 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 28.0,
       "temp_min": 22.1,
-      "chance_chuva": 81,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 92,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 28.0,
+      "temp_max": 28.4,
       "temp_min": 20.6,
-      "chance_chuva": 35,
-      "condicao": "Pancadas de chuva"
+      "chance_chuva": 64,
+      "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
@@ -1251,29 +1241,29 @@
   ],
   "noticias": [
     {
-      "titulo": "Martinelli será relacionado pelo Fluminense contra o São Paulo - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUZwMkNYUUpjOUt4bncyNjBJaXlGUFhtQWdjcEI1YjlJbkljeVZvV251Tnp4M2U4aklqMWdvZWlabTJKUF9WNEUweC1ycGx4Rzc4OUhRcnl6cGVaWWY1QzUtMWlGSGdibjF6NWl3dHgtQXNrbFE1UU9lSXNVVERyaTFaNmYyamJ3MGNFR0dZaXdJZHJXTTJfdkhIWWV3X3JtOHhZa2h2dlQzQVlDc3h6cjhxU053UXdEWExBUEJ4WTFtU1plY1NvLWdqTWFnNWxmcmhxczNhUG5CaXlYa2pyWGw5LTZlem15?oc=5",
-      "data": "18/11 18:51"
-    },
-    {
-      "titulo": "Bobadilla deve ser nono desfalque do São Paulo contra o Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ2Q1ZlVEUFpFalUwUGNiZzRXOFVUNV84X1gyclhHUTg4b0JzelBqSmJscmJPMjRza0xjODdWVFFybm9qd2cyYWZJZV9ybmpucUhGZnBOdkVwRXN0MnhQZFJXek85YTlQZXhMaXgtNzZYUThJc0NDV2Ntc0tNTWhpdTBNNFFRTl9xR25PeW5pUE9kWWtvbG5GaGVGekhiaFpuY2M5MkZTQmtRakhON0NhaTZmTXBXS3NTVWNGMnZVdld1aFR2VUphdFVvdy1zeTF5WkHSAeABQVVfeXFMTVZ1VGpmMWh5djQ0ODZiSExldUQxV3ZFeUMwMFZqYjJqNEFxa1FVdVc2dzVsMGpneVZ1VU5JNlh6amwwWFZLZTY2UlUtbkNXVWxpRUFMaDBvdGJzdHJ0d1hNcFA4WnFjU0czQ0s3ektxamhobDhob20zNnBDSnRnN3NIN0Z5LUZMRGptamRFcHAxQjVTb2s4QVdrb2ZWYm81WEdSbk11a0R5Qjh2X2lCb1VqQnNSa0F2dkRTM0ZpOUp1ZWVDeDY0TnB4YkpIZXpXeEtRdzNtMHhRMXdvb2NjQmY?oc=5",
-      "data": "18/11 11:00"
-    },
-    {
-      "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSmRWWkVObWZwSjR2TUxaRXhWX1ZqOExHZTM2b1h1S0s5UEkzWDdqTHhuMUdESVN3VEdPbkl5U2FJQlM4Z3BvNXExbWQtVmNKQldMYnlIODFaRnhMSVc2eWw3N3FNR0EtdnRkTzVxRFNrV0N2alhxUmxFaE1yNFJ0dGZLN1NvT2pmT3N4SUkwazN3NWFBVTdLdnFnYmxMaWNmelg4MUJCY0JVR0FOT1p3MVdoWFh6M0hvQjNvdFo5aEcydnh6STJYNTlpcko2c3lvNHpxUjdTcGtfOEV1MUtNZnFCWnptWUVFYVpiR2lobElra1k?oc=5",
-      "data": "18/11 00:43"
-    },
-    {
       "titulo": "São Paulo x Fluminense: veja onde assistir ao jogo da 35ª rodada do Brasileirão - Gazeta Esportiva",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0E4VW1wSDRJV3VqQlNNamdiVlFiTkdJNWVGXzVsYlE1eFFwVXQ4YzBJRmpMMmJLSkRpS3pBMVpnTDl6UDBNX2RnSmltSjdjTE9zVGtfcXFfVFhGUS1QRzNMWHJGTXdyNTEtb0FOQnJ5RHVwV2xkZ1lfdHI5X2dheHNqQi1lcm9KMkptRy1jT1NzMTRvOC02VERmSW1XWWxUdHBjOFRoTENlZmhNY0FYeEp0Y3pmWUpLR0pzQlBnS2RWc2RJMHfSAcsBQVVfeXFMTkpHaXIwTnRFNXcwbjl3Uy1DYmp6bmFuRElRaDE0bWJDajV4ZUxpUWpwbnRubVdPamlQOGs3WUlITndOaHNIUDVNdzNpMllZSW9oaTlKVmt4dzFUdm4tbXU0MVh2ejFkbFIwa01McV9sMHJ1SndiRlpEbGZXR0hodWVNSUh1RE5LQzVIWEdPNWowOHF4ZUxzRXlNY3AxWmJHRlNUaEkwWWtJWFJ5a1R3ZXozR1hJRWR6M1FVMWgzTGZITWJ2dzZrOFVmV3M?oc=5",
       "data": "18/11 09:00"
     },
     {
-      "titulo": "Fluminense perde para o Gerdau Minas pela Superliga Feminina 26/27 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVQwcVBFZ3NDc2NrVzN2Sm9oX2RXU1JmdXh4bnFtUFdaSFdTMnVQWGgwZk1QNVo3anlaQmxHaEVMMk5vM09aUVhDNm5YZXJCeGRoVU13Y3NrMm9uT04zRldrMUtPMWU5YXBKTHhSeGRndVdFUVlMUHJaall4OXNxSllOYWROR0dFd0dxZWtnS25WZ2JmVG9nR01aMl9oWGpHLWlRQlIwSQ?oc=5",
-      "data": "17/11 23:12"
+      "titulo": "São Paulo x Fluminense: onde assistir, escalações e arbitragem - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMndCcWpKS0NwbXRJbl9Cem1OeUlCaXpueEpjeERNRFlvOTZNR0x0bklRQ3p1eTZSU1BwdjNPczkzd3A1R21OcWo4NW9iRHdKc1JFTW1sUmduRDNxbzJfOEk2ZlhuOTd2ckFPYUItaVZLX0VwT0ZSeVh2WWtCclFOZGwtTHhqSnRlNTZZb1RoZHNoVVRBbzFBZkh6SVpNNkt5aVRVUnZRdTVxVWxWcnF5REhoZ3JUNEVEMlIyWTB0T19JSVRvUkUtMGhoeDZNV1poNHc1cjhEWk5xNWxFbVJEZWtaR1dxQQ?oc=5",
+      "data": "18/11 19:37"
+    },
+    {
+      "titulo": "Martinelli pode voltar a defender o Fluminense contra o São Paulo - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVB4YWNRZkpYdUl5T1owUFlMMWZ2VFYtd3gyaC05Sm9qa3Q2My1UZmxjc0tIeHpFb3Q3T1ZPbDUyNFQ4STZmSWtLd2xxdmpiZVdDdDVVM19PYWJqVENxTXkyOVNYeUJfQlBaLUpLWXpMVUpTVVc3QXBjSGlKbEt2TkZEc3N6MmY1UkhVRS00QWtUUElwUlpaN2ZFUE5nd3JKTkZxVjh1eklJd0RMbHpvajdPY3ZtSzBSbnJEZw?oc=5",
+      "data": "18/11 21:21"
+    },
+    {
+      "titulo": "Thiago Silva abre possibilidade de renovar com o Fluminense para 2027 - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05UTdnTTZFd01sZklWQkxlQUQ1dVJSYkJUUThHd0pmMVVaRWdQejJzbExjRVJmaGZ4azByWTVCU2Y5MjE2c1ZBWElIRlo3ZE5WajAzQThLSmJ1NTFmUW5sMHRISWtBWUF6QnhkMEYtQl9qQXNGb1NYag?oc=5",
+      "data": "18/11 23:39"
+    },
+    {
+      "titulo": "Thiago Silva abre o jogo sobre renovação com o Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc010VUx4U2ZTb2h6MWVmZ3J3R3FnWnpoWDNQUGFqT0hiWktNRjl5eXdnTWtIYVlXaVRFc3g3YU9ZTHZ3NnFXMWw3QmwyZ3JTWWFuS3JxeGJ5VDFGcXJMbTl0QU5hN0Q2aWw2LXhjVS1meEpMZ0x2Y1R2RVRNeWZUaHYtaUh4UjhNNjh3R3NJT2Q5ZkNVTmlUd3RaZ0Vya1dyNkVhYXRiM2ZhUkRFaGpNbW5pQ0k?oc=5",
+      "data": "18/11 22:46"
     }
   ],
   "avisos": [
