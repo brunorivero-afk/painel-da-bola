@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/11/2026 06:47",
+  "atualizado_em": "19/11/2026 15:47",
   "jogos": [
     {
       "sport": "futebol",
@@ -1202,66 +1202,62 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 28.0,
-      "temp_min": 22.1,
-      "chance_chuva": 92,
-      "condicao": "Trovoada"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 28.4,
-      "temp_min": 20.6,
-      "chance_chuva": 64,
-      "condicao": "Neblina"
-    },
-    {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.9,
-      "temp_min": 18.7,
+      "temp_max": 30.2,
+      "temp_min": 23.5,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
+      "cidade": "Araruama",
+      "temp_max": 31.8,
+      "temp_min": 23.8,
+      "chance_chuva": 92,
+      "condicao": "Pancadas de chuva"
+    },
+    {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 26.3,
+      "temp_min": 19.0,
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
+    },
+    {
       "cidade": "Teresópolis",
-      "temp_max": 28.8,
-      "temp_min": 17.0,
+      "temp_max": 27.5,
+      "temp_min": 19.0,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
+      "titulo": "Lucho Acosta destaca preparação do Fluminense antes de duelo com o São Paulo - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWkRRYzRRWXpLWndCTk9mR2dYQkc4WDRoRHNabWxiWUtTUVllZGdRWnBGeHNxMTcweXJHVGczVndIbjI2elktQnkzYkFEd0dMelNkQkYtZ2hfLXQwXzYtTXB5bjlVZEtMV05vZ0ZTYXlrVS1MOFZvejVLaVpmMVVqeXBVN0NYbVZFX1JsTEt4YUVmUzRwOE5wanpEYlFRZEZUS0ViNVdMLUVBTldtc3dMQUszTjdaNjJXb3RXQXFxVk1ENXFtNnRxMWZaMFNhejIyY21Bam1VcTdZdnJYVWhLYnd6alJsQmRLX0syMw?oc=5",
+      "data": "19/11 18:42"
+    },
+    {
+      "titulo": "Ex-técnico do Fluminense está perto de fazer história no Canadá - Futebol Interior",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSRjdaVkpleTdyU0RWem5CTDQzbmpOckFHRzFBR2xzS09aTnNCT082U1hCN1ZvcEg3U0NKZnhuc2RHRkNlUEVhTlMyOVkzYzFCdEJ0UWg3Sk5uMV90dTJtVHYwa25kdjYzZE1LR2lvU0l3Zw?oc=5",
+      "data": "19/11 17:52"
+    },
+    {
       "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTi0tOFotMzZ3cWNJZUxfcjFmNFRpNnVnd0ozWF92ZjdaSUdmQ3A0bkdCT2hGNGlsdElkYUhnZFQ4RlVoRUVJbWxjY1hJeVpPRDdHRWQ1a0xPVUpZSVFLX2o5NW5MWU9HXzF3a2pEU1ZnUVFybXp3WEFKM3BoT3VUZVpacVVnNUJFdDJHbXFqYnphTWRWc19td0NSYTdRYXB5cWJ5dzhtUF9VZXRRLWpPUG1ZcGpsaFl6TWdMNWU3djVPY3FHaGQ5N1VZTVpIQWFBMjlYd2k5T0VaQdIB6AFBVV95cUxPN1h5bEVGcXkyQkxkSFEwNjVzMG1OTFF6UlpsbTFxSXFwSW1mZFAwUTZJUFZhSlJraVA2Y2hrTmlRRUdlQjlCSjN2Uy1nSUEtX21WYmMtV242bGZhc3dEajJQY3Nkd3RCbXdQQXlxaUlVNldKTjAwZWRhZTVtbGVlVjQtb0pSbVgzOExJaldPbnEyeDVFNWp0RmI3aTNWVE93Sm0yWkN0RGo0LW1VVmFPdENmell4RkZhMXdKR2hfanJSRjJwSk1uN0phSUZtbGY3ZEdpcXk3RUotVFNndEVkajNWY1UzQ3ox?oc=5",
       "data": "19/11 07:00"
     },
     {
-      "titulo": "São Paulo x Fluminense: veja onde assistir ao jogo da 35ª rodada do Brasileirão - Gazeta Esportiva",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0E4VW1wSDRJV3VqQlNNamdiVlFiTkdJNWVGXzVsYlE1eFFwVXQ4YzBJRmpMMmJLSkRpS3pBMVpnTDl6UDBNX2RnSmltSjdjTE9zVGtfcXFfVFhGUS1QRzNMWHJGTXdyNTEtb0FOQnJ5RHVwV2xkZ1lfdHI5X2dheHNqQi1lcm9KMkptRy1jT1NzMTRvOC02VERmSW1XWWxUdHBjOFRoTENlZmhNY0FYeEp0Y3pmWUpLR0pzQlBnS2RWc2RJMHfSAcsBQVVfeXFMTkpHaXIwTnRFNXcwbjl3Uy1DYmp6bmFuRElRaDE0bWJDajV4ZUxpUWpwbnRubVdPamlQOGs3WUlITndOaHNIUDVNdzNpMllZSW9oaTlKVmt4dzFUdm4tbXU0MVh2ejFkbFIwa01McV9sMHJ1SndiRlpEbGZXR0hodWVNSUh1RE5LQzVIWEdPNWowOHF4ZUxzRXlNY3AxWmJHRlNUaEkwWWtJWFJ5a1R3ZXozR1hJRWR6M1FVMWgzTGZITWJ2dzZrOFVmV3M?oc=5",
-      "data": "18/11 09:00"
+      "titulo": "Thiago Silva abre o jogo sobre renovação com o Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc010VUx4U2ZTb2h6MWVmZ3J3R3FnWnpoWDNQUGFqT0hiWktNRjl5eXdnTWtIYVlXaVRFc3g3YU9ZTHZ3NnFXMWw3QmwyZ3JTWWFuS3JxeGJ5VDFGcXJMbTl0QU5hN0Q2aWw2LXhjVS1meEpMZ0x2Y1R2RVRNeWZUaHYtaUh4UjhNNjh3R3NJT2Q5ZkNVTmlUd3RaZ0Vya1dyNkVhYXRiM2ZhUkRFaGpNbW5pQ0k?oc=5",
+      "data": "18/11 22:46"
     },
     {
-      "titulo": "São Paulo x Fluminense: onde assistir, horário e escalações - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTJyUDI1cGd5dUZfWlhRVUlWTFlyWU5JNkZTdEhSNE5uVDdmYkRqVW5pNlptOGc4Qk5YRVVRNy1RTE1tM0M3NkV1bkRsTGlCd181eXp2N3ZzS3ZwU29LcGg5d2xuWHIxcmxpZi1UbzJBT2lCTldZdTFqZWpUMmZHanloUDVKMEY2SEw2cVEzY1J1dUNwSzVkekowSzBqMEdDeVJ3?oc=5",
-      "data": "18/11 18:43"
-    },
-    {
-      "titulo": "Thiago Silva indica possível renovação com o Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQjVFM19fTU5oMGh2bWdPX0JXQ3IyajRkSWQ5a0txaEJvd3N0VnBtUjFjaGFLa0JpTVlUOE1mUmdodXRqc3BQb0J5Sm0xMWdMNzZLUXptMVlURnlFcFZWYXM0clpCeDU2TlNBRW9jZHJ2MVlvVVFHOWVTUmpQVVdvMEwycjRpWkstemdCR0VhUS0za2daS3lVMUkzMnRXb0hTNmNQajU3WmZiZDN5eDRURHg3bWt4bGJDbGtUMWV0SmtoOXFlZzdoTk85N3ROdXNpZHFBV1J1N0JTZ3JZaFd3?oc=5",
-      "data": "19/11 09:17"
-    },
-    {
-      "titulo": "Jogos de hoje: quem joga no futebol e onde assistir ao vivo – quinta-feira (19/11/2026) - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGdITkdpY2toQVNTSzNiVUQ1MGc4SFlfM1Z6OVc4UDBtZjJzelJKSEpGQ016elI2QzdNOFpKSW9uWXRxU19uM29ERERYUkRvYjh6VTJnU3ROWmU4UE1YWFpNVndCRjIxYmF3LVIyOS1ZLUlPb3FtREZxM3NId0lUaXQzWWpZcHNSUG9aRnZSWGlNRk80d093bU85a3dLc1MwbjJlM0xHR3dJRXVmX28xbV9WMWlOV096TTBWWjg5Q2NZVXAxRE80?oc=5",
-      "data": "19/11 08:00"
+      "titulo": "Fluminense bate Botafogo de virada e fica a um empate da final da Copa Rio Sub-17 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObG5sOE5WMWFjTnMwZ0FLcHJ5VC1iTUNlVnQ1R2dUTWQ2YTdJMldPdkpMMFpCYWtmSWQ1XzlBRG1UUXRNY3JZN2ZCdXgyblkzc0s2OGRoemU5ejNucE9wUTgtMXpoQlRhSHozSVZIT0wzc3hCaWtOZV9jRUFEQUVndUc1NHBmT3JGOGpwU01WUFJndHlDMERnRDNIMzVDRHI2d29QbXZRYUNoWk1sck5HeTBvc28tcWd5R0tr?oc=5",
+      "data": "18/11 15:10"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar clima de Rio de Janeiro: Response status code does not indicate success: 429 (Too Many Requests).",
-    "Falha ao buscar clima de Araruama: Response status code does not indicate success: 429 (Too Many Requests).",
-    "Falha ao buscar clima de Itaipava (Petrópolis): Response status code does not indicate success: 429 (Too Many Requests).",
-    "Falha ao buscar clima de Teresópolis: Response status code does not indicate success: 429 (Too Many Requests)."
+    "Futebol: mantendo dados do último sucesso."
   ]
 };
