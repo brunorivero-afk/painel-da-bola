@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "20/11/2026 05:18",
+  "atualizado_em": "20/11/2026 14:29",
   "jogos": [
     {
       "sport": "futebol",
@@ -1192,66 +1192,62 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.6,
-      "temp_min": 23.5,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 31.3,
+      "temp_min": 24.2,
+      "chance_chuva": 73,
+      "condicao": "Neblina"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 34.7,
-      "temp_min": 23.8,
-      "chance_chuva": 92,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 30.2,
+      "temp_min": 24.4,
+      "chance_chuva": 51,
+      "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.9,
-      "temp_min": 19.0,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 29.2,
+      "temp_min": 19.4,
+      "chance_chuva": 89,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.1,
-      "temp_min": 19.0,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 29.7,
+      "temp_min": 19.3,
+      "chance_chuva": 94,
+      "condicao": "Garoa fraca"
     }
   ],
   "noticias": [
-    {
-      "titulo": "Escalação do Fluminense: Marcão tem desfalques no ataque, e Martinelli deve começar no banco - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT0hxRVhfVVNMYmpwaWZNT0NUcEJlVGc1Q2xrXzNsS0lWM2VRU2EwSDB3dXY4Z2FlYXBQU3duMGVqdXZlZWJ1MEFtM1RFa05ERS1yREM3MWhZZS1XR3lmTFNNelgyeU0yMVJVNjFGd0htOFYybk5xbTlYR3hxQXplWm1xRDltRDJLNHVDZU05MTRPS3ktaC13VXpOSmEyb0ZaWkp1WGgzdHc3RFRXcjlFU2FVT0pYaFF6QzQ2MklCZk04S21vaWplMVRld0dUR0dic2t0SHpaeEszYldFbmY2am1lTWRtcmRYZkZvOEpNWHRnSm_SAYICQVVfeXFMUDNHZnBvUFdXUXNwclVWdjFmOHA3VW15akNmSmxnaDFkNVVudTEzMGRkUmlnNExpMVNOX19DSFotbGlJcThrcTN2U3FsdXhRSmpJNmplUl8xLV9CZ2NKZE9OS3M5WWZFUkgwLWM2QjY4cUNCdE9NQnlubndDRjlncjFuTUV5a1d2a19tMVp0emF0cTZ5Q0Iyd3VFU1g4ZEdTOFZNejdLLW1zQlVMVFMzbm10OThnTkNwNElSR1NRM2hKanhhcVhpWkw5V0t0cnE4YXA1ZEdTUTdoeXF6WS1lT3hJb2N1SmlodFZwWmFFSFV2cGhPSFRudUVQZmxHNlpEbzZB?oc=5",
-      "data": "18/11 22:30"
-    },
     {
       "titulo": "São Paulo 0 x 1 Fluminense | Campeonato Brasileiro: melhores momentos - ge",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXhfYjlxRk5DOG0zMXk1ZGFla1lmMFpxVlZpS2xBR09mbGg0QkV0VWtrcFNkREczUVFGd3dZWjNGbmQtMmJEMWZDVHlVZkNEbnJSTEg0Mi1tWTNQSEMtQ29fRXBLNThyc0wwd3JVVG5tYlQ4eE9wRk1sNElOTzZhVjdxRVFJN2xPWG1iUzBvN01rMHA2Tmx5eC1B?oc=5",
       "data": "20/11 03:18"
     },
     {
-      "titulo": "Conmebol manda recado ao Fluminense após classificação do clube à Libertadores 2027 - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVG9jWnRPNFpkOW8ydUFWbHlaZG5CWWNCMlNvUk9NQk1RMVJDXzMyR25QWkFhRjFnM3dIZTIwNjM4T1E1YklpQUVRWDM2UXR3aXRXUmowZ3VMaFN1T0VVRjhtc2EtSk1UZDVnRV9CUWc5UkVHTlhzSm93X0J5M0ZmcVFaOXc2aDFmVDRRYm1GcnJHRzZDbzlsWjR4TTd0d0swSUJJem5uV3JpajVaakZxRHc2bXpqMVcyQkRFR0NvM1R5U1JQTWNDWmhiZkNFcWlwZXZ5clBMa3hnTTFFS2dVdGFEZWoxNkhpaTFwdkdSVGFDU3RQdmNDQlI3VVJ2eGFZcDNR?oc=5",
-      "data": "20/11 04:03"
+      "titulo": "Dívida bilionária e SAF: ge Fluminense explica problemas financeiros do clube - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEo1VlpTNDl6WE5rZ0tFMnk3WS03WVZkWEhIQ0tDT1JhMjBJU0Y4YmgxMDBfdndjUS1OM0kxM0ZOQjNZZHBiZF80UWgxUHBzN2FjUDgxaS05eU1uS09BUldNSGpFYTN5MnVibktIUkg1a3BzS2Y0b0hqU2xtZzA4dU0tVG1jVy1sYWRuMks1alY0NExYaU4tU05vamw4Zk15Uldsb01ONkRjODJQa0QzdU4wLXlFZmxPMFNEd3pFd3ZRMlhfUFAydVEza2tXR1REZEEzMkxaaTRoY0XSAeoBQVVfeXFMTndodnpPRmt4QVl4TUU4Y2VaOFZVRF9WMkhTM2ZZNXRGODF3SW9RSXZWTjBuSkRtMDNJUmhxNGt5YXYtVXVRWW9PT0hSUmh3UmZibEM2V3ZsZXNkUDl5QnNBMGY4NWxTSTR6YzEwSnV0QUh6cFhoQXE3OTlZZWF1SUI1OElXWV8yX2ZYNUVvcFBSWU9DUWNiVi1wNXVyeFdkSkcyUnlMMzM0MElXY29SSnQ2LXRZRWd4UUtJVDh4TU9hdms4OXhSTDEwSzZhMlRPREFxcXhySEttWC1OUGY5NmROc2M5TmdGU3dn?oc=5",
+      "data": "20/11 17:22"
+    },
+    {
+      "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWJmd2M3Nm9DdVRTcmVCTVRxbW03cTgyYTNlV3RiT0NRdXR5U3l4QjF5dUtIVTg4T0lNTmFKMXl5NVhGaXEzcGNickhRaGtlT2hQR1N6WUp3aFJleXREbXV2Rm9VM1F1LW1RNEg3cFpZRV90UlVwMkFDZ3FnSlFaNzFwYmdoNEpNZkR0ZmJ5OFQyLURjY2NDbmRnWjNESEZaQThmaG42MWRsdXllSjFVN1JCR0ZNSmc3VTd3?oc=5",
+      "data": "20/11 15:14"
+    },
+    {
+      "titulo": "Fluminense garante vaga na Libertadores de 2027 - ge",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakpzS0FFT2Q0SFVNMjhsMkR5djFMbGd3RnBYMEdMcm9Bd0lnZ0xRVzhNTXl3SGplZmZjTjg1TmQtSmNKeXI0eDdqQ3FMam81MDJUVS1lcHBIeUxUSHFxaEJmS1NqTXJuMy15N1UyUENYYVk2MGlsOTRLN2VwS1VOaEkwd2xiTGJQUUJyS1ZkMUpDUkVJN0ZRRHZiTl9GYlc1b1hoZVlVcDljUlIwOFNkQ182RkZWZHFSVkHSAcgBQVVfeXFMTU9jd3BieW9BNmp0RU5rbzZYWGtxYjB1bDcwYXVCN003dnFJd01BdkU5cnZ5NXZyRlg1ZlRGYlJudXNPMkJvdnFXVG5sRTlxVFEyQVFpaGpxS1NiUks0T0UxWHRvN2tidU9KLTQxbG9YU0M4WWhMakd4NzJmamhqMi1QYnRMWlZZTnVYUHdObE1LdGIycVF6X2taTms3blBLUjA5WFNXSGJrZlpxWk02UU1wNU1ncmF3cS1xX1FKVU51dmtJN2VvS3E?oc=5",
+      "data": "20/11 02:27"
     },
     {
       "titulo": "Atletas do Sub-20 Feminino assinam primeiro contrato profissional com o Fluminense - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEFwdXc5NTB1eDlJTERLY3ozdkZzM0FtZmdTZ2dkSzFIWkIyM2JNZGJOV3p5YVJrTXhXT1FwaDBaREtNMUprSkN2QnF1ZDhDTGp1NERvOE44OXQ2WlJ0eFhrYmdkOXNvUmY1RkUtbUVRbUFlNUtMbFhKUVVtbFZXLUtxWFpRR1RkeWFMd3FMX1JLLTA5ajFKVWNLNmFXNkpoR0Uyc3YzT01vZDFUdmJGb1RiM2JLWUZ3VlVYVg?oc=5",
       "data": "19/11 19:23"
-    },
-    {
-      "titulo": "Fluminense garante vaga na Libertadores e se junta a Flamengo, Palmeiras e Cruzeiro - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWxtRVV5bGdSVkNJb3AyaHQ2WGFxTGhuLXF1eF82OFBJZ25tdklKTzJ6ajRPc3JjMGQ1ZWVHcXhBSjRESzBhZUdldHluOF9POUpIRHZIMzZidEoyMVlLLUIzU1FOS29EdUJPTl95VzJjRDlLc1BiTmdLNHphTzIzaGtNOHdYUFlyeXZCYmpfOEdORkxFU0xnR3hwd2hpX1V3eUNWTUFxSlJ0S3FOWWs4ZHZmVXRDMEtNSnBYQUphTFp2b3VqOThTalJIU3JrSmlNQlhn?oc=5",
-      "data": "20/11 04:21"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    "Futebol: mantendo dados do último sucesso."
   ]
 };
