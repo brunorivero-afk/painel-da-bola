@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/11/2026 21:59",
+  "atualizado_em": "20/11/2026 05:18",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-19",
-      "time": "19:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Osasco x Pinheiros",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Campinas x Monte Carmelo",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Guarulhos",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Minas",
@@ -1170,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "SESI-Bauru x Norde Vôlei",
@@ -1180,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "SESC RJ Flamengo x Osasco",
@@ -1190,7 +1180,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "21:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Sesc Rj Flamengo",
@@ -1231,19 +1221,19 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Fluminense entra em acordo com o Botafogo por dívida de R$ 8 milhões na compra de Savarino e evita punição da Anresf - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVU9Tam0zSk1mVms2TmxRQzFRZEJNd0d0bHpFeHVKa3h5UDAyVXVZWFowM3JzT2NmUjF6Qi1ycG9hc3VmNVAzZXZ2Zzc2N1RHT1ppc2lZaldWbTl5MDVjZ3RXNUZ6ZWN1c01xZXFIdVE3SVA1MlRuUkl4dE5LZ09sa09ha0pORm1MN3VYWEZOYkNXV3BpV0FDRFo5a2tpazNwSV80T3BXU09VdnJCMEVzcG1UWHAxbU9Ib1MyNmMxWWZ1S0J2Zlk1U2Vvb0dybUtPN05WZzJVTXh2ZF9LU3hKR3MybXRjZVFyX05uZ0hpdGVKMXJLcnNnNy1fcVc3a0R10gGPAkFVX3lxTE01eF9NVVNURTNyX0JfMV9PRlRjdHlCa3h3SzluN0hmcGVFRTFJWkJGUV9lSXc5dkxmYzMwbjdHZmZQbzlyaEw3MF9QcmhrcE5FRG5nM3ptUkw0LVNRdkhzejNscm51dUtrS0lGZVFzZ2VYdnJfSW1HX3ZjTUZnQjJVRnk3aGY5WURQUWhrM09VOXpDbk9GTzJmR0o2WXo3NUZlUzhHTUhyS3lxb2dWak9SaGhGdm9GX2ROMTI2czFQSXJVMmpNdnR2UGowOGxiQ0hzZThFUE5IS0FSUXNpdVNUdzJXTGF0Z1JveUhpLTlzX0JuTXdOYl85OWVpalZqSzZjWk1QVXdZWWJyamZYekU?oc=5",
-      "data": "19/11 22:19"
+      "titulo": "Escalação do Fluminense: Marcão tem desfalques no ataque, e Martinelli deve começar no banco - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT0hxRVhfVVNMYmpwaWZNT0NUcEJlVGc1Q2xrXzNsS0lWM2VRU2EwSDB3dXY4Z2FlYXBQU3duMGVqdXZlZWJ1MEFtM1RFa05ERS1yREM3MWhZZS1XR3lmTFNNelgyeU0yMVJVNjFGd0htOFYybk5xbTlYR3hxQXplWm1xRDltRDJLNHVDZU05MTRPS3ktaC13VXpOSmEyb0ZaWkp1WGgzdHc3RFRXcjlFU2FVT0pYaFF6QzQ2MklCZk04S21vaWplMVRld0dUR0dic2t0SHpaeEszYldFbmY2am1lTWRtcmRYZkZvOEpNWHRnSm_SAYICQVVfeXFMUDNHZnBvUFdXUXNwclVWdjFmOHA3VW15akNmSmxnaDFkNVVudTEzMGRkUmlnNExpMVNOX19DSFotbGlJcThrcTN2U3FsdXhRSmpJNmplUl8xLV9CZ2NKZE9OS3M5WWZFUkgwLWM2QjY4cUNCdE9NQnlubndDRjlncjFuTUV5a1d2a19tMVp0emF0cTZ5Q0Iyd3VFU1g4ZEdTOFZNejdLLW1zQlVMVFMzbm10OThnTkNwNElSR1NRM2hKanhhcVhpWkw5V0t0cnE4YXA1ZEdTUTdoeXF6WS1lT3hJb2N1SmlodFZwWmFFSFV2cGhPSFRudUVQZmxHNlpEbzZB?oc=5",
+      "data": "18/11 22:30"
     },
     {
-      "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTi0tOFotMzZ3cWNJZUxfcjFmNFRpNnVnd0ozWF92ZjdaSUdmQ3A0bkdCT2hGNGlsdElkYUhnZFQ4RlVoRUVJbWxjY1hJeVpPRDdHRWQ1a0xPVUpZSVFLX2o5NW5MWU9HXzF3a2pEU1ZnUVFybXp3WEFKM3BoT3VUZVpacVVnNUJFdDJHbXFqYnphTWRWc19td0NSYTdRYXB5cWJ5dzhtUF9VZXRRLWpPUG1ZcGpsaFl6TWdMNWU3djVPY3FHaGQ5N1VZTVpIQWFBMjlYd2k5T0VaQdIB6AFBVV95cUxPN1h5bEVGcXkyQkxkSFEwNjVzMG1OTFF6UlpsbTFxSXFwSW1mZFAwUTZJUFZhSlJraVA2Y2hrTmlRRUdlQjlCSjN2Uy1nSUEtX21WYmMtV242bGZhc3dEajJQY3Nkd3RCbXdQQXlxaUlVNldKTjAwZWRhZTVtbGVlVjQtb0pSbVgzOExJaldPbnEyeDVFNWp0RmI3aTNWVE93Sm0yWkN0RGo0LW1VVmFPdENmell4RkZhMXdKR2hfanJSRjJwSk1uN0phSUZtbGY3ZEdpcXk3RUotVFNndEVkajNWY1UzQ3ox?oc=5",
-      "data": "19/11 07:00"
+      "titulo": "São Paulo 0 x 1 Fluminense | Campeonato Brasileiro: melhores momentos - ge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXhfYjlxRk5DOG0zMXk1ZGFla1lmMFpxVlZpS2xBR09mbGg0QkV0VWtrcFNkREczUVFGd3dZWjNGbmQtMmJEMWZDVHlVZkNEbnJSTEg0Mi1tWTNQSEMtQ29fRXBLNThyc0wwd3JVVG5tYlQ4eE9wRk1sNElOTzZhVjdxRVFJN2xPWG1iUzBvN01rMHA2Tmx5eC1B?oc=5",
+      "data": "20/11 03:18"
     },
     {
-      "titulo": "Fluminense faz acordo e evita transfer ban pelo fair play financeiro - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWVhFcFJFRG04M05Sa1gxclJ2VXEwV0ZubDNyYU40eWkzOVdrSndiclFrUU1tY2dWSk5mQlpVaUxIQTdhLUlHUW5nb3QwTC03dmEwdmxxQjVwNGNzYVU5OG5iRGxTcnlEQXhrdFlHczhuS0lnNWloQzBoNzdVbmhHVzNCeXBJUks5TWdEQ0kzZzNHLXZFdVFaQi1vRkNab0k4amNqNG9YZE9vSWp5aU5JeHhaMGRFY2ZUcnR5Z1BWNy0xalQxeHNpeDY0cHR2YkZ2RTF6Z2tSd2FCbDJwWVNpR3NibHRGQUFkSzh0ekVuTW4?oc=5",
-      "data": "19/11 22:32"
+      "titulo": "Conmebol manda recado ao Fluminense após classificação do clube à Libertadores 2027 - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVG9jWnRPNFpkOW8ydUFWbHlaZG5CWWNCMlNvUk9NQk1RMVJDXzMyR25QWkFhRjFnM3dIZTIwNjM4T1E1YklpQUVRWDM2UXR3aXRXUmowZ3VMaFN1T0VVRjhtc2EtSk1UZDVnRV9CUWc5UkVHTlhzSm93X0J5M0ZmcVFaOXc2aDFmVDRRYm1GcnJHRzZDbzlsWjR4TTd0d0swSUJJem5uV3JpajVaakZxRHc2bXpqMVcyQkRFR0NvM1R5U1JQTWNDWmhiZkNFcWlwZXZ5clBMa3hnTTFFS2dVdGFEZWoxNkhpaTFwdkdSVGFDU3RQdmNDQlI3VVJ2eGFZcDNR?oc=5",
+      "data": "20/11 04:03"
     },
     {
       "titulo": "Atletas do Sub-20 Feminino assinam primeiro contrato profissional com o Fluminense - Fluminense Football Club",
@@ -1251,13 +1241,17 @@ window.PAINEL_DATA = {
       "data": "19/11 19:23"
     },
     {
-      "titulo": "Patrocinador máster prepara rescisão de contrato com Fluminense - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzl0dkViMVdkRTI3eWRiOVVQOUw1WnZMci03cWFPYUx0Y2xtaEpwdVMwUm1XZ3drV2lNZ0g1V25uTHdEN0xFSjhLa1oySUkzVUhNX1N6MFFvbmJPdm1oSUJHRWpIbURkVWtBU05lYWJoVVlfRXBxeHphRmxQX2xudzRMbzZhZzkwamVGYWthZ3hBei03OVBBcVlNbXN3ajMyMHI2dDlNTTFwU1ZGVE53cTd6U01iOG5XNDVTbGp4d1E3NlhE0gHKAUFVX3lxTE8weVFzZlg3UjU5cldySUxFbnJud2haU1phdWEwdTBwMjRUT2gzM3NaN1RsdDdLYUpKMUtVb0ppZGFjaUw1dWxoZ0llUGlPRzZsZmtVR0l1SUd2Q3puLWZXa3lGQXJYYXRITnpnMko0T2QzVjFQbjVGZGI2aE9OY3QzQVV2QmVfdWdrclZjWUUtaV83aFBFTHllZDNJcXh1R2J2X09PVlp6bGVob2ktZUJfYThhbWlwbE0wN1FpcXdTbFNNallNN09ZQ2c?oc=5",
-      "data": "17/11 19:35"
+      "titulo": "Fluminense garante vaga na Libertadores e se junta a Flamengo, Palmeiras e Cruzeiro - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWxtRVV5bGdSVkNJb3AyaHQ2WGFxTGhuLXF1eF82OFBJZ25tdklKTzJ6ajRPc3JjMGQ1ZWVHcXhBSjRESzBhZUdldHluOF9POUpIRHZIMzZidEoyMVlLLUIzU1FOS29EdUJPTl95VzJjRDlLc1BiTmdLNHphTzIzaGtNOHdYUFlyeXZCYmpfOEdORkxFU0xnR3hwd2hpX1V3eUNWTUFxSlJ0S3FOWWs4ZHZmVXRDMEtNSnBYQUphTFp2b3VqOThTalJIU3JrSmlNQlhn?oc=5",
+      "data": "20/11 04:21"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
   ]
 };
