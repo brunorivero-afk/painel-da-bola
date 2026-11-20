@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "20/11/2026 14:29",
+  "atualizado_em": "20/11/2026 20:37",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@
     {
       "sport": "volei",
       "date": "2026-11-20",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Campinas x Monte Carmelo",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-20",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Guarulhos",
@@ -1192,31 +1182,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.3,
+      "temp_max": 32.3,
       "temp_min": 24.2,
       "chance_chuva": 73,
-      "condicao": "Neblina"
+      "condicao": "Nublado"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.2,
+      "temp_max": 31.9,
       "temp_min": 24.4,
       "chance_chuva": 51,
       "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.2,
+      "temp_max": 28.9,
       "temp_min": 19.4,
       "chance_chuva": 89,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.7,
+      "temp_max": 30.0,
       "temp_min": 19.3,
       "chance_chuva": 94,
-      "condicao": "Garoa fraca"
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -1226,9 +1216,9 @@
       "data": "20/11 03:18"
     },
     {
-      "titulo": "Dívida bilionária e SAF: ge Fluminense explica problemas financeiros do clube - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEo1VlpTNDl6WE5rZ0tFMnk3WS03WVZkWEhIQ0tDT1JhMjBJU0Y4YmgxMDBfdndjUS1OM0kxM0ZOQjNZZHBiZF80UWgxUHBzN2FjUDgxaS05eU1uS09BUldNSGpFYTN5MnVibktIUkg1a3BzS2Y0b0hqU2xtZzA4dU0tVG1jVy1sYWRuMks1alY0NExYaU4tU05vamw4Zk15Uldsb01ONkRjODJQa0QzdU4wLXlFZmxPMFNEd3pFd3ZRMlhfUFAydVEza2tXR1REZEEzMkxaaTRoY0XSAeoBQVVfeXFMTndodnpPRmt4QVl4TUU4Y2VaOFZVRF9WMkhTM2ZZNXRGODF3SW9RSXZWTjBuSkRtMDNJUmhxNGt5YXYtVXVRWW9PT0hSUmh3UmZibEM2V3ZsZXNkUDl5QnNBMGY4NWxTSTR6YzEwSnV0QUh6cFhoQXE3OTlZZWF1SUI1OElXWV8yX2ZYNUVvcFBSWU9DUWNiVi1wNXVyeFdkSkcyUnlMMzM0MElXY29SSnQ2LXRZRWd4UUtJVDh4TU9hdms4OXhSTDEwSzZhMlRPREFxcXhySEttWC1OUGY5NmROc2M5TmdGU3dn?oc=5",
-      "data": "20/11 17:22"
+      "titulo": "Santos pode assinar com sonho da torcida do Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVo0UGJRUGYtSlJrNHdPQ0psT2thTG1yVHByTFpGcXgtQUpNMjVIdURtOEtLb3ZiV19QLUZoUHZ2VUlLX2dkMThSMzFBNEpkUkNHQ1c2amdxZUp1RnFQTmFZeU1VQ2xYdDFKVWFRNTlsYUpMT1RYTTlfQkRrYS15dTJMdTRMd0pac1J2ZV95TTU1WTZoSzNydk9KYUtLNS1GWm1jVVBiVTctNHhNdHZwN3dTenV1blNTYXc1SGV3MGdwM2xvVzVaMTV5OW5STWlUTHdBNzZlUWg?oc=5",
+      "data": "20/11 01:07"
     },
     {
       "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
@@ -1236,14 +1226,14 @@
       "data": "20/11 15:14"
     },
     {
-      "titulo": "Fluminense garante vaga na Libertadores de 2027 - ge",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakpzS0FFT2Q0SFVNMjhsMkR5djFMbGd3RnBYMEdMcm9Bd0lnZ0xRVzhNTXl3SGplZmZjTjg1TmQtSmNKeXI0eDdqQ3FMam81MDJUVS1lcHBIeUxUSHFxaEJmS1NqTXJuMy15N1UyUENYYVk2MGlsOTRLN2VwS1VOaEkwd2xiTGJQUUJyS1ZkMUpDUkVJN0ZRRHZiTl9GYlc1b1hoZVlVcDljUlIwOFNkQ182RkZWZHFSVkHSAcgBQVVfeXFMTU9jd3BieW9BNmp0RU5rbzZYWGtxYjB1bDcwYXVCN003dnFJd01BdkU5cnZ5NXZyRlg1ZlRGYlJudXNPMkJvdnFXVG5sRTlxVFEyQVFpaGpxS1NiUks0T0UxWHRvN2tidU9KLTQxbG9YU0M4WWhMakd4NzJmamhqMi1QYnRMWlZZTnVYUHdObE1LdGIycVF6X2taTms3blBLUjA5WFNXSGJrZlpxWk02UU1wNU1ncmF3cS1xX1FKVU51dmtJN2VvS3E?oc=5",
-      "data": "20/11 02:27"
+      "titulo": "ONU firma parceria com Fluminense FC para promover Agenda 2030 - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jQTc0Yk5uRFEzSGowM09TNTg2Q0ZnVGhtZlNmN21zNS1OQWRCM3JQeWFlaTZSM0JHd1BfVHNsLUM2SzNTOTlSbGx0RUFaZ0drRXJqaE5Xbw?oc=5",
+      "data": "17/11 05:05"
     },
     {
-      "titulo": "Atletas do Sub-20 Feminino assinam primeiro contrato profissional com o Fluminense - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEFwdXc5NTB1eDlJTERLY3ozdkZzM0FtZmdTZ2dkSzFIWkIyM2JNZGJOV3p5YVJrTXhXT1FwaDBaREtNMUprSkN2QnF1ZDhDTGp1NERvOE44OXQ2WlJ0eFhrYmdkOXNvUmY1RkUtbUVRbUFlNUtMbFhKUVVtbFZXLUtxWFpRR1RkeWFMd3FMX1JLLTA5ajFKVWNLNmFXNkpoR0Uyc3YzT01vZDFUdmJGb1RiM2JLWUZ3VlVYVg?oc=5",
-      "data": "19/11 19:23"
+      "titulo": "HISTÓRICO CONFRONTO 📊 São Paulo e Fluminense se enfrentam nesta quinta-feira (19) em mais uma rodada do Brasileirão. Confira os números históricos do confronto, considerando apenas partidas oficiais. Jogos e torneios amistosos não entram no lev - Instagram",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZMEF1ZTRNcWY5Y1lIUmd6SFc5eWNFS2swX0dHMHFPN2M4Y2M0eEVueFhHQmdGLTY3UFZmVmtYUTU4NXd2eVpjZkNVWjRaank2Vmc?oc=5",
+      "data": "19/11 13:46"
     }
   ],
   "avisos": [
