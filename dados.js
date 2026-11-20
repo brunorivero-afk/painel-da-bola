@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "19/11/2026 15:47",
+  "atualizado_em": "19/11/2026 21:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -1202,28 +1202,28 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.2,
+      "temp_max": 31.6,
       "temp_min": 23.5,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.8,
+      "temp_max": 34.7,
       "temp_min": 23.8,
       "chance_chuva": 92,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 26.3,
+      "temp_max": 27.9,
       "temp_min": 19.0,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.5,
+      "temp_max": 28.1,
       "temp_min": 19.0,
       "chance_chuva": 100,
       "condicao": "Trovoada"
@@ -1231,14 +1231,9 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Lucho Acosta destaca preparação do Fluminense antes de duelo com o São Paulo - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWkRRYzRRWXpLWndCTk9mR2dYQkc4WDRoRHNabWxiWUtTUVllZGdRWnBGeHNxMTcweXJHVGczVndIbjI2elktQnkzYkFEd0dMelNkQkYtZ2hfLXQwXzYtTXB5bjlVZEtMV05vZ0ZTYXlrVS1MOFZvejVLaVpmMVVqeXBVN0NYbVZFX1JsTEt4YUVmUzRwOE5wanpEYlFRZEZUS0ViNVdMLUVBTldtc3dMQUszTjdaNjJXb3RXQXFxVk1ENXFtNnRxMWZaMFNhejIyY21Bam1VcTdZdnJYVWhLYnd6alJsQmRLX0syMw?oc=5",
-      "data": "19/11 18:42"
-    },
-    {
-      "titulo": "Ex-técnico do Fluminense está perto de fazer história no Canadá - Futebol Interior",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSRjdaVkpleTdyU0RWem5CTDQzbmpOckFHRzFBR2xzS09aTnNCT082U1hCN1ZvcEg3U0NKZnhuc2RHRkNlUEVhTlMyOVkzYzFCdEJ0UWg3Sk5uMV90dTJtVHYwa25kdjYzZE1LR2lvU0l3Zw?oc=5",
-      "data": "19/11 17:52"
+      "titulo": "Fluminense entra em acordo com o Botafogo por dívida de R$ 8 milhões na compra de Savarino e evita punição da Anresf - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVU9Tam0zSk1mVms2TmxRQzFRZEJNd0d0bHpFeHVKa3h5UDAyVXVZWFowM3JzT2NmUjF6Qi1ycG9hc3VmNVAzZXZ2Zzc2N1RHT1ppc2lZaldWbTl5MDVjZ3RXNUZ6ZWN1c01xZXFIdVE3SVA1MlRuUkl4dE5LZ09sa09ha0pORm1MN3VYWEZOYkNXV3BpV0FDRFo5a2tpazNwSV80T3BXU09VdnJCMEVzcG1UWHAxbU9Ib1MyNmMxWWZ1S0J2Zlk1U2Vvb0dybUtPN05WZzJVTXh2ZF9LU3hKR3MybXRjZVFyX05uZ0hpdGVKMXJLcnNnNy1fcVc3a0R10gGPAkFVX3lxTE01eF9NVVNURTNyX0JfMV9PRlRjdHlCa3h3SzluN0hmcGVFRTFJWkJGUV9lSXc5dkxmYzMwbjdHZmZQbzlyaEw3MF9QcmhrcE5FRG5nM3ptUkw0LVNRdkhzejNscm51dUtrS0lGZVFzZ2VYdnJfSW1HX3ZjTUZnQjJVRnk3aGY5WURQUWhrM09VOXpDbk9GTzJmR0o2WXo3NUZlUzhHTUhyS3lxb2dWak9SaGhGdm9GX2ROMTI2czFQSXJVMmpNdnR2UGowOGxiQ0hzZThFUE5IS0FSUXNpdVNUdzJXTGF0Z1JveUhpLTlzX0JuTXdOYl85OWVpalZqSzZjWk1QVXdZWWJyamZYekU?oc=5",
+      "data": "19/11 22:19"
     },
     {
       "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
@@ -1246,14 +1241,19 @@ window.PAINEL_DATA = {
       "data": "19/11 07:00"
     },
     {
-      "titulo": "Thiago Silva abre o jogo sobre renovação com o Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc010VUx4U2ZTb2h6MWVmZ3J3R3FnWnpoWDNQUGFqT0hiWktNRjl5eXdnTWtIYVlXaVRFc3g3YU9ZTHZ3NnFXMWw3QmwyZ3JTWWFuS3JxeGJ5VDFGcXJMbTl0QU5hN0Q2aWw2LXhjVS1meEpMZ0x2Y1R2RVRNeWZUaHYtaUh4UjhNNjh3R3NJT2Q5ZkNVTmlUd3RaZ0Vya1dyNkVhYXRiM2ZhUkRFaGpNbW5pQ0k?oc=5",
-      "data": "18/11 22:46"
+      "titulo": "Fluminense faz acordo e evita transfer ban pelo fair play financeiro - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWVhFcFJFRG04M05Sa1gxclJ2VXEwV0ZubDNyYU40eWkzOVdrSndiclFrUU1tY2dWSk5mQlpVaUxIQTdhLUlHUW5nb3QwTC03dmEwdmxxQjVwNGNzYVU5OG5iRGxTcnlEQXhrdFlHczhuS0lnNWloQzBoNzdVbmhHVzNCeXBJUks5TWdEQ0kzZzNHLXZFdVFaQi1vRkNab0k4amNqNG9YZE9vSWp5aU5JeHhaMGRFY2ZUcnR5Z1BWNy0xalQxeHNpeDY0cHR2YkZ2RTF6Z2tSd2FCbDJwWVNpR3NibHRGQUFkSzh0ekVuTW4?oc=5",
+      "data": "19/11 22:32"
     },
     {
-      "titulo": "Fluminense bate Botafogo de virada e fica a um empate da final da Copa Rio Sub-17 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObG5sOE5WMWFjTnMwZ0FLcHJ5VC1iTUNlVnQ1R2dUTWQ2YTdJMldPdkpMMFpCYWtmSWQ1XzlBRG1UUXRNY3JZN2ZCdXgyblkzc0s2OGRoemU5ejNucE9wUTgtMXpoQlRhSHozSVZIT0wzc3hCaWtOZV9jRUFEQUVndUc1NHBmT3JGOGpwU01WUFJndHlDMERnRDNIMzVDRHI2d29QbXZRYUNoWk1sck5HeTBvc28tcWd5R0tr?oc=5",
-      "data": "18/11 15:10"
+      "titulo": "Atletas do Sub-20 Feminino assinam primeiro contrato profissional com o Fluminense - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEFwdXc5NTB1eDlJTERLY3ozdkZzM0FtZmdTZ2dkSzFIWkIyM2JNZGJOV3p5YVJrTXhXT1FwaDBaREtNMUprSkN2QnF1ZDhDTGp1NERvOE44OXQ2WlJ0eFhrYmdkOXNvUmY1RkUtbUVRbUFlNUtMbFhKUVVtbFZXLUtxWFpRR1RkeWFMd3FMX1JLLTA5ajFKVWNLNmFXNkpoR0Uyc3YzT01vZDFUdmJGb1RiM2JLWUZ3VlVYVg?oc=5",
+      "data": "19/11 19:23"
+    },
+    {
+      "titulo": "Patrocinador máster prepara rescisão de contrato com Fluminense - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzl0dkViMVdkRTI3eWRiOVVQOUw1WnZMci03cWFPYUx0Y2xtaEpwdVMwUm1XZ3drV2lNZ0g1V25uTHdEN0xFSjhLa1oySUkzVUhNX1N6MFFvbmJPdm1oSUJHRWpIbURkVWtBU05lYWJoVVlfRXBxeHphRmxQX2xudzRMbzZhZzkwamVGYWthZ3hBei03OVBBcVlNbXN3ajMyMHI2dDlNTTFwU1ZGVE53cTd6U01iOG5XNDVTbGp4d1E3NlhE0gHKAUFVX3lxTE8weVFzZlg3UjU5cldySUxFbnJud2haU1phdWEwdTBwMjRUT2gzM3NaN1RsdDdLYUpKMUtVb0ppZGFjaUw1dWxoZ0llUGlPRzZsZmtVR0l1SUd2Q3puLWZXa3lGQXJYYXRITnpnMko0T2QzVjFQbjVGZGI2aE9OY3QzQVV2QmVfdWdrclZjWUUtaV83aFBFTHllZDNJcXh1R2J2X09PVlp6bGVob2ktZUJfYThhbWlwbE0wN1FpcXdTbFNNallNN09ZQ2c?oc=5",
+      "data": "17/11 19:35"
     }
   ],
   "avisos": [
