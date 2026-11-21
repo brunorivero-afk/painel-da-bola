@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/11/2026 11:05",
+  "atualizado_em": "21/11/2026 17:44",
   "jogos": [
     {
       "sport": "futebol",
@@ -1172,38 +1172,38 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.4,
-      "temp_min": 24.7,
-      "chance_chuva": 28,
-      "condicao": "Garoa fraca"
+      "temp_max": 33.4,
+      "temp_min": 24.8,
+      "chance_chuva": 63,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.9,
-      "temp_min": 24.3,
-      "chance_chuva": 33,
-      "condicao": "Neblina"
+      "temp_max": 31.1,
+      "temp_min": 24.4,
+      "chance_chuva": 47,
+      "condicao": "Pancadas de chuva fortes"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.7,
-      "temp_min": 18.8,
-      "chance_chuva": 86,
-      "condicao": "Garoa"
+      "temp_max": 28.1,
+      "temp_min": 20.3,
+      "chance_chuva": 96,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 30.0,
-      "temp_min": 18.7,
-      "chance_chuva": 98,
-      "condicao": "Trovoada"
+      "temp_max": 28.9,
+      "temp_min": 19.9,
+      "chance_chuva": 96,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
     {
-      "titulo": "Com golaço contra o São Paulo, Hércules tem ano mais artilheiro e vira peça decisiva no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmFTTDk0QjJnRkVJX1dxc3lLS1Q4TjVGWHhzejNXWElrWE05azFpcnREZXZWNTdmYm5naXRqd2YwSDU1Z19lYmh1OWI2UGZnRjhSRDlMZU9CQ0t1NXJGMTJ4bXdkS1E2cGgyZ2ZzMl9PeldFX3YxQkkyblNkMk1YcTd6alcxSlhEODlUcHFGZUZjZWhvMzdqS2JqYkY0MHRJdXdUTEpmTW5NQ1RGUU1LU3pia0FsLXJCRnhzdjcxREprbW1LN1BaLVRLell4bkhhTWpqUF9XMThyd0g0SjdnZHZxZlhCN2M0N21OTmdfVXlzUVJKUTFyNzNoWk3SAYsCQVVfeXFMTWgtVndmVVp5elhwdi1UQi00SVB5OUVxUEpPa1ZWdEFzY1FTMkxTVU1lWEppU3NOTG9USjJ3R2diUVJDbVVtOUdWSlhhLTUxS2VXUDhQdFBjTExjUlI4aGZwYWNWWDdOV3NYOXRSM0t6NVVjemF2czdMUGIzRFR2MmV5X2xza05SVlh1SnE3eVYtRGZoT2phZmNmLXJ2U1dpbGNjcGZ3V0pKaFVWc1RvbDkwdGMyQlZpc293bV9tVXpleGZSc01tRHNWUkVHLWx4Q2dmUlBMSVBUaHNsQjUzTERHUHA3T2JqZW1JQ05iYTBkNXlQR1VselMyNEp4OERhLW93TkstTVBjVGpR?oc=5",
-      "data": "21/11 10:59"
+      "titulo": "Fluminense disputará sua 12ª Libertadores e fica atrás apenas de Flamengo e Palmeiras nesta década - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT1RYYmFONUx2ODQzWHdmeC0zc0hUZ1liTkVFdTRFTy13NV9JSC13MmVlQU03a3lOUzU3Y0xBbmRwb2JHdWtMX3V5MDNBaDI2N2FqWkloVnVKYUg4c2dldXl1YUduOVRUNUtmYl9QckxYUlgtZGlCWEZESXJrUV9QOWFxaGQwNlhnU1YtRjkxeXlXdHNoSVE1VDVpbnMwbzNvN3pkSGg3cEVHcnlwUzhlSTlBUUIwQklpcmVfdHpfSVJGbEJKZ2JTRWpaZFFsSWo5T0MyckExQ0dmQU5nNmNGeEdBS1d2YWM0bHhfNHFBS3F6OTJwYkkxQk9IbTFid9IBjAJBVV95cUxNMENuMHFIdElnMnNOdUE2QkFpRUg3THRySTFua0hWMjNqRGpQblpDd3FXcUNyT0g3RkU2endGM2c5NTN6TEFTbDBGbjZJNzFHUGtpb0V3VTgwUE40aE11SWx0QVBPYldvQ19QTU82dE9yNHdzX1IyTDNfWjMxYWlGSXpXOFRodkNPRzAyWnRlb3c5aEM2TEswM0VxVHo4aEtCblc2SE53aUFjQXlQRHNMa3hpdTZHbmozeld1bUxPOEZrd3BycFJwNDNkRXVzRWpmeENWLU83Y3NNdVgtd1hrWXJ6ZDB6c3NkVEJ1cVVQNU1CUmhZSG1rZG9mRS1ySWpiQ0xkd0RQRTlsN1VK?oc=5",
+      "data": "21/11 14:59"
     },
     {
       "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
@@ -1211,27 +1211,23 @@ window.PAINEL_DATA = {
       "data": "20/11 15:14"
     },
     {
-      "titulo": "Marcão despista sobre futuro no Fluminense e torce por renovação de Thiago Silva - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0RySXBaOUxVT04yM2ppQi1Eb1QxUVpJVXQxeE5OT3d1dnZGeko2eGNKczlkMXVzVHNGQmZSQzlDdFgxLTdTUnpkeWpuWWxIenpjc01iTnM5amgzZV9mNUROMTBlQ0J4TlMyQXl1aE0yaU1TQW1wMDcxV0VOS2oxYk1fdVVGY2ZBMVFlS0w2am53VGQ1ZjMyZHlmaDI1NG52azV6QUFlTWVxQnljVUsxOHNhZjNBb3NZWEdMdVZn?oc=5",
-      "data": "20/11 12:07"
+      "titulo": "Escalação do Fluminense: time deve ter três retornos importantes contra o Mirassol - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOHNIUG04VnBsX3pkblNlbUxiZ0pyTTFHTWdpckFSdF8tWXdBQlZxUDNCWjhOMkNlR0FOYjlEN2l2M2hadU9qZXFXem5nbGRuVWFnT0xSTjh2R2Qyakc5ckozLWlSWEJUYjQ1ZkdLMFY2b2ZhZ1A5QnB5RXN4dW5Ham1uX2xCNWw5U2lreW5uR0lZLVdGOWJscVN2bmJsQnBYUUl1QWNnenBRa2tsd1kxMUlSVUEzUFZzN0VhR1NNN0JXdVhIUzVBRU1fbmlHVklFcUhQU1ZfLTUxcjh3dTZ4TmU1a19hVDjSAfYBQVVfeXFMT1VtcHB5ZnJoVTJUUFEwamgzZlJLcEQzSHBQemR0WFdPZ01pSXdXaEFNeWI5QUlJMmM3VDltbU14WVBDU0lZWDZZWmFNZmpUUVdhd3A3ZV9CdDlOMjFpX0lnM25IZlVSb0R5dmJLclI5eWE3YVhfNkhMQlZGQXdPRFdwM2puWGF0V2UwZWtYZmMyeWtWRnNIX3FWb0tia0tfVkFBTFQ4MER6cU50N1J0a2oxTFlsbGpzOXVfMVJ5anp1MGpfa3Q1V1AwOVBWbXVLTWN0UXJsbUU3bElvVjdXbWtJVFp1UThwU0VjUVhMU1dpS0xXRUx3?oc=5",
+      "data": "20/11 22:48"
     },
     {
-      "titulo": "No Fluminense? Lyanco pode ter saída facilitada do Atlético-MG - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYWl0SXo3NFdzM29yQUhtUWMzczBQcXJBcnE3a185VVQ3bC04YmRNa3pSdEl0a1FmNmlMNXVCVWhPS3p0YmxYVnJDU2puSTdiWTQwTGx0OUg3U2wxZ1BfbWVqYkZKMk5hSVM3UDNYZkwwaU5qNE01WUFKaXFXR082cjc0dE5udXQtcmNmMEZjZzN5dGZUR1RHbWlMVkNISllqaDhnS0hqeHdlT1F2bU8wWTZvVk5FWVRUQXcyakUzVUVocmZtWm4yRU43dDRqNzYtejVTM1R6ZE82cUlUZzdPc1lKeUE0cm5Vay1uNTR2OS1lVU9memFUMg?oc=5",
-      "data": "20/11 17:07"
+      "titulo": "Com golaço contra o São Paulo, Hércules tem ano mais artilheiro e vira peça decisiva no Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmFTTDk0QjJnRkVJX1dxc3lLS1Q4TjVGWHhzejNXWElrWE05azFpcnREZXZWNTdmYm5naXRqd2YwSDU1Z19lYmh1OWI2UGZnRjhSRDlMZU9CQ0t1NXJGMTJ4bXdkS1E2cGgyZ2ZzMl9PeldFX3YxQkkyblNkMk1YcTd6alcxSlhEODlUcHFGZUZjZWhvMzdqS2JqYkY0MHRJdXdUTEpmTW5NQ1RGUU1LU3pia0FsLXJCRnhzdjcxREprbW1LN1BaLVRLell4bkhhTWpqUF9XMThyd0g0SjdnZHZxZlhCN2M0N21OTmdfVXlzUVJKUTFyNzNoWk3SAYsCQVVfeXFMTWgtVndmVVp5elhwdi1UQi00SVB5OUVxUEpPa1ZWdEFzY1FTMkxTVU1lWEppU3NOTG9USjJ3R2diUVJDbVVtOUdWSlhhLTUxS2VXUDhQdFBjTExjUlI4aGZwYWNWWDdOV3NYOXRSM0t6NVVjemF2czdMUGIzRFR2MmV5X2xza05SVlh1SnE3eVYtRGZoT2phZmNmLXJ2U1dpbGNjcGZ3V0pKaFVWc1RvbDkwdGMyQlZpc293bV9tVXpleGZSc01tRHNWUkVHLWx4Q2dmUlBMSVBUaHNsQjUzTERHUHA3T2JqZW1JQ05iYTBkNXlQR1VselMyNEp4OERhLW93TkstTVBjVGpR?oc=5",
+      "data": "21/11 10:59"
     },
     {
-      "titulo": "VÍDEO: Fábio faz avaliação da temporada do Fluminense após vitória - Imirante.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN241V280SS1lNndXMGZ3bmY4bUpQR1JTMXNyNlVzeHItS0ZiM3pTTkc5d2tpdjBlNUx5bEdSbkNEYV95eDE3SFZaYzZrbWM1ZVpBb0dibmJBeGF2MjBXWTNLVFhJaFBSQlJOZ0k0MHlteFVTMVF4V0c4b3Q2NTBHYlJmOTN0dHQ4VldkWm1QVXRCVGRETUxnWi1vX1FlcnhPM1HSAacBQVVfeXFMTlFVWERCaUFLbDBEYkxxQktVVEVabDFURzdKRzFtenczWVpYSVpxSG5DdkhRdV9EZ09qQ1VEcmR1Yng1R3JPWWpCRjdoU0lQNW14N2xBMElMMi1HMGtjNGx2dlRhdExNRGF4MHAxUDFnbFREd20weHh4ZkkyZXhtUnh2SG5IQTRaeEtoUWZOUE96UHRUYlRaeFhqUUVHX01ud200dUo2UEE?oc=5",
-      "data": "20/11 22:03"
+      "titulo": "Fluminense garante vaga na Libertadores de 2027 - ge",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakpzS0FFT2Q0SFVNMjhsMkR5djFMbGd3RnBYMEdMcm9Bd0lnZ0xRVzhNTXl3SGplZmZjTjg1TmQtSmNKeXI0eDdqQ3FMam81MDJUVS1lcHBIeUxUSHFxaEJmS1NqTXJuMy15N1UyUENYYVk2MGlsOTRLN2VwS1VOaEkwd2xiTGJQUUJyS1ZkMUpDUkVJN0ZRRHZiTl9GYlc1b1hoZVlVcDljUlIwOFNkQ182RkZWZHFSVkHSAcgBQVVfeXFMTU9jd3BieW9BNmp0RU5rbzZYWGtxYjB1bDcwYXVCN003dnFJd01BdkU5cnZ5NXZyRlg1ZlRGYlJudXNPMkJvdnFXVG5sRTlxVFEyQVFpaGpxS1NiUks0T0UxWHRvN2tidU9KLTQxbG9YU0M4WWhMakd4NzJmamhqMi1QYnRMWlZZTnVYUHdObE1LdGIycVF6X2taTms3blBLUjA5WFNXSGJrZlpxWk02UU1wNU1ncmF3cS1xX1FKVU51dmtJN2VvS3E?oc=5",
+      "data": "20/11 02:27"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    "Futebol: mantendo dados do último sucesso."
   ]
 };
