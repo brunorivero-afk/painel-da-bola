@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "20/11/2026 20:37",
+  "atualizado_em": "21/11/2026 02:23",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-20",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x Guarulhos",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Suzano x Minas",
@@ -1150,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "SESI-Bauru x Norde Vôlei",
@@ -1160,7 +1150,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "SESC RJ Flamengo x Osasco",
@@ -1170,7 +1160,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "time": "21:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Sesc Rj Flamengo",
@@ -1182,31 +1172,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.3,
-      "temp_min": 24.2,
-      "chance_chuva": 73,
-      "condicao": "Nublado"
+      "temp_max": 31.4,
+      "temp_min": 24.7,
+      "chance_chuva": 28,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.9,
-      "temp_min": 24.4,
-      "chance_chuva": 51,
+      "temp_max": 30.9,
+      "temp_min": 24.3,
+      "chance_chuva": 33,
       "condicao": "Neblina"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.9,
-      "temp_min": 19.4,
-      "chance_chuva": 89,
-      "condicao": "Garoa fraca"
+      "temp_max": 29.7,
+      "temp_min": 18.8,
+      "chance_chuva": 86,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 30.0,
-      "temp_min": 19.3,
-      "chance_chuva": 94,
-      "condicao": "Garoa"
+      "temp_min": 18.7,
+      "chance_chuva": 98,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
@@ -1216,24 +1206,24 @@
       "data": "20/11 03:18"
     },
     {
-      "titulo": "Santos pode assinar com sonho da torcida do Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVo0UGJRUGYtSlJrNHdPQ0psT2thTG1yVHByTFpGcXgtQUpNMjVIdURtOEtLb3ZiV19QLUZoUHZ2VUlLX2dkMThSMzFBNEpkUkNHQ1c2amdxZUp1RnFQTmFZeU1VQ2xYdDFKVWFRNTlsYUpMT1RYTTlfQkRrYS15dTJMdTRMd0pac1J2ZV95TTU1WTZoSzNydk9KYUtLNS1GWm1jVVBiVTctNHhNdHZwN3dTenV1blNTYXc1SGV3MGdwM2xvVzVaMTV5OW5STWlUTHdBNzZlUWg?oc=5",
-      "data": "20/11 01:07"
-    },
-    {
       "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWJmd2M3Nm9DdVRTcmVCTVRxbW03cTgyYTNlV3RiT0NRdXR5U3l4QjF5dUtIVTg4T0lNTmFKMXl5NVhGaXEzcGNickhRaGtlT2hQR1N6WUp3aFJleXREbXV2Rm9VM1F1LW1RNEg3cFpZRV90UlVwMkFDZ3FnSlFaNzFwYmdoNEpNZkR0ZmJ5OFQyLURjY2NDbmRnWjNESEZaQThmaG42MWRsdXllSjFVN1JCR0ZNSmc3VTd3?oc=5",
       "data": "20/11 15:14"
     },
     {
-      "titulo": "ONU firma parceria com Fluminense FC para promover Agenda 2030 - UN News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jQTc0Yk5uRFEzSGowM09TNTg2Q0ZnVGhtZlNmN21zNS1OQWRCM3JQeWFlaTZSM0JHd1BfVHNsLUM2SzNTOTlSbGx0RUFaZ0drRXJqaE5Xbw?oc=5",
-      "data": "17/11 05:05"
+      "titulo": "Marcão despista sobre futuro no Fluminense e torce por renovação de Thiago Silva - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0RySXBaOUxVT04yM2ppQi1Eb1QxUVpJVXQxeE5OT3d1dnZGeko2eGNKczlkMXVzVHNGQmZSQzlDdFgxLTdTUnpkeWpuWWxIenpjc01iTnM5amgzZV9mNUROMTBlQ0J4TlMyQXl1aE0yaU1TQW1wMDcxV0VOS2oxYk1fdVVGY2ZBMVFlS0w2am53VGQ1ZjMyZHlmaDI1NG52azV6QUFlTWVxQnljVUsxOHNhZjNBb3NZWEdMdVZn?oc=5",
+      "data": "20/11 12:07"
     },
     {
-      "titulo": "HISTÓRICO CONFRONTO 📊 São Paulo e Fluminense se enfrentam nesta quinta-feira (19) em mais uma rodada do Brasileirão. Confira os números históricos do confronto, considerando apenas partidas oficiais. Jogos e torneios amistosos não entram no lev - Instagram",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZMEF1ZTRNcWY5Y1lIUmd6SFc5eWNFS2swX0dHMHFPN2M4Y2M0eEVueFhHQmdGLTY3UFZmVmtYUTU4NXd2eVpjZkNVWjRaank2Vmc?oc=5",
-      "data": "19/11 13:46"
+      "titulo": "No Fluminense? Lyanco pode ter saída facilitada do Atlético-MG - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYWl0SXo3NFdzM29yQUhtUWMzczBQcXJBcnE3a185VVQ3bC04YmRNa3pSdEl0a1FmNmlMNXVCVWhPS3p0YmxYVnJDU2puSTdiWTQwTGx0OUg3U2wxZ1BfbWVqYkZKMk5hSVM3UDNYZkwwaU5qNE01WUFKaXFXR082cjc0dE5udXQtcmNmMEZjZzN5dGZUR1RHbWlMVkNISllqaDhnS0hqeHdlT1F2bU8wWTZvVk5FWVRUQXcyakUzVUVocmZtWm4yRU43dDRqNzYtejVTM1R6ZE82cUlUZzdPc1lKeUE0cm5Vay1uNTR2OS1lVU9memFUMg?oc=5",
+      "data": "20/11 17:07"
+    },
+    {
+      "titulo": "Fluminense: Marcão faz coro por renovação de Thiago Silva: 'Uma pena se parasse agora' - UOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2thSW9TSHJ2V2EzTm5vNU1GY01fVTZiRi1IUGg4MVkybTFoZU9lNnlYQks2aG5peGhlZnZOV09DVXBlODdRYmhPc1ZmUTV5U1NGM1NCd2I4U0RqUlMxMXpCR2FyMVJQcFNDQXdhcFJ2RDdUSE1PVDg2M0NLNC0xSVd5N3lUN0s4bjA5cWFPaEpiU3FpdnhlUFRDeE52Tm1vaXZ5SElDeDhWN0hCRExVeE5R?oc=5",
+      "data": "20/11 13:46"
     }
   ],
   "avisos": [
