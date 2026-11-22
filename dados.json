@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "21/11/2026 17:44",
+  "atualizado_em": "21/11/2026 21:52",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@
     {
       "sport": "volei",
       "date": "2026-11-21",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Suzano x Minas",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-21",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "SESI-Bauru x Norde Vôlei",
@@ -1174,56 +1164,56 @@
       "cidade": "Rio de Janeiro",
       "temp_max": 33.4,
       "temp_min": 24.8,
-      "chance_chuva": 63,
+      "chance_chuva": 78,
       "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Araruama",
       "temp_max": 31.1,
       "temp_min": 24.4,
-      "chance_chuva": 47,
+      "chance_chuva": 55,
       "condicao": "Pancadas de chuva fortes"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.1,
       "temp_min": 20.3,
-      "chance_chuva": 96,
+      "chance_chuva": 88,
       "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 28.9,
       "temp_min": 19.9,
-      "chance_chuva": 96,
+      "chance_chuva": 88,
       "condicao": "Garoa"
     }
   ],
   "noticias": [
+    {
+      "titulo": "'Não pensei duas vezes', conta Guga sobre fator emocional em acerto - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEswdUQ3QXNWN3NvQUFiaS1vYVVQcHIyMHV1V01wci1UaGwxV0Y0MEZuYUN1Y3RzVkdUUFVtRER2OGhOMm9rUE05d1RLWV9UNHBOV2VJZmVHUXZCZE1CUGR5MUdUUzhuWk43TnJGN28zZXNob05OdXlrTFRDX0dKbWw4N1pudEpXNXhlcExRTWJCc3B5ZjVLOUNsN25LU21OZUZRMVBCc2Z5Ym8wUVAzNm1CclhBYTE3aWkzZ3hQYTVueUloV2fSAcsBQVVfeXFMTkp0QWdTMjlzZWRJZUdHMDlEMWhiOTF5bUdpM00tdWVrenhzeWlhRUN6cW55a3EtY1czV3NHc0VjWTJ1by02SHBLQUlYQjVrVnNoWGhCcTJucWlNamlOQWFUQlBEZ0dNVEZDNGZxLTlfdjBvWWVQYm8yTF9FaWhfV2laS0p3b2VPWmF4NHFaVVpCMFpkODJ6UUVtTHZxMTJSelN3aFdKSk45SDhOaUxQVkdNbDc1N3ppZ2ltVko1NVNBNXdBc0ZnbTdhTHc?oc=5",
+      "data": "21/11 23:44"
+    },
+    {
+      "titulo": "Racing entra na disputa por Germán Cano no Fluminense - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajZ4M3dxUzRjdUhZSnJzX1NoeHMzMU5PN1A0cjZ2VzZNV0VKNzgyczJvWUdPdlJFYnJjenJOdVZjNnJmWGV3cVBnTkhhUnEza205WmNtY3JLV3d1anhDYlJvODQwdUJxbmdHT2JPdWJQdDd0aldOQ1Rod0x5YlhMYW13cTVSM0RMOXNvZ0puQm16N3M1a2xtUUM2SVducGowUENVWkFNMWFMb25GMG1UaU94b1lnWG5TbFAxV2oxeGFUUkVyWVBZd2tuak5wVGpFRmZPa2NrZkpmMzJr?oc=5",
+      "data": "21/11 21:09"
+    },
     {
       "titulo": "Fluminense disputará sua 12ª Libertadores e fica atrás apenas de Flamengo e Palmeiras nesta década - ge",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT1RYYmFONUx2ODQzWHdmeC0zc0hUZ1liTkVFdTRFTy13NV9JSC13MmVlQU03a3lOUzU3Y0xBbmRwb2JHdWtMX3V5MDNBaDI2N2FqWkloVnVKYUg4c2dldXl1YUduOVRUNUtmYl9QckxYUlgtZGlCWEZESXJrUV9QOWFxaGQwNlhnU1YtRjkxeXlXdHNoSVE1VDVpbnMwbzNvN3pkSGg3cEVHcnlwUzhlSTlBUUIwQklpcmVfdHpfSVJGbEJKZ2JTRWpaZFFsSWo5T0MyckExQ0dmQU5nNmNGeEdBS1d2YWM0bHhfNHFBS3F6OTJwYkkxQk9IbTFid9IBjAJBVV95cUxNMENuMHFIdElnMnNOdUE2QkFpRUg3THRySTFua0hWMjNqRGpQblpDd3FXcUNyT0g3RkU2endGM2c5NTN6TEFTbDBGbjZJNzFHUGtpb0V3VTgwUE40aE11SWx0QVBPYldvQ19QTU82dE9yNHdzX1IyTDNfWjMxYWlGSXpXOFRodkNPRzAyWnRlb3c5aEM2TEswM0VxVHo4aEtCblc2SE53aUFjQXlQRHNMa3hpdTZHbmozeld1bUxPOEZrd3BycFJwNDNkRXVzRWpmeENWLU83Y3NNdVgtd1hrWXJ6ZDB6c3NkVEJ1cVVQNU1CUmhZSG1rZG9mRS1ySWpiQ0xkd0RQRTlsN1VK?oc=5",
       "data": "21/11 14:59"
     },
     {
-      "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWJmd2M3Nm9DdVRTcmVCTVRxbW03cTgyYTNlV3RiT0NRdXR5U3l4QjF5dUtIVTg4T0lNTmFKMXl5NVhGaXEzcGNickhRaGtlT2hQR1N6WUp3aFJleXREbXV2Rm9VM1F1LW1RNEg3cFpZRV90UlVwMkFDZ3FnSlFaNzFwYmdoNEpNZkR0ZmJ5OFQyLURjY2NDbmRnWjNESEZaQThmaG42MWRsdXllSjFVN1JCR0ZNSmc3VTd3?oc=5",
-      "data": "20/11 15:14"
+      "titulo": "Jogador do Fluminense declara apoio ao Boca na final da Copa Sul-Americana: “Sou torcedor” - CartaCapital",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnhpdTVqcVlITUxodFBFUXV1TU9fRUYzb2t6WXRlcU01WkRUYTFkOG1SMjNMdG9hSUU5VTc2cU0wcGZ4S2p1aWQyVEppeTNWVl83SEhOSFJKcmVFT3M2bnlTT29GOUhwRlRyZzJJb1FXMFVJOWo0bTV2Vzk3Z0xxZlpJR3YzbWplV0ZLUE1mZTZWbmhHVmo1U1ZBcDBkQzN3ZEFQaHNBWWJ0dzB1T1IwLVF5ek45aEhmeXVzSUNSQ01MeFlIWDhR?oc=5",
+      "data": "21/11 18:47"
     },
     {
-      "titulo": "Escalação do Fluminense: time deve ter três retornos importantes contra o Mirassol - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOHNIUG04VnBsX3pkblNlbUxiZ0pyTTFHTWdpckFSdF8tWXdBQlZxUDNCWjhOMkNlR0FOYjlEN2l2M2hadU9qZXFXem5nbGRuVWFnT0xSTjh2R2Qyakc5ckozLWlSWEJUYjQ1ZkdLMFY2b2ZhZ1A5QnB5RXN4dW5Ham1uX2xCNWw5U2lreW5uR0lZLVdGOWJscVN2bmJsQnBYUUl1QWNnenBRa2tsd1kxMUlSVUEzUFZzN0VhR1NNN0JXdVhIUzVBRU1fbmlHVklFcUhQU1ZfLTUxcjh3dTZ4TmU1a19hVDjSAfYBQVVfeXFMT1VtcHB5ZnJoVTJUUFEwamgzZlJLcEQzSHBQemR0WFdPZ01pSXdXaEFNeWI5QUlJMmM3VDltbU14WVBDU0lZWDZZWmFNZmpUUVdhd3A3ZV9CdDlOMjFpX0lnM25IZlVSb0R5dmJLclI5eWE3YVhfNkhMQlZGQXdPRFdwM2puWGF0V2UwZWtYZmMyeWtWRnNIX3FWb0tia0tfVkFBTFQ4MER6cU50N1J0a2oxTFlsbGpzOXVfMVJ5anp1MGpfa3Q1V1AwOVBWbXVLTWN0UXJsbUU3bElvVjdXbWtJVFp1UThwU0VjUVhMU1dpS0xXRUx3?oc=5",
-      "data": "20/11 22:48"
-    },
-    {
-      "titulo": "Com golaço contra o São Paulo, Hércules tem ano mais artilheiro e vira peça decisiva no Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmFTTDk0QjJnRkVJX1dxc3lLS1Q4TjVGWHhzejNXWElrWE05azFpcnREZXZWNTdmYm5naXRqd2YwSDU1Z19lYmh1OWI2UGZnRjhSRDlMZU9CQ0t1NXJGMTJ4bXdkS1E2cGgyZ2ZzMl9PeldFX3YxQkkyblNkMk1YcTd6alcxSlhEODlUcHFGZUZjZWhvMzdqS2JqYkY0MHRJdXdUTEpmTW5NQ1RGUU1LU3pia0FsLXJCRnhzdjcxREprbW1LN1BaLVRLell4bkhhTWpqUF9XMThyd0g0SjdnZHZxZlhCN2M0N21OTmdfVXlzUVJKUTFyNzNoWk3SAYsCQVVfeXFMTWgtVndmVVp5elhwdi1UQi00SVB5OUVxUEpPa1ZWdEFzY1FTMkxTVU1lWEppU3NOTG9USjJ3R2diUVJDbVVtOUdWSlhhLTUxS2VXUDhQdFBjTExjUlI4aGZwYWNWWDdOV3NYOXRSM0t6NVVjemF2czdMUGIzRFR2MmV5X2xza05SVlh1SnE3eVYtRGZoT2phZmNmLXJ2U1dpbGNjcGZ3V0pKaFVWc1RvbDkwdGMyQlZpc293bV9tVXpleGZSc01tRHNWUkVHLWx4Q2dmUlBMSVBUaHNsQjUzTERHUHA3T2JqZW1JQ05iYTBkNXlQR1VselMyNEp4OERhLW93TkstTVBjVGpR?oc=5",
-      "data": "21/11 10:59"
-    },
-    {
-      "titulo": "Fluminense garante vaga na Libertadores de 2027 - ge",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakpzS0FFT2Q0SFVNMjhsMkR5djFMbGd3RnBYMEdMcm9Bd0lnZ0xRVzhNTXl3SGplZmZjTjg1TmQtSmNKeXI0eDdqQ3FMam81MDJUVS1lcHBIeUxUSHFxaEJmS1NqTXJuMy15N1UyUENYYVk2MGlsOTRLN2VwS1VOaEkwd2xiTGJQUUJyS1ZkMUpDUkVJN0ZRRHZiTl9GYlc1b1hoZVlVcDljUlIwOFNkQ182RkZWZHFSVkHSAcgBQVVfeXFMTU9jd3BieW9BNmp0RU5rbzZYWGtxYjB1bDcwYXVCN003dnFJd01BdkU5cnZ5NXZyRlg1ZlRGYlJudXNPMkJvdnFXVG5sRTlxVFEyQVFpaGpxS1NiUks0T0UxWHRvN2tidU9KLTQxbG9YU0M4WWhMakd4NzJmamhqMi1QYnRMWlZZTnVYUHdObE1LdGIycVF6X2taTms3blBLUjA5WFNXSGJrZlpxWk02UU1wNU1ncmF3cS1xX1FKVU51dmtJN2VvS3E?oc=5",
-      "data": "20/11 02:27"
+      "titulo": "Fluminense deve recuperar trio titular para buscar vaga direta na Libertadores - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0hTSVdZTXprZTd6MUhKMGswMVFERThZOVJWZnRMZnd6R05tbXZRYkF3Nnd0U082Q1haMF93UEJJNFg5TnY2SlVjNmViYUhGZkEzbkN3QzlTQkNvSUI3MjM2QlFHbEVzcFo2dkFoYUgzZlJWOUdrSmFuTElXcHFMWXdsbExnNDBPcEN6NHlIYko5cVJXVFZVMjBWbldXMFdIQkpVUWU4ZmZjc19hcDh6UFlLdmpJZlJDSVp3?oc=5",
+      "data": "21/11 17:23"
     }
   ],
   "avisos": [
