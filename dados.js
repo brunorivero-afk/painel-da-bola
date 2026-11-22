@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "21/11/2026 21:52",
+  "atualizado_em": "22/11/2026 04:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "SESI-Bauru x Norde Vôlei",
@@ -1140,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "SESC RJ Flamengo x Osasco",
@@ -1150,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "time": "21:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Sesi-Bauru x Sesc Rj Flamengo",
@@ -1162,48 +1162,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 33.4,
-      "temp_min": 24.8,
-      "chance_chuva": 78,
-      "condicao": "Trovoada com granizo"
+      "temp_max": 30.5,
+      "temp_min": 25.5,
+      "chance_chuva": 43,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.1,
-      "temp_min": 24.4,
-      "chance_chuva": 55,
-      "condicao": "Pancadas de chuva fortes"
+      "temp_max": 30.1,
+      "temp_min": 24.8,
+      "chance_chuva": 74,
+      "condicao": "Nublado"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.1,
-      "temp_min": 20.3,
-      "chance_chuva": 88,
-      "condicao": "Trovoada com granizo"
+      "temp_min": 20.2,
+      "chance_chuva": 100,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 28.9,
-      "temp_min": 19.9,
-      "chance_chuva": 88,
-      "condicao": "Garoa"
+      "temp_max": 29.8,
+      "temp_min": 20.6,
+      "chance_chuva": 100,
+      "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
     {
+      "titulo": "Escalação do Fluminense: time deve ter três retornos importantes contra o Mirassol - ge",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOHNIUG04VnBsX3pkblNlbUxiZ0pyTTFHTWdpckFSdF8tWXdBQlZxUDNCWjhOMkNlR0FOYjlEN2l2M2hadU9qZXFXem5nbGRuVWFnT0xSTjh2R2Qyakc5ckozLWlSWEJUYjQ1ZkdLMFY2b2ZhZ1A5QnB5RXN4dW5Ham1uX2xCNWw5U2lreW5uR0lZLVdGOWJscVN2bmJsQnBYUUl1QWNnenBRa2tsd1kxMUlSVUEzUFZzN0VhR1NNN0JXdVhIUzVBRU1fbmlHVklFcUhQU1ZfLTUxcjh3dTZ4TmU1a19hVDjSAfYBQVVfeXFMT1VtcHB5ZnJoVTJUUFEwamgzZlJLcEQzSHBQemR0WFdPZ01pSXdXaEFNeWI5QUlJMmM3VDltbU14WVBDU0lZWDZZWmFNZmpUUVdhd3A3ZV9CdDlOMjFpX0lnM25IZlVSb0R5dmJLclI5eWE3YVhfNkhMQlZGQXdPRFdwM2puWGF0V2UwZWtYZmMyeWtWRnNIX3FWb0tia0tfVkFBTFQ4MER6cU50N1J0a2oxTFlsbGpzOXVfMVJ5anp1MGpfa3Q1V1AwOVBWbXVLTWN0UXJsbUU3bElvVjdXbWtJVFp1UThwU0VjUVhMU1dpS0xXRUx3?oc=5",
+      "data": "20/11 22:48"
+    },
+    {
       "titulo": "'Não pensei duas vezes', conta Guga sobre fator emocional em acerto - O Dia",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEswdUQ3QXNWN3NvQUFiaS1vYVVQcHIyMHV1V01wci1UaGwxV0Y0MEZuYUN1Y3RzVkdUUFVtRER2OGhOMm9rUE05d1RLWV9UNHBOV2VJZmVHUXZCZE1CUGR5MUdUUzhuWk43TnJGN28zZXNob05OdXlrTFRDX0dKbWw4N1pudEpXNXhlcExRTWJCc3B5ZjVLOUNsN25LU21OZUZRMVBCc2Z5Ym8wUVAzNm1CclhBYTE3aWkzZ3hQYTVueUloV2fSAcsBQVVfeXFMTkp0QWdTMjlzZWRJZUdHMDlEMWhiOTF5bUdpM00tdWVrenhzeWlhRUN6cW55a3EtY1czV3NHc0VjWTJ1by02SHBLQUlYQjVrVnNoWGhCcTJucWlNamlOQWFUQlBEZ0dNVEZDNGZxLTlfdjBvWWVQYm8yTF9FaWhfV2laS0p3b2VPWmF4NHFaVVpCMFpkODJ6UUVtTHZxMTJSelN3aFdKSk45SDhOaUxQVkdNbDc1N3ppZ2ltVko1NVNBNXdBc0ZnbTdhTHc?oc=5",
       "data": "21/11 23:44"
-    },
-    {
-      "titulo": "Racing entra na disputa por Germán Cano no Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOajZ4M3dxUzRjdUhZSnJzX1NoeHMzMU5PN1A0cjZ2VzZNV0VKNzgyczJvWUdPdlJFYnJjenJOdVZjNnJmWGV3cVBnTkhhUnEza205WmNtY3JLV3d1anhDYlJvODQwdUJxbmdHT2JPdWJQdDd0aldOQ1Rod0x5YlhMYW13cTVSM0RMOXNvZ0puQm16N3M1a2xtUUM2SVducGowUENVWkFNMWFMb25GMG1UaU94b1lnWG5TbFAxV2oxeGFUUkVyWVBZd2tuak5wVGpFRmZPa2NrZkpmMzJr?oc=5",
-      "data": "21/11 21:09"
-    },
-    {
-      "titulo": "Fluminense disputará sua 12ª Libertadores e fica atrás apenas de Flamengo e Palmeiras nesta década - ge",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT1RYYmFONUx2ODQzWHdmeC0zc0hUZ1liTkVFdTRFTy13NV9JSC13MmVlQU03a3lOUzU3Y0xBbmRwb2JHdWtMX3V5MDNBaDI2N2FqWkloVnVKYUg4c2dldXl1YUduOVRUNUtmYl9QckxYUlgtZGlCWEZESXJrUV9QOWFxaGQwNlhnU1YtRjkxeXlXdHNoSVE1VDVpbnMwbzNvN3pkSGg3cEVHcnlwUzhlSTlBUUIwQklpcmVfdHpfSVJGbEJKZ2JTRWpaZFFsSWo5T0MyckExQ0dmQU5nNmNGeEdBS1d2YWM0bHhfNHFBS3F6OTJwYkkxQk9IbTFid9IBjAJBVV95cUxNMENuMHFIdElnMnNOdUE2QkFpRUg3THRySTFua0hWMjNqRGpQblpDd3FXcUNyT0g3RkU2endGM2c5NTN6TEFTbDBGbjZJNzFHUGtpb0V3VTgwUE40aE11SWx0QVBPYldvQ19QTU82dE9yNHdzX1IyTDNfWjMxYWlGSXpXOFRodkNPRzAyWnRlb3c5aEM2TEswM0VxVHo4aEtCblc2SE53aUFjQXlQRHNMa3hpdTZHbmozeld1bUxPOEZrd3BycFJwNDNkRXVzRWpmeENWLU83Y3NNdVgtd1hrWXJ6ZDB6c3NkVEJ1cVVQNU1CUmhZSG1rZG9mRS1ySWpiQ0xkd0RQRTlsN1VK?oc=5",
-      "data": "21/11 14:59"
     },
     {
       "titulo": "Jogador do Fluminense declara apoio ao Boca na final da Copa Sul-Americana: “Sou torcedor” - CartaCapital",
@@ -1211,9 +1206,14 @@ window.PAINEL_DATA = {
       "data": "21/11 18:47"
     },
     {
-      "titulo": "Fluminense deve recuperar trio titular para buscar vaga direta na Libertadores - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0hTSVdZTXprZTd6MUhKMGswMVFERThZOVJWZnRMZnd6R05tbXZRYkF3Nnd0U082Q1haMF93UEJJNFg5TnY2SlVjNmViYUhGZkEzbkN3QzlTQkNvSUI3MjM2QlFHbEVzcFo2dkFoYUgzZlJWOUdrSmFuTElXcHFMWXdsbExnNDBPcEN6NHlIYko5cVJXVFZVMjBWbldXMFdIQkpVUWU4ZmZjc19hcDh6UFlLdmpJZlJDSVp3?oc=5",
-      "data": "21/11 17:23"
+      "titulo": "Fluminense: jornalista fala o que pensa sobre Thiago Silva - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb0lhc3ozamgtWW9RT2RfVk5TQ1VBOTc2SzBuMU5ITG5CakxFRkhHM19ZUFBidUdhNTFBdU1sb2d3cVJOYUJtRFJUVmVFcy1KLVUwSTV0M1MtYi1iek1KY04wdFd1Sno2Q1BQdXcxZEZURUx4dUs1NTR0VWpNNU8tZ2h4NjF2aGdzME0xaE5jR2tVcFAtRlFWUnBJcHVHZUcwSlRvMDExeUhFdzJ4UzhNUEQweDMxbDlSUC1Ib3lISGF2Nmh2OVE0Y25mdjhWTUVNQzR4ZzZCdnh3S0VaMTZPQlJn?oc=5",
+      "data": "21/11 15:21"
+    },
+    {
+      "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWJmd2M3Nm9DdVRTcmVCTVRxbW03cTgyYTNlV3RiT0NRdXR5U3l4QjF5dUtIVTg4T0lNTmFKMXl5NVhGaXEzcGNickhRaGtlT2hQR1N6WUp3aFJleXREbXV2Rm9VM1F1LW1RNEg3cFpZRV90UlVwMkFDZ3FnSlFaNzFwYmdoNEpNZkR0ZmJ5OFQyLURjY2NDbmRnWjNESEZaQThmaG42MWRsdXllSjFVN1JCR0ZNSmc3VTd3?oc=5",
+      "data": "20/11 15:14"
     }
   ],
   "avisos": [
