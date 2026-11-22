@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/11/2026 12:52",
+  "atualizado_em": "22/11/2026 18:28",
   "jogos": [
     {
       "sport": "futebol",
@@ -1172,58 +1172,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.8,
-      "temp_min": 25.8,
+      "temp_max": 31.3,
+      "temp_min": 24.6,
       "chance_chuva": 45,
-      "condicao": "Nublado"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.9,
+      "temp_max": 31.1,
       "temp_min": 24.8,
       "chance_chuva": 64,
-      "condicao": "Garoa fraca"
-    },
-    {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.4,
-      "temp_min": 19.7,
-      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
+      "cidade": "Itaipava (Petrópolis)",
+      "temp_max": 29.0,
+      "temp_min": 19.7,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
+    },
+    {
       "cidade": "Teresópolis",
-      "temp_max": 29.3,
-      "temp_min": 20.2,
+      "temp_max": 29.1,
+      "temp_min": 20.4,
       "chance_chuva": 100,
       "condicao": "Trovoada com granizo"
     }
   ],
   "noticias": [
     {
-      "titulo": "Flu vence, pega vaga na Libertadores e faz São Paulo ser vaiado no Morumbis - UOL",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGtqTm9xVXNob2c4YjM2bXdIOHl3QXc5ZXJ6Tkk2clNmN0lDVW9HS1NROVNJb2ZrOFpYMW0ycVN6UnVqVmpDYVcwS1UxSXU4dW5teTJRR3dJLWtaRThzRTVGY1QtZnlYMDNXb1UzSUdtNVJyUUpoOFJlNlppYk1vQUlGMFpJZkxjY3NQU01GR3JKWllCRkUzc1hwTnFvNmxPelA1bHBKRHlYSm41S0dNNGtlMWIwbzZiUDNwSUxpY1dmTnFsc21raHZ5NVk?oc=5",
-      "data": "20/11 02:27"
+      "titulo": "Fluminense x Mirassol: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1UxUjZoZXdrWmZXTHByNm1UQ0hzbmJnMFlrdFhNdVo0SExtRG51QTNrWE1GS3dQTEFPTS1kTjJIazJpV2NsaXJYdDRuU2FPc2VXS3lvQVd2X1diems3OUlibWdsU3ZJTjNfbDJ1Tk40ak05YmliLU5xVkxNNjNXR0FmNDVzMWU4UWoyMkpIdC1ScXBvX0lOYXdRZzNvQzZVSUhWOXlIUXlqOFB4a092YnYyM0d3S1M1T3d2b3Vxc1lmdWt5NXJiRjc4Y0d2a3ljWFN6dkVPSjHSAecBQVVfeXFMTXZrWTNybG9xTG9wMDdiY1R3d0tTT3RzYlNUS053LTJSQnNWZmNRUGxzdFRNRTZkNG9PZ2xwUmE0b3NzV0RtVHV4T3BwdkFEeUJnMzBKTHNJd0tLV2lpZDBoRFZhMXV5Tlp2TXQ5d3ptSmNDTDhqRi1rRGxQbDNxS3RvdFBmdlYwSVVqTVBkVVRzbGFqblczb2JZM0NuMmNoeUtwNjFmWUN4STdoaWRkU0hpSzZqY3Yxd0hZbjdUcVJKdzJ5ekhTZHMyeGdWU293NkJ2X0dKS3IxOVBXV2hZRE1CU3ZBc0pR?oc=5",
+      "data": "22/11 07:00"
     },
     {
-      "titulo": "Vendas 'badaladas' podem render mais de 100 milhões ao Fluminense - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaEFqS1NsWUZIMVhvbjVsNnlfNVEtaUY3dTdnTTBENTBMcEhTSE1meHpuYVRzOTJDUUk4MnRNZE9QaUdaUTlsRTdkZ2JXS3BPNVlXUGxST2twNEtvd2RUbU5hQlRrTGNOODUtU2VzTHYyUW9BdlNwanMyS0Vqbk5oV2FKOFViM2pKdTdXMHNULUJncXB5bTB2S1JrQWd4N0lJT2tMdDdNT3lLUV9oTVBjeW5UTkF5S3VnanQzWTNEcDhCSlNSLVR3enlqdk5uZ0xPU1FVbHRCX1p1eFRiSjRub19sdVBLNTZ4MlE?oc=5",
-      "data": "22/11 13:41"
+      "titulo": "Ao vivo: Fluminense x Mirassol | Rodada 36 | Campeonato Brasileiro - ge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmFKRjM0UGU4US1rM1Q1Ym5OTjN6aUR2UTFwR1ZiblNOblR1YmEyX01EWGwtbmtXNWJQV2pvQXRHTnJuc2lyQXp4Ql8zTGhQVFh6dmpCRFlMSWNQUURvYnBXcnRqelYxTWxrQUhKR1UxQmVURW1JamlwbDc0aXdodzU2YjFZVTU0dnRtS1VVakRxTFVwUy01Qw?oc=5",
+      "data": "21/11 18:06"
     },
     {
-      "titulo": "Consciência Negra: Fluminense lança patch especial e vai leiloar camisas para arrecadar verba para projetos de educação antirracista — Fluminense Football Club - Fluminense Football Club",
+      "titulo": "ONU faz parceria com Fluminense para promover Agenda 2030 - Poder360",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2J4aUlhTTBQcm9Fdko2SzFLRnI0NVB4WUI2b0VMSUQtN2dKTml6N0hjOVJOVk1yNEtFMmRmSW9Vd3c1RDB0VlZ3MTRndFY2Z2Y4Q19tZnVwNUM0NWRkMTRsMFlqOGttWmN5SnI5MlpIUnBhcFdqS01aWXFtWHYwRmw5eS1FM3pRY00taElORExWeGgyRHdibGo2bkM1ejV4VjZzYg?oc=5",
+      "data": "22/11 10:18"
+    },
+    {
+      "titulo": "Consciência Negra: Fluminense lança patch especial e vai leiloar camisas para arrecadar verba para projetos de educação antirracista - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNDBQeW02LXliME9hQ1ZzWklWejlHWlE1TnRIbV9oby1uZDFiS2dGbmNubG5Mb0FLMm9HY2VtcGs4S0hXZE12NXI2YVByTWQ2d0NaM25hdndqdUhGLWd6cHFBVndtaWVsYkRoR1J0SlVnVFl3WW91YmcwOExMYmh5dV9YSGpydmtHMTdyQVh1dlE3TnhxNXpVQnJpWUlyb0N3THhqZ1R5TDRCTldIZE45STFLVkkzUmlzb2p1a1ZLdExfejdkU1RYZERPNlFZaGpqdElPbGFTSnlEVnhBZHVoUkZ0Ul9ibHlDTmFZMzJrbWRzWWhKZ1RzZUpKOUxIQQ?oc=5",
       "data": "22/11 15:04"
     },
     {
-      "titulo": "Escalação do Fluminense: time deve ter três retornos importantes contra o Mirassol - ge",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOHNIUG04VnBsX3pkblNlbUxiZ0pyTTFHTWdpckFSdF8tWXdBQlZxUDNCWjhOMkNlR0FOYjlEN2l2M2hadU9qZXFXem5nbGRuVWFnT0xSTjh2R2Qyakc5ckozLWlSWEJUYjQ1ZkdLMFY2b2ZhZ1A5QnB5RXN4dW5Ham1uX2xCNWw5U2lreW5uR0lZLVdGOWJscVN2bmJsQnBYUUl1QWNnenBRa2tsd1kxMUlSVUEzUFZzN0VhR1NNN0JXdVhIUzVBRU1fbmlHVklFcUhQU1ZfLTUxcjh3dTZ4TmU1a19hVDjSAfYBQVVfeXFMT1VtcHB5ZnJoVTJUUFEwamgzZlJLcEQzSHBQemR0WFdPZ01pSXdXaEFNeWI5QUlJMmM3VDltbU14WVBDU0lZWDZZWmFNZmpUUVdhd3A3ZV9CdDlOMjFpX0lnM25IZlVSb0R5dmJLclI5eWE3YVhfNkhMQlZGQXdPRFdwM2puWGF0V2UwZWtYZmMyeWtWRnNIX3FWb0tia0tfVkFBTFQ4MER6cU50N1J0a2oxTFlsbGpzOXVfMVJ5anp1MGpfa3Q1V1AwOVBWbXVLTWN0UXJsbUU3bElvVjdXbWtJVFp1UThwU0VjUVhMU1dpS0xXRUx3?oc=5",
-      "data": "20/11 22:48"
-    },
-    {
-      "titulo": "Fluminense x Mirassol: onde assistir, escalações e arbitragem - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekF3dXVUVlFsYW5ZZGhiVy1nZkh6a1hBSENJMXdyaFhMR0FpN1R4aGNhSVBBRC1TUTExMWVpYUJEVEpXLUZGNS1FTUhuT3dqR2E4MUFjREItWjFVWk16NkhEODhpQkUzeGZfa1BKSERIMkxvay1IOTk0blp4YXFpYnJaZjFlQVRSRXJMcHdUWHhkNEJpSFdHSWlNSHdjbDd6NFVwOHFnR2pBdVJ2UWNSZDZrdmdqQ1ZiWlpNUFI0djVqd19LbHJXTlpPZ0Q3LWx2ZjJJN3hxc3hIWlVDRWE5ZmZqNUY?oc=5",
-      "data": "21/11 17:31"
+      "titulo": "'Não pensei duas vezes', conta Guga sobre fator emocional em acerto - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEswdUQ3QXNWN3NvQUFiaS1vYVVQcHIyMHV1V01wci1UaGwxV0Y0MEZuYUN1Y3RzVkdUUFVtRER2OGhOMm9rUE05d1RLWV9UNHBOV2VJZmVHUXZCZE1CUGR5MUdUUzhuWk43TnJGN28zZXNob05OdXlrTFRDX0dKbWw4N1pudEpXNXhlcExRTWJCc3B5ZjVLOUNsN25LU21OZUZRMVBCc2Z5Ym8wUVAzNm1CclhBYTE3aWkzZ3hQYTVueUloV2fSAcsBQVVfeXFMTkp0QWdTMjlzZWRJZUdHMDlEMWhiOTF5bUdpM00tdWVrenhzeWlhRUN6cW55a3EtY1czV3NHc0VjWTJ1by02SHBLQUlYQjVrVnNoWGhCcTJucWlNamlOQWFUQlBEZ0dNVEZDNGZxLTlfdjBvWWVQYm8yTF9FaWhfV2laS0p3b2VPWmF4NHFaVVpCMFpkODJ6UUVtTHZxMTJSelN3aFdKSk45SDhOaUxQVkdNbDc1N3ppZ2ltVko1NVNBNXdBc0ZnbTdhTHc?oc=5",
+      "data": "21/11 23:44"
     }
   ],
   "avisos": [
