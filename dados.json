@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "22/11/2026 23:09",
+  "atualizado_em": "23/11/2026 08:42",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "SESI-Bauru x Norde Vôlei",
@@ -1140,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "SESC RJ Flamengo x Osasco",
@@ -1150,7 +1150,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Fluminense",
@@ -1160,7 +1160,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Mackenzie",
@@ -1172,29 +1172,29 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.3,
-      "temp_min": 24.6,
-      "chance_chuva": 45,
-      "condicao": "Trovoada"
+      "temp_max": 30.2,
+      "temp_min": 24.3,
+      "chance_chuva": 77,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 31.1,
-      "temp_min": 24.8,
-      "chance_chuva": 64,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 30.4,
+      "temp_min": 25.0,
+      "chance_chuva": 80,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 29.0,
-      "temp_min": 19.7,
+      "temp_max": 28.9,
+      "temp_min": 19.6,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.1,
-      "temp_min": 20.4,
+      "temp_max": 29.5,
+      "temp_min": 19.7,
       "chance_chuva": 100,
       "condicao": "Trovoada com granizo"
     }
@@ -1206,14 +1206,9 @@
       "data": "22/11 07:00"
     },
     {
-      "titulo": "Felipe Melo elogia trabalho de Marcão no Fluminense: \"Conhece a base\" - ge",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXV0MUxjck1nejd4bVZReDJCYnFDSXRHclJBN2F4a19ydW9iREEzdTcyZHFxeXJsNlZpUC1CSFdSanFVNmdlMUFLM1dwNks3WDc5T2R1WENOcWN4cURtYlhWemp5c01KZm5lTmU5bVlrMGcxVVdQMWY0U3FuaXBMamRvd3gzMEZtZDE3VDNQZEF2MThWZkhBNUExdzVnSVFDcDROVk92SUE5Nkh6dXJaRU1tYTNPN0dDZzZBZTh3VVE3MDdWYjl1akZpaEdsQW5FbFVn0gHiAUFVX3lxTE1qLXA3MU5rOGIyaVlocndocGZpVUpQRlpnUDh1dlNPZU00TnQtY2pxQXR4UVJoV3pEVGRXa1lfYUFyZGpxS0tIbWNleXRyYUdMNDNybTNnSEZLT1VVWmtWY014bk42b3lCdnRxVEdVZllidGg4eVA2eU42VmROQnR4amM0aXE2czFlTjh3U0hINGpEaWhqSjdieXZLbk0yeXhDQVN2NTlZZi13QTJVb3VqVkRpa3BUYTZvamZIclZsUzZwLTBiZVN1d08yRU9BRHNyY3RwaERmbVRQWlVoMTVQYXc?oc=5",
-      "data": "23/11 01:19"
-    },
-    {
-      "titulo": "Fluminense vence o Mirassol com gol de Riquelme no Maracanã - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXNfN1Z3eWE1b2FISElNSHJLT1NQa1NsUjJHWGhHV2ZZQ1owcXh4clE1UFBmcWtxUXZCYm1OZ05NYWY5dDJGRVpYdnQ4Wm5JenIwVWdXbTQxWWRuVG1QRmdMckNlSThoTU1CeXpLVXBreENfUW40Z3ZXT2toeC1PdnkxOFNxa0xQWXExSkJLRmJMcVV6RnZhNVZNQmZQdw?oc=5",
-      "data": "23/11 00:00"
+      "titulo": "Você sabia? Fluminense ainda não perdeu no Brasileirão com Thiago Silva em campo em 2026 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZlBsZHlsQkJFQ2FqdTUySVYwNnpwcHNxNGxXZFJMSW9kRlNWRlZsUS1oWmF2Q3lodVB6X0lwbDFlMDlDamFTTlduenMyeTVJYkNGSllhMm00bjVJMHpwR2EyMFBGR2tFZkJrMWluS0RYR1ZjaHBWcTRWTjg4WEUzZXM3TDVLT1pscXFOMHN3cWNWbjdYNXNyVGpHb1h6bDNlNXlEM3VHLTVMODdkN0lib2FtaU5WNVVqSUt2Q2dnc3VGdk14ZDdOSzFfdUE2XzRBOEhTLS11MFFoNGNIOXEybmtPYWxsYXB6VWVIaGFFc9IB_gFBVV95cUxPZ09ULVVTSWlNMTJiU05nbDZrakJIRVdXRmtPNkVlUDVkYUpmaEVZR3Rmcm5mdmt6NWpYM1VRbHdQVVNndW1DMHlzU0stVlp5NjhreHZwby1MaXNheEFYb0lSZTZZdUVTUTVxRTBTVlpjWndqdEVFUTFLWUlSYzVwMnhfVWtIWG9HTVV4N0NUZWFPdklxTG9xTUl3QlJFWTAzX2QtV3lrMFV3NTY5TmRKOEZQb0sxZmNFMXhnZm1hYUtvRzNtOEN6b0x6VE5TQ1VPS1dROTctdEdHREFRUFJzc0V5OEdiajY1UnFrZUstMUFjeDRFYWJrbVRSMEhFQQ?oc=5",
+      "data": "22/11 13:00"
     },
     {
       "titulo": "São Paulo 0 x 1 Fluminense | Campeonato Brasileiro: melhores momentos - ge",
@@ -1221,17 +1216,18 @@
       "data": "20/11 03:18"
     },
     {
-      "titulo": "Marcão define escalação do Fluminense para enfrentar o Mirassol - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTV0VGM1a2tfRGlTVkJfeGR5MGJTSGJJU2hDSFFXdjNEV1pXcFpOd1FKX1UxX1NvYkVOaVJ0NG1Bd213ajNxYk5ZTXFtcVNuU0k4TVlTZmMtNFVQMWdNMWdJVWgwb1I5TlpYRFZFN1A2MTFHNWhwRnk4YUkxeGhqdmdYbmIwT2ZwZ0hrUDJlN3Y5STJKSy1nNjl0T2xKZ3NuUXA3UmM1OA?oc=5",
-      "data": "22/11 20:36"
+      "titulo": "São Paulo x Fluminense no Brasileirão: onde assistir, horário e escalação - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOF9oVnhPVnpva2dZcHBmbTByRGc5TE5GUGY2Slc5eDAwVVhzYWtiREVHWXVWWXY4bk1Kc0puZEM1VEdsSDlwM1BOTDc0aHZaNzZqMktianp2U29FYzdrWlhZS2hDLXpUQXM0U1dtQzU0Mk5IeUhkQmtSaW1RajFnaUEtVGxRNzhLR185Ul9JRlVSaWthRWlWYV9OdURxX3Fwd1JqQ3dsNE5OVms0RTE2aUo2UW85Nk3SAbwBQVVfeXFMTWhWSXo1T3lXWlJBY3FvNWZIbkNkSm5iSXFmV2JmZnVoWnJWVlc5X1hDWlVremNnYUxYUXkwNmhGRExGYTRGSzdKZUhteTBSRHRFTHJXU2I5N1pENXJfTjlHNHFKZkRENXBlc2V6Z3B2RkM3MXFQSG5ZTmFiYWdaVFVENXZqTVgtWlRuajJtLTgyUm8zeFVqWXdCSjh2c084Rlc3anZKdWczM19JcE1mTGdwYXd6SGdBYm9Lbjc?oc=5",
+      "data": "19/11 23:30"
+    },
+    {
+      "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWJmd2M3Nm9DdVRTcmVCTVRxbW03cTgyYTNlV3RiT0NRdXR5U3l4QjF5dUtIVTg4T0lNTmFKMXl5NVhGaXEzcGNickhRaGtlT2hQR1N6WUp3aFJleXREbXV2Rm9VM1F1LW1RNEg3cFpZRV90UlVwMkFDZ3FnSlFaNzFwYmdoNEpNZkR0ZmJ5OFQyLURjY2NDbmRnWjNESEZaQThmaG42MWRsdXllSjFVN1JCR0ZNSmc3VTd3?oc=5",
+      "data": "20/11 15:14"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar clima de Rio de Janeiro: Response status code does not indicate success: 429 (Too Many Requests).",
-    "Falha ao buscar clima de Araruama: Response status code does not indicate success: 429 (Too Many Requests).",
-    "Falha ao buscar clima de Itaipava (Petrópolis): Response status code does not indicate success: 429 (Too Many Requests).",
-    "Falha ao buscar clima de Teresópolis: Response status code does not indicate success: 429 (Too Many Requests)."
+    "Futebol: mantendo dados do último sucesso."
   ]
 }
