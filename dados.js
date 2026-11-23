@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "22/11/2026 18:28",
+  "atualizado_em": "22/11/2026 23:09",
   "jogos": [
     {
       "sport": "futebol",
@@ -1206,28 +1206,32 @@ window.PAINEL_DATA = {
       "data": "22/11 07:00"
     },
     {
-      "titulo": "Ao vivo: Fluminense x Mirassol | Rodada 36 | Campeonato Brasileiro - ge",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmFKRjM0UGU4US1rM1Q1Ym5OTjN6aUR2UTFwR1ZiblNOblR1YmEyX01EWGwtbmtXNWJQV2pvQXRHTnJuc2lyQXp4Ql8zTGhQVFh6dmpCRFlMSWNQUURvYnBXcnRqelYxTWxrQUhKR1UxQmVURW1JamlwbDc0aXdodzU2YjFZVTU0dnRtS1VVakRxTFVwUy01Qw?oc=5",
-      "data": "21/11 18:06"
+      "titulo": "Felipe Melo elogia trabalho de Marcão no Fluminense: \"Conhece a base\" - ge",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXV0MUxjck1nejd4bVZReDJCYnFDSXRHclJBN2F4a19ydW9iREEzdTcyZHFxeXJsNlZpUC1CSFdSanFVNmdlMUFLM1dwNks3WDc5T2R1WENOcWN4cURtYlhWemp5c01KZm5lTmU5bVlrMGcxVVdQMWY0U3FuaXBMamRvd3gzMEZtZDE3VDNQZEF2MThWZkhBNUExdzVnSVFDcDROVk92SUE5Nkh6dXJaRU1tYTNPN0dDZzZBZTh3VVE3MDdWYjl1akZpaEdsQW5FbFVn0gHiAUFVX3lxTE1qLXA3MU5rOGIyaVlocndocGZpVUpQRlpnUDh1dlNPZU00TnQtY2pxQXR4UVJoV3pEVGRXa1lfYUFyZGpxS0tIbWNleXRyYUdMNDNybTNnSEZLT1VVWmtWY014bk42b3lCdnRxVEdVZllidGg4eVA2eU42VmROQnR4amM0aXE2czFlTjh3U0hINGpEaWhqSjdieXZLbk0yeXhDQVN2NTlZZi13QTJVb3VqVkRpa3BUYTZvamZIclZsUzZwLTBiZVN1d08yRU9BRHNyY3RwaERmbVRQWlVoMTVQYXc?oc=5",
+      "data": "23/11 01:19"
     },
     {
-      "titulo": "ONU faz parceria com Fluminense para promover Agenda 2030 - Poder360",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ2J4aUlhTTBQcm9Fdko2SzFLRnI0NVB4WUI2b0VMSUQtN2dKTml6N0hjOVJOVk1yNEtFMmRmSW9Vd3c1RDB0VlZ3MTRndFY2Z2Y4Q19tZnVwNUM0NWRkMTRsMFlqOGttWmN5SnI5MlpIUnBhcFdqS01aWXFtWHYwRmw5eS1FM3pRY00taElORExWeGgyRHdibGo2bkM1ejV4VjZzYg?oc=5",
-      "data": "22/11 10:18"
+      "titulo": "Fluminense vence o Mirassol com gol de Riquelme no Maracanã - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXNfN1Z3eWE1b2FISElNSHJLT1NQa1NsUjJHWGhHV2ZZQ1owcXh4clE1UFBmcWtxUXZCYm1OZ05NYWY5dDJGRVpYdnQ4Wm5JenIwVWdXbTQxWWRuVG1QRmdMckNlSThoTU1CeXpLVXBreENfUW40Z3ZXT2toeC1PdnkxOFNxa0xQWXExSkJLRmJMcVV6RnZhNVZNQmZQdw?oc=5",
+      "data": "23/11 00:00"
     },
     {
-      "titulo": "Consciência Negra: Fluminense lança patch especial e vai leiloar camisas para arrecadar verba para projetos de educação antirracista - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNDBQeW02LXliME9hQ1ZzWklWejlHWlE1TnRIbV9oby1uZDFiS2dGbmNubG5Mb0FLMm9HY2VtcGs4S0hXZE12NXI2YVByTWQ2d0NaM25hdndqdUhGLWd6cHFBVndtaWVsYkRoR1J0SlVnVFl3WW91YmcwOExMYmh5dV9YSGpydmtHMTdyQVh1dlE3TnhxNXpVQnJpWUlyb0N3THhqZ1R5TDRCTldIZE45STFLVkkzUmlzb2p1a1ZLdExfejdkU1RYZERPNlFZaGpqdElPbGFTSnlEVnhBZHVoUkZ0Ul9ibHlDTmFZMzJrbWRzWWhKZ1RzZUpKOUxIQQ?oc=5",
-      "data": "22/11 15:04"
+      "titulo": "São Paulo 0 x 1 Fluminense | Campeonato Brasileiro: melhores momentos - ge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXhfYjlxRk5DOG0zMXk1ZGFla1lmMFpxVlZpS2xBR09mbGg0QkV0VWtrcFNkREczUVFGd3dZWjNGbmQtMmJEMWZDVHlVZkNEbnJSTEg0Mi1tWTNQSEMtQ29fRXBLNThyc0wwd3JVVG5tYlQ4eE9wRk1sNElOTzZhVjdxRVFJN2xPWG1iUzBvN01rMHA2Tmx5eC1B?oc=5",
+      "data": "20/11 03:18"
     },
     {
-      "titulo": "'Não pensei duas vezes', conta Guga sobre fator emocional em acerto - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEswdUQ3QXNWN3NvQUFiaS1vYVVQcHIyMHV1V01wci1UaGwxV0Y0MEZuYUN1Y3RzVkdUUFVtRER2OGhOMm9rUE05d1RLWV9UNHBOV2VJZmVHUXZCZE1CUGR5MUdUUzhuWk43TnJGN28zZXNob05OdXlrTFRDX0dKbWw4N1pudEpXNXhlcExRTWJCc3B5ZjVLOUNsN25LU21OZUZRMVBCc2Z5Ym8wUVAzNm1CclhBYTE3aWkzZ3hQYTVueUloV2fSAcsBQVVfeXFMTkp0QWdTMjlzZWRJZUdHMDlEMWhiOTF5bUdpM00tdWVrenhzeWlhRUN6cW55a3EtY1czV3NHc0VjWTJ1by02SHBLQUlYQjVrVnNoWGhCcTJucWlNamlOQWFUQlBEZ0dNVEZDNGZxLTlfdjBvWWVQYm8yTF9FaWhfV2laS0p3b2VPWmF4NHFaVVpCMFpkODJ6UUVtTHZxMTJSelN3aFdKSk45SDhOaUxQVkdNbDc1N3ppZ2ltVko1NVNBNXdBc0ZnbTdhTHc?oc=5",
-      "data": "21/11 23:44"
+      "titulo": "Marcão define escalação do Fluminense para enfrentar o Mirassol - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTV0VGM1a2tfRGlTVkJfeGR5MGJTSGJJU2hDSFFXdjNEV1pXcFpOd1FKX1UxX1NvYkVOaVJ0NG1Bd213ajNxYk5ZTXFtcVNuU0k4TVlTZmMtNFVQMWdNMWdJVWgwb1I5TlpYRFZFN1A2MTFHNWhwRnk4YUkxeGhqdmdYbmIwT2ZwZ0hrUDJlN3Y5STJKSy1nNjl0T2xKZ3NuUXA3UmM1OA?oc=5",
+      "data": "22/11 20:36"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar clima de Rio de Janeiro: Response status code does not indicate success: 429 (Too Many Requests).",
+    "Falha ao buscar clima de Araruama: Response status code does not indicate success: 429 (Too Many Requests).",
+    "Falha ao buscar clima de Itaipava (Petrópolis): Response status code does not indicate success: 429 (Too Many Requests).",
+    "Falha ao buscar clima de Teresópolis: Response status code does not indicate success: 429 (Too Many Requests)."
   ]
 };
