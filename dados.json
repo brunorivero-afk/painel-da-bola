@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/11/2026 08:42",
+  "atualizado_em": "23/11/2026 20:17",
   "jogos": [
     {
       "sport": "futebol",
@@ -1172,31 +1172,31 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 30.2,
-      "temp_min": 24.3,
-      "chance_chuva": 77,
+      "temp_max": 32.4,
+      "temp_min": 24.4,
+      "chance_chuva": 76,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.4,
-      "temp_min": 25.0,
-      "chance_chuva": 80,
+      "temp_max": 30.2,
+      "temp_min": 25.1,
+      "chance_chuva": 63,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.9,
+      "temp_max": 28.7,
       "temp_min": 19.6,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "chance_chuva": 97,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.5,
+      "temp_max": 29.4,
       "temp_min": 19.7,
-      "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "chance_chuva": 99,
+      "condicao": "Trovoada"
     }
   ],
   "noticias": [
@@ -1206,28 +1206,28 @@
       "data": "22/11 07:00"
     },
     {
-      "titulo": "Você sabia? Fluminense ainda não perdeu no Brasileirão com Thiago Silva em campo em 2026 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZlBsZHlsQkJFQ2FqdTUySVYwNnpwcHNxNGxXZFJMSW9kRlNWRlZsUS1oWmF2Q3lodVB6X0lwbDFlMDlDamFTTlduenMyeTVJYkNGSllhMm00bjVJMHpwR2EyMFBGR2tFZkJrMWluS0RYR1ZjaHBWcTRWTjg4WEUzZXM3TDVLT1pscXFOMHN3cWNWbjdYNXNyVGpHb1h6bDNlNXlEM3VHLTVMODdkN0lib2FtaU5WNVVqSUt2Q2dnc3VGdk14ZDdOSzFfdUE2XzRBOEhTLS11MFFoNGNIOXEybmtPYWxsYXB6VWVIaGFFc9IB_gFBVV95cUxPZ09ULVVTSWlNMTJiU05nbDZrakJIRVdXRmtPNkVlUDVkYUpmaEVZR3Rmcm5mdmt6NWpYM1VRbHdQVVNndW1DMHlzU0stVlp5NjhreHZwby1MaXNheEFYb0lSZTZZdUVTUTVxRTBTVlpjWndqdEVFUTFLWUlSYzVwMnhfVWtIWG9HTVV4N0NUZWFPdklxTG9xTUl3QlJFWTAzX2QtV3lrMFV3NTY5TmRKOEZQb0sxZmNFMXhnZm1hYUtvRzNtOEN6b0x6VE5TQ1VPS1dROTctdEdHREFRUFJzc0V5OEdiajY1UnFrZUstMUFjeDRFYWJrbVRSMEhFQQ?oc=5",
-      "data": "22/11 13:00"
+      "titulo": "Fluminense recebe 68º Encontro da Associação Brasileira de Executivos de Futebol - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSkdaQ0N6LW5wdVd1T29GYi1wdUVhWUFHc2pmU2JkNzJ3Q1JsSUNPQVAwVzRBX1ExWE5RZ2s5Y2xYTnh2akZIeWR1dEVvVnh4elhoeUZIRFZkNHFXOWNSSTN5NzQ0TU1kRUZtVmNuWTUwek14UXdJUjVmcmRkN3NLdDNNQU5PU0RiLU1yY1FrU3oyX3RiTU1jMzJGMEJDVWZwNzlEMmlSdFc0dG1zVGxIUTF0ZFNmMW9X?oc=5",
+      "data": "23/11 22:15"
     },
     {
-      "titulo": "São Paulo 0 x 1 Fluminense | Campeonato Brasileiro: melhores momentos - ge",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVXhfYjlxRk5DOG0zMXk1ZGFla1lmMFpxVlZpS2xBR09mbGg0QkV0VWtrcFNkREczUVFGd3dZWjNGbmQtMmJEMWZDVHlVZkNEbnJSTEg0Mi1tWTNQSEMtQ29fRXBLNThyc0wwd3JVVG5tYlQ4eE9wRk1sNElOTzZhVjdxRVFJN2xPWG1iUzBvN01rMHA2Tmx5eC1B?oc=5",
-      "data": "20/11 03:18"
+      "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTi0tOFotMzZ3cWNJZUxfcjFmNFRpNnVnd0ozWF92ZjdaSUdmQ3A0bkdCT2hGNGlsdElkYUhnZFQ4RlVoRUVJbWxjY1hJeVpPRDdHRWQ1a0xPVUpZSVFLX2o5NW5MWU9HXzF3a2pEU1ZnUVFybXp3WEFKM3BoT3VUZVpacVVnNUJFdDJHbXFqYnphTWRWc19td0NSYTdRYXB5cWJ5dzhtUF9VZXRRLWpPUG1ZcGpsaFl6TWdMNWU3djVPY3FHaGQ5N1VZTVpIQWFBMjlYd2k5T0VaQdIB6AFBVV95cUxPN1h5bEVGcXkyQkxkSFEwNjVzMG1OTFF6UlpsbTFxSXFwSW1mZFAwUTZJUFZhSlJraVA2Y2hrTmlRRUdlQjlCSjN2Uy1nSUEtX21WYmMtV242bGZhc3dEajJQY3Nkd3RCbXdQQXlxaUlVNldKTjAwZWRhZTVtbGVlVjQtb0pSbVgzOExJaldPbnEyeDVFNWp0RmI3aTNWVE93Sm0yWkN0RGo0LW1VVmFPdENmell4RkZhMXdKR2hfanJSRjJwSk1uN0phSUZtbGY3ZEdpcXk3RUotVFNndEVkajNWY1UzQ3ox?oc=5",
+      "data": "19/11 07:00"
     },
     {
-      "titulo": "São Paulo x Fluminense no Brasileirão: onde assistir, horário e escalação - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOF9oVnhPVnpva2dZcHBmbTByRGc5TE5GUGY2Slc5eDAwVVhzYWtiREVHWXVWWXY4bk1Kc0puZEM1VEdsSDlwM1BOTDc0aHZaNzZqMktianp2U29FYzdrWlhZS2hDLXpUQXM0U1dtQzU0Mk5IeUhkQmtSaW1RajFnaUEtVGxRNzhLR185Ul9JRlVSaWthRWlWYV9OdURxX3Fwd1JqQ3dsNE5OVms0RTE2aUo2UW85Nk3SAbwBQVVfeXFMTWhWSXo1T3lXWlJBY3FvNWZIbkNkSm5iSXFmV2JmZnVoWnJWVlc5X1hDWlVremNnYUxYUXkwNmhGRExGYTRGSzdKZUhteTBSRHRFTHJXU2I5N1pENXJfTjlHNHFKZkRENXBlc2V6Z3B2RkM3MXFQSG5ZTmFiYWdaVFVENXZqTVgtWlRuajJtLTgyUm8zeFVqWXdCSjh2c084Rlc3anZKdWczM19JcE1mTGdwYXd6SGdBYm9Lbjc?oc=5",
-      "data": "19/11 23:30"
+      "titulo": "Fluminense embarca em busca do bicampeonato da Copinha Feminina - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDlNaTlsX2VrOFkwSFJrUV9lTnEtZFlXUGNwM0hxcWVqQUtBTjlkUGFmWjZhQmVXZHBrOVU4R1N5TXRaYVFkN2hIVktnM2FrRVdWNkZtVWs0WDE0ajdiTUt4TTFyS1VJTThSODVOVG1wN0NYZWplTVc4ZGo3bGg5Z0t6Tk0temhCZ0lvdmwwWVdUU1VTeDVfTWN5TjlXTEdXdjJR?oc=5",
+      "data": "23/11 16:30"
     },
     {
-      "titulo": "Black Friday do Sócio Futebol tem desconto de 30% em adesões, renovações e upgrades - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWJmd2M3Nm9DdVRTcmVCTVRxbW03cTgyYTNlV3RiT0NRdXR5U3l4QjF5dUtIVTg4T0lNTmFKMXl5NVhGaXEzcGNickhRaGtlT2hQR1N6WUp3aFJleXREbXV2Rm9VM1F1LW1RNEg3cFpZRV90UlVwMkFDZ3FnSlFaNzFwYmdoNEpNZkR0ZmJ5OFQyLURjY2NDbmRnWjNESEZaQThmaG42MWRsdXllSjFVN1JCR0ZNSmc3VTd3?oc=5",
-      "data": "20/11 15:14"
+      "titulo": "Marcão avalia fase de Hulk, vaiado pela torcida do Fluminense - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamM5b2xRWmZ0cVphaXNsVTgzMGRCR0VUNy1iWHVGTTZHMlU1dXNKd2JjMHlPWEpZcVhVTmtvbEY4U2lSa1doVXRjOWczdWY1WlRuV09maVR5aTRGYXR3WElGa2ZFM1VoSEMyVmRPUjBGRXVteW1pMWNhVVoyUHVZeUkxTlU0YUl1SmplX1Q3OUdERkhFTlVaTW5heDdkXy1NSTEw?oc=5",
+      "data": "23/11 14:35"
     }
   ],
   "avisos": [
-    "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
+    "Falha ao buscar futebol na TV: Response status code does not indicate success: 502 (Bad Gateway).",
     "Futebol: mantendo dados do último sucesso."
   ]
 }
