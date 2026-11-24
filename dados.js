@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/11/2026 05:06",
+  "atualizado_em": "24/11/2026 16:53",
   "jogos": [
     {
       "sport": "futebol",
@@ -1152,38 +1152,43 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 31.0,
+      "temp_max": 32.9,
       "temp_min": 24.4,
-      "chance_chuva": 66,
-      "condicao": "Trovoada com granizo"
-    },
-    {
-      "cidade": "Araruama",
-      "temp_max": 30.0,
-      "temp_min": 25.3,
-      "chance_chuva": 66,
-      "condicao": "Garoa fraca"
-    },
-    {
-      "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.4,
-      "temp_min": 20.1,
-      "chance_chuva": 94,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
-      "cidade": "Teresópolis",
+      "cidade": "Araruama",
+      "temp_max": 32.2,
+      "temp_min": 25.5,
+      "chance_chuva": 98,
+      "condicao": "Nublado"
+    },
+    {
+      "cidade": "Itaipava (Petrópolis)",
       "temp_max": 28.3,
-      "temp_min": 19.7,
-      "chance_chuva": 97,
+      "temp_min": 20.0,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
+    },
+    {
+      "cidade": "Teresópolis",
+      "temp_max": 29.1,
+      "temp_min": 19.6,
+      "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Com gol de Xerém no fim, Fluminense vence o Mirassol no Brasileirão e se aproxima ainda mais da vaga direta na Libertadores - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdEtkZ3I4SnAxM0lfU0I1c0VnWHc2TkpVdmJMMzRuOVp1ckhqM2lHV1dZWmE0SlQ0Mm0za3kxVzlocnFPV0p1Vy0tb1doVk5RNERHYTg1X3RNc21uX0x3WTlmR28yc3kxb3FvQ1p6ZmR4azB1MzhlZGI0WHZfY2x4WFdReUdlV3dWWjFaSHVCRlNoMnBNRzNFeE9FZFd3Z0tfbjg3M29SNlVqZEdSLXlrOVFkRE1aaTkxUFRhYTV1YUdNNFhKa29NR0FCVTBHT3lNdkZIdEJHa3ctbk5UaVRQaXRkTWZPRktxc3lDWmRYbG9qWFBwTFNUUEVhcG1TaFRjTTU4WGgtcURiblI0cldyWWdFZFpCaFFrUXFHVW03RUxLRHNWSlZrbtIBtwJBVV95cUxNY3pzTTdzazQzcHY3VDlxUldqV0QtLTV0c2g4SVFZcTdXWlpvR19FUHgyLVRQSndSZUp6a01obWRJVVppZFJWRTc0WFFvNW85ZUhxY3ZRZWlRZVFaWWs1SThvRGJOQ1NkNXJDYUhzX1ZUaVpXbUF6dWVMT0gwaHlScnZ3LTdDZ1hsM1ZTdVQzbXpMaUVuektJRG5aamtnWXlCWXV1MXR1ZUJPZk8zTVdYNVhHa2xuaGNoSHpjdUVtM0lyb1gtVVdUbExtNkdpOURrNzJlWnF5SlVHSUMxY1h3SWtPRExnQ2NrVmhvMGJhVWFLU2o0Ump0VGNaYnZPNFNCcV8yNkQyWU5MUXJrdHNNTDhiY2NWSGNGUXNIUlkzWVppbXZjLWRncXZkTzZpVWJnYlA1M182Yw?oc=5",
-      "data": "22/11 23:29"
+      "titulo": "Mariliense Duda assina primeiro contrato profissional com o Fluminense - Marília Notícia",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFp5NVhYbGYxQWFxZ19PSXVfWm44aUowbV8ta3lkeV9uR2F5RVNJWnlhR1I1LXJpWGFPRU1RM1VfTUxsTHF0elBtaThOdkhOck1QY2tDZEhQcDcyaW5rZnJZb1N1S1Q4Q2ZrT3U2YVFYWHFXS3Q5MXZsZkpnaEFldExzYmlZYU9KMEp6a05PSFpJdDVLZm81S2RJTDRmTGJmSGd0VFp3bFlUbVYzNG1ZRHJoQXhjZ28?oc=5",
+      "data": "24/11 17:46"
+    },
+    {
+      "titulo": "Fluminense abre conversas para ampliar contrato de Wesley Natã - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcnZGSjRpdkNIbWVpMUR3aG1wWmt4VDFGNzNnTW9Ta04tVTRMU0lmUm81ODhuRkdzeXFCVC1vQ0M3MDYxT1hLWVBzMUgzTXphWmNSSk5udG1DY3duVUFEcUMtel9zQWRiekxVUDNmbEFHWnFSbDNodFktVXBWd2hIeHpZQVNWN1gteVg2YlRtRnVTYnFLeWhSbjhIb3JhSFZvcWZnSURDV0plbmlCcmR1aDhrdHNhV0hMZDU4Yk1nOXNGeW9NOEY5YjR5TzJNdVdTSE5fMXdjUEpvZVVCVTBOdVJ5bG9fTDQ?oc=5",
+      "data": "24/11 15:51"
     },
     {
       "titulo": "Fluminense recebe 68º Encontro da Associação Brasileira de Executivos de Futebol - Fluminense Football Club",
@@ -1191,19 +1196,14 @@ window.PAINEL_DATA = {
       "data": "23/11 22:15"
     },
     {
-      "titulo": "Marcão avalia fase de Hulk, vaiado pela torcida do Fluminense - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamM5b2xRWmZ0cVphaXNsVTgzMGRCR0VUNy1iWHVGTTZHMlU1dXNKd2JjMHlPWEpZcVhVTmtvbEY4U2lSa1doVXRjOWczdWY1WlRuV09maVR5aTRGYXR3WElGa2ZFM1VoSEMyVmRPUjBGRXVteW1pMWNhVVoyUHVZeUkxTlU0YUl1SmplX1Q3OUdERkhFTlVaTW5heDdkXy1NSTEw?oc=5",
-      "data": "23/11 14:35"
+      "titulo": "Vitória do Fluminense faz Corinthians respirar na briga contra o rebaixamento; veja probabilidades - Estadão",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVVvbFZiaU1uc1ZxY0pDRzNETkFWbUdSd0V4NmZSMjJsZmpRU0twQWtjZ3pqUzlFWmFoNW00d1BneTFIR0I0OFg0MjVxOG02ZzFDYUJRZnA4NVFPRUxjUlE1SF8teHR5Y2x0VUZCdjRPVl9NWGlFSVVKSTR2a21TXzdzVVhPbTlsaFRpOTNpdENIZVN3NnhFMEhVSVZqc1Y0S2Vxd0t4bnFseUt0Z0pGUFdBV1FxY25XRTdfcEpXeGtVQktlUTFxZDV4T3Qzbzc2M2FrMk9vcldTdXNGYUJvakxB0gHnAUFVX3lxTFB3Vy1WVjRjeUFldkptNFE3eWtxQ2pERVZrV0g1dnh0U0tEMjdHeEpBRnVIazhrdE54ZEZLaU1CeEk4X3ZMVy1iQmdRM3dNTkZTYS1qMXp4RHduLUNFUC1GNkFRMlN3R0FPTGM4c3RScjNEVWV1WFZMVFhLQTMteDNQczNSenB6WDUwWnVYNTFsckk0NExuWWs5Z2NCMGtrREtxSWprSlRrYnB5WHVMUGNjQTdYVlc1ZWVHQ29ScGZzbEt4TFNvdGcwdW56RFZyNGlyX1h3R2RZdHByQzlYaFpJcnB2cUhNNA?oc=5",
+      "data": "23/11 11:58"
     },
     {
       "titulo": "Riquelme revela pedidos de jogadores por permanência de Thiago Silva - O Dia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0xIZW9qQUJZdk00Z3NhTENXTWVhQ0hpd1ItRFFUeTlfVG9jcnNkTTMxelZQNFMxenRHRHYxblZQd1FKc3IyZm9GWjFhUEJhQU54N04xZldiamhXQUpicGZwVzhKRzAyVkp4cVNUOXViZVRrYU9XWGNXTnNVenh6MmlodlFWX0hQc0lCdzJhWUhPd3ZTa3MzU29YZ0gxTXF6MnhxZG4tTjQweHpkcjJpVVd5cmo2b0E5ZnBuYUFZTXhqMFRYNE9taDdQd9IB0AFBVV95cUxOZU1EclkwQVdLMzlPbmRKSktqM3JzSjZMNDdNRHNLaEJIRWhHVmZLc3hiRm14cnVyOXV5WGVHRjdYczV0cDFubXhLTEJtZEZxWnExN2owRUhmUWVnSkV6YnFBYloyUnU3RFAwSGJPTy0zNzVueWtzU2ZoM1ZiMmFoamgyaDlYeUlBSGx6NGtIVkN4SjdDVnFLeGhXOEVIekx1aWthUGFQeUhwWjJfSkowcTRYWFZNc2Jkc1ZiVmdjWmplSVZMTlRNMHhiclVWaE9K?oc=5",
       "data": "23/11 14:45"
-    },
-    {
-      "titulo": "Fluminense lança Black Friday do Sócio Futebol com 30% de desconto em todos os planos - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnNzaVIwdEVoNjJuVGlxTlBXaWtxN1FMY2FwU0lvMEtaZFU1NXVJODFNWE5NMHpBdk1hbGNUenNmYlpIM0Fpc2FQaEwxNUZHMWhKTkd6cVBMX2NJal91czFoWlB6UmJDdk5wUHU5bXJqdVhwVGZfY1R0NkxmQjBMaEVtQV9QWHhJNzF4d3RkR1VMaW5XRFI5VUNYVmNoUTBPVEFKcVBXRjZ2NW1NNTFZUXVCSHg3NjFTRzZFcmdFdEVoeDlWUDZXcllvMnhScTEyd21QOF81LTQxMzQ?oc=5",
-      "data": "23/11 21:22"
     }
   ],
   "avisos": [
