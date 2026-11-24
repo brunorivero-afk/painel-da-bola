@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "23/11/2026 20:17",
+  "atualizado_em": "24/11/2026 05:06",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,27 +1130,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-23",
-      "time": "18:15",
-      "competition": "Vôlei (SporTV2)",
-      "match": "SESI-Bauru x Norde Vôlei",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-23",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "SESC RJ Flamengo x Osasco",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Fluminense",
@@ -1160,7 +1140,7 @@
     },
     {
       "sport": "volei",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Mackenzie",
@@ -1172,38 +1152,38 @@
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.4,
+      "temp_max": 31.0,
       "temp_min": 24.4,
-      "chance_chuva": 76,
-      "condicao": "Garoa fraca"
+      "chance_chuva": 66,
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 30.2,
-      "temp_min": 25.1,
-      "chance_chuva": 63,
-      "condicao": "Trovoada"
+      "temp_max": 30.0,
+      "temp_min": 25.3,
+      "chance_chuva": 66,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.7,
-      "temp_min": 19.6,
-      "chance_chuva": 97,
+      "temp_max": 27.4,
+      "temp_min": 20.1,
+      "chance_chuva": 94,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.4,
+      "temp_max": 28.3,
       "temp_min": 19.7,
-      "chance_chuva": 99,
+      "chance_chuva": 97,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense x Mirassol: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1UxUjZoZXdrWmZXTHByNm1UQ0hzbmJnMFlrdFhNdVo0SExtRG51QTNrWE1GS3dQTEFPTS1kTjJIazJpV2NsaXJYdDRuU2FPc2VXS3lvQVd2X1diems3OUlibWdsU3ZJTjNfbDJ1Tk40ak05YmliLU5xVkxNNjNXR0FmNDVzMWU4UWoyMkpIdC1ScXBvX0lOYXdRZzNvQzZVSUhWOXlIUXlqOFB4a092YnYyM0d3S1M1T3d2b3Vxc1lmdWt5NXJiRjc4Y0d2a3ljWFN6dkVPSjHSAecBQVVfeXFMTXZrWTNybG9xTG9wMDdiY1R3d0tTT3RzYlNUS053LTJSQnNWZmNRUGxzdFRNRTZkNG9PZ2xwUmE0b3NzV0RtVHV4T3BwdkFEeUJnMzBKTHNJd0tLV2lpZDBoRFZhMXV5Tlp2TXQ5d3ptSmNDTDhqRi1rRGxQbDNxS3RvdFBmdlYwSVVqTVBkVVRzbGFqblczb2JZM0NuMmNoeUtwNjFmWUN4STdoaWRkU0hpSzZqY3Yxd0hZbjdUcVJKdzJ5ekhTZHMyeGdWU293NkJ2X0dKS3IxOVBXV2hZRE1CU3ZBc0pR?oc=5",
-      "data": "22/11 07:00"
+      "titulo": "Com gol de Xerém no fim, Fluminense vence o Mirassol no Brasileirão e se aproxima ainda mais da vaga direta na Libertadores - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdEtkZ3I4SnAxM0lfU0I1c0VnWHc2TkpVdmJMMzRuOVp1ckhqM2lHV1dZWmE0SlQ0Mm0za3kxVzlocnFPV0p1Vy0tb1doVk5RNERHYTg1X3RNc21uX0x3WTlmR28yc3kxb3FvQ1p6ZmR4azB1MzhlZGI0WHZfY2x4WFdReUdlV3dWWjFaSHVCRlNoMnBNRzNFeE9FZFd3Z0tfbjg3M29SNlVqZEdSLXlrOVFkRE1aaTkxUFRhYTV1YUdNNFhKa29NR0FCVTBHT3lNdkZIdEJHa3ctbk5UaVRQaXRkTWZPRktxc3lDWmRYbG9qWFBwTFNUUEVhcG1TaFRjTTU4WGgtcURiblI0cldyWWdFZFpCaFFrUXFHVW03RUxLRHNWSlZrbtIBtwJBVV95cUxNY3pzTTdzazQzcHY3VDlxUldqV0QtLTV0c2g4SVFZcTdXWlpvR19FUHgyLVRQSndSZUp6a01obWRJVVppZFJWRTc0WFFvNW85ZUhxY3ZRZWlRZVFaWWs1SThvRGJOQ1NkNXJDYUhzX1ZUaVpXbUF6dWVMT0gwaHlScnZ3LTdDZ1hsM1ZTdVQzbXpMaUVuektJRG5aamtnWXlCWXV1MXR1ZUJPZk8zTVdYNVhHa2xuaGNoSHpjdUVtM0lyb1gtVVdUbExtNkdpOURrNzJlWnF5SlVHSUMxY1h3SWtPRExnQ2NrVmhvMGJhVWFLU2o0Ump0VGNaYnZPNFNCcV8yNkQyWU5MUXJrdHNNTDhiY2NWSGNGUXNIUlkzWVppbXZjLWRncXZkTzZpVWJnYlA1M182Yw?oc=5",
+      "data": "22/11 23:29"
     },
     {
       "titulo": "Fluminense recebe 68º Encontro da Associação Brasileira de Executivos de Futebol - Fluminense Football Club",
@@ -1211,23 +1191,23 @@
       "data": "23/11 22:15"
     },
     {
-      "titulo": "São Paulo x Fluminense: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTi0tOFotMzZ3cWNJZUxfcjFmNFRpNnVnd0ozWF92ZjdaSUdmQ3A0bkdCT2hGNGlsdElkYUhnZFQ4RlVoRUVJbWxjY1hJeVpPRDdHRWQ1a0xPVUpZSVFLX2o5NW5MWU9HXzF3a2pEU1ZnUVFybXp3WEFKM3BoT3VUZVpacVVnNUJFdDJHbXFqYnphTWRWc19td0NSYTdRYXB5cWJ5dzhtUF9VZXRRLWpPUG1ZcGpsaFl6TWdMNWU3djVPY3FHaGQ5N1VZTVpIQWFBMjlYd2k5T0VaQdIB6AFBVV95cUxPN1h5bEVGcXkyQkxkSFEwNjVzMG1OTFF6UlpsbTFxSXFwSW1mZFAwUTZJUFZhSlJraVA2Y2hrTmlRRUdlQjlCSjN2Uy1nSUEtX21WYmMtV242bGZhc3dEajJQY3Nkd3RCbXdQQXlxaUlVNldKTjAwZWRhZTVtbGVlVjQtb0pSbVgzOExJaldPbnEyeDVFNWp0RmI3aTNWVE93Sm0yWkN0RGo0LW1VVmFPdENmell4RkZhMXdKR2hfanJSRjJwSk1uN0phSUZtbGY3ZEdpcXk3RUotVFNndEVkajNWY1UzQ3ox?oc=5",
-      "data": "19/11 07:00"
-    },
-    {
-      "titulo": "Fluminense embarca em busca do bicampeonato da Copinha Feminina - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDlNaTlsX2VrOFkwSFJrUV9lTnEtZFlXUGNwM0hxcWVqQUtBTjlkUGFmWjZhQmVXZHBrOVU4R1N5TXRaYVFkN2hIVktnM2FrRVdWNkZtVWs0WDE0ajdiTUt4TTFyS1VJTThSODVOVG1wN0NYZWplTVc4ZGo3bGg5Z0t6Tk0temhCZ0lvdmwwWVdUU1VTeDVfTWN5TjlXTEdXdjJR?oc=5",
-      "data": "23/11 16:30"
-    },
-    {
       "titulo": "Marcão avalia fase de Hulk, vaiado pela torcida do Fluminense - LANCE!",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamM5b2xRWmZ0cVphaXNsVTgzMGRCR0VUNy1iWHVGTTZHMlU1dXNKd2JjMHlPWEpZcVhVTmtvbEY4U2lSa1doVXRjOWczdWY1WlRuV09maVR5aTRGYXR3WElGa2ZFM1VoSEMyVmRPUjBGRXVteW1pMWNhVVoyUHVZeUkxTlU0YUl1SmplX1Q3OUdERkhFTlVaTW5heDdkXy1NSTEw?oc=5",
       "data": "23/11 14:35"
+    },
+    {
+      "titulo": "Riquelme revela pedidos de jogadores por permanência de Thiago Silva - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0xIZW9qQUJZdk00Z3NhTENXTWVhQ0hpd1ItRFFUeTlfVG9jcnNkTTMxelZQNFMxenRHRHYxblZQd1FKc3IyZm9GWjFhUEJhQU54N04xZldiamhXQUpicGZwVzhKRzAyVkp4cVNUOXViZVRrYU9XWGNXTnNVenh6MmlodlFWX0hQc0lCdzJhWUhPd3ZTa3MzU29YZ0gxTXF6MnhxZG4tTjQweHpkcjJpVVd5cmo2b0E5ZnBuYUFZTXhqMFRYNE9taDdQd9IB0AFBVV95cUxOZU1EclkwQVdLMzlPbmRKSktqM3JzSjZMNDdNRHNLaEJIRWhHVmZLc3hiRm14cnVyOXV5WGVHRjdYczV0cDFubXhLTEJtZEZxWnExN2owRUhmUWVnSkV6YnFBYloyUnU3RFAwSGJPTy0zNzVueWtzU2ZoM1ZiMmFoamgyaDlYeUlBSGx6NGtIVkN4SjdDVnFLeGhXOEVIekx1aWthUGFQeUhwWjJfSkowcTRYWFZNc2Jkc1ZiVmdjWmplSVZMTlRNMHhiclVWaE9K?oc=5",
+      "data": "23/11 14:45"
+    },
+    {
+      "titulo": "Fluminense lança Black Friday do Sócio Futebol com 30% de desconto em todos os planos - Diário do Rio",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnNzaVIwdEVoNjJuVGlxTlBXaWtxN1FMY2FwU0lvMEtaZFU1NXVJODFNWE5NMHpBdk1hbGNUenNmYlpIM0Fpc2FQaEwxNUZHMWhKTkd6cVBMX2NJal91czFoWlB6UmJDdk5wUHU5bXJqdVhwVGZfY1R0NkxmQjBMaEVtQV9QWHhJNzF4d3RkR1VMaW5XRFI5VUNYVmNoUTBPVEFKcVBXRjZ2NW1NNTFZUXVCSHg3NjFTRzZFcmdFdEVoeDlWUDZXcllvMnhScTEyd21QOF81LTQxMzQ?oc=5",
+      "data": "23/11 21:22"
     }
   ],
   "avisos": [
-    "Falha ao buscar futebol na TV: Response status code does not indicate success: 502 (Bad Gateway).",
+    "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
     "Futebol: mantendo dados do último sucesso."
   ]
 }
