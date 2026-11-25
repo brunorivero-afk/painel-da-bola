@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/11/2026 10:49",
+  "atualizado_em": "25/11/2026 19:54",
   "jogos": [
     {
       "sport": "futebol",
@@ -1192,34 +1192,49 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.9,
-      "temp_min": 24.4,
+      "temp_max": 32.0,
+      "temp_min": 24.9,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada com granizo"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 32.2,
-      "temp_min": 25.5,
-      "chance_chuva": 98,
-      "condicao": "Nublado"
+      "temp_max": 32.4,
+      "temp_min": 24.8,
+      "chance_chuva": 100,
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 28.3,
-      "temp_min": 20.0,
+      "temp_max": 27.4,
+      "temp_min": 20.8,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 29.1,
-      "temp_min": 19.6,
+      "temp_max": 27.3,
+      "temp_min": 20.2,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Fluminense terá dinheiro para repatriar Nino em 2027? Entenda o cenário - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTTdwOTRJcWlUSkRsdVhTNkxFN2R6N3Z6QTRWel9aT1VwSm9xSmFSdWxuNVNvTllTdW1pX1JoMWl4NUdfNEtNSVVWWWZicUdOemZIcG5ublNpRDlNUEYtcG1FLXRBdlZQV3o3b20wWGFBX28xcU1Zc2RRN28yYnQ0WVdhSVA0Rm5JS2JOeWtjcVJnUm1XS3ZRcnlFQWlFUEltNm1lekg5Nk53eG5LSWViZmtkLVRPN2F2amVubXJuNmg2ZzdadmVnV05zV0tyNGx4d0pEcVJ0V0pQdGRIWmFURmxDSUVkY1NveEo1LXhjdw?oc=5",
+      "data": "25/11 18:57"
+    },
+    {
+      "titulo": "Fluminense encaminha renovação de contrato de Germán Cano - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRSRnhoVV9DS1VRZUtCQ1ZXMHFqMkZ0QnFab1VORFhrZFJzYlNLNnYxQUFyQzRQdUhtOE9sQVpEZHRGclFUeTVhLXZaclVHZzZEN0NQWXdCcGZxNENMeEdsUVBTOXpqb2tUV2ZrVDZmYzQwRkU2RzFxbWdXRUhDY1V6OW5KTFNlN1JJeEphcHNfWjVfc21KNGIzSGZyTzQ?oc=5",
+      "data": "25/11 19:16"
+    },
+    {
+      "titulo": "Fluminense anuncia acordo em definitivo por jovem do FC Cincinnati-EUA - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOFZfRUJNNlhzRWJJZ2lGaXJzZzVvdVp5YW1iYTFOZGFpZWxqMVlCa2loT1l4V3k5Sm50bDBBMW9mRFRJbDVVRER5N2xxcEJiOERwOG9XR3JmOHBTOVlwMm1wUXRQa0hJdUs2Z0FyclVzUC03cFktdGRHVFhEblJvUXFvM3pncUIzeDNTM25UNDNIVzRlM19KNEJmYjJIRF9Ydm9uNXU1QjZXN1M0Ny0yOWRwbmh3U2RmTDFNRTZhQVJkVzdVRURGSHk3TGVZQk9pOWNkcmkxOVN1Wjl2aURjdUxzLUw4QW1NN2VObUZGRXphZw?oc=5",
+      "data": "25/11 19:44"
+    },
     {
       "titulo": "Fluminense sonda volante Jair, do Vasco, que está em impasse por renovação - O GLOBO",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHJhdlhEaEpGY1NvbHY5TzVENHJMVEllS2ZjckVoTGltRlNGallsWndiZlBlQnpwcG5IYkVWZUNOdmdKV0EwX1VpWGJaQmVyNG1lOWNnSVlTUzlJRmdrQUNsS0ZwaXQxcWNGZFBNQzdacHVfbTJHWml1RUV1bGtIMDhodlFoVHNSRUV0RExXZEpwY21BNTZPU0JRczZpQ2piUmV3VE9kMUVvUVRCQkQ0aU54SWZBc1lkcFBiVFNvYk5nN0NLQ3VURXRiZXpiZEZudnFUdERaVVZCdUhUUll2SmFuZFbSAfMBQVVfeXFMTmhoRHU2eThzaFpjTTJXcWRTZTl4N29IcDA3OGZueURVVWVhaTNfdkRiNnR1MU81NFdLZ0s1TEY3WkR0aGdzNE9nNmFWeWdHQl9GSEgyX2FLQXRJQ2p6VlpIalNNWU1ma2FQMmhxTG1waXdfSzc3dFpLRHVqYWVhSXR2YTNrX3lGTzN3N01TS3pfRmRpNl82WmZrLVV4dmU5bU9jc2ZQQjVWdDZLRTQ2QjVfanZTeFNzbnRhRk5ZbTdoTTBzWXhVYXZFY3dKMmVTby1KZnBzMVVyZW1zSVVwQzVjaTlFcm1FbTY4VDg0Vnd2a1dB?oc=5",
@@ -1229,29 +1244,10 @@ window.PAINEL_DATA = {
       "titulo": "Fluminense perde para o Praia Clube no tie-break fora de casa pela Superliga Feminina 26/27 - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVll3aUN6S0Vidy1wTUxUY2FLazVwS1ZBa2pjRGsxbnJQSGJaZGRzMHRYaUZOUW9ZV1h5MU4yVjNrVGVNOTJvRC1iRHhSNVNUNG1nZEczdVpQVzM5VVdCdHFzclhaeUdYNHhQcUZGWlRwS3JYUUdCdFJYQVlDVUVYaHFuMXFRd29FREdJRmZDZW5JRVdLOXh5NkZ3eTJZWVJaVDZBOGtQYUY4ZExzZmpVa3FwQXFWQXJKLWd2VVJRY3BqNElySjFhYg?oc=5",
       "data": "25/11 03:53"
-    },
-    {
-      "titulo": "Fluminense dá novo passo em acordo internacional - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFRua1N2eDMzTzdvRmFYWmZTNG9XZ3Q1V2d5TG9ONzlTcmxvSDkwZ25OLTFMVk5RQklmdEwwakNMUk91Z2NucVR1QWNqTlU5ZkZ1cVdqMHdKRWlSUUhGRml6MXpiallWaDZETkp4SjZLX1pvVjRmZUYyVTFtV1kxZjZQa2kwU0Q4cENSS1Qzckh0b2kzajZsWkxXcEtkbXhORU9UZHNTYlZ1bHVRVDY5Ry1sUGxzTHdmb1lJa0k5UkxDeTQ5akt2ZUpoMnpMbXlPcG1CYWdB?oc=5",
-      "data": "24/11 23:16"
-    },
-    {
-      "titulo": "Fluminense apresenta oferta de renovação para Thiago Silva - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWVLbjkyT09OZDdHZDlRNTlmWXhNaDhWV29mTVdyR3o4U19HT1VjMUp3LVBWY1BfMmVBX1BSYkFqdnlMS0R2NWZJcXJCajBBY0EzNE9leEhFOUxRQzFFRGlkbTYxVW9jS2tRUW5QUDBRNnB4aUE0T1A2TU12WEhlWVFJX2s0dDZIS1lpYnA3UTY4cU1qeWhRUk5LR1ZUbUtvTnh2cUJVY2o0ZkU2VGhYSTBvZjZLSTZ4OW9VUmln0gHDAUFVX3lxTFBSd1ZqQzIyWHpFLVVpemVLa09WN2hiU1hpSk05SVZVRXBLTXh1aVdVRGt6eHFyOEFJNDZCS2owNUx5ZEtPM0ltVzVPYkJzc1kzLXlnTGp4TjRreFZyOVRLRHhEOVJUakdHSVBDMWVla29hQTVTVkZicUU4SXBYV1JwQWhtak1RTDZ1ck5UZWVVSjVoUnhnMWhwelduSFBKSlpfbHR3RzdoQlJfT2gtRzlSZnNOSUI1V29KdkktcVVNdlFMSQ?oc=5",
-      "data": "24/11 16:11"
-    },
-    {
-      "titulo": "🔴 AO VIVO: FLAMENGO MARICÁ x FLUMINENSE | CAMPEONATO CARIOCA FEMININO (24/11/26) - flamengo.com.br",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU25zUC1sOWM0anN3R3d6cjdHb3pVMl8wR0toWjhERmNZZUdZY2ZxcU5KUFFqbzZwNG9xVVNpVVpKTjhyaDBkUHB6ajdpeEFpS0hma041ZFA4R0xzV0pzLUtGV1ZETXBqU09aY3hWOV9ZQ1lGNUZDLUFJMWNtczFNaDQ5Vm1uM2pzZlZtd2FRNWRLR3ZyNk1Fb3ZweHpvaEtGWHdWSEhVSG5qU2ZpTXJzRkJQcmNBZw?oc=5",
-      "data": "24/11 20:34"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
-    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
+    "Futebol: mantendo dados do último sucesso."
   ]
 };
