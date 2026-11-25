@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "24/11/2026 16:53",
+  "atualizado_em": "25/11/2026 00:19",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-24",
-      "time": "20:40",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x Fluminense",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "Paulistano Barueri x Mackenzie",
@@ -1181,33 +1171,37 @@ window.PAINEL_DATA = {
   ],
   "noticias": [
     {
-      "titulo": "Mariliense Duda assina primeiro contrato profissional com o Fluminense - Marília Notícia",
+      "titulo": "Fluminense sonda volante Jair, do Vasco, que está em impasse por renovação - O GLOBO",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHJhdlhEaEpGY1NvbHY5TzVENHJMVEllS2ZjckVoTGltRlNGallsWndiZlBlQnpwcG5IYkVWZUNOdmdKV0EwX1VpWGJaQmVyNG1lOWNnSVlTUzlJRmdrQUNsS0ZwaXQxcWNGZFBNQzdacHVfbTJHWml1RUV1bGtIMDhodlFoVHNSRUV0RExXZEpwY21BNTZPU0JRczZpQ2piUmV3VE9kMUVvUVRCQkQ0aU54SWZBc1lkcFBiVFNvYk5nN0NLQ3VURXRiZXpiZEZudnFUdERaVVZCdUhUUll2SmFuZFbSAfMBQVVfeXFMTmhoRHU2eThzaFpjTTJXcWRTZTl4N29IcDA3OGZueURVVWVhaTNfdkRiNnR1MU81NFdLZ0s1TEY3WkR0aGdzNE9nNmFWeWdHQl9GSEgyX2FLQXRJQ2p6VlpIalNNWU1ma2FQMmhxTG1waXdfSzc3dFpLRHVqYWVhSXR2YTNrX3lGTzN3N01TS3pfRmRpNl82WmZrLVV4dmU5bU9jc2ZQQjVWdDZLRTQ2QjVfanZTeFNzbnRhRk5ZbTdoTTBzWXhVYXZFY3dKMmVTby1KZnBzMVVyZW1zSVVwQzVjaTlFcm1FbTY4VDg0Vnd2a1dB?oc=5",
+      "data": "25/11 00:15"
+    },
+    {
+      "titulo": "Fluminense perde para o Praia Clube no tie-break fora de casa pela Superliga Feminina 26/27 - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVll3aUN6S0Vidy1wTUxUY2FLazVwS1ZBa2pjRGsxbnJQSGJaZGRzMHRYaUZOUW9ZV1h5MU4yVjNrVGVNOTJvRC1iRHhSNVNUNG1nZEczdVpQVzM5VVdCdHFzclhaeUdYNHhQcUZGWlRwS3JYUUdCdFJYQVlDVUVYaHFuMXFRd29FREdJRmZDZW5JRVdLOXh5NkZ3eTJZWVJaVDZBOGtQYUY4ZExzZmpVa3FwQXFWQXJKLWd2VVJRY3BqNElySjFhYg?oc=5",
+      "data": "25/11 02:56"
+    },
+    {
+      "titulo": "Fluminense dá novo passo em acordo internacional - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFRua1N2eDMzTzdvRmFYWmZTNG9XZ3Q1V2d5TG9ONzlTcmxvSDkwZ25OLTFMVk5RQklmdEwwakNMUk91Z2NucVR1QWNqTlU5ZkZ1cVdqMHdKRWlSUUhGRml6MXpiallWaDZETkp4SjZLX1pvVjRmZUYyVTFtV1kxZjZQa2kwU0Q4cENSS1Qzckh0b2kzajZsWkxXcEtkbXhORU9UZHNTYlZ1bHVRVDY5Ry1sUGxzTHdmb1lJa0k5UkxDeTQ5akt2ZUpoMnpMbXlPcG1CYWdB?oc=5",
+      "data": "24/11 23:16"
+    },
+    {
+      "titulo": "Mariliense assina 1º contrato profissional com o Fluminense - Marília Notícia",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFp5NVhYbGYxQWFxZ19PSXVfWm44aUowbV8ta3lkeV9uR2F5RVNJWnlhR1I1LXJpWGFPRU1RM1VfTUxsTHF0elBtaThOdkhOck1QY2tDZEhQcDcyaW5rZnJZb1N1S1Q4Q2ZrT3U2YVFYWHFXS3Q5MXZsZkpnaEFldExzYmlZYU9KMEp6a05PSFpJdDVLZm81S2RJTDRmTGJmSGd0VFp3bFlUbVYzNG1ZRHJoQXhjZ28?oc=5",
       "data": "24/11 17:46"
     },
     {
-      "titulo": "Fluminense abre conversas para ampliar contrato de Wesley Natã - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcnZGSjRpdkNIbWVpMUR3aG1wWmt4VDFGNzNnTW9Ta04tVTRMU0lmUm81ODhuRkdzeXFCVC1vQ0M3MDYxT1hLWVBzMUgzTXphWmNSSk5udG1DY3duVUFEcUMtel9zQWRiekxVUDNmbEFHWnFSbDNodFktVXBWd2hIeHpZQVNWN1gteVg2YlRtRnVTYnFLeWhSbjhIb3JhSFZvcWZnSURDV0plbmlCcmR1aDhrdHNhV0hMZDU4Yk1nOXNGeW9NOEY5YjR5TzJNdVdTSE5fMXdjUEpvZVVCVTBOdVJ5bG9fTDQ?oc=5",
-      "data": "24/11 15:51"
-    },
-    {
-      "titulo": "Fluminense recebe 68º Encontro da Associação Brasileira de Executivos de Futebol - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSkdaQ0N6LW5wdVd1T29GYi1wdUVhWUFHc2pmU2JkNzJ3Q1JsSUNPQVAwVzRBX1ExWE5RZ2s5Y2xYTnh2akZIeWR1dEVvVnh4elhoeUZIRFZkNHFXOWNSSTN5NzQ0TU1kRUZtVmNuWTUwek14UXdJUjVmcmRkN3NLdDNNQU5PU0RiLU1yY1FrU3oyX3RiTU1jMzJGMEJDVWZwNzlEMmlSdFc0dG1zVGxIUTF0ZFNmMW9X?oc=5",
-      "data": "23/11 22:15"
-    },
-    {
-      "titulo": "Vitória do Fluminense faz Corinthians respirar na briga contra o rebaixamento; veja probabilidades - Estadão",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVVvbFZiaU1uc1ZxY0pDRzNETkFWbUdSd0V4NmZSMjJsZmpRU0twQWtjZ3pqUzlFWmFoNW00d1BneTFIR0I0OFg0MjVxOG02ZzFDYUJRZnA4NVFPRUxjUlE1SF8teHR5Y2x0VUZCdjRPVl9NWGlFSVVKSTR2a21TXzdzVVhPbTlsaFRpOTNpdENIZVN3NnhFMEhVSVZqc1Y0S2Vxd0t4bnFseUt0Z0pGUFdBV1FxY25XRTdfcEpXeGtVQktlUTFxZDV4T3Qzbzc2M2FrMk9vcldTdXNGYUJvakxB0gHnAUFVX3lxTFB3Vy1WVjRjeUFldkptNFE3eWtxQ2pERVZrV0g1dnh0U0tEMjdHeEpBRnVIazhrdE54ZEZLaU1CeEk4X3ZMVy1iQmdRM3dNTkZTYS1qMXp4RHduLUNFUC1GNkFRMlN3R0FPTGM4c3RScjNEVWV1WFZMVFhLQTMteDNQczNSenB6WDUwWnVYNTFsckk0NExuWWs5Z2NCMGtrREtxSWprSlRrYnB5WHVMUGNjQTdYVlc1ZWVHQ29ScGZzbEt4TFNvdGcwdW56RFZyNGlyX1h3R2RZdHByQzlYaFpJcnB2cUhNNA?oc=5",
-      "data": "23/11 11:58"
-    },
-    {
-      "titulo": "Riquelme revela pedidos de jogadores por permanência de Thiago Silva - O Dia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0xIZW9qQUJZdk00Z3NhTENXTWVhQ0hpd1ItRFFUeTlfVG9jcnNkTTMxelZQNFMxenRHRHYxblZQd1FKc3IyZm9GWjFhUEJhQU54N04xZldiamhXQUpicGZwVzhKRzAyVkp4cVNUOXViZVRrYU9XWGNXTnNVenh6MmlodlFWX0hQc0lCdzJhWUhPd3ZTa3MzU29YZ0gxTXF6MnhxZG4tTjQweHpkcjJpVVd5cmo2b0E5ZnBuYUFZTXhqMFRYNE9taDdQd9IB0AFBVV95cUxOZU1EclkwQVdLMzlPbmRKSktqM3JzSjZMNDdNRHNLaEJIRWhHVmZLc3hiRm14cnVyOXV5WGVHRjdYczV0cDFubXhLTEJtZEZxWnExN2owRUhmUWVnSkV6YnFBYloyUnU3RFAwSGJPTy0zNzVueWtzU2ZoM1ZiMmFoamgyaDlYeUlBSGx6NGtIVkN4SjdDVnFLeGhXOEVIekx1aWthUGFQeUhwWjJfSkowcTRYWFZNc2Jkc1ZiVmdjWmplSVZMTlRNMHhiclVWaE9K?oc=5",
-      "data": "23/11 14:45"
+      "titulo": "🔴 AO VIVO: FLAMENGO MARICÁ x FLUMINENSE | CAMPEONATO CARIOCA FEMININO (24/11/26) - flamengo.com.br",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU25zUC1sOWM0anN3R3d6cjdHb3pVMl8wR0toWjhERmNZZUdZY2ZxcU5KUFFqbzZwNG9xVVNpVVpKTjhyaDBkUHB6ajdpeEFpS0hma041ZFA4R0xzV0pzLUtGV1ZETXBqU09aY3hWOV9ZQ1lGNUZDLUFJMWNtczFNaDQ5Vm1uM2pzZlZtd2FRNWRLR3ZyNk1Fb3ZweHpvaEtGWHdWSEhVSG5qU2ZpTXJzRkJQcmNBZw?oc=5",
+      "data": "24/11 20:34"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar clima de Rio de Janeiro: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Araruama: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Itaipava (Petrópolis): The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.",
+    "Falha ao buscar clima de Teresópolis: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing."
   ]
 };
