@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/11/2026 00:19",
+  "atualizado_em": "25/11/2026 10:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -1137,6 +1137,56 @@ window.PAINEL_DATA = {
       "channels": [
         "SporTV2"
       ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-25",
+      "time": "18:10",
+      "competition": "Vôlei (SporTV2)",
+      "match": "SESI-Bauru x São José",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-25",
+      "time": "20:30",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Cruzeiro x Minas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-25",
+      "time": "15:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Montes Claros x Monte Carmelo",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-25",
+      "time": "18:00",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Guarulhos x Campinas",
+      "channels": [
+        "SporTV2"
+      ]
+    },
+    {
+      "sport": "volei",
+      "date": "2026-11-25",
+      "time": "20:40",
+      "competition": "Vôlei (SporTV2)",
+      "match": "Praia Clube x Fluminense",
+      "channels": [
+        "SporTV2"
+      ]
     }
   ],
   "clima": [
@@ -1178,7 +1228,7 @@ window.PAINEL_DATA = {
     {
       "titulo": "Fluminense perde para o Praia Clube no tie-break fora de casa pela Superliga Feminina 26/27 - Fluminense Football Club",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVll3aUN6S0Vidy1wTUxUY2FLazVwS1ZBa2pjRGsxbnJQSGJaZGRzMHRYaUZOUW9ZV1h5MU4yVjNrVGVNOTJvRC1iRHhSNVNUNG1nZEczdVpQVzM5VVdCdHFzclhaeUdYNHhQcUZGWlRwS3JYUUdCdFJYQVlDVUVYaHFuMXFRd29FREdJRmZDZW5JRVdLOXh5NkZ3eTJZWVJaVDZBOGtQYUY4ZExzZmpVa3FwQXFWQXJKLWd2VVJRY3BqNElySjFhYg?oc=5",
-      "data": "25/11 02:56"
+      "data": "25/11 03:53"
     },
     {
       "titulo": "Fluminense dá novo passo em acordo internacional - Terra",
@@ -1186,9 +1236,9 @@ window.PAINEL_DATA = {
       "data": "24/11 23:16"
     },
     {
-      "titulo": "Mariliense assina 1º contrato profissional com o Fluminense - Marília Notícia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFp5NVhYbGYxQWFxZ19PSXVfWm44aUowbV8ta3lkeV9uR2F5RVNJWnlhR1I1LXJpWGFPRU1RM1VfTUxsTHF0elBtaThOdkhOck1QY2tDZEhQcDcyaW5rZnJZb1N1S1Q4Q2ZrT3U2YVFYWHFXS3Q5MXZsZkpnaEFldExzYmlZYU9KMEp6a05PSFpJdDVLZm81S2RJTDRmTGJmSGd0VFp3bFlUbVYzNG1ZRHJoQXhjZ28?oc=5",
-      "data": "24/11 17:46"
+      "titulo": "Fluminense apresenta oferta de renovação para Thiago Silva - O Dia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWVLbjkyT09OZDdHZDlRNTlmWXhNaDhWV29mTVdyR3o4U19HT1VjMUp3LVBWY1BfMmVBX1BSYkFqdnlMS0R2NWZJcXJCajBBY0EzNE9leEhFOUxRQzFFRGlkbTYxVW9jS2tRUW5QUDBRNnB4aUE0T1A2TU12WEhlWVFJX2s0dDZIS1lpYnA3UTY4cU1qeWhRUk5LR1ZUbUtvTnh2cUJVY2o0ZkU2VGhYSTBvZjZLSTZ4OW9VUmln0gHDAUFVX3lxTFBSd1ZqQzIyWHpFLVVpemVLa09WN2hiU1hpSk05SVZVRXBLTXh1aVdVRGt6eHFyOEFJNDZCS2owNUx5ZEtPM0ltVzVPYkJzc1kzLXlnTGp4TjRreFZyOVRLRHhEOVJUakdHSVBDMWVla29hQTVTVkZicUU4SXBYV1JwQWhtak1RTDZ1ck5UZWVVSjVoUnhnMWhwelduSFBKSlpfbHR3RzdoQlJfT2gtRzlSZnNOSUI1V29KdkktcVVNdlFMSQ?oc=5",
+      "data": "24/11 16:11"
     },
     {
       "titulo": "🔴 AO VIVO: FLAMENGO MARICÁ x FLUMINENSE | CAMPEONATO CARIOCA FEMININO (24/11/26) - flamengo.com.br",
