@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "25/11/2026 19:54",
+  "atualizado_em": "26/11/2026 01:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-25",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Paulistano Barueri x Mackenzie",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "SESI-Bauru x São José",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Minas",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "time": "15:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Monte Carmelo",
@@ -1170,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "time": "18:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Guarulhos x Campinas",
@@ -1180,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Fluminense",
@@ -1192,58 +1182,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 32.0,
-      "temp_min": 24.9,
+      "temp_max": 25.0,
+      "temp_min": 22.9,
       "chance_chuva": 100,
-      "condicao": "Trovoada com granizo"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 32.4,
-      "temp_min": 24.8,
+      "temp_max": 25.7,
+      "temp_min": 23.4,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 27.4,
-      "temp_min": 20.8,
+      "temp_max": 24.6,
+      "temp_min": 17.4,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 27.3,
-      "temp_min": 20.2,
+      "temp_max": 20.8,
+      "temp_min": 15.5,
       "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense terá dinheiro para repatriar Nino em 2027? Entenda o cenário - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTTdwOTRJcWlUSkRsdVhTNkxFN2R6N3Z6QTRWel9aT1VwSm9xSmFSdWxuNVNvTllTdW1pX1JoMWl4NUdfNEtNSVVWWWZicUdOemZIcG5ublNpRDlNUEYtcG1FLXRBdlZQV3o3b20wWGFBX28xcU1Zc2RRN28yYnQ0WVdhSVA0Rm5JS2JOeWtjcVJnUm1XS3ZRcnlFQWlFUEltNm1lekg5Nk53eG5LSWViZmtkLVRPN2F2amVubXJuNmg2ZzdadmVnV05zV0tyNGx4d0pEcVJ0V0pQdGRIWmFURmxDSUVkY1NveEo1LXhjdw?oc=5",
-      "data": "25/11 18:57"
+      "titulo": "Fluminense define futuro de promessa norte-americana após destaque na base - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUhLQms1RlNUUXVDR04zUk51YnFXemdueDdmX29NYzFTNzJMd20xUktiYzQxbmVlTnJKQ3dYNHNCU0NyUWdqaHBSOURZTnYyV2ZfUEk5RlBOZC1VeUJiZ0JIcUhEUHZYQTNGS0htTXJlUUtpRXVpbVlXME1yRjZ5SDhrZHJnNXdRNnY2TXhIaWZpeTVJWW5YYnBzSVNOdVRqU0xSVzJPNGdwNDJlMmItNXc1ZmlEOEE?oc=5",
+      "data": "26/11 00:03"
     },
     {
-      "titulo": "Fluminense encaminha renovação de contrato de Germán Cano - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRSRnhoVV9DS1VRZUtCQ1ZXMHFqMkZ0QnFab1VORFhrZFJzYlNLNnYxQUFyQzRQdUhtOE9sQVpEZHRGclFUeTVhLXZaclVHZzZEN0NQWXdCcGZxNENMeEdsUVBTOXpqb2tUV2ZrVDZmYzQwRkU2RzFxbWdXRUhDY1V6OW5KTFNlN1JJeEphcHNfWjVfc21KNGIzSGZyTzQ?oc=5",
-      "data": "25/11 19:16"
+      "titulo": "Redução salarial e gestão de elenco sem JK: entenda o que fez o Fluminense renovar com Cano - ge",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2tzRHFmNDVHMlhaZnVyNGd0S0NSTkZmNXlxYkFqT1k3UmZvUTBST3k5OUhzTDd5ekhBa1hQMVVaLXo0Y1JBejAweTZsazJoUU5CRDFFeXZUeEFqNjBSbm1pcC1JVnhLcG1ZLTJlSjZzMkJ2ZzBoT3BaaWJRTTh3b2dnc3BFTlhuT3M5QTllZ0taV0ZKN0FxY2loMFh0anRsdmFoNU1SQ0ZIelZqblV2RmdkbmNkM09nc0QtTHFjdkhlMnRRYldLUU4tbzI1WEdFQno2aGRkTXpjVmQ1eFVRVFpucVl3eEh4QkJNdV9rdV9iWEXSAYICQVVfeXFMTXE4QUNBOC16MjVGSTZBWjhNSnBuVklHUjBTU0pucVEyR085Qm02MDRTVDJfdnlucEE2aGd3aEt1aTlra0hCSjVsZ3ZyMHE0SjVqZGs1dVpqZjdMOUlaR0pNZDA2OWxEYk0zNGowclpKQ0l2aUdlMmc0Z0YyR1h3V3l5ZkFkR2Izc1ZfM1B4MjFfV2lWN0YySkZQN21SOS03akFxUkNmRUpEWExWMmstdEJJWUtOeEJnVzlQbUVrZ2ZjQTFQT1c5TnF3SlJTMm5LdHMtVTNwdTFiXzdBV1IwdmtHZjhGby04LU0tTzE5UzR0Q3VacF9RUHZfX3h5UGRwbjVR?oc=5",
+      "data": "25/11 21:46"
     },
     {
-      "titulo": "Fluminense anuncia acordo em definitivo por jovem do FC Cincinnati-EUA - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOFZfRUJNNlhzRWJJZ2lGaXJzZzVvdVp5YW1iYTFOZGFpZWxqMVlCa2loT1l4V3k5Sm50bDBBMW9mRFRJbDVVRER5N2xxcEJiOERwOG9XR3JmOHBTOVlwMm1wUXRQa0hJdUs2Z0FyclVzUC03cFktdGRHVFhEblJvUXFvM3pncUIzeDNTM25UNDNIVzRlM19KNEJmYjJIRF9Ydm9uNXU1QjZXN1M0Ny0yOWRwbmh3U2RmTDFNRTZhQVJkVzdVRURGSHk3TGVZQk9pOWNkcmkxOVN1Wjl2aURjdUxzLUw4QW1NN2VObUZGRXphZw?oc=5",
-      "data": "25/11 19:44"
+      "titulo": "Cruzeiro ganha reforços de peso para duelo com Fluminense; veja as opções de Artur - Rádio Itatiaia",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaGJuOTRhTWlQTjRXME5uWnlhR2xVb29VSmVkUWt0M09sYkNhTmZHWEIzRlQycmpsS1FfM21ES3dIbjNmcTl1UTRmRHo1WWZocTFrbG5pNWw3MWhqTmpod0ZTMVgwRVJpZmhrcGk5LUdhWkdNWk9nSVRORVlGTk5hWVh4V1otMzdRSWpvclpuQ3Z5VFBWUVNGUno0c1hNTDNIWnFJeHFFUWJrNDF0VDNvSy13Tm5veUVVYzlfMW1TQUQ1NWRidVVyeVp6U21NaEhzZWpmVmlfc3B4OUpoSm41dG9PcGNqSG9MbUR1Z3ZfN3lCSnR5QlNrc2N0YzUzQQ?oc=5",
+      "data": "25/11 20:48"
     },
     {
-      "titulo": "Fluminense sonda volante Jair, do Vasco, que está em impasse por renovação - O GLOBO",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOHJhdlhEaEpGY1NvbHY5TzVENHJMVEllS2ZjckVoTGltRlNGallsWndiZlBlQnpwcG5IYkVWZUNOdmdKV0EwX1VpWGJaQmVyNG1lOWNnSVlTUzlJRmdrQUNsS0ZwaXQxcWNGZFBNQzdacHVfbTJHWml1RUV1bGtIMDhodlFoVHNSRUV0RExXZEpwY21BNTZPU0JRczZpQ2piUmV3VE9kMUVvUVRCQkQ0aU54SWZBc1lkcFBiVFNvYk5nN0NLQ3VURXRiZXpiZEZudnFUdERaVVZCdUhUUll2SmFuZFbSAfMBQVVfeXFMTmhoRHU2eThzaFpjTTJXcWRTZTl4N29IcDA3OGZueURVVWVhaTNfdkRiNnR1MU81NFdLZ0s1TEY3WkR0aGdzNE9nNmFWeWdHQl9GSEgyX2FLQXRJQ2p6VlpIalNNWU1ma2FQMmhxTG1waXdfSzc3dFpLRHVqYWVhSXR2YTNrX3lGTzN3N01TS3pfRmRpNl82WmZrLVV4dmU5bU9jc2ZQQjVWdDZLRTQ2QjVfanZTeFNzbnRhRk5ZbTdoTTBzWXhVYXZFY3dKMmVTby1KZnBzMVVyZW1zSVVwQzVjaTlFcm1FbTY4VDg0Vnd2a1dB?oc=5",
-      "data": "25/11 00:15"
+      "titulo": "Titular do Fluminense pode assinar com o Palmeiras - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTl94Ml9feV93T2pBLWhqY3BCcFdkYzNWZlRTUkNCMDlyZ3ZhZ182SnRDOTRpMGVzOG5iMDV4QURVTDk3WnlRNmV3M1VjN1FDTGhWdGFpbjhobTNwcVFaNGJKSG96akNfQ085aDVQb3B2NUd0TFhJbHlsQnZ2a3BfMDh6UkVuN0xKaVpSeW04NzM0Rm05blptbE5aQWt6djUtSmQ5ZW5XWW1fSUV6UW9zdWhiSmViWXFFRnhBdmdxWlJSeFVsMDRSeGdndGF3OTNvTElqS2FrQQ?oc=5",
+      "data": "25/11 23:29"
     },
     {
-      "titulo": "Fluminense perde para o Praia Clube no tie-break fora de casa pela Superliga Feminina 26/27 - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVll3aUN6S0Vidy1wTUxUY2FLazVwS1ZBa2pjRGsxbnJQSGJaZGRzMHRYaUZOUW9ZV1h5MU4yVjNrVGVNOTJvRC1iRHhSNVNUNG1nZEczdVpQVzM5VVdCdHFzclhaeUdYNHhQcUZGWlRwS3JYUUdCdFJYQVlDVUVYaHFuMXFRd29FREdJRmZDZW5JRVdLOXh5NkZ3eTJZWVJaVDZBOGtQYUY4ZExzZmpVa3FwQXFWQXJKLWd2VVJRY3BqNElySjFhYg?oc=5",
-      "data": "25/11 03:53"
+      "titulo": "Fluminense fica na liderança da fase classificatória da Liga Nacional de Polo Aquático - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzUzV2lkSnNiZlRMaHNEekxscDlTUmhCaXRvRW9mb1JFYTlIUnh4RW5GVVRfeEl0QlNpZTE5R1p3Z2hDQ0RqWUJ4T1ZnX3V6b09zM0I5M19EdWk1YkY0LW5VQlRINmtiTVlQTW9fT3YyemJxeUtVQTgxWXU1YjUxOFFpTk5Id1Q1ODNleFpEcHFzRHRiQzFSRHRKUWx2NV8tNXlxaHpGdE93bzNzcDhGLXByY2tjS1JHVVNLQS1ydWxJdw?oc=5",
+      "data": "25/11 21:36"
     }
   ],
   "avisos": [
