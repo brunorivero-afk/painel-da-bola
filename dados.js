@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/11/2026 01:40",
+  "atualizado_em": "26/11/2026 11:40",
   "jogos": [
     {
       "sport": "futebol",
@@ -1183,42 +1183,42 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 25.0,
-      "temp_min": 22.9,
+      "temp_min": 22.8,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.7,
-      "temp_min": 23.4,
+      "temp_max": 25.8,
+      "temp_min": 23.3,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 24.6,
-      "temp_min": 17.4,
+      "temp_max": 23.9,
+      "temp_min": 17.3,
       "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "condicao": "Chuva fraca"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.8,
-      "temp_min": 15.5,
+      "temp_max": 20.7,
+      "temp_min": 15.4,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense define futuro de promessa norte-americana após destaque na base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUhLQms1RlNUUXVDR04zUk51YnFXemdueDdmX29NYzFTNzJMd20xUktiYzQxbmVlTnJKQ3dYNHNCU0NyUWdqaHBSOURZTnYyV2ZfUEk5RlBOZC1VeUJiZ0JIcUhEUHZYQTNGS0htTXJlUUtpRXVpbVlXME1yRjZ5SDhrZHJnNXdRNnY2TXhIaWZpeTVJWW5YYnBzSVNOdVRqU0xSVzJPNGdwNDJlMmItNXc1ZmlEOEE?oc=5",
-      "data": "26/11 00:03"
+      "titulo": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYl9qdXV1WGctVnB1ZXo5R05CMDktRVFiNVk2MThCYWZHOURfSm81NnFCbkY5cWdnYUxqd1A5eG9oNFpEVFJFSHBVUEhyd3I4ZzE1aU5MQzhjV0RQakRyM21NYS04ZTJFVGxYdHMtZDdMUC1IeUZtYVY0WW5KeVJCcm80eFlLRnQwQ0ZBc2JXVm1jTTMwbmphTTgwYnRfR2ttWW5YRWpSMnVWZnBDRndXTG5SSkJyN3h4OFhrMERkaG9xYm5RMzdfQzNyc3lSRC1pSVF3anJhelBKZ25YWHNaZ1pIYXNOMjU1M21idzR3WlhQY09CV3pMdUR3?oc=5",
+      "data": "26/11 13:52"
     },
     {
-      "titulo": "Redução salarial e gestão de elenco sem JK: entenda o que fez o Fluminense renovar com Cano - ge",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPd2tzRHFmNDVHMlhaZnVyNGd0S0NSTkZmNXlxYkFqT1k3UmZvUTBST3k5OUhzTDd5ekhBa1hQMVVaLXo0Y1JBejAweTZsazJoUU5CRDFFeXZUeEFqNjBSbm1pcC1JVnhLcG1ZLTJlSjZzMkJ2ZzBoT3BaaWJRTTh3b2dnc3BFTlhuT3M5QTllZ0taV0ZKN0FxY2loMFh0anRsdmFoNU1SQ0ZIelZqblV2RmdkbmNkM09nc0QtTHFjdkhlMnRRYldLUU4tbzI1WEdFQno2aGRkTXpjVmQ1eFVRVFpucVl3eEh4QkJNdV9rdV9iWEXSAYICQVVfeXFMTXE4QUNBOC16MjVGSTZBWjhNSnBuVklHUjBTU0pucVEyR085Qm02MDRTVDJfdnlucEE2aGd3aEt1aTlra0hCSjVsZ3ZyMHE0SjVqZGs1dVpqZjdMOUlaR0pNZDA2OWxEYk0zNGowclpKQ0l2aUdlMmc0Z0YyR1h3V3l5ZkFkR2Izc1ZfM1B4MjFfV2lWN0YySkZQN21SOS03akFxUkNmRUpEWExWMmstdEJJWUtOeEJnVzlQbUVrZ2ZjQTFQT1c5TnF3SlJTMm5LdHMtVTNwdTFiXzdBV1IwdmtHZjhGby04LU0tTzE5UzR0Q3VacF9RUHZfX3h5UGRwbjVR?oc=5",
-      "data": "25/11 21:46"
+      "titulo": "Copinha 2027: conheça Assis, cidade que vai receber jogos do Fluminense-PI no Grupo 5 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTVQyYXFrNy1Fcm1uQ0FRRGlZQ01mZlZVMWhzMU0tTU83LWZjcFowN3ljQ08xMzZ0YzQ3V1ZPaUlJYzZ2WkozenpJY0o4M1RnUWhObXl4SFJIWjlYOUN1c2FyMGdOUm9USTVSMXJvZTJwWHJtOUpvWXRWZ2pfRXZSSmRSM20yeUExcWVzLXZsM2hLMldzN3o5Y1ZXYUZrdTk5Sk5tR3hOSHlwd1c5YUhZQXl1eTEyNkhWR1VkcUJjTDVfNWh4a1BJUk1qclhIQlNwbnJrOEp4NlRrNU42dmhMOE9xaWdZNjJkdkpCV3VhbVBXdnJZV1IxeTVB0gGIAkFVX3lxTFAzTHR6ZzVlOFBONHg0VE05cDB6bnM4T3FPaDZydVBYcjhpU3phZl9VZzd4eGtkWkxBdVRjZFZ1YkJucklkdXJlMXA5WXgteW1XTm00VlQ2TWZxaF85WjhaZFBOVzgxV1JBcnB0eW10UDVNODBmZzBjSXQtbGl1R09XN2xHZll6dzJYTHE0TnFwUWlRaUNSTjNCRk1leDVjdVhucXNURDBwOWxsS2hYUDBqcTgzelpqTzBCOEY4S1NaNGJUMDBIclFmaXNLQ0hmU0NCSHpTZ2k4M3E5OTZ3QnpqaVNWSkFhd3h4MHBVdDA5UTR4QmVWTzBJal9iNWFPaUxNWDBjY1gwTA?oc=5",
+      "data": "26/11 11:28"
     },
     {
       "titulo": "Cruzeiro ganha reforços de peso para duelo com Fluminense; veja as opções de Artur - Rádio Itatiaia",
@@ -1226,9 +1226,9 @@ window.PAINEL_DATA = {
       "data": "25/11 20:48"
     },
     {
-      "titulo": "Titular do Fluminense pode assinar com o Palmeiras - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTl94Ml9feV93T2pBLWhqY3BCcFdkYzNWZlRTUkNCMDlyZ3ZhZ182SnRDOTRpMGVzOG5iMDV4QURVTDk3WnlRNmV3M1VjN1FDTGhWdGFpbjhobTNwcVFaNGJKSG96akNfQ085aDVQb3B2NUd0TFhJbHlsQnZ2a3BfMDh6UkVuN0xKaVpSeW04NzM0Rm05blptbE5aQWt6djUtSmQ5ZW5XWW1fSUV6UW9zdWhiSmViWXFFRnhBdmdxWlJSeFVsMDRSeGdndGF3OTNvTElqS2FrQQ?oc=5",
-      "data": "25/11 23:29"
+      "titulo": "Fluminense define futuro de promessa norte-americana após destaque na base - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUhLQms1RlNUUXVDR04zUk51YnFXemdueDdmX29NYzFTNzJMd20xUktiYzQxbmVlTnJKQ3dYNHNCU0NyUWdqaHBSOURZTnYyV2ZfUEk5RlBOZC1VeUJiZ0JIcUhEUHZYQTNGS0htTXJlUUtpRXVpbVlXME1yRjZ5SDhrZHJnNXdRNnY2TXhIaWZpeTVJWW5YYnBzSVNOdVRqU0xSVzJPNGdwNDJlMmItNXc1ZmlEOEE?oc=5",
+      "data": "26/11 00:03"
     },
     {
       "titulo": "Fluminense fica na liderança da fase classificatória da Liga Nacional de Polo Aquático - Fluminense Football Club",
