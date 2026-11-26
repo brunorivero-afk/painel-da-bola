@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/11/2026 11:40",
+  "atualizado_em": "26/11/2026 20:26",
   "jogos": [
     {
       "sport": "futebol",
@@ -1182,58 +1182,58 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.0,
-      "temp_min": 22.8,
+      "temp_max": 25.5,
+      "temp_min": 22.9,
       "chance_chuva": 100,
       "condicao": "Trovoada"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.8,
-      "temp_min": 23.3,
+      "temp_max": 25.4,
+      "temp_min": 23.1,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.9,
-      "temp_min": 17.3,
+      "temp_max": 22.9,
+      "temp_min": 17.5,
       "chance_chuva": 100,
       "condicao": "Chuva fraca"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.7,
-      "temp_min": 15.4,
+      "temp_min": 15.6,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Martinelli, do Fluminense, volta ao radar do Palmeiras para 2027 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYl9qdXV1WGctVnB1ZXo5R05CMDktRVFiNVk2MThCYWZHOURfSm81NnFCbkY5cWdnYUxqd1A5eG9oNFpEVFJFSHBVUEhyd3I4ZzE1aU5MQzhjV0RQakRyM21NYS04ZTJFVGxYdHMtZDdMUC1IeUZtYVY0WW5KeVJCcm80eFlLRnQwQ0ZBc2JXVm1jTTMwbmphTTgwYnRfR2ttWW5YRWpSMnVWZnBDRndXTG5SSkJyN3h4OFhrMERkaG9xYm5RMzdfQzNyc3lSRC1pSVF3anJhelBKZ25YWHNaZ1pIYXNOMjU1M21idzR3WlhQY09CV3pMdUR3?oc=5",
-      "data": "26/11 13:52"
+      "titulo": "Alisson é liberado para retornar ao São Paulo e não atua mais pelo Fluminense - ge",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUNrNzhsZFI3Tm45Zmt2cmhOZERpSzV2dUFkcVh3aVBUdkVFQlpBTW56QVAxVEhzdVBwQ1o4Qjc1SWM2MlNCQ3B1dzFTUjNCbUNOTmRJR3FsZlRwUktfdVNzaXU2eGFnOWZYam5fQUgxc1BUaVJ5MmxzYWhVek01YTZYbFE3b2FFVkxoamp5anIxSUlWc3NSWTR1RHA2b3dscTdVd1NOUUJPdDM0NjVMLXpKSmhuQ1FDcGduS0laR3hycEdkaDBvWjdHckdqdG5XcjZ6VEpCSUFTY0V2UlpoT0Rpa3J6WGdod2fSAfgBQVVfeXFMT3ZjVUoyRUEzd01tSzJ0M3JubW5LdlFFSFBsSi15YndKekVMVFNHOWZkWk43QnpDaHhVSjFmV2d4LUkwX3pGX2RVbWNZVkhHbVYyemRPNFZBUzRwSFNQU0ttWU1Gc0Q3bFN1NVZRMldiNUdRS3ptZDlGMlF0SFdkTE5ZbjBrZUNvTnNreEFpekdZUjcxcW9la2RKc0psb25OQUFLbExhVzFKN0hSQ3FOdUY4emRVZi0zZC1jaDh1REJaak9PSkxYam5KTHd1YkFlbEpOS0JpeG9paEpzN04yZk16em54VzdndEczVTlPMDVIVXEtVHBZLWE?oc=5",
+      "data": "26/11 18:49"
     },
     {
-      "titulo": "Copinha 2027: conheça Assis, cidade que vai receber jogos do Fluminense-PI no Grupo 5 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTVQyYXFrNy1Fcm1uQ0FRRGlZQ01mZlZVMWhzMU0tTU83LWZjcFowN3ljQ08xMzZ0YzQ3V1ZPaUlJYzZ2WkozenpJY0o4M1RnUWhObXl4SFJIWjlYOUN1c2FyMGdOUm9USTVSMXJvZTJwWHJtOUpvWXRWZ2pfRXZSSmRSM20yeUExcWVzLXZsM2hLMldzN3o5Y1ZXYUZrdTk5Sk5tR3hOSHlwd1c5YUhZQXl1eTEyNkhWR1VkcUJjTDVfNWh4a1BJUk1qclhIQlNwbnJrOEp4NlRrNU42dmhMOE9xaWdZNjJkdkpCV3VhbVBXdnJZV1IxeTVB0gGIAkFVX3lxTFAzTHR6ZzVlOFBONHg0VE05cDB6bnM4T3FPaDZydVBYcjhpU3phZl9VZzd4eGtkWkxBdVRjZFZ1YkJucklkdXJlMXA5WXgteW1XTm00VlQ2TWZxaF85WjhaZFBOVzgxV1JBcnB0eW10UDVNODBmZzBjSXQtbGl1R09XN2xHZll6dzJYTHE0TnFwUWlRaUNSTjNCRk1leDVjdVhucXNURDBwOWxsS2hYUDBqcTgzelpqTzBCOEY4S1NaNGJUMDBIclFmaXNLQ0hmU0NCSHpTZ2k4M3E5OTZ3QnpqaVNWSkFhd3h4MHBVdDA5UTR4QmVWTzBJal9iNWFPaUxNWDBjY1gwTA?oc=5",
-      "data": "26/11 11:28"
+      "titulo": "Atacante do Fluminense pode aceitar redução salarial para jogar em outro clube - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVFMyMjd5dzEySEZ1XzRlXzQ5bGJ4LUV0NlRkOU13YzRDbDk5Q2JIcEVyQ0JTSFZyVmZULUNHa3JWc3lVUnlwUXBlOTVZTTdkSHhtai1lSG44Ul9xbTJOR2Y1VnVDLWxFWU9PVVJOeWVtUVVtOEt6ZEppYm1pTmE1QTZ2MmV0Vlktal9FcmllXzFDU1g3RUE2N0tyNHBTODdfUlk0NWo5U20xSTV2elZ4bEl4TTctN2Jhd0s2amI0YjI0bHBQNlR2SWJuRFVvTUJQZmR2UHpEbUhpR1prSnM0MGVvOTYxd0pZZGNFeFlYV1k4N3RhenFaMWFQX3V5QQ?oc=5",
+      "data": "26/11 19:43"
     },
     {
-      "titulo": "Cruzeiro ganha reforços de peso para duelo com Fluminense; veja as opções de Artur - Rádio Itatiaia",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaGJuOTRhTWlQTjRXME5uWnlhR2xVb29VSmVkUWt0M09sYkNhTmZHWEIzRlQycmpsS1FfM21ES3dIbjNmcTl1UTRmRHo1WWZocTFrbG5pNWw3MWhqTmpod0ZTMVgwRVJpZmhrcGk5LUdhWkdNWk9nSVRORVlGTk5hWVh4V1otMzdRSWpvclpuQ3Z5VFBWUVNGUno0c1hNTDNIWnFJeHFFUWJrNDF0VDNvSy13Tm5veUVVYzlfMW1TQUQ1NWRidVVyeVp6U21NaEhzZWpmVmlfc3B4OUpoSm41dG9PcGNqSG9MbUR1Z3ZfN3lCSnR5QlNrc2N0YzUzQQ?oc=5",
-      "data": "25/11 20:48"
+      "titulo": "Fluminense x Cruzeiro: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmJhbkJYbzJnMGFXaVIwNEpKdnVkZElNdjNaQzBLcWhzWHB6NnU3Tk0tTVF0WXV6MEt0UFRtZmtOcWZuc2tyamtKTnNGMmxjSzZydmhEZmNqeWZBUERVQ2ZUcWtDTHQ3U19BRVVuZ3RiWmhjSklDQnN4TW9OVFlVU0oyTDVmd2Y4RDl6WFRYRHdkQ3lCM2R0V2ZRZmZoVHUteS1hc3hFd1NhRGlaeHhMUThva1ByNGdHcU1pVFRrbDJWX1pRblhtMGQySEcwSVltM0VybGFoa3oza3VpUUlaVV9OZkpMaC1DMmZ3NnVtVk5YNHJF?oc=5",
+      "data": "26/11 21:58"
     },
     {
-      "titulo": "Fluminense define futuro de promessa norte-americana após destaque na base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUhLQms1RlNUUXVDR04zUk51YnFXemdueDdmX29NYzFTNzJMd20xUktiYzQxbmVlTnJKQ3dYNHNCU0NyUWdqaHBSOURZTnYyV2ZfUEk5RlBOZC1VeUJiZ0JIcUhEUHZYQTNGS0htTXJlUUtpRXVpbVlXME1yRjZ5SDhrZHJnNXdRNnY2TXhIaWZpeTVJWW5YYnBzSVNOdVRqU0xSVzJPNGdwNDJlMmItNXc1ZmlEOEE?oc=5",
-      "data": "26/11 00:03"
+      "titulo": "Contra o Cruzeiro, Fluminense pode chegar a 1 milhão de torcedores no Maracanã em 2026 - ge",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZDUxV1RrcUpPdlZDck5xN1Q3dGRGeWJ3YmxITFV5MFdfdVFxaDlhcVRpTnJ2OUtOaTd3V3lwVHJ0ckxqa0EwbWRXX1R2VFNPbW5fcHhMTXJydEJzamk2SXM2N3VDU1NjTGhSZHM3N2RGSW5IWU40OGJNOE9Ja2pKRld5U0JhbGdqUnRpTkxfZ0V4WEVLdVN1bmxFZEpva1VjXzRUNU1wNmdjbTFBaG9fbUJqR29aeEpGMGNNN1NQRXl1d2NVTGxjakNJNU1xQlo1aHgtSElQVUx2XzM0YTNyMUoydnktZnZWQnBkbtIB-wFBVV95cUxQM0lPaWhmSU1DOWtvZl9TaUotR2o0VFBDQ0pVZU16V2tlYy1vajlzZndlZV93VFo5NWljSjRTbDVGZEdsMTc4aW1pZjA1bFhoR3YzZERfamczNl96N2g2b0MwQ2xmT3AxRGpNMlBOV1d6S21IaFU2RGdBN0VkWUw4NHM2akdXVzVkUjVyUnZ2enVzVG8td2R0dml2T3pSRXJ2a3ZYUW1reEVTRnRNa0ZKU0c5QkxEQUQtTDVTSnBSUGJrWXNPLUgyRWVoTExEYjU2SkNfTVpOTkh6VUotbGhKS05DMXFENjFVN3JrTjcwLXpHWE9nTnRKMVNNcw?oc=5",
+      "data": "26/11 20:26"
     },
     {
-      "titulo": "Fluminense fica na liderança da fase classificatória da Liga Nacional de Polo Aquático - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbzUzV2lkSnNiZlRMaHNEekxscDlTUmhCaXRvRW9mb1JFYTlIUnh4RW5GVVRfeEl0QlNpZTE5R1p3Z2hDQ0RqWUJ4T1ZnX3V6b09zM0I5M19EdWk1YkY0LW5VQlRINmtiTVlQTW9fT3YyemJxeUtVQTgxWXU1YjUxOFFpTk5Id1Q1ODNleFpEcHFzRHRiQzFSRHRKUWx2NV8tNXlxaHpGdE93bzNzcDhGLXByY2tjS1JHVVNLQS1ydWxJdw?oc=5",
-      "data": "25/11 21:36"
+      "titulo": "Fluminense x Cruzeiro: onde assistir, horário e escalações - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTZyVU50ejEwVUFUYmZ5aUFHeEpMTVYyUmNfLXR2bnNSZUVwOEtQeG5jN1VzT3cyMVk4OWRWa3FOc1ppVWpoSGtlUUdpUE9pb19lWjVZVE9ER1gxU09JNi1JQkRIdlhYa1ZHVXBCUFpMMXotVkxqekIwb1djVTNMbVE4cUFaSWhSMlVzTFIxY1JaTHVMbzdsenRhYUVDa1Jwd1E?oc=5",
+      "data": "26/11 18:45"
     }
   ],
   "avisos": [
