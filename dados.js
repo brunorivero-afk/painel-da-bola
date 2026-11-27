@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "26/11/2026 20:26",
+  "atualizado_em": "27/11/2026 03:25",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,7 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "time": "18:10",
       "competition": "Vôlei (SporTV2)",
       "match": "SESI-Bauru x São José",
@@ -1140,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Minas",
@@ -1150,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "time": "15:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Monte Carmelo",
@@ -1160,7 +1160,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "time": "18:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Guarulhos x Campinas",
@@ -1170,7 +1170,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "time": "20:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Praia Clube x Fluminense",
@@ -1182,31 +1182,31 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.5,
-      "temp_min": 22.9,
-      "chance_chuva": 100,
-      "condicao": "Trovoada"
+      "temp_max": 25.0,
+      "temp_min": 21.6,
+      "chance_chuva": 94,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 25.4,
-      "temp_min": 23.1,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 24.5,
+      "temp_min": 22.2,
+      "chance_chuva": 55,
+      "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.9,
-      "temp_min": 17.5,
-      "chance_chuva": 100,
-      "condicao": "Chuva fraca"
+      "temp_max": 23.2,
+      "temp_min": 16.4,
+      "chance_chuva": 93,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.7,
-      "temp_min": 15.6,
-      "chance_chuva": 100,
-      "condicao": "Pancadas de chuva"
+      "temp_max": 20.6,
+      "temp_min": 15.5,
+      "chance_chuva": 80,
+      "condicao": "Garoa"
     }
   ],
   "noticias": [
@@ -1238,6 +1238,7 @@ window.PAINEL_DATA = {
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso."
+    "Futebol: mantendo dados do último sucesso.",
+    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 429 (Too Many Requests)."
   ]
 };
