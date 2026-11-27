@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/11/2026 03:25",
+  "atualizado_em": "27/11/2026 14:09",
   "jogos": [
     {
       "sport": "futebol",
@@ -1171,9 +1171,9 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-27",
-      "time": "20:40",
+      "time": "18:15",
       "competition": "Vôlei (SporTV2)",
-      "match": "Praia Clube x Fluminense",
+      "match": "Fluminense x Pinheiros",
       "channels": [
         "SporTV2"
       ]
@@ -1182,63 +1182,62 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.0,
-      "temp_min": 21.6,
-      "chance_chuva": 94,
-      "condicao": "Garoa fraca"
+      "temp_max": 25.4,
+      "temp_min": 21.1,
+      "chance_chuva": 100,
+      "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.5,
-      "temp_min": 22.2,
-      "chance_chuva": 55,
+      "temp_max": 24.7,
+      "temp_min": 21.5,
+      "chance_chuva": 51,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 23.2,
-      "temp_min": 16.4,
-      "chance_chuva": 93,
+      "temp_max": 22.6,
+      "temp_min": 16.1,
+      "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
       "temp_max": 20.6,
-      "temp_min": 15.5,
-      "chance_chuva": 80,
-      "condicao": "Garoa"
+      "temp_min": 14.8,
+      "chance_chuva": 100,
+      "condicao": "Garoa forte"
     }
   ],
   "noticias": [
     {
-      "titulo": "Alisson é liberado para retornar ao São Paulo e não atua mais pelo Fluminense - ge",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORUNrNzhsZFI3Tm45Zmt2cmhOZERpSzV2dUFkcVh3aVBUdkVFQlpBTW56QVAxVEhzdVBwQ1o4Qjc1SWM2MlNCQ3B1dzFTUjNCbUNOTmRJR3FsZlRwUktfdVNzaXU2eGFnOWZYam5fQUgxc1BUaVJ5MmxzYWhVek01YTZYbFE3b2FFVkxoamp5anIxSUlWc3NSWTR1RHA2b3dscTdVd1NOUUJPdDM0NjVMLXpKSmhuQ1FDcGduS0laR3hycEdkaDBvWjdHckdqdG5XcjZ6VEpCSUFTY0V2UlpoT0Rpa3J6WGdod2fSAfgBQVVfeXFMT3ZjVUoyRUEzd01tSzJ0M3JubW5LdlFFSFBsSi15YndKekVMVFNHOWZkWk43QnpDaHhVSjFmV2d4LUkwX3pGX2RVbWNZVkhHbVYyemRPNFZBUzRwSFNQU0ttWU1Gc0Q3bFN1NVZRMldiNUdRS3ptZDlGMlF0SFdkTE5ZbjBrZUNvTnNreEFpekdZUjcxcW9la2RKc0psb25OQUFLbExhVzFKN0hSQ3FOdUY4emRVZi0zZC1jaDh1REJaak9PSkxYam5KTHd1YkFlbEpOS0JpeG9paEpzN04yZk16em54VzdndEczVTlPMDVIVXEtVHBZLWE?oc=5",
-      "data": "26/11 18:49"
+      "titulo": "Fluminense contrata volante mexicano da MLS - Diário do Rio",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODFRSGhtMHhzNk9UQlJRVUItbnVZYW5ZOGlHNEtleVJsYmNSTGNTSjhEdDN1NzltdDFfTEhzRXhsRzVBN0doSG40LXpWR2JaQ05TcmZrUG5ld1p3RnFPYkNrRDRhd1I2TkZPTXpIV3ExY2E3dHQwenpmR1pWTWxveWpLOUEyVEFVOWVjRmlOMV9vdFlFclM3UFdkdUhjdllXbUwxOQ?oc=5",
+      "data": "26/11 17:02"
     },
     {
-      "titulo": "Atacante do Fluminense pode aceitar redução salarial para jogar em outro clube - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVFMyMjd5dzEySEZ1XzRlXzQ5bGJ4LUV0NlRkOU13YzRDbDk5Q2JIcEVyQ0JTSFZyVmZULUNHa3JWc3lVUnlwUXBlOTVZTTdkSHhtai1lSG44Ul9xbTJOR2Y1VnVDLWxFWU9PVVJOeWVtUVVtOEt6ZEppYm1pTmE1QTZ2MmV0Vlktal9FcmllXzFDU1g3RUE2N0tyNHBTODdfUlk0NWo5U20xSTV2elZ4bEl4TTctN2Jhd0s2amI0YjI0bHBQNlR2SWJuRFVvTUJQZmR2UHpEbUhpR1prSnM0MGVvOTYxd0pZZGNFeFlYV1k4N3RhenFaMWFQX3V5QQ?oc=5",
-      "data": "26/11 19:43"
+      "titulo": "Fluminense compra volante e assina contrato até 2028 - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVhfSjFVMVdVV0xtT05sVzdUVVVXRmh6RVN4VTdIVTNiamwwc1dlZS1UVXV1X2RyeldfTGpLdXZqd3VMcEROUk9KeHBYR2JUSEFQQzZyRzAydzJKck8xU0lWZnpwanFLRUJKcllGa2dUMXFkbXhubWdiZGtNWXM2QlBXZ3pMU3ZkTlZEcjJnTXhHZVlVek5XZEgyOFJtQXdjZ056M1JlRmowYU8yazNiSlFjc2duUlF4YnRpRWI1Q2NxX1JDVkFXWFd3SGhvVzdOVWZlM25LdXNiMEk?oc=5",
+      "data": "27/11 14:40"
     },
     {
-      "titulo": "Fluminense x Cruzeiro: onde assistir ao vivo, horário, palpite e prováveis escalações do jogo do Brasileirão - ESPN Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmJhbkJYbzJnMGFXaVIwNEpKdnVkZElNdjNaQzBLcWhzWHB6NnU3Tk0tTVF0WXV6MEt0UFRtZmtOcWZuc2tyamtKTnNGMmxjSzZydmhEZmNqeWZBUERVQ2ZUcWtDTHQ3U19BRVVuZ3RiWmhjSklDQnN4TW9OVFlVU0oyTDVmd2Y4RDl6WFRYRHdkQ3lCM2R0V2ZRZmZoVHUteS1hc3hFd1NhRGlaeHhMUThva1ByNGdHcU1pVFRrbDJWX1pRblhtMGQySEcwSVltM0VybGFoa3oza3VpUUlaVV9OZkpMaC1DMmZ3NnVtVk5YNHJF?oc=5",
-      "data": "26/11 21:58"
+      "titulo": "Fluminense define futuro de promessa norte-americana após destaque na base - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUhLQms1RlNUUXVDR04zUk51YnFXemdueDdmX29NYzFTNzJMd20xUktiYzQxbmVlTnJKQ3dYNHNCU0NyUWdqaHBSOURZTnYyV2ZfUEk5RlBOZC1VeUJiZ0JIcUhEUHZYQTNGS0htTXJlUUtpRXVpbVlXME1yRjZ5SDhrZHJnNXdRNnY2TXhIaWZpeTVJWW5YYnBzSVNOdVRqU0xSVzJPNGdwNDJlMmItNXc1ZmlEOEE?oc=5",
+      "data": "26/11 00:03"
     },
     {
-      "titulo": "Contra o Cruzeiro, Fluminense pode chegar a 1 milhão de torcedores no Maracanã em 2026 - ge",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZDUxV1RrcUpPdlZDck5xN1Q3dGRGeWJ3YmxITFV5MFdfdVFxaDlhcVRpTnJ2OUtOaTd3V3lwVHJ0ckxqa0EwbWRXX1R2VFNPbW5fcHhMTXJydEJzamk2SXM2N3VDU1NjTGhSZHM3N2RGSW5IWU40OGJNOE9Ja2pKRld5U0JhbGdqUnRpTkxfZ0V4WEVLdVN1bmxFZEpva1VjXzRUNU1wNmdjbTFBaG9fbUJqR29aeEpGMGNNN1NQRXl1d2NVTGxjakNJNU1xQlo1aHgtSElQVUx2XzM0YTNyMUoydnktZnZWQnBkbtIB-wFBVV95cUxQM0lPaWhmSU1DOWtvZl9TaUotR2o0VFBDQ0pVZU16V2tlYy1vajlzZndlZV93VFo5NWljSjRTbDVGZEdsMTc4aW1pZjA1bFhoR3YzZERfamczNl96N2g2b0MwQ2xmT3AxRGpNMlBOV1d6S21IaFU2RGdBN0VkWUw4NHM2akdXVzVkUjVyUnZ2enVzVG8td2R0dml2T3pSRXJ2a3ZYUW1reEVTRnRNa0ZKU0c5QkxEQUQtTDVTSnBSUGJrWXNPLUgyRWVoTExEYjU2SkNfTVpOTkh6VUotbGhKS05DMXFENjFVN3JrTjcwLXpHWE9nTnRKMVNNcw?oc=5",
-      "data": "26/11 20:26"
+      "titulo": "Fluminense x Cruzeiro: onde assistir ao vivo, horário e escalações - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOemxGVHVTY09wVlFMQUZxNl84a3hIVHRlQjlpVU5xbi1UQ2ZlUERsRUhGeU5PT1dSckh5bDlxOHdoTmFMS0NkRktqVDhfVmo5RG8zQVF6WFBfZm1CVnd3MjdyU0tXUnMzVWxJRk5HWG43OUQ0WEVVcnJDWHFaVWVYNXRqQ3FFUU54eGNJZThwZk9nTW9jdDhWUHlULXBrRUxyaUlFcE52czQweXZIUnZ6UEVIRXptUWZicXhNNVNHc1hTclVBSTZoYU43MjRYMnhZS0VNVUZreFrSAecBQVVfeXFMT3Q0Z2o0NE9NQ0lnTGRUSkpYamVJQk5XSEM4TDdsVDBjbzlGTnlMNXhFbDk2Nm4wdTZTMXZGT3lDdldHRzhreW5WeExvUFdMWmRyaDE3WnoyV0Yta29ZMkdsM3JQQUtWX1VfSkE0cXNMZ2ttQmJkNFgtV2s5M0xnQ0pSXzNocFRhM2tUX1I3N3dLZWNsLXJmUVJsXzVBMjdfbkx2ZndXUGdKT01UWW8wakYxMGZlb2hYcndFNllnU3Bud0gxYmJZVEVnNEc0RVRVX2ZzdVhtQXdaZmpBLU9tRnNobXFwN24w?oc=5",
+      "data": "27/11 06:00"
     },
     {
-      "titulo": "Fluminense x Cruzeiro: onde assistir, horário e escalações - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTZyVU50ejEwVUFUYmZ5aUFHeEpMTVYyUmNfLXR2bnNSZUVwOEtQeG5jN1VzT3cyMVk4OWRWa3FOc1ppVWpoSGtlUUdpUE9pb19lWjVZVE9ER1gxU09JNi1JQkRIdlhYa1ZHVXBCUFpMMXotVkxqekIwb1djVTNMbVE4cUFaSWhSMlVzTFIxY1JaTHVMbzdsenRhYUVDa1Jwd1E?oc=5",
-      "data": "26/11 18:45"
+      "titulo": "Fluminense vence o Criciúma pela segunda rodada da Copinha Feminina - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFlaSWpvMno2ZlN5T1lDSjlDWmZvdG42MzVaeUUxTFdMdkxPczJISDNWWERkY2s4Z0FrOTBXUk5YOC1GNVFPSDFaQWgwUTJkRWh4NlFZdjBYOW8tblBleVhHbzNMMk9sYmNCdzJQYmlPZjVWay1OZGxRRkRGU0ZYOUQ3RGNHeGZaWUFjQkJTcnluNFNFVHdMQUN4dWVyUFFjbVc4aFFTRHg?oc=5",
+      "data": "27/11 16:29"
     }
   ],
   "avisos": [
     "Falha ao buscar futebol na TV: Nenhum jogo de futebol encontrado no HTML (o site pode ter mudado de layout).",
-    "Futebol: mantendo dados do último sucesso.",
-    "Falha ao buscar notícias do Fluminense: Response status code does not indicate success: 429 (Too Many Requests)."
+    "Futebol: mantendo dados do último sucesso."
   ]
 };
