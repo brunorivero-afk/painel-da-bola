@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/11/2026 14:09",
+  "atualizado_em": "27/11/2026 21:59",
   "jogos": [
     {
       "sport": "futebol",
@@ -1131,16 +1131,6 @@ window.PAINEL_DATA = {
     {
       "sport": "volei",
       "date": "2026-11-27",
-      "time": "18:10",
-      "competition": "Vôlei (SporTV2)",
-      "match": "SESI-Bauru x São José",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-27",
       "time": "20:30",
       "competition": "Vôlei (SporTV2)",
       "match": "Cruzeiro x Minas",
@@ -1183,47 +1173,47 @@ window.PAINEL_DATA = {
     {
       "cidade": "Rio de Janeiro",
       "temp_max": 25.4,
-      "temp_min": 21.1,
+      "temp_min": 20.9,
       "chance_chuva": 100,
       "condicao": "Garoa"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.7,
-      "temp_min": 21.5,
-      "chance_chuva": 51,
+      "temp_max": 24.6,
+      "temp_min": 21.0,
+      "chance_chuva": 65,
       "condicao": "Garoa fraca"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 22.6,
-      "temp_min": 16.1,
+      "temp_max": 21.1,
+      "temp_min": 16.2,
       "chance_chuva": 100,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 20.6,
+      "temp_max": 18.5,
       "temp_min": 14.8,
       "chance_chuva": 100,
-      "condicao": "Garoa forte"
+      "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
     {
-      "titulo": "Fluminense contrata volante mexicano da MLS - Diário do Rio",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODFRSGhtMHhzNk9UQlJRVUItbnVZYW5ZOGlHNEtleVJsYmNSTGNTSjhEdDN1NzltdDFfTEhzRXhsRzVBN0doSG40LXpWR2JaQ05TcmZrUG5ld1p3RnFPYkNrRDRhd1I2TkZPTXpIV3ExY2E3dHQwenpmR1pWTWxveWpLOUEyVEFVOWVjRmlOMV9vdFlFclM3UFdkdUhjdllXbUwxOQ?oc=5",
-      "data": "26/11 17:02"
+      "titulo": "Fluminense anuncia renovação de Thiago Silva: 'Vocês pediram e eu fico' - UOL",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNalRxeE5pRnM0UEVvS1pLNUlxX1hQal9YQlFmSWlPeTdfYTVPaklPa2I1UzJyLW9Sc2xVSXo3aFhDRVg3ZGI1aEVMZHJjN3ZKcWZTUVJiVmVURHJKTzFxUlZYNmdGcmZXZTZON2ZJbFJyZUZBT2FvSXBMUVNsVjNtRlBYb1BlOVpIWG04T3JKV3kyY1pqZmsxVHotaXdJN2FKVzhOcy1nNV9mcjhRUzNmR053N2RaMUFNVzhkREVYbjJMbXJLM01JOEcxb0tSWmxLZU5XTFJWVQ?oc=5",
+      "data": "27/11 22:21"
     },
     {
-      "titulo": "Fluminense compra volante e assina contrato até 2028 - Terra",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVhfSjFVMVdVV0xtT05sVzdUVVVXRmh6RVN4VTdIVTNiamwwc1dlZS1UVXV1X2RyeldfTGpLdXZqd3VMcEROUk9KeHBYR2JUSEFQQzZyRzAydzJKck8xU0lWZnpwanFLRUJKcllGa2dUMXFkbXhubWdiZGtNWXM2QlBXZ3pMU3ZkTlZEcjJnTXhHZVlVek5XZEgyOFJtQXdjZ056M1JlRmowYU8yazNiSlFjc2duUlF4YnRpRWI1Q2NxX1JDVkFXWFd3SGhvVzdOVWZlM25LdXNiMEk?oc=5",
-      "data": "27/11 14:40"
+      "titulo": "O Monstro fica! Fluminense renova contrato com Thiago Silva - Fluminense Football Club",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamM5cEJSNW1RT0pRcE94SDlmeUd4S2VyNFd0NTNROHVEYkkwX08tLUJhdnJiM3htQ1dHUTVSVDFVTTdaMUs0WjZLcjJmdFBUVHhLemN1SmxWOGNkLV9LRFpTWENzdkpVM196b2VlZU5pLVc3aDBXRXVGYmczS0dDQ21XeVBncEFXUG5NMnhvX002MDMwQXRxLU9ZLVM?oc=5",
+      "data": "27/11 22:05"
     },
     {
-      "titulo": "Fluminense define futuro de promessa norte-americana após destaque na base - LANCE!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUhLQms1RlNUUXVDR04zUk51YnFXemdueDdmX29NYzFTNzJMd20xUktiYzQxbmVlTnJKQ3dYNHNCU0NyUWdqaHBSOURZTnYyV2ZfUEk5RlBOZC1VeUJiZ0JIcUhEUHZYQTNGS0htTXJlUUtpRXVpbVlXME1yRjZ5SDhrZHJnNXdRNnY2TXhIaWZpeTVJWW5YYnBzSVNOdVRqU0xSVzJPNGdwNDJlMmItNXc1ZmlEOEE?oc=5",
-      "data": "26/11 00:03"
+      "titulo": "Fluminense renova contrato com Thiago Silva até o fim de 2027 - ge",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmlwYmkzWlJSbVpTcV9KcDlySEVTbUlwSWZacFdqdXAtalNOTFRKS1JUZk51ZXg1dU51bDFhRHJsUU5vYlhfWl9wYkcyOTRoUUNsUS12LWVPYWJkYm1UM0VQWm5TdXJYSHRtVWxhVVZCcnhuMVF2VUl3Mlp6cUNsZDRDd1VLbWktQUhBbmxOcjA2ZUZJVkJaLXZaYXpkS1F6dnVOOUMxLUwwU0ZweGpBdnBLUzbSAcMBQVVfeXFMTllyZzZPX3Z4b0ZKcWZPY1pmaExaSFVoM19kMk4yYUUyVGNfazc1SmRtbXpDaGNjdS00bV9Ub2dKTXU4OXdOME1LVTJZWkl5NHQ1elpnSVkxY2dqNmNydFRaMGNjeEhHUVVwNjFLOEQwUUV1YURmRGNhbXBNa0xsSk1xcmFocDdHMWJqSmNHZGNRVEVGMXdlZkdXclh1bVRxQlR1Z1lCajJkVlFodlZ1akxYSGx3SkVaSzlLbUdTalZtWHBR?oc=5",
+      "data": "27/11 22:08"
     },
     {
       "titulo": "Fluminense x Cruzeiro: onde assistir ao vivo, horário e escalações - ge",
@@ -1231,9 +1221,9 @@ window.PAINEL_DATA = {
       "data": "27/11 06:00"
     },
     {
-      "titulo": "Fluminense vence o Criciúma pela segunda rodada da Copinha Feminina - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFlaSWpvMno2ZlN5T1lDSjlDWmZvdG42MzVaeUUxTFdMdkxPczJISDNWWERkY2s4Z0FrOTBXUk5YOC1GNVFPSDFaQWgwUTJkRWh4NlFZdjBYOW8tblBleVhHbzNMMk9sYmNCdzJQYmlPZjVWay1OZGxRRkRGU0ZYOUQ3RGNHeGZaWUFjQkJTcnluNFNFVHdMQUN4dWVyUFFjbVc4aFFTRHg?oc=5",
-      "data": "27/11 16:29"
+      "titulo": "Fluminense abre caminho para possível saída de Kevin Serna - Terra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUJmTEhCRHY2dzJDb0JEZkNrajVYcVI4OUttMk5BVm1Rc1ExZndXc05Ldzk5NGZuLWxEUlhpdUs5SEJJZWF4UEIxZlZaZU5kbkZ0b05FT3lKdG03MWRzRjQtOWI4Y1NUZlhTb09UM0tkTUM4VDRnSVRONzQ1WkZwdmh2RlJvaGNYc2Ruc2RGVUdwZC16Y0ZUUm5pVW1DTWd6ODl1RGJXbDI1MWJfME5IOEhvMXRCdE5jRkZfN0pNZ09nVXNlU3M2VTBKSVlrdG84TUppX2dzdElQMVhOVkRNREswMA?oc=5",
+      "data": "27/11 21:48"
     }
   ],
   "avisos": [
