@@ -1,5 +1,5 @@
 window.PAINEL_DATA = {
-  "atualizado_em": "27/11/2026 21:59",
+  "atualizado_em": "28/11/2026 05:49",
   "jogos": [
     {
       "sport": "futebol",
@@ -1130,17 +1130,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-27",
-      "time": "20:30",
-      "competition": "Vôlei (SporTV2)",
-      "match": "Cruzeiro x Minas",
-      "channels": [
-        "SporTV2"
-      ]
-    },
-    {
-      "sport": "volei",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "time": "15:40",
       "competition": "Vôlei (SporTV2)",
       "match": "Montes Claros x Monte Carmelo",
@@ -1150,7 +1140,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "time": "18:00",
       "competition": "Vôlei (SporTV2)",
       "match": "Guarulhos x Campinas",
@@ -1160,7 +1150,7 @@ window.PAINEL_DATA = {
     },
     {
       "sport": "volei",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "time": "18:15",
       "competition": "Vôlei (SporTV2)",
       "match": "Fluminense x Pinheiros",
@@ -1172,53 +1162,53 @@ window.PAINEL_DATA = {
   "clima": [
     {
       "cidade": "Rio de Janeiro",
-      "temp_max": 25.4,
-      "temp_min": 20.9,
-      "chance_chuva": 100,
-      "condicao": "Garoa"
+      "temp_max": 26.4,
+      "temp_min": 20.5,
+      "chance_chuva": 96,
+      "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Araruama",
-      "temp_max": 24.6,
-      "temp_min": 21.0,
-      "chance_chuva": 65,
-      "condicao": "Garoa fraca"
+      "temp_max": 25.4,
+      "temp_min": 20.7,
+      "chance_chuva": 86,
+      "condicao": "Garoa forte"
     },
     {
       "cidade": "Itaipava (Petrópolis)",
-      "temp_max": 21.1,
-      "temp_min": 16.2,
-      "chance_chuva": 100,
+      "temp_max": 23.1,
+      "temp_min": 15.6,
+      "chance_chuva": 98,
       "condicao": "Pancadas de chuva"
     },
     {
       "cidade": "Teresópolis",
-      "temp_max": 18.5,
-      "temp_min": 14.8,
-      "chance_chuva": 100,
+      "temp_max": 23.7,
+      "temp_min": 15.2,
+      "chance_chuva": 98,
       "condicao": "Pancadas de chuva"
     }
   ],
   "noticias": [
+    {
+      "titulo": "Cruzeiro vence o Fluminense no Maracanã e garante terceiro lugar do Brasileirão - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObXBua0lrU0ZlZFJ1V2c0c20xVXNlSlRUb184d3dSZmJOTGhVMTZTOXFzU2U3T1lsbW1rbks3clpkdFVnYXJmc096c2F6S0pscndabm04UVFRaEpEX1hRTUZ4RjN1SElhMFFlTVdvYjFhNDlXS09aUnhfQy1Zb2dxZkhYVkRaeWdfajR5cG5qTUZUbXc5Sm5tQ3h3RlFRVmU0ZFc4aHh3?oc=5",
+      "data": "27/11 22:05"
+    },
+    {
+      "titulo": "Ganso recusa primeira proposta do Fluminense, e renovação fica distante - ge",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVVhVWU0N2tUUUNmSGtpbE9tUmJEZnhGOTFEdzRIYW1Wc2E3TUlQSTRzbnU4cFV2andyLW03d0IwcktEVXBBRldud1JLS2R0ejNKbzVDZFJQMFlUd2x2bmVXaFMxeEdNcUtaYWpiajNESk82STM2LUVxWkdXblFPS0xwdkFkNEJUTDA4eF9EZzlXdzdDQXc0SlpCMHU3aVZ5VGFlaHVMYXZBUXVReU92djdsYjczZUM5cTQ0S2MzLTJYYWZ3TkFvLVBUekt1cnRXT1hnZWRaNjDSAecBQVVfeXFMTlF5SkZsVGJpNFNVRnBvcGNEZ01kZUJpS1p5LXdZSlhaeFEwOFZXZGdOek9fU3h0eW1yYWQwMkpQRmotV3cxUDh1VUJqNTgyTkJyZFhqeU4zNFFpeUxORlhRNDlaOGd0VFJlSkJSZnZjbHZPV3RCOXlISUJENm5jdG5HMHFSaGdoSktiallMUWoxZUZnSDUzeHM2NWVoSlozZnRuRWViSDVZM2ZONGVQTVAyVURKWXhsQ19CNEFkX3VPV2hpdExNODdjS0tBTmJmcnBYd2lsNU94X0oyRlRBUkFkeUxjMFBz?oc=5",
+      "data": "28/11 07:00"
+    },
     {
       "titulo": "Fluminense anuncia renovação de Thiago Silva: 'Vocês pediram e eu fico' - UOL",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNalRxeE5pRnM0UEVvS1pLNUlxX1hQal9YQlFmSWlPeTdfYTVPaklPa2I1UzJyLW9Sc2xVSXo3aFhDRVg3ZGI1aEVMZHJjN3ZKcWZTUVJiVmVURHJKTzFxUlZYNmdGcmZXZTZON2ZJbFJyZUZBT2FvSXBMUVNsVjNtRlBYb1BlOVpIWG04T3JKV3kyY1pqZmsxVHotaXdJN2FKVzhOcy1nNV9mcjhRUzNmR053N2RaMUFNVzhkREVYbjJMbXJLM01JOEcxb0tSWmxLZU5XTFJWVQ?oc=5",
       "data": "27/11 22:21"
     },
     {
-      "titulo": "O Monstro fica! Fluminense renova contrato com Thiago Silva - Fluminense Football Club",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamM5cEJSNW1RT0pRcE94SDlmeUd4S2VyNFd0NTNROHVEYkkwX08tLUJhdnJiM3htQ1dHUTVSVDFVTTdaMUs0WjZLcjJmdFBUVHhLemN1SmxWOGNkLV9LRFpTWENzdkpVM196b2VlZU5pLVc3aDBXRXVGYmczS0dDQ21XeVBncEFXUG5NMnhvX002MDMwQXRxLU9ZLVM?oc=5",
-      "data": "27/11 22:05"
-    },
-    {
-      "titulo": "Fluminense renova contrato com Thiago Silva até o fim de 2027 - ge",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmlwYmkzWlJSbVpTcV9KcDlySEVTbUlwSWZacFdqdXAtalNOTFRKS1JUZk51ZXg1dU51bDFhRHJsUU5vYlhfWl9wYkcyOTRoUUNsUS12LWVPYWJkYm1UM0VQWm5TdXJYSHRtVWxhVVZCcnhuMVF2VUl3Mlp6cUNsZDRDd1VLbWktQUhBbmxOcjA2ZUZJVkJaLXZaYXpkS1F6dnVOOUMxLUwwU0ZweGpBdnBLUzbSAcMBQVVfeXFMTllyZzZPX3Z4b0ZKcWZPY1pmaExaSFVoM19kMk4yYUUyVGNfazc1SmRtbXpDaGNjdS00bV9Ub2dKTXU4OXdOME1LVTJZWkl5NHQ1elpnSVkxY2dqNmNydFRaMGNjeEhHUVVwNjFLOEQwUUV1YURmRGNhbXBNa0xsSk1xcmFocDdHMWJqSmNHZGNRVEVGMXdlZkdXclh1bVRxQlR1Z1lCajJkVlFodlZ1akxYSGx3SkVaSzlLbUdTalZtWHBR?oc=5",
-      "data": "27/11 22:08"
-    },
-    {
-      "titulo": "Fluminense x Cruzeiro: onde assistir ao vivo, horário e escalações - ge",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOemxGVHVTY09wVlFMQUZxNl84a3hIVHRlQjlpVU5xbi1UQ2ZlUERsRUhGeU5PT1dSckh5bDlxOHdoTmFMS0NkRktqVDhfVmo5RG8zQVF6WFBfZm1CVnd3MjdyU0tXUnMzVWxJRk5HWG43OUQ0WEVVcnJDWHFaVWVYNXRqQ3FFUU54eGNJZThwZk9nTW9jdDhWUHlULXBrRUxyaUlFcE52czQweXZIUnZ6UEVIRXptUWZicXhNNVNHc1hTclVBSTZoYU43MjRYMnhZS0VNVUZreFrSAecBQVVfeXFMT3Q0Z2o0NE9NQ0lnTGRUSkpYamVJQk5XSEM4TDdsVDBjbzlGTnlMNXhFbDk2Nm4wdTZTMXZGT3lDdldHRzhreW5WeExvUFdMWmRyaDE3WnoyV0Yta29ZMkdsM3JQQUtWX1VfSkE0cXNMZ2ttQmJkNFgtV2s5M0xnQ0pSXzNocFRhM2tUX1I3N3dLZWNsLXJmUVJsXzVBMjdfbkx2ZndXUGdKT01UWW8wakYxMGZlb2hYcndFNllnU3Bud0gxYmJZVEVnNEc0RVRVX2ZzdVhtQXdaZmpBLU9tRnNobXFwN24w?oc=5",
-      "data": "27/11 06:00"
+      "titulo": "Hulk critica torcedores do Fluminense: 'Nunca vi isso na minha vida' - LANCE!",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa3RmdjJUaTVLbVJMc19XXzBaN2FKS0owRTdYV2lMNnkxa1hoMDVmWUc2dXJBckhzTlViZGk4bFRLbHJTWk1ET1NMSU43NnZaUmJGcFRvVHpfY2dLbHFBb3FyY1NjUnlxNU5CTUZuZVl4ZUxrX2t4LVZfaUpCeWhLMjBiWXNmNnAwSGE0QjVyWjZ1enl1REZmT0VTSUN2SUhvbDVjaDNFVkFOMXc0VmZCTUJzc0FPVTdwV2c?oc=5",
+      "data": "28/11 01:23"
     },
     {
       "titulo": "Fluminense abre caminho para possível saída de Kevin Serna - Terra",
